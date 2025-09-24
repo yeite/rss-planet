@@ -1,6 +1,9 @@
 import feedparser
 from datetime import datetime, timedelta
 import json
+resultados = [...]  # tu lista de posts procesados
+with open("feeds.json", "w", encoding="utf-8") as f:
+    json.dump(resultados, f, ensure_ascii=False, indent=2)
 import time
 from concurrent.futures import ThreadPoolExecutor
 import re
