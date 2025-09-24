@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Instalar Python
+      # 2️⃣ Configurar Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -40,6 +40,7 @@ jobs:
       # 6️⃣ Commit y push solo si hubo cambios
       - name: Subir feeds.json actualizado
         run: |
+          set -e
           git add -f feeds.json
           if ! git diff --cached --quiet; then
             git commit -m "Actualización automática de feeds [ci skip]"
