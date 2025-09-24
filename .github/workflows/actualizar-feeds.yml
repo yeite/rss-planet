@@ -1,5 +1,6 @@
 name: Actualizar Feeds RSS
 
+# Ejecutar cada 12 horas y también manualmente
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -10,26 +11,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Clonar el repo
       - name: Chequear repo
         uses: actions/checkout@v3
 
+      # 2️⃣ Configurar Python
       - name: Configurar Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
+      # 3️⃣ Instalar feedparser
       - name: Instalar feedparser
         run: |
           python -m pip install --upgrade pip
           pip install feedparser
 
+      # 4️⃣ Ejecutar lector.py
       - name: Ejecutar lector.py
         run: python lector.py
 
+      # 5️⃣ Commit y push de feeds.json si hay cambios
       - name: Subir feeds.json actualizado
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add feeds.json
-          git diff --cached --exit-code || git commit -m "Actualización automática de feeds [ci skip]"
-          git diff --cached --exit-code || git push origin main
+          git add -f feeds.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualización automática de feeds [ci skip]"
+            git push origin main
+          else
+            echo "No hay cambios, no se hace commit"
