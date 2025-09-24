@@ -6,5 +6,5 @@ __pycache__/
 *.pyc
 
 # Archivos generados automáticamente
-feeds.json
+git add -f feeds.json
 .DS.Store
