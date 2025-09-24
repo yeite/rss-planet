@@ -4,83 +4,36 @@
   <meta charset="UTF-8">
   <title>¡Blog!¡Blog! RSS</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #1f1f1f;
-      color: #fff;
-      margin: 40px;
-    }
+    body { font-family: Arial, sans-serif; background: #1f1f1f; color: #fff; margin: 40px; }
     h1 { color: #ffcc00; }
-    .item {
-      background: #2c2c2c;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-    }
-    .blog {
-      color: #ffa500;
-      font-size: 0.85em;
-      margin-bottom: 5px;
-      display: block;
-    }
-    .fecha {
-      color: #aaa;
-      font-size: 0.9em;
-      margin-bottom: 5px;
-    }
-    a {
-      color: #4da6ff;
-      text-decoration: none;
-      font-weight: bold;
-    }
+    .item { background: #2c2c2c; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+    .blog { color: #ffa500; font-size: 0.85em; margin-bottom: 5px; display:block; }
+    .fecha { color: #aaa; font-size: 0.9em; margin-bottom: 5px; }
+    a { color: #4da6ff; text-decoration: none; font-weight: bold; }
     a:hover { text-decoration: underline; }
-    .contenido {
-      font-size: 0.95em;
-      color: #ddd;
-    }
-    .error {
-      color: #ff5555;
-      font-weight: bold;
-    }
+    .contenido { font-size: 0.95em; color: #ddd; }
   </style>
 </head>
 <body>
   <h1>📰 Últimos posts de la semana</h1>
   <p>Aquí puedes ver todo lo que estuvieron publicando los blogs del directorio <a href="https://blogsencastellano.wordpress.com">¡Blog!¡Blog!</a> en la semana</p>
-  <br/>
+     <br/>
   <div id="contenedor"></div>
 
   <script>
-    fetch("./feeds.json")
-      .then(res => {
-        if (!res.ok) throw new Error("No se pudo cargar feeds.json");
-        return res.json();
-      })
+    fetch("feeds.json")
+      .then(res => res.json())
       .then(data => {
-        if (!data.length) {
-          document.getElementById("contenedor").innerHTML = "<p class='error'>No hay posts recientes.</p>";
-          return;
-        }
-
         const cont = document.getElementById("contenedor");
-
         data.forEach(item => {
-          // Limpiar contenido de imágenes (por si vienen en summary)
-          const texto = item.contenido.replace(/<img[^>]*>/g, '');
-          
           cont.innerHTML += `
             <div class="item">
               <span class="blog">${item.blog}</span>
               <span class="fecha">${item.fecha}</span>
               <a href="${item.link}" target="_blank">${item.titulo}</a>
-              <p class="contenido">${texto}...</p>
-            </div>
-          `;
+              <p class="contenido">${item.contenido}...</p>
+            </div>`;
         });
-      })
-      .catch(err => {
-        console.error(err);
-        document.getElementById("contenedor").innerHTML = `<p class='error'>Error al cargar los feeds: ${err.message}</p>`;
       });
   </script>
 </body>
