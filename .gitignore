@@ -5,6 +5,3 @@ venv/
 __pycache__/
 *.pyc
 
-# Archivos generados automáticamente
-git add -f feeds.json
-.DS.Store
