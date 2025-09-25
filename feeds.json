@@ -1,5 +1,61 @@
 [
   {
+    "blog": "Adrián Perales",
+    "titulo": "Hablemos de Spiderman",
+    "link": "https://adrianperales.com/2025/09/hablemos-de-spiderman/",
+    "fecha": "25/09/2025",
+    "contenido": "Soy un niño de los 90, y creo que no sorprenderá a nadie si digo que Spiderman es uno de mis superhéroes favoritos. Una aclaración previa No he leído un cómic de Spider-man en mi vida. No soy muy aficionado al formato cómic, y con un personaje con tantísimos años no sabría por dónde empezar [&#8230;"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Cosas que no me gustaban y que resulta que echo de menos",
+    "link": "https://brucknerite.net/2025/09/cosas-que-no-me-gustaban-y-que-resulta-que-echo-de-menos.html",
+    "fecha": "25/09/2025",
+    "contenido": "Hoy, en «Cosas que no me gustaban y que resulta que echo de menos»… Los rankings de charlas Naukas. Veréis. Llevo dando charlas en eventos Naukas desde 2014. Ya ha llovido. Por aquel entonces, y después de cada evento, era relativamente habitual […]"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Limitación de la batería al 80%: conseguido",
+    "link": "https://thecheis.com/2025/09/25/limitacion-de-la-bateria-al-80-conseguido/",
+    "fecha": "25/09/2025",
+    "contenido": "Hace unos meses estuve cacharreando en mi portátil con Arch Linux. Quería mejorar la gestión de energía con algunos modos que ofrece GNOME, y uno de mis objetivos era conseguir la limitación de la carga al 80%. Con esto se pretende alargar la vida útil de la batería, y lo consideraba un buen añadido"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Thunderbird tendrá vista de conversación en los correos de la bandeja",
+    "link": "https://victorhckinthefreeworld.com/2025/09/25/thunderbird-tendra-vista-de-conversacion-en-los-correos-de-la-bandeja/",
+    "fecha": "25/09/2025",
+    "contenido": "El cliente de correo Thunderbird está trabajando para incluir la vista de conversación de manera nativa en su bandeja de entrada"
+  },
+  {
+    "blog": "kernelcast",
+    "titulo": "GitHub refuerza la seguridad de npm tras una oleada de ataques de phishing y malware.",
+    "link": "https://www.kernelcast.es/noticias/2724798_github-refuerza-la-seguridad-de-npm-tras-una-oleada-de-ataques-de-phishing-y-malware",
+    "fecha": "25/09/2025",
+    "contenido": "Septiembre no está siendo precisamente un mes fácil para npm, el registro de paquetes de JavaScript gestionado por GitHub. En las últimas semanas, la plataforma se ha visto sacudida por ataques de phishing dirigidos a desarrolladores y por la aparición de cientos de paquetes infectados con malware d"
+  },
+  {
+    "blog": "Papel Continuo",
+    "titulo": "Canal de Telegram de papel Continuo.",
+    "link": "https://papelcontinuo.net/3384/canal-de-telegram-de-papel-continuo/",
+    "fecha": "25/09/2025",
+    "contenido": "Acabamos de crear un canal de telegram que transmite cómodamente a su teléfono las actualizaciones de este santo blog. El bot está en prácticas, así que les animamos a que se suscriban y nos informen de cualquier desaguisado o desajuste. https://t.me/papelcontinuo Atentamente: el equipo de papel Con"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Cuando la Superintendencia mira hacia otro lado",
+    "link": "https://gatooscuro.xyz/cuando-la-superintendencia-mira-hacia-otro-lado/",
+    "fecha": "25/09/2025",
+    "contenido": "El 14 de mayo de 2025 la Superintendencia de Vigilancia y Seguridad Privada anunció la cancelación de la licencia de funcionamiento de VIPERS Ltda. por graves incumplimientos a la normativa\nSeguir leyendo  Cuando la Superintendencia mira hacia otro lado\nEl cargo Cuando la Superintendencia mira hacia"
+  },
+  {
+    "blog": "blog – matizeta",
+    "titulo": "Esencial",
+    "link": "https://matizeta.com/2025/09/25/esencial/",
+    "fecha": "25/09/2025",
+    "contenido": "Esta pequeña web nació allá por el 2021, de la necesidad de tener un lugar en donde pueda compartir fragmentos de textos con los que me tropezaba y quedaban resonando en mi cabeza. ¿Porqué Esencial? Quizás inspirado por este texto que escribí hace ya algún tiempo, en un momento que estaba agotado me"
+  },
+  {
     "blog": "Blog de Joselito",
     "titulo": "Los móviles de los demás",
     "link": "https://joselito.mataroa.blog/blog/los-moviles-de-los-demas/",
@@ -203,6 +259,13 @@
     "contenido": "Siento que estoy en los 90. La empresa MicroProse, mítica marca de juegos de los 90 creadora de los juegos Railroad Tycoon&#160;y&#160;Civilization, lanzará en poco tiempo un juego políticamente incorrecto llamado Car Park Capital. En este juego de estrategia tendrás que destruir la naturaleza para "
   },
   {
+    "blog": "yejokjanan",
+    "titulo": "Aprende mecanografía con estas tres herramientas",
+    "link": "https://blog.yejokjanan.xyz/aprende-mecanografia-con-estas-tres-herramientas/",
+    "fecha": "21/09/2025",
+    "contenido": "&#xbf;Te gusta practicar mecanograf&#xed;a? Pues te recomiendo 3 herramientas muy buenas para practicar d&#xed;a a d&#xed;a y mejorar la escritura. No importa tu profesi&#xf3;n o lo que sea que hagas, pero si usas un computador es importante saber escribir bien, as&"
+  },
+  {
     "blog": "52s – matizeta",
     "titulo": "#27/25",
     "link": "https://matizeta.com/2025/09/21/27-25/",
@@ -294,13 +357,6 @@
     "contenido": "El equipo detrás de Zorin OS acaba de dar un paso importante: ya podemos probar la versión beta de Zorin OS 18. Y ojo, no es una actualización cualquiera. Llega con un aspecto renovado, nuevas funciones pensadas para facilitar la vida del usuario y mejoras que apuntan a hacer de esta distro una de l"
   },
   {
-    "blog": "kernelcast",
-    "titulo": "ASUS solo garantiza compatibilidad con memorias RAM usando XMP 1 en placas ROG Z890.",
-    "link": "https://www.kernelcast.es/noticias/2715489_asus-solo-garantiza-compatibilidad-con-memorias-ram-usando-xmp-1-en-placas-rog-z890",
-    "fecha": "20/09/2025",
-    "contenido": "Hace poco, ASUS confirmó algo que muchos entusiastas ya venían sospechando: en sus placas base ROG Z890, la validación de memoria RAM que aparece en la lista QVL (Qualified Vendor List) se hace únicamente con el perfil XMP 1."
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 38 de 2025",
     "link": "https://victorhckinthefreeworld.com/2025/09/19/opensuse-tumbleweed-revision-de-la-semana-38-de-2025/",
@@ -357,41 +413,6 @@
     "contenido": "La primera vez que oí hablar de las Slash pages fue en el blog de Manu Mateos. Si conocía /now, que forma parte de ellas, pero no sabía que existía un código como tal que las agrupaba. Las Slash pages es un grupo, más o menos de páginas consensuadas, que podemos incluir en nuestro blog, [&#8230;]"
   },
   {
-    "blog": "Películas y series",
-    "titulo": "Un detective suelto en Hollywood: Axel F",
-    "link": "https://yeite.github.io/lps/2025/09/18/un-detective-suelto-en-hollywood-4",
-    "fecha": "18/09/2025",
-    "contenido": "Persecuciones en transportes ridículos, chistes irónicos de discriminación relacionados al color de piel. Momentos graciosos."
-  },
-  {
-    "blog": "Películas y series",
-    "titulo": "El robo a Mussolini",
-    "link": "https://yeite.github.io/lps/2025/09/18/el-robo-a-mussollini",
-    "fecha": "18/09/2025",
-    "contenido": "Película Italiana basada en una historia real pero ambientada en comedia. Con una trama de acción y amor en partes iguales."
-  },
-  {
-    "blog": "Películas y series",
-    "titulo": "Todopoderoso",
-    "link": "https://yeite.github.io/lps/2025/09/18/todopoderoso",
-    "fecha": "18/09/2025",
-    "contenido": "Son esa películas que se recuerdan por tener un guión distinto. Una de las películas más relevantes y recordadas de Jim Carrey. Un ciudadano común de un momento para otro se convierte en Dios y se dará cuenta lo difícil que es ser él."
-  },
-  {
-    "blog": "Películas y series",
-    "titulo": "They Live",
-    "link": "https://yeite.github.io/lps/2025/09/18/they-live",
-    "fecha": "18/09/2025",
-    "contenido": "Esta película de 1988 fue la que inspiró al juego Duke Nukem. Con un guion original y hasta contemporáneo, relata la historia de un trabajador que encuentra unos lentes y puede ver el mundo real que está manejado por una especie alienígena , donde todos los productos de consumo tienen mensajes subli"
-  },
-  {
-    "blog": "Películas y series",
-    "titulo": "Cabrini",
-    "link": "https://yeite.github.io/lps/2025/09/18/cabrini",
-    "fecha": "18/09/2025",
-    "contenido": "La historia de la Madre Cabrini. Dos horas de película que pasan como si nada."
-  },
-  {
     "blog": "La Loica",
     "titulo": "Libro – 200 Labores de Ganchillo",
     "link": "https://laloica.noblogs.org/libro-200-labores-de-ganchillo/",
@@ -399,38 +420,10 @@
     "contenido": "En esta oportunidad quiero compartirles este libro que se llama 200 Labores de ganchillo para mantas, colchas y tapices. En mi opinión, yo lo hubiera llamado 200 tipos de Cuadraditos de Abuela o Granny Square, creo que resume mejor de qué va este libro. El libro es de Jan Eaton y publicado por la ed"
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Tropelías recientes de la industria cultural",
-    "link": "https://adrianperales.com/2025/09/tropelias-recientes-de-la-industria-cultural/",
-    "fecha": "18/09/2025",
-    "contenido": "Ya dije en una entrada anterior que la cultura nos llega gracias a la infraestructura y poder que tienen grandes empresas, pero que debemos agradecer fundamentalmente a las personas que crean esa cultura. En esta entrada repaso algunas de las últimas tropelías de la industria cultural (entendiendo e"
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida temporada 2025, episodio 38.",
-    "link": "https://escritura.social/norberto/mi-perra-vida-temporada-2025-episodio-38",
-    "fecha": "18/09/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "Papel Continuo",
-    "titulo": "Palestina: Gráfica contra el genocidio",
-    "link": "https://papelcontinuo.net/3363/palestina-grafica-contra-el-genocidio/",
-    "fecha": "18/09/2025",
-    "contenido": "Mientras continúa el genocidio perpetrado por el estado de Israel en Palestina, vale la pena volver a mirar cómo el pueblo ha expresado su lucha por la libertad a lo largo de la historia. Una de esas expresiones artísticas han sido los carteles revolucionarios, que empezaron a aparecer después de la"
-  },
-  {
     "blog": "NeoSite Blog",
     "titulo": "Los 10 comandos que más usa un usuario en la terminal de Linux (+bonus track)",
     "link": "https://blog.neosite.com.ar/los-10-comandos-que-mas-usa-un-usuario-en-la-terminal-de-linux-bonus-track/",
     "fecha": "18/09/2025",
     "contenido": "Linux es un sistema operativo extremadamente poderoso y flexible. Una de sus mayores fortalezas es la terminal, esa pantalla negra que para muchos intimida, pero que en realidad es la herramienta m&#xe1;s directa para interactuar con el sistema.En este post vas a encontrar una lista de los"
-  },
-  {
-    "blog": "blog – matizeta",
-    "titulo": "iOS 26 y su diseño Liquid Glass",
-    "link": "https://matizeta.com/2025/09/18/ios-26-y-su-diseno-liquid-glass/",
-    "fecha": "18/09/2025",
-    "contenido": "Esta semana salió la nueva versión del sistema operativo del iPhone (junto con los otros de la companía), el iOS 26. Se que prometí con los dedos cruzados no hablar de Apple por un tiempo, pero es tiempo de lanzamientos de la marca. Considero que esta nueva versión es un cambio radical como el que ["
   }
 ]
