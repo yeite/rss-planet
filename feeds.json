@@ -1,5 +1,12 @@
 [
   {
+    "blog": "kernelcast",
+    "titulo": "Archinstall 3.0.11: el instalador de Arch Linux se vuelve más inteligente y estable.",
+    "link": "https://www.kernelcast.es/noticias/2726619_archinstall-3-0-11-el-instalador-de-arch-linux-se-vuelve-mas-inteligente-y-estable",
+    "fecha": "26/09/2025",
+    "contenido": "El siempre comentado instalador guiado de Arch Linux, Archinstall, acaba de recibir una nueva actualización: la versión 3.0.11. Aunque pueda parecer un lanzamiento menor, lo cierto es que viene con varias mejoras que hacen la vida un poco más fácil a quienes se animan a instalar Arch. Y ya sabemos q"
+  },
+  {
     "blog": "La Loica",
     "titulo": "Tutorial: Tejer a crochet un gorrito estilo beanie",
     "link": "https://laloica.noblogs.org/tutorial-tejer-a-crochet-un-gorrito-estilo-beanie/",
@@ -315,13 +322,6 @@
     "contenido": "El equipo de GNOME sigue dándole forma a su ecosistema y ahora nos trae Libadwaita 1.8, una actualización clave de la biblioteca que marca el estilo visual y los componentes de la interfaz de usuario en este escritorio tan popular."
   },
   {
-    "blog": "kernelcast",
-    "titulo": "OBS Studio 32.0.0 Release Candidate 1: lo nuevo y lo que corrige esta versión.",
-    "link": "https://www.kernelcast.es/noticias/2716891_obs-studio-32-0-0-release-candidate-1-lo-nuevo-y-lo-que-corrige-esta-version",
-    "fecha": "21/09/2025",
-    "contenido": "OBS Studio vuelve a ser noticia. La primera versión candidata de OBS Studio 32.0.0 ya está disponible para descarga, y trae consigo una serie de cambios que apuntan a mejorar la experiencia de quienes usamos esta herramienta para capturar, componer, grabar y transmitir video. Si eres streamer, cread"
-  },
-  {
     "blog": "Proyecto para no aburrir",
     "titulo": "Barra de sonido Sony HT-S40R: instrucciones de montaje y descripción del mando",
     "link": "https://ericdq.com/2025/09/21/barra-sonido-sony-hts40r-instrucciones-montaje-descripcion-mando/",
@@ -399,20 +399,6 @@
     "contenido": "En mis ratos libres he estado trabajando en una herramienta para investigar correos electr&#243;nicos. Es un script escrito en Python al cual he llamado Mailspider. Hasta ahora cuenta con 7 [&#8230;]\nLa entrada Investigar correos electrónicos se publicó primero en Jinversor."
   },
   {
-    "blog": "iAgosto Blog",
-    "titulo": "Pelea para liberar JavaScript de Oracle",
-    "link": "http://blog.iagosto.dev/entradas/pelea-para-liberar-javascript-de-oracle",
-    "fecha": "19/09/2025",
-    "contenido": "Probablemente no lo sabias. Pero \"JavaScript\" es una marca comercial de Oracle. Y se ha logrado un fase de \"investigación\" para solicitar la cancelación del nombre como marca de Oracle. Y que sea reconocida como un termino genérico tratándose de un lenguaje de programación."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "He silenciado el nombre de las revistas científicas de mis artículos en mi web para enfatizar más su contenido y no tanto la revista dónde los publiqué",
-    "link": "https://pedrolr.es/blog/he-silenciado-el-nombre-de-las-revistas-cientificas-de-mis-articulos-en-mi-web-para-enfatizar-mas-su-contenido-y-no-tanto-la-revista-donde-los-publique/",
-    "fecha": "19/09/2025",
-    "contenido": "Hace un año aproximadamente llegué hasta este texto de Adrian Barnett: Why I’ve removed journal titles from the papers on my CV [Por qué he eliminado los títulos de las revistas de los artículos de mi CV]. He aplicado su propuesta a mi página web académica, en concreto, a la sección de papers. La id"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Tutorial: Bloquear u Ocultar IP del Remitente en Postfix/dovecot",
     "link": "https://interlan.ec/2025/09/19/tutorial-bloquear-u-ocultar-ip-del-remitente-en-postfix-dovecot/",
@@ -432,12 +418,5 @@
     "link": "https://www.macram.es/posts/2025-09-19-ha-comenzado-la-cuarta-de-the-morning-show/",
     "fecha": "19/09/2025",
     "contenido": "Acabo de ver el primer episodio de la cuarta temporada de The Morning Show, definitivamente una de las mejores series de televisión que he visto recientemente (es exclusiva de Apple TV+). Cada temporada tiene un arco distinto y queda bastante claro cuál es el que va a estar de fondo en el de esta te"
-  },
-  {
-    "blog": "blog – matizeta",
-    "titulo": "Slash pages",
-    "link": "https://matizeta.com/2025/09/19/slash-pages/",
-    "fecha": "19/09/2025",
-    "contenido": "La primera vez que oí hablar de las Slash pages fue en el blog de Manu Mateos. Si conocía /now, que forma parte de ellas, pero no sabía que existía un código como tal que las agrupaba. Las Slash pages es un grupo, más o menos de páginas consensuadas, que podemos incluir en nuestro blog, [&#8230;]"
   }
 ]
