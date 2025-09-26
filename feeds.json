@@ -1,5 +1,12 @@
 [
   {
+    "blog": "La Loica",
+    "titulo": "Tutorial: Tejer a crochet un gorrito estilo beanie",
+    "link": "https://laloica.noblogs.org/tutorial-tejer-a-crochet-un-gorrito-estilo-beanie/",
+    "fecha": "25/09/2025",
+    "contenido": "Materiales Puntos a Utilizar Paso a paso 1) Busca un gorro que te quede bien para tomar medidas de referencia. 2) Haz una tira de cadenetas para definir el alto de tu gorro; eso dependerá de qué lana estés usando y de qué tan grande lo quieras.En mi caso, estoy usando lanas reutilizadas y un ... Rea"
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Hablemos de Spiderman",
     "link": "https://adrianperales.com/2025/09/hablemos-de-spiderman/",
@@ -28,6 +35,27 @@
     "contenido": "El cliente de correo Thunderbird está trabajando para incluir la vista de conversación de manera nativa en su bandeja de entrada"
   },
   {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "Desnudo masculino a contraluz.",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/desnudo-masculino-a-contraluz/",
+    "fecha": "25/09/2025",
+    "contenido": "Aviso de contenido: escatología, descripción explícita de desnudo masculino\nNunca me han vuelto loca los cuerpos masculinos. El de las mujeres, a mi modo de ver, es infinitamente superior estéticamente. Muy pocas veces en mi vida, y cuando digo muy pocas lo que quiero decir es «me sobran varios dedo"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Presumir",
+    "link": "https://jinversor.co/2025/09/presumir/",
+    "fecha": "25/09/2025",
+    "contenido": "En el pat&#233;tico mundo de las redes sociales todo se trata de presumir o de vender. Entiendo lo segundo, todos debemos ganarnos la vida pero lo primero es desconcertante. &#191;De [&#8230;]\nLa entrada Presumir se publicó primero en Jinversor."
+  },
+  {
+    "blog": "kernelcast",
+    "titulo": "Krita 5.2.13: nueva actualización de mantenimiento con soporte para páginas 16K y mejoras en Android.",
+    "link": "https://www.kernelcast.es/kde/2724799_krita-5-2-13-nueva-actualizacion-de-mantenimiento-con-soporte-para-paginas-16k-y-mejoras-en-android",
+    "fecha": "25/09/2025",
+    "contenido": "Krita, la aplicación de pintura digital libre y de código abierto que tantos artistas utilizan —desde quienes dan sus primeros pasos hasta profesionales que viven del arte digital— acaba de recibir una nueva actualización. Se trata de la versión 5.2.13, un lanzamiento de mantenimiento que, aunque no"
+  },
+  {
     "blog": "kernelcast",
     "titulo": "GitHub refuerza la seguridad de npm tras una oleada de ataques de phishing y malware.",
     "link": "https://www.kernelcast.es/noticias/2724798_github-refuerza-la-seguridad-de-npm-tras-una-oleada-de-ataques-de-phishing-y-malware",
@@ -47,6 +75,13 @@
     "link": "https://gatooscuro.xyz/cuando-la-superintendencia-mira-hacia-otro-lado/",
     "fecha": "25/09/2025",
     "contenido": "El 14 de mayo de 2025 la Superintendencia de Vigilancia y Seguridad Privada anunció la cancelación de la licencia de funcionamiento de VIPERS Ltda. por graves incumplimientos a la normativa\nSeguir leyendo  Cuando la Superintendencia mira hacia otro lado\nEl cargo Cuando la Superintendencia mira hacia"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "#Video: Nirvana – Live at the Paramount – ARTE Concert",
+    "link": "https://blog.luiscarlospando.com/musica/2025/09/video-nirvana-live-at-the-paramount-arte-concert/",
+    "fecha": "25/09/2025",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "blog – matizeta",
@@ -71,7 +106,7 @@
   },
   {
     "blog": "Blog de Thalskarth",
-    "titulo": "Adrian Tchaikovsky",
+    "titulo": "Recomendado los libros de Adrian Tchaikovsky",
     "link": "https://blog.thalskarth.ar/adrian-tchaikovsky/",
     "fecha": "24/09/2025",
     "contenido": "Fue hace uno o dos años que descubrí los libros de Adrian Tchaikovsky, pero cuando más leo más me gustan. Comencé con “Herederos del tiempo” (Children of time) y desde entonces he leído los 3 que componen esa saga de ciencia ficción. Después leí Linaje Ancestral con su mezcla de Sci-fi y fantasía. Y"
@@ -350,13 +385,6 @@
     "contenido": "En el ámbito de la información científica, un CRIS es un Current Research Information System. En el último tiempo, muchas universidades han implementado su CRIS con Dialnet. Según su web: Dialnet CRIS (Current Research Information System) es un sistema ofrecido por la Fundación Dialnet a organizacio"
   },
   {
-    "blog": "kernelcast",
-    "titulo": "Zorin OS 18 Beta ya está aquí: nueva imagen, mejor gestión de ventanas y más sorpresas.",
-    "link": "https://www.kernelcast.es/noticias/2715493_zorin-os-18-beta-ya-esta-aqui-nueva-imagen-mejor-gestion-de-ventanas-y-mas-sorpresas",
-    "fecha": "20/09/2025",
-    "contenido": "El equipo detrás de Zorin OS acaba de dar un paso importante: ya podemos probar la versión beta de Zorin OS 18. Y ojo, no es una actualización cualquiera. Llega con un aspecto renovado, nuevas funciones pensadas para facilitar la vida del usuario y mejoras que apuntan a hacer de esta distro una de l"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 38 de 2025",
     "link": "https://victorhckinthefreeworld.com/2025/09/19/opensuse-tumbleweed-revision-de-la-semana-38-de-2025/",
@@ -396,7 +424,7 @@
     "titulo": "Explicando un poco mejor qué es Crucial Tracks",
     "link": "https://blog.luiscarlospando.com/musica/2025/09/explicando-un-poco-mejor-que-es-crucial-tracks/",
     "fecha": "19/09/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -411,19 +439,5 @@
     "link": "https://matizeta.com/2025/09/19/slash-pages/",
     "fecha": "19/09/2025",
     "contenido": "La primera vez que oí hablar de las Slash pages fue en el blog de Manu Mateos. Si conocía /now, que forma parte de ellas, pero no sabía que existía un código como tal que las agrupaba. Las Slash pages es un grupo, más o menos de páginas consensuadas, que podemos incluir en nuestro blog, [&#8230;]"
-  },
-  {
-    "blog": "La Loica",
-    "titulo": "Libro – 200 Labores de Ganchillo",
-    "link": "https://laloica.noblogs.org/libro-200-labores-de-ganchillo/",
-    "fecha": "18/09/2025",
-    "contenido": "En esta oportunidad quiero compartirles este libro que se llama 200 Labores de ganchillo para mantas, colchas y tapices. En mi opinión, yo lo hubiera llamado 200 tipos de Cuadraditos de Abuela o Granny Square, creo que resume mejor de qué va este libro. El libro es de Jan Eaton y publicado por la ed"
-  },
-  {
-    "blog": "NeoSite Blog",
-    "titulo": "Los 10 comandos que más usa un usuario en la terminal de Linux (+bonus track)",
-    "link": "https://blog.neosite.com.ar/los-10-comandos-que-mas-usa-un-usuario-en-la-terminal-de-linux-bonus-track/",
-    "fecha": "18/09/2025",
-    "contenido": "Linux es un sistema operativo extremadamente poderoso y flexible. Una de sus mayores fortalezas es la terminal, esa pantalla negra que para muchos intimida, pero que en realidad es la herramienta m&#xe1;s directa para interactuar con el sistema.En este post vas a encontrar una lista de los"
   }
 ]
