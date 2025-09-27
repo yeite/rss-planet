@@ -1,5 +1,19 @@
 [
   {
+    "blog": "Blog de Joselito",
+    "titulo": "Tener hijos",
+    "link": "https://joselito.mataroa.blog/blog/tener-hijos/",
+    "fecha": "27/09/2025",
+    "contenido": "Hoy os quería hablar sobre este tema tan particular. Yo no tengo hijos pero tampoco me arrepiento de ello, me encuentro bien. Mi mujer también comparte esta opinión.\nEs cierto que no es algo que hayamos buscado, ha venido así por diversas circunstancias. Es cierto que siempre estaremos con la duda d"
+  },
+  {
+    "blog": "kernelcast",
+    "titulo": "Esta semana en Plasma: un maratón de correcciones rumbo a Plasma 6.5.",
+    "link": "https://www.kernelcast.es/kde/2728276_esta-semana-en-plasma-un-maraton-de-correcciones-rumbo-a-plasma-6-5",
+    "fecha": "27/09/2025",
+    "contenido": "La cosa viene movida. El equipo de desarrollo de Plasma ha estado absolutamente concentrado en una sola misión: pulir, arreglar y dejar todo lo más estable posible de cara al lanzamiento de Plasma 6.5, que debería llegar el próximo mes. Y vaya si se ha notado: la lista de correcciones es enorme."
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 39 de 2025",
     "link": "https://victorhckinthefreeworld.com/2025/09/26/opensuse-tumbleweed-revision-de-la-semana-39-de-2025/",
@@ -287,13 +301,6 @@
     "contenido": "Ha pasado más de un año desde la última vez que VLC, ese reproductor multimedia de código abierto que casi todo el mundo ha usado alguna vez, recibió una actualización. Pero la espera se acabó: una nueva versión está a punto de ver la luz."
   },
   {
-    "blog": "kernelcast",
-    "titulo": "Nvidia e Intel anuncian una alianza histórica para el futuro del PC y la inteligencia artificial.",
-    "link": "https://www.kernelcast.es/noticias/2718342_nvidia-e-intel-anuncian-una-alianza-historica-para-el-futuro-del-pc-y-la-inteligencia-artificial",
-    "fecha": "22/09/2025",
-    "contenido": "En el mundo de la tecnología hay anuncios que hacen ruido, y luego están los que directamente hacen temblar el tablero. El pacto entre Nvidia e Intel pertenece a esa segunda categoría. Las dos gigantes acaban de anunciar una colaboración estratégica que abarca tanto el terreno de los ordenadores per"
-  },
-  {
     "blog": "Un bruto con Debian",
     "titulo": "Conectar a una VPN Fortinet con OpenFortiGui sin morir en el intento",
     "link": "http://unbrutocondebian.blogspot.com/2025/09/conectar-una-vpn-fortinet-con.html",
@@ -369,26 +376,5 @@
     "link": "https://www.end3r.es/posts/006-como-activar-ech-en-librewolf/",
     "fecha": "21/09/2025",
     "contenido": "Encrypted Client Hello (ECH) es una extensión del protocolo TLS (Transport Layer Security) que \nbusca mejorar la privacidad de las conexiones HTTPS. \nSu principal objetivo es cifrar la primera parte de la conexión TLS, que normalmente no es cifrada \ny contiene información sensible, como el nombre de"
-  },
-  {
-    "blog": "Ubuntu Peronista",
-    "titulo": "¿Cómo instalo el editor ne en Ubuntu?",
-    "link": "https://ubuntuperonista.blogspot.com/2025/09/como-instalar-ne-editor-ubuntu.html",
-    "fecha": "20/09/2025",
-    "contenido": "El 7 de octubre de 1949 y ante intelectuales americanos becados por la Comisión Nacional de Cultura, Juan Perón expone cómo instalar y usar nice editor en Ubuntu.&nbsp;\nEstimados señores,Es el nuestro un pueblo sencillo, de trabajadores, en el que aún se conserva el sentido de la amistad y la confra"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Diablo II",
-    "link": "https://thecheis.com/2025/09/20/diablo-ii/",
-    "fecha": "20/09/2025",
-    "contenido": "Videojuegos míticos y queridos hay muchos, pero pocos sobreviven como es debido al paso de los años. La temática, los gráficos o la jugabilidad son elementos susceptibles a cambios en la aceptación popular. Aunque debemos valorar el contexto de la época, sólo un puñado de ellos consiguen ganarle la "
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Una crítica a los CRIS (Current Research Information Systems) de Dialnet de algunas universidades españolas",
-    "link": "https://pedrolr.es/blog/una-critica-a-los-cris-current-research-information-systems-de-dialnet-de-algunas-universidades-espanolas/",
-    "fecha": "20/09/2025",
-    "contenido": "En el ámbito de la información científica, un CRIS es un Current Research Information System. En el último tiempo, muchas universidades han implementado su CRIS con Dialnet. Según su web: Dialnet CRIS (Current Research Information System) es un sistema ofrecido por la Fundación Dialnet a organizacio"
   }
 ]
