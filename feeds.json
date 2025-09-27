@@ -1,10 +1,31 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 39 de 2025",
+    "link": "https://victorhckinthefreeworld.com/2025/09/26/opensuse-tumbleweed-revision-de-la-semana-39-de-2025/",
+    "fecha": "26/09/2025",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "kernelcast",
+    "titulo": "SUSE anuncia un mejor soporte para NVIDIA CUDA: una apuesta fuerte por la IA y el alto rendimiento.",
+    "link": "https://www.kernelcast.es/noticias/2726624_suse-anuncia-un-mejor-soporte-para-nvidia-cuda-una-apuesta-fuerte-por-la-ia-y-el-alto-rendimiento",
+    "fecha": "26/09/2025",
+    "contenido": "En el mundo de Linux, cada movimiento que facilita la vida de los desarrolladores y profesionales de la tecnología es motivo de celebración. Y hoy tenemos uno de esos anuncios que vale la pena destacar. SUSE, en colaboración directa con NVIDIA, ha confirmado que el NVIDIA CUDA Toolkit ya está oficia"
+  },
+  {
     "blog": "kernelcast",
     "titulo": "Archinstall 3.0.11: el instalador de Arch Linux se vuelve más inteligente y estable.",
     "link": "https://www.kernelcast.es/noticias/2726619_archinstall-3-0-11-el-instalador-de-arch-linux-se-vuelve-mas-inteligente-y-estable",
     "fecha": "26/09/2025",
     "contenido": "El siempre comentado instalador guiado de Arch Linux, Archinstall, acaba de recibir una nueva actualización: la versión 3.0.11. Aunque pueda parecer un lanzamiento menor, lo cierto es que viene con varias mejoras que hacen la vida un poco más fácil a quienes se animan a instalar Arch. Y ya sabemos q"
+  },
+  {
+    "blog": "Blogpocket Foodie",
+    "titulo": "Proceso estándar para guisos en robot",
+    "link": "https://foodybp.blog/2025/09/26/proceso-estandar-para-guisos-en-robot/",
+    "fecha": "26/09/2025",
+    "contenido": "Todos los guisos siguen el mismo proceso con pequeñs variaciones."
   },
   {
     "blog": "La Loica",
@@ -315,13 +336,6 @@
     "contenido": "Esta película de 1988 fue la que inspiró al juego Duke Nukem. Con un guion original y hasta contemporáneo, relata la historia de un trabajador que encuentra unos lentes y puede ver el mundo real que está manejado por una especie alienígena , donde todos los productos de consumo tienen mensajes subli"
   },
   {
-    "blog": "kernelcast",
-    "titulo": "Libadwaita 1.8: el nuevo ciclo de desarrollo que acompaña a GNOME 49.",
-    "link": "https://www.kernelcast.es/noticias/2717331_libadwaita-1-8-el-nuevo-ciclo-de-desarrollo-que-acompana-a-gnome-49",
-    "fecha": "21/09/2025",
-    "contenido": "El equipo de GNOME sigue dándole forma a su ecosistema y ahora nos trae Libadwaita 1.8, una actualización clave de la biblioteca que marca el estilo visual y los componentes de la interfaz de usuario en este escritorio tan popular."
-  },
-  {
     "blog": "Proyecto para no aburrir",
     "titulo": "Barra de sonido Sony HT-S40R: instrucciones de montaje y descripción del mando",
     "link": "https://ericdq.com/2025/09/21/barra-sonido-sony-hts40r-instrucciones-montaje-descripcion-mando/",
@@ -364,13 +378,6 @@
     "contenido": "El 7 de octubre de 1949 y ante intelectuales americanos becados por la Comisión Nacional de Cultura, Juan Perón expone cómo instalar y usar nice editor en Ubuntu.&nbsp;\nEstimados señores,Es el nuestro un pueblo sencillo, de trabajadores, en el que aún se conserva el sentido de la amistad y la confra"
   },
   {
-    "blog": "Blog de Joselito",
-    "titulo": "Nosotros los calvos",
-    "link": "https://joselito.mataroa.blog/blog/nosotros-los-calvos/",
-    "fecha": "20/09/2025",
-    "contenido": "Cuando era pequeño me burlaba de los calvos. Me escondía con un amigo por las esquinas y les gritábamos: ¡¡calvo!!. También me reía mucho con los episodios de Benny Hill donde daba palmaditas en la calva a ese calvo pequeñín.\nYo siempre tuve un pelo muy duro. Yo decía que tenía pelo de negro, refiri"
-  },
-  {
     "blog": "THE_CHEI$",
     "titulo": "Diablo II",
     "link": "https://thecheis.com/2025/09/20/diablo-ii/",
@@ -383,40 +390,5 @@
     "link": "https://pedrolr.es/blog/una-critica-a-los-cris-current-research-information-systems-de-dialnet-de-algunas-universidades-espanolas/",
     "fecha": "20/09/2025",
     "contenido": "En el ámbito de la información científica, un CRIS es un Current Research Information System. En el último tiempo, muchas universidades han implementado su CRIS con Dialnet. Según su web: Dialnet CRIS (Current Research Information System) es un sistema ofrecido por la Fundación Dialnet a organizacio"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 38 de 2025",
-    "link": "https://victorhckinthefreeworld.com/2025/09/19/opensuse-tumbleweed-revision-de-la-semana-38-de-2025/",
-    "fecha": "19/09/2025",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Investigar correos electrónicos",
-    "link": "https://jinversor.co/2025/09/investigar-correos-electronicos/",
-    "fecha": "19/09/2025",
-    "contenido": "En mis ratos libres he estado trabajando en una herramienta para investigar correos electr&#243;nicos. Es un script escrito en Python al cual he llamado Mailspider. Hasta ahora cuenta con 7 [&#8230;]\nLa entrada Investigar correos electrónicos se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Tutorial: Bloquear u Ocultar IP del Remitente en Postfix/dovecot",
-    "link": "https://interlan.ec/2025/09/19/tutorial-bloquear-u-ocultar-ip-del-remitente-en-postfix-dovecot/",
-    "fecha": "19/09/2025",
-    "contenido": "Una de las configuraciones mas fáciles de olvidar es la de que Postfix envía al destinatario la dirección IP del remitente. Esto es problemático porque delata mucha información sensible en cada mensaje que envíes.\nLa entrada Tutorial: Bloquear u Ocultar IP del Remitente en Postfix/dovecot se publicó"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Explicando un poco mejor qué es Crucial Tracks",
-    "link": "https://blog.luiscarlospando.com/musica/2025/09/explicando-un-poco-mejor-que-es-crucial-tracks/",
-    "fecha": "19/09/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#158: ha comenzado la cuarta temporada de The Morning Show",
-    "link": "https://www.macram.es/posts/2025-09-19-ha-comenzado-la-cuarta-de-the-morning-show/",
-    "fecha": "19/09/2025",
-    "contenido": "Acabo de ver el primer episodio de la cuarta temporada de The Morning Show, definitivamente una de las mejores series de televisión que he visto recientemente (es exclusiva de Apple TV+). Cada temporada tiene un arco distinto y queda bastante claro cuál es el que va a estar de fondo en el de esta te"
   }
 ]
