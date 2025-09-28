@@ -1,5 +1,12 @@
 [
   {
+    "blog": "kernelcast",
+    "titulo": "[Action required] Your RSS.app Trial has Expired.",
+    "link": "https://rss.app",
+    "fecha": "28/09/2025",
+    "contenido": "Your trial has expired. Please update your subscription plan at rss.app. - (Z2UoFd814d10jbq1)"
+  },
+  {
     "blog": "Blog de Joselito",
     "titulo": "Tener hijos",
     "link": "https://joselito.mataroa.blog/blog/tener-hijos/",
@@ -7,11 +14,11 @@
     "contenido": "Hoy os quería hablar sobre este tema tan particular. Yo no tengo hijos pero tampoco me arrepiento de ello, me encuentro bien. Mi mujer también comparte esta opinión.\nEs cierto que no es algo que hayamos buscado, ha venido así por diversas circunstancias. Es cierto que siempre estaremos con la duda d"
   },
   {
-    "blog": "kernelcast",
-    "titulo": "Esta semana en Plasma: un maratón de correcciones rumbo a Plasma 6.5.",
-    "link": "https://www.kernelcast.es/kde/2728276_esta-semana-en-plasma-un-maraton-de-correcciones-rumbo-a-plasma-6-5",
+    "blog": "Luis Carlos Pando",
+    "titulo": "La importancia de los videojuegos en mi vida",
+    "link": "https://blog.luiscarlospando.com/personal/2025/09/la-importancia-de-los-videojuegos-en-mi-vida/",
     "fecha": "27/09/2025",
-    "contenido": "La cosa viene movida. El equipo de desarrollo de Plasma ha estado absolutamente concentrado en una sola misión: pulir, arreglar y dejar todo lo más estable posible de cara al lanzamiento de Plasma 6.5, que debería llegar el próximo mes. Y vaya si se ha notado: la lista de correcciones es enorme."
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "Victorhck in the free world",
@@ -19,20 +26,6 @@
     "link": "https://victorhckinthefreeworld.com/2025/09/26/opensuse-tumbleweed-revision-de-la-semana-39-de-2025/",
     "fecha": "26/09/2025",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "kernelcast",
-    "titulo": "SUSE anuncia un mejor soporte para NVIDIA CUDA: una apuesta fuerte por la IA y el alto rendimiento.",
-    "link": "https://www.kernelcast.es/noticias/2726624_suse-anuncia-un-mejor-soporte-para-nvidia-cuda-una-apuesta-fuerte-por-la-ia-y-el-alto-rendimiento",
-    "fecha": "26/09/2025",
-    "contenido": "En el mundo de Linux, cada movimiento que facilita la vida de los desarrolladores y profesionales de la tecnología es motivo de celebración. Y hoy tenemos uno de esos anuncios que vale la pena destacar. SUSE, en colaboración directa con NVIDIA, ha confirmado que el NVIDIA CUDA Toolkit ya está oficia"
-  },
-  {
-    "blog": "kernelcast",
-    "titulo": "Archinstall 3.0.11: el instalador de Arch Linux se vuelve más inteligente y estable.",
-    "link": "https://www.kernelcast.es/noticias/2726619_archinstall-3-0-11-el-instalador-de-arch-linux-se-vuelve-mas-inteligente-y-estable",
-    "fecha": "26/09/2025",
-    "contenido": "El siempre comentado instalador guiado de Arch Linux, Archinstall, acaba de recibir una nueva actualización: la versión 3.0.11. Aunque pueda parecer un lanzamiento menor, lo cierto es que viene con varias mejoras que hacen la vida un poco más fácil a quienes se animan a instalar Arch. Y ya sabemos q"
   },
   {
     "blog": "Blogpocket Foodie",
@@ -91,20 +84,6 @@
     "contenido": "En el pat&#233;tico mundo de las redes sociales todo se trata de presumir o de vender. Entiendo lo segundo, todos debemos ganarnos la vida pero lo primero es desconcertante. &#191;De [&#8230;]\nLa entrada Presumir se publicó primero en Jinversor."
   },
   {
-    "blog": "kernelcast",
-    "titulo": "Krita 5.2.13: nueva actualización de mantenimiento con soporte para páginas 16K y mejoras en Android.",
-    "link": "https://www.kernelcast.es/kde/2724799_krita-5-2-13-nueva-actualizacion-de-mantenimiento-con-soporte-para-paginas-16k-y-mejoras-en-android",
-    "fecha": "25/09/2025",
-    "contenido": "Krita, la aplicación de pintura digital libre y de código abierto que tantos artistas utilizan —desde quienes dan sus primeros pasos hasta profesionales que viven del arte digital— acaba de recibir una nueva actualización. Se trata de la versión 5.2.13, un lanzamiento de mantenimiento que, aunque no"
-  },
-  {
-    "blog": "kernelcast",
-    "titulo": "GitHub refuerza la seguridad de npm tras una oleada de ataques de phishing y malware.",
-    "link": "https://www.kernelcast.es/noticias/2724798_github-refuerza-la-seguridad-de-npm-tras-una-oleada-de-ataques-de-phishing-y-malware",
-    "fecha": "25/09/2025",
-    "contenido": "Septiembre no está siendo precisamente un mes fácil para npm, el registro de paquetes de JavaScript gestionado por GitHub. En las últimas semanas, la plataforma se ha visto sacudida por ataques de phishing dirigidos a desarrolladores y por la aparición de cientos de paquetes infectados con malware d"
-  },
-  {
     "blog": "Papel Continuo",
     "titulo": "Canal de Telegram de papel Continuo.",
     "link": "https://papelcontinuo.net/3384/canal-de-telegram-de-papel-continuo/",
@@ -123,7 +102,7 @@
     "titulo": "#Video: Nirvana – Live at the Paramount – ARTE Concert",
     "link": "https://blog.luiscarlospando.com/musica/2025/09/video-nirvana-live-at-the-paramount-arte-concert/",
     "fecha": "25/09/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "blog – matizeta",
@@ -175,20 +154,6 @@
     "contenido": "Introducción Los feeds RSS son una herramienta muy útil para seguir las actualizaciones de blogs y otras plataformas que publiquen de forma regular, porque permiten obtener los artículos de forma organizada y también permiten utilizar las herramientas de tu gusto para leerlos sin necesitar pasar por"
   },
   {
-    "blog": "kernelcast",
-    "titulo": "RPM 6.0: el nuevo capítulo del veterano gestor de paquetes en Linux.",
-    "link": "https://www.kernelcast.es/noticias/2722432_rpm-6-0-el-nuevo-capitulo-del-veterano-gestor-de-paquetes-en-linux",
-    "fecha": "24/09/2025",
-    "contenido": "Cuando hablamos de Linux y de cómo se gestionan los paquetes de software, uno de los nombres que siempre aparece en la conversación es RPM. No es para menos: estamos ante uno de los sistemas de gestión de paquetes más antiguos, influyentes y usados en el ecosistema, pieza clave en distribuciones com"
-  },
-  {
-    "blog": "kernelcast",
-    "titulo": "OBS Studio 32.0: un salto importante con gestor de plugins, mejoras para NVIDIA RTX y más novedades.",
-    "link": "https://www.kernelcast.es/noticias/2722428_obs-studio-32-0-un-salto-importante-con-gestor-de-plugins-mejoras-para-nvidia-rtx-y-mas-novedades",
-    "fecha": "24/09/2025",
-    "contenido": "OBS Studio, uno de los programas más queridos y usados por streamers, creadores de contenido y cualquiera que necesite grabar o transmitir su escritorio, acaba de recibir una actualización importante. La versión 32.0 estable ya está disponible, y viene cargada de novedades que apuntan tanto a mejora"
-  },
-  {
     "blog": "blog – matizeta",
     "titulo": "El iPad es un juguete caro",
     "link": "https://matizeta.com/2025/09/24/el-ipad-es-un-juguete-caro/",
@@ -215,20 +180,6 @@
     "link": "https://mcallus.net/2025/09/23/el-refugio-ejercicio-de-clase-semana-1-taller-de-escritura-creativa-libreria-luces-2025-2026/",
     "fecha": "23/09/2025",
     "contenido": "El pasado jueves 18 empezó el nuevo año escolar del Taller de Escritura Creativa de Librería Luces impartido por Laura Santiago. Como el año pasado estaré de mitad de septiembre a mitad de junio. Y al igual que el año pasado voy a ir trayendo semana a semana los ejercicios que haga tanto en casa [&#"
-  },
-  {
-    "blog": "kernelcast",
-    "titulo": "AMD Ryzen AI \"Strix Halo\" y ROCm 7.0: primeras pruebas de rendimiento en Linux.",
-    "link": "https://www.kernelcast.es/noticias/2720446_amd-ryzen-ai-strix-halo-y-rocm-7-0-primeras-pruebas-de-rendimiento-en-linux",
-    "fecha": "23/09/2025",
-    "contenido": "La semana pasada AMD lanzó oficialmente ROCm 7.0, su plataforma de cómputo abierto para GPUs, pero algo llamó la atención de muchos: en la lista de hardware soportado no aparecía mención alguna a los nuevos Ryzen AI Max “Strix Halo”. Eso hizo saltar las dudas. ¿Funcionaría ROCm 7.0 con estos chips?"
-  },
-  {
-    "blog": "kernelcast",
-    "titulo": "Kdenlive 25.08.1 ya está aquí: más estabilidad, menos fallos y una experiencia más pulida.",
-    "link": "https://www.kernelcast.es/kde/2720441_kdenlive-25-08-1-ya-esta-aqui-mas-estabilidad-menos-fallos-y-una-experiencia-mas-pulida",
-    "fecha": "23/09/2025",
-    "contenido": "Kdenlive, el editor de vídeo no lineal del ecosistema KDE, acaba de lanzar su nueva versión 25.08.1. Y aunque a primera vista pueda parecer una simple actualización de mantenimiento, lo cierto es que viene cargada de pequeños ajustes que marcan la diferencia en el día a día."
   },
   {
     "blog": "blog – matizeta",
@@ -292,13 +243,6 @@
     "link": "https://mcallus.net/2025/09/22/inocencia/",
     "fecha": "22/09/2025",
     "contenido": "Dejé de llorar a los seis años. No tardé mucho más en aprender a ponerme delante de mi hermana, antes que él cruzase la puerta de nuestra habitación. Hoy, con las manos manchadas de su sangre, me siento libre al fin. Ese microrrelato que acabáis de leer es lo que me inspiró la siguiente cita: [&#823"
-  },
-  {
-    "blog": "kernelcast",
-    "titulo": "VLC 3.0.22: la primera actualización del año llega con soporte para Qt6 y un modo oscuro más pulido.",
-    "link": "https://www.kernelcast.es/noticias/2718343_vlc-3-0-22-la-primera-actualizacion-del-ano-llega-con-soporte-para-qt6-y-un-modo-oscuro-mas-pulido",
-    "fecha": "22/09/2025",
-    "contenido": "Ha pasado más de un año desde la última vez que VLC, ese reproductor multimedia de código abierto que casi todo el mundo ha usado alguna vez, recibió una actualización. Pero la espera se acabó: una nueva versión está a punto de ver la luz."
   },
   {
     "blog": "Un bruto con Debian",
@@ -369,12 +313,5 @@
     "link": "https://tecnoysoft.com/2025/09/21/como-reiniciar-linux-correctamente-de-reboot-a-reisub/",
     "fecha": "21/09/2025",
     "contenido": "Introducción He observado cierto desconocimiento en cuanto al uso de reboot, sudo reboot y otras posibilidades. Espero que este resumen de comandos y procedimientos para reiniciar Linux arroje algo de luz, desde el uso normal en entornos de escritorio (Plasma, GNOME) hasta métodos de emergencia como"
-  },
-  {
-    "blog": "End3r.es",
-    "titulo": "Como activar Encrypted Client Hello en Librewolf",
-    "link": "https://www.end3r.es/posts/006-como-activar-ech-en-librewolf/",
-    "fecha": "21/09/2025",
-    "contenido": "Encrypted Client Hello (ECH) es una extensión del protocolo TLS (Transport Layer Security) que \nbusca mejorar la privacidad de las conexiones HTTPS. \nSu principal objetivo es cifrar la primera parte de la conexión TLS, que normalmente no es cifrada \ny contiene información sensible, como el nombre de"
   }
 ]
