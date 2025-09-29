@@ -1,5 +1,12 @@
 [
   {
+    "blog": "kernelcast",
+    "titulo": "[Action required] Your RSS.app Trial has Expired.",
+    "link": "https://rss.app",
+    "fecha": "29/09/2025",
+    "contenido": "Your trial has expired. Please update your subscription plan at rss.app. - (Z2UoFd814d10jbq1)"
+  },
+  {
     "blog": "52s – matizeta",
     "titulo": "28/25",
     "link": "https://matizeta.com/2025/09/28/28-25/",
@@ -21,11 +28,39 @@
     "contenido": "Responder por email."
   },
   {
-    "blog": "kernelcast",
-    "titulo": "[Action required] Your RSS.app Trial has Expired.",
-    "link": "https://rss.app",
+    "blog": "La Loica",
+    "titulo": "Libro – Hilos y Tejidos edición revista Ideas",
+    "link": "https://laloica.noblogs.org/libro-hilos-y-tejidos-edicion-revista-ideas/",
     "fecha": "28/09/2025",
-    "contenido": "Your trial has expired. Please update your subscription plan at rss.app. - (Z2UoFd814d10jbq1)"
+    "contenido": "Encontré este Tomo I de una edición especial de la Revista Ideas que se llama Hilos y Tejidos, es la edición de 1985 sacada en Chile. La encontré en mi feria de antigüedades de los sábados; creo que el casero que me las vende ya sabe que voy cada sábado por alguna y me tiene ... Read moreLibro &#821"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "InstagramPrivSniffer",
+    "link": "https://jinversor.co/2025/09/instagramprivsniffer/",
+    "fecha": "28/09/2025",
+    "contenido": "He encontrado una herramienta muy interesante llamada InstagramPrivSniffer. Esta herramienta se ejecuta desde la l&#237;nea de comandos (CLI) en sistemas GNU/Linux y su funci&#243;n es hallar las colaboraciones que se [&#8230;]\nLa entrada InstagramPrivSniffer se publicó primero en Jinversor."
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Máscaras y mordazas: cuando la censura y la guerra digital se dan la mano",
+    "link": "https://gatooscuro.xyz/mascaras-y-mordazas-cuando-la-censura-y-la-guerra-digital-se-dan-la-mano/",
+    "fecha": "28/09/2025",
+    "contenido": "Hoy, mientras saltaba entre titulares con mi café en mano, me topé con dos entramados tan delicados que me hicieron dudar aún más de la supuesta neutralidad de Internet. Dos\nSeguir leyendo  Máscaras y mordazas: cuando la censura y la guerra digital se dan la mano\nEl cargo Máscaras y mordazas: cuando"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "¡Blog!¡Blog!",
+    "link": "https://mareosdeungeek.es/blogblog/",
+    "fecha": "28/09/2025",
+    "contenido": "¡Blog!¡Blog! es un directorio de bitácoras en español creado por el argentino matizeta. El directorio empezó a funcionar el pasado mes de agosto y tras varios ajustes y mejoras está cerca de las 100 bitácoras registradas. Como ya comenté cuando volví a retomar este espacio, el proceso de mierdificac"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Vergüenza",
+    "link": "https://www.macram.es/series/verguenza/",
+    "fecha": "28/09/2025",
+    "contenido": "Vergüenza. El título de la serie no puede estar mejor puesto: cada capítulo me ha hecho sentir todavía más vergüenza ajena que el anterior. Y no tengo dudas de que es exactamente lo que pretende la serie.\nMe ha llamado mucho la atención, además, la trama de la tercera temporada. Las dos primeras era"
   },
   {
     "blog": "Blog de Joselito",
@@ -217,39 +252,11 @@
     "contenido": "Este método que utilizo para organizar mis tareas no fue que lo comencé a aplicar de la noche a la mañana, sino que fueron años de investigar, e ir descubriendo, probando y mejorando mi sistema. Como se dice, no hay un sistema perfecto y cada persona le puedes servir más un sistema que otro pero [&#"
   },
   {
-    "blog": "Blog de Joselito",
-    "titulo": "El pastillero",
-    "link": "https://joselito.mataroa.blog/blog/el-pastillero/",
-    "fecha": "22/09/2025",
-    "contenido": "Siempre odié las pastillas. Nunca quería tomar una, ni siquiera cuando me dolía la cabeza. Antes de los 50 años no tenía ni historial médico, nunca pisaba el centro de salud o el Hospital. Tampoco me han operado nunca.\nPero a partir de los 50, en un exámen médico de empresa, me sacaron la tensión al"
-  },
-  {
-    "blog": "Blep",
-    "titulo": "Pequeñas decisiones",
-    "link": "https://blep.org/Pequenas-decisiones",
-    "fecha": "22/09/2025",
-    "contenido": "Decía John Lennon que la vida es aquello que sucede mientras estás ocupado haciendo planes. Es una frase muy bonita, pero al menos en mi caso, y al menos en este momento, me identifico más con una variante: La vida es lo que sucede mientras estás intentando dormir.\n\nCada pequeña decisión que tomo ti"
-  },
-  {
-    "blog": "El Blog de Juan A. Flores",
-    "titulo": "Cuando no sabes, no sabes",
-    "link": "https://juanagustinflores.wordpress.com/2025/09/21/cuando-no-sabes-no-sabes/",
-    "fecha": "22/09/2025",
-    "contenido": "Estuve alojando un blog en un servidor casero, anduvo , pero cuando quise ampliarlo y generar otros en otra PC, se me complicó, quería tener otros servicios, pero por ahora no voy a volver a intentarlo hasta saber más de como funciona y como hay que hacerlo, tengo empezado una Diplomatura en IA en e"
-  },
-  {
     "blog": "brucknerite",
     "titulo": "La bomba lenta que arrasó América",
     "link": "https://brucknerite.net/2025/09/la-bomba-lenta-que-arraso-america.html",
     "fecha": "22/09/2025",
     "contenido": "Ya tenéis aquí la grabación de mi charla en este último #NaukasBilbao25. En esta ocasión hablé de la interacción histórica entre el automóvil y el urbanismo centrada en el caso estadounidense, aunque con derivadas lamentables por todo el mundo. ¿Terminará la franja de Gaza, como pretende la administ"
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Lo que se nos queda por decir",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/lo-que-se-nos-queda-por-decir/",
-    "fecha": "22/09/2025",
-    "contenido": "Hoy al salir de trabajar tenía un mensaje de mi antiguo compañero de departamento al que debería empezar a referirme como «mi amigo N», porque supongo que eso es lo que es. Me decía que tenemos que quedar, que no podemos dejarlo estar, sin prisa pero sin pausa. Y me decía que este año tiene en clase"
   },
   {
     "blog": "La Máquina de Von Neumann",
@@ -299,26 +306,5 @@
     "link": "https://matizeta.com/2025/09/22/car-park-capital/",
     "fecha": "22/09/2025",
     "contenido": "Siento que estoy en los 90. La empresa MicroProse, mítica marca de juegos de los 90 creadora de los juegos Railroad Tycoon&#160;y&#160;Civilization, lanzará en poco tiempo un juego políticamente incorrecto llamado Car Park Capital. En este juego de estrategia tendrás que destruir la naturaleza para "
-  },
-  {
-    "blog": "yejokjanan",
-    "titulo": "Aprende mecanografía con estas tres herramientas",
-    "link": "https://blog.yejokjanan.xyz/aprende-mecanografia-con-estas-tres-herramientas/",
-    "fecha": "21/09/2025",
-    "contenido": "&#xbf;Te gusta practicar mecanograf&#xed;a? Pues te recomiendo 3 herramientas muy buenas para practicar d&#xed;a a d&#xed;a y mejorar la escritura. No importa tu profesi&#xf3;n o lo que sea que hagas, pero si usas un computador es importante saber escribir bien, as&"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Internet era para el verano",
-    "link": "https://mareosdeungeek.es/internet-era-para-el-verano/",
-    "fecha": "21/09/2025",
-    "contenido": "Internet era para el verano y me viene a la cabeza, el recuerdo los veranos de principio de siglo. Allá por el año 2000 y poco, cuando cambié la bicicleta por el ordenador. Porque como bien escribió Fernando Fernán Gómez en 1977, Las bicicletas son para el verano, hasta que llego el calor del siglo "
-  },
-  {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "Far: Lone Sails – El viaje que no sabía que necesitaba",
-    "link": "https://unpinguino.com/far-lone-sails-el-viaje-que-no-sabia-que-necesitaba/",
-    "fecha": "21/09/2025",
-    "contenido": "Este es el primero de los dos juegos de la franquicia Far. Es un juego&#8230;"
   }
 ]
