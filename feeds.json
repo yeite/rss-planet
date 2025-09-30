@@ -1,5 +1,12 @@
 [
   {
+    "blog": "kernelcast",
+    "titulo": "[Action required] Your RSS.app Trial has Expired.",
+    "link": "https://rss.app",
+    "fecha": "30/09/2025",
+    "contenido": "Your trial has expired. Please update your subscription plan at rss.app. - (Z2UoFd814d10jbq1)"
+  },
+  {
     "blog": "brucknerite",
     "titulo": "La bomba lenta que arrasó América (transcripción)",
     "link": "https://brucknerite.net/2025/09/la-bomba-lenta-que-arraso-america-transcripcion.html",
@@ -14,11 +21,11 @@
     "contenido": "Yarr (Yet another rss reader) es un agregador de feeds en el navegador que se puede utilizar tanto como una aplicación de escritorio como en un servidor personal autoalojado"
   },
   {
-    "blog": "kernelcast",
-    "titulo": "[Action required] Your RSS.app Trial has Expired.",
-    "link": "https://rss.app",
+    "blog": "Mindeka",
+    "titulo": "Dominio propio: Mindeka.es",
+    "link": "https://mindeka.es/2025/09/29/dominio-propio-mindeka-es/",
     "fecha": "29/09/2025",
-    "contenido": "Your trial has expired. Please update your subscription plan at rss.app. - (Z2UoFd814d10jbq1)"
+    "contenido": "Hacía tiempo que quería hacerme con un dominio, pero no sabía porque empresa decidirme, lo que sí quería era que fuese española o al menos europea. ¡Lo encontré! y aquí tenéis el nuevo dominio de mi página: Porque está muy bien eso de decir «No a las big techs» pero luego siempre elegirlas por defec"
   },
   {
     "blog": "Proyecto para no aburrir",
@@ -40,13 +47,6 @@
     "link": "https://alt43.es/comparativa-protocolos-vpn-openvpn-vs-wireguard/",
     "fecha": "29/09/2025",
     "contenido": "Por motivos de seguridad y gestión de equipos, conecto a diario con mi propio servidor VPN ubicado en&#46;&#46;&#46;"
-  },
-  {
-    "blog": "52s – matizeta",
-    "titulo": "28/25",
-    "link": "https://matizeta.com/2025/09/28/28-25/",
-    "fecha": "28/09/2025",
-    "contenido": "Una de las más oscuras es, que si desinstalas la aplicación y alguien que utilice Neon te llama,&#160;tu conversación seguirá siendo grabada. Para que no pueda acceder a tu voz es necesario cerrar y dar de baja tu cuenta, algo que muchos usuarios simplemente ignorarán al pensar que borrar la app del"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -98,6 +98,13 @@
     "contenido": "Vergüenza. El título de la serie no puede estar mejor puesto: cada capítulo me ha hecho sentir todavía más vergüenza ajena que el anterior. Y no tengo dudas de que es exactamente lo que pretende la serie.\nMe ha llamado mucho la atención, además, la trama de la tercera temporada. Las dos primeras era"
   },
   {
+    "blog": "JosemiGT | Blog | Jardín digital",
+    "titulo": "Usando un bare git repo para dotfiles",
+    "link": "https://josemigt.dev/posts/usando-bare-git-repo-dotfiles/",
+    "fecha": "28/09/2025",
+    "contenido": "Como versionar tus ficheros de configuración usando un repo de git pero sin romper tu $HOME."
+  },
+  {
     "blog": "Blog de Joselito",
     "titulo": "Tener hijos",
     "link": "https://joselito.mataroa.blog/blog/tener-hijos/",
@@ -117,6 +124,13 @@
     "link": "https://blog.luiscarlospando.com/personal/2025/09/la-importancia-de-los-videojuegos-en-mi-vida/",
     "fecha": "27/09/2025",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Crónicas Digitales",
+    "titulo": "Integrando el sistema",
+    "link": "https://cronicasdigitales.mr-bytes.com/2025/09/integrando-el-sistema.html",
+    "fecha": "27/09/2025",
+    "contenido": "&nbsp;Nada me preparó para integrar los sistemas de un gigante de los alimentos con los de un gigante de los autoservicios. Esto me llevaría después a donde pocos habían ido antes: a integrar sistemas en tiempos donde la técnica para eso apenas se estaba escribiendo. También me llevaría a un proyect"
   },
   {
     "blog": "Victorhck in the free world",
@@ -285,26 +299,5 @@
     "link": "https://matizeta.com/2025/09/23/mi-tridente-de-productividad/",
     "fecha": "23/09/2025",
     "contenido": "Este método que utilizo para organizar mis tareas no fue que lo comencé a aplicar de la noche a la mañana, sino que fueron años de investigar, e ir descubriendo, probando y mejorando mi sistema. Como se dice, no hay un sistema perfecto y cada persona le puedes servir más un sistema que otro pero [&#"
-  },
-  {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "Herramientas cognitivas IX",
-    "link": "https://vonneumannmachine.wordpress.com/2025/09/22/herramientas-cognitivas-ix/",
-    "fecha": "22/09/2025",
-    "contenido": "Seguimos con nuestra colección de píldoras mentales:  Tener razón estando equivocado. En la agradable terraza de un bar sevillano, discutía yo con mi cuñada sobre la, a mi juicio, excesiva preocupación que suele mostrar ella por las características y composición de los alimentos que toma. Es la típi"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Información segmentada",
-    "link": "https://jinversor.co/2025/09/segmentada/",
-    "fecha": "22/09/2025",
-    "contenido": "Sobre mi escritorio hay dos computadoras. Una PC con Kali Linux, que me encanta, y una MacBook Air M4 que ya empiezo a odiar. Las dos m&#225;quinas no se conocen [&#8230;]\nLa entrada Información segmentada se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Civil War la película de Alex Garland",
-    "link": "https://mareosdeungeek.es/civil-war-la-pelicula-de-alex-garland/",
-    "fecha": "22/09/2025",
-    "contenido": "Civil War es una película dirigida por Alex Garland. En ella se nos muestra el trabajo de un grupo de periodistas inmersos en cubrir una guerra civil desatada en la mayor potencia mundial, EEUU. ¿Qué pasaría si la primera potencia mundial se sumerge en la más absoluta locura y acaba desatándose una "
   }
 ]
