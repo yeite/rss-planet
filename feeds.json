@@ -1,10 +1,45 @@
 [
   {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "La ventana del Café Venecia",
+    "link": "https://guillermolatorre.com/fotolog/la-ventana-del-cafe-venecia",
+    "fecha": "01/10/2025",
+    "contenido": "Me tiene enamorado esta ventana del Café Venecia en en San Agustín (Los Realejos). Está siempre abierta pero si además el cielo está despejado, es una maravilla por la mañana cuando entra la luz del sol.Responder por email."
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "openSUSE Leap 16.0 ya disponible para instalar",
+    "link": "https://victorhckinthefreeworld.com/2025/10/01/opensuse-leap-16-0-ya-disponible-para-instalar/",
+    "fecha": "01/10/2025",
+    "contenido": "Ya está disponible la versión definitiva de openSUSE Leap 16.0. La nueva versión mayor de esta distribución de GNU/Linux con soporte extendido y muchos cambios."
+  },
+  {
+    "blog": "Mi perra vida",
+    "titulo": "Mi perra vida temporada 2025, episodio 40.",
+    "link": "https://escritura.social/norberto/mi-perra-vida-temporada-2025-episodio-40",
+    "fecha": "01/10/2025",
+    "contenido": ""
+  },
+  {
     "blog": "kernelcast",
     "titulo": "[Action required] Your RSS.app Trial has Expired.",
     "link": "https://rss.app",
     "fecha": "01/10/2025",
     "contenido": "Your trial has expired. Please update your subscription plan at rss.app. - (Z2UoFd814d10jbq1)"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Los lenguajes de programación más populares de 2025",
+    "link": "https://mareosdeungeek.es/los-lenguajes-de-programacion-mas-populares-de-2025/",
+    "fecha": "01/10/2025",
+    "contenido": "Como cada año se ha publicado la lista de los lenguajes de programación más populares, en esta ocasión los correspondientes al 2025. Seguimos viendo que Python es el lenguaje de programación más popular aunque existen serias dudas de cuanto tiempo le quedará en lo más alto de lista. La lista de los "
+  },
+  {
+    "blog": "blog – matizeta",
+    "titulo": "Yo solo elegí meterme en este lío",
+    "link": "https://matizeta.com/2025/10/01/yo-solo-elegi-meterme-en-este-lio/",
+    "fecha": "01/10/2025",
+    "contenido": "Debo confesar que muchas veces termino algo agotado de los proyectos. Me refiero a esos que son hobbies y que no me generan ningún rédito económico. Porque si vamos a sufrir al menos que sea ganando algo de dinero. Este blog nació con la idea sencilla de escribir y es por eso que elegí utilizar [&#8"
   },
   {
     "blog": "Bits de Ocio",
@@ -270,7 +305,7 @@
     "titulo": "#Video: Nirvana – Live at the Paramount – ARTE Concert",
     "link": "https://blog.luiscarlospando.com/musica/2025/09/video-nirvana-live-at-the-paramount-arte-concert/",
     "fecha": "25/09/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Actualización &#8211; 30 de septiembre, 2025 @ 9:38 pm Me acabo de percatar que el canal de ARTE Concert acaba de tumbar el video. Que conste que les dije que el video tenía fecha de caducidad (aunque habían dicho que iba a estar disponible hasta el 24 de noviembre 🤔). Gracias por leer mi blog"
   },
   {
     "blog": "blog – matizeta",
@@ -299,12 +334,5 @@
     "link": "https://interlan.ec/2025/09/24/changelog-channel2rss-22-de-septiembre-de-2025/",
     "fecha": "24/09/2025",
     "contenido": "Introducción Los feeds RSS son una herramienta muy útil para seguir las actualizaciones de blogs y otras plataformas que publiquen de forma regular, porque permiten obtener los artículos de forma organizada y también permiten utilizar las herramientas de tu gusto para leerlos sin necesitar pasar por"
-  },
-  {
-    "blog": "blog – matizeta",
-    "titulo": "El iPad es un juguete caro",
-    "link": "https://matizeta.com/2025/09/24/el-ipad-es-un-juguete-caro/",
-    "fecha": "24/09/2025",
-    "contenido": "Al menos lo es para mi. No me mal entiendas conozco mucha gente que ama su iPad y no puede vivir sin él pero para mí su uso es completamente prescindible (como todas las tablet). Mi primer iPad lo compré en enero del 2024, luego de ver miles y miles de reviews me decidí por [&#8230;]"
   }
 ]
