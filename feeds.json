@@ -1,5 +1,12 @@
 [
   {
+    "blog": "RSS.app - Feed Generator",
+    "titulo": "Not found. Sign Up to RSS.app to use this feed.",
+    "link": "https://rss.app",
+    "fecha": "02/10/2025",
+    "contenido": "Not found. Sign Up to RSS.app to use this feed. - create a new RSS feed at RSS.app. - (Z2UoFd814d10jbq1)"
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "La ventana del Café Venecia",
     "link": "https://guillermolatorre.com/fotolog/la-ventana-del-cafe-venecia",
@@ -21,11 +28,11 @@
     "contenido": ""
   },
   {
-    "blog": "kernelcast",
-    "titulo": "[Action required] Your RSS.app Trial has Expired.",
-    "link": "https://rss.app",
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Lecturas en Septiembre de 2025",
+    "link": "https://mcallus.net/2025/10/01/lecturas-en-septiembre-de-2025/",
     "fecha": "01/10/2025",
-    "contenido": "Your trial has expired. Please update your subscription plan at rss.app. - (Z2UoFd814d10jbq1)"
+    "contenido": "Este mes por fin terminé Rogue Trader (juegazo) con lo que el tiempo libre sin videojuegos ha aumentado sustancialmente a partir de la segunda quincena. Aunque no he podido dedicarlo todo a leer porque he aumentado la cantidad de escritura de ficción, gracias en parte a un taller intensivo que hice,"
   },
   {
     "blog": "Mareos de un geek",
@@ -40,6 +47,20 @@
     "link": "https://matizeta.com/2025/10/01/yo-solo-elegi-meterme-en-este-lio/",
     "fecha": "01/10/2025",
     "contenido": "Debo confesar que muchas veces termino algo agotado de los proyectos. Me refiero a esos que son hobbies y que no me generan ningún rédito económico. Porque si vamos a sufrir al menos que sea ganando algo de dinero. Este blog nació con la idea sencilla de escribir y es por eso que elegí utilizar [&#8"
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "Oscilación moral",
+    "link": "http://locutusbit.blogspot.com/2025/10/oscilacion-moral.html",
+    "fecha": "01/10/2025",
+    "contenido": "&nbsp;La figura se agranda.El detalle se une a la materia del mundo.La comunidad conquistadahace el trabajo suplementario.Las mismas formas. Al mismo tiempo.Vínculo entre confección y exterminio.El sujeto. El objeto. Lo estético.El ideal es un producto de la metamorfosis.Pascual Herrera"
+  },
+  {
+    "blog": "esencial",
+    "titulo": "Resignación",
+    "link": "https://yeite.github.io/esencial/resignacion",
+    "fecha": "01/10/2025",
+    "contenido": "“La mayoría de la gente, en algún momento entre los veinticinco y los cuarenta años, se resigna. La gran mayoría de la gente que conozco está en pareja con su segunda opción, y la mitad de ellos lo niega. Conlleva menos riesgo."
   },
   {
     "blog": "Bits de Ocio",
@@ -273,13 +294,6 @@
     "contenido": "El cliente de correo Thunderbird está trabajando para incluir la vista de conversación de manera nativa en su bandeja de entrada"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Desnudo masculino a contraluz.",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/desnudo-masculino-a-contraluz/",
-    "fecha": "25/09/2025",
-    "contenido": "Aviso de contenido: escatología, descripción explícita de desnudo masculino\nNunca me han vuelto loca los cuerpos masculinos. El de las mujeres, a mi modo de ver, es infinitamente superior estéticamente. Muy pocas veces en mi vida, y cuando digo muy pocas lo que quiero decir es «me sobran varios dedo"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Presumir",
     "link": "https://jinversor.co/2025/09/presumir/",
@@ -313,26 +327,5 @@
     "link": "https://matizeta.com/2025/09/25/esencial/",
     "fecha": "25/09/2025",
     "contenido": "Esta pequeña web nació allá por el 2021, de la necesidad de tener un lugar en donde pueda compartir fragmentos de textos con los que me tropezaba y quedaban resonando en mi cabeza. ¿Porqué Esencial? Quizás inspirado por este texto que escribí hace ya algún tiempo, en un momento que estaba agotado me"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Darwinismo",
-    "link": "https://jinversor.co/2025/09/darwinismo/",
-    "fecha": "24/09/2025",
-    "contenido": "&#191;En qu&#233; cabeza cabe tener un pa&#237;s culto, bonito, ordenado, limpio y seguro y dejar entrar hordas de subhumanos sucios acostumbrados a vivir en la cochambre? Esa imbecilidad solo es [&#8230;]\nLa entrada Darwinismo se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida temporada 2025, episodio 39.",
-    "link": "https://escritura.social/norberto/mi-perra-vida-temporada-2025-episodio-39",
-    "fecha": "24/09/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Changelog: Channel2RSS 22 de septiembre de 2025",
-    "link": "https://interlan.ec/2025/09/24/changelog-channel2rss-22-de-septiembre-de-2025/",
-    "fecha": "24/09/2025",
-    "contenido": "Introducción Los feeds RSS son una herramienta muy útil para seguir las actualizaciones de blogs y otras plataformas que publiquen de forma regular, porque permiten obtener los artículos de forma organizada y también permiten utilizar las herramientas de tu gusto para leerlos sin necesitar pasar por"
   }
 ]
