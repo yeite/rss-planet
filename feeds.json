@@ -1,10 +1,38 @@
 [
   {
+    "blog": "RSS.app - Feed Generator",
+    "titulo": "Not found. Sign Up to RSS.app to use this feed.",
+    "link": "https://rss.app",
+    "fecha": "03/10/2025",
+    "contenido": "Not found. Sign Up to RSS.app to use this feed. - create a new RSS feed at RSS.app. - (Z2UoFd814d10jbq1)"
+  },
+  {
+    "blog": "Bits de Ocio",
+    "titulo": "Los Juegos de Mi Vida (VII)",
+    "link": "https://bitsdeocio.wordpress.com/2025/10/02/los-juegos-de-mi-vida-vii/",
+    "fecha": "02/10/2025",
+    "contenido": "Nueva entrega de «Los Juegos de Mi Vida» (que se estrenó originalmente el 7 de junio de 2025). Esta serie de vídeos es, básicamente, mi rincón para hablar, casi a vuelapluma, de los videojuegos que me han dejado huella. Hablo de títulos como «Assassin&#8217;s Creed II», «Ico» o «Gunstar Heroes», ent"
+  },
+  {
+    "blog": "Blog de Joselito",
+    "titulo": "Fin del podcast",
+    "link": "https://joselito.mataroa.blog/blog/fin-del-podcast/",
+    "fecha": "02/10/2025",
+    "contenido": "Ya hace bastante tiempo que no hago ningún podcast y he tomado la decisión final de terminar con el que era mi Podcast Personal. No lo voy a borrar (no sé si lo hará Acast, donde está alojado) pero ya no haré ninguno más. Bueno, tengo una copia de los audios también en mi nube Nextcloud.\nHace tiempo"
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Tengo que apuntarlo todo",
     "link": "https://adrianperales.com/2025/10/tengo-que-apuntarlo-todo/",
     "fecha": "02/10/2025",
     "contenido": "Desde hace ya bastante, pero en especial desde la baja por estrés, noto que mi memoria ya no es lo que era. Será la adultez, será la cantidad de obligaciones o será que mi cerebro no para quieto, pero he llegado a un punto en el que tengo que apuntar absolutamente todo lo que sea [&#8230;]"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – octubre de 2025",
+    "link": "https://victorhckinthefreeworld.com/2025/10/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-octubre-de-2025/",
+    "fecha": "02/10/2025",
+    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -14,11 +42,18 @@
     "contenido": "Anoche tuve una pequeña crisis existencial. Hablo en pasado como si, en efecto, se me hubiera pasado, pero de eso nada. Al final lo que ocurre es que una se acostumbra a seguir adelante cargando con la desazón y punto, como si en eso consistiera crecer. \nAnoche me preguntaba qué sentido tiene nada d"
   },
   {
-    "blog": "RSS.app - Feed Generator",
-    "titulo": "Not found. Sign Up to RSS.app to use this feed.",
-    "link": "https://rss.app",
+    "blog": "Jinversor",
+    "titulo": "Héroes del Silencio",
+    "link": "https://jinversor.co/2025/10/heroes-del-silencio/",
     "fecha": "02/10/2025",
-    "contenido": "Not found. Sign Up to RSS.app to use this feed. - create a new RSS feed at RSS.app. - (Z2UoFd814d10jbq1)"
+    "contenido": "No soy un gran fan del rock en espa&#241;ol. Creo que, en t&#233;rminos generales y salvo puntuales excepciones, se trata de un sonsonete una m&#250;sica parroquial, provinciana, muy lejana de [&#8230;]\nLa entrada Héroes del Silencio se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Escritos en la nube",
+    "titulo": "Adiós Bluesky, hola Wafrn",
+    "link": "https://nube.codeberg.page/blog/wafrn/",
+    "fecha": "02/10/2025",
+    "contenido": "Hace poco en este blog había mencionado que me encontraba usando Bluesky después de haberme tomado unas vacaciones del fediverse, para cuando escribí eso llevaba como un mes ahí.\nPero la luna de miel se acabó pronto, bueno, no del todo, pero hablaremos de ello más adelante.\n\n¿Por qué me gustaba Blue"
   },
   {
     "blog": "blog – matizeta",
@@ -26,6 +61,13 @@
     "link": "https://matizeta.com/2025/10/02/mi-news-52-semanas-llega-a-su-fin-spoiler-hay-uno-nuevo/",
     "fecha": "02/10/2025",
     "contenido": "Mientras escribía la publicación del último boletín de 52 semanas repentinamente tomé la decisión de darlo por finalizado, luego de 28 ediciones. Desde aquel primer número allá por el mes de enero, hubo muchos cambios tanto en mi vida personal como en el blog. De repente sentí que era momento de dar"
+  },
+  {
+    "blog": "esencial",
+    "titulo": "Life",
+    "link": "https://yeite.github.io/esencial/life",
+    "fecha": "02/10/2025",
+    "contenido": ""
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -278,26 +320,5 @@
     "link": "https://foodybp.blog/2025/09/26/proceso-estandar-para-guisos-en-robot/",
     "fecha": "26/09/2025",
     "contenido": "Todos los guisos siguen el mismo proceso con pequeñs variaciones."
-  },
-  {
-    "blog": "La Loica",
-    "titulo": "Tutorial: Tejer a crochet un gorrito estilo beanie",
-    "link": "https://laloica.noblogs.org/tutorial-tejer-a-crochet-un-gorrito-estilo-beanie/",
-    "fecha": "25/09/2025",
-    "contenido": "Materiales Puntos a Utilizar Paso a paso 1) Busca un gorro que te quede bien para tomar medidas de referencia. 2) Haz una tira de cadenetas para definir el alto de tu gorro; eso dependerá de qué lana estés usando y de qué tan grande lo quieras.En mi caso, estoy usando lanas reutilizadas y un ... Rea"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Presumir",
-    "link": "https://jinversor.co/2025/09/presumir/",
-    "fecha": "25/09/2025",
-    "contenido": "En el pat&#233;tico mundo de las redes sociales todo se trata de presumir o de vender. Entiendo lo segundo, todos debemos ganarnos la vida pero lo primero es desconcertante. &#191;De [&#8230;]\nLa entrada Presumir se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "#Video: Nirvana – Live at the Paramount – ARTE Concert",
-    "link": "https://blog.luiscarlospando.com/musica/2025/09/video-nirvana-live-at-the-paramount-arte-concert/",
-    "fecha": "25/09/2025",
-    "contenido": "Actualización &#8211; 30 de septiembre, 2025 @ 9:38 pm Me acabo de percatar que el canal de ARTE Concert acaba de tumbar el video. Que conste que les dije que el video tenía fecha de caducidad (aunque habían dicho que iba a estar disponible hasta el 24 de noviembre 🤔). Gracias por leer mi blog"
   }
 ]
