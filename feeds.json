@@ -3,8 +3,36 @@
     "blog": "RSS.app - Feed Generator",
     "titulo": "Not found. Sign Up to RSS.app to use this feed.",
     "link": "https://rss.app",
-    "fecha": "03/10/2025",
+    "fecha": "04/10/2025",
     "contenido": "Not found. Sign Up to RSS.app to use this feed. - create a new RSS feed at RSS.app. - (Z2UoFd814d10jbq1)"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "#Video: Agriculture en vivo (Subterranean Dissonance Fest 2025)",
+    "link": "https://blog.luiscarlospando.com/musica/2025/10/video-agriculture-en-vivo-subterranean-dissonance-fest-2025/",
+    "fecha": "04/10/2025",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 40 de 2025",
+    "link": "https://victorhckinthefreeworld.com/2025/10/03/opensuse-tumbleweed-revision-de-la-semana-40-de-2025/",
+    "fecha": "03/10/2025",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Fin de turno – Ejercicio de clase Semana 2 del Taller de Escritura Creativa Librería Luces 2025/2026",
+    "link": "https://mcallus.net/2025/10/03/fin-de-turno-ejercicio-de-clase-semana-2-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
+    "fecha": "03/10/2025",
+    "contenido": "Esta semana de nuevo teníamos un relato de escritura automática con palabras aleatorias que nos va diciendo la profesora. Como siempre os marco las palabras en el relato en cursiva y negrita. A todos nos gusta jugar un partido al fútbol en gravedad cero cuando el tiempo y las obligaciones nos dan un"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Articulo: Sincronización de Archivos con Unison",
+    "link": "https://interlan.ec/2025/10/03/articulo-sincronizacion-de-archivos-con-unison/",
+    "fecha": "03/10/2025",
+    "contenido": "Nexcloud ha recibido una actualización muy bonita, pero de nuevo no es el protagonista. Hoy voy a hablar de Unison, una herramienta de sincronización bilateral similar a Syncthing. XD Introducción De esta herramienta se habla menos que de syncthing, de hecho, la encontré de casualidad mientras busca"
   },
   {
     "blog": "blog – matizeta",
@@ -12,6 +40,13 @@
     "link": "https://matizeta.com/2025/10/03/con-esto-kindle-va-a-popularizar-los-enote/",
     "fecha": "03/10/2025",
     "contenido": "Hace tiempo que vengo siguiendo de cerca el mercado de las tablets de tinta electrónica, dispositivos de tinta electrónica para tomar notas. Dentro de varias marcas (casi todas chinas Boox, Bigme), sobresalen Supernote&#160;y reMarkeable. Todos estos dispositivos son costosos y difíciles de consegui"
+  },
+  {
+    "blog": "esencial",
+    "titulo": "El wen, el zhao y el wogh",
+    "link": "https://yeite.github.io/esencial/wen-zhao-wogh",
+    "fecha": "03/10/2025",
+    "contenido": "En la tradición china, la experiencia gastronómica puede ser dividida en tres estadios o niveles: el wen, el zao y el wogh. Cada uno de ellos describe no solo la manera en que consumimos alimentos, sino también cómo nos relacionamos con la comida y lo que ella evoca en nosotros."
   },
   {
     "blog": "Bits de Ocio",
@@ -287,13 +322,6 @@
     "contenido": "Como versionar tus ficheros de configuración usando un repo de git pero sin romper tu $HOME."
   },
   {
-    "blog": "Blog de Joselito",
-    "titulo": "Tener hijos",
-    "link": "https://joselito.mataroa.blog/blog/tener-hijos/",
-    "fecha": "27/09/2025",
-    "contenido": "Hoy os quería hablar sobre este tema tan particular. Yo no tengo hijos pero tampoco me arrepiento de ello, me encuentro bien. Mi mujer también comparte esta opinión.\nEs cierto que no es algo que hayamos buscado, ha venido así por diversas circunstancias. Es cierto que siempre estaremos con la duda d"
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Almendra",
     "link": "https://guillermolatorre.com/libros/almendra",
@@ -305,7 +333,7 @@
     "titulo": "La importancia de los videojuegos en mi vida",
     "link": "https://blog.luiscarlospando.com/personal/2025/09/la-importancia-de-los-videojuegos-en-mi-vida/",
     "fecha": "27/09/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "Crónicas Digitales",
@@ -313,19 +341,5 @@
     "link": "https://cronicasdigitales.mr-bytes.com/2025/09/integrando-el-sistema.html",
     "fecha": "27/09/2025",
     "contenido": "&nbsp;Nada me preparó para integrar los sistemas de un gigante de los alimentos con los de un gigante de los autoservicios. Esto me llevaría después a donde pocos habían ido antes: a integrar sistemas en tiempos donde la técnica para eso apenas se estaba escribiendo. También me llevaría a un proyect"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 39 de 2025",
-    "link": "https://victorhckinthefreeworld.com/2025/09/26/opensuse-tumbleweed-revision-de-la-semana-39-de-2025/",
-    "fecha": "26/09/2025",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Blogpocket Foodie",
-    "titulo": "Proceso estándar para guisos en robot",
-    "link": "https://foodybp.blog/2025/09/26/proceso-estandar-para-guisos-en-robot/",
-    "fecha": "26/09/2025",
-    "contenido": "Todos los guisos siguen el mismo proceso con pequeñs variaciones."
   }
 ]
