@@ -1,5 +1,19 @@
 [
   {
+    "blog": "RSS.app - Feed Generator",
+    "titulo": "Not found. Sign Up to RSS.app to use this feed.",
+    "link": "https://rss.app",
+    "fecha": "05/10/2025",
+    "contenido": "Not found. Sign Up to RSS.app to use this feed. - create a new RSS feed at RSS.app. - (Z2UoFd814d10jbq1)"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "La Free Software Foundation cumple 40 años",
+    "link": "https://victorhckinthefreeworld.com/2025/10/04/la-free-software-foundation-cumple-40-anos/",
+    "fecha": "04/10/2025",
+    "contenido": "40 años promoviendo la libertad de las personas que utilizan la informática. 40 años denunciando la injusticia del software privativo. Happy hacking"
+  },
+  {
     "blog": "plr blog",
     "titulo": "Las bibliotecas en Deseo de ser punk de Belén Gopegui",
     "link": "https://pedrolr.es/blog/las-bibliotecas-en-deseo-de-ser-punk-de-belen-gopegui/",
@@ -7,18 +21,25 @@
     "contenido": "Ayer miso acabé el libro de Belén Gopegui titulado Deseo de ser punk. Anoté diversos extractos y quería compartir aquí los que se refieren a bibliotecas. La protagonista plantea a lo largo del libro que necesitan unos locales a los que poder ir, estar con gente y en los que no hiciese falta pagar. M"
   },
   {
-    "blog": "RSS.app - Feed Generator",
-    "titulo": "Not found. Sign Up to RSS.app to use this feed.",
-    "link": "https://rss.app",
-    "fecha": "04/10/2025",
-    "contenido": "Not found. Sign Up to RSS.app to use this feed. - create a new RSS feed at RSS.app. - (Z2UoFd814d10jbq1)"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "#Video: Agriculture en vivo (Subterranean Dissonance Fest 2025)",
     "link": "https://blog.luiscarlospando.com/musica/2025/10/video-agriculture-en-vivo-subterranean-dissonance-fest-2025/",
     "fecha": "04/10/2025",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Me dan pánico los deepfakes",
+    "link": "https://www.macram.es/posts/2025-10-04-me-dan-panico-los-deepfakes/",
+    "fecha": "04/10/2025",
+    "contenido": "Estoy viendo la temporada actual de The Morning Show. Como ya comenté, ésta temporada tiene la IA como un elemento principal en sus tramas (es algo que se ve claro desde los primeros momentos, y vamos por el segundo capítulo y ya se han venido cositas).\nSeguro que hace poco os habéis cruzado con víd"
+  },
+  {
+    "blog": "El condón roto de GNU",
+    "titulo": "Lanzamiento Ubuntu Touch 20.04 OTA-10",
+    "link": "https://elcondonrotodegnu.wordpress.com/2025/10/04/lanzamiento-ubuntu-touch-20-04-ota-10/",
+    "fecha": "04/10/2025",
+    "contenido": "Lanzamiento Ubuntu Touch 20.04 OTA-10"
   },
   {
     "blog": "Victorhck in the free world",
@@ -320,33 +341,5 @@
     "link": "https://www.macram.es/series/verguenza/",
     "fecha": "28/09/2025",
     "contenido": "Vergüenza. El título de la serie no puede estar mejor puesto: cada capítulo me ha hecho sentir todavía más vergüenza ajena que el anterior. Y no tengo dudas de que es exactamente lo que pretende la serie.\nMe ha llamado mucho la atención, además, la trama de la tercera temporada. Las dos primeras era"
-  },
-  {
-    "blog": "JosemiGT | Blog | Jardín digital",
-    "titulo": "Usando un bare git repo para dotfiles",
-    "link": "https://josemigt.dev/posts/usando-bare-git-repo-dotfiles/",
-    "fecha": "28/09/2025",
-    "contenido": "Como versionar tus ficheros de configuración usando un repo de git pero sin romper tu $HOME."
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Almendra",
-    "link": "https://guillermolatorre.com/libros/almendra",
-    "fecha": "27/09/2025",
-    "contenido": "Fecha de lectura: 28/09/2025.Autor/a: Sohn Won-Pyung.Categoría: Ficción.Número de páginas: 256.Mi valoración: ★★★★☆Lo vi recomendado en una edici&oacute;n de Vereda y ha respondido a lo que esperaba. Es una lectura ligera, me lo he leído en un par de sentadas, pero la historia es potente y te atrapa"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "La importancia de los videojuegos en mi vida",
-    "link": "https://blog.luiscarlospando.com/personal/2025/09/la-importancia-de-los-videojuegos-en-mi-vida/",
-    "fecha": "27/09/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Crónicas Digitales",
-    "titulo": "Integrando el sistema",
-    "link": "https://cronicasdigitales.mr-bytes.com/2025/09/integrando-el-sistema.html",
-    "fecha": "27/09/2025",
-    "contenido": "&nbsp;Nada me preparó para integrar los sistemas de un gigante de los alimentos con los de un gigante de los autoservicios. Esto me llevaría después a donde pocos habían ido antes: a integrar sistemas en tiempos donde la técnica para eso apenas se estaba escribiendo. También me llevaría a un proyect"
   }
 ]
