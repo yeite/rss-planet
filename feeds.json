@@ -1,10 +1,31 @@
 [
   {
+    "blog": "Blog de Joselito",
+    "titulo": "Entrevista a sl1200",
+    "link": "https://joselito.mataroa.blog/blog/entrevista-a-sl1200/",
+    "fecha": "07/10/2025",
+    "contenido": "Web\nCápsula Gémini: gemini://sl1200.dystopic.world   Desde proxy\nFediverso: Akkoma\n1.- Buenas sl1200, gracias por participar en esta entrevista. La primera pregunta es obligada: ¿de dónde procede tu nick y por qué lo elegiste?\nR:\nEs simplemente un modelo de tocadiscos: el Technics SL1200, nunca lo t"
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "Películas de la temporada #7",
     "link": "https://thecheis.com/2025/10/07/peliculas-de-la-temporada-7/",
     "fecha": "07/10/2025",
     "contenido": "Séptima edición de estas entradas dedicadas a pelis que he visto recientemente, y como el número 7 es tan especial, he decidido darle un aire renovado a la sección. Antes tenía un estilo muy simple, con una lista numérica y unas notas aparte donde comentaba mis impresiones. Tras la evolución que suf"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "¿Por qué lloras?",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/por-que-lloras/",
+    "fecha": "07/10/2025",
+    "contenido": "Pocas cosas más incómodas que el llanto. Creo que si nos encontrásemos a un grupo de personas follando en plena calle nos resultaría mucho más fácil mirar que si nos cruzásemos con una persona llorando. El llanto nos descoloca, nos hace conectar con nuestra propia vulnerabilidad y nos pone de frente"
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Enjambre",
+    "link": "https://mcallus.net/2025/10/07/enjambre/",
+    "fecha": "07/10/2025",
+    "contenido": "Me llamaron Recipiente-42. Antes tuve otro nombre, otra vida. Cuando la colonia duerme, aún visualizo fragmentos. Cada ciclo me cuesta más alcanzarlos. Pronto, solo quedará el enjambre. Este microrrelato para el programa de la versalita se basa en esta cita de Clarice Lispector: «Me pusieron un nomb"
   },
   {
     "blog": "El cuarto de GatoOscuro",
@@ -26,6 +47,13 @@
     "link": "https://alt43.es/home-lab-nas-y-todo-lo-contrario/",
     "fecha": "07/10/2025",
     "contenido": "Con la intención de probar distribuciones Linux, servicios auto-hospedados y «cacharrear» en general, decidí adquirir un miniPC modesto&#46;&#46;&#46;"
+  },
+  {
+    "blog": "esencial",
+    "titulo": "Kintsugi",
+    "link": "https://yeite.github.io/esencial/kintsugi",
+    "fecha": "07/10/2025",
+    "contenido": ""
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -124,13 +152,6 @@
     "link": "https://blog.danielaragay.net/diversidad-gastronomica-de-tailandia-mucho-mas-que-curry-y-pad-thai/",
     "fecha": "05/10/2025",
     "contenido": "En occidente se suele reducir la cocina tailandesa a unos pocos platos tan emblem&#xe1;ticos como el Pad&#xa0;Thai o la sopa tom&#xa0;yum. Esta visi&#xf3;n se parece a la que muchos extranjeros tienen de Espa&#xf1;a: fuera del pa&#xed;s parece que"
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Sopa escocesa de puerro y patata",
-    "link": "https://puedellevarqueso.es/2025/10/sopa-escocesa-de-puerro-y-patata/",
-    "fecha": "05/10/2025",
-    "contenido": "En Gran Bretaña, «sopa» casi siempre significa «crema de verduras». Si lleva fideos, o caldo-con-cosas, hay que especificar. Algo que me gustó mucho cuando vivía en Escocia es que en todo tipo de locales pequeños, tipo cafeterías, había sopa, como mínimo la del día. Este clásico es la más simple. Se"
   },
   {
     "blog": "Victorhck in the free world",
@@ -273,6 +294,13 @@
     "contenido": "No soy un gran fan del rock en espa&#241;ol. Creo que, en t&#233;rminos generales y salvo puntuales excepciones, se trata de un sonsonete una m&#250;sica parroquial, provinciana, muy lejana de [&#8230;]\nLa entrada Héroes del Silencio se publicó primero en Jinversor."
   },
   {
+    "blog": "Escritos en la nube",
+    "titulo": "Adiós Bluesky, hola Wafrn",
+    "link": "https://nube.codeberg.page/blog/wafrn/",
+    "fecha": "02/10/2025",
+    "contenido": "Hace poco en este blog había mencionado que me encontraba usando Bluesky después de haberme tomado unas vacaciones del fediverse, para cuando escribí eso llevaba como un mes ahí.\nPero la luna de miel se acabó pronto, bueno, no del todo, pero hablaremos de ello más adelante.\n\n¿Por qué me gustaba Blue"
+  },
+  {
     "blog": "blog – matizeta",
     "titulo": "Mi news 52 semanas llega a su fin. Spoiler: hay uno nuevo",
     "link": "https://matizeta.com/2025/10/02/mi-news-52-semanas-llega-a-su-fin-spoiler-hay-uno-nuevo/",
@@ -348,33 +376,5 @@
     "link": "http://locutusbit.blogspot.com/2025/10/oscilacion-moral.html",
     "fecha": "01/10/2025",
     "contenido": "&nbsp;La figura se agranda.El detalle se une a la materia del mundo.La comunidad conquistadahace el trabajo suplementario.Las mismas formas. Al mismo tiempo.Vínculo entre confección y exterminio.El sujeto. El objeto. Lo estético.El ideal es un producto de la metamorfosis.Pascual Herrera"
-  },
-  {
-    "blog": "esencial",
-    "titulo": "Resignación",
-    "link": "https://yeite.github.io/esencial/resignacion",
-    "fecha": "01/10/2025",
-    "contenido": "“La mayoría de la gente, en algún momento entre los veinticinco y los cuarenta años, se resigna. La gran mayoría de la gente que conozco está en pareja con su segunda opción, y la mitad de ellos lo niega. Conlleva menos riesgo."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Contenido fascista",
-    "link": "https://jinversor.co/2025/09/contenido-fascista/",
-    "fecha": "30/09/2025",
-    "contenido": "Esta ma&#241;ana leyendo el feed de Matizeta que llega a mi correo encontr&#233; un post titulado &#171;La delgada l&#237;nea entre curadur&#237;a y censura&#187; en el cual su autor cuenta que [&#8230;]\nLa entrada Contenido fascista se publicó primero en Jinversor."
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Benedetti mas que un poeta",
-    "link": "https://polotman.wordpress.com/2025/09/30/benedetti-mas-que-un-poeta/",
-    "fecha": "30/09/2025",
-    "contenido": "#Arte #Delosnuestros #escritores #blog #ElSueñodelArtista #Benedetti El pasado 14 de septiembre pero de 1920 nacería en Paso del Toro Uruguay uno de los escritores que logró incursionar en casi todos los géneros literarios desde la novela hasta el teatro y la comedia siendo uno de los escritores lat"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Las JPOD 2025 prometen! y ventajas de ser un podcaster haciendo producciones",
-    "link": "https://blog.danielaragay.net/las-jpod-2025-prometen-y-ventajas-de-ser-un-podcaster-haciendo-producciones/",
-    "fecha": "30/09/2025",
-    "contenido": "En pocos d&#xed;as hemos pasado de la desilusi&#xf3;n a la emoci&#xf3;n y es que parece ser que van a pasar cosas muy chulas en las JPOD en Terrassa. Y te cuento una an&#xe9;cdota donde gracias a ser un podcaster empedernido, he podido"
   }
 ]
