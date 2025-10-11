@@ -1,5 +1,47 @@
 [
   {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Los nombres prestados",
+    "link": "https://guillermolatorre.com/libros/los-nombres-prestados",
+    "fecha": "10/10/2025",
+    "contenido": "Fecha de lectura: 04/10/2025.Autor/a: Alexis Ravelo.Categoría: Ficción.Número de páginas: 280.Mi valoración: ★★★★☆Primer libro que leo de Alexis Ravelo, por recomendación de varias personas de Canarias al charlar sobre autores de las islas. Me ha gustado mucho el libro, escrito de forma muy directa "
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 41 de 2025",
+    "link": "https://victorhckinthefreeworld.com/2025/10/10/opensuse-tumbleweed-revision-de-la-semana-41-de-2025/",
+    "fecha": "10/10/2025",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Resolución de problemas: Reparar Tabla wp_comment corrupted",
+    "link": "https://interlan.ec/2025/10/10/tabla-wpcomment-corrupted/",
+    "fecha": "10/10/2025",
+    "contenido": "Abrí mi blog y me encontré un aterrador error que decía: wp_comment corrupted. Exactamente así le pasó al creador del tutorial mas corto y directo que me sirvió para resolver el problema.\nLa entrada Resolución de problemas: Reparar Tabla wp_comment corrupted se publicó primero en Interlan."
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Palacio de la Conquista",
+    "link": "https://www.macram.es/fotografias/palacio-de-la-conquista/",
+    "fecha": "10/10/2025",
+    "contenido": "Este palacio se encuentra en la Plaza Mayor de Trujillo, y ese esquinazo es un sitio al que me podría pasar horas mirando, la verdad.\nAproveché para probar la cámara de mi iPhone 17 Pro. Muy interesante el zoom 8x en condiciones de buena luz."
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "478. Tres fases",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/10/478-tres-fases.html",
+    "fecha": "10/10/2025",
+    "contenido": "&nbsp; &nbsp; No puedo evitar ser escéptico o pesimista —como tú prefieras— respecto a la palabra paz.&nbsp; Ya sabéis, ese estado que tan mal se nos da desde el principio de los tiempos. Y esta vez la traen en tres fases: tregua, fin de la guerra (genocidio si así lo ves) y reconstrucción.&nbsp;&nb"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Suecia, ante la justicia de la UE por demoras en permisos de energías renovables",
+    "link": "https://blog.danielaragay.net/suecia-ante-la-justicia-de-la-ue-por-demoras-en-permisos-de-energias-renovables/",
+    "fecha": "10/10/2025",
+    "contenido": "La Comisi&#xf3;n Europea ha decidido llevar a Suecia ante el Tribunal de Justicia de la UE (TJUE) por no haber trasladado a su legislaci&#xf3;n nacional las nuevas normas comunitarias destinadas a agilizar la concesi&#xf3;n de permisos para proyectos de energ&#xed;as renovables solarstoragextra."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Mi sistema actual de tareas",
     "link": "https://adrianperales.com/2025/10/mi-sistema-actual-de-tareas/",
@@ -287,13 +329,6 @@
     "contenido": "#podcast #Blogs #ElSueñodelArtista #ElSueñoContinua #NotasparaunPodcast Desde hace un buen tiempo no publicaba ninguna entrada en el blog sobre los descubrimientos que fuera haciendo en el mundo de la realización del podcast así como las dudas que fueran surgiendo a lo largo del camino, cada entrada"
   },
   {
-    "blog": "Luis Carlos Pando",
-    "titulo": "#Video: Agriculture en vivo (Subterranean Dissonance Fest 2025)",
-    "link": "https://blog.luiscarlospando.com/musica/2025/10/video-agriculture-en-vivo-subterranean-dissonance-fest-2025/",
-    "fecha": "04/10/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "Me dan pánico los deepfakes",
     "link": "https://www.macram.es/posts/2025-10-04-me-dan-panico-los-deepfakes/",
@@ -313,33 +348,5 @@
     "link": "https://blog.danielaragay.net/el-ingrediente-inesperado-capitulo-12/",
     "fecha": "04/10/2025",
     "contenido": "El resto de la novela la puedes leer aqu&#xed;: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoFrente al port&#xf3;n azul, colgando de una cuerda trenzada, una peque&#xf1;a campanilla de bronce se balanceaba con el viento. Ten&#xed;a forma de hoja de bodhi, con un"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 40 de 2025",
-    "link": "https://victorhckinthefreeworld.com/2025/10/03/opensuse-tumbleweed-revision-de-la-semana-40-de-2025/",
-    "fecha": "03/10/2025",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Fin de turno – Ejercicio de clase Semana 2 del Taller de Escritura Creativa Librería Luces 2025/2026",
-    "link": "https://mcallus.net/2025/10/03/fin-de-turno-ejercicio-de-clase-semana-2-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
-    "fecha": "03/10/2025",
-    "contenido": "Esta semana de nuevo teníamos un relato de escritura automática con palabras aleatorias que nos va diciendo la profesora. Como siempre os marco las palabras en el relato en cursiva y negrita. A todos nos gusta jugar un partido al fútbol en gravedad cero cuando el tiempo y las obligaciones nos dan un"
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Articulo: Sincronización de Archivos con Unison",
-    "link": "https://interlan.ec/2025/10/03/articulo-sincronizacion-de-archivos-con-unison/",
-    "fecha": "03/10/2025",
-    "contenido": "Nexcloud ha recibido una actualización muy bonita, pero de nuevo no es el protagonista. Hoy voy a hablar de Unison, una herramienta de sincronización bilateral similar a Syncthing. XD Introducción De esta herramienta se habla menos que de syncthing, de hecho, la encontré de casualidad mientras busca"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Cómo la clonación de voz en DaVinci Resolve revoluciona tu podcast",
-    "link": "https://blog.danielaragay.net/como-la-clonacion-de-voz-en-davinci-resolve-revoluciona-tu-podcast/",
-    "fecha": "03/10/2025",
-    "contenido": "En este episodio de Maestro Podcaster te cuento c&#xf3;mo la clonaci&#xf3;n de voz en DaVinci Resolve Studio puede ayudarte a corregir errores sin regrabar y a transformar audios de mala calidad en grabaciones de estudio. Una herramienta que ahorra tiempo, mantiene la naturalidad y protege tu"
   }
 ]
