@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "La gata del balcón",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/la-gata-del-balcon/",
+    "fecha": "11/10/2025",
+    "contenido": "Esta mañana me he despertado e inmediatamente he empezado a sentirme mal: pensamientos intrusivos, desazón, presión en el pecho. He intentado domar al dragón respirando hondo, concentrándome en la luz que se filtraba por los huecos de la persiana, en el calor que emanaba el hombre que amo, tumbado a"
+  },
+  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Ejercicios de clase Semana 4 del Taller de Escritura Creativa Librería Luces 2025/2026",
     "link": "https://mcallus.net/2025/10/11/ejercicios-de-clase-semana-4-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
@@ -12,6 +19,20 @@
     "link": "https://blog.luiscarlospando.com/personal/2025/10/viviendo-solo/",
     "fecha": "11/10/2025",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "End3r.es",
+    "titulo": "Guerrilla Open Access Manifesto",
+    "link": "https://www.end3r.es/posts/008-guerrilla-open-access-manifesto/",
+    "fecha": "11/10/2025",
+    "contenido": "El Guerrilla Open Access Manifesto escrito por Aaron Swartz en 2008 es una llamada a democratizar\nel conocimiento, promoviendo una cultura de acceso libre y gratuito a la investigación y la información científica.\nEn un mundo cada vez más interconectado, este manifiesto aboga por eliminar barreras y"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#160: combatir el FOMO",
+    "link": "https://www.macram.es/posts/2025-10-11-combatir-el-fomo/",
+    "fecha": "11/10/2025",
+    "contenido": "Estos días son fiestas patronales en mi pueblo. Es cierto que es divertido salir, ver que hay mucha más actividad que de costumbre, ver a gente a la que habitualmente no ves porque están enterradas en trabajo o porque viven fuera. Pero esto acarrea también no ser dueño de tu propio tiempo y en ocasi"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -320,40 +341,5 @@
     "link": "https://puedellevarqueso.es/2025/10/sopa-escocesa-de-puerro-y-patata/",
     "fecha": "05/10/2025",
     "contenido": "En Gran Bretaña, «sopa» casi siempre significa «crema de verduras». Si lleva fideos, o caldo-con-cosas, hay que especificar. Algo que me gustó mucho cuando vivía en Escocia es que en todo tipo de locales pequeños, tipo cafeterías, había sopa, como mínimo la del día. Este clásico es la más simple. Se"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "La Free Software Foundation cumple 40 años",
-    "link": "https://victorhckinthefreeworld.com/2025/10/04/la-free-software-foundation-cumple-40-anos/",
-    "fecha": "04/10/2025",
-    "contenido": "40 años promoviendo la libertad de las personas que utilizan la informática. 40 años denunciando la injusticia del software privativo. Happy hacking"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Nota para un podcast : la distribución .",
-    "link": "https://polotman.wordpress.com/2025/10/04/nota-para-un-podcast-la-distribucion/",
-    "fecha": "04/10/2025",
-    "contenido": "#podcast #Blogs #ElSueñodelArtista #ElSueñoContinua #NotasparaunPodcast Desde hace un buen tiempo no publicaba ninguna entrada en el blog sobre los descubrimientos que fuera haciendo en el mundo de la realización del podcast así como las dudas que fueran surgiendo a lo largo del camino, cada entrada"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Me dan pánico los deepfakes",
-    "link": "https://www.macram.es/posts/2025-10-04-me-dan-panico-los-deepfakes/",
-    "fecha": "04/10/2025",
-    "contenido": "Estoy viendo la temporada actual de The Morning Show. Como ya comenté, ésta temporada tiene la IA como un elemento principal en sus tramas (es algo que se ve claro desde los primeros momentos, y vamos por el segundo capítulo y ya se han venido cositas).\nSeguro que hace poco os habéis cruzado con víd"
-  },
-  {
-    "blog": "El condón roto de GNU",
-    "titulo": "Lanzamiento Ubuntu Touch 20.04 OTA-10",
-    "link": "https://elcondonrotodegnu.wordpress.com/2025/10/04/lanzamiento-ubuntu-touch-20-04-ota-10/",
-    "fecha": "04/10/2025",
-    "contenido": "Lanzamiento Ubuntu Touch 20.04 OTA-10"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "“El ingrediente inesperado” - Capítulo 12",
-    "link": "https://blog.danielaragay.net/el-ingrediente-inesperado-capitulo-12/",
-    "fecha": "04/10/2025",
-    "contenido": "El resto de la novela la puedes leer aqu&#xed;: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoFrente al port&#xf3;n azul, colgando de una cuerda trenzada, una peque&#xf1;a campanilla de bronce se balanceaba con el viento. Ten&#xed;a forma de hoja de bodhi, con un"
   }
 ]
