@@ -1,5 +1,54 @@
 [
   {
+    "blog": "Bits de Ocio",
+    "titulo": "Los Juegos de Mi Vida (VIII)",
+    "link": "https://bitsdeocio.wordpress.com/2025/10/13/los-juegos-de-mi-vida-viii/",
+    "fecha": "13/10/2025",
+    "contenido": "¡Y por fin nos ponemos al día con la serie de «Los Juegos de Mi Vida»! Donde comento, sin ningún orden en concreto, las experiencias a los mandos que más me han marcado a lo largo de mi vida. Es, probáblemente, la serie de vídeo que más disfruto haciendo. En esta ocasión hablo de titanes [&#8230;]"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Vámonos de trenes con «El maquinista de La General»",
+    "link": "https://brucknerite.net/2025/10/vamonos-de-trenes-con-el-maquinista-de-la-general.html",
+    "fecha": "13/10/2025",
+    "contenido": "Hace como dos semanas le dije a mi hija, mujer de artes y en parte por eso mucho más cinéfila que un servidor, que nunca había visto «El maquinista de La General». La película de Buster Keaton es una de las obras maestras tempranas del cine. Cumplirá cien años en 2026, lo que la coloca ya muy lejos "
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Reflejos – Ejercicio de casa Semana 3 del Taller de Escritura Creativa Librería Luces 2025/2026",
+    "link": "https://mcallus.net/2025/10/13/reflejos-ejercicio-de-casa-semana-3-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
+    "fecha": "13/10/2025",
+    "contenido": "Esta semana en el ejercicio para casa, debíamos tratar de escribir un relato cotidiano introduciendo temas filosóficos o reflexivos. Nuestra inspiración debía ser Clarice Lispector. La verdad es que no lo he conseguido, pero es que tampoco me esforcé mucho. Al final lleve el relato un poco a mi terr"
+  },
+  {
+    "blog": "Proyecto para no aburrir",
+    "titulo": "Si activo la compatibilidad con lector de pantalla, por qué no funcionan bien los editores de documentos de Google",
+    "link": "https://ericdq.com/2025/10/13/activo-compatibilidad-lector-pantalla-funcionan-editores-documentos-google/",
+    "fecha": "13/10/2025",
+    "contenido": "Cada vez que configuro un navegador me hago esta pregunta. Y es que no es suficiente con activar la compatibilidad con lectores de pantalla, también hay que hacerlo con braille aunque no lo usemos. No entiendo por qué no lo dejan en una única opción."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La historia de Google Chrome, 17 años después",
+    "link": "https://mareosdeungeek.es/la-historia-de-google-chrome-17-anos-despues/",
+    "fecha": "13/10/2025",
+    "contenido": "Aunque con cierto retraso, pues fue el pasado 2 de septiembre, el navegador web de Google, Chrome, ha cumplido ya 17 años. Personalmente y dedicándome profesionalmente al desarrollo web, su aparición supuso un punto de inflexión. Nos encontrábamos en la segunda fase de la Guerra de los Navegadores, "
+  },
+  {
+    "blog": "blog – matizeta",
+    "titulo": "Mis primeros auriculares de oído abierto",
+    "link": "https://matizeta.com/2025/10/13/mis-primeros-auriculares-de-oido-abierto/",
+    "fecha": "13/10/2025",
+    "contenido": "Cuando salgo a andar en bici por la ciudad suelo llevar mis auriculares bluetooth no solo para escuchar música, sino para recibir indicaciones de voz de Google Maps para llegar a destino, sin tener que preocuparme por ir viendo el mapa, donde tener que doblar y demás.  Me es extremadamente útil dich"
+  },
+  {
+    "blog": "productor de sostenibilidad",
+    "titulo": "Límites planetarios, puntos de inflexión y ODS.",
+    "link": "https://productordesostenibilidad.es/2025/10/limites-planetarios-puntos-de-inflexion-y-ods/",
+    "fecha": "13/10/2025",
+    "contenido": "Algunas veces resulta difícil entender los mensajes que nos hablan de la salud del planeta que compartimos: Objetivos de Desarrollo Sostenible, límites planetarios, puntos de inflexión climática… suenan parecido pero no son lo mismo. Y nos pueden llevar a confusión ¿Cómo que hemos superado el primer"
+  },
+  {
     "blog": "Jinversor",
     "titulo": "El crash",
     "link": "https://jinversor.co/2025/10/el-crash/",
@@ -294,25 +343,11 @@
     "contenido": "Hace bastantes años cayó en mis manos un curioso librito de principios de los 2000 en formato apaisado. En su portada, la textura de formica de una barra de bar mostraba la marca dejada por un vaso de cerveza impresa con barniz. El título del libro era Hasta fin de existencias 2. Bares y cafeterías "
   },
   {
-    "blog": "Un bruto con Debian",
-    "titulo": "Acceso rápido a tus marcadores en Firefox",
-    "link": "http://unbrutocondebian.blogspot.com/2025/10/acceso-rapido-tus-marcadores-en-firefox.html",
-    "fecha": "06/10/2025",
-    "contenido": "¿Cada cuanto revisas tus marcadores? Yo tiendo a no revisarlos jamás, y eso me produce dos problemas. Uno, encontrar rápido el que quiero y dos, que el enlace no esté muerto y enterrado en el cementerio de las almas digitales.Para lo segundo, no hay mucha solución, pero para lo primero, al menos con"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "#Video: 31 Minutos: Tiny Desk Concert",
     "link": "https://blog.luiscarlospando.com/musica/2025/10/video-31-minutos-tiny-desk-concert/",
     "fecha": "06/10/2025",
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "blog – matizeta",
-    "titulo": "Tengo que empezar a soltar",
-    "link": "https://matizeta.com/2025/10/06/tengo-que-empezar-a-soltar/",
-    "fecha": "06/10/2025",
-    "contenido": "Ultimamente estoy reflexionando mucho sobre la continuidad de algunos de mis hobbies digitales, evaluando el tiempo que me lleva cada uno de ellos. Hace unos días nada más, comentaba sobre la complejidad que adquirió mi sitio web, que comenzó como un simple blog para escribir lo que por mi cabeza pa"
   },
   {
     "blog": "productor de sostenibilidad",
@@ -327,12 +362,5 @@
     "link": "https://blog.danielaragay.net/un-susto-matutino/",
     "fecha": "06/10/2025",
     "contenido": "Esta ma&#xf1;ana he tenido un peque&#xf1;o susto, pero en eso se ha quedado, estoy muy bien pero por otro lado me ha permitido conocer de primera mano un poco el sistema sanitario sueco.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto."
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Formes de parelles a Suècia",
-    "link": "https://blog.danielaragay.net/formes-de-parelles-a-suecia/",
-    "fecha": "06/10/2025",
-    "contenido": "Sambo, S&#xe4;rbo, Mambo/Pappbo, N&#xe4;rbo,&#x2026; diversitat de parelles que podr&#xe0;s trobar a Su&#xe8;cia.Tots els podcasts: aragay.netMastodon: masto.es/@proteusbcnBlog: danielaragay.net Telegram: t.me/haciendoelsuecoAjuda&#x2019;ns amb el nostre projecte a PATREON: patreon.com/c/"
   }
 ]
