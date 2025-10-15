@@ -7,11 +7,39 @@
     "contenido": "En el artículo anterior empezamos a ver juntos El maquinista de La General y quedamos en que os prestaría mi «ojo ferroviario» para que apreciáramos todos uno de los valores esenciales de la película: el homenaje al ferrocarril clásico. Que, en 1926, era un homenaje al ferrocarril, sin apellidos…"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#KDE cumple 29 años",
+    "link": "https://victorhckinthefreeworld.com/2025/10/14/kde-cumple-29-anos/",
+    "fecha": "14/10/2025",
+    "contenido": "La comunidad de KDE cumple 29 años lleno de vitalidad. Un proyecto que sigue evolucionando y mejorando es un proyecto vivo."
+  },
+  {
+    "blog": "Webnauta",
+    "titulo": "¿Quién será el autor?",
+    "link": "https://webnauta.blog/quien-sera-el-autor",
+    "fecha": "14/10/2025",
+    "contenido": "\n      \n\n    \n      Miguel Ángel y ChatGTP\n    \nMás allá del horizonte VII\nRecuerdo, con suma lucidez, un embrollo —políticamente sobredimensionado— de plagio (que por cierto este año cumple una década) acerca de un académico señalado de reproducir textos ajenos: más que la culpa de una persona pare"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Crackear un PDF",
+    "link": "https://jinversor.co/2025/10/crackear-un-pdf/",
+    "fecha": "14/10/2025",
+    "contenido": "Hoy aprenderemos a crackear un PDF protegido con contrase&#241;a mediante un ataque de diccionario. Este ser&#225; un post corto pues el procedimiento es muy sencillo. Sigan el procedimiento al pie [&#8230;]\nLa entrada Crackear un PDF se publicó primero en Jinversor."
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Fecha de vencimiento",
     "link": "https://jinversor.co/2025/10/fecha-de-vencimiento/",
     "fecha": "14/10/2025",
     "contenido": "Se acerca la hora para que expire el software por el cual usted pag&#243; cuando adquiri&#243; su computadora con Mierdasoft Windows. El software que le cost&#243; tiempo, que es vida, [&#8230;]\nLa entrada Fecha de vencimiento se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Fin del soporte de Windows 10",
+    "link": "https://mareosdeungeek.es/fin-del-soporte-de-windows-10/",
+    "fecha": "14/10/2025",
+    "contenido": "Ayer se acabo el ciclo oficial de soporte para Windows 10 poniendo fin a 10 años de esta versión del sistema operativo de Microsoft. Fue la elección que tomé al volver al mundo PC, sobre todo después de tener la Raspberry 400 para usar GNU / Linux (de hecho tuve que deshacerme de la partición [&#823"
   },
   {
     "blog": "blog – matizeta",
@@ -252,6 +280,13 @@
     "contenido": "Aprende cómo actualizar de Proxmox 8.x a 9.x en Debian 13 Trixie de forma segura y sin sorpresas."
   },
   {
+    "blog": "Teletex",
+    "titulo": "teletex (example)",
+    "link": "http://teletex.org/posts/2025/1010-example.html",
+    "fecha": "10/10/2025",
+    "contenido": ""
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Mi sistema actual de tareas",
     "link": "https://adrianperales.com/2025/10/mi-sistema-actual-de-tareas/",
@@ -389,20 +424,6 @@
     "titulo": "Doméstico",
     "link": "https://sopadeletras.club/efmorell/domestico",
     "fecha": "08/10/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Enjambre",
-    "link": "https://mcallus.net/2025/10/07/enjambre/",
-    "fecha": "07/10/2025",
-    "contenido": "Me llamaron Recipiente-42. Antes tuve otro nombre, otra vida. Cuando la colonia duerme, aún visualizo fragmentos. Cada ciclo me cuesta más alcanzarlos. Pronto, solo quedará el enjambre. Este microrrelato para el programa de la versalita se basa en esta cita de Clarice Lispector: «Me pusieron un nomb"
-  },
-  {
-    "blog": "zona de confort",
-    "titulo": "Lluvia",
-    "link": "https://sopadeletras.club/efmorell/lluvia",
-    "fecha": "07/10/2025",
     "contenido": ""
   }
 ]
