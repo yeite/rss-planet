@@ -1,5 +1,26 @@
 [
   {
+    "blog": "Jinversor",
+    "titulo": "Lo que nos espera",
+    "link": "https://jinversor.co/2025/10/lo-que-nos-espera/",
+    "fecha": "15/10/2025",
+    "contenido": "En los d&#237;as que estamos viviendo no es muy dif&#237;cil advertir lo que nos espera a los ciudadanos del com&#250;n. La vigilancia permanente sobre todos los elementos de la sociedad; [&#8230;]\nLa entrada Lo que nos espera se publicó primero en Jinversor."
+  },
+  {
+    "blog": "blog – matizeta",
+    "titulo": "YouTube Music no sabe hacer lo básico",
+    "link": "https://matizeta.com/2025/10/15/youtube-music-no-sabe-hacer-lo-basico/",
+    "fecha": "15/10/2025",
+    "contenido": "Últimamente estoy bastante molesto con YouTube Music, no es posible que lo básico que tiene que hacer un reproductor de música lo haga mal. Cosas sencillas como por ejemplo: YouTube Music tiene una pésima interfaz de usuario, es confusa e inconsistente. No entiendo que tenga tanta gente trabajando y"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Proxmox VE en Debian 13 &quot;Trixy&quot;",
+    "link": "https://voidnull.es/instalacion-de-proxmox-ve-en-debian-13-trixy/",
+    "fecha": "15/10/2025",
+    "contenido": "Por lo general si instalamos Proxmox VE lo que haremos será descargar la ISO donde ya vienen todos los paquetes necesarios. Pero en ocasiones, en interesante poder instalar Proxmox VE sobre un Debian 13 ya desplegado."
+  },
+  {
     "blog": "brucknerite",
     "titulo": "Bielas y vapores",
     "link": "https://brucknerite.net/2025/10/bielas-y-vapores.html",
@@ -371,13 +392,6 @@
     "contenido": ""
   },
   {
-    "blog": "Bits de Ocio",
-    "titulo": "Power Trios: El arte de hacer Rock con 3 componentes",
-    "link": "https://bitsdeocio.wordpress.com/2025/10/08/power-trios-el-arte-de-hacer-rock-con-3-componentes/",
-    "fecha": "08/10/2025",
-    "contenido": "Tras más de 5 años sin grabar un videoblog para mi canal de Youtube, me ha dado por retomar este tipo de contenido. Hoy repaso el arte de hacer Rock (y mucho más) con solo tres componentes. Hablamos de su historia, cómo la amplificación lo hizo posible y repasamos algunos de los power trios más [&#8"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Kwlejka para Plasma. Simplemente un área de texto para tu escritorio",
     "link": "https://victorhckinthefreeworld.com/2025/10/08/kwlejka-para-plasma-simplemente-un-area-de-texto-para-tu-escritorio/",
@@ -411,19 +425,5 @@
     "link": "https://blog.danielaragay.net/cambio-de-habitos-y-premios/",
     "fecha": "08/10/2025",
     "contenido": "Ya estoy en manos de doctores para asegurar que el susto fue sencillamente un susto. Si luego quieres votar este podcast a los premios de la asociaci&#xf3;n lo puedes hacer aqu&#xed; https://asociacionpodcast.es/votacion-final-xv-por-categorias-premios-de-la-asociacion-podcast-edicion-2025/Blog dani"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Kuvasz Uptime en  Debian 12",
-    "link": "https://voidnull.es/instalacion-de-kuvasz-uptime-en-debian-12/",
-    "fecha": "08/10/2025",
-    "contenido": "Gestiona tu biblioteca digital con estanterías inteligentes, sincronización con Kobo y KOReader, importación automática y lector integrado, todo desplegado fácilmente en Docker."
-  },
-  {
-    "blog": "zona de confort",
-    "titulo": "Doméstico",
-    "link": "https://sopadeletras.club/efmorell/domestico",
-    "fecha": "08/10/2025",
-    "contenido": ""
   }
 ]
