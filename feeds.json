@@ -1,10 +1,24 @@
 [
   {
     "blog": "Jinversor",
+    "titulo": "Entornos virtuales",
+    "link": "https://jinversor.co/2025/10/entornos-virtuales/",
+    "fecha": "15/10/2025",
+    "contenido": "Cuando trabajamos &#8212;o jugamos&#8212; con muchas aplicaciones hechas en Python es recomendable crear entornos virtuales (virtualenv o venv). De esta forma podemos estar seguros de que no habr&#225; choques entre [&#8230;]\nLa entrada Entornos virtuales se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Jinversor",
     "titulo": "Lo que nos espera",
     "link": "https://jinversor.co/2025/10/lo-que-nos-espera/",
     "fecha": "15/10/2025",
     "contenido": "En los d&#237;as que estamos viviendo no es muy dif&#237;cil advertir lo que nos espera a los ciudadanos del com&#250;n. La vigilancia permanente sobre todos los elementos de la sociedad; [&#8230;]\nLa entrada Lo que nos espera se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Revisando los logs de mi server: xmlrpc.php",
+    "link": "https://interlan.ec/2025/10/15/revisando-los-logs-de-mi-server-xmlrpc-php/",
+    "fecha": "15/10/2025",
+    "contenido": "Ya hace rato no publicaba sobre los logs de mi server. No es que falte material, pero lo que sucede parece rutinario ahora. El Evento y los logs Esta vez es curioso. Hoy al entrar en mi blog, no noté nada raro. De hecho, parecía estar mas fluido que de costumbre. Pero entré a mi [&#8230;]\nLa entrada"
   },
   {
     "blog": "blog – matizeta",
@@ -14,11 +28,53 @@
     "contenido": "Últimamente estoy bastante molesto con YouTube Music, no es posible que lo básico que tiene que hacer un reproductor de música lo haga mal. Cosas sencillas como por ejemplo: YouTube Music tiene una pésima interfaz de usuario, es confusa e inconsistente. No entiendo que tenga tanta gente trabajando y"
   },
   {
+    "blog": "La bitácora de Locutus",
+    "titulo": "Completud",
+    "link": "http://locutusbit.blogspot.com/2025/10/completud.html",
+    "fecha": "15/10/2025",
+    "contenido": "&nbsp;En el conjunto de las contradicciones,la espesura y la necesidad de abarcar con la miradatoda esa claridad que se dispersaentre conclusiones, argumentos y premisas,deja fluir las acusaciones de unos,las necesidades de otrosy esa determinada función,que se sumerge en el vago de mundo de las afi"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "479. Malos tiempos para el conde Drácula",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/10/479-malos-tiempos-para-el-conde-dracula.html",
+    "fecha": "15/10/2025",
+    "contenido": "&nbsp; &nbsp; Los buenos tiempos de Drácula quedaron atrás hace siglos, cuando la identidad de género obedecía al catolicismo. Entonces todo era blanco o negro. Sin embargo, como dijera uno de los entrañables personajes de un escritor llamado Irvine: «El mundo está cambiando, la música está cambiand"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Burbuja inmobiliaria en Suecia",
+    "link": "https://blog.danielaragay.net/burbuja-inmobiliaria-en-suecia/",
+    "fecha": "15/10/2025",
+    "contenido": "En 2022 sufrimos el estallido de una burbuja inmobiliaria que lleva arrastr&#xe1;ndose hasta hoy, a parte te comento una experiencia un tanto desagradable con un colaborador de la empresa.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalación de Proxmox VE en Debian 13 &quot;Trixy&quot;",
     "link": "https://voidnull.es/instalacion-de-proxmox-ve-en-debian-13-trixy/",
     "fecha": "15/10/2025",
     "contenido": "Por lo general si instalamos Proxmox VE lo que haremos será descargar la ISO donde ya vienen todos los paquetes necesarios. Pero en ocasiones, en interesante poder instalar Proxmox VE sobre un Debian 13 ya desplegado."
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "Contra Chat Control",
+    "link": "https://blog.elmundoesimperfecto.com/2025/10/15/contra-chatcontrol/",
+    "fecha": "15/10/2025",
+    "contenido": "\n\nA pesar de estar completamente en contra, la verdad es que no estoy muy seguro del estado actual del tema, pero llevamos un par de semanas con bastante intensidad sobre Chat Control (lo cuentan, por ejemplo, en Cruce de cables: Chat Control, el enésimo intento de ponerle puertas al campo mientras "
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "Contra chat control",
+    "link": "http://fernand0.github.io//contra-chat-control/",
+    "fecha": "15/10/2025",
+    "contenido": "No suelo hacer esto, de hecho creo que es la primera vez, pero voy a copiar un texto de mi otra bitácora porque el tema me parece importante y me preocupa. No sé si habrá mucha gente que lea las dos, supongo que no. A pesar de estar completamente en contra, la verdad es que no estoy muy seguro del e"
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Escuchando radios web alternativas",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/10/15/20251015-radios-web-alternativas/",
+    "fecha": "15/10/2025",
+    "contenido": "El descubrimiento de contendido musical por parte de humanos siempre tiene un componente extra"
   },
   {
     "blog": "brucknerite",
@@ -75,6 +131,13 @@
     "link": "https://voidnull.es/como-instalar-windows-11-en-tu-ordenador-personal/",
     "fecha": "14/10/2025",
     "contenido": "Guía rápida para instalar Windows 11 en tu PC paso a paso."
+  },
+  {
+    "blog": "Diana                                                       Laurencich",
+    "titulo": "¿BLOG? ¡¡¡BLOG!!!",
+    "link": "https://dianalaurencich.wordpress.com/2025/10/14/blog-blog/",
+    "fecha": "14/10/2025",
+    "contenido": "¡Blog! ¡Blog! Directorio de blogs en español Estoy entusiasmada. Gracias a la lectura de la 421, una interesante y recomendable revista &#8211; digo revista porque soy de la generación en la que circulaban en papel y eran irremplazables- que leo como boletín que me llega al mail, dónde aprendo cosas"
   },
   {
     "blog": "Bits de Ocio",
@@ -357,13 +420,6 @@
     "contenido": "Lo retro vuelve (o nunca se va).&#160;Kodak presentó las&#160;Kodak Charmera,&#160; unas cámara-llavero que cuestan USD 30. En total son 7 cámaras con distintos diseños, con la particularidad que el cliente no sabe cual de esos diseños hay dentro de la caja. Posee un sensor de 1,6 megapíxeles (con r"
   },
   {
-    "blog": "esencial",
-    "titulo": "Manifesto",
-    "link": "https://yeite.github.io/esencial/manifesto",
-    "fecha": "09/10/2025",
-    "contenido": "Esta es tu vida. Haz lo que amas, y hazlo frecuentemente. Si no te gusta algo, cámbialo. Si no te gusta tu trabajo, renuncia. Si no tienes suficiente tiempo, deja de ver televisión. Si estás buscando el amor de tu vida, detente; Te estará esperando cuando empieces a hacer las cosas que amas. Deja de"
-  },
-  {
     "blog": "impermanente",
     "titulo": "Street Art",
     "link": "https://impermanente.es/2025/10/09/street-art.html",
@@ -390,40 +446,5 @@
     "link": "https://sopadeletras.club/efmorell/material-de-arte",
     "fecha": "09/10/2025",
     "contenido": ""
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Kwlejka para Plasma. Simplemente un área de texto para tu escritorio",
-    "link": "https://victorhckinthefreeworld.com/2025/10/08/kwlejka-para-plasma-simplemente-un-area-de-texto-para-tu-escritorio/",
-    "fecha": "08/10/2025",
-    "contenido": "El widget Kwlejka para el escritorio Plasma de KDE te ofrece simplemente un área de texto en el que pegar, guardar texto en tu escritorio. Simple y útil"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "ARCH, rescatando caballos",
-    "link": "https://mareosdeungeek.es/arch-rescatando-caballos/",
-    "fecha": "08/10/2025",
-    "contenido": "En mi trabajo, todos los años podemos destinar un día para realizar una acción benéfica, este año hemos estado rescatando caballos en ARCH. ARCH son las siglas de Andalucian Rescue Centre for Horses o Centro Andalusí de Rescate de Caballos. ARCH es una asociación benéfica que acoge caballos y otros "
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#159: sobre los glitches en el opening de la nueva era de Gumball",
-    "link": "https://www.macram.es/posts/2025-10-08-gumball-glitches/",
-    "fecha": "08/10/2025",
-    "contenido": "El opening de la nueva era de Gumball, recientemente estrenada en HBO Max (aunque lleve unas semanas ya en Estados Unidos y, por tanto, circulando por los canales habituales) tiene una serie de glitches, de anomalías, que he tenido que ver varias veces y en distintas versiones porque he llegado a pe"
-  },
-  {
-    "blog": "blog – matizeta",
-    "titulo": "Resumen RSS por email",
-    "link": "https://matizeta.com/2025/10/08/resumen-rss-por-email/",
-    "fecha": "08/10/2025",
-    "contenido": "Lo primero que pensarás al leer el título es ¿que sentido tiene recibir RSS por email cuando una de las razones para utilizarlo es evitar llenar la casilla de mail con esos boletínes? Quiero comentarte porque aveces creo que es una buena opción. Microsiervos es un blog que me gusta y resulta interes"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Cambio de hábitos y premios",
-    "link": "https://blog.danielaragay.net/cambio-de-habitos-y-premios/",
-    "fecha": "08/10/2025",
-    "contenido": "Ya estoy en manos de doctores para asegurar que el susto fue sencillamente un susto. Si luego quieres votar este podcast a los premios de la asociaci&#xf3;n lo puedes hacer aqu&#xed; https://asociacionpodcast.es/votacion-final-xv-por-categorias-premios-de-la-asociacion-podcast-edicion-2025/Blog dani"
   }
 ]
