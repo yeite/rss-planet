@@ -1,10 +1,24 @@
 [
   {
+    "blog": "Ubuntu Peronista",
+    "titulo": "¿Cómo cambio la posición de la tecla Ctrl en Ubuntu?",
+    "link": "https://ubuntuperonista.blogspot.com/2025/08/como-cambio-la-posicion-de-la-tecla-ctrl-en-ubuntu.html",
+    "fecha": "16/10/2025",
+    "contenido": "&nbsp;El 25 de mayo de 1949 Juan Perón publica su Mensaje a la Juventud con motivo de la Fecha Patria. En el mismo expone cómo intercambiar la posición de la tecla Ctrl con BloqMayús en Ubuntu para poder escribir al estilo del editor WordStar y otros.&nbsp;\"Jóvenes argentinos:Reverenciamos hoy a los"
+  },
+  {
     "blog": "yejokjanan",
     "titulo": "Mi nuevo viejo portátil",
     "link": "https://blog.yejokjanan.xyz/mi-nuevo-viejo-portatil/",
     "fecha": "16/10/2025",
     "contenido": "Tengo un nuevo integrante en la banda, se trata de un nuevo pero viejo computador port&#xe1;til que le he comprado a una amiga que se fue a vivir a otro pa&#xed;s. Se trata nada m&#xe1;s y nada menos que de un HP Stream X360"
+  },
+  {
+    "blog": "Blog de Joselito",
+    "titulo": "PC, s con IA",
+    "link": "https://joselito.mataroa.blog/blog/pc-s-con-ia/",
+    "fecha": "16/10/2025",
+    "contenido": "El próximo paso que se quiere dar en los PC,s (al menos con Windows) es que una IA controle todo el PC y puedas hablar directamente con él y que te ayude en cualquier cosa que necesites. Ya se van dando poco a poco los pasos para que esto sea una realidad.\nEn Windows ya se empezó la andadura con Cor"
   },
   {
     "blog": "Adrián Perales",
@@ -21,6 +35,20 @@
     "contenido": "En el anterior artículo de esta serie vimos cómo de peligroso podía ser sentarse en una de las bielas de una locomotora de vapor cuando podía ponerse en marcha en cualquier momento. Hoy nos vamos a fijar en una escena muy corta, pero reveladora de cómo han cambiado los trenes desde los tiempos de la"
   },
   {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "Que no, que no me muero.",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/que-no-que-no-me-muero/",
+    "fecha": "16/10/2025",
+    "contenido": "O, al menos, no todavía. \nQue no, que no me muero es el cómic de mi amiga Mariache, que he acabado de leer hoy mismo y que os recomiendo muy fuerte a pesar de que, oh inyustisia, está tremendamente descatalogado. Pero, quién sabe, lo mismo hay suerte y lo encuentras en alguna biblioteca o similar. M"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Contra el Fediverso",
+    "link": "https://jinversor.co/2025/10/contra-el-fediverso/",
+    "fecha": "16/10/2025",
+    "contenido": "Creo que s&#233; un poco de tecnolog&#237;a pero confieso que no ten&#237;a ni idea de lo que era el Fediverso. Hasta hace poco era algo que no me despertaba ning&#250;n [&#8230;]\nLa entrada Contra el Fediverso se publicó primero en Jinversor."
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Auditar una cuenta Bitcoin",
     "link": "https://jinversor.co/2025/10/auditar-una-cuenta-bitcoin/",
@@ -28,11 +56,39 @@
     "contenido": "BTC no es an&#243;nimo como Monero. Tan solo es pseud&#243;nimo, privado si se quiere. Cualquier persona puede auditar una cuenta Bitcoin cuando lo desee y saber qu&#233; movimientos se han [&#8230;]\nLa entrada Auditar una cuenta Bitcoin se publicó primero en Jinversor."
   },
   {
+    "blog": "Posts on Mi blog",
+    "titulo": "Self-Hosting: cómo recuperé el control de mis servicios (y aprendí en el proceso)",
+    "link": "https://blog.taller404.org/posts/selfhosting/",
+    "fecha": "16/10/2025",
+    "contenido": "Self-Hosting: cómo recuperé el control de mis servicios (y aprendí en el proceso)\nAntes de empezar aclarar que No soy experto, ni llevo diez años en esto. Pero si algo he aprendido en este camino es que no necesitas ser un ingeniero de Google para empezar a alojar tus propios servicios. Solo necesit"
+  },
+  {
+    "blog": "ladoB – matizeta",
+    "titulo": "Teoría de la gravedad",
+    "link": "https://matizeta.com/2025/10/16/teoria-de-la-gravedad/",
+    "fecha": "16/10/2025",
+    "contenido": "El libro es una recopilación de relatos, cuentos y ensayos cortos que Leila Guerriero escribió para una columna del diario El País."
+  },
+  {
+    "blog": "esencial",
+    "titulo": "¿Qué harías de tu vida si el dinero no importara?",
+    "link": "https://yeite.github.io/esencial/si-el-dinero-no-importara",
+    "fecha": "16/10/2025",
+    "contenido": ""
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Primer contacto con UGREEN NASync DXP4800",
     "link": "https://voidnull.es/primer-contacto-con-ugreen-nasync-dxp4800/",
     "fecha": "16/10/2025",
     "contenido": "El UGREEN NASync DXP4800 es un NAS versátil basado en Debian 12, con opción de instalar Proxmox y separar datos de tu infraestructura principal."
+  },
+  {
+    "blog": "Si dios te da limones",
+    "titulo": "Hecho por un tuerto, no por ia",
+    "link": "https://sidiostedalimones.com/blog/2025/no-por-ia/",
+    "fecha": "16/10/2025",
+    "contenido": ""
   },
   {
     "blog": "Jinversor",
@@ -390,33 +446,5 @@
     "link": "https://voidnull.es/actualizar-proxmox-8-x-a-proxmox-9-x-con-debian-13/",
     "fecha": "10/10/2025",
     "contenido": "Aprende cómo actualizar de Proxmox 8.x a 9.x en Debian 13 Trixie de forma segura y sin sorpresas."
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "¡Jimmy al rescate! – Ejercicio de clase Semana 3 del Taller de Escritura Creativa Librería Luces 2025/2026",
-    "link": "https://mcallus.net/2025/10/09/jimmy-al-rescate-ejercicio-de-clase-semana-3-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
-    "fecha": "09/10/2025",
-    "contenido": "El ejercicio de clase de esta semana consistió en, inspirados por tres cartas de corte surrealista, escribir lo que nos surgiera. En mi caso escribí algo un tanto loco, aunque lo finalicé de forma algo previsible pero bueno, estoy contento porque lo escribí rapidísimo dejándome llevar a tope y sin p"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Arduino es adquirida por Qualcomm",
-    "link": "https://mareosdeungeek.es/arduino-es-adquirida-por-qualcomm/",
-    "fecha": "09/10/2025",
-    "contenido": "La empresa californiana Qualcomm se está moviendo mucho en el tema de alianzas y adquisiciones, la italiana Arduino ha sido su última compra. Arduino es la plataforma más popular de electrónica abierta, está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desar"
-  },
-  {
-    "blog": "NeoSite Blog",
-    "titulo": "RomM: Gestiona y Disfruta tu Colección de Roms vía web",
-    "link": "https://blog.neosite.com.ar/romm-gestiona-y-disfruta-tu-coleccion-de-roms-via-web/",
-    "fecha": "09/10/2025",
-    "contenido": "En el universo de la emulaci&#xf3;n y los videojuegos retro, mantener una colecci&#xf3;n de ROMs organizada, accesible y bien presentada puede ser un desaf&#xed;o tan grande como superar el &#xfa;ltimo nivel de Contra. Afortunadamente, existen herramientas que nos facilitan esta tarea enormemente. H"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Street Art",
-    "link": "https://impermanente.es/2025/10/09/street-art.html",
-    "fecha": "09/10/2025",
-    "contenido": "\n\n\n\n\n\n\n\n\n"
   }
 ]
