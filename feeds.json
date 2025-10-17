@@ -1,5 +1,40 @@
 [
   {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Comentando Hija de la venganza Páginas 1 a 100 – Club de lectura de Librería Luces en Instagram",
+    "link": "https://mcallus.net/2025/10/17/hija-de-la-venganza-pagina-1-a-100/",
+    "fecha": "17/10/2025",
+    "contenido": "Librería Luces puso la semana pasada en marcha un club de lectura a través de Instagram y tuve claro que participaría en la experiencia porque disfruto mucho del club de lectura presencial que la librería también organiza (aunque la de Instagram será completamente distinta al no ser en directo habla"
+  },
+  {
+    "blog": "post-it – matizeta",
+    "titulo": "writerdeckOS",
+    "link": "https://matizeta.com/2025/10/17/writerdeckos/",
+    "fecha": "17/10/2025",
+    "contenido": "Un «Writer Deck» es un dispositivo dedicado para escribir, libre de distracciones.  WriterdekOS es una distro Linux (montada sobre un Debian) que nos permite transformar nuestra PC o Notebook para usarla con una única función: la de escribir. El único requerimiento que sea un procesador de 64 bits ("
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Angelo Pierattini: 30 años de rock (y también cebolla)",
+    "link": "https://altgr.xyz/2025/10/17/angelo-pierattini-30-anos-de-rock-y-tambien-cebolla/",
+    "fecha": "17/10/2025",
+    "contenido": "Angelo Pierattini es, muy probablemente, el artista al que más veces he visto en vivo sumando sus diferentes proyectos. Y es que, para mí, es uno de los mejores y más talentosos músicos chilenos de su generación. Es de esos artistas que viven la música con pasión, que aman lo que hacen y llevan la e"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Hacer un build de un DockerFile #8",
+    "link": "https://voidnull.es/hacer-un-build-de-un-dockerfile/",
+    "fecha": "17/10/2025",
+    "contenido": "Aprende a crear imágenes con Dockerfile usando docker build y ejecutar contenedores personalizados."
+  },
+  {
+    "blog": "Si dios te da limones",
+    "titulo": "52",
+    "link": "https://sidiostedalimones.com/blog/2025/52/",
+    "fecha": "17/10/2025",
+    "contenido": ""
+  },
+  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo cambio la posición de la tecla Ctrl en Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2025/08/como-cambio-la-posicion-de-la-tecla-ctrl-en-ubuntu.html",
@@ -439,12 +474,5 @@
     "link": "https://blog.danielaragay.net/suecia-ante-la-justicia-de-la-ue-por-demoras-en-permisos-de-energias-renovables/",
     "fecha": "10/10/2025",
     "contenido": "La Comisi&#xf3;n Europea ha decidido llevar a Suecia ante el Tribunal de Justicia de la UE (TJUE) por no haber trasladado a su legislaci&#xf3;n nacional las nuevas normas comunitarias destinadas a agilizar la concesi&#xf3;n de permisos para proyectos de energ&#xed;as renovables solarstoragextra."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Actualizar Proxmox 8.x a Proxmox 9.x con Debian 13",
-    "link": "https://voidnull.es/actualizar-proxmox-8-x-a-proxmox-9-x-con-debian-13/",
-    "fecha": "10/10/2025",
-    "contenido": "Aprende cómo actualizar de Proxmox 8.x a 9.x en Debian 13 Trixie de forma segura y sin sorpresas."
   }
 ]
