@@ -1,5 +1,26 @@
 [
   {
+    "blog": "La Loica",
+    "titulo": "Revista Labores – Septiembre de 1958",
+    "link": "https://laloica.noblogs.org/revista-labores-septiembre-de-1958/",
+    "fecha": "17/10/2025",
+    "contenido": "La revista de esta semana llegó a mis manos como un regalo de una persona que conoce este proyecto llamado Biblioteca Doméstica. Creo que, hasta el momento, es la publicación más antigua que he compartido: data de septiembre de 1958. Esta edición pertenece a la serie Labores, un suplemento mensual d"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 42 de 2025",
+    "link": "https://victorhckinthefreeworld.com/2025/10/17/opensuse-tumbleweed-revision-de-la-semana-42-de-2025/",
+    "fecha": "17/10/2025",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Compré un Flipper Zero.",
+    "link": "https://jinversor.co/2025/10/compre-un-flipper-zero/",
+    "fecha": "17/10/2025",
+    "contenido": "S&#237;, compr&#233; un Flipper Zero. No s&#233; para qu&#233; carajos pero lo compr&#233;. S&#233; que al igual que me pas&#243; con el Bash Bunny y el USB Rubber Ducky, el [&#8230;]\nLa entrada Compré un Flipper Zero. se publicó primero en Jinversor."
+  },
+  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Comentando Hija de la venganza Páginas 1 a 100 – Club de lectura de Librería Luces en Instagram",
     "link": "https://mcallus.net/2025/10/17/hija-de-la-venganza-pagina-1-a-100/",
@@ -7,11 +28,25 @@
     "contenido": "Librería Luces puso la semana pasada en marcha un club de lectura a través de Instagram y tuve claro que participaría en la experiencia porque disfruto mucho del club de lectura presencial que la librería también organiza (aunque la de Instagram será completamente distinta al no ser en directo habla"
   },
   {
+    "blog": "Interlan",
+    "titulo": "Resolución de problemas: Not owned by user postfix",
+    "link": "https://interlan.ec/2025/10/17/error-sender-address-rejected-not-owned-by-user-postfix/",
+    "fecha": "17/10/2025",
+    "contenido": "Este es de los problemas que te encontrarías solo por hacer las cosas de forma manual, no tendrás que prestarle mucha atención con un sistema completo como Mailú, del que ya hablé alguna vez.\nLa entrada Resolución de problemas: Not owned by user postfix se publicó primero en Interlan."
+  },
+  {
     "blog": "post-it – matizeta",
     "titulo": "writerdeckOS",
     "link": "https://matizeta.com/2025/10/17/writerdeckos/",
     "fecha": "17/10/2025",
     "contenido": "Un «Writer Deck» es un dispositivo dedicado para escribir, libre de distracciones.  WriterdekOS es una distro Linux (montada sobre un Debian) que nos permite transformar nuestra PC o Notebook para usarla con una única función: la de escribir. El único requerimiento que sea un procesador de 64 bits ("
+  },
+  {
+    "blog": "esencial",
+    "titulo": "Acto de Rebeldía",
+    "link": "https://yeite.github.io/esencial/acto-de-rebeldia",
+    "fecha": "17/10/2025",
+    "contenido": "“En la era del consumo, reparar es un acto de rebeldía”"
   },
   {
     "blog": "Eterno aprendiz",
@@ -31,6 +66,13 @@
     "blog": "Si dios te da limones",
     "titulo": "52",
     "link": "https://sidiostedalimones.com/blog/2025/52/",
+    "fecha": "17/10/2025",
+    "contenido": ""
+  },
+  {
+    "blog": "zona de confort",
+    "titulo": "Mis tres películas favoritas de animación que no son de Disney/Pixar",
+    "link": "https://sopadeletras.club/efmorell/mis-tres-peliculas-favoritas-de-animacion-que-no-son-de-disney-pixar",
     "fecha": "17/10/2025",
     "contenido": ""
   },
@@ -392,13 +434,6 @@
     "contenido": "Este viernes 10 de octubre Lucybell se despidió de los escenarios después de más de 30 años de carrera. Una banda que ha marcado muchos momentos de, al menos, un par de generaciones en Chile. En un concierto de 3 horas pasaron por toda su discografía con un público que estuvo muy entusiasmado cantan"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "La gata del balcón",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/la-gata-del-balcon/",
-    "fecha": "11/10/2025",
-    "contenido": "Esta mañana me he despertado e inmediatamente he empezado a sentirme mal: pensamientos intrusivos, desazón, presión en el pecho. He intentado domar al dragón respirando hondo, concentrándome en la luz que se filtraba por los huecos de la persiana, en el calor que emanaba el hombre que amo, tumbado a"
-  },
-  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Ejercicios de clase Semana 4 del Taller de Escritura Creativa Librería Luces 2025/2026",
     "link": "https://mcallus.net/2025/10/11/ejercicios-de-clase-semana-4-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
@@ -413,13 +448,6 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "End3r.es",
-    "titulo": "Guerrilla Open Access Manifesto",
-    "link": "https://www.end3r.es/posts/008-guerrilla-open-access-manifesto/",
-    "fecha": "11/10/2025",
-    "contenido": "El Guerrilla Open Access Manifesto escrito por Aaron Swartz en 2008 es una llamada a democratizar\nel conocimiento, promoviendo una cultura de acceso libre y gratuito a la investigación y la información científica.\nEn un mundo cada vez más interconectado, este manifiesto aboga por eliminar barreras y"
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "#160: combatir el FOMO",
     "link": "https://www.macram.es/posts/2025-10-11-combatir-el-fomo/",
@@ -432,47 +460,5 @@
     "link": "https://sopadeletras.club/efmorell/silencio",
     "fecha": "11/10/2025",
     "contenido": ""
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Los nombres prestados",
-    "link": "https://guillermolatorre.com/libros/los-nombres-prestados",
-    "fecha": "10/10/2025",
-    "contenido": "Fecha de lectura: 04/10/2025.Autor/a: Alexis Ravelo.Categoría: Ficción.Número de páginas: 280.Mi valoración: ★★★★☆Primer libro que leo de Alexis Ravelo, por recomendación de varias personas de Canarias al charlar sobre autores de las islas. Me ha gustado mucho el libro, escrito de forma muy directa "
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 41 de 2025",
-    "link": "https://victorhckinthefreeworld.com/2025/10/10/opensuse-tumbleweed-revision-de-la-semana-41-de-2025/",
-    "fecha": "10/10/2025",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Resolución de problemas: Reparar Tabla wp_comment corrupted",
-    "link": "https://interlan.ec/2025/10/10/tabla-wpcomment-corrupted/",
-    "fecha": "10/10/2025",
-    "contenido": "Abrí mi blog y me encontré un aterrador error que decía: wp_comment corrupted. Exactamente así le pasó al creador del tutorial mas corto y directo que me sirvió para resolver el problema.\nLa entrada Resolución de problemas: Reparar Tabla wp_comment corrupted se publicó primero en Interlan."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Palacio de la Conquista",
-    "link": "https://www.macram.es/fotografias/palacio-de-la-conquista/",
-    "fecha": "10/10/2025",
-    "contenido": "Este palacio se encuentra en la Plaza Mayor de Trujillo, y ese esquinazo es un sitio al que me podría pasar horas mirando, la verdad.\nAproveché para probar la cámara de mi iPhone 17 Pro. Muy interesante el zoom 8x en condiciones de buena luz."
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "478. Tres fases",
-    "link": "https://lamadredelpatonegro.blogspot.com/2025/10/478-tres-fases.html",
-    "fecha": "10/10/2025",
-    "contenido": "&nbsp; &nbsp; No puedo evitar ser escéptico o pesimista —como tú prefieras— respecto a la palabra paz.&nbsp; Ya sabéis, ese estado que tan mal se nos da desde el principio de los tiempos. Y esta vez la traen en tres fases: tregua, fin de la guerra (genocidio si así lo ves) y reconstrucción.&nbsp;&nb"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Suecia, ante la justicia de la UE por demoras en permisos de energías renovables",
-    "link": "https://blog.danielaragay.net/suecia-ante-la-justicia-de-la-ue-por-demoras-en-permisos-de-energias-renovables/",
-    "fecha": "10/10/2025",
-    "contenido": "La Comisi&#xf3;n Europea ha decidido llevar a Suecia ante el Tribunal de Justicia de la UE (TJUE) por no haber trasladado a su legislaci&#xf3;n nacional las nuevas normas comunitarias destinadas a agilizar la concesi&#xf3;n de permisos para proyectos de energ&#xed;as renovables solarstoragextra."
   }
 ]
