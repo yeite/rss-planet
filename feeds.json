@@ -1,5 +1,68 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "Techos de locomotoras",
+    "link": "https://brucknerite.net/2025/10/techos-de-locomotoras.html",
+    "fecha": "20/10/2025",
+    "contenido": "La acción de El maquinista de La General recurre en varias ocasiones al desenganche de coches y vagones de trenes para progresar, pero ¿qué película de acción ferroviaria no incluye un paseo por el techo de un tren en marcha?"
+  },
+  {
+    "blog": "Mindeka",
+    "titulo": "Deshabilitar uso de contraseña en conexiones SSH",
+    "link": "https://mindeka.es/2025/10/20/deshabilitar-uso-de-contrasena-en-conexiones-ssh/",
+    "fecha": "20/10/2025",
+    "contenido": "Algo que no tenía hecho en mi mini-pc después de mi última reinstalación desde cero, fue, primeramente crear mis claves públicas y privadas en cada uno de los equipos desde los que accedo a mi servidor casero y posteriormente deshabilitar el acceso por contraseña mediante mis conexiones por SSH. Y s"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "No estoy solo ❤️",
+    "link": "https://blog.luiscarlospando.com/personal/2025/10/no-estoy-solo-%e2%9d%a4%ef%b8%8f/",
+    "fecha": "20/10/2025",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Navegador Android con soporte para extensiones: ULTIMATUM",
+    "link": "https://alt43.es/navegador-android-con-soporte-para-extensiones-ultimatum/",
+    "fecha": "20/10/2025",
+    "contenido": "Otro proyecto unipersonal de código abierto que trata de normalizar algo, que debería ser básico hoy en día,&#46;&#46;&#46;"
+  },
+  {
+    "blog": "End3r.es",
+    "titulo": "Des-Googlear",
+    "link": "https://www.end3r.es/posts/009-des-googlear/",
+    "fecha": "20/10/2025",
+    "contenido": "Nunca he sido un asiduo de los servicios de terceros, de hecho nunca he tenido cuentas en Facebook, Instagram,\nTikTok ni similares. Solamente una cuenta en Twitter cerrada hace años. En la actualidad en lo referente a redes\nsociales unicamente utilizo Mastodon.\nCon Google el punto de inflexión llegó"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Revolá",
+    "link": "https://www.macram.es/musica/revola-sanguijuelas-del-guadiana/",
+    "fecha": "20/10/2025",
+    "contenido": "Los Sanguijuelas del Guadiana están siendo una auténtica revolución en muchos círculos. En mi entorno inmediato, formado por extremeños que se han podido quedar, por extremeños que nos hemos podido volver y por extremeños que por desgracia tuvieron que emigrar, han sido un auténtico hit.\nUn disco cr"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Nuevo diseño para la portada",
+    "link": "https://www.macram.es/posts/2025-10-20-nueva-portada/",
+    "fecha": "20/10/2025",
+    "contenido": "Si sois de los que navegáis por Internet y pasáis por la página principal de este blog habréis observado que hay un nuevo diseño de la home. El principal cambio es que ahora podéis ver una línea de tiempo donde están todos los posts, tanto los destacados como las notas de la bitácora.\nAlgunas podrán"
+  },
+  {
+    "blog": "blog – matizeta",
+    "titulo": "Tener un blog es una perdida de tiempo",
+    "link": "https://matizeta.com/2025/10/20/tener-un-blog-es-una-perdida-de-tiempo/",
+    "fecha": "20/10/2025",
+    "contenido": "Lo dice quien busca reconocimiento, quien escribe sin pasión, el que cuenta los likes, el que mira a través de las estadísticas.&#160; Empecé el blog hace más de un año creyendo que estaban extintos, que solo iba a estar escribiendo yo mientras otros hacían bailecitos en TikTok, comentaban alguna te"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de AdGuard Home en Proxmox",
+    "link": "https://voidnull.es/instalacion-de-adguard-home-en-proxmox-2/",
+    "fecha": "20/10/2025",
+    "contenido": "AdGuard Home bloquea anuncios y rastreadores a nivel de red usando DNS, mejorando privacidad y rendimiento."
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Xeno-canto. La wiki de los cantos de los pájaros",
     "link": "https://victorhckinthefreeworld.com/2025/10/19/xeno-canto-la-wiki-de-los-cantos-de-los-pajaros/",
@@ -399,20 +462,6 @@
     "contenido": "¡Blog! ¡Blog! Directorio de blogs en español Estoy entusiasmada. Gracias a la lectura de la 421, una interesante y recomendable revista &#8211; digo revista porque soy de la generación en la que circulaban en papel y eran irremplazables- que leo como boletín que me llega al mail, dónde aprendo cosas"
   },
   {
-    "blog": "Bits de Ocio",
-    "titulo": "Los Juegos de Mi Vida (VIII)",
-    "link": "https://bitsdeocio.wordpress.com/2025/10/13/los-juegos-de-mi-vida-viii/",
-    "fecha": "13/10/2025",
-    "contenido": "¡Y por fin nos ponemos al día con la serie de «Los Juegos de Mi Vida»! Donde comento, sin ningún orden en concreto, las experiencias a los mandos que más me han marcado a lo largo de mi vida. Es, probáblemente, la serie de vídeo que más disfruto haciendo. En esta ocasión hablo de titanes [&#8230;]"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "Vámonos de trenes con «El maquinista de La General»",
-    "link": "https://brucknerite.net/2025/10/vamonos-de-trenes-con-el-maquinista-de-la-general.html",
-    "fecha": "13/10/2025",
-    "contenido": "Hace como dos semanas le dije a mi hija, mujer de artes y en parte por eso mucho más cinéfila que un servidor, que nunca había visto «El maquinista de La General». La película de Buster Keaton es una de las obras maestras tempranas del cine. Cumplirá cien años en 2026, lo que la coloca ya muy lejos "
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Osintgram ha vuelto",
     "link": "https://jinversor.co/2025/10/osintgram-ha-vuelto/",
@@ -420,59 +469,10 @@
     "contenido": "Me complace mucho que Osintgram, la herramienta para auditar cuentas de Instagram haya vuelto. Creo que esta es una de las mejores herramientas concebidas para este prop&#243;sito. Hace mucho us&#233; [&#8230;]\nLa entrada Osintgram ha vuelto se publicó primero en Jinversor."
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Reflejos – Ejercicio de casa Semana 3 del Taller de Escritura Creativa Librería Luces 2025/2026",
-    "link": "https://mcallus.net/2025/10/13/reflejos-ejercicio-de-casa-semana-3-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
-    "fecha": "13/10/2025",
-    "contenido": "Esta semana en el ejercicio para casa, debíamos tratar de escribir un relato cotidiano introduciendo temas filosóficos o reflexivos. Nuestra inspiración debía ser Clarice Lispector. La verdad es que no lo he conseguido, pero es que tampoco me esforcé mucho. Al final lleve el relato un poco a mi terr"
-  },
-  {
-    "blog": "Proyecto para no aburrir",
-    "titulo": "Si activo la compatibilidad con lector de pantalla, por qué no funcionan bien los editores de documentos de Google",
-    "link": "https://ericdq.com/2025/10/13/activo-compatibilidad-lector-pantalla-funcionan-editores-documentos-google/",
-    "fecha": "13/10/2025",
-    "contenido": "Cada vez que configuro un navegador me hago esta pregunta. Y es que no es suficiente con activar la compatibilidad con lectores de pantalla, también hay que hacerlo con braille aunque no lo usemos. No entiendo por qué no lo dejan en una única opción."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "La historia de Google Chrome, 17 años después",
-    "link": "https://mareosdeungeek.es/la-historia-de-google-chrome-17-anos-despues/",
-    "fecha": "13/10/2025",
-    "contenido": "Aunque con cierto retraso, pues fue el pasado 2 de septiembre, el navegador web de Google, Chrome, ha cumplido ya 17 años. Personalmente y dedicándome profesionalmente al desarrollo web, su aparición supuso un punto de inflexión. Nos encontrábamos en la segunda fase de la Guerra de los Navegadores, "
-  },
-  {
-    "blog": "blog – matizeta",
-    "titulo": "Mis primeros auriculares de oído abierto",
-    "link": "https://matizeta.com/2025/10/13/mis-primeros-auriculares-de-oido-abierto/",
-    "fecha": "13/10/2025",
-    "contenido": "Cuando salgo a andar en bici por la ciudad suelo llevar mis auriculares bluetooth no solo para escuchar música, sino para recibir indicaciones de voz de Google Maps para llegar a destino, sin tener que preocuparme por ir viendo el mapa, donde tener que doblar y demás.  Me es extremadamente útil dich"
-  },
-  {
-    "blog": "productor de sostenibilidad",
-    "titulo": "Límites planetarios, puntos de inflexión y ODS.",
-    "link": "https://productordesostenibilidad.es/2025/10/limites-planetarios-puntos-de-inflexion-y-ods/",
-    "fecha": "13/10/2025",
-    "contenido": "Algunas veces resulta difícil entender los mensajes que nos hablan de la salud del planeta que compartimos: Objetivos de Desarrollo Sostenible, límites planetarios, puntos de inflexión climática… suenan parecido pero no son lo mismo. Y nos pueden llevar a confusión ¿Cómo que hemos superado el primer"
-  },
-  {
     "blog": "impermanente",
     "titulo": "Las noticias, más lento",
     "link": "https://impermanente.es/2025/10/14/las-noticias-ms-lento.html",
     "fecha": "13/10/2025",
     "contenido": "Como parte de mi proceso de dejar todas las redes que no son del Fediverso, y de la mano con mi recientemente actualizada y curada lista de feeds RSS, me bajé el app de Kagi News. Y es que el tener un app de noticias que ofrezca perspectivas múltiples y cero clickbait es una propuesta muy interesant"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "La revolución ñoña",
-    "link": "https://altgr.xyz/2025/10/13/la-revolucion-nona/",
-    "fecha": "13/10/2025",
-    "contenido": "El objetivo de esta publicación es intentar dar una idea del significado que en Chile le damos a la palabra «Ñoño», que es diferente del utilizado en otros países de habla hispana y ni siquiera está documentado por la RAE. Como es un término que uso habitualmente en redes sociales, me parece importa"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Loops en Ubuntu 24.04",
-    "link": "https://voidnull.es/instalacion-de-loops-en-ubuntu-24-04/",
-    "fecha": "13/10/2025",
-    "contenido": "Loops es una plataforma de vídeos cortos similar a TikTok, pero basada en ActivityPub, lo que la hace parte del Fediverso."
   }
 ]
