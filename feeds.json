@@ -7,6 +7,27 @@
     "contenido": "Descubre la diversidad de cantos de los distintos pájaros y aves de todo el mundo con este gran compendio de audios de sus cantos"
   },
   {
+    "blog": "Escritos en la nube",
+    "titulo": "Fluentflame, nuestro lector RSS",
+    "link": "https://nube.codeberg.page/blog/fluentflame/",
+    "fecha": "19/10/2025",
+    "contenido": "Hace tiempo lo mencioné en mis redes pero no profundicé mucho en el tema: estoy participando en el desarrollo de un lector RSS de código abierto (sí, ya sé que existen muchos y probablemente alguna persona me dirá que hasta mejores, está bien).\nFluentflame para mi no es solo un proyecto, es un bebé."
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#162 He comenzado a jugar al Pokémon Leyendas Z-A",
+    "link": "https://www.macram.es/posts/2025-10-12-161-pokemon-leyendas-z-a/",
+    "fecha": "19/10/2025",
+    "contenido": "Tan pronto se pudo reservé la última entrega de los juegos de Pokémon. Pokémon Leyendas Z-A se llama y tiene algunos cambios respecto de las ediciones anteriores. Me reenganché a la saga con Escudo/Espada (en mi caso Escudo), jugué el remake de Perla (y lo vendí sin terminarlo porque reconozco que n"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Pensamiento de blog #1",
+    "link": "https://impermanente.es/2025/10/19/pensamiento-de-blog.html",
+    "fecha": "19/10/2025",
+    "contenido": "Muchos les dirán que deben definir objetivos claros y específicos para su vida. Pero la vida es impredecible, las cosas son impermanentes, todo cambia, todo está en movimiento. Definir metas específicas usualmente no hace más que causar ansiedad.\nEntonces, en lugar de definir lo que debe ser, simple"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Ping #11: Actualizaciones, novedades y ranking de distros",
     "link": "https://voidnull.es/ping-11/",
@@ -17,6 +38,13 @@
     "blog": "Si dios te da limones",
     "titulo": "You won't be alone",
     "link": "https://sidiostedalimones.com/blog/2025/you-wont-be-alone/",
+    "fecha": "19/10/2025",
+    "contenido": ""
+  },
+  {
+    "blog": "zona de confort",
+    "titulo": "¿Vale la pena escribir?",
+    "link": "https://sopadeletras.club/efmorell/vale-la-pena-escribir",
     "fecha": "19/10/2025",
     "contenido": ""
   },
@@ -446,33 +474,5 @@
     "link": "https://voidnull.es/instalacion-de-loops-en-ubuntu-24-04/",
     "fecha": "13/10/2025",
     "contenido": "Loops es una plataforma de vídeos cortos similar a TikTok, pero basada en ActivityPub, lo que la hace parte del Fediverso."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "El crash",
-    "link": "https://jinversor.co/2025/10/el-crash/",
-    "fecha": "12/10/2025",
-    "contenido": "Mientras los mercados financieros se tambaleaban por el crash, o m&#225;s bien por el supuesto crash, aprovech&#233; para adquirir algunos activos a descuento. Es el eterno ciclo de los mercados [&#8230;]\nLa entrada El crash se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Poquita Fe",
-    "link": "https://www.macram.es/series/poquita-fe/",
-    "fecha": "12/10/2025",
-    "contenido": "El universo de Montero y Maidagán es imperdible, surrealista, y maravilloso. Y en la segunda temporada de Poquita Fe abordan la cuestión de la vivienda desde la óptica de esta serie, basada en las historias pequeñas y en parecer un falso documental lleno de confesionales.\nPoquita Fe es casi una obra"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#161",
-    "link": "https://www.macram.es/posts/2025-10-11-161/",
-    "fecha": "12/10/2025",
-    "contenido": "Nunca pensé que diría en alto estas palabras, pero me muero de ganas de volver al gimnasio. Calculo que iré el martes o el miércoles (mañana es festivo nacional). Total, para mí el año empieza ahora\nIntentaré retomar pero después de tres meses sin aparecer por allí (dos de ellos pagados por adelanta"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Embajada, iPhone 12 Pro Max y concierto en Londres",
-    "link": "https://blog.danielaragay.net/embajada-iphone-12-pro-max-y-concierto-en-londres/",
-    "fecha": "12/10/2025",
-    "contenido": "Un poco de todo, desde lo que comimos en la embajada espa&#xf1;ola, hasta un concierto de un grupo m&#xed;tico en Londres, pasando por la venta del iPhone 12 Pro Max.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7;"
   }
 ]
