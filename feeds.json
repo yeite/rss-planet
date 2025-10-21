@@ -36,6 +36,13 @@
   },
   {
     "blog": "Mi blog on Manu Mateos",
+    "titulo": "#163 Sobre el cambio horario",
+    "link": "https://www.macram.es/posts/2025-10-20-cambio-horario/",
+    "fecha": "20/10/2025",
+    "contenido": "Me llama la atención que, con el tema de la posible eliminación del cambio horario, todos tengamos una opinión extremadamente formada, extremadamente fuerte y extremadamente visceral. Yo también la tengo, que conste: que nos quedemos en UTC+1.\nTal como he puesto en Mastodon:\n\nLa hora que marca el re"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
     "titulo": "Revolá",
     "link": "https://www.macram.es/musica/revola-sanguijuelas-del-guadiana/",
     "fecha": "20/10/2025",
@@ -54,6 +61,20 @@
     "link": "https://matizeta.com/2025/10/20/tener-un-blog-es-una-perdida-de-tiempo/",
     "fecha": "20/10/2025",
     "contenido": "Lo dice quien busca reconocimiento, quien escribe sin pasión, el que cuenta los likes, el que mira a través de las estadísticas.&#160; Empecé el blog hace más de un año creyendo que estaban extintos, que solo iba a estar escribiendo yo mientras otros hacían bailecitos en TikTok, comentaban alguna te"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Rico, drama en la oficina",
+    "link": "https://blog.danielaragay.net/rico-drama-en-la-oficina/",
+    "fecha": "20/10/2025",
+    "contenido": "Rico ha protagonizado un peque&#xf1;o drama en la oficina! &#x1f602;Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@haciendoelsueco/episod"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Una Noche de Rock Estratosférico con Steven Wilson",
+    "link": "https://altgr.xyz/2025/10/20/una-noche-de-rock-estratosferico-con-steven-wilson/",
+    "fecha": "20/10/2025",
+    "contenido": "El domingo por la noche fui a ver al prodigio de la música Steven Wilson al Movistar Arena. El inicio del concierto me encontró comprando agua en el kiosko. Tuve que correr para llegar a la cancha y encontrar una buena ubicación. No fue difícil, pues el recinto estaba lejos de estar lleno y con canc"
   },
   {
     "blog": "_ voidNull",
@@ -460,19 +481,5 @@
     "link": "https://dianalaurencich.wordpress.com/2025/10/14/blog-blog/",
     "fecha": "14/10/2025",
     "contenido": "¡Blog! ¡Blog! Directorio de blogs en español Estoy entusiasmada. Gracias a la lectura de la 421, una interesante y recomendable revista &#8211; digo revista porque soy de la generación en la que circulaban en papel y eran irremplazables- que leo como boletín que me llega al mail, dónde aprendo cosas"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Osintgram ha vuelto",
-    "link": "https://jinversor.co/2025/10/osintgram-ha-vuelto/",
-    "fecha": "13/10/2025",
-    "contenido": "Me complace mucho que Osintgram, la herramienta para auditar cuentas de Instagram haya vuelto. Creo que esta es una de las mejores herramientas concebidas para este prop&#243;sito. Hace mucho us&#233; [&#8230;]\nLa entrada Osintgram ha vuelto se publicó primero en Jinversor."
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Las noticias, más lento",
-    "link": "https://impermanente.es/2025/10/14/las-noticias-ms-lento.html",
-    "fecha": "13/10/2025",
-    "contenido": "Como parte de mi proceso de dejar todas las redes que no son del Fediverso, y de la mano con mi recientemente actualizada y curada lista de feeds RSS, me bajé el app de Kagi News. Y es que el tener un app de noticias que ofrezca perspectivas múltiples y cero clickbait es una propuesta muy interesant"
   }
 ]
