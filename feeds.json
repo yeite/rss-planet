@@ -1,6 +1,41 @@
 [
   {
     "blog": "brucknerite",
+    "titulo": "Curvas y morteros",
+    "link": "https://brucknerite.net/2025/10/curvas-y-morteros.html",
+    "fecha": "21/10/2025",
+    "contenido": "Esta es buena. Johnnie ha enganchado a su locomotora un mortero que se encontró en un pequeño apartadero. En plena guerra supongo que estas cosas podían pasar. En un primer intento de disparo lo carga con un poco de pólvora, una bala y ¡pum! Cae a sus pies dentro de la locomotora, para general hilar"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Tener menos",
+    "link": "https://jinversor.co/2025/10/tener-menos/",
+    "fecha": "21/10/2025",
+    "contenido": "A medida que pasa el tiempo vamos acumulando cosas que terminan por abrumarnos. Cosas y m&#225;s cosas que compramos con el dinero que obtenemos por nuestro tiempo. Muchas de esas [&#8230;]\nLa entrada Tener menos se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Papel Continuo",
+    "titulo": "Printing Films: Archivo audiovisual del mundo impreso",
+    "link": "https://papelcontinuo.net/3405/printing-films-archivo-audiovisual-del-mundo-impreso/",
+    "fecha": "21/10/2025",
+    "contenido": "Printing Films es un proyecto de Doug Wilson, diseñador, director y apasionado de la tipografía conocido por su documental Linotype: The Film. Al terminar la película, Wilson siguió recopilando materiales históricos relacionados con el oficio de la imprenta, y de ahí nació PrintingFilms.com: un arch"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#164: la bolsa de la papelera",
+    "link": "https://www.macram.es/posts/2025-10-21-la-bolsa-de-la-papelera/",
+    "fecha": "21/10/2025",
+    "contenido": "Una cosa que me molesta es ir a tirar algo a la papelera o al cubo de la basura y que no haya bolsa. Y estoy seguro de que a vosotros os pasa lo mismo. Da rabia, ¿verdad? Pues he visto que hay un truco que me funciona bastante bien para tener siempre una bolsa a mano y que no me cueste reponerla cua"
+  },
+  {
+    "blog": "post-it – matizeta",
+    "titulo": "Ollee Watch",
+    "link": "https://matizeta.com/2025/10/21/ollee-watch/",
+    "fecha": "21/10/2025",
+    "contenido": "Somos muchos los que queremos que Casio actualice los módulos de sus clásicos  F-91W, A158W con funcionalidad de reloj inteligente. Como Casio no piensa hacerlo, una empresa llamada Ollee Watch comenzó a comercializar la venta de un módulo para convertirlo en un smartwatch.  El modulo es compatible "
+  },
+  {
+    "blog": "brucknerite",
     "titulo": "Techos de locomotoras",
     "link": "https://brucknerite.net/2025/10/techos-de-locomotoras.html",
     "fecha": "20/10/2025",
@@ -420,13 +455,6 @@
     "contenido": "El descubrimiento de contendido musical por parte de humanos siempre tiene un componente extra"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Bielas y vapores",
-    "link": "https://brucknerite.net/2025/10/bielas-y-vapores.html",
-    "fecha": "14/10/2025",
-    "contenido": "En el artículo anterior empezamos a ver juntos El maquinista de La General y quedamos en que os prestaría mi «ojo ferroviario» para que apreciáramos todos uno de los valores esenciales de la película: el homenaje al ferrocarril clásico. Que, en 1926, era un homenaje al ferrocarril, sin apellidos…"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#KDE cumple 29 años",
     "link": "https://victorhckinthefreeworld.com/2025/10/14/kde-cumple-29-anos/",
@@ -448,32 +476,11 @@
     "contenido": "Hoy aprenderemos a crackear un PDF protegido con contrase&#241;a mediante un ataque de diccionario. Este ser&#225; un post corto pues el procedimiento es muy sencillo. Sigan el procedimiento al pie [&#8230;]\nLa entrada Crackear un PDF se publicó primero en Jinversor."
   },
   {
-    "blog": "Jinversor",
-    "titulo": "Fecha de vencimiento",
-    "link": "https://jinversor.co/2025/10/fecha-de-vencimiento/",
-    "fecha": "14/10/2025",
-    "contenido": "Se acerca la hora para que expire el software por el cual usted pag&#243; cuando adquiri&#243; su computadora con Mierdasoft Windows. El software que le cost&#243; tiempo, que es vida, [&#8230;]\nLa entrada Fecha de vencimiento se publicó primero en Jinversor."
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "Fin del soporte de Windows 10",
     "link": "https://mareosdeungeek.es/fin-del-soporte-de-windows-10/",
     "fecha": "14/10/2025",
     "contenido": "Ayer se acabo el ciclo oficial de soporte para Windows 10 poniendo fin a 10 años de esta versión del sistema operativo de Microsoft. Fue la elección que tomé al volver al mundo PC, sobre todo después de tener la Raspberry 400 para usar GNU / Linux (de hecho tuve que deshacerme de la partición [&#823"
-  },
-  {
-    "blog": "blog – matizeta",
-    "titulo": "Tropiezos con Linux",
-    "link": "https://matizeta.com/2025/10/14/tropiezos-con-linux/",
-    "fecha": "14/10/2025",
-    "contenido": "Recientemente decidí revivir una vieja Mini PC que tenía dando vueltas en casa. Su especificaciones son muy modestas: Intel Celeron N3160 y 4GB de RAM, cuenta con muchas conexiones en un diminuto tamaño. Creí que sería buena idea utilizar una PC especifica para descargas y si el hardware lo permite,"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Cómo instalar Windows 11 en tu ordenador personal",
-    "link": "https://voidnull.es/como-instalar-windows-11-en-tu-ordenador-personal/",
-    "fecha": "14/10/2025",
-    "contenido": "Guía rápida para instalar Windows 11 en tu PC paso a paso."
   },
   {
     "blog": "Diana                                                       Laurencich",
