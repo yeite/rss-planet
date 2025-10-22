@@ -1,10 +1,31 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "Talones y agujas",
+    "link": "https://brucknerite.net/2025/10/talones-y-agujas.html",
+    "fecha": "22/10/2025",
+    "contenido": "¡La persecución continúa! En artículos anteriores nos hemos sentado en la biela de una locomotora en marcha, hemos desenganchado vagones, nos hemos subido al techo de una locomotora y hemos disparado un mortero que estaba detrás de nuestra locomotora y apuntado hacia delante, pero no nos ha dado gra"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Zabbix 7.x en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-zabbix-7-x-en-debian-13/",
+    "fecha": "22/10/2025",
+    "contenido": "Zabbix es un software de monitoreo de infraestructura bajo licencia GPLv3, muy popular y con muchas funcionalidades desarrollado en PHP."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "La migración de un Omen-CE a GNU-Linux",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/10/22/20251022-la-migracion-de-omen-ce/",
     "fecha": "22/10/2025",
     "contenido": "Cuando se cierran ventanas, puede que se abra una nueva puerta de salida"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "Bitácora de la Vergüenza Ajena ( el blog que se escribe solo)",
+    "link": "https://docig.bearblog.dev/bitacora-de-la-verguenza-ajena-el-blog-que-se-escribe-solo/",
+    "fecha": "22/10/2025",
+    "contenido": "El blog, que de tan solo llamarse \"Bitácora de la Vergüenza Ajena\" ya lo decía todo, empezó su insólito ejercicio de autoría sin que nadie se lo pidiera, menos aún su supuesto dueño, un tal Roque que prefería la quietud del sillón a la intemperancia del teclado. La primera entrada fue un escueto, ca"
   },
   {
     "blog": "La Loica",
@@ -462,32 +483,11 @@
     "contenido": "Cuando trabajamos &#8212;o jugamos&#8212; con muchas aplicaciones hechas en Python es recomendable crear entornos virtuales (virtualenv o venv). De esta forma podemos estar seguros de que no habr&#225; choques entre [&#8230;]\nLa entrada Entornos virtuales se publicó primero en Jinversor."
   },
   {
-    "blog": "Jinversor",
-    "titulo": "Lo que nos espera",
-    "link": "https://jinversor.co/2025/10/lo-que-nos-espera/",
-    "fecha": "15/10/2025",
-    "contenido": "En los d&#237;as que estamos viviendo no es muy dif&#237;cil advertir lo que nos espera a los ciudadanos del com&#250;n. La vigilancia permanente sobre todos los elementos de la sociedad; [&#8230;]\nLa entrada Lo que nos espera se publicó primero en Jinversor."
-  },
-  {
     "blog": "Interlan",
     "titulo": "Revisando los logs de mi server: xmlrpc.php",
     "link": "https://interlan.ec/2025/10/15/revisando-los-logs-de-mi-server-xmlrpc-php/",
     "fecha": "15/10/2025",
     "contenido": "Ya hace rato no publicaba sobre los logs de mi server. No es que falte material, pero lo que sucede parece rutinario ahora. El Evento y los logs Esta vez es curioso. Hoy al entrar en mi blog, no noté nada raro. De hecho, parecía estar mas fluido que de costumbre. Pero entré a mi [&#8230;]\nLa entrada"
-  },
-  {
-    "blog": "blog – matizeta",
-    "titulo": "YouTube Music no sabe hacer lo básico",
-    "link": "https://matizeta.com/2025/10/15/youtube-music-no-sabe-hacer-lo-basico/",
-    "fecha": "15/10/2025",
-    "contenido": "Últimamente estoy bastante molesto con YouTube Music, no es posible que lo básico que tiene que hacer un reproductor de música lo haga mal. Cosas sencillas como por ejemplo: YouTube Music tiene una pésima interfaz de usuario, es confusa e inconsistente. No entiendo que tenga tanta gente trabajando y"
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "Completud",
-    "link": "http://locutusbit.blogspot.com/2025/10/completud.html",
-    "fecha": "15/10/2025",
-    "contenido": "&nbsp;En el conjunto de las contradicciones,la espesura y la necesidad de abarcar con la miradatoda esa claridad que se dispersaentre conclusiones, argumentos y premisas,deja fluir las acusaciones de unos,las necesidades de otrosy esa determinada función,que se sumerge en el vago de mundo de las afi"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -511,31 +511,10 @@
     "contenido": "El otro día, mientras revisaba unos libros viejos de mi biblioteca, me encontré con Hackers: Heroes of the Computer Revolution de Steven Levy. Leyendo esas páginas ya un poco hongueadas, me di cuenta de algo que creo que tal vez ya intuía pero no había articulado: la cultura hacker no nació en el MI"
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Proxmox VE en Debian 13 &quot;Trixy&quot;",
-    "link": "https://voidnull.es/instalacion-de-proxmox-ve-en-debian-13-trixy/",
-    "fecha": "15/10/2025",
-    "contenido": "Por lo general si instalamos Proxmox VE lo que haremos será descargar la ISO donde ya vienen todos los paquetes necesarios. Pero en ocasiones, en interesante poder instalar Proxmox VE sobre un Debian 13 ya desplegado."
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "Contra Chat Control",
-    "link": "https://blog.elmundoesimperfecto.com/2025/10/15/contra-chatcontrol/",
-    "fecha": "15/10/2025",
-    "contenido": "\n\nA pesar de estar completamente en contra, la verdad es que no estoy muy seguro del estado actual del tema, pero llevamos un par de semanas con bastante intensidad sobre Chat Control (lo cuentan, por ejemplo, en Cruce de cables: Chat Control, el enésimo intento de ponerle puertas al campo mientras "
-  },
-  {
     "blog": "fernand0 @ GitHub.io",
     "titulo": "Contra chat control",
     "link": "http://fernand0.github.io//contra-chat-control/",
     "fecha": "15/10/2025",
     "contenido": "No suelo hacer esto, de hecho creo que es la primera vez, pero voy a copiar un texto de mi otra bitácora porque el tema me parece importante y me preocupa. No sé si habrá mucha gente que lea las dos, supongo que no. A pesar de estar completamente en contra, la verdad es que no estoy muy seguro del e"
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Escuchando radios web alternativas",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/10/15/20251015-radios-web-alternativas/",
-    "fecha": "15/10/2025",
-    "contenido": "El descubrimiento de contendido musical por parte de humanos siempre tiene un componente extra"
   }
 ]
