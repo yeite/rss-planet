@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Adrián Perales",
+    "titulo": "Internet alternativo y crecimiento",
+    "link": "https://adrianperales.com/2025/10/internet-alternativo-y-crecimiento/",
+    "fecha": "23/10/2025",
+    "contenido": "A quienes estamos «fuera del sistema» en cuestiones de internet nos gustaría que más gente usara lo que nosotros. La razón fundamental es porque consideramos nuestro uso más consciente y más sano para cualquiera. ¿Más gente visitando y haciendo pequeñas webs personales en lugar de publicar contenido"
+  },
+  {
+    "blog": "post-it – matizeta",
+    "titulo": "Shutter Declutter",
+    "link": "https://matizeta.com/2025/10/23/shutter-declutter/",
+    "fecha": "23/10/2025",
+    "contenido": "Seguramente tendrás ese problema en donde tu galería de imágenes del móvil se volvió un lugar donde se encuentras tus fotos de viajes, selfies, fotos del calefón que le enviaste al gasista, la imagen que te envió una amigo por WhatsApp y un sin fin de capturas de pantalla. ¿cómo hacemos para poner o"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "El viaje de la salsa Sriracha: orígenes, receta y la verdadera salsa original",
+    "link": "https://blog.danielaragay.net/el-viaje-de-la-salsa-sriracha-origenes-receta-y-la-verdadera-salsa-original/",
+    "fecha": "23/10/2025",
+    "contenido": "La salsa Sriracha se ha convertido en un condimento de culto en las mesas de foodies y amantes de la cocina tailandesa de todo el mundo. Su sabor picante, ligeramente dulce y &#xe1;cido aporta un toque inconfundible a infinidad de platos, desde sopas hasta mariscos. Sin embargo, pocos conocen"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "netplan: configura tu red de forma sencilla con YAML",
+    "link": "https://voidnull.es/netplan-configura-tu-red-de-forma-sencilla-con-yaml/",
+    "fecha": "23/10/2025",
+    "contenido": "Netplan permite configurar la red en GNU/Linux fácilmente usando archivos YAML."
+  },
+  {
     "blog": "Blog de Joselito",
     "titulo": "Enlaces desde el fediverso",
     "link": "https://joselito.mataroa.blog/blog/enlaces-desde-el-fediverso/",
@@ -441,39 +469,11 @@
     "contenido": "&nbsp;El 25 de mayo de 1949 Juan Perón publica su Mensaje a la Juventud con motivo de la Fecha Patria. En el mismo expone cómo intercambiar la posición de la tecla Ctrl con BloqMayús en Ubuntu para poder escribir al estilo del editor WordStar y otros.&nbsp;\"Jóvenes argentinos:Reverenciamos hoy a los"
   },
   {
-    "blog": "yejokjanan",
-    "titulo": "Mi nuevo viejo portátil",
-    "link": "https://blog.yejokjanan.xyz/mi-nuevo-viejo-portatil/",
-    "fecha": "16/10/2025",
-    "contenido": "Tengo un nuevo integrante en la banda, se trata de un nuevo pero viejo computador port&#xe1;til que le he comprado a una amiga que se fue a vivir a otro pa&#xed;s. Se trata nada m&#xe1;s y nada menos que de un HP Stream X360"
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "Enseñar otra tecnología a los jóvenes",
-    "link": "https://adrianperales.com/2025/10/ensenar-otra-tecnologia-a-los-jovenes/",
-    "fecha": "16/10/2025",
-    "contenido": "Nuestra relación con la tecnología cambió mucho con la irrupción del smartphone, y creo que enseñar a los jóvenes ciertos conceptos básicos ya olvidado puede ser algo disruptivo y positivo de cara a la autonomía digital de próximas generaciones. La situación Puedo afirmar sin temor a equivocarme que"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "Eslabones y pernos",
-    "link": "https://brucknerite.net/2025/10/eslabones-y-pernos.html",
-    "fecha": "16/10/2025",
-    "contenido": "En el anterior artículo de esta serie vimos cómo de peligroso podía ser sentarse en una de las bielas de una locomotora de vapor cuando podía ponerse en marcha en cualquier momento. Hoy nos vamos a fijar en una escena muy corta, pero reveladora de cómo han cambiado los trenes desde los tiempos de la"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Contra el Fediverso",
     "link": "https://jinversor.co/2025/10/contra-el-fediverso/",
     "fecha": "16/10/2025",
     "contenido": "Creo que s&#233; un poco de tecnolog&#237;a pero confieso que no ten&#237;a ni idea de lo que era el Fediverso. Hasta hace poco era algo que no me despertaba ning&#250;n [&#8230;]\nLa entrada Contra el Fediverso se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Auditar una cuenta Bitcoin",
-    "link": "https://jinversor.co/2025/10/auditar-una-cuenta-bitcoin/",
-    "fecha": "16/10/2025",
-    "contenido": "BTC no es an&#243;nimo como Monero. Tan solo es pseud&#243;nimo, privado si se quiere. Cualquier persona puede auditar una cuenta Bitcoin cuando lo desee y saber qu&#233; movimientos se han [&#8230;]\nLa entrada Auditar una cuenta Bitcoin se publicó primero en Jinversor."
   },
   {
     "blog": "Posts on Mi blog",
@@ -488,13 +488,6 @@
     "link": "https://matizeta.com/2025/10/16/teoria-de-la-gravedad/",
     "fecha": "16/10/2025",
     "contenido": "El libro es una recopilación de relatos, cuentos y ensayos cortos que Leila Guerriero escribió para una columna del diario El País."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Primer contacto con UGREEN NASync DXP4800",
-    "link": "https://voidnull.es/primer-contacto-con-ugreen-nasync-dxp4800/",
-    "fecha": "16/10/2025",
-    "contenido": "El UGREEN NASync DXP4800 es un NAS versátil basado en Debian 12, con opción de instalar Proxmox y separar datos de tu infraestructura principal."
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
