@@ -1,5 +1,40 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "Traviesas traviesas",
+    "link": "https://brucknerite.net/2025/10/traviesas-traviesas.html",
+    "fecha": "24/10/2025",
+    "contenido": "Sigamos avanzando por unas ignotas vías rurales del Oregón de los locos años veinte que simulan ser las de la vieja Georgia confederada en El maquinista de La General. En la escena anterior habíamos intentado zafarnos de un vagón suelto sin éxito, aunque pronto los espías yanquis a los que perseguim"
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Releyendo El guardián entre el centeno de Salinger me pasa como con Sostiene Pereira de Tabucchi",
+    "link": "https://pedrolr.es/blog/releyendo-el-guardian-entre-el-centeno-de-salinger-me-pasa-como-con-sostiene-pereira-de-tabucchi/",
+    "fecha": "24/10/2025",
+    "contenido": "Estoy releyendo El guardián entre el centeno. Los últimos dos libros que leí los acabé haciendo un esfuerzo y recurrí a Holden Caulfield para no perder el ánimo de seguir leyendo. Me está pasando como con Sostiene Pereira, de Tabucchi: acabo hablando y pensando como lo hacen los protagonistas o de l"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "OroSonoro una App para escuchar sesiones de los 90",
+    "link": "https://mareosdeungeek.es/orosonoro-una-app-para-escuchar-sesiones-de-los-90/",
+    "fecha": "24/10/2025",
+    "contenido": "OroSonoro es una aplicación móvil que permite escuchar sesiones míticas de discotecas españolas, cubriendo, principalmente, las décadas de los 80 y 90. Este es el momento de homenajear a la cultura de cintas y CD&#8217;s (posteriormente) que se implantó con el auge de las discotecas en España. Tanto"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Cómo mostrar la vista previa de un documento Markdown en Kate",
+    "link": "https://www.macram.es/posts/2025/10/vista-previa-markdown-kate/",
+    "fecha": "24/10/2025",
+    "contenido": "Cuando enredo con mi ordenador Linux y KDE intento usar el editor que, de momento, me está convenciendo más. Ahora mismo es Kate. Y es posible, aunque no es una funcionalidad por defecto, mostrar en una barra lateral la previsualización de un documento Markdown en Kate, como es habitual en cualquier"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Entrada y salida estándar #16",
+    "link": "https://voidnull.es/entrada-y-salida-estandar/",
+    "fecha": "24/10/2025",
+    "contenido": "Descubre cómo controlar la entrada, salida y errores en Bash, aprendiendo a guardar resultados en archivos"
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Internet alternativo y crecimiento",
     "link": "https://adrianperales.com/2025/10/internet-alternativo-y-crecimiento/",
@@ -420,25 +455,11 @@
     "contenido": "Sí, compré un Flipper Zero. No sé para qué carajos pero lo compré. Sé que al igual que me pasó con el Bash Bunny y el USB Rubber Ducky, el [&#8230;]\nLa entrada Compré un Flipper Zero. se publicó primero en Jinversor."
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Comentando Hija de la venganza Páginas 1 a 100 – Club de lectura de Librería Luces en Instagram",
-    "link": "https://mcallus.net/2025/10/17/hija-de-la-venganza-pagina-1-a-100/",
-    "fecha": "17/10/2025",
-    "contenido": "Librería Luces puso la semana pasada en marcha un club de lectura a través de Instagram y tuve claro que participaría en la experiencia porque disfruto mucho del club de lectura presencial que la librería también organiza (aunque la de Instagram será completamente distinta al no ser en directo habla"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Resolución de problemas: Not owned by user postfix",
     "link": "https://interlan.ec/2025/10/17/error-sender-address-rejected-not-owned-by-user-postfix/",
     "fecha": "17/10/2025",
     "contenido": "Este es de los problemas que te encontrarías solo por hacer las cosas de forma manual, no tendrás que prestarle mucha atención con un sistema completo como Mailú, del que ya hablé alguna vez.\nLa entrada Resolución de problemas: Not owned by user postfix se publicó primero en Interlan."
-  },
-  {
-    "blog": "post-it – matizeta",
-    "titulo": "writerdeckOS",
-    "link": "https://matizeta.com/2025/10/17/writerdeckos/",
-    "fecha": "17/10/2025",
-    "contenido": "Un «Writer Deck» es un dispositivo dedicado para escribir, libre de distracciones.  WriterdekOS es una distro Linux (montada sobre un Debian) que nos permite transformar nuestra PC o Notebook para usarla con una única función: la de escribir. El único requerimiento que sea un procesador de 64 bits ("
   },
   {
     "blog": "El Bulevar de la Doble Hacha",
@@ -455,13 +476,6 @@
     "contenido": "Angelo Pierattini es, muy probablemente, el artista al que más veces he visto en vivo sumando sus diferentes proyectos. Y es que, para mí, es uno de los mejores y más talentosos músicos chilenos de su generación. Es de esos artistas que viven la música con pasión, que aman lo que hacen y llevan la e"
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Hacer un build de un DockerFile #8",
-    "link": "https://voidnull.es/hacer-un-build-de-un-dockerfile/",
-    "fecha": "17/10/2025",
-    "contenido": "Aprende a crear imágenes con Dockerfile usando docker build y ejecutar contenedores personalizados."
-  },
-  {
     "blog": "zona de confort",
     "titulo": "Mis tres películas favoritas de animación que no son de Disney/Pixar",
     "link": "https://sopadeletras.club/efmorell/mis-tres-peliculas-favoritas-de-animacion-que-no-son-de-disney-pixar",
@@ -474,19 +488,5 @@
     "link": "https://docig.bearblog.dev/ace-y-su-guitarra-espacial/",
     "fecha": "17/10/2025",
     "contenido": "Era en Flores, por supuesto, aunque no en el barrio de Flores, sino en ese otro Flores, el que flota, el de las ideas que, al ser demasiado livianas, han de ser rigurosas, pensó Ace Frehley, mientras ajustaba la correa de su Les Paul espacial. Había comprado la guitarra en una feria de pueblo, en un"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "La Textura de la Nada 2 (texto plano)",
-    "link": "https://docig.bearblog.dev/la-textura-de-la-nada-2-texto-plano/",
-    "fecha": "17/10/2025",
-    "contenido": "Ah, mirá vos. El texto plano. Siempre fue un tema peliagudo, ¿no es cierto? Una de esas cosas que te dejan con el gesto a medio hacer, como si hubieras estado a punto de decir algo genial y de golpe se te hubiera caído el barrilete. No es que el texto fuera malo, no. El plano, digamos, tiene su... s"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "La Textura de la Nada (texto plano)",
-    "link": "https://docig.bearblog.dev/la-textura-de-la-nada-texto-plano/",
-    "fecha": "17/10/2025",
-    "contenido": "El problema, para empezar, no era el texto. El problema era la expectativa de que el texto fuera algo más. Me pasaba las horas, las tardes enteras, sentado frente al monitor, y allí estaba: la inmutable e impasible blancura de la pantalla, salpicada por esos caracteres grises que se alineaban como s"
   }
 ]
