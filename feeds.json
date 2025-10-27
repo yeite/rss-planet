@@ -1,5 +1,54 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "Acero y arena",
+    "link": "https://brucknerite.net/2025/10/acero-y-arena.html",
+    "fecha": "27/10/2025",
+    "contenido": "Arrancamos la nueva semana estrenando el horario de invierno en este rincón de Europa. Arrancamos, también, un nuevo episodio de la serie sobre cultura ferroviaria en El maquinista de La General. Hoy vamos de arranques difíciles."
+  },
+  {
+    "blog": "Feed de SL1200",
+    "titulo": "- Epidemia de hackeos. Verificación de autenticidad de webs e emails y algunos consejos.",
+    "link": "https://proxy.dystopic.world/art/epidemiahacking.gmi",
+    "fecha": "27/10/2025",
+    "contenido": ""
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "¡Blog!¡blog!, el directorio de blogs en español",
+    "link": "https://matizeta.com/2025/10/27/blogblog-el-directorio-de-blogs-en-espanol/",
+    "fecha": "27/10/2025",
+    "contenido": "Hasta ahora no había hablado en el blog del proyecto que comencé hace algunos meses sobre el directorio de blogs en español ¡Blog!¡Blog!. Esta semana el directorio llegó a los 100 blogs publicados y considero es un buen momento para hacer una presentación “oficial”. El proyecto nació con la idea de "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Navidrome usando Docker",
+    "link": "https://voidnull.es/instalacion-de-navidrome-usando-docker/",
+    "fecha": "27/10/2025",
+    "contenido": "Navidrome: tu música autoalojada, fácil y accesible desde cualquier lugar."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Navidrome en PikaPods",
+    "link": "https://voidnull.es/instalacion-de-navidrome-en-pikapods/",
+    "fecha": "27/10/2025",
+    "contenido": "Descubre cómo instalar Navidrome en PikaPods y crea tu propio servicio de música en la nube sin complicaciones."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de CyberPanel en AlmaLinux 9",
+    "link": "https://voidnull.es/instalacion-de-cyberpanel-en-almalinux-9/",
+    "fecha": "27/10/2025",
+    "contenido": "CyberPanel es un potente panel de control para servidores web diseñado para simplificar la gestión de sitios web y aplicaciones en servidores GNU/Linux."
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "$CÓDIGO\\_FUENTEv1.0\\_HUMANO$.exe (El Archivo de la Carne Podrida)",
+    "link": "https://docig.bearblog.dev/codigo_fuentev10_humanoexe-el-archivo-de-la-carne-podrida/",
+    "fecha": "27/10/2025",
+    "contenido": "La oficina no era blanca, era el color enfermizo del hueso viejo, de la porcelana manchada por años de mala leche. Y el silencio... no olía a ozono. Olía a polvo de tiza y a la electricidad estática de un televisor encendido a las tres de la mañana en una habitación vacía.Elías, con los ojos inyecta"
+  },
+  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "Herramientas cognitivas X",
     "link": "https://vonneumannmachine.wordpress.com/2025/10/26/herramientas-cognitivas-x/",
@@ -378,34 +427,6 @@
     "contenido": "El aire en el sótano de Elías era denso, pegajoso como el alquitrán. Olía a polvo, a café frío y, sobre todo, a ozono quemado, el aliento químico de una máquina trabajando demasiado. Elías, un hombre que parecía haber olvidado cómo dormían los humanos, vestía una camiseta gris y gastada que marcaba "
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Techos de locomotoras",
-    "link": "https://brucknerite.net/2025/10/techos-de-locomotoras.html",
-    "fecha": "20/10/2025",
-    "contenido": "La acción de El maquinista de La General recurre en varias ocasiones al desenganche de coches y vagones de trenes para progresar, pero ¿qué película de acción ferroviaria no incluye un paseo por el techo de un tren en marcha?"
-  },
-  {
-    "blog": "Mindeka",
-    "titulo": "Deshabilitar uso de contraseña en conexiones SSH",
-    "link": "https://mindeka.es/2025/10/20/deshabilitar-uso-de-contrasena-en-conexiones-ssh/",
-    "fecha": "20/10/2025",
-    "contenido": "Algo que no tenía hecho en mi mini-pc después de mi última reinstalación desde cero, fue, primeramente crear mis claves públicas y privadas en cada uno de los equipos desde los que accedo a mi servidor casero y posteriormente deshabilitar el acceso por contraseña mediante mis conexiones por SSH. Y s"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "No estoy solo ❤️",
-    "link": "https://blog.luiscarlospando.com/personal/2025/10/no-estoy-solo-%e2%9d%a4%ef%b8%8f/",
-    "fecha": "20/10/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Navegador Android con soporte para extensiones: ULTIMATUM",
-    "link": "https://alt43.es/navegador-android-con-soporte-para-extensiones-ultimatum/",
-    "fecha": "20/10/2025",
-    "contenido": "Otro proyecto unipersonal de código abierto que trata de normalizar algo, que debería ser básico hoy en día,&#46;&#46;&#46;"
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "#163 Sobre el cambio horario",
     "link": "https://www.macram.es/posts/2025-10-20-cambio-horario/",
@@ -413,52 +434,10 @@
     "contenido": "Me llama la atención que, con el tema de la posible eliminación del cambio horario, todos tengamos una opinión extremadamente formada, extremadamente fuerte y extremadamente visceral. Yo también la tengo, que conste: que nos quedemos en UTC+1.\nTal como he puesto en Mastodon:\n\nLa hora que marca el re"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Revolá",
-    "link": "https://www.macram.es/musica/revola-sanguijuelas-del-guadiana/",
-    "fecha": "20/10/2025",
-    "contenido": "Los Sanguijuelas del Guadiana están siendo una auténtica revolución en muchos círculos. En mi entorno inmediato, formado por extremeños que se han podido quedar, por extremeños que nos hemos podido volver y por extremeños que por desgracia tuvieron que emigrar, han sido un auténtico hit.\nUn disco cr"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Nuevo diseño para la portada",
-    "link": "https://www.macram.es/posts/2025-10-20-nueva-portada/",
-    "fecha": "20/10/2025",
-    "contenido": "Si sois de los que navegáis por Internet y pasáis por la página principal de este blog habréis observado que hay un nuevo diseño de la home. El principal cambio es que ahora podéis ver una línea de tiempo donde están todos los posts, tanto los destacados como las notas de la bitácora.\nAlgunas podrán"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Tener un blog es una perdida de tiempo",
-    "link": "https://matizeta.com/2025/10/20/tener-un-blog-es-una-perdida-de-tiempo/",
-    "fecha": "20/10/2025",
-    "contenido": "Lo dice quien busca reconocimiento, quien escribe sin pasión, el que cuenta los likes, el que mira a través de las estadísticas.&#160; Empecé el blog hace más de un año creyendo que estaban extintos, que solo iba a estar escribiendo yo mientras otros hacían bailecitos en TikTok, comentaban alguna te"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Rico, drama en la oficina",
     "link": "https://blog.danielaragay.net/rico-drama-en-la-oficina/",
     "fecha": "20/10/2025",
     "contenido": "Rico ha protagonizado un peque&#xf1;o drama en la oficina! &#x1f602;Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@haciendoelsueco/episod"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Una Noche de Rock Estratosférico con Steven Wilson",
-    "link": "https://altgr.xyz/2025/10/20/una-noche-de-rock-estratosferico-con-steven-wilson/",
-    "fecha": "20/10/2025",
-    "contenido": "El domingo por la noche fui a ver al prodigio de la música Steven Wilson al Movistar Arena. El inicio del concierto me encontró comprando agua en el kiosko. Tuve que correr para llegar a la cancha y encontrar una buena ubicación. No fue difícil, pues el recinto estaba lejos de estar lleno y con canc"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de AdGuard Home en Proxmox",
-    "link": "https://voidnull.es/instalacion-de-adguard-home-en-proxmox-2/",
-    "fecha": "20/10/2025",
-    "contenido": "AdGuard Home bloquea anuncios y rastreadores a nivel de red usando DNS, mejorando privacidad y rendimiento."
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "La Paradoja del Cero y el Uno",
-    "link": "https://docig.bearblog.dev/la-paradoja-del-cero-y-el-uno/",
-    "fecha": "20/10/2025",
-    "contenido": "El ser se sabe. Y al saberse, se divide.No hay otra forma de la existencia que no sea el corte. El binario no es un código informático, joven, es la arquitectura primordial del PENSAMIENTO.El hombre de Viamonte (no importa su nombre, la máscara es un accidente del Uno) pulsaba el botón del ascensor."
   }
 ]
