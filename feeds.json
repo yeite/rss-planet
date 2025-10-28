@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Blep",
+    "titulo": "Sencillo",
+    "link": "https://blep.org/Sencillo",
+    "fecha": "28/10/2025",
+    "contenido": "Soy un tipo sencillo. Una máquina de reconocimiento de patrones que extrae consecuencias de las causas, en relación sencilla \"Si A entonces B\".\n\nTengo una capacidad de atención limitada. Cuando me fijo en algo, me fijo en esa cosa. Para percibir mi entorno, tengo que no fijarme en nada, para que mi "
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Probando un nuevo editor de textos MarkDown",
+    "link": "https://matizeta.com/2025/10/28/probando-un-nuevo-editor-de-textos-markdown/",
+    "fecha": "28/10/2025",
+    "contenido": "Me gusta utilizar editores de texto ligeros y minimalistas que eliminan opciones superfluas y que sólo se enfocan en el proceso de escribir. Desde que el editor Uylsses decidió pasar de un modelo de pago único a uno de suscripción (maldito habito), me ví obligado a buscar alternativas. Su reemplazo "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Zabbix Agent 7.0 en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-zabbix-agent-7-0-en-debian-13/",
+    "fecha": "28/10/2025",
+    "contenido": "Se utiliza para monitorear redes, servidores, aplicaciones, servicios y recursos en la nube. También permite el monitoreo de dispositivos de almacenamiento, bases de datos, máquinas virtuales, telefonía, recursos de seguridad y mucho más."
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Condicionamiento Geo-Social: Una Paradoja de la Estabilidad Planetaria",
+    "link": "https://docig.bearblog.dev/el-condicionamiento-geo-social-una-paradoja-de-la-estabilidad-planetaria/",
+    "fecha": "28/10/2025",
+    "contenido": "El planeta Tierra, si se le examinaba con la fría y desapasionada lente del sociólogo, no era más que un Sistema de Regulación extraordinariamente sofisticado. Se le podría considerar el más vasto y complejo de los Laboratorios Globales jamás concebidos. Su verdadero Sistema Operativo, el Kernel que"
+  },
+  {
     "blog": "brucknerite",
     "titulo": "Acero y arena",
     "link": "https://brucknerite.net/2025/10/acero-y-arena.html",
@@ -399,27 +427,6 @@
     "contenido": "Es escrito este texto para estructurar un fanzine que estoy construyendo sobre Autogestión y quiero compartilo con ustedes como parte inicial del proceso de creación de este fanzine, espero puedan leerlo y si gustan hacer comentarios. ¿Qué es la autogestión? Desde el punto de vista de quien está esc"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Curvas y morteros",
-    "link": "https://brucknerite.net/2025/10/curvas-y-morteros.html",
-    "fecha": "21/10/2025",
-    "contenido": "Esta es buena. Johnnie ha enganchado a su locomotora un mortero que se encontró en un pequeño apartadero. En plena guerra supongo que estas cosas podían pasar. En un primer intento de disparo lo carga con un poco de pólvora, una bala y ¡pum! Cae a sus pies dentro de la locomotora, para general hilar"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Tener menos",
-    "link": "https://jinversor.co/2025/10/tener-menos/",
-    "fecha": "21/10/2025",
-    "contenido": "A medida que pasa el tiempo vamos acumulando cosas que terminan por abrumarnos. Cosas y más cosas que compramos con el dinero que obtenemos por nuestro tiempo. Muchas de esas [&#8230;]\nLa entrada Tener menos se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Papel Continuo",
-    "titulo": "Printing Films: Archivo audiovisual del mundo impreso",
-    "link": "https://papelcontinuo.net/3405/printing-films-archivo-audiovisual-del-mundo-impreso/",
-    "fecha": "21/10/2025",
-    "contenido": "Printing Films es un proyecto de Doug Wilson, diseñador, director y apasionado de la tipografía conocido por su documental Linotype: The Film. Al terminar la película, Wilson siguió recopilando materiales históricos relacionados con el oficio de la imprenta, y de ahí nació PrintingFilms.com: un arch"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "¿Por qué me gusta Chihuahua?",
     "link": "https://blog.luiscarlospando.com/personal/2025/10/por-que-me-gusta-chihuahua/",
@@ -441,32 +448,11 @@
     "contenido": "Ya os conté que tengo un mini PC que utilizo para trastear con Linux, y que me pasé a KDE. No quiero decir que estoy practicando el distro hopping, porque tampoco diría que estoy cambiando tanto de distribución, pero sí estoy enredando. Y de Fedora he decidido instalarme una Debian, aunque también c"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#164: la bolsa de la papelera",
-    "link": "https://www.macram.es/posts/2025-10-21-la-bolsa-de-la-papelera/",
-    "fecha": "21/10/2025",
-    "contenido": "Una cosa que me molesta es ir a tirar algo a la papelera o al cubo de la basura y que no haya bolsa. Y estoy seguro de que a vosotros os pasa lo mismo. Da rabia, ¿verdad? Pues he visto que hay un truco que me funciona bastante bien para tener siempre una bolsa a mano y que no me cueste reponerla cua"
-  },
-  {
-    "blog": "post-it – matizeta",
-    "titulo": "Ollee Watch",
-    "link": "https://matizeta.com/2025/10/21/ollee-watch/",
-    "fecha": "21/10/2025",
-    "contenido": "Somos muchos los que queremos que Casio actualice los módulos de sus clásicos  F-91W, A158W con funcionalidad de reloj inteligente. Como Casio no piensa hacerlo, una empresa llamada Ollee Watch comenzó a comercializar la venta de un módulo para convertirlo en un smartwatch.  El modulo es compatible "
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "480. Generación 3.0 (Parte III)",
     "link": "https://lamadredelpatonegro.blogspot.com/2025/10/480-generacion-30-parte-iii.html",
     "fecha": "21/10/2025",
     "contenido": "&nbsp; &nbsp; Los caminos de Subnormal 3.0 y Retrasada 3.0 se cruzaron un sábado noche en una discoteca de las afueras de la ciudad. Y como sintieron atracción mutua por sus envoltorios afortunados, decidieron unir sus vidas, contribuyendo así al desmejoramiento de la sociedad, si es que eso todavía"
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "En Buenos Días Aragón hablando de la caída de AWS",
-    "link": "https://blog.elmundoesimperfecto.com/2025/10/21/buenos-dias-aragon-aws/",
-    "fecha": "21/10/2025",
-    "contenido": "Hemos hablado un poco del tema en Aragón TV. pic.twitter.com/XgWHqiJtKY&mdash; fernand0 (@fernand0) October 21, 2025\n\n\nAntes de ayer hubo una caída de servicios en la nube de amazon (AWS) que afectó a bastantes empresas de internet, sobre todo en Estados Unidos. Casualmente coincidió con una caída d"
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
