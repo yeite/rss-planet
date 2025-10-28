@@ -7,6 +7,34 @@
     "contenido": "Arrancamos la nueva semana estrenando el horario de invierno en este rincón de Europa. Arrancamos, también, un nuevo episodio de la serie sobre cultura ferroviaria en El maquinista de La General. Hoy vamos de arranques difíciles."
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Lynis, la herramienta para auditar la seguridad de tu sistema Linux/Unix",
+    "link": "https://victorhckinthefreeworld.com/2025/10/27/lynis-la-herramienta-para-auditar-la-seguridad-de-tu-sistema-linux-unix/",
+    "fecha": "27/10/2025",
+    "contenido": "Lynis es una herramienta de software libre con la que podrás auditar la seguridad de tu sistema GNU/Linux y otras derivadas de Unix como FreeBSD, Solaris o MacOS."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Tener seguidores",
+    "link": "https://jinversor.co/2025/10/tener-seguidores/",
+    "fecha": "27/10/2025",
+    "contenido": "He llegado a un punto de mi vida que cada día me gusta más: el punto en que no quiero ni necesito tener seguidores para sentir que existo. Sé que [&#8230;]\nLa entrada Tener seguidores se publicó primero en Jinversor."
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "La Torre – Ejercicio de clase Semana 6 del Taller de Escritura Creativa Librería Luces 2025/2026",
+    "link": "https://mcallus.net/2025/10/27/la-torre-ejercicio-de-clase-semana-6-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
+    "fecha": "27/10/2025",
+    "contenido": "En el ejercicio de esta semana en clase recibimos tres cartas al azar de corte bastante surrealista. Teníamos que escribir lo primero que se nos inspirasen esas cartas, y eso fue lo que me salió a mi. Os dejo las fotos al final del relato. La pareja entró corriendo, agarradas de la mano, en el [&#82"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Gboard Dial Edition, el teclado que parece un teléfono antiguo",
+    "link": "https://mareosdeungeek.es/gboard-dial-edition-el-teclado-que-parece-un-telefono-antiguo/",
+    "fecha": "27/10/2025",
+    "contenido": "A principios de mes, Google Japón presentó su última creación. Se trata del Gboard Dial Edition, una especie de teclado que se maneja con varias ruedas, como si fuera un teléfono antiguo y permite controlar dispositivos girándolas. GBoard Dial Edition nace de un experimento del equipo de Gboard, enc"
+  },
+  {
     "blog": "Feed de SL1200",
     "titulo": "- Epidemia de hackeos. Verificación de autenticidad de webs e emails y algunos consejos.",
     "link": "https://proxy.dystopic.world/art/epidemiahacking.gmi",
@@ -14,11 +42,25 @@
     "contenido": ""
   },
   {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Entre la puesta de sol y la hora de dormir",
+    "link": "https://www.macram.es/posts/2025-10-24-entre-la-puesta-de-sol-y-la-hora-de-dormir/",
+    "fecha": "27/10/2025",
+    "contenido": "Hace un rato reflexionaba sobre un tema. Existe una palabra en muchos idiomas que representa el periodo de tiempo entre la puesta de sol y la hora de dormir, la noche de verdad.\n\nGallego: serán1\nCatalán: vespre\nInglés: evening\nItaliano: sera\nFrancés: soirée\nRumano: seară\nAlemán: Abend\n\nY me estaba e"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "¡Blog!¡blog!, el directorio de blogs en español",
     "link": "https://matizeta.com/2025/10/27/blogblog-el-directorio-de-blogs-en-espanol/",
     "fecha": "27/10/2025",
     "contenido": "Hasta ahora no había hablado en el blog del proyecto que comencé hace algunos meses sobre el directorio de blogs en español ¡Blog!¡Blog!. Esta semana el directorio llegó a los 100 blogs publicados y considero es un buen momento para hacer una presentación “oficial”. El proyecto nació con la idea de "
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "482. Concurso literario 2",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/10/481-concurso-literario-2.html",
+    "fecha": "27/10/2025",
+    "contenido": "&nbsp; &nbsp; Lo sé, lo sé. Sé que no tendría que alargar más el chicle. Las segundas partes nunca fueron buenas, y esta seguramente no lo es, aunque sea breve.&nbsp;&nbsp; &nbsp; Ahí donde los organizadores y concursantes exclaman: «¡Enhorabuena a los ganadores y a todos los participantes!», creo q"
   },
   {
     "blog": "_ voidNull",
@@ -42,6 +84,20 @@
     "contenido": "CyberPanel es un potente panel de control para servidores web diseñado para simplificar la gestión de sitios web y aplicaciones en servidores GNU/Linux."
   },
   {
+    "blog": "Bitácora de fernand0",
+    "titulo": "YouTube: ¿qué sube la gente normal y para qué lo usa?",
+    "link": "https://blog.elmundoesimperfecto.com/2025/10/27/algoritmo-youtube/",
+    "fecha": "27/10/2025",
+    "contenido": "\n\nSe habla mucho del algoritmo (como si solo hubiera uno, o como metáfora de un pretendido dominio por parte de alguien que maneja algo que influye sobre nuestra voluntad). Da para titulares jugosos y esta vez traemos The hidden world beneath the shadows of YouTube’s algorithm un tema que parece más"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "Del ‘no-code’ al código dirigido por preguntas con ayuda de las IAs",
+    "link": "http://fernand0.github.io//low-code-no-code/",
+    "fecha": "27/10/2025",
+    "contenido": "A veces nos ponemos con una herramienta a realizar algún proyectito y cuando nos damos cuenta hemos invertido tantas horas que tal vez nos habría ido mejor utilizar alguna otra aproximación. Esto tiene que ver con las herramientas no code, de lo que va este artículo, pero podría aplicarse perfectame"
+  },
+  {
     "blog": "La Paradoja del Cero y el Uno",
     "titulo": "$CÓDIGO\\_FUENTEv1.0\\_HUMANO$.exe (El Archivo de la Carne Podrida)",
     "link": "https://docig.bearblog.dev/codigo_fuentev10_humanoexe-el-archivo-de-la-carne-podrida/",
@@ -61,13 +117,6 @@
     "link": "https://mindeka.es/2025/10/26/solucion-fiable-contra-tebas/",
     "fecha": "26/10/2025",
     "contenido": "Es llegar el fin de semana, ya incluso podemos contar desde el viernes y uno de mis «vicios» tradicionales, como es jugar a videojuegos un ratillo, se ha vuelto algo casi imposible, porque el lag es abusivo. Ayer sábado volvió a suceder y ya el tema me cabreó en mayúsculas, porque es uno de los [&#8"
-  },
-  {
-    "blog": "ocubom's blog | Oscar Cubo Medina",
-    "titulo": "Hora Zulu",
-    "link": "https://ocubom.page/es/post/hora-zulu/",
-    "fecha": "26/10/2025",
-    "contenido": "En ciertos mapas meteorológicos, imágenes de radar o satélite, así como en películas bélicas o de espionaje a veces se indica la hora mediante expresiones como «10:10 Z» o «1010 Zulu».\nPero ¿qué significan estas expresiones?\nDesde tiempos inmemoriales, la humanidad ha detectado fenómenos naturales c"
   },
   {
     "blog": "danielaragay.net",
@@ -425,19 +474,5 @@
     "link": "https://docig.bearblog.dev/el-eco-de-medianoche-deep-web/",
     "fecha": "21/10/2025",
     "contenido": "El aire en el sótano de Elías era denso, pegajoso como el alquitrán. Olía a polvo, a café frío y, sobre todo, a ozono quemado, el aliento químico de una máquina trabajando demasiado. Elías, un hombre que parecía haber olvidado cómo dormían los humanos, vestía una camiseta gris y gastada que marcaba "
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#163 Sobre el cambio horario",
-    "link": "https://www.macram.es/posts/2025-10-20-cambio-horario/",
-    "fecha": "20/10/2025",
-    "contenido": "Me llama la atención que, con el tema de la posible eliminación del cambio horario, todos tengamos una opinión extremadamente formada, extremadamente fuerte y extremadamente visceral. Yo también la tengo, que conste: que nos quedemos en UTC+1.\nTal como he puesto en Mastodon:\n\nLa hora que marca el re"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Rico, drama en la oficina",
-    "link": "https://blog.danielaragay.net/rico-drama-en-la-oficina/",
-    "fecha": "20/10/2025",
-    "contenido": "Rico ha protagonizado un peque&#xf1;o drama en la oficina! &#x1f602;Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@haciendoelsueco/episod"
   }
 ]
