@@ -1,5 +1,12 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Mi mudanza a Manjaro como sistema principal",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/10/29/20251029-mudanza-a-manjaro/",
+    "fecha": "29/10/2025",
+    "contenido": "Esta elección atípica ha dado un resultado inesperadamente bueno, pudiendo invertir la potencia del equipo en lo que importa de verdad"
+  },
+  {
     "blog": "Blep",
     "titulo": "Sencillo",
     "link": "https://blep.org/Sencillo",
@@ -7,11 +14,60 @@
     "contenido": "Soy un tipo sencillo. Una máquina de reconocimiento de patrones que extrae consecuencias de las causas, en relación sencilla \"Si A entonces B\".\n\nTengo una capacidad de atención limitada. Cuando me fijo en algo, me fijo en esa cosa. Para percibir mi entorno, tengo que no fijarme en nada, para que mi "
   },
   {
+    "blog": "Moribundo Insurgente",
+    "titulo": "MásOrange controla datos de hábitos del 50% de la población del Estado español para venderlos a anunciantes",
+    "link": "https://moribundoinsurgente.noblogs.org/post/2025/10/28/masorange-controla-datos-de-habitos-del-50-de-la-poblacion-del-estado-espanol-para-venderlos-a-anunciantes/",
+    "fecha": "28/10/2025",
+    "contenido": "Tras la fusión que oficializó la creación de MásOrange en 2024, la empresa se posicionó como la operadora líder del Estado español, en posesión de datos personales y hábitos de más del 50% de los ciudadanos y más de la &#8230; Sigue leyendo &#8594;"
+  },
+  {
+    "blog": "Webnauta",
+    "titulo": "Alrededor de la fogata",
+    "link": "https://webnauta.blog/alrededor-de-la-fogata",
+    "fecha": "28/10/2025",
+    "contenido": "\n  \n    \n      Por Tegan Mierle en Unsplash\n    \nSobre leer y escucharDurante mi infancia tuve la dicha de vivir un sinfín de aventuras con mis hermanos, primas y primos: mis camaradas. Las más vívidas que recuerdo son las historias leídas en voz alta por la mayor de mis primas, alrededor de una fog"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "La riqueza no se ve",
+    "link": "https://jinversor.co/2025/10/la-riqueza-no-se-ve/",
+    "fecha": "28/10/2025",
+    "contenido": "Los aparantes ricos pululan en Internet como cucarachas. Cada día publican en sus redes millones de fotos y videos mostrando bienes de consumo para dar a entender que sus finanzas [&#8230;]\nLa entrada La riqueza no se ve se publicó primero en Jinversor."
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Probando un nuevo editor de textos MarkDown",
     "link": "https://matizeta.com/2025/10/28/probando-un-nuevo-editor-de-textos-markdown/",
     "fecha": "28/10/2025",
     "contenido": "Me gusta utilizar editores de texto ligeros y minimalistas que eliminan opciones superfluas y que sólo se enfocan en el proceso de escribir. Desde que el editor Uylsses decidió pasar de un modelo de pago único a uno de suscripción (maldito habito), me ví obligado a buscar alternativas. Su reemplazo "
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Glutamato Monosódico (MSG): ¿indispensable en la cocina asiática?",
+    "link": "https://blog.danielaragay.net/glutamato-monosodico-msg-indispensable-en-la-cocina-asiatica/",
+    "fecha": "28/10/2025",
+    "contenido": "Or&#xed;genes del glutamato monos&#xf3;dicoEl glutamato monos&#xf3;dico (GMS) tiene sus ra&#xed;ces en la gastronom&#xed;a asi&#xe1;tica de principios del siglo XX. En 1908, el cient&#xed;fico japon&#xe9;s Kikunae Ikeda logr&#xf3; aislar qu&#xed;micamente el"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Un micro resumen de las JPOD y sustos que da Rico",
+    "link": "https://blog.danielaragay.net/un-micro-resumen-de-las-jpod-y-sustos-que-da-rico/",
+    "fecha": "28/10/2025",
+    "contenido": "Te cuento muy por encima como fueron las jornadas de podcasting, si quieres un especial m&#xe1;s a fondo lo encontrar&#xe1;s en el podcast Maestro Podcaster. Y luego te cuento un par de sustos que ha dado Rico.Blog danielaragay.net Todos los podcasts: https://aragay.net"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Pensamiento de blog #2",
+    "link": "https://impermanente.es/2025/10/29/pensamiento-de-blog.html",
+    "fecha": "28/10/2025",
+    "contenido": "Vivimos en un mundo donde todos corren muy rápido porque quieren llegar al futuro antes que nadie. Se esfuerzan en mejorar, en ser más productivos y en mostrar lo buenos que son… pero en esa carrera se olvidan de algo muy sencillo: disfrutar lo que está pasando ahora mismo.\nAceptación en la vida no "
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Mejor no hablar de ciertas cosas",
+    "link": "https://altgr.xyz/2025/10/28/mejor-no-hablar-de-ciertas-cosas/",
+    "fecha": "28/10/2025",
+    "contenido": "No se habla de política, religión ni fútbol en la mesa. Son temas que despiertan pasiones y pueden generar acaloradas discusiones, peleas y momentos desagradables. Para que la mesa sea un lugar tranquilo y agradable, es mejor no hablar de ciertas cosas, ¿verdad? Yo creo que la conversación política "
   },
   {
     "blog": "_ voidNull",
@@ -22,10 +78,45 @@
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "https://matizeta.com (opinión sobre un texto de este humilde servidor)",
+    "link": "https://docig.bearblog.dev/httpsmatizetacom-opinion-sobre-un-texto-de-este-humilde-servidor/",
+    "fecha": "28/10/2025",
+    "contenido": "https://matizeta.com/2025/10/27/la-textura-de-la-nada-texto-plano/"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
     "titulo": "El Condicionamiento Geo-Social: Una Paradoja de la Estabilidad Planetaria",
     "link": "https://docig.bearblog.dev/el-condicionamiento-geo-social-una-paradoja-de-la-estabilidad-planetaria/",
     "fecha": "28/10/2025",
     "contenido": "El planeta Tierra, si se le examinaba con la fría y desapasionada lente del sociólogo, no era más que un Sistema de Regulación extraordinariamente sofisticado. Se le podría considerar el más vasto y complejo de los Laboratorios Globales jamás concebidos. Su verdadero Sistema Operativo, el Kernel que"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "Núcleo, Reacción y Delirio: El Sistema Operativo del Planeta Tierra",
+    "link": "https://docig.mataroa.blog/blog/nucleo-reaccion-y-delirio-el-sistema-operativo-del-planeta-tierra/",
+    "fecha": "28/10/2025",
+    "contenido": "El planeta giraba, una matriz húmeda y azul, pero el verdadero motor, la médula espinal del proceso, era un Sistema Operativo codificado en las vísceras del basalto y las fibrilaciones del magma. No era software en el sentido burgués de la palabra; era Gnosis convertida en Kernel, una arquitectura d"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "https://matizeta.com  Opina sobre mi humilde texto",
+    "link": "https://docig.mataroa.blog/blog/httpsmatizetacom-opina-sobre-mi-humilde-texto/",
+    "fecha": "28/10/2025",
+    "contenido": "https://matizeta.com/2025/10/27/la-textura-de-la-nada-texto-plano/"
+  },
+  {
+    "blog": "",
+    "titulo": "Recomendación de la semana.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/10/28/recomendacion-de-la-semana-27/",
+    "fecha": "28/10/2025",
+    "contenido": "Un poco mas de Achaiva Da ponte que esta de Aniversario, si pueden ir a ver sus presentaciones vayan."
+  },
+  {
+    "blog": "Calaveras",
+    "titulo": "Los tornados del barrio",
+    "link": "https://calaveras.bearblog.dev/los-tornados-del-barrio/",
+    "fecha": "28/10/2025",
+    "contenido": "Una tranquila noche de octubre, ni tan fría ni tan cálida, Abrelia se encontraba durmiendo incómoda, algunas arrugas en su frente la delataban. Las sábanas azules apenas cubrían su cuerpo, mientras que el acolchado beige yacía sutilmente en el suelo. Los movimientos de Abrelia eran suaves, aunque br"
   },
   {
     "blog": "brucknerite",
@@ -133,6 +224,27 @@
     "contenido": "La oficina no era blanca, era el color enfermizo del hueso viejo, de la porcelana manchada por años de mala leche. Y el silencio... no olía a ozono. Olía a polvo de tiza y a la electricidad estática de un televisor encendido a las tres de la mañana en una habitación vacía.Elías, con los ojos inyecta"
   },
   {
+    "blog": "La cosa infinita",
+    "titulo": "Catalogo binario",
+    "link": "https://docig.mataroa.blog/blog/catalogo-binario/",
+    "fecha": "27/10/2025",
+    "contenido": "Un solo pulso en la arteria de silicio. 1, 0.\nEl universo, entendido cabalmente, \nse comprime en el flash de un instante. \nNo es piel, no es médula. Es cifra.\nLágrima de sangre en la avidez del código. \nDos estados turgentes, \npirámide casual convertida en pira ardiente.\nMi gnosis, debo abandonarla:"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "$CÓDIGO\\_FUENTEv1.0\\_HUMANO$.exe",
+    "link": "https://docig.mataroa.blog/blog/codigo_fuentev10_humanoexe/",
+    "fecha": "27/10/2025",
+    "contenido": "El arquitecto se llamaba Elías. No de los que construyen con ladrillos y argamasa, sino con abstracciones. Trabajaba en la cimentación de un error, eso lo sabía. O más precisamente, en la línea de comando que generaba la errata.\nLa oficina era blanca, una cúpula sin eco donde el silencio olía a ozon"
+  },
+  {
+    "blog": "",
+    "titulo": "Frase de la semana.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/10/27/frase-de-la-semana-53/",
+    "fecha": "27/10/2025",
+    "contenido": "Que las bendiciones de cada día sean las bendiciones que más necesitas. Proverbio Irlandes."
+  },
+  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "Herramientas cognitivas X",
     "link": "https://vonneumannmachine.wordpress.com/2025/10/26/herramientas-cognitivas-x/",
@@ -147,6 +259,13 @@
     "contenido": "Es llegar el fin de semana, ya incluso podemos contar desde el viernes y uno de mis «vicios» tradicionales, como es jugar a videojuegos un ratillo, se ha vuelto algo casi imposible, porque el lag es abusivo. Ayer sábado volvió a suceder y ya el tema me cabreó en mayúsculas, porque es uno de los [&#8"
   },
   {
+    "blog": "ocubom's blog | Oscar Cubo Medina",
+    "titulo": "Hora Zulu",
+    "link": "https://ocubom.page/es/post/hora-zulu/",
+    "fecha": "26/10/2025",
+    "contenido": "En ciertos mapas meteorológicos, imágenes de radar o satélite, así como en películas bélicas o de espionaje a veces se indica la hora mediante expresiones como «10:10 Z» o «1010 Zulu».\nPero ¿qué significan estas expresiones?\nDesde tiempos inmemoriales, la humanidad ha detectado fenómenos naturales c"
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "Ensuizados, El Parche de Odín y Haciendo el Sueco en directo en las JPOD 2025",
     "link": "https://blog.danielaragay.net/ensuizados-el-parche-de-odin-y-haciendo-el-sueco-en-directo-en-las-jpod-2025/",
@@ -159,6 +278,13 @@
     "link": "https://seyker.eu/comando-monstruo-james-gunn-sin-destilar-y-sin-filtrar/",
     "fecha": "26/10/2025",
     "contenido": "Doceava serie de 2025 y debo decir que pese a no ser una obra maestra ni algo que volará la cabeza de nadie, es una de las obras más disfrutables que se ha lanzado recientemente en este formato. Comando Monstruo es James Gunn en estado puro, es diversión, acción, buena música, ritmo y personajes de "
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Domingo de rastro",
+    "link": "https://www.ericafustero.com/2025-10-domingo-de-rastro",
+    "fecha": "26/10/2025",
+    "contenido": "Por supuesto, mi viaje a Madrid incluyó una visita al Rastro, ese lugar donde nunca compro nada y del que siempre salgo cargada de fotos. Nada más entrar me topé con los Álex de Miyagi Studio, un laboratorio/tienda de reparación de cámaras de Madrid que te recomiendo visitar. Espero que elllos tuvie"
   },
   {
     "blog": "Webnauta",
@@ -194,6 +320,20 @@
     "link": "https://sopadeletras.club/efmorell/minutos-musicales",
     "fecha": "25/10/2025",
     "contenido": ""
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Librojuegos: Los guerreros del Templo de la Luna, El Tributo del Dragón y Prisionero de Elderwood",
+    "link": "http://frikoteca.blogspot.com/2025/10/librojuegos-los-guerreros-del-templo-de.html",
+    "fecha": "25/10/2025",
+    "contenido": "Tres reseñas más de los librojuegos clásicos de los 80 de la colección Dungeons & Dragons aventura sin fin. Tenéis las anteriores aquí: los tres primeros libros, las reseñas de los libros 4, 5 y 6, las reseñas de los libros 7, 8 y 9 y las reseñas de los libros 10, 11 y 12.\nLos Guerreros del Templo d"
+  },
+  {
+    "blog": "Calaveras",
+    "titulo": "Mi experiencia con distrubuciones Linux",
+    "link": "https://calaveras.bearblog.dev/mi-experiencia-con-distrubuciones-linux/",
+    "fecha": "25/10/2025",
+    "contenido": "Para celebrar mi primer aniversario de Linux sin Windows a mis alrededores, voy a escribir sobre mi experiencia con las distros que probé, lo bueno, lo malo y lo calavera. Voy a contarlo cronológicamente y según me acuerde.\nKaliNo debería contar pero fue mi primer acercamiento mediante un curso de C"
   },
   {
     "blog": "brucknerite",
@@ -273,6 +413,13 @@
     "contenido": "(Nota del editor: El presente relato, acaso un mero apéndice o glosa de cierto tratado olvidado sobre la ontología de los lenguajes formales, fue rescatado de un ejemplar de la Enciclopedia de la Programación Esotérica, edición de 1949, que un librero de Adrogué me procuró en la canícula de 1978. Su"
   },
   {
+    "blog": "La cosa infinita",
+    "titulo": "Los habitantes de ASCII City",
+    "link": "https://docig.mataroa.blog/blog/los-habitantes-de-ascii-city/",
+    "fecha": "24/10/2025",
+    "contenido": "El Guardián, un punto y coma ($;$) que había alcanzado la consciencia tras un error de compilación, observaba el cielo. No eran estrellas, sino ristras de bits que caían en cascada, a veces formando figuras borrosas: un gato ($^.^$), una casa ($+--+$), o la eterna pregunta ($¿?$).$@$ era la poeta. E"
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Internet alternativo y crecimiento",
     "link": "https://adrianperales.com/2025/10/internet-alternativo-y-crecimiento/",
@@ -343,11 +490,18 @@
     "contenido": "La niebla digital se había disipado hacía siglos, reemplazada por la Luz Abierta. El mundo que conocieron nuestros ancestros —un laberinto de licencias restrictivas, muros de código propietario y datos cautivos— era solo una pesadilla susurrada en los archivos de la Historia Oscura.\nEl planeta ahora"
   },
   {
-    "blog": "Blog de Joselito",
-    "titulo": "Enlaces desde el fediverso",
-    "link": "https://joselito.mataroa.blog/blog/enlaces-desde-el-fediverso/",
-    "fecha": "22/10/2025",
-    "contenido": "Tengo un apartado en mi Blog de enlaces pero hoy os traigo otros diferentes.\nRevisando los marcadores que tengo en mi cuenta de Mastodon pensé en guardarlos en mi cuenta de Wallabag pero también me dije: ¿y por qué no hacer una recopilación de algunos de ellos en un nuevo post de mi Blog?. Así que a"
+    "blog": "Erica Fustero",
+    "titulo": "Recuerdos de Madrid",
+    "link": "https://www.ericafustero.com/2025-10-recuerdos-de-madrid",
+    "fecha": "23/10/2025",
+    "contenido": "La semana pasada estuve en Madrid. Mis últimas visitas han sido bastante breves, pero esta vez Javier y yo pasamos siete días gracias a Diego y María, quienes nos dejaron al cuidado de Gatini, un gato guapísimo al que hice extensos reportajes fotográficos. Last week I was in Madrid. My last visits h"
+  },
+  {
+    "blog": "",
+    "titulo": "Tenemos en Camino una nueva secuela de Game Of Thrones.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/10/23/tenemos-en-camino-una-nueva-secuela-de-game-of-thrones/",
+    "fecha": "23/10/2025",
+    "contenido": ""
   },
   {
     "blog": "brucknerite",
@@ -420,45 +574,24 @@
     "contenido": "El blog, que de tan solo llamarse \"Bitácora de la Vergüenza Ajena\" ya lo decía todo, empezó su insólito ejercicio de autoría sin que nadie se lo pidiera, menos aún su supuesto dueño, un tal Roque que prefería la quietud del sillón a la intemperancia del teclado. La primera entrada fue un escueto, ca"
   },
   {
-    "blog": "La Loica",
-    "titulo": "Proceso de Fanzine – Autogestión o Autoadministración",
-    "link": "https://laloica.noblogs.org/proceso-de-fanzine-autogestion-o-autoadministracion/",
-    "fecha": "21/10/2025",
-    "contenido": "Es escrito este texto para estructurar un fanzine que estoy construyendo sobre Autogestión y quiero compartilo con ustedes como parte inicial del proceso de creación de este fanzine, espero puedan leerlo y si gustan hacer comentarios. ¿Qué es la autogestión? Desde el punto de vista de quien está esc"
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Suscripciones",
+    "link": "https://www.xn--jmuoz-qta.es/2025/10/suscripciones.html",
+    "fecha": "22/10/2025",
+    "contenido": "La semana pasada fue el punto de retorno: el momento en que me di de baja en todas y cada una de las plataformas a las que estaba suscrito. Todas. Sin excepción. Desde la que más tiempo llevaba pagando, Spotify, suscrito en un plan familiar desde hace más de diez años con los entonces compañeros de "
   },
   {
-    "blog": "Luis Carlos Pando",
-    "titulo": "¿Por qué me gusta Chihuahua?",
-    "link": "https://blog.luiscarlospando.com/personal/2025/10/por-que-me-gusta-chihuahua/",
-    "fecha": "21/10/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "blog": "",
+    "titulo": "Haloween.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/10/22/haloween/",
+    "fecha": "22/10/2025",
+    "contenido": "Ya se esta palpitando haloween y muchos de los pubs irlandeses típicos de la ciudad están iniciando sus temporadas de festejos, dos de los mas importantes ya están en carrera. El primero es Temple Bar que inicia su maratón de festejos el 23 de Octubre hasta el 31 y el segundo es Slainte que lo &#823"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Steam Next Fest Otoño 2025",
-    "link": "https://mareosdeungeek.es/steam-next-fest-otono-2025/",
-    "fecha": "21/10/2025",
-    "contenido": "Nueva edición del Steam Next Fest, en esta ocasión con los lanzamientos que se podrán ver de aquí a final de año y a comienzos del 2026. Cómo siempre, una pequeña selección, aunque he sufrido un poco con algunos de los videojuegos porque me ha resultado imposible ni tan siquiera avanzar lo más mínim"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#165: Debian",
-    "link": "https://www.macram.es/posts/2025-10-21-debian/",
-    "fecha": "21/10/2025",
-    "contenido": "Ya os conté que tengo un mini PC que utilizo para trastear con Linux, y que me pasé a KDE. No quiero decir que estoy practicando el distro hopping, porque tampoco diría que estoy cambiando tanto de distribución, pero sí estoy enredando. Y de Fedora he decidido instalarme una Debian, aunque también c"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "480. Generación 3.0 (Parte III)",
-    "link": "https://lamadredelpatonegro.blogspot.com/2025/10/480-generacion-30-parte-iii.html",
-    "fecha": "21/10/2025",
-    "contenido": "&nbsp; &nbsp; Los caminos de Subnormal 3.0 y Retrasada 3.0 se cruzaron un sábado noche en una discoteca de las afueras de la ciudad. Y como sintieron atracción mutua por sus envoltorios afortunados, decidieron unir sus vidas, contribuyendo así al desmejoramiento de la sociedad, si es que eso todavía"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Eco de Medianoche (deep web)",
-    "link": "https://docig.bearblog.dev/el-eco-de-medianoche-deep-web/",
-    "fecha": "21/10/2025",
-    "contenido": "El aire en el sótano de Elías era denso, pegajoso como el alquitrán. Olía a polvo, a café frío y, sobre todo, a ozono quemado, el aliento químico de una máquina trabajando demasiado. Elías, un hombre que parecía haber olvidado cómo dormían los humanos, vestía una camiseta gris y gastada que marcaba "
+    "blog": "",
+    "titulo": "Gira 2026 de Dropkick Murphys.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/10/22/gira-2026-de-dropkick-murphys/",
+    "fecha": "22/10/2025",
+    "contenido": ""
   }
 ]
