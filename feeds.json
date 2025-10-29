@@ -1,10 +1,52 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "Fuego en el puente",
+    "link": "https://brucknerite.net/2025/10/fuego-en-el-puente.html",
+    "fecha": "29/10/2025",
+    "contenido": "Una de las pequeñas sorpresas que nos tiene reservadas El maquinista de La General son los puentes cubiertos. Aunque no me considere un gran consumidor de cine, sí tengo bastantes de los números más gordos tachados de mi tarjeta de bingo. Es decir, he visto Los puentes de Madison. Una de las conclus"
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Una web con mapas sobre la Ley de Propiedad Intelectual y otra con campos para búsquedas en Scopus, WoS, Lens y OpenAlex",
+    "link": "https://pedrolr.es/blog/una-web-con-mapas-sobre-la-ley-de-propiedad-intelectual-y-otra-con-campos-para-busquedas-en-scopus-wos-lens-y-openalex/",
+    "fecha": "29/10/2025",
+    "contenido": "Este cuatrimestre imparto docencia de 2 asignaturas: Derechos y Licencias Digitales y Biblioteca, Datos e Información Científica. La primera es en el Máster Universitario en Gestión de la Documentación, Bibliotecas y Archivos y la segunda en el Grado en Ciencia de los Datos Aplicada. De la de estadí"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Mi blog como mi única red social",
+    "link": "https://matizeta.com/2025/10/29/mi-blog-como-mi-unica-red-social/",
+    "fecha": "29/10/2025",
+    "contenido": "En marzo del 2023 la empresa Automattic dueña de WordPress, Tumblr entre otras adquirió el plugin ActivityPub para entrar de lleno al Fediverso. A los pocos meses, en septiembre ya había dado el salto  y todos los planes de WordPress.com (incluido el gratuito) ya lo incorporaba.  Mi blog es federado"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Cómo instalar Uptime Kuma en Debian 13",
+    "link": "https://voidnull.es/como-instalar-uptime-kuma-en-debian-13/",
+    "fecha": "29/10/2025",
+    "contenido": "Uptime Kuma es una herramienta de monitoreo de auto-hospedaje muy popular que permite a los administradores de sistemas realizar un seguimiento del tiempo de actividad de sus servicios y recibir notificaciones en caso de fallos."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Mi mudanza a Manjaro como sistema principal",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/10/29/20251029-mudanza-a-manjaro/",
     "fecha": "29/10/2025",
     "contenido": "Esta elección atípica ha dado un resultado inesperadamente bueno, pudiendo invertir la potencia del equipo en lo que importa de verdad"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "La Desolación del Carácter ASCII",
+    "link": "https://docig.bearblog.dev/la-desolacion-del-caracter-ascii/",
+    "fecha": "29/10/2025",
+    "contenido": "La verdad es que la victoria del Texto Plano (o Textus Nullus, como lo bautizó algún sociólogo de la red antes de autodisolverse en la inanidad general) no fue una liberación, como se había prometido. Fue la confirmación final de la derrota. Una derrota absoluta de la Belleza y, consecuentemente, de"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El Texto Plano lo gobierna todo (ficción)",
+    "link": "https://docig.mataroa.blog/blog/el-texto-plano-lo-gobierna-todo-ficcion/",
+    "fecha": "29/10/2025",
+    "contenido": "Uno nunca sabe bien por dónde empezar con estas cosas, la verdad. Se supone que el universo de internet, ahora que el Texto Plano lo gobierna todo, debería ser más sencillo. Pero, francamente, a mí me parece que se ha vuelto más denso, más... gris.\nAntes, con eso del HTML, el CSS, las imágenes que p"
   },
   {
     "blog": "Blep",
@@ -92,17 +134,17 @@
   },
   {
     "blog": "La cosa infinita",
-    "titulo": "Núcleo, Reacción y Delirio: El Sistema Operativo del Planeta Tierra",
-    "link": "https://docig.mataroa.blog/blog/nucleo-reaccion-y-delirio-el-sistema-operativo-del-planeta-tierra/",
-    "fecha": "28/10/2025",
-    "contenido": "El planeta giraba, una matriz húmeda y azul, pero el verdadero motor, la médula espinal del proceso, era un Sistema Operativo codificado en las vísceras del basalto y las fibrilaciones del magma. No era software en el sentido burgués de la palabra; era Gnosis convertida en Kernel, una arquitectura d"
-  },
-  {
-    "blog": "La cosa infinita",
     "titulo": "https://matizeta.com  Opina sobre mi humilde texto",
     "link": "https://docig.mataroa.blog/blog/httpsmatizetacom-opina-sobre-mi-humilde-texto/",
     "fecha": "28/10/2025",
     "contenido": "https://matizeta.com/2025/10/27/la-textura-de-la-nada-texto-plano/"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "Núcleo, Reacción y Delirio: El Sistema Operativo del Planeta Tierra",
+    "link": "https://docig.mataroa.blog/blog/nucleo-reaccion-y-delirio-el-sistema-operativo-del-planeta-tierra/",
+    "fecha": "28/10/2025",
+    "contenido": "El planeta giraba, una matriz húmeda y azul, pero el verdadero motor, la médula espinal del proceso, era un Sistema Operativo codificado en las vísceras del basalto y las fibrilaciones del magma. No era software en el sentido burgués de la palabra; era Gnosis convertida en Kernel, una arquitectura d"
   },
   {
     "blog": "",
@@ -225,17 +267,17 @@
   },
   {
     "blog": "La cosa infinita",
-    "titulo": "Catalogo binario",
-    "link": "https://docig.mataroa.blog/blog/catalogo-binario/",
-    "fecha": "27/10/2025",
-    "contenido": "Un solo pulso en la arteria de silicio. 1, 0.\nEl universo, entendido cabalmente, \nse comprime en el flash de un instante. \nNo es piel, no es médula. Es cifra.\nLágrima de sangre en la avidez del código. \nDos estados turgentes, \npirámide casual convertida en pira ardiente.\nMi gnosis, debo abandonarla:"
-  },
-  {
-    "blog": "La cosa infinita",
     "titulo": "$CÓDIGO\\_FUENTEv1.0\\_HUMANO$.exe",
     "link": "https://docig.mataroa.blog/blog/codigo_fuentev10_humanoexe/",
     "fecha": "27/10/2025",
     "contenido": "El arquitecto se llamaba Elías. No de los que construyen con ladrillos y argamasa, sino con abstracciones. Trabajaba en la cimentación de un error, eso lo sabía. O más precisamente, en la línea de comando que generaba la errata.\nLa oficina era blanca, una cúpula sin eco donde el silencio olía a ozon"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "Catalogo binario",
+    "link": "https://docig.mataroa.blog/blog/catalogo-binario/",
+    "fecha": "27/10/2025",
+    "contenido": "Un solo pulso en la arteria de silicio. 1, 0.\nEl universo, entendido cabalmente, \nse comprime en el flash de un instante. \nNo es piel, no es médula. Es cifra.\nLágrima de sangre en la avidez del código. \nDos estados turgentes, \npirámide casual convertida en pira ardiente.\nMi gnosis, debo abandonarla:"
   },
   {
     "blog": "",
@@ -257,13 +299,6 @@
     "link": "https://mindeka.es/2025/10/26/solucion-fiable-contra-tebas/",
     "fecha": "26/10/2025",
     "contenido": "Es llegar el fin de semana, ya incluso podemos contar desde el viernes y uno de mis «vicios» tradicionales, como es jugar a videojuegos un ratillo, se ha vuelto algo casi imposible, porque el lag es abusivo. Ayer sábado volvió a suceder y ya el tema me cabreó en mayúsculas, porque es uno de los [&#8"
-  },
-  {
-    "blog": "ocubom's blog | Oscar Cubo Medina",
-    "titulo": "Hora Zulu",
-    "link": "https://ocubom.page/es/post/hora-zulu/",
-    "fecha": "26/10/2025",
-    "contenido": "En ciertos mapas meteorológicos, imágenes de radar o satélite, así como en películas bélicas o de espionaje a veces se indica la hora mediante expresiones como «10:10 Z» o «1010 Zulu».\nPero ¿qué significan estas expresiones?\nDesde tiempos inmemoriales, la humanidad ha detectado fenómenos naturales c"
   },
   {
     "blog": "danielaragay.net",
@@ -504,13 +539,6 @@
     "contenido": ""
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Talones y agujas",
-    "link": "https://brucknerite.net/2025/10/talones-y-agujas.html",
-    "fecha": "22/10/2025",
-    "contenido": "¡La persecución continúa! En artículos anteriores nos hemos sentado en la biela de una locomotora en marcha, hemos desenganchado vagones, nos hemos subido al techo de una locomotora y hemos disparado un mortero que estaba detrás de nuestra locomotora y apuntado hacia delante, pero no nos ha dado gra"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Malas noticias",
     "link": "https://jinversor.co/2025/10/malas-noticias/",
@@ -539,39 +567,11 @@
     "contenido": "Anoche arrancó otra nueva temporada de la NBA. Según el correo del comisionado, Adam Silver, la temporada 80 de esta competición de baloncesto. De nuevo con el balón en sus manos los Curry, LeBron, Jokic, Doncic, Durant, Shai, Wembanyama, Antetokounmpo, Anthony Edwards, Donovan Mitchell y el número "
   },
   {
-    "blog": "ladoB – matizeta",
-    "titulo": "Halloween",
-    "link": "https://matizeta.com/2025/10/22/halloween/",
-    "fecha": "22/10/2025",
-    "contenido": "Cómo hice anteriormente con la saga de&#160;Rápido y Furioso, esta vez elegí continuar con la saga de Halloween, y su famoso protagonista Michael Myers. Realmente es una película que nunca le había prestado atención anteriormente debido a que el&#160;género terror no suele ser mi favorito. Sin embar"
-  },
-  {
     "blog": "Eterno aprendiz",
     "titulo": "¡Blog! ¡Blog!",
     "link": "https://altgr.xyz/2025/10/22/blog-blog/",
     "fecha": "22/10/2025",
     "contenido": "La Bitácora de un Eterno Aprendiz ya es parte de ¡Blog! ¡Blog!, el directorio de blogs personales en español que es mantenido gracias al esfuerzo del amigo Matizeta, compatriota del querido Flaco Spinetta. Una gran iniciativa para ayudar a mantener vivo el espíritu de la vieja web, donde el contenid"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Zabbix 7.x en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-zabbix-7-x-en-debian-13/",
-    "fecha": "22/10/2025",
-    "contenido": "Zabbix es un software de monitoreo de infraestructura bajo licencia GPLv3, muy popular y con muchas funcionalidades desarrollado en PHP."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "La migración de un Omen-CE a GNU-Linux",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/10/22/20251022-la-migracion-de-omen-ce/",
-    "fecha": "22/10/2025",
-    "contenido": "Cuando se cierran ventanas, puede que se abra una nueva puerta de salida"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "Bitácora de la Vergüenza Ajena ( el blog que se escribe solo)",
-    "link": "https://docig.bearblog.dev/bitacora-de-la-verguenza-ajena-el-blog-que-se-escribe-solo/",
-    "fecha": "22/10/2025",
-    "contenido": "El blog, que de tan solo llamarse \"Bitácora de la Vergüenza Ajena\" ya lo decía todo, empezó su insólito ejercicio de autoría sin que nadie se lo pidiera, menos aún su supuesto dueño, un tal Roque que prefería la quietud del sillón a la intemperancia del teclado. La primera entrada fue un escueto, ca"
   },
   {
     "blog": "El cuaderno de J. Muñoz",
