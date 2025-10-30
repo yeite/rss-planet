@@ -34,7 +34,7 @@
   {
     "Nombre": "Papa Friki",
     "Url": "https://www.papafriki.es",
-    "Feed": "",
+    "Feed": "https://www.papafriki.es",
     "Descripción": "Podcast, junto con los índices y algún pequeño tutorial.",
     "Categoría": "Podcast",
     "País": "España"
@@ -115,7 +115,7 @@
   {
     "Nombre": "Cozy Kis",
     "Url": "https://cozy-kis.bearblog.dev/mas-jueguitos/",
-    "Feed": "",
+    "Feed": "https://cozy-kis.bearblog.dev/feed/",
     "Descripción": "Blog de reseñas de videojuegos indies",
     "Categoría": "Entretenimiento y Cultura",
     "País": "España"
@@ -138,7 +138,7 @@
   },
   {
     "Nombre": "jurassikdev34",
-    "Url": "jurassikdev34.com",
+    "Url": "https://jurassikdev34.com",
     "Feed": "https://jurassikdev34.com/index.xml",
     "Descripción": "Un blog tecnológico y filosófico donde comparto pensamientos e ideas.",
     "Categoría": "Tecnología, Ciencia y Humanidades, Literario",
@@ -155,7 +155,7 @@
   {
     "Nombre": "La Loica",
     "Url": "https://laloica.noblogs.org",
-    "Feed": "http://laloica.noblogs.org/feed/",
+    "Feed": "https://laloica.noblogs.org/feed/",
     "Descripción": "Blog de divulgación de oficios textiles, por medio de fanzines, tutoriales, talleres, patrones y reflexiones.",
     "Categoría": "Arte y Diseño, Manualidades / Hobbies",
     "País": "Chile"
@@ -195,7 +195,7 @@
   {
     "Nombre": "La Página Definitiva",
     "Url": "https://www.lapaginadefinitiva.com/",
-    "Feed": "",
+    "Feed": "https://www.lapaginadefinitiva.com/feed/",
     "Descripción": "Un blog colectivo con entradas sobre series, libros (mayormente de historia), política española, un poco de todo.",
     "Categoría": "Entretenimiento y Cultura, Sociedad y Economía",
     "País": "España"
@@ -210,7 +210,7 @@
   },
   {
     "Nombre": "Moribundo Insurgente",
-    "Url": "moribundoinsurgente.noblogs.org",
+    "Url": "https://moribundoinsurgente.noblogs.org",
     "Feed": "https://moribundoinsurgente.noblogs.org/feed/",
     "Descripción": "Blog sobre privacidad",
     "Categoría": "Tecnología",
@@ -259,7 +259,7 @@
   {
     "Nombre": "Deivis Diaz",
     "Url": "https://deivisdiaz.flounder.online",
-    "Feed": "",
+    "Feed": "https://deivisdiaz.flounder.online",
     "Descripción": "Cápsula gemini de reflexiones sobre el uso de la red",
     "Categoría": "Tecnología, Sociedad y Economía, Ciencia y Humanidades, Vida Diaria",
     "País": "España"
@@ -299,7 +299,7 @@
   {
     "Nombre": "iAgosto",
     "Url": "https://blog.iagosto.dev",
-    "Feed": "blog.iagosto.dev/rss.xml",
+    "Feed": "https://blog.iagosto.dev/rss.xml",
     "Descripción": "Blog de tecnologia, programacion y administracion de sistemas.",
     "Categoría": "Podcast, Manualidades / Hobbies, Tecnología",
     "País": "México"
@@ -323,7 +323,7 @@
   {
     "Nombre": "El sueño del artista blog",
     "Url": "https://polotman.wordpress.com/",
-    "Feed": "",
+    "Feed": "https://polotman.wordpress.com/feed/",
     "Descripción": "El blog del Sueño del artista está encaminado a reflejar todas las inquietudes, pensamientos abstractos que se formen en la cabeza de un loco soñador con la meta de ser artista . Mienstras eso ocurre te hablamos de historia del arte , artistas olvidados e incluso de movimientos artísticos que ignoraban de su existencia ....",
     "Categoría": "Arte y Diseño, Podcast",
     "País": "Cuba"
@@ -386,7 +386,7 @@
   },
   {
     "Nombre": "Un Bruto con Debian",
-    "Url": "unbrutocondebian.blogspot.com",
+    "Url": "https://unbrutocondebian.blogspot.com",
     "Feed": "https://unbrutocondebian.blogspot.com/feeds/posts/default",
     "Descripción": "Un novato que usa Debian y cuenta sus experiencias y luchas",
     "Categoría": "Tecnología",
@@ -443,7 +443,7 @@
   {
     "Nombre": "Madrid y el cine",
     "Url": "https://madridyelcine.blogspot.com/",
-    "Feed": "",
+    "Feed": "https://madridyelcine.blogspot.com/feeds/posts/default",
     "Descripción": "La ciudad de Madrid vista a través del cine",
     "Categoría": "Ciencia y Humanidades, Entretenimiento y Cultura",
     "País": "España"
@@ -778,7 +778,7 @@
   },
   {
     "Nombre": "Diana Laurencich, crónicas cotidianas",
-    "Url": "dianalaurencich.wordpress.com",
+    "Url": "https://dianalaurencich.wordpress.com",
     "Feed": "https://dianalaurencich.wordpress.com/feed/",
     "Descripción": "Desde el 2010 que intento reunir lo más importante de mis otros once blogs en este, contando mi visión como antopóloga, escritora y artista de lo que nos sucede, en pequeñas crónicas cotidianas.",
     "Categoría": "Entretenimiento y Cultura, Ciencia y Humanidades, Literario",
@@ -811,7 +811,7 @@
   {
     "Nombre": "El quiróptero amanuense",
     "Url": "https://quiroptero.blog",
-    "Feed": "",
+    "Feed": "https://quiroptero.blog",
     "Descripción": "Es un blog personal, principalmente publico sobre cosas que pienso o que hago, pero también me sirve para llevar un registro de los libros que leo (y los que tengo), las pelis que veo, lo que estoy haciendo actualmente...",
     "Categoría": "Literario, Fotografía, Viajes, Vida Diaria",
     "País": "México"
