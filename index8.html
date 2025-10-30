@@ -180,9 +180,9 @@
                         .then((data) => ({ data, ultimaActualizacion }));
                 })
                 .then(({ data, ultimaActualizacion }) => {
-                    const blogs = data;
+                    blogs = data; // importante: asignar a la variable global
 
-                    // Mostrar blogs y filtros
+                    // Ahora sí podemos poblar filtros y mostrar blogs
                     poblarFiltros();
                     mostrarBlogs(blogs);
 
@@ -212,7 +212,7 @@
                     }
                 })
                 .catch((err) => {
-                    const contenedor = document.getElementById("blogs");
+                    const contenedor = document.getElementById("contenedor");
                     if (contenedor)
                         contenedor.innerHTML =
                             "<p>Error al cargar los blogs 😢</p><p>" +
