@@ -7,6 +7,13 @@
     "contenido": "Una de las pequeñas sorpresas que nos tiene reservadas El maquinista de La General son los puentes cubiertos. Aunque no me considere un gran consumidor de cine, sí tengo bastantes de los números más gordos tachados de mi tarjeta de bingo. Es decir, he visto Los puentes de Madison. Una de las conclus"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "Guerrilla Open Access Manifesto",
+    "link": "https://jinversor.co/2025/10/guerrilla-open-access-manifesto/",
+    "fecha": "29/10/2025",
+    "contenido": "El Guerrilla Open Access Manifesto o Manifiesto por la Guerrilla del Acceso Abierto es una proclama escrita por el activista y programador estadounidense Aaron Swartz en julio de 2008. El [&#8230;]\nLa entrada Guerrilla Open Access Manifesto se publicó primero en Jinversor."
+  },
+  {
     "blog": "plr blog",
     "titulo": "Una web con mapas sobre la Ley de Propiedad Intelectual y otra con campos para búsquedas en Scopus, WoS, Lens y OpenAlex",
     "link": "https://pedrolr.es/blog/una-web-con-mapas-sobre-la-ley-de-propiedad-intelectual-y-otra-con-campos-para-busquedas-en-scopus-wos-lens-y-openalex/",
@@ -14,11 +21,32 @@
     "contenido": "Este cuatrimestre imparto docencia de 2 asignaturas: Derechos y Licencias Digitales y Biblioteca, Datos e Información Científica. La primera es en el Máster Universitario en Gestión de la Documentación, Bibliotecas y Archivos y la segunda en el Grado en Ciencia de los Datos Aplicada. De la de estadí"
   },
   {
+    "blog": "End3r.es",
+    "titulo": "La sociedad del cansancio",
+    "link": "https://www.end3r.es/posts/010-la-sociedad-del-cansancio/",
+    "fecha": "29/10/2025",
+    "contenido": "La sociedad\ndel cansancio (Ed. Herder) es un ensayo filosófico del reciente Premio Princesa de Asturias de Comunicación\ny Humanidades Byung-Chul Han,\nfilósofo surcoreano afincado en Alemania, donde en la actualidad imparte clases de estudios culturales y filosóficos\nen la Universidad de las Artes de"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Diez cosas sobre mí",
+    "link": "https://www.macram.es/posts/2025-10-29-diez-cosas-sobre-mi/",
+    "fecha": "29/10/2025",
+    "contenido": "Cuánto tiempo sin hacer algo como esto en el blog. He visto en el (para mi gusto excelente) blog de James un post mencionando diez detalles sobre él mismo, viniendo de una propuesta del blog Forking Mad. Y, como no se me ocurre ninguna idea mejor y seguir este tipo de tendencias es sencillo, allá va"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Mi blog como mi única red social",
     "link": "https://matizeta.com/2025/10/29/mi-blog-como-mi-unica-red-social/",
     "fecha": "29/10/2025",
     "contenido": "En marzo del 2023 la empresa Automattic dueña de WordPress, Tumblr entre otras adquirió el plugin ActivityPub para entrar de lleno al Fediverso. A los pocos meses, en septiembre ya había dado el salto  y todos los planes de WordPress.com (incluido el gratuito) ya lo incorporaba.  Mi blog es federado"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "La máquina no está rota",
+    "link": "https://impermanente.es/2025/10/29/la-mquina-no-est-rota.html",
+    "fecha": "29/10/2025",
+    "contenido": "En ingeniería de sistemas existe un concepto llamado POSIWID, que son las siglas en inglés de &ldquo;the purpose of a system is what it does&rdquo;. Esto quiere decir que un sistema nunca está equivocado, un sistema hace siempre aquello para lo que fue diseñado. Puede no ser el resultado que querías"
   },
   {
     "blog": "_ voidNull",
@@ -42,11 +70,39 @@
     "contenido": "La verdad es que la victoria del Texto Plano (o Textus Nullus, como lo bautizó algún sociólogo de la red antes de autodisolverse en la inanidad general) no fue una liberación, como se había prometido. Fue la confirmación final de la derrota. Una derrota absoluta de la Belleza y, consecuentemente, de"
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "Aventuras en blanco y negro",
+    "link": "https://www.ericafustero.com/2025-10-aventuras-en-blanco-y-negro",
+    "fecha": "29/10/2025",
+    "contenido": "No soy muy fan de las cámaras de apuntar y disparar. Me gusta saber a qué estoy enfocando, qué va a salir en el encuadre y tener cierto control durante el proceso. Además, la experiencia de usarlas me suele dejar un poco fría. Un clic ¿y ya está? Sin duda prefiero usar cámaras con más [&#8230;]"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Carlos Mazón",
+    "link": "https://www.xn--jmuoz-qta.es/2025/10/carlos-mazon.html",
+    "fecha": "29/10/2025",
+    "contenido": "Un año hace de la DANA que asoló Valencia y el sinistro Mazón sigue en el cargo. Un presidente del Partido Popular que es incapaz de hacer que dimita no merece ser presidente del Gobierno de España y esa inmovilidad puede costarle las elecciones.Mazón, dimisión."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Hoy ya sí es otoño",
+    "link": "https://www.xn--jmuoz-qta.es/2025/10/hoy-ya-si-es-otono.html",
+    "fecha": "29/10/2025",
+    "contenido": "Llevo hablando de inicios desde el 1 de septiembre, de cambio de estación desde que entró el otoño... pero, verán ustedes, ya sí que es otoño de verdad. No solo porque los puestos de castañas se hayan instalado por fin en la ciudad, es que por fin hace frío por la mañana, es que por fin está llovien"
+  },
+  {
     "blog": "La cosa infinita",
     "titulo": "El Texto Plano lo gobierna todo (ficción)",
     "link": "https://docig.mataroa.blog/blog/el-texto-plano-lo-gobierna-todo-ficcion/",
     "fecha": "29/10/2025",
     "contenido": "Uno nunca sabe bien por dónde empezar con estas cosas, la verdad. Se supone que el universo de internet, ahora que el Texto Plano lo gobierna todo, debería ser más sencillo. Pero, francamente, a mí me parece que se ha vuelto más denso, más... gris.\nAntes, con eso del HTML, el CSS, las imágenes que p"
+  },
+  {
+    "blog": "",
+    "titulo": "Eventos.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/10/29/eventos-45/",
+    "fecha": "29/10/2025",
+    "contenido": ""
   },
   {
     "blog": "Blep",
@@ -301,6 +357,13 @@
     "contenido": "Es llegar el fin de semana, ya incluso podemos contar desde el viernes y uno de mis «vicios» tradicionales, como es jugar a videojuegos un ratillo, se ha vuelto algo casi imposible, porque el lag es abusivo. Ayer sábado volvió a suceder y ya el tema me cabreó en mayúsculas, porque es uno de los [&#8"
   },
   {
+    "blog": "ocubom's blog | Oscar Cubo Medina",
+    "titulo": "Hora Zulu",
+    "link": "https://ocubom.page/es/post/hora-zulu/",
+    "fecha": "26/10/2025",
+    "contenido": "En ciertos mapas meteorológicos, imágenes de radar o satélite, así como en películas bélicas o de espionaje a veces se indica la hora mediante expresiones como «10:10 Z» o «1010 Zulu».\nPero ¿qué significan estas expresiones?\nDesde tiempos inmemoriales, la humanidad ha detectado fenómenos naturales c"
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "Ensuizados, El Parche de Odín y Haciendo el Sueco en directo en las JPOD 2025",
     "link": "https://blog.danielaragay.net/ensuizados-el-parche-de-odin-y-haciendo-el-sueco-en-directo-en-las-jpod-2025/",
@@ -469,13 +532,6 @@
     "contenido": "En los tiempos que corren se ha olvidado la infoxicación. Es decir, el bombardeo constante de información nos impide procesarla bien, casi sin descanso, especialmente debido a Internet y las redes sociales. Toda esa avalancha de datos, opiniones y noticias fluyen de manera constante en nuestros disp"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Ahora toca hablar del bullying.",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/ahora-toca-hablar-del-bullying/",
-    "fecha": "23/10/2025",
-    "contenido": "Lo típico. Es necesario que alguien muera y llegue a los medios (porque leyendo sobre el tema he llegado al caso de Dani, que se quitó la vida en julio tras sufrir acoso escolar de forma persistente) para que esto vuelva a «importar». Y digo «importar», con bien de comillas, porque todos estamos con"
-  },
-  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Teatro – Ejercicio de clase Semana 5 del Taller de Escritura Creativa Librería Luces 2025/2026",
     "link": "https://mcallus.net/2025/10/23/teatro-ejercicio-de-clase-semana-5-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
@@ -536,62 +592,6 @@
     "titulo": "Tenemos en Camino una nueva secuela de Game Of Thrones.",
     "link": "https://mundoceltamedieval.wordpress.com/2025/10/23/tenemos-en-camino-una-nueva-secuela-de-game-of-thrones/",
     "fecha": "23/10/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Malas noticias",
-    "link": "https://jinversor.co/2025/10/malas-noticias/",
-    "fecha": "22/10/2025",
-    "contenido": "De un tiempo para acá he notado que casi todas las noticias son malas noticias. No sé si lo que cambió fue la realidad o que yo me saturé de [&#8230;]\nLa entrada Malas noticias se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "La computadora de otro",
-    "link": "https://jinversor.co/2025/10/la-computadora-de-otro/",
-    "fecha": "22/10/2025",
-    "contenido": "Guardamos nuestros archivos importantes en la computadora de otro y a eso le llamamos la nube. No se me ocurre algo más peligroso ni más estúpido. Al hacerlo, estamos compartiendo [&#8230;]\nLa entrada La computadora de otro se publicó primero en Jinversor."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "No basaría un criterio para un premio extraordinario de doctorado en papers publicados solo en revistas del JCR y/o SJR",
-    "link": "https://pedrolr.es/blog/no-basaria-un-criterio-para-un-premio-extraordinario-de-doctorado-en-papers-publicados-solo-en-revistas-del-jcr-y-o-el-sjr/",
-    "fecha": "22/10/2025",
-    "contenido": "Hoy hubo junta de Facultad y se ha debatido sobre los criterios para el premio extraordinario de doctorado. En uno de los puntos, se añadía esto: Cuando así figure, se valorarán las publicaciones, realizadas durante el desarrollo de la tesis y tras su defensa, como: artículos indexados en JCR (Journ"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Empieza la nueva temporada de la NBA",
-    "link": "https://mareosdeungeek.es/empieza-la-nueva-temporada-de-la-nba/",
-    "fecha": "22/10/2025",
-    "contenido": "Anoche arrancó otra nueva temporada de la NBA. Según el correo del comisionado, Adam Silver, la temporada 80 de esta competición de baloncesto. De nuevo con el balón en sus manos los Curry, LeBron, Jokic, Doncic, Durant, Shai, Wembanyama, Antetokounmpo, Anthony Edwards, Donovan Mitchell y el número "
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "¡Blog! ¡Blog!",
-    "link": "https://altgr.xyz/2025/10/22/blog-blog/",
-    "fecha": "22/10/2025",
-    "contenido": "La Bitácora de un Eterno Aprendiz ya es parte de ¡Blog! ¡Blog!, el directorio de blogs personales en español que es mantenido gracias al esfuerzo del amigo Matizeta, compatriota del querido Flaco Spinetta. Una gran iniciativa para ayudar a mantener vivo el espíritu de la vieja web, donde el contenid"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Suscripciones",
-    "link": "https://www.xn--jmuoz-qta.es/2025/10/suscripciones.html",
-    "fecha": "22/10/2025",
-    "contenido": "La semana pasada fue el punto de retorno: el momento en que me di de baja en todas y cada una de las plataformas a las que estaba suscrito. Todas. Sin excepción. Desde la que más tiempo llevaba pagando, Spotify, suscrito en un plan familiar desde hace más de diez años con los entonces compañeros de "
-  },
-  {
-    "blog": "",
-    "titulo": "Haloween.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/10/22/haloween/",
-    "fecha": "22/10/2025",
-    "contenido": "Ya se esta palpitando haloween y muchos de los pubs irlandeses típicos de la ciudad están iniciando sus temporadas de festejos, dos de los mas importantes ya están en carrera. El primero es Temple Bar que inicia su maratón de festejos el 23 de Octubre hasta el 31 y el segundo es Slainte que lo &#823"
-  },
-  {
-    "blog": "",
-    "titulo": "Gira 2026 de Dropkick Murphys.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/10/22/gira-2026-de-dropkick-murphys/",
-    "fecha": "22/10/2025",
     "contenido": ""
   }
 ]
