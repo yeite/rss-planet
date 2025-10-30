@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Directorio de Blogs RSS</title>
+        <style>
+            body {
+                font-family: system-ui, sans-serif;
+                background: #121212;
+                color: #fff;
+                margin: 0;
+                padding: 2em;
+            }
+            h1 {
+                text-align: center;
+                margin-bottom: 1.5em;
+            }
+            .filtros {
+                text-align: center;
+                margin-bottom: 2em;
+            }
+            select {
+                background: #222;
+                color: #fff;
+                padding: 0.5em;
+                border: none;
+                border-radius: 5px;
+                margin: 0 0.5em;
+            }
+            .lista {
+                max-width: 800px;
+                margin: 0 auto;
+            }
+            .blog {
+                background: #1f1f1f;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                transition: background 0.3s;
+            }
+            .blog.aliado {
+                background: #233042;
+                border: 1px solid #4a6eff;
+            }
+            .blog h3 {
+                margin: 0 0 0.3em;
+                font-size: 1.2em;
+                display: flex;
+                align-items: center;
+                gap: 0.4em;
+            }
+            .blog h3 img {
+                width: 20px;
+                height: 20px;
+                vertical-align: middle;
+            }
+            .descripcion {
+                font-size: 0.9em;
+                opacity: 0.9;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Directorio de Blogs RSS</h1>
+
+        <div class="filtros">
+            <select id="filtro-pais">
+                <option value="">🌎 Todos los países</option>
+            </select>
+            <select id="filtro-categoria">
+                <option value="">🗂️ Todas las categorías</option>
+            </select>
+        </div>
+
+        <div class="lista" id="lista-blogs"></div>
+
+        <script>
+            async function cargarBlogs() {
+                const res = await fetch("blogs.json");
+                const blogs = await res.json();
+
+                const lista = document.getElementById("lista-blogs");
+                const filtroPais = document.getElementById("filtro-pais");
+                const filtroCat = document.getElementById("filtro-categoria");
+
+                // Cargar opciones únicas de país y categoría
+                const paises = [
+                    ...new Set(blogs.map((b) => b.País).filter(Boolean)),
+                ].sort();
+                const categorias = [
+                    ...new Set(
+                        blogs.flatMap((b) =>
+                            b.Categoría.split(",").map((c) => c.trim()),
+                        ),
+                    ),
+                ].sort();
+
+                paises.forEach((p) => {
+                    const op = document.createElement("option");
+                    op.value = p;
+                    op.textContent = p;
+                    filtroPais.appendChild(op);
+                });
+
+                categorias.forEach((c) => {
+                    const op = document.createElement("option");
+                    op.value = c;
+                    op.textContent = c;
+                    filtroCat.appendChild(op);
+                });
+
+                function mostrarBlogs() {
+                    lista.innerHTML = "";
+                    const paisSel = filtroPais.value;
+                    const catSel = filtroCat.value;
+
+                    blogs
+                        .filter((b) => !paisSel || b.País === paisSel)
+                        .filter(
+                            (b) =>
+                                !catSel ||
+                                b.Categoría.split(",")
+                                    .map((c) => c.trim())
+                                    .includes(catSel),
+                        )
+                        .forEach((b) => {
+                            const div = document.createElement("div");
+                            div.classList.add("blog");
+                            if (b.Aliado !== undefined)
+                                div.classList.add("aliado");
+
+                            const titulo = document.createElement("h3");
+                            const enlace = document.createElement("a");
+                            enlace.href = b.Url;
+                            enlace.textContent = b.Nombre;
+                            enlace.target = "_blank";
+                            enlace.style.color = "#4da3ff";
+
+                            titulo.appendChild(enlace);
+
+                            // Si es aliado, agrega la ranita
+                            if (b.Aliado !== undefined) {
+                                const img = document.createElement("img");
+                                img.src =
+                                    "https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif";
+                                img.alt = "Aliado";
+                                titulo.appendChild(img);
+                            }
+
+                            const desc = document.createElement("div");
+                            desc.classList.add("descripcion");
+                            desc.textContent = b.Descripción || "";
+
+                            const info = document.createElement("div");
+                            info.textContent = `${b.País} — ${b.Categoría}`;
+
+                            div.appendChild(titulo);
+                            div.appendChild(desc);
+                            div.appendChild(info);
+
+                            lista.appendChild(div);
+                        });
+                }
+
+                filtroPais.addEventListener("change", mostrarBlogs);
+                filtroCat.addEventListener("change", mostrarBlogs);
+
+                mostrarBlogs();
+            }
+
+            cargarBlogs();
+        </script>
+    </body>
+</html>
