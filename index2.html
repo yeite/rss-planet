@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <title>¡Blog!¡Blog! RSS</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background: #1f1f1f;
+                color: #fff;
+                margin: 0;
+                padding: 0;
+            }
+            header {
+                background: #fff;
+                padding: 20px;
+                text-align: center;
+            }
+
+            header,
+            footer {
+                padding: 30px 20px;
+                text-align: center;
+            }
+
+            .header-inner {
+                display: inline-block;
+                text-align: left;
+            }
+
+            .header-content {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                justify-content: center;
+                flex-wrap: wrap;
+            }
+
+            header img {
+                width: 120px;
+                height: 100px;
+                border-radius: 6px;
+            }
+
+            footer {
+                background: #2f2f30;
+                padding: 20px;
+                text-align: center;
+            }
+            header h1 {
+                color: #3b3b3c;
+                margin: 0;
+                font-size: 1.95em;
+            }
+
+            header h2 {
+                color: #3b3b3c;
+                margin: 5px 0 0;
+                font-size: 1.1em;
+                font-weight: normal;
+                font-style: italic;
+            }
+            header p {
+                color: #3b3b3c;
+                margin: 5px 0 0 0;
+                font-size: 0.95em;
+            }
+            footer p {
+                color: #fff;
+                font-size: 0.85em;
+                margin: 0;
+            }
+            main {
+                padding: 40px;
+                max-width: 800px;
+                margin: auto;
+            }
+            .item {
+                background: #2c2c2c;
+                padding: 15px;
+                border-radius: 8px;
+                margin-bottom: 20px;
+            }
+            .blog {
+                color: #ffa500;
+                font-size: 0.85em;
+                margin-bottom: 5px;
+                display: block;
+            }
+            .fecha {
+                color: #aaa;
+                font-size: 0.9em;
+                margin-bottom: 5px;
+            }
+            a {
+                color: #6abe30;
+                text-decoration: none;
+                font-weight: bold;
+            }
+            a:hover {
+                text-decoration: underline;
+            }
+            .contenido {
+                font-size: 0.95em;
+                color: #ddd;
+            }
+
+            /* --- Filtros --- */
+            .filtros {
+                display: flex;
+                gap: 1rem;
+                margin: 1rem 0 2rem;
+                justify-content: center;
+                flex-wrap: wrap;
+            }
+            select {
+                padding: 0.6rem;
+                border-radius: 0.5rem;
+                border: 1px solid #666;
+                background: #111;
+                color: #fff;
+                font-size: 0.95em;
+            }
+            .blog-card {
+                background: #2c2c2c;
+                border-radius: 8px;
+                padding: 1rem;
+                margin-bottom: 1.5rem;
+                box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+            }
+            .blog-card h3 {
+                margin: 0;
+                color: #ffa500;
+            }
+            .blog-card p {
+                margin: 0.5rem 0;
+            }
+            .blog-card small {
+                color: #aaa;
+            }
+        </style>
+    </head>
+
+    <body>
+        <header>
+            <div class="header-inner">
+                <div class="header-content">
+                    <img
+                        src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif"
+                        alt="Logo ¡Blog!¡Blog!"
+                    />
+                    <div class="title-group">
+                        <h1>
+                            ¡Blog!¡Blog!
+                            <span style="font-style: italic; color: #ffa500"
+                                >RSS🚀</span
+                            >
+                        </h1>
+                        <h2>Directorio de blogs en español</h2>
+                    </div>
+                </div>
+                <p>
+                    Descubre los últimos posts publicados en los blogs del
+                    directorio en español
+                </p>
+            </div>
+        </header>
+
+        <main>
+            <p>
+                Aquí puedes ver todo lo que estuvieron publicando los blogs del
+                directorio
+                <a href="https://blogblog.es">¡Blog!¡Blog!</a>
+                en la semana
+            </p>
+
+            <!-- Filtros -->
+            <div class="filtros">
+                <select id="pais">
+                    <option value="">🌎 Todos los países</option>
+                </select>
+                <select id="categoria">
+                    <option value="">📚 Todas las categorías</option>
+                </select>
+            </div>
+
+            <!-- Lista de blogs -->
+            <div id="lista"></div>
+        </main>
+
+        <footer>
+            <p>
+                ¡Blog!¡Blog!
+                <a href="https://blogblog.es" style="color: #6abe30"
+                    >Visita el directorio completo</a
+                >
+            </p>
+        </footer>
+
+        <script>
+            async function cargarBlogs() {
+                const res = await fetch("blogs.json");
+                const blogs = await res.json();
+
+                // Normalizar campos
+                blogs.forEach((b) => {
+                    b.País = b.País?.trim();
+                    b.Categoría = b.Categoría?.trim();
+                });
+
+                // Extraer listas únicas
+                const paises = [
+                    ...new Set(blogs.map((b) => b.País).filter(Boolean)),
+                ].sort();
+                const categorias = [
+                    ...new Set(
+                        blogs.flatMap((b) =>
+                            b.Categoría.split(",").map((c) => c.trim()),
+                        ),
+                    ),
+                ].sort();
+
+                // Poblar selects
+                const selPais = document.getElementById("pais");
+                paises.forEach((p) =>
+                    selPais.insertAdjacentHTML(
+                        "beforeend",
+                        `<option value="${p}">${p}</option>`,
+                    ),
+                );
+
+                const selCat = document.getElementById("categoria");
+                categorias.forEach((c) =>
+                    selCat.insertAdjacentHTML(
+                        "beforeend",
+                        `<option value="${c}">${c}</option>`,
+                    ),
+                );
+
+                // Función de filtrado
+                function aplicarFiltros() {
+                    const pais = selPais.value;
+                    const cat = selCat.value;
+
+                    const filtrados = blogs.filter((b) => {
+                        const matchPais = pais ? b.País === pais : true;
+                        const matchCat = cat
+                            ? b.Categoría.split(",")
+                                  .map((c) => c.trim())
+                                  .includes(cat)
+                            : true;
+                        return matchPais && matchCat;
+                    });
+
+                    mostrar(filtrados);
+                }
+
+                selPais.addEventListener("change", aplicarFiltros);
+                selCat.addEventListener("change", aplicarFiltros);
+
+                // Mostrar todos al inicio
+                mostrar(blogs);
+            }
+
+            function mostrar(lista) {
+                const cont = document.getElementById("lista");
+                cont.innerHTML = lista
+                    .map(
+                        (b) => `
+          <div class="blog-card">
+            <h3><a href="${b.Url}" target="_blank">${b.Nombre}</a></h3>
+            <p>${b.Descripción}</p>
+            <p><small>${b.País} · ${b.Categoría}</small></p>
+            <a href="${b.Feed}" target="_blank">🔗 RSS</a>
+          </div>
+        `,
+                    )
+                    .join("");
+
+                if (!lista.length) {
+                    cont.innerHTML = `<p>No se encontraron blogs con esos filtros.</p>`;
+                }
+            }
+
+            cargarBlogs();
+        </script>
+    </body>
+</html>
