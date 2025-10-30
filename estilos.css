@@ -193,3 +193,50 @@ select {
     border-radius: 6px;
     margin: 0 5px;
 }
+
+/* --- AJUSTES PARA CELULARES --- */
+@media (max-width: 768px) {
+    body {
+        font-size: 1.1rem; /* un poco más grande que en escritorio */
+        line-height: 1.6;
+    }
+
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    header h2 {
+        font-size: 1.1em;
+    }
+
+    header nav {
+        font-size: 1em;
+        padding: 1.2em;
+    }
+
+    main {
+        padding: 25px;
+    }
+
+    .item {
+        padding: 18px;
+    }
+
+    .blog {
+        font-size: 1.1em;
+    }
+
+    .fecha {
+        font-size: 1em;
+    }
+
+    .contenido,
+    .descripcion {
+        font-size: 1.05em;
+    }
+
+    footer {
+        font-size: 0.95em;
+        padding: 15px;
+    }
+}
