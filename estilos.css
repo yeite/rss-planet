@@ -50,7 +50,7 @@ header h1 {
 header nav {
     background-color: #6bbe30;
     margin-top: 1em;
-    padding: 1em;
+    padding: 0.8em;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 0.9em;
@@ -88,6 +88,8 @@ main {
 footer {
     background-color: #141414;
     padding: 10px;
+    padding-left: 0;
+    padding-right: 0;
     text-align: center;
     width: 100%;
     bottom: 0;
@@ -211,11 +213,11 @@ select {
 
     header nav {
         font-size: 1em;
-        padding: 1.2em;
+        padding: 1.1em;
     }
 
     main {
-        padding: 25px;
+        padding: 15px;
     }
 
     .item {
@@ -238,5 +240,7 @@ select {
     footer {
         font-size: 0.95em;
         padding: 15px;
+        padding-left: 0;
+        padding-right: 0;
     }
 }
