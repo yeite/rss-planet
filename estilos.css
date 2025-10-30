@@ -1,0 +1,151 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #1f1f1f;
+    color: #fff;
+}
+
+/* ...HEADER */
+
+header {
+    background-color: #141414;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.header-inner {
+    display: inline-block; /* centra todo el bloque */
+    text-align: left; /* pero el contenido interno queda alineado a la izquierda */
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+header img {
+    width: 80px;
+    height: 60px;
+    border-radius: 6px;
+}
+
+header .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+header h1 {
+    color: floralwhite;
+    margin: 0;
+    font-size: 1.55em;
+}
+
+header nav {
+    background-color: #6bbe30;
+    margin-top: 1em;
+    padding: 1em;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 0.9em;
+    color: gray;
+}
+
+header nav a {
+    color: #000 !important;
+}
+
+header nav a:link {
+    text-decoration: none;
+}
+header nav a:hover {
+    text-decoration: underline;
+}
+
+header h2 {
+    color: floralwhite;
+    margin: 5px 0 0;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+/* ...MAIN */
+
+main {
+    padding: 20px;
+}
+
+/* ...FOOTER */
+
+footer {
+    background-color: #141414;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+footer div {
+    padding-bottom: 0.5em;
+}
+footer span {
+    white-space: nowrap;
+}
+
+footer a:link {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer a:visited {
+    color: #fff;
+}
+
+/* ...INDEX RSS */
+
+main {
+    padding: 40px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.item {
+    background: #2c2c2c;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.blog {
+    color: #ffa500;
+    font-size: 0.85em;
+    margin-bottom: 5px;
+    display: block;
+}
+.fecha {
+    color: #aaa;
+    font-size: 0.9em;
+    margin-bottom: 5px;
+}
+a {
+    color: #6abe30;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
+}
+.contenido {
+    font-size: 0.95em;
+    color: #ddd;
+}
