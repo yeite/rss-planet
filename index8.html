@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <title>¡Blog!¡Blog! RSS</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background: #1f1f1f;
+                color: #fff;
+                margin: 0;
+                padding: 0;
+            }
+            header {
+                background: #fff;
+                padding: 20px;
+                text-align: center;
+            }
+            header,
+            footer {
+                padding: 30px 20px;
+                text-align: center;
+            }
+            .header-inner {
+                display: inline-block;
+                text-align: left;
+            }
+            .header-content {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            header img {
+                width: 120px;
+                height: 100px;
+                border-radius: 6px;
+            }
+            header h1 {
+                color: #3b3b3c;
+                margin: 0;
+                font-size: 1.95em;
+            }
+            header h2 {
+                color: #3b3b3c;
+                margin: 5px 0 0;
+                font-size: 1.1em;
+                font-weight: normal;
+                font-style: italic;
+            }
+            header p {
+                color: #3b3b3c;
+                margin: 5px 0 0;
+                font-size: 0.95em;
+            }
+            footer {
+                background: #2f2f30;
+                padding: 20px;
+            }
+            footer p {
+                color: #fff;
+                font-size: 0.85em;
+                margin: 0;
+            }
+            main {
+                padding: 40px;
+                max-width: 800px;
+                margin: auto;
+            }
+            .item {
+                background: #2c2c2c;
+                padding: 15px;
+                border-radius: 8px;
+                margin-bottom: 20px;
+            }
+            .item.aliado {
+                background: #2b3b59;
+                border: 1px solid #4a6eff;
+            }
+            .blog {
+                color: #ffa500;
+                font-size: 1em;
+                font-weight: bold;
+            }
+            .blog img {
+                width: 18px;
+                height: 18px;
+                vertical-align: middle;
+                margin-right: 5px;
+            }
+            .descripcion {
+                color: #ddd;
+                font-size: 0.95em;
+            }
+            a {
+                color: #6abe30;
+                text-decoration: none;
+                font-weight: bold;
+            }
+            a:hover {
+                text-decoration: underline;
+            }
+            .filtros {
+                text-align: center;
+                margin-bottom: 30px;
+            }
+            select {
+                background: #2c2c2c;
+                color: #fff;
+                border: 1px solid #555;
+                padding: 6px 10px;
+                border-radius: 6px;
+                margin: 0 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="header-inner">
+                <div class="header-content">
+                    <img
+                        src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif"
+                        alt="Logo ¡Blog!¡Blog!"
+                    />
+                    <div class="title-group">
+                        <h1>
+                            ¡Blog!¡Blog!
+                            <span style="font-style: italic; color: #ffa500"
+                                >RSS🚀</span
+                            >
+                        </h1>
+                        <h2>Directorio de blogs en español</h2>
+                        <p id="contador"></p>
+                        <p id="fecha"></p>
+                    </div>
+                </div>
+                <p>
+                    Descubre los últimos blogs agregados al directorio
+                    <a href="https://blogblog.es">¡Blog!¡Blog!</a>
+                </p>
+            </div>
+        </header>
+
+        <main>
+            <div class="filtros">
+                <select id="filtroPais">
+                    <option value="">🌎 Todos los países</option>
+                </select>
+                <select id="filtroCategoria">
+                    <option value="">📚 Todas las categorías</option>
+                </select>
+            </div>
+            <div id="contenedor"></div>
+        </main>
+
+        <footer>
+            <p>
+                ¡Blog!¡Blog!
+                <a href="https://blogblog.es" style="color: #6abe30"
+                    >Visita el directorio completo</a
+                >
+            </p>
+        </footer>
+
+        <script>
+            const contenedor = document.getElementById("contenedor");
+            const filtroPais = document.getElementById("filtroPais");
+            const filtroCategoria = document.getElementById("filtroCategoria");
+            let blogs = [];
+
+            fetch("blogs.json")
+                .then((res) => {
+                    if (!res.ok)
+                        throw new Error("No se pudo cargar blogs.json");
+                    const ultimaActualizacion =
+                        res.headers.get("Last-Modified");
+                    return res
+                        .json()
+                        .then((data) => ({ data, ultimaActualizacion }));
+                })
+                .then(({ data, ultimaActualizacion }) => {
+                    const blogs = data;
+
+                    // Mostrar blogs y filtros
+                    poblarFiltros();
+                    mostrarBlogs(blogs);
+
+                    // Mostrar contador
+                    const totalBlogs = blogs.length;
+                    const contador = document.getElementById("contador");
+                    if (contador)
+                        contador.textContent = `🎉 ¡Llegamos al blog N° ${totalBlogs}!`;
+
+                    // Mostrar fecha real de última modificación
+                    const fechaElemento = document.getElementById("fecha");
+                    if (fechaElemento) {
+                        if (ultimaActualizacion) {
+                            const fecha = new Date(ultimaActualizacion);
+                            const opciones = {
+                                day: "numeric",
+                                month: "long",
+                                year: "numeric",
+                            };
+                            const fechaFormateada = fecha
+                                .toLocaleDateString("es-ES", opciones)
+                                .toUpperCase();
+                            fechaElemento.textContent = `Última actualización: ${fechaFormateada}`;
+                        } else {
+                            fechaElemento.textContent = `Última actualización: (sin datos)`;
+                        }
+                    }
+                })
+                .catch((err) => {
+                    const contenedor = document.getElementById("blogs");
+                    if (contenedor)
+                        contenedor.innerHTML =
+                            "<p>Error al cargar los blogs 😢</p><p>" +
+                            err.message +
+                            "</p>";
+                });
+
+            function poblarFiltros() {
+                const paises = [
+                    ...new Set(blogs.map((b) => b.País).filter(Boolean)),
+                ];
+                const categorias = [
+                    ...new Set(
+                        blogs
+                            .flatMap((b) =>
+                                b.Categoría
+                                    ? b.Categoría.split(",").map((c) =>
+                                          c.trim(),
+                                      )
+                                    : [],
+                            )
+                            .filter(Boolean),
+                    ),
+                ];
+
+                paises.forEach((p) => {
+                    const opt = document.createElement("option");
+                    opt.value = p;
+                    opt.textContent = p;
+                    filtroPais.appendChild(opt);
+                });
+
+                categorias.forEach((c) => {
+                    const opt = document.createElement("option");
+                    opt.value = c;
+                    opt.textContent = c;
+                    filtroCategoria.appendChild(opt);
+                });
+
+                filtroPais.addEventListener("change", filtrar);
+                filtroCategoria.addEventListener("change", filtrar);
+            }
+
+            function filtrar() {
+                const paisSel = filtroPais.value;
+                const catSel = filtroCategoria.value;
+                const filtrados = blogs.filter((b) => {
+                    const matchPais = paisSel ? b.País === paisSel : true;
+                    const matchCat = catSel
+                        ? b.Categoría && b.Categoría.includes(catSel)
+                        : true;
+                    return matchPais && matchCat;
+                });
+                mostrarBlogs(filtrados);
+            }
+
+            function mostrarBlogs(lista) {
+                contenedor.innerHTML = "";
+                if (!lista.length) {
+                    contenedor.innerHTML =
+                        "<p>No hay blogs con esos filtros 😢</p>";
+                    return;
+                }
+
+                lista.forEach((b) => {
+                    const item = document.createElement("div");
+                    item.className = "item";
+                    if (b.Aliado !== undefined) item.classList.add("aliado");
+
+                    // Corrige URLs sin http/https automáticamente
+                    let url = b.Url || "";
+                    if (url && !url.startsWith("http")) {
+                        url = "https://" + url;
+                    }
+
+                    // Obtener dominio limpio para favicon
+                    const dominio = url
+                        .replace(/^https?:\/\//, "")
+                        .split("/")[0];
+                    const favicon = `https://www.google.com/s2/favicons?domain=${dominio}`;
+
+                    // Etiqueta de aliado 🐸
+                    const etiquetaAliado =
+                        b.Aliado !== undefined
+                            ? '<img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif" alt="Aliado" />'
+                            : "";
+
+                    item.innerHTML = `
+            <div class="blog"><img src="${favicon}" alt="favicon" style="width:16px;height:16px;vertical-align:middle;margin-right:6px;"><a href="${b.Url}" target="_blank">${b.Nombre}</a>${etiquetaAliado}</div>
+            <p class="descripcion">${b.Descripción || ""}</p>
+            <p><strong>Categoría:</strong> ${b.Categoría || "-"}<br>
+            <strong>País:</strong> ${b.País || "-"}</p>
+            <a href="${b.Feed}" target="_blank">🔗 RSS</a>
+          `;
+                    contenedor.appendChild(item);
+                });
+            }
+        </script>
+    </body>
+</html>
