@@ -1,5 +1,82 @@
 [
   {
+    "blog": "Adrián Perales",
+    "titulo": "Montar en bici",
+    "link": "https://adrianperales.com/2025/10/montar-en-bici/",
+    "fecha": "30/10/2025",
+    "contenido": "Hace tiempo escribí&#160;unas confesiones que no interesan a nadie. Una de ellas era, precisamente, que no sé montar en bici, y esta entrada no es más que una divagación al respecto. De pequeño tuve bicicleta. Una con ruedines. Pero nunca di el paso de quitarlos y montar en una bicicleta normal. Con"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Disponible Fedora 43",
+    "link": "https://thecheis.com/2025/10/30/disponible-fedora-43/",
+    "fecha": "30/10/2025",
+    "contenido": "Ya tenemos entre nosotros la nueva versión de Fedora y quiero dejar mis habituales impresiones. Una vez más, la distro comunitaria de Red Hat se siente continuista aunque estable, sin cambios radicales. A priori parece una actualización aburrida más, pero sigue mejorando su propuesta mientras se ada"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Un proyecto para exportar más funcionalidades de YaST a Cockpit",
+    "link": "https://victorhckinthefreeworld.com/2025/10/30/un-proyecto-para-exportar-mas-funcionalidades-de-yast-a-cockpit/",
+    "fecha": "30/10/2025",
+    "contenido": "Un proyecto comunitario pretende exportar funcionalidades de YaST que faltan en la nueva herramienta Cockpit, ya que SUSE y openSUSE 16.0 han \"jubilado\" a la gran herramienta de configuración de sistema YaST"
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "El index del blog tipo grid",
+    "link": "https://pedrolr.es/blog/el-index-del-blog-tipo-grid/",
+    "fecha": "30/10/2025",
+    "contenido": "El blog es mi sitio de ensayos. Siempre estoy probando cosas nuevas o implementando pequeños detalles. La salida tipo grid, con columnas, me gusta mucho y la utilizo en otros proyectos. He englobado el enlace a los posts en cada elemento del listado, así se puede hacer click con destino al post en t"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "¿Por qué la calculadora del ordenador muestra botones para los números?",
+    "link": "https://www.macram.es/posts/2025/10/por-que-la-calculadora-muestra-los-numeros/",
+    "fecha": "30/10/2025",
+    "contenido": "Haz un pequeño ejercicio si estás sentado delante de un ordenador, por favor. Abre la calculadora de tu sistema operativo, me da igual si usas una distribución de Linux, macOS o Windows. Tú abre la aplicación que incluya su sistema operativo que se llame de una forma parecida a &ldquo;Calculadora&rd"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "La decadencia de la web",
+    "link": "https://matizeta.com/2025/10/30/la-decadencia-de-la-web/",
+    "fecha": "30/10/2025",
+    "contenido": "En 2013 uno de los diarios diarios online más leídos de Argentina, me cedió un espacio para escribir sobre tecnología. Dentro de esa área, la temática era de mi elección. En ese tiempo ya notaba como nuestros hábitos de navegación estaban cambiando, ya no ingresábamos una URL de nuestra página favor"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Cómo convertir la base de datos de Home Assistant a MariaDB",
+    "link": "https://voidnull.es/como-convertir-la-base-de-datos-de-home-assistant-a-mariadb/",
+    "fecha": "30/10/2025",
+    "contenido": "Mejora el rendimiento de Home Assistant migrando de SQLite a MariaDB de forma sencilla."
+  },
+  {
+    "blog": "zona de confort",
+    "titulo": "HTML básico (1)",
+    "link": "https://sopadeletras.club/efmorell/html-basico-1",
+    "fecha": "30/10/2025",
+    "contenido": ""
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Madrugones",
+    "link": "https://www.xn--jmuoz-qta.es/2025/10/madrugones.html",
+    "fecha": "30/10/2025",
+    "contenido": "Si no me gustase mi trabajo, aunque este año esté en el quinto coño, se me harían insoportables estos madrugones, de estar a las cinco de la mañana preparando lo que voy a hacer a las ocho de la mañana.La luna vino a la fraguacon su polisón de nardos.El niño la mira mira.El niño la está mirando."
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El procesador de texto",
+    "link": "https://docig.mataroa.blog/blog/el-procesador-de-texto/",
+    "fecha": "30/10/2025",
+    "contenido": "No es que lo notara al principio. Nadie nota, en realidad, los primeros roces del intersticio. El aire del estudio, denso y con sabor a café rancio y nicotina, era perfecto para la gestación de ese tipo de ceguera. Ernesto, que se dedicaba a la minuciosa labor de transcribir entrevistas –voces quebr"
+  },
+  {
+    "blog": "ochobitshacenunbyte",
+    "titulo": "Entornos reproducibles con Nix + Docker en GNU/Linux",
+    "link": "https://www.ochobitshacenunbyte.com/2025/10/30/entornos-reproducibles-con-nix-docker-en-gnu-linux/",
+    "fecha": "30/10/2025",
+    "contenido": "Uno de los grandes retos en desarrollo y operaciones es la fiabilidad. ¿Cuántas veces hemos oído aquello de “en mi máquina funciona”? Aunque Docker ayudó mucho a estandarizar entornos, todavía existen problemas: imágenes demasiado&#46;&#46;&#46;\nLa entrada Entornos reproducibles con Nix + Docker en "
+  },
+  {
     "blog": "brucknerite",
     "titulo": "Fuego en el puente",
     "link": "https://brucknerite.net/2025/10/fuego-en-el-puente.html",
@@ -357,13 +434,6 @@
     "contenido": "Es llegar el fin de semana, ya incluso podemos contar desde el viernes y uno de mis «vicios» tradicionales, como es jugar a videojuegos un ratillo, se ha vuelto algo casi imposible, porque el lag es abusivo. Ayer sábado volvió a suceder y ya el tema me cabreó en mayúsculas, porque es uno de los [&#8"
   },
   {
-    "blog": "ocubom's blog | Oscar Cubo Medina",
-    "titulo": "Hora Zulu",
-    "link": "https://ocubom.page/es/post/hora-zulu/",
-    "fecha": "26/10/2025",
-    "contenido": "En ciertos mapas meteorológicos, imágenes de radar o satélite, así como en películas bélicas o de espionaje a veces se indica la hora mediante expresiones como «10:10 Z» o «1010 Zulu».\nPero ¿qué significan estas expresiones?\nDesde tiempos inmemoriales, la humanidad ha detectado fenómenos naturales c"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Ensuizados, El Parche de Odín y Haciendo el Sueco en directo en las JPOD 2025",
     "link": "https://blog.danielaragay.net/ensuizados-el-parche-de-odin-y-haciendo-el-sueco-en-directo-en-las-jpod-2025/",
@@ -518,13 +588,6 @@
     "contenido": "El Guardián, un punto y coma ($;$) que había alcanzado la consciencia tras un error de compilación, observaba el cielo. No eran estrellas, sino ristras de bits que caían en cascada, a veces formando figuras borrosas: un gato ($^.^$), una casa ($+--+$), o la eterna pregunta ($¿?$).$@$ era la poeta. E"
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Internet alternativo y crecimiento",
-    "link": "https://adrianperales.com/2025/10/internet-alternativo-y-crecimiento/",
-    "fecha": "23/10/2025",
-    "contenido": "A quienes estamos «fuera del sistema» en cuestiones de internet nos gustaría que más gente usara lo que nosotros. La razón fundamental es porque consideramos nuestro uso más consciente y más sano para cualquiera. ¿Más gente visitando y haciendo pequeñas webs personales en lugar de publicar contenido"
-  },
-  {
     "blog": "THE_CHEI$",
     "titulo": "Infoxicación e hiperestímulos",
     "link": "https://thecheis.com/2025/10/23/infoxicacion-e-hiperestimulos/",
@@ -551,27 +614,6 @@
     "link": "https://polotman.wordpress.com/2025/10/23/podcast-episodio-5-banksy-un-icono-pop/",
     "fecha": "23/10/2025",
     "contenido": "#podcast #ElSueñodelArtista #Blog #Bansky #ArteContemporaneo Hoy en día está de moda , si eres artista contemporáneo caer en \"la boca del monstruo vendedor de arte \" haciéndolo con el primer objeto que se te viene a la mente : un plátano pegado a la pared con cinta adhesiva o colocar un vaso con agu"
-  },
-  {
-    "blog": "post-it – matizeta",
-    "titulo": "Shutter Declutter",
-    "link": "https://matizeta.com/2025/10/23/shutter-declutter/",
-    "fecha": "23/10/2025",
-    "contenido": "Seguramente tendrás ese problema en donde tu galería de imágenes del móvil se volvió un lugar donde se encuentras tus fotos de viajes, selfies, fotos del calefón que le enviaste al gasista, la imagen que te envió una amigo por WhatsApp y un sin fin de capturas de pantalla. ¿cómo hacemos para poner o"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El viaje de la salsa Sriracha: orígenes, receta y la verdadera salsa original",
-    "link": "https://blog.danielaragay.net/el-viaje-de-la-salsa-sriracha-origenes-receta-y-la-verdadera-salsa-original/",
-    "fecha": "23/10/2025",
-    "contenido": "La salsa Sriracha se ha convertido en un condimento de culto en las mesas de foodies y amantes de la cocina tailandesa de todo el mundo. Su sabor picante, ligeramente dulce y &#xe1;cido aporta un toque inconfundible a infinidad de platos, desde sopas hasta mariscos. Sin embargo, pocos conocen"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "netplan: configura tu red de forma sencilla con YAML",
-    "link": "https://voidnull.es/netplan-configura-tu-red-de-forma-sencilla-con-yaml/",
-    "fecha": "23/10/2025",
-    "contenido": "Netplan permite configurar la red en GNU/Linux fácilmente usando archivos YAML."
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
