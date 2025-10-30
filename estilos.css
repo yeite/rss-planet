@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background-color: #1f1f1f;
+    background-color: #141414;
     color: #fff;
 }
 
@@ -78,7 +78,9 @@ header h2 {
 /* ...MAIN */
 
 main {
-    padding: 20px;
+    padding: 40px;
+    max-width: 800px;
+    margin: auto;
 }
 
 /* ...FOOTER */
@@ -87,7 +89,6 @@ footer {
     background-color: #141414;
     padding: 10px;
     text-align: center;
-    position: fixed;
     width: 100%;
     bottom: 0;
 }
@@ -113,12 +114,6 @@ footer a:visited {
 }
 
 /* ...INDEX RSS */
-
-main {
-    padding: 40px;
-    max-width: 800px;
-    margin: auto;
-}
 
 .item {
     background: #2c2c2c;
