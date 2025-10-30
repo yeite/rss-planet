@@ -166,127 +166,144 @@
         </footer>
 
         <script>
-              const contenedor = document.getElementById("contenedor");
-              const filtroPais = document.getElementById("filtroPais");
-              const filtroCategoria = document.getElementById("filtroCategoria");
-              let blogs = [];
+            const contenedor = document.getElementById("contenedor");
+            const filtroPais = document.getElementById("filtroPais");
+            const filtroCategoria = document.getElementById("filtroCategoria");
+            let blogs = [];
 
-              fetch("blogs.json")
-                  .then((res) => res.json())
-                  .then((data) => {
-                      blogs = data;
-                      poblarFiltros();
-                      mostrarBlogs(blogs);
-                  })
+            fetch("blogs.json")
+                .then((res) => {
+                    // Guardamos la fecha de modificación si el servidor la envía
+                    const ultimaActualizacion =
+                        res.headers.get("Last-Modified");
+                    return res
+                        .json()
+                        .then((data) => ({ data, ultimaActualizacion }));
+                })
+                .then(({ data, ultimaActualizacion }) => {
+                    blogs = data;
+                    poblarFiltros();
+                    mostrarBlogs(blogs);
 
+                    // 🎉 Contador
+                    const totalBlogs = blogs.length;
+                    document.getElementById("contador").textContent =
+                        `🎉 ¡Llegamos al blog N° ${totalBlogs}!`;
 
-              // Mostrar contador
-              const totalBlogs = blogs.length;
-              document.getElementById('contador').textContent = `🎉 ¡Llegamos al blog N° ${totalBlogs}!`;
+                    // 📅 Fecha real de última modificación
+                    if (ultimaActualizacion) {
+                        const fecha = new Date(ultimaActualizacion);
+                        const opciones = {
+                            day: "numeric",
+                            month: "long",
+                            year: "numeric",
+                        };
+                        const fechaFormateada = fecha
+                            .toLocaleDateString("es-ES", opciones)
+                            .toUpperCase();
+                        document.getElementById("fecha").textContent =
+                            `Última actualización: ${fechaFormateada}`;
+                    } else {
+                        document.getElementById("fecha").textContent =
+                            `Última actualización: (sin datos)`;
+                    }
+                })
 
-              // Mostrar fecha actual formateada
-              const fecha = new Date();
-              const opciones = { day: 'numeric', month: 'long', year: 'numeric' };
-              const fechaFormateada = fecha.toLocaleDateString('es-ES', opciones).toUpperCase();
-              document.getElementById('fecha').textContent = `Última actualización: ${fechaFormateada}`;
-            })
+                .catch((err) => {
+                    contenedor.innerHTML =
+                        "<p>Error al cargar los blogs 😢</p>" + err.message;
+                });
 
+            function poblarFiltros() {
+                const paises = [
+                    ...new Set(blogs.map((b) => b.País).filter(Boolean)),
+                ];
+                const categorias = [
+                    ...new Set(
+                        blogs
+                            .flatMap((b) =>
+                                b.Categoría
+                                    ? b.Categoría.split(",").map((c) =>
+                                          c.trim(),
+                                      )
+                                    : [],
+                            )
+                            .filter(Boolean),
+                    ),
+                ];
 
-                  .catch((err) => {
-                      contenedor.innerHTML =
-                          "<p>Error al cargar los blogs 😢</p>" + err.message;
-                  });
+                paises.forEach((p) => {
+                    const opt = document.createElement("option");
+                    opt.value = p;
+                    opt.textContent = p;
+                    filtroPais.appendChild(opt);
+                });
 
-              function poblarFiltros() {
-                  const paises = [
-                      ...new Set(blogs.map((b) => b.País).filter(Boolean)),
-                  ];
-                  const categorias = [
-                      ...new Set(
-                          blogs
-                              .flatMap((b) =>
-                                  b.Categoría
-                                      ? b.Categoría.split(",").map((c) =>
-                                            c.trim(),
-                                        )
-                                      : [],
-                              )
-                              .filter(Boolean),
-                      ),
-                  ];
+                categorias.forEach((c) => {
+                    const opt = document.createElement("option");
+                    opt.value = c;
+                    opt.textContent = c;
+                    filtroCategoria.appendChild(opt);
+                });
 
-                  paises.forEach((p) => {
-                      const opt = document.createElement("option");
-                      opt.value = p;
-                      opt.textContent = p;
-                      filtroPais.appendChild(opt);
-                  });
+                filtroPais.addEventListener("change", filtrar);
+                filtroCategoria.addEventListener("change", filtrar);
+            }
 
-                  categorias.forEach((c) => {
-                      const opt = document.createElement("option");
-                      opt.value = c;
-                      opt.textContent = c;
-                      filtroCategoria.appendChild(opt);
-                  });
+            function filtrar() {
+                const paisSel = filtroPais.value;
+                const catSel = filtroCategoria.value;
+                const filtrados = blogs.filter((b) => {
+                    const matchPais = paisSel ? b.País === paisSel : true;
+                    const matchCat = catSel
+                        ? b.Categoría && b.Categoría.includes(catSel)
+                        : true;
+                    return matchPais && matchCat;
+                });
+                mostrarBlogs(filtrados);
+            }
 
-                  filtroPais.addEventListener("change", filtrar);
-                  filtroCategoria.addEventListener("change", filtrar);
-              }
+            function mostrarBlogs(lista) {
+                contenedor.innerHTML = "";
+                if (!lista.length) {
+                    contenedor.innerHTML =
+                        "<p>No hay blogs con esos filtros 😢</p>";
+                    return;
+                }
 
-              function filtrar() {
-                  const paisSel = filtroPais.value;
-                  const catSel = filtroCategoria.value;
-                  const filtrados = blogs.filter((b) => {
-                      const matchPais = paisSel ? b.País === paisSel : true;
-                      const matchCat = catSel
-                          ? b.Categoría && b.Categoría.includes(catSel)
-                          : true;
-                      return matchPais && matchCat;
-                  });
-                  mostrarBlogs(filtrados);
-              }
+                lista.forEach((b) => {
+                    const item = document.createElement("div");
+                    item.className = "item";
+                    if (b.Aliado !== undefined) item.classList.add("aliado");
 
-              function mostrarBlogs(lista) {
-                  contenedor.innerHTML = "";
-                  if (!lista.length) {
-                      contenedor.innerHTML =
-                          "<p>No hay blogs con esos filtros 😢</p>";
-                      return;
-                  }
+                    // Corrige URLs sin http/https automáticamente
+                    let url = b.Url || "";
+                    if (url && !url.startsWith("http")) {
+                        url = "https://" + url;
+                    }
 
-                  lista.forEach((b) => {
-                      const item = document.createElement("div");
-                      item.className = "item";
-                      if (b.Aliado !== undefined) item.classList.add("aliado");
+                    // Obtener dominio limpio para favicon
+                    const dominio = url
+                        .replace(/^https?:\/\//, "")
+                        .split("/")[0];
+                    const favicon = `https://www.google.com/s2/favicons?domain=${dominio}`;
 
-                      // Corrige URLs sin http/https automáticamente
-                      let url = b.Url || "";
-                      if (url && !url.startsWith("http")) {
-                          url = "https://" + url;
-                      }
+                    // Etiqueta de aliado 🐸
+                    const etiquetaAliado =
+                        b.Aliado !== undefined
+                            ? '<img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif" alt="Aliado" />'
+                            : "";
 
-                      // Obtener dominio limpio para favicon
-                      const dominio = url
-                          .replace(/^https?:\/\//, "")
-                          .split("/")[0];
-                      const favicon = `https://www.google.com/s2/favicons?domain=${dominio}`;
-
-                      // Etiqueta de aliado 🐸
-                      const etiquetaAliado =
-                          b.Aliado !== undefined
-                              ? '<img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif" alt="Aliado" />'
-                              : "";
-
-                      item.innerHTML = `
+                    item.innerHTML = `
               <div class="blog"><img src="${favicon}" alt="favicon" style="width:16px;height:16px;vertical-align:middle;margin-right:6px;"><a href="${b.Url}" target="_blank">${b.Nombre}</a>${etiquetaAliado}</div>
               <p class="descripcion">${b.Descripción || ""}</p>
               <p><strong>Categoría:</strong> ${b.Categoría || "-"}<br>
               <strong>País:</strong> ${b.País || "-"}</p>
               <a href="${b.Feed}" target="_blank">🔗 RSS</a>
             `;
-                      contenedor.appendChild(item);
-                  });
-              }
+                    contenedor.appendChild(item);
+                });
+            }
         </script>
     </body>
 </html>
