@@ -124,6 +124,7 @@ footer a:visited {
     border-radius: 8px;
     margin-bottom: 20px;
 }
+
 .blog {
     color: #ffa500;
     font-size: 0.85em;
@@ -213,7 +214,7 @@ select {
 
     header nav {
         font-size: 1em;
-        padding: 1.1em;
+        padding: 1em;
     }
 
     main {
@@ -221,7 +222,7 @@ select {
     }
 
     .item {
-        padding: 18px;
+        padding: 15px;
     }
 
     .blog {
