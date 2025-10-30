@@ -173,7 +173,8 @@
 
             fetch("blogs.json")
                 .then((res) => {
-                    // Guardamos la fecha de modificación si el servidor la envía
+                    if (!res.ok)
+                        throw new Error("No se pudo cargar blogs.json");
                     const ultimaActualizacion =
                         res.headers.get("Last-Modified");
                     return res
@@ -181,37 +182,44 @@
                         .then((data) => ({ data, ultimaActualizacion }));
                 })
                 .then(({ data, ultimaActualizacion }) => {
-                    blogs = data;
+                    const blogs = data;
+
+                    // Mostrar blogs y filtros
                     poblarFiltros();
                     mostrarBlogs(blogs);
 
-                    // 🎉 Contador
+                    // Mostrar contador
                     const totalBlogs = blogs.length;
-                    document.getElementById("contador").textContent =
-                        `🎉 ¡Llegamos al blog N° ${totalBlogs}!`;
+                    const contador = document.getElementById("contador");
+                    if (contador)
+                        contador.textContent = `🎉 ¡Llegamos al blog N° ${totalBlogs}!`;
 
-                    // 📅 Fecha real de última modificación
-                    if (ultimaActualizacion) {
-                        const fecha = new Date(ultimaActualizacion);
-                        const opciones = {
-                            day: "numeric",
-                            month: "long",
-                            year: "numeric",
-                        };
-                        const fechaFormateada = fecha
-                            .toLocaleDateString("es-ES", opciones)
-                            .toUpperCase();
-                        document.getElementById("fecha").textContent =
-                            `Última actualización: ${fechaFormateada}`;
-                    } else {
-                        document.getElementById("fecha").textContent =
-                            `Última actualización: (sin datos)`;
+                    // Mostrar fecha real de última modificación
+                    const fechaElemento = document.getElementById("fecha");
+                    if (fechaElemento) {
+                        if (ultimaActualizacion) {
+                            const fecha = new Date(ultimaActualizacion);
+                            const opciones = {
+                                day: "numeric",
+                                month: "long",
+                                year: "numeric",
+                            };
+                            const fechaFormateada = fecha
+                                .toLocaleDateString("es-ES", opciones)
+                                .toUpperCase();
+                            fechaElemento.textContent = `Última actualización: ${fechaFormateada}`;
+                        } else {
+                            fechaElemento.textContent = `Última actualización: (sin datos)`;
+                        }
                     }
                 })
-
                 .catch((err) => {
-                    contenedor.innerHTML =
-                        "<p>Error al cargar los blogs 😢</p>" + err.message;
+                    const contenedor = document.getElementById("blogs");
+                    if (contenedor)
+                        contenedor.innerHTML =
+                            "<p>Error al cargar los blogs 😢</p><p>" +
+                            err.message +
+                            "</p>";
                 });
 
             function poblarFiltros() {
