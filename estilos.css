@@ -37,7 +37,7 @@ header .header-content {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 12px;
+    gap: 2px;
     flex-wrap: wrap;
 }
 
@@ -50,7 +50,7 @@ header h1 {
 header nav {
     background-color: #6bbe30;
     margin-top: 1em;
-    padding: 0.8em;
+    padding: 0.5em;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 0.9em;
@@ -214,7 +214,7 @@ select {
 
     header nav {
         font-size: 1em;
-        padding: 1em;
+        padding: 0.5em;
     }
 
     main {
