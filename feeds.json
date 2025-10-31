@@ -15,6 +15,13 @@
   },
   {
     "blog": "Victorhck in the free world",
+    "titulo": "Las pesadillas del software privativo",
+    "link": "https://victorhckinthefreeworld.com/2025/10/30/las-pesadillas-del-software-privativo/",
+    "fecha": "30/10/2025",
+    "contenido": "Las historias más escalofriantes del software privativo acechan en cada época del año. Ese acoso constante es el que las hace todavía más aterradoras"
+  },
+  {
+    "blog": "Victorhck in the free world",
     "titulo": "Un proyecto para exportar más funcionalidades de YaST a Cockpit",
     "link": "https://victorhckinthefreeworld.com/2025/10/30/un-proyecto-para-exportar-mas-funcionalidades-de-yast-a-cockpit/",
     "fecha": "30/10/2025",
@@ -26,6 +33,27 @@
     "link": "https://pedrolr.es/blog/el-index-del-blog-tipo-grid/",
     "fecha": "30/10/2025",
     "contenido": "El blog es mi sitio de ensayos. Siempre estoy probando cosas nuevas o implementando pequeños detalles. La salida tipo grid, con columnas, me gusta mucho y la utilizo en otros proyectos. He englobado el enlace a los posts en cada elemento del listado, así se puede hacer click con destino al post en t"
+  },
+  {
+    "blog": "develumpen.com",
+    "titulo": "Un método simple para prevenir el spam",
+    "link": "https://develumpen.com/un-metodo-simple-para-prevenir-el-spam",
+    "fecha": "30/10/2025",
+    "contenido": "Hace unos días leí una teoría del por qué es más fácil que te entre spam teniendo formularios en la web que publicando tu email.\n\nDe momento lo que he experimentado es que desde que activé los comentarios, un montón de bots han estado validando mi código. Efectivamente, se pueden dejar comentarios. "
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "La paradoja del poder y la moral",
+    "link": "https://gatooscuro.xyz/la-paradoja-del-poder-y-la-moral/",
+    "fecha": "30/10/2025",
+    "contenido": "La sombra siempre ha sido fascinante: nos atrae, nos asusta, nos obliga a mirar lo que preferiríamos ignorar. Y en nombre de la seguridad, del orden, de la justicia, los\nSeguir leyendo  La paradoja del poder y la moral\nEl cargo La paradoja del poder y la moral apareció primero en El cuarto de GatoOs"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "#Playlist: Graveyard Riffs 🪦",
+    "link": "https://blog.luiscarlospando.com/musica/2025/10/playlist-graveyard-riffs-%f0%9f%aa%a6/",
+    "fecha": "30/10/2025",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -42,6 +70,27 @@
     "contenido": "En 2013 uno de los diarios diarios online más leídos de Argentina, me cedió un espacio para escribir sobre tecnología. Dentro de esa área, la temática era de mi elección. En ese tiempo ya notaba como nuestros hábitos de navegación estaban cambiando, ya no ingresábamos una URL de nuestra página favor"
   },
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "483. Cuando anochece",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/10/483-cuando-anochece.html",
+    "fecha": "30/10/2025",
+    "contenido": "&nbsp; &nbsp; Durante estos días, si me buscas, me encontrarás callejeando con paso apresurado justo cuando anochece. No sé andar de otra manera por más que viva sin prisa. Te será sencillo identificarme entre toda esa turba animada de vampiros, zombis, brujas, esqueletos y fantasmas de postín porqu"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "El ingrediente inesperado: Capítulo 13",
+    "link": "https://blog.danielaragay.net/el-ingrediente-inesperado-capitulo-13/",
+    "fecha": "30/10/2025",
+    "contenido": "Con un poco de retraso pero aqu&#xed; seguimos con un nuevo cap&#xed;tulo. Para leer lo que llevamos hasta ahora escrito entra en: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoSebasti&#xe1;n escuch&#xf3; c&#xf3;mo Bom dejaba las bolsas sobre la encimera de la cocina."
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Pensamiento de blog #3",
+    "link": "https://impermanente.es/2025/10/30/pensamiento-de-blog.html",
+    "fecha": "30/10/2025",
+    "contenido": "El enorme éxito del método científico en los últimos cientos de años nos ha llevado a pensar que todo lo que existe debe ser físico y medible. Pero esa idea excluye algo fundamental: la experiencia consciente. Esta no solo existe, sino que es una parte esencial de la realidad, y cualquier intento se"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Cómo convertir la base de datos de Home Assistant a MariaDB",
     "link": "https://voidnull.es/como-convertir-la-base-de-datos-de-home-assistant-a-mariadb/",
@@ -56,6 +105,13 @@
     "contenido": ""
   },
   {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "Quiero Ser Tu Texto Plano",
+    "link": "https://docig.bearblog.dev/quiero-ser-tu-texto-plano/",
+    "fecha": "30/10/2025",
+    "contenido": "El bibliotecario, Varamo, no era un hombre de grandes pasiones, salvo quizás por el insomnio y la Biblioteca de Babel, ese universo fractal donde todo era, paradójicamente, una repetición estéril de lo mismo. Pero su obsesión más reciente, la que lo consumía en las madrugadas silenciosas, era el anh"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Madrugones",
     "link": "https://www.xn--jmuoz-qta.es/2025/10/madrugones.html",
@@ -68,6 +124,13 @@
     "link": "https://docig.mataroa.blog/blog/el-procesador-de-texto/",
     "fecha": "30/10/2025",
     "contenido": "No es que lo notara al principio. Nadie nota, en realidad, los primeros roces del intersticio. El aire del estudio, denso y con sabor a café rancio y nicotina, era perfecto para la gestación de ese tipo de ceguera. Ernesto, que se dedicaba a la minuciosa labor de transcribir entrevistas –voces quebr"
+  },
+  {
+    "blog": "",
+    "titulo": "William Ian Millar voz de los legendarios The Irish Rovers se presenta en Sláinte.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/10/30/william-ian-millar-voz-de-los-legendarios-the-irish-rovers-se-presenta-en-slainte/",
+    "fecha": "30/10/2025",
+    "contenido": "Vuelve a Argentina William Ian Millar voz de los legendarios The Irish Rovers y se presenta en vivo y en exclusivo en Sláinte Irish Pub festejando nuestro 11 aniversario!!! El 18, 19 y 20 de Diciembre."
   },
   {
     "blog": "ochobitshacenunbyte",
@@ -434,6 +497,13 @@
     "contenido": "Es llegar el fin de semana, ya incluso podemos contar desde el viernes y uno de mis «vicios» tradicionales, como es jugar a videojuegos un ratillo, se ha vuelto algo casi imposible, porque el lag es abusivo. Ayer sábado volvió a suceder y ya el tema me cabreó en mayúsculas, porque es uno de los [&#8"
   },
   {
+    "blog": "ocubom's blog | Oscar Cubo Medina",
+    "titulo": "Hora Zulu",
+    "link": "https://ocubom.page/es/post/hora-zulu/",
+    "fecha": "26/10/2025",
+    "contenido": "En ciertos mapas meteorológicos, imágenes de radar o satélite, así como en películas bélicas o de espionaje a veces se indica la hora mediante expresiones como «10:10 Z» o «1010 Zulu».\nPero ¿qué significan estas expresiones?\nDesde tiempos inmemoriales, la humanidad ha detectado fenómenos naturales c"
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "Ensuizados, El Parche de Odín y Haciendo el Sueco en directo en las JPOD 2025",
     "link": "https://blog.danielaragay.net/ensuizados-el-parche-de-odin-y-haciendo-el-sueco-en-directo-en-las-jpod-2025/",
@@ -579,61 +649,5 @@
     "link": "https://docig.bearblog.dev/el-guardian-y-los-algoritmos-ascii/",
     "fecha": "24/10/2025",
     "contenido": "(Nota del editor: El presente relato, acaso un mero apéndice o glosa de cierto tratado olvidado sobre la ontología de los lenguajes formales, fue rescatado de un ejemplar de la Enciclopedia de la Programación Esotérica, edición de 1949, que un librero de Adrogué me procuró en la canícula de 1978. Su"
-  },
-  {
-    "blog": "La cosa infinita",
-    "titulo": "Los habitantes de ASCII City",
-    "link": "https://docig.mataroa.blog/blog/los-habitantes-de-ascii-city/",
-    "fecha": "24/10/2025",
-    "contenido": "El Guardián, un punto y coma ($;$) que había alcanzado la consciencia tras un error de compilación, observaba el cielo. No eran estrellas, sino ristras de bits que caían en cascada, a veces formando figuras borrosas: un gato ($^.^$), una casa ($+--+$), o la eterna pregunta ($¿?$).$@$ era la poeta. E"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Infoxicación e hiperestímulos",
-    "link": "https://thecheis.com/2025/10/23/infoxicacion-e-hiperestimulos/",
-    "fecha": "23/10/2025",
-    "contenido": "En los tiempos que corren se ha olvidado la infoxicación. Es decir, el bombardeo constante de información nos impide procesarla bien, casi sin descanso, especialmente debido a Internet y las redes sociales. Toda esa avalancha de datos, opiniones y noticias fluyen de manera constante en nuestros disp"
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Teatro – Ejercicio de clase Semana 5 del Taller de Escritura Creativa Librería Luces 2025/2026",
-    "link": "https://mcallus.net/2025/10/23/teatro-ejercicio-de-clase-semana-5-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
-    "fecha": "23/10/2025",
-    "contenido": "Para el ejercicio de clase de esta semana usamos una tarjeta aleatoria que tenía cuatro detalles. Un personaje, una emoción, un espacio y un tiempo. La verdad es que no transmití correctamente la emoción (la única regla era que la emoción no debía escribirse directamente, si no mostrarse). Os pongo "
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "El ROR (Research Organization Registry) no es solo para universidades u organizaciones base: un Instituto de una Universidad puede tener su propio ROR",
-    "link": "https://pedrolr.es/blog/el-ror-research-organization-registry-no-es-solo-para-universidades-u-organizaciones-base-un-instituto-de-una-universidad-puede-tener-su-propio-ror/",
-    "fecha": "23/10/2025",
-    "contenido": "No sabía cómo titular este post, pero va sobre algo que me ha pasado en relación con el ROR (Research Organization Registry). Hoy en una reunión de un Instituto de Estadística y Ciencia de Datos se ha tratado sobre cómo llamar al Instituto en el ámbito internacional: si mantener el nombre en español"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Podcast ! Episodio 5: Banksy, un icono pop",
-    "link": "https://polotman.wordpress.com/2025/10/23/podcast-episodio-5-banksy-un-icono-pop/",
-    "fecha": "23/10/2025",
-    "contenido": "#podcast #ElSueñodelArtista #Blog #Bansky #ArteContemporaneo Hoy en día está de moda , si eres artista contemporáneo caer en \"la boca del monstruo vendedor de arte \" haciéndolo con el primer objeto que se te viene a la mente : un plátano pegado a la pared con cinta adhesiva o colocar un vaso con agu"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Canto del Pingüino Libre (Linux)",
-    "link": "https://docig.bearblog.dev/el-canto-del-pinguino-libre-linux/",
-    "fecha": "23/10/2025",
-    "contenido": "La niebla digital se había disipado hacía siglos, reemplazada por la Luz Abierta. El mundo que conocieron nuestros ancestros —un laberinto de licencias restrictivas, muros de código propietario y datos cautivos— era solo una pesadilla susurrada en los archivos de la Historia Oscura.\nEl planeta ahora"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Recuerdos de Madrid",
-    "link": "https://www.ericafustero.com/2025-10-recuerdos-de-madrid",
-    "fecha": "23/10/2025",
-    "contenido": "La semana pasada estuve en Madrid. Mis últimas visitas han sido bastante breves, pero esta vez Javier y yo pasamos siete días gracias a Diego y María, quienes nos dejaron al cuidado de Gatini, un gato guapísimo al que hice extensos reportajes fotográficos. Last week I was in Madrid. My last visits h"
-  },
-  {
-    "blog": "",
-    "titulo": "Tenemos en Camino una nueva secuela de Game Of Thrones.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/10/23/tenemos-en-camino-una-nueva-secuela-de-game-of-thrones/",
-    "fecha": "23/10/2025",
-    "contenido": ""
   }
 ]
