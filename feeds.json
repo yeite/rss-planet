@@ -1,5 +1,54 @@
 [
   {
+    "blog": "Bits de Ocio",
+    "titulo": "Inquietudes (Octubre 2025)",
+    "link": "https://bitsdeocio.wordpress.com/2025/10/31/inquietudes-octubre-2025/",
+    "fecha": "31/10/2025",
+    "contenido": "Al contrario que en el anterior post de Inquietudes, en el que tuve que juntar dos meses para poder publicar algo \"con chicha\", este mes la cosa ha estado sorprendentemente nutrida (sobre todo de películas) y, ahora que lo miro con perspectiva, ha sido un octubre muy \"ochentero\". Nada mal, la verdad"
+  },
+  {
+    "blog": "La Loica",
+    "titulo": "Apoyo Mutuo",
+    "link": "https://laloica.noblogs.org/apoyo-mutuo/",
+    "fecha": "31/10/2025",
+    "contenido": "¡Hola! Soy Lloyka Pérez, obrera de las artes gráficas y textiles, habitando el territorio del Bio-Bio. Busco ser una divulgadora de la autogestión y el apoyo mutuo, usando como herramientas los oficios que he heredado, como la costura, el bordado, el tejido y la encuadernación. Los oficios que obser"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Desvíos misteriosos",
+    "link": "https://brucknerite.net/2025/10/desvios-misteriosos.html",
+    "fecha": "31/10/2025",
+    "contenido": "Estamos llegando ya al final de las aventuras de Johnnie Gray (Buster Keaton) en El maquinista de La General. ¡Y qué final! Reconozco que me costó entender qué estaba viendo justo después de que sabotee un desvío para impedir, con suerte por un rato largo, que sus perseguidores yanquis le marcaran d"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Los documentos Halloween de Microsoft",
+    "link": "https://victorhckinthefreeworld.com/2025/10/31/los-documentos-halloween-de-microsoft/",
+    "fecha": "31/10/2025",
+    "contenido": "Allá por el año 1998, se filtraron una serie de documentos confidenciales internos de Microsoft donde se documentaban sus estrategias para hacer frente al software de \"código abierto\" en general y GNU/Linux en particular"
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Nuevo proyecto de blog: El escritorio de McAllus",
+    "link": "https://mcallus.net/2025/10/31/nuevo-proyecto-de-blog-el-escritorio-de-mcallus/",
+    "fecha": "31/10/2025",
+    "contenido": "Hoy quiero compartir una entrada muy breve sobre un blog nuevo que he abierto (en verdad ya existía pero lo he limpiado y dado un nuevo uso). Se llama El escritorio de McAllus, y será un lugar donde ir compartiendo mis inquietudes como escritor. Es un blog minimalista al que tengo derecho por mi apo"
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Morir",
+    "link": "https://mcallus.net/2025/10/31/morir/",
+    "fecha": "31/10/2025",
+    "contenido": "Oí que morir no duele. Falso. Llevo días bajo tierra, inmóvil. Siento como los gusanos se mueven bajo mi piel. Temo que este sufrimiento no acabe mientras quede un trozo de carne en mi cuerpo."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de openSUSE Tumbleweed #ViernesDeDistros",
+    "link": "https://voidnull.es/instalacion-de-opensuse-tumbleweed/",
+    "fecha": "31/10/2025",
+    "contenido": "Hoy, nos enfocaremos en la instalación de OpenSUSED Tumbleweed, una de las distribuciones más populares y estables dentro del ecosistema GNU/Linux."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Montar en bici",
     "link": "https://adrianperales.com/2025/10/montar-en-bici/",
@@ -330,13 +379,6 @@
   },
   {
     "blog": "La cosa infinita",
-    "titulo": "https://matizeta.com  Opina sobre mi humilde texto",
-    "link": "https://docig.mataroa.blog/blog/httpsmatizetacom-opina-sobre-mi-humilde-texto/",
-    "fecha": "28/10/2025",
-    "contenido": "https://matizeta.com/2025/10/27/la-textura-de-la-nada-texto-plano/"
-  },
-  {
-    "blog": "La cosa infinita",
     "titulo": "Núcleo, Reacción y Delirio: El Sistema Operativo del Planeta Tierra",
     "link": "https://docig.mataroa.blog/blog/nucleo-reaccion-y-delirio-el-sistema-operativo-del-planeta-tierra/",
     "fecha": "28/10/2025",
@@ -463,17 +505,17 @@
   },
   {
     "blog": "La cosa infinita",
-    "titulo": "$CÓDIGO\\_FUENTEv1.0\\_HUMANO$.exe",
-    "link": "https://docig.mataroa.blog/blog/codigo_fuentev10_humanoexe/",
-    "fecha": "27/10/2025",
-    "contenido": "El arquitecto se llamaba Elías. No de los que construyen con ladrillos y argamasa, sino con abstracciones. Trabajaba en la cimentación de un error, eso lo sabía. O más precisamente, en la línea de comando que generaba la errata.\nLa oficina era blanca, una cúpula sin eco donde el silencio olía a ozon"
-  },
-  {
-    "blog": "La cosa infinita",
     "titulo": "Catalogo binario",
     "link": "https://docig.mataroa.blog/blog/catalogo-binario/",
     "fecha": "27/10/2025",
     "contenido": "Un solo pulso en la arteria de silicio. 1, 0.\nEl universo, entendido cabalmente, \nse comprime en el flash de un instante. \nNo es piel, no es médula. Es cifra.\nLágrima de sangre en la avidez del código. \nDos estados turgentes, \npirámide casual convertida en pira ardiente.\nMi gnosis, debo abandonarla:"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "$CÓDIGO\\_FUENTEv1.0\\_HUMANO$.exe",
+    "link": "https://docig.mataroa.blog/blog/codigo_fuentev10_humanoexe/",
+    "fecha": "27/10/2025",
+    "contenido": "El arquitecto se llamaba Elías. No de los que construyen con ladrillos y argamasa, sino con abstracciones. Trabajaba en la cimentación de un error, eso lo sabía. O más precisamente, en la línea de comando que generaba la errata.\nLa oficina era blanca, una cúpula sin eco donde el silencio olía a ozon"
   },
   {
     "blog": "",
@@ -574,25 +616,11 @@
     "contenido": "Para celebrar mi primer aniversario de Linux sin Windows a mis alrededores, voy a escribir sobre mi experiencia con las distros que probé, lo bueno, lo malo y lo calavera. Voy a contarlo cronológicamente y según me acuerde.\nKaliNo debería contar pero fue mi primer acercamiento mediante un curso de C"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Traviesas traviesas",
-    "link": "https://brucknerite.net/2025/10/traviesas-traviesas.html",
-    "fecha": "24/10/2025",
-    "contenido": "Sigamos avanzando por unas ignotas vías rurales del Oregón de los locos años veinte que simulan ser las de la vieja Georgia confederada en El maquinista de La General. En la escena anterior habíamos intentado zafarnos de un vagón suelto sin éxito, aunque pronto los espías yanquis a los que perseguim"
-  },
-  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Comentando Hija de la venganza Páginas 101 a 200- Club de lectura de Librería Luces en Instagram",
     "link": "https://mcallus.net/2025/10/24/comentando-hija-de-la-venganza-paginas-101-a-200-club-de-lectura-de-libreria-luces-en-instagram/",
     "fecha": "24/10/2025",
     "contenido": "Continuamos con las siguientes cien páginas de la lectura de Hija de la venganza, el libro de Michael McDowell recientemente publicado. Os recomiendo que leáis esta primera entrada, toda la primera parte de ese artículo es sin spoilers. En este artículo vamos a entrar en el meollo del tirón así que "
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Releyendo El guardián entre el centeno de Salinger me pasa como con Sostiene Pereira de Tabucchi",
-    "link": "https://pedrolr.es/blog/releyendo-el-guardian-entre-el-centeno-de-salinger-me-pasa-como-con-sostiene-pereira-de-tabucchi/",
-    "fecha": "24/10/2025",
-    "contenido": "Estoy releyendo El guardián entre el centeno. Los últimos dos libros que leí los acabé haciendo un esfuerzo y recurrí a Holden Caulfield para no perder el ánimo de seguir leyendo. Me está pasando como con Sostiene Pereira, de Tabucchi: acabo hablando y pensando como lo hacen los protagonistas o de l"
   },
   {
     "blog": "Interlan",
@@ -609,32 +637,11 @@
     "contenido": "Nota: Inspirado en una confesión que llegó cuando ya no quedaba nadie esperando del otro lado. Cinco meses de silencio. Cinco meses en los que el nombre se volvió ruido\nSeguir leyendo  Después de la despedida\nEl cargo Después de la despedida apareció primero en El cuarto de GatoOscuro."
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "OroSonoro una App para escuchar sesiones de los 90",
-    "link": "https://mareosdeungeek.es/orosonoro-una-app-para-escuchar-sesiones-de-los-90/",
-    "fecha": "24/10/2025",
-    "contenido": "OroSonoro es una aplicación móvil que permite escuchar sesiones míticas de discotecas españolas, cubriendo, principalmente, las décadas de los 80 y 90. Este es el momento de homenajear a la cultura de cintas y CD&#8217;s (posteriormente) que se implantó con el auge de las discotecas en España. Tanto"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Cómo mostrar la vista previa de un documento Markdown en Kate",
-    "link": "https://www.macram.es/posts/2025/10/vista-previa-markdown-kate/",
-    "fecha": "24/10/2025",
-    "contenido": "Cuando enredo con mi ordenador Linux y KDE intento usar el editor que, de momento, me está convenciendo más. Ahora mismo es Kate. Y es posible, aunque no es una funcionalidad por defecto, mostrar en una barra lateral la previsualización de un documento Markdown en Kate, como es habitual en cualquier"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "481. Concurso literario",
     "link": "https://lamadredelpatonegro.blogspot.com/2025/10/481-concurso-literario.html",
     "fecha": "24/10/2025",
     "contenido": "&nbsp; &nbsp; Rogelia había dedicado varias horas de trabajo a la narración que iba a presentar al concurso literario del que era aficionada. Sentía que todo iba a salir bien al respecto. Apenas pasaron tres días desde que la publicó en su bitácora, que ya reunía ochenta elogiosos comentarios. Lo cu"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Entrada y salida estándar #16",
-    "link": "https://voidnull.es/entrada-y-salida-estandar/",
-    "fecha": "24/10/2025",
-    "contenido": "Descubre cómo controlar la entrada, salida y errores en Bash, aprendiendo a guardar resultados en archivos"
   },
   {
     "blog": "zona de confort",
