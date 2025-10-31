@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>¡Blog!¡Blog! RSS</title>
+        <title>¡Blog!¡Blog!</title>
         <link rel="stylesheet" href="estilos.css" />
     </head>
     <body>
@@ -244,7 +244,7 @@
             <p class="descripcion">${b.Descripción || ""}</p>
             <p><strong>Categoría:</strong> ${categoriasConEmoji}<br>
             <strong>País:</strong> ${bandera} ${b.País || "-"}</p>
-            <a href="${b.Feed}" target="_blank">🔗 RSS</a>
+            <a href="${b.Feed}" target="_blank"><img src="rss-16.png" alt="RSS"></a>
           `;
                     contenedor.appendChild(item);
                 });
