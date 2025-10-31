@@ -62,7 +62,8 @@
     "Feed": "https://matizeta.com/category/52s/feed",
     "Descripción": "Los domingos a primera hora (pero no todos), te envío a tu casilla cosas que encuentro interesantes en la web y algunas novedades.",
     "Categoría": "Newsletter",
-    "País": "Argentina"
+    "País": "Argentina",
+    "Aliado": "si"
   },
   {
     "Nombre": "Blep Blog",
@@ -142,7 +143,8 @@
     "Feed": "https://jurassikdev34.com/index.xml",
     "Descripción": "Un blog tecnológico y filosófico donde comparto pensamientos e ideas.",
     "Categoría": "Tecnología, Ciencia y Humanidades, Literario",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "Juan Agustin Flores",
@@ -174,7 +176,8 @@
     "Feed": "https://brucknerite.net/feed",
     "Descripción": "Divulgación, trenes, pensamiento, espacio, más trenes…",
     "Categoría": "Tecnología, Entretenimiento y Cultura, Ciencia y Humanidades",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "THE_CHEI$",
@@ -270,7 +273,8 @@
     "Feed": "https://blog.thalskarth.ar/feed.xml",
     "Descripción": "Blog donde hablo de lo que me interesó ese día",
     "Categoría": "Tecnología, Entretenimiento y Cultura",
-    "País": "Argentina"
+    "País": "Argentina",
+    "Aliado": "si"
   },
   {
     "Nombre": "Jinversor",
@@ -294,7 +298,8 @@
     "Feed": "https://mcallus.net/feed/",
     "Descripción": "Un blog donde escribo principalmente mis relatos y sobre mis lecturas pero también tienen cabida el rol, los juegos de mesa, el cine y las series.",
     "Categoría": "Literario, Entretenimiento y Cultura, Manualidades / Hobbies",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "iAgosto",
@@ -302,7 +307,8 @@
     "Feed": "https://blog.iagosto.dev/rss.xml",
     "Descripción": "Blog de tecnologia, programacion y administracion de sistemas.",
     "Categoría": "Podcast, Manualidades / Hobbies, Tecnología",
-    "País": "México"
+    "País": "México",
+    "Aliado": "si"
   },
   {
     "Nombre": "plr blog",
@@ -342,7 +348,8 @@
     "Feed": "https://rss.app/feeds/Z2UoFd814d10jbq1.xml",
     "Descripción": "Noticias sobre tecnología y software libre.",
     "Categoría": "Tecnología, Podcast",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "Mindeka",
@@ -350,7 +357,8 @@
     "Feed": "https://mindeka.duckdns.org/feed/",
     "Descripción": "Biblioteca de ideas y pensamientos sobre tecnología, software libre, auto alojamiento y ¡mucho más!",
     "Categoría": "Tecnología, Manualidades / Hobbies, Vida Diaria",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "Papel Continuo",
@@ -382,7 +390,8 @@
     "Feed": "https://foodybp.blog/feed/",
     "Descripción": "Mi blog personal de recetas de cocina (freidora, robot, horno y algunas tradicionales)",
     "Categoría": "Comida y Bebida",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "Un Bruto con Debian",
@@ -390,7 +399,8 @@
     "Feed": "https://unbrutocondebian.blogspot.com/feeds/posts/default",
     "Descripción": "Un novato que usa Debian y cuenta sus experiencias y luchas",
     "Categoría": "Tecnología",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "Proyecto para no aburrir",
@@ -438,7 +448,8 @@
     "Feed": "https://blog.luiscarlospando.com/rss/",
     "Descripción": "Este es mi propio espacio en la web donde concentro todo lo que hago y lo que soy. Aquí escribo de cualquier cosa que traiga en la cabeza, de música, desarrollo web, gadgets, automatización, videojuegos y más.",
     "Categoría": "Tecnología, Arte y Diseño, Entretenimiento y Cultura, Fotografía, Newsletter, Vida Diaria",
-    "País": "México"
+    "País": "México",
+    "Aliado": "si"
   },
   {
     "Nombre": "Madrid y el cine",
@@ -550,7 +561,8 @@
     "Feed": "https://www.macram.es/index.xml",
     "Descripción": "Blog personal donde hablo de tecnología y otras cosas.",
     "Categoría": "Tecnología, Entretenimiento y Cultura, Vida Diaria",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "Post-it",
@@ -558,7 +570,8 @@
     "Feed": "https://matizeta.com/category/post-it/feed",
     "Descripción": "Pequeñas publicaciones de cosas que encuentro navegando en Internet y me resultan interesantes.",
     "Categoría": "Tecnología",
-    "País": "Argentina"
+    "País": "Argentina",
+    "Aliado": "si"
   },
   {
     "Nombre": "Lado B",
@@ -566,7 +579,8 @@
     "Feed": "https://matizeta.com/category/ladoB/feed/",
     "Descripción": "Lado B nace de una necesidad de tener un espacio para escribir mis pensamientos y reflexiones más personales",
     "Categoría": "Literario, Sociedad y Economía, Vida Diaria, Aire Libre, Ciencia y Humanidades, Arte y Diseño, Entretenimiento y Cultura, Viajes",
-    "País": "Argentina"
+    "País": "Argentina",
+    "Aliado": "si"
   },
   {
     "Nombre": "La bitácora de locutus",
@@ -585,12 +599,13 @@
     "País": "España"
   },
   {
-    "Nombre": "matizeta /blog",
+    "Nombre": "POV",
     "Url": "https://blog.matizeta.com",
     "Feed": "https://matizeta.com/category/blog/feed",
     "Descripción": "Blog te Tecnología. Una mirada personal sobre dispositivos electrónicos, tendencias en internet,  recomendaciones, mini hacks y demás frikeadas.",
     "Categoría": "Tecnología",
-    "País": "Argentina"
+    "País": "Argentina",
+    "Aliado": "si"
   },
   {
     "Nombre": "La cueva de Beckermatic",
@@ -606,7 +621,8 @@
     "Feed": "https://ocubom.page/es/post/index.xml",
     "Descripción": "Ciencia, informática, música, libros y nuevas tecnologías en orden caótico–inexistente.",
     "Categoría": "Ciencia y Humanidades, Entretenimiento y Cultura, Literario, Tecnología, Vida Diaria",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "Crónicas Digitales",
@@ -638,7 +654,8 @@
     "Feed": "https://yeite.github.io/esencial/feed.xml",
     "Descripción": "Textos cortos pero contundentes que voy recopilando y que invitan a reflexionar sobre el mundo actual.",
     "Categoría": "Literario, Sociedad y Economía, Vida Diaria",
-    "País": "Argentina"
+    "País": "Argentina",
+    "Aliado": "si"
   },
   {
     "Nombre": "La Madre Que Parió Al Pato Negro",
@@ -798,7 +815,8 @@
     "Feed": "https://docig.bearblog.dev/feed/",
     "Descripción": "Ficciones narrativas. Un blog en español con pequeños cuentos desde Argentina al mundo.",
     "Categoría": "Literario",
-    "País": "Argentina"
+    "País": "Argentina",
+    "Aliado": "si"
   },
   {
     "Nombre": "Erica Fustero",
@@ -846,7 +864,8 @@
     "Feed": "https://feeds.feedburner.com/LaFrikoteca",
     "Descripción": "Un blog personal centrado en los juegos de rol y el frikismo en general. El autor ha escrito, traducido y editado juegos de rol.",
     "Categoría": "Literario, Manualidades / Hobbies",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "Ocho Bits Hacen Un Byte",
