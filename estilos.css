@@ -1,0 +1,241 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #141414;
+    color: #fff;
+}
+
+/* ...HEADER */
+
+header {
+    background-color: #141414;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.header-inner {
+    display: inline-block; /* centra todo el bloque */
+    text-align: left; /* pero el contenido interno queda alineado a la izquierda */
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+header img {
+    width: 80px;
+    height: 60px;
+    border-radius: 6px;
+}
+
+header .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    flex-wrap: wrap;
+}
+
+header h1 {
+    color: floralwhite;
+    margin: 0;
+    font-size: 1.55em;
+}
+
+header nav {
+    background-color: #6bbe30;
+    margin-top: 1em;
+    padding: 0.5em;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 0.9em;
+    color: gray;
+}
+
+header nav a {
+    color: #000 !important;
+    border-left: 1px dashed #000;
+    border-right: 1px dashed #000;
+    padding: 0.2em;
+}
+
+header nav a:link {
+    text-decoration: none;
+}
+header nav a:hover {
+    text-decoration: underline;
+}
+
+header h2 {
+    color: floralwhite;
+    margin: 5px 0 0;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+/* ...MAIN */
+
+main {
+    padding: 40px;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* ...FOOTER */
+
+footer {
+    background-color: #141414;
+    padding: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    border-top: 1px solid #6bbe30;
+}
+
+footer div {
+    padding-bottom: 0.5em;
+}
+footer span {
+    white-space: nowrap;
+}
+
+footer a:link {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer a:visited {
+    color: #fff;
+}
+
+/* CSS COMPARTIDO */
+
+.item {
+    background: #2c2c2c;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    word-wrap: break-word; /* O el moderno overflow-wrap */
+}
+
+.blog {
+    color: #ffa500;
+    font-size: 1em;
+    margin-bottom: 5px;
+    font-weight: bold;
+    display: block;
+}
+
+a {
+    color: #6abe30;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* ...INDEX RSS */
+
+.fecha {
+    color: #aaa;
+    font-size: 0.9em;
+    margin-bottom: 5px;
+}
+
+.contenido {
+    font-size: 0.95em;
+    color: #ddd;
+}
+
+/* ...DIRECTORIO  */
+
+.item.aliado {
+    border: 2px solid #6abe30;
+}
+
+.blog img {
+    width: 18px;
+    height: 18px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.descripcion {
+    color: #ddd;
+    font-size: 0.95em;
+}
+
+.filtros {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+select {
+    background: #2c2c2c;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 6px 10px;
+    border-radius: 6px;
+    margin: 0 5px;
+}
+
+/* --- AJUSTES PARA CELULARES --- */
+@media (max-width: 768px) {
+    body {
+        font-size: 1.1rem; /* un poco más grande que en escritorio */
+        line-height: 1.6;
+    }
+
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    header h2 {
+        font-size: 1.1em;
+    }
+
+    header nav {
+        font-size: 1em;
+        padding: 0.5em;
+    }
+
+    main {
+        padding: 15px;
+    }
+
+    .item {
+        padding: 15px;
+    }
+
+    .blog {
+        font-size: 1.1em;
+    }
+
+    .fecha {
+        font-size: 1em;
+    }
+
+    .contenido,
+    .descripcion {
+        font-size: 1.05em;
+    }
+
+    footer {
+        font-size: 0.95em;
+        padding: 15px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
