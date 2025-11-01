@@ -22,10 +22,31 @@
   },
   {
     "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de las semanas 43 y 44 de 2025",
+    "link": "https://victorhckinthefreeworld.com/2025/10/31/opensuse-tumbleweed-revision-de-las-semanas-43-y-44-de-2025/",
+    "fecha": "31/10/2025",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Victorhck in the free world",
     "titulo": "Los documentos Halloween de Microsoft",
     "link": "https://victorhckinthefreeworld.com/2025/10/31/los-documentos-halloween-de-microsoft/",
     "fecha": "31/10/2025",
     "contenido": "Allá por el año 1998, se filtraron una serie de documentos confidenciales internos de Microsoft donde se documentaban sus estrategias para hacer frente al software de \"código abierto\" en general y GNU/Linux en particular"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "El derecho a la luz del día (por ejemplo)",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/el-derecho-a-la-luz-del-dia-por-ejemplo/",
+    "fecha": "31/10/2025",
+    "contenido": "Hoy he salido a hacer la compra por la mañana. Es curioso cómo cambia la ciudad a las distintas horas del día. Suelo hacer la compra los viernes por la tarde o los sábados por la mañana si no me queda más remedio, y ahí el ambiente es totalmente distinto: personas agotadas de la jornada laboral inte"
+  },
+  {
+    "blog": "Blog de Thalskarth",
+    "titulo": "Bajando un cambio, desconectando un poco",
+    "link": "https://blog.thalskarth.ar/bajando-un-cambio/",
+    "fecha": "31/10/2025",
+    "contenido": "Durante este mes, me llegaron varios artículos y comentarios girando sobre un mismo tema: La saturación y vertiginosidad de la vida digital. Nombraré algunos durante el texto y aunque varios tenian ideas interesantes que me dejaron pensando, casi todos giraban sobre la misma idea."
   },
   {
     "blog": "El Laberinto de McAllus",
@@ -42,11 +63,39 @@
     "contenido": "Oí que morir no duele. Falso. Llevo días bajo tierra, inmóvil. Siento como los gusanos se mueven bajo mi piel. Temo que este sufrimiento no acabe mientras quede un trozo de carne en mi cuerpo."
   },
   {
+    "blog": "Interlan",
+    "titulo": "Tutorial: Creación de bandejas de correo para postfix",
+    "link": "https://interlan.ec/2025/10/31/tutorial-creacion-de-bandejas-de-correo-para-postfix/",
+    "fecha": "31/10/2025",
+    "contenido": "Este es el proceso manual para crear una bandeja de entrada en postfix. La verdad, es poco probable que lo necesites puesto que es un proceso automatizado en la mayoría de los casos, pero podría interesarte.\nLa entrada Tutorial: Creación de bandejas de correo para postfix se publicó primero en Inter"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalación de openSUSE Tumbleweed #ViernesDeDistros",
     "link": "https://voidnull.es/instalacion-de-opensuse-tumbleweed/",
     "fecha": "31/10/2025",
     "contenido": "Hoy, nos enfocaremos en la instalación de OpenSUSED Tumbleweed, una de las distribuciones más populares y estables dentro del ecosistema GNU/Linux."
+  },
+  {
+    "blog": "zona de confort",
+    "titulo": "Aullido",
+    "link": "https://sopadeletras.club/efmorell/aullido",
+    "fecha": "31/10/2025",
+    "contenido": ""
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Blog del Apóstol Zero",
+    "link": "https://docig.bearblog.dev/el-blog-del-apostol-zero/",
+    "fecha": "31/10/2025",
+    "contenido": "Al principio, claro, fue el chiste, la ironía como cripta. Zero-Kelvin, se llamaba el blog. Un nombre frío y perfecto para contener la combustión lenta de sus argumentos sobre la inutilidad del deseo y la elegancia termodinámica de la Nada. Su autor, que se hacía llamar \"El Administrador\" (una clara"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El Hipertexto Mínimo (O la Metafísica del Archivo .TXT)",
+    "link": "https://docig.mataroa.blog/blog/el-hipertexto-minimo-o-la-metafisica-del-archivo-txt/",
+    "fecha": "31/10/2025",
+    "contenido": "El Plain Text, claro. El temita, le mot juste que siempre acaba resultando impreciso. Una de esas pequeñas catástrofes minimalistas que te dejan suspendido a mitad del punchline, como un gag de Seinfeld abortado o el punto de fuga de un Lichtenstein desvaneciéndose en el aire del teclado (ése, el vi"
   },
   {
     "blog": "Adrián Perales",
@@ -365,13 +414,6 @@
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "https://matizeta.com (opinión sobre un texto de este humilde servidor)",
-    "link": "https://docig.bearblog.dev/httpsmatizetacom-opinion-sobre-un-texto-de-este-humilde-servidor/",
-    "fecha": "28/10/2025",
-    "contenido": "https://matizeta.com/2025/10/27/la-textura-de-la-nada-texto-plano/"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
     "titulo": "El Condicionamiento Geo-Social: Una Paradoja de la Estabilidad Planetaria",
     "link": "https://docig.bearblog.dev/el-condicionamiento-geo-social-una-paradoja-de-la-estabilidad-planetaria/",
     "fecha": "28/10/2025",
@@ -505,17 +547,17 @@
   },
   {
     "blog": "La cosa infinita",
-    "titulo": "Catalogo binario",
-    "link": "https://docig.mataroa.blog/blog/catalogo-binario/",
-    "fecha": "27/10/2025",
-    "contenido": "Un solo pulso en la arteria de silicio. 1, 0.\nEl universo, entendido cabalmente, \nse comprime en el flash de un instante. \nNo es piel, no es médula. Es cifra.\nLágrima de sangre en la avidez del código. \nDos estados turgentes, \npirámide casual convertida en pira ardiente.\nMi gnosis, debo abandonarla:"
-  },
-  {
-    "blog": "La cosa infinita",
     "titulo": "$CÓDIGO\\_FUENTEv1.0\\_HUMANO$.exe",
     "link": "https://docig.mataroa.blog/blog/codigo_fuentev10_humanoexe/",
     "fecha": "27/10/2025",
     "contenido": "El arquitecto se llamaba Elías. No de los que construyen con ladrillos y argamasa, sino con abstracciones. Trabajaba en la cimentación de un error, eso lo sabía. O más precisamente, en la línea de comando que generaba la errata.\nLa oficina era blanca, una cúpula sin eco donde el silencio olía a ozon"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "Catalogo binario",
+    "link": "https://docig.mataroa.blog/blog/catalogo-binario/",
+    "fecha": "27/10/2025",
+    "contenido": "Un solo pulso en la arteria de silicio. 1, 0.\nEl universo, entendido cabalmente, \nse comprime en el flash de un instante. \nNo es piel, no es médula. Es cifra.\nLágrima de sangre en la avidez del código. \nDos estados turgentes, \npirámide casual convertida en pira ardiente.\nMi gnosis, debo abandonarla:"
   },
   {
     "blog": "",
@@ -614,47 +656,5 @@
     "link": "https://calaveras.bearblog.dev/mi-experiencia-con-distrubuciones-linux/",
     "fecha": "25/10/2025",
     "contenido": "Para celebrar mi primer aniversario de Linux sin Windows a mis alrededores, voy a escribir sobre mi experiencia con las distros que probé, lo bueno, lo malo y lo calavera. Voy a contarlo cronológicamente y según me acuerde.\nKaliNo debería contar pero fue mi primer acercamiento mediante un curso de C"
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Comentando Hija de la venganza Páginas 101 a 200- Club de lectura de Librería Luces en Instagram",
-    "link": "https://mcallus.net/2025/10/24/comentando-hija-de-la-venganza-paginas-101-a-200-club-de-lectura-de-libreria-luces-en-instagram/",
-    "fecha": "24/10/2025",
-    "contenido": "Continuamos con las siguientes cien páginas de la lectura de Hija de la venganza, el libro de Michael McDowell recientemente publicado. Os recomiendo que leáis esta primera entrada, toda la primera parte de ese artículo es sin spoilers. En este artículo vamos a entrar en el meollo del tirón así que "
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Articulo: Resaltado de Sintaxis de Código en WordPress",
-    "link": "https://interlan.ec/2025/10/24/articulo-resaltado-de-sintaxis-de-codigo-en-wordpress/",
-    "fecha": "24/10/2025",
-    "contenido": "El coloreado de sintaxis de código en WordPress parece una cosa intuitiva, pero no es cierto. Si quieres compartir código, hay varias formas de hacerlo, pero de forma nativa, solo tienes las etiquetas &#60;pre&#62;&#60;/pre&#62; y &#60;code&#62;&#60;/code&#62; que cambian de acuerdo a las configurac"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Después de la despedida",
-    "link": "https://gatooscuro.xyz/despues-de-la-despedida/",
-    "fecha": "24/10/2025",
-    "contenido": "Nota: Inspirado en una confesión que llegó cuando ya no quedaba nadie esperando del otro lado. Cinco meses de silencio. Cinco meses en los que el nombre se volvió ruido\nSeguir leyendo  Después de la despedida\nEl cargo Después de la despedida apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "481. Concurso literario",
-    "link": "https://lamadredelpatonegro.blogspot.com/2025/10/481-concurso-literario.html",
-    "fecha": "24/10/2025",
-    "contenido": "&nbsp; &nbsp; Rogelia había dedicado varias horas de trabajo a la narración que iba a presentar al concurso literario del que era aficionada. Sentía que todo iba a salir bien al respecto. Apenas pasaron tres días desde que la publicó en su bitácora, que ya reunía ochenta elogiosos comentarios. Lo cu"
-  },
-  {
-    "blog": "zona de confort",
-    "titulo": "Samain",
-    "link": "https://sopadeletras.club/efmorell/samain",
-    "fecha": "24/10/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El guardián y los algoritmos (ASCII)",
-    "link": "https://docig.bearblog.dev/el-guardian-y-los-algoritmos-ascii/",
-    "fecha": "24/10/2025",
-    "contenido": "(Nota del editor: El presente relato, acaso un mero apéndice o glosa de cierto tratado olvidado sobre la ontología de los lenguajes formales, fue rescatado de un ejemplar de la Enciclopedia de la Programación Esotérica, edición de 1949, que un librero de Adrogué me procuró en la canícula de 1978. Su"
   }
 ]
