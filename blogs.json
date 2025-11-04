@@ -1,5 +1,14 @@
 [
   {
+    "Nombre": "Luis Carlos Pando",
+    "Url": "https://luiscarlospando.com",
+    "Feed": "https://blog.luiscarlospando.com/rss/",
+    "Descripción": "Este es mi propio espacio en la web donde concentro todo lo que hago y lo que soy. Aquí escribo de cualquier cosa que traiga en la cabeza, de música, desarrollo web, gadgets, automatización, videojuegos y más.",
+    "Categoría": "Tecnología, Arte y Diseño, Entretenimiento y Cultura, Fotografía, Newsletter, Vida Diaria",
+    "País": "México",
+    "Aliado": "si"
+  },
+  {
     "Nombre": "El Profe Juan",
     "Url": "https://elprofejuan.com.ar",
     "Feed": "https://elprofejuan.com.ar/rrs.xml",
@@ -441,15 +450,6 @@
     "Descripción": "Escribo sobre tecnología, privacidad, seguridad, criptografía, vida y un poco de todo; todo tiene una razón de ser.",
     "Categoría": "Tecnología, Vida Diaria",
     "País": "Colombia"
-  },
-  {
-    "Nombre": "Luis Carlos Pando",
-    "Url": "https://luiscarlospando.com",
-    "Feed": "https://blog.luiscarlospando.com/rss/",
-    "Descripción": "Este es mi propio espacio en la web donde concentro todo lo que hago y lo que soy. Aquí escribo de cualquier cosa que traiga en la cabeza, de música, desarrollo web, gadgets, automatización, videojuegos y más.",
-    "Categoría": "Tecnología, Arte y Diseño, Entretenimiento y Cultura, Fotografía, Newsletter, Vida Diaria",
-    "País": "México",
-    "Aliado": "si"
   },
   {
     "Nombre": "Madrid y el cine",
