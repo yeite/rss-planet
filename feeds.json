@@ -1,10 +1,38 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "El gran final",
+    "link": "https://brucknerite.net/2025/11/el-gran-final.html",
+    "fecha": "04/11/2025",
+    "contenido": "Ahora sí: hemos llegado al final de las aventuras de nuestro simpático maquinista Johnnie Gray. A lo largo —a lo muy largo— de once artículos hemos seguido sus aventuras y desventuras mientras intenta rescatar su locomotora de las garras de unos espías yanquis, deteniendo la mirada en la tecnología "
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – noviembre de 2025",
+    "link": "https://victorhckinthefreeworld.com/2025/11/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-noviembre-de-2025/",
+    "fecha": "04/11/2025",
+    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Queridos Mastodontes",
+    "link": "https://matizeta.com/2025/11/04/queridos-mastodontes/",
+    "fecha": "04/11/2025",
+    "contenido": "Hoy hace exactamente un año que me uní a Mastodon, más precisamente a la instancia de&#160;masto.es&#160;(anteriormente estaba en mastodon.social pero duré unas pocas semanas por lo que no cuento esa fecha). Quien no ha oido nunca hablar de Mastodon antes, les puedo contar rápidamente que es una pla"
+  },
+  {
     "blog": "Eterno aprendiz",
     "titulo": "Linkin Park From Zero en el Estadio Nacional",
     "link": "https://altgr.xyz/2025/11/03/linkin-park-from-zero-en-el-estadio-nacional/",
     "fecha": "04/11/2025",
     "contenido": "Traigo algunas fotos de pésima calidad del concierto de Linkin Park este domingo en el Estadio Nacional. Parte de la etapa sudamericana de la gira «From Zero». La banda de Mike Shinoda se presentó por tercera vez en Chile. Esta vez con Emily Armstrong en la voz, reemplazando a Chester Bennington. &#"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Linkwarden en Ubuntu 24.04",
+    "link": "https://voidnull.es/instalacion-de-linkwarden-en-ubuntu-24-04/",
+    "fecha": "04/11/2025",
+    "contenido": "Gestiona, organiza y archiva tus enlaces fácilmente con Linkwarden, tu gestor de marcadores autohospedado."
   },
   {
     "blog": "El Laberinto de McAllus",
@@ -553,13 +581,6 @@
     "contenido": "Los aparentes ricos pululan en Internet como cucarachas. Cada día publican en sus redes millones de fotos y videos mostrando bienes de consumo para dar a entender que sus finanzas [&#8230;]\nLa entrada La riqueza no se ve se publicó primero en Jinversor."
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "Probando un nuevo editor de textos MarkDown",
-    "link": "https://matizeta.com/2025/10/28/probando-un-nuevo-editor-de-textos-markdown/",
-    "fecha": "28/10/2025",
-    "contenido": "Me gusta utilizar editores de texto ligeros y minimalistas que eliminan opciones superfluas y que sólo se enfocan en el proceso de escribir. Desde que el editor Uylsses decidió pasar de un modelo de pago único a uno de suscripción (maldito habito), me ví obligado a buscar alternativas. Su reemplazo "
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Glutamato Monosódico (MSG): ¿indispensable en la cocina asiática?",
     "link": "https://blog.danielaragay.net/glutamato-monosodico-msg-indispensable-en-la-cocina-asiatica/",
@@ -586,20 +607,6 @@
     "link": "https://altgr.xyz/2025/10/28/mejor-no-hablar-de-ciertas-cosas/",
     "fecha": "28/10/2025",
     "contenido": "No se habla de política, religión ni fútbol en la mesa. Son temas que despiertan pasiones y pueden generar acaloradas discusiones, peleas y momentos desagradables. Para que la mesa sea un lugar tranquilo y agradable, es mejor no hablar de ciertas cosas, ¿verdad? Yo creo que la conversación política "
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Zabbix Agent 7.0 en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-zabbix-agent-7-0-en-debian-13/",
-    "fecha": "28/10/2025",
-    "contenido": "Se utiliza para monitorear redes, servidores, aplicaciones, servicios y recursos en la nube. También permite el monitoreo de dispositivos de almacenamiento, bases de datos, máquinas virtuales, telefonía, recursos de seguridad y mucho más."
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Condicionamiento Geo-Social: Una Paradoja de la Estabilidad Planetaria",
-    "link": "https://docig.bearblog.dev/el-condicionamiento-geo-social-una-paradoja-de-la-estabilidad-planetaria/",
-    "fecha": "28/10/2025",
-    "contenido": "El planeta Tierra, si se le examinaba con la fría y desapasionada lente del sociólogo, no era más que un Sistema de Regulación extraordinariamente sofisticado. Se le podría considerar el más vasto y complejo de los Laboratorios Globales jamás concebidos. Su verdadero Sistema Operativo, el Kernel que"
   },
   {
     "blog": "",
