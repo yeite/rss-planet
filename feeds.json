@@ -1,5 +1,54 @@
 [
   {
+    "blog": "--el Profe Juan--",
+    "titulo": "Otro servicio que no puedo hacer andar... y van?",
+    "link": "https://elprofejuan.com.ar/otro-servicio-que-no-puedo-hacer-andar-y-van",
+    "fecha": "05/11/2025",
+    "contenido": "Hace un tiempo que no lo estoy resolviendo los problemas en mi servidor local. Ya van varios servicios que no puedo hacerlos andar y mis conocimientos están muy debilitados y/o no son los suficientes.\n"
+  },
+  {
+    "blog": "Bits de Ocio",
+    "titulo": "Cronología completa del Universo Matrix",
+    "link": "https://bitsdeocio.wordpress.com/2025/11/05/cronologia-del-universo-matrix/",
+    "fecha": "05/11/2025",
+    "contenido": "Hace unos años y, para ponerme aldía antes del estreno de «Matrix Resurrection», escribí para Perdidos en Melmac un artículo que repasaba, en riguroso orden cronológico, todas las obras del Universo que las hermanas Wachowski nos presentaron allá por 1999. Tras el estreno de aquella última entrega, "
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "Pupa, pupa",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/pupa-pupa/",
+    "fecha": "05/11/2025",
+    "contenido": "Tengo un pequeño lunar en la mano derecha. Me parece bastante mono, creo que da personalidada mi mano. Mi sobrina, en cambio, parece que no opina lo mismo. Cuando estuve con ella hace un par de semanas empezó a señalarlo y a decir «pupa, pupa». Acto seguido se fue hacia mi padre, su abuelo, y le rep"
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Desactivando la incrustación de vídeos de youtube en Moodle",
+    "link": "https://pedrolr.es/blog/desactivando-la-incrustacion-de-videos-de-youtube-en-moodle/",
+    "fecha": "05/11/2025",
+    "contenido": "Hay una cosa que siempre me ha molestado de Moodle. Cuando metes un enlace de un vídeo de Youtube, lo incrusta ya en el mensaje y se ve el cuadrado del vídeo y no el enlace. Me acaba de pasar en un foro. Estaba compartiendo el documental de Aaron Swartz porque lo he propuesto para [&#8230;]"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Siempre odié a Adobe",
+    "link": "https://matizeta.com/2025/11/05/siempre-odie-a-adobe/",
+    "fecha": "05/11/2025",
+    "contenido": "Hace unos días (a fines del mes pasado), Canva anunciaba que Affinity pasaba de ser pago a un modelo completamente gratuito. Affinity es un paquete de productos creativos, que fue adquirido por Canva a comienzos del 2024. A poco más de un año, la empresa anuncia la gratitud del mismo (con la posibil"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Sobreviví al upgrade de Proxmox 8 a 9",
+    "link": "https://altgr.xyz/2025/11/05/sobrevivi-al-upgrade-de-proxmox-8-a-9/",
+    "fecha": "05/11/2025",
+    "contenido": "El momento más temido de todo selfhoster se llama upgrade. Especialmente cuando se trata del sistema operativo que soporta todo tu sistema. Y sí, ha llegado ese momento para mí. Uso Proxmox en mi servidor casero. Es un sistema operativo basado en Debian, especializado en virtualización. Permite un m"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Drupal 9 en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-drupal-9-en-debian-13/",
+    "fecha": "05/11/2025",
+    "contenido": "Drupal es uno de los sistemas de gestión de contenido (CMS) más potentes y flexibles del mercado, ampliamente utilizado para crear sitios web dinámicos y altamente personalizables."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "La idea de \"Jardines digitales\" en 2025",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/05/20251105-jardines-digitales-2025/",
@@ -525,25 +574,11 @@
     "contenido": "Uno de los grandes retos en desarrollo y operaciones es la fiabilidad. ¿Cuántas veces hemos oído aquello de “en mi máquina funciona”? Aunque Docker ayudó mucho a estandarizar entornos, todavía existen problemas: imágenes demasiado&#46;&#46;&#46;\nLa entrada Entornos reproducibles con Nix + Docker en "
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Fuego en el puente",
-    "link": "https://brucknerite.net/2025/10/fuego-en-el-puente.html",
-    "fecha": "29/10/2025",
-    "contenido": "Una de las pequeñas sorpresas que nos tiene reservadas El maquinista de La General son los puentes cubiertos. Aunque no me considere un gran consumidor de cine, sí tengo bastantes de los números más gordos tachados de mi tarjeta de bingo. Es decir, he visto Los puentes de Madison. Una de las conclus"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Guerrilla Open Access Manifesto",
     "link": "https://jinversor.co/2025/10/guerrilla-open-access-manifesto/",
     "fecha": "29/10/2025",
     "contenido": "El Guerrilla Open Access Manifesto o Manifiesto por la Guerrilla del Acceso Abierto es una proclama escrita por el activista y programador estadounidense Aaron Swartz en julio de 2008. El [&#8230;]\nLa entrada Guerrilla Open Access Manifesto se publicó primero en Jinversor."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Una web con mapas sobre la Ley de Propiedad Intelectual y otra con campos para búsquedas en Scopus, WoS, Lens y OpenAlex",
-    "link": "https://pedrolr.es/blog/una-web-con-mapas-sobre-la-ley-de-propiedad-intelectual-y-otra-con-campos-para-busquedas-en-scopus-wos-lens-y-openalex/",
-    "fecha": "29/10/2025",
-    "contenido": "Este cuatrimestre imparto docencia de 2 asignaturas: Derechos y Licencias Digitales y Biblioteca, Datos e Información Científica. La primera es en el Máster Universitario en Gestión de la Documentación, Bibliotecas y Archivos y la segunda en el Grado en Ciencia de los Datos Aplicada. De la de estadí"
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -553,39 +588,11 @@
     "contenido": "Cuánto tiempo sin hacer algo como esto en el blog. He visto en el (para mi gusto excelente) blog de James un post mencionando diez detalles sobre él mismo, viniendo de una propuesta del blog Forking Mad. Y, como no se me ocurre ninguna idea mejor y seguir este tipo de tendencias es sencillo, allá va"
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "Mi blog como mi única red social",
-    "link": "https://matizeta.com/2025/10/29/mi-blog-como-mi-unica-red-social/",
-    "fecha": "29/10/2025",
-    "contenido": "En marzo del 2023 la empresa Automattic dueña de WordPress, Tumblr entre otras adquirió el plugin ActivityPub para entrar de lleno al Fediverso. A los pocos meses, en septiembre ya había dado el salto  y todos los planes de WordPress.com (incluido el gratuito) ya lo incorporaba.  Mi blog es federado"
-  },
-  {
     "blog": "impermanente",
     "titulo": "La máquina no está rota",
     "link": "https://impermanente.es/2025/10/29/la-mquina-no-est-rota.html",
     "fecha": "29/10/2025",
     "contenido": "En ingeniería de sistemas existe un concepto llamado POSIWID, que son las siglas en inglés de &ldquo;the purpose of a system is what it does&rdquo;. Esto quiere decir que un sistema nunca está equivocado, un sistema hace siempre aquello para lo que fue diseñado. Puede no ser el resultado que querías"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Cómo instalar Uptime Kuma en Debian 13",
-    "link": "https://voidnull.es/como-instalar-uptime-kuma-en-debian-13/",
-    "fecha": "29/10/2025",
-    "contenido": "Uptime Kuma es una herramienta de monitoreo de auto-hospedaje muy popular que permite a los administradores de sistemas realizar un seguimiento del tiempo de actividad de sus servicios y recibir notificaciones en caso de fallos."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Mi mudanza a Manjaro como sistema principal",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/10/29/20251029-mudanza-a-manjaro/",
-    "fecha": "29/10/2025",
-    "contenido": "Esta elección atípica ha dado un resultado inesperadamente bueno, pudiendo invertir la potencia del equipo en lo que importa de verdad"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "La Desolación del Carácter ASCII",
-    "link": "https://docig.bearblog.dev/la-desolacion-del-caracter-ascii/",
-    "fecha": "29/10/2025",
-    "contenido": "La verdad es que la victoria del Texto Plano (o Textus Nullus, como lo bautizó algún sociólogo de la red antes de autodisolverse en la inanidad general) no fue una liberación, como se había prometido. Fue la confirmación final de la derrota. Una derrota absoluta de la Belleza y, consecuentemente, de"
   },
   {
     "blog": "Erica Fustero",
