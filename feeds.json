@@ -1,5 +1,19 @@
 [
   {
+    "blog": "Adrián Perales",
+    "titulo": "Sobre autoexigencia y soltar lastre",
+    "link": "https://adrianperales.com/2025/11/sobre-autoexigencia-y-soltar-lastre/",
+    "fecha": "06/11/2025",
+    "contenido": "Ya no soy ese jovencito con ganas de hacer muchas cosas a la vez, y eso no tiene por qué ser necesariamente malo. Bajar esa autoexigencia supone soltar lastre y renunciar a ciertos proyectos e ideas. El pasado Cuando era más joven podía ir a clase, dedicar tiempo a trabajos o estudio por las tardes,"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "awk: procesa y analiza texto en modo todopoderoso",
+    "link": "https://voidnull.es/awk-procesa-y-analiza-texto-en-modo-todopoderoso/",
+    "fecha": "06/11/2025",
+    "contenido": "Descubre cómo usar awk en GNU/Linux para analizar y procesar texto de forma eficiente."
+  },
+  {
     "blog": "--el Profe Juan--",
     "titulo": "Qué raro?",
     "link": "https://elprofejuan.com.ar/qu%C3%A9-raro",
@@ -71,10 +85,10 @@
   },
   {
     "blog": "El Sueño del Artista Blog",
-    "titulo": "ASCII : arte de codigos .",
+    "titulo": "ASCII: Arte de códigos .",
     "link": "https://polotman.wordpress.com/2025/11/05/ascii-arte-de-codigos/",
     "fecha": "05/11/2025",
-    "contenido": "#Arte #ASCII #arteDigital #Blog #ElSueñodelArtista El arte ASCII se basa en la union de carácteres o codigos que llevan el propio nombre hasta formar una imagen en computadora que en un principo estos códigos fue creado para la telegrafia , casualmente manteniendo una especie de juegos de palabras c"
+    "contenido": "El arte ASCII se basa en la unión de caracteres o códigos que llevan el propio nombre hasta formar una imagen en computadora que en un principio estos códigos fue creado para la telegrafía , casualmente manteniendo una especie de juegos de palabras con una amiga por medio de chat fue que descubrí el"
   },
   {
     "blog": "pov – matizeta",
@@ -89,6 +103,13 @@
     "link": "https://blog.danielaragay.net/el-evento-del-ano-en-la-empresa/",
     "fecha": "05/11/2025",
     "contenido": "Ayer se celebr&#xf3; el evento del a&#xf1;o en la empresa, el llamado V&#xed;deo Summit, donde uno de nuestros colaboradores tuvo una horrible experiencia.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendo"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Sobreviví al upgrade de Proxmox 8 a 9",
+    "link": "https://altgr.xyz/2025/11/05/sobrevivi-al-upgrade-de-proxmox-8-a-9/",
+    "fecha": "05/11/2025",
+    "contenido": "El momento más temido de todo selfhoster se llama upgrade. Especialmente cuando se trata del sistema operativo que soporta todo tu sistema. Y sí, ha llegado ese momento para mí. Uso Proxmox en mi servidor casero. Es un sistema operativo basado en Debian, especializado en virtualización. Permite un m"
   },
   {
     "blog": "_ voidNull",
@@ -173,6 +194,13 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2025/11/484-sarita-y-su-transportin-rosa.html",
     "fecha": "04/11/2025",
     "contenido": "&nbsp; &nbsp; El día que Sarita cumplió los diez años de edad, salió a jugar a la calle con un transportín rosa. Era la primera vez que sacaba a relucir aquel habitáculo. Pese a que era de metal, estaba provisto de cuatro ruedas directrices y un asa ajustable de la que tirar para su fácil desplazami"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Linkin Park From Zero en el Estadio Nacional",
+    "link": "https://altgr.xyz/2025/11/03/linkin-park-from-zero-en-el-estadio-nacional/",
+    "fecha": "04/11/2025",
+    "contenido": "Traigo algunas fotos de pésima calidad del concierto de Linkin Park este domingo en el Estadio Nacional. Parte de la etapa sudamericana de la gira «From Zero». La banda de Mike Shinoda se presentó por tercera vez en Chile. Esta vez con Emily Armstrong en la voz, reemplazando a Chester Bennington. &#"
   },
   {
     "blog": "_ voidNull",
@@ -497,39 +525,11 @@
     "contenido": "El Plain Text, claro. El temita, le mot juste que siempre acaba resultando impreciso. Una de esas pequeñas catástrofes minimalistas que te dejan suspendido a mitad del punchline, como un gag de Seinfeld abortado o el punto de fuga de un Lichtenstein desvaneciéndose en el aire del teclado (ése, el vi"
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Montar en bici",
-    "link": "https://adrianperales.com/2025/10/montar-en-bici/",
-    "fecha": "30/10/2025",
-    "contenido": "Hace tiempo escribí&#160;unas confesiones que no interesan a nadie. Una de ellas era, precisamente, que no sé montar en bici, y esta entrada no es más que una divagación al respecto. De pequeño tuve bicicleta. Una con ruedines. Pero nunca di el paso de quitarlos y montar en una bicicleta normal. Con"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Disponible Fedora 43",
-    "link": "https://thecheis.com/2025/10/30/disponible-fedora-43/",
-    "fecha": "30/10/2025",
-    "contenido": "Ya tenemos entre nosotros la nueva versión de Fedora y quiero dejar mis habituales impresiones. Una vez más, la distro comunitaria de Red Hat se siente continuista aunque estable, sin cambios radicales. A priori parece una actualización aburrida más, pero sigue mejorando su propuesta mientras se ada"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Las pesadillas del software privativo",
     "link": "https://victorhckinthefreeworld.com/2025/10/30/las-pesadillas-del-software-privativo/",
     "fecha": "30/10/2025",
     "contenido": "Las historias más escalofriantes del software privativo acechan en cada época del año. Ese acoso constante es el que las hace todavía más aterradoras"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Un proyecto para exportar más funcionalidades de YaST a Cockpit",
-    "link": "https://victorhckinthefreeworld.com/2025/10/30/un-proyecto-para-exportar-mas-funcionalidades-de-yast-a-cockpit/",
-    "fecha": "30/10/2025",
-    "contenido": "Un proyecto comunitario pretende exportar funcionalidades de YaST que faltan en la nueva herramienta Cockpit, ya que SUSE y openSUSE 16.0 han \"jubilado\" a la gran herramienta de configuración de sistema YaST"
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "El index del blog tipo grid",
-    "link": "https://pedrolr.es/blog/el-index-del-blog-tipo-grid/",
-    "fecha": "30/10/2025",
-    "contenido": "El blog es mi sitio de ensayos. Siempre estoy probando cosas nuevas o implementando pequeños detalles. La salida tipo grid, con columnas, me gusta mucho y la utilizo en otros proyectos. He englobado el enlace a los posts en cada elemento del listado, así se puede hacer click con destino al post en t"
   },
   {
     "blog": "develumpen.com",
@@ -553,20 +553,6 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "¿Por qué la calculadora del ordenador muestra botones para los números?",
-    "link": "https://www.macram.es/posts/2025/10/por-que-la-calculadora-muestra-los-numeros/",
-    "fecha": "30/10/2025",
-    "contenido": "Haz un pequeño ejercicio si estás sentado delante de un ordenador, por favor. Abre la calculadora de tu sistema operativo, me da igual si usas una distribución de Linux, macOS o Windows. Tú abre la aplicación que incluya su sistema operativo que se llame de una forma parecida a &ldquo;Calculadora&rd"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "La decadencia de la web",
-    "link": "https://matizeta.com/2025/10/30/la-decadencia-de-la-web/",
-    "fecha": "30/10/2025",
-    "contenido": "En 2013 uno de los diarios diarios online más leídos de Argentina, me cedió un espacio para escribir sobre tecnología. Dentro de esa área, la temática era de mi elección. En ese tiempo ya notaba como nuestros hábitos de navegación estaban cambiando, ya no ingresábamos una URL de nuestra página favor"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "483. Cuando anochece",
     "link": "https://lamadredelpatonegro.blogspot.com/2025/10/483-cuando-anochece.html",
@@ -588,20 +574,6 @@
     "contenido": "El enorme éxito del método científico en los últimos cientos de años nos ha llevado a pensar que todo lo que existe debe ser físico y medible. Pero esa idea excluye algo fundamental: la experiencia consciente. Esta no solo existe, sino que es una parte esencial de la realidad, y cualquier intento se"
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Cómo convertir la base de datos de Home Assistant a MariaDB",
-    "link": "https://voidnull.es/como-convertir-la-base-de-datos-de-home-assistant-a-mariadb/",
-    "fecha": "30/10/2025",
-    "contenido": "Mejora el rendimiento de Home Assistant migrando de SQLite a MariaDB de forma sencilla."
-  },
-  {
-    "blog": "zona de confort",
-    "titulo": "HTML básico (1)",
-    "link": "https://sopadeletras.club/efmorell/html-basico-1",
-    "fecha": "30/10/2025",
-    "contenido": ""
-  },
-  {
     "blog": "La Paradoja del Cero y el Uno",
     "titulo": "Quiero Ser Tu Texto Plano",
     "link": "https://docig.bearblog.dev/quiero-ser-tu-texto-plano/",
@@ -609,24 +581,10 @@
     "contenido": "El bibliotecario, Varamo, no era un hombre de grandes pasiones, salvo quizás por el insomnio y la Biblioteca de Babel, ese universo fractal donde todo era, paradójicamente, una repetición estéril de lo mismo. Pero su obsesión más reciente, la que lo consumía en las madrugadas silenciosas, era el anh"
   },
   {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Madrugones",
-    "link": "https://www.xn--jmuoz-qta.es/2025/10/madrugones.html",
-    "fecha": "30/10/2025",
-    "contenido": "Si no me gustase mi trabajo, aunque este año esté en el quinto coño, se me harían insoportables estos madrugones, de estar a las cinco de la mañana preparando lo que voy a hacer a las ocho de la mañana.La luna vino a la fraguacon su polisón de nardos.El niño la mira mira.El niño la está mirando."
-  },
-  {
     "blog": "",
     "titulo": "William Ian Millar voz de los legendarios The Irish Rovers se presenta en Sláinte.",
     "link": "https://mundoceltamedieval.wordpress.com/2025/10/30/william-ian-millar-voz-de-los-legendarios-the-irish-rovers-se-presenta-en-slainte/",
     "fecha": "30/10/2025",
     "contenido": "Vuelve a Argentina William Ian Millar voz de los legendarios The Irish Rovers y se presenta en vivo y en exclusivo en Sláinte Irish Pub festejando nuestro 11 aniversario!!! El 18, 19 y 20 de Diciembre."
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Entornos reproducibles con Nix + Docker en GNU/Linux",
-    "link": "https://www.ochobitshacenunbyte.com/2025/10/30/entornos-reproducibles-con-nix-docker-en-gnu-linux/",
-    "fecha": "30/10/2025",
-    "contenido": "Uno de los grandes retos en desarrollo y operaciones es la fiabilidad. ¿Cuántas veces hemos oído aquello de “en mi máquina funciona”? Aunque Docker ayudó mucho a estandarizar entornos, todavía existen problemas: imágenes demasiado&#46;&#46;&#46;\nLa entrada Entornos reproducibles con Nix + Docker en "
   }
 ]
