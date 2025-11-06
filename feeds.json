@@ -1,6 +1,20 @@
 [
   {
     "blog": "--el Profe Juan--",
+    "titulo": "Qué raro?",
+    "link": "https://elprofejuan.com.ar/qu%C3%A9-raro",
+    "fecha": "05/11/2025",
+    "contenido": "No se si comenté por acá, estoy haciendo un trayecto en la universidad sobre IA y Educación, y ya viene el final (es un cuatrimestre).\n"
+  },
+  {
+    "blog": "--el Profe Juan--",
+    "titulo": "Jugando con las Fotos",
+    "link": "https://elprofejuan.com.ar/jugando-con-las-fotos",
+    "fecha": "05/11/2025",
+    "contenido": "Estamos haciendo los primeros palitos en esto de la fotografía con celular.\n"
+  },
+  {
+    "blog": "--el Profe Juan--",
     "titulo": "Otro servicio que no puedo hacer andar... y van?",
     "link": "https://elprofejuan.com.ar/otro-servicio-que-no-puedo-hacer-andar-y-van",
     "fecha": "05/11/2025",
@@ -21,11 +35,46 @@
     "contenido": "Tengo un pequeño lunar en la mano derecha. Me parece bastante mono, creo que da personalidada mi mano. Mi sobrina, en cambio, parece que no opina lo mismo. Cuando estuve con ella hace un par de semanas empezó a señalarlo y a decir «pupa, pupa». Acto seguido se fue hacia mi padre, su abuelo, y le rep"
   },
   {
+    "blog": "Blog de Thalskarth",
+    "titulo": "No se guardar borradores",
+    "link": "https://blog.thalskarth.ar/no-se-guardar-borradores/",
+    "fecha": "05/11/2025",
+    "contenido": "Eso, solo una reflexión hiper corta. Escribo un borrador para el blog, y ya quiero publicarlo. Escribo 3 pensando en tener contenido para que salgan, al menos, uno por semana y la ansiedad me hace querer publicar todo en el día."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Agobio",
+    "link": "https://jinversor.co/2025/11/agobio/",
+    "fecha": "05/11/2025",
+    "contenido": "Dándome una pasadita por el blog de Manu Mateos encontré un post que sintetiza el insoportable agobio que siento cada vez que ingreso a un sitio web mierdificado (o sea [&#8230;]\nLa entrada Agobio se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Remember remember the 5th of November",
+    "link": "https://jinversor.co/2025/11/remember-remember-the-5th-of-november/",
+    "fecha": "05/11/2025",
+    "contenido": "Hoy se cumplen 420 años desde que un grupo de conspiradores católicos liderados por Robert Catesby intentaran dinamitar el Parlamento británico para asesinar al rey Jacobo I y restaurar el [&#8230;]\nLa entrada Remember remember the 5th of November se publicó primero en Jinversor."
+  },
+  {
     "blog": "plr blog",
     "titulo": "Desactivando la incrustación de vídeos de youtube en Moodle",
     "link": "https://pedrolr.es/blog/desactivando-la-incrustacion-de-videos-de-youtube-en-moodle/",
     "fecha": "05/11/2025",
     "contenido": "Hay una cosa que siempre me ha molestado de Moodle. Cuando metes un enlace de un vídeo de Youtube, lo incrusta ya en el mensaje y se ve el cuadrado del vídeo y no el enlace. Me acaba de pasar en un foro. Estaba compartiendo el documental de Aaron Swartz porque lo he propuesto para [&#8230;]"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Changelog: Channel2RSS 22 de octubre de 2025",
+    "link": "https://interlan.ec/2025/11/05/changelog-channel2rss-22-de-octubre-de-2025/",
+    "fecha": "05/11/2025",
+    "contenido": "Channel2rss ha tenido algunas mejoras hasta el momento de registro de 22 de octubre de 2025 Introducción Aprovechando Channel2RSS como herramienta de estudio, he estado investigando como funciona el despliegue de software basado en PHP en la actualidad. No he completado grandes proyectos en este len"
+  },
+  {
+    "blog": "El Sueño del Artista Blog",
+    "titulo": "ASCII : arte de codigos .",
+    "link": "https://polotman.wordpress.com/2025/11/05/ascii-arte-de-codigos/",
+    "fecha": "05/11/2025",
+    "contenido": "#Arte #ASCII #arteDigital #Blog #ElSueñodelArtista El arte ASCII se basa en la union de carácteres o codigos que llevan el propio nombre hasta formar una imagen en computadora que en un principo estos códigos fue creado para la telegrafia , casualmente manteniendo una especie de juegos de palabras c"
   },
   {
     "blog": "pov – matizeta",
@@ -35,11 +84,11 @@
     "contenido": "Hace unos días (a fines del mes pasado), Canva anunciaba que Affinity pasaba de ser pago a un modelo completamente gratuito. Affinity es un paquete de productos creativos, que fue adquirido por Canva a comienzos del 2024. A poco más de un año, la empresa anuncia la gratitud del mismo (con la posibil"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Sobreviví al upgrade de Proxmox 8 a 9",
-    "link": "https://altgr.xyz/2025/11/05/sobrevivi-al-upgrade-de-proxmox-8-a-9/",
+    "blog": "danielaragay.net",
+    "titulo": "El evento del año en la empresa",
+    "link": "https://blog.danielaragay.net/el-evento-del-ano-en-la-empresa/",
     "fecha": "05/11/2025",
-    "contenido": "El momento más temido de todo selfhoster se llama upgrade. Especialmente cuando se trata del sistema operativo que soporta todo tu sistema. Y sí, ha llegado ese momento para mí. Uso Proxmox en mi servidor casero. Es un sistema operativo basado en Debian, especializado en virtualización. Permite un m"
+    "contenido": "Ayer se celebr&#xf3; el evento del a&#xf1;o en la empresa, el llamado V&#xed;deo Summit, donde uno de nuestros colaboradores tuvo una horrible experiencia.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendo"
   },
   {
     "blog": "_ voidNull",
@@ -54,6 +103,27 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/05/20251105-jardines-digitales-2025/",
     "fecha": "05/11/2025",
     "contenido": "Hay quien lo emplea como forma de trabajo personal, y algunos lo han tomado como una evolución de lo que era el blog"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "Lanzador Android de terceros retro y nostálgico",
+    "link": "https://docig.bearblog.dev/lanzador-android-de-terceros-retro-y-nostalgico/",
+    "fecha": "05/11/2025",
+    "contenido": "Este iniciador gratuito hace que tu Android se parezca a Windows XP y es fantástico . Hace 2 semanas lo uso y es fluido no tiene errores por ahora.\nSe ve y se siente como XP.\nTambien recrea :\nWindows 95/98\nWindows 2000/ME\nWindows XP\nWindows Vista\nViene con :\nWinamp: reproduce archivos MP3 locales\nBl"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "Lanzador Android de terceros retro y nostálgico",
+    "link": "https://docig.mataroa.blog/blog/lanzador-android-de-terceros-retro-y-nostalgico/",
+    "fecha": "05/11/2025",
+    "contenido": "Este iniciador gratuito hace que tu Android se parezca a Windows XP y es fantástico . Hace 2 semanas lo uso y es fluido no tiene errores por ahora. Se ve y se siente como XP. También recrea : Windows 95/98 Windows 2000/ME Windows XP Windows Vista Viene con : Winamp: reproduce archivos MP3 locales Bl"
+  },
+  {
+    "blog": "",
+    "titulo": "Eventos.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/11/05/eventos-47/",
+    "fecha": "05/11/2025",
+    "contenido": ""
   },
   {
     "blog": "brucknerite",
@@ -103,13 +173,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2025/11/484-sarita-y-su-transportin-rosa.html",
     "fecha": "04/11/2025",
     "contenido": "&nbsp; &nbsp; El día que Sarita cumplió los diez años de edad, salió a jugar a la calle con un transportín rosa. Era la primera vez que sacaba a relucir aquel habitáculo. Pese a que era de metal, estaba provisto de cuatro ruedas directrices y un asa ajustable de la que tirar para su fácil desplazami"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Linkin Park From Zero en el Estadio Nacional",
-    "link": "https://altgr.xyz/2025/11/03/linkin-park-from-zero-en-el-estadio-nacional/",
-    "fecha": "04/11/2025",
-    "contenido": "Traigo algunas fotos de pésima calidad del concierto de Linkin Park este domingo en el Estadio Nacional. Parte de la etapa sudamericana de la gira «From Zero». La banda de Mike Shinoda se presentó por tercera vez en Chile. Esta vez con Emily Armstrong en la voz, reemplazando a Chester Bennington. &#"
   },
   {
     "blog": "_ voidNull",
@@ -326,7 +389,7 @@
     "titulo": "Esperando a la Alpha 7 V",
     "link": "https://impermanente.es/2025/11/01/esperando-a-la-alpha-v.html",
     "fecha": "01/11/2025",
-    "contenido": "La Sony Alpha 7 II, aunque sigue sacando fotos espectaculares, ya tiene muchas carencias que los modelos más modernos incluyen.\nMuchos pensaron que la Alpha 7 V se iba a lanzar el mes pasado en Barcelona, pero no fue así. A ver si la lanzan pronto, no porque quiera el último modelo, sino porque la A"
+    "contenido": "La Sony Alpha 7 II, aunque sigue tomando fotos espectaculares, ya tiene muchas carencias que los modelos más modernos incluyen.\nMuchos pensaron que la Alpha 7 V se iba a lanzar el mes pasado en Barcelona, pero no fue así. A ver si la lanzan pronto, no porque quiera el último modelo, sino porque la A"
   },
   {
     "blog": "zona de confort",
@@ -553,13 +616,6 @@
     "contenido": "Si no me gustase mi trabajo, aunque este año esté en el quinto coño, se me harían insoportables estos madrugones, de estar a las cinco de la mañana preparando lo que voy a hacer a las ocho de la mañana.La luna vino a la fraguacon su polisón de nardos.El niño la mira mira.El niño la está mirando."
   },
   {
-    "blog": "La cosa infinita",
-    "titulo": "El procesador de texto",
-    "link": "https://docig.mataroa.blog/blog/el-procesador-de-texto/",
-    "fecha": "30/10/2025",
-    "contenido": "No es que lo notara al principio. Nadie nota, en realidad, los primeros roces del intersticio. El aire del estudio, denso y con sabor a café rancio y nicotina, era perfecto para la gestación de ese tipo de ceguera. Ernesto, que se dedicaba a la minuciosa labor de transcribir entrevistas –voces quebr"
-  },
-  {
     "blog": "",
     "titulo": "William Ian Millar voz de los legendarios The Irish Rovers se presenta en Sláinte.",
     "link": "https://mundoceltamedieval.wordpress.com/2025/10/30/william-ian-millar-voz-de-los-legendarios-the-irish-rovers-se-presenta-en-slainte/",
@@ -572,54 +628,5 @@
     "link": "https://www.ochobitshacenunbyte.com/2025/10/30/entornos-reproducibles-con-nix-docker-en-gnu-linux/",
     "fecha": "30/10/2025",
     "contenido": "Uno de los grandes retos en desarrollo y operaciones es la fiabilidad. ¿Cuántas veces hemos oído aquello de “en mi máquina funciona”? Aunque Docker ayudó mucho a estandarizar entornos, todavía existen problemas: imágenes demasiado&#46;&#46;&#46;\nLa entrada Entornos reproducibles con Nix + Docker en "
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Guerrilla Open Access Manifesto",
-    "link": "https://jinversor.co/2025/10/guerrilla-open-access-manifesto/",
-    "fecha": "29/10/2025",
-    "contenido": "El Guerrilla Open Access Manifesto o Manifiesto por la Guerrilla del Acceso Abierto es una proclama escrita por el activista y programador estadounidense Aaron Swartz en julio de 2008. El [&#8230;]\nLa entrada Guerrilla Open Access Manifesto se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Diez cosas sobre mí",
-    "link": "https://www.macram.es/posts/2025-10-29-diez-cosas-sobre-mi/",
-    "fecha": "29/10/2025",
-    "contenido": "Cuánto tiempo sin hacer algo como esto en el blog. He visto en el (para mi gusto excelente) blog de James un post mencionando diez detalles sobre él mismo, viniendo de una propuesta del blog Forking Mad. Y, como no se me ocurre ninguna idea mejor y seguir este tipo de tendencias es sencillo, allá va"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "La máquina no está rota",
-    "link": "https://impermanente.es/2025/10/29/la-mquina-no-est-rota.html",
-    "fecha": "29/10/2025",
-    "contenido": "En ingeniería de sistemas existe un concepto llamado POSIWID, que son las siglas en inglés de &ldquo;the purpose of a system is what it does&rdquo;. Esto quiere decir que un sistema nunca está equivocado, un sistema hace siempre aquello para lo que fue diseñado. Puede no ser el resultado que querías"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Aventuras en blanco y negro",
-    "link": "https://www.ericafustero.com/2025-10-aventuras-en-blanco-y-negro",
-    "fecha": "29/10/2025",
-    "contenido": "No soy muy fan de las cámaras de apuntar y disparar. Me gusta saber a qué estoy enfocando, qué va a salir en el encuadre y tener cierto control durante el proceso. Además, la experiencia de usarlas me suele dejar un poco fría. Un clic ¿y ya está? Sin duda prefiero usar cámaras con más [&#8230;]"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Carlos Mazón",
-    "link": "https://www.xn--jmuoz-qta.es/2025/10/carlos-mazon.html",
-    "fecha": "29/10/2025",
-    "contenido": "Un año hace de la DANA que asoló Valencia y el sinistro Mazón sigue en el cargo. Un presidente del Partido Popular que es incapaz de hacer que dimita no merece ser presidente del Gobierno de España y esa inmovilidad puede costarle las elecciones.Mazón, dimisión."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Hoy ya sí es otoño",
-    "link": "https://www.xn--jmuoz-qta.es/2025/10/hoy-ya-si-es-otono.html",
-    "fecha": "29/10/2025",
-    "contenido": "Llevo hablando de inicios desde el 1 de septiembre, de cambio de estación desde que entró el otoño... pero, verán ustedes, ya sí que es otoño de verdad. No solo porque los puestos de castañas se hayan instalado por fin en la ciudad, es que por fin hace frío por la mañana, es que por fin está llovien"
-  },
-  {
-    "blog": "",
-    "titulo": "Eventos.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/10/29/eventos-45/",
-    "fecha": "29/10/2025",
-    "contenido": ""
   }
 ]
