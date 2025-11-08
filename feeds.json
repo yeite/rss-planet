@@ -63,13 +63,6 @@
     "contenido": "El tutorial de hoy es sencillo y se puede realizar con unos cuantos comandos. Claro, si estas usando una GUI para MySQL no lo necesitarás, pero bueh, es otra cosa que es bueno aprender Introducción Esta es una tarea súper puntual que surgió por la necesidad de reparar una tabla que no conozco, pero "
   },
   {
-    "blog": "Escritos en la nube",
-    "titulo": "¿Por qué sigo escribiendo?",
-    "link": "https://nube.codeberg.page/blog/escribo/",
-    "fecha": "07/11/2025",
-    "contenido": "Hace años escribí un poema llamado &ldquo;Escribo&rdquo;, que era una especie de declaración o manifiesto, donde dejaba claras mis razones para hacerlo. &ldquo;Escribo porque puedo&rdquo; decía en una de las lineas, es algo muy simple, realmente tonto, pero, no me parece una mala linea, escribo porq"
-  },
-  {
     "blog": "pov – matizeta",
     "titulo": "Mis primeros AirPods",
     "link": "https://matizeta.com/2025/11/07/mis-primeros-airpods/",
@@ -120,17 +113,17 @@
   },
   {
     "blog": "La cosa infinita",
-    "titulo": "La Tiranía de la Fuente",
-    "link": "https://docig.mataroa.blog/blog/la-tirania-de-la-fuente/",
-    "fecha": "07/11/2025",
-    "contenido": "El pobre de Don Evaristo, un ex contable jubilado con el alma tan pulcra como sus balances de 1983, cayó en la grieta digital de la manera más inesperada: a través de la serifa.\nAl principio era inocente. Reenviaba esos memes de buenos días a sus contactos con la tipografía por defecto de su smartph"
-  },
-  {
-    "blog": "La cosa infinita",
     "titulo": "La tabla ASCII original (7 bits)",
     "link": "https://docig.mataroa.blog/blog/la-tabla-ascii-original-7-bits/",
     "fecha": "07/11/2025",
     "contenido": "| Fila \\ Columna | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 || 0 | NUL | DLE | SP | 0 | @ | P | ` | p || 1 | SOH | DC1 | ! | 1 | A | Q | a | q || 2 | STX | DC2 | \" | 2 | B | R | b | r || 3 | ETX | DC3 | # | 3 | C | S | c | s || 4 | EOT | DC4 | $ | 4 | D | T | d | t || 5 | ENQ | NAK | % | 5 | E | U | e | u || 6"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "La Tiranía de la Fuente",
+    "link": "https://docig.mataroa.blog/blog/la-tirania-de-la-fuente/",
+    "fecha": "07/11/2025",
+    "contenido": "El pobre de Don Evaristo, un ex contable jubilado con el alma tan pulcra como sus balances de 1983, cayó en la grieta digital de la manera más inesperada: a través de la serifa.\nAl principio era inocente. Reenviaba esos memes de buenos días a sus contactos con la tipografía por defecto de su smartph"
   },
   {
     "blog": "",
@@ -567,13 +560,6 @@
     "contenido": "Una selección de mis paseos de octubre por Barcelona centro, Calella y L'Hospitalet de Llobregat con la Ricoh GRIIIx. Eso sí, si quieres ver mis favoritas de este mes, pásate por los dos posts de Madrid que compartí hace unos días: este del domingo que fui al Rastro y este otro con un batiburrillo d"
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Lecturas en Octubre de 2025",
-    "link": "https://mcallus.net/2025/11/01/lecturas-en-octubre-de-2025/",
-    "fecha": "01/11/2025",
-    "contenido": "Este mes he leído 2 ensayos, 3 tomitos trimestrales (de los que contienen tres grapas americanas) y 2 grapas. Esta vez no me ha quitado tiempo ningún videojuego, simplemente es que entre un libro que no he terminado aún y que he escrito bastante pues el tiempo es el que es. Noviembre imagino que irá"
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "Bon vent i barca nova",
     "link": "https://mareosdeungeek.es/bon-vent-i-barca-nova/",
@@ -593,12 +579,5 @@
     "link": "https://impermanente.es/2025/11/01/esperando-a-la-alpha-v.html",
     "fecha": "01/11/2025",
     "contenido": "La Sony Alpha 7 II, aunque sigue tomando fotos espectaculares, ya tiene muchas carencias que los modelos más modernos incluyen.\nMuchos pensaron que la Alpha 7 V se iba a lanzar el mes pasado en Barcelona, pero no fue así. A ver si la lanzan pronto, no porque quiera el último modelo, sino porque la A"
-  },
-  {
-    "blog": "zona de confort",
-    "titulo": "HTML básico (2)",
-    "link": "https://sopadeletras.club/efmorell/html-basico-2",
-    "fecha": "01/11/2025",
-    "contenido": ""
   }
 ]
