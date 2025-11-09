@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>¡Blog!¡Blog!</title>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="estilos.css" />
+    </head>
+    <body>
+        <!-- header externo -->
+        <div id="header-placeholder"></div>
+
+        <script>
+            // Cargar header desde un archivo externo
+            fetch("header.html")
+                .then((response) => response.text())
+                .then((data) => {
+                    document.getElementById("header-placeholder").innerHTML =
+                        data;
+                })
+                .catch((err) =>
+                    console.error("Error al cargar header.html:", err),
+                );
+        </script>
+
+        <main>
+            <p>
+                Mirá lo que estuvieron publicando los blogs del
+                <a href="https://blogblog.es/directorio.html">directorio</a> en
+                la semana
+            </p>
+            <br />
+            <div id="contenedor"></div>
+        </main>
+
+        <!-- Footer externo -->
+        <div id="footer-placeholder"></div>
+
+        <script>
+            // Cargar footer desde un archivo externo
+            fetch("footer.html")
+                .then((response) => response.text())
+                .then((data) => {
+                    document.getElementById("footer-placeholder").innerHTML =
+                        data;
+                })
+                .catch((err) =>
+                    console.error("Error al cargar footer.html:", err),
+                );
+        </script>
+
+        <script>
+            fetch("feeds.json")
+                .then((res) => res.json())
+                .then((data) => {
+                    const cont = document.getElementById("contenedor");
+                    data.forEach((item) => {
+                        cont.innerHTML += `
+            <div class="item">
+              <span class="blog">${item.blog}</span>
+              <span class="fecha">${item.fecha}</span>
+              <a href="${item.link}" target="_blank">${item.titulo}</a>
+              <p class="contenido">${item.contenido}...</p>
+            </div>`;
+                    });
+                });
+        </script>
+    </body>
+</html>
