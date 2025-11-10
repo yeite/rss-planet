@@ -1,5 +1,26 @@
 [
   {
+    "blog": "THE_CHEI$",
+    "titulo": "Yo, robot",
+    "link": "https://thecheis.com/2025/11/10/yo-robot/",
+    "fecha": "10/11/2025",
+    "contenido": "Hace unos años, cuando vi las demostraciones de Boston Dynamics con su robot Atlas, supe que estaba ante un avance importante de la tecnología. Ese humanoide mecánico rozaba la ciencia ficción: sus movimientos eran increíbles, parecía irreal. Pero, aunque era obvio que existía margen de mejora, no e"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Microreflexiones: El miedo detrás de la violencia",
+    "link": "https://blog.danielaragay.net/microreflexiones-el-miedo-detras-de-la-violencia/",
+    "fecha": "10/11/2025",
+    "contenido": "Cuando alguien recurre a la violencia &#x2014;ya sea f&#xed;sica o verbal&#x2014; para imponer sus ideas, en realidad est&#xe1; demostrando su propia inseguridad. Porque si de verdad creyera en la solidez de sus pensamientos, no necesitar&#xed;a forzar, amenazar ni humillar. La violencia aparece cua"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de instancia de Peertube en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-instancia-de-peertube-en-debian-13/",
+    "fecha": "10/11/2025",
+    "contenido": "PeerTube es una aplicación web de software libre, descentralizada, federada y que usa la tecnología peer-to-peer para reducir la carga de los servidores individuales al visualizar videos."
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Blogroll",
     "link": "https://jinversor.co/2025/11/blogroll/",
@@ -511,39 +532,11 @@
     "contenido": "Si están leyendo esta nota, significa que mi cuerpo decidió irse con mi permiso. Fueron días de luchar por ese gramo de energía, sobrevivir al rayo del sol, en una roca de pocos metros y nada más que una inmensidad oceánica alrededor. Fueron días de ver gaviotas pasar a los lejos, esperando algún in"
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Ejercicios de clase Semana 7 del Taller de Escritura Creativa Librería Luces 2025/2026",
-    "link": "https://mcallus.net/2025/11/03/ejercicios-de-clase-semana-7-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
-    "fecha": "03/11/2025",
-    "contenido": "Esta semana fuimos solo cuatro en el taller (de seis) así que tuvimos tiempo de hacer dos actividades en la clase. Se ha incorporado una compañera nueva así que aprovecho para darle la bienvenida a Irene. La primera actividad fue de escritura automática con palabras aleatorias (que la profesora nos "
-  },
-  {
-    "blog": "Proyecto para no aburrir",
-    "titulo": "Normas sociales que no entiendo",
-    "link": "https://ericdq.com/2025/11/03/normas-sociales-que-no-entiendo/",
-    "fecha": "03/11/2025",
-    "contenido": "Felicitar por el cumpleaños, dar el pésame cuando hay una muerte, invitar a una boda cuando hace mucho tiempo que no hay contacto o preguntar qué tal, entiendo el por qué se hacen, pero quizá por ser fórmulas preestablecidas no tienen sentido para mí."
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "Mi primera contribución a Raycast: Añadiendo Notas a Raindrop.io",
     "link": "https://blog.luiscarlospando.com/coding/2025/11/mi-primera-contribucion-a-raycast-anadiendo-notas-a-raindrop-io/",
     "fecha": "03/11/2025",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Rey y conquistador (HBO)",
-    "link": "https://mareosdeungeek.es/rey-y-conquistador-hbo/",
-    "fecha": "03/11/2025",
-    "contenido": "Rey y conquistador es una miniserie de BBC One que puede verse en España a través de HBO Max. Está protagonizada por James Norton y Nikolaj Coster-Waldau (Jaime Lannister en Juego de tronos) Entre el reparto y la temática no he podido evitar ver sus 8 episodios (aunque se han ido emitiendo semanalme"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Acceso remoto a nuestro NAS y red doméstica",
-    "link": "https://alt43.es/acceso-remoto-a-nuestro-nas-y-red-domestica/",
-    "fecha": "03/11/2025",
-    "contenido": "Tras adquirir un equipo NAS de la marca Ugreen, se me planteó la cuestión de cómo acceder a&#46;&#46;&#46;"
   },
   {
     "blog": "danielaragay.net",
@@ -560,13 +553,6 @@
     "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
   },
   {
-    "blog": "Bitácora de fernand0",
-    "titulo": "La forma en que programamos va a cambiar",
-    "link": "https://blog.elmundoesimperfecto.com/2025/11/03/fin-programacion/",
-    "fecha": "03/11/2025",
-    "contenido": "\n\nEn The End of Programming as We Know It una discusión sobre el tema que está más o menos en un montón de sitios relacionados con el tema: desde los que dicen que ya no vale la pena aprender porque lo harán las máquinas por nosotros a los de esto solo produce problemas y desastres, con todas las gr"
-  },
-  {
     "blog": "fernand0 @ GitHub.io",
     "titulo": "Código generado con IAs y seguridad: necesita mejorar",
     "link": "https://fernand0.github.io//codigo-seguro-ia/",
@@ -579,20 +565,6 @@
     "link": "https://seyker.eu/bala-perdida-darren-aronofsky-90/",
     "fecha": "03/11/2025",
     "contenido": "Aronofsky es un tipo muy peculiar, salió de una de las propuestas indies más “indie” que uno pueda echar en cara, con una película en blanco y negro en 16mm con un grano tremendo, dejando claro desde su propia textura toda su identidad, a eso le sumamos la historia de un hombre que desciende a [&#82"
-  },
-  {
-    "blog": "zona de confort",
-    "titulo": "HTML básico (3)",
-    "link": "https://sopadeletras.club/efmorell/html-basico-3",
-    "fecha": "03/11/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Simulacro de la Isla Perfecta",
-    "link": "https://docig.bearblog.dev/el-simulacro-de-la-isla-perfecta/",
-    "fecha": "03/11/2025",
-    "contenido": "Pérez, con su aire de oficinista que ha leído demasiada filosofía barata, se había resignado a que la vida moderna era, esencialmente, una gestión de la duplicidad. Pero su interés no se centró en la duplicidad ética, que le parecía vulgar, sino en la duplicidad técnica.\nTodo comenzó con un bot de T"
   },
   {
     "blog": "",
