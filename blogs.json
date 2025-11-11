@@ -1,5 +1,13 @@
 [
   {
+    "Nombre": "Jinversor",
+    "Url": "https://jinversor.co/",
+    "Feed": "https://jinversor.co/feed/",
+    "Descripción": "Hablo sobre inversiones, finanzas personales, ciberseguridad, software libre, libertarismo y minimalismo digital.",
+    "Categoría": "Tecnología, Sociedad y Economía",
+    "País": "Colombia"
+  },
+  {
     "Nombre": "Luis Carlos Pando",
     "Url": "https://luiscarlospando.com",
     "Feed": "https://blog.luiscarlospando.com/rss/",
@@ -7,6 +15,14 @@
     "Categoría": "Tecnología, Arte y Diseño, Entretenimiento y Cultura, Fotografía, Newsletter, Vida Diaria",
     "País": "México",
     "Aliado": "si"
+  },
+  {
+    "Nombre": "culturavisual.cc",
+    "Url": "https://culturavisual.cc",
+    "Feed": "https://culturavisual.cc/feed/https://culturavisual.cc/feed/",
+    "Descripción": "culturavisual.cc es un blog de análisis y compartición de textos, materiales y recursos educativos vinculados a explorar las conexiones entre el arte y la educación y las formas de articulación posibles del pensamiento artístico. Es un proyecto personal de Ricard Ramon.",
+    "Categoría": "Arte y Diseño, Fotografía",
+    "País": "España"
   },
    {
     "Nombre": "Malagueños originales y libres",
@@ -292,14 +308,6 @@
     "Categoría": "Tecnología, Entretenimiento y Cultura",
     "País": "Argentina",
     "Aliado": "si"
-  },
-  {
-    "Nombre": "Jinversor",
-    "Url": "https://jinversor.co/",
-    "Feed": "https://jinversor.co/feed/",
-    "Descripción": "Hablo sobre inversiones, finanzas personales, ciberseguridad, software libre, libertarismo y minimalismo digital.",
-    "Categoría": "Tecnología, Sociedad y Economía",
-    "País": "Colombia"
   },
   {
     "Nombre": "Mi perra vida",
