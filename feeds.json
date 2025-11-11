@@ -7,6 +7,27 @@
     "contenido": "Paquete de Libros de Linux para Profesionales"
   },
   {
+    "blog": "Un bruto con Debian",
+    "titulo": "Clonando equipos con Clonezilla",
+    "link": "http://unbrutocondebian.blogspot.com/2025/11/clonando-equipos-con-clonezilla.html",
+    "fecha": "11/11/2025",
+    "contenido": "&nbsp;Tenia que clonar un equipo. En este caso era un equipo con Windows y logré encontrar un programa que prometía clonar el disco duro desde el propio Windows. Solo tenia dos problemillas, hay que reiniciar el equipo y el programa trabaja antes de volver a cargar el escritorio y los servicios, con"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "486. Después de la muerte",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/11/486-despues-de-la-muerte.html",
+    "fecha": "11/11/2025",
+    "contenido": "&nbsp; &nbsp; Un nuevo cadáver se acercó y se colocó junto a mí. El recién llegado todavía estaba en un estado, digamos, aceptable. Lo cual me hizo pensar que llevaba un par de horas muerto; tres a lo sumo. Su cara, pese a estar inanimada, también reflejaba desengaño. Lo mismo que la faz de sus ante"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Kener en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-kener-en-d/",
+    "fecha": "11/11/2025",
+    "contenido": "Instala Kener en Debian 13 con Docker y crea tu propia página de estado moderna, ligera y totalmente autohospedada."
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "Yo, robot",
     "link": "https://thecheis.com/2025/11/10/yo-robot/",
@@ -26,6 +47,34 @@
     "link": "https://blog.danielaragay.net/microreflexiones-el-miedo-detras-de-la-violencia/",
     "fecha": "10/11/2025",
     "contenido": "Cuando alguien recurre a la violencia &#x2014;ya sea f&#xed;sica o verbal&#x2014; para imponer sus ideas, en realidad est&#xe1; demostrando su propia inseguridad. Porque si de verdad creyera en la solidez de sus pensamientos, no necesitar&#xed;a forzar, amenazar ni humillar. La violencia aparece cua"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Fauna Primavera 2025: Massive Attack",
+    "link": "https://altgr.xyz/2025/11/10/fauna-primavera-2025-massive-attack/",
+    "fecha": "10/11/2025",
+    "contenido": "El show más esperado de la jornada: Massive Attack. Cautivaron al público con su trip hop y un espectáculo visual que llama a tomar consciencia de los males y conflictos actuales en el mundo. Elizabeth Fraser, la ex cantante de Cocteau Twins, fue la invitada estelar de la jornada, quien tomó el rol "
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Fauna Primavera 2025: Bloc Party",
+    "link": "https://altgr.xyz/2025/11/10/fauna-primavera-2025-bloc-party/",
+    "fecha": "10/11/2025",
+    "contenido": "Los británicos Bloc Party, en su primera visita a Chile, se encargaron de encender la noche con rock bailable, celebrando 20 años de su disco debut, Silent Alarm."
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Fauna Primavera 2025: Aurora",
+    "link": "https://altgr.xyz/2025/11/10/fauna-primavera-2025-aurora/",
+    "fecha": "10/11/2025",
+    "contenido": "Aurora Aksnes, otra joven artista que se presentó la tarde de sábado en el Parque Ciudad Empresarial. Su dulce voz y gran carisma logran seducir a cualquier público."
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Fauna Primavera 2025: Tash Sultana",
+    "link": "https://altgr.xyz/2025/11/10/fauna-primavera-2025-tash-sultana/",
+    "fecha": "10/11/2025",
+    "contenido": "La australiana Tash Sultana fue el primer show que vi en la edición de este año de Fauna Primavera. Una multiinstrumentista joven, con mucho talento y una voz conmovedora."
   },
   {
     "blog": "_ voidNull",
@@ -208,13 +257,6 @@
     "link": "https://interlan.ec/2025/11/07/tutorial-buscar-columna-en-todas-las-bases-de-datos/",
     "fecha": "07/11/2025",
     "contenido": "El tutorial de hoy es sencillo y se puede realizar con unos cuantos comandos. Claro, si estas usando una GUI para MySQL no lo necesitarás, pero bueh, es otra cosa que es bueno aprender Introducción Esta es una tarea súper puntual que surgió por la necesidad de reparar una tabla que no conozco, pero "
-  },
-  {
-    "blog": "Escritos en la nube",
-    "titulo": "¿Por qué sigo escribiendo?",
-    "link": "https://nube.codeberg.page/blog/escribo/",
-    "fecha": "07/11/2025",
-    "contenido": "Hace años escribí un poema llamado &ldquo;Escribo&rdquo;, que era una especie de declaración o manifiesto, donde dejaba claras mis razones para hacerlo. &ldquo;Escribo porque puedo&rdquo; decía en una de las lineas, es algo muy simple, realmente tonto, pero, no me parece una mala linea, escribo porq"
   },
   {
     "blog": "pov – matizeta",
@@ -476,20 +518,6 @@
     "contenido": ""
   },
   {
-    "blog": "brucknerite",
-    "titulo": "El gran final",
-    "link": "https://brucknerite.net/2025/11/el-gran-final.html",
-    "fecha": "04/11/2025",
-    "contenido": "Ahora sí: hemos llegado al final de las aventuras de nuestro simpático maquinista Johnnie Gray. A lo largo —a lo muy largo— de once artículos hemos seguido sus aventuras y desventuras mientras intenta rescatar su locomotora de las garras de unos espías yanquis, deteniendo la mirada en la tecnología "
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – noviembre de 2025",
-    "link": "https://victorhckinthefreeworld.com/2025/11/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-noviembre-de-2025/",
-    "fecha": "04/11/2025",
-    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
     "blog": "Webnauta",
     "titulo": "Lo viejo es genial, una vez más",
     "link": "https://webnauta.blog/lo-viejo-es-genial-una-vez-mas",
@@ -511,25 +539,11 @@
     "contenido": "Actualizada el 4 de noviembre de 2025.\nInspirado por la iniciativa /uses, comparto aquí algunas de las herramientas que utilizo ahora mismo.\nViéndolas redactadas utilizo pocas cosas que se salgan de lo común, pero estoy contento con cómo utilizo mis herramientas ahora mismo.\n\n\nAplicaciones\n\n\n\n\n\n\n\n\nV"
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "Queridos Mastodontes",
-    "link": "https://matizeta.com/2025/11/04/queridos-mastodontes/",
-    "fecha": "04/11/2025",
-    "contenido": "Hoy hace exactamente un año que me uní a Mastodon, más precisamente a la instancia de&#160;masto.es&#160;(anteriormente estaba en mastodon.social pero duré unas pocas semanas por lo que no cuento esa fecha). Quien no ha oido nunca hablar de Mastodon antes, les puedo contar rápidamente que es una pla"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "484. Sarita y su transportín rosa",
     "link": "https://lamadredelpatonegro.blogspot.com/2025/11/484-sarita-y-su-transportin-rosa.html",
     "fecha": "04/11/2025",
     "contenido": "&nbsp; &nbsp; El día que Sarita cumplió los diez años de edad, salió a jugar a la calle con un transportín rosa. Era la primera vez que sacaba a relucir aquel habitáculo. Pese a que era de metal, estaba provisto de cuatro ruedas directrices y un asa ajustable de la que tirar para su fácil desplazami"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Linkwarden en Ubuntu 24.04",
-    "link": "https://voidnull.es/instalacion-de-linkwarden-en-ubuntu-24-04/",
-    "fecha": "04/11/2025",
-    "contenido": "Gestiona, organiza y archiva tus enlaces fácilmente con Linkwarden, tu gestor de marcadores autohospedado."
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
