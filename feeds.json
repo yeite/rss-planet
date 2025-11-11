@@ -1,10 +1,24 @@
 [
   {
+    "blog": "Fierro Viejo",
+    "titulo": "Libros de Linux",
+    "link": "https://fierroviejo.com/2025/11/libros-de-linux.html",
+    "fecha": "11/11/2025",
+    "contenido": "Paquete de Libros de Linux para Profesionales"
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "Yo, robot",
     "link": "https://thecheis.com/2025/11/10/yo-robot/",
     "fecha": "10/11/2025",
     "contenido": "Hace unos años, cuando vi las demostraciones de Boston Dynamics con su robot Atlas, supe que estaba ante un avance importante de la tecnología. Ese humanoide mecánico rozaba la ciencia ficción: sus movimientos eran increíbles, parecía irreal. Pero, aunque era obvio que existía margen de mejora, no e"
+  },
+  {
+    "blog": "Webnauta",
+    "titulo": "¿Simples algoritmos y procesamiento de datos?",
+    "link": "https://webnauta.blog/simples-algoritmos-y-procesamiento-de-datos",
+    "fecha": "10/11/2025",
+    "contenido": "\n      \n\n    \n      Foto de Google DeepMind en Unsplash\n    \nII. Comprendiendo la privacidad\nYuval Noah Harari concluye su libro Homo Deus con tres interrogantes clave que espera permanezcan en la mente del lector mucho después de haberlo terminado:\n¿Son en verdad los organismos sólo algoritmos y la"
   },
   {
     "blog": "danielaragay.net",
@@ -19,6 +33,34 @@
     "link": "https://voidnull.es/instalacion-de-instancia-de-peertube-en-debian-13/",
     "fecha": "10/11/2025",
     "contenido": "PeerTube es una aplicación web de software libre, descentralizada, federada y que usa la tecnología peer-to-peer para reducir la carga de los servidores individuales al visualizar videos."
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Protocolo Olvidado",
+    "link": "https://docig.bearblog.dev/el-protocolo-olvidado/",
+    "fecha": "10/11/2025",
+    "contenido": "El final de la Red no fue un apagón, sino un desplazamiento. Al principio, se creyó que era un error de sincronización, una de esas fallas mínimas que los técnicos llaman \"latencia de la existencia\". Yo noté el cambio en mi amiga Aída: su perfil, siempre una orquídea artificial de filtros y frases i"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Novedades fotográficas",
+    "link": "https://www.ericafustero.com/2025-11-novedades-fotograficas",
+    "fecha": "10/11/2025",
+    "contenido": "Hacía mucho que no publicaba post de novedades fotográficas y, por supuesto, no va a ser un post corto. Dentro encontrarás cambios en mi equipo fotográfico, charlas, exposiciones, experiencias químicas y la clásica ración de autobombo. ¡Vamos con ello! It's been a while since I wrote a photography n"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "La Invención de la Nada",
+    "link": "https://docig.mataroa.blog/blog/la-invencion-de-la-nada/",
+    "fecha": "10/11/2025",
+    "contenido": "El día en que Internet murió, no hubo cataclismo ni trompetas apocalípticas. Fue, más bien, un cese sutil, una ausencia tan elegante y definitiva como el adiós de una dama de la alta sociedad. Yo me encontraba en el escritorio, tratando de evadir a una visita inoportuna (el primo de mi mujer, un hom"
+  },
+  {
+    "blog": "",
+    "titulo": "Frase de la semana.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/11/10/frase-de-la-semana-55/",
+    "fecha": "10/11/2025",
+    "contenido": "La gente se arregla todos los días el cabello. ¿Por qué no el corazón? Proverbio chino"
   },
   {
     "blog": "Jinversor",
@@ -483,13 +525,6 @@
     "contenido": "&nbsp; &nbsp; El día que Sarita cumplió los diez años de edad, salió a jugar a la calle con un transportín rosa. Era la primera vez que sacaba a relucir aquel habitáculo. Pese a que era de metal, estaba provisto de cuatro ruedas directrices y un asa ajustable de la que tirar para su fácil desplazami"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Linkin Park From Zero en el Estadio Nacional",
-    "link": "https://altgr.xyz/2025/11/03/linkin-park-from-zero-en-el-estadio-nacional/",
-    "fecha": "04/11/2025",
-    "contenido": "Traigo algunas fotos de pésima calidad del concierto de Linkin Park este domingo en el Estadio Nacional. Parte de la etapa sudamericana de la gira «From Zero». La banda de Mike Shinoda se presentó por tercera vez en Chile. Esta vez con Emily Armstrong en la voz, reemplazando a Chester Bennington. &#"
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "Instalación de Linkwarden en Ubuntu 24.04",
     "link": "https://voidnull.es/instalacion-de-linkwarden-en-ubuntu-24-04/",
@@ -502,13 +537,6 @@
     "link": "https://docig.bearblog.dev/directorio-de-blogs-en-espanol-la-metamorfosis-de-la-mediocridad/",
     "fecha": "04/11/2025",
     "contenido": "El Directorio de Blogs en Español. ¡Ah, qué título tan terriblemente funcional! Me recuerda a esos folletos de souvenirs de Bruselas: mucha pulcritud, ninguna alma. Yo, por supuesto, no estaba buscando almas. Buscaba la toxicidad inherente a la ambición malgastada. Y el Directorio era un pozo ciego "
-  },
-  {
-    "blog": "La cosa infinita",
-    "titulo": "Directorio de Blogs en Español: Una Reescritura/Una Teoría del Nomenclator",
-    "link": "https://docig.mataroa.blog/blog/directorio-de-blogs-en-espanol-una-reescriturauna-teoria-del-nomenclator/",
-    "fecha": "04/11/2025",
-    "contenido": "El Directorio de Blogs en Español. Léanlo de nuevo, lentamente. Esas cinco palabras —cargadas de una melancolía pop que solo puede nacer de la obsolescencia digital— son en sí mismas un cuento, o al menos el trailer de una novela larga y digresiva sobre el fracaso de la memoria y la inutilidad de la"
   },
   {
     "blog": "",
@@ -530,47 +558,5 @@
     "link": "https://calaveras.bearblog.dev/un-papel-dentro-de-una-botella-en-altamar/",
     "fecha": "04/11/2025",
     "contenido": "Si están leyendo esta nota, significa que mi cuerpo decidió irse con mi permiso. Fueron días de luchar por ese gramo de energía, sobrevivir al rayo del sol, en una roca de pocos metros y nada más que una inmensidad oceánica alrededor. Fueron días de ver gaviotas pasar a los lejos, esperando algún in"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Mi primera contribución a Raycast: Añadiendo Notas a Raindrop.io",
-    "link": "https://blog.luiscarlospando.com/coding/2025/11/mi-primera-contribucion-a-raycast-anadiendo-notas-a-raindrop-io/",
-    "fecha": "03/11/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Ojo con Artlist.io y Motionarray.com, son una panda de acosadores!",
-    "link": "https://blog.danielaragay.net/ojo-con-artlist-io-y-motionarray-com-son-una-panda-de-acosadores/",
-    "fecha": "03/11/2025",
-    "contenido": "Tras trabajar con ellos, hemos decidido vetar a estas empresas por sus pr&#xe1;cticas abusivas y comunicaci&#xf3;n amenazante.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tul"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Newsletter #43 - Proxmox 9 disponible, Navidrome y #EndOf10",
-    "link": "https://voidnull.es/newsletter/newsletter-43-proxmox-9-disponible-navidrome-y-endof10/",
-    "fecha": "03/11/2025",
-    "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "Código generado con IAs y seguridad: necesita mejorar",
-    "link": "https://fernand0.github.io//codigo-seguro-ia/",
-    "fecha": "03/11/2025",
-    "contenido": "Para sopresa de nadie la pregunta surge de manera inmediata: Is Your AI-Generated Code Really Secure? y la respuesta también lo parece: si los ejemplos de los libros, los foros, y casi todo lo que hay disponible es inseguro, en general, será difícil que nada que se entrene con ello lo sea (por lo me"
-  },
-  {
-    "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
-    "titulo": "Bala Perdida, Aronofsky homenajea a los directores de su generación",
-    "link": "https://seyker.eu/bala-perdida-darren-aronofsky-90/",
-    "fecha": "03/11/2025",
-    "contenido": "Aronofsky es un tipo muy peculiar, salió de una de las propuestas indies más “indie” que uno pueda echar en cara, con una película en blanco y negro en 16mm con un grano tremendo, dejando claro desde su propia textura toda su identidad, a eso le sumamos la historia de un hombre que desciende a [&#82"
-  },
-  {
-    "blog": "",
-    "titulo": "Frase de la semana.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/11/03/frase-de-la-semana-54/",
-    "fecha": "03/11/2025",
-    "contenido": "Dí poco y dilo bien. Proverbio Irlandes."
   }
 ]
