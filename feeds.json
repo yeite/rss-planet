@@ -1,5 +1,26 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Violoncello como navegador en texto plano",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/12/20251112-violoncello/",
+    "fecha": "12/11/2025",
+    "contenido": "Navegar en texto plano tiende ventajas de velocidad y ahorra, pero tambien visibiliza el poco respeto porla accesibilidad"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Ellos dicen mierda",
+    "link": "https://jinversor.co/2025/11/ellos-dicen-mierda/",
+    "fecha": "11/11/2025",
+    "contenido": "Esta mañana mientras tomaba mi café y leía las noticias económicas la playlist reprodujo Ellos dicen mierda de La Polla Records. De inmediato pensé que el título de la canción [&#8230;]\nLa entrada Ellos dicen mierda se publicó primero en Jinversor."
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "En el callejón",
+    "link": "https://mcallus.net/2025/11/12/en-el-callejon/",
+    "fecha": "11/11/2025",
+    "contenido": "Se metieron en mi vida, intentaron decirme qué hacer, e incluso quisieron encerrarme.Si los hubiera escuchado, quizás no estaría en este callejón con una jeringuilla en el brazo. Mi vida apagándose de manera lenta e inexorable."
+  },
+  {
     "blog": "Fierro Viejo",
     "titulo": "Libros de Linux",
     "link": "https://fierroviejo.com/2025/11/libros-de-linux.html",
@@ -14,6 +35,13 @@
     "contenido": "&nbsp;Tenia que clonar un equipo. En este caso era un equipo con Windows y logré encontrar un programa que prometía clonar el disco duro desde el propio Windows. Solo tenia dos problemillas, hay que reiniciar el equipo y el programa trabaja antes de volver a cargar el escritorio y los servicios, con"
   },
   {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Siempre pasan cosas",
+    "link": "https://www.macram.es/posts/2025/11/pasan-cosas/",
+    "fecha": "11/11/2025",
+    "contenido": "Una frase que he escuchado mucho y uno de los argumentos que muchos tienen para irse del rural a una ciudad es que en las ciudades &ldquo;pasan cosas&rdquo;. Hay conciertos, hay obras de teatro, puedes salir a la calle y ver gente. Incluso a veces enciendes la televisión y en el telediario hablan de"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "486. Después de la muerte",
     "link": "https://lamadredelpatonegro.blogspot.com/2025/11/486-despues-de-la-muerte.html",
@@ -21,11 +49,25 @@
     "contenido": "&nbsp; &nbsp; Un nuevo cadáver se acercó y se colocó junto a mí. El recién llegado todavía estaba en un estado, digamos, aceptable. Lo cual me hizo pensar que llevaba un par de horas muerto; tres a lo sumo. Su cara, pese a estar inanimada, también reflejaba desengaño. Lo mismo que la faz de sus ante"
   },
   {
+    "blog": "impermanente",
+    "titulo": "Una nueva era",
+    "link": "https://impermanente.es/2025/11/11/una-nueva-era.html",
+    "fecha": "11/11/2025",
+    "contenido": ""
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalación de Kener en Debian 13",
     "link": "https://voidnull.es/instalacion-de-kener-en-d/",
     "fecha": "11/11/2025",
     "contenido": "Instala Kener en Debian 13 con Docker y crea tu propia página de estado moderna, ligera y totalmente autohospedada."
+  },
+  {
+    "blog": "",
+    "titulo": "Recomendación de la semana.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/11/11/recomendacion-de-la-semana-29/",
+    "fecha": "11/11/2025",
+    "contenido": "Nota de Mago de Oz presentando su ultimo disco malicia."
   },
   {
     "blog": "THE_CHEI$",
@@ -259,6 +301,13 @@
     "contenido": "El tutorial de hoy es sencillo y se puede realizar con unos cuantos comandos. Claro, si estas usando una GUI para MySQL no lo necesitarás, pero bueh, es otra cosa que es bueno aprender Introducción Esta es una tarea súper puntual que surgió por la necesidad de reparar una tabla que no conozco, pero "
   },
   {
+    "blog": "Escritos en la nube",
+    "titulo": "¿Por qué sigo escribiendo?",
+    "link": "https://nube.codeberg.page/blog/escribo/",
+    "fecha": "07/11/2025",
+    "contenido": "Hace años escribí un poema llamado &ldquo;Escribo&rdquo;, que era una especie de declaración o manifiesto, donde dejaba claras mis razones para hacerlo. &ldquo;Escribo porque puedo&rdquo; decía en una de las lineas, es algo muy simple, realmente tonto, pero, no me parece una mala linea, escribo porq"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Mis primeros AirPods",
     "link": "https://matizeta.com/2025/11/07/mis-primeros-airpods/",
@@ -413,20 +462,6 @@
     "contenido": "Hace unos años y, para ponerme aldía antes del estreno de «Matrix Resurrection», escribí para Perdidos en Melmac un artículo que repasaba, en riguroso orden cronológico, todas las obras del Universo que las hermanas Wachowski nos presentaron allá por 1999. Tras el estreno de aquella última entrega, "
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Pupa, pupa",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/pupa-pupa/",
-    "fecha": "05/11/2025",
-    "contenido": "Tengo un pequeño lunar en la mano derecha. Me parece bastante mono, creo que da personalidada mi mano. Mi sobrina, en cambio, parece que no opina lo mismo. Cuando estuve con ella hace un par de semanas empezó a señalarlo y a decir «pupa, pupa». Acto seguido se fue hacia mi padre, su abuelo, y le rep"
-  },
-  {
-    "blog": "Blog de Thalskarth",
-    "titulo": "No se guardar borradores",
-    "link": "https://blog.thalskarth.ar/no-se-guardar-borradores/",
-    "fecha": "05/11/2025",
-    "contenido": "Eso, solo una reflexión hiper corta. Escribo un borrador para el blog, y ya quiero publicarlo. Escribo 3 pensando en tener contenido para que salgan, al menos, uno por semana y la ansiedad me hace querer publicar todo en el día."
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Agobio",
     "link": "https://jinversor.co/2025/11/agobio/",
@@ -504,73 +539,10 @@
     "contenido": "Este iniciador gratuito hace que tu Android se parezca a Windows XP y es fantástico . Hace 2 semanas lo uso y es fluido no tiene errores por ahora.\nSe ve y se siente como XP.\nTambien recrea :\nWindows 95/98\nWindows 2000/ME\nWindows XP\nWindows Vista\nViene con :\nWinamp: reproduce archivos MP3 locales\nBl"
   },
   {
-    "blog": "La cosa infinita",
-    "titulo": "Lanzador Android de terceros retro y nostálgico",
-    "link": "https://docig.mataroa.blog/blog/lanzador-android-de-terceros-retro-y-nostalgico/",
-    "fecha": "05/11/2025",
-    "contenido": "Este iniciador gratuito hace que tu Android se parezca a Windows XP y es fantástico . Hace 2 semanas lo uso y es fluido no tiene errores por ahora. Se ve y se siente como XP. También recrea : Windows 95/98 Windows 2000/ME Windows XP Windows Vista Viene con : Winamp: reproduce archivos MP3 locales Bl"
-  },
-  {
     "blog": "",
     "titulo": "Eventos.",
     "link": "https://mundoceltamedieval.wordpress.com/2025/11/05/eventos-47/",
     "fecha": "05/11/2025",
     "contenido": ""
-  },
-  {
-    "blog": "Webnauta",
-    "titulo": "Lo viejo es genial, una vez más",
-    "link": "https://webnauta.blog/lo-viejo-es-genial-una-vez-mas",
-    "fecha": "04/11/2025",
-    "contenido": "\n      \n\n    \n      IMGBIN\n    \n Redescubriendo RSS\n\"Todas las desgracias del hombre se derivan…\". Así iniciaba esta historia, con una cita de Blaise Pascal. Durante los días de confinamiento provocados por la pandemia de COVID-19, esta frase fue utilizada con frecuencia para describir a quienes no "
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#166: la mierdificación de Internet en una parrafada",
-    "link": "https://www.macram.es/posts/2025/11/la-mierdificacion-de-internet-en-una-parrafada/",
-    "fecha": "04/11/2025",
-    "contenido": "Vía Microsiervos, a su vez vía teabree Shark, un resumen de una sensación que cada vez se extiende más y que cada vez experimentamos más al usar Internet.\n\nYoutube está lleno de anuncios, Spotify está lleno de anuncios, Tumblr está lleno de anuncios, Pinterest está lleno de anuncios. Todo utiliza in"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "¿Qué uso?",
-    "link": "https://www.macram.es/uses/",
-    "fecha": "04/11/2025",
-    "contenido": "Actualizada el 4 de noviembre de 2025.\nInspirado por la iniciativa /uses, comparto aquí algunas de las herramientas que utilizo ahora mismo.\nViéndolas redactadas utilizo pocas cosas que se salgan de lo común, pero estoy contento con cómo utilizo mis herramientas ahora mismo.\n\n\nAplicaciones\n\n\n\n\n\n\n\n\nV"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "484. Sarita y su transportín rosa",
-    "link": "https://lamadredelpatonegro.blogspot.com/2025/11/484-sarita-y-su-transportin-rosa.html",
-    "fecha": "04/11/2025",
-    "contenido": "&nbsp; &nbsp; El día que Sarita cumplió los diez años de edad, salió a jugar a la calle con un transportín rosa. Era la primera vez que sacaba a relucir aquel habitáculo. Pese a que era de metal, estaba provisto de cuatro ruedas directrices y un asa ajustable de la que tirar para su fácil desplazami"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "Directorio de Blogs en Español: La Metamorfosis de la Mediocridad",
-    "link": "https://docig.bearblog.dev/directorio-de-blogs-en-espanol-la-metamorfosis-de-la-mediocridad/",
-    "fecha": "04/11/2025",
-    "contenido": "El Directorio de Blogs en Español. ¡Ah, qué título tan terriblemente funcional! Me recuerda a esos folletos de souvenirs de Bruselas: mucha pulcritud, ninguna alma. Yo, por supuesto, no estaba buscando almas. Buscaba la toxicidad inherente a la ambición malgastada. Y el Directorio era un pozo ciego "
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendación de la semana.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/11/04/recomendacion-de-la-semana-28/",
-    "fecha": "04/11/2025",
-    "contenido": "Como recomendación de la semana les dejo este discazo de Mago de Oz."
-  },
-  {
-    "blog": "",
-    "titulo": "Eventos.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/11/04/eventos-46/",
-    "fecha": "04/11/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "Calaveras",
-    "titulo": "Un papel dentro de una botella en altamar",
-    "link": "https://calaveras.bearblog.dev/un-papel-dentro-de-una-botella-en-altamar/",
-    "fecha": "04/11/2025",
-    "contenido": "Si están leyendo esta nota, significa que mi cuerpo decidió irse con mi permiso. Fueron días de luchar por ese gramo de energía, sobrevivir al rayo del sol, en una roca de pocos metros y nada más que una inmensidad oceánica alrededor. Fueron días de ver gaviotas pasar a los lejos, esperando algún in"
   }
 ]
