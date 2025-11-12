@@ -1,10 +1,45 @@
 [
   {
+    "blog": "plr blog",
+    "titulo": "The Marvelous Mrs. Maisel y Mad Men ocurren en la misma ciudad y más o menos la misma época: qué cerca y qué diferentes",
+    "link": "https://pedrolr.es/blog/the-marvelous-mrs-maisel-y-mad-men-ocurren-en-la-misma-ciudad-y-mas-o-menos-la-misma-epoca-que-cerca-y-que-diferentes/",
+    "fecha": "12/11/2025",
+    "contenido": "Estoy viendo por segunda vez la serie The Marvelous Mrs. Maisel y Mad Men la vi dos veces ya. Me llama la atención que ambas series ocurren en la década de los 50 y/o 60, en un tiempo muy cercano, y además en la misma ciudad: Nueva York. En cambio, la realidad de ese tiempo [&#8230;]"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Migrando de Spotify al código abierto",
+    "link": "https://alt43.es/migrando-de-spotify-al-codigo-abierto/",
+    "fecha": "12/11/2025",
+    "contenido": "Como usuario durante muchos años de una cuenta Premium (compartida) en Spotify, llevo bastante tiempo barajando la posibilidad&#46;&#46;&#46;"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Navidrome en Portainer",
+    "link": "https://voidnull.es/instalacion-de-navidrome-en-portainer/",
+    "fecha": "12/11/2025",
+    "contenido": "Descubre cómo instalar Navidrome en Portainer dentro de tu NAS y crea tu propio servicio de música en la nube sin complicaciones."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Violoncello como navegador en texto plano",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/12/20251112-violoncello/",
     "fecha": "12/11/2025",
     "contenido": "Navegar en texto plano tiende ventajas de velocidad y ahorra, pero tambien visibiliza el poco respeto porla accesibilidad"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Your photo as a drawing",
+    "link": "https://www.ericafustero.com/2025-11-your-photo-as-a-drawing",
+    "fecha": "12/11/2025",
+    "contenido": "Crear ilustraciones a partir de fotografías es una de mis especialidades - me encanta el reto que implica interpretar los detalles a mi estilo, sin perder la esencia del original. Así que este otoño vuelvo a abrir mis encargos para transformar tus fotos en dibujos, justo a tiempo para Navidad.Puede "
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El Papiro Binario",
+    "link": "https://docig.mataroa.blog/blog/el-papiro-binario/",
+    "fecha": "12/11/2025",
+    "contenido": "Me encontraba yo, como tantas otras mañanas, deambulando por el barrio de Flores. Uno nunca sabe si la inspiración lo asaltará en la fila del banco o, peor aún, en la verdulería. En fin, el caso es que entré a una de esas tiendas de antigüedades cuya única antigüedad real parece ser el polvo, y el d"
   },
   {
     "blog": "Jinversor",
@@ -358,17 +393,17 @@
   },
   {
     "blog": "La cosa infinita",
-    "titulo": "La tabla ASCII original (7 bits)",
-    "link": "https://docig.mataroa.blog/blog/la-tabla-ascii-original-7-bits/",
-    "fecha": "07/11/2025",
-    "contenido": "| Fila \\ Columna | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 || 0 | NUL | DLE | SP | 0 | @ | P | ` | p || 1 | SOH | DC1 | ! | 1 | A | Q | a | q || 2 | STX | DC2 | \" | 2 | B | R | b | r || 3 | ETX | DC3 | # | 3 | C | S | c | s || 4 | EOT | DC4 | $ | 4 | D | T | d | t || 5 | ENQ | NAK | % | 5 | E | U | e | u || 6"
-  },
-  {
-    "blog": "La cosa infinita",
     "titulo": "La Tiranía de la Fuente",
     "link": "https://docig.mataroa.blog/blog/la-tirania-de-la-fuente/",
     "fecha": "07/11/2025",
     "contenido": "El pobre de Don Evaristo, un ex contable jubilado con el alma tan pulcra como sus balances de 1983, cayó en la grieta digital de la manera más inesperada: a través de la serifa.\nAl principio era inocente. Reenviaba esos memes de buenos días a sus contactos con la tipografía por defecto de su smartph"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "La tabla ASCII original (7 bits)",
+    "link": "https://docig.mataroa.blog/blog/la-tabla-ascii-original-7-bits/",
+    "fecha": "07/11/2025",
+    "contenido": "| Fila \\ Columna | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 || 0 | NUL | DLE | SP | 0 | @ | P | ` | p || 1 | SOH | DC1 | ! | 1 | A | Q | a | q || 2 | STX | DC2 | \" | 2 | B | R | b | r || 3 | ETX | DC3 | # | 3 | C | S | c | s || 4 | EOT | DC4 | $ | 4 | D | T | d | t || 5 | ENQ | NAK | % | 5 | E | U | e | u || 6"
   },
   {
     "blog": "",
@@ -448,20 +483,6 @@
     "contenido": "Estamos haciendo los primeros palitos en esto de la fotografía con celular.\n"
   },
   {
-    "blog": "--el Profe Juan--",
-    "titulo": "Otro servicio que no puedo hacer andar... y van?",
-    "link": "https://elprofejuan.com.ar/otro-servicio-que-no-puedo-hacer-andar-y-van",
-    "fecha": "05/11/2025",
-    "contenido": "Hace un tiempo que no lo estoy resolviendo los problemas en mi servidor local. Ya van varios servicios que no puedo hacerlos andar y mis conocimientos están muy debilitados y/o no son los suficientes.\n"
-  },
-  {
-    "blog": "Bits de Ocio",
-    "titulo": "Cronología completa del Universo Matrix",
-    "link": "https://bitsdeocio.wordpress.com/2025/11/05/cronologia-del-universo-matrix/",
-    "fecha": "05/11/2025",
-    "contenido": "Hace unos años y, para ponerme aldía antes del estreno de «Matrix Resurrection», escribí para Perdidos en Melmac un artículo que repasaba, en riguroso orden cronológico, todas las obras del Universo que las hermanas Wachowski nos presentaron allá por 1999. Tras el estreno de aquella última entrega, "
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Agobio",
     "link": "https://jinversor.co/2025/11/agobio/",
@@ -474,13 +495,6 @@
     "link": "https://jinversor.co/2025/11/remember-remember-the-5th-of-november/",
     "fecha": "05/11/2025",
     "contenido": "Hoy se cumplen 420 años desde que un grupo de conspiradores católicos liderados por Robert Catesby intentaran dinamitar el Parlamento británico para asesinar al rey Jacobo I y restaurar el [&#8230;]\nLa entrada Remember remember the 5th of November se publicó primero en Jinversor."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Desactivando la incrustación de vídeos de youtube en Moodle",
-    "link": "https://pedrolr.es/blog/desactivando-la-incrustacion-de-videos-de-youtube-en-moodle/",
-    "fecha": "05/11/2025",
-    "contenido": "Hay una cosa que siempre me ha molestado de Moodle. Cuando metes un enlace de un vídeo de Youtube, lo incrusta ya en el mensaje y se ve el cuadrado del vídeo y no el enlace. Me acaba de pasar en un foro. Estaba compartiendo el documental de Aaron Swartz porque lo he propuesto para [&#8230;]"
   },
   {
     "blog": "Interlan",
@@ -497,39 +511,11 @@
     "contenido": "El arte ASCII se basa en la unión de caracteres o códigos que llevan el propio nombre hasta formar una imagen en computadora que en un principio estos códigos fue creado para la telegrafía , casualmente manteniendo una especie de juegos de palabras con una amiga por medio de chat fue que descubrí el"
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "Siempre odié a Adobe",
-    "link": "https://matizeta.com/2025/11/05/siempre-odie-a-adobe/",
-    "fecha": "05/11/2025",
-    "contenido": "Hace unos días (a fines del mes pasado), Canva anunciaba que Affinity pasaba de ser pago a un modelo completamente gratuito. Affinity es un paquete de productos creativos, que fue adquirido por Canva a comienzos del 2024. A poco más de un año, la empresa anuncia la gratitud del mismo (con la posibil"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "El evento del año en la empresa",
     "link": "https://blog.danielaragay.net/el-evento-del-ano-en-la-empresa/",
     "fecha": "05/11/2025",
     "contenido": "Ayer se celebr&#xf3; el evento del a&#xf1;o en la empresa, el llamado V&#xed;deo Summit, donde uno de nuestros colaboradores tuvo una horrible experiencia.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendo"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Sobreviví al upgrade de Proxmox 8 a 9",
-    "link": "https://altgr.xyz/2025/11/05/sobrevivi-al-upgrade-de-proxmox-8-a-9/",
-    "fecha": "05/11/2025",
-    "contenido": "El momento más temido de todo selfhoster se llama upgrade. Especialmente cuando se trata del sistema operativo que soporta todo tu sistema. Y sí, ha llegado ese momento para mí. Uso Proxmox en mi servidor casero. Es un sistema operativo basado en Debian, especializado en virtualización. Permite un m"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Drupal 9 en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-drupal-9-en-debian-13/",
-    "fecha": "05/11/2025",
-    "contenido": "Drupal es uno de los sistemas de gestión de contenido (CMS) más potentes y flexibles del mercado, ampliamente utilizado para crear sitios web dinámicos y altamente personalizables."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "La idea de \"Jardines digitales\" en 2025",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/05/20251105-jardines-digitales-2025/",
-    "fecha": "05/11/2025",
-    "contenido": "Hay quien lo emplea como forma de trabajo personal, y algunos lo han tomado como una evolución de lo que era el blog"
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
