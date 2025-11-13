@@ -7,11 +7,25 @@
     "contenido": "Estoy viendo por segunda vez la serie The Marvelous Mrs. Maisel y Mad Men la vi dos veces ya. Me llama la atención que ambas series ocurren en la década de los 50 y/o 60, en un tiempo muy cercano, y además en la misma ciudad: Nueva York. En cambio, la realidad de ese tiempo [&#8230;]"
   },
   {
-    "blog": "alt43",
-    "titulo": "Migrando de Spotify al código abierto",
-    "link": "https://alt43.es/migrando-de-spotify-al-codigo-abierto/",
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Lux",
+    "link": "https://www.macram.es/musica/lux/",
     "fecha": "12/11/2025",
-    "contenido": "Como usuario durante muchos años de una cuenta Premium (compartida) en Spotify, llevo bastante tiempo barajando la posibilidad&#46;&#46;&#46;"
+    "contenido": "Es noviembre de 2025 y estoy interesado en la música. Por supuesto que tenía que escuchar Lux. Rosalía es una artista que me gusta aunque tampoco puedo decir que sea fan ni que me obsesione. Y este disco está totalmente dentro de lo que podría esperar de ella, vista su trayectoria (Motomami aparte)."
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Bonus: Joe Vasconcellos con Nicole",
+    "link": "https://altgr.xyz/2025/11/12/bonus-track-joe-vasconcellos-con-nicole/",
+    "fecha": "12/11/2025",
+    "contenido": "En mi opinión, no fue la mejor colaboración de la jornada. De hecho me pareció que entró un poco fuera de tono, pero Nicole es una de nuestras más grandes divas pop. Talentosa, carismática y guapísima. Por eso merece una publicación exclusiva. Interpretó «Solo por esta noche» junto a Vasconcellos."
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Joe Vasconcellos: 30 años de «Toque»",
+    "link": "https://altgr.xyz/2025/11/12/joe-vasconcellos-30-anos-de-toque/",
+    "fecha": "12/11/2025",
+    "contenido": "Como si Fauna Primavera hubiese sido poco, el domingo nos fuimos a la celebración de los 30 años de «Toque», el más exitoso disco de Joe Vasconcellos, en el Movistar Arena. El concierto estuvo muy por sobre mis expectativas. ¡Cuántas canciones memorables! muchas de ellas las tenía casi olvidadas. Mú"
   },
   {
     "blog": "_ voidNull",
@@ -28,6 +42,13 @@
     "contenido": "Navegar en texto plano tiende ventajas de velocidad y ahorra, pero tambien visibiliza el poco respeto porla accesibilidad"
   },
   {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Kernel de Un Megabyte",
+    "link": "https://docig.bearblog.dev/el-kernel-de-un-megabyte/",
+    "fecha": "12/11/2025",
+    "contenido": "Era un sistema operativo sin pretensiones, una astilla digital llamada \"TinyOne\". Apenas pesaba un megabyte, una pluma de kernel y utilidades esenciales que cabía con holgura en un disquete de antaño . No tenía interfaz gráfica, ni música, ni siquiera un navegador web. Solo un prompt austero y parpa"
+  },
+  {
     "blog": "Erica Fustero",
     "titulo": "Your photo as a drawing",
     "link": "https://www.ericafustero.com/2025-11-your-photo-as-a-drawing",
@@ -40,6 +61,20 @@
     "link": "https://docig.mataroa.blog/blog/el-papiro-binario/",
     "fecha": "12/11/2025",
     "contenido": "Me encontraba yo, como tantas otras mañanas, deambulando por el barrio de Flores. Uno nunca sabe si la inspiración lo asaltará en la fila del banco o, peor aún, en la verdulería. En fin, el caso es que entré a una de esas tiendas de antigüedades cuya única antigüedad real parece ser el polvo, y el d"
+  },
+  {
+    "blog": "",
+    "titulo": "Eventos.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/11/12/eventos-49/",
+    "fecha": "12/11/2025",
+    "contenido": "🏴🔥👑Aniversario 6 Años Medievales👑🔥⚔️⚔️🐺🦁Domingo 16 de Noviembre 2025🐺🦁⚔️🌿🦌Horario Primavera 12a 20hs🦌🌿👑🏰Av. Caseros 1750, Barracas🏰👑🪽🌿ENTRADA LIBRE Y GRATUITA."
+  },
+  {
+    "blog": "",
+    "titulo": "Eventos.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/11/12/eventos-48/",
+    "fecha": "12/11/2025",
+    "contenido": ""
   },
   {
     "blog": "Jinversor",
@@ -294,13 +329,6 @@
     "contenido": "Tenía que venir a resolver algunos problemas en otra casa que tengo que atender y postergue eso hace varios meses, bueno este es el primer posteo desde ahí.\n"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Cómo aumentar los salarios de todos los españoles",
-    "link": "https://brucknerite.net/2025/11/como-aumentar-los-salarios-de-todos-los-espanoles.html",
-    "fecha": "07/11/2025",
-    "contenido": "Uno de mis descubrimientos intelectuales de los últimos tiempos, María Álvarez, argumenta con éxito en una reciente columna de opinión en ElDiario.es que el precio de la vivienda determina el coste de la vida en general, ya que se transmite al resto de la economía minorista a través de alquileres de"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 45 de 2025",
     "link": "https://victorhckinthefreeworld.com/2025/11/07/opensuse-tumbleweed-revision-de-la-semana-45-de-2025/",
@@ -455,80 +483,10 @@
     "contenido": "Esta semana he estado haciendo una de las cosas que más pereza me da del mundo: escanear mis libretas. Sé que no me costaría tanto si no tuviese que sacar y recoger el escáner cada vez que necesito usarlo, pero eso implicaría tener más periféricos feos en mi escritorio y me niego.Tenía mucho pendien"
   },
   {
-    "blog": "La cosa infinita",
-    "titulo": "Un Micronarrativo (o el arte de la Small Web como terapia de choque para el Big Data y sus secuelas)",
-    "link": "https://docig.mataroa.blog/blog/un-micronarrativo-o-el-arte-de-la-small-web-como-terapia-de-choque-para-el-big-data-y-sus-secuelas/",
-    "fecha": "06/11/2025",
-    "contenido": "El Narrador (que es siempre un Lector disimulado, un Reader que se ha cansado de los Releases y las Revisions de la Realidad Líquida) recordaba aquellos días pre-apocalípticos —tan recientes y tan geológicamente remotos— de la Big Web.\nUna gran Ciudad-Metáfora, desde luego, de pantallas siempre-ence"
-  },
-  {
     "blog": "",
     "titulo": "Santiago Molina (novedades)",
     "link": "https://mundoceltamedieval.wordpress.com/2025/11/06/santiago-molina-novedades/",
     "fecha": "06/11/2025",
     "contenido": "Les dejo como novedad el anuncio de que Santiago Molina esta planeando su segundo disco, va a ser un disco-documental, en el documental se va a mostrar la grabación del disco, este disco va a ser financiado mediante crowfunding, Santiago ya hizo una encuesta a través del instagram para ver detalles "
-  },
-  {
-    "blog": "--el Profe Juan--",
-    "titulo": "Qué raro?",
-    "link": "https://elprofejuan.com.ar/qu%C3%A9-raro",
-    "fecha": "05/11/2025",
-    "contenido": "No se si comenté por acá, estoy haciendo un trayecto en la universidad sobre IA y Educación, y ya viene el final (es un cuatrimestre).\n"
-  },
-  {
-    "blog": "--el Profe Juan--",
-    "titulo": "Jugando con las Fotos",
-    "link": "https://elprofejuan.com.ar/jugando-con-las-fotos",
-    "fecha": "05/11/2025",
-    "contenido": "Estamos haciendo los primeros palitos en esto de la fotografía con celular.\n"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Agobio",
-    "link": "https://jinversor.co/2025/11/agobio/",
-    "fecha": "05/11/2025",
-    "contenido": "Dándome una pasadita por el blog de Manu Mateos encontré un post que sintetiza el insoportable agobio que siento cada vez que ingreso a un sitio web mierdificado (o sea [&#8230;]\nLa entrada Agobio se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Remember remember the 5th of November",
-    "link": "https://jinversor.co/2025/11/remember-remember-the-5th-of-november/",
-    "fecha": "05/11/2025",
-    "contenido": "Hoy se cumplen 420 años desde que un grupo de conspiradores católicos liderados por Robert Catesby intentaran dinamitar el Parlamento británico para asesinar al rey Jacobo I y restaurar el [&#8230;]\nLa entrada Remember remember the 5th of November se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Changelog: Channel2RSS 22 de octubre de 2025",
-    "link": "https://interlan.ec/2025/11/05/changelog-channel2rss-22-de-octubre-de-2025/",
-    "fecha": "05/11/2025",
-    "contenido": "Channel2rss ha tenido algunas mejoras hasta el momento de registro de 22 de octubre de 2025 Introducción Aprovechando Channel2RSS como herramienta de estudio, he estado investigando como funciona el despliegue de software basado en PHP en la actualidad. No he completado grandes proyectos en este len"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "ASCII: Arte de códigos .",
-    "link": "https://polotman.wordpress.com/2025/11/05/ascii-arte-de-codigos/",
-    "fecha": "05/11/2025",
-    "contenido": "El arte ASCII se basa en la unión de caracteres o códigos que llevan el propio nombre hasta formar una imagen en computadora que en un principio estos códigos fue creado para la telegrafía , casualmente manteniendo una especie de juegos de palabras con una amiga por medio de chat fue que descubrí el"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El evento del año en la empresa",
-    "link": "https://blog.danielaragay.net/el-evento-del-ano-en-la-empresa/",
-    "fecha": "05/11/2025",
-    "contenido": "Ayer se celebr&#xf3; el evento del a&#xf1;o en la empresa, el llamado V&#xed;deo Summit, donde uno de nuestros colaboradores tuvo una horrible experiencia.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendo"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "Lanzador Android de terceros retro y nostálgico",
-    "link": "https://docig.bearblog.dev/lanzador-android-de-terceros-retro-y-nostalgico/",
-    "fecha": "05/11/2025",
-    "contenido": "Este iniciador gratuito hace que tu Android se parezca a Windows XP y es fantástico . Hace 2 semanas lo uso y es fluido no tiene errores por ahora.\nSe ve y se siente como XP.\nTambien recrea :\nWindows 95/98\nWindows 2000/ME\nWindows XP\nWindows Vista\nViene con :\nWinamp: reproduce archivos MP3 locales\nBl"
-  },
-  {
-    "blog": "",
-    "titulo": "Eventos.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/11/05/eventos-47/",
-    "fecha": "05/11/2025",
-    "contenido": ""
   }
 ]
