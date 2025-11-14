@@ -1,5 +1,40 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Mostrar el contenido de un archivo de texto en Amstrad CPC",
+    "link": "https://malagaoriginal.blogspot.com/2025/11/mostrar-el-contenido-de-un-archivo-de.html",
+    "fecha": "14/11/2025",
+    "contenido": "Si en un Amstrad CPC tecleas el comando:CAT misdatos.txtNo te mostrará el contenido del archivo de nombre misdatos.txt, en el mejor de los casos te mostrará el nombre del archivo si está en el directorio del disquete o si lo encuentra recorriendo la cinta.Entonces, ¿cómo puedo ver el contenido de un"
+  },
+  {
+    "blog": "Blog de Thalskarth",
+    "titulo": "Desconectando - Semana 2",
+    "link": "https://blog.thalskarth.ar/desconectando-semana-dos/",
+    "fecha": "14/11/2025",
+    "contenido": "Segunda semana desde que inicié el proyecto de desconexión durante Noviembre. Parece mentira lo rápido que se me pasó esta segunda semana. Creo que fue ayer cuando escribía la entrada anterior."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Endpoints y variables en Docker #9",
+    "link": "https://voidnull.es/docker-7-3/",
+    "fecha": "14/11/2025",
+    "contenido": "Aprende a usar ENTRYPOINT, CMD, ARG y ENV para crear contenedores Docker flexibles y configurables."
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Retoque Húmedo",
+    "link": "https://docig.bearblog.dev/el-retoque-humedo/",
+    "fecha": "14/11/2025",
+    "contenido": "Bartolo barría el Teatro de los Soliloquios. Las tres de la mañana, un silencio electrónico y el olor a ozono residual de la proyección. Acababan de terminar Las Horas Muertas, una tragedia sobre un relojero ciego, interpretada por un elenco de hologramas de luz coherente.\nEncontró un pañuelo de sed"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "La red social de texto plano de una sola palabra",
+    "link": "https://docig.mataroa.blog/blog/la-red-social-de-texto-plano-de-una-sola-palabra/",
+    "fecha": "14/11/2025",
+    "contenido": "\"Unum\" era la red social. Una palabra. Solo una.\nEl feed era un desierto de monosílabos.\n\"Hambre.\" \"Gris.\" \"Espera.\"\nMillones de almas destilando su existencia en un solo vocablo. Había usuarios que llevaban años con el mismo mensaje, anclados a su mantra: \"Dolor.\" Otros rotaban su palabra cada aman"
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "¿Está tan mal la educación actual?",
     "link": "https://adrianperales.com/2025/11/esta-tan-mal-la-educacion-actual/",
@@ -427,13 +462,6 @@
     "contenido": "Tenía que venir a resolver algunos problemas en otra casa que tengo que atender y postergue eso hace varios meses, bueno este es el primer posteo desde ahí.\n"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Cómo aumentar los salarios de todos los españoles",
-    "link": "https://brucknerite.net/2025/11/como-aumentar-los-salarios-de-todos-los-espanoles.html",
-    "fecha": "07/11/2025",
-    "contenido": "Uno de mis descubrimientos intelectuales de los últimos tiempos, María Álvarez, argumenta con éxito en una reciente columna de opinión en ElDiario.es que el precio de la vivienda determina el coste de la vida en general, ya que se transmite al resto de la economía minorista a través de alquileres de"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 45 de 2025",
     "link": "https://victorhckinthefreeworld.com/2025/11/07/opensuse-tumbleweed-revision-de-la-semana-45-de-2025/",
@@ -448,13 +476,6 @@
     "contenido": "Hoy que el trabajo estuvo medio flojo me puse a practicar hacking automatizado con IA. Había visto unos videos pero hasta ahora me puse en la tarea de explorar esa [&#8230;]\nLa entrada Hacking automatizado con IA se publicó primero en Jinversor."
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "El guía – Ejercicio de casa Semana 7 del Taller de Escritura Creativa Librería Luces 2025/2026",
-    "link": "https://mcallus.net/2025/11/07/ejercicio-de-casa-semana-7-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
-    "fecha": "07/11/2025",
-    "contenido": "Esta semana para casa teníamos que homenajear a Unica Zürn intentando hacer un relato de corte surrealista e incluso añadirle un dibujo propio del mismo corte. En mi caso no cumplí con lo del surrealismo porque es algo que no me gusta y, por tanto, no he consumido lo suficiente como para hacerlo bie"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Tutorial: Buscar columna en todas las bases de datos",
     "link": "https://interlan.ec/2025/11/07/tutorial-buscar-columna-en-todas-las-bases-de-datos/",
@@ -467,13 +488,6 @@
     "link": "https://nube.codeberg.page/blog/escribo/",
     "fecha": "07/11/2025",
     "contenido": "Hace años escribí un poema llamado &ldquo;Escribo&rdquo;, que era una especie de declaración o manifiesto, donde dejaba claras mis razones para hacerlo. &ldquo;Escribo porque puedo&rdquo; decía en una de las lineas, es algo muy simple, realmente tonto, pero, no me parece una mala linea, escribo porq"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Mis primeros AirPods",
-    "link": "https://matizeta.com/2025/11/07/mis-primeros-airpods/",
-    "fecha": "07/11/2025",
-    "contenido": "Hace tiempo que&#160;quería adquirir unos AirPods&#160;pero el&#160;precio que se vende en Argentina y ante la imposibles de traérmelos de afuera, fue postergándose ese deseo hasta hoy que lo conseguí a precio más bajo que en Amazon Estados Unidos. Así es que me hice de mis primeros AirPods, los de "
   },
   {
     "blog": "Eterno aprendiz",
@@ -502,13 +516,6 @@
     "link": "https://docig.bearblog.dev/la-maquina-de-escribir-anacronica/",
     "fecha": "07/11/2025",
     "contenido": "El Profesor Arkadi, un hombre que parecía haber sido tallado por el olvido y vestido con ropas que insistían en contradecir la moda actual, me la mostró en el trastero de su departamento, entre pilas de periódicos de los años cincuenta y una colección de dedales.\nNo era una máquina como las que se v"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "La radio es, sobre todo, compañía",
-    "link": "https://www.xn--jmuoz-qta.es/2025/11/la-radio-es-sobre-todo-compania.html",
-    "fecha": "07/11/2025",
-    "contenido": "\n  \n    \n  \nApenas son las seis de la mañana y, aunque hoy entro más tarde, me he levantado a la misma hora porque ya tengo el cuerpo hecho. Llevo desde pasadas las cinco y media corrigiendo exámenes de mis alumnos de 2.° de Bachillerato, pero no estoy solo en la soledad de la noche: la radio me aco"
   },
   {
     "blog": "",
