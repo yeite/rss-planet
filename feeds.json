@@ -1,10 +1,38 @@
 [
   {
+    "blog": "Alexis Alzate",
+    "titulo": "Deberías intentar crear tu primera página web",
+    "link": "https://alexisalzate.com/blog/2025-11-09/",
+    "fecha": "15/11/2025",
+    "contenido": "Algo que suele sorprenderme es cuando alguien dice: “yo no sé” y se\nqueda así, como si no tuviera la capacidad de aprender como el resto de\nlas personas.\nSi estás leyendo este texto y aún no tienes una página web, tal vez\ndeberías aprender a crear tu propio espacio en Internet, más allá de los\nperfi"
+  },
+  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "No, ni los LLMs son conscientes ni mi smartphone tiene hambre",
     "link": "https://vonneumannmachine.wordpress.com/2025/11/15/no-ni-llms-son-conscientes-ni-mi-smartphone-tiene-hambre/",
     "fecha": "15/11/2025",
     "contenido": "Llevo unos días un tanto consternado porque, a pesar de que estoy completamente seguro que mi blog es leído fervientemente en Silicon Valley, ahora se están duplicando los trabajos y publicaciones que hablan de consciencia en grandes modelos de lenguaje con desenfadada frescura y sin demasiado pudor"
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "XXXVII",
+    "link": "http://locutusbit.blogspot.com/2025/11/xxxvii.html",
+    "fecha": "15/11/2025",
+    "contenido": "&nbsp;Innumerableslos irreconciliablesdesconocidos.Pascual Herrera"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Un paseo cinematográfico con iPhone 17 Pro",
+    "link": "https://blog.danielaragay.net/un-paseo-cinematografico-con-iphone-17-pro/",
+    "fecha": "15/11/2025",
+    "contenido": "Pocas cosas hay m&#xe1;s agradables que pasear con Rico al final del oto&#xf1;o en Suecia. Los &#xe1;rboles ya casi han perdido sus hojas, el aire est&#xe1; fr&#xed;o pero no insoportable y la luz entra rasante, suave, perfecta para hacer v&#xed;deo."
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Conociendo a Melendi",
+    "link": "https://altgr.xyz/2025/11/15/conociendo-a-melendi/",
+    "fecha": "15/11/2025",
+    "contenido": "De Melendi solo había escuchado un par de canciones antes de llegar a su concierto del jueves en el Movistar Arena. De hecho, pensaba que era una especie de nuevo Arjona, muy joven, con solo unos cuantos años de carrera musical. Resulta que es un artista que ahora está celebrando 20 años de carrera "
   },
   {
     "blog": "zona de confort",
@@ -75,6 +103,13 @@
     "link": "https://blog.danielaragay.net/accidente-de-bus-en-estocolmo-pereza-haciendo-producciones-y-mas/",
     "fecha": "14/11/2025",
     "contenido": "Un poco de todo y poni&#xe9;ndote al d&#xed;a de las &#xfa;ltimas noticias: accidente de bus en Estocolmo, pereza haciendo producciones, nuevo MacBook Pro, comparando con el MacStudio entre otras cosas.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@pr"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Tu falta de querer – Dua Lipa (Original de Mon Laferte)",
+    "link": "https://altgr.xyz/2025/11/14/tu-falta-de-querer-dua-lipa-original-de-mon-laferte/",
+    "fecha": "14/11/2025",
+    "contenido": "Dua Lipa versionó Tu Falta de Querer de Mon Laferte en su primera presentación en Chile, la noche del martes 11 de noviembre, como parte del Radical Optimism Tour 2025. La canción estuvo bien, aunque está lejos de ser un gran cover. La original con la entonación y el sentimiento que lo interpreta Mo"
   },
   {
     "blog": "_ voidNull",
@@ -315,6 +350,13 @@
     "contenido": "&nbsp; &nbsp; Un nuevo cadáver se acercó y se colocó junto a mí. El recién llegado todavía estaba en un estado, digamos, aceptable. Lo cual me hizo pensar que llevaba un par de horas muerto; tres a lo sumo. Su cara, pese a estar inanimada, también reflejaba desengaño. Lo mismo que la faz de sus ante"
   },
   {
+    "blog": "impermanente",
+    "titulo": "Una nueva era",
+    "link": "https://impermanente.es/2025/11/11/una-nueva-era.html",
+    "fecha": "11/11/2025",
+    "contenido": ""
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalación de Kener en Debian 13",
     "link": "https://voidnull.es/instalacion-de-kener-en-d/",
@@ -455,38 +497,17 @@
     "contenido": "Seguimos con la novela que puedes encontrar aqu&#xed;: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoAl d&#xed;a siguiente, Sebasti&#xe1;n se levant&#xf3; temprano, mucho antes de que sonara el despertador. Aprovech&#xf3; la ma&#xf1;ana para hablar con su hija por videoconf"
   },
   {
+    "blog": "impermanente",
+    "titulo": "Pasó en la península",
+    "link": "https://impermanente.es/2025/11/09/pas-en-la-pennsula.html",
+    "fecha": "09/11/2025",
+    "contenido": "Yo crecí con la ficción de Asterix y Obelix, pero la historia real de una aldea celta resistiendo a los romanos por años se dió en Numancia.\nCrecí con las historias de Infantes de Marina ingleses, pero los primeros Infantes de Marina fueron los Tercios españoles.\nCrecí con la leyenda de la katana, p"
+  },
+  {
     "blog": "Diana                                                       Laurencich",
     "titulo": "¿Por qué «trueno» canta con ese acento?",
     "link": "https://dianalaurencich.wordpress.com/2025/11/09/por-que-trueno-canta-con-ese-acento/",
     "fecha": "09/11/2025",
     "contenido": "-¿Qué acento? -No sé, un acento como centroamericano&#8230;¿por qué no canta en argentino? Este increíble diálogo lo mantuve con un amigo de mis hermanos, ayer, en un asado en el que coincidimos. El tipo, arquitecto, mayor de 70, venía de un viaje por Noruega y Dinamarca. Visitar Escaninavia le qued"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Riqueza soberana",
-    "link": "https://jinversor.co/2025/11/riqueza-soberana/",
-    "fecha": "08/11/2025",
-    "contenido": "Cada vez que veo las noticias me alegro de haber tomado el camino de la riqueza soberana. Quizás no lo hice en el momento preciso, quizás lo hice muy tarde [&#8230;]\nLa entrada Riqueza soberana se publicó primero en Jinversor."
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Comentando Hija de la venganza Páginas 301 al final – Club de lectura de Librería Luces en Instagram",
-    "link": "https://mcallus.net/2025/11/08/comentando-hija-de-la-venganza-paginas-301-al-final-club-de-lectura-de-libreria-luces-en-instagram/",
-    "fecha": "08/11/2025",
-    "contenido": "Y en esta entrada llegamos al final de esta obra de Michael McDowell. Antes de entrar en la parte con spoilers dejaré una pequeña sección para una reseña general sin spoilers y en un momento dado os indicaré donde comentaremos con destripes el último cuarto de la novela. Si queréis leer la introducc"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Primal Scream en Teatro Coliseo",
-    "link": "https://altgr.xyz/2025/11/08/primal-scream-en-teatro-coliseo/",
-    "fecha": "08/11/2025",
-    "contenido": "La banda de Bobby Gillispie fue el plato fuerte de la previa para Fauna Primavera 2025 en el Teatro Coliseo la noche de jueves. En casi 2 horas de concierto hicieron cantar y bailar al público con su rock ecléctico. La música de Primal Scream puede pasar de canciones rollingtonescas a otras muy elec"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Proyectos en marcha",
-    "link": "http://frikoteca.blogspot.com/2025/11/proyectos-en-marcha.html",
-    "fecha": "08/11/2025",
-    "contenido": "Me he empezado a leer Entre críticos y pifias, la historia de los juegos de rol en España que ha escrito Domingo Cuenca, el autor del blog Rol de los 90. La verdad es que me está encantando lo que estoy leyendo, y eso que llevo solo unos pocos años. He de decir que me ha hecho mucha gracia leer una "
   }
 ]
