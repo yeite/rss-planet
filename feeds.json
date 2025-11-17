@@ -1,5 +1,47 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "Alienígenas e inteligencia",
+    "link": "https://brucknerite.net/2025/11/alienigenas-e-inteligencia.html",
+    "fecha": "17/11/2025",
+    "contenido": "“We have no idea what an alien person or being or intelligence or machine would be motivated by… We don’t know what motivates the Kremlin, for God’s sake.”#leyendo https://www.newyorker.com/culture/annals-of-inquiry/whats-the-deal-with-ufos"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Cómo explicar las 4 libertades del software libre a los niños y niñas",
+    "link": "https://victorhckinthefreeworld.com/2025/11/17/como-explicar-las-4-libertades-del-software-libre-a-los-ninos-y-ninas/",
+    "fecha": "17/11/2025",
+    "contenido": "Si eres un padre o una madre, o personal docente y quieres enseñar cuales son las 4 libertades del software libre puedes hacerlo con estos ejemplos Este artículo trata de acercar el concepto de las cuatro libertades del software libre a los más pequeños. Hace una serie de comparaciones para que los "
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Todas las personas que fui",
+    "link": "https://mareosdeungeek.es/todas-las-personas-que-fui/",
+    "fecha": "17/11/2025",
+    "contenido": "Todas las personas que fui seguramente sea la lectura más rápida en ser comentada en esta bitácora (si estás apuntado a la lista de correo sabes por qué lo digo) Leído ayer mismo, sin lugar a dudas, la obra de Alfonso Casas merece la pena. Estamos ante al tercera parte de una serie de obras [&#8230;"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Nginx Proxy Manager en Proxmox",
+    "link": "https://voidnull.es/instalacion-de-proxy-nginx-manager-en-proxmox/",
+    "fecha": "17/11/2025",
+    "contenido": "Gestor web para crear proxies inversos y SSL fácilmente con Nginx."
+  },
+  {
+    "blog": "Actionauta - Notas por Sebastián Veggiani",
+    "titulo": "Enseñar programación",
+    "link": "https://xol.ar/notes/ensenar-programacion",
+    "fecha": "17/11/2025",
+    "contenido": "Luego de fallar múltiples veces intentando enseñar a crear con código, un pequeño post en otro blog ha encendido una idea que podría ser más efectiva."
+  },
+  {
+    "blog": "",
+    "titulo": "Frase de la semana.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/11/17/frase-de-la-semana-56/",
+    "fecha": "17/11/2025",
+    "contenido": "Un buen comienzo es la mitad del trabajo. Proverbio irlandés"
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Conocí a Vicky de Fértil Miseria",
     "link": "https://jinversor.co/2025/11/conoci-a-vicky-de-fertil-miseria/",
@@ -434,25 +476,11 @@
     "contenido": "Nota de Mago de Oz presentando su ultimo disco malicia."
   },
   {
-    "blog": "THE_CHEI$",
-    "titulo": "Yo, robot",
-    "link": "https://thecheis.com/2025/11/10/yo-robot/",
-    "fecha": "10/11/2025",
-    "contenido": "Hace unos años, cuando vi las demostraciones de Boston Dynamics con su robot Atlas, supe que estaba ante un avance importante de la tecnología. Ese humanoide mecánico rozaba la ciencia ficción: sus movimientos eran increíbles, parecía irreal. Pero, aunque era obvio que existía margen de mejora, no e"
-  },
-  {
     "blog": "Webnauta",
     "titulo": "¿Simples algoritmos y procesamiento de datos?",
     "link": "https://webnauta.blog/simples-algoritmos-y-procesamiento-de-datos",
     "fecha": "10/11/2025",
     "contenido": "\n      \n\n    \n      Foto de Google DeepMind en Unsplash\n    \nII. Comprendiendo la privacidad\nYuval Noah Harari concluye su libro Homo Deus con tres interrogantes clave que espera permanezcan en la mente del lector mucho después de haberlo terminado:\n¿Son en verdad los organismos sólo algoritmos y la"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Microreflexiones: El miedo detrás de la violencia",
-    "link": "https://blog.danielaragay.net/microreflexiones-el-miedo-detras-de-la-violencia/",
-    "fecha": "10/11/2025",
-    "contenido": "Cuando alguien recurre a la violencia &#x2014;ya sea f&#xed;sica o verbal&#x2014; para imponer sus ideas, en realidad est&#xe1; demostrando su propia inseguridad. Porque si de verdad creyera en la solidez de sus pensamientos, no necesitar&#xed;a forzar, amenazar ni humillar. La violencia aparece cua"
   },
   {
     "blog": "Eterno aprendiz",
@@ -481,13 +509,6 @@
     "link": "https://altgr.xyz/2025/11/10/fauna-primavera-2025-tash-sultana/",
     "fecha": "10/11/2025",
     "contenido": "La australiana Tash Sultana fue el primer show que vi en la edición de este año de Fauna Primavera. Una multiinstrumentista joven, con mucho talento y una voz conmovedora."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de instancia de Peertube en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-instancia-de-peertube-en-debian-13/",
-    "fecha": "10/11/2025",
-    "contenido": "PeerTube es una aplicación web de software libre, descentralizada, federada y que usa la tecnología peer-to-peer para reducir la carga de los servidores individuales al visualizar videos."
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
