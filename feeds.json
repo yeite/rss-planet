@@ -1,5 +1,40 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Publicado Agama 18",
+    "link": "https://victorhckinthefreeworld.com/2025/11/18/publicado-agama-18/",
+    "fecha": "18/11/2025",
+    "contenido": "Agama es el nuevo instalador de sistemas openSUSE y SUSE y se acaba de publicar su versión número 18"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Curiosidades de la red oscura",
+    "link": "https://jinversor.co/2025/11/curiosidades-de-la-red-oscura/",
+    "fecha": "18/11/2025",
+    "contenido": "Hace unos días entré a la red oscura a buscar documentos interesantes para leer. Cosas como que los extraterrestres caminan entre nosotros, que Hitler fingió su muerte y vive en [&#8230;]\nLa entrada Curiosidades de la red oscura se publicó primero en Jinversor."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Crear un clúster en Proxmox",
+    "link": "https://voidnull.es/crear-un-cluster-en-proxmox/",
+    "fecha": "18/11/2025",
+    "contenido": "Aprende a crear un clúster en Proxmox y gestiona varios nodos con HA, migración en vivo y control centralizado."
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "La Logia de los Ceros y los Unos",
+    "link": "https://docig.bearblog.dev/la-logia-de-los-ceros-y-los-unos/",
+    "fecha": "18/11/2025",
+    "contenido": "El profesor Trost, un hombrecito de barba rala y entusiasmo volcánico, lo había encontrado en un lote baldío detrás de una casa de cambio de divisas en Lomas de Zamora. No un tesoro, no; peor: un misterio.Era una tablilla de arcilla cocida, de no más de diez centímetros por quince, cubierta por un p"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Lluvia",
+    "link": "https://www.xn--jmuoz-qta.es/2025/11/lluvia.html",
+    "fecha": "18/11/2025",
+    "contenido": "\n  \n    \n  \nLluvia. Días grises y tormentosos. Suele decirse a esto \"mal tiempo\", pero a mí estos días me encantan. Tres días seguidos de lluvia, oh maravilla. Y ahora mínimas frías de verdad y algo de niebla al amanecer.Ha entrado el frío y, ahora sí, los días me pasan volando. Todo está ya engrasa"
+  },
+  {
     "blog": "Blog de Joselito",
     "titulo": "Sin antidepresivo",
     "link": "https://joselito.mataroa.blog/blog/sin-antidepresivo/",
@@ -12,6 +47,13 @@
     "link": "https://laloica.noblogs.org/autodefensa-digital-explicada-por-gatxs/",
     "fecha": "17/11/2025",
     "contenido": "En el marco del Taller “Autodefensa Digital ante el Ciberacoso a través de Fanzines”, diseñé este pequeño fanzine de descarga libre: “Autodefensa digital explicada por Gatxs”. Es un mini-protocolo práctico para saber cómo actuar frente a situaciones de violencia digital, pensado para que nadie tenga"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Alienígenas e inteligencia",
+    "link": "https://brucknerite.net/2025/11/alienigenas-e-inteligencia.html",
+    "fecha": "17/11/2025",
+    "contenido": "“We have no idea what an alien person or being or intelligence or machine would be motivated by… We don’t know what motivates the Kremlin, for God’s sake.”"
   },
   {
     "blog": "Victorhck in the free world",
@@ -40,13 +82,6 @@
     "link": "https://mareosdeungeek.es/todas-las-personas-que-fui/",
     "fecha": "17/11/2025",
     "contenido": "Todas las personas que fui seguramente sea la lectura más rápida en ser comentada en esta bitácora (si estás apuntado a la lista de correo sabes por qué lo digo) Leído ayer mismo, sin lugar a dudas, la obra de Alfonso Casas merece la pena. Estamos ante al tercera parte de una serie de obras [&#8230;"
-  },
-  {
-    "blog": "Cajón desastre",
-    "titulo": "Cinco escenas de Night in the Woods",
-    "link": "https://ccriss92.bearblog.dev/cinco-escenas-de-night-in-the-woods/",
-    "fecha": "17/11/2025",
-    "contenido": "En la reseña que escribí sobre Night in the Woods comenté que un aspecto que me gustaba mucho del juego eran aquellos momentos muy especiales que nacían de lo cotidiano. A partir de ellos y de todo lo que me han transmitido, he querido hacer un pequeño ejercicio, que consiste en seleccionar cinco de"
   },
   {
     "blog": "danielaragay.net",
@@ -82,13 +117,6 @@
     "link": "https://mundoceltamedieval.wordpress.com/2025/11/17/frase-de-la-semana-56/",
     "fecha": "17/11/2025",
     "contenido": "Un buen comienzo es la mitad del trabajo. Proverbio irlandés"
-  },
-  {
-    "blog": "Calaveras",
-    "titulo": "¿Qué pasa con las tipografías Serif?",
-    "link": "https://calaveras.bearblog.dev/que-pasa-con-las-tipografias-serif/",
-    "fecha": "17/11/2025",
-    "contenido": "Teniendo un poquito de tiempo, me puse a revisar las últimas identidades visuales que armé, como una especie de introspectiva diseñística, y primero me puse contento por la amplia variedad de colores que incorporé a mi flujo de trabajo, a mi forma de pensar y de componer una identidad, pero luego me"
   },
   {
     "blog": "Jinversor",
@@ -294,20 +322,6 @@
     "contenido": "Cuando pensamos en la educación de nuestros jóvenes parece que todo está fatal. Vamos a darle una vueltecita al asunto. Sí… La situación es verdaderamente complicada. Solo pensando un poco tengo una metralleta de razones para decir que la educación está tan mal como solemos pensar. Faltan medios mat"
   },
   {
-    "blog": "plr blog",
-    "titulo": "Citas y fragmentos de obras con licencia CC BY-ND o CC BY-NC-ND en materiales de clase de asignaturas de una universidad pública",
-    "link": "https://pedrolr.es/blog/citas-y-fragmentos-de-obras-con-licencia-cc-by-nd-o-cc-by-nc-nd-en-materiales-de-clase-de-asignaturas-de-una-universidad-publica/",
-    "fecha": "13/11/2025",
-    "contenido": "Este contenido lo iba a haber incluido en un post anterior muy parecido, pero al final lo publico como post individual. Preparando materiales para mis clases, en muchas ocasiones me surge el dilema de si puedo incluir contenido de otras obras que tienen licencia CC BY-ND o CC BY-NC-ND. El no comerci"
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Citas y fragmentos de manuales, libros de texto o publicaciones asimiladas en materiales de clase de asignaturas de una universidad pública",
-    "link": "https://pedrolr.es/blog/citas-y-fragmentos-de-manuales-libros-de-texto-o-publicaciones-asimiladas-en-materiales-de-clase-de-asignaturas-de-una-universidad-publica/",
-    "fecha": "13/11/2025",
-    "contenido": "Este curso estoy impartiendo docencia en la asignatura de Derechos y Licencias Digitales del Máster en Gestión de la Documentación, Bibliotecas y Archivos de la UCM. He tenido que investigar muchos casos sobre propiedad intelectual y libros, música, entidades de gestión, etc., y analizar a fondo el "
-  },
-  {
     "blog": "Plutoide Marcianadas",
     "titulo": "Mini Carrera con Púlsar, Jin, y Aulik",
     "link": "https://plutoidemarcianadas.blogspot.com/2025/11/mini-carrera-con-pulsar-jin-y-aulik.html",
@@ -376,13 +390,6 @@
     "link": "https://mundoceltamedieval.wordpress.com/2025/11/13/santiago-molina-lanza-un-crowdfunding-para-financiar-un-documental-y-un-disco/",
     "fecha": "13/11/2025",
     "contenido": "Desde hace tiempo Santiago Molina viene con intensión de grabar un nuevo disco, por ello lanzo un crowdfunding para financiar de manera independiente su nueva producción discográfica, ademas decidió lanzar un documental con todo el proceso de grabación y realización del disco. Ya se viene trabajando"
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "The Marvelous Mrs. Maisel y Mad Men ocurren en la misma ciudad y más o menos la misma época: qué cerca y qué diferentes",
-    "link": "https://pedrolr.es/blog/the-marvelous-mrs-maisel-y-mad-men-ocurren-en-la-misma-ciudad-y-mas-o-menos-la-misma-epoca-que-cerca-y-que-diferentes/",
-    "fecha": "12/11/2025",
-    "contenido": "Estoy viendo por segunda vez la serie The Marvelous Mrs. Maisel y Mad Men la vi dos veces ya. Me llama la atención que ambas series ocurren en la década de los 50 y/o 60, en un tiempo muy cercano, y además en la misma ciudad: Nueva York. En cambio, la realidad de ese tiempo [&#8230;]"
   },
   {
     "blog": "alt43",
@@ -476,13 +483,6 @@
     "contenido": "Se metieron en mi vida, intentaron decirme qué hacer, e incluso quisieron encerrarme.Si los hubiera escuchado, quizás no estaría en este callejón con una jeringuilla en el brazo. Mi vida apagándose de manera lenta e inexorable."
   },
   {
-    "blog": "Un bruto con Debian",
-    "titulo": "Clonando equipos con Clonezilla",
-    "link": "http://unbrutocondebian.blogspot.com/2025/11/clonando-equipos-con-clonezilla.html",
-    "fecha": "11/11/2025",
-    "contenido": "&nbsp;Tenia que clonar un equipo. En este caso era un equipo con Windows y logré encontrar un programa que prometía clonar el disco duro desde el propio Windows. Solo tenia dos problemillas, hay que reiniciar el equipo y el programa trabaja antes de volver a cargar el escritorio y los servicios, con"
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "Siempre pasan cosas",
     "link": "https://www.macram.es/posts/2025/11/pasan-cosas/",
@@ -490,25 +490,11 @@
     "contenido": "Una frase que he escuchado mucho y uno de los argumentos que muchos tienen para irse del rural a una ciudad es que en las ciudades &ldquo;pasan cosas&rdquo;. Hay conciertos, hay obras de teatro, puedes salir a la calle y ver gente. Incluso a veces enciendes la televisión y en el telediario hablan de"
   },
   {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "486. Después de la muerte",
-    "link": "https://lamadredelpatonegro.blogspot.com/2025/11/486-despues-de-la-muerte.html",
-    "fecha": "11/11/2025",
-    "contenido": "&nbsp; &nbsp; Un nuevo cadáver se acercó y se colocó junto a mí. El recién llegado todavía estaba en un estado, digamos, aceptable. Lo cual me hizo pensar que llevaba un par de horas muerto; tres a lo sumo. Su cara, pese a estar inanimada, también reflejaba desengaño. Lo mismo que la faz de sus ante"
-  },
-  {
     "blog": "impermanente",
     "titulo": "Una nueva era",
     "link": "https://impermanente.es/2025/11/11/una-nueva-era.html",
     "fecha": "11/11/2025",
     "contenido": ""
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Kener en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-kener-en-d/",
-    "fecha": "11/11/2025",
-    "contenido": "Instala Kener en Debian 13 con Docker y crea tu propia página de estado moderna, ligera y totalmente autohospedada."
   },
   {
     "blog": "",
