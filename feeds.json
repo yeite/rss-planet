@@ -1,10 +1,45 @@
 [
   {
+    "blog": "Blep",
+    "titulo": "Capitalismo y responsabilidad",
+    "link": "https://blep.org/Capitalismo-y-responsabilidad",
+    "fecha": "19/11/2025",
+    "contenido": "Ayer se cayó Cloudflare. Para los que no lo sepan, Cloudflare es una empresa que provee todo un conglomerado de servicios que actúan exactamente entre el dominio (la dirección de internet que escribe el usuario) y el servidor (que es quien recibe la solicitud del usuario). La amplia gama de esos ser"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Añadiendo Flatpak a mi liberador de espacio en disco",
+    "link": "https://thecheis.com/2025/11/19/anadiendo-flatpak-a-mi-liberador-de-espacio-en-disco/",
+    "fecha": "19/11/2025",
+    "contenido": "En mi Arch Linux utilizo dos alias para simplificar la administración de software del sistema. Uno gestiona todas las actualizaciones, ejecutando Pacman y Flatpak en un solo comando llamado update. El otro alias es un liberador de espacio en disco, y se encarga de borrar la caché de Arch manteniendo"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "La ONG que fundó Bram Moolenaar, el creador de #Vim, cesa su actividad",
+    "link": "https://victorhckinthefreeworld.com/2025/11/19/la-ong-que-fundo-bram-moolenaar-el-creador-de-vim-cesa-su-actividad/",
+    "fecha": "19/11/2025",
+    "contenido": "Bram Moolenar fundó hace 30 años la ONG ICCF Holland, que ahora ve cómo tiene que cesar su actividad de ayuda a niños en Uganda. Pero los proyectos continúan."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Moodle en nuestro servidor con SSL en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-moodle-en-nuestro-servidor-con-ssl-en-debian-13/",
+    "fecha": "19/11/2025",
+    "contenido": "Moodle es una herramienta de gestión de aprendizaje (LMS), o más concretamente de Learning Content Management (LCMS), de distribución libre, escrita en PHP​."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Los navegadores de OpenAI y Perplexity como riesgo de seguridad",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/19/20251119-navegador-agentico/",
     "fecha": "19/11/2025",
     "contenido": "Si bien la idea de agentes inteligentes es muy interesante, una mala implementación es un peligro"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El Kiosco Anómalo de Palermo",
+    "link": "https://docig.mataroa.blog/blog/el-kiosco-anomalo-de-palermo/",
+    "fecha": "19/11/2025",
+    "contenido": "El kiosco de Don Lucho, situado en una esquina inconfundiblemente fea de Palermo, era famoso por dos cosas: el mal humor pétreo de su dueño y la extraña persistencia con la que seguía vendiendo ejemplares de la revista Selecciones del Reader's Digest de 1978.\nPero el Kiosco Lucho tenía una propiedad"
   },
   {
     "blog": "Victorhck in the free world",
@@ -469,27 +504,6 @@
     "contenido": "Desde hace tiempo Santiago Molina viene con intensión de grabar un nuevo disco, por ello lanzo un crowdfunding para financiar de manera independiente su nueva producción discográfica, ademas decidió lanzar un documental con todo el proceso de grabación y realización del disco. Ya se viene trabajando"
   },
   {
-    "blog": "plr blog",
-    "titulo": "The Marvelous Mrs. Maisel y Mad Men ocurren en la misma ciudad y más o menos la misma época: qué cerca y qué diferentes",
-    "link": "https://pedrolr.es/blog/the-marvelous-mrs-maisel-y-mad-men-ocurren-en-la-misma-ciudad-y-mas-o-menos-la-misma-epoca-que-cerca-y-que-diferentes/",
-    "fecha": "12/11/2025",
-    "contenido": "Estoy viendo por segunda vez la serie The Marvelous Mrs. Maisel y Mad Men la vi dos veces ya. Me llama la atención que ambas series ocurren en la década de los 50 y/o 60, en un tiempo muy cercano, y además en la misma ciudad: Nueva York. En cambio, la realidad de ese tiempo [&#8230;]"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Migrando de Spotify al código abierto",
-    "link": "https://alt43.es/migrando-de-spotify-al-codigo-abierto/",
-    "fecha": "12/11/2025",
-    "contenido": "Como usuario durante muchos años de una cuenta Premium (compartida) en Spotify, llevo bastante tiempo barajando la posibilidad&#46;&#46;&#46;"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Lux",
-    "link": "https://www.macram.es/musica/lux/",
-    "fecha": "12/11/2025",
-    "contenido": "Es noviembre de 2025 y estoy interesado en la música. Por supuesto que tenía que escuchar Lux. Rosalía es una artista que me gusta aunque tampoco puedo decir que sea fan ni que me obsesione. Y este disco está totalmente dentro de lo que podría esperar de ella, vista su trayectoria (Motomami aparte)."
-  },
-  {
     "blog": "Eterno aprendiz",
     "titulo": "Bonus: Joe Vasconcellos con Nicole",
     "link": "https://altgr.xyz/2025/11/12/bonus-track-joe-vasconcellos-con-nicole/",
@@ -504,32 +518,11 @@
     "contenido": "Como si Fauna Primavera hubiese sido poco, el domingo nos fuimos a la celebración de los 30 años de «Toque», el más exitoso disco de Joe Vasconcellos, en el Movistar Arena. El concierto estuvo muy por sobre mis expectativas. ¡Cuántas canciones memorables! muchas de ellas las tenía casi olvidadas. Mú"
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Navidrome en Portainer",
-    "link": "https://voidnull.es/instalacion-de-navidrome-en-portainer/",
-    "fecha": "12/11/2025",
-    "contenido": "Descubre cómo instalar Navidrome en Portainer dentro de tu NAS y crea tu propio servicio de música en la nube sin complicaciones."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Violoncello como navegador en texto plano",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/12/20251112-violoncello/",
-    "fecha": "12/11/2025",
-    "contenido": "Navegar en texto plano tiende ventajas de velocidad y ahorra, pero tambien visibiliza el poco respeto porla accesibilidad"
-  },
-  {
     "blog": "La Paradoja del Cero y el Uno",
     "titulo": "El Kernel de Un Megabyte",
     "link": "https://docig.bearblog.dev/el-kernel-de-un-megabyte/",
     "fecha": "12/11/2025",
     "contenido": "Era un sistema operativo sin pretensiones, una astilla digital llamada \"TinyOne\". Apenas pesaba un megabyte, una pluma de kernel y utilidades esenciales que cabía con holgura en un disquete de antaño . No tenía interfaz gráfica, ni música, ni siquiera un navegador web. Solo un prompt austero y parpa"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Your photo as a drawing",
-    "link": "https://www.ericafustero.com/2025-11-your-photo-as-a-drawing",
-    "fecha": "12/11/2025",
-    "contenido": "Crear ilustraciones a partir de fotografías es una de mis especialidades - me encanta el reto que implica interpretar los detalles a mi estilo, sin perder la esencia del original. Así que este otoño vuelvo a abrir mis encargos para transformar tus fotos en dibujos, justo a tiempo para Navidad.Puede "
   },
   {
     "blog": "",
