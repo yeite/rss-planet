@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "SANYO M2402-7F, reparaciones (I)",
+    "link": "https://malagaoriginal.blogspot.com/2025/11/sanyo-m2402-7f-reparaciones-i.html",
+    "fecha": "21/11/2025",
+    "contenido": "Voy a empezar una nueva sección donde contaré mis aventuras y \ndesventuras reparando, o al menos intentando, mi colección de radiocassettes y otros aparatos \nque están faltos cariño para volver a ser lo que fueron.El primer conejillo de indias va a ser este radiocassette Sanyo M2402-7F de los años 7"
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Web de recursos con mapas markmap para un curso sobre aspectos legales en bibliotecas digitales",
+    "link": "https://pedrolr.es/blog/web-de-recursos-con-mapas-markmap-para-un-curso-sobre-aspectos-legales-en-bibliotecas-digitales/",
+    "fecha": "21/11/2025",
+    "contenido": "El día 20 impartí un pequeño curso sobre aspectos legales en bibliotecas digitales. Se trataba de un curso para personal bibliotecario de la Comunidad de Madrid. Lo dividí en dos partes: una primera sobre aspectos legales en general, tratando de la Ley de Propiedad Intelectual en España, y una segun"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "489. El manuscrito",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/11/489-el-manuscrito.html",
+    "fecha": "21/11/2025",
+    "contenido": "&nbsp; &nbsp;El cincuentenario Rudesindo lleva meses con todo el tiempo del mundo a su disposición. Ya no tiene que trabajar y encima tiene todas sus necesidades cubiertas. La mañana la emplea en hacer la compra de nutrientes y las tareas de limpieza. Si no toca hacer ninguna de esas dos obligacione"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Pipelines y comandos compuestos #17",
+    "link": "https://voidnull.es/pipelines-y-comandos-compuestos-17/",
+    "fecha": "21/11/2025",
+    "contenido": "Pipelines y operadores lógicos para combinar comandos en Bash y controlar cómo y cuándo se ejecutan."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Un poco o un mucho de asexual",
     "link": "https://adrianperales.com/2025/11/un-poco-o-un-mucho-de-asexual/",
@@ -476,13 +504,6 @@
     "contenido": ""
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Mostrar el contenido de un archivo de texto en Amstrad CPC",
-    "link": "https://malagaoriginal.blogspot.com/2025/11/mostrar-el-contenido-de-un-archivo-de.html",
-    "fecha": "14/11/2025",
-    "contenido": "Si en un Amstrad CPC tecleas el comando:CAT misdatos.txtNo te mostrará el contenido del archivo de nombre misdatos.txt, en el mejor de los casos te mostrará el nombre del archivo si está en el directorio del disquete o si lo encuentra recorriendo la cinta.Entonces, ¿cómo puedo ver el contenido de un"
-  },
-  {
     "blog": "La Loica",
     "titulo": "Revista – El Gran Libro del Crochet Decohogar",
     "link": "https://laloica.noblogs.org/revista-el-gran-libro-del-crochet-decohogar/",
@@ -537,19 +558,5 @@
     "link": "https://altgr.xyz/2025/11/14/tu-falta-de-querer-dua-lipa-original-de-mon-laferte/",
     "fecha": "14/11/2025",
     "contenido": "Dua Lipa versionó Tu Falta de Querer de Mon Laferte en su primera presentación en Chile, la noche del martes 11 de noviembre, como parte del Radical Optimism Tour 2025. La canción estuvo bien, aunque está lejos de ser un gran cover. La original con la entonación y el sentimiento que lo interpreta Mo"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Endpoints y variables en Docker #9",
-    "link": "https://voidnull.es/docker-7-3/",
-    "fecha": "14/11/2025",
-    "contenido": "Aprende a usar ENTRYPOINT, CMD, ARG y ENV para crear contenedores Docker flexibles y configurables."
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Retoque Húmedo",
-    "link": "https://docig.bearblog.dev/el-retoque-humedo/",
-    "fecha": "14/11/2025",
-    "contenido": "Bartolo barría el Teatro de los Soliloquios. Las tres de la mañana, un silencio electrónico y el olor a ozono residual de la proyección. Acababan de terminar Las Horas Muertas, una tragedia sobre un relojero ciego, interpretada por un elenco de hologramas de luz coherente.\nEncontró un pañuelo de sed"
   }
 ]
