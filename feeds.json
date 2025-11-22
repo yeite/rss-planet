@@ -7,6 +7,13 @@
     "contenido": "Voy a empezar una nueva sección donde contaré mis aventuras y \ndesventuras reparando, o al menos intentando, mi colección de radiocassettes y otros aparatos \nque están faltos cariño para volver a ser lo que fueron.El primer conejillo de indias va a ser este radiocassette Sanyo M2402-7F de los años 7"
   },
   {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Ejercicio de casa Semana 9 del Taller de Escritura Creativa Librería Luces 2025/2026",
+    "link": "https://mcallus.net/2025/11/21/ejercicio-de-casa-semana-9-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
+    "fecha": "21/11/2025",
+    "contenido": "Esta semana al taller teníamos que llevar extractos de un diario. En mi caso opté por tirar de un personaje, que me da todo el asco por como es, del cual tengo a medio escribir un relato. Si en el relato el personaje ya lleva unos años en la flota, en estos diarios pongo sus [&#8230;]"
+  },
+  {
     "blog": "plr blog",
     "titulo": "Web de recursos con mapas markmap para un curso sobre aspectos legales en bibliotecas digitales",
     "link": "https://pedrolr.es/blog/web-de-recursos-con-mapas-markmap-para-un-curso-sobre-aspectos-legales-en-bibliotecas-digitales/",
@@ -14,11 +21,39 @@
     "contenido": "El día 20 impartí un pequeño curso sobre aspectos legales en bibliotecas digitales. Se trataba de un curso para personal bibliotecario de la Comunidad de Madrid. Lo dividí en dos partes: una primera sobre aspectos legales en general, tratando de la Ley de Propiedad Intelectual en España, y una segun"
   },
   {
+    "blog": "Interlan",
+    "titulo": "Artículo: El bucle For Each",
+    "link": "https://interlan.ec/2025/11/21/articulo-el-bucle-for-each/",
+    "fecha": "21/11/2025",
+    "contenido": "Esta es una curiosidad que noté tras intentar aprender como se hace un bucle for each en otros lenguajes aparte de los que conozco. Es interesante notar que hay lenguajes que tardaron décadas en implementarlo y otros que lo hicieron apenas nacieron, así que hoy hago un análisis de lo que aprendí al "
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "¿Abandonar Instagram? Es lo único que me queda para seguir teniendo contacto con mis amigos «reales»",
+    "link": "https://blog.luiscarlospando.com/personal/2025/11/abandonar-instagram-es-lo-unico-que-me-queda-para-seguir-teniendo-contacto-con-mis-amigos-reales/",
+    "fecha": "21/11/2025",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "489. El manuscrito",
     "link": "https://lamadredelpatonegro.blogspot.com/2025/11/489-el-manuscrito.html",
     "fecha": "21/11/2025",
     "contenido": "&nbsp; &nbsp;El cincuentenario Rudesindo lleva meses con todo el tiempo del mundo a su disposición. Ya no tiene que trabajar y encima tiene todas sus necesidades cubiertas. La mañana la emplea en hacer la compra de nutrientes y las tareas de limpieza. Si no toca hacer ninguna de esas dos obligacione"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Cine de bolsillo: Mi experiencia con lentes anamórficas y el iPhone 17 Pro",
+    "link": "https://blog.danielaragay.net/cine-de-bolsillo-mi-experiencia-con-lentes-anamorficas-y-el-iphone-17-pro/",
+    "fecha": "21/11/2025",
+    "contenido": "En este episodio, Dani explora el mundo de la cinematograf&#xed;a m&#xf3;vil con su nueva adquisici&#xf3;n: la lente anam&#xf3;rfica Beastgrip 1.55x. Descubre c&#xf3;mo transformar un iPhone 17 Pro en una c&#xe1;mara de cine, entendiendo las diferencias entre el"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Oasis, el concierto que pensé jamás presenciaría",
+    "link": "https://altgr.xyz/2025/11/21/oasis-el-concierto-que-pense-jamas-presenciaria/",
+    "fecha": "21/11/2025",
+    "contenido": "La poco amistosa relación de los hermanos Gallagher tras la separación de Oasis el 2009, a muchos nos había hecho perder toda esperanza de verlos reunidos nuevamente y mucho menos en una presentación en vivo. 15 años tuvimos que esperar para el milagro musical. A las 21:05 hrs. del miércoles saliero"
   },
   {
     "blog": "_ voidNull",
@@ -462,13 +497,6 @@
     "contenido": "Uno de los mejores blogs dedicados a los juegos de rol que tenemos en castellano es Rol de los 90, creado por Surf, el pseudónimo de Domingo Cuenca Osuna. Mientras que la mayoría de los blogs roleros son bitácoras personales en las que la gente habla del rol desde el punto de vista del aficionado (e"
   },
   {
-    "blog": "Alexis Alzate",
-    "titulo": "Deberías intentar crear tu primera página web",
-    "link": "https://alexisalzate.com/blog/2025-11-09/",
-    "fecha": "15/11/2025",
-    "contenido": "Algo que suele sorprenderme es cuando alguien dice: “yo no sé” y se\nqueda así, como si no tuviera la capacidad de aprender como el resto de\nlas personas.\nSi estás leyendo este texto y aún no tienes una página web, tal vez\ndeberías aprender a crear tu propio espacio en Internet, más allá de los\nperfi"
-  },
-  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "No, ni los LLMs son conscientes ni mi smartphone tiene hambre",
     "link": "https://vonneumannmachine.wordpress.com/2025/11/15/no-ni-llms-son-conscientes-ni-mi-smartphone-tiene-hambre/",
@@ -502,61 +530,5 @@
     "link": "https://sopadeletras.club/efmorell/la-dama-blanca",
     "fecha": "15/11/2025",
     "contenido": ""
-  },
-  {
-    "blog": "La Loica",
-    "titulo": "Revista – El Gran Libro del Crochet Decohogar",
-    "link": "https://laloica.noblogs.org/revista-el-gran-libro-del-crochet-decohogar/",
-    "fecha": "14/11/2025",
-    "contenido": "Esta revista (aunque se autodenomina libro) es de la editorial Evia y es una publicación del 2016 en Argentina. Esta revista la encontré en una librería de libros usados. Esta revista en particular me gusta mucho porque tiene un inicio muy detallado para quienes se están iniciando en el crochet; de "
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 46 de 2025",
-    "link": "https://victorhckinthefreeworld.com/2025/11/14/opensuse-tumbleweed-revision-de-la-semana-46-de-2025/",
-    "fecha": "14/11/2025",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Desarme: Case Power Bank 18650×8 18000mAh",
-    "link": "https://interlan.ec/2025/11/14/desarme-case-power-bank-18650x8-18000mah/",
-    "fecha": "14/11/2025",
-    "contenido": "Siempre quise un Case Power Bank, debido a la enorme cantidad de baterías de litio que estaba acumulando debido a que arreglaba computadoras  y bueno, las mías propias que dejaban de funcionar. Me parecía una buena idea para poder reciclar hasta la ultima gota de la vida de esas baterías, conocidas "
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Las cosas que pasan cuando dejamos de querer ser vistos",
-    "link": "https://blog.luiscarlospando.com/personal/2025/11/las-cosas-que-pasan-cuando-dejamos-de-querer-ser-vistos/",
-    "fecha": "14/11/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Se nos ha olvidado navegar por Internet",
-    "link": "https://www.macram.es/posts/2025/11/navegar-por-internet/",
-    "fecha": "14/11/2025",
-    "contenido": "Cuando no teníamos Internet en el bolsillo ni en todas partes, cuando el uso de Internet era totalmente intencional y consciente y no lo teníamos tan interiorizado, había una cosa que hacíamos: entrábamos en Internet. Si teníamos la suerte de tener Internet en casa teníamos que conectarnos a la red,"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "487. Los tiempos salvajes",
-    "link": "https://lamadredelpatonegro.blogspot.com/2025/11/487-los-tiempos-salvajes.html",
-    "fecha": "14/11/2025",
-    "contenido": "&nbsp; &nbsp;Nile me transportaron atrás en el tiempo, cuando el sol todavía era joven y se ocultaba tras las pirámides hasta desaparecer. Me dieron a conocer a Nefrén-ka, el Faraón Negro, último y verdadero de la Tercera Dinastía de Egipto.&nbsp;&nbsp; &nbsp;No pude más que rendirme ante su magnifi"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Accidente de bus en Estocolmo, pereza haciendo producciones y más",
-    "link": "https://blog.danielaragay.net/accidente-de-bus-en-estocolmo-pereza-haciendo-producciones-y-mas/",
-    "fecha": "14/11/2025",
-    "contenido": "Un poco de todo y poni&#xe9;ndote al d&#xed;a de las &#xfa;ltimas noticias: accidente de bus en Estocolmo, pereza haciendo producciones, nuevo MacBook Pro, comparando con el MacStudio entre otras cosas.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@pr"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Tu falta de querer – Dua Lipa (Original de Mon Laferte)",
-    "link": "https://altgr.xyz/2025/11/14/tu-falta-de-querer-dua-lipa-original-de-mon-laferte/",
-    "fecha": "14/11/2025",
-    "contenido": "Dua Lipa versionó Tu Falta de Querer de Mon Laferte en su primera presentación en Chile, la noche del martes 11 de noviembre, como parte del Radical Optimism Tour 2025. La canción estuvo bien, aunque está lejos de ser un gran cover. La original con la entonación y el sentimiento que lo interpreta Mo"
   }
 ]
