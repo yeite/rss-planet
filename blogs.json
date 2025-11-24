@@ -17,9 +17,17 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "Neptuno en la calle. Archivo secreto de Carlos Maza",
+    "Url": "https://calleneptuno.wordpress.com",
+    "Feed": "https://calleneptuno.wordpress.com/feed/",
+    "Descripción": "Ensayos, crónicas, reseñas y notas sobre cultura, edición, propiedad intelectual (no creo en eso), libros, cine, vida urbana y cosas que van pasando.",
+    "Categoría": "Ciencia y Humanidades, Entretenimiento y Cultura, Literarios",
+    "País": "México"
+  },
+  {
     "Nombre": "culturavisual.cc",
     "Url": "https://culturavisual.cc",
-    "Feed": "https://culturavisual.cc/feed/https://culturavisual.cc/feed/",
+    "Feed": "https://culturavisual.cc/feed",
     "Descripción": "culturavisual.cc es un blog de análisis y compartición de textos, materiales y recursos educativos vinculados a explorar las conexiones entre el arte y la educación y las formas de articulación posibles del pensamiento artístico. Es un proyecto personal de Ricard Ramon.",
     "Categoría": "Arte y Diseño, Fotografía",
     "País": "España"
