@@ -1,5 +1,33 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "350 kilómetros por hora",
+    "link": "https://brucknerite.net/2025/11/350-kilometros-por-hora.html",
+    "fecha": "24/11/2025",
+    "contenido": "Ahora que todo el mundo y su respectiva mascota es experto en dinámica de circulación ferroviaria a muy alta velocidad, ¿qué puedo contar yo que no sepáis? Darse una vuelta por LinkedIn estos días, después del anuncio del ministro del ramo de que en un futuro la alta velocidad en España alcanzará pu"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Leí los términos del servicio de mi Smart TV y ahora duermo con un ojo abierto",
+    "link": "https://victorhckinthefreeworld.com/2025/11/24/lei-los-terminos-del-servicio-de-mi-smart-tv-y-ahora-duermo-con-un-ojo-abierto/",
+    "fecha": "24/11/2025",
+    "contenido": "Un horror por el que pasamos inadvertidos. Aquí traigo mi ejemplo para que vosotros y vosotras podáis escapar si aún estáis a tiempo..."
+  },
+  {
+    "blog": "Un bruto con Debian",
+    "titulo": "¿Buscas anonimato en la red? Torificate sin despeinarte.",
+    "link": "http://unbrutocondebian.blogspot.com/2025/11/buscas-anonimato-en-la-red-torificate.html",
+    "fecha": "24/11/2025",
+    "contenido": "&nbsp;Cada día es mas necesario el uso de una VPN, para salvar restricciones geográficas, para evitar seguimientos, para esquivar bloqueos IP de los operadores… Si quieres un mínimo de privacidad, no te queda otra que pasar una vez más por caja.Pero existe una manera de conseguirlo tremendamente sen"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Almacenamiento cifado de Filen.io y su nueva App Android",
+    "link": "https://alt43.es/almacenamiento_cifado_de_filen_io_y_su_nueva_app_android/",
+    "fecha": "24/11/2025",
+    "contenido": "Hace algún tiempo, realizamos una reseña (a modo de comparación con Mega) del servicio de almacenamiento en la&#46;&#46;&#46;"
+  },
+  {
     "blog": "Un Pingüino 🐧",
     "titulo": "Mi recorrido por Appalachia en Fallout 76",
     "link": "https://unpinguino.com/fallout-76/",
@@ -19,6 +47,27 @@
     "link": "https://altgr.xyz/2025/11/23/que-ves-divididos-en-vivo-teatro-coliseo-22-11-2025/",
     "fecha": "24/11/2025",
     "contenido": "Aquí va uno de los fragmentos que grabé en el concierto de Divididos en el Teatro Coliseo. ¿Qué ves?, una de las canciones más conocidas del trío argentino. Es parte del disco La Era de la Boludez, de 1993, con el que la banda saltó a la fama."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de OpenPanel en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-openpanel-en-debian-13/",
+    "fecha": "24/11/2025",
+    "contenido": "Descubre OpenPanel, un panel de control moderno y ligero para servidores GNU/Linux. Con entornos aislados por usuario, soporte para múltiples tecnologías y una interfaz personalizable, es la alternativa perfecta a cPanel o Plesk."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "El verano que viviré",
+    "link": "https://www.xn--jmuoz-qta.es/2025/11/el-verano-que-vivire.html",
+    "fecha": "24/11/2025",
+    "contenido": "\n  \n    \n  \nEstamos a menos de un mes para la Nochebuena y eso querrá decir que nos habremos ventilado un tercio del curso. A la vuelta, en enero, serán seis meses más y fin.No me voy a creer cuando sea 30 de junio. Cuando diga adiós definitivamente a un curso que se me está haciendo cuesta arriba, "
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Varias preguntas que planteé en la charla \"La reforma de la evaluación impulsada por CoARA en la UCM: nuevo grupo de trabajo y primeras implementaciones\"",
+    "link": "https://pedrolr.es/blog/varias-preguntas-que-plantee-en-la-charla-la-reforma-de-la-evaluacion-impulsada-por-coara-en-la-ucm-nuevo-grupo-de-trabajo-y-primeras-implementaciones/",
+    "fecha": "23/11/2025",
+    "contenido": "El 22 de octubre asistí virtualmente a la charla \"La reforma de la evaluación impulsada por CoARA en la UCM: nuevo grupo de trabajo y primeras implementaciones\". Han publicado el vídeo en Youtube (Biblioteca UCM, 2025). Brevemente y desde la misma web de CoARA: La Coalición para el Avance de la Eval"
   },
   {
     "blog": "Mareos de un geek",
@@ -462,20 +511,6 @@
     "contenido": "En el marco del Taller “Autodefensa Digital ante el Ciberacoso a través de Fanzines”, diseñé este pequeño fanzine de descarga libre: “Autodefensa digital explicada por Gatxs”. Es un mini-protocolo práctico para saber cómo actuar frente a situaciones de violencia digital, pensado para que nadie tenga"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Alienígenas e inteligencia",
-    "link": "https://brucknerite.net/2025/11/alienigenas-e-inteligencia.html",
-    "fecha": "17/11/2025",
-    "contenido": "“We have no idea what an alien person or being or intelligence or machine would be motivated by… We don’t know what motivates the Kremlin, for God’s sake.”"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Cómo explicar las 4 libertades del software libre a los niños y niñas",
-    "link": "https://victorhckinthefreeworld.com/2025/11/17/como-explicar-las-4-libertades-del-software-libre-a-los-ninos-y-ninas/",
-    "fecha": "17/11/2025",
-    "contenido": "Si eres un padre o una madre, o personal docente y quieres enseñar cuales son las 4 libertades del software libre puedes hacerlo con estos ejemplos Este artículo trata de acercar el concepto de las cuatro libertades del software libre a los más pequeños. Hace una serie de comparaciones para que los "
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Suplantación de identidad",
     "link": "https://jinversor.co/2025/11/suplantacion-de-identidad/",
@@ -483,46 +518,11 @@
     "contenido": "Hace poco me llegaron unos mensajes de un número desconocido pero la foto de perfil era de una persona que sí conozco. Me pareció sospechoso pues no es alguien con [&#8230;]\nLa entrada Suplantación de identidad se publicó primero en Jinversor."
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Todas las personas que fui",
-    "link": "https://mareosdeungeek.es/todas-las-personas-que-fui/",
-    "fecha": "17/11/2025",
-    "contenido": "Todas las personas que fui seguramente sea la lectura más rápida en ser comentada en esta bitácora (si estás apuntado a la lista de correo sabes por qué lo digo) Leído ayer mismo, sin lugar a dudas, la obra de Alfonso Casas merece la pena. Estamos ante al tercera parte de una serie de obras [&#8230;"
-  },
-  {
-    "blog": "Cajón desastre",
-    "titulo": "Cinco escenas de Night in the Woods",
-    "link": "https://ccriss92.bearblog.dev/cinco-escenas-de-night-in-the-woods/",
-    "fecha": "17/11/2025",
-    "contenido": "En la reseña que escribí sobre Night in the Woods comenté que un aspecto que me gustaba mucho del juego eran aquellos momentos muy especiales que nacían de lo cotidiano. A partir de ellos y de todo lo que me han transmitido, he querido hacer un pequeño ejercicio, que consiste en seleccionar cinco de"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "El ingrediente inesperado: Capítulo 17",
     "link": "https://blog.danielaragay.net/el-ingrediente-inesperado-capitulo-17/",
     "fecha": "17/11/2025",
     "contenido": "Todos los cap&#xed;tulos anteriores: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoCaminaban sin prisa por las calles en direcci&#xf3;n al Wat Phra Singh, dejando atr&#xe1;s el ruido alegre de los cubetazos y las risas de Songkran. Sebasti&#xe1;n avanzaba con una sonrisa qu"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Nginx Proxy Manager en Proxmox",
-    "link": "https://voidnull.es/instalacion-de-proxy-nginx-manager-en-proxmox/",
-    "fecha": "17/11/2025",
-    "contenido": "Gestor web para crear proxies inversos y SSL fácilmente con Nginx."
-  },
-  {
-    "blog": "Actionauta - Notas por Sebastián Veggiani",
-    "titulo": "Enseñar programación",
-    "link": "https://xol.ar/notes/ensenar-programacion",
-    "fecha": "17/11/2025",
-    "contenido": "Luego de fallar múltiples veces intentando enseñar a crear con código, un pequeño post en otro blog ha encendido una idea que podría ser más efectiva."
-  },
-  {
-    "blog": "",
-    "titulo": "Frase de la semana.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/11/17/frase-de-la-semana-56/",
-    "fecha": "17/11/2025",
-    "contenido": "Un buen comienzo es la mitad del trabajo. Proverbio irlandés"
   },
   {
     "blog": "Calaveras",
