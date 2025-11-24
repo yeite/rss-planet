@@ -1,5 +1,26 @@
 [
   {
+    "blog": "Un Pingüino 🐧",
+    "titulo": "Mi recorrido por Appalachia en Fallout 76",
+    "link": "https://unpinguino.com/fallout-76/",
+    "fecha": "24/11/2025",
+    "contenido": "No hace mucho que empecé a jugar Fallout 76, estaba buscando un juego con multijugador&#8230;"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Spaghetti del Rock – Divididos (En vivo Teatro Coliseo 22/11/2025)",
+    "link": "https://altgr.xyz/2025/11/23/spaghetti-del-rock-divididos-en-vivo-teatro-coliseo-22-11-2025/",
+    "fecha": "24/11/2025",
+    "contenido": "Necesitaba dejar registro, al menos unos segundos, de una de las canciones más hermosas de Divididos. Pistones de un curioso motor de humanidadResortes viejos de este amor que vaMemoria hostil de un tiempo de paz sin pazNarices frías de una noche atrás"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "¿Qué ves? – Divididos (En vivo Teatro Coliseo 22/11/2025)",
+    "link": "https://altgr.xyz/2025/11/23/que-ves-divididos-en-vivo-teatro-coliseo-22-11-2025/",
+    "fecha": "24/11/2025",
+    "contenido": "Aquí va uno de los fragmentos que grabé en el concierto de Divididos en el Teatro Coliseo. ¿Qué ves?, una de las canciones más conocidas del trío argentino. Es parte del disco La Era de la Boludez, de 1993, con el que la banda saltó a la fama."
+  },
+  {
     "blog": "Mareos de un geek",
     "titulo": "Anonimato",
     "link": "https://mareosdeungeek.es/anonimato/",
@@ -14,11 +35,39 @@
     "contenido": "Leo este post en el blog Birchtree: &ldquo;Are consumers just tech debt to Microsoft?&rdquo;. Permitidme citar algunos pasajes.\n\nNumber one is that Microsoft just does not feel like a consumer tech company at all anymore. (…) If you are not a customer who is a major business or a developer creating "
   },
   {
+    "blog": "pov – matizeta",
+    "titulo": "La web pende de un hilo",
+    "link": "https://matizeta.com/2025/11/23/la-web-pende-de-un-hilo/",
+    "fecha": "23/11/2025",
+    "contenido": "El siguiente texto lo escribí el día después de la caída de Cloudflare de la semana pasada. Había quedado en el borrador, por una cosa u otra no lo publiqué hasta hoy. La siguiente es una crónica de aquél día y reflexión para tomar acción. Ayer me desperté y luego de hacer cosas que uno [&#8230;]"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "“El ingrediente inesperado” - Capítulo 18",
+    "link": "https://blog.danielaragay.net/el-ingrediente-inesperado-capitulo-18/",
+    "fecha": "23/11/2025",
+    "contenido": "Cap&#xed;tulos anteriores: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoSebasti&#xe1;n cruz&#xf3; la puerta de la cocina seguido por Bom, sus padres y Lak. Sobre la mesa central alguien hab&#xed;a dispuesto las verduras, las hierbas y peque&#xf1;os cuencos de cer&#xe1;mica"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Divididos, más cerca que nunca",
+    "link": "https://altgr.xyz/2025/11/23/divididos-mas-cerca-que-nunca/",
+    "fecha": "23/11/2025",
+    "contenido": "Divididos es mi banda favorita del rock argentino actual. Por eso, espero con ansías cada vez que se presentan en Santiago. La banda es un power trío en su máxima expresión: La potencia de los riffs de Ricardo Mollo en guitarra; Diego Arnedo tocando el bajo como un endemoniado; y Catriel Ciavarella "
+  },
+  {
     "blog": "Si dios te da limones",
     "titulo": "Paleta de bolígrafos mejorada",
     "link": "https://sidiostedalimones.com/blog/2025/paleta-de-boligrafos-mejorada/",
     "fecha": "23/11/2025",
     "contenido": ""
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "50 años no es nada",
+    "link": "http://frikoteca.blogspot.com/2025/11/50-anos-no-es-nada.html",
+    "fecha": "23/11/2025",
+    "contenido": "Pues así a lo tonto, hace un par de días cumplí cincuenta añitos de nada. He comentado ya varias veces que el día antes de que yo naciera se murió Franco y el día siguiente coronaron a Juan Carlos I, así que se puede decir, sin riesgo a equivocarme, que nací en la más pura anarquía. A pesar de eso, "
   },
   {
     "blog": "SICKSADNATION",
@@ -294,13 +343,6 @@
     "contenido": "Hoy hemos tenido en Estocolmo la primera nevada de la temporada. Luego te cuento las peleas que me tengo el de marketing y su ignorancia sobre el podcasting.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/hacien"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Cyberpunk ochentero con Billy Idol",
-    "link": "https://altgr.xyz/2025/11/19/cyberpunk-ochentero-con-billy-idol/",
-    "fecha": "19/11/2025",
-    "contenido": "El Movistar Arena se convirtió en una máquina del tiempo anoche. Al entrar a la cancha ya se siente la atmósfera ochentera, con la luces de neón, la estética de los músicos en el escenario y, por supuesto, la música cargada de la actitud, la energía y el hedonismo característicos de Billy Idol. Entr"
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "Instalación de Moodle en nuestro servidor con SSL en Debian 13",
     "link": "https://voidnull.es/instalacion-de-moodle-en-nuestro-servidor-con-ssl-en-debian-13/",
@@ -413,13 +455,6 @@
     "contenido": "Uno de los grupos con los que descubrí la musica celta fue el grupo Breton-Frances Keltas, este grupo empezó como un dúo al que se le agregaron otros músicos que le dieron forma al grupo, tuvieron un auge que luego decayó pero que gracias a la perseverancia de sus miembros lograron volver a levantar"
   },
   {
-    "blog": "Blog de Joselito",
-    "titulo": "Sin antidepresivo",
-    "link": "https://joselito.mataroa.blog/blog/sin-antidepresivo/",
-    "fecha": "17/11/2025",
-    "contenido": "Tras 1 año y medio tomando un antidepresivo por el problema que tuve con la ansiedad, por fin llevo todo este mes sin tomarlo. \nEs curioso, pero no noté nada cuando fui bajando la dosis, desde una 20 a una 15 y luego hasta una 10, y luego durante todo un mes tomando ésta de 10 un día si y otro no, b"
-  },
-  {
     "blog": "La Loica",
     "titulo": "Autodefensa Digital Explicada por Gatxs",
     "link": "https://laloica.noblogs.org/autodefensa-digital-explicada-por-gatxs/",
@@ -439,13 +474,6 @@
     "link": "https://victorhckinthefreeworld.com/2025/11/17/como-explicar-las-4-libertades-del-software-libre-a-los-ninos-y-ninas/",
     "fecha": "17/11/2025",
     "contenido": "Si eres un padre o una madre, o personal docente y quieres enseñar cuales son las 4 libertades del software libre puedes hacerlo con estos ejemplos Este artículo trata de acercar el concepto de las cuatro libertades del software libre a los más pequeños. Hace una serie de comparaciones para que los "
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Desensibilización.",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/desensibilizacion/",
-    "fecha": "17/11/2025",
-    "contenido": "Cuando empecé la terapia, después de hacer pum-cata-pum una de las cosas que le pedí a mi terapeuta fue estrategias para hacer que la violencia que padezco (ya sea dirigida a mí directamente, a mí como símbolo o a otros) me doliese menos porque no puedo pelear todas las batallas, no tengo energía, p"
   },
   {
     "blog": "Jinversor",
@@ -490,13 +518,6 @@
     "contenido": "Luego de fallar múltiples veces intentando enseñar a crear con código, un pequeño post en otro blog ha encendido una idea que podría ser más efectiva."
   },
   {
-    "blog": "La cosa infinita",
-    "titulo": "El Hapticón",
-    "link": "https://docig.mataroa.blog/blog/el-hapticon/",
-    "fecha": "17/11/2025",
-    "contenido": "\"Unum\" era la red social. Una palabra. Solo una.\nPara interactuar, usabas el Hapticón, un casco ligero que proyectaba la palabra del usuario flotando a veinte metros de altura, y que transmitía la \"fuerza\" de esa palabra como una presión suave o un leve calor en la piel.\nEl feed global era un cielo "
-  },
-  {
     "blog": "",
     "titulo": "Frase de la semana.",
     "link": "https://mundoceltamedieval.wordpress.com/2025/11/17/frase-de-la-semana-56/",
@@ -509,47 +530,5 @@
     "link": "https://calaveras.bearblog.dev/que-pasa-con-las-tipografias-serif/",
     "fecha": "17/11/2025",
     "contenido": "Teniendo un poquito de tiempo, me puse a revisar las últimas identidades visuales que armé, como una especie de introspectiva diseñística, y primero me puse contento por la amplia variedad de colores que incorporé a mi flujo de trabajo, a mi forma de pensar y de componer una identidad, pero luego me"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Conocí a Vicky de Fértil Miseria",
-    "link": "https://jinversor.co/2025/11/conoci-a-vicky-de-fertil-miseria/",
-    "fecha": "16/11/2025",
-    "contenido": "Me escapé un momento del Blockchain Summit Latam 2025 para ir a conocer a Vicky Castro, la vocalista de Fértil Miseria, una de las bandas de Hardcore Punk colombianas que [&#8230;]\nLa entrada Conocí a Vicky de Fértil Miseria se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#167: tomar más infusiones",
-    "link": "https://www.macram.es/posts/2025/11/infusiones/",
-    "fecha": "16/11/2025",
-    "contenido": "Tengo que retomar la costumbre de tomarme una infusión antes de dormir. Creo que me sienta bien. Me gustan las infusiones y tomo varias al día (sin contar el café, que técnicamente es una infusión también). Ya escribí alguna cosa que pienso sobre ellas: creo que todos deberíamos tomar más infusiones"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El ingrediente inesperado. Capítulo 16",
-    "link": "https://blog.danielaragay.net/el-ingrediente-inesperado-capitulo-16/",
-    "fecha": "16/11/2025",
-    "contenido": "Cap&#xed;tulos anteriores: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoSebasti&#xe1;n gir&#xf3; la cabeza hacia Bom mientras segu&#xed;an avanzando entre los puestos iluminados del mercado nocturno.&#x2014;A ver&#x2026; &#x2014;dijo &#xe9;l, bajando un poco la voz mientra"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El curioso truco del cuenco de agua: el secreto tailandés para curries jugosos",
-    "link": "https://blog.danielaragay.net/el-curioso-truco-del-cuenco-de-agua-el-secreto-tailandes-para-curries-jugosos/",
-    "fecha": "16/11/2025",
-    "contenido": "Si alguna vez has visto a una cocinera asi&#xe1;tica cubrir su olla con un plato y poner encima un cuenco lleno de agua, quiz&#xe1; te hayas preguntado &#xbf;por qu&#xe9; hacen eso? Esta t&#xe9;cnica, popular en cocinas de Asia (desde Tailandia hasta la India)"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Flowers, una declaración de amor propio",
-    "link": "https://altgr.xyz/2025/11/16/flowers-una-declaracion-de-amor-propio/",
-    "fecha": "16/11/2025",
-    "contenido": "Fue el primer single del álbum Endless Summer Vacation de Miley Cyrus, publicado en 2023 y uno de mis favoritos de esa temporada. Es una verdadera declaración de amor propio, iniciada con una linea de bajo hipnotizante que se mantiene durante casi todo el tema. Me encanta. Como declaró la propia Mil"
-  },
-  {
-    "blog": "Diana                                                       Laurencich",
-    "titulo": "Donde manda capitán…",
-    "link": "https://dianalaurencich.wordpress.com/2025/11/16/donde-manda-capitan/",
-    "fecha": "16/11/2025",
-    "contenido": "Me encantan estos días, aunque suene mal decirlo, aunque conozca las implicancias de las tormentas como la de anoche para muchxs. Para lxs que no habitan en Buenos Aires y zonas aledañas les cito lo que dice uno de los diarios del día: Se prevén vientos de hasta 41 kilómetros por hora, con ráfagas q"
   }
 ]
