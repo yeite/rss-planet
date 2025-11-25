@@ -14,11 +14,32 @@
     "contenido": "Un horror por el que pasamos inadvertidos. Aquí traigo mi ejemplo para que vosotros y vosotras podáis escapar si aún estáis a tiempo..."
   },
   {
+    "blog": "Jinversor",
+    "titulo": "Las manos blandas",
+    "link": "https://jinversor.co/2025/11/las-manos-blandas/",
+    "fecha": "24/11/2025",
+    "contenido": "La semana anterior los mercados financieros se sacudieron con violencia. El índice de miedo y codicia llegó a 10, advirtiendo el pánico de las masas. Los Youtubers y otros especímenes [&#8230;]\nLa entrada Las manos blandas se publicó primero en Jinversor."
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Mi interior",
+    "link": "https://mcallus.net/2025/11/24/mi-interior/",
+    "fecha": "24/11/2025",
+    "contenido": "Delante del espejo observo cómo, sin darme cuenta, el tiempo me ha pasado por encima. Las sombras de la tristeza y el desánimo amenazan con aplastarme cuando veo en qué me he convertido. Echo la vista atrás buscando el origen de este pesar, pero no encuentro nada; en mi memoria solo quedan oscuridad"
+  },
+  {
     "blog": "Un bruto con Debian",
     "titulo": "¿Buscas anonimato en la red? Torificate sin despeinarte.",
     "link": "http://unbrutocondebian.blogspot.com/2025/11/buscas-anonimato-en-la-red-torificate.html",
     "fecha": "24/11/2025",
     "contenido": "&nbsp;Cada día es mas necesario el uso de una VPN, para salvar restricciones geográficas, para evitar seguimientos, para esquivar bloqueos IP de los operadores… Si quieres un mínimo de privacidad, no te queda otra que pasar una vez más por caja.Pero existe una manera de conseguirlo tremendamente sen"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Y pues hoy cumplo 40",
+    "link": "https://blog.luiscarlospando.com/personal/2025/11/y-pues-hoy-cumplo-40/",
+    "fecha": "24/11/2025",
+    "contenido": "Información – 24 de noviembre, 2025 @ 10:12 am Este post fue tomado de mi post diario en Crucial Tracks. Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en B"
   },
   {
     "blog": "alt43",
@@ -28,11 +49,11 @@
     "contenido": "Hace algún tiempo, realizamos una reseña (a modo de comparación con Mega) del servicio de almacenamiento en la&#46;&#46;&#46;"
   },
   {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "Mi recorrido por Appalachia en Fallout 76",
-    "link": "https://unpinguino.com/fallout-76/",
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "490. Requerimiento selectivo",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/11/490-requerimiento-selectivo.html",
     "fecha": "24/11/2025",
-    "contenido": "No hace mucho que empecé a jugar Fallout 76, estaba buscando un juego con multijugador&#8230;"
+    "contenido": "&nbsp; &nbsp; Según leí en un titular reciente, por un requerimiento policial hace meses que ya no se puede reproducir en el estadio de fútbol El Sadar un tema de Barricada de 1986 titulado No hay tregua. La canción llevaba unos años sonando por megafonía como instrumento alentador en el tiempo de d"
   },
   {
     "blog": "Eterno aprendiz",
@@ -63,18 +84,25 @@
     "contenido": "\n  \n    \n  \nEstamos a menos de un mes para la Nochebuena y eso querrá decir que nos habremos ventilado un tercio del curso. A la vuelta, en enero, serán seis meses más y fin.No me voy a creer cuando sea 30 de junio. Cuando diga adiós definitivamente a un curso que se me está haciendo cuesta arriba, "
   },
   {
+    "blog": "",
+    "titulo": "Frase de la semana.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/11/24/frase-de-la-semana-57/",
+    "fecha": "24/11/2025",
+    "contenido": "La experiencia no tiene valor ético alguno, es simplemente el nombre que damos a nuestros errores. Oscar Wilde"
+  },
+  {
+    "blog": "ochobitshacenunbyte",
+    "titulo": "Kickstart: Instalaciones automatizadas en Red Hat, Centos o Rocky Linux",
+    "link": "https://www.ochobitshacenunbyte.com/2025/11/24/kickstart-instalaciones-automatizadas-en-red-hat-centos-o-rocky-linux/",
+    "fecha": "24/11/2025",
+    "contenido": "Hoy vamos a ver una de las herramientas más potentes y desconocidas para automatizar instalaciones en sistemas basados en Red Hat Enterprise Linux, como Rocky Linux 9, AlmaLinux o CentOS Stream: el método de&#46;&#46;&#46;\nLa entrada Kickstart: Instalaciones automatizadas en Red Hat, Centos o Rocky "
+  },
+  {
     "blog": "plr blog",
     "titulo": "Varias preguntas que planteé en la charla \"La reforma de la evaluación impulsada por CoARA en la UCM: nuevo grupo de trabajo y primeras implementaciones\"",
     "link": "https://pedrolr.es/blog/varias-preguntas-que-plantee-en-la-charla-la-reforma-de-la-evaluacion-impulsada-por-coara-en-la-ucm-nuevo-grupo-de-trabajo-y-primeras-implementaciones/",
     "fecha": "23/11/2025",
     "contenido": "El 22 de octubre asistí virtualmente a la charla \"La reforma de la evaluación impulsada por CoARA en la UCM: nuevo grupo de trabajo y primeras implementaciones\". Han publicado el vídeo en Youtube (Biblioteca UCM, 2025). Brevemente y desde la misma web de CoARA: La Coalición para el Avance de la Eval"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Anonimato",
-    "link": "https://mareosdeungeek.es/anonimato/",
-    "fecha": "23/11/2025",
-    "contenido": "Hay una corriente, los últimos años, para acabar con el anonimato en la red. Aunque la red empezó como un grupo de conocidos, su extensión, ha hecho que el anonimato aparente que puede generar ocultarse detrás de una dirección de correo o un alias, genere una sensación de impunidad. El anonimato, en"
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -207,7 +235,7 @@
     "titulo": "¿Abandonar Instagram? Es lo único que me queda para seguir teniendo contacto con mis amigos «reales»",
     "link": "https://blog.luiscarlospando.com/personal/2025/11/abandonar-instagram-es-lo-unico-que-me-queda-para-seguir-teniendo-contacto-con-mis-amigos-reales/",
     "fecha": "21/11/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -243,13 +271,6 @@
     "link": "https://adrianperales.com/2025/11/un-poco-o-un-mucho-de-asexual/",
     "fecha": "20/11/2025",
     "contenido": "Esta entrada lleva mucho tiempo apuntada y he intentado varias veces afrontar su escritura, sin éxito. Así que, para darle salida a esta idea que quiero compartir, me limitaré a enumerar diferentes razones por las que me considero asexual. Lo primero es que la asexualidad es un espectro. No quiere d"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "The Long Road to War (Documental)",
-    "link": "https://mareosdeungeek.es/the-long-road-to-war-documental/",
-    "fecha": "20/11/2025",
-    "contenido": "The Long Road to War es un documental que puede verse en Netflix sobre el comienzo de la I Guerra Mundial. Se trata de una producción serbia que analiza los años anteriores a la Gran Guerra. Tanto los movimientos del Imperio Austro-húngaro en los Balcanes como de las otras potencias de principio del"
   },
   {
     "blog": "Eterno aprendiz",
@@ -434,13 +455,6 @@
     "contenido": "Agama es el nuevo instalador de sistemas openSUSE y SUSE y se acaba de publicar su versión número 18"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "El puñetero término medio.",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/el-punetero-termino-medio/",
-    "fecha": "18/11/2025",
-    "contenido": "Ahí es donde reside la virtud, en ese barrio residencial exclusivo al que tan pocos tienen acceso. Ahí es a donde todas queremos llegar: a que nos importe sin que nos duela demasiado, a aprovechar el tiempo sin cansarnos, a sentir sin saturarnos, a ... Bueno, creo que se pilla la idea. \nRecuerdo la "
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Curiosidades de la red oscura",
     "link": "https://jinversor.co/2025/11/curiosidades-de-la-red-oscura/",
@@ -453,13 +467,6 @@
     "link": "https://mcallus.net/2025/11/18/fantarquia-el-festival-de-fantasia-peligrosa-se-celebra-en-valencia-el-29-11-2025/",
     "fecha": "18/11/2025",
     "contenido": "Hay un par de eventos en el tramo final del año que me dan todo el coraje perderme. Uno de ellos es Fantarquía, el festival de fantasía peligrosa que tendrá lugar en Valencia el sábado 29 de noviembre de 2025. Fijaos que estuve mirando hasta la viabilidad de ir y volver en el día para [&#8230;]"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Age of Empires II Chronicles: Alexander the Great",
-    "link": "https://mareosdeungeek.es/age-of-empires-ii-chronicles-alexander-the-great/",
-    "fecha": "18/11/2025",
-    "contenido": "Age of Empires II Chronicles: Alexander the Great es el último DLC de la famosa saga de estrategia en tiempo real de Microsoft. Volvemos a la Edad Antigua y escribiremos la crónica que nos llevará, junto a Alejandro Magno a forjar uno de los imperios más grandes de la Historia. Continuando con la se"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -502,33 +509,5 @@
     "link": "https://mundoceltamedieval.wordpress.com/2025/11/18/recomendacion-de-la-semana-30/",
     "fecha": "18/11/2025",
     "contenido": "Uno de los grupos con los que descubrí la musica celta fue el grupo Breton-Frances Keltas, este grupo empezó como un dúo al que se le agregaron otros músicos que le dieron forma al grupo, tuvieron un auge que luego decayó pero que gracias a la perseverancia de sus miembros lograron volver a levantar"
-  },
-  {
-    "blog": "La Loica",
-    "titulo": "Autodefensa Digital Explicada por Gatxs",
-    "link": "https://laloica.noblogs.org/autodefensa-digital-explicada-por-gatxs/",
-    "fecha": "17/11/2025",
-    "contenido": "En el marco del Taller “Autodefensa Digital ante el Ciberacoso a través de Fanzines”, diseñé este pequeño fanzine de descarga libre: “Autodefensa digital explicada por Gatxs”. Es un mini-protocolo práctico para saber cómo actuar frente a situaciones de violencia digital, pensado para que nadie tenga"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Suplantación de identidad",
-    "link": "https://jinversor.co/2025/11/suplantacion-de-identidad/",
-    "fecha": "17/11/2025",
-    "contenido": "Hace poco me llegaron unos mensajes de un número desconocido pero la foto de perfil era de una persona que sí conozco. Me pareció sospechoso pues no es alguien con [&#8230;]\nLa entrada Suplantación de identidad se publicó primero en Jinversor."
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El ingrediente inesperado: Capítulo 17",
-    "link": "https://blog.danielaragay.net/el-ingrediente-inesperado-capitulo-17/",
-    "fecha": "17/11/2025",
-    "contenido": "Todos los cap&#xed;tulos anteriores: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoCaminaban sin prisa por las calles en direcci&#xf3;n al Wat Phra Singh, dejando atr&#xe1;s el ruido alegre de los cubetazos y las risas de Songkran. Sebasti&#xe1;n avanzaba con una sonrisa qu"
-  },
-  {
-    "blog": "Calaveras",
-    "titulo": "¿Qué pasa con las tipografías Serif?",
-    "link": "https://calaveras.bearblog.dev/que-pasa-con-las-tipografias-serif/",
-    "fecha": "17/11/2025",
-    "contenido": "Teniendo un poquito de tiempo, me puse a revisar las últimas identidades visuales que armé, como una especie de introspectiva diseñística, y primero me puse contento por la amplia variedad de colores que incorporé a mi flujo de trabajo, a mi forma de pensar y de componer una identidad, pero luego me"
   }
 ]
