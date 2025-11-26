@@ -1,10 +1,31 @@
 [
   {
+    "blog": "Moribundo Insurgente",
+    "titulo": "Meta está ganando una fortuna con una avalancha de anuncios fraudulentos",
+    "link": "https://moribundoinsurgente.noblogs.org/post/2025/11/26/meta-esta-ganando-una-fortuna-con-una-avalancha-de-anuncios-fraudulentos/",
+    "fecha": "26/11/2025",
+    "contenido": "MMeta proyectó internamente a finales del año pasado que obtendría alrededor del 10 % de sus ingresos anuales totales (16.000 millones de dólares) gracias a la publicidad de estafas y productos prohibidos, según muestran documentos internos de la empresa.Una serie &#8230; Sigue leyendo &#8594;"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalar ntopng para monitorizar la red en Debian 13",
+    "link": "https://voidnull.es/instalar-ntopng-para-monitorizar-la-red-en-debian-13/",
+    "fecha": "26/11/2025",
+    "contenido": "ntopng se trata de un software de tráfico de red que proporciona una visibilidad total de la red, con la capacidad de recopilar información del tráfico, así como exportadores NetFlow, dispositivos SNMP, registros de cortafuegos o sistemas de detección de intrusos."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Mi gestión de notas en 2025",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/26/20251126-gestion-de-notas-2025/",
     "fecha": "26/11/2025",
     "contenido": "Un breve repaso a mi proceso de notas y proyectos, a petición de Tzinm"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Miércoles",
+    "link": "https://www.xn--jmuoz-qta.es/2025/11/miercoles.html",
+    "fecha": "26/11/2025",
+    "contenido": "\n    \n  \n  \nEl miércoles es el mejor día de la semana. Además, para mí este año supone un auténtico oasis en mitad de la semana: una casi pausa en mitad de dos días mucho más gordos; en otras palabras, tres horas lectivas entre dos días que tengo completos.Miércoles. ¿Singular o plural?Miércoles oas"
   },
   {
     "blog": "La Loica",
@@ -490,13 +511,6 @@
     "contenido": "Anteriormente se presento el ultimo disco (Malicia) en Spotify, el disco ya se encuentra disponible en Youtube Tambien para los que prefieran esta plataforma."
   },
   {
-    "blog": "THE_CHEI$",
-    "titulo": "Añadiendo Flatpak a mi liberador de espacio en disco",
-    "link": "https://thecheis.com/2025/11/19/anadiendo-flatpak-a-mi-liberador-de-espacio-en-disco/",
-    "fecha": "19/11/2025",
-    "contenido": "En mi Arch Linux utilizo dos alias para simplificar la administración de software del sistema. Uno gestiona todas las actualizaciones, ejecutando Pacman y Flatpak en un solo comando llamado update. El otro alias es un liberador de espacio en disco, y se encarga de borrar la caché de Arch manteniendo"
-  },
-  {
     "blog": "Moribundo Insurgente",
     "titulo": "El caso legal contra el reconocimiento facial de Ring",
     "link": "https://moribundoinsurgente.noblogs.org/post/2025/11/19/el-caso-legal-contra-el-reconocimiento-facial-de-ring/",
@@ -509,13 +523,6 @@
     "link": "https://moribundoinsurgente.noblogs.org/post/2025/11/19/asi-funcionaba-el-rastreo-sin-consentimiento-de-meta-en-moviles/",
     "fecha": "19/11/2025",
     "contenido": "Pedro Sánchez ha anunciado este miércoles que forzará la comparecencia de los responsables de Meta ante el Congreso por “espiar” a los españoles. Ha asegurado que la compañía “deberá rendir cuentas” después de que hace unos meses se desvelara que &#8230; Sigue leyendo &#8594;"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "La ONG que fundó Bram Moolenaar, el creador de #Vim, cesa su actividad",
-    "link": "https://victorhckinthefreeworld.com/2025/11/19/la-ong-que-fundo-bram-moolenaar-el-creador-de-vim-cesa-su-actividad/",
-    "fecha": "19/11/2025",
-    "contenido": "Bram Moolenar fundó hace 30 años la ONG ICCF Holland, que ahora ve cómo tiene que cesar su actividad de ayuda a niños en Uganda. Pero los proyectos continúan."
   },
   {
     "blog": "Jinversor",
@@ -544,20 +551,6 @@
     "link": "https://blog.danielaragay.net/primera-nevada-de-la-temporada-y-podcast-de-la-empresa/",
     "fecha": "19/11/2025",
     "contenido": "Hoy hemos tenido en Estocolmo la primera nevada de la temporada. Luego te cuento las peleas que me tengo el de marketing y su ignorancia sobre el podcasting.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/hacien"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Moodle en nuestro servidor con SSL en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-moodle-en-nuestro-servidor-con-ssl-en-debian-13/",
-    "fecha": "19/11/2025",
-    "contenido": "Moodle es una herramienta de gestión de aprendizaje (LMS), o más concretamente de Learning Content Management (LCMS), de distribución libre, escrita en PHP​."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Los navegadores de OpenAI y Perplexity como riesgo de seguridad",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/19/20251119-navegador-agentico/",
-    "fecha": "19/11/2025",
-    "contenido": "Si bien la idea de agentes inteligentes es muy interesante, una mala implementación es un peligro"
   },
   {
     "blog": "",
