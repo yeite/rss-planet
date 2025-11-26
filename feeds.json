@@ -1,10 +1,73 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Mi gestión de notas en 2025",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/26/20251126-gestion-de-notas-2025/",
+    "fecha": "26/11/2025",
+    "contenido": "Un breve repaso a mi proceso de notas y proyectos, a petición de Tzinm"
+  },
+  {
+    "blog": "La Loica",
+    "titulo": "Pañoleta Ni una Menos en Maquina Bordadora",
+    "link": "https://laloica.noblogs.org/niunamenosenmaquinabordadora/",
+    "fecha": "25/11/2025",
+    "contenido": "Este es un tutorial que tenía muchas ganas de compartir con el mundo. En este video, verás el paso a paso para crear una pañoleta personalizada con una maquina bordadora, en este caso, una pañoleta del movimiento «Ni Una Menos». Puedes ver el video tutorial en mi PeerTube Para llevar a cabo este pro"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "GrapheneOS migra sus servidores fuera de Francia por no ser seguro para «proyectos de privacidad de código abierto",
+    "link": "https://victorhckinthefreeworld.com/2025/11/25/grapheneos-migra-sus-servidores-fuera-de-francia-por/",
+    "fecha": "25/11/2025",
+    "contenido": "El proyecto GrapheneOS ha anunciado la red social del Nazi Elon Musk que cesa todas las operaciones en Francia, afirmando que el país ya no es seguro para los \"proyectos de privacidad de código abierto\"."
+  },
+  {
+    "blog": "Blog de Thalskarth",
+    "titulo": "Usando Kate como editor de textos",
+    "link": "https://blog.thalskarth.ar/usando-kate-como-editor-textos/",
+    "fecha": "25/11/2025",
+    "contenido": "Inspirado por un artículo de Angeles Broullón, me tenté a probar el editor Kate."
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#168: la batería de mi iPad",
+    "link": "https://www.macram.es/posts/2025/11/la-bateria-de-mi-ipad/",
+    "fecha": "25/11/2025",
+    "contenido": "Me estoy dando cuenta de que la batería de mi iPad ya no va como iba antes. Es casi de perogrullo: me lo compré en 2020, hace cinco años, y sigo dándole cierto uso (aunque es cierto que desde que cambié de ordenador tiene menos tralla que entonces). No sé si la quiero cambiar (el recambio original c"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Sobre dioses mitologícos",
+    "link": "https://impermanente.es/2025/11/25/sobre-dioses-mitologcos.html",
+    "fecha": "25/11/2025",
+    "contenido": "A medida que investigo más cosas para mi siguiente libro, me voy dando cuenta de lo mal que me enseñaron sobre mitologia en el colegio&hellip; además de que luego ve uno repetidos los mismos errores en otros lados.\nEl más clásico: clasificar a los dioses por &ldquo;dominios&rdquo; o campos de acción"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalación de Netbird en Debian 13",
     "link": "https://voidnull.es/instalacion-de-netbird-en-debian-13-2/",
     "fecha": "25/11/2025",
     "contenido": "NetBird permite crear una red privada segura entre tus dispositivos de forma rápida y sin configurar servidores."
+  },
+  {
+    "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "titulo": "Concurrencia y Distribución",
+    "link": "https://seyker.eu/concurrencia-y-distribucion/",
+    "fecha": "25/11/2025",
+    "contenido": "Inicialmente los ordenadores iban de programa en programas, funcionaban por lotes o batch. Esto es porque eran sistemas monoprogramados. Para varias tareas al mismo tiempo surgió el concepto de multiprogramación, que viene de realizar múltiples tareas al mismo tiempo y es a lo que llamamos Programac"
+  },
+  {
+    "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "titulo": "Introducción a SpringBoot",
+    "link": "https://seyker.eu/introduccion-a-springboot/",
+    "fecha": "25/11/2025",
+    "contenido": "¿Qué es Spring? Es un FrameWork, es decir un sistema ya predefinido para la programación de aplicativos, en este caso con bases de datos y otros sistemas de persistencia. El uso de este FrameWork delega gran parte del modelado con base de datos automatizando lo que se hacía en las clases DAO.\nLa ent"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El colombófilo de Flores y la cifra infinita",
+    "link": "https://docig.bearblog.dev/el-colombofilo-de-flores-y-la-cifra-infinita/",
+    "fecha": "25/11/2025",
+    "contenido": "Gratis para el mundo\nhttps://www.bubok.es/libros/284084/el-colombofilo-de-flores-y-la-cifra-infinita"
   },
   {
     "blog": "Erica Fustero",
@@ -15,10 +78,38 @@
   },
   {
     "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Directorio de blogs en español",
+    "link": "https://www.xn--jmuoz-qta.es/2025/11/directorio-de-blogs-en-espanol.html",
+    "fecha": "25/11/2025",
+    "contenido": "En los últimos días me he unido con este cuaderno que están leyendo a ¡Blog!¡Blog!, un directorio de sitios web personales en español, creados por gente corriente y moliente, libres de SEO, algoritmos, inteligencia artificial y sin fines comerciales. Lo que es este pequeño rincón de Internet, un sit"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
     "titulo": "Hogareño",
     "link": "https://www.xn--jmuoz-qta.es/2025/11/hogareno.html",
     "fecha": "25/11/2025",
     "contenido": "\n  \n    \n  \nSoy una persona hogareña. Creo que incluso podría añadir el adverbio \"muy\" para definir mi grado de hogareño. Cada año que pasa, me gusta más mi casa y estar en ella y, sobre todo, desde que me compré la casa en la que vivo ahora este gusto no ha hecho sino aumentar. Disfruto de los fine"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El Evangelio del Ascii Siete Bits 💾",
+    "link": "https://docig.mataroa.blog/blog/el-evangelio-del-ascii-siete-bits/",
+    "fecha": "25/11/2025",
+    "contenido": "Todo comenzó, como suelen hacerlo las verdaderas revelaciones, con un problema de codificación. No un simple error de acento en la base de datos, no; era algo mucho más profundo, una grieta ontológica que se abría en el back-end del cosmos. El hardware bullía en el sótano, como una marmita de papas "
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El colombófilo de Flores y la cifra infinita",
+    "link": "https://docig.mataroa.blog/blog/el-colombofilo-de-flores-y-la-cifra-infinita/",
+    "fecha": "25/11/2025",
+    "contenido": "Para todos buena literatura gratis\nhttps://www.bubok.es/libros/284084/el-colombofilo-de-flores-y-la-cifra-infinita"
+  },
+  {
+    "blog": "",
+    "titulo": "Recomendación.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/11/25/recomendacion-11/",
+    "fecha": "25/11/2025",
+    "contenido": "Como recomendación les dejo esta exquisita interpretación de Nicolás Sokolic."
   },
   {
     "blog": "brucknerite",
@@ -399,13 +490,6 @@
     "contenido": "Anteriormente se presento el ultimo disco (Malicia) en Spotify, el disco ya se encuentra disponible en Youtube Tambien para los que prefieran esta plataforma."
   },
   {
-    "blog": "Blep",
-    "titulo": "Capitalismo y responsabilidad",
-    "link": "https://blep.org/Capitalismo-y-responsabilidad",
-    "fecha": "19/11/2025",
-    "contenido": "Ayer se cayó Cloudflare. Para los que no lo sepan, Cloudflare es una empresa que provee todo un conglomerado de servicios que actúan exactamente entre el dominio (la dirección de internet que escribe el usuario) y el servidor (que es quien recibe la solicitud del usuario). La amplia gama de esos ser"
-  },
-  {
     "blog": "THE_CHEI$",
     "titulo": "Añadiendo Flatpak a mi liberador de espacio en disco",
     "link": "https://thecheis.com/2025/11/19/anadiendo-flatpak-a-mi-liberador-de-espacio-en-disco/",
@@ -476,13 +560,6 @@
     "contenido": "Si bien la idea de agentes inteligentes es muy interesante, una mala implementación es un peligro"
   },
   {
-    "blog": "La cosa infinita",
-    "titulo": "El Kiosco Anómalo de Palermo",
-    "link": "https://docig.mataroa.blog/blog/el-kiosco-anomalo-de-palermo/",
-    "fecha": "19/11/2025",
-    "contenido": "El kiosco de Don Lucho, situado en una esquina inconfundiblemente fea de Palermo, era famoso por dos cosas: el mal humor pétreo de su dueño y la extraña persistencia con la que seguía vendiendo ejemplares de la revista Selecciones del Reader's Digest de 1978.\nPero el Kiosco Lucho tenía una propiedad"
-  },
-  {
     "blog": "",
     "titulo": "Eventos",
     "link": "https://mundoceltamedieval.wordpress.com/2025/11/19/eventos-50/",
@@ -495,40 +572,5 @@
     "link": "https://calaveras.bearblog.dev/mi-mejor-amigo-braulio/",
     "fecha": "19/11/2025",
     "contenido": "Mi mejor amigo es Braulio, es una persona decente, coherente, paciente y a veces inteligente. Se la pasa hablando, eso si, es algo que a mi me hace bien. Escuchar o leer lo que tiene que decir siempre me resultó interesante, muchas veces inquietante, y a menudo motivante.\nDesde que conozco a Braulio"
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Fantarquía, el festival de fantasía peligrosa, se celebra en Valencia el 29/11/2025",
-    "link": "https://mcallus.net/2025/11/18/fantarquia-el-festival-de-fantasia-peligrosa-se-celebra-en-valencia-el-29-11-2025/",
-    "fecha": "18/11/2025",
-    "contenido": "Hay un par de eventos en el tramo final del año que me dan todo el coraje perderme. Uno de ellos es Fantarquía, el festival de fantasía peligrosa que tendrá lugar en Valencia el sábado 29 de noviembre de 2025. Fijaos que estuve mirando hasta la viabilidad de ir y volver en el día para [&#8230;]"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Age of Empires II Chronicles: Alexander the Great",
-    "link": "https://mareosdeungeek.es/age-of-empires-ii-chronicles-alexander-the-great/",
-    "fecha": "18/11/2025",
-    "contenido": "Age of Empires II Chronicles: Alexander the Great es el último DLC de la famosa saga de estrategia en tiempo real de Microsoft. Volvemos a la Edad Antigua y escribiremos la crónica que nos llevará, junto a Alejandro Magno a forjar uno de los imperios más grandes de la Historia. Continuando con la se"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "488. Orgullo positivo, orgullo negativo",
-    "link": "https://lamadredelpatonegro.blogspot.com/2025/11/488-orgullo-positivo-orgullo-negativo.html",
-    "fecha": "18/11/2025",
-    "contenido": "&nbsp; &nbsp; Muchas de las veces en las que me miro en el espejo tengo conversaciones con mi orgullo; con el negativo y el positivo. Siempre intento que sea el segundo el que tome el mando. Pero nunca acabo de averiguar cuál de los dos prepondera más en mí. «Por si acaso, tengo que trabajar más en "
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Entrada de prueba",
-    "link": "https://www.xn--jmuoz-qta.es/2025/11/entrada-de-prueba.html",
-    "fecha": "18/11/2025",
-    "contenido": "Estoy hasta arriba de trabajo y no tengo la misma asiduidad escribiendo por aquí como en verano, cuando publicaba prácticamente una entrada al día; en algunas ocasiones, incluso dos y algún día concreto, tres. Me paso por aquí cuando puedo y, muchas veces, cuando me dejan.El caso es que esta mañana "
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendación de la semana.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/11/18/recomendacion-de-la-semana-30/",
-    "fecha": "18/11/2025",
-    "contenido": "Uno de los grupos con los que descubrí la musica celta fue el grupo Breton-Frances Keltas, este grupo empezó como un dúo al que se le agregaron otros músicos que le dieron forma al grupo, tuvieron un auge que luego decayó pero que gracias a la perseverancia de sus miembros lograron volver a levantar"
   }
 ]
