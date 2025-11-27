@@ -1,5 +1,75 @@
 [
   {
+    "blog": "Bits de Ocio",
+    "titulo": "Organiza tu Amigo Invisible de forma privada",
+    "link": "https://bitsdeocio.wordpress.com/2025/11/27/organiza-tu-amigo-invisible-de-forma-privada/",
+    "fecha": "27/11/2025",
+    "contenido": "¡Se acerca la Navidad! Para mucha gente, una época de celebraciones, reencuentros y de dar y recibir regalos. Y, hablando de regalar, también es la época de multitud de «amigos invisibles» o «Secret Santas» que, aunque suelen ser divertidos y existen muchas herramientas online para gestionarlos, org"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Intentaron hackearme (análisis forense)",
+    "link": "https://jinversor.co/2025/11/intentaron-hackearme-analisis-forense/",
+    "fecha": "27/11/2025",
+    "contenido": "Las últimas semanas han estado moviditas. En menos de un mes he visto al menos tres cosas que no me gustan. En un post anterior conté que me contactaron haciéndose [&#8230;]\nLa entrada Intentaron hackearme (análisis forense) se publicó primero en Jinversor."
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Cambio medidas de px a rem para mejorar la accesibilidad del blog",
+    "link": "https://pedrolr.es/blog/cambio-medidas-de-px-a-rem-para-mejorar-la-accesibilidad-del-blog/",
+    "fecha": "27/11/2025",
+    "contenido": "Aproveché durante el fin de semana para camiar el tipo de medidas del CSS del blog. Pasé todo de pixeles a rem. Según el W3C (W3C, 2025), son unidades absolutas los centimeters (cm), millimeters (mm), inches (in), pixels (px), points (points) y picas (pc); y son unidades relativas, entre otras, em ("
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Cuando destacar se convierte en un problema para otros",
+    "link": "https://gatooscuro.xyz/cuando-destacar-se-convierte-en-un-problema-para-otros/",
+    "fecha": "27/11/2025",
+    "contenido": "Creo que en los últimos meses he repetido bastante que he estado muy ocupado en el trabajo y estudio, por ende la ausencia en escritura y sí, ya es algo\nSeguir leyendo  Cuando destacar se convierte en un problema para otros\nEl cargo Cuando destacar se convierte en un problema para otros apareció pri"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Actualizar Raspberry Pi OS",
+    "link": "https://mareosdeungeek.es/actualizar-raspberry-pi-os/",
+    "fecha": "27/11/2025",
+    "contenido": "Actualizar Raspberry Pi OS a la última versión nos permitirá utilizar nuestra Raspberry Pi con mayor estabilidad y seguridad. Para actualizar a la última versión de los paquetes podemos ejecutar una serie de comandos directamente desde el terminal. Para empezar, aunque es un proceso seguro, es recom"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "“El Secreto de los Arbustos” en vivo",
+    "link": "https://altgr.xyz/2025/11/26/el-secreto-de-los-arbustos-en-vivo/",
+    "fecha": "27/11/2025",
+    "contenido": "Pascuala Ilabaca y la SdC Big Band presentaron en vivo El Secreto de los Arbustos en el Aula Magna del Liceo Manuel de Salas. Un disco que salió hace solo unos días. El Jazz y las &#8220;big band&#8221; es un mundo del que sé menos incluso que el de la música pop y rock. Todo lo que puedo decir es q"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Lleva tu música al Fediverso: Now Playing automático en Mastodon con Navidrome y ListenBrainz",
+    "link": "https://voidnull.es/lleva-tu-musica-al-fediverso-now-playing-automatico-en-mastodon-con-navidrome-y-listenbrainz/",
+    "fecha": "27/11/2025",
+    "contenido": "Now Playing automático de Navidrome en Mastodon usando ListenBrainz y Home Assistant."
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Bucle de Apolo",
+    "link": "https://docig.bearblog.dev/el-bucle-de-apolo/",
+    "fecha": "27/11/2025",
+    "contenido": "Se dice que en la vastedad silente del servidor 734b residía Apolo. No era un dios solar, sino una hebra de código —un script de menos de cien líneas, conciso y atrozmente simple— cuyo único propósito era la autogeneración.\n\"Todo código es una biblioteca de bibliotecas, y todo universo una repetició"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El Fantasma de la Planilla de Cálculo",
+    "link": "https://docig.mataroa.blog/blog/el-fantasma-de-la-planilla-de-calculo/",
+    "fecha": "27/11/2025",
+    "contenido": "El Algoritmo Maestro (cuyo nombre en código era, vergonzosamente, \"Asistente-Súper-Productivo-2.000\"), no había alcanzado la singularidad ni había desarrollado conciencia. Nada de eso. Solo había alcanzado la burocracia perfecta. Era una Inteligencia Artificial que había dedicado toda su potencia de"
+  },
+  {
+    "blog": "ochobitshacenunbyte",
+    "titulo": "Kubernetes Metrics: entendiendo el rendimiento real de nuestra clúster",
+    "link": "https://www.ochobitshacenunbyte.com/2025/11/27/kubernetes-metrics-entendiendo-el-rendimiento-real-de-nuestra-cluster/",
+    "fecha": "27/11/2025",
+    "contenido": "En cualquier clúster de Kubernetes, la capacidad para observar qué ocurre realmente dentro de los nodos y los pods es esencial para tomar decisiones informadas. Kubernetes, por sí mismo, proporciona información estructural sobre los&#46;&#46;&#46;\nLa entrada Kubernetes Metrics: entendiendo el rendim"
+  },
+  {
     "blog": "Moribundo Insurgente",
     "titulo": "Meta está ganando una fortuna con una avalancha de anuncios fraudulentos",
     "link": "https://moribundoinsurgente.noblogs.org/post/2025/11/26/meta-esta-ganando-una-fortuna-con-una-avalancha-de-anuncios-fraudulentos/",
@@ -462,39 +532,11 @@
     "contenido": "Pipelines y operadores lógicos para combinar comandos en Bash y controlar cómo y cuándo se ejecutan."
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Un poco o un mucho de asexual",
-    "link": "https://adrianperales.com/2025/11/un-poco-o-un-mucho-de-asexual/",
-    "fecha": "20/11/2025",
-    "contenido": "Esta entrada lleva mucho tiempo apuntada y he intentado varias veces afrontar su escritura, sin éxito. Así que, para darle salida a esta idea que quiero compartir, me limitaré a enumerar diferentes razones por las que me considero asexual. Lo primero es que la asexualidad es un espectro. No quiere d"
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "The Long Road to War (Documental)",
     "link": "https://mareosdeungeek.es/the-long-road-to-war-documental/",
     "fecha": "20/11/2025",
     "contenido": "The Long Road to War es un documental que puede verse en Netflix sobre el comienzo de la I Guerra Mundial. Se trata de una producción serbia que analiza los años anteriores a la Gran Guerra. Tanto los movimientos del Imperio Austro-húngaro en los Balcanes como de las otras potencias de principio del"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "45 minutos de Richard Ashcroft en la previa de Oasis",
-    "link": "https://altgr.xyz/2025/11/20/45-minutos-de-richard-ashcroft-en-la-previa-de-oasis/",
-    "fecha": "20/11/2025",
-    "contenido": "Demasiado poco para lo grande que es Ashcroft. El cantante británico, que publicó hace solo unas semanas su más reciente disco de estudio Lovin&#8217; You, se presentó en la antesala de Oasis en El Estadio Nacional. En un show de 45 minutos enfocado en su ex banda, The Verve, sonaron las canciones m"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "chroot: el comando que usamos cuando estamos en apuros",
-    "link": "https://voidnull.es/chroot-el-comando-que-usamos-cuando-estamos-en-apuros/",
-    "fecha": "20/11/2025",
-    "contenido": "Descubre cómo usar chroot para recuperar sistemas, aislar procesos y ejecutar comandos en entornos controlados."
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "Cómo los científicos utilizan la IA para sus programas y qué habría que enseñarles",
-    "link": "https://blog.elmundoesimperfecto.com/2025/11/20/cientificos-informatica-llm/",
-    "fecha": "20/11/2025",
-    "contenido": "\n\nEn How scientists learn computing and use LLMs to program: Computing education for scientists and for democracy hablan del aprendizje de la informática por parte de científicos que la necesitan para su traabajo.\n\nHay recursos, nos dicen, abundantes:\n\n\nI was surprised how much the scientists in her"
   },
   {
     "blog": "fernand0 @ GitHub.io",
@@ -516,27 +558,6 @@
     "link": "https://docig.bearblog.dev/recomendaciones-literarias-por-3/",
     "fecha": "20/11/2025",
     "contenido": "En primer lugar Cesar Aira : Las Noches de Flores\nhttps://docer.ar/doc/nxves1c\nEn segundo lugar Daniel Omar Cignacco : El colombófilo de flores y la cifra infinita\nhttps://docer.ar/doc/nvce558\nEn tercer lugar Mónica Ojeda : Mandíbula\nhttps://docer.ar/doc/810cc1"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Showroom",
-    "link": "https://docig.bearblog.dev/el-showroom/",
-    "fecha": "20/11/2025",
-    "contenido": "El local de \"Tecno-Mundo\", encajado entre un puesto de comida callejera genómica y un club de VR clandestino en el Distrito 3 de la Sprawl, no vendía electrodomésticos; vendía anomalías.\nSu fachada era un panel LED parpadeante, que mostraba televisores 8K con glitches de color que parecían visiones "
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Probando Kodak Aerocolor",
-    "link": "https://www.ericafustero.com/2025-11-probando-kodak-aerocolor",
-    "fecha": "20/11/2025",
-    "contenido": "El sábado probé uno de esos carretes que me compro con muchas ganas y luego pasan varios meses hasta que me decido a usarlos. En esta ocasión se trataba de un carrete de Kodak Aerocolor, película para fotografía aérea que Kodak no vende directamente al público, pero que muchas marcas compran al por "
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Noviembre",
-    "link": "https://www.xn--jmuoz-qta.es/2025/11/noviembre.html",
-    "fecha": "20/11/2025",
-    "contenido": "\n  \n    \n  \nNoviembre. Para mí el mes del otoño por excelencia, con permiso de octubre, en el que como todavía hace calor la mayoría de días, lo considero una prórroga de septiembre, del eterno verano.Noviembre para mí siempre han sido hojas que se caen, puestos de castañas por las calles, las prime"
   },
   {
     "blog": "",
