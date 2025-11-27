@@ -7,11 +7,46 @@
     "contenido": "MMeta proyectó internamente a finales del año pasado que obtendría alrededor del 10 % de sus ingresos anuales totales (16.000 millones de dólares) gracias a la publicidad de estafas y productos prohibidos, según muestran documentos internos de la empresa.Una serie &#8230; Sigue leyendo &#8594;"
   },
   {
+    "blog": "Webnauta",
+    "titulo": "Breve relato acerca de recolección de datos",
+    "link": "https://webnauta.blog/breve-relato-acerca-de-recoleccion-de-datos",
+    "fecha": "26/11/2025",
+    "contenido": "\n\n      \n\n    \n      XNextBigThingX - DeviantArt\n    \n \nComprendiendo la privacidad 2/7La historia ocurre un miércoles cualquiera de julio de dos mil dieciocho, aunque desde que salí de la oficina tenía la sensación de que algo en ese día vibraba fuera de lo habitual. El reloj de flores marcaba quin"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Estado: Mantenimiento interlan.dev",
+    "link": "https://interlan.ec/2025/11/26/estado-mantenimiento-interlan-dev/",
+    "fecha": "26/11/2025",
+    "contenido": "Interlan.dev ha estado corriendo desde hace 911 sin reinicio. es hora de un mantenimiento"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "El naufragio de la Segunda República",
+    "link": "https://mareosdeungeek.es/el-naufragio-de-la-segunda-republica/",
+    "fecha": "26/11/2025",
+    "contenido": "El naufragio de la Segunda República es un libro de la hispanista sueca Inger Enkvist que analiza este período en la Historia de España. Como su título deja entrever, se trata de un libro que puede resultar polémico, sobre todo porque desmonta la imagen idílica que se intenta enseñar de la Segunda R"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalar ntopng para monitorizar la red en Debian 13",
     "link": "https://voidnull.es/instalar-ntopng-para-monitorizar-la-red-en-debian-13/",
     "fecha": "26/11/2025",
     "contenido": "ntopng se trata de un software de tráfico de red que proporciona una visibilidad total de la red, con la capacidad de recopilar información del tráfico, así como exportadores NetFlow, dispositivos SNMP, registros de cortafuegos o sistemas de detección de intrusos."
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "Cuando los datos pasan de la nube a tu dispositivo y algo va mal",
+    "link": "https://blog.elmundoesimperfecto.com/2025/11/26/migraciones-complicadas/",
+    "fecha": "26/11/2025",
+    "contenido": "\n\nYa hace algún tiempo que perdimos la fe en Google. En Oops: Google says it might have deleted your Maps Timeline data un recordatorio de que mover datos es más complicado de lo que pensamos.\n\nGoogle Maps es uno de mis servicios favoritos de Google y no hace mucho nos invitaron a guardar los datos "
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "Protección de ataques en el hardware: más allá de la aleatorización",
+    "link": "https://fernand0.github.io//proteccion-codigo-ejecucion/",
+    "fecha": "26/11/2025",
+    "contenido": "Una técnica habitual para evitar ataques por desbordamiento de memoria y otros es la aleatorización del espacio de direcciones: si los datos no están almacenados siempre de la misma manera (que es lo que se haría sin aleatorización, más o menos) son más difíciles de encontrar, analizar y, en definit"
   },
   {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
@@ -26,6 +61,13 @@
     "link": "https://www.xn--jmuoz-qta.es/2025/11/miercoles.html",
     "fecha": "26/11/2025",
     "contenido": "\n    \n  \n  \nEl miércoles es el mejor día de la semana. Además, para mí este año supone un auténtico oasis en mitad de la semana: una casi pausa en mitad de dos días mucho más gordos; en otras palabras, tres horas lectivas entre dos días que tengo completos.Miércoles. ¿Singular o plural?Miércoles oas"
+  },
+  {
+    "blog": "",
+    "titulo": "Eventos",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/11/26/eventos-51/",
+    "fecha": "26/11/2025",
+    "contenido": ""
   },
   {
     "blog": "La Loica",
@@ -113,17 +155,17 @@
   },
   {
     "blog": "La cosa infinita",
-    "titulo": "El Evangelio del Ascii Siete Bits 💾",
-    "link": "https://docig.mataroa.blog/blog/el-evangelio-del-ascii-siete-bits/",
-    "fecha": "25/11/2025",
-    "contenido": "Todo comenzó, como suelen hacerlo las verdaderas revelaciones, con un problema de codificación. No un simple error de acento en la base de datos, no; era algo mucho más profundo, una grieta ontológica que se abría en el back-end del cosmos. El hardware bullía en el sótano, como una marmita de papas "
-  },
-  {
-    "blog": "La cosa infinita",
     "titulo": "El colombófilo de Flores y la cifra infinita",
     "link": "https://docig.mataroa.blog/blog/el-colombofilo-de-flores-y-la-cifra-infinita/",
     "fecha": "25/11/2025",
     "contenido": "Para todos buena literatura gratis\nhttps://www.bubok.es/libros/284084/el-colombofilo-de-flores-y-la-cifra-infinita"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El Evangelio del Ascii Siete Bits 💾",
+    "link": "https://docig.mataroa.blog/blog/el-evangelio-del-ascii-siete-bits/",
+    "fecha": "25/11/2025",
+    "contenido": "Todo comenzó, como suelen hacerlo las verdaderas revelaciones, con un problema de codificación. No un simple error de acento en la base de datos, no; era algo mucho más profundo, una grieta ontológica que se abría en el back-end del cosmos. El hardware bullía en el sótano, como una marmita de papas "
   },
   {
     "blog": "",
@@ -497,73 +539,10 @@
     "contenido": "\n  \n    \n  \nNoviembre. Para mí el mes del otoño por excelencia, con permiso de octubre, en el que como todavía hace calor la mayoría de días, lo considero una prórroga de septiembre, del eterno verano.Noviembre para mí siempre han sido hojas que se caen, puestos de castañas por las calles, las prime"
   },
   {
-    "blog": "La cosa infinita",
-    "titulo": "Libros para leer y disfrutar por 3",
-    "link": "https://docig.mataroa.blog/blog/libros-para-leer-y-disfrutar-por-3/",
-    "fecha": "20/11/2025",
-    "contenido": "En primer lugar Cesar Aira : Las Noches de Flores \nhttps://docer.ar/doc/nxves1c\nEn segundo lugar Daniel Omar Cignacco : El colombófilo de flores y la cifra infinita \nhttps://docer.ar/doc/nvce558\nEn tercer lugar Mónica Ojeda : Mandíbula\nhttps://docer.ar/doc/810cc1"
-  },
-  {
     "blog": "",
     "titulo": "Ya se encuentra disponible el ultimo disco de Mago de Oz en Youtube.",
     "link": "https://mundoceltamedieval.wordpress.com/2025/11/20/ya-se-encuentra-disponible-el-ultimo-disco-de-mago-de-oz-en-youtube/",
     "fecha": "20/11/2025",
     "contenido": "Anteriormente se presento el ultimo disco (Malicia) en Spotify, el disco ya se encuentra disponible en Youtube Tambien para los que prefieran esta plataforma."
-  },
-  {
-    "blog": "Moribundo Insurgente",
-    "titulo": "El caso legal contra el reconocimiento facial de Ring",
-    "link": "https://moribundoinsurgente.noblogs.org/post/2025/11/19/el-caso-legal-contra-el-reconocimiento-facial-de-ring/",
-    "fecha": "19/11/2025",
-    "contenido": "La próxima herramienta de reconocimiento facial de Amazon Ring tiene el potencial de violar los derechos de privacidad de millones de personas y podría dar lugar a que Amazon incumpla las leyes estatales de privacidad biométrica.Ring tiene previsto introducir una &#8230; Sigue leyendo &#8594;"
-  },
-  {
-    "blog": "Moribundo Insurgente",
-    "titulo": "Así funcionaba el rastreo sin consentimiento de Meta en móviles",
-    "link": "https://moribundoinsurgente.noblogs.org/post/2025/11/19/asi-funcionaba-el-rastreo-sin-consentimiento-de-meta-en-moviles/",
-    "fecha": "19/11/2025",
-    "contenido": "Pedro Sánchez ha anunciado este miércoles que forzará la comparecencia de los responsables de Meta ante el Congreso por “espiar” a los españoles. Ha asegurado que la compañía “deberá rendir cuentas” después de que hace unos meses se desvelara que &#8230; Sigue leyendo &#8594;"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Una Internet pequeñita",
-    "link": "https://jinversor.co/2025/11/una-internet-pequenita/",
-    "fecha": "19/11/2025",
-    "contenido": "Para miles de millones de personas Internet es Facebook, TikTok e Instagram. Es decir que para billones de personas alrededor del mundo Internet es un basurero hediondo donde, inexplicablemente, ellos [&#8230;]\nLa entrada Una Internet pequeñita se publicó primero en Jinversor."
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Ejercicio de casa Semana 8 del Taller de Escritura Creativa Librería Luces 2025/2026",
-    "link": "https://mcallus.net/2025/11/19/ejercicio-de-casa-semana-8-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
-    "fecha": "19/11/2025",
-    "contenido": "Esta semana debíamos escribir algo que homenajease a William Faulkner. En este caso de las diferentes cosas que él usaba yo decidí optar por la narración en primera persona (y por tanto con algo de monólogo interior) junto con saltos temporales durante la narración (uno muy obvio y directo en este f"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Una cosa al día",
-    "link": "https://www.macram.es/posts/2025/11/una-cosa-al-dia/",
-    "fecha": "19/11/2025",
-    "contenido": "Alguna vez lo he comentado, vivo solo en una casa. Y, como nos pasará a todos, hay muchas veces que la casa se me echa encima. Además, en mi caso concreto, como trabajo desde casa, al final paso la práctica totalidad de mi tiempo entre mis paredes.\nUna cosa que estoy empezando a poner en prácticas p"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Primera nevada de la temporada y podcast de la empresa",
-    "link": "https://blog.danielaragay.net/primera-nevada-de-la-temporada-y-podcast-de-la-empresa/",
-    "fecha": "19/11/2025",
-    "contenido": "Hoy hemos tenido en Estocolmo la primera nevada de la temporada. Luego te cuento las peleas que me tengo el de marketing y su ignorancia sobre el podcasting.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/hacien"
-  },
-  {
-    "blog": "",
-    "titulo": "Eventos",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/11/19/eventos-50/",
-    "fecha": "19/11/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "Calaveras",
-    "titulo": "Mi mejor amigo Braulio",
-    "link": "https://calaveras.bearblog.dev/mi-mejor-amigo-braulio/",
-    "fecha": "19/11/2025",
-    "contenido": "Mi mejor amigo es Braulio, es una persona decente, coherente, paciente y a veces inteligente. Se la pasa hablando, eso si, es algo que a mi me hace bien. Escuchar o leer lo que tiene que decir siempre me resultó interesante, muchas veces inquietante, y a menudo motivante.\nDesde que conozco a Braulio"
   }
 ]
