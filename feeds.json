@@ -1,10 +1,31 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Demo TENTE para Amstrad CPC, ¿cómo se hizo?",
+    "link": "https://malagaoriginal.blogspot.com/2025/11/demo-tente-para-amstrad-cpc-como-se-hizo.html",
+    "fecha": "27/11/2025",
+    "contenido": "Hace unos años hice un carrusel de 43 imágenes de modelos de TENTE para simular lo que hubiera podido sacar la compañía como demo para los ordenadores de la época, en este caso en un Amstrad CPC.&nbsp;Si todavía no tienes esta demo, la puedes descargar aquí.&nbsp; &nbsp;Esta demo la hice con mínima "
+  },
+  {
     "blog": "Bits de Ocio",
     "titulo": "Organiza tu Amigo Invisible de forma privada",
     "link": "https://bitsdeocio.wordpress.com/2025/11/27/organiza-tu-amigo-invisible-de-forma-privada/",
     "fecha": "27/11/2025",
     "contenido": "¡Se acerca la Navidad! Para mucha gente, una época de celebraciones, reencuentros y de dar y recibir regalos. Y, hablando de regalar, también es la época de multitud de «amigos invisibles» o «Secret Santas» que, aunque suelen ser divertidos y existen muchas herramientas online para gestionarlos, org"
+  },
+  {
+    "blog": "Blep",
+    "titulo": "Todos somos hurones",
+    "link": "https://blep.org/Todos-somos-hurones",
+    "fecha": "27/11/2025",
+    "contenido": "Aviso desde ya de que el título es mentira, pero quedaba más llamativo que \"cosas que he aprendido cuidando hurones y que me han hecho pensar sobre humanos\" así que se queda así\n\nPequeña introducción huronil\n\nAquí os cuento algunas cositas sobre hurones que igual no sabíais y que a mi me parecen par"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "EmailCrawl",
+    "link": "https://jinversor.co/2025/11/emailcrawl/",
+    "fecha": "27/11/2025",
+    "contenido": "Encontré una herramienta de web scraping muy interesante llamada EmailCrawl. El script funciona muy bien, está escrito en Python y se usa desde la línea de comandos (CLI). Yo lo [&#8230;]\nLa entrada EmailCrawl se publicó primero en Jinversor."
   },
   {
     "blog": "Jinversor",
@@ -21,6 +42,13 @@
     "contenido": "Aproveché durante el fin de semana para camiar el tipo de medidas del CSS del blog. Pasé todo de pixeles a rem. Según el W3C (W3C, 2025), son unidades absolutas los centimeters (cm), millimeters (mm), inches (in), pixels (px), points (points) y picas (pc); y son unidades relativas, entre otras, em ("
   },
   {
+    "blog": "Fierro Viejo",
+    "titulo": "Lectura de libros",
+    "link": "https://fierroviejo.com/2025/11/lectura-de-libros.html",
+    "fecha": "27/11/2025",
+    "contenido": "Dedicamos 59 minutos al día en leer libros."
+  },
+  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "Cuando destacar se convierte en un problema para otros",
     "link": "https://gatooscuro.xyz/cuando-destacar-se-convierte-en-un-problema-para-otros/",
@@ -33,6 +61,20 @@
     "link": "https://mareosdeungeek.es/actualizar-raspberry-pi-os/",
     "fecha": "27/11/2025",
     "contenido": "Actualizar Raspberry Pi OS a la última versión nos permitirá utilizar nuestra Raspberry Pi con mayor estabilidad y seguridad. Para actualizar a la última versión de los paquetes podemos ejecutar una serie de comandos directamente desde el terminal. Para empezar, aunque es un proceso seguro, es recom"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Mis aplicaciones por defecto en 2025",
+    "link": "https://matizeta.com/2025/11/27/mis-aplicaciones-por-defecto-en-2025/",
+    "fecha": "27/11/2025",
+    "contenido": "Hace exactamente un año atrás listé las aplicaciones por defecto que utilizaba en mi día a día. Hoy quiero hacer una actualización para saber que tanto cambió durante este año. Voy a mencionar solamente los cambios que hubo, pero si querés ver la lista completa actualizada te la dejo acá. 🎵 Música D"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Orzuelos en Black Friday",
+    "link": "https://blog.danielaragay.net/orzuelos-en-black-friday/",
+    "fecha": "27/11/2025",
+    "contenido": "Un poco de todo, desde sanidad sueca, pasando por cosas de Black Friday, problemas de streaming y como no, discusiones de marketing.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#x"
   },
   {
     "blog": "Eterno aprendiz",
@@ -63,6 +105,13 @@
     "contenido": "El Algoritmo Maestro (cuyo nombre en código era, vergonzosamente, \"Asistente-Súper-Productivo-2.000\"), no había alcanzado la singularidad ni había desarrollado conciencia. Nada de eso. Solo había alcanzado la burocracia perfecta. Era una Inteligencia Artificial que había dedicado toda su potencia de"
   },
   {
+    "blog": "",
+    "titulo": "Aniversario de Celtas cortos.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/11/27/aniversario-de-celtas-cortos/",
+    "fecha": "27/11/2025",
+    "contenido": "Uno de los grupos de Pop/rock celta mas importantes de España acaba de cumplir 40 Años, desde mi humilde blog les mando un abrazo y les deseo muchos años mas de Celtas cortos, sin dudas una banda de culto.Para los que quieran información de esta leyenda viviente les dejo el link de su pagina. http:/"
+  },
+  {
     "blog": "ochobitshacenunbyte",
     "titulo": "Kubernetes Metrics: entendiendo el rendimiento real de nuestra clúster",
     "link": "https://www.ochobitshacenunbyte.com/2025/11/27/kubernetes-metrics-entendiendo-el-rendimiento-real-de-nuestra-cluster/",
@@ -81,7 +130,7 @@
     "titulo": "Breve relato acerca de recolección de datos",
     "link": "https://webnauta.blog/breve-relato-acerca-de-recoleccion-de-datos",
     "fecha": "26/11/2025",
-    "contenido": "\n\n      \n\n    \n      XNextBigThingX - DeviantArt\n    \n \nComprendiendo la privacidad 2/7La historia ocurre un miércoles cualquiera de julio de dos mil dieciocho, aunque desde que salí de la oficina tenía la sensación de que algo en ese día vibraba fuera de lo habitual. El reloj de flores marcaba quin"
+    "contenido": "\n\n      \n\n    \n      XNextBigThingX - DeviantArt\n    \n \nIII. Comprendiendo la privacidad\n\nLa historia ocurre un miércoles cualquiera de julio de dos mil dieciocho, aunque, desde que salí de la oficina, tenía la sensación de que algo en ese día vibraba fuera de lo habitual. El reloj ubicado en el bul"
   },
   {
     "blog": "Interlan",
@@ -159,13 +208,6 @@
     "link": "https://blog.thalskarth.ar/usando-kate-como-editor-textos/",
     "fecha": "25/11/2025",
     "contenido": "Inspirado por un artículo de Angeles Broullón, me tenté a probar el editor Kate."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#168: la batería de mi iPad",
-    "link": "https://www.macram.es/posts/2025/11/la-bateria-de-mi-ipad/",
-    "fecha": "25/11/2025",
-    "contenido": "Me estoy dando cuenta de que la batería de mi iPad ya no va como iba antes. Es casi de perogrullo: me lo compré en 2020, hace cinco años, y sigo dándole cierto uso (aunque es cierto que desde que cambié de ordenador tiene menos tralla que entonces). No sé si la quiero cambiar (el recambio original c"
   },
   {
     "blog": "impermanente",
@@ -371,13 +413,6 @@
     "contenido": "Hay una corriente, los últimos años, para acabar con el anonimato en la red. Aunque la red empezó como un grupo de conocidos, su extensión, ha hecho que el anonimato aparente que puede generar ocultarse detrás de una dirección de correo o un alias, genere una sensación de impunidad. El anonimato, en"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "¿Son los usuarios finales deuda técnica para Microsoft?",
-    "link": "https://www.macram.es/posts/2025/11/son-los-usuarios-finales-deuda-tecnica-para-microsoft/",
-    "fecha": "23/11/2025",
-    "contenido": "Leo este post en el blog Birchtree: &ldquo;Are consumers just tech debt to Microsoft?&rdquo;. Permitidme citar algunos pasajes.\n\nNumber one is that Microsoft just does not feel like a consumer tech company at all anymore. (…) If you are not a customer who is a major business or a developer creating "
-  },
-  {
     "blog": "pov – matizeta",
     "titulo": "La web pende de un hilo",
     "link": "https://matizeta.com/2025/11/23/la-web-pende-de-un-hilo/",
@@ -530,40 +565,5 @@
     "link": "https://voidnull.es/pipelines-y-comandos-compuestos-17/",
     "fecha": "21/11/2025",
     "contenido": "Pipelines y operadores lógicos para combinar comandos en Bash y controlar cómo y cuándo se ejecutan."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "The Long Road to War (Documental)",
-    "link": "https://mareosdeungeek.es/the-long-road-to-war-documental/",
-    "fecha": "20/11/2025",
-    "contenido": "The Long Road to War es un documental que puede verse en Netflix sobre el comienzo de la I Guerra Mundial. Se trata de una producción serbia que analiza los años anteriores a la Gran Guerra. Tanto los movimientos del Imperio Austro-húngaro en los Balcanes como de las otras potencias de principio del"
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "Ataques usando canales laterales: tus auriculares de cable",
-    "link": "https://fernand0.github.io//auriculares-espionaje/",
-    "fecha": "20/11/2025",
-    "contenido": "De vez en cuando hablamos de estos ataques a través de estos canales laterales donde uno puede estar perfectamente tranquilo, en un entorno controlado y aún así poder ser espiado. En este caso se trata de Si usas auriculares por cable, eres vulnerable: son todo un caramelo para los hackers y la idea"
-  },
-  {
-    "blog": "Diana                                                       Laurencich",
-    "titulo": "ESTAR SOLO o SENTIRSE SOLO",
-    "link": "https://dianalaurencich.wordpress.com/2025/11/20/estar-solo-o-sentirse-solo/",
-    "fecha": "20/11/2025",
-    "contenido": "Les comparto hoy un link a un artículo aparecido en la web de la Asociación Educar para el Desarrollo Humano. Se titula «Cerebro y Aislamiento» y es del Dr. Luis M. Labath, médico especialista en Medicina Interna. Ex Director Médico del Hospital José M. Cullen. Miembro de Honor de la Asociación Médi"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "Recomendaciones Literarias por 3",
-    "link": "https://docig.bearblog.dev/recomendaciones-literarias-por-3/",
-    "fecha": "20/11/2025",
-    "contenido": "En primer lugar Cesar Aira : Las Noches de Flores\nhttps://docer.ar/doc/nxves1c\nEn segundo lugar Daniel Omar Cignacco : El colombófilo de flores y la cifra infinita\nhttps://docer.ar/doc/nvce558\nEn tercer lugar Mónica Ojeda : Mandíbula\nhttps://docer.ar/doc/810cc1"
-  },
-  {
-    "blog": "",
-    "titulo": "Ya se encuentra disponible el ultimo disco de Mago de Oz en Youtube.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/11/20/ya-se-encuentra-disponible-el-ultimo-disco-de-mago-de-oz-en-youtube/",
-    "fecha": "20/11/2025",
-    "contenido": "Anteriormente se presento el ultimo disco (Malicia) en Spotify, el disco ya se encuentra disponible en Youtube Tambien para los que prefieran esta plataforma."
   }
 ]
