@@ -1,10 +1,45 @@
 [
   {
+    "blog": "Home on ~/home/srmorita",
+    "titulo": "Mi vuelta a Ubuntu",
+    "link": "https://srmorita.xyz/blog/mi-vuelta-a-ubuntu/",
+    "fecha": "28/11/2025",
+    "contenido": "Contexto\nHace unos meses en mi lugar de trabajo cambiamos el framework con el cual automatizamos pruebas, estabamos usando WebdriverIO y en su lugar pasamos a usar Playwright, todo esto enmarcado en una migración hacia productos Microsoft y como es algo laboral no tengo mayor injerencia en la toma d"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de las semanas 47 y 48 de 2025",
+    "link": "https://victorhckinthefreeworld.com/2025/11/28/opensuse-tumbleweed-revision-de-las-semanas-47-y-48-de-2025/",
+    "fecha": "28/11/2025",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "Él es (una de) mi(s) persona(s)",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/el-es-una-de-mis-personas/",
+    "fecha": "28/11/2025",
+    "contenido": "Le he echado de menos. Esta semana ha sido dura, no solo por eso, pero sí en parte: me he acostumbrado a compartir, al menos, el final de mi día con él, a contarle cómo ha ido, lo bueno, lo malo, lo nuevo y lo que se repite, y no poder hacerlo me ha pesado como una losa. Lo mismo que no poder abraza"
+  },
+  {
+    "blog": "Blog de Thalskarth",
+    "titulo": "Desconectando - Semana 4",
+    "link": "https://blog.thalskarth.ar/desconectando-semana-cuatro/",
+    "fecha": "28/11/2025",
+    "contenido": "Cuarta semana desde que inicié el proyecto de desconexión durante Noviembre. Pueden leer que pasó la primera semana y también sobre la segunda."
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Descubrieron el fuego",
     "link": "https://jinversor.co/2025/11/descubrieron-el-fuego/",
     "fecha": "28/11/2025",
     "contenido": "Hoy mientras leía mis fuentes RSS me encontré un artículo de The New York Times en el cual mencionaban un super estudio de esos que cuestan entre siete y diez [&#8230;]\nLa entrada Descubrieron el fuego se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Articulo: Segmentar Dump de MySQL",
+    "link": "https://interlan.ec/2025/11/28/articulo-segmentar-dump-de-mysql/",
+    "fecha": "28/11/2025",
+    "contenido": "Tener un dump de las bases de datos es una buena practica, pero asumamos que de las dos formas, de guardar tus bases, elegiste la mas radical."
   },
   {
     "blog": "pov – matizeta",
@@ -26,6 +61,20 @@
     "link": "https://voidnull.es/instalacion-de-manjaro-viernesdedistros/",
     "fecha": "28/11/2025",
     "contenido": "Guía rápida para instalar Manjaro y dejarlo listo en pocos minutos."
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Librojuegos: Catacumbas Infernales, En las Entrañas del Volcán y El Circo del Terror",
+    "link": "http://frikoteca.blogspot.com/2025/11/librojuegos-catacumbas-infernales-en.html",
+    "fecha": "28/11/2025",
+    "contenido": "Vamos con tres reseñas más de los librojuegos clásicos de los 80 de la colección Dungeons & Dragons aventura sin fin. Tenéis las anteriores aquí: los tres primeros libros, las reseñas de los libros 4, 5 y 6, las reseñas de los libros 7, 8 y 9, las reseñas de los libros 10, 11 y 12 y las reseñas de l"
+  },
+  {
+    "blog": "Calaveras",
+    "titulo": "Cuando todo es viral, nada lo es.",
+    "link": "https://calaveras.bearblog.dev/cuando-todo-es-viral-nada-lo-es/",
+    "fecha": "28/11/2025",
+    "contenido": "Cada tanto ingreso a instagram a ver contenido sin sentido, con el perdón de mis familiares y amigos que solo quieren mostrar donde están, o que están comiendo, o haciendo... Scrollear infinitamente es una habilidad que agradezco no tener, me siento lelo al cabo de unos segundos de ingresar a la pla"
   },
   {
     "blog": "Malagueños originales y libres",
@@ -309,7 +358,7 @@
   },
   {
     "blog": "La cosa infinita",
-    "titulo": "El Evangelio del Ascii Siete Bits 💾",
+    "titulo": "El Evangelio del Ascii Siete Bits",
     "link": "https://docig.mataroa.blog/blog/el-evangelio-del-ascii-siete-bits/",
     "fecha": "25/11/2025",
     "contenido": "Todo comenzó, como suelen hacerlo las verdaderas revelaciones, con un problema de codificación. No un simple error de acento en la base de datos, no; era algo mucho más profundo, una grieta ontológica que se abría en el back-end del cosmos. El hardware bullía en el sótano, como una marmita de papas "
@@ -537,47 +586,5 @@
     "link": "https://altgr.xyz/2025/11/22/eyes-without-a-face-billy-idol-en-vivo/",
     "fecha": "22/11/2025",
     "contenido": "Es muy probablemente una de las canciones menos representativas del estilo musical de Billy Idol, pero se ha convertido en una balada rock clásica y es unos de sus mayores éxitos. Además, fue lo único que grabé en su concierto del martes 18 de noviembre en el Teatro Coliseo: solo unos cuantos segund"
-  },
-  {
-    "blog": "Si dios te da limones",
-    "titulo": "Sin rencor",
-    "link": "https://sidiostedalimones.com/blog/2025/sin-rencor/",
-    "fecha": "22/11/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Ejercicio de casa Semana 9 del Taller de Escritura Creativa Librería Luces 2025/2026",
-    "link": "https://mcallus.net/2025/11/21/ejercicio-de-casa-semana-9-del-taller-de-escritura-creativa-libreria-luces-2025-2026/",
-    "fecha": "21/11/2025",
-    "contenido": "Esta semana al taller teníamos que llevar extractos de un diario. En mi caso opté por tirar de un personaje, que me da todo el asco por como es, del cual tengo a medio escribir un relato. Si en el relato el personaje ya lleva unos años en la flota, en estos diarios pongo sus [&#8230;]"
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Artículo: El bucle For Each",
-    "link": "https://interlan.ec/2025/11/21/articulo-el-bucle-for-each/",
-    "fecha": "21/11/2025",
-    "contenido": "Esta es una curiosidad que noté tras intentar aprender como se hace un bucle for each en otros lenguajes aparte de los que conozco. Es interesante notar que hay lenguajes que tardaron décadas en implementarlo y otros que lo hicieron apenas nacieron, así que hoy hago un análisis de lo que aprendí al "
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "¿Abandonar Instagram? Es lo único que me queda para seguir teniendo contacto con mis amigos «reales»",
-    "link": "https://blog.luiscarlospando.com/personal/2025/11/abandonar-instagram-es-lo-unico-que-me-queda-para-seguir-teniendo-contacto-con-mis-amigos-reales/",
-    "fecha": "21/11/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Cine de bolsillo: Mi experiencia con lentes anamórficas y el iPhone 17 Pro",
-    "link": "https://blog.danielaragay.net/cine-de-bolsillo-mi-experiencia-con-lentes-anamorficas-y-el-iphone-17-pro/",
-    "fecha": "21/11/2025",
-    "contenido": "En este episodio, Dani explora el mundo de la cinematograf&#xed;a m&#xf3;vil con su nueva adquisici&#xf3;n: la lente anam&#xf3;rfica Beastgrip 1.55x. Descubre c&#xf3;mo transformar un iPhone 17 Pro en una c&#xe1;mara de cine, entendiendo las diferencias entre el"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Oasis, el concierto que pensé jamás presenciaría",
-    "link": "https://altgr.xyz/2025/11/21/oasis-el-concierto-que-pense-jamas-presenciaria/",
-    "fecha": "21/11/2025",
-    "contenido": "La poco amistosa relación de los hermanos Gallagher tras la separación de Oasis el 2009, a muchos nos había hecho perder toda esperanza de verlos reunidos nuevamente y mucho menos en una presentación en vivo. 15 años tuvimos que esperar para el milagro musical. A las 21:05 hrs. del miércoles saliero"
   }
 ]
