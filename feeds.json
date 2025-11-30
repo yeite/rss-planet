@@ -1,5 +1,19 @@
 [
   {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "#AdvientoPoético - Antes de empezar...",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-antes-de-empezar/",
+    "fecha": "30/11/2025",
+    "contenido": "¡Hola, hola!\nAunque parezca mentira, debido a que hace dos meses que hay polvorones en los supermercados, mañana empieza diciembre. Mientras pensaba en que me gustaría tener un calendario de adviento cuqui, pero no sabía muy bien de qué o cómo, se me ocurrió poner en el mundo algo bonito, algo que a"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "¿Por qué WordPress y no otro?",
+    "link": "https://matizeta.com/2025/11/29/por-que-wordpress-y-no-otro/",
+    "fecha": "29/11/2025",
+    "contenido": "Este mes&#160;WordPress cumplió 20 años de existencia. Llevo años utilizándolo para diferentes proyectos, tantos personales como comerciales. Crecí con él y a lo largo de este tiempo no ha hecho más que mejorar, volviéndose más robusto y expansible gracias a los plugins. Pero ¿por qué habiendo hoy e"
+  },
+  {
     "blog": "Home on ~/home/srmorita",
     "titulo": "Mi vuelta a Ubuntu",
     "link": "https://srmorita.xyz/blog/mi-vuelta-a-ubuntu/",
@@ -126,6 +140,20 @@
     "contenido": "Dedicamos 59 minutos al día en leer libros."
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Cuando destacar se convierte en un problema para otros",
+    "link": "https://gatooscuro.xyz/cuando-destacar-se-convierte-en-un-problema-para-otros/",
+    "fecha": "27/11/2025",
+    "contenido": "Creo que en los últimos meses he repetido bastante que he estado muy ocupado en el trabajo y estudio, por ende la ausencia en escritura y sí, ya es algo\nSeguir leyendo  Cuando destacar se convierte en un problema para otros\nEl cargo Cuando destacar se convierte en un problema para otros apareció pri"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Actualizar Raspberry Pi OS",
+    "link": "https://mareosdeungeek.es/actualizar-raspberry-pi-os/",
+    "fecha": "27/11/2025",
+    "contenido": "Actualizar Raspberry Pi OS a la última versión nos permitirá utilizar nuestra Raspberry Pi con mayor estabilidad y seguridad. Para actualizar a la última versión de los paquetes podemos ejecutar una serie de comandos directamente desde el terminal. Para empezar, aunque es un proceso seguro, es recom"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Mis aplicaciones por defecto en 2025",
     "link": "https://matizeta.com/2025/11/27/mis-aplicaciones-por-defecto-en-2025/",
@@ -201,6 +229,13 @@
     "link": "https://interlan.ec/2025/11/26/estado-mantenimiento-interlan-dev/",
     "fecha": "26/11/2025",
     "contenido": "Interlan.dev ha estado corriendo desde hace 911 sin reinicio. es hora de un mantenimiento"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "El naufragio de la Segunda República",
+    "link": "https://mareosdeungeek.es/el-naufragio-de-la-segunda-republica/",
+    "fecha": "26/11/2025",
+    "contenido": "El naufragio de la Segunda República es un libro de la hispanista sueca Inger Enkvist que analiza este período en la Historia de España. Como su título deja entrever, se trata de un libro que puede resultar polémico, sobre todo porque desmonta la imagen idílica que se intenta enseñar de la Segunda R"
   },
   {
     "blog": "_ voidNull",
@@ -350,6 +385,13 @@
     "contenido": "Como recomendación les dejo esta exquisita interpretación de Nicolás Sokolic."
   },
   {
+    "blog": "brucknerite",
+    "titulo": "350 kilómetros por hora",
+    "link": "https://brucknerite.net/2025/11/350-kilometros-por-hora.html",
+    "fecha": "24/11/2025",
+    "contenido": "Ahora que todo el mundo y su respectiva mascota es experto en dinámica de circulación ferroviaria a muy alta velocidad, ¿qué puedo contar yo que no sepáis? Darse una vuelta por LinkedIn estos días, después del anuncio del ministro del ramo de que en un futuro la alta velocidad en España alcanzará pu"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Leí los términos del servicio de mi Smart TV y ahora duermo con un ojo abierto",
     "link": "https://victorhckinthefreeworld.com/2025/11/24/lei-los-terminos-del-servicio-de-mi-smart-tv-y-ahora-duermo-con-un-ojo-abierto/",
@@ -383,6 +425,27 @@
     "link": "https://blog.luiscarlospando.com/personal/2025/11/y-pues-hoy-cumplo-40/",
     "fecha": "24/11/2025",
     "contenido": "Información – 24 de noviembre, 2025 @ 10:12 am Este post fue tomado de mi post diario en Crucial Tracks. Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en B"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "LEGO Star Wars: Reconstruye la galaxia – Piezas del pasado",
+    "link": "https://mareosdeungeek.es/lego-star-wars-reconstruye-la-galaxia-piezas-del-pasado/",
+    "fecha": "24/11/2025",
+    "contenido": "LEGO Star Wars: Reconstruye la galaxia &#8211; Piezas del pasado es la continuación de LEGO Star Wars: Reconstruye la Galaxia, presentada el año pasado en Disney+. Sigue el mismo formato y continúa con la historia de los hermanos Sig y Dev. Esta segunda parte, creo y espero, pondrá fin a esta rama d"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Almacenamiento cifado de Filen.io y su nueva App Android",
+    "link": "https://alt43.es/almacenamiento_cifado_de_filen_io_y_su_nueva_app_android/",
+    "fecha": "24/11/2025",
+    "contenido": "Hace algún tiempo, realizamos una reseña (a modo de comparación con Mega) del servicio de almacenamiento en la&#46;&#46;&#46;"
+  },
+  {
+    "blog": "Un Pingüino 🐧",
+    "titulo": "Mi recorrido por Appalachia en Fallout 76",
+    "link": "https://unpinguino.com/fallout-76/",
+    "fecha": "24/11/2025",
+    "contenido": "No hace mucho que empecé a jugar Fallout 76, estaba buscando un juego con multijugador&#8230;"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -441,6 +504,13 @@
     "contenido": "El 22 de octubre asistí virtualmente a la charla \"La reforma de la evaluación impulsada por CoARA en la UCM: nuevo grupo de trabajo y primeras implementaciones\". Han publicado el vídeo en Youtube (Biblioteca UCM, 2025). Brevemente y desde la misma web de CoARA: La Coalición para el Avance de la Eval"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Anonimato",
+    "link": "https://mareosdeungeek.es/anonimato/",
+    "fecha": "23/11/2025",
+    "contenido": "Hay una corriente, los últimos años, para acabar con el anonimato en la red. Aunque la red empezó como un grupo de conocidos, su extensión, ha hecho que el anonimato aparente que puede generar ocultarse detrás de una dirección de correo o un alias, genere una sensación de impunidad. El anonimato, en"
+  },
+  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "¿Son los usuarios finales deuda técnica para Microsoft?",
     "link": "https://www.macram.es/posts/2025/11/son-los-usuarios-finales-deuda-tecnica-para-microsoft/",
@@ -469,59 +539,10 @@
     "contenido": "Divididos es mi banda favorita del rock argentino actual. Por eso, espero con ansías cada vez que se presentan en Santiago. La banda es un power trío en su máxima expresión: La potencia de los riffs de Ricardo Mollo en guitarra; Diego Arnedo tocando el bajo como un endemoniado; y Catriel Ciavarella "
   },
   {
-    "blog": "Si dios te da limones",
-    "titulo": "Paleta de bolígrafos mejorada",
-    "link": "https://sidiostedalimones.com/blog/2025/paleta-de-boligrafos-mejorada/",
-    "fecha": "23/11/2025",
-    "contenido": ""
-  },
-  {
     "blog": "La Frikoteca",
     "titulo": "50 años no es nada",
     "link": "http://frikoteca.blogspot.com/2025/11/50-anos-no-es-nada.html",
     "fecha": "23/11/2025",
     "contenido": "Pues así a lo tonto, hace un par de días cumplí cincuenta añitos de nada. He comentado ya varias veces que el día antes de que yo naciera se murió Franco y el día siguiente coronaron a Juan Carlos I, así que se puede decir, sin riesgo a equivocarme, que nací en la más pura anarquía. A pesar de eso, "
-  },
-  {
-    "blog": "SICKSADNATION",
-    "titulo": "Ahora estoy en Substack",
-    "link": "https://sicksadnation.wordpress.com/2025/11/22/ahora-estoy-en-substack/",
-    "fecha": "22/11/2025",
-    "contenido": "Este post es solo para avisar a los lectores actuales (Sick Sad Nation tiene al momento de escribir esto unos 79 suscriptores, ¡gracias!) y a otros posibles visitantes futuros de este blog de que ahora escribo en Substack. Puedes suscribirte en antinodo.substack.com. De momento, no seguiré escribien"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Luces azules para prevenir el suicidio y humidificadores",
-    "link": "https://blog.danielaragay.net/luces-azules-para-prevenir-el-suicidio-y-humidificadores/",
-    "fecha": "22/11/2025",
-    "contenido": "En un par de estaciones de metro en Estocolmo han instalado luces azules y te cuento el problema que tenemos en Suecia con la falta de humedad en invierno.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendo"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Don’t Look Back in Anger – Oasis (En vivo, Estadio Nacional 19/11/2025)",
-    "link": "https://altgr.xyz/2025/11/22/dont-look-back-in-anger-oasis-en-vivo-estadio-nacional-19-11-2025/",
-    "fecha": "22/11/2025",
-    "contenido": "Otro extracto del concierto de Oasis en el Estadio Nacional de Santiago de Chile el miércoles 19/11/2025. Algunos segundos de Don’t Look Back in Anger, uno de los grandes clásicos del grupo, lanzado como parte del disco (What&#8217;s the Story) Morning Glory? de 1995."
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Little by Little – Oasis (En vivo, Estadio Nacional 19/11/2025)",
-    "link": "https://altgr.xyz/2025/11/22/little-by-little-oasis-en-vivo-estadio-nacional-19-11-2025/",
-    "fecha": "22/11/2025",
-    "contenido": "Un pequeño extracto Little by Little, parte la gira de regreso a los escenarios de Oasis en el Estadio Nacional de Santiago de Chile el 19/11/2025. La canción pertenece al álbum Heathen Chemistry, el sexto registro de estudio de la banda de los hermanos Gallagher, publicado el año 2002."
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "The Drugs Don’t Work – Richard Ashcroft (En vivo 19/11/2025)",
-    "link": "https://altgr.xyz/2025/11/22/the-drugs-dont-work-richard-ashcroft-en-vivo-19-11-2025/",
-    "fecha": "22/11/2025",
-    "contenido": "Una de las canciones mas populares de The Verve, la banda con que saltó a la fama Richard Ashcroft, interpretada en vivo en el Estadio Nacional de Santiago de Chile. Parte del show previo a la presentación de Oasis el miércoles 19 de noviembre de 2025. The Drugs Don&#8217;t Work."
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "El interés por la política: un (necesario) camino sin retorno.",
-    "link": "https://altgr.xyz/2025/11/22/el-interes-por-la-politica-un-necesario-camino-sin-retorno/",
-    "fecha": "22/11/2025",
-    "contenido": "El interés por la cosa política, y con ello entender la importancia que tiene en la vida, me llegó tarde. Aunque, como dicen: &#8220;Más vale tarde que nunca&#8221;. Mi entorno nunca fue muy politizado durante mi juventud. No se hablaba de política en casa, no por regla, simplemente no era de interé"
   }
 ]
