@@ -1,10 +1,59 @@
 [
   {
+    "blog": "Bits de Ocio",
+    "titulo": "Inquietudes (Noviembre 2025)",
+    "link": "https://bitsdeocio.wordpress.com/2025/12/01/inquietudes-noviembre-2025/",
+    "fecha": "01/12/2025",
+    "contenido": "Al contrario que en el anterior post de Inquietudes, en el que tuve que juntar dos meses para poder publicar algo \"con chicha\", este mes la cosa ha estado sorprendentemente nutrida (sobre todo de películas) y, ahora que lo miro con perspectiva, ha sido un octubre muy \"ochentero\". Nada mal, la verdad"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "El Tren Mágico de la Navidad en Metro de Madrid",
+    "link": "https://brucknerite.net/2025/12/el-tren-magico-de-la-navidad-en-metro-de-madrid.html",
+    "fecha": "01/12/2025",
+    "contenido": "¡Por fin! ¡He podido contemplar con mis propios ojos y disfrutar con mis propias carnes el Tren Mágico de la Navidad en la línea 3 de Metro de Madrid! Justo antes de que pasara, pude ver…"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "La muerte de un iPod",
+    "link": "https://victorhckinthefreeworld.com/2025/12/01/la-muerte-de-un-ipod/",
+    "fecha": "01/12/2025",
+    "contenido": "Un relato sobre cómo el brillo de un producto de Apple puede ser nada más que un espejismo, una cárcel muy lujosa y cara para sus \"fanboys\""
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "#AdvientoPoético - Día 1",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-1/",
     "fecha": "01/12/2025",
     "contenido": "Antes de leer, para pensar un poco...\n¿Qué has cambiado de ti misma1 para sentirte digna de amor?\n¿Qué cualidades de ti misma crees que merecen ser amadas? ¿Serías la misma sin las otras, las que consideras menos dignas de amor?\n¿Qué cambiarías de la persona que amas? \nY ahora, el poema:\nMe basta as"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Uno de los mejores gestores de archivos para Android: Solid Explorer",
+    "link": "https://alt43.es/uno-de-los-mejores-gestores-de-archivos-para-android-solid-explorer/",
+    "fecha": "01/12/2025",
+    "contenido": "Que el mejor gestor de archivos para Android es MiXplorer, ya ni cotiza. El tema adquiere más recorrido&#46;&#46;&#46;"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "El placer de conocer en detalle lo que compramos",
+    "link": "https://matizeta.com/2025/12/01/el-placer-de-conocer-en-detalle-lo-que-compramos/",
+    "fecha": "01/12/2025",
+    "contenido": "Siento que muchas veces no le damos el tiempo y la dedicación que merece a un producto que nos costó dinero y trabajo comprar. No nos tomamos el tiempo de descubrir todas sus funcionalidades. Te voy a explicar a lo que me refiero poniendo como ejemplo una experiencia personal. Luego de mucho tiempo,"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Newsletter #44 - Tutorial nuevo de netbird, algunas aplicaciones para Docker y un nuevo tutorial de Navidrome",
+    "link": "https://voidnull.es/newsletter/newsletter-44/",
+    "fecha": "01/12/2025",
+    "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
+  },
+  {
+    "blog": "",
+    "titulo": "Frase de la semana.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/12/01/frase-de-la-semana-58/",
+    "fecha": "01/12/2025",
+    "contenido": "Sólo hay felicidad donde hay virtud y esfuerzo serio, pues la vida no es un juego. Aristóteles"
   },
   {
     "blog": "Ubuntu Peronista",
@@ -497,20 +546,6 @@
     "contenido": "Como recomendación les dejo esta exquisita interpretación de Nicolás Sokolic."
   },
   {
-    "blog": "brucknerite",
-    "titulo": "350 kilómetros por hora",
-    "link": "https://brucknerite.net/2025/11/350-kilometros-por-hora.html",
-    "fecha": "24/11/2025",
-    "contenido": "Ahora que todo el mundo y su respectiva mascota es experto en dinámica de circulación ferroviaria a muy alta velocidad, ¿qué puedo contar yo que no sepáis? Darse una vuelta por LinkedIn estos días, después del anuncio del ministro del ramo de que en un futuro la alta velocidad en España alcanzará pu"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Leí los términos del servicio de mi Smart TV y ahora duermo con un ojo abierto",
-    "link": "https://victorhckinthefreeworld.com/2025/11/24/lei-los-terminos-del-servicio-de-mi-smart-tv-y-ahora-duermo-con-un-ojo-abierto/",
-    "fecha": "24/11/2025",
-    "contenido": "Un horror por el que pasamos inadvertidos. Aquí traigo mi ejemplo para que vosotros y vosotras podáis escapar si aún estáis a tiempo..."
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Las manos blandas",
     "link": "https://jinversor.co/2025/11/las-manos-blandas/",
@@ -523,13 +558,6 @@
     "link": "https://mcallus.net/2025/11/24/mi-interior/",
     "fecha": "24/11/2025",
     "contenido": "Delante del espejo observo cómo, sin darme cuenta, el tiempo me ha pasado por encima. Las sombras de la tristeza y el desánimo amenazan con aplastarme cuando veo en qué me he convertido. Echo la vista atrás buscando el origen de este pesar, pero no encuentro nada; en mi memoria solo quedan oscuridad"
-  },
-  {
-    "blog": "Un bruto con Debian",
-    "titulo": "¿Buscas anonimato en la red? Torificate sin despeinarte.",
-    "link": "http://unbrutocondebian.blogspot.com/2025/11/buscas-anonimato-en-la-red-torificate.html",
-    "fecha": "24/11/2025",
-    "contenido": "&nbsp;Cada día es mas necesario el uso de una VPN, para salvar restricciones geográficas, para evitar seguimientos, para esquivar bloqueos IP de los operadores… Si quieres un mínimo de privacidad, no te queda otra que pasar una vez más por caja.Pero existe una manera de conseguirlo tremendamente sen"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -546,32 +574,11 @@
     "contenido": "LEGO Star Wars: Reconstruye la galaxia &#8211; Piezas del pasado es la continuación de LEGO Star Wars: Reconstruye la Galaxia, presentada el año pasado en Disney+. Sigue el mismo formato y continúa con la historia de los hermanos Sig y Dev. Esta segunda parte, creo y espero, pondrá fin a esta rama d"
   },
   {
-    "blog": "alt43",
-    "titulo": "Almacenamiento cifado de Filen.io y su nueva App Android",
-    "link": "https://alt43.es/almacenamiento_cifado_de_filen_io_y_su_nueva_app_android/",
-    "fecha": "24/11/2025",
-    "contenido": "Hace algún tiempo, realizamos una reseña (a modo de comparación con Mega) del servicio de almacenamiento en la&#46;&#46;&#46;"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "490. Requerimiento selectivo",
     "link": "https://lamadredelpatonegro.blogspot.com/2025/11/490-requerimiento-selectivo.html",
     "fecha": "24/11/2025",
     "contenido": "&nbsp; &nbsp; Según leí en un titular reciente, por un requerimiento policial hace meses que ya no se puede reproducir en el estadio de fútbol El Sadar un tema de Barricada de 1986 titulado No hay tregua. La canción llevaba unos años sonando por megafonía como instrumento alentador en el tiempo de d"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de OpenPanel en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-openpanel-en-debian-13/",
-    "fecha": "24/11/2025",
-    "contenido": "Descubre OpenPanel, un panel de control moderno y ligero para servidores GNU/Linux. Con entornos aislados por usuario, soporte para múltiples tecnologías y una interfaz personalizable, es la alternativa perfecta a cPanel o Plesk."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "El verano que viviré",
-    "link": "https://www.xn--jmuoz-qta.es/2025/11/el-verano-que-vivire.html",
-    "fecha": "24/11/2025",
-    "contenido": "\n  \n    \n  \nEstamos a menos de un mes para la Nochebuena y eso querrá decir que nos habremos ventilado un tercio del curso. A la vuelta, en enero, serán seis meses más y fin.No me voy a creer cuando sea 30 de junio. Cuando diga adiós definitivamente a un curso que se me está haciendo cuesta arriba, "
   },
   {
     "blog": "",
