@@ -17,6 +17,14 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "Blog de eapl",
+    "Url": "https://text.eapl.mx",
+    "Feed": "https://text.eapl.mx/atom.xml",
+    "Descripción": "Textos. pensamientos, ideas y conversaciones con eapl",
+    "Categoría": "Ciencia y Humanidades, Entretenimiento y Cultura, Vida Diaria",
+    "País": "México"
+  },
+  {
     "Nombre": "Neptuno en la calle. Archivo secreto de Carlos Maza",
     "Url": "https://calleneptuno.wordpress.com",
     "Feed": "https://calleneptuno.wordpress.com/feed/",
