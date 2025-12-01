@@ -1,10 +1,45 @@
 [
   {
     "blog": "Jodida, pero no sorprendida",
+    "titulo": "#AdvientoPoético - Día 1",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-1/",
+    "fecha": "01/12/2025",
+    "contenido": "Antes de leer, para pensar un poco...\n¿Qué has cambiado de ti misma1 para sentirte digna de amor?\n¿Qué cualidades de ti misma crees que merecen ser amadas? ¿Serías la misma sin las otras, las que consideras menos dignas de amor?\n¿Qué cambiarías de la persona que amas? \nY ahora, el poema:\nMe basta as"
+  },
+  {
+    "blog": "Ubuntu Peronista",
+    "titulo": "¿Cómo uso Ren'Py para crear novelas visuales en Ubuntu?",
+    "link": "https://ubuntuperonista.blogspot.com/2025/05/tutorial-de-renpy-ubuntu.html",
+    "fecha": "30/11/2025",
+    "contenido": "En su Doctrina Universal, Juan Perón expone sobre continentalismo, ecología y universalismo, a la vez que expone cómo programar novelas visuales en Ren'Py en Ubuntu.&nbsp;(...)El problema básico de la mayor parte de los Países del Tercer Mundo \nes la ausencia de una auténtica Justicia Social y de un"
+  },
+  {
+    "blog": "GoRiX blog",
+    "titulo": "El final del buscador CLI de 1337x   :-(",
+    "link": "https://blog.gorix.xyz/el-final-del-buscador-cli-de-1337x----.html",
+    "fecha": "30/11/2025",
+    "contenido": "\n    Durante unos pocos 4 meses, un pequeño script de CLI posix permitió buscar torrents de 1337x directamente desde la terminal usando únicamente herramientas clásicas como curl, grep, awk, sed y fzf. Sin APIs, sin navegador…\n\n\n    Hoy ese script dejó de funcionar o ayer no se, hoy me di cuenta. El"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
     "titulo": "#AdvientoPoético - Antes de empezar...",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-antes-de-empezar/",
     "fecha": "30/11/2025",
     "contenido": "¡Hola, hola!\nAunque parezca mentira, debido a que hace dos meses que hay polvorones en los supermercados, mañana empieza diciembre. Mientras pensaba en que me gustaría tener un calendario de adviento cuqui, pero no sabía muy bien de qué o cómo, se me ocurrió poner en el mundo algo bonito, algo que a"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Lo viral",
+    "link": "https://jinversor.co/2025/11/lo-viral/",
+    "fecha": "30/11/2025",
+    "contenido": "En el blog de Calaveras leí una entrada titulada «Cuando todo es viral, nada lo es». La entrada me puso a pensar en eso que en Internet llamamos «lo viral», [&#8230;]\nLa entrada Lo viral se publicó primero en Jinversor."
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Lecturas en noviembre de 2025",
+    "link": "https://mcallus.net/2025/11/30/lecturas-en-noviembre-de-2025/",
+    "fecha": "30/11/2025",
+    "contenido": "Este mes he terminado de leer lo siguiente: 3 novelas, 5 cómics en grapa y 6 tomos trimestrales (tomitos finos de tres a cinco grapas americanas). Ha sido un mes de ponerme al día con bastantes cosas y aunque he leído más de lo que he comprado lo sigo viendo insuficiente porque la pila de [&#8230;]"
   },
   {
     "blog": "plr blog",
@@ -21,6 +56,13 @@
     "contenido": "Este mes, está siendo un mes de cambios y eso ha hecho que esté intentando adaptarme a una nueva rutina. Sin dudarlo, lo más difícil ha sido dejar de ir a la oficina y socializar con mis compañeros de trabajo. Las primeras semanas aún tenía que asimilar todo los cambios que conlleva perder el trabaj"
   },
   {
+    "blog": "End3r.es",
+    "titulo": "Linkding, breve guía de instalación",
+    "link": "https://www.end3r.es/posts/011-linkding-guia-de-instalacion/",
+    "fecha": "30/11/2025",
+    "contenido": "Hoy quiero traer al blog una pequeña gúia de instalación y configuración de\nLinkding.\nLinkding es un agregador de enlaces autoalojado y de código abierto (Licencia MIT) que se encarga\nde guardar, organizar y buscar tus marcadores en un servidor propio, en lugar de usar servicios\ncomerciales. Permite"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Qué me gusta ver en cada blog personal que visito",
     "link": "https://matizeta.com/2025/11/30/que-me-gusta-ver-en-cada-blog-personal-que-visito/",
@@ -28,11 +70,46 @@
     "contenido": "Gracias a los blogs que me envían para ser incorporado al directorio de blogs en español ¡Blog!¡Blog! estoy conociendo muchos blogs nuevos. No encuentro más que sorpresas agradables, bien diseñados, buen contenido, pero en otros hay ciertos detalles faltantes que me gustaría encontrar en un blog per"
   },
   {
+    "blog": "esencial",
+    "titulo": "Ataraxia",
+    "link": "https://yeite.github.io/esencial/ataraxia",
+    "fecha": "30/11/2025",
+    "contenido": ""
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "492. Cíclica sensación olfativa",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/12/492-ciclica-sensacion-olfativa.html",
+    "fecha": "30/11/2025",
+    "contenido": "&nbsp; &nbsp; Respira hondo cuando salgas a la calle. ¿Lo hueles? Yo lo huelo incluso dentro de casa. Se cuela por los respiraderos, debajo de las puertas y por la ranura de la cinta del recogedor de la persiana. Incluso se abre paso a través de las cubiertas de los altavoces de la televisión y la r"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "El ingrediente inesperado · Capítulo 20 y Epílogo",
+    "link": "https://blog.danielaragay.net/el-ingrediente-inesperado-capitulo-20-y-epilogo/",
+    "fecha": "30/11/2025",
+    "contenido": "Lee el borrador de la novela entera: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoEl despertador son&#xf3; a las siete de la ma&#xf1;ana, un pitido suave que rompi&#xf3; el silencio de la habitaci&#xf3;n con m&#xe1;s delicadeza de la que Sebasti&#xe1;n"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "El ingrediente inesperado · Capítulo 19",
+    "link": "https://blog.danielaragay.net/el-ingrediente-inesperado-capitulo-19/",
+    "fecha": "30/11/2025",
+    "contenido": "Cap&#xed;tulos anteriores: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoLlegaron y aparcaron la moto junto a la entrada del hotel.Sebasti&#xe1;n se baj&#xf3;, se quit&#xf3; el casco y se pas&#xf3; una mano por el pelo a&#xfa;n h&#xfa;medo.&#x2014;A&"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Ping #14: Actualizaciones, novedades y ranking de distros",
     "link": "https://voidnull.es/ping-14-actualizaciones-novedades-y-ranking-de-distros/",
     "fecha": "30/11/2025",
     "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
+  },
+  {
+    "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "titulo": "Procesos en Java",
+    "link": "https://seyker.eu/procesos-en-java/",
+    "fecha": "30/11/2025",
+    "contenido": "Una de las ventajas del uso de Java es que su SDK incluye una integración de la gestión de procesos. Java Runtime La clase Runtime es la que incluye métodos para lanzar procesos, llamar al recolector de basura, saber cuanta memoria hay disponible, liberar procesos, etc. Cada aplicación tiene entonce"
   },
   {
     "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
@@ -476,32 +553,11 @@
     "contenido": "Hace algún tiempo, realizamos una reseña (a modo de comparación con Mega) del servicio de almacenamiento en la&#46;&#46;&#46;"
   },
   {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "Mi recorrido por Appalachia en Fallout 76",
-    "link": "https://unpinguino.com/fallout-76/",
-    "fecha": "24/11/2025",
-    "contenido": "No hace mucho que empecé a jugar Fallout 76, estaba buscando un juego con multijugador&#8230;"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "490. Requerimiento selectivo",
     "link": "https://lamadredelpatonegro.blogspot.com/2025/11/490-requerimiento-selectivo.html",
     "fecha": "24/11/2025",
     "contenido": "&nbsp; &nbsp; Según leí en un titular reciente, por un requerimiento policial hace meses que ya no se puede reproducir en el estadio de fútbol El Sadar un tema de Barricada de 1986 titulado No hay tregua. La canción llevaba unos años sonando por megafonía como instrumento alentador en el tiempo de d"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Spaghetti del Rock – Divididos (En vivo Teatro Coliseo 22/11/2025)",
-    "link": "https://altgr.xyz/2025/11/23/spaghetti-del-rock-divididos-en-vivo-teatro-coliseo-22-11-2025/",
-    "fecha": "24/11/2025",
-    "contenido": "Necesitaba dejar registro, al menos unos segundos, de una de las canciones más hermosas de Divididos. Pistones de un curioso motor de humanidadResortes viejos de este amor que vaMemoria hostil de un tiempo de paz sin pazNarices frías de una noche atrás"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "¿Qué ves? – Divididos (En vivo Teatro Coliseo 22/11/2025)",
-    "link": "https://altgr.xyz/2025/11/23/que-ves-divididos-en-vivo-teatro-coliseo-22-11-2025/",
-    "fecha": "24/11/2025",
-    "contenido": "Aquí va uno de los fragmentos que grabé en el concierto de Divididos en el Teatro Coliseo. ¿Qué ves?, una de las canciones más conocidas del trío argentino. Es parte del disco La Era de la Boludez, de 1993, con el que la banda saltó a la fama."
   },
   {
     "blog": "_ voidNull",
@@ -530,33 +586,5 @@
     "link": "https://www.ochobitshacenunbyte.com/2025/11/24/kickstart-instalaciones-automatizadas-en-red-hat-centos-o-rocky-linux/",
     "fecha": "24/11/2025",
     "contenido": "Hoy vamos a ver una de las herramientas más potentes y desconocidas para automatizar instalaciones en sistemas basados en Red Hat Enterprise Linux, como Rocky Linux 9, AlmaLinux o CentOS Stream: el método de&#46;&#46;&#46;\nLa entrada Kickstart: Instalaciones automatizadas en Red Hat, Centos o Rocky "
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "La web pende de un hilo",
-    "link": "https://matizeta.com/2025/11/23/la-web-pende-de-un-hilo/",
-    "fecha": "23/11/2025",
-    "contenido": "El siguiente texto lo escribí el día después de la caída de Cloudflare de la semana pasada. Había quedado en el borrador, por una cosa u otra no lo publiqué hasta hoy. La siguiente es una crónica de aquél día y reflexión para tomar acción. Ayer me desperté y luego de hacer cosas que uno [&#8230;]"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "“El ingrediente inesperado” - Capítulo 18",
-    "link": "https://blog.danielaragay.net/el-ingrediente-inesperado-capitulo-18/",
-    "fecha": "23/11/2025",
-    "contenido": "Cap&#xed;tulos anteriores: https://books.danielaragay.net/bookstack/books/el-ingrediente-inesperadoSebasti&#xe1;n cruz&#xf3; la puerta de la cocina seguido por Bom, sus padres y Lak. Sobre la mesa central alguien hab&#xed;a dispuesto las verduras, las hierbas y peque&#xf1;os cuencos de cer&#xe1;mica"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Divididos, más cerca que nunca",
-    "link": "https://altgr.xyz/2025/11/23/divididos-mas-cerca-que-nunca/",
-    "fecha": "23/11/2025",
-    "contenido": "Divididos es mi banda favorita del rock argentino actual. Por eso, espero con ansías cada vez que se presentan en Santiago. La banda es un power trío en su máxima expresión: La potencia de los riffs de Ricardo Mollo en guitarra; Diego Arnedo tocando el bajo como un endemoniado; y Catriel Ciavarella "
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "50 años no es nada",
-    "link": "http://frikoteca.blogspot.com/2025/11/50-anos-no-es-nada.html",
-    "fecha": "23/11/2025",
-    "contenido": "Pues así a lo tonto, hace un par de días cumplí cincuenta añitos de nada. He comentado ya varias veces que el día antes de que yo naciera se murió Franco y el día siguiente coronaron a Juan Carlos I, así que se puede decir, sin riesgo a equivocarme, que nací en la más pura anarquía. A pesar de eso, "
   }
 ]
