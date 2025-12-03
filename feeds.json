@@ -1,10 +1,38 @@
 [
   {
     "blog": "Jodida, pero no sorprendida",
+    "titulo": "#AdvientoPoético - Día 3",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-3/",
+    "fecha": "03/12/2025",
+    "contenido": "Antes de leer, para pensar un poco...\nPiensa en alguna cosa que te arrepientes de no haber hecho. ¿Por qué no la hiciste?\n¿Cuánto peso tiene en tu vida la opinión de los demás?\n¿Te has planteado alguna vez la diferencia entre lo correcto y lo aceptado? \nY ahora, el poema...\n4 (Ciclo satánico), de Ca"
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "La vida en la Escuela Tortuga dentro de Dragonball Z Kakarot",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/12/03/20251203-kakarot/",
+    "fecha": "03/12/2025",
+    "contenido": "Dragonball Z Kakarot es una propuesta inmesiva donde el combate es una herramienta narrativa, no el centro del juego"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Equilibrios en El Médano",
+    "link": "https://guillermolatorre.com/fotolog/equilibrios-en-el-medano",
+    "fecha": "02/12/2025",
+    "contenido": "Responder por email."
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
     "titulo": "#AdvientoPoético - Día 2",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-2/",
     "fecha": "02/12/2025",
     "contenido": "Antes de leer, para pensar un poco...\n¿Crees que el dolor es justificable? ¿Tiene sentido? \n¿Qué historias nos contamos para tolerar el dolor? \n¿Crees que se invierte más esfuerzo en hacer el dolor tolerable que en actuar sobre sus causas?\n¿Qué sientes cuando alguien intenta justificar tu dolor?\nY a"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "Esto es lo que hay.",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/esto-es-lo-que-hay/",
+    "fecha": "02/12/2025",
+    "contenido": "Últimamente ando muy satisfecha conmigo misma. Estoy manejando mi ansiedad estupendamente (hay poco que manejar, me encuentro en un estado de calma inaudito en mí, ni siquiera en vacaciones alcanzo este nivel de zen). Llego al final del día y de la semana laboral con un nivel de energía que no recue"
   },
   {
     "blog": "plr blog",
@@ -21,11 +49,67 @@
     "contenido": "Kazeta es una distribución de GNU/Linux que permite convertir tu ordenador en una consola de los 90. La característica principal de Kazeta es que los videojuegos se cargan directamente desde un soporte de almacenamiento. La idea principal es convertir las librerías digitales de servicios como GOG en"
   },
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "493. Lejos de lugares extraños",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/12/493-lejos-de-lugares-extranos.html",
+    "fecha": "02/12/2025",
+    "contenido": "&nbsp; &nbsp; Mi destino fue que de adulto me ganara la vida en las profundidades de la Tierra. No rockeando en la radio ni en un vídeo por haber triunfado en el mundo de la música. Nada más lejos de la realidad.&nbsp; &nbsp; Tuve ayer una epifanía en un momento oscuro, en la que me vi con siete año"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Mi música en plataformas de streaming",
+    "link": "https://blog.danielaragay.net/mi-musica-en-plataformas-de-streaming/",
+    "fecha": "02/12/2025",
+    "contenido": "A partir de hoy mi m&#xfa;sica la podr&#xe1;s encontrar en varias plataformas de streaming como:Spotify: https://open.spotify.com/artist/6hwAPY06PyZf4e0SwS3GwX?si=5gLzplaVSZSPZY1FZyKefwApple Music: https://music.apple.com/se/artist/daniel-aragay/1857715453En este momento hay solo disponibles 2 canci"
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "La preservación digital y los riesgos actuales",
+    "link": "https://blog.elmundoesimperfecto.com/2025/12/02/borrado-web/",
+    "fecha": "02/12/2025",
+    "contenido": "\n\nDe vez en cuando hablamos de preservación digital y, en particular, de la web.\nEn As the Trump administration purges web pages, this group is rushing to save them nos recuerdan que una parte de la web está siendo borrada de manera activa.\n\nNo solo páginas federales, que en algunos casos volvían mo"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "Los drones en la guerra: nuevos usos y ciberseguridad",
+    "link": "https://fernand0.github.io//drones-guerra-electronica/",
+    "fecha": "02/12/2025",
+    "contenido": "No solemos hablar aquí de guerras ni armamento, pero el caso es que muchos fallos de seguridad pueden convertirse con cierta facilidad en armas y entonces se habla de una herramienta más dentro del ciber-armamento. En Ukraine’s Trojan Horse Drones: A New Frontier in Cyber Warfare habla de los drones"
+  },
+  {
+    "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "titulo": "Hilos",
+    "link": "https://seyker.eu/hilos/",
+    "fecha": "02/12/2025",
+    "contenido": "Conceptos básicos y cómo funcionan los hilos: Los hilos comparten el espacio de memoria del usuario, es decir corren dentro del contexto de otro programa; y los procesos generalmente mantienen su propio espacio de direcciones y entorno de operaciones. Por ello a los hilos se les conoce a menudo como"
+  },
+  {
     "blog": "Erica Fustero",
     "titulo": "A day with: Hola Gominola",
     "link": "https://www.ericafustero.com/2025-12-a-day-with-hola-gominola",
     "fecha": "02/12/2025",
     "contenido": "Hace media vida, allá por 2008, Sara y yo empezamos a coleccionar muñecas Blythe y acabamos haciéndonos amigas. Desde entonces, Sara se dedica a customizar muñecas de colección bajo la marca Hola Gominola, un trabajo que la ha llevado a recorrer el mundo y a participar en numerosos eventos de colecc"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Diciembre",
+    "link": "https://www.xn--jmuoz-qta.es/2025/12/diciembre.html",
+    "fecha": "02/12/2025",
+    "contenido": "\n  \n    \n  \nAhora sí, empieza el mes frío por excelencia, y eso que estadísticamente enero tiene más días con temperaturas más bajas que diciembre, pero será que lo cojo con ganas. ¡El gusto que da ponerse una manga larga para salir a la calle! ¡El gusto que da echarse una mantita!Empieza la cuenta "
+  },
+  {
+    "blog": "",
+    "titulo": "Recomendación de la semana.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/12/02/recomendacion-de-la-semana-31/",
+    "fecha": "02/12/2025",
+    "contenido": "Para los interesados en las danzas irlandesas les dejo un canal de Youtube muy interesante sobre el tema. https://www.youtube.com/@claddaghacademy"
+  },
+  {
+    "blog": "Calaveras",
+    "titulo": "29/11/2025 - En bici",
+    "link": "https://calaveras.bearblog.dev/29112025-en-bici/",
+    "fecha": "02/12/2025",
+    "contenido": ""
   },
   {
     "blog": "Bits de Ocio",
@@ -530,68 +614,5 @@
     "link": "https://mundoceltamedieval.wordpress.com/2025/11/26/eventos-51/",
     "fecha": "26/11/2025",
     "contenido": ""
-  },
-  {
-    "blog": "La Loica",
-    "titulo": "Pañoleta Ni una Menos en Maquina Bordadora",
-    "link": "https://laloica.noblogs.org/niunamenosenmaquinabordadora/",
-    "fecha": "25/11/2025",
-    "contenido": "Este es un tutorial que tenía muchas ganas de compartir con el mundo. En este video, verás el paso a paso para crear una pañoleta personalizada con una maquina bordadora, en este caso, una pañoleta del movimiento «Ni Una Menos». Puedes ver el video tutorial en mi PeerTube Para llevar a cabo este pro"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "GrapheneOS migra sus servidores fuera de Francia por no ser seguro para «proyectos de privacidad de código abierto",
-    "link": "https://victorhckinthefreeworld.com/2025/11/25/grapheneos-migra-sus-servidores-fuera-de-francia-por/",
-    "fecha": "25/11/2025",
-    "contenido": "El proyecto GrapheneOS ha anunciado la red social del Nazi Elon Musk que cesa todas las operaciones en Francia, afirmando que el país ya no es seguro para los \"proyectos de privacidad de código abierto\"."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#168: la batería de mi iPad",
-    "link": "https://www.macram.es/posts/2025/11/la-bateria-de-mi-ipad/",
-    "fecha": "25/11/2025",
-    "contenido": "Me estoy dando cuenta de que la batería de mi iPad ya no va como iba antes. Es casi de perogrullo: me lo compré en 2020, hace cinco años, y sigo dándole cierto uso (aunque es cierto que desde que cambié de ordenador tiene menos tralla que entonces). No sé si la quiero cambiar (el recambio original c"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Sobre dioses mitologícos",
-    "link": "https://impermanente.es/2025/11/25/sobre-dioses-mitologcos.html",
-    "fecha": "25/11/2025",
-    "contenido": "A medida que investigo más cosas para mi siguiente libro, me voy dando cuenta de lo mal que me enseñaron sobre mitologia en el colegio&hellip; además de que luego ve uno repetidos los mismos errores en otros lados.\nEl más clásico: clasificar a los dioses por &ldquo;dominios&rdquo; o campos de acción"
-  },
-  {
-    "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
-    "titulo": "Concurrencia y Distribución",
-    "link": "https://seyker.eu/concurrencia-y-distribucion/",
-    "fecha": "25/11/2025",
-    "contenido": "Inicialmente los ordenadores iban de programa en programas, funcionaban por lotes o batch. Esto es porque eran sistemas monoprogramados. Para varias tareas al mismo tiempo surgió el concepto de multiprogramación, que viene de realizar múltiples tareas al mismo tiempo y es a lo que llamamos Programac"
-  },
-  {
-    "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
-    "titulo": "Introducción a SpringBoot",
-    "link": "https://seyker.eu/introduccion-a-springboot/",
-    "fecha": "25/11/2025",
-    "contenido": "¿Qué es Spring? Es un FrameWork, es decir un sistema ya predefinido para la programación de aplicativos, en este caso con bases de datos y otros sistemas de persistencia. El uso de este FrameWork delega gran parte del modelado con base de datos automatizando lo que se hacía en las clases DAO.\nLa ent"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El colombófilo de Flores y la cifra infinita",
-    "link": "https://docig.bearblog.dev/el-colombofilo-de-flores-y-la-cifra-infinita/",
-    "fecha": "25/11/2025",
-    "contenido": "Gratis para el mundo\nhttps://www.bubok.es/libros/284084/el-colombofilo-de-flores-y-la-cifra-infinita"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Directorio de blogs en español",
-    "link": "https://www.xn--jmuoz-qta.es/2025/11/directorio-de-blogs-en-espanol.html",
-    "fecha": "25/11/2025",
-    "contenido": "En los últimos días me he unido con este cuaderno que están leyendo a ¡Blog!¡Blog!, un directorio de sitios web personales en español, creados por gente corriente y moliente, libres de SEO, algoritmos, inteligencia artificial y sin fines comerciales. Lo que es este pequeño rincón de Internet, un sit"
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendación.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/11/25/recomendacion-11/",
-    "fecha": "25/11/2025",
-    "contenido": "Como recomendación les dejo esta exquisita interpretación de Nicolás Sokolic."
   }
 ]
