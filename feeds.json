@@ -1,5 +1,12 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "Bienvenidos a la era del sudapollismo",
+    "link": "https://brucknerite.net/2025/12/bienvenidos-a-la-era-del-sudapollismo.html",
+    "fecha": "03/12/2025",
+    "contenido": "Erik Harley, brillante divulgador de lo absurdo en la intersección entre arquitectura y urbanismo, se inspiró en Huevos de oro, la película de Bigas Luna, para crear el pormishuevismo: ese ismo tan reconocible en  […]"
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "#AdvientoPoético - Día 3",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-3/",
@@ -7,11 +14,39 @@
     "contenido": "Antes de leer, para pensar un poco...\nPiensa en alguna cosa que te arrepientes de no haber hecho. ¿Por qué no la hiciste?\n¿Cuánto peso tiene en tu vida la opinión de los demás?\n¿Te has planteado alguna vez la diferencia entre lo correcto y lo aceptado? \nY ahora, el poema...\n4 (Ciclo satánico), de Ca"
   },
   {
+    "blog": "plr blog",
+    "titulo": "El más por más del software libre en la academia y la ciencia como única vía válida: programas que son software libre ejecutados en sistemas operativos libres",
+    "link": "https://pedrolr.es/blog/el-mas-por-mas-del-software-libre-en-la-academia-y-la-ciencia-como-unica-via-valida-programas-que-son-software-libre-ejecutados-en-sistemas-operativos-libres/",
+    "fecha": "03/12/2025",
+    "contenido": "Diría que mucha gente en el contexto de la academia, la universidad y la ciencia, se piensa que el uso de software libre es usar software en el sentido de programas que son software libre. El sistema operativo en el que ejecutan ese software libre a nivel de programas no se considera en la ecuación,"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Cómo la innovación desfigura la identidad de un programa",
+    "link": "https://gatooscuro.xyz/como-la-innovacion-desfigura-la-identidad-de-un-programa/",
+    "fecha": "03/12/2025",
+    "contenido": "Este artículo lo estoy escribiendo como una queja abierta y pretendo posteriormente organizarlo para pasarlo de manera formal al equipo de Anytype y sí… leíste bien. Para quienes llevan leyéndome\nSeguir leyendo  Cómo la innovación desfigura la identidad de un programa\nEl cargo Cómo la innovación des"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#169: tema de invierno",
+    "link": "https://www.macram.es/posts/2025/12/invierno/",
+    "fecha": "03/12/2025",
+    "contenido": "Quien visite este blog desde el navegador y no vía lector RSS habrá notado que el blog ahora tiene un tema más invernal (y, si no lo ve, que limpie la caché o algo). Me gusta ir cambiando el tema del blog con colores que me van gustando y ahora es tiempo de azul. También le habrá saltado en el RSS q"
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "La vida en la Escuela Tortuga dentro de Dragonball Z Kakarot",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/12/03/20251203-kakarot/",
     "fecha": "03/12/2025",
     "contenido": "Dragonball Z Kakarot es una propuesta inmesiva donde el combate es una herramienta narrativa, no el centro del juego"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Los días me pasan volando",
+    "link": "https://www.xn--jmuoz-qta.es/2025/12/los-dias-me-pasan-volando.html",
+    "fecha": "03/12/2025",
+    "contenido": "Metidos ya en pleno mes de diciembre, en plena rutina del curso, y a pesar del cansancio que arrastro, sobre todo a partir del martes, debo decir que los días se me pasan volando. En el ocaso del domingo siempre pienso que qué larga va a ser la semana y los lunes, cuando toca el despertador, no me a"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -77,7 +112,7 @@
     "contenido": "No solemos hablar aquí de guerras ni armamento, pero el caso es que muchos fallos de seguridad pueden convertirse con cierta facilidad en armas y entonces se habla de una herramienta más dentro del ciber-armamento. En Ukraine’s Trojan Horse Drones: A New Frontier in Cyber Warfare habla de los drones"
   },
   {
-    "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
     "titulo": "Hilos",
     "link": "https://seyker.eu/hilos/",
     "fecha": "02/12/2025",
@@ -329,14 +364,14 @@
     "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
   },
   {
-    "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
     "titulo": "Procesos en Java",
     "link": "https://seyker.eu/procesos-en-java/",
     "fecha": "30/11/2025",
     "contenido": "Una de las ventajas del uso de Java es que su SDK incluye una integración de la gestión de procesos. Java Runtime La clase Runtime es la que incluye métodos para lanzar procesos, llamar al recolector de basura, saber cuanta memoria hay disponible, liberar procesos, etc. Cada aplicación tiene entonce"
   },
   {
-    "blog": "SKR - Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
     "titulo": "Preguntas tipo test de exámenes anteriores",
     "link": "https://seyker.eu/preguntas-tipo-test-de-examenes-anteriores/",
     "fecha": "30/11/2025",
@@ -546,13 +581,6 @@
     "contenido": "En cualquier clúster de Kubernetes, la capacidad para observar qué ocurre realmente dentro de los nodos y los pods es esencial para tomar decisiones informadas. Kubernetes, por sí mismo, proporciona información estructural sobre los&#46;&#46;&#46;\nLa entrada Kubernetes Metrics: entendiendo el rendim"
   },
   {
-    "blog": "Moribundo Insurgente",
-    "titulo": "Meta está ganando una fortuna con una avalancha de anuncios fraudulentos",
-    "link": "https://moribundoinsurgente.noblogs.org/post/2025/11/26/meta-esta-ganando-una-fortuna-con-una-avalancha-de-anuncios-fraudulentos/",
-    "fecha": "26/11/2025",
-    "contenido": "MMeta proyectó internamente a finales del año pasado que obtendría alrededor del 10 % de sus ingresos anuales totales (16.000 millones de dólares) gracias a la publicidad de estafas y productos prohibidos, según muestran documentos internos de la empresa.Una serie &#8230; Sigue leyendo &#8594;"
-  },
-  {
     "blog": "Webnauta",
     "titulo": "Breve relato acerca de recolección de datos",
     "link": "https://webnauta.blog/breve-relato-acerca-de-recoleccion-de-datos",
@@ -574,39 +602,11 @@
     "contenido": "El naufragio de la Segunda República es un libro de la hispanista sueca Inger Enkvist que analiza este período en la Historia de España. Como su título deja entrever, se trata de un libro que puede resultar polémico, sobre todo porque desmonta la imagen idílica que se intenta enseñar de la Segunda R"
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalar ntopng para monitorizar la red en Debian 13",
-    "link": "https://voidnull.es/instalar-ntopng-para-monitorizar-la-red-en-debian-13/",
-    "fecha": "26/11/2025",
-    "contenido": "ntopng se trata de un software de tráfico de red que proporciona una visibilidad total de la red, con la capacidad de recopilar información del tráfico, así como exportadores NetFlow, dispositivos SNMP, registros de cortafuegos o sistemas de detección de intrusos."
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "Cuando los datos pasan de la nube a tu dispositivo y algo va mal",
-    "link": "https://blog.elmundoesimperfecto.com/2025/11/26/migraciones-complicadas/",
-    "fecha": "26/11/2025",
-    "contenido": "\n\nYa hace algún tiempo que perdimos la fe en Google. En Oops: Google says it might have deleted your Maps Timeline data un recordatorio de que mover datos es más complicado de lo que pensamos.\n\nGoogle Maps es uno de mis servicios favoritos de Google y no hace mucho nos invitaron a guardar los datos "
-  },
-  {
     "blog": "fernand0 @ GitHub.io",
     "titulo": "Protección de ataques en el hardware: más allá de la aleatorización",
     "link": "https://fernand0.github.io//proteccion-codigo-ejecucion/",
     "fecha": "26/11/2025",
     "contenido": "Una técnica habitual para evitar ataques por desbordamiento de memoria y otros es la aleatorización del espacio de direcciones: si los datos no están almacenados siempre de la misma manera (que es lo que se haría sin aleatorización, más o menos) son más difíciles de encontrar, analizar y, en definit"
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Mi gestión de notas en 2025",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/11/26/20251126-gestion-de-notas-2025/",
-    "fecha": "26/11/2025",
-    "contenido": "Un breve repaso a mi proceso de notas y proyectos, a petición de Tzinm"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Miércoles",
-    "link": "https://www.xn--jmuoz-qta.es/2025/11/miercoles.html",
-    "fecha": "26/11/2025",
-    "contenido": "\n    \n  \n  \nEl miércoles es el mejor día de la semana. Además, para mí este año supone un auténtico oasis en mitad de la semana: una casi pausa en mitad de dos días mucho más gordos; en otras palabras, tres horas lectivas entre dos días que tengo completos.Miércoles. ¿Singular o plural?Miércoles oas"
   },
   {
     "blog": "",
