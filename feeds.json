@@ -7,6 +7,13 @@
     "contenido": "Antes del poema, para pensar un poco...\n¿En qué piensas cuando escuchas la expersión carpe diem?\n¿Crees que estás viviendo el momento lo mejor que te es posible? \n¿Se te ocurre alguna cosa que puedas hacer hoy (o mañana) para sentir que estás haciendo tuyo parte del tiempo que se te ha dado?\nY ahora"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Cryptomator, cifrando tus archivos en la nube",
+    "link": "https://mareosdeungeek.es/cryptomator-cifrando-tus-archivos-en-la-nube/",
+    "fecha": "04/12/2025",
+    "contenido": "Cryptomator es una aplicación que permite cifrar directorios, tanto a nivel local como en servicios de almacenamiento en la nube. De manera sencilla, podemos crear bóvedas (directorios) que se protegen y cifran utilizando AES y cifrado de 256 bits para los archivos. De esta manera podemos proteger e"
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Bienvenidos a la librería Hyunam-Dong",
     "link": "https://guillermolatorre.com/libros/bienvenidos-a-la-libreria-hyunam-dong",
@@ -127,17 +134,17 @@
   },
   {
     "blog": "Jodida, pero no sorprendida",
-    "titulo": "#AdvientoPoético - Día 2",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-2/",
-    "fecha": "02/12/2025",
-    "contenido": "Antes de leer, para pensar un poco...\n¿Crees que el dolor es justificable? ¿Tiene sentido? \n¿Qué historias nos contamos para tolerar el dolor? \n¿Crees que se invierte más esfuerzo en hacer el dolor tolerable que en actuar sobre sus causas?\n¿Qué sientes cuando alguien intenta justificar tu dolor?\nY a"
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
     "titulo": "Esto es lo que hay.",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/esto-es-lo-que-hay/",
     "fecha": "02/12/2025",
     "contenido": "Últimamente ando muy satisfecha conmigo misma. Estoy manejando mi ansiedad estupendamente (hay poco que manejar, me encuentro en un estado de calma inaudito en mí, ni siquiera en vacaciones alcanzo este nivel de zen). Llego al final del día y de la semana laboral con un nivel de energía que no recue"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "#AdvientoPoético - Día 2",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-2/",
+    "fecha": "02/12/2025",
+    "contenido": "Antes de leer, para pensar un poco...\n¿Crees que el dolor es justificable? ¿Tiene sentido? \n¿Qué historias nos contamos para tolerar el dolor? \n¿Crees que se invierte más esfuerzo en hacer el dolor tolerable que en actuar sobre sus causas?\n¿Qué sientes cuando alguien intenta justificar tu dolor?\nY a"
   },
   {
     "blog": "plr blog",
@@ -539,46 +546,11 @@
     "contenido": "Hace unos años hice un carrusel de 43 imágenes de modelos de TENTE para simular lo que hubiera podido sacar la compañía como demo para los ordenadores de la época, en este caso en un Amstrad CPC.&nbsp;Si todavía no tienes esta demo, la puedes descargar aquí.&nbsp; &nbsp;Esta demo la hice con mínima "
   },
   {
-    "blog": "Bits de Ocio",
-    "titulo": "Organiza tu Amigo Invisible de forma privada",
-    "link": "https://bitsdeocio.wordpress.com/2025/11/27/organiza-tu-amigo-invisible-de-forma-privada/",
-    "fecha": "27/11/2025",
-    "contenido": "¡Se acerca la Navidad! Para mucha gente, una época de celebraciones, reencuentros y de dar y recibir regalos. Y, hablando de regalar, también es la época de multitud de «amigos invisibles» o «Secret Santas» que, aunque suelen ser divertidos y existen muchas herramientas online para gestionarlos, org"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "EmailCrawl",
     "link": "https://jinversor.co/2025/11/emailcrawl/",
     "fecha": "27/11/2025",
     "contenido": "Encontré una herramienta de web scraping muy interesante llamada EmailCrawl. El script funciona muy bien, está escrito en Python y se usa desde la línea de comandos (CLI). Yo lo [&#8230;]\nLa entrada EmailCrawl se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Intentaron hackearme (análisis forense)",
-    "link": "https://jinversor.co/2025/11/intentaron-hackearme-analisis-forense/",
-    "fecha": "27/11/2025",
-    "contenido": "Las últimas semanas han estado moviditas. En menos de un mes he visto al menos tres cosas que no me gustan. En un post anterior conté que me contactaron haciéndose [&#8230;]\nLa entrada Intentaron hackearme (análisis forense) se publicó primero en Jinversor."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Cambio medidas de px a rem para mejorar la accesibilidad del blog",
-    "link": "https://pedrolr.es/blog/cambio-medidas-de-px-a-rem-para-mejorar-la-accesibilidad-del-blog/",
-    "fecha": "27/11/2025",
-    "contenido": "Aproveché durante el fin de semana para camiar el tipo de medidas del CSS del blog. Pasé todo de pixeles a rem. Según el W3C (W3C, 2025), son unidades absolutas los centimeters (cm), millimeters (mm), inches (in), pixels (px), points (points) y picas (pc); y son unidades relativas, entre otras, em ("
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Cuando destacar se convierte en un problema para otros",
-    "link": "https://gatooscuro.xyz/cuando-destacar-se-convierte-en-un-problema-para-otros/",
-    "fecha": "27/11/2025",
-    "contenido": "Creo que en los últimos meses he repetido bastante que he estado muy ocupado en el trabajo y estudio, por ende la ausencia en escritura y sí, ya es algo\nSeguir leyendo  Cuando destacar se convierte en un problema para otros\nEl cargo Cuando destacar se convierte en un problema para otros apareció pri"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Actualizar Raspberry Pi OS",
-    "link": "https://mareosdeungeek.es/actualizar-raspberry-pi-os/",
-    "fecha": "27/11/2025",
-    "contenido": "Actualizar Raspberry Pi OS a la última versión nos permitirá utilizar nuestra Raspberry Pi con mayor estabilidad y seguridad. Para actualizar a la última versión de los paquetes podemos ejecutar una serie de comandos directamente desde el terminal. Para empezar, aunque es un proceso seguro, es recom"
   },
   {
     "blog": "pov – matizeta",
@@ -595,38 +567,10 @@
     "contenido": "Un poco de todo, desde sanidad sueca, pasando por cosas de Black Friday, problemas de streaming y como no, discusiones de marketing.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#x"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "“El Secreto de los Arbustos” en vivo",
-    "link": "https://altgr.xyz/2025/11/26/el-secreto-de-los-arbustos-en-vivo/",
-    "fecha": "27/11/2025",
-    "contenido": "Pascuala Ilabaca y la SdC Big Band presentaron en vivo El Secreto de los Arbustos en el Aula Magna del Liceo Manuel de Salas. Un disco que salió hace solo unos días. El Jazz y las &#8220;big band&#8221; es un mundo del que sé menos incluso que el de la música pop y rock. Todo lo que puedo decir es q"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Lleva tu música al Fediverso: Now Playing automático en Mastodon con Navidrome y ListenBrainz",
-    "link": "https://voidnull.es/lleva-tu-musica-al-fediverso-now-playing-automatico-en-mastodon-con-navidrome-y-listenbrainz/",
-    "fecha": "27/11/2025",
-    "contenido": "Now Playing automático de Navidrome en Mastodon usando ListenBrainz y Home Assistant."
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Bucle de Apolo",
-    "link": "https://docig.bearblog.dev/el-bucle-de-apolo/",
-    "fecha": "27/11/2025",
-    "contenido": "Se dice que en la vastedad silente del servidor 734b residía Apolo. No era un dios solar, sino una hebra de código —un script de menos de cien líneas, conciso y atrozmente simple— cuyo único propósito era la autogeneración.\n\"Todo código es una biblioteca de bibliotecas, y todo universo una repetició"
-  },
-  {
     "blog": "",
     "titulo": "Aniversario de Celtas cortos.",
     "link": "https://mundoceltamedieval.wordpress.com/2025/11/27/aniversario-de-celtas-cortos/",
     "fecha": "27/11/2025",
     "contenido": "Uno de los grupos de Pop/rock celta mas importantes de España acaba de cumplir 40 Años, desde mi humilde blog les mando un abrazo y les deseo muchos años mas de Celtas cortos, sin dudas una banda de culto.Para los que quieran información de esta leyenda viviente les dejo el link de su pagina. http:/"
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Kubernetes Metrics: entendiendo el rendimiento real de nuestra clúster",
-    "link": "https://www.ochobitshacenunbyte.com/2025/11/27/kubernetes-metrics-entendiendo-el-rendimiento-real-de-nuestra-cluster/",
-    "fecha": "27/11/2025",
-    "contenido": "En cualquier clúster de Kubernetes, la capacidad para observar qué ocurre realmente dentro de los nodos y los pods es esencial para tomar decisiones informadas. Kubernetes, por sí mismo, proporciona información estructural sobre los&#46;&#46;&#46;\nLa entrada Kubernetes Metrics: entendiendo el rendim"
   }
 ]
