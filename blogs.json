@@ -17,6 +17,14 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "56k Slow IT",
+    "Url": "https://56k.es/",
+    "Feed": "https://56k.es/rss",
+    "Descripción": "Se suele escribir sobre software libre, linux, amiga, reversing de juegos antiguos, redes libres, cultura libre, opinión personal de vez en cuando.",
+    "Categoría": "Tecnología",
+    "País": "España"
+  },
+  {
     "Nombre": "Ardi",
     "Url": "https://www.ardi.monster",
     "Feed": "https://ardi.monster/rss/feed.xml",
