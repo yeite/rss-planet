@@ -17,6 +17,22 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "Ardi",
+    "Url": "https://www.ardi.monster",
+    "Feed": "https://ardi.monster/rss/feed.xml",
+    "Descripción": "Blog personal de Ardi. Desarrollador web de Cantabria, España. Me gusta hablar de videojuegos, bicicletas, música y experiencias personales.",
+    "Categoría": "Entretenimiento y Cultura, Tecnología, Vida Diaria",
+    "País": "España"
+  },
+  {
+    "Nombre": "Diegologs",
+    "Url": "https://diegologs.com/rss/articulos.xml",
+    "Feed": "https://malagaoriginal.blogspot.com/feeds/posts/default",
+    "Descripción": "El blog de Diego. Hablo sobre mi vida y de lo que me gusta: videojuegos, informática, música, blogs. etc",
+    "Categoría": "Arte y Diseño, Entretenimiento y Cultura, Tecnología, Vida Diaria",
+    "País": "España"
+  },
+  {
     "Nombre": "Blog de eapl",
     "Url": "https://text.eapl.mx",
     "Feed": "https://text.eapl.mx/atom.xml",
