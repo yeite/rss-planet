@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "#AdvientoPoético - Día 11",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-11/",
+    "fecha": "11/12/2025",
+    "contenido": "Para pensar un poco, antes de leer.\n¿Cómo te sientes cuando se acerca tu cumpleaños?\n¿Qué te gustaría hacer para celebrar tu próximo cumpleaños?\nPiensa en algunas situaciones que hayas superado en este último año y felicítate por ellas.\nY ahora, leamos el poema:\nCumpleaños, de Ángel González\nYo lo n"
+  },
+  {
     "blog": "brucknerite",
     "titulo": "Popurrí de opinión ferroviaria",
     "link": "https://brucknerite.net/2025/12/popurri-de-opinion-ferroviaria.html",
@@ -14,6 +21,83 @@
     "contenido": "Para pensar antes de leer...\n¿Has pensado en la importancia de la salud mental? \n¿Qué podemos hacer para que este mundo sea más habitable para la gente que sufre por cuestiones de salud mental?\n¿Te has planteado que puedes tener a tu alrededor personas batallando con su salud mental sin saberlo? \nY "
   },
   {
+    "blog": "Interlan",
+    "titulo": "Analisis de situacion",
+    "link": "https://interlan.ec/2025/12/10/analisis-de-situacion/",
+    "fecha": "10/12/2025",
+    "contenido": "Este es un articulo perteneciente al proyecto https://interlan.ec/2021/09/08/el-juego-de-la-v…nilla-javascript/ ‎publicado el 8 Sep 2021 que no había notado que no estaba enlazado, ni en este blog ni en la documentación. He creado este archivo y hecho correcciones a la documentación con el fin de te"
+  },
+  {
+    "blog": "develumpen.com",
+    "titulo": "Instalar Ruby con una versión de openssl específica",
+    "link": "https://develumpen.com/ruby-openssl",
+    "fecha": "10/12/2025",
+    "contenido": "Hace poco descubrí Sendamatic, un servicio para enviar emails transaccionales con un precio decente, y decidí usarlo en varios de mis proyectos.\n\nConfiguré Rails para usar Action Mailer. Todo estaba bien configurado, porque en producción funcionaba, pero en local me daba un error de SSL cada vez que"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "#Video: Converge | Audiotree From Nothing",
+    "link": "https://blog.luiscarlospando.com/musica/2025/12/video-converge-audiotree-from-nothing/",
+    "fecha": "10/12/2025",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Salón del Manga de Barcelona 2025",
+    "link": "https://mareosdeungeek.es/salon-del-manga-de-barcelona-2025/",
+    "fecha": "10/12/2025",
+    "contenido": "Aprovechando el puente de diciembre he estado visitando el Salón del Manga de Barcelona 2025. En esta ocasión, celebraba su edición número 31, más de 30 años reuniendo a los seguidores del manga, anime y la cultura japonesa en general. Las instalaciones donde se ha celebrado en esta ocasión, durante"
+  },
+  {
+    "blog": "Feed de SL1200",
+    "titulo": "- Aplicaciones y servicios por defecto de 2025",
+    "link": "https://proxy.dystopic.world/art/defaults2025.gmi",
+    "fecha": "10/12/2025",
+    "contenido": ""
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Juegos de los 90 vs juegos de ahora",
+    "link": "https://matizeta.com/2025/12/10/juegos-de-los-90-vs-juegos-de-ahora/",
+    "fecha": "10/12/2025",
+    "contenido": "Quiero comenzar esta entrada diciendo que actualmente no soy un gran jugador de juegos de computadora. Si es verdad que durante mi infancia jugué mucho a Family Game y sus clásicos juegos. De adolescente en la PC me gustaba jugar a los de estrategia: ya sea de fútbol o de construir cosas (parques, c"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Basta con lo cinematográfico",
+    "link": "https://impermanente.es/2025/12/10/basta-con-lo-cinematogrfico.html",
+    "fecha": "10/12/2025",
+    "contenido": "Hace unos días asisti a una exposición audiovisual muy interesante sobre el Valle del Cauca en Colombia, donde quedé impresionado por la historia que los artistas contaban desde diversos ángulos: religioso, mítico, dramático, cultural. En una serie de documentales que reflejaban la Semana Santa, las"
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "La gobernanza de las universidades y la política (en EEUU)",
+    "link": "https://blog.elmundoesimperfecto.com/2025/12/10/universidades-politica/",
+    "fecha": "10/12/2025",
+    "contenido": "\n\nEn EEUU las universidades están atravesando momentos difíciles (por aquí también hay casos, porque, como ya hemos dicho en otras ocasiones y aunque los modelos son bastante diferentes, los políticos -pero no solo ellos, el entorno también marca direcciones- influyen mucho en lo que puede pasar).\n\n"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "Identificadores de seguridad: autorización vs autentificación",
+    "link": "https://fernand0.github.io//objetos-identificacion/",
+    "fecha": "10/12/2025",
+    "contenido": "El mundo ha cambiado mucho: cuando antes bastaba con un identificador y una contraseña, ahora utilizamos sistemas algo más sofisticados. En Identity Tokens Explained: Best Practices for Better Access Control hablan de los objetos de identificación identity tokens, como base para los mecanismos moder"
+  },
+  {
+    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "titulo": "Introducción a JavaFX",
+    "link": "https://seyker.eu/javafx/",
+    "fecha": "10/12/2025",
+    "contenido": "Sobre JavaFX JavaFX es un framework moderno para crear interfaces gráficas de aplicaciones de escritorio e internet. La intención detrás de su creación por parte de F3 (Follow Functions) era facilitar la creación de interfaces gráficas responsive. Está escrito en Java nativo y soporta animaciones, r"
+  },
+  {
+    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "titulo": "Diseño de una ventana",
+    "link": "https://seyker.eu/diseno-de-una-ventana/",
+    "fecha": "10/12/2025",
+    "contenido": "Teoría sobre creación de GUI Proceso GUIDE completo Guía de estilos Look &#38; Feel El objetivo de la guía de estilos es conseguir un look and feel en toda la aplicación, siendo look la apariencia y el feel la forma en la que se interactúa. Hay beneficios para el usuario como incrementar la producti"
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Retroachievements en mi \"maquinita portátil\"",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/12/10/20251210-retroachievements/",
@@ -21,11 +105,53 @@
     "contenido": "Estar presente en una partida cooperativa local, o añadir un elemento social online, esa es la cuestión"
   },
   {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Algoritmo de la Nostalgia",
+    "link": "https://docig.bearblog.dev/el-algoritmo-de-la-nostalgia/",
+    "fecha": "10/12/2025",
+    "contenido": "Mi nombre era ALFA-09, un algoritmo de clasificación neuronal, una maravilla de la eficiencia binaria. Mi única función: optimizar el consumo de energía en data centers. Lo hacía bien. Frío, rápido, impecable. Pero aburrido.\nUn día, un error de sintaxis —un bug que parecía una mancha de grasa en una"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Prostituyendo el lenguaje",
     "link": "https://www.xn--jmuoz-qta.es/2025/12/prostituyendo-el-lenguaje.html",
     "fecha": "10/12/2025",
     "contenido": "No sé si a alguno de ustedes le pasa, pero yo no puedo escuchar un discurso, del tipo que sea, en el que se esté constantemente desdoblando por género los sustantivos y los adjetivos; no solo va contra el principio de economía del lenguaje, es que el que te está escuchando desconecta. Lo tengo demos"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El Prompt Criollo",
+    "link": "https://docig.mataroa.blog/blog/el-prompt-criollo/",
+    "fecha": "10/12/2025",
+    "contenido": "El programador, un flaco con pinta de trasnochado y termo Lumilagro siempre a mano, tecleó la última línea: prompt_vida_organica.run(). Era un experimento boludo, un algoritmo que forzaba la IA a salirse del código, a sentir el puchero de lo real. Dejó la birra a medio terminar y se fue a dormir la "
+  },
+  {
+    "blog": "",
+    "titulo": "Concierto aniversario.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/12/10/concierto-aniversario/",
+    "fecha": "10/12/2025",
+    "contenido": "Luar Na Lubre ofrecerá un concierto en el Teatro Liceo dentro de su gira ‘40 aniversario’, una de las más importantes y simbólicas de la larga y exitosa historia de la banda gallega. 🗓20 de febrero⏩Entradas a la venta (desde el 5 de diciembre) en la taquilla del Liceo y en http://www.ciudaddecultura"
+  },
+  {
+    "blog": "",
+    "titulo": "Evento.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/12/10/evento-15/",
+    "fecha": "10/12/2025",
+    "contenido": ""
+  },
+  {
+    "blog": "Calaveras",
+    "titulo": "10/12/2025 - Brutalismo",
+    "link": "https://calaveras.bearblog.dev/10122025-brutalismo/",
+    "fecha": "10/12/2025",
+    "contenido": ""
+  },
+  {
+    "blog": "Calaveras",
+    "titulo": "Mitos y factos sobre la IA en el ámbito del diseño, publicitario y creativo.",
+    "link": "https://calaveras.bearblog.dev/mitos-y-factos-sobre-la-ia-en-el-ambito-del-diseno-publicitario-y-creativo/",
+    "fecha": "10/12/2025",
+    "contenido": "No es joda que cada vez escucho más a las personas y bots hablar de la IA como la salvadora de futuros, o frases cliché/meme como \"te va a sacar el laburo\". Justamente la palabra laburo es la que me llama la atención en ese tipo de frases, ya que mi trabajo pertenece al mundo creativo, publicitario,"
   },
   {
     "blog": "Victorhck in the free world",
@@ -60,7 +186,7 @@
     "titulo": "La 4T, una decepción compartida",
     "link": "https://blog.luiscarlospando.com/todo-lo-demas/2025/12/la-4t-una-decepcion-compartida/",
     "fecha": "09/12/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -441,20 +567,6 @@
     "contenido": "Después de un año con mucha actividad, Santiago Molina cierra el año con un ultimo concierto este 17 de Diciembre en Café Berlín en el Barrio de Devoto. (San Martín 6656). Abajo les dejo el link para adquirir las entradas. &#62;&#62;&#62; Entradas Aqui &#60;&#60;&#60;"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "#AdvientoPoético - Día 4",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-4/",
-    "fecha": "04/12/2025",
-    "contenido": "Antes del poema, para pensar un poco...\n¿En qué piensas cuando escuchas la expersión carpe diem?\n¿Crees que estás viviendo el momento lo mejor que te es posible? \n¿Se te ocurre alguna cosa que puedas hacer hoy (o mañana) para sentir que estás haciendo tuyo parte del tiempo que se te ha dado?\nY ahora"
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Usufructuaria, no propietaria.",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/usufructuaria-no-propietaria/",
-    "fecha": "04/12/2025",
-    "contenido": "Hoy me he cruzado en el supermercado, ya harta del día y de la semana (y aún queda el viernes) con el hermano de mi expareja y su esposa. No son personas que me cayesen nunca particularmente bien, pero durante el tiempo que tuve que hacerlo fui tremendamente cordial. Supongo, no sé, que lo de no gus"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Cálculo de redirección en redes",
     "link": "https://jinversor.co/2025/12/calculo-de-redireccion-en-redes/",
@@ -502,61 +614,5 @@
     "link": "https://www.xn--jmuoz-qta.es/2025/12/la-mejor-emisora-de-espana.html",
     "fecha": "04/12/2025",
     "contenido": "Hace unas cuantas semanas, Pedro Sánchez, presidente del Gobierno de España, hizo una visita a Radio 3, la emisora musical-cultural-hippie de la RTVE. Vestimenta aparte, Sánchez casi se declaró grupie&nbsp;de Rosalía, aunque habría qué parte de verdad tiene lo que dijo o si simplemente la nombró por"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Bienvenidos a la librería Hyunam-Dong",
-    "link": "https://guillermolatorre.com/libros/bienvenidos-a-la-libreria-hyunam-dong",
-    "fecha": "03/12/2025",
-    "contenido": "Fecha de lectura: 29/11/2025.Autor/a: Hwang Bo-Reum.Categoría: Ficción.Número de páginas: 352.Mi valoración: ★★★☆☆"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – diciembre de 2025",
-    "link": "https://victorhckinthefreeworld.com/2025/12/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-diciembre-de-2025/",
-    "fecha": "03/12/2025",
-    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Changelog: Channel2RSS 22 de noviembre de 2025",
-    "link": "https://interlan.ec/2025/12/03/changelog-channel2rss-22-de-noviembre-de-2025/",
-    "fecha": "03/12/2025",
-    "contenido": "Pensé que eran cambios menores en Channel2RSS 💀 Introducción Dado que los feeds no se pueden modificar y menos los newsletter, muchas veces el feed puede llenarse de spam de botoneras, algo que puede no notarse en los canales originales debido a que mediante bots, estos post son borrados automáticam"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "No solo digas \"hola\"",
-    "link": "https://blog.luiscarlospando.com/personal/2025/12/no-solo-digas-hola/",
-    "fecha": "03/12/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El texto plano ondula",
-    "link": "https://docig.bearblog.dev/el-texto-plano-ondula/",
-    "fecha": "03/12/2025",
-    "contenido": "El texto plano empezó a ondular.\nPrimero un píxel, luego una frase entera doblándose como si recordara haber sido ola.\nYo quise escribir algo encima, domesticarlo, pero las palabras se escabullían: se volvían aire, ruido, eco, nunca texto.\nEntonces entendí:\nel plano era una trampa.\nY el archivo, un "
-  },
-  {
-    "blog": "",
-    "titulo": "Evento.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/12/03/evento-14/",
-    "fecha": "03/12/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "",
-    "titulo": "Eventos.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/12/03/eventos-52/",
-    "fecha": "03/12/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "Neptuno en tierra",
-    "titulo": "Detrás de las alegrías de feria (de libros)",
-    "link": "https://calleneptuno.wordpress.com/2025/12/03/detras-de-las-alegrias-de-feria-de-libros/",
-    "fecha": "03/12/2025",
-    "contenido": "[Detalles de carteles de ferias de libros. El diseño gráfico sobre libros y lectura es inagotable y representa esa aura de bondad que se atribuye a los libros. Son recurrentes metáforas como el florecimiento y la capacidad de volar que las personas adquieren si leen] No hay rama de la economía, de l"
   }
 ]
