@@ -1,5 +1,26 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Qemu gestionado por Virt manager",
+    "link": "https://malagaoriginal.blogspot.com/2025/12/qemu-gestionado-por-virt-manager.html",
+    "fecha": "12/12/2025",
+    "contenido": "Qemu es un software de virtualización libre muy potente pero que requiere de complicados comandos y configuraciones para ponerlo en marcha.Para facilitar la tarea tenemos el front-end virt-manager que facilita bastante el uso de qemu.Antes de seguir debemos comprobar que nuestro sistema soporta virt"
+  },
+  {
+    "blog": "Bits de Ocio",
+    "titulo": "Mis destacados de The Game Awards 2025",
+    "link": "https://bitsdeocio.wordpress.com/2025/12/12/mis-destacados-de-the-game-awards-2025/",
+    "fecha": "12/12/2025",
+    "contenido": "La edición de este año de The Game Awards, que pretenden emular a los Oscar pero en el mundillo de los videojuegos, tuvo lugar entre el 11 y el 12 de diciembre. Como es habitual, los premios en sí fueron totalmente eclipsados por el mayor reclamo del evento: las presentaciones y tráilers de próximos"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Lenspect: detecta malware en tus archivos",
+    "link": "https://thecheis.com/2025/12/12/lenspect-detecta-malware-en-tus-archivos/",
+    "fecha": "12/12/2025",
+    "contenido": "Aunque Linux es muy seguro, esa vieja leyenda de que «no le afectan los virus» es exagerada. Habitualmente no lidiamos con malware gracias a la gran seguridad que ofrece, fruto de un conjunto de bondades que implica a la propia arquitectura del sistema, los repositorios de software, las constantes a"
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "#AdvientoPoético - Día 12",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-12/",
@@ -7,11 +28,39 @@
     "contenido": "Para pensar antes de leer...\n¿Cómo vives los días de la semana? ¿Afecta el paso de la semana a tu ánimo?\n¿Qué cosas haces para que los días laborables también «cuenten»?\nY ahora, leamos el poema:\nSencillo, de Karmelo C. Iribarren\nVerás,\nes muy sencillo:\nlos lunes\nmartes\nmiércoles\njueves\nviernes,\nson"
   },
   {
+    "blog": "plr blog",
+    "titulo": "Extremoduro, el Robe y rock transgresivo: algunos papers, chapters, libros, tesis, trabajos fin de grado, etc.",
+    "link": "https://pedrolr.es/blog/extremoduro-el-robe-y-rock-transgresivo-algunos-papers-chapters-libros-tesis-trabajos-fin-de-grado-etc/",
+    "fecha": "12/12/2025",
+    "contenido": "Como pequeño homenaje al Robe, me ha dado por buscar algo de literatura principalmente científica/académica sobre Extremoduro, el Robe y el rock transgresivo. Tengo una alerta guardada sobre el tema y otros grupos que me gustan, pero lo he hecho  ahora un poco más a fondo. Es otra forma de leer sobr"
+  },
+  {
+    "blog": "Cajón desastre",
+    "titulo": "¿Divinity qué? ¿Por dónde empiezo?",
+    "link": "https://ccriss92.bearblog.dev/divinity-por-donde-empiezo/",
+    "fecha": "12/12/2025",
+    "contenido": "El anuncio del nuevo Divinity (aviso, el tráiler es una pasada pero viene con bien de gore) me ha dejado con muchas ganas de ver qué está cocinando Larian con este título. Ha sido uno de los anuncios más llamativos de estos Game Awards, y tras Baldur's Gate 3 mucha gente tiene interés por ver qué má"
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "Mudanza, servidor caído y mi nueva impresora 3D",
     "link": "https://blog.danielaragay.net/mudanza-servidor-caido-y-mi-nueva-impresora-3d/",
     "fecha": "12/12/2025",
     "contenido": "Han sido d&#xed;as de locos: el servidor se cay&#xf3; y estamos en plena mudanza. Te cuento el caos de vivir entre dos pisos, c&#xf3;mo avanza el montaje de mi nuevo estudio de grabaci&#xf3;n y la pelea con la operadora por una conexi&#xf3;"
+  },
+  {
+    "blog": "",
+    "titulo": "Evento.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/12/11/evento-16/",
+    "fecha": "12/12/2025",
+    "contenido": ""
+  },
+  {
+    "blog": "56K",
+    "titulo": "Sobrevivir a CuñadoGPT en la cena de Navidad",
+    "link": "https://56k.es/fanta/sobrevivir-a-cunadogpt-en-la-cena-de-navidad/",
+    "fecha": "12/12/2025",
+    "contenido": "Hola pequeños insectos he vuelto a la escribición en blog ya que la existencia del cuñadoGPT lo requiere. Lo principal es comprar vino sin alcohol ya que es bien sabido que «Sin vino el cuñado, es cuñado pero no cuñado arremangado». Será más soportable con menos copas. El Neo-Cuñado hace años que ti"
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -546,13 +595,6 @@
     "contenido": "He publicado un working paper/project en Zenodo. Se titula: Ex Libris y gasto público: un análisis de licitaciones de bibliotecas universitarias, centros de investigación y otras instituciones de España entre 2017 y 2025. Esta es la referencia: Lázaro-Rodríguez, Pedro. (2025). Ex Libris y gasto públ"
   },
   {
-    "blog": "ocubom's blog | Oscar Cubo Medina",
-    "titulo": "Probando Tailwind CSS",
-    "link": "https://ocubom.page/es/post/probando-tailwind/",
-    "fecha": "06/12/2025",
-    "contenido": "En verano de 2018 migré mi página web a Hugo, un generador de sitios estáticos, utilizando un tema basado en Bootstrap.\nCasi seis años y medio después actualicé a la versión más reciente del tema, usando Tailwind CSS.\nEste ha sido mi primer contacto con este framework y la oportunidad de valorarlo e"
-  },
-  {
     "blog": "Eterno aprendiz",
     "titulo": "Feria Pulsar 2025: Javiera Mena",
     "link": "https://altgr.xyz/2025/12/06/feria-pulsar-2025-javiera-mena/",
@@ -572,13 +614,6 @@
     "link": "https://56k.es/fanta/imprimir-en-una-gato-impresora-de-mierda-desde-linux/",
     "fecha": "06/12/2025",
     "contenido": "Imprimir en una gato-impresora (cat printer) es muy sencillo desde un smartphone. Hacerlo desde Linux tampoco es difícil tal y como mostramos en este post. Necesitamos disponer de bluetooth en nuestro PC. EL proceso es el siguiente: # apt update # apt install opencc python3-bleak $ git clone https:/"
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Chromium BSU, matamarcianos libre con gráficos espectaculares",
-    "link": "https://malagaoriginal.blogspot.com/2025/12/chromium-bsu-matamarcianos-libre-con.html",
-    "fecha": "05/12/2025",
-    "contenido": "Chromium BSU es un matamarcianos con licencia libre que más de uno hemos descubierto buscando cierto navegador y cometiendo el feliz error de equivocarnos de paquete.Lo que hemos encontrado es un espectacular y trepidante matamarcianos de progreso vertical que no nos va a dejar ningún descanso hasta"
   },
   {
     "blog": "La Loica",
@@ -609,31 +644,10 @@
     "contenido": "Siguiendo el cotorreo que se armó en el episodio 097 de Hemispheric Views (Duel of the Defaults) e inspirado por este post de Gabz (mucho del crédito y estructura de este post van para él), estas son mis apps de batalla (muchas de las cuales también enlisto en mi /uses:"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#170: escribir sobre mí",
-    "link": "https://www.macram.es/posts/2025/12/escribir-sobre-mi/",
-    "fecha": "05/12/2025",
-    "contenido": "A veces estoy tentado de hacer notas más &ldquo;personales&rdquo;, contando alguna cosa de mi vida, nada especialmente trascendente. Alguna vez he llegado a publicar algo, pero es cierto que cuando intento escribir algo así siento algo de vergüenza (ya rexlexioné sobre el pudor) y pienso que en real"
-  },
-  {
     "blog": "La Paradoja del Cero y el Uno",
     "titulo": "https://bearblog.dev",
     "link": "https://docig.bearblog.dev/httpsbearblogdev/",
     "fecha": "05/12/2025",
     "contenido": "En Bear Blog, el oso no habla, solo escribe. Sus palabras se amontonan, frías y perfectas, como un té instantáneo que nunca se disuelve del todo. Una tarde, abrí un post al azar y leí: “Hoy aprendí a sentir el vacío sin miedo”. Cerré la pantalla, pero el eco quedó pegado a la piel, como un fantasma "
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Puente de la Inmaculada Concepción",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/puente-de-la-inmaculada-concepcion.html",
-    "fecha": "05/12/2025",
-    "contenido": "\n  \n    \n  \nEstamos a viernes, pero no es un viernes cualquiera, ni estamos ante un fin de semana de dos días. Este fin de semana se alarga, por fin, gracias al puente por el festivo de la Inmaculada Concepción del lunes 8 de diciembre. Bendito sea, de verdad, bendito sea. Creo que no he tenido tant"
-  },
-  {
-    "blog": "",
-    "titulo": "Santiago Molina Cierra el año en Café Berlín.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/12/04/santiago-molina-cierra-el-ano-en-cafe-berlin/",
-    "fecha": "05/12/2025",
-    "contenido": "Después de un año con mucha actividad, Santiago Molina cierra el año con un ultimo concierto este 17 de Diciembre en Café Berlín en el Barrio de Devoto. (San Martín 6656). Abajo les dejo el link para adquirir las entradas. &#62;&#62;&#62; Entradas Aqui &#60;&#60;&#60;"
   }
 ]
