@@ -7,6 +7,34 @@
     "contenido": "Para pensar antes de leer...\n¿Has tenido siempre las cosas claras o eres más de dudar?\nCuando la gente cree que estás en un error, ¿tiendes a ceder o prefieres arriesgarte a equivocarte?\n¿Has hecho muchas cosas porque se suponía que era lo que había que hacer? ¿Volverías a hacerlo?\nY ahora, el poema"
   },
   {
+    "blog": "plr blog",
+    "titulo": "Un bot en Mastodon que comparte posts, artículos, enlaces, de blogs, revistas y sitios sobre Biblioteconomía y Documentación",
+    "link": "https://pedrolr.es/blog/un-bot-en-mastodon-que-comparte-posts-articulos-enlaces-de-blogs-revistas-y-sitios-sobre-biblioteconomia-y-documentacion/",
+    "fecha": "15/12/2025",
+    "contenido": "He creado un bot para Mastodon que comparte posts, artículos, enlaces, de blogs, revistas y sitios sobre Biblioteconomía y Documentación (ByD). Muchas revistas científicas usan, por suerte, el software OJS, que es libre e incluye feeds RSS (lo dije una vez en el blog: lo libre llama a lo libre). Tam"
+  },
+  {
+    "blog": "Un bruto con Debian",
+    "titulo": "Bajando binarios de GitHub sin dolor de cabeza",
+    "link": "http://unbrutocondebian.blogspot.com/2025/12/bajando-binarios-de-github-sin-dolor-de.html",
+    "fecha": "15/12/2025",
+    "contenido": "Hay veces que buscas un programa, lo encuentras en GitHub y parece que descargarlo e instalarlo es una carrera de obstáculos. Tienes mil versiones, eso cuando las logras encontrar sin tener que clonar todo el repositorio, luego hay que descomprimir... ¡Qué pereza!Pues he encontrado una manera de hac"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Compras online de forma segura",
+    "link": "https://alt43.es/compras-online-de-forma-segura/",
+    "fecha": "15/12/2025",
+    "contenido": "Antes de entrar en materia, conviene aclarar algunos puntos para evitar confusiones o malentendidos: No es posible realizar&#46;&#46;&#46;"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Extremoduro",
+    "link": "https://www.xn--jmuoz-qta.es/2025/12/extremoduro.html",
+    "fecha": "15/12/2025",
+    "contenido": "No recuerdo bien cómo empecé a escuchar a Extremoduro; quizá fue una casualidad a partir de alguna lista de Spotify en sus comienzos allá por 2008 o a lo mejor 2009. Sé que iba tarde, pero cuando se formó la banda yo aún no había nacido y no estaba en mi música tipo de la primera adolescencia.Sí rec"
+  },
+  {
     "blog": "eaplmx",
     "titulo": "Creando en épocas de abundancia",
     "link": "https://text.eapl.mx/creando-en-epocas-de-abundancia",
@@ -194,6 +222,13 @@
     "link": "https://ccriss92.bearblog.dev/divinity-por-donde-empiezo/",
     "fecha": "12/12/2025",
     "contenido": "El anuncio del nuevo Divinity (aviso, el tráiler es una pasada pero viene con bien de gore) me ha dejado con muchas ganas de ver qué está cocinando Larian con este título. Ha sido uno de los anuncios más llamativos de estos Game Awards, y tras Baldur's Gate 3 mucha gente tiene interés por ver qué má"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Mudanza, servidor caído y mi nueva impresora 3D",
+    "link": "https://blog.danielaragay.net/mudanza-servidor-caido-y-mi-nueva-impresora-3d/",
+    "fecha": "12/12/2025",
+    "contenido": "Han sido d&#xed;as de locos: el servidor se cay&#xf3; y estamos en plena mudanza. Te cuento el caos de vivir entre dos pisos, c&#xf3;mo avanza el montaje de mi nuevo estudio de grabaci&#xf3;n y la pelea con la operadora por una conexi&#xf3;"
   },
   {
     "blog": "",
@@ -532,20 +567,6 @@
     "contenido": "Para los fanaticos de los combates medievales les dejo el grupo de Facebook de uno de los clubes de combates medievales mas grandes de la Argentina. https://www.facebook.com/ValherjesCombateMedieval?rdid=a2pOQPNF1uqTwQG5&#38;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1ZjHj46Nw8%2F"
   },
   {
-    "blog": "yejokjanan",
-    "titulo": "Un año en texto-plano.xyz",
-    "link": "https://blog.yejokjanan.xyz/un-ano-en-texto-plano-xyz/",
-    "fecha": "08/12/2025",
-    "contenido": "Dentro de poco cumplo un a&#xf1;o de ser parte de la comunidad de texto-plano.xyz. Ha sido un a&#xf1;o muy bueno, muy productivo, he aprendido mucho; aunque mi participaci&#xf3;n ha sido poca. La verdad es que los miembros de la comunidad son personas muy"
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "Redirigir mis energías mentales",
-    "link": "https://adrianperales.com/2025/12/redirigir-mis-energias-mentales/",
-    "fecha": "08/12/2025",
-    "contenido": "He reflexionado varias veces en este blog sobre dos hechos que me definen bastante: la pulsión entre mis facetas de aficionado a internet y culturera, y el hecho de que ya no soy un chaval que pueda hacer muchas cosas a la vez como cuando estudiaba. Este curso, después de muchos, considero que tengo"
-  },
-  {
     "blog": "Webnauta",
     "titulo": "La utopía pendiente...",
     "link": "https://webnauta.blog/la-utopia-pendiente",
@@ -565,13 +586,6 @@
     "link": "https://pedrolr.es/blog/el-cnrs-de-francia-cortara-la-suscripcion-a-la-web-of-science-y-la-ultima-de-la-fecyt-fue-de-casi-14-millones-con-iva-para-3-anos/",
     "fecha": "08/12/2025",
     "contenido": "El día 1 de diciembre el CNRS (Centro Nacional para la Investigación Científica de Francia) anunció que a partir del 1 de enero de 2026 dejará de tener acceso a la base de datos Web of Web of Science de Clarivate Analytics, junto con la Core Collection y los Journal Citation Reports. Lo anunciaron e"
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Mejora de las páginas \"About\" y \"Sin trackers\" del blog",
-    "link": "https://pedrolr.es/blog/mejora-de-las-paginas-about-y-sin-trackers-del-blog/",
-    "fecha": "08/12/2025",
-    "contenido": "He mejorado las páginas del \"About\" y \"sin trackers\" del blog. La de About sale en el menú y también en el footer, y la de sin trackers, en el footer. En el About he metido un pequeño índice con las subsecciones y también un mapa con la estructura del blog hecho con markmap. Aquí [&#8230;]"
   },
   {
     "blog": "Mareos de un geek",
@@ -614,13 +628,6 @@
     "link": "https://altgr.xyz/2025/12/08/feria-pulsar-2025-electrodomesticos/",
     "fecha": "08/12/2025",
     "contenido": "Los Electrodomésticos en el escenario SCD Pulsar en la jornada final de la Feria Pulsar 2025. Una de las bandas más importantes e influyentes del rock alternativo chileno. Este año, Carlos Cabezas, fundador y líder de la banda, está celebrando 40 años de carrera artística."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Inmaculada Concepción",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/inmaculada-concepcion.html",
-    "fecha": "08/12/2025",
-    "contenido": "\n  \n    \n  \nLa Inmaculada Concepción, día festivo en España y en gran parte del mundo de tradición cristiana. El día de descanso que me faltaba para terminar de reponerme de varias semanas en las que arrastraba un cansancio mayúsculo.Viendo lo que me han ayudado tres días de descanso y que incluso c"
   },
   {
     "blog": "",
