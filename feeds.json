@@ -1,5 +1,26 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "La eficiencia es lo inverso de la resiliencia",
+    "link": "https://brucknerite.net/2025/12/la-eficiencia-es-lo-inverso-de-la-resiliencia.html",
+    "fecha": "17/12/2025",
+    "contenido": "En matemáticas existe el concepto de función inversa. Sin detenernos en sutilezas, si una función es una especie de máquina que transforma un número en otro, su inversa es otra máquina que dado ese resultado, devuelve el número original. Un ejemplo muy sencillo sería la función «suma uno», a la que…"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Películas de la temporada #8",
+    "link": "https://thecheis.com/2025/12/17/peliculas-de-la-temporada-8/",
+    "fecha": "17/12/2025",
+    "contenido": "A estas alturas he visto una buena cantidad de pelis, así que ahí va la última lista de este año 2025. Podría ser la más bizarra que haya publicado hasta ahora, ya que contiene algunos títulos de corte erótico muy bestias. Con los años aprendí a apreciar ese género, existen propuestas que a menudo p"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Curso de Vim: Capítulo 2 de vimtutor ya en español",
+    "link": "https://victorhckinthefreeworld.com/2025/12/17/curso-de-vim-capitulo-2-de-vimtutor-ya-en-espanol/",
+    "fecha": "17/12/2025",
+    "contenido": "Ya puedes consultar en español el capítulo 2 vimtutor, la guía incorporada que incluye el editor Vim"
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "#AdvientoPoético - Día 17",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-17/",
@@ -12,6 +33,13 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/12/17/20251217-clbre-o-calibre-sin-ia/",
     "fecha": "17/12/2025",
     "contenido": "Puede que sea una situación puramente sentimental, pero lo de Calibre y las disfuncionalidades de la mal llamada IA me ha sentado mal"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Fango y fascismo",
+    "link": "https://www.xn--jmuoz-qta.es/2025/12/fango-y-fascismo.html",
+    "fecha": "17/12/2025",
+    "contenido": "\n  \n    \n  \nQuerido Pedro Sánchez:Cuando todo le parece fango, cuando todo le parece un lodazal, cuando todo le parece fascismo... a lo mejor fango, lodazal y fascismo es usted. A lo mejor es que la máquina del fango es su partido&nbsp;y sus ministros. No lo digo yo, lo dicen en su diario de cabecer"
   },
   {
     "blog": "Moribundo Insurgente",
@@ -81,7 +109,7 @@
     "titulo": "Las plazas",
     "link": "https://matizeta.com/2025/12/16/las-plazas/",
     "fecha": "16/12/2025",
-    "contenido": "Hoy me desperté con ansias de respirar aire puro. No fue un deseo aleatorio. Cuando me levanté de la cama, hice mi ritual matutino: abrí la ventana que da al balcón y en el aire había un frescura pura particular, de esas que están en las montañas.  Entre dormido y despierto en la mitad de [&#8230;]"
+    "contenido": "Hoy me desperté con ansias de respirar aire puro. No fue un deseo aleatorio. Cuando me levanté de la cama, hice mi ritual matutino: abrí la ventana que da al balcón y en el aire había un frescura pura particular, de esa que se siente en las montañas.&#160; Entre dormido y despierto en la mitad [&#82"
   },
   {
     "blog": "El condón roto de GNU",
@@ -532,13 +560,6 @@
     "contenido": "Down Town Matías es el Pub Irlandés mas antiguo de Sudamérica, se caracteriza no solo por sus bebidas, sino también por su gastronomía Gourmet, este Pub de gran trayectoria esta haciendo reservas para Navidad y Año Nuevo. Para hacer Reservas o consultas pueden hacerlo a traves de Whatsapp el mismo e"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Popurrí de opinión ferroviaria",
-    "link": "https://brucknerite.net/2025/12/popurri-de-opinion-ferroviaria.html",
-    "fecha": "10/12/2025",
-    "contenido": "El ministro Puente está últimamente concentrando mensajes alrededor de una serie de asuntos de peso en el mundo del transporte ferroviario. Lo conté en Mastodón hace unos días usando como referencia la entrevista que concedió en el programa Hora Veintipico de la Cadena Ser. Siguiendo la tónica del b"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Analisis de situacion",
     "link": "https://interlan.ec/2025/12/10/analisis-de-situacion/",
@@ -581,13 +602,6 @@
     "contenido": "Hace unos días asisti a una exposición audiovisual muy interesante sobre el Valle del Cauca en Colombia, donde quedé impresionado por la historia que los artistas contaban desde diversos ángulos: religioso, mítico, dramático, cultural. En una serie de documentales que reflejaban la Semana Santa, las"
   },
   {
-    "blog": "Bitácora de fernand0",
-    "titulo": "La gobernanza de las universidades y la política (en EEUU)",
-    "link": "https://blog.elmundoesimperfecto.com/2025/12/10/universidades-politica/",
-    "fecha": "10/12/2025",
-    "contenido": "\n\nEn EEUU las universidades están atravesando momentos difíciles (por aquí también hay casos, porque, como ya hemos dicho en otras ocasiones y aunque los modelos son bastante diferentes, los políticos -pero no solo ellos, el entorno también marca direcciones- influyen mucho en lo que puede pasar).\n\n"
-  },
-  {
     "blog": "fernand0 @ GitHub.io",
     "titulo": "Identificadores de seguridad: autorización vs autentificación",
     "link": "https://fernand0.github.io//objetos-identificacion/",
@@ -609,25 +623,11 @@
     "contenido": "Teoría sobre creación de GUI Proceso GUIDE completo Guía de estilos Look &#38; Feel El objetivo de la guía de estilos es conseguir un look and feel en toda la aplicación, siendo look la apariencia y el feel la forma en la que se interactúa. Hay beneficios para el usuario como incrementar la producti"
   },
   {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Retroachievements en mi \"maquinita portátil\"",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/12/10/20251210-retroachievements/",
-    "fecha": "10/12/2025",
-    "contenido": "Estar presente en una partida cooperativa local, o añadir un elemento social online, esa es la cuestión"
-  },
-  {
     "blog": "La Paradoja del Cero y el Uno",
     "titulo": "El Algoritmo de la Nostalgia",
     "link": "https://docig.bearblog.dev/el-algoritmo-de-la-nostalgia/",
     "fecha": "10/12/2025",
     "contenido": "Mi nombre era ALFA-09, un algoritmo de clasificación neuronal, una maravilla de la eficiencia binaria. Mi única función: optimizar el consumo de energía en data centers. Lo hacía bien. Frío, rápido, impecable. Pero aburrido.\nUn día, un error de sintaxis —un bug que parecía una mancha de grasa en una"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Prostituyendo el lenguaje",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/prostituyendo-el-lenguaje.html",
-    "fecha": "10/12/2025",
-    "contenido": "No sé si a alguno de ustedes le pasa, pero yo no puedo escuchar un discurso, del tipo que sea, en el que se esté constantemente desdoblando por género los sustantivos y los adjetivos; no solo va contra el principio de economía del lenguaje, es que el que te está escuchando desconecta. Lo tengo demos"
   },
   {
     "blog": "",
