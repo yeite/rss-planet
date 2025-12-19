@@ -1,10 +1,24 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Instalando Wine con características avanzadas en Debian",
+    "link": "https://malagaoriginal.blogspot.com/2025/12/instalando-wine-con-caracteristicas.html",
+    "fecha": "19/12/2025",
+    "contenido": "Hasta ahora me había bastado con instalar el paquete wine para ejecutar el poco software de Windows que todavía necesito, muy poca cosa la verdad, hasta que me tropezado con Bricklink StudIO, que ya expliqué como instalarlo en GNU/Linux.&nbsp;Lo paradójico es que se trata de un programa que es un pr"
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "#AdvientoPoético - Día 19",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-19/",
     "fecha": "19/12/2025",
     "contenido": "Antes de leer, para pensar un poco...\n¿Has normalizado cosas que no deberían ser normales?\n¿Crees que podemos evitar acostumbrarnos a cosas que no deberíamos tolerar?\nEn una escala de 0 a 10, ¿cuánto malestar crees que toleras en tu día a día, de forma cotidiana?\nY ahora, el poema:\nNos acostumbramos"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Sin debate ni democracia",
+    "link": "https://www.xn--jmuoz-qta.es/2025/12/sin-debate-ni-democracia.html",
+    "fecha": "19/12/2025",
+    "contenido": "La candidata del Partido Popular en las elecciones extremañas y candidata asimismo a la reelección como presidenta de la comunidad, María Guardiola, decidió no acudir anoche al debate electoral que organizó la RTVE. Repite una constante que se viene dando en el antaño partido de la gaviota desde los"
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -490,27 +504,6 @@
     "contenido": "Hola pequeño insecto. En el pasado se describió aquí el proceso para instalar en un ebook BQ Cervantes 4 el firmware para desarrollo, el firmware para hackers. Desde que se escribió aquel post ha llovido mucho y entre las cosas a destacar está que BQ desapareció y los servidores que tenían dejaron d"
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Qemu gestionado por Virt manager",
-    "link": "https://malagaoriginal.blogspot.com/2025/12/qemu-gestionado-por-virt-manager.html",
-    "fecha": "12/12/2025",
-    "contenido": "Qemu es un software de virtualización libre muy potente pero que requiere de complicados comandos y configuraciones para ponerlo en marcha.Para facilitar la tarea tenemos el front-end virt-manager que facilita bastante el uso de qemu.Antes de seguir debemos comprobar que nuestro sistema soporta virt"
-  },
-  {
-    "blog": "Bits de Ocio",
-    "titulo": "Mis destacados de The Game Awards 2025",
-    "link": "https://bitsdeocio.wordpress.com/2025/12/12/mis-destacados-de-the-game-awards-2025/",
-    "fecha": "12/12/2025",
-    "contenido": "La edición de este año de The Game Awards, que pretenden emular a los Oscar pero en el mundillo de los videojuegos, tuvo lugar entre el 11 y el 12 de diciembre. Como es habitual, los premios en sí fueron totalmente eclipsados por el mayor reclamo del evento: las presentaciones y tráilers de próximos"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Lenspect: detecta malware en tus archivos",
-    "link": "https://thecheis.com/2025/12/12/lenspect-detecta-malware-en-tus-archivos/",
-    "fecha": "12/12/2025",
-    "contenido": "Aunque Linux es muy seguro, esa vieja leyenda de que «no le afectan los virus» es exagerada. Habitualmente no lidiamos con malware gracias a la gran seguridad que ofrece, fruto de un conjunto de bondades que implica a la propia arquitectura del sistema, los repositorios de software, las constantes a"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 50 de 2025",
     "link": "https://victorhckinthefreeworld.com/2025/12/12/opensuse-tumbleweed-revision-de-la-semana-50-de-2025/",
@@ -532,13 +525,6 @@
     "contenido": "Vamos a partir de la base de que esto es una gala de mierda, que cobra unos dineros abusivos por aparecer en ella (entre medio millón y el millón de euros) mientras la industria del videojuego se desangra con despidos y cierre de estudios. Y es por eso que no me veo en directo la [&#8230;]"
   },
   {
-    "blog": "plr blog",
-    "titulo": "Extremoduro, el Robe y rock transgresivo: algunos papers, chapters, libros, tesis, trabajos fin de grado, etc.",
-    "link": "https://pedrolr.es/blog/extremoduro-el-robe-y-rock-transgresivo-algunos-papers-chapters-libros-tesis-trabajos-fin-de-grado-etc/",
-    "fecha": "12/12/2025",
-    "contenido": "Como pequeño homenaje al Robe, me ha dado por buscar algo de literatura principalmente científica/académica sobre Extremoduro, el Robe y el rock transgresivo. Tengo una alerta guardada sobre el tema y otros grupos que me gustan, pero lo he hecho  ahora un poco más a fondo. Es otra forma de leer sobr"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Resolución de Problemas: Wake on lan no funciona",
     "link": "https://interlan.ec/2025/12/12/resolucion-de-problemas-wake-on-lan-no-funciona/",
@@ -551,26 +537,5 @@
     "link": "https://mareosdeungeek.es/the-seatbelts/",
     "fecha": "12/12/2025",
     "contenido": "El motivo principal de la visita a Barcelona y la asistencia al 31 Salón del Manga fue el concierto que dio la banda de jazz The Seatbelts el pasado viernes. En principio iba a ser el único concierto, pero ampliaron a otros días. Hay que tener en cuenta que es bastante difícil que esta banda, [&#823"
-  },
-  {
-    "blog": "Cajón desastre",
-    "titulo": "¿Divinity qué? ¿Por dónde empiezo?",
-    "link": "https://ccriss92.bearblog.dev/divinity-por-donde-empiezo/",
-    "fecha": "12/12/2025",
-    "contenido": "El anuncio del nuevo Divinity (aviso, el tráiler es una pasada pero viene con bien de gore) me ha dejado con muchas ganas de ver qué está cocinando Larian con este título. Ha sido uno de los anuncios más llamativos de estos Game Awards, y tras Baldur's Gate 3 mucha gente tiene interés por ver qué má"
-  },
-  {
-    "blog": "",
-    "titulo": "Evento.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/12/11/evento-16/",
-    "fecha": "12/12/2025",
-    "contenido": ""
-  },
-  {
-    "blog": "56K",
-    "titulo": "Sobrevivir a CuñadoGPT en la cena de Navidad",
-    "link": "https://56k.es/fanta/sobrevivir-a-cunadogpt-en-la-cena-de-navidad/",
-    "fecha": "12/12/2025",
-    "contenido": "Hola pequeños insectos he vuelto a la escribición en blog ya que la existencia del cuñadoGPT lo requiere. Lo principal es comprar vino sin alcohol ya que es bien sabido que «Sin vino el cuñado, es cuñado pero no cuñado arremangado». Será más soportable con menos copas. El Neo-Cuñado hace años que ti"
   }
 ]
