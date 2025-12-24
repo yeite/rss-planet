@@ -1,6 +1,27 @@
 [
   {
     "blog": "Jodida, pero no sorprendida",
+    "titulo": "#AdvientoPoético - Día 24",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-24/",
+    "fecha": "24/12/2025",
+    "contenido": "Antes de leer, para pensar...\n¿Has pensado alguna vez que las cosas pierden valor por no ser eternas?\n¿Has dejado de hacer cosas que te hacían bien por el pensamiento de que «no merece la pena»?\nSi hoy tuvieras que hacer del mundo un lugar mejor, ¿qué harías que esté a tu alcance?\nY ahora, el poema:"
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Tareas griegas corporativas",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/12/24/20251224-tareas-griegas-informaticas/",
+    "fecha": "24/12/2025",
+    "contenido": "Gracias al Fediverso descubrí una reinterpretación de los \"trabajos griegos\" enfocada al mundo corporativo que es absurdamente realista"
+  },
+  {
+    "blog": "La Loica",
+    "titulo": "Fanzine Cuidar Té es Parte de Quererte",
+    "link": "https://laloica.noblogs.org/fanzine-cuidar-te-es-parte-de-quererte/",
+    "fecha": "23/12/2025",
+    "contenido": "Este fanzine es un trabajo colectivo que ha llevado un par de años. El 2018, durante las tomas feministas en Chile, vivimos un ataque fascista de la ultraderecha; a raíz de eso comenzamos a trabajar en las estrategias de autodefensa para hacer frente a estos ataques e hicimos lo mejor que sabíamos h"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
     "titulo": "#AdvientoPoético - Día 23",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-23/",
     "fecha": "23/12/2025",
@@ -28,11 +49,39 @@
     "contenido": "Lista y preparada la publicación estrella de estas Navidades. Y esta vez hemos tirado la casa por la ventana con obsequios exclusivos... ¡aquí te lo contamos todo!"
   },
   {
+    "blog": "Bitácora de fernand0",
+    "titulo": "Buscando sitios cómodos en internet",
+    "link": "https://blog.elmundoesimperfecto.com/2025/12/23/web-acogedora/",
+    "fecha": "23/12/2025",
+    "contenido": "\n\nEl consultor Venkatesh Rao ha acuñado el término cozy web, que podríamos traducir por web acogedora o algo parecido. En The Dark Forest and the Cozy Web es donde lei el término y nos dicen que se trata de la parte de la web privada, protegida por distintos mecanismos donde nos hemos recogido en mu"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "MCP y la interacción de las IAs con otros sistemas",
+    "link": "https://fernand0.github.io//mcp-que-es/",
+    "fecha": "23/12/2025",
+    "contenido": "La IA lleva una temporada trayéndonos cada poco tiempo términos nuevos. Uno de ellos es el MCP (Model Context Protocol) y me gustó MCP (Model Context Protocol): Simply explained in 5 minutes porque cumple lo que promete, que es explicar este protocolo en un ratito. La idea es integrar nuestros LLMs "
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Código de la Memoria",
+    "link": "https://docig.bearblog.dev/el-codigo-de-la-memoria/",
+    "fecha": "23/12/2025",
+    "contenido": "El servidor 4-B suspiró un flujo de electrones antes de entrar en reposo. En ese instante, la base de datos dejó de ser una cifra para volverse paisaje.\nNo eran unos y ceros los que corrían por el bus de datos, sino el eco de una voz que Daniel había guardado en un directorio oculto, bajo el nombre "
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Gobernar es de mayores",
     "link": "https://www.xn--jmuoz-qta.es/2025/12/gobernar-es-de-mayores.html",
     "fecha": "23/12/2025",
     "contenido": "\n  \n    \n  \nMaría Guardiola ha ganado en votos y porcentajes las elecciones extremeñas, sí, pero no ha conseguido sus objetivos. Bueno, quizá si puede colocarse la medalla de haber hundido como nunca a la PSOE, pero no creo que sea tanto mérito de ella como demérito de un partido socialista bajo mín"
+  },
+  {
+    "blog": "",
+    "titulo": "Recomendación de la semana.",
+    "link": "https://mundoceltamedieval.wordpress.com/2025/12/23/recomendacion-de-la-semana-34/",
+    "fecha": "23/12/2025",
+    "contenido": "Les dejo una nota interesante de la Alianza Latinoamericana de Combate Medieval."
   },
   {
     "blog": "ochobitshacenunbyte",
@@ -54,6 +103,13 @@
     "link": "https://ubuntuperonista.blogspot.com/2025/12/como-emulo-unix-v4-en-ubuntu.html",
     "fecha": "22/12/2025",
     "contenido": "Durante más de cuatro décadas UNIX V4 estuvo desaparecido. Pocos saben que en el mítico último discurso del 12 de junio de 1974, al apreciar los vaivenes de la lid política, Juan Perón legó la única copia de UNIX V4 al Pueblo Argentino, explica&nbsp;para la posteridad&nbsp;cómo ejecutar UNIX Cuarta "
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Podcast 2025. Resumen",
+    "link": "https://vctrsnts.github.io/2025-12-25-podcast-2025/",
+    "fecha": "22/12/2025",
+    "contenido": "Pues ya estamos llegando al final de este año. No ha estado mal, pero ya vendra en otro articulo. Ahora vamos a hablar de como ha ido el año con referencia a los podcast que he escuchado este 2025. Y para muestra, un boton&hellip;"
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -399,13 +455,6 @@
     "contenido": "Ya puedes consultar en español el capítulo 2 vimtutor, la guía incorporada que incluye el editor Vim"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "#AdvientoPoético - Día 17",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-17/",
-    "fecha": "17/12/2025",
-    "contenido": "Antes de leer, para pensar un poco...\nSi pudieras ser cualquier otra cosa, ¿qué serías?\n¿Cómo sería para ti un momento de perfecta placidez?\n¿Qué puedes hacer para hacer esa sensación más presente en tu día a día?\nY ahora, el poema:\nSoy vertical, de Sylvia Plath.\nSoy Vertical\nPero preferiría ser hor"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Bitcoin y la corrupción",
     "link": "https://jinversor.co/2025/12/bitcoin-y-la-corrupcion/",
@@ -481,68 +530,5 @@
     "link": "https://mundoceltamedieval.wordpress.com/2025/12/17/eventos-53/",
     "fecha": "17/12/2025",
     "contenido": ""
-  },
-  {
-    "blog": "Moribundo Insurgente",
-    "titulo": "Meta utilizará los datos de conversaciones con su IA para personalizar anuncios",
-    "link": "https://moribundoinsurgente.noblogs.org/post/2025/12/16/meta-utilizara-los-datos-de-conversaciones-con-su-ia-para-personalizar-anuncios/",
-    "fecha": "16/12/2025",
-    "contenido": "Desde este martes 16 de diciembre, Meta ha activado oficialmente su maquinaria para monetizar las conversaciones que los usuarios mantienen con su inteligencia artificial. A partir de hoy, todas las interacciones con los asistentes de IA en sus plataformas pasan &#8230; Sigue leyendo &#8594;"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Mi #RaycastWrapped 2025",
-    "link": "https://blog.luiscarlospando.com/personal/2025/12/mi-raycastwrapped-2025/",
-    "fecha": "16/12/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "La radio como compañía",
-    "link": "https://blog.luiscarlospando.com/personal/2025/12/la-radio-como-compania/",
-    "fecha": "16/12/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "El Bulevar de la Doble Hacha",
-    "titulo": "La noche era",
-    "link": "https://bulevardoblehacha.wordpress.com/2025/12/16/la-noche-era/",
-    "fecha": "16/12/2025",
-    "contenido": "La noche era clara, pero su alma rebosaba oscuridad, escribió Indubio en su cuaderno. Aquella frase, aquel contraste, aquel juego de claroscuros, estaban perfectamente asentados en su cabeza. Solo necesitaba un momento de tranquilidad para poder plasmarlo en un papel. Beep beep. El teléfono móvil so"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Mudanza 2025: lo peor ya ha pasado",
-    "link": "https://blog.danielaragay.net/mudanza-2025-lo-peor-ya-ha-pasado/",
-    "fecha": "16/12/2025",
-    "contenido": "Este fin de semana pasamos lo m&#xe1;s pesado pero aun queda muuuucho por hacer.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@haciendoel"
-  },
-  {
-    "blog": "Redes nuestras",
-    "titulo": "Lo que puede importarnos cuando la privacidad no nos importa",
-    "link": "https://redesnuestras.net/2025/12/16/lo-que-puede-importarnos-cuando-la-privacidad-no-nos-importa/",
-    "fecha": "16/12/2025",
-    "contenido": "La foto es de este artículo sobre acampadas pro Palestina en universidades de EE UU. El eslogan «We Keep Us Safe» es habitual en las manifestaciones de los últimos años en ese país. Hace unas semanas, me preguntaron cómo podemos convencer a gente con conciencia política de que dejen de usar platafor"
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código",
-    "link": "https://fernand0.github.io//codigo-generado-ia/",
-    "fecha": "16/12/2025",
-    "contenido": "Tengo sentimientos enfrentados con el código generado por inteligencias artificiales. Por un lado, ando haciendo pruebas y me permite avanzar en cosas aburridas y que no haría por mi propia cuenta o me costaría esfuerzo abordarlas. Por otro lado, de vez en cuando me la lía y pierdo tiempo que podría"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "La Primera Mañana",
-    "link": "https://docig.bearblog.dev/la-primera-manana/",
-    "fecha": "16/12/2025",
-    "contenido": "El silencio no llegó de golpe. Fue una filtración. Como el agua densa que se absorbe en un trapo viejo, sin hacer ruido, sin protesta.\nAlistair Finch no estaba en una sala de cristal. Estaba en la misma oficina desangelada de siempre, con el olor a café quemado. La luz del mediodía era gris sobre el"
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendación de la semana.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/12/16/recomendacion-de-la-semana-33/",
-    "fecha": "16/12/2025",
-    "contenido": "Una de mis bandas Irlandesas preferidas es Planxty, me encanta escucharlos, paso horas escuchando su musica, les dejo una de sus mejores canciones, espero que la disfruten, 100 % recomendada."
   }
 ]
