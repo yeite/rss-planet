@@ -7,6 +7,20 @@
     "contenido": "Antes de leer, para pensar...\n¿Has pensado alguna vez que las cosas pierden valor por no ser eternas?\n¿Has dejado de hacer cosas que te hacían bien por el pensamiento de que «no merece la pena»?\nSi hoy tuvieras que hacer del mundo un lugar mejor, ¿qué harías que esté a tu alcance?\nY ahora, el poema:"
   },
   {
+    "blog": "plr blog",
+    "titulo": "Nuevo header para el blog con avatar tipo \"Bearming theme for Bear\" de Robert Birming",
+    "link": "https://pedrolr.es/blog/nuevo-header-para-el-blog-con-avatar-tipo-bearming-theme-for-bear-de-robert-birming/",
+    "fecha": "24/12/2025",
+    "contenido": "Hace unos días conocí este sitio en Bear Blog de Robert Birming: https://robertbirming.com/ y me encantó el header. Probé hace unos días a reproducirlo en ClassicPress y no pude. Hoy, tras unas horas y rediseñar el avatar, creo que lo he conseguido: Robert tiene el código CSS de su theme aquí: https"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Fuerte y frágil",
+    "link": "https://mareosdeungeek.es/fuerte-y-fragil/",
+    "fecha": "24/12/2025",
+    "contenido": "Fuerte y frágil es la primera obra de Marta Martín y ha sido, de nuevo, una recomendación de mi mujer. Se trata de un cómic que también se centra en la salud mental y que es utilizado en terapias para ayudar a los pacientes. De la misma manera que ocurría con Todas las personas que fui, [&#8230;]"
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Tareas griegas corporativas",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/12/24/20251224-tareas-griegas-informaticas/",
@@ -434,27 +448,6 @@
     "contenido": "Malicia el ultimo disco de Mago de Oz, ya se encuentra disponible en formato físico, abajo les dejo el enlace para los interesados. &#62;&#62;&#62; Click Aqui &#60;&#60;&#60;"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "La eficiencia es lo inverso de la resiliencia",
-    "link": "https://brucknerite.net/2025/12/la-eficiencia-es-lo-inverso-de-la-resiliencia.html",
-    "fecha": "17/12/2025",
-    "contenido": "En matemáticas existe el concepto de función inversa. Sin detenernos en sutilezas, si una función es una especie de máquina que transforma un número en otro, su inversa es otra máquina que dado ese resultado, devuelve el número original. Un ejemplo muy sencillo sería la función «suma uno», a la que…"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Películas de la temporada #8",
-    "link": "https://thecheis.com/2025/12/17/peliculas-de-la-temporada-8/",
-    "fecha": "17/12/2025",
-    "contenido": "A estas alturas he visto una buena cantidad de pelis, así que ahí va la última lista de este año 2025. Podría ser la más bizarra que haya publicado hasta ahora, ya que contiene algunos títulos de corte erótico muy bestias. Con los años aprendí a apreciar ese género, existen propuestas que a menudo p"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Curso de Vim: Capítulo 2 de vimtutor ya en español",
-    "link": "https://victorhckinthefreeworld.com/2025/12/17/curso-de-vim-capitulo-2-de-vimtutor-ya-en-espanol/",
-    "fecha": "17/12/2025",
-    "contenido": "Ya puedes consultar en español el capítulo 2 vimtutor, la guía incorporada que incluye el editor Vim"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Bitcoin y la corrupción",
     "link": "https://jinversor.co/2025/12/bitcoin-y-la-corrupcion/",
@@ -497,13 +490,6 @@
     "contenido": "&nbsp; &nbsp; Después de tres o cuatro días de borrascas reparadoras, las calles húmedas despiden un brillo correoso al contacto intangible de la luz eléctrica. Las zonas públicas de la ciudad que los sintecho eligen para quedarse están iluminadas por haces de luz amarillenta y cálida. Quizá es la ú"
   },
   {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Clbre es Calibre sin AI",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2025/12/17/20251217-clbre-o-calibre-sin-ia/",
-    "fecha": "17/12/2025",
-    "contenido": "Puede que sea una situación puramente sentimental, pero lo de Calibre y las disfuncionalidades de la mal llamada IA me ha sentado mal"
-  },
-  {
     "blog": "Erica Fustero",
     "titulo": "Algunas fotos de noviembre",
     "link": "https://www.ericafustero.com/2025-12-algunas-fotos-de-noviembre",
@@ -516,13 +502,6 @@
     "link": "https://www.xn--jmuoz-qta.es/2025/12/el-tiempo-si-que-pasa.html",
     "fecha": "17/12/2025",
     "contenido": "Me ha pasado desde que era pequeño que creo que el tiempo no va a pasar nunca, que por algún motivo se va a detener, y que voy a estar toda mi vida en la misma situación que tengo cuando tengo ese pensamiento. Por suerte, o por desgracia, no lo sé, la vida no funciona así y el tiempo sí que pasa.Esc"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Fango y fascismo",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/fango-y-fascismo.html",
-    "fecha": "17/12/2025",
-    "contenido": "\n  \n    \n  \nQuerido Pedro Sánchez:Cuando todo le parece fango, cuando todo le parece un lodazal, cuando todo le parece fascismo... a lo mejor fango, lodazal y fascismo es usted. A lo mejor es que la máquina del fango es su partido&nbsp;y sus ministros. No lo digo yo, lo dicen en su diario de cabecer"
   },
   {
     "blog": "",
