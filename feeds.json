@@ -1,10 +1,38 @@
 [
   {
+    "blog": "Si dios te da limones",
+    "titulo": "Felices fiestas: las cuentas",
+    "link": "https://sidiostedalimones.com/blog/2025/felices-fiestas-las-cuentas/",
+    "fecha": "26/12/2025",
+    "contenido": ""
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Como hacer instrucciones de TENTE con Bricklink Studio",
     "link": "https://malagaoriginal.blogspot.com/2025/12/como-hacer-instrucciones-de-tente-con.html",
     "fecha": "25/12/2025",
     "contenido": "&nbsp;Antes de hacer las instrucciones debemos tener al menos:Bricklink Studio 2.0 instalado y con las fichas de TENTE añadidas.El modelo creado, se puede hacer con el propio Studio, pero es mucho más fácil y rápido hacer el modelo con MLCad.&nbsp;Abrir modelo y creación del render de portadaUna vez"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Elio de Pixar",
+    "link": "https://mareosdeungeek.es/elio-de-pixar/",
+    "fecha": "25/12/2025",
+    "contenido": "Elio es la última película de Pixar, se estreno a comienzos del pasado verano y sin lugar a dudas es una producción entretenida, en la línea del estudio californiano. No es Elio una de esas películas que te impactan, para tratar la temática de la ciencia ficción, no llega al nivel de Wall·e. En todo"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "\"La IA quiere conquistar las recetas, pero los blogs españoles resisten esta Navidad\"",
+    "link": "https://www.macram.es/posts/2025/12/ia-para-recetas-de-cocina/",
+    "fecha": "25/12/2025",
+    "contenido": "Leo en elDiario.es este artículo: &ldquo;La IA quiere conquistar las recetas, pero los blogs españoles resisten esta Navidad: «La gente confía en nosotros»&rdquo;. El resumen es un tema del que seguro que habéis leido en algunas otras ocasiones: que el SEO está muerto, que muchos sitios Web de recet"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "511. ¡Adelante!",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/12/511-adelante.html",
+    "fecha": "25/12/2025",
+    "contenido": "&nbsp; &nbsp; Qué más da que nos hayamos fumado un pitillo mientras hablábamos de nuestras familias. Que nos contáramos lo mucho que echamos de menos nuestros hogares. Qué importa que en el partido de fútbol improvisado, me tendieras la mano para levantarme del suelo cuando me barriste en el área de"
   },
   {
     "blog": "danielaragay.net",
@@ -441,13 +469,6 @@
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "#AdvientoPoético - Día 19",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-19/",
-    "fecha": "19/12/2025",
-    "contenido": "Antes de leer, para pensar un poco...\n¿Has normalizado cosas que no deberían ser normales?\n¿Crees que podemos evitar acostumbrarnos a cosas que no deberíamos tolerar?\nEn una escala de 0 a 10, ¿cuánto malestar crees que toleras en tu día a día, de forma cotidiana?\nY ahora, el poema:\nNos acostumbramos"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Salón de la Fama del Spam 10",
     "link": "https://interlan.ec/blog/2025/12/19/salon-de-la-fama-del-spam-10-2/",
@@ -481,33 +502,5 @@
     "link": "https://www.xn--jmuoz-qta.es/2025/12/sin-debate-ni-democracia.html",
     "fecha": "19/12/2025",
     "contenido": "La candidata del Partido Popular en las elecciones extremañas y candidata asimismo a la reelección como presidenta de la comunidad, María Guardiola, decidió no acudir anoche al debate electoral que organizó la RTVE. Repite una constante que se viene dando en el antaño partido de la gaviota desde los"
-  },
-  {
-    "blog": "Webnauta",
-    "titulo": "Libera tu mente...",
-    "link": "https://webnauta.blog/libera-tu-mente",
-    "fecha": "18/12/2025",
-    "contenido": "\n\n      \n\n    \n      La elección en \"The Matrix\"\n    \n\nV. Comprendiendo la privacidad \nDurante años he leído sobre el software libre como una vía natural para proteger la privacidad y la seguridad en Internet. No es una idea nueva, ni mucho menos marginal. Y, sin embargo, a veces me pregunto por qué"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Aplicaciones más usadas del 2025",
-    "link": "https://jinversor.co/2025/12/aplicaciones-mas-usadas-del-2025/",
-    "fecha": "18/12/2025",
-    "contenido": "Me ha gustado mucho la dinámica de algunos blogueros de hacer una entrada con la lista de sus aplicaciones más usadas del 2025. Eso me ha permitido conocer programas y [&#8230;]\nLa entrada Aplicaciones más usadas del 2025 se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Fui llamado \"poco profesional\"",
-    "link": "https://blog.luiscarlospando.com/personal/2025/12/fui-llamado-poco-profesional/",
-    "fecha": "18/12/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "",
-    "titulo": "Ya esta disponible el ultimo disco de Mago de Oz en formato físico.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/12/18/ya-esta-disponible-el-ultimo-disco-de-mago-de-oz-en-formato-fisico/",
-    "fecha": "18/12/2025",
-    "contenido": "Malicia el ultimo disco de Mago de Oz, ya se encuentra disponible en formato físico, abajo les dejo el enlace para los interesados. &#62;&#62;&#62; Click Aqui &#60;&#60;&#60;"
   }
 ]
