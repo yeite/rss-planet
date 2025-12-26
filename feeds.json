@@ -1,10 +1,45 @@
 [
   {
+    "blog": "La Máquina de Von Neumann",
+    "titulo": "Siete fracturas (I)",
+    "link": "https://vonneumannmachine.wordpress.com/2025/12/26/siete-fracturas-i/",
+    "fecha": "26/12/2025",
+    "contenido": "Voy a establecer aquí un diálogo con el excelente (pre)artículo de Quattrociocchi, Capraro y Perc (2025) Y es que, al menos yo, es así como reflexiono: estableciendo una conversación con otros pensamientos, pensando a partir de lo que piensan otros. Nunca he sabido pensar solo. Quizá otros sepan, y "
+  },
+  {
+    "blog": "Lista de correo Ricard Ramon",
+    "titulo": "Necesitamos una nueva energía optimista y más humana. PD: hagamos caso a Goethe.",
+    "link": "https://cuaderno.ricardramon.net/necesitamos-una-nueva-energia-optimista-y-mas-humana-pd-hagamos-caso-a-goethe?pk_campaign=rss-feed",
+    "fecha": "26/12/2025",
+    "contenido": ""
+  },
+  {
     "blog": "Si dios te da limones",
     "titulo": "Felices fiestas: las cuentas",
     "link": "https://sidiostedalimones.com/blog/2025/felices-fiestas-las-cuentas/",
     "fecha": "26/12/2025",
     "contenido": ""
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Círculo del Té",
+    "link": "https://docig.bearblog.dev/el-circulo-del-te/",
+    "fecha": "26/12/2025",
+    "contenido": "La invitación especificaba que la hora del té era, en realidad, la hora de la transparencia. Al llegar a la mansión de los Cignacco, Daniel notó que las tazas no contenían infusión, sino un eco de voces antiguas que subía en forma de vapor.\nLa anfitriona, una mujer cuyo vestido parecía tejido con te"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Pequeños placeres #4: El musgo",
+    "link": "https://www.xn--jmuoz-qta.es/2025/12/el-musgo-del-bonsai.html",
+    "fecha": "26/12/2025",
+    "contenido": "Me gusta tocar el musgo que le sale al bonsái que tengo en mi terraza en esta época del año, por el frío y sobre todo la humedad. Este bonsái tiene ya años de historia a sus espaldas conmigo: tengo que remontarme a 2012, cuando me compré un falso pimentero japonés en el que creo que fue el último me"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "La mudanza del reflejo",
+    "link": "https://docig.mataroa.blog/blog/la-mudanza-del-reflejo/",
+    "fecha": "26/12/2025",
+    "contenido": "A las tres de la tarde, el espejo del vestíbulo decidió que ya había visto suficiente de la familia. Sin previo aviso, la imagen del aparador y el jarrón de porcelana comenzó a deslizarse hacia el borde izquierdo del cristal, como una cinta cinematográfica que se descuelga de su carrete.\nDon Julián,"
   },
   {
     "blog": "Malagueños originales y libres",
@@ -448,25 +483,11 @@
     "contenido": "\n  \n    \n  \nPor fin llegaron las vacaciones de Navidad. Cuánto las necesitaba, cuánto las he estado esperando.No tengo grandes planes para estos días de asueto porque, como les he dicho ya alguna vez por aquí, soy muy hogareño y creo que viajar está sobrevalorado. Ayer, volviendo del trabajo, escuch"
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Instalando Wine con características avanzadas en Debian",
-    "link": "https://malagaoriginal.blogspot.com/2025/12/instalando-wine-con-caracteristicas.html",
-    "fecha": "19/12/2025",
-    "contenido": "Hasta ahora me había bastado con instalar el paquete wine para ejecutar el poco software de Windows que todavía necesito, muy poca cosa la verdad, hasta que me tropezado con Bricklink StudIO, que ya expliqué como instalarlo en GNU/Linux.&nbsp;Lo paradójico es que se trata de un programa que es un pr"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Repaso de lo que ha conseguido #Thunderbird este 2025",
     "link": "https://victorhckinthefreeworld.com/2025/12/19/repaso-de-lo-que-ha-conseguido-thunderbird-este-2025/",
     "fecha": "19/12/2025",
     "contenido": "Thunderbird, el cliente de correo de software libre, este año 2025 ha realizado grandes cambios y mejoras, hagamos un repaso de lo conseguido y lo que está por llegar"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 51 de 2025",
-    "link": "https://victorhckinthefreeworld.com/2025/12/19/opensuse-tumbleweed-revision-de-la-semana-51-de-2025/",
-    "fecha": "19/12/2025",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
     "blog": "Interlan",
@@ -483,24 +504,10 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "Cajón desastre",
-    "titulo": "Mi 2025 en videojuegos",
-    "link": "https://ccriss92.bearblog.dev/mi-2025-en-videojuegos/",
-    "fecha": "19/12/2025",
-    "contenido": "Se termina el 2025 y, con él, llegan los repasos anuales. Si bien hay a quien le cansan un poco, creo que entre los GOTY del Doritos y los wrapped de numerosos servicios y aplicaciones (¡hasta LinkedIn tiene uno! ¡LINKEDIN!) las listas personales son un soplo de aire fresco. A mí en particular me gu"
-  },
-  {
     "blog": "pov – matizeta",
     "titulo": "No basta con eliminar una app",
     "link": "https://matizeta.com/2025/12/19/no-basta-con-eliminar-una-app/",
     "fecha": "19/12/2025",
     "contenido": "Un sugerencia rápida y sencilla que quiero darte hoy.&#160; Muchas veces descargamos alguna app que nos pide registrarnos, las probamos, no nos gusta, o luego de un tiempo las dejamos de usar. No basta con eliminarla de nuestro móvil.&#160; Mi sugerencia es que también elimines la cuenta, ella no se"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Sin debate ni democracia",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/sin-debate-ni-democracia.html",
-    "fecha": "19/12/2025",
-    "contenido": "La candidata del Partido Popular en las elecciones extremañas y candidata asimismo a la reelección como presidenta de la comunidad, María Guardiola, decidió no acudir anoche al debate electoral que organizó la RTVE. Repite una constante que se viene dando en el antaño partido de la gaviota desde los"
   }
 ]
