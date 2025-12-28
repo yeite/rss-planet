@@ -1,10 +1,17 @@
 [
   {
-    "blog": "Jinversor",
-    "titulo": "Indio gustar Pum Pum",
-    "link": "https://jinversor.co/2025/12/indio-gustar-pum-pum/",
+    "blog": "THE_CHEI$",
+    "titulo": "El hackeo a Spotify y la preservación cultural",
+    "link": "https://thecheis.com/2025/12/27/el-hackeo-a-spotify-y-la-preservacion-cultural/",
     "fecha": "27/12/2025",
-    "contenido": "Escribo este post a las 2:45 am porque a indio gustar pum pum. A algún malparido de esos que esta tierra maldita produce por legiones le pareció buena idea venir [&#8230;]\nLa entrada Indio gustar Pum Pum se publicó primero en Jinversor."
+    "contenido": "En los últimos días se conoció un hackeo a Spotify, aunque esta vez el objetivo no fueron los datos de usuarios, sino su catálogo de música. El grupo «archivista» Anna&#8217;s Archive (El Archivo de Anna) habría burlado el DRM y copiado casi todo el material del servicio de streaming, haciéndose con"
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Lecturas en diciembre de 2025",
+    "link": "https://mcallus.net/2025/12/27/lecturas-en-diciembre-de-2025/",
+    "fecha": "27/12/2025",
+    "contenido": "Quiero aprovechar esta entrada para desearos a todos felices fiestas. He decidido publicar ya las lecturas de diciembre porque sé que no voy a terminar ninguna lectura más de las que tengo empezadas antes de que se acabe el año, además, durante los próximos cuatro días van a salir las entradas resum"
   },
   {
     "blog": "plr blog",
@@ -26,6 +33,13 @@
     "link": "https://cuaderno.ricardramon.net/necesitamos-una-nueva-energia-optimista-y-mas-humana-pd-hagamos-caso-a-goethe?pk_campaign=rss-feed",
     "fecha": "27/12/2025",
     "contenido": ""
+  },
+  {
+    "blog": "El condón roto de GNU",
+    "titulo": "Ubuntu Touch 20.04 y 24.04: reparación del micrófono que no funciona después de una llamada, excepto para llamadas.",
+    "link": "https://elcondonrotodegnu.wordpress.com/2025/12/27/ubuntu-touch-20-04-y-24-04-reparacion-del-microfono-que-no-funciona-despues-de-una-llamada-excepto-para-llamadas/",
+    "fecha": "27/12/2025",
+    "contenido": "Ubuntu Touch 20.04 y 24.04: reparación del micrófono que no funciona después de una llamada, excepto para llamadas."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -434,13 +448,6 @@
     "contenido": "Fecha de lectura: 22/12/2025.Autor/a: Helene Hanff.Categoría: Biografía.Número de páginas: 120.Mi valoración: ★★★★☆Leí la recomendación en el Telegram de Flecha, el canal de Carmen Pacheco, justo cuando estaba pensando en alguna lectura ligera para los viajes por Navidad. El formato de cartas hace q"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "#AdvientoPoético - Día 21",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/advientopoetico-dia-21/",
-    "fecha": "21/12/2025",
-    "contenido": "Antes de leer, para pensar un poco...\n¿Ves en el porvenir una motivación o una fuente de frustración?\n¿Crees que es más beneficioso soñar a lo grande o tener sueños realistas?\n¿Eres realista o sueles pasarte o quedarte corta en las expectativas?\nY ahora, el poema:\nLos días venideros de Aurora Luque\n"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Libros de superación personal",
     "link": "https://jinversor.co/2025/12/libros-de-superacion-personal/",
@@ -502,19 +509,5 @@
     "link": "http://frikoteca.blogspot.com/2025/12/de-viaje-por-roma-y-por-sus-catacumbas.html",
     "fecha": "21/12/2025",
     "contenido": "Perdonad que haya estado tanto tiempo sin escribir, pero se me han echado las fiestas de Navidad encima sin casi darme cuenta. Este año he conseguido mantener un ritmo de escritura en el blog adecuado para mí, de más o menos una entrada a la semana. Suelo aprovechar las mañanas de los sábados o los "
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "La psicología del dinero",
-    "link": "https://guillermolatorre.com/libros/la-psicologia-del-dinero",
-    "fecha": "20/12/2025",
-    "contenido": "Fecha de lectura: 20/10/2025.Autor/a: Morgan Housel.Categoría: Ensayo.Número de páginas: 312.Mi valoración: ★★★★★Me ha gustado mucho la lectura de este libro, que no es tanto sobre finanzas sino más bien sobre el comportamiento humano. Supongo que es uno de esos libros que tienes que leer en el mome"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "¿Qué música he escuchado en 2025?",
-    "link": "https://www.macram.es/posts/2025/12/que-musica-he-escuchado-en-2025/",
-    "fecha": "20/12/2025",
-    "contenido": "Sabéis que la música es bastante importante en mi vida. Escucho mucha música (y, al trabajar desde casa, es bastante raro que no tenga un altavoz de fondo con alguna emisora de radio o alguna lista de reproducción rara). Y en Apple Music tenemos lo del año, así que vamos a echarle un ojo rápido a la"
   }
 ]
