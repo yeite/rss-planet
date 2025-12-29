@@ -1,5 +1,68 @@
 [
   {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Lo que he jugado en 2025",
+    "link": "https://mcallus.net/2025/12/29/lo-que-he-jugado-en-2025/",
+    "fecha": "29/12/2025",
+    "contenido": "En esta entrada recopilatoria, tenéis todo lo que he jugado en 2025 dentro de trescategorías: rol, juegos de mesa y videojuegos. En el caso de los videojuegos sí va a estar ordenado de lo que más me ha gustado a lo que menos. En las otras dos categorías estará colocado sin ningún orden en particular"
+  },
+  {
+    "blog": "Un bruto con Debian",
+    "titulo": "¡No funciona K3b!",
+    "link": "http://unbrutocondebian.blogspot.com/2025/12/no-funciona-k3b.html",
+    "fecha": "29/12/2025",
+    "contenido": "&nbsp;Hacia años que no tostaba un CD o un DVD. De hecho, mi equipo ni tan siquiera tenia grabadora. Pero hace poco heredé una “nueva” máquina y esta si tenia, aunque la ignoré.Dio la casualidad que el otro día en el trabajo, una compañera estaba pasando información antigua que tenia en CD’s a la nu"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Adiós 2025, el año de las pruebas",
+    "link": "https://blog.luiscarlospando.com/personal/2025/12/adios-2025-el-ano-de-las-pruebas/",
+    "fecha": "29/12/2025",
+    "contenido": "Si gustas, puedes reproducir este track para acompañar la lectura del post. Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cui"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "NUNTI. Lector de noticias Android de código abierto",
+    "link": "https://alt43.es/nunti-lector-de-noticias-android-de-codigo-abierto/",
+    "fecha": "29/12/2025",
+    "contenido": "Siguiendo la estela de Feeder, un par de entusiastas desarrolladores (Ondřej Foltýn y Richard Klapáč) crearon en 2021&#46;&#46;&#46;"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#175: primera semana de 2026",
+    "link": "https://www.macram.es/posts/2025/12/primera-semana-de-2026/",
+    "fecha": "29/12/2025",
+    "contenido": "Hoy da comienzo la primera semana del año 2026. ¿Sabéis lo que eso significa? ¡Que hoy es día de estrenar agenda! Este año me hice con una agenda super cuqui, china, de tapas duras y papel más que decente (aquí en AliExpress). Tiene escritas muchas cosas en chino, como una serie de ejercicios para r"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "512. Cuenta atrás",
+    "link": "https://lamadredelpatonegro.blogspot.com/2025/12/512-cuenta-atras.html",
+    "fecha": "29/12/2025",
+    "contenido": "&nbsp; &nbsp; Cuando te quisiste dar cuenta ya estabas a las puertas de un nuevo año. ¿Otro ya? ¿Tan pronto? El tiempo finito del que disponías se agotaba rápido y volvía a robarte otra pequeña porción de fuerza vital en favor de más cansancio y nuevas arrugas en la piel. También un poco más de todo"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Síndrome de la Huella Muda",
+    "link": "https://docig.bearblog.dev/el-sindrome-de-la-huella-muda/",
+    "fecha": "29/12/2025",
+    "contenido": "El cuerpo ha aprendido a doblarse sobre sí mismo, una vértebra tras otra, en una genuflexión ante el altar del silicio. Ya no miramos al horizonte; el cuello se ha convertido en un arco tenso que apunta hacia el ombligo electrónico, buscando una respuesta que nunca llega de frente.\nLos pulgares, eso"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Pequeños placeres #5: Periódico de papel",
+    "link": "https://www.xn--jmuoz-qta.es/2025/12/pequenos-placeres-5-periodico-de-papel.html",
+    "fecha": "29/12/2025",
+    "contenido": "\n  \n    \n  \nOtro de mis pequeños placeres es leer la prensa en papel. En época normal de trabajo, solo lo compro los fines de semana, que es cuando puedo leerlo tranquilamente; cuando estoy de vacaciones lo compro diariamente. No tiene comparación pasar las páginas en papel con ir pulsando en los en"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "Notificaciones de ausencia",
+    "link": "https://docig.mataroa.blog/blog/notificaciones-de-ausencia/",
+    "fecha": "29/12/2025",
+    "contenido": "Frente al resplandor azul de la pantalla, ella ensaya su mejor ángulo de abandono. Sabe que la soledad no es la ausencia de otros, sino el exceso de reflejos que no devuelven el tacto.\nPublica una foto de su cena para dos: un plato lleno, el otro vacío como un bostezo. El epígrafe dice «Plenitud», p"
+  },
+  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Mis aplicaciones por defecto 2025",
     "link": "https://vctrsnts.github.io/2025-12-28-aplicaciones-2025/",
@@ -103,13 +166,6 @@
     "link": "https://www.end3r.es/posts/013-lecturas-2025/",
     "fecha": "27/12/2025",
     "contenido": "Ya no queda nada para despedir el año y como última entrada para este 2025 que termina, he pensado traer un resumen de\nlas lecturas que me han acompañado a lo largo del año.\nPor otro lado aprovecho la publicación para adelantar que la primera lectura de 2026 será El imperio de la IA de\nKaren Hao del"
-  },
-  {
-    "blog": "Lista de correo Ricard Ramon",
-    "titulo": "Necesitamos una nueva energía optimista y más humana. PD: hagamos caso a Goethe.",
-    "link": "https://cuaderno.ricardramon.net/necesitamos-una-nueva-energia-optimista-y-mas-humana-pd-hagamos-caso-a-goethe?pk_campaign=rss-feed",
-    "fecha": "27/12/2025",
-    "contenido": ""
   },
   {
     "blog": "El condón roto de GNU",
@@ -333,7 +389,7 @@
     "titulo": "Mi resumen del año (2025)",
     "link": "https://blog.luiscarlospando.com/personal/2025/12/mi-resumen-del-ano-2025/",
     "fecha": "23/12/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "Galerías Preciados",
@@ -406,46 +462,11 @@
     "contenido": "Soy uno de esos dinosaurios que aún entran a IRC y para ello estoy usando un cliente llamado Halloy. Este es un cliente open-source para sistemas GNU/Linux, macOS y Windows [&#8230;]\nLa entrada Halloy se publicó primero en Jinversor."
   },
   {
-    "blog": "plr blog",
-    "titulo": "Actualizada la herramienta Indicadores BibUniversitarias con datos de 2024",
-    "link": "https://pedrolr.es/blog/actualizada-la-herramienta-indicadores-bibuniversitarias-con-datos-de-2024/",
-    "fecha": "22/12/2025",
-    "contenido": "He actualizado la herramienta \"Indicadores BibUniversitarias: Indicadores de eficiencia y de primer nivel para bibliotecas de universidades públicas presenciales de España desde 2011\" (enlace). REBIUN (Red de Bibliotecas Universitarias y Científicas Españolas) sacó los datos de 2024 y he procesado t"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "El Microcuento la belleza de escribir todo con poco.",
-    "link": "https://polotman.wordpress.com/2025/12/21/el-microcuento-la-belleza-de-escribir-todo-con-poco/",
-    "fecha": "22/12/2025",
-    "contenido": "El tiempo se está acabando. -Se acabó . Este 21 de diciembre será el día más corto del año en México y en el hemisferio norte conociéndose como el solsticio de invierno esté sucede porque la Tierra se encuentra inclinada 23.5 grados respecto al Sol, y en esta fecha el hemisferio norte recibe la meno"
-  },
-  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "Atomic Mail, otro correo seguro… sobre el papel",
     "link": "https://gatooscuro.xyz/atomic-mail-otro-correo-seguro-sobre-el-papel/",
     "fecha": "22/12/2025",
     "contenido": "Nota: Nadie me está pagando por escribir sobre esto, simplemente me gustar probar y ver que tan real es lo que se promete en estos nuevos servicios. Atomic Mail aparece\nSeguir leyendo  Atomic Mail, otro correo seguro… sobre el papel\nEl cargo Atomic Mail, otro correo seguro… sobre el papel apareció p"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Navegador Min",
-    "link": "https://mareosdeungeek.es/navegador-min/",
-    "fecha": "22/12/2025",
-    "contenido": "Ya en 2016 comenté la aparición del navegador web Min. En aquel momento era un sencillo proyecto que se mantenía en GitHub, añadiendo, sobre todo, correcciones. A día de hoy, es un navegador consolidado que permite interactuar con la web de manera rápida y sencilla. Hay muchas tendencias en el mundo"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Router de Operadora vs Router Neutro: cuándo merece la pena el cambio",
-    "link": "https://alt43.es/router-de-operadora-vs-router-neutro-cuando-merece-la-pena-el-cambio/",
-    "fecha": "22/12/2025",
-    "contenido": "Durante muchos años, sustituir el router proporcionado por la operadora por un router neutro era casi una obligación.&#46;&#46;&#46;"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Silencio",
-    "link": "https://www.macram.es/series/silencio/",
-    "fecha": "22/12/2025",
-    "contenido": "Tras ver esta serie (que me ha sorprendido para bien), me queda una duda: ¿no entiendo la comedia o esto no es una comedia? Porque salvo unos momentos muy puntuales esto lo que me ha parecido es un drama terrorífico.\nMe ha alegrado ver a Ana Polvorosa trabajando en esta serie de Eduardo Casanova, y "
   },
   {
     "blog": "El condón roto de GNU",
@@ -460,13 +481,6 @@
     "link": "https://www.ericafustero.com/2025-12-photo-vlog-no1-weekend-markets",
     "fecha": "22/12/2025",
     "contenido": "Tras meses pensando en grabar vídeo y nunca ponerme a ello, un fin de semana de noviembre estuve usando una cámara diminuta de los 2000 para documentar mis paseos fotográficos por los mercados del Maresme. ¿El primer vlog de muchos? Ya veremos. After months of thinking about recording video and neve"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "El verdadero vencedor de las elecciones extremeñas",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/vencedor-elecciones-extremadura.html",
-    "fecha": "22/12/2025",
-    "contenido": "\n  \n    \n  \nPese a haber cosechado los peores resultados de la PSOE de la historia de la comunidad de Extremadura, Miguel Ángel Gallardo Miranda es el auténtico ganador de estas últimas elecciones autonómicas porque ha conseguido su objetivo vital: estar aforado para no ser juzgado por la justicia o"
   },
   {
     "blog": "",
