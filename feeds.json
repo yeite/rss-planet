@@ -1,5 +1,40 @@
 [
   {
+    "blog": "Webnauta",
+    "titulo": "Una historia sin propósito",
+    "link": "https://webnauta.blog/una-historia-sin-proposito",
+    "fecha": "30/12/2025",
+    "contenido": "Escribir por escribir\nHa iniciado una semana más; o menos, no lo sé. Espero que esta semana traiga un mejor afán que la anterior, bueno, es el último lunes del 2025, algo bueno tiene que traer...Desde mi oficina observo a dos pájaros retozar, casi al son de 7 Years de Lukas Graham. Esta canción me r"
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Todas las series y películas vistas en 2025",
+    "link": "https://mcallus.net/2025/12/30/todas-las-series-y-peliculas-vistas-en-2025/",
+    "fecha": "30/12/2025",
+    "contenido": "En esta entrada tenéis todas las películas y series que he visto en 2025. He dejado fuera de estos listados los pocos revisionados que he hecho de películas (como V de Vendetta o las sagas de Scream, John Wick o Misión Imposible). Os haré comentarios del Top 10 mientras que el resto solo lo enumerar"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Yo utilizo Instagram",
+    "link": "https://matizeta.com/2025/12/30/yo-utilizo-instagram/",
+    "fecha": "30/12/2025",
+    "contenido": "Uso Instagram pero no me considero un adicto a él. Hace años que no publico ninguna foto  en mi perfil. Sí cada tanto subo alguna que otra foto a mis historias. No sé a cuantas personas le importará verlas, me da igual. Me gusta que sean espontáneas, que luego desaparezcan. Reconozco que es un acto "
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "El apagado de la onda media de RNE",
+    "link": "https://www.xn--jmuoz-qta.es/2025/12/el-apagado-de-la-onda-media-de-rne.html",
+    "fecha": "30/12/2025",
+    "contenido": "Radio Nacional de España anunció hace algo más de un mes que iba a apagar la onda media en España. Bueno, «anunció»... No sé cómo expresarlo exactamente: nos enteramos un poco de casualidad porque empezaron a emitir en las emisiones unos cortes donde los presentadores de los principales programas ha"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Rockbox en un Ipod Mini sin ser un Apple fanboy",
+    "link": "https://56k.es/fanta/rockbox-en-un-ipod-mini-sin-ser-un-apple-fanboy/",
+    "fecha": "30/12/2025",
+    "contenido": "Un día contaré la historia de como ha llegado a mis manos un producto de Apple. Hoy para este post simplemente lo resumiré en «Mi pareja es como una Urraca y cuando una amiga dijo que tiraba el Ipod (hace mil años) le preguntó si podía quedárselo y tratar de arreglarlo». Han pasado años desde..."
+  },
+  {
     "blog": "--el Profe Juan--",
     "titulo": "Serie Cordones",
     "link": "https://elprofejuan.com.ar/serie-cordones",
@@ -60,7 +95,7 @@
     "titulo": "Unnecto Snap",
     "link": "https://matizeta.com/2025/12/29/unnecto-snap/",
     "fecha": "29/12/2025",
-    "contenido": "Unnecto Snap El mercado de móviles es grande, pero  ¿por qué no existen móviles plegables con teclados QWERTY? En mi búsqueda solo encontré uno de la marca Unnecto y su modelo Snap. Poco podemos decir de él más allá de su diseño único en el mercado. Posee un sistema operativo denominado Cloud OS que"
+    "contenido": "El mercado de móviles es grande, pero&#160; ¿por qué no existen móviles plegables con teclados QWERTY? En mi búsqueda solo encontré uno de la marca Unnecto y su modelo Snap.&#160;Poco podemos decir de él más allá de su diseño único en el mercado. Posee un sistema operativo denominado Cloud OS&#160;q"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -448,27 +483,6 @@
     "contenido": "Este fanzine es un trabajo colectivo que ha llevado un par de años. El 2018, durante las tomas feministas en Chile, vivimos un ataque fascista de la ultraderecha; a raíz de eso comenzamos a trabajar en las estrategias de autodefensa para hacer frente a estos ataques e hicimos lo mejor que sabíamos h"
   },
   {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Mi resumen del año (2025)",
-    "link": "https://blog.luiscarlospando.com/personal/2025/12/mi-resumen-del-ano-2025/",
-    "fecha": "23/12/2025",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "¡Oportunidades nº3 ya disponible en sus librerías!",
-    "link": "https://galeriaspreciados.band/oportunidades-no3-ya-disponible-en-sus-librerias/",
-    "fecha": "23/12/2025",
-    "contenido": "Lista y preparada la publicación estrella de estas Navidades. Y esta vez hemos tirado la casa por la ventana con obsequios exclusivos... ¡aquí te lo contamos todo!"
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "Buscando sitios cómodos en internet",
-    "link": "https://blog.elmundoesimperfecto.com/2025/12/23/web-acogedora/",
-    "fecha": "23/12/2025",
-    "contenido": "\n\nEl consultor Venkatesh Rao ha acuñado el término cozy web, que podríamos traducir por web acogedora o algo parecido. En The Dark Forest and the Cozy Web es donde lei el término y nos dicen que se trata de la parte de la web privada, protegida por distintos mecanismos donde nos hemos recogido en mu"
-  },
-  {
     "blog": "fernand0 @ GitHub.io",
     "titulo": "MCP y la interacción de las IAs con otros sistemas",
     "link": "https://fernand0.github.io//mcp-que-es/",
@@ -483,31 +497,10 @@
     "contenido": "El servidor 4-B suspiró un flujo de electrones antes de entrar en reposo. En ese instante, la base de datos dejó de ser una cifra para volverse paisaje.\nNo eran unos y ceros los que corrían por el bus de datos, sino el eco de una voz que Daniel había guardado en un directorio oculto, bajo el nombre "
   },
   {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Gobernar es de mayores",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/gobernar-es-de-mayores.html",
-    "fecha": "23/12/2025",
-    "contenido": "\n  \n    \n  \nMaría Guardiola ha ganado en votos y porcentajes las elecciones extremeñas, sí, pero no ha conseguido sus objetivos. Bueno, quizá si puede colocarse la medalla de haber hundido como nunca a la PSOE, pero no creo que sea tanto mérito de ella como demérito de un partido socialista bajo mín"
-  },
-  {
     "blog": "",
     "titulo": "Recomendación de la semana.",
     "link": "https://mundoceltamedieval.wordpress.com/2025/12/23/recomendacion-de-la-semana-34/",
     "fecha": "23/12/2025",
     "contenido": "Les dejo una nota interesante de la Alianza Latinoamericana de Combate Medieval."
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Monitorización sencilla para casa con Uptime Kuma y Docker",
-    "link": "https://www.ochobitshacenunbyte.com/2025/12/23/monitorizacion-sencilla-para-casa-con-uptime-kuma-y-docker/",
-    "fecha": "23/12/2025",
-    "contenido": "En muchos entornos domésticos y pequeños homelabs, ya sabes, nuestros cacharreos, tendemos a asumir que, mientras los equipos estén encendidos, todo funciona como debería. El servidor arranca, los contenedores Docker están en estado running&#46;&#46;&#46;\nLa entrada Monitorización sencilla para casa"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Un par de notas sobre la ética Hacker sin ética",
-    "link": "https://56k.es/fanta/un-par-de-notas-sobre-la-etica-hacker-sin-etica/",
-    "fecha": "23/12/2025",
-    "contenido": "Este escrito NO habla de nadie en particular y pretende ser solamente una reflexión (posiblemente algo trasnochada pero desde el sentimiento) dividida en 3 actos. Esos actos son los siguientes: 1. No nos representan 2. La vaca esférica en la habitación 3. No defiendas ricos por favor, no delante de "
   }
 ]
