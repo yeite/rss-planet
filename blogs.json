@@ -582,7 +582,7 @@
   {
     "Nombre": "NeoSite Blog",
     "Url": "https://blog.neosite.com.ar",
-    "Feed": "https://blog.neosite.com.ar/rss/",
+    "Feed": "https://blog.neosite.com.ar/rss.xml",
     "Descripción": "Software libre tecnología y más",
     "Categoría": "Tecnología",
     "País": "Argentina"
