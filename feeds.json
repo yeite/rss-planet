@@ -1,5 +1,26 @@
 [
   {
+    "blog": "plr blog",
+    "titulo": "Un noticia de El Norte de Castilla sobre Linux: ¿expertos y accesibilidad y universalidad del software en Windows?",
+    "link": "https://pedrolr.es/blog/un-noticia-de-el-norte-de-castilla-sobre-linux-expertos-y-accesibilidad-y-universalidad-del-software-en-windows/",
+    "fecha": "02/01/2026",
+    "contenido": "Veo esta noticia o texto en \"El Norte de Castilla\" del día 02/01/2026: ¿Cambio Windows por Linux? Cuando tenemos un ordenador con unos años nos surge la duda de si deberíamos cambiar el sistema operativo por uno más 'ligero' como Linux. La duda es muy oportuna ahora que Windows 10 entra en la última"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Blog del Lóbulo Derecho",
+    "link": "https://docig.bearblog.dev/el-blog-del-lobulo-derecho/",
+    "fecha": "02/01/2026",
+    "contenido": "El blog no tenía URL, ni dominio, ni servidor. Se alojaba exclusivamente en el pliegue parietal derecho de su memoria, justo detrás de los recuerdos de la infancia que nadie más quería visitar.\nCada mañana, antes de abrir los ojos, publicaba una entrada. Redactaba párrafos perfectos sobre el aroma d"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "La eternidad de un día",
+    "link": "https://docig.mataroa.blog/blog/la-eternidad-de-un-dia/",
+    "fecha": "02/01/2026",
+    "contenido": "El reloj marcó las 00:00 y el mundo exhaló un suspiro de estática.\nElías se despertó con el mismo rayo de sol hiriéndole el ojo izquierdo. Sabía que, a las 8:15, se le caería la tostada; a las 10:30, el jefe volvería a despedirlo con la misma corbata de rayas; y a las 19:00, vería a Clara cruzar la "
+  },
+  {
     "blog": "Bits de Ocio",
     "titulo": "Inquietudes (Diciembre2025)",
     "link": "https://bitsdeocio.wordpress.com/2026/01/01/inquietudes-diciembre2025/",
@@ -518,13 +539,6 @@
     "contenido": "Ubuntu Touch 20.04 y 24.04: reparación del micrófono que no funciona después de una llamada, excepto para llamadas."
   },
   {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Libros leídos en 2025",
-    "link": "https://guillermolatorre.com/blog/libros-leidos-en-2025",
-    "fecha": "26/12/2025",
-    "contenido": "Fin de año, buen momento para pararme a hacer un repaso de los libros que he leído en 2025. El a&ntilde;o pasado comentaba que desde la pandemia había dejado de leer tantos libros \"de trabajo\" (sobre empresa, temas profesionales, productividad...) y había vuelto a leer ficción. Ahí sigo, aunque este"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 52 de 2025",
     "link": "https://victorhckinthefreeworld.com/2025/12/26/opensuse-tumbleweed-revision-de-la-semana-52-de-2025/",
@@ -532,32 +546,11 @@
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "Siete fracturas (I)",
-    "link": "https://vonneumannmachine.wordpress.com/2025/12/26/siete-fracturas-i/",
-    "fecha": "26/12/2025",
-    "contenido": "Voy a establecer aquí un diálogo con el excelente (pre)artículo de Quattrociocchi, Capraro y Perc (2025) Y es que, al menos yo, es así como reflexiono: estableciendo una conversación con otros pensamientos, pensando a partir de lo que piensan otros. Nunca he sabido pensar solo. Quizá otros sepan, y "
-  },
-  {
     "blog": "Interlan",
     "titulo": "Analisis de Logs: El internet muerto parece real",
     "link": "https://interlan.ec/blog/2025/12/26/analisis-de-logs-la-teoria-del-internet-parece-real/",
     "fecha": "26/12/2025",
     "contenido": "Tras un pequeño incidente con fail2ban tras desinstalar apache, me puse a reflexionar sobre la teoría del internet muerto"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Círculo del Té",
-    "link": "https://docig.bearblog.dev/el-circulo-del-te/",
-    "fecha": "26/12/2025",
-    "contenido": "La invitación especificaba que la hora del té era, en realidad, la hora de la transparencia. Al llegar a la mansión de los Esperantos, Ariel notó que las tazas no contenían infusión, sino un eco de voces antiguas que subía en forma de vapor.\nLa anfitriona, una mujer cuyo vestido parecía tejido con t"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Pequeños placeres #4: El musgo",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/el-musgo-del-bonsai.html",
-    "fecha": "26/12/2025",
-    "contenido": "Me gusta tocar el musgo que le sale al bonsái que tengo en mi terraza en esta época del año, por el frío y sobre todo la humedad. Este bonsái tiene ya años de historia a sus espaldas conmigo: tengo que remontarme a 2012, cuando me compré un falso pimentero japonés en el que creo que fue el último me"
   },
   {
     "blog": "",
