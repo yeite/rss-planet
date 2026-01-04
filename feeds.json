@@ -1,5 +1,47 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 1 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/01/03/opensuse-tumbleweed-revision-de-la-semana-1-de-2026/",
+    "fecha": "03/01/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Como evitar que la wifi se desconecte al cerrar la tapa del portátil",
+    "link": "https://tecnoysoft.com/2026/01/03/como-evitar-que-la-wifi-se-desconecte-al-cerrar-la-tapa-del-portatil/",
+    "fecha": "03/01/2026",
+    "contenido": "En Manjaro con escritorio KDE Plasma, aunque se configure la opción “No hacer nada al cerrar la tapa” en la «Gestión de energía», la conexión Wi-Fi se desconecta igualmente. Esto ocurre porque el comportamiento real no depende solo de Plasma, sino también de systemd-logind y de la configuración de a"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#177: nueva plantilla para LibreOffice",
+    "link": "https://www.macram.es/posts/2026/01/nueva-plantilla-para-libreoffice/",
+    "fecha": "03/01/2026",
+    "contenido": "Ya que cambiaba la fuente por una que me gustaba más, aproveché y actualicé también mi plantilla para documentos de texto. Creo que algo que podrían hacer algunos voluntarios de LibreOffice (o incluso yo si tuviera tiempo) es elaborar plantillas más actuales, o algún sistema de temas, para los docum"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#176: ¿mejor esta fuente o la anterior?",
+    "link": "https://www.macram.es/posts/2026/01/nueva-fuente/",
+    "fecha": "03/01/2026",
+    "contenido": "He cambiado la tipografía del blog. Paso del set de Monospace Code de Modern Font Stacks a Archivo, que la he descubierto y me gusta. Si no lo véis todavía en vuestro ordenador, pulsad Ctrl+F5 o lo equivalente para recargar limpiando la caché. No descarto hacer algunos ajustes en kerning y demás, pe"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Universal Greeting Time",
+    "link": "https://www.macram.es/posts/2026/01/universal-greeting-time/",
+    "fecha": "03/01/2026",
+    "contenido": "Últimamente paso bastante tiempo pululando por salas de chat donde hay gente dispersa por todo el mundo (sí, he vuelto a IRC). Y es verdad que es muy cansado saludar a lo Kafelog (&ldquo;buenos días, buenas tardes, buenas noches y buenas madrugadas&rdquo;). Hace poco descubrí la existencia del Unive"
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Nuevos saldos roleros",
+    "link": "http://frikoteca.blogspot.com/2026/01/nuevos-saldos-roleros.html",
+    "fecha": "03/01/2026",
+    "contenido": "El 30 de diciembre del ya lejano 2025, la editorial Nosolorol anunció que saldaba la línea de Mutant Year Zero, un juego de rol post-apocalíptico formado por varios manuales grandes como Genlab Alpha, Mechatron o el propio Mutant Year Zero, y algunos pequeños suplementos en grapa. No es el primer sa"
+  },
+  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo instalo el clon de FastTracker II en Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2026/01/como instalo fasttracker II en Ubuntu.html",
@@ -182,25 +224,11 @@
     "contenido": "La frase del título del post es de una canción del grupo Mamá Ladilla. La voz cantante del grupo -nunca mejor dicho- es Juan Abarca. Dentro de que el nombre del grupo puede sonar a esperpento, Juan Abarca es profesor de guitarra en Collado Mediano (Madrid) y según la web de la escuela obtuvo el [&#8"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Resumen del año 2025",
-    "link": "https://mareosdeungeek.es/resumen-del-ano-2025/",
-    "fecha": "31/12/2025",
-    "contenido": "Parece que 2025 va a acabar con más optimismo que otros años. Tal vez sea porque me he quedado sin trabajo, así que el pesimismo, imagino que llegará en 2026. Por eso, creo que 2025 habrá que cogerlo con pinzas, antes de decir que ha sido un buen año. Recuperar hábitos, y sobre todo, la [&#8230;]"
-  },
-  {
     "blog": "note – matizeta",
     "titulo": "El último día del año",
     "link": "https://matizeta.com/2025/12/31/el-ultimo-dia-del-ano/",
     "fecha": "31/12/2025",
     "contenido": "Solemos en estas fechas tener muchos sentimientos encontrados: de alegría por la renovación de expectativas ante un nuevo año, por el inicio de las vacaciones de verano de este lado del mapa, por el dolor de lo que se nos han ido, de la&#160;nostalgia de lo que dejó de ser, por los ciclos que se [&#"
-  },
-  {
-    "blog": "ocubom's blog | Oscar Cubo Medina",
-    "titulo": "Repaso del año 2025",
-    "link": "https://ocubom.page/es/post/year-in-review-2025/",
-    "fecha": "31/12/2025",
-    "contenido": "Finaliza un nuevo año.\nUn año triste.\nAgotador.\nMarcado por los imprevistos y la necesidad de sobreponerse a ellos.\nDe hacer lo que hay que hacer.\nPara reflexionar y replantearte tu futuro.\nAlgo que no tocaba\nEl año empezó con la dura noticia del fallecimiento de un amigo.\nEl momento en que recibí l"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -483,32 +511,11 @@
     "contenido": "\n  Uno de mis recuerdos que me hacen sonre&#237;r m&#225;s es que en alg&#250;n momento all&#225; por principios de siglo, alguien llam&#243; a la IMDb \"la p&#225;gina de &#193;lex\". Seguramente porque seguramente es de las p&#225;ginas que m&#225;s tiempo llevo usando del mundo: mientras que la Wik"
   },
   {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Mis aplicaciones por defecto 2025",
-    "link": "https://vctrsnts.github.io/2025-12-28-aplicaciones-2025/",
-    "fecha": "28/12/2025",
-    "contenido": "Tal como inicie a finales del 2024 con el articulo sobre las aplicaciones que uso, pues aqui teneis las aplicaciones de este año, donde ya digo, que ha sido un año muy convulso con referencia a las aplicaciones que estoy usando ultimamente."
-  },
-  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Resumen del canal de YouTube julio a diciembre 2025",
     "link": "https://mcallus.net/2025/12/28/resumen-del-canal-de-youtube-julio-a-diciembre-2025/",
     "fecha": "28/12/2025",
     "contenido": "Como tengo el canal de YouTube prácticamente abandonado he decidido que la siguiente entrada resumen contuviera todos los vídeos de la segunda mitad de 2025&#8230; total, tampoco van a ser muchos y así a quien solo le interesen mis relatos pues no tiene que ver más que una entrada de esta cada seis "
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Mi Wrapped en AntennaPod",
-    "link": "https://gatooscuro.xyz/mi-wrapped-en-antennapod/",
-    "fecha": "28/12/2025",
-    "contenido": "Hola, sinceramente no sabía que existía tal cosa en AntennaPod, por lo primero les daré contexto sobre que es es, por si les toma de sorpresa igual que a mi.\nSeguir leyendo  Mi Wrapped en AntennaPod\nEl cargo Mi Wrapped en AntennaPod apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Reciclaje profesional",
-    "link": "https://mareosdeungeek.es/reciclaje-profesional/",
-    "fecha": "28/12/2025",
-    "contenido": "Según los expertos, el reciclaje profesional puede adoptar diversas formas: Reskilling: Aprender un nuevo conjunto de habilidades para cambiar de carrera o industria. Upskilling: Mejorar habilidades actuales para avanzar en la misma trayectoria profesional. Reorientación laboral: Cambiar de enfoque "
   },
   {
     "blog": "Tecno y Soft",
@@ -558,26 +565,5 @@
     "link": "https://text.eapl.mx/esta-bien",
     "fecha": "28/12/2025",
     "contenido": ""
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "El hackeo a Spotify y la preservación cultural",
-    "link": "https://thecheis.com/2025/12/27/el-hackeo-a-spotify-y-la-preservacion-cultural/",
-    "fecha": "27/12/2025",
-    "contenido": "En los últimos días se conoció un hackeo a Spotify, aunque esta vez el objetivo no fueron los datos de usuarios, sino su catálogo de música. El grupo «archivista» Anna&#8217;s Archive (El Archivo de Anna) habría burlado el DRM y copiado casi todo el material del servicio de streaming, haciéndose con"
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Lecturas en diciembre de 2025",
-    "link": "https://mcallus.net/2025/12/27/lecturas-en-diciembre-de-2025/",
-    "fecha": "27/12/2025",
-    "contenido": "Quiero aprovechar esta entrada para desearos a todos felices fiestas. He decidido publicar ya las lecturas de diciembre porque sé que no voy a terminar ninguna lectura más de las que tengo empezadas antes de que se acabe el año, además, durante los próximos cuatro días van a salir las entradas resum"
-  },
-  {
-    "blog": "El condón roto de GNU",
-    "titulo": "Ubuntu Touch 20.04 y 24.04: reparación del micrófono que no funciona después de una llamada, excepto para llamadas.",
-    "link": "https://elcondonrotodegnu.wordpress.com/2025/12/27/ubuntu-touch-20-04-y-24-04-reparacion-del-microfono-que-no-funciona-despues-de-una-llamada-excepto-para-llamadas/",
-    "fecha": "27/12/2025",
-    "contenido": "Ubuntu Touch 20.04 y 24.04: reparación del micrófono que no funciona después de una llamada, excepto para llamadas."
   }
 ]
