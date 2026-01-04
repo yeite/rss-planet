@@ -1,10 +1,38 @@
 [
   {
     "blog": "Victorhck in the free world",
+    "titulo": "Un LLM o Modelo Extenso de lenguaje no sabe mentir",
+    "link": "https://victorhckinthefreeworld.com/2026/01/04/un-llm-o-modelo-extenso-de-lenguaje-no-sabe-mentir/",
+    "fecha": "04/01/2026",
+    "contenido": "¿Saben mentir o pedir perdón los LLM que están detrás de inteligencias artificiales como Chat-GPT? ¿Sueñan los androides con ovejas eléctricas?"
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Leyendo Hamnet de Maggie O'Farrell me acordé mucho de El fin de Rabindranath Tagore",
+    "link": "https://pedrolr.es/blog/leyendo-hamnet-de-maggie-ofarrell-me-acorde-mucho-de-el-fin-de-rabindranath-tagore/",
+    "fecha": "04/01/2026",
+    "contenido": "Leí Hamnet de Maggie O'Farrell y me recordó a un poema de Tagore que se llama El fin. Lo pongo desde una edición que viene con El cartero del rey que es la que yo tengo (Tagore, 1981): Madre, ha llegado la hora de que me vaya. Me voy. Cuando la oscuridad palidezca y dé [&#8230;]"
+  },
+  {
+    "blog": "56K",
+    "titulo": "La serie EcoQuest – Juegos de ética Ambiental",
+    "link": "https://56k.es/fanta/la-serie-ecoquest-juegos-de-etica-ambiental-en-2025/",
+    "fecha": "04/01/2026",
+    "contenido": "El juego EcoQuest «La Búsqueda de Cetus» (1991) fue escrito por Jane Jensen, conocida en el mundo de las aventuras gráficas por títulos como Gabriel Knight 1,2 y 3, Gray Matter y Police Quest III. Esta diseñado para ser jugable por cualquier persona pero también niños y aunque es un juego de Sierra "
+  },
+  {
+    "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 1 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/01/03/opensuse-tumbleweed-revision-de-la-semana-1-de-2026/",
     "fecha": "03/01/2026",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Signal es genial ¿Pero tienes un plan B?",
+    "link": "https://gatooscuro.xyz/signal-es-genial-pero-tienes-un-plan-b/",
+    "fecha": "03/01/2026",
+    "contenido": "Hay una fantasía muy cómoda que hemos repetido durante años: que la seguridad es una aplicación, que basta con instalarla, activarla y dormir tranquilos. Como si el mundo fuera estable.\nSeguir leyendo  Signal es genial ¿Pero tienes un plan B?\nEl cargo Signal es genial ¿Pero tienes un plan B? apareci"
   },
   {
     "blog": "Tecno y Soft",
@@ -222,6 +250,13 @@
     "link": "https://pedrolr.es/blog/no-es-que-rechaces-leerlo-es-que-no-se-te-ha-ocurrido-estamos-perdidos-lee-burro-lee-burro/",
     "fecha": "31/12/2025",
     "contenido": "La frase del título del post es de una canción del grupo Mamá Ladilla. La voz cantante del grupo -nunca mejor dicho- es Juan Abarca. Dentro de que el nombre del grupo puede sonar a esperpento, Juan Abarca es profesor de guitarra en Collado Mediano (Madrid) y según la web de la escuela obtuvo el [&#8"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Resumen del año 2025",
+    "link": "https://mareosdeungeek.es/resumen-del-ano-2025/",
+    "fecha": "31/12/2025",
+    "contenido": "Parece que 2025 va a acabar con más optimismo que otros años. Tal vez sea porque me he quedado sin trabajo, así que el pesimismo, imagino que llegará en 2026. Por eso, creo que 2025 habrá que cogerlo con pinzas, antes de decir que ha sido un buen año. Recuperar hábitos, y sobre todo, la [&#8230;]"
   },
   {
     "blog": "note – matizeta",
@@ -511,11 +546,11 @@
     "contenido": "\n  Uno de mis recuerdos que me hacen sonre&#237;r m&#225;s es que en alg&#250;n momento all&#225; por principios de siglo, alguien llam&#243; a la IMDb \"la p&#225;gina de &#193;lex\". Seguramente porque seguramente es de las p&#225;ginas que m&#225;s tiempo llevo usando del mundo: mientras que la Wik"
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Resumen del canal de YouTube julio a diciembre 2025",
-    "link": "https://mcallus.net/2025/12/28/resumen-del-canal-de-youtube-julio-a-diciembre-2025/",
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Mi Wrapped en AntennaPod",
+    "link": "https://gatooscuro.xyz/mi-wrapped-en-antennapod/",
     "fecha": "28/12/2025",
-    "contenido": "Como tengo el canal de YouTube prácticamente abandonado he decidido que la siguiente entrada resumen contuviera todos los vídeos de la segunda mitad de 2025&#8230; total, tampoco van a ser muchos y así a quien solo le interesen mis relatos pues no tiene que ver más que una entrada de esta cada seis "
+    "contenido": "Hola, sinceramente no sabía que existía tal cosa en AntennaPod, por lo primero les daré contexto sobre que es es, por si les toma de sorpresa igual que a mi.\nSeguir leyendo  Mi Wrapped en AntennaPod\nEl cargo Mi Wrapped en AntennaPod apareció primero en El cuarto de GatoOscuro."
   },
   {
     "blog": "Tecno y Soft",
@@ -551,13 +586,6 @@
     "link": "https://www.xn--jmuoz-qta.es/2025/12/beatus-ille.html",
     "fecha": "28/12/2025",
     "contenido": "\n  \n    \n  \nMe resulta indescriptible la paz que siento cada vez que estoy en el campo, alejado de todo, apartado de todo, casi sin señal en el teléfono móvil, convirtiéndose la débil señal de la FM que sintonizo en una vieja radio el único contacto con el resto del mundo estos días."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Amoldándome a lo bueno",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/amoldandome-lo-bueno.html",
-    "fecha": "28/12/2025",
-    "contenido": "\n  \n    \n  \nSi hace unos días les decía que soy un animal de costumbres, también es verdad que soy fiel ejemplo de eso que dicen sobre que a lo bueno uno se acostumbra rápidamente. Y eso estoy haciendo: aprovechando al máximo estas vacaciones navideñas, empapándome de cultura, de lecturas pendientes"
   },
   {
     "blog": "eaplmx",
