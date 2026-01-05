@@ -1,5 +1,12 @@
 [
   {
+    "blog": "56K",
+    "titulo": "Jedi Knight II Jedi Outcast del 2002 en GNU+Linux",
+    "link": "https://56k.es/fanta/jedi-knight-ii-jedi-outcast-del-2002-en-gnulinux/",
+    "fecha": "05/01/2026",
+    "contenido": "Durante 8 años salieron varios juegos que podemos llamar como los «Star Wars: Jedi Knight», desde 1995 hasta el 2003. Juegos de Lucas Arts (empresa que ya desapareció). Durante varios artículos en este blog estoy intentando describir como se pueden disfrutar actualmente en GNU+Linux. Yo usaré Debian"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Un LLM o Modelo Extenso de lenguaje no sabe mentir",
     "link": "https://victorhckinthefreeworld.com/2026/01/04/un-llm-o-modelo-extenso-de-lenguaje-no-sabe-mentir/",
@@ -7,11 +14,46 @@
     "contenido": "¿Saben mentir o pedir perdón los LLM que están detrás de inteligencias artificiales como Chat-GPT? ¿Sueñan los androides con ovejas eléctricas?"
   },
   {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Los recuerdos del porvenir, de Elena Garro",
+    "link": "https://mcallus.net/2026/01/04/los-recuerdos-del-porvenir-de-elena-garro/",
+    "fecha": "04/01/2026",
+    "contenido": "El pueblo de Ixtepec es quien cuenta en estas páginas una sucesión de episodios en los que se mezclan la crueldad y la fe, la pasión y el odio, la mentira y la perfidia, a través de un amplio reparto de personajes de las distintas capas sociales, desde las prostitutas y los campesinos hasta las [&#8"
+  },
+  {
     "blog": "plr blog",
     "titulo": "Leyendo Hamnet de Maggie O'Farrell me acordé mucho de El fin de Rabindranath Tagore",
     "link": "https://pedrolr.es/blog/leyendo-hamnet-de-maggie-ofarrell-me-acorde-mucho-de-el-fin-de-rabindranath-tagore/",
     "fecha": "04/01/2026",
     "contenido": "Leí Hamnet de Maggie O'Farrell y me recordó a un poema de Tagore que se llama El fin. Lo pongo desde una edición que viene con El cartero del rey que es la que yo tengo (Tagore, 1981): Madre, ha llegado la hora de que me vaya. Me voy. Cuando la oscuridad palidezca y dé [&#8230;]"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "El arte de desaparecer sin moverse",
+    "link": "https://gatooscuro.xyz/el-arte-de-desaparecer-sin-moverse/",
+    "fecha": "04/01/2026",
+    "contenido": "Nota: este artículo es la continuación de Signal es genial ¿Pero tienes un plan B? Después de construir un plan de contingencia, el error más común no es técnico: es\nSeguir leyendo  El arte de desaparecer sin moverse\nEl cargo El arte de desaparecer sin moverse apareció primero en El cuarto de GatoOs"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 01/2026",
+    "link": "https://www.macram.es/posts/2026/01/semana-1-2026/",
+    "fecha": "04/01/2026",
+    "contenido": "Hoy está siendo un día bastante lento, no os voy a mentir. Un dramingo de libro. Estoy medio acatarrado y eso hace que me esté tomando las cosas con calma. No está mal tampoco. El día 7 supongo que ya volveremos a la realidad más real.\nEscribo esta nota exactamente mientras suena el temporizador de "
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Algunas fotos de diciembre",
+    "link": "https://www.ericafustero.com/2026-01-algunas-fotos-de-diciembre",
+    "fecha": "04/01/2026",
+    "contenido": "En diciembre casi no publiqué fotos en redes sociales y, cuando me puse a escribir este post, lo primero que pensé fue \"¿¿y qué fotos he hecho yo??\" En mi mente, diciembre estaba vacío de fotos, pero nada más lejos de la realidad. No solo hice muchísimas fotos, también me gustan más que de costumbre"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Jedi Knight Jedi Academy del 2003 en GNU+Linux",
+    "link": "https://56k.es/fanta/jedi-knight-jedi-academy-del-2003-en-gnulinux/",
+    "fecha": "04/01/2026",
+    "contenido": "Durante 8 años salieron varios juegos que podemos llamar como los «Star Wars: Jedi Knight», desde 1995 hasta el 2003. Juegos de Lucas Arts (empresa que ya desapareció). Durante varios artículos en este blog voy a intentar describir como se pueden disfrutar actualmente en GNU+Linux. Yo usaré Debian p"
   },
   {
     "blog": "56K",
@@ -483,13 +525,6 @@
     "contenido": "Todos los años solía hacer un post de este tipo con las herramientas de tecnología que más había usado. Este año es diferente, pues fue el año de la desconexión.\nAquí la lista de cosillas que he empezado a usar (o retomado después de años):\n\nPortaminas r0tring 600 con minas Pentel 4B\nCuaderno de not"
   },
   {
-    "blog": "Si dios te da limones",
-    "titulo": "The Mighty Nein",
-    "link": "https://sidiostedalimones.com/blog/2025/the-mighty-nein/",
-    "fecha": "29/12/2025",
-    "contenido": ""
-  },
-  {
     "blog": "La Paradoja del Cero y el Uno",
     "titulo": "Invitación de Daniel Omar Cignacco a sus lectores (https://www.bubok.es/libros/284084/el-colombofilo-de-flores-y-la-cifra-infinita )",
     "link": "https://docig.bearblog.dev/invitacion-de-daniel-omar-cignacco-a-sus-lectores-httpswwwbubokeslibros284084el-colombofilo-de-flores-y-la-cifra-infinita/",
@@ -511,20 +546,6 @@
     "contenido": "\n  \n    \n  \nOtro de mis pequeños placeres es leer la prensa en papel. En época normal de trabajo, solo lo compro los fines de semana, que es cuando puedo leerlo tranquilamente; cuando estoy de vacaciones lo compro diariamente. No tiene comparación pasar las páginas en papel con ir pulsando en los en"
   },
   {
-    "blog": "La cosa infinita",
-    "titulo": "Invitación de Daniel Omar Cignacco a sus lectores (https://www.bubok.es/libros/284084/el-colombofilo-de-flores-y-la-cifra-infinita )",
-    "link": "https://docig.mataroa.blog/blog/invitacion-de-daniel-omar-cignacco-a-sus-lectores-httpswwwbubokeslibros284084el-colombofilo-de-flores-y-la-cifra-infinita/",
-    "fecha": "29/12/2025",
-    "contenido": "Invitación de Daniel Omar Cignacco a sus lectores\nInvitación a mis lectores. ¡Hola! Soy Daniel Omar Cignacco. Como escritor, no hay mayor alegría que saber que mis historias cobran vida en la mente de quienes las leen. Quiero invitarlos formalmente a explorar mis libros. Cada página está escrita con"
-  },
-  {
-    "blog": "La cosa infinita",
-    "titulo": "Notificaciones de ausencia",
-    "link": "https://docig.mataroa.blog/blog/notificaciones-de-ausencia/",
-    "fecha": "29/12/2025",
-    "contenido": "Frente al resplandor azul de la pantalla, ella ensaya su mejor ángulo de abandono. Sabe que la soledad no es la ausencia de otros, sino el exceso de reflejos que no devuelven el tacto.\nPublica una foto de su cena para dos: un plato lleno, el otro vacío como un bostezo. El epígrafe dice «Plenitud», p"
-  },
-  {
     "blog": "",
     "titulo": "Recomendacion.",
     "link": "https://mundoceltamedieval.wordpress.com/2025/12/29/recomendacion-12/",
@@ -537,61 +558,5 @@
     "link": "https://calaveras.bearblog.dev/le-pido-disculpas/",
     "fecha": "29/12/2025",
     "contenido": "Quería terminar el año con un posteo mitad reflexión, mitad metas y esas huevadas, pero no sería yo si lo hicese. Por ende, voy a escribir sobre una frase que me dijeron el otro día, y me quedé pensando.\nLe pido disculpasUna persona se manda una cagada, y luego me dice \"te pido disculpas\" y yo le di"
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "Sueños insomnes",
-    "link": "https://alex.corcoles.net//2025/12/suenos-insomnes/",
-    "fecha": "29/12/2025",
-    "contenido": "\n  Uno de mis recuerdos que me hacen sonre&#237;r m&#225;s es que en alg&#250;n momento all&#225; por principios de siglo, alguien llam&#243; a la IMDb \"la p&#225;gina de &#193;lex\". Seguramente porque seguramente es de las p&#225;ginas que m&#225;s tiempo llevo usando del mundo: mientras que la Wik"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Mi Wrapped en AntennaPod",
-    "link": "https://gatooscuro.xyz/mi-wrapped-en-antennapod/",
-    "fecha": "28/12/2025",
-    "contenido": "Hola, sinceramente no sabía que existía tal cosa en AntennaPod, por lo primero les daré contexto sobre que es es, por si les toma de sorpresa igual que a mi.\nSeguir leyendo  Mi Wrapped en AntennaPod\nEl cargo Mi Wrapped en AntennaPod apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Wayland y X11 explicado para seres humanos",
-    "link": "https://tecnoysoft.com/2025/12/28/wayland-y-x11-explicado-para-seres-humanos/",
-    "fecha": "28/12/2025",
-    "contenido": "¿Qué es X11 y qué es Wayland? He leido algo sobre el tema, pero siempre caen en explicaciones tecnicas que más que aclarar, lo complican todo. Voy a explicarlo tal cual yo lo entiendo, pues el debate está muy presente y he creido conveniente aportar algo sencillo y al alcance de todos. Cuando usas L"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Emisoras de radio que me gustan",
-    "link": "https://www.macram.es/shoebox/emisoras-de-radio-que-me-gustan/",
-    "fecha": "28/12/2025",
-    "contenido": "Me gusta escuchar la radio. He escrito unos cuantos posts sobre el tema, por lo que no os pillará de sorpresa. Y de entre todas las emisoras, he ido encontrando algunas que me gustan especialmente, aunque reconozco no ser demasiado selectivo con ellas.\nLista, como siempre, en permanente actualizació"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Últimas tardes de diciembre",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/ultimas-tardes-de-diciembre.html",
-    "fecha": "28/12/2025",
-    "contenido": "\n  \n    \n  \n"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Bellotas",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/bellotas.html",
-    "fecha": "28/12/2025",
-    "contenido": "\n  \n    \n  \nLas últimas bellotas del año."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Beatus ille",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/beatus-ille.html",
-    "fecha": "28/12/2025",
-    "contenido": "\n  \n    \n  \nMe resulta indescriptible la paz que siento cada vez que estoy en el campo, alejado de todo, apartado de todo, casi sin señal en el teléfono móvil, convirtiéndose la débil señal de la FM que sintonizo en una vieja radio el único contacto con el resto del mundo estos días."
-  },
-  {
-    "blog": "eaplmx",
-    "titulo": "Está bien",
-    "link": "https://text.eapl.mx/esta-bien",
-    "fecha": "28/12/2025",
-    "contenido": ""
   }
 ]
