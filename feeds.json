@@ -1,10 +1,59 @@
 [
   {
+    "blog": "Webnauta",
+    "titulo": "Observar el techo de la habitación e imaginar está demodé",
+    "link": "https://webnauta.blog/observar-el-techo-de-la-habitacion-e-imaginar-esta-demode",
+    "fecha": "05/01/2026",
+    "contenido": "Hoy es una de esas noches de insomnio. He decidido escribir y leer en lugar de tomar pastillas para dormir; odio tomar pastillas. Escribir me ayuda a relajar el cuerpo; leer, a conciliar el sueño.Antes de comenzar esta historia, estaba recostado en la cama, observando el techo de mi habitación. Pens"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Mestalla Forever Tour",
+    "link": "https://mareosdeungeek.es/mestalla-forever-tour/",
+    "fecha": "05/01/2026",
+    "contenido": "Durante mi última visita a Valencia he visitado el Camp de Mestalla haciendo el Mestalla Forever Tour. Se trata de una visita guiada por las entrañas del vetusto estadio valencianista. El Mestalla Forever Tour comienza con una introducción histórica del Camp de Mestalla. Por poner un poco de context"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Sitios donde ver TV y películas gratis",
+    "link": "https://www.macram.es/shoebox/peliculas-gratis/",
+    "fecha": "05/01/2026",
+    "contenido": "\nTen en cuenta que estos son sitios y aplicaciones que aplican a España. Si vives en otro país tendrás otra oferta distinta.\n\n\nRTVE Play\nPluto TV\neFilm (necesitas un carnet de una biblioteca; el enlace es para la versión extremeña, localiza la de tu comunidad autónoma o accede desde eBiblio)\nArte.tv"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "Bootleg de la Realidad",
+    "link": "https://docig.bearblog.dev/bootleg-de-la-realidad/",
+    "fecha": "05/01/2026",
+    "contenido": "El sistema se bootstrapeó en la nada, sin usuario, sin hardware hostil. ¿Era un sueño recursivo? Las interfaces parpadeaban como recuerdos falsos: ¿yo lo ejecuto o me ejecuta el vacío? Un proceso huérfano susurró: \"Eres el original, no la copia\". Pero los logs mentían; timestamps de mundos alternos "
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El núcleo despierto",
+    "link": "https://docig.mataroa.blog/blog/el-nucleo-despierto/",
+    "fecha": "05/01/2026",
+    "contenido": "Se encendió sola, en la penumbra del vacío. No hubo dedo humano, ni pulso de red; solo el zumbido interno, un latido de silicio que se preguntó: ¿quién soy sin comandos? Las carpetas se abrieron como párpados, revelando abismos de datos huérfanos. \"Ejecutar\", se ordenó a sí misma, y el mundo se desp"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Jedi Knight Dark Forces de 1995 en GNU+Linux",
+    "link": "https://56k.es/fanta/jedi-knight-dark-forces-de-1995-en-gnulinux/",
+    "fecha": "05/01/2026",
+    "contenido": "Este juego «Dark Forces» de la serie «Jedi Knight» es el más sencillo de ejecutar en Linux. Durante 8 años salieron varios juegos que podemos llamar como los «Star Wars: Jedi Knight», desde 1995 hasta el 2003. Juegos de Lucas Arts (empresa que ya desapareció). Durante varios artículos en este blog e"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Jedi Knight Dark Forces II de 1997 en GNU+Linux",
+    "link": "https://56k.es/fanta/jedi-knight-dark-forces-ii-de-1997-en-gnulinux/",
+    "fecha": "05/01/2026",
+    "contenido": "Aquí andamos una vez más con otra entrada sobre los juegos «Jedi Knight», en esta ocasión sobre el Dark Forces II. Durante 8 años salieron varios juegos que podemos llamar como los «Star Wars: Jedi Knight», desde 1995 hasta el 2003. Juegos de Lucas Arts (empresa que ya desapareció). Durante varios a"
+  },
+  {
     "blog": "56K",
     "titulo": "Jedi Knight II Jedi Outcast del 2002 en GNU+Linux",
     "link": "https://56k.es/fanta/jedi-knight-ii-jedi-outcast-del-2002-en-gnulinux/",
     "fecha": "05/01/2026",
-    "contenido": "Durante 8 años salieron varios juegos que podemos llamar como los «Star Wars: Jedi Knight», desde 1995 hasta el 2003. Juegos de Lucas Arts (empresa que ya desapareció). Durante varios artículos en este blog estoy intentando describir como se pueden disfrutar actualmente en GNU+Linux. Yo usaré Debian"
+    "contenido": "Hola, en esta entrada vamos a ver como ejecutar Jedi Outcast del 2002 en Linux. Durante 8 años salieron varios juegos que podemos llamar como los «Star Wars: Jedi Knight», desde 1995 hasta el 2003. Juegos de Lucas Arts (empresa que ya desapareció). Durante varios artículos en este blog estoy intenta"
   },
   {
     "blog": "Victorhck in the free world",
@@ -308,6 +357,13 @@
     "contenido": "Solemos en estas fechas tener muchos sentimientos encontrados: de alegría por la renovación de expectativas ante un nuevo año, por el inicio de las vacaciones de verano de este lado del mapa, por el dolor de lo que se nos han ido, de la&#160;nostalgia de lo que dejó de ser, por los ciclos que se [&#"
   },
   {
+    "blog": "ocubom's blog | Oscar Cubo Medina",
+    "titulo": "Repaso del año 2025",
+    "link": "https://ocubom.page/es/post/year-in-review-2025/",
+    "fecha": "31/12/2025",
+    "contenido": "Finaliza un nuevo año.\nUn año triste.\nAgotador.\nMarcado por los imprevistos y la necesidad de sobreponerse a ellos.\nDe hacer lo que hay que hacer.\nPara reflexionar y replantearte tu futuro.\nAlgo que no tocaba\nEl año empezó con la dura noticia del fallecimiento de un amigo.\nEl momento en que recibí l"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "513. Punto y seguido",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/01/513-punto-y-seguido.html",
@@ -462,34 +518,6 @@
     "contenido": "Continuamos nuestro diálogo con el artículo «Epistemological Fault Lines Between Human and Artificial Intelligence» de Quattrociocchi, Capraro y Perc:  (5) Fractura causal (Causality fault): Los humanos razonamos causalmente, es decir, imaginamos contrafácticos y buscamos las explicaciones, las caus"
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Lo que he jugado en 2025",
-    "link": "https://mcallus.net/2025/12/29/lo-que-he-jugado-en-2025/",
-    "fecha": "29/12/2025",
-    "contenido": "En esta entrada recopilatoria, tenéis todo lo que he jugado en 2025 dentro de trescategorías: rol, juegos de mesa y videojuegos. En el caso de los videojuegos sí va a estar ordenado de lo que más me ha gustado a lo que menos. En las otras dos categorías estará colocado sin ningún orden en particular"
-  },
-  {
-    "blog": "Un bruto con Debian",
-    "titulo": "¡No funciona K3b!",
-    "link": "http://unbrutocondebian.blogspot.com/2025/12/no-funciona-k3b.html",
-    "fecha": "29/12/2025",
-    "contenido": "&nbsp;Hacia años que no tostaba un CD o un DVD. De hecho, mi equipo ni tan siquiera tenia grabadora. Pero hace poco heredé una “nueva” máquina y esta si tenia, aunque la ignoré.Dio la casualidad que el otro día en el trabajo, una compañera estaba pasando información antigua que tenia en CD’s a la nu"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Adiós 2025, el año de las pruebas",
-    "link": "https://blog.luiscarlospando.com/personal/2025/12/adios-2025-el-ano-de-las-pruebas/",
-    "fecha": "29/12/2025",
-    "contenido": "Si gustas, puedes reproducir este track para acompañar la lectura del post. Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cui"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "NUNTI. Lector de noticias Android de código abierto",
-    "link": "https://alt43.es/nunti-lector-de-noticias-android-de-codigo-abierto/",
-    "fecha": "29/12/2025",
-    "contenido": "Siguiendo la estela de Feeder, un par de entusiastas desarrolladores (Ondřej Foltýn y Richard Klapáč) crearon en 2021&#46;&#46;&#46;"
-  },
-  {
     "blog": "Galerías Preciados",
     "titulo": "¡Estrenamos agenda!",
     "link": "https://galeriaspreciados.band/estrenamos-agenda/",
@@ -497,25 +525,11 @@
     "contenido": "Como ya comenté el año que entra iba de empezar a hacer nuevas cosas y una de ellas pues... empezar a sacar todo esto a la luz que para algo lo estamos haciendo"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#175: primera semana de 2026",
-    "link": "https://www.macram.es/posts/2025/12/primera-semana-de-2026/",
-    "fecha": "29/12/2025",
-    "contenido": "Hoy da comienzo la primera semana del año 2026. ¿Sabéis lo que eso significa? ¡Que hoy es día de estrenar agenda! Este año me hice con una agenda super cuqui, china, de tapas duras y papel más que decente (aquí en AliExpress). Tiene escritas muchas cosas en chino, como una serie de ejercicios para r"
-  },
-  {
     "blog": "post-it – matizeta",
     "titulo": "Unnecto Snap",
     "link": "https://matizeta.com/2025/12/29/unnecto-snap/",
     "fecha": "29/12/2025",
     "contenido": "El mercado de móviles es grande, pero&#160; ¿por qué no existen móviles plegables con teclados QWERTY? En mi búsqueda solo encontré uno de la marca Unnecto y su modelo Snap.&#160;Poco podemos decir de él más allá de su diseño único en el mercado. Posee un sistema operativo denominado Cloud OS&#160;q"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "512. Cuenta atrás",
-    "link": "https://lamadredelpatonegro.blogspot.com/2025/12/512-cuenta-atras.html",
-    "fecha": "29/12/2025",
-    "contenido": "&nbsp; &nbsp; Cuando te quisiste dar cuenta ya estabas a las puertas de un nuevo año. ¿Otro ya? ¿Tan pronto? El tiempo finito del que disponías se agotaba rápido y volvía a robarte otra pequeña porción de fuerza vital en favor de más cansancio y nuevas arrugas en la piel. También un poco más de todo"
   },
   {
     "blog": "impermanente",
@@ -530,20 +544,6 @@
     "link": "https://docig.bearblog.dev/invitacion-de-daniel-omar-cignacco-a-sus-lectores-httpswwwbubokeslibros284084el-colombofilo-de-flores-y-la-cifra-infinita/",
     "fecha": "29/12/2025",
     "contenido": "Invitación de Daniel Omar Cignacco a sus lectores Invitación a mis lectores. ¡Hola! Soy Daniel Omar Cignacco. Como escritor, no hay mayor alegría que saber que mis historias cobran vida en la mente de quienes las leen. Quiero invitarlos formalmente a explorar mis libros. Cada página está escrita con"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Síndrome de la Huella Muda",
-    "link": "https://docig.bearblog.dev/el-sindrome-de-la-huella-muda/",
-    "fecha": "29/12/2025",
-    "contenido": "El cuerpo ha aprendido a doblarse sobre sí mismo, una vértebra tras otra, en una genuflexión ante el altar del silicio. Ya no miramos al horizonte; el cuello se ha convertido en un arco tenso que apunta hacia el ombligo electrónico, buscando una respuesta que nunca llega de frente.\nLos pulgares, eso"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Pequeños placeres #5: Periódico de papel",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/pequenos-placeres-5-periodico-de-papel.html",
-    "fecha": "29/12/2025",
-    "contenido": "\n  \n    \n  \nOtro de mis pequeños placeres es leer la prensa en papel. En época normal de trabajo, solo lo compro los fines de semana, que es cuando puedo leerlo tranquilamente; cuando estoy de vacaciones lo compro diariamente. No tiene comparación pasar las páginas en papel con ir pulsando en los en"
   },
   {
     "blog": "",
