@@ -1,5 +1,26 @@
 [
   {
+    "blog": "Mareos de un geek",
+    "titulo": "LEGO® presenta SMART Play™ en el CES",
+    "link": "https://mareosdeungeek.es/lego-presenta-smart-play-en-el-ces/",
+    "fecha": "06/01/2026",
+    "contenido": "En el CES de Las Vegas, LEGO® ha presentado su nuevo sistema SMART Play™, algo que venía rumoreándose desde finales de 2025. Se trata de añadir una pieza electrónica, que por supuesto encaja perfectamente con el resto de piezas LEGO® y añadir una serie de funcionalidades interactivas a los diferente"
+  },
+  {
+    "blog": "NeoSite Blog",
+    "titulo": "Vuelven los comentarios, pero con una pequeña trampa",
+    "link": "http://blog.neosite.com.ar/post/vuelven-los-comentarios",
+    "fecha": "06/01/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Trece tristes tesis sobre el turismo",
+    "link": "https://matizeta.com/2026/01/06/trece-tristes-tesis-sobre-el-turismo/",
+    "fecha": "06/01/2026",
+    "contenido": "El mismo día que volvía de mis vacaciones de Iguazú recibí el newsletter de Santi Araujo en donde entre otras cosas mencionaba las Trece tristes tesis sobre el turismo, escritas por el arquitecto Pedro Levi Bismarck, las cuales resonaron fuertemente en mí y ayudaron a replantearme la forma en que úl"
+  },
+  {
     "blog": "Eterno aprendiz",
     "titulo": "Discos Chilenos favoritos de 2025",
     "link": "https://altgr.xyz/2026/01/05/discos-chilenos-favoritos-de-2025/",
@@ -15,10 +36,10 @@
   },
   {
     "blog": "Webnauta",
-    "titulo": "Observar el techo de la habitación e imaginar está demodé",
-    "link": "https://webnauta.blog/observar-el-techo-de-la-habitacion-e-imaginar-esta-demode",
+    "titulo": "El techo como umbral",
+    "link": "https://webnauta.blog/el-techo-como-umbral",
     "fecha": "05/01/2026",
-    "contenido": "Hoy es una de esas noches de insomnio. He decidido escribir y leer en lugar de tomar pastillas para dormir; odio tomar pastillas. Escribir me ayuda a relajar el cuerpo; leer, a conciliar el sueño.Antes de comenzar esta historia, estaba recostado en la cama, observando el techo de mi habitación. Pens"
+    "contenido": "Hoy es una de esas noches de insomnio. He decidido escribir y leer en lugar de tomar pastillas para dormir; odio tomar pastillas. Escribir me ayuda a relajar el cuerpo; leer en papel, a conciliar el sueño.Antes de comenzar esta historia, estaba recostado en la cama, observando el techo de mi habitac"
   },
   {
     "blog": "El cuarto de GatoOscuro",
@@ -186,7 +207,7 @@
     "titulo": "Como evitar que la wifi se desconecte al cerrar la tapa del portátil",
     "link": "https://tecnoysoft.com/2026/01/03/como-evitar-que-la-wifi-se-desconecte-al-cerrar-la-tapa-del-portatil/",
     "fecha": "03/01/2026",
-    "contenido": "Problema En Manjaro con KDE Plasma, aunque se configure la opción“No hacer nada al cerrar la tapa”,la conexión Wi-Fi puede desconectarse si la tapa permanece cerradadurante un tiempo prolongado.Esta solución está probada con tarjetas Qualcomm Atheros QCA9377. En otros chipsets (Intel, Realtek, Broad"
+    "contenido": "Problema En Manjaro con KDE Plasma, aunque se configure la opción “No hacer nada al cerrar la tapa”, la conexión Wi-Fi puede desconectarse si la tapa permanece cerrada durante un tiempo prolongado. Causa El cierre de la tapa no lo controla únicamente KDE Plasma. También intervienen systemd-logind, N"
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -420,20 +441,6 @@
     "contenido": "&nbsp; &nbsp; Para mí, desde hace mucho, un año que sucede a otro año no es más que un punto y seguido. No tengo nada que reiniciar, sino cosas por continuar y hábitos en los que seguir. De modo que no recuerdo la última vez que hice balance de algo. Joder, ni siquiera he escrito la entrada obvia y "
   },
   {
-    "blog": "danielaragay.net",
-    "titulo": "Comprar, vendre i llogar pis a Suècia: la meva experiència real",
-    "link": "https://blog.danielaragay.net/comprar-vendre-i-llogar-pis-a-suecia-la-meva-experiencia-real/",
-    "fecha": "31/12/2025",
-    "contenido": "En aquest episodi de &#x201c;Fent el Su&#xe8;c&#x201d;, t&#x2019;explico des de dins com funciona el mercat immobiliari suec. Despr&#xe9;s de comprar un nou apartament, et detallo el proc&#xe9;s: des de parlar amb el banc via web fins a les curioses subhastes"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Mudanzas, picaresca sueca y cómo ahorrar el 50% en reformas",
-    "link": "https://blog.danielaragay.net/mudanzas-picaresca-sueca-y-como-ahorrar-el-50-en-reformas/",
-    "fecha": "31/12/2025",
-    "contenido": "En el &#xfa;ltimo episodio del a&#xf1;o, te cuento c&#xf3;mo va nuestra mudanza y un detalle clave de vivir en Suecia: el &#x201c;truco&#x201d; legal para desgravarte el 50% de las reformas y limpiezas. Te explico por qu&#xe9; aqu&#xed; no compensa trabajar en"
-  },
-  {
     "blog": "Eterno aprendiz",
     "titulo": "Discos Favoritos 2025 – Internacional",
     "link": "https://altgr.xyz/2025/12/31/discos-favoritos-2025-internacional/",
@@ -502,19 +509,5 @@
     "link": "http://frikoteca.blogspot.com/2025/12/resumen-del-2025-y-propositos-para-el.html",
     "fecha": "31/12/2025",
     "contenido": "Un año más, aquí estamos para hacer un resumen de lo que me ha deparado el año 2025 y lo que planeo hacer durante el año que viene. No es que nunca cumpla ni la mitad de las cosas que me propongo, pero es bonito leerlas al año siguiente y ver la poca utilidad que tiene hacer planes :D.\nEste año he c"
-  },
-  {
-    "blog": "--el Profe Juan--",
-    "titulo": "Cordones-Versión-II",
-    "link": "https://elprofejuan.com.ar/autosave-eac7a2d06f9e6caaf8d1249ef54e0df1",
-    "fecha": "30/12/2025",
-    "contenido": "En el post anterior comenté el experimento fotográfico de hacer fotos con el celular de cordones y bordes de veredas en una localidad de la costa Bonaerense, bueno, ahora va la versión en blanco y negro, más acotada, pero no por eso menos interesante, eso creo.\n"
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendacion.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/12/30/recomendacion-13/",
-    "fecha": "30/12/2025",
-    "contenido": "Un interesante podcast de Rock Celta y musica celta. https://www.podcasts.com/radio-rebel-gael-962c3e936/episode/aibhleog"
   }
 ]
