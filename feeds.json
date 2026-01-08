@@ -7,11 +7,53 @@
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
   },
   {
+    "blog": "Luis Carlos Pando",
+    "titulo": "¿Qué hacer con este sitio (en caso de que me muera)?",
+    "link": "https://blog.luiscarlospando.com/personal/2026/01/que-hacer-con-este-sitio-en-caso-de-que-me-muera/",
+    "fecha": "07/01/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
     "blog": "ladoB – matizeta",
     "titulo": "Redefiniendo mi forma de viajar",
     "link": "https://matizeta.com/2026/01/07/redefiniendo-mi-forma-de-viajar/",
     "fecha": "07/01/2026",
     "contenido": "Desde hace ya algún tiempo siento cierto sabor agridulce al volver de cada viaje. Me refiero a esos en donde uno va a conocer lugares, no aquellos de relax en que uno se desconecta unos días para simplemente estar tirado mirando el mar. En mi último viaje que realicé a Iguazú compré tickets para la "
+  },
+  {
+    "blog": "Si dios te da limones",
+    "titulo": "nownownow",
+    "link": "https://sidiostedalimones.com/blog/2026/nownownow/",
+    "fecha": "07/01/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El fin de la resistencia (poemario)",
+    "link": "https://docig.bearblog.dev/el-fin-de-la-resistencia-poemario/",
+    "fecha": "07/01/2026",
+    "contenido": "https://danielomarcignacco.blogspot.com/2026/01/el-fin-de-la-resistencia-libro-de-poemas.html"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "Canción de cuna para un disco de estado sólido",
+    "link": "https://docig.bearblog.dev/cancion-de-cuna-para-un-disco-de-estado-solido/",
+    "fecha": "07/01/2026",
+    "contenido": "Todo sucede en esa zona de penumbra entre el Sleep y el Hibernate. No soy un usuario, soy un fantasma de la interfaz. He cruzado la frontera del monitor para descubrir que el sistema operativo se parece sospechosamente a la estructura de una novela de tres mil páginas que nadie ha terminado de escri"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "El fin de la resistencia (poemario)",
+    "link": "https://docig.mataroa.blog/blog/el-fin-de-la-resistencia-poemario/",
+    "fecha": "07/01/2026",
+    "contenido": "https://danielomarcignacco.blogspot.com/2026/01/el-fin-de-la-resistencia-libro-de-poemas.html"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "La Carpeta Vacía del Yo",
+    "link": "https://docig.mataroa.blog/blog/la-carpeta-vacia-del-yo/",
+    "fecha": "07/01/2026",
+    "contenido": "El cursor parpadea. Es un pulso, una angustia de existir antes de ser palabra.\nEntro por la grieta de un comando mal escrito. No es un viaje de distancias, sino de profundidades líquidas. Aquí, el silicio no es frío; es un hambre que procesa. Me muevo entre los ceros y los unos, pero no veo números."
   },
   {
     "blog": "56K",
@@ -343,13 +385,6 @@
     "contenido": "Al contrario que en el anterior post de Inquietudes, en el que tuve que juntar dos meses para poder publicar algo \"con chicha\", este mes la cosa ha estado sorprendentemente nutrida (sobre todo de películas) y, ahora que lo miro con perspectiva, ha sido un octubre muy \"ochentero\". Nada mal, la verdad"
   },
   {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Propositos 2026",
-    "link": "https://vctrsnts.github.io/2026-01-01-propositos-2026/",
-    "fecha": "01/01/2026",
-    "contenido": "En estos primeros dias de año y que me gustaria conversar en los venideros, es poner un listado de las cosas que me gustaria conseguir este año con referencia a mi servidor, docker, etc&hellip; O sea, todo lo que tiene que ver con el mundo de la tecnologia y la informatica."
-  },
-  {
     "blog": "Moribundo Insurgente",
     "titulo": "Alertan de Smart TV que toman capturas cada segundo de lo que estás viendo",
     "link": "https://moribundoinsurgente.noblogs.org/post/2026/01/01/alertan-de-smart-tv-que-toman-capturas-cada-segundo-de-lo-que-estas-viendo/",
@@ -404,61 +439,5 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/01/erase-unos-propositos-de-ano-nuevo.html",
     "fecha": "01/01/2026",
     "contenido": "&nbsp;2026 ya ha llegado y es el momento de que pensemos en esas cosas que queremos mejorar de nuestra vida para intentar, como propósito de año nuevo, ponerlas en marcha:Comer menos. Como muchísimo, normalmente más de lo que me correspondería, pero no tengo fin. No estoy gordo. Recuerdo a una compa"
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Malagueños Originales y Libres: repaso a 2025 (Día del Dominio Público)",
-    "link": "https://malagaoriginal.blogspot.com/2026/01/malaguenos-originales-y-libres-repaso.html",
-    "fecha": "31/12/2025",
-    "contenido": "Otro año más que se nos va, pero a lo largo del mismo hemos visto en este blog muchas cosas y hemos aprendido algunas cosas juntos que hemos recogido en estos apuntes públicos.&nbsp;En el mundo del software libre, hemos dado la bienvenida a la versión estable de Debian 13, a la que hemos intentado s"
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "¿Que ya pasó 2025?",
-    "link": "https://adrianperales.com/2025/12/que-ya-paso-2025/",
-    "fecha": "31/12/2025",
-    "contenido": "Hoy escribo esto poco tiempo antes de que comience la celebración, así que será una entrada mucho más corta que en ocasiones anteriores. Si tuviera que definir el año que acaba con una palabra, sin duda sería «estabilidad». Ha sido un año de descanso, de reencuentro conmigo mismo y de estabilizar há"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Intelectuales",
-    "link": "https://jinversor.co/2025/12/intelectuales/",
-    "fecha": "31/12/2025",
-    "contenido": "Si quieres que una economía se vaya a la mierda, deja que la planifiquen los intelectuales. Ese es sin duda el camino más rápido a la escasez, la estrechez y [&#8230;]\nLa entrada Intelectuales se publicó primero en Jinversor."
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "513. Punto y seguido",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/01/513-punto-y-seguido.html",
-    "fecha": "31/12/2025",
-    "contenido": "&nbsp; &nbsp; Para mí, desde hace mucho, un año que sucede a otro año no es más que un punto y seguido. No tengo nada que reiniciar, sino cosas por continuar y hábitos en los que seguir. De modo que no recuerdo la última vez que hice balance de algo. Joder, ni siquiera he escrito la entrada obvia y "
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Discos Favoritos 2025 – Internacional",
-    "link": "https://altgr.xyz/2025/12/31/discos-favoritos-2025-internacional/",
-    "fecha": "31/12/2025",
-    "contenido": "¿Por qué? En redes sociales, una persona del medio musical, a quien respeto y admiro mucho, hizo una publicación cuestionando las motivaciones para hacer una lista personal de los mejores discos del año. Si una alguien que sabe de verdad sobre música lo pone en duda, ¿Qué queda para mí? Apenas podrí"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Libreta 2025",
-    "link": "https://www.ericafustero.com/2025-12-libreta-2025",
-    "fecha": "31/12/2025",
-    "contenido": "Acabé esta libreta el 30 de diciembre y esta mañana he estrenado la nueva. ¡Esperando llenarla con muchas nuevas aventuras y desventuras durante los próximos meses! I finished this notebook on December 30th and this morning I started using the new one. Looking forward to filling it with lots of new "
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "COPE Andalucía y las campanadas regionales",
-    "link": "https://www.xn--jmuoz-qta.es/2025/12/cope-andalucia-campanadas-regionales.html",
-    "fecha": "31/12/2025",
-    "contenido": "La COPE en Andalucía vuelve este año a desconectar de la emisión nacional para ofrecer sus propias campanadas. No es la primera vez que lo hacen: que yo sepa, llevan desde 2020 cortando la emisión en cadena a las 23:00 para hacer programación propia (de esto ya habló Radiochips), y es algo que me ll"
-  },
-  {
-    "blog": "",
-    "titulo": "Noticia para los amantes de los combates medievales.",
-    "link": "https://mundoceltamedieval.wordpress.com/2025/12/31/noticia-para-los-amantes-de-los-combates-medievales/",
-    "fecha": "31/12/2025",
-    "contenido": "La Alianza Latinoamericana de Combate Medieval (ALACoM), Confirma la realización del Torneo Río De La Plata III, uno de los eventos más relevantes de la región. La cita será el 28 y 29 de marzo en el Centro Deportivo Municipal de Tres de Febrero.Este torneo contara con luchadores de varias regiones "
   }
 ]
