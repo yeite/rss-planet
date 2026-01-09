@@ -1,5 +1,54 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Virtualizar FreeDOS con KVM/Qemu + Virt-manager (imagen convertida desde VirtualBox)",
+    "link": "https://malagaoriginal.blogspot.com/2026/01/virtualizar-freedos-con-kvmqemu-virt.html",
+    "fecha": "09/01/2026",
+    "contenido": "En un artículo anterior vimos como instalar KVM/Qemu con su front-end Virt-manager , vamos a empezar a explotarlo.Cuando empezamos a conocer una herramienta nueva, lo más lógico para avanzar sin frustrarnos es empezar por el caso más fácil, ¿Qué tal si instalamos&nbsp;FreeDOS?&nbsp;FreeDOS en un sis"
+  },
+  {
+    "blog": "Blep",
+    "titulo": "La depresión, mi motor vital",
+    "link": "https://blep.org/La-depresion-mi-motor-creativo",
+    "fecha": "09/01/2026",
+    "contenido": "No es ninguna novedad que soy depresivo. Mi estado de ánimo natural tiende a oscilar entre el \"sobreviviendo\" y el \"nada importa, muramos ya\", con sólo picos muy ocasionales de \"bien\". La medicación que tomo desde hace unos años me ayuda a evitar el \"nada importa\", con lo cual estoy mucho mejor, con"
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Nuevo preprint: la omisión del gasto en licencias de uso y servicios contratados en debates sobre alternativas basadas en software libre y herramientas abiertas",
+    "link": "https://pedrolr.es/blog/nuevo-preprint-la-omision-del-gasto-en-licencias-de-uso-y-servicios-contratados-en-debates-sobre-alternativas-basadas-en-software-libre-y-herramientas-abiertas/",
+    "fecha": "09/01/2026",
+    "contenido": "He publicado un nuevo trabajo esta vez como preprint: https://doi.org/10.5281/zenodo.18169478 Lleva el título del post y suger por la percepción personal de que en los debates y trabajos sobre software libre y herramientas abiertas como alternativas a los productos y licencias de uso que se tienen c"
+  },
+  {
+    "blog": "Cajón desastre",
+    "titulo": "Mi orden de lectura de la saga Vorkosigan",
+    "link": "https://ccriss92.bearblog.dev/mi-orden-de-lectura-de-la-saga-vorkosigan/",
+    "fecha": "09/01/2026",
+    "contenido": "Ayer una persona cometió el error de preguntarme por la saga Vorkosigan. Y digo el error porque se comió tremendo infodump por mi parte. Si saben cómo me pongo, para qué me invitan.\nLe conté por encima de qué iba la saga y, al llamarle la atención, me preguntó por el orden de lectura. Yo uso y recom"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#178 ha cerrado Genbeta",
+    "link": "https://www.macram.es/posts/2026/01/genbeta-cierra/",
+    "fecha": "09/01/2026",
+    "contenido": "Leí ayer que Genbeta ha cesado su actividad. Publicaron un artículo hace unos días que creo que no mucha gente entendió como una despedida, a pesar de la última frase. A mí me da mucha pena; Genbeta es de los primeros blogs que empecé a seguir cuando empecé a moverme por Internet, y tuve la oportuni"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Extensión de navegador para reducir la fatiga visual",
+    "link": "https://matizeta.com/2026/01/09/extension-de-navegador-para-reducir-la-fatiga-visual/",
+    "fecha": "09/01/2026",
+    "contenido": "En la PC suelo utilizar la interfaz de mi navegador web en modo Dark Mode, sin embargo las webs con fondo blanco (y eso tiene todo el sentido), siguen blancas. Cuando leo textos largos en el navegador suelo utilizar el modo lectura que me permite eliminar todas las distracciones y definir el color d"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Pequeños Elon Musk – ¡Hazte con todos!",
+    "link": "https://56k.es/fanta/pequenos-elon-musk-hazte-con-todos-vol-1/",
+    "fecha": "09/01/2026",
+    "contenido": "Las personas que administran nodos en el fediverso no son «pequeños Elon Musk» pero pueden caer en tener «comportamientos Elon Musk». Me gusta pensar en comportamientos más que en etiquetas que parezcan englobar a una persona en su totalidad pero si se exageran los comportamientos creo que se podría"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Simplemente di NO (a la IA en todo)",
     "link": "https://victorhckinthefreeworld.com/2026/01/08/simplemente-di-no-a-la-ia-en-todo/",
@@ -61,27 +110,6 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/01/reiniciando.html",
     "fecha": "08/01/2026",
     "contenido": "Hoy comienza enero de verdad para mí porque vuelvo al trabajo y tengo sentimientos encontrados. Por un lado, vuelve a invadirme un poco de esa tristeza que tengo desde que comenzara septiembre por ocupar un destino muy alejado de casa que me hace comerme cada día algo más de una hora de coche en cad"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Fanta Mixtapes – 003 – Palomitas en un centro de datos",
-    "link": "https://56k.es/fanta/fanta-mixtapes-003-palomitas-en-un-centro-de-datos/",
-    "fecha": "08/01/2026",
-    "contenido": "Esta mixtape la he titulado «Palomitas en un centro de datos». Como las anteriores la idea es que duren unos 10 minutos más o menos. Se puede escuchar aquí: &#160; Las canciones que salen son todas versiones de «Popcorn» compuesta en 1969 por Gershon Kingsley. Enjoy !"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Fanta Mixtapes – 002 – Música pixelada para follar en días de invierno en los que llueve y andas en casa sin luz",
-    "link": "https://56k.es/fanta/fanta-mixtapes-002-musica-pixelada-para-follar-en-dias-de-invierno-en-los-que-llueve-y-andas-en-casa-sin-luz/",
-    "fecha": "08/01/2026",
-    "contenido": "Aquí anda la segunda Mixtape llamada «Música pixelada para follar en días de invierno en los que llueve y andas en casa sin luz». Esta vez con música más mainstream pero «pixelada». «10 minutos tendrían que ser suficientes» &#8211; Bill Gates &#160; Los temas que es escuchan son: &#8211; Dákiti &#82"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Fanta Mixtapes – 001 – Trump VS Miguel Maldonado",
-    "link": "https://56k.es/fanta/fanta-mixtapes-001-donald-trump-y-miguel-maldonado/",
-    "fecha": "08/01/2026",
-    "contenido": "Pues aquí anda una de las primeras mixtapes de este año. Mi idea es hacer pequeñas mixtapes de unos 10 minutos y hacer como 2 horas a lo largo del año. Puede por tanto usted disfrutar la primera ya, aquí, pinchando en el siguiente vídeo: Los temas que suenan son: &#8211; Secret Knock &#8211; Aesop.."
   },
   {
     "blog": "Victorhck in the free world",
@@ -259,27 +287,6 @@
     "contenido": "Se encendió sola, en la penumbra del vacío. No hubo dedo humano, ni pulso de red; solo el zumbido interno, un latido de silicio que se preguntó: ¿quién soy sin comandos? Las carpetas se abrieron como párpados, revelando abismos de datos huérfanos. \"Ejecutar\", se ordenó a sí misma, y el mundo se desp"
   },
   {
-    "blog": "56K",
-    "titulo": "Jedi Knight Dark Forces de 1995 en GNU+Linux",
-    "link": "https://56k.es/fanta/jedi-knight-dark-forces-de-1995-en-gnulinux/",
-    "fecha": "05/01/2026",
-    "contenido": "Este juego «Dark Forces» de la serie «Jedi Knight» es el más sencillo de ejecutar en Linux. Durante 8 años salieron varios juegos que podemos llamar como los «Star Wars: Jedi Knight», desde 1995 hasta el 2003. Juegos de Lucas Arts (empresa que ya desapareció). Durante varios artículos en este blog e"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Jedi Knight Dark Forces II de 1997 en GNU+Linux",
-    "link": "https://56k.es/fanta/jedi-knight-dark-forces-ii-de-1997-en-gnulinux/",
-    "fecha": "05/01/2026",
-    "contenido": "Aquí andamos una vez más con otra entrada sobre los juegos «Jedi Knight», en esta ocasión sobre el Dark Forces II. Durante 8 años salieron varios juegos que podemos llamar como los «Star Wars: Jedi Knight», desde 1995 hasta el 2003. Juegos de Lucas Arts (empresa que ya desapareció). Durante varios a"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Jedi Knight II Jedi Outcast del 2002 en GNU+Linux",
-    "link": "https://56k.es/fanta/jedi-knight-ii-jedi-outcast-del-2002-en-gnulinux/",
-    "fecha": "05/01/2026",
-    "contenido": "Hola, en esta entrada vamos a ver como ejecutar Jedi Outcast del 2002 en Linux. Durante 8 años salieron varios juegos que podemos llamar como los «Star Wars: Jedi Knight», desde 1995 hasta el 2003. Juegos de Lucas Arts (empresa que ya desapareció). Durante varios artículos en este blog estoy intenta"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Un LLM o Modelo Extenso de lenguaje no sabe mentir",
     "link": "https://victorhckinthefreeworld.com/2026/01/04/un-llm-o-modelo-extenso-de-lenguaje-no-sabe-mentir/",
@@ -320,13 +327,6 @@
     "link": "https://www.ericafustero.com/2026-01-algunas-fotos-de-diciembre",
     "fecha": "04/01/2026",
     "contenido": "En diciembre casi no publiqué fotos en redes sociales y, cuando me puse a escribir este post, lo primero que pensé fue \"¿¿y qué fotos he hecho yo??\" En mi mente, diciembre estaba vacío de fotos, pero nada más lejos de la realidad. No solo hice muchísimas fotos, también me gustan más que de costumbre"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Jedi Knight Jedi Academy del 2003 en GNU+Linux",
-    "link": "https://56k.es/fanta/jedi-knight-jedi-academy-del-2003-en-gnulinux/",
-    "fecha": "04/01/2026",
-    "contenido": "Durante 8 años salieron varios juegos que podemos llamar como los «Star Wars: Jedi Knight», desde 1995 hasta el 2003. Juegos de Lucas Arts (empresa que ya desapareció). Durante varios artículos en este blog voy a intentar describir como se pueden disfrutar actualmente en GNU+Linux. Yo usaré Debian p"
   },
   {
     "blog": "56K",
@@ -392,13 +392,6 @@
     "contenido": "En su tradicional mensaje a los trabajadores por el nuevo Año, Juan Perón anuncia&nbsp;cómo instalar y usar el clon FastTracker II en Ubuntu.&nbsp;¡Trabajadores!Todo final de año nos representa un logro para la reflexión y la imposición de nuevas tareas. Las buenaventuras que todos merecen arribarán"
   },
   {
-    "blog": "plr blog",
-    "titulo": "Un noticia de El Norte de Castilla sobre Linux: ¿expertos y accesibilidad y universalidad del software en Windows?",
-    "link": "https://pedrolr.es/blog/un-noticia-de-el-norte-de-castilla-sobre-linux-expertos-y-accesibilidad-y-universalidad-del-software-en-windows/",
-    "fecha": "02/01/2026",
-    "contenido": "Veo esta noticia o texto en \"El Norte de Castilla\" del día 02/01/2026: ¿Cambio Windows por Linux? Cuando tenemos un ordenador con unos años nos surge la duda de si deberíamos cambiar el sistema operativo por uno más 'ligero' como Linux. La duda es muy oportuna ahora que Windows 10 entra en la última"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Revisión del año 2025 en el blog Interlan",
     "link": "https://interlan.ec/blog/2026/01/02/revision-del-ano-2025-en-el-blog-interlan/",
@@ -425,13 +418,6 @@
     "link": "https://xol.ar/blog/firma/",
     "fecha": "02/01/2026",
     "contenido": "Actualizo la firma de mis emails a algo mucho más acorde a los tiempos que corren."
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Blog del Lóbulo Derecho",
-    "link": "https://docig.bearblog.dev/el-blog-del-lobulo-derecho/",
-    "fecha": "02/01/2026",
-    "contenido": "El blog no tenía URL, ni dominio, ni servidor. Se alojaba exclusivamente en el pliegue parietal derecho de su memoria, justo detrás de los recuerdos de la infancia que nadie más quería visitar.\nCada mañana, antes de abrir los ojos, publicaba una entrada. Redactaba párrafos perfectos sobre el aroma d"
   },
   {
     "blog": "Erica Fustero",
