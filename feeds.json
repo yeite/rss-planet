@@ -7,11 +7,32 @@
     "contenido": "Si un amigo o amiga te ofrece... simplemente di NO a la IA. Se empieza por poco y se termina alavando las bondades de los grandes tecnócratas fascistas"
   },
   {
+    "blog": "El Sueño del Artista Blog",
+    "titulo": "Wifredo Lam un conocido totalmente desconocido",
+    "link": "https://polotman.wordpress.com/2026/01/08/wifredo-lam-un-conocido-totalmente-desconocido/",
+    "fecha": "08/01/2026",
+    "contenido": "#DelosNuestros #pintoresCubanos #WifredoLam #ElSueñodelArtistaBlog #exposicionRetropestiva #Arte #MoMa Por lo general no suelo dedicarle entradas a hacer me eco de noticias que estén circulando por los medios de difusión masiva ya sea tradicional o moderna ,pero toda regla tiene su exención y en est"
+  },
+  {
     "blog": "Mindeka",
     "titulo": "Un año de self-hosting",
     "link": "https://mindeka.es/2026/01/08/un-ano-de-self-hosting/",
     "fecha": "08/01/2026",
     "contenido": "He estado un poco ausente, pero he estado de vacaciones durante el período de estas fiestas navideñas, y cuando eso ocurre, intento desconectar de «todo», tanto profesional como personalmente de las redes sociales. La «salud mental» es algo que cuido mucho, porque aparte de no ser muy entendido en l"
+  },
+  {
+    "blog": "Galerías Preciados",
+    "titulo": "Empezar de cero como si nada",
+    "link": "https://galeriaspreciados.band/empezar-de-cero-como-si-nada/",
+    "fecha": "08/01/2026",
+    "contenido": "El otro día sacamos estas moviditas a la luz. Pero no lo hice solo, lo hice con amigos que me ayudaron a que saliese de la leche y eso es lo que más mola: así son las putas cosas que decía el padre de Ricky"
+  },
+  {
+    "blog": "NeoSite Blog",
+    "titulo": "NeoCMS - Sistema de comentarios, estadísticas mejoradas y notificaciones via Telegram",
+    "link": "http://blog.neosite.com.ar/post/neocms-sistema-de-comentarios-estad-sticas-mejoradas-y-notificaciones-via-telegram",
+    "fecha": "08/01/2026",
+    "contenido": ""
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -28,11 +49,39 @@
     "contenido": "Últimamente ando algo obsesionado con encontrar teléfonos que se salgan de lo común. Hace unos días comentaba la baja disponibilidad de móviles con teclados QWERTY. Precisamente en el día de ayer la compañía Clicks, aquella que hace tiempo atrás creó una rídicula funda con teclado para iPhone anunci"
   },
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "515. Prosa excretora",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/01/515-prosa-excretora.html",
+    "fecha": "08/01/2026",
+    "contenido": "&nbsp; &nbsp; Muchas de las personas que tienen un blog enumeran en él el número de países a los que han viajado, los libros que han leído, las películas que han visionado y los trabajos musicales —y pódcast— que han escuchado de un año para otro. Por poco que me interesen esa clase de escritos, vay"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Reiniciando",
     "link": "https://www.xn--jmuoz-qta.es/2026/01/reiniciando.html",
     "fecha": "08/01/2026",
     "contenido": "Hoy comienza enero de verdad para mí porque vuelvo al trabajo y tengo sentimientos encontrados. Por un lado, vuelve a invadirme un poco de esa tristeza que tengo desde que comenzara septiembre por ocupar un destino muy alejado de casa que me hace comerme cada día algo más de una hora de coche en cad"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Fanta Mixtapes – 003 – Palomitas en un centro de datos",
+    "link": "https://56k.es/fanta/fanta-mixtapes-003-palomitas-en-un-centro-de-datos/",
+    "fecha": "08/01/2026",
+    "contenido": "Esta mixtape la he titulado «Palomitas en un centro de datos». Como las anteriores la idea es que duren unos 10 minutos más o menos. Se puede escuchar aquí: &#160; Las canciones que salen son todas versiones de «Popcorn» compuesta en 1969 por Gershon Kingsley. Enjoy !"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Fanta Mixtapes – 002 – Música pixelada para follar en días de invierno en los que llueve y andas en casa sin luz",
+    "link": "https://56k.es/fanta/fanta-mixtapes-002-musica-pixelada-para-follar-en-dias-de-invierno-en-los-que-llueve-y-andas-en-casa-sin-luz/",
+    "fecha": "08/01/2026",
+    "contenido": "Aquí anda la segunda Mixtape llamada «Música pixelada para follar en días de invierno en los que llueve y andas en casa sin luz». Esta vez con música más mainstream pero «pixelada». «10 minutos tendrían que ser suficientes» &#8211; Bill Gates &#160; Los temas que es escuchan son: &#8211; Dákiti &#82"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Fanta Mixtapes – 001 – Trump VS Miguel Maldonado",
+    "link": "https://56k.es/fanta/fanta-mixtapes-001-donald-trump-y-miguel-maldonado/",
+    "fecha": "08/01/2026",
+    "contenido": "Pues aquí anda una de las primeras mixtapes de este año. Mi idea es hacer pequeñas mixtapes de unos 10 minutos y hacer como 2 horas a lo largo del año. Puede por tanto usted disfrutar la primera ya, aquí, pinchando en el siguiente vídeo: Los temas que suenan son: &#8211; Secret Knock &#8211; Aesop.."
   },
   {
     "blog": "Victorhck in the free world",
@@ -357,13 +406,6 @@
     "contenido": "Hemos llegado a enero del 2026 con un total de 45 entradas publicadas en el año 2025, marcando un nuevo record para el blog, contra las 23 del año 2024. ¡Un montón!"
   },
   {
-    "blog": "NeoSite Blog",
-    "titulo": "Gracias a la IA me armé mi propio CMS",
-    "link": "http://blog.neosite.com.ar/post/gracias-a-la-ia-me-arm-mi-propio-cms",
-    "fecha": "02/01/2026",
-    "contenido": ""
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Veterinario, limpieza y nueva fase",
     "link": "https://blog.danielaragay.net/veterinario-limpieza-y-nueva-fase/",
@@ -397,68 +439,5 @@
     "link": "https://www.ericafustero.com/2026-01-2025-en-una-cascara-de-nuez",
     "fecha": "02/01/2026",
     "contenido": "Si tuviese que resumir 2025 diría que ha sido un año de contrastes. Mucho trabajo, pocos ingresos, muchas alegrías creativas, poca fe en mi misma, nuevas amistades y, a la vez, sensación de aislamiento y soledad. Al hablar de nosotras mismas a veces parece que las cosas solo puedan irnos bien o mal,"
-  },
-  {
-    "blog": "La cosa infinita",
-    "titulo": "La eternidad de un día",
-    "link": "https://docig.mataroa.blog/blog/la-eternidad-de-un-dia/",
-    "fecha": "02/01/2026",
-    "contenido": "El reloj marcó las 00:00 y el mundo exhaló un suspiro de estática.\nElías se despertó con el mismo rayo de sol hiriéndole el ojo izquierdo. Sabía que, a las 8:15, se le caería la tostada; a las 10:30, el jefe volvería a despedirlo con la misma corbata de rayas; y a las 19:00, vería a Clara cruzar la "
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "Empieza el año con contabilidad",
-    "link": "https://alex.corcoles.net//2026/01/empieza-el-año-con-contabilidad/",
-    "fecha": "02/01/2026",
-    "contenido": "\n  Antes de que empezara el 2025 me propuse llevar una contabilidad. Tengo varias cuentas bancarias y dadas mis limitaciones, hasta me costaba saber si estaba ahorrando o no. Por no hablar de que mi percepci&#243;n sobre d&#243;nde gasto dinero era m&#225;s bien borrosa.\n  Como soy como soy, me deci"
-  },
-  {
-    "blog": "Moribundo Insurgente",
-    "titulo": "Alertan de Smart TV que toman capturas cada segundo de lo que estás viendo",
-    "link": "https://moribundoinsurgente.noblogs.org/post/2026/01/01/alertan-de-smart-tv-que-toman-capturas-cada-segundo-de-lo-que-estas-viendo/",
-    "fecha": "01/01/2026",
-    "contenido": "El fiscal general de Texas, Ken Paxton, ha presentado una demanda contra cinco grandes fabricantes de televisores por el presunto uso de tecnologías de Reconocimiento Automático de Contenidos (ACR, por sus siglas en inglés) para capturar pantallas de lo que &#8230; Sigue leyendo &#8594;"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Terminó el simulacro",
-    "link": "https://jinversor.co/2026/01/termino-el-simulacro/",
-    "fecha": "01/01/2026",
-    "contenido": "Por fin terminó el simulacro. Ya pueden dejar de fingir que son seres de luz y volver a ser los mismos mezquinos infumables que siempre han sido y que seguirán [&#8230;]\nLa entrada Terminó el simulacro se publicó primero en Jinversor."
-  },
-  {
-    "blog": "note – matizeta",
-    "titulo": "¡Bienvenido 2026!",
-    "link": "https://matizeta.com/2026/01/01/bienvenido-2026/",
-    "fecha": "01/01/2026",
-    "contenido": "Escribo estas breves líneas en mi móvil desde Puerto Iguazú, el lugar que elegí para pasar año nuevo y visitar las Cataratas de Iguazú.&#160; Estuve anteriormente hace ya más de una década, sin embargo a diferencia de la vez pasada me estoy alojando de lado Argentino, lo que me sirvió a conocer esta"
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "Sutil",
-    "link": "http://locutusbit.blogspot.com/2026/01/sutil.html",
-    "fecha": "01/01/2026",
-    "contenido": "&nbsp;Esa invisible fronteraque hay en la línea infinita.Ese algo,&nbsp;intangible,que está alejado y tan cerca.Esa nota que vibra,ciega,por los caminos sin puertas.Pascual Herrera"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Fe de erratas y mandos intermedios vs. IA",
-    "link": "https://blog.danielaragay.net/fe-de-erratas-y-mandos-intermedios-vs-ia/",
-    "fecha": "01/01/2026",
-    "contenido": "Primer cap&#xed;tulo del a&#xf1;o y recupero mi grabaci&#xf3;n en movilidad gracias a que encontr&#xe9; por fin el micr&#xf3;fono y receptor inal&#xe1;mbrico que andaba perdido en estas semanas de mudanza.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7;"
-  },
-  {
-    "blog": "Diana                                                       Laurencich",
-    "titulo": "Uno de enero ¿Año nuevo?",
-    "link": "https://dianalaurencich.wordpress.com/2026/01/02/uno-de-enero-ano-nuevo/",
-    "fecha": "01/01/2026",
-    "contenido": "Siempre me intrigó el primero de enero, o como dicen los españoles, el uno de enero. Además, cuando era chica, el año nuevo venía en combo, primero la Navidad, que arrancaba el 8 de diciembre cuando hacíamos el arbolito con mi tía, ya que mi familia era católica, el 24 y los regalos y un [&#8230;]"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Érase unos propósitos de año nuevo",
-    "link": "https://www.xn--jmuoz-qta.es/2026/01/erase-unos-propositos-de-ano-nuevo.html",
-    "fecha": "01/01/2026",
-    "contenido": "&nbsp;2026 ya ha llegado y es el momento de que pensemos en esas cosas que queremos mejorar de nuestra vida para intentar, como propósito de año nuevo, ponerlas en marcha:Comer menos. Como muchísimo, normalmente más de lo que me correspondería, pero no tengo fin. No estoy gordo. Recuerdo a una compa"
   }
 ]
