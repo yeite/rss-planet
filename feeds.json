@@ -7,6 +7,13 @@
     "contenido": "En un artículo anterior vimos como instalar KVM/Qemu con su front-end Virt-manager , vamos a empezar a explotarlo.Cuando empezamos a conocer una herramienta nueva, lo más lógico para avanzar sin frustrarnos es empezar por el caso más fácil, ¿Qué tal si instalamos&nbsp;FreeDOS?&nbsp;FreeDOS en un sis"
   },
   {
+    "blog": "Ubuntu Peronista",
+    "titulo": "¿Cómo emulo el Roland SC-55 y el JP8000 en Ubuntu?",
+    "link": "https://ubuntuperonista.blogspot.com/2026/01/como-instalar-emulador-roland-sc55-roland-jp8000-en-ubuntu.html",
+    "fecha": "09/01/2026",
+    "contenido": "Reunido con representantes de la Juventud Peronista en Puerta de Hierro, Juan Perón se pone al tanto de los eventos en la Argentina, a la vez que enseña cómo instalar emuladores de clásicos sintetizadores Roland SC-55 y JP8000 en Ubuntu.Trabajadores:&nbsp;(...)&nbsp;Analizando el proceso que me desc"
+  },
+  {
     "blog": "Blep",
     "titulo": "La depresión, mi motor vital",
     "link": "https://blep.org/La-depresion-mi-motor-creativo",
@@ -14,11 +21,32 @@
     "contenido": "No es ninguna novedad que soy depresivo. Mi estado de ánimo natural tiende a oscilar entre el \"sobreviviendo\" y el \"nada importa, muramos ya\", con sólo picos muy ocasionales de \"bien\". La medicación que tomo desde hace unos años me ayuda a evitar el \"nada importa\", con lo cual estoy mucho mejor, con"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 2 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/01/09/opensuse-tumbleweed-revision-de-la-semana-2-de-2026/",
+    "fecha": "09/01/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
     "blog": "plr blog",
     "titulo": "Nuevo preprint: la omisión del gasto en licencias de uso y servicios contratados en debates sobre alternativas basadas en software libre y herramientas abiertas",
     "link": "https://pedrolr.es/blog/nuevo-preprint-la-omision-del-gasto-en-licencias-de-uso-y-servicios-contratados-en-debates-sobre-alternativas-basadas-en-software-libre-y-herramientas-abiertas/",
     "fecha": "09/01/2026",
     "contenido": "He publicado un nuevo trabajo esta vez como preprint: https://doi.org/10.5281/zenodo.18169478 Lleva el título del post y suger por la percepción personal de que en los debates y trabajos sobre software libre y herramientas abiertas como alternativas a los productos y licencias de uso que se tienen c"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Mis Aplicaciones predeterminadas este 2025",
+    "link": "https://interlan.ec/blog/2026/01/09/mis-aplicaciones-predeterminadas-este-2025/",
+    "fecha": "09/01/2026",
+    "contenido": "Algunas cosas han cambiado desde la publicación del año pasado y otras se han mantenido. Aquí esta mi nueva lista de aplicaciones predeterminadas este 2025"
+  },
+  {
+    "blog": "NeoSite Blog",
+    "titulo": "Lo que más te gustaba de internet... ya no existe",
+    "link": "http://blog.neosite.com.ar/post/lo-que-m-s-te-gustaba-de-internet-ya-no-existe",
+    "fecha": "09/01/2026",
+    "contenido": ""
   },
   {
     "blog": "Cajón desastre",
@@ -29,10 +57,31 @@
   },
   {
     "blog": "Mi blog on Manu Mateos",
+    "titulo": "¿Qué uso?",
+    "link": "https://www.macram.es/uses/",
+    "fecha": "09/01/2026",
+    "contenido": "Actualizada el 9 de enero de 2026.\nInspirado por la iniciativa /uses, comparto aquí algunas de las herramientas que utilizo ahora mismo.\nViéndolas redactadas utilizo pocas cosas que se salgan de lo común, pero estoy contento con cómo utilizo mis herramientas ahora mismo.\n\n\nAplicaciones\n\n\n\n\n\n\n\n\nVida "
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Ahora",
+    "link": "https://www.macram.es/now/",
+    "fecha": "09/01/2026",
+    "contenido": "Última actualización: 9 de enero de 2026.\nEstoy desarrollando apps para iOS y tvOS para distintos clientes. Es lo que llevo haciendo mucho casi desde que empecé a trabajar y no tengo intención de parar pronto.\nSigo formando parte de una asociación de música tradicional, investigando, preparando e in"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
     "titulo": "#178 ha cerrado Genbeta",
     "link": "https://www.macram.es/posts/2026/01/genbeta-cierra/",
     "fecha": "09/01/2026",
     "contenido": "Leí ayer que Genbeta ha cesado su actividad. Publicaron un artículo hace unos días que creo que no mucha gente entendió como una despedida, a pesar de la última frase. A mí me da mucha pena; Genbeta es de los primeros blogs que empecé a seguir cuando empecé a moverme por Internet, y tuve la oportuni"
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Adiós Genbeta",
+    "link": "https://matizeta.com/2026/01/09/adios-genbeta/",
+    "fecha": "09/01/2026",
+    "contenido": "Me entero por el blog de Manu Mateos que cerró Genbeta. Claro, paso desapercibido si uno entraba al portal y su ultima nota decía «Así ha cambiado Internet en los 20 años transcurridos desde el lanzamiento de Genbeta» , muchos no se dieron cuenta que cerraba incluido yo, no hasta leer el blog de Man"
   },
   {
     "blog": "pov – matizeta",
@@ -40,6 +89,13 @@
     "link": "https://matizeta.com/2026/01/09/extension-de-navegador-para-reducir-la-fatiga-visual/",
     "fecha": "09/01/2026",
     "contenido": "En la PC suelo utilizar la interfaz de mi navegador web en modo Dark Mode, sin embargo las webs con fondo blanco (y eso tiene todo el sentido), siguen blancas. Cuando leo textos largos en el navegador suelo utilizar el modo lectura que me permite eliminar todas las distracciones y definir el color d"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Record Club YIR 2025",
+    "link": "https://www.ericafustero.com/2026-01-record-club-yir-2025",
+    "fecha": "09/01/2026",
+    "contenido": "Este año volví a colaborar con Record Club para crear su retrospectiva anual dibujando algunos de los discos más destacados de 2025. Detrás de la plataforma está Mattias Hinderson, un desarrollador independiente que durante los dos últimos años ha hecho crecer esta comunidad llena de personas apasio"
   },
   {
     "blog": "56K",
@@ -138,6 +194,13 @@
     "link": "https://sidiostedalimones.com/blog/2026/nownownow/",
     "fecha": "07/01/2026",
     "contenido": ""
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Twin Mirror: hechos o personas",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/01/07/20260107-twin-mirror/",
+    "fecha": "07/01/2026",
+    "contenido": "¿Dónde está el límite entre lo moralmente correcto y las necesidades de tu comunidad?"
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
@@ -383,47 +446,5 @@
     "link": "http://frikoteca.blogspot.com/2026/01/nuevos-saldos-roleros.html",
     "fecha": "03/01/2026",
     "contenido": "El 30 de diciembre del ya lejano 2025, la editorial Nosolorol anunció que saldaba la línea de Mutant Year Zero, un juego de rol post-apocalíptico formado por varios manuales grandes como Genlab Alpha, Mechatron o el propio Mutant Year Zero, y algunos pequeños suplementos en grapa. No es el primer sa"
-  },
-  {
-    "blog": "Ubuntu Peronista",
-    "titulo": "¿Cómo instalo el clon de FastTracker II en Ubuntu?",
-    "link": "https://ubuntuperonista.blogspot.com/2026/01/como instalo fasttracker II en Ubuntu.html",
-    "fecha": "02/01/2026",
-    "contenido": "En su tradicional mensaje a los trabajadores por el nuevo Año, Juan Perón anuncia&nbsp;cómo instalar y usar el clon FastTracker II en Ubuntu.&nbsp;¡Trabajadores!Todo final de año nos representa un logro para la reflexión y la imposición de nuevas tareas. Las buenaventuras que todos merecen arribarán"
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Revisión del año 2025 en el blog Interlan",
-    "link": "https://interlan.ec/blog/2026/01/02/revision-del-ano-2025-en-el-blog-interlan/",
-    "fecha": "02/01/2026",
-    "contenido": "Hemos llegado a enero del 2026 con un total de 45 entradas publicadas en el año 2025, marcando un nuevo record para el blog, contra las 23 del año 2024. ¡Un montón!"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Veterinario, limpieza y nueva fase",
-    "link": "https://blog.danielaragay.net/veterinario-limpieza-y-nueva-fase/",
-    "fecha": "02/01/2026",
-    "contenido": "He llevado a Rico el veterinario, empezando as&#xed; la operaci&#xf3;n &#x201c;colmillo salvaje&#x201d; y te cuento como ha ido la limpieza y lo que tambi&#xe9;n empieza otra operaci&#xf3;n, la operaci&#xf3;n &#x201c;apartamento en alquiler&#x201d;Blog danielaragay.net Todos los"
-  },
-  {
-    "blog": "Diana                                                       Laurencich",
-    "titulo": "ESCAPE",
-    "link": "https://dianalaurencich.wordpress.com/2026/01/02/escape/",
-    "fecha": "02/01/2026",
-    "contenido": "Juego ininterrumpidamente al laberinto de flechas. Solo un par de niveles, me digo, y juego 20, 30 o más. Hace calor, mucho. Las aspas del ventilador me llevan a Vietnam y la película de Coppola. Marlon Brando en el infierno. Quizá el juego del laberinto sea para ordenar mi cabeza. Los pensamientos "
-  },
-  {
-    "blog": "xol.ar",
-    "titulo": "firma",
-    "link": "https://xol.ar/blog/firma/",
-    "fecha": "02/01/2026",
-    "contenido": "Actualizo la firma de mis emails a algo mucho más acorde a los tiempos que corren."
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "2025 en una cáscara de nuez",
-    "link": "https://www.ericafustero.com/2026-01-2025-en-una-cascara-de-nuez",
-    "fecha": "02/01/2026",
-    "contenido": "Si tuviese que resumir 2025 diría que ha sido un año de contrastes. Mucho trabajo, pocos ingresos, muchas alegrías creativas, poca fe en mi misma, nuevas amistades y, a la vez, sensación de aislamiento y soledad. Al hablar de nosotras mismas a veces parece que las cosas solo puedan irnos bien o mal,"
   }
 ]
