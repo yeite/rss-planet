@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Tecno y Soft",
+    "titulo": "El kernel de Manjaro, optimizado donde importa",
+    "link": "https://tecnoysoft.com/2026/01/10/el-kernel-de-manjaro-optimizado-donde-importa/",
+    "fecha": "10/01/2026",
+    "contenido": "Manjaro no sabe venderse Hace nada encontré en el foro oficial de Manjaro lo siguiente: «Manjaro tiene sus propios kernels, que son manejados por mhwd, e incorporan en gran medida muchos de los parches liqorix y zen cuando son ampliamente aplicables.» A partir de esa información, creí conveniente pu"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "En esta era de tecnofeudalismo cada escritor de tecnología (especialmente si escribe sobre resistencia a big tech) debería explicar su \"tech stack\"",
+    "link": "https://www.macram.es/posts/2026/01/era-de-tecnofeudalismo/",
+    "fecha": "10/01/2026",
+    "contenido": "Elena Rossini habla en este post de su blog de por qué evita tecnología de big tech, de cuáles son sus opciones y de su motivación para hacerlo."
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Librojuegos: Caballero de ilusión, La Garra del dragón y Visiones de destrucción",
+    "link": "http://frikoteca.blogspot.com/2026/01/librojuegos-caballero-de-ilusion-la.html",
+    "fecha": "10/01/2026",
+    "contenido": "Tres reseñas más de librojuegos clásicos de los 80 de la colección Dungeons & Dragons aventura sin fin. Tenéis las anteriores aquí: los tres primeros libros, las reseñas de los libros 4, 5 y 6, las reseñas de los libros 7, 8 y 9, las reseñas de los libros 10, 11 y 12, las reseñas de los libros 13, 1"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "Moderación",
+    "link": "https://alex.corcoles.net//2026/01/moderacion/",
+    "fecha": "10/01/2026",
+    "contenido": "\n  Las listas de correo moderadas son un invento antiguo y simple: todo mensaje va a un administrador que debe aprobarlo antes de aparecer p&#250;blicamente en la lista.\n  Estoy ojeando la documentaci&#243;n de Mastodon (no nos enga&#241;emos, el Fediverso es Mastodon) y no veo claramente una opci&#"
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Virtualizar FreeDOS con KVM/Qemu + Virt-manager (imagen convertida desde VirtualBox)",
     "link": "https://malagaoriginal.blogspot.com/2026/01/virtualizar-freedos-con-kvmqemu-virt.html",
@@ -432,19 +460,5 @@
     "link": "https://www.macram.es/posts/2026/01/nueva-fuente/",
     "fecha": "03/01/2026",
     "contenido": "He cambiado la tipografía del blog. Paso del set de Monospace Code de Modern Font Stacks a Archivo, que la he descubierto y me gusta. Si no lo véis todavía en vuestro ordenador, pulsad Ctrl+F5 o lo equivalente para recargar limpiando la caché. No descarto hacer algunos ajustes en kerning y demás, pe"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Universal Greeting Time",
-    "link": "https://www.macram.es/posts/2026/01/universal-greeting-time/",
-    "fecha": "03/01/2026",
-    "contenido": "Últimamente paso bastante tiempo pululando por salas de chat donde hay gente dispersa por todo el mundo (sí, he vuelto a IRC). Y es verdad que es muy cansado saludar a lo Kafelog (&ldquo;buenos días, buenas tardes, buenas noches y buenas madrugadas&rdquo;). Hace poco descubrí la existencia del Unive"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Nuevos saldos roleros",
-    "link": "http://frikoteca.blogspot.com/2026/01/nuevos-saldos-roleros.html",
-    "fecha": "03/01/2026",
-    "contenido": "El 30 de diciembre del ya lejano 2025, la editorial Nosolorol anunció que saldaba la línea de Mutant Year Zero, un juego de rol post-apocalíptico formado por varios manuales grandes como Genlab Alpha, Mechatron o el propio Mutant Year Zero, y algunos pequeños suplementos en grapa. No es el primer sa"
   }
 ]
