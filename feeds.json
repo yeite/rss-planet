@@ -1,5 +1,26 @@
 [
   {
+    "blog": "Alexis Alzate",
+    "titulo": "Mi proceso de escritura",
+    "link": "https://alexisalzate.com/blog/2026-01-10/",
+    "fecha": "10/01/2026",
+    "contenido": "Escribir es una actividad que disfruto más allá de lo que se puede leer\nen este blog. Para ello, utilizo una pluma estilográfica Parker IM con\npunta F, entintada con Quink de color negro de la misma marca. Además,\nun portaminas Pentel Graphgear 500 con mina de 0,7mm 2B de Faber\nCastell. Suelo plasma"
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Probando multisites con WordPress para hacer un blog/magazine en dos asignaturas",
+    "link": "https://pedrolr.es/blog/probando-multisites-con-wordpress-para-hacer-un-blog-magazine-en-dos-asignaturas/",
+    "fecha": "10/01/2026",
+    "contenido": "Cada curso intento hacer cosas diferentes con la docencia. No sé si cada curso lo consigo, pero lo intento. Sobre todo trato de innovar si la gente de clase ya me ha tenido antes. Para el segundo cuatrimestre imparto dos asignaturas: Calidad y evaluación de los servicios en documentación (de Grado) "
+  },
+  {
+    "blog": "Escritos en la nube",
+    "titulo": "Un año en Linux",
+    "link": "https://nube.codeberg.page/blog/linux/",
+    "fecha": "10/01/2026",
+    "contenido": "\nLa descripción de este post es un poco engañosa &hellip; en realidad aún no llevo un año en Linux, pero falta muy poco, 2025 fue mi primer año usando Linux y ya ha terminado.\nEs gracioso que al segundo o tercer mes haya escrito algo llamado: &ldquo;Linux NO es difícil&rdquo;, lo siento un poco pret"
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "El kernel de Manjaro, optimizado donde importa",
     "link": "https://tecnoysoft.com/2026/01/10/el-kernel-de-manjaro-optimizado-donde-importa/",
@@ -340,7 +361,7 @@
     "titulo": "514. Guerrillas",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/01/514-guerillas.html",
     "fecha": "05/01/2026",
-    "contenido": "&nbsp; &nbsp; Kariem es un jovencito de doce años recién cumplidos que vive en Sudán. Hoy, día 6 de enero del 2026, ha ejecutado a tres corresponsales de guerra con un AK-47. Un arma que, colgada de su cuello con el portafusil ajustado a su mínima longitud, le llega casi hasta las rodillas.&nbsp;&nb"
+    "contenido": "&nbsp; &nbsp; Kariem es un jovencito de doce años recién cumplidos que vive en Sudán. Hoy, día 6 de enero del 2026, ha ejecutado a tres corresponsales de guerra con un AK-47. Un arma que colgada de su cuello con el portafusil ajustado a su mínima longitud, le llega casi hasta las rodillas.&nbsp;&nbs"
   },
   {
     "blog": "danielaragay.net",
@@ -425,40 +446,5 @@
     "link": "https://56k.es/fanta/la-serie-ecoquest-juegos-de-etica-ambiental-en-2025/",
     "fecha": "04/01/2026",
     "contenido": "El juego EcoQuest «La Búsqueda de Cetus» (1991) fue escrito por Jane Jensen, conocida en el mundo de las aventuras gráficas por títulos como Gabriel Knight 1,2 y 3, Gray Matter y Police Quest III. Esta diseñado para ser jugable por cualquier persona pero también niños y aunque es un juego de Sierra "
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 1 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/01/03/opensuse-tumbleweed-revision-de-la-semana-1-de-2026/",
-    "fecha": "03/01/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Signal es genial ¿Pero tienes un plan B?",
-    "link": "https://gatooscuro.xyz/signal-es-genial-pero-tienes-un-plan-b/",
-    "fecha": "03/01/2026",
-    "contenido": "Hay una fantasía muy cómoda que hemos repetido durante años: que la seguridad es una aplicación, que basta con instalarla, activarla y dormir tranquilos. Como si el mundo fuera estable.\nSeguir leyendo  Signal es genial ¿Pero tienes un plan B?\nEl cargo Signal es genial ¿Pero tienes un plan B? apareci"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Como evitar que la wifi se desconecte al cerrar la tapa del portátil",
-    "link": "https://tecnoysoft.com/2026/01/03/como-evitar-que-la-wifi-se-desconecte-al-cerrar-la-tapa-del-portatil/",
-    "fecha": "03/01/2026",
-    "contenido": "Problema En Manjaro con KDE Plasma, aunque se configure la opción “No hacer nada al cerrar la tapa”, la conexión Wi-Fi puede desconectarse si la tapa permanece cerrada durante un tiempo prolongado. Causa El cierre de la tapa no lo controla únicamente KDE Plasma. También intervienen systemd-logind, N"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#177: nueva plantilla para LibreOffice",
-    "link": "https://www.macram.es/posts/2026/01/nueva-plantilla-para-libreoffice/",
-    "fecha": "03/01/2026",
-    "contenido": "Ya que cambiaba la fuente por una que me gustaba más, aproveché y actualicé también mi plantilla para documentos de texto. Creo que algo que podrían hacer algunos voluntarios de LibreOffice (o incluso yo si tuviera tiempo) es elaborar plantillas más actuales, o algún sistema de temas, para los docum"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#176: ¿mejor esta fuente o la anterior?",
-    "link": "https://www.macram.es/posts/2026/01/nueva-fuente/",
-    "fecha": "03/01/2026",
-    "contenido": "He cambiado la tipografía del blog. Paso del set de Monospace Code de Modern Font Stacks a Archivo, que la he descubierto y me gusta. Si no lo véis todavía en vuestro ordenador, pulsad Ctrl+F5 o lo equivalente para recargar limpiando la caché. No descarto hacer algunos ajustes en kerning y demás, pe"
   }
 ]
