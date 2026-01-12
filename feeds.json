@@ -1,5 +1,40 @@
 [
   {
+    "blog": "THE_CHEI$",
+    "titulo": "Greatest Hits II (1991), de Queen",
+    "link": "https://thecheis.com/2026/01/12/greatest-hits-ii-1991-de-queen/",
+    "fecha": "12/01/2026",
+    "contenido": "«Oh yes, we&#8217;ll keep on tryin&#8217; / We&#8217;ll tread that fine line» Hay recopilatorios que son auténticas joyas, de hecho ya reseñé algunos que me encantan y los tengo como álbumes top de mi colección. Discos que son un auténtico no parar de temazos y me emocionan cada vez que suenan, cuya"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Configurar un temporizador y mucho más en Plasma de #KDE",
+    "link": "https://victorhckinthefreeworld.com/2026/01/12/configurar-un-temporizador-y-mucho-mas-en-plasma-de-kde/",
+    "fecha": "12/01/2026",
+    "contenido": "¿Necesitas configurar un temporizador para recordarte una tarea? ¿Necesitas una alarma diaria? ¿Necesitas saber la hora local y de otras localizaciones? Con Plasma de KDE estás cubierto"
+  },
+  {
+    "blog": "Un bruto con Debian",
+    "titulo": "FreeTube. YouTube sin rastreos ni publicidad.",
+    "link": "http://unbrutocondebian.blogspot.com/2026/01/freetube-youtube-sin-rastreos-ni.html",
+    "fecha": "12/01/2026",
+    "contenido": "En internet, si algo es gratis, es que lo estás pagando con tu alma. Así que cuando ves un video gratis en YouTube, lo estás pagando viendo publicidad, cada vez más invasiva y dándole información de tus gustos, preferencias, filias y fobias al mayor vendedor de publicidad del mundo, Google.Si quiere"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Cómo desplegar una red Zigbee estable en Home Assistant",
+    "link": "https://alt43.es/como-desplegar-una-buena-red-zigbee-en-home-assistant/",
+    "fecha": "12/01/2026",
+    "contenido": "Tras llevar varios años trasteando con algunos dispositivos domóticos, finalmente me decidí a incorporar algunas automatizaciones mediante diferentes&#46;&#46;&#46;"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "La calle",
+    "link": "https://impermanente.es/2026/01/12/la-calle.html",
+    "fecha": "12/01/2026",
+    "contenido": ""
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Un artesano de internet frente al prompt de la IA",
     "link": "https://victorhckinthefreeworld.com/2026/01/11/un-artesano-de-internet-frente-al-prompt-de-la-ia/",
@@ -378,13 +413,6 @@
     "contenido": "Ayer publicaba un video cortito porque estaba flipando con lo bonito que se veía a las nubes descargar con fuerza sobre el mar. Hoy la borrasca Francis ha hecho que vuelva a ocurrir pero, además, un arcoiris se ha unido al espectáculo. No tenía la cámara a mano e imaginaba que solo duraría unos inst"
   },
   {
-    "blog": "Webnauta",
-    "titulo": "El techo como umbral",
-    "link": "https://webnauta.blog/el-techo-como-umbral",
-    "fecha": "05/01/2026",
-    "contenido": "Hoy es una de esas noches de insomnio. He decidido escribir y leer en lugar de tomar pastillas para dormir; odio tomar pastillas. Escribir me ayuda a relajar el cuerpo; leer en papel, a conciliar el sueño.Antes de comenzar esta historia, estaba recostado en la cama, observando el techo de mi habitac"
-  },
-  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "El observador: cuando mirar deja cicatrices en el universo",
     "link": "https://gatooscuro.xyz/el-observador-cuando-mirar-deja-cicatrices-en-el-universo/",
@@ -392,25 +420,11 @@
     "contenido": "Durante años nos vendieron una historia cómoda: el universo existe, nosotros lo miramos, tomamos nota y seguimos adelante. La realidad como un animal disecado en un museo, inmóvil, esperando a\nSeguir leyendo  El observador: cuando mirar deja cicatrices en el universo\nEl cargo El observador: cuando m"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Mestalla Forever Tour",
-    "link": "https://mareosdeungeek.es/mestalla-forever-tour/",
-    "fecha": "05/01/2026",
-    "contenido": "Durante mi última visita a Valencia he visitado el Camp de Mestalla haciendo el Mestalla Forever Tour. Se trata de una visita guiada por las entrañas del vetusto estadio valencianista. El Mestalla Forever Tour comienza con una introducción histórica del Camp de Mestalla. Por poner un poco de context"
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "Ojalá vuelva el iPod (pero no va a pasar)",
     "link": "https://www.macram.es/posts/2026/01/ojala-vuelva-el-ipod-pero-no-va-a-pasar/",
     "fecha": "05/01/2026",
     "contenido": "Hay muchas personas que claman por la vuelta del iPod. Uno de los productos más vendidos de Apple, en su momento capaz de sacarla de la irrelevancia y que fue descontinuado totalmente en 2022 (y espiritualmente en julio de 2017, cuando dejaron de venderse los iPod Nano de séptima generación junto co"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Sitios donde ver TV y películas gratis",
-    "link": "https://www.macram.es/shoebox/peliculas-gratis/",
-    "fecha": "05/01/2026",
-    "contenido": "\nTen en cuenta que estos son sitios y aplicaciones que aplican a España. Si vives en otro país tendrás otra oferta distinta.\n\n\nRTVE Play\nPluto TV\neFilm (necesitas un carnet de una biblioteca; el enlace es para la versión extremeña, localiza la de tu comunidad autónoma o accede desde eBiblio)\nArte.tv"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -425,20 +439,6 @@
     "link": "https://blog.danielaragay.net/amueblando-el-antiguo-piso-mientras-cae-una-buena-nevada/",
     "fecha": "05/01/2026",
     "contenido": "Mientras paseamos a Rico bajo una intensa nevada te cuento el d&#xed;a de hoy que ha consistido en buscar muebles para el viejo apartamento.Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace a"
-  },
-  {
-    "blog": "xol.ar",
-    "titulo": "ideas que me constituyen (en progreso)",
-    "link": "https://xol.ar/ideas-que-me-constituyen/",
-    "fecha": "05/01/2026",
-    "contenido": "Iré listando aquí las ideas que me rigen. Pueden cambiar, puedo arrepentirme."
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "Bootleg de la Realidad",
-    "link": "https://docig.bearblog.dev/bootleg-de-la-realidad/",
-    "fecha": "05/01/2026",
-    "contenido": "El sistema se bootstrapeó en la nada, sin usuario, sin hardware hostil. ¿Era un sueño recursivo? Las interfaces parpadeaban como recuerdos falsos: ¿yo lo ejecuto o me ejecuta el vacío? Un proceso huérfano susurró: \"Eres el original, no la copia\". Pero los logs mentían; timestamps de mundos alternos "
   },
   {
     "blog": "El cuaderno de J. Muñoz",
