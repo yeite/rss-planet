@@ -75,7 +75,7 @@
   {
     "Nombre": "Diegologs",
     "Url": "https://diegologs.com",
-    "Feed": "hhttps://diegologs.com/rss/articulos.xml",
+    "Feed": "https://diegologs.com/rss/articulos.xml",
     "Descripción": "El blog de Diego. Hablo sobre mi vida y de lo que me gusta: videojuegos, informática, música, blogs. etc",
     "Categoría": "Arte y Diseño, Entretenimiento y Cultura, Tecnología, Vida Diaria",
     "País": "España"
@@ -350,7 +350,7 @@
   },
   {
     "Nombre": "Parlem de llibres",
-    "Url": "https://vsantos.envs.net}",
+    "Url": "https://vsantos.envs.net",
     "Feed": "https://vsantos.envs.net/index.xml",
     "Descripción": "Libros que voy leyendo",
     "Categoría": "Literario",
