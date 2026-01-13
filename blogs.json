@@ -17,6 +17,30 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "Fabio.com.ar",
+    "Url": "https://www.fabio.com.ar/",
+    "Feed": "https://www.fabio.com.ar/rss.php",
+    "Descripción": "Tu dosis diaria de tecnología, cultura, historia y humor sin filtros - Sitio web de Fabio Baccaglioni",
+    "Categoría": "Ciencia y Humanidades, Entretenimiento y Cultura, Sociedad y Economía, Tecnología, Viajes",
+    "País": "Argentina",
+  },
+  {
+    "Nombre": "Prosa",
+    "Url": "https://blog.adrianaaraujot.casa/",
+    "Feed": "https://blog.adrianaaraujot.casa/rss/",
+    "Descripción": "Una newsletter más o menos quincenal en la que cavilo sobre lo que he visto, leído, registrado y creado dentro y fuera del internet.",
+    "Categoría": "Literario, Manualidades / Hobbies, Newsletter, Tecnología, Vida Diaria",
+    "País": "Venezuela",
+  },
+  {
+    "Nombre": "Zurdeando por la red",
+    "Url": "https://www.zurdala.es",
+    "Feed": "https://www.zurdala.es/blog/index.xml",
+    "Descripción": "Blog personal sobre naderías y alguna cosa más. Sitio personal.",
+    "Categoría": "Vida Diaria",
+    "País": "España",
+  },
+  {
     "Nombre": "El blog es mío",
     "Url": "https://alex.corcoles.net/",
     "Feed": "https://alex.corcoles.net/feed/",
