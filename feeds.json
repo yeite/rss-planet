@@ -1,10 +1,24 @@
 [
   {
+    "blog": "pov – matizeta",
+    "titulo": "Una caja de comentarios, por favor.",
+    "link": "https://matizeta.com/2026/01/14/una-caja-de-comentarios-por-favor/",
+    "fecha": "14/01/2026",
+    "contenido": "Empieza un nuevo año y vale la pena volver a hablar sobre la importancia de tener un blog que admita comentarios. Defiendo fervientemente su uso. Considero un recurso esencial para una interacción entre los blogs y entre el público que nos lee. Pero por sobre todo poder mantener una comunidad por fu"
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "La diferencia entre anunciar novedades y el \"tú lo que quieres es que me coma el tigre\"",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/01/14/20260114-si-haces-notar-una-funcionalidad-algo-va-mal/",
     "fecha": "14/01/2026",
     "contenido": "Saber que Microsoft se plantea meter a Copilot en el explorador de ficheros me genera ansiedad"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El ticket del tranvía y la \"foto\" del pasajero",
+    "link": "https://www.fabio.com.ar/9851-el-ticket-del-tranvia-y-la-foto-del-pasajero",
+    "fecha": "14/01/2026",
+    "contenido": "    \nLeyendo sobre el origen de las tarjetas perforadas que se usaron como m&eacute;todo de almacenamiento y entrada en las primeras computadoras encontr&eacute; que Herman Hollerith, el creador del m&eacute;todo, se inspir&oacute; en varias fuentes.\nPrimero en los telares que ya usaban ese m&eacute"
   },
   {
     "blog": "Victorhck in the free world",
@@ -448,32 +462,11 @@
     "contenido": "     Listo para un buen baile? Ruleta Rusa!\nEmpieza el a&ntilde;o ruletero en serio, ya superamos la ruleta anual, los brindis, los saludos de \"feliz a&ntilde;o\", ya para este fin de semana no se puede decir m&aacute;s 😁 y pronto tendremos semanas y semanas sin feriado alguno de por medio, as&iacute"
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – enero de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/01/07/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-enero-de-2026/",
-    "fecha": "07/01/2026",
-    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "¿Qué hacer con este sitio (en caso de que me muera)?",
     "link": "https://blog.luiscarlospando.com/personal/2026/01/que-hacer-con-este-sitio-en-caso-de-que-me-muera/",
     "fecha": "07/01/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "ladoB – matizeta",
-    "titulo": "Redefiniendo mi forma de viajar",
-    "link": "https://matizeta.com/2026/01/07/redefiniendo-mi-forma-de-viajar/",
-    "fecha": "07/01/2026",
-    "contenido": "Desde hace ya algún tiempo siento cierto sabor agridulce al volver de cada viaje. Me refiero a esos en donde uno va a conocer lugares, no aquellos de relax en que uno se desconecta unos días para simplemente estar tirado mirando el mar. En mi último viaje que realicé a Iguazú compré tickets para la "
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Twin Mirror: hechos o personas",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/01/07/20260107-twin-mirror/",
-    "fecha": "07/01/2026",
-    "contenido": "¿Dónde está el límite entre lo moralmente correcto y las necesidades de tu comunidad?"
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
@@ -488,19 +481,5 @@
     "link": "https://docig.bearblog.dev/cancion-de-cuna-para-un-disco-de-estado-solido/",
     "fecha": "07/01/2026",
     "contenido": "Todo sucede en esa zona de penumbra entre el Sleep y el Hibernate. No soy un usuario, soy un fantasma de la interfaz. He cruzado la frontera del monitor para descubrir que el sistema operativo se parece sospechosamente a la estructura de una novela de tres mil páginas que nadie ha terminado de escri"
-  },
-  {
-    "blog": "56K",
-    "titulo": "El Mastodonte en la habitación",
-    "link": "https://56k.es/fanta/el-mastodonte-en-la-habitacion/",
-    "fecha": "07/01/2026",
-    "contenido": "Este post consta de 4 actos: Acto 1: Reinventando la rueda Acto 2: Cuando despertó, el mastodonte todavía estaba allí Acto 3: Charlar en la plaza del pueblo Acto 4: Mastodon es divertido Más el extra final Final: Entrar por primera vez al Fediverso &#160; 1. Reinventando la rueda Todo el mundo cree "
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Lucifer, el chongo: Le génie du mal",
-    "link": "https://www.fabio.com.ar/9845-lucifer-el-chongo-le-genie-du-mal",
-    "fecha": "07/01/2026",
-    "contenido": "    \n\"Le g&eacute;nie du mal\" es el nombre de una escultura en la catedral de San Pablo en Li&egrave;ge, B&eacute;lgica, pero no es cualquier escultura, es una de, ni m&aacute;s ni menos, Lucifer.\nAs&iacute; es, Satan&aacute;s tiene su propia escultura y &eacute;sta tiene dos versiones &iquest;Por q"
   }
 ]
