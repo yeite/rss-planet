@@ -1,10 +1,66 @@
 [
   {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "La perfectamente soportable levedad de la Kritik der reinen Vernunft",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/la-perfectamente-soportable-levedad-de-la-kritik-der-reinen-vernunft/",
+    "fecha": "14/01/2026",
+    "contenido": "Mi compañero me hace marcaje como el que me hacían las dependientas de El Corte Inglés cuando tenía 20 años y pinta de ir a su tienda más a robar que a comprar. Vaya, que el señor no se fía de mí, no lo ha hecho en ningún momento, e intenta hacer control de daños periódicamente 1. Intenta ser sutil,"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Este post no es mío",
+    "link": "https://jinversor.co/2026/01/este-post-no-es-mio/",
+    "fecha": "14/01/2026",
+    "contenido": "Así es. Este post no es mío pero me gustó tanto que quiero compartirlo. El post original se llama «Lo sabías antes de poder explicarlo» y lo escribe Kiracoco en [&#8230;]\nLa entrada Este post no es mío se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Mindeka",
+    "titulo": "Mi nuevo gusto en cómics",
+    "link": "https://mindeka.es/2026/01/14/comics-europeos/",
+    "fecha": "14/01/2026",
+    "contenido": "No sé ni cómo titular este post, pero lo que sí sé, es que me hago viejo. Y me doy cuenta porque mis gustos van cambiando sin saber muy bien por qué, por eso al final termino relacionándolos con mi edad. Alguien como yo, peinando canas desde hace más de una década me hace pensar [&#8230;]"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution",
+    "link": "https://www.macram.es/posts/2026/01/bubble-blog/",
+    "fecha": "14/01/2026",
+    "contenido": "Me he comprado el libro &ldquo;Bubble Blog: From Outsider to Insider in Silicon Valley&rsquo;s Web 2.0 Revolution&rdquo;, por Richard MacManus, fundador de ReadWriteWeb y actual escritor de otro de mis blogs preferidos, cybercultural.com. Estoy deseando ponerme a leerlo, pero además acabo de descubr"
+  },
+  {
     "blog": "pov – matizeta",
-    "titulo": "Una caja de comentarios, por favor.",
+    "titulo": "La Guerra de las Instancias en Mastodon es la mierda de siempre",
+    "link": "https://matizeta.com/2026/01/14/la-guerra-de-las-instancias-en-mastodon-es-la-mierda-de-siempre/",
+    "fecha": "14/01/2026",
+    "contenido": "Ultimamente no paso tanto tiempo en Mastodon como antes, y si lo hago es porque desde hace un tiempo “mágicamente” volvieron a funcionar las notificaciones de mi cliente Ice Cube y eso me invita a ingresar. Además allí que conocí personas que me interesa ver lo que publican. Hoy cuando ingresé a pri"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Una caja de comentarios, por favor",
     "link": "https://matizeta.com/2026/01/14/una-caja-de-comentarios-por-favor/",
     "fecha": "14/01/2026",
     "contenido": "Empieza un nuevo año y vale la pena volver a hablar sobre la importancia de tener un blog que admita comentarios. Defiendo fervientemente su uso. Considero un recurso esencial para una interacción entre los blogs y entre el público que nos lee. Pero por sobre todo poder mantener una comunidad por fu"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Cómo transformar tu estudio con paneles acústicos de madera (Guía de instalación)",
+    "link": "https://blog.danielaragay.net/como-transformar-tu-estudio-con-paneles-acusticos-de-madera-guia-de-instalacion/",
+    "fecha": "14/01/2026",
+    "contenido": "Por fin he terminado (o casi) la renovaci&#xf3;n del estudio. Faltan algunos detalles, pero el cambio radical ya est&#xe1; hecho gracias a la instalaci&#xf3;n de paneles ac&#xfa;sticos de madera.No solo le dan una est&#xe9;tica incre&#xed;ble y c&#xe1;"
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "Las IAs como consejeras o ayudantes",
+    "link": "https://blog.elmundoesimperfecto.com/2026/01/14/ia-gobiernos-usos/",
+    "fecha": "14/01/2026",
+    "contenido": "\n\nAlgo que parece que no está claro para todo el mundo es que la IA no sirve para todo (hasta ahora) y mucho menos los LLMs (modelos de lenguaje gigantes), que hacen algunas cosas muy bien y otras no tanto.\n\nEn Why ChatGPT is a uniquely terrible tool for government ministers nos cuentan el caso de P"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "Vibe coding y programación asistida por LLMs",
+    "link": "https://fernand0.github.io//vibe-coding-ia/",
+    "fecha": "14/01/2026",
+    "contenido": "Estoy haciendo algunos experimentos con el denominado vibe coding y me parece bastante interesante: por un lado, se pierde la pereza a realizar determinados cambios que supondrían esfuerzo de mover código, renombrar cosas, … porque la IA lo hace bastante bien; por otro, algunas veces se ‘enganchan’ "
   },
   {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
@@ -12,6 +68,20 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/01/14/20260114-si-haces-notar-una-funcionalidad-algo-va-mal/",
     "fecha": "14/01/2026",
     "contenido": "Saber que Microsoft se plantea meter a Copilot en el explorador de ficheros me genera ansiedad"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Lubitel 166B + Lucky200",
+    "link": "https://www.ericafustero.com/lubitel-166b-lucky200",
+    "fecha": "14/01/2026",
+    "contenido": "En 2025 estrené el año tirando un carrete con la Lubitel 166B de Javier, así que decidí que mi primer carrete de 2026 también sería con esta cámara. ¡Pero con lo que te quejaste de la Lubitel! Lo sé, pero creo que se merecía una segunda oportunidad. Eso y que me apetecía disparar otro Lucky [&#8230;"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Miércoles",
+    "link": "https://www.xn--jmuoz-qta.es/2026/01/miercoles.html",
+    "fecha": "14/01/2026",
+    "contenido": "\n  \n    \n  \nMiércoles, mi día favorito este curso; es el día más liviano, en el que menos carga docente tengo y en el que antes llego a casa. Es curioso cómo cada cierto tiempo nuestros gustos cambian; cómo lo que nos rodea hace que un día sea nuestro favorito de la semana o el más odiado.Miércoles."
   },
   {
     "blog": "Fabio.com.ar",
@@ -130,7 +200,7 @@
     "titulo": "El arte de gastar dinero",
     "link": "https://matizeta.com/2026/01/12/el-arte-de-gastar-dinero/",
     "fecha": "12/01/2026",
-    "contenido": "✍️&#160;Escrito por :&#160;Morgan Housel🗓&#160;Publicado:&#160;15 de octubre de 2025📄&#160;Páginas:&#160;265&#160;🧐&#160;Mi puntaje:&#160;★★★☆☆(tres estrellas) 📚&#160;Link del libro en Amazon Este es primer libro que termino este año (aunque lo empecé el pasado). También es el primer libro que leo c"
+    "contenido": "Este es primer libro que termino este año (aunque lo empecé el pasado). También es el primer libro que leo completamente desde la aplicación Libros de Apple, lo que hizo que fuera cómodo leerlo en los pequeños ratos que tenía libres. Lo encontré por una recomendación del blog de Jinversor al cual ag"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -420,13 +490,6 @@
     "contenido": "El otro día sacamos estas moviditas a la luz. Pero no lo hice solo, lo hice con amigos que me ayudaron a que saliese de la leche y eso es lo que más mola: así son las putas cosas que decía el padre de Ricky"
   },
   {
-    "blog": "NeoSite Blog",
-    "titulo": "NeoCMS - Sistema de comentarios, estadísticas mejoradas y notificaciones via Telegram",
-    "link": "http://blog.neosite.com.ar/post/neocms-sistema-de-comentarios-estad-sticas-mejoradas-y-notificaciones-via-telegram",
-    "fecha": "08/01/2026",
-    "contenido": ""
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "Mortadelo y Filemón contra Jimmy el Cachondo",
     "link": "https://www.macram.es/peliculas/mortadelo-y-filemon-contra-jimmy-el-cachondo/",
@@ -460,26 +523,5 @@
     "link": "https://www.fabio.com.ar/9846-ruleta-rusa-858",
     "fecha": "08/01/2026",
     "contenido": "     Listo para un buen baile? Ruleta Rusa!\nEmpieza el a&ntilde;o ruletero en serio, ya superamos la ruleta anual, los brindis, los saludos de \"feliz a&ntilde;o\", ya para este fin de semana no se puede decir m&aacute;s 😁 y pronto tendremos semanas y semanas sin feriado alguno de por medio, as&iacute"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "¿Qué hacer con este sitio (en caso de que me muera)?",
-    "link": "https://blog.luiscarlospando.com/personal/2026/01/que-hacer-con-este-sitio-en-caso-de-que-me-muera/",
-    "fecha": "07/01/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El fin de la resistencia (poemario)",
-    "link": "https://docig.bearblog.dev/el-fin-de-la-resistencia-poemario/",
-    "fecha": "07/01/2026",
-    "contenido": "https://danielomarcignacco.blogspot.com/2026/01/el-fin-de-la-resistencia-libro-de-poemas.html"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "Canción de cuna para un disco de estado sólido",
-    "link": "https://docig.bearblog.dev/cancion-de-cuna-para-un-disco-de-estado-solido/",
-    "fecha": "07/01/2026",
-    "contenido": "Todo sucede en esa zona de penumbra entre el Sleep y el Hibernate. No soy un usuario, soy un fantasma de la interfaz. He cruzado la frontera del monitor para descubrir que el sistema operativo se parece sospechosamente a la estructura de una novela de tres mil páginas que nadie ha terminado de escri"
   }
 ]
