@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Remake de Gorillas para CP/M",
+    "link": "https://malagaoriginal.blogspot.com/2026/01/remake-de-gorillas-para-cpm.html",
+    "fecha": "16/01/2026",
+    "contenido": "Quién no ha jugado una partidita de MS Gorillas contra un amigo o un familiar tirándose plátanos explosivos uno al otro simplemente indicando el ángulo y velocidad de tiro.Pues ahora un programador italiano llamado Francesco Sblendorio ha sacado un port libre para CP/M llamado Gorilla.BAS - CP/M ver"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La Ruta: modernidad, cultura y descontrol",
+    "link": "https://mareosdeungeek.es/la-ruta-modernidad-cultura-y-descontrol/",
+    "fecha": "16/01/2026",
+    "contenido": "La Ruta: modernidad, cultura y descontrol es una exposición inmersiva que puede visitarse en Valencia sobre la ruta del bakalao. Localizada en el edificio de Bombas Gens &#8211; Centre d’Arts Digitals, cerca de la estación de autobuses y Nuevo Centro, dispone de más de 2000 metros cuadrados en un re"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Por eso tengo un blog",
+    "link": "https://matizeta.com/2026/01/16/por-eso-tengo-un-blog/",
+    "fecha": "16/01/2026",
+    "contenido": "Tengo este blog porque escribir es la única afición que conservo desde pequeño y la informática mi forma de ganarme la vida. ¿Acaso podría hacer otra cosa?.&#160; Tuve la oportunidad de escribir artículos de manera profesional en varios medios especializados, pero para escribir en ellos tienes que a"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #924",
+    "link": "https://www.fabio.com.ar/9853-links-de-viernes---924",
+    "fecha": "16/01/2026",
+    "contenido": "     El descanso del finde llega con links\nEstoy agotado de esta semana, muchas calls, mucho trabajo, cosas incompeltas, caos, necesito algo, algo que me lleve a otro lugar mental... Links! Eso es! Todo se trata de enlaces y cosas interesantes para compartir &iquest;Acaso no es lo m&aacute;s lindo c"
+  },
+  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Instalar Qemu y VirtManager en Arch - 1",
     "link": "https://vctrsnts.github.io/2026-01-15-qemu-virtmanager-1/",
@@ -413,13 +441,6 @@
     "contenido": "    \nDesde hace dos semanas en Ir&aacute;n se est&aacute; gestando una revoluci&oacute;n, una que atenta contra las bases de la ideolog&iacute;a occidental hacia Medio Oriente, una que no responde a ninguna l&oacute;gica, pero que sistem&aacute;ticamente se ha infiltrado y afianzado en los medios de"
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Virtualizar FreeDOS con KVM/Qemu + Virt-manager (imagen convertida desde VirtualBox)",
-    "link": "https://malagaoriginal.blogspot.com/2026/01/virtualizar-freedos-con-kvmqemu-virt.html",
-    "fecha": "09/01/2026",
-    "contenido": "En un artículo anterior vimos como instalar KVM/Qemu con su front-end Virt-manager , vamos a empezar a explotarlo.Cuando empezamos a conocer una herramienta nueva, lo más lógico para avanzar sin frustrarnos es empezar por el caso más fácil, ¿Qué tal si instalamos&nbsp;FreeDOS?&nbsp;FreeDOS en un sis"
-  },
-  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo emulo el Roland SC-55 y el JP8000 en Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2026/01/como-instalar-emulador-roland-sc55-roland-jp8000-en-ubuntu.html",
@@ -434,25 +455,11 @@
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
-    "blog": "plr blog",
-    "titulo": "Nuevo preprint: la omisión del gasto en licencias de uso y servicios contratados en debates sobre alternativas basadas en software libre y herramientas abiertas",
-    "link": "https://pedrolr.es/blog/nuevo-preprint-la-omision-del-gasto-en-licencias-de-uso-y-servicios-contratados-en-debates-sobre-alternativas-basadas-en-software-libre-y-herramientas-abiertas/",
-    "fecha": "09/01/2026",
-    "contenido": "He publicado un nuevo trabajo esta vez como preprint: https://doi.org/10.5281/zenodo.18169478 Lleva el título del post y suger por la percepción personal de que en los debates y trabajos sobre software libre y herramientas abiertas como alternativas a los productos y licencias de uso que se tienen c"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Mis Aplicaciones predeterminadas este 2025",
     "link": "https://interlan.ec/blog/2026/01/09/mis-aplicaciones-predeterminadas-este-2025/",
     "fecha": "09/01/2026",
     "contenido": "Algunas cosas han cambiado desde la publicación del año pasado y otras se han mantenido. Aquí esta mi nueva lista de aplicaciones predeterminadas este 2025"
-  },
-  {
-    "blog": "Cajón desastre",
-    "titulo": "Mi orden de lectura de la saga Vorkosigan",
-    "link": "https://ccriss92.bearblog.dev/mi-orden-de-lectura-de-la-saga-vorkosigan/",
-    "fecha": "09/01/2026",
-    "contenido": "Ayer una persona cometió el error de preguntarme por la saga Vorkosigan. Y digo el error porque se comió tremendo infodump por mi parte. Si saben cómo me pongo, para qué me invitan.\nLe conté por encima de qué iba la saga y, al llamarle la atención, me preguntó por el orden de lectura. Yo uso y recom"
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -469,13 +476,6 @@
     "contenido": "Última actualización: 9 de enero de 2026.\nEstoy desarrollando apps para iOS y tvOS para distintos clientes. Es lo que llevo haciendo mucho casi desde que empecé a trabajar y no tengo intención de parar pronto.\nSigo formando parte de una asociación de música tradicional, investigando, preparando e in"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#178 ha cerrado Genbeta",
-    "link": "https://www.macram.es/posts/2026/01/genbeta-cierra/",
-    "fecha": "09/01/2026",
-    "contenido": "Leí ayer que Genbeta ha cesado su actividad. Publicaron un artículo hace unos días que creo que no mucha gente entendió como una despedida, a pesar de la última frase. A mí me da mucha pena; Genbeta es de los primeros blogs que empecé a seguir cuando empecé a moverme por Internet, y tuve la oportuni"
-  },
-  {
     "blog": "note – matizeta",
     "titulo": "Adiós Genbeta",
     "link": "https://matizeta.com/2026/01/09/adios-genbeta/",
@@ -483,24 +483,10 @@
     "contenido": "Me entero por el blog de Manu Mateos que cerró Genbeta. Claro, paso desapercibido si uno entraba al portal y su ultima nota decía «Así ha cambiado Internet en los 20 años transcurridos desde el lanzamiento de Genbeta» , muchos no se dieron cuenta que cerraba incluido yo, no hasta leer el blog de Man"
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "Extensión de navegador para reducir la fatiga visual",
-    "link": "https://matizeta.com/2026/01/09/extension-de-navegador-para-reducir-la-fatiga-visual/",
-    "fecha": "09/01/2026",
-    "contenido": "En la PC suelo utilizar la interfaz de mi navegador web en modo Dark Mode, sin embargo las webs con fondo blanco (y eso tiene todo el sentido), siguen blancas. Cuando leo textos largos en el navegador suelo utilizar el modo lectura que me permite eliminar todas las distracciones y definir el color d"
-  },
-  {
     "blog": "Erica Fustero",
     "titulo": "Record Club YIR 2025",
     "link": "https://www.ericafustero.com/2026-01-record-club-yir-2025",
     "fecha": "09/01/2026",
     "contenido": "Este año volví a colaborar con Record Club para crear su retrospectiva anual dibujando algunos de los discos más destacados de 2025. Detrás de la plataforma está Mattias Hinderson, un desarrollador independiente que durante los dos últimos años ha hecho crecer esta comunidad llena de personas apasio"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #923",
-    "link": "https://www.fabio.com.ar/9847-links-de-viernes---923",
-    "fecha": "09/01/2026",
-    "contenido": "     Empecemos a linkear de nuevo\nEs viernes, aunque no lo parezca, es viernes, semana eterna luego de los constantes feriados, pero super productiva en muchos aspectos, as&iacute; que estoy bien con eso, ahora a relajar un poco con unos buenos enlaces. Y si te parecen pocos sumate a LinksDV para co"
   }
 ]
