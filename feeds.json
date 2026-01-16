@@ -1,5 +1,26 @@
 [
   {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Instalar Qemu y VirtManager en Arch - 1",
+    "link": "https://vctrsnts.github.io/2026-01-15-qemu-virtmanager-1/",
+    "fecha": "15/01/2026",
+    "contenido": "Este articulo es más un resumen o unos apuntes para mi, de como se hace la instalación de Qemu y VirtManager en Arch, basado en este video que podeis encontrar en Youtube.\nNunca se sabe si puede desaparecer o no, pero yo me lo guardo, por si acaso."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "La tragedia griega",
+    "link": "https://jinversor.co/2026/01/la-tragedia-griega/",
+    "fecha": "15/01/2026",
+    "contenido": "Leyendo el blog de Matizeta me enteré de una tragedia griega moderna que tuvo lugar en el Fediverso de Mastodon. Fue uno de esos dramas que suelen presentarse cada 6 [&#8230;]\nLa entrada La tragedia griega se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Ikkaro",
+    "titulo": "Libros leídos en 2025",
+    "link": "https://www.ikkaro.com/libros-leidos-en-2025/",
+    "fecha": "15/01/2026",
+    "contenido": "Tercer año de mi recopilatorio de lecturas y de las pocas publicaciones que he hecho en el blog. Intento no ... Sigue leyendo\nEl artículo Libros leídos en 2025 se publicó primero en Ikkaro."
+  },
+  {
     "blog": "Galerías Preciados",
     "titulo": "¡Hola Madrid!",
     "link": "https://galeriaspreciados.band/hola-madrid/",
@@ -12,6 +33,27 @@
     "link": "https://matizeta.com/2026/01/15/que-me-gusta-ver-en-cada-blog-personal-que-visito-parte-ii/",
     "fecha": "15/01/2026",
     "contenido": "Hace unos meses escribía sobre qué me gusta ver en cada blog personal que visito, en donde listaba elementos que creo yo no deberían faltar en los blogs personales. Esta es la continuación de aquella lista. Feed RSS No se si la mayoría de la gente utiliza un lector de RSS, quizás sea una porción [&#"
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "Estado",
+    "link": "http://locutusbit.blogspot.com/2026/01/estado.html",
+    "fecha": "15/01/2026",
+    "contenido": "Allí quedaron quietas, opuestas,las coordenadas con miradas paralelas,transcribiendo el cantoa partir de fragmentos textuales,con pasos que no reducen el espacioa patrones elaborados y sometidos,esperando por la melodía no compactaque quiere transcribir el tiempoy se refugia en la singularidadque es"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "517. Polinización",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/01/517-polinizacion.html",
+    "fecha": "15/01/2026",
+    "contenido": "&nbsp; &nbsp; Una de las leyes fundamentales de la Naturaleza para con los seres vivos, como plantas e insectos, es que la avispa y la abeja polinizan la flor. Por eso es lógico que en una numerosa fiesta de disfraces, la chica que va disfrazada de avispa o de abeja conecte con el chico que lo hace "
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Mudar-se a Suècia: Quan l'estrès et fa oblidar el més important",
+    "link": "https://blog.danielaragay.net/mudar-se-a-suecia-quan-lestres-et-fa-oblidar-el-mes-important/",
+    "fecha": "15/01/2026",
+    "contenido": "Saps la teoria, per&#xf2; l&#x2019;estr&#xe8;s et fa fallar a la pr&#xe0;ctica. En aquest episodi confesso la meva &#xfa;ltima p&#xed;fia: tot i portar temps a Su&#xe8;cia, vaig oblidar notificar la mudan&#xe7;a al Skatteverket. Resultat? El carter em"
   },
   {
     "blog": "Fabio.com.ar",
@@ -385,13 +427,6 @@
     "contenido": "Reunido con representantes de la Juventud Peronista en Puerta de Hierro, Juan Perón se pone al tanto de los eventos en la Argentina, a la vez que enseña cómo instalar emuladores de clásicos sintetizadores Roland SC-55 y JP8000 en Ubuntu.Trabajadores:&nbsp;(...)&nbsp;Analizando el proceso que me desc"
   },
   {
-    "blog": "Blep",
-    "titulo": "La depresión, mi motor vital",
-    "link": "https://blep.org/La-depresion-mi-motor-creativo",
-    "fecha": "09/01/2026",
-    "contenido": "No es ninguna novedad que soy depresivo. Mi estado de ánimo natural tiende a oscilar entre el \"sobreviviendo\" y el \"nada importa, muramos ya\", con sólo picos muy ocasionales de \"bien\". La medicación que tomo desde hace unos años me ayuda a evitar el \"nada importa\", con lo cual estoy mucho mejor, con"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 2 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/01/09/opensuse-tumbleweed-revision-de-la-semana-2-de-2026/",
@@ -411,13 +446,6 @@
     "link": "https://interlan.ec/blog/2026/01/09/mis-aplicaciones-predeterminadas-este-2025/",
     "fecha": "09/01/2026",
     "contenido": "Algunas cosas han cambiado desde la publicación del año pasado y otras se han mantenido. Aquí esta mi nueva lista de aplicaciones predeterminadas este 2025"
-  },
-  {
-    "blog": "NeoSite Blog",
-    "titulo": "Lo que más te gustaba de internet... ya no existe",
-    "link": "http://blog.neosite.com.ar/post/lo-que-m-s-te-gustaba-de-internet-ya-no-existe",
-    "fecha": "09/01/2026",
-    "contenido": ""
   },
   {
     "blog": "Cajón desastre",
@@ -474,26 +502,5 @@
     "link": "https://www.fabio.com.ar/9847-links-de-viernes---923",
     "fecha": "09/01/2026",
     "contenido": "     Empecemos a linkear de nuevo\nEs viernes, aunque no lo parezca, es viernes, semana eterna luego de los constantes feriados, pero super productiva en muchos aspectos, as&iacute; que estoy bien con eso, ahora a relajar un poco con unos buenos enlaces. Y si te parecen pocos sumate a LinksDV para co"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Wifredo Lam un conocido totalmente desconocido",
-    "link": "https://polotman.wordpress.com/2026/01/08/wifredo-lam-un-conocido-totalmente-desconocido/",
-    "fecha": "08/01/2026",
-    "contenido": "#DelosNuestros #pintoresCubanos #WifredoLam #ElSueñodelArtistaBlog #exposicionRetropestiva #Arte #MoMa Por lo general no suelo dedicarle entradas a hacer me eco de noticias que estén circulando por los medios de difusión masiva ya sea tradicional o moderna ,pero toda regla tiene su exención y en est"
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "Empezar de cero como si nada",
-    "link": "https://galeriaspreciados.band/empezar-de-cero-como-si-nada/",
-    "fecha": "08/01/2026",
-    "contenido": "El otro día sacamos estas moviditas a la luz. Pero no lo hice solo, lo hice con amigos que me ayudaron a que saliese de la leche y eso es lo que más mola: así son las putas cosas que decía el padre de Ricky"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "515. Prosa excretora",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/01/515-prosa-excretora.html",
-    "fecha": "08/01/2026",
-    "contenido": "&nbsp; &nbsp; Muchas de las personas que tienen un blog enumeran en él el número de países a los que han viajado, los libros que han leído, las películas que han visionado y los trabajos musicales —y pódcast— que han escuchado de un año para otro. Por poco que me interesen esa clase de escritos, vay"
   }
 ]
