@@ -1,5 +1,26 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "El arsenal de la libertad",
+    "link": "https://brucknerite.net/2026/01/el-arsenal-de-la-libertad.html",
+    "fecha": "17/01/2026",
+    "contenido": "«El arsenal de la libertad» (The Arsenal of Freedom) es un episodio de la primera temporada de Star Trek: The Next Generation en el que la Enterprise se encuentra con un sistema armamentístico dotado de inteligencia artificial que, tras aniquilar a la especie que lo creó, intenta venderse de forma a"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "El bloqueo más rápido",
+    "link": "https://jinversor.co/2026/01/el-bloqueo-mas-rapido/",
+    "fecha": "17/01/2026",
+    "contenido": "Debo tener el récord de haber recibido el bloqueo más rápido en la historia del Mongoverso Fediverso. Mi cuenta duró algo así como 7 horas, solo seguí a una cuenta [&#8230;]\nLa entrada El bloqueo más rápido se publicó primero en Jinversor."
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Mejoras en el blog: ahora es multisite, buscador junto a las categorías, mejora de autoría en header y contacto en posts",
+    "link": "https://pedrolr.es/blog/mejoras-en-el-blog-ahora-es-multisite-buscador-junto-a-las-categorias-mejora-de-autoria-en-header-y-contacto-en-posts/",
+    "fecha": "17/01/2026",
+    "contenido": "He implementado lo que creo son mejoras en el blog. Leí recientemente los posts de matizeta sobre \"qué me gusta ver en cada blog personal que visito\" (parte 1 y parte 2) y me hizo reflexionar sobre algunos aspectos. El primero no tiene que ver con sus posts: ahora mi blog es un ClassicPress pero [&#"
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Remake de Gorillas para CP/M",
     "link": "https://malagaoriginal.blogspot.com/2026/01/remake-de-gorillas-para-cpm.html",
@@ -411,34 +432,6 @@
     "link": "https://nube.codeberg.page/blog/linux/",
     "fecha": "10/01/2026",
     "contenido": "\nLa descripción de este post es un poco engañosa &hellip; en realidad aún no llevo un año en Linux, pero falta muy poco, 2025 fue mi primer año usando Linux y ya ha terminado.\nEs gracioso que al segundo o tercer mes haya escrito algo llamado: &ldquo;Linux NO es difícil&rdquo;, lo siento un poco pret"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "El kernel de Manjaro, optimizado donde importa",
-    "link": "https://tecnoysoft.com/2026/01/10/el-kernel-de-manjaro-optimizado-donde-importa/",
-    "fecha": "10/01/2026",
-    "contenido": "Manjaro no sabe venderse Hace nada encontré en el foro oficial de Manjaro lo siguiente: «Manjaro tiene sus propios kernels, que son manejados por mhwd, e incorporan en gran medida muchos de los parches liqorix y zen cuando son ampliamente aplicables.» A partir de esa información, creí conveniente pu"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "En esta era de tecnofeudalismo cada escritor de tecnología (especialmente si escribe sobre resistencia a big tech) debería explicar su \"tech stack\"",
-    "link": "https://www.macram.es/posts/2026/01/era-de-tecnofeudalismo/",
-    "fecha": "10/01/2026",
-    "contenido": "Elena Rossini habla en este post de su blog de por qué evita tecnología de big tech, de cuáles son sus opciones y de su motivación para hacerlo."
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Librojuegos: Caballero de ilusión, La Garra del dragón y Visiones de destrucción",
-    "link": "http://frikoteca.blogspot.com/2026/01/librojuegos-caballero-de-ilusion-la.html",
-    "fecha": "10/01/2026",
-    "contenido": "Tres reseñas más de librojuegos clásicos de los 80 de la colección Dungeons & Dragons aventura sin fin. Tenéis las anteriores aquí: los tres primeros libros, las reseñas de los libros 4, 5 y 6, las reseñas de los libros 7, 8 y 9, las reseñas de los libros 10, 11 y 12, las reseñas de los libros 13, 1"
-  },
-  {
-    "blog": "prosa",
-    "titulo": "nirvana",
-    "link": "https://blog.adrianaaraujot.casa/nirvana/",
-    "fecha": "10/01/2026",
-    "contenido": "un diario de los últimos y primeros días del año siguiendo la canción de Kurt Cobain"
   },
   {
     "blog": "Fabio.com.ar",
