@@ -1,5 +1,19 @@
 [
   {
+    "blog": "GoRiX blog",
+    "titulo": "SWAKS: La navaja suiza del SMTP",
+    "link": "https://blog.gorix.xyz/swaks-la-navaja-suiza-del-smtp.html",
+    "fecha": "18/01/2026",
+    "contenido": "\n    El término “navaja suiza” se usa para describir herramientas versátiles, simples y extremadamente útiles. Por ejemplo ffmpeg, netcat, etc…. de esta última armé algo.\n\n\n    Pero cuando entramos en el mundo del correo electrónico, hay una herramienta que cumple exactamente ese rol: swaks.\n\n\n    S"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Mi estudio para hacer directos en la cocina",
+    "link": "https://blog.danielaragay.net/mi-estudio-para-hacer-directos-en-la-cocina/",
+    "fecha": "18/01/2026",
+    "contenido": "Te cuento como de liado he estado hoy preparando el estudio de v&#xed;deo de la cocina haciendo que se me olvidara participar en el podcast Mossega la poma. Ho sento &#x1f62b;Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram:"
+  },
+  {
     "blog": "brucknerite",
     "titulo": "El arsenal de la libertad",
     "link": "https://brucknerite.net/2026/01/el-arsenal-de-la-libertad.html",
@@ -8,10 +22,17 @@
   },
   {
     "blog": "Jinversor",
+    "titulo": "FreeBTC",
+    "link": "https://jinversor.co/2026/01/freebtc/",
+    "fecha": "17/01/2026",
+    "contenido": "El trabajo divulgativo y pegagógico que están haciendo los compañeros de FreeBTC es asombroso. Frente a una humanidad sometida por el arbitrio de los burócratas, ellos ponen a disposición de [&#8230;]\nLa entrada FreeBTC se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Jinversor",
     "titulo": "El bloqueo más rápido",
     "link": "https://jinversor.co/2026/01/el-bloqueo-mas-rapido/",
     "fecha": "17/01/2026",
-    "contenido": "Debo tener el récord de haber recibido el bloqueo más rápido en la historia del Mongoverso Fediverso. Mi cuenta duró algo así como 7 horas, solo seguí a una cuenta [&#8230;]\nLa entrada El bloqueo más rápido se publicó primero en Jinversor."
+    "contenido": "Debo tener el récord de haber recibido el bloqueo más rápido en la historia del Mongoverso Fediverso. Mi existencia allí duró algo así como 7 horas, solo seguí a una [&#8230;]\nLa entrada El bloqueo más rápido se publicó primero en Jinversor."
   },
   {
     "blog": "plr blog",
@@ -19,6 +40,20 @@
     "link": "https://pedrolr.es/blog/mejoras-en-el-blog-ahora-es-multisite-buscador-junto-a-las-categorias-mejora-de-autoria-en-header-y-contacto-en-posts/",
     "fecha": "17/01/2026",
     "contenido": "He implementado lo que creo son mejoras en el blog. Leí recientemente los posts de matizeta sobre \"qué me gusta ver en cada blog personal que visito\" (parte 1 y parte 2) y me hizo reflexionar sobre algunos aspectos. El primero no tiene que ver con sus posts: ahora mi blog es un ClassicPress pero [&#"
+  },
+  {
+    "blog": "Plutoide Marcianadas",
+    "titulo": "Killua - SK8 con amigos (Hunter X Hunter & Beyblade Burst)",
+    "link": "https://plutoidemarcianadas.blogspot.com/2026/01/killua-sk8-con-amigos-hunter-x-hunter.html",
+    "fecha": "17/01/2026",
+    "contenido": "Finalizado: 2026-01-16Killua jugando feliz con su skateboard, junto con Gon, su mejor amigo, y otro niño, Valt. El calor no importa, ellos son realmente felices mientras juegan juntos en este lejano parque. › Ver más »¡Patina todo el día!"
+  },
+  {
+    "blog": "Un Pingüino 🐧",
+    "titulo": "Amarga Rusia –",
+    "link": "https://unpinguino.com/amarga-rusia/",
+    "fecha": "17/01/2026",
+    "contenido": "He tardado en escribir esto, teniendo en cuenta que leí este cómic hace aproximadamente tres&#8230;"
   },
   {
     "blog": "Malagueños originales y libres",
@@ -418,26 +453,5 @@
     "link": "https://blog.danielaragay.net/musica-i-literatura/",
     "fecha": "11/01/2026",
     "contenido": "Bon any i bons reis! En aquest cap&#xed;tol t&#x2019;explico en quins temes estic engrescat.Tots els podcasts: aragay.netMastodon: masto.es/@proteusbcnBlog: danielaragay.net Telegram: t.me/haciendoelsuecoAjuda&#x2019;ns amb el nostre projecte a PATREON: patreon.com/c/proteusbcn Reproductors de podca"
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Probando multisites con WordPress y ClassicPress para hacer un blog/magazine en dos asignaturas",
-    "link": "https://pedrolr.es/blog/probando-multisites-con-wordpress-para-hacer-un-blog-magazine-en-dos-asignaturas/",
-    "fecha": "10/01/2026",
-    "contenido": "Cada curso intento hacer cosas diferentes con la docencia. No sé si cada curso lo consigo, pero lo intento. Sobre todo trato de innovar si la gente de clase ya me ha tenido antes. Para el segundo cuatrimestre imparto dos asignaturas: Calidad y evaluación de los servicios en documentación (de Grado) "
-  },
-  {
-    "blog": "Escritos en la nube",
-    "titulo": "Un año en Linux",
-    "link": "https://nube.codeberg.page/blog/linux/",
-    "fecha": "10/01/2026",
-    "contenido": "\nLa descripción de este post es un poco engañosa &hellip; en realidad aún no llevo un año en Linux, pero falta muy poco, 2025 fue mi primer año usando Linux y ya ha terminado.\nEs gracioso que al segundo o tercer mes haya escrito algo llamado: &ldquo;Linux NO es difícil&rdquo;, lo siento un poco pret"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Por qué los medios occidentales esconden la revolución en Irán",
-    "link": "https://www.fabio.com.ar/9848-por-que-los-medios-occidentales-esconden-la-revolucion-en-iran",
-    "fecha": "10/01/2026",
-    "contenido": "    \nDesde hace dos semanas en Ir&aacute;n se est&aacute; gestando una revoluci&oacute;n, una que atenta contra las bases de la ideolog&iacute;a occidental hacia Medio Oriente, una que no responde a ninguna l&oacute;gica, pero que sistem&aacute;ticamente se ha infiltrado y afianzado en los medios de"
   }
 ]
