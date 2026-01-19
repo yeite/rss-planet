@@ -1,5 +1,54 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "Accidente en Adamuz",
+    "link": "https://brucknerite.net/2026/01/accidente-en-adamuz.html",
+    "fecha": "19/01/2026",
+    "contenido": "Antes de nada, lo más importante. Si me lee algún afectado por el terrible accidente ferroviario de ayer en Adamuz (Córdoba): un abrazo. Encontrar la tragedia a bordo de un medio de transporte que vive por garantizar, dentro de los límites humanamente posibles, su seguridad es algo durísimo. Mis pen"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Publicado Amarok 3.3.2",
+    "link": "https://victorhckinthefreeworld.com/2026/01/19/publicado-amarok-3-3-2/",
+    "fecha": "19/01/2026",
+    "contenido": "Segunda versión menor de la versión 3.3 del reproductor de música Amarok creado por la comunidad de KDE"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Orinar vigilado: la indignidad normalizada de las pruebas de SPA",
+    "link": "https://gatooscuro.xyz/orinar-vigilado-la-indignidad-normalizada-de-las-pruebas-de-spa/",
+    "fecha": "19/01/2026",
+    "contenido": "Primero que nada, le explicaré qué son las pruebas de detección de SPA. Corresponden a pruebas de sustancias psicoactivas. Traté de buscar algún título llamativo, pero realmente no amarillista, y\nSeguir leyendo  Orinar vigilado: la indignidad normalizada de las pruebas de SPA\nEl cargo Orinar vigilad"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Frankenstein de Guillermo del Toro",
+    "link": "https://mareosdeungeek.es/frankenstein-de-guillermo-del-toro/",
+    "fecha": "19/01/2026",
+    "contenido": "Una de las últimas películas que vi en 2025 fue Frankenstein de Guillermo del Toro. La nueva adaptación del clásico de Mary Shelley puede verse en Netflix, que de hecho ha producido el metraje. En todo caso, nos encontramos ante la típica película de Guillermo del Toro, con una ambientación gótica r"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "SMLIGHT MR el coordinador perfecto para redes Zigbee",
+    "link": "https://alt43.es/smlight-mr-el-coordinador-perfecto-para-redes-zigbee/",
+    "fecha": "19/01/2026",
+    "contenido": "Tras la anterior entrada sobre las vicisitudes para estabilizar la red Zigbee de mi domicilio; por fin puedo&#46;&#46;&#46;"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Rhoneisms: el blog que despertó mis ganas de tener uno",
+    "link": "https://matizeta.com/2026/01/19/rhoneisms-el-blog-que-desperto-mis-ganas-de-tener-uno/",
+    "fecha": "19/01/2026",
+    "contenido": "El blog de Patrick Rhone llamado Rhoneisms, es “EL BLOG” que encendió la chispa para tener el mío. No recuerdo como llegué a él (supongo que debido alguno de sus libros), sólo se que cuando lo descubrí pasé toda la noche revisando su contenido.  Y lo que me atrapó no fue el contenido en sí (ya [&#82"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Todos los años tienen las mismas noticias",
+    "link": "https://www.fabio.com.ar/9854-todos-los-anos-tienen-las-mismas-noticias",
+    "fecha": "19/01/2026",
+    "contenido": "    \nEn el verano se nota m&aacute;s, es la &eacute;poca de noticias de mierda y falta de contenidos, no porque no existan noticias internacionales, sino que hay todav&iacute;a en la estructura mental del productor argentino un tereso cerebral que le impide tocar temas interesantes: todo deber ser u"
+  },
+  {
     "blog": "GoRiX blog",
     "titulo": "SWAKS: La navaja suiza del SMTP",
     "link": "https://blog.gorix.xyz/swaks-la-navaja-suiza-del-smtp.html",
@@ -357,39 +406,11 @@
     "contenido": "Fecha de lectura: 13/01/2026.Autor/a: Santiago Lorenzo.Categoría: Ficción.Número de páginas: 221.Mi valoración: ★★★★☆Me ha entretenido mucho la forma tan peculiar de narrar la historia y de describir a los personajes. Hasta he aprendido muchas palabras por la riqueza del vocabulario y la cantidad de"
   },
   {
-    "blog": "THE_CHEI$",
-    "titulo": "Greatest Hits II (1991), de Queen",
-    "link": "https://thecheis.com/2026/01/12/greatest-hits-ii-1991-de-queen/",
-    "fecha": "12/01/2026",
-    "contenido": "«Oh yes, we&#8217;ll keep on tryin&#8217; / We&#8217;ll tread that fine line» Hay recopilatorios que son auténticas joyas, de hecho ya reseñé algunos que me encantan y los tengo como álbumes top de mi colección. Discos que son un auténtico no parar de temazos y me emocionan cada vez que suenan, cuya"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Configurar un temporizador y mucho más en Plasma de #KDE",
-    "link": "https://victorhckinthefreeworld.com/2026/01/12/configurar-un-temporizador-y-mucho-mas-en-plasma-de-kde/",
-    "fecha": "12/01/2026",
-    "contenido": "¿Necesitas configurar un temporizador para recordarte una tarea? ¿Necesitas una alarma diaria? ¿Necesitas saber la hora local y de otras localizaciones? Con Plasma de KDE estás cubierto"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Investigar una cuenta de Whatsapp",
     "link": "https://jinversor.co/2026/01/investigar-una-cuenta-de-whatsapp/",
     "fecha": "12/01/2026",
     "contenido": "El desarrollador HackUnderway ha creado una herramienta en Python que nos ayuda a investigar una cuenta de Whatsapp sin necesidad de agregar el contacto a nuestros teléfonos. Me pareció una [&#8230;]\nLa entrada Investigar una cuenta de Whatsapp se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Un bruto con Debian",
-    "titulo": "FreeTube. YouTube sin rastreos ni publicidad.",
-    "link": "http://unbrutocondebian.blogspot.com/2026/01/freetube-youtube-sin-rastreos-ni.html",
-    "fecha": "12/01/2026",
-    "contenido": "En internet, si algo es gratis, es que lo estás pagando con tu alma. Así que cuando ves un video gratis en YouTube, lo estás pagando viendo publicidad, cada vez más invasiva y dándole información de tus gustos, preferencias, filias y fobias al mayor vendedor de publicidad del mundo, Google.Si quiere"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Cómo desplegar una red Zigbee estable en Home Assistant",
-    "link": "https://alt43.es/como-desplegar-una-buena-red-zigbee-en-home-assistant/",
-    "fecha": "12/01/2026",
-    "contenido": "Tras llevar varios años trasteando con algunos dispositivos domóticos, finalmente me decidí a incorporar algunas automatizaciones mediante diferentes&#46;&#46;&#46;"
   },
   {
     "blog": "ladoB – matizeta",
@@ -411,19 +432,5 @@
     "link": "https://blog.danielaragay.net/este-ano-no-hay-eclipse-de-sol-para-nosotros/",
     "fecha": "12/01/2026",
     "contenido": "Desgraciadamente el plan que ten&#xed;amos de bajar a Espa&#xf1;a este a&#xf1;o para ver el eclipse total de sol tendr&#xe1; que esperar. Si quieres ayudarnos con la operaci&#xf3;n de Rico, no te pierdas el llavero personalizable: https://ko-fi.com/s/0bb91530bcBlog"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "La calle",
-    "link": "https://impermanente.es/2026/01/12/la-calle.html",
-    "fecha": "12/01/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Luna 15 - El verdadero final de la Carrera Espacial",
-    "link": "https://www.fabio.com.ar/9849-luna-15---el-verdadero-final-de-la-carrera-espacial",
-    "fecha": "12/01/2026",
-    "contenido": "    \nNormalmente la historia reconoce la llegada de la misi&oacute;n Apollo 11 como el fin de la carrera espacial entre la URSS y EEUU, pero casi nadie se acuerda de una misi&oacute;n no menos importante, y muy, muy fallida: Luna 15.\nLa idea era traer muestras de la luna ANTES que lo pudieran hacer "
   }
 ]
