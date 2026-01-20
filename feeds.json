@@ -1,10 +1,38 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Añadir el repositorio de Firefox Nightly en openSUSE",
+    "link": "https://victorhckinthefreeworld.com/2026/01/20/anadir-el-repositorio-de-firefox-nightly-en-opensuse/",
+    "fecha": "20/01/2026",
+    "contenido": "Mozilla ha creado unos repositorios en los que ofrece la versión Nightly del navegador Firefox para poder instalar directamente el paquete .rpm"
+  },
+  {
     "blog": "develumpen.com",
     "titulo": "Migrar ActiveStorage de Disk a otro servicio",
     "link": "https://develumpen.com/migrar-activestorage-de-disk-a-otro-servicio",
     "fecha": "20/01/2026",
     "contenido": "Cuando empiezo una aplicación nueva de Rails intento configurar lo menos posible, especialmente cuando se trata de servicios externos. Cuando ya se hace insostenible es cuando me decido a dar el paso. En este caso tengo una aplicación corriendo en una Raspberry, a la que accede mi familia desde dife"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "La iluminación LED es una maravilla",
+    "link": "https://www.macram.es/posts/2026/01/la-tecnologia-led-es-una-maravilla/",
+    "fecha": "20/01/2026",
+    "contenido": "Cada vez que subo a mi terraza pienso que los LED son uno de los (muchos) avances tecnológicos que de verdad aportan algo importante e interesante a la humanidad. Podría ponerme a divagar sobre la tecnología, su historia y todo eso, pero para eso ya podéis leeros por ejemplo el artículo de la Wikipe"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Cómo sacarle más provecho a la Wikipedia",
+    "link": "https://matizeta.com/2026/01/20/como-sacarle-mas-provecho-a-la-wikipedia/",
+    "fecha": "20/01/2026",
+    "contenido": "La semana pasada Wikipedia cumplió 25 años y para festejarlo entre otras cosas hizo un recorrido multimedia de historia. Una enciclopedia que en su momento creó un sistema único tanto como plataforma como forma de administración y jubiló al Encarta. Tiempo atrás hablé de, que con el avance de la tec"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Creando un buscador de blogs",
+    "link": "https://www.fabio.com.ar/9855-creando-un-buscador-de-blogs",
+    "fecha": "20/01/2026",
+    "contenido": "    \nEst&aacute; Google, est&aacute; Bing y hasta DuckDuckGo as&iacute; que crear un buscador nuevo es un total desprop&oacute;sito, aun as&iacute; quiero hacerlo &iquest;Por qu&eacute;? Porque no quiero buscar entre los miles de sitios basura SEO y publicidad, quiero buscar entre los sitios que leo"
   },
   {
     "blog": "brucknerite",
@@ -371,20 +399,6 @@
     "contenido": "    \nLeyendo sobre el origen de las tarjetas perforadas que se usaron como m&eacute;todo de almacenamiento y entrada en las primeras computadoras encontr&eacute; que Herman Hollerith, el creador del m&eacute;todo, se inspir&oacute; en varias fuentes.\nPrimero en los telares que ya usaban ese m&eacute"
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Publicado PixelWheels 1.0.0",
-    "link": "https://victorhckinthefreeworld.com/2026/01/13/publicado-pixelwheels-1-0-0/",
-    "fecha": "13/01/2026",
-    "contenido": "Este juego multiplataforma de coches, derrapes, y carreras ha llegado a la versión 1.0.0 con nuevos circuitos, nuevos coches y control en las carreras"
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Imperial War 0",
-    "link": "https://mcallus.net/2026/01/13/imperial-war-0/",
-    "fecha": "13/01/2026",
-    "contenido": "Desde hace tres meses tenemos en España el evento Imperial capitaneado por Jonathan Hickman. Este enero ha salido Imperial War, un especial que trae 5 oneshots, dirigido por Hickman pero guionizado por otros autores, en el que vemos cosas que ocurren antes, durante y después de los tres primeros núm"
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "20 aniversario de Mareos de un geek",
     "link": "https://mareosdeungeek.es/20-aniversario-de-mareos-de-un-geek/",
@@ -392,38 +406,10 @@
     "contenido": "Es el día señalado en el calendario, el único que he intentado no fallar, a lo largo de estos 20 años. Mareos de un geek vuelve a cerrar otro ciclo de 365 días, en esta ocasión el que completa las dos décadas. Normalmente, utilizo esta entrada, recién empezado el año, para hablar sobre algunos propó"
   },
   {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "Nights – Horrores que maravillan",
-    "link": "https://unpinguino.com/nights-horrores-que-maravillan/",
-    "fecha": "13/01/2026",
-    "contenido": "He pensado mucho sobre como empezar a escribir sobre Nights de Wyatt Kennedy y Luigi&#8230;"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 02/2026",
-    "link": "https://www.macram.es/posts/2026/01/semana-2-2026/",
-    "fecha": "13/01/2026",
-    "contenido": "Imaginad lo interesante que fue la semana pasada que ni siquiera he podido hacer esta segunda retro a tiempo. Desde luego no soy una persona de costumbres, por más que lo intente.\nEsta semana sobre todo he estado peleando con empresas logísticas. He tenido algunos paquetes que se han perdido por el "
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Automóviles y los espejitos de colores",
-    "link": "https://matizeta.com/2026/01/13/automoviles-y-los-espejitos-de-colores/",
-    "fecha": "13/01/2026",
-    "contenido": "No todo avance tecnológico es necesario y aveces resulta contraproducente. Estoy leyendo varios artículos, por ejemplo como Volkswagen piensa volver a introducir en este 2026 botones físicos en sus paneles, luego de haber abusado de botones digitales el año anterior. Hay estudios que demuestran (y n"
-  },
-  {
     "blog": "La Paradoja del Cero y el Uno",
     "titulo": "mLauncher - Minimal and Clutter Free Android launcher",
     "link": "https://docig.bearblog.dev/mlauncher-minimal-and-clutter-free-android-launcher/",
     "fecha": "13/01/2026",
     "contenido": "Recomendando un launcher genial para Android muy funcional y efectivo.\nLanzador múltiple: un lanzador de Android limpio y simple diseñado para brindar legibilidad y control\n¿Busca un lanzador que elimine el desorden y mantenga las cosas fáciles? Multi Launcher es un lanzador de Android potente pero "
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Cuando Internet se llenó de artículos SEO+AI y terminaron de suicidarse los blogs",
-    "link": "https://www.fabio.com.ar/9850-cuando-internet-se-lleno-de-articulos-seoai-y-terminaron-de-suicidarse-los-blogs",
-    "fecha": "13/01/2026",
-    "contenido": "    \nLo noto principalmente en los medios espa&ntilde;oles, los que m&aacute;s burdamente adoptaron, casi como adicci&oacute;n, la redacci&oacute;n automatizada orientada a otras m&aacute;quinas.\nLa estructura es ilegible, es SEO puro, algunos creer&aacute;n que los iletrados actuales pueden leerlas"
   }
 ]
