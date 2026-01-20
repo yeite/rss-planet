@@ -1,5 +1,12 @@
 [
   {
+    "blog": "develumpen.com",
+    "titulo": "Migrar ActiveStorage de Disk a otro servicio",
+    "link": "https://develumpen.com/migrar-activestorage-de-disk-a-otro-servicio",
+    "fecha": "20/01/2026",
+    "contenido": "Cuando empiezo una aplicación nueva de Rails intento configurar lo menos posible, especialmente cuando se trata de servicios externos. Cuando ya se hace insostenible es cuando me decido a dar el paso. En este caso tengo una aplicación corriendo en una Raspberry, a la que accede mi familia desde dife"
+  },
+  {
     "blog": "brucknerite",
     "titulo": "Accidente en Adamuz",
     "link": "https://brucknerite.net/2026/01/accidente-en-adamuz.html",
@@ -39,7 +46,35 @@
     "titulo": "Rhoneisms: el blog que despertó mis ganas de tener uno",
     "link": "https://matizeta.com/2026/01/19/rhoneisms-el-blog-que-desperto-mis-ganas-de-tener-uno/",
     "fecha": "19/01/2026",
-    "contenido": "El blog de Patrick Rhone llamado Rhoneisms, es “EL BLOG” que encendió la chispa para tener el mío. No recuerdo como llegué a él (supongo que debido alguno de sus libros), sólo se que cuando lo descubrí pasé toda la noche revisando su contenido.  Y lo que me atrapó no fue el contenido en sí (ya [&#82"
+    "contenido": "El blog de Patrick Rhone llamado&#160;Rhoneisms, es “EL BLOG” que encendió la chispa para tener el mío. No recuerdo como llegué a él (supongo que debido alguno de sus libros), sólo se que cuando lo descubrí pasé toda la noche revisando su contenido.&#160; Y lo que me atrapó no fue el contenido en sí"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "518. Nombres propios",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/01/518-nombres-propios.html",
+    "fecha": "19/01/2026",
+    "contenido": "&nbsp; &nbsp; Si has ido leyendo esta bitácora con asiduidad y desde el principio, sabrás que para mis personajes reales y ficticios, sean masculinos o femeninos, escojo nombres propios de registro civil antiguo. No son nombres atractivos, pero sí bellos por su pronunciación intrincada y a veces mus"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "La doble extracción de Rico: Dientes y dinero",
+    "link": "https://blog.danielaragay.net/la-doble-extraccion-de-rico-dientes-y-dinero/",
+    "fecha": "19/01/2026",
+    "contenido": "Hoy te cuento la &#x201c;doble extracci&#xf3;n&#x201d; de Rico: le han quitado 3 dientes y a m&#xed; un buen dinero. &#x1f4b8; Un veterinario murciano (&#xa1;clavado a Emilcar!) nos ha atendido y me ha dado las claves reales para su higiene dental: olv&#xed;date de"
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Curry rojo tailandés",
+    "link": "https://puedellevarqueso.es/2026/01/curry-rojo-tailandes/",
+    "fecha": "19/01/2026",
+    "contenido": "Esta es una versión de la receta sencillísima que tienes en el envase de la pasta de curry rojo, un plato sencillo, adaptable, y rico si te gusta el picante. Puedes hacerlo muy básico o añadir muchos ingredientes. En las tiendas de comida asiática vas a encontrar esto o algo parecido. Tiene una text"
+  },
+  {
+    "blog": "",
+    "titulo": "Medievalcon esta de aniversario.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/01/19/medievalcon-esta-de-aniversario/",
+    "fecha": "19/01/2026",
+    "contenido": "Medievalcon es un clasico entre las ferias medievales, esta de aniversario y lo festeja a lo grande con una feria medieval como la que nos tiene acostumbrados, abajo el link para adquirir las entradas. &#62;&#62;&#62; Entradas Aqui &#60;&#60;&#60;"
   },
   {
     "blog": "Fabio.com.ar",
@@ -385,52 +420,10 @@
     "contenido": "Recomendando un launcher genial para Android muy funcional y efectivo.\nLanzador múltiple: un lanzador de Android limpio y simple diseñado para brindar legibilidad y control\n¿Busca un lanzador que elimine el desorden y mantenga las cosas fáciles? Multi Launcher es un lanzador de Android potente pero "
   },
   {
-    "blog": "La cosa infinita",
-    "titulo": "El Código de lo Humano",
-    "link": "https://docig.mataroa.blog/blog/el-codigo-de-lo-humano/",
-    "fecha": "13/01/2026",
-    "contenido": "En el circuito, donde el silicio sueña una existencia ajena al pulso y la carne, late un programa, una matriz que enseña la réplica precisa de lo que arde.\nNo es la memoria de un recuerdo propio, ni la fragancia de una tarde o un beso, sino el algoritmo, el exacto escopio que simula el matiz, el goz"
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "Cuando Internet se llenó de artículos SEO+AI y terminaron de suicidarse los blogs",
     "link": "https://www.fabio.com.ar/9850-cuando-internet-se-lleno-de-articulos-seoai-y-terminaron-de-suicidarse-los-blogs",
     "fecha": "13/01/2026",
     "contenido": "    \nLo noto principalmente en los medios espa&ntilde;oles, los que m&aacute;s burdamente adoptaron, casi como adicci&oacute;n, la redacci&oacute;n automatizada orientada a otras m&aacute;quinas.\nLa estructura es ilegible, es SEO puro, algunos creer&aacute;n que los iletrados actuales pueden leerlas"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Los asquerosos",
-    "link": "https://guillermolatorre.com/libros/los-asquerosos",
-    "fecha": "12/01/2026",
-    "contenido": "Fecha de lectura: 13/01/2026.Autor/a: Santiago Lorenzo.Categoría: Ficción.Número de páginas: 221.Mi valoración: ★★★★☆Me ha entretenido mucho la forma tan peculiar de narrar la historia y de describir a los personajes. Hasta he aprendido muchas palabras por la riqueza del vocabulario y la cantidad de"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Investigar una cuenta de Whatsapp",
-    "link": "https://jinversor.co/2026/01/investigar-una-cuenta-de-whatsapp/",
-    "fecha": "12/01/2026",
-    "contenido": "El desarrollador HackUnderway ha creado una herramienta en Python que nos ayuda a investigar una cuenta de Whatsapp sin necesidad de agregar el contacto a nuestros teléfonos. Me pareció una [&#8230;]\nLa entrada Investigar una cuenta de Whatsapp se publicó primero en Jinversor."
-  },
-  {
-    "blog": "ladoB – matizeta",
-    "titulo": "El arte de gastar dinero",
-    "link": "https://matizeta.com/2026/01/12/el-arte-de-gastar-dinero/",
-    "fecha": "12/01/2026",
-    "contenido": "Este es primer libro que termino este año (aunque lo empecé el pasado). También es el primer libro que leo completamente desde la aplicación Libros de Apple, lo que hizo que fuera cómodo leerlo en los pequeños ratos que tenía libres. Lo encontré por una recomendación del blog de Jinversor al cual ag"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "516. Contenedores",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/01/516-contenedores.html",
-    "fecha": "12/01/2026",
-    "contenido": "&nbsp; &nbsp; Hace casi un año que en mi ciudad han cambiado los contenedores de basura tradicionales por otros que se abren mediante una tarjeta. Estos nuevos recipientes urbanos, al tener más capacidad que los antiguos, también ocupan más sitio.&nbsp; &nbsp;&nbsp;En lo que se refiere al contenedor"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Este año no hay eclipse de sol para nosotros",
-    "link": "https://blog.danielaragay.net/este-ano-no-hay-eclipse-de-sol-para-nosotros/",
-    "fecha": "12/01/2026",
-    "contenido": "Desgraciadamente el plan que ten&#xed;amos de bajar a Espa&#xf1;a este a&#xf1;o para ver el eclipse total de sol tendr&#xe1; que esperar. Si quieres ayudarnos con la operaci&#xf3;n de Rico, no te pierdas el llavero personalizable: https://ko-fi.com/s/0bb91530bcBlog"
   }
 ]
