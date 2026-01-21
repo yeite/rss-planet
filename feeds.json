@@ -1,5 +1,12 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "\"Simplemente escuchar música\"",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/01/21/20260121-simplemente-escuchar-musica/",
+    "fecha": "21/01/2026",
+    "contenido": "¿Y si simplemente te detienes a escuchar las piezas en la forma y orden en que se idearon?"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Añadir el repositorio de Firefox Nightly en openSUSE",
     "link": "https://victorhckinthefreeworld.com/2026/01/20/anadir-el-repositorio-de-firefox-nightly-en-opensuse/",
@@ -7,11 +14,25 @@
     "contenido": "Mozilla ha creado unos repositorios en los que ofrece la versión Nightly del navegador Firefox para poder instalar directamente el paquete .rpm"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "Algún día",
+    "link": "https://jinversor.co/2026/01/algun-dia/",
+    "fecha": "20/01/2026",
+    "contenido": "Ayer mientras conducía por la ciudad y veía en lo que nos hemos convertido como sociedad recordé a Travis Bickle (Robert De Niro), el mítico y perturbado (ahora lo dudo) [&#8230;]\nLa entrada Algún día se publicó primero en Jinversor."
+  },
+  {
     "blog": "develumpen.com",
     "titulo": "Migrar ActiveStorage de Disk a otro servicio",
     "link": "https://develumpen.com/migrar-activestorage-de-disk-a-otro-servicio",
     "fecha": "20/01/2026",
     "contenido": "Cuando empiezo una aplicación nueva de Rails intento configurar lo menos posible, especialmente cuando se trata de servicios externos. Cuando ya se hace insostenible es cuando me decido a dar el paso. En este caso tengo una aplicación corriendo en una Raspberry, a la que accede mi familia desde dife"
+  },
+  {
+    "blog": "Ikkaro",
+    "titulo": "Jalapeños",
+    "link": "https://www.ikkaro.com/jalapenos/",
+    "fecha": "20/01/2026",
+    "contenido": "Esta es la última variedad de chiles que he cultivado. Llevo ya dos años con ellos y de momento creo ... Sigue leyendo\nEl artículo Jalapeños se publicó primero en Ikkaro."
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -26,6 +47,13 @@
     "link": "https://matizeta.com/2026/01/20/como-sacarle-mas-provecho-a-la-wikipedia/",
     "fecha": "20/01/2026",
     "contenido": "La semana pasada Wikipedia cumplió 25 años y para festejarlo entre otras cosas hizo un recorrido multimedia de historia. Una enciclopedia que en su momento creó un sistema único tanto como plataforma como forma de administración y jubiló al Encarta. Tiempo atrás hablé de, que con el avance de la tec"
+  },
+  {
+    "blog": "",
+    "titulo": "Santiago Molina en La Plata.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/01/20/santiago-molina-en-la-plata/",
+    "fecha": "20/01/2026",
+    "contenido": "Santiago Molina deja Café Berlín en el barrio de Devoto con la intención de presentarse en la ciudad de La Plata, el musico se presentara con toda su banda en las casa Suiza. Abajo les dejo el Link para adquirir las entradas. &#62;&#62;&#62; Entradas Aquí &#60;&#60;&#60;"
   },
   {
     "blog": "Fabio.com.ar",
@@ -308,13 +336,6 @@
     "contenido": "     Listos para ruletear?\nAaaaaaaah, es juevesssss, y as&iacute; llegamos, con tsunamis y calores, es jueves de la segunda semana full que nos regala el a&ntilde;o y hay una buena dosis de balas para todos los gustos, o eso creo, ya no lo s&eacute;, ni idea qui&eacute;n ve las ruletas 😁\nAhora s&iac"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "La perfectamente soportable levedad de la Kritik der reinen Vernunft",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/la-perfectamente-soportable-levedad-de-la-kritik-der-reinen-vernunft/",
-    "fecha": "14/01/2026",
-    "contenido": "Mi compañero me hace marcaje como el que me hacían las dependientas de El Corte Inglés cuando tenía 20 años y pinta de ir a su tienda más a robar que a comprar. Vaya, que el señor no se fía de mí, no lo ha hecho en ningún momento, e intenta hacer control de daños periódicamente 1. Intenta ser sutil,"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Este post no es mío",
     "link": "https://jinversor.co/2026/01/este-post-no-es-mio/",
@@ -397,19 +418,5 @@
     "link": "https://www.fabio.com.ar/9851-el-ticket-del-tranvia-y-la-foto-del-pasajero",
     "fecha": "14/01/2026",
     "contenido": "    \nLeyendo sobre el origen de las tarjetas perforadas que se usaron como m&eacute;todo de almacenamiento y entrada en las primeras computadoras encontr&eacute; que Herman Hollerith, el creador del m&eacute;todo, se inspir&oacute; en varias fuentes.\nPrimero en los telares que ya usaban ese m&eacute"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "20 aniversario de Mareos de un geek",
-    "link": "https://mareosdeungeek.es/20-aniversario-de-mareos-de-un-geek/",
-    "fecha": "13/01/2026",
-    "contenido": "Es el día señalado en el calendario, el único que he intentado no fallar, a lo largo de estos 20 años. Mareos de un geek vuelve a cerrar otro ciclo de 365 días, en esta ocasión el que completa las dos décadas. Normalmente, utilizo esta entrada, recién empezado el año, para hablar sobre algunos propó"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "mLauncher - Minimal and Clutter Free Android launcher",
-    "link": "https://docig.bearblog.dev/mlauncher-minimal-and-clutter-free-android-launcher/",
-    "fecha": "13/01/2026",
-    "contenido": "Recomendando un launcher genial para Android muy funcional y efectivo.\nLanzador múltiple: un lanzador de Android limpio y simple diseñado para brindar legibilidad y control\n¿Busca un lanzador que elimine el desorden y mantenga las cosas fáciles? Multi Launcher es un lanzador de Android potente pero "
   }
 ]
