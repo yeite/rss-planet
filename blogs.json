@@ -17,6 +17,31 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "Picando Código",
+    "Url": "https://picandocodigo.net",
+    "Feed": "https://picandocodigo.net/feed/",
+    "Descripción": "Es mi blog personal donde escribo sobre programación, a veces software libre, videojuegos, libros, cómics, tecnología y demás.",
+    "Categoría": "Entretenimiento y Cultura, Tecnología",
+    "País": "Uruguay",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Un blog",
+    "Url": "https://nachof.blog",
+    "Feed": "https://nachof.blog/index.xml",
+    "Descripción": "Cosas que escribo periódicamente. Hay cosas sobre política, tecnología, libros, juegos, etc. Sobre lo que me interese en el momento, básicamente.",
+    "Categoría": "Literario, Manualidades / Hobbies, Tecnología",
+    "País": "Uruguay"
+  },
+  {
+    "Nombre": "Del Otro Lado Metal",
+    "Url": "https://www.delotroladometal.com.ar/",
+    "Feed": "https://www.delotroladometal.com.ar/feed/",
+    "Descripción": "Webzine dedicado a la difusión del heavy metal en general, y con énfasis en el metal nacional y el white metal en particular: noticias, reseñas de recitales y discos, demos, entrevistas, y todas las novedades de la escena.",
+    "Categoría": "Entretenimiento y Cultura",
+    "País": "Argentina"
+  },
+  {
     "Nombre": "Fabio.com.ar",
     "Url": "https://www.fabio.com.ar/",
     "Feed": "https://www.fabio.com.ar/rss.php",
