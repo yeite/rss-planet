@@ -1,10 +1,66 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Publicado Myrlyn 1.0 el gestor de paquetes para openSUSE",
+    "link": "https://victorhckinthefreeworld.com/2026/01/21/publicado-myrlyn-1-0-el-gestor-de-paquetes-para-opensuse/",
+    "fecha": "21/01/2026",
+    "contenido": "Myrlyn vino a sustituir a YaST a la hora de tener una interfaz gráfica para la gestión de paquetes de software (borrado, búsqueda, instalación) y de repositorios"
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Hazañas no demasiado honorables por Gioventino",
+    "link": "https://mcallus.net/2026/01/21/hazanas-no-demasiado-honorables-por-gioventino/",
+    "fecha": "21/01/2026",
+    "contenido": "Este relato es el resumen de cuatro sesiones que echamos a Zweihander dirigidas por mi amigo Kike. Como muchas otras campañas, quedó abandonada pero la verdad es que molaba mucho el sistema y el grupito y ya que me he encontrado esta pequeña historia en un backup del blog anterior pues la he recuper"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Frigate en Portainer",
+    "link": "https://voidnull.es/instalacion-de-frigate-en-portainer/",
+    "fecha": "21/01/2026",
+    "contenido": "Configura cámaras en Frigate usando streams de distinta calidad para detección y grabación, optimizando rendimiento y consumo de recursos."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "\"Simplemente escuchar música\"",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/01/21/20260121-simplemente-escuchar-musica/",
     "fecha": "21/01/2026",
     "contenido": "¿Y si simplemente te detienes a escuchar las piezas en la forma y orden en que se idearon?"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El Microchip del Santo Grial del Vacío",
+    "link": "https://docig.bearblog.dev/el-microchip-del-santo-grial-del-vacio/",
+    "fecha": "21/01/2026",
+    "contenido": "Aquel sujeto no navegaba: naufragaba en un océano de silicio, rodeado de sirenas de píxel que le prometían el oro y el moro mientras le succionaban la médula del espíritu. Estaba ahí, atornillado a su silla ergonómica —una verdadera máquina de tortura china para la columna—, esperando una señal, un "
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Unas fotos para Maquinista",
+    "link": "https://www.ericafustero.com/2026-01-unas-fotos-para-maquinista",
+    "fecha": "21/01/2026",
+    "contenido": "Maquinista es un estudio creativo con sede en Madrid. Y, como suele ser habitual, llegué a ellas a través de internet. Llevaba tiempo siguiendo el trabajo de Valeria y sus colaboraciones junto a Sergio me parecieron igual de interesantes, pero este nuevo proyecto conjunto me hizo darme cuenta de que"
+  },
+  {
+    "blog": "La cosa infinita",
+    "titulo": "Notificación de Ausencia",
+    "link": "https://docig.mataroa.blog/blog/notificacion-de-ausencia/",
+    "fecha": "21/01/2026",
+    "contenido": "El cursor parpadeaba con el ritmo de un corazón artificial, marcando el pulso de una habitación en sombras. Frente a él, el muro de cristal ofrecía un banquete de vidas ajenas, fragmentos de felicidad en alta resolución que se deslizaban bajo su dedo como un rosario eléctrico.\nActualizó la página. N"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Frena a Amazon, defiende Aragón: Contencioso histórico contra los megacentros de datos",
+    "link": "https://56k.es/fanta/frena-a-amazon-defiende-aragon-contencioso-historico-contra-los-megacentros-de-datos/",
+    "fecha": "21/01/2026",
+    "contenido": "Mucha gente ante el problema que están suponiendo los Megacentros de datos americanos se pregunta: ¿Cómo puedo ayudar? Pues justo hoy día 21 de Enero se ha lanzado una campaña de Crowdfunding. Una coalición de resistencias contra los Mega Centros de Datos como @tunubesecamirio , @ecologistas , @noce"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Paris sitiada, París Caníbal",
+    "link": "https://www.fabio.com.ar/9856-paris-sitiada-paris-canibal",
+    "fecha": "21/01/2026",
+    "contenido": "    \nDurante las \"Guerras de la Religi&oacute;n\" en Francia hubo un caso muy particular con la ahora glamorosa ciudad de Par&iacute;s que tranquilamente la pintar&iacute;a de tenebrosa, pero que los parisinos han sabido olvidar.\nEn una de esas ocasiones la ciudad termin&oacute; sitiada y la guarnici"
   },
   {
     "blog": "Victorhck in the free world",
@@ -113,7 +169,7 @@
   },
   {
     "blog": "danielaragay.net",
-    "titulo": "La doble extracción de Rico: Dientes y dinero",
+    "titulo": "La doble extracción: Dientes y dinero",
     "link": "https://blog.danielaragay.net/la-doble-extraccion-de-rico-dientes-y-dinero/",
     "fecha": "19/01/2026",
     "contenido": "Hoy te cuento la &#x201c;doble extracci&#xf3;n&#x201d; de Rico: le han quitado 3 dientes y a m&#xed; un buen dinero. &#x1f4b8; Un veterinario murciano (&#xa1;clavado a Emilcar!) nos ha atendido y me ha dado las claves reales para su higiene dental: olv&#xed;date de"
@@ -364,13 +420,6 @@
     "contenido": "Ultimamente no paso tanto tiempo en Mastodon como antes, y si lo hago es porque desde hace un tiempo “mágicamente” volvieron a funcionar las notificaciones de mi cliente Ice Cube y eso me invita a ingresar. Además allí que conocí personas que me interesa ver lo que publican. Hoy cuando ingresé a pri"
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "Una caja de comentarios, por favor",
-    "link": "https://matizeta.com/2026/01/14/una-caja-de-comentarios-por-favor/",
-    "fecha": "14/01/2026",
-    "contenido": "Empieza un nuevo año y vale la pena volver a hablar sobre la importancia de tener un blog que admita comentarios. Defiendo fervientemente su uso. Considero un recurso esencial para una interacción entre los blogs y entre el público que nos lee. Pero por sobre todo poder mantener una comunidad por fu"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Cómo transformar tu estudio con paneles acústicos de madera (Guía de instalación)",
     "link": "https://blog.danielaragay.net/como-transformar-tu-estudio-con-paneles-acusticos-de-madera-guia-de-instalacion/",
@@ -378,25 +427,11 @@
     "contenido": "Por fin he terminado (o casi) la renovaci&#xf3;n del estudio. Faltan algunos detalles, pero el cambio radical ya est&#xe1; hecho gracias a la instalaci&#xf3;n de paneles ac&#xfa;sticos de madera.No solo le dan una est&#xe9;tica incre&#xed;ble y c&#xe1;"
   },
   {
-    "blog": "Bitácora de fernand0",
-    "titulo": "Las IAs como consejeras o ayudantes",
-    "link": "https://blog.elmundoesimperfecto.com/2026/01/14/ia-gobiernos-usos/",
-    "fecha": "14/01/2026",
-    "contenido": "\n\nAlgo que parece que no está claro para todo el mundo es que la IA no sirve para todo (hasta ahora) y mucho menos los LLMs (modelos de lenguaje gigantes), que hacen algunas cosas muy bien y otras no tanto.\n\nEn Why ChatGPT is a uniquely terrible tool for government ministers nos cuentan el caso de P"
-  },
-  {
     "blog": "fernand0 @ GitHub.io",
     "titulo": "Vibe coding y programación asistida por LLMs",
     "link": "https://fernand0.github.io//vibe-coding-ia/",
     "fecha": "14/01/2026",
     "contenido": "Estoy haciendo algunos experimentos con el denominado vibe coding y me parece bastante interesante: por un lado, se pierde la pereza a realizar determinados cambios que supondrían esfuerzo de mover código, renombrar cosas, … porque la IA lo hace bastante bien; por otro, algunas veces se ‘enganchan’ "
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "La diferencia entre anunciar novedades y el \"tú lo que quieres es que me coma el tigre\"",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/01/14/20260114-si-haces-notar-una-funcionalidad-algo-va-mal/",
-    "fecha": "14/01/2026",
-    "contenido": "Saber que Microsoft se plantea meter a Copilot en el explorador de ficheros me genera ansiedad"
   },
   {
     "blog": "Erica Fustero",
@@ -411,12 +446,5 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/01/miercoles.html",
     "fecha": "14/01/2026",
     "contenido": "\n  \n    \n  \nMiércoles, mi día favorito este curso; es el día más liviano, en el que menos carga docente tengo y en el que antes llego a casa. Es curioso cómo cada cierto tiempo nuestros gustos cambian; cómo lo que nos rodea hace que un día sea nuestro favorito de la semana o el más odiado.Miércoles."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "El ticket del tranvía y la \"foto\" del pasajero",
-    "link": "https://www.fabio.com.ar/9851-el-ticket-del-tranvia-y-la-foto-del-pasajero",
-    "fecha": "14/01/2026",
-    "contenido": "    \nLeyendo sobre el origen de las tarjetas perforadas que se usaron como m&eacute;todo de almacenamiento y entrada en las primeras computadoras encontr&eacute; que Herman Hollerith, el creador del m&eacute;todo, se inspir&oacute; en varias fuentes.\nPrimero en los telares que ya usaban ese m&eacute"
   }
 ]
