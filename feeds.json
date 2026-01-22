@@ -1,5 +1,33 @@
 [
   {
+    "blog": "pov – matizeta",
+    "titulo": "Buscadores de blogs personales",
+    "link": "https://matizeta.com/2026/01/22/buscadores-de-blogs-personales/",
+    "fecha": "22/01/2026",
+    "contenido": "Cada vez aparecen más directorios en donde encontrar contenido de blogs personales para leer, De esos que no intentan venderte nada, ni están plagados de SEO, ni crean sus textos con inteligencia artificial. Debido a que Google los oculta de su buscador, tener estos directorios de blogs para encontr"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #860",
+    "link": "https://www.fabio.com.ar/9857-ruleta-rusa-860",
+    "fecha": "22/01/2026",
+    "contenido": "     Ruleta y verano\nJueves ruletero, enero sigue haciendo su da&ntilde;o habitual con calor, mosquitos y gente desaparecida 😁 pero aqu&iacute; estamos nosotros listos para dar pelea, o, bueno, dar ruletas, porque de eso se trata este post, tampoco me voy a mandar la parte, tan importante no es 😋\nAh"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Scripts de mantenimiento para FreshRSS",
+    "link": "https://picandocodigo.net/2026/scripts-de-mantenimiento-para-freshrss/",
+    "fecha": "22/01/2026",
+    "contenido": "Como comenté en mi solución RSS, estoy corriendo FreshRSS en mi Raspberry Pi 4. Estoy suscripto al feed de lanzamientos FreshRSS (cómo están esos erre ese ese) para enterarme cuando se publica una versión nueva y actualizar mi instalación. Así que en vez de escribir los comandos a mano cada vez, hic"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "El Primer Álbum de Silence The Echo Ya Es Una Realidad | “Liberation” Finalmente Llega A Fines De Enero…",
+    "link": "https://www.delotroladometal.com.ar/2026/01/22/liberation-finalmente-llega-a-fines-de-enero/",
+    "fecha": "22/01/2026",
+    "contenido": "Lo habíamos anunciado a fines de Diciembre, gracias a algunos detalles que Jani Stefanovic nos...\nThe post El Primer Álbum de Silence The Echo Ya Es Una Realidad | “Liberation” Finalmente Llega A Fines De Enero… first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Publicado Myrlyn 1.0 el gestor de paquetes para openSUSE",
     "link": "https://victorhckinthefreeworld.com/2026/01/21/publicado-myrlyn-1-0-el-gestor-de-paquetes-para-opensuse/",
@@ -224,6 +252,20 @@
     "contenido": "Segunda versión menor de la versión 3.3 del reproductor de música Amarok creado por la comunidad de KDE"
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Orinar vigilado: la indignidad normalizada de las pruebas de SPA",
+    "link": "https://gatooscuro.xyz/orinar-vigilado-la-indignidad-normalizada-de-las-pruebas-de-spa/",
+    "fecha": "19/01/2026",
+    "contenido": "Primero que nada, le explicaré qué son las pruebas de detección de SPA. Corresponden a pruebas de sustancias psicoactivas. Traté de buscar algún título llamativo, pero realmente no amarillista, y\nSeguir leyendo  Orinar vigilado: la indignidad normalizada de las pruebas de SPA\nEl cargo Orinar vigilad"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Frankenstein de Guillermo del Toro",
+    "link": "https://mareosdeungeek.es/frankenstein-de-guillermo-del-toro/",
+    "fecha": "19/01/2026",
+    "contenido": "Una de las últimas películas que vi en 2025 fue Frankenstein de Guillermo del Toro. La nueva adaptación del clásico de Mary Shelley puede verse en Netflix, que de hecho ha producido el metraje. En todo caso, nos encontramos ante la típica película de Guillermo del Toro, con una ambientación gótica r"
+  },
+  {
     "blog": "alt43",
     "titulo": "SMLIGHT MR el coordinador perfecto para redes Zigbee",
     "link": "https://alt43.es/smlight-mr-el-coordinador-perfecto-para-redes-zigbee/",
@@ -371,6 +413,13 @@
     "contenido": "Finalizado: 2026-01-16Killua jugando feliz con su skateboard, junto con Gon, su mejor amigo, y otro niño, Valt. El calor no importa, ellos son realmente felices mientras juegan juntos en este lejano parque. › Ver más »¡Patina todo el día!"
   },
   {
+    "blog": "Un Pingüino 🐧",
+    "titulo": "Amarga Rusia – En busca de lo imposible",
+    "link": "https://unpinguino.com/amarga-rusia/",
+    "fecha": "17/01/2026",
+    "contenido": "He tardado en escribir esto, teniendo en cuenta que leí este cómic hace aproximadamente tres&#8230;"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Perpetual Legacy: Teodrama | El Arte Tiene Cara De Metal",
     "link": "https://www.delotroladometal.com.ar/2026/01/17/el-arte-tiene-cara-de-metal/",
@@ -397,6 +446,13 @@
     "link": "https://interlan.ec/blog/2026/01/16/comentarios-en-sitios-estaticos/",
     "fecha": "16/01/2026",
     "contenido": "Una de las características de los blogs mas conocidas son los sistemas de comentarios, que le da el aspecto social para poder distinguirse de las paginas web comunes. Aunque en la actualidad es muy común que los blogs ya no tengan ni caja de comentarios ni forma de contacto, aun veo gente probando a"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La Ruta: modernidad, cultura y descontrol",
+    "link": "https://mareosdeungeek.es/la-ruta-modernidad-cultura-y-descontrol/",
+    "fecha": "16/01/2026",
+    "contenido": "La Ruta: modernidad, cultura y descontrol es una exposición inmersiva que puede visitarse en Valencia sobre la ruta del bakalao. Localizada en el edificio de Bombas Gens &#8211; Centre d’Arts Digitals, cerca de la estación de autobuses y Nuevo Centro, dispone de más de 2000 metros cuadrados en un re"
   },
   {
     "blog": "pov – matizeta",
@@ -455,20 +511,6 @@
     "contenido": "Tercer año de mi recopilatorio de lecturas y de las pocas publicaciones que he hecho en el blog. Intento no ... Sigue leyendo\nEl artículo Libros leídos en 2025 se publicó primero en Ikkaro."
   },
   {
-    "blog": "Galerías Preciados",
-    "titulo": "¡Hola Madrid!",
-    "link": "https://galeriaspreciados.band/hola-madrid/",
-    "fecha": "15/01/2026",
-    "contenido": "El día 31 me bajo con mis aparatos a hacer sonidos locos por la capitaldespaña con otras dos bandas que molan la leche. Si quieres saber más te lo cuento por aquí"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Qué me gusta ver en cada blog personal que visito | Parte II",
-    "link": "https://matizeta.com/2026/01/15/que-me-gusta-ver-en-cada-blog-personal-que-visito-parte-ii/",
-    "fecha": "15/01/2026",
-    "contenido": "Hace unos meses escribía sobre qué me gusta ver en cada blog personal que visito, en donde listaba elementos que creo yo no deberían faltar en los blogs personales. Esta es la continuación de aquella lista. Feed RSS No se si la mayoría de la gente utiliza un lector de RSS, quizás sea una porción [&#"
-  },
-  {
     "blog": "La bitácora de Locutus",
     "titulo": "Estado",
     "link": "http://locutusbit.blogspot.com/2026/01/estado.html",
@@ -488,19 +530,5 @@
     "link": "https://blog.danielaragay.net/mudar-se-a-suecia-quan-lestres-et-fa-oblidar-el-mes-important/",
     "fecha": "15/01/2026",
     "contenido": "Saps la teoria, per&#xf2; l&#x2019;estr&#xe8;s et fa fallar a la pr&#xe0;ctica. En aquest episodi confesso la meva &#xfa;ltima p&#xed;fia: tot i portar temps a Su&#xe8;cia, vaig oblidar notificar la mudan&#xe7;a al Skatteverket. Resultat? El carter em"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #859",
-    "link": "https://www.fabio.com.ar/9852-ruleta-rusa-859",
-    "fecha": "15/01/2026",
-    "contenido": "     Listos para ruletear?\nAaaaaaaah, es juevesssss, y as&iacute; llegamos, con tsunamis y calores, es jueves de la segunda semana full que nos regala el a&ntilde;o y hay una buena dosis de balas para todos los gustos, o eso creo, ya no lo s&eacute;, ni idea qui&eacute;n ve las ruletas 😁\nAhora s&iac"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "[Libro] The Kaiju Preservation Society - John Scalzi",
-    "link": "https://picandocodigo.net/2026/libro-the-kaiju-preservation-society-john-scalzi/",
-    "fecha": "15/01/2026",
-    "contenido": "Hay veces que vamos a una librería y encontramos un libro que nos gusta. Otras veces vamos a una librería y un libro que nos gusta nos encuentra a nosotros. Esto fue lo que me pasó con The Kaiju Preservation Society de John Scalzi. Me encontró durante una visita a Topping &#38; Company. Es una libre"
   }
 ]
