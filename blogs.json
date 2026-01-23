@@ -63,7 +63,8 @@
     "Feed": "https://www.zurdala.es/blog/index.xml",
     "Descripción": "Blog personal sobre naderías y alguna cosa más. Sitio personal.",
     "Categoría": "Vida Diaria",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "El blog es mío",
@@ -257,7 +258,8 @@
     "Feed": "https://cozy-kis.bearblog.dev/feed/",
     "Descripción": "Blog de reseñas de videojuegos indies",
     "Categoría": "Entretenimiento y Cultura",
-    "País": "España"
+    "País": "España",
+    "Aliado": "si"
   },
   {
     "Nombre": "El bocadillo de Tortilla",
@@ -388,7 +390,8 @@
     "Feed": "https://webnauta.blog/feed.xml",
     "Descripción": "Ensayos y pequeños relatos",
     "Categoría": "Tecnología, Vida Diaria",
-    "País": "México"
+    "País": "México",
+    "Aliado": "si"
   },
   {
     "Nombre": "La Máquina de Von Neumann",
