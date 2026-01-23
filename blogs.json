@@ -932,7 +932,8 @@
     "Feed": "https://xol.ar/rss.xml",
     "Descripción": "Blog personal donde hablo de las cosas que me apasionan: Desarrollo de software (sobre todo desarrollo Web), Música, Ciencia, Tecnología, Juegos (de cualquier tipo) entre otros temas.",
     "Categoría": "Tecnología, Vida Diaria, Sociedad y Economía",
-    "País": "Argentina"
+    "País": "Argentina",
+    "Aliado": "si"
   },
   {
     "Nombre": "La paradoja del cero y el uno",
@@ -940,8 +941,7 @@
     "Feed": "https://docig.bearblog.dev/feed/",
     "Descripción": "Ficciones narrativas. Un blog en español con pequeños cuentos desde Argentina al mundo.",
     "Categoría": "Literario",
-    "País": "Argentina",
-    "Aliado": "si"
+    "País": "Argentina"
   },
   {
     "Nombre": "Erica Fustero",
