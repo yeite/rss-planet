@@ -1,5 +1,26 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 4 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/01/23/opensuse-tumbleweed-revision-de-la-semana-4-de-2026/",
+    "fecha": "23/01/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "La neolengua orwelliana",
+    "link": "https://jinversor.co/2026/01/la-neolengua-orwelliana/",
+    "fecha": "23/01/2026",
+    "contenido": "En los días tragicómicos que vivimos nos tocó, entre muchos otros males y taras, coexistir con quienes pretender torcer la realidad para que se amolde a sus deseos infantiles. Incapaces [&#8230;]\nLa entrada La neolengua orwelliana se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Tutorial: Nextcloud + AriaNG",
+    "link": "https://interlan.ec/blog/2026/01/23/tutorial-nextcloud-ariang/",
+    "fecha": "23/01/2026",
+    "contenido": "Desde la versión 30 de Nextcloud NCDownload ya no funciona y parece estar estancado o directamente muerto. No tengo ganas de esperar a que lo actualicen. El ecosistema de Nextclod esta lleno de cadáveres, así que vamos probando una idea loca basada en el articulo anterior. Agreguemos servicios a un "
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "¿Sabes quienes y desde donde leen tu blog?",
     "link": "https://matizeta.com/2026/01/23/sabes-quienes-y-desde-donde-leen-tu-blog/",
@@ -12,6 +33,20 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/01/519-morbida-y-obeso.html",
     "fecha": "23/01/2026",
     "contenido": "&nbsp; &nbsp; Los cadáveres treintañeros de Mórbida y Obeso fueron encontrados una noche de invierno sin luna. Ambos yacían desnudos sobre una cama de matrimonio reforzada. Eso explicaba que no se viniera abajo, aunque, dadas las marcas en el suelo, parecía desplazada de su sitio habitual.&nbsp; &nb"
+  },
+  {
+    "blog": "Bitácora baldía on zurdeando",
+    "titulo": "Sobre los lugares olvidados",
+    "link": "https://www.zurdala.es/blog/sobre-los-lugares-olvidados/",
+    "fecha": "23/01/2026",
+    "contenido": "El otro día, yendo con el coche por la carretera, vi una curva.\nNo era una curva especial ni tenía nada de particular.\nY me asaltó la imagen de esas curvas que a veces tienen una cruz o unas flores,\nmarcando el recuerdo del fallecimiento de alguien en ese punto.\nLa idea de que haya lugares que tiene"
+  },
+  {
+    "blog": "Bitácora baldía on zurdeando",
+    "titulo": "Zurdal",
+    "link": "https://www.zurdala.es/blog/zurdal/",
+    "fecha": "23/01/2026",
+    "contenido": "Hoy he aprendido una palabra nueva, y quiero documentarla.\nResulta que la palabra &lsquo;zurdal&rsquo; existe en castellano, aunque únicamente en la región palentina.\nDa la casualidad de que uno de los orígenes familiares que tengo es Palencia.\nUno de mis bisabuelos era de allí y emigró a Andalucía "
   },
   {
     "blog": "Fabio.com.ar",
@@ -36,7 +71,7 @@
   },
   {
     "blog": "Malagueños originales y libres",
-    "titulo": "Arcade hucha y sus posibilidades",
+    "titulo": "Arcade hucha y sus posibilidades (I)",
     "link": "https://malagaoriginal.blogspot.com/2026/01/arcade-hucha-y-sus-posibilidades.html",
     "fecha": "22/01/2026",
     "contenido": "Mi mujer pasó por una tienda de regalos y me trajo esta curiosa hucha con forma de máquina arcade.&nbsp;&nbsp;&nbsp;&nbsp;Como veis se trata de un objeto decorativo muy curioso y original en el que vamos echando monedas hasta llenarla y que luego podemos recuperar fácilmente doblando unas pestañas q"
@@ -210,13 +245,6 @@
     "contenido": "Maquinista es un estudio creativo con sede en Madrid. Y, como suele ser habitual, llegué a ellas a través de internet. Llevaba tiempo siguiendo el trabajo de Valeria y sus colaboraciones junto a Sergio me parecieron igual de interesantes, pero este nuevo proyecto conjunto me hizo darme cuenta de que"
   },
   {
-    "blog": "La cosa infinita",
-    "titulo": "Notificación de Ausencia",
-    "link": "https://docig.mataroa.blog/blog/notificacion-de-ausencia/",
-    "fecha": "21/01/2026",
-    "contenido": "El cursor parpadeaba con el ritmo de un corazón artificial, marcando el pulso de una habitación en sombras. Frente a él, el muro de cristal ofrecía un banquete de vidas ajenas, fragmentos de felicidad en alta resolución que se deslizaban bajo su dedo como un rosario eléctrico.\nActualizó la página. N"
-  },
-  {
     "blog": "",
     "titulo": "Recomendación.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/01/21/recomendacion-14/",
@@ -271,13 +299,6 @@
     "link": "https://develumpen.com/migrar-activestorage-de-disk-a-otro-servicio",
     "fecha": "20/01/2026",
     "contenido": "Cuando empiezo una aplicación nueva de Rails intento configurar lo menos posible, especialmente cuando se trata de servicios externos. Cuando ya se hace insostenible es cuando me decido a dar el paso. En este caso tengo una aplicación corriendo en una Raspberry, a la que accede mi familia desde dife"
-  },
-  {
-    "blog": "Ikkaro",
-    "titulo": "Jalapeños",
-    "link": "https://www.ikkaro.com/jalapenos/",
-    "fecha": "20/01/2026",
-    "contenido": "Esta es la última variedad de chiles que he cultivado. Llevo ya dos años con ellos y de momento creo ... Sigue leyendo\nEl artículo Jalapeños se publicó primero en Ikkaro."
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -537,40 +558,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/01/17/el-arte-tiene-cara-de-metal/",
     "fecha": "17/01/2026",
     "contenido": "(2024 &#8211; En Hakkore Records) A esta altura, nadie discute que el Metal en sí,...\nThe post Perpetual Legacy: Teodrama | El Arte Tiene Cara De Metal first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 3 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/01/16/opensuse-tumbleweed-revision-de-la-semana-3-de-2026/",
-    "fecha": "16/01/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Proyecto: Comentarios en Sitios Estáticos",
-    "link": "https://interlan.ec/blog/2026/01/16/comentarios-en-sitios-estaticos/",
-    "fecha": "16/01/2026",
-    "contenido": "Una de las características de los blogs mas conocidas son los sistemas de comentarios, que le da el aspecto social para poder distinguirse de las paginas web comunes. Aunque en la actualidad es muy común que los blogs ya no tengan ni caja de comentarios ni forma de contacto, aun veo gente probando a"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Recomendando Blogs en español - Parte III - ¡Blog!¡Blog!",
-    "link": "https://picandocodigo.net/2026/recomendando-blogs-espanol-blogs-blogs/",
-    "fecha": "16/01/2026",
-    "contenido": "Siguiendo con la misión de leer más blogs en español (y recomendar blogs), agregarlos a mi lector RSS y generar un poco más de comunidad virtual, me encontré con un muy buen recurso. ¡Blog!¡Blog! es un directorio para buscar y encontrar blogs personales en español Libres de SEO, Inteligencia Artific"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Me compré un Kobo",
-    "link": "https://nachof.blog/posts/2026/me-compr%C3%A9-un-kobo/",
-    "fecha": "16/01/2026",
-    "contenido": "Creo que ya lo mencioné antes, pero quiero sacar a Amazon de mi vida. Tengo hace años un Kindle Paperwhite, y hace un tiempo ya lo tenía corriendo con Koreader. El tema es que me había empezado a dar problemas. La batería ya no dura lo de antes, el microusb está flojo y sólo me funciona consistentem"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Bombas Van…Bombas Vienen, y el 2026 Nos Entretiene…",
-    "link": "https://www.delotroladometal.com.ar/2026/01/16/bombas-van-bombas-vienen-y-el-2026-nos-entretiene/",
-    "fecha": "16/01/2026",
-    "contenido": "Ok, bienvenido 2026. Tremenda cosa; nuevo año y nueva vida dicen por ahí. Impresionante? La...\nThe post Bombas Van…Bombas Vienen, y el 2026 Nos Entretiene… first appeared on Del Otro Lado Metal."
   }
 ]
