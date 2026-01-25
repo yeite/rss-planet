@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Morphine el «power trio» ecléctico",
+    "link": "https://victorhckinthefreeworld.com/2026/01/25/morphine-el-power-trio-eclectico/",
+    "fecha": "25/01/2026",
+    "contenido": "La banda de rock Morphine fue una rara avis en el panorama musical, en el que frente al frenesí guitarrero del Grunge epataban con una intensidad musical en la que la gran ausente era la guitarra, icono clásico de la música"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Nueva era, chavos: más hardcore, menos cruda",
+    "link": "https://blog.luiscarlospando.com/personal/2026/01/nueva-era-chavos-mas-hardcore-menos-cruda/",
+    "fecha": "25/01/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Bitácora baldía on zurdeando",
+    "titulo": "Sistema de comentarios de Mastodon",
+    "link": "https://www.zurdala.es/blog/sistema-de-comentarios-de-mastodon/",
+    "fecha": "25/01/2026",
+    "contenido": "He añadido un sistema de comentarios a mi sitio generado estáticamente con Hugo.\nEl sistema de comentarios está basado en Mastodon. Simplemente, al final del post aparece un botón para cargar los comentarios que salgan a este post en Mastodon.\nLa implementación original hay que agradecérsela a Carl "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Lo Escuchamos En Su Totalidad Y Adelantamos De Qué Se Trata... | Michael Sweet Anuncia “The Master Plan” para Abril",
+    "link": "https://www.delotroladometal.com.ar/2026/01/25/michael-sweet-anuncia-the-master-plan-para-abril/",
+    "fecha": "25/01/2026",
+    "contenido": "Su carrera solista es donde Michael Sweet se permite salir de lo que es Stryper,...\nThe post Lo Escuchamos En Su Totalidad Y Adelantamos De Qué Se Trata... | Michael Sweet Anuncia “The Master Plan” para Abril first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Enero – Ejercicio de clase del taller de escritura de Librería Luces Semana 14",
     "link": "https://mcallus.net/2026/01/24/enero-ejercicio-de-clase-del-taller-de-escritura-de-libreria-luces-semana-14/",
@@ -511,13 +539,6 @@
     "contenido": "El Death Metal como género tiene sus diferentes variantes, y no es la idea hacer...\nThe post Desde México, Roots Despliega Todo Su Extremo Arsenal... | La Expansión Del Death Metal y Sus Variantes… first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "Herramientas cognitivas XI",
-    "link": "https://vonneumannmachine.wordpress.com/2026/01/18/herramientas-cognitivas-xi/",
-    "fecha": "18/01/2026",
-    "contenido": "Continuamos con la célebre colección:  Hoy empieza todo. No conozco bien el origen de esta expresión. Hay un programa de Radio 3, una película francesa de Bertrand Tavernier, y una canción de Viva Suecia &#38; Rufus T. Firefly con ese mismo nombre, pero no he encontrado un origen literario anterior."
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Algo estoy haciendo bien",
     "link": "https://jinversor.co/2026/01/algo-estoy-haciendo-bien/",
@@ -532,13 +553,6 @@
     "contenido": "Va a ser raro escribir este texto mientras tengo de fondo la TV con el especial informativo por el acontecimiento trágico de hoy. Mucho ánimo a todos los afectados por el accidente en Adamuz, no puedo imaginarme la tragedia que tienen que estar viviendo.\nLa semana, de nuevo, ha sido bastante anodina"
   },
   {
-    "blog": "56K",
-    "titulo": "Montar un servidor en una vieja tablet de bajo consumo",
-    "link": "https://56k.es/fanta/montar-un-servidor-web-en-una-vieja-tablet-de-bajo-consumo/",
-    "fecha": "18/01/2026",
-    "contenido": "Hace unos años cuando mi pareja estaba montando su negocio fuimos a una feria de estas de pueblos. Montábamos allí el puestecito y ella hizo una inversión de comprar 2 tablets SPC (es una marca) malas y baratas. Yo monté un server y en fin que esas tablets para aquellas demos vinieron bien pero &#82"
-  },
-  {
     "blog": "Un blog",
     "titulo": "¡Blog!¡Blog!: directorio de blogs en español",
     "link": "https://nachof.blog/posts/2026/blogblog-directorio-de-blogs-en-espa%C3%B1ol/",
@@ -551,12 +565,5 @@
     "link": "https://nachof.blog/posts/2026/the-sovereign/",
     "fecha": "18/01/2026",
     "contenido": "\n\n\nYa hablé un poco de los otros libros de esta serie (The Unbroken y The Faithless) en el post sobre los libros que leí en el 2025.\nLa premisa es que Touraine, nacida en Qazal (que definitivamente no es Argelia), pero reclutada de niña por el ejército de Balladaire (que definitivamente no es Franci"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista con Herbie Langhans (Avantasia, Firewind, Seventh Avenue, Etc) | “Soy Un Chico De Los ´80”",
-    "link": "https://www.delotroladometal.com.ar/2026/01/18/soy-un-chico-de-los-80/",
-    "fecha": "18/01/2026",
-    "contenido": "Quién recuerde a Seventh Avenue, es improbable que la voz de Herbie Langhans se le...\nThe post Entrevista con Herbie Langhans (Avantasia, Firewind, Seventh Avenue, Etc) | “Soy Un Chico De Los ´80” first appeared on Del Otro Lado Metal."
   }
 ]
