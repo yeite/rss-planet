@@ -1,5 +1,12 @@
 [
   {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Enero – Ejercicio de clase del taller de escritura de Librería Luces Semana 14",
+    "link": "https://mcallus.net/2026/01/24/enero-ejercicio-de-clase-del-taller-de-escritura-de-libreria-luces-semana-14/",
+    "fecha": "24/01/2026",
+    "contenido": "Esta semana teníamos un ejercicio de escritura automática a partir de palabras aleatorias, cada poco segundos, que nos iba diciendo la profesora. La otra regla es no dejar de escribir en ningún momento. La verdad es que esta semana no estaba muy inspirado, el año está siendo agotador, y me dejé fuer"
+  },
+  {
     "blog": "Mareos de un geek",
     "titulo": "De bares por Valencia: Bar Cassalla y Cal Carrero",
     "link": "https://mareosdeungeek.es/de-bares-por-valencia-bar-cassalla-y-cal-carrero/",
@@ -28,11 +35,25 @@
     "contenido": "Esta entrada de Manuel Moreale que publicó ayer es un claro ejemplo de lo susceptible que esta la sociedad de «los ofendiditos», de los que en las redes son los primeros en señalar con el dedo cualquier «desvío socialmente inaceptable» como si estuvieran esperando que suceda. Que hablan de la boca p"
   },
   {
+    "blog": "Diegologs 💾",
+    "titulo": "El Resident Evil 2 Remake está bien pero mal",
+    "link": "https://diegologs.com/review-resident-evil-2-remake/",
+    "fecha": "24/01/2026",
+    "contenido": "Bueno, pues estas navidades me he pasado el Resident Evil 2 remake. Regalo de mi hermano, por cierto. Probablemente yo no me lo hubiera comprado porque no soy muy fan de la saga, pero bueno, me lo he jugado y traigo la review.\nAclarar que he jugado con el path de Leon (recomendado por mi hermano), e"
+  },
+  {
     "blog": "prosa",
     "titulo": "carta de noticias",
     "link": "https://blog.adrianaaraujot.casa/carta-de-noticias/",
     "fecha": "24/01/2026",
     "contenido": "un 2026 en ciernes y dos avisos importantes para el corto plazo"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Juegos de mesa en Montreal",
+    "link": "https://nachof.blog/posts/2026/juegos-de-mesa-en-montreal/",
+    "fecha": "24/01/2026",
+    "contenido": "Durante mi visita a Montreal aproveché para hacer cosas relacionadas con juegos de mesa, porque por supuesto que sí. Me compré algunos juegos, que son más baratos que en Uruguay, y aparte Le Valet d&rsquo;Coeur, la tienda más grande y recomendada que encontré, es enorme y tiene bastante variedad. Ta"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -74,7 +95,7 @@
     "titulo": "519. Mórbida y Obeso",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/01/519-morbida-y-obeso.html",
     "fecha": "23/01/2026",
-    "contenido": "&nbsp; &nbsp; Los cadáveres treintañeros de Mórbida y Obeso fueron encontrados una noche de invierno sin luna. Ambos yacían desnudos sobre una cama de matrimonio reforzada. Eso explicaba que no se viniera abajo, aunque, dadas las marcas en el suelo, parecía desplazada de su sitio habitual.&nbsp; &nb"
+    "contenido": "&nbsp; &nbsp; Los cadáveres treintañeros de Mórbida y Obeso fueron encontrados una noche de invierno sin luna. Ambos yacían desnudos sobre una cama de matrimonio reforzada. Eso explicaba que no se viniera abajo, aunque dadas las marcas en el suelo parecía desplazada de su sitio habitual.&nbsp; &nbsp"
   },
   {
     "blog": "Bitácora baldía on zurdeando",
@@ -336,6 +357,13 @@
     "contenido": "Cuando empiezo una aplicación nueva de Rails intento configurar lo menos posible, especialmente cuando se trata de servicios externos. Cuando ya se hace insostenible es cuando me decido a dar el paso. En este caso tengo una aplicación corriendo en una Raspberry, a la que accede mi familia desde dife"
   },
   {
+    "blog": "Ikkaro",
+    "titulo": "Jalapeños",
+    "link": "https://www.ikkaro.com/jalapenos/",
+    "fecha": "20/01/2026",
+    "contenido": "Esta es la última variedad de chiles que he cultivado. Llevo ya dos años con ellos y de momento creo ... Sigue leyendo\nEl artículo Jalapeños se publicó primero en Ikkaro."
+  },
+  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "La iluminación LED es una maravilla",
     "link": "https://www.macram.es/posts/2026/01/la-tecnologia-led-es-una-maravilla/",
@@ -483,13 +511,6 @@
     "contenido": "El Death Metal como género tiene sus diferentes variantes, y no es la idea hacer...\nThe post Desde México, Roots Despliega Todo Su Extremo Arsenal... | La Expansión Del Death Metal y Sus Variantes… first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "GoRiX blog",
-    "titulo": "SWAKS: La navaja suiza del SMTP",
-    "link": "https://blog.gorix.xyz/swaks-la-navaja-suiza-del-smtp.html",
-    "fecha": "18/01/2026",
-    "contenido": "\n    El término “navaja suiza” se usa para describir herramientas versátiles, simples y extremadamente útiles. Por ejemplo ffmpeg, netcat, etc…. de esta última armé algo.\n\n\n    Pero cuando entramos en el mundo del correo electrónico, hay una herramienta que cumple exactamente ese rol: swaks.\n\n\n    S"
-  },
-  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "Herramientas cognitivas XI",
     "link": "https://vonneumannmachine.wordpress.com/2026/01/18/herramientas-cognitivas-xi/",
@@ -509,13 +530,6 @@
     "link": "https://www.macram.es/posts/2026/01/semana-3-2026/",
     "fecha": "18/01/2026",
     "contenido": "Va a ser raro escribir este texto mientras tengo de fondo la TV con el especial informativo por el acontecimiento trágico de hoy. Mucho ánimo a todos los afectados por el accidente en Adamuz, no puedo imaginarme la tragedia que tienen que estar viviendo.\nLa semana, de nuevo, ha sido bastante anodina"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Mi estudio para hacer directos en la cocina",
-    "link": "https://blog.danielaragay.net/mi-estudio-para-hacer-directos-en-la-cocina/",
-    "fecha": "18/01/2026",
-    "contenido": "Te cuento como de liado he estado hoy preparando el estudio de v&#xed;deo de la cocina haciendo que se me olvidara participar en el podcast Mossega la poma. Ho sento &#x1f62b;Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram:"
   },
   {
     "blog": "56K",
@@ -544,26 +558,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/01/18/soy-un-chico-de-los-80/",
     "fecha": "18/01/2026",
     "contenido": "Quién recuerde a Seventh Avenue, es improbable que la voz de Herbie Langhans se le...\nThe post Entrevista con Herbie Langhans (Avantasia, Firewind, Seventh Avenue, Etc) | “Soy Un Chico De Los ´80” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "FreeBTC",
-    "link": "https://jinversor.co/2026/01/freebtc/",
-    "fecha": "17/01/2026",
-    "contenido": "El trabajo divulgativo y pegagógico que están haciendo los compañeros de FreeBTC es asombroso. Frente a una humanidad sometida por el arbitrio de los burócratas, ellos ponen a disposición de [&#8230;]\nLa entrada FreeBTC se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Plutoide Marcianadas",
-    "titulo": "Killua - SK8 con amigos (Hunter X Hunter & Beyblade Burst)",
-    "link": "https://plutoidemarcianadas.blogspot.com/2026/01/killua-sk8-con-amigos-hunter-x-hunter.html",
-    "fecha": "17/01/2026",
-    "contenido": "Finalizado: 2026-01-16Killua jugando feliz con su skateboard, junto con Gon, su mejor amigo, y otro niño, Valt. El calor no importa, ellos son realmente felices mientras juegan juntos en este lejano parque. › Ver más »¡Patina todo el día!"
-  },
-  {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "Amarga Rusia – En busca de lo imposible",
-    "link": "https://unpinguino.com/amarga-rusia/",
-    "fecha": "17/01/2026",
-    "contenido": "He tardado en escribir esto, teniendo en cuenta que leí este cómic hace aproximadamente tres&#8230;"
   }
 ]
