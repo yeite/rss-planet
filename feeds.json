@@ -7,6 +7,13 @@
     "contenido": "La banda de rock Morphine fue una rara avis en el panorama musical, en el que frente al frenesí guitarrero del Grunge epataban con una intensidad musical en la que la gran ausente era la guitarra, icono clásico de la música"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "Máximos y Mínimos",
+    "link": "https://jinversor.co/2026/01/maximos-y-minimos/",
+    "fecha": "25/01/2026",
+    "contenido": "Como inversionista también caí en la penosa obsesión por los precios máximos y mínimos de los títulos a negociar. Perseguimos la idea de vender en máximos y recomprar en mínimos [&#8230;]\nLa entrada Máximos y Mínimos se publicó primero en Jinversor."
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "Nueva era, chavos: más hardcore, menos cruda",
     "link": "https://blog.luiscarlospando.com/personal/2026/01/nueva-era-chavos-mas-hardcore-menos-cruda/",
@@ -14,11 +21,32 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
+    "blog": "NeoSite Blog",
+    "titulo": "Hace años que no pruebo otra distro",
+    "link": "http://blog.neosite.com.ar/post/draft_hace-a-os-que-no-pruebo-otra-distro",
+    "fecha": "25/01/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Newsletter news",
+    "link": "https://www.ericafustero.com/2026-01-newsletter-news",
+    "fecha": "25/01/2026",
+    "contenido": "Hace tres años puse las newsletters de vuelta y media y ahora estoy aquí para anunciar que yo también he empezado una. Si te suscribes, más o menos una vez al mes recibirás noticias de mis andanzas: cosas como si voy a sacar algún libro a la venta o si voy a participar en algún [&#8230;]"
+  },
+  {
     "blog": "Bitácora baldía on zurdeando",
     "titulo": "Sistema de comentarios de Mastodon",
     "link": "https://www.zurdala.es/blog/sistema-de-comentarios-de-mastodon/",
     "fecha": "25/01/2026",
     "contenido": "He añadido un sistema de comentarios a mi sitio generado estáticamente con Hugo.\nEl sistema de comentarios está basado en Mastodon. Simplemente, al final del post aparece un botón para cargar los comentarios que salgan a este post en Mastodon.\nLa implementación original hay que agradecérsela a Carl "
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "\"Hackeando\" los QR del supermercado",
+    "link": "https://nachof.blog/posts/2026/hackeando-los-qr-del-supermercado/",
+    "fecha": "25/01/2026",
+    "contenido": "Si vivís en Uruguay, posiblemente estés familizarizado con las promociones de los stickers de Geant, Devoto, y Disco (ese hermoso casi-monopolio disfrazado que tenemos). La cosa funciona así: cuando comprás algo, dependiendo del costo, y de si son productos &ldquo;participantes&rdquo; en la promoció"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -537,33 +565,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/01/19/la-expansion-del-death-metal-y-sus-variantes/",
     "fecha": "19/01/2026",
     "contenido": "El Death Metal como género tiene sus diferentes variantes, y no es la idea hacer...\nThe post Desde México, Roots Despliega Todo Su Extremo Arsenal... | La Expansión Del Death Metal y Sus Variantes… first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Algo estoy haciendo bien",
-    "link": "https://jinversor.co/2026/01/algo-estoy-haciendo-bien/",
-    "fecha": "18/01/2026",
-    "contenido": "El 2025 fue para mí un buen año en lo económico. No porque se hubieran ganado enormes sumas de dinero, aunque no estuvo mal, sino porque se recortaron las pérdidas [&#8230;]\nLa entrada Algo estoy haciendo bien se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 03/2026",
-    "link": "https://www.macram.es/posts/2026/01/semana-3-2026/",
-    "fecha": "18/01/2026",
-    "contenido": "Va a ser raro escribir este texto mientras tengo de fondo la TV con el especial informativo por el acontecimiento trágico de hoy. Mucho ánimo a todos los afectados por el accidente en Adamuz, no puedo imaginarme la tragedia que tienen que estar viviendo.\nLa semana, de nuevo, ha sido bastante anodina"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "¡Blog!¡Blog!: directorio de blogs en español",
-    "link": "https://nachof.blog/posts/2026/blogblog-directorio-de-blogs-en-espa%C3%B1ol/",
-    "fecha": "18/01/2026",
-    "contenido": "Recientemente gracias a un post de Picando Código descubrí ¡Blog!¡Blog!.\n¡Blog!¡Blog! es un directorio de blogs en español. El tipo (matizeta) recopila blogs en español, que cumplan con ciertas condiciones:\n\nUn directorio para buscar y encontrar blogs personales en español Libres de SEO, Inteligenci"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "The Sovereign (Magic of the Lost #3) - C.L. Clark",
-    "link": "https://nachof.blog/posts/2026/the-sovereign/",
-    "fecha": "18/01/2026",
-    "contenido": "\n\n\nYa hablé un poco de los otros libros de esta serie (The Unbroken y The Faithless) en el post sobre los libros que leí en el 2025.\nLa premisa es que Touraine, nacida en Qazal (que definitivamente no es Argelia), pero reclutada de niña por el ejército de Balladaire (que definitivamente no es Franci"
   }
 ]
