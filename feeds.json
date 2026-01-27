@@ -1,5 +1,33 @@
 [
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "La fantasía de ser invisible",
+    "link": "https://gatooscuro.xyz/la-fantasia-de-ser-invisible/",
+    "fecha": "27/01/2026",
+    "contenido": "Nota: Si eres fiel seguidor de este blog podrás tener idea de algunos fragmentos similares a otros textos y es que, este texto nació en medio de dos artículos &#8220;El\nSeguir leyendo  La fantasía de ser invisible\nEl cargo La fantasía de ser invisible apareció primero en El cuarto de GatoOscuro."
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Un mundo de contradicción social",
+    "link": "https://matizeta.com/2026/01/27/un-mundo-de-contradiccion-social/",
+    "fecha": "27/01/2026",
+    "contenido": "Hoy cada comentario en una red social se responde con agresividad. Si piensas lo contrario, entonces eres un loco que merece ser lapidado digitalmente. Por una lado esta esta agresividad injustificada y por el otro la ofensa obsesiva en que cualquier cosa que se diga puede sonar discriminatoria y al"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Búsqueda precisa en ElasticSearch",
+    "link": "https://www.fabio.com.ar/9860-busqueda-precisa-en-elasticsearch",
+    "fecha": "27/01/2026",
+    "contenido": "    \nEl otro d&iacute;a implement&eacute; mi buscador de blogs e inicialmente no le hab&iacute;a dedicado demasiado a la estrategia de b&uacute;squeda. Era una implementaci&oacute;n a secas que tiraba el contenido en ElasticSearch y luego hac&iacute;a la b&uacute;squeda m&aacute;s simple del mundo.\n"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "\"Refined By The Flames\" Es Su Nuevo EP | Becoming Sons Revela Su Nuevo Trabajo",
+    "link": "https://www.delotroladometal.com.ar/2026/01/27/becoming-sons-revela-su-nuevo-trabajo/",
+    "fecha": "27/01/2026",
+    "contenido": "Cosa rara parece ser lo de Becoming Sons, una banda proveniente de San Antonio, Texas,...\nThe post \"Refined By The Flames\" Es Su Nuevo EP | Becoming Sons Revela Su Nuevo Trabajo first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "El libro electrónico y la vuelta al físico",
     "link": "https://thecheis.com/2026/01/26/el-libro-electronico-y-la-vuelta-al-fisico/",
@@ -126,6 +154,13 @@
     "contenido": "La banda de rock Morphine fue una rara avis en el panorama musical, en el que frente al frenesí guitarrero del Grunge epataban con una intensidad musical en la que la gran ausente era la guitarra, icono clásico de la música"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "Máximos y Mínimos",
+    "link": "https://jinversor.co/2026/01/maximos-y-minimos/",
+    "fecha": "25/01/2026",
+    "contenido": "Como inversionista también caí en la penosa obsesión por los precios máximos y mínimos de los títulos a negociar. Perseguimos la idea de vender en máximos y recomprar en mínimos [&#8230;]\nLa entrada Máximos y Mínimos se publicó primero en Jinversor."
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "Nueva era, chavos: más hardcore, menos cruda",
     "link": "https://blog.luiscarlospando.com/personal/2026/01/nueva-era-chavos-mas-hardcore-menos-cruda/",
@@ -236,6 +271,13 @@
     "link": "https://victorhckinthefreeworld.com/2026/01/23/opensuse-tumbleweed-revision-de-la-semana-4-de-2026/",
     "fecha": "23/01/2026",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "La neolengua orwelliana",
+    "link": "https://jinversor.co/2026/01/la-neolengua-orwelliana/",
+    "fecha": "23/01/2026",
+    "contenido": "En los días tragicómicos que vivimos nos tocó, entre muchos otros males y taras, coexistir con quienes pretender torcer la realidad para que se amolde a sus deseos infantiles. Incapaces [&#8230;]\nLa entrada La neolengua orwelliana se publicó primero en Jinversor."
   },
   {
     "blog": "Interlan",
@@ -497,11 +539,11 @@
     "contenido": "Con un poco de nostalgia, y otro poco de homenaje, no podía faltar este fanzine,...\nThe post Aceldama Zine Nro. 2 – Año 2004 first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Añadir el repositorio de Firefox Nightly en openSUSE",
-    "link": "https://victorhckinthefreeworld.com/2026/01/20/anadir-el-repositorio-de-firefox-nightly-en-opensuse/",
+    "blog": "Jinversor",
+    "titulo": "Algún día",
+    "link": "https://jinversor.co/2026/01/algun-dia/",
     "fecha": "20/01/2026",
-    "contenido": "Mozilla ha creado unos repositorios en los que ofrece la versión Nightly del navegador Firefox para poder instalar directamente el paquete .rpm"
+    "contenido": "Ayer mientras conducía por la ciudad y veía en lo que nos hemos convertido como sociedad recordé a Travis Bickle (Robert De Niro), el mítico y perturbado (ahora lo dudo) [&#8230;]\nLa entrada Algún día se publicó primero en Jinversor."
   },
   {
     "blog": "Ikkaro",
@@ -511,20 +553,6 @@
     "contenido": "Esta es la última variedad de chiles que he cultivado. Llevo ya dos años con ellos y de momento creo ... Sigue leyendo\nEl artículo Jalapeños se publicó primero en Ikkaro."
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "La iluminación LED es una maravilla",
-    "link": "https://www.macram.es/posts/2026/01/la-tecnologia-led-es-una-maravilla/",
-    "fecha": "20/01/2026",
-    "contenido": "Cada vez que subo a mi terraza pienso que los LED son uno de los (muchos) avances tecnológicos que de verdad aportan algo importante e interesante a la humanidad. Podría ponerme a divagar sobre la tecnología, su historia y todo eso, pero para eso ya podéis leeros por ejemplo el artículo de la Wikipe"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Cómo sacarle más provecho a la Wikipedia",
-    "link": "https://matizeta.com/2026/01/20/como-sacarle-mas-provecho-a-la-wikipedia/",
-    "fecha": "20/01/2026",
-    "contenido": "La semana pasada Wikipedia cumplió 25 años y para festejarlo entre otras cosas hizo un recorrido multimedia de historia. Una enciclopedia que en su momento creó un sistema único tanto como plataforma como forma de administración y jubiló al Encarta. Tiempo atrás hablé de, que con el avance de la tec"
-  },
-  {
     "blog": "",
     "titulo": "Santiago Molina en La Plata.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/01/20/santiago-molina-en-la-plata/",
@@ -532,25 +560,11 @@
     "contenido": "Santiago Molina deja Café Berlín en el barrio de Devoto con la intención de presentarse en la ciudad de La Plata, el musico se presentara con toda su banda en las casa Suiza. Abajo les dejo el Link para adquirir las entradas. &#62;&#62;&#62; Entradas Aquí &#60;&#60;&#60;"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Creando un buscador de blogs",
-    "link": "https://www.fabio.com.ar/9855-creando-un-buscador-de-blogs",
-    "fecha": "20/01/2026",
-    "contenido": "    \nEst&aacute; Google, est&aacute; Bing y hasta DuckDuckGo as&iacute; que crear un buscador nuevo es un total desprop&oacute;sito, aun as&iacute; quiero hacerlo &iquest;Por qu&eacute;? Porque no quiero buscar entre los miles de sitios basura SEO y publicidad, quiero buscar entre los sitios que leo"
-  },
-  {
     "blog": "Picando Código",
     "titulo": "Disponible Pale Moon v34",
     "link": "https://picandocodigo.net/2026/disponible-pale-moon-v34/",
     "fecha": "20/01/2026",
     "contenido": "Hoy se publicó una versión mayor nueva del navegador web Pale Moon. Este proyecto empezó como un derivado del código de Mozilla Firefox, pero siguió su propia línea alternativa de desarrollo. Pale Moon usa el motor Goanna, un fork de Gecko (el motor de Firefox). Además de tener cosas en común con Ge"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Mini-Truco: Mover el directorio de almacenamiento de Docker",
-    "link": "https://picandocodigo.net/2026/mini-truco-mover-el-directorio-de-almacenamiento-de-docker/",
-    "fecha": "20/01/2026",
-    "contenido": "Uso mucho Docker en el trabajo, probando distintas versiones de varias cosas, por lo que salto de una imagen a otra todo el tiempo. Un problema que me surgió con esto de saltar por imágenes distintas es que el disco duro se empezaba a llenar bastante rápido. Generalmente uso una partición primaria d"
   },
   {
     "blog": "Un blog",
@@ -565,12 +579,5 @@
     "link": "https://nachof.blog/posts/2026/un-blog-ahora-con-comentarios/",
     "fecha": "20/01/2026",
     "contenido": "Cuando migré a Hugo, una de las cosas que saqué fue los comentarios. En ese momento escribí:\n\nEl tema de los comentarios fue lo que me terminó de convencer. Tener un blog con comentarios abiertos hoy en día es inviable. Está lleno de spammers. Levantás un blog, hacés un post, y entrás a recibir come"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Chewelche: Sed De Resistencia | El Sur También Existe",
-    "link": "https://www.delotroladometal.com.ar/2026/01/20/el-sur-tambien-existe/",
-    "fecha": "20/01/2026",
-    "contenido": "(2025 &#8211; Icarus Music) Herederos del Heavy Metal con el sello y estirpe nacional que...\nThe post Chewelche: Sed De Resistencia | El Sur También Existe first appeared on Del Otro Lado Metal."
   }
 ]
