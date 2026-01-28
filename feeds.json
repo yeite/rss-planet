@@ -1,10 +1,38 @@
 [
   {
+    "blog": "note – matizeta",
+    "titulo": "Relanzo el newsletter (una vez más)",
+    "link": "https://matizeta.com/2026/01/28/relanzo-el-newsletter-una-vez-mas/",
+    "fecha": "28/01/2026",
+    "contenido": "Aprovechando un nuevo año, vuelvo a relanzar el newsletter. Esta vez será de manera mensual, se enviará el último día del mes y recopilará todas las entradas que publicado durante el mes. Algo sencillo, para el que quiera recibir una vez por mes todas las entradas.  Entonces, si querés recibir un re"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Configurar BackBlaze para hacer copias de seguridad en Home Assistant",
+    "link": "https://voidnull.es/configurar-backblaze-para-hacer-copias-de-seguridad-en-home-assistant/",
+    "fecha": "28/01/2026",
+    "contenido": "Configura Backblaze en Home Assistant y asegúrate copias de seguridad automáticas en la nube, externas y seguras, listas para restaurar en cualquier momento."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "El código generado con GenAI es como las servilletas de papel",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/01/28/20260128-el-codigo-con-genai-es-como-servilletas-papel/",
     "fecha": "28/01/2026",
     "contenido": "La nueva tendencia tecnológica es software de usar y tirar"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El retorno de ISIS con otro nombre, mismos modales y el genocidio que todos niegan",
+    "link": "https://www.fabio.com.ar/9861-el-retorno-de-isis-con-otro-nombre-mismos-modales-y-el-genocidio-que-todos-niegan",
+    "fecha": "28/01/2026",
+    "contenido": "    \nYa ni me hago problema por la demencia senil de occidente, pero igual escribo de estos temas para dar mi opini&oacute;n y conocimiento a aquellos pocos que les interesa, en este caso es la vuelta a la vida de ISIS.\n&iquest;Pero c&oacute;mo, no los hab&iacute;an vencido ya? Si, pero no. Es que l"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "\"The Silver Cord Is Severed\" Es Lo Nuevo De Los Brasileños | Sabbatariam Estrena Cover De Mortification",
+    "link": "https://www.delotroladometal.com.ar/2026/01/28/sabbatariam-estrena-cover-de-mortification/",
+    "fecha": "28/01/2026",
+    "contenido": "La banda brasileña Sabbatariam, acaba de sacudir su silencio discográfico lanzando, en forma digital, su...\nThe post \"The Silver Cord Is Severed\" Es Lo Nuevo De Los Brasileños | Sabbatariam Estrena Cover De Mortification first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Blog de Thalskarth",
@@ -504,20 +532,6 @@
     "contenido": "Lo habíamos anunciado a fines de Diciembre, gracias a algunos detalles que Jani Stefanovic nos...\nThe post El Primer Álbum de Silence The Echo Ya Es Una Realidad | “Liberation” Finalmente Llega A Fines De Enero… first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Publicado Myrlyn 1.0 el gestor de paquetes para openSUSE",
-    "link": "https://victorhckinthefreeworld.com/2026/01/21/publicado-myrlyn-1-0-el-gestor-de-paquetes-para-opensuse/",
-    "fecha": "21/01/2026",
-    "contenido": "Myrlyn vino a sustituir a YaST a la hora de tener una interfaz gráfica para la gestión de paquetes de software (borrado, búsqueda, instalación) y de repositorios"
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Hazañas no demasiado honorables por Gioventino",
-    "link": "https://mcallus.net/2026/01/21/hazanas-no-demasiado-honorables-por-gioventino/",
-    "fecha": "21/01/2026",
-    "contenido": "Este relato es el resumen de cuatro sesiones que echamos a Zweihander dirigidas por mi amigo Kike. Como muchas otras campañas, quedó abandonada pero la verdad es que molaba mucho el sistema y el grupito y ya que me he encontrado esta pequeña historia en un backup del blog anterior pues la he recuper"
-  },
-  {
     "blog": "Galerías Preciados",
     "titulo": "El despotify, el internés, el decrecimiento, la promosió",
     "link": "https://galeriaspreciados.band/el-despotify-el-internes-el-decrecimiento-la-promosio/",
@@ -546,27 +560,6 @@
     "contenido": "Permite programar la ejecución de comandos en GNU/Linux para un momento concreto del futuro, ejecutándose una sola vez sin necesidad de usar cron."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Frigate en Portainer",
-    "link": "https://voidnull.es/instalacion-de-frigate-en-portainer/",
-    "fecha": "21/01/2026",
-    "contenido": "Configura cámaras en Frigate usando streams de distinta calidad para detección y grabación, optimizando rendimiento y consumo de recursos."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "\"Simplemente escuchar música\"",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/01/21/20260121-simplemente-escuchar-musica/",
-    "fecha": "21/01/2026",
-    "contenido": "¿Y si simplemente te detienes a escuchar las piezas en la forma y orden en que se idearon?"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El Microchip del Santo Grial del Vacío",
-    "link": "https://docig.bearblog.dev/el-microchip-del-santo-grial-del-vacio/",
-    "fecha": "21/01/2026",
-    "contenido": "Aquel sujeto no navegaba: naufragaba en un océano de silicio, rodeado de sirenas de píxel que le prometían el oro y el moro mientras le succionaban la médula del espíritu. Estaba ahí, atornillado a su silla ergonómica —una verdadera máquina de tortura china para la columna—, esperando una señal, un "
-  },
-  {
     "blog": "",
     "titulo": "Recomendación.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/01/21/recomendacion-14/",
@@ -579,26 +572,5 @@
     "link": "https://56k.es/fanta/didder-generar-tramado-en-nuestras-fotos-mientras-tomamos-una-taza-de-te-blanco-con-miel/",
     "fecha": "21/01/2026",
     "contenido": "El tramado se usa normalmente para crear ilusión de profundidad de color en fotos con una paleta de colores limitada. Reducir la paleta, bajar la resolución, etc &#8230; suelen ser técnicas que permiten reducir también el tamaño de las fotos. El ojo humano percibe la difusión como una mezcla de los "
-  },
-  {
-    "blog": "56K",
-    "titulo": "Frena a Amazon, defiende Aragón: Contencioso histórico contra los megacentros de datos",
-    "link": "https://56k.es/fanta/frena-a-amazon-defiende-aragon-contencioso-historico-contra-los-megacentros-de-datos/",
-    "fecha": "21/01/2026",
-    "contenido": "Mucha gente ante el problema que están suponiendo los Megacentros de datos americanos se pregunta: ¿Cómo puedo ayudar? Pues justo hoy día 21 de Enero se ha lanzado una campaña de Crowdfunding. Una coalición de resistencias contra los Mega Centros de Datos como @tunubesecamirio , @ecologistas , @noce"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "París sitiada, París Caníbal",
-    "link": "https://www.fabio.com.ar/9856-paris-sitiada-paris-canibal",
-    "fecha": "21/01/2026",
-    "contenido": "    \nDurante las \"Guerras de la Religi&oacute;n\" en Francia hubo un caso muy particular con la ahora glamorosa ciudad de Par&iacute;s que tranquilamente la pintar&iacute;a de tenebrosa, pero que los parisinos han sabido olvidar.\nEn una de esas ocasiones la ciudad termin&oacute; sitiada y la guarnici"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Aceldama Zine Nro. 2 – Año 2004",
-    "link": "https://www.delotroladometal.com.ar/2026/01/21/aceldama-zine-nro-2-ano-2004/",
-    "fecha": "21/01/2026",
-    "contenido": "Con un poco de nostalgia, y otro poco de homenaje, no podía faltar este fanzine,...\nThe post Aceldama Zine Nro. 2 – Año 2004 first appeared on Del Otro Lado Metal."
   }
 ]
