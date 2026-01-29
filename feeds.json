@@ -1,10 +1,31 @@
 [
   {
+    "blog": "Interlan",
+    "titulo": "Salón de la Fama del Spam 11",
+    "link": "https://interlan.ec/blog/2026/01/28/salon-de-la-fama-del-spam-11/",
+    "fecha": "28/01/2026",
+    "contenido": "No pensé que iba a extender el post con un comentario que sin algunos contextos parecería legitimo. Pero tampoco es que sea dificil darse cuenta que es spam."
+  },
+  {
     "blog": "note – matizeta",
     "titulo": "Relanzo el newsletter (una vez más)",
     "link": "https://matizeta.com/2026/01/28/relanzo-el-newsletter-una-vez-mas/",
     "fecha": "28/01/2026",
-    "contenido": "Aprovechando un nuevo año, vuelvo a relanzar el newsletter. Esta vez será de manera mensual, se enviará el último día del mes y recopilará todas las entradas que publicado durante el mes. Algo sencillo, para el que quiera recibir una vez por mes todas las entradas.  Entonces, si querés recibir un re"
+    "contenido": "Aprovechando un nuevo año, vuelvo a relanzar el newsletter. Se enviará mensualmente, el último día del mes y recopilará todas las entradas publicadas durante ese período. (Solo el título del post y link en el mismo). Algo sencillo, para el que quiera recibir un resumen de lo que escribí. Entonces, s"
+  },
+  {
+    "blog": "Redes nuestras",
+    "titulo": "Qué pueden hacer las instituciones democráticas europeas para defenderse de X",
+    "link": "https://redesnuestras.net/2026/01/28/que-pueden-hacer-las-instituciones-democraticas-europeas-para-defenderse-de-x/",
+    "fecha": "28/01/2026",
+    "contenido": "La Comisión Europea anunció este lunes que va a abrir una investigación para ver si X, la plataforma de violencia sexual y criptonegocios anteriormente conocida como Twitter, incumplió el Reglamento de Servicios Digitales (DSA). Lo que le hace sospechar es que X ha permitido que su IA generativa cre"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalar Arcane en Ubuntu 24.04",
+    "link": "https://voidnull.es/instalar-arcane-en-ubuntu-24-04/",
+    "fecha": "28/01/2026",
+    "contenido": "Arcane es una plataforma basada en Docker que facilita el despliegue, la gestión y la automatización de aplicaciones en contenedores, ofreciendo una capa de abstracción para administrar servicios y entornos de forma centralizada."
   },
   {
     "blog": "_ voidNull",
@@ -19,6 +40,13 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/01/28/20260128-el-codigo-con-genai-es-como-servilletas-papel/",
     "fecha": "28/01/2026",
     "contenido": "La nueva tendencia tecnológica es software de usar y tirar"
+  },
+  {
+    "blog": "",
+    "titulo": "Nuevo Proyecto de Nicolas Sokolic.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/01/28/nuevo-proyecto-de-nicolas-sokolic/",
+    "fecha": "28/01/2026",
+    "contenido": "Nicolás Sokolic musico multi-instrumentista orientado a cuerdas y percusión, el proyecto se llama An Dis, es un grupo de Musica Irlandesa en formato de duo compuesto por el mismo Nicolás Sokolic y el interprete de Flauta y Tin Whistle Alejandro Ponte, por el momento tienen un Instagram donde dan las"
   },
   {
     "blog": "Fabio.com.ar",
@@ -77,7 +105,7 @@
     "contenido": "Últimamente estoy consumiendo mucho (quizá demasiado, no lo voy a negar) contenido sobre Pokémon. No me refiero exactamente a los juegos, sino más bien a todo el lore que hay alrededor de ellos y dentro de este universo. Es cierto que me empezaron a aparecer en recomendaciones de YouTube (supongo qu"
   },
   {
-    "blog": "note – matizeta",
+    "blog": "ladoB – matizeta",
     "titulo": "Un mundo de contradicción social",
     "link": "https://matizeta.com/2026/01/27/un-mundo-de-contradiccion-social/",
     "fecha": "27/01/2026",
@@ -267,8 +295,8 @@
   },
   {
     "blog": "NeoSite Blog",
-    "titulo": "Hace años que no pruebo otra distro",
-    "link": "http://blog.neosite.com.ar/post/draft_hace-a-os-que-no-pruebo-otra-distro",
+    "titulo": "El estado actual de las distros",
+    "link": "http://blog.neosite.com.ar/post/hace-a-os-que-no-pruebo-otra-distro",
     "fecha": "25/01/2026",
     "contenido": ""
   },
@@ -530,47 +558,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/01/22/liberation-finalmente-llega-a-fines-de-enero/",
     "fecha": "22/01/2026",
     "contenido": "Lo habíamos anunciado a fines de Diciembre, gracias a algunos detalles que Jani Stefanovic nos...\nThe post El Primer Álbum de Silence The Echo Ya Es Una Realidad | “Liberation” Finalmente Llega A Fines De Enero… first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "El despotify, el internés, el decrecimiento, la promosió",
-    "link": "https://galeriaspreciados.band/el-despotify-el-internes-el-decrecimiento-la-promosio/",
-    "fecha": "21/01/2026",
-    "contenido": "Quería hablar de un montón de cosas pero tampoco sabía muy bien como, así que las he juntado todas en un texto larguísimo y las he empaquetado listas para que te las fumes después de cenar, como bien marcan los estándares de la promosió"
-  },
-  {
-    "blog": "note – matizeta",
-    "titulo": "Comentarios en Sitios Estáticos",
-    "link": "https://matizeta.com/2026/01/21/comentarios-en-sitios-estaticos/",
-    "fecha": "21/01/2026",
-    "contenido": "Drk0027 en su blog de Interlan hizo un trabajo excelente recopilando y analizando distintos servicios que brindan la posibilidad de incluir comentarios en sitios estáticos.  No solo eso, desarrolló su propio y muy completo sistema de comentarios, que no depende se servicios externos ni de servidores"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "La legislació sueca sobre animals i l’operació d’en Rico",
-    "link": "https://blog.danielaragay.net/la-legislacio-sueca-sobre-animals-i-loperacio-den-rico/",
-    "fecha": "21/01/2026",
-    "contenido": "Avui t&#x2019;explico com funciona la legislaci&#xf3; sueca sobre animals de companyia i com afecta el dia a dia amb en Rico. Parlo de les obligacions legals, de les difer&#xe8;ncies entre gossos i gats, i tamb&#xe9; et comparteixo l&#x2019;operaci&#xf3; que li han"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "at: preparados... listos... ¡Ejecuta ahora!",
-    "link": "https://voidnull.es/at-preparados-listos-ejecuta-ahora/",
-    "fecha": "21/01/2026",
-    "contenido": "Permite programar la ejecución de comandos en GNU/Linux para un momento concreto del futuro, ejecutándose una sola vez sin necesidad de usar cron."
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendación.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/01/21/recomendacion-14/",
-    "fecha": "21/01/2026",
-    "contenido": "Les dejo como recomendación un video interesante con curiosidades acerca de los celtas, les recomiendo que lo vean."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Didder – Generar tramado en nuestras fotos mientras tomamos una taza de té blanco con miel",
-    "link": "https://56k.es/fanta/didder-generar-tramado-en-nuestras-fotos-mientras-tomamos-una-taza-de-te-blanco-con-miel/",
-    "fecha": "21/01/2026",
-    "contenido": "El tramado se usa normalmente para crear ilusión de profundidad de color en fotos con una paleta de colores limitada. Reducir la paleta, bajar la resolución, etc &#8230; suelen ser técnicas que permiten reducir también el tamaño de las fotos. El ojo humano percibe la difusión como una mezcla de los "
   }
 ]
