@@ -1,5 +1,47 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Cómo usar mjpg-streamer para hacer un streaming desde la webcam del portátil",
+    "link": "https://victorhckinthefreeworld.com/2026/01/29/como-usar-mjpg-streamer-para-hacer-un-streaming-desde-la-webcam-del-portatil/",
+    "fecha": "29/01/2026",
+    "contenido": "mjpg-streamer toma archivos JPG de cámaras web, sistemas de archivos u otros complementos de entrada compatibles con Linux-UVC y los transmite como M-JPEG a través de HTTP a navegadores web, VLC y otro software."
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Grandes noticias si usas Wordpres.com (y si no lo usas, es probable que ahora si lo quieras)",
+    "link": "https://matizeta.com/2026/01/29/grandes-noticias-si-usas-wordpres-com-y-si-no-lo-usas-es-probable-que-ahora-si-lo-quieras/",
+    "fecha": "29/01/2026",
+    "contenido": "Ayer a última hora de la tarde, recibí un mail de WordPress con el asunto que decía «Big news: Plugins + Themes now available on all WordPress.com plans«. Estos tipos de email lo suelo eliminar casi automáticamente, ya que sigo las noticias de WordPress desde su canal RSS, y es donde me entero todas"
+  },
+  {
+    "blog": "",
+    "titulo": "Supervivientes.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/01/29/supervivientes/",
+    "fecha": "29/01/2026",
+    "contenido": "El grupo de musica celta Supervivientes cumple 30 años, este grupo es uno de los grupos de musica celta de mas longevos que existe dentro del mundo hispano hablante, el grupo fue entrevistado en el podcast Aires Celtas, abajo les dejo el Link de la entrevista. https://www.ivoox.com/aires-celtas-24-0"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #861",
+    "link": "https://www.fabio.com.ar/9862-ruleta-rusa-861",
+    "fecha": "29/01/2026",
+    "contenido": "     Es hora de repartir bala\nSe siente fuerte el verano en el blog, la cantidad de lectores baja y despu&eacute;s es todo un trabajo remontarlo, recordarles que existe 😁 mamita &iquest;tanto les afecta tomarse unos d&iacute;as? &iquest;O es el calor? Como fuere, la lenta e inexorable extinci&oacute"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Reemplazando Mozilla Firefox",
+    "link": "https://picandocodigo.net/2026/reemplazando-mozilla-firefox/",
+    "fecha": "29/01/2026",
+    "contenido": "Como comenté en un post anterior, estoy dejando de usar Firefox. Una condición de este cambio es no usar un navegador web basado en el motor de Google Chrome. Google Chrome es el Internet Explorer 6 de éstos tiempos, así que quedan descartados un montón de navegadores web populares. Hace tiempo que "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Fures Promete Arrasar Con Todo | La Furia Del Metal Tiene Rostro De Mujer",
+    "link": "https://www.delotroladometal.com.ar/2026/01/29/la-furia-del-metal-tiene-rostro-de-mujer/",
+    "fecha": "29/01/2026",
+    "contenido": "Realmente es todo un hallazgo encontrar una banda solamente integrada por mujeres, y hasta quizá...\nThe post Fures Promete Arrasar Con Todo | La Furia Del Metal Tiene Rostro De Mujer first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Interlan",
     "titulo": "Salón de la Fama del Spam 11",
     "link": "https://interlan.ec/blog/2026/01/28/salon-de-la-fama-del-spam-11/",
@@ -61,6 +103,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/01/28/sabbatariam-estrena-cover-de-mortification/",
     "fecha": "28/01/2026",
     "contenido": "La banda brasileña Sabbatariam, acaba de sacudir su silencio discográfico lanzando, en forma digital, su...\nThe post \"The Silver Cord Is Severed\" Es Lo Nuevo De Los Brasileños | Sabbatariam Estrena Cover De Mortification first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Mi primera incidencia en Arch Linux",
+    "link": "https://vctrsnts.github.io/2026-01-27-arch-incidencia/",
+    "fecha": "27/01/2026",
+    "contenido": "Pensaba que iba a ser uno de los pocos elegidos que nunca iba a tener problemas con Arch Linux, pero ya os puedo decir que he dejado de ser uno, por hacer la tonteria más grande que nunca me ha pasado. Y esta ha sido borrar SystemD y he impidiendo que se pudiera iniciar el sistema."
   },
   {
     "blog": "Blog de Thalskarth",
@@ -504,13 +553,6 @@
     "contenido": "Esta semana leí un par de publicaciones en distintos blogs, relacionadas a lo que se refiera a la música offline (fuera de las plataformas digitales), que casualmente se escribieron el mismo día.&#160; Esa casualidad de leer publicaciones del mismo tema y hasta publicadas el mismo día, escritas por "
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "Buscadores de blogs personales",
-    "link": "https://matizeta.com/2026/01/22/buscadores-de-blogs-personales/",
-    "fecha": "22/01/2026",
-    "contenido": "Cada vez aparecen más directorios en donde encontrar contenido de blogs personales para leer, De esos que no intentan venderte nada, ni están plagados de SEO, ni crean sus textos con inteligencia artificial. Debido a que Google los oculta de su buscador, tener estos directorios de blogs para encontr"
-  },
-  {
     "blog": "Erica Fustero",
     "titulo": "Hola from my desk",
     "link": "https://www.ericafustero.com/2026-01-hola-from-my-desk",
@@ -532,31 +574,10 @@
     "contenido": "La Consola Errante es una PSP (Play Station Portable) ofrecida al común para el disfrute de quienes quieran usarla. Web Oficial: https://errante.56k.es/index.html Lo común no es ni tuyo ni mio ni del estado, es de todos/as/es. Cuida por tanto de la Consola Errante tratándola bien para que otras pers"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #860",
-    "link": "https://www.fabio.com.ar/9857-ruleta-rusa-860",
-    "fecha": "22/01/2026",
-    "contenido": "     Ruleta y verano\nJueves ruletero, enero sigue haciendo su da&ntilde;o habitual con calor, mosquitos y gente desaparecida 😁 pero aqu&iacute; estamos nosotros listos para dar pelea, o, bueno, dar ruletas, porque de eso se trata este post, tampoco me voy a mandar la parte, tan importante no es 😋\nAh"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Scripts de mantenimiento para FreshRSS",
-    "link": "https://picandocodigo.net/2026/scripts-de-mantenimiento-para-freshrss/",
-    "fecha": "22/01/2026",
-    "contenido": "Como comenté en mi solución RSS, estoy corriendo FreshRSS en mi Raspberry Pi 4. Estoy suscripto al feed de lanzamientos FreshRSS (cómo están esos erre ese ese) para enterarme cuando se publica una versión nueva y actualizar mi instalación. Así que en vez de escribir los comandos a mano cada vez, hic"
-  },
-  {
     "blog": "Un blog",
     "titulo": "\"Tenemos goles de sobra\"",
     "link": "https://nachof.blog/posts/2026/tenemos-goles-de-sobra/",
     "fecha": "22/01/2026",
     "contenido": "El martes nos volvimos a juntar con el grupo de juegos de rol indie. Hacía bastante que no nos juntábamos, y no teníamos mucha idea de qué íbamos a jugar. Consideramos la opción de In This World, probar un proyecto que tengo hace un tiempo en desarrollo, o agarrar algo bien light de un libro con una"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Primer Álbum de Silence The Echo Ya Es Una Realidad | “Liberation” Finalmente Llega A Fines De Enero…",
-    "link": "https://www.delotroladometal.com.ar/2026/01/22/liberation-finalmente-llega-a-fines-de-enero/",
-    "fecha": "22/01/2026",
-    "contenido": "Lo habíamos anunciado a fines de Diciembre, gracias a algunos detalles que Jani Stefanovic nos...\nThe post El Primer Álbum de Silence The Echo Ya Es Una Realidad | “Liberation” Finalmente Llega A Fines De Enero… first appeared on Del Otro Lado Metal."
   }
 ]
