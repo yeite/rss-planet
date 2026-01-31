@@ -7,11 +7,60 @@
     "contenido": "Anteayer (28/01/2026, para los lectores del futuro) salió publicada una tribuna mía en El País, en la que intentaba contestar a una pregunta relativamente sencilla sobre la red de tren de alta velocidad española: ¿hay demasiados trenes en ella? Para mí, la respuesta obvia es que no, teniendo en cuen"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 5 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/01/30/opensuse-tumbleweed-revision-de-la-semana-5-de-2026/",
+    "fecha": "30/01/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Blog de Thalskarth",
+    "titulo": "Links de interés 01",
+    "link": "https://blog.thalskarth.ar/links-de-interes-01/",
+    "fecha": "30/01/2026",
+    "contenido": "Se me ocurrió que sería buena idea ir guardando aquellos enlaces que encuentro interesantes y luego compartirlos por acá. Esta no será una sección fija ni periódica, sino que publicaré algún compilado cada vez que considere que ya junté suficientes links como para compartirlos."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Sangre en las calles",
+    "link": "https://jinversor.co/2026/01/sangre-en-las-calles/",
+    "fecha": "30/01/2026",
+    "contenido": "En el mundo de las inversiones hay un viejo adagio que dice: «Compra cuando haya sangre en las calles. Así la sangre sea tuya». La frase se le atribuye a [&#8230;]\nLa entrada Sangre en las calles se publicó primero en Jinversor."
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "El retrato",
+    "link": "https://mcallus.net/2026/01/30/el-retrato/",
+    "fecha": "30/01/2026",
+    "contenido": "La galería estaba vacía, olía a cera y madera vieja. Fuera, la lluvia caía sin tregua sobre las losas del patio interior, su murmullo era el único sonido en aquella vieja casa noble. Yo aguardaba allí por simple cortesía. Venía a dar el pésame a mi viejo amigo y contemplar el cuadro de su prometida."
+  },
+  {
     "blog": "plr blog",
     "titulo": "Actualización de la herramienta Indicadores BibPúblicas - Indicadores de eficiencia, de primer nivel y de esfuerzo para bibliotecas públicas de España desde 2010",
     "link": "https://pedrolr.es/blog/actualizacion-de-la-herramienta-indicadores-bibpublicas-indicadores-de-eficiencia-de-primer-nivel-y-de-esfuerzo-para-bibliotecas-publicas-de-espana-desde-2010/",
     "fecha": "30/01/2026",
     "contenido": "Salieron los datos de bibliotecas públicas para 2024 y he actualizado mi herramienta Indicadores BibPúblicas: Indicadores de eficiencia, de primer nivel y de esfuerzo para bibliotecas públicas de España desde 2010: https://pedrolr.es/indicadores/bibpublicas/index.html Destaco a Cantabria, comunidad "
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Artículo: Galerías Especiales en WordPress",
+    "link": "https://interlan.ec/blog/2026/01/30/articulo-incrustar-modelos-3d-en-wordpress/",
+    "fecha": "30/01/2026",
+    "contenido": "Y aquí estamos ante otro episodio de cosas que cambian y dejan todo roto a su paso. Aunque en realidad estoy exagerando. La función de incrustar de Sketchfab sigue trabajando, pero aprovecharé que han cambiado de dueño y reglas para implementar algo mas domestico, como con el resaltado de código que"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Reto OFF February",
+    "link": "https://mareosdeungeek.es/reto-off-february/",
+    "fecha": "30/01/2026",
+    "contenido": "OFF es un movimiento global que ha surgido ante la dependencia tecnológica de nuestra sociedad. En este caso, se trata más de hacer hincapié en la dependencia de las redes sociales. Estamos viviendo, sobre todo en al última década, el fenómeno de las redes sociales. Se inició como una manera de inte"
+  },
+  {
+    "blog": "NeoSite Blog",
+    "titulo": "NeoCMS - Posts relacionados y migración del sistema de estadisticas",
+    "link": "http://blog.neosite.com.ar/post/draft_neocms-posts-relacionados-y-migraci-n-del-sistema-de-estadisticas",
+    "fecha": "30/01/2026",
+    "contenido": ""
   },
   {
     "blog": "note – matizeta",
@@ -21,11 +70,25 @@
     "contenido": "Revisando mis notas, tenía algunos links de artículos que había guardado para compartirlos en algún momento y quedaron olvidados en alguna nota.&#160; Estos links y otros podés encontarlos en links.matizeta.com"
   },
   {
+    "blog": "impermanente",
+    "titulo": "Un poco de humildad",
+    "link": "https://impermanente.es/2026/01/30/un-poco-de-humildad.html",
+    "fecha": "30/01/2026",
+    "contenido": "Carl Sagan tenía una habilidad increíble para recordarnos lo pequeños que somos sin que sonara pedante. En Dragons of Eden propone uno de esos ejercicios que te recolocan la cabeza: el Calendario Cósmico. La idea es comprimir toda la historia del universo en un solo año. Bajo ese marco el Big Bang o"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalación de CachyOS Desktop Edition #ViernesDeDistros",
     "link": "https://voidnull.es/instalacion-de-cachyos-desktop-edition-viernesdedistros/",
     "fecha": "30/01/2026",
     "contenido": "Guía rápida para instalar CachyOS y dejarlo listo en pocos minutos."
+  },
+  {
+    "blog": "eaplmx",
+    "titulo": "¿Tú que no necesitas?",
+    "link": "https://text.eapl.mx/tu-que-no-necesitas",
+    "fecha": "30/01/2026",
+    "contenido": ""
   },
   {
     "blog": "56K",
@@ -511,13 +574,6 @@
     "contenido": "Antes de empezar, debo decir que he leído el título del post un par de&#8230;"
   },
   {
-    "blog": "End3r.es",
-    "titulo": "Tecno-feudalismo",
-    "link": "https://www.end3r.es/posts/014-tecno-feudalismo/",
-    "fecha": "24/01/2026",
-    "contenido": "El feudalismo fue un sistema de organización social, política y económica que predominó en gran parte de\nEuropa durante la Edad Media, caracterizado por la descentralización del poder político y basado en la posesión\nde la tierra y en relaciones de dependencia entre personas de distinto rango.\nEn es"
-  },
-  {
     "blog": "note – matizeta",
     "titulo": "«Los ofendiditos»",
     "link": "https://matizeta.com/2026/01/24/los-ofendiditos/",
@@ -551,40 +607,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/01/24/siempre-fui-un-amante-del-sonido-y-la-musica-de-los-80/",
     "fecha": "24/01/2026",
     "contenido": "Es difícil separar los recuerdos del presente, sobretodo cuando la memoria solo evoca gratos momentos....\nThe post Entrevista con Pato Saucedo de Raza Fuerte | “Siempre Fui Un Amante Del Sonido Y La Música De Los 80′” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 4 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/01/23/opensuse-tumbleweed-revision-de-la-semana-4-de-2026/",
-    "fecha": "23/01/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "La neolengua orwelliana",
-    "link": "https://jinversor.co/2026/01/la-neolengua-orwelliana/",
-    "fecha": "23/01/2026",
-    "contenido": "En los días tragicómicos que vivimos nos tocó, entre muchos otros males y taras, coexistir con quienes pretender torcer la realidad para que se amolde a sus deseos infantiles. Incapaces [&#8230;]\nLa entrada La neolengua orwelliana se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Tutorial: Nextcloud + AriaNG",
-    "link": "https://interlan.ec/blog/2026/01/23/tutorial-nextcloud-ariang/",
-    "fecha": "23/01/2026",
-    "contenido": "Desde la versión 30 de Nextcloud NCDownload ya no funciona y parece estar estancado o directamente muerto. No tengo ganas de esperar a que lo actualicen. El ecosistema de Nextclod esta lleno de cadáveres, así que vamos probando una idea loca basada en el articulo anterior. Agreguemos servicios a un "
-  },
-  {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Sobre los lugares olvidados",
-    "link": "https://www.zurdala.es/blog/sobre-los-lugares-olvidados/",
-    "fecha": "23/01/2026",
-    "contenido": "El otro día, yendo con el coche por la carretera, vi una curva.\nNo era una curva especial ni tenía nada de particular.\nY me asaltó la imagen de esas curvas que a veces tienen una cruz o unas flores,\nmarcando el recuerdo del fallecimiento de alguien en ese punto.\nLa idea de que haya lugares que tiene"
-  },
-  {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Zurdal",
-    "link": "https://www.zurdala.es/blog/zurdal/",
-    "fecha": "23/01/2026",
-    "contenido": "Hoy he aprendido una palabra nueva, y quiero documentarla.\nResulta que la palabra &lsquo;zurdal&rsquo; existe en castellano, aunque únicamente en la región palentina.\nDa la casualidad de que uno de los orígenes familiares que tengo es Palencia.\nUno de mis bisabuelos era de allí y emigró a Andalucía "
   }
 ]
