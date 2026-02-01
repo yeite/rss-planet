@@ -1,5 +1,40 @@
 [
   {
+    "blog": "plr blog",
+    "titulo": "La película \"Buenos principios\" está basada en \"Al oeste de Roma\" y \"Mi perro idiota\" de John Fante",
+    "link": "https://pedrolr.es/blog/la-pelicula-buenos-principios-esta-basada-en-al-oeste-de-roma-y-mi-perro-idiota-de-john-fante/",
+    "fecha": "01/02/2026",
+    "contenido": "El viernes me puse una película en la app de RTVE: \"Buenos principios\" (enlace a RTVE). Me la puse sin saber que está basada en \"Al oeste de Roma\" y \"Mi perro idiota\" de John Fante, quizá sin ninguna duda de quien he leído más. Tengo pocos libros en casa (tiro de bibliotecas), pero de [&#8230;]"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "El silencio también envejece",
+    "link": "https://gatooscuro.xyz/el-silencio-tambien-envejece/",
+    "fecha": "01/02/2026",
+    "contenido": "Me animé a escribir esto durante esta noche, a pocos días de mi cumpleaños, con una serie de emociones encontradas. Realmente no sé a qué darle prioridad de todo lo\nSeguir leyendo  El silencio también envejece\nEl cargo El silencio también envejece apareció primero en El cuarto de GatoOscuro."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Hozuki, la librería de Mitsuko",
+    "link": "https://mareosdeungeek.es/hozuki-la-libreria-de-mitsuko/",
+    "fecha": "01/02/2026",
+    "contenido": "Hozuki, la librería de Mitsuko es la segunda historia de la pentalogía La sombra del cardo de la escritora Aki Shimazaki. De nuevo, es otro de esos libros que encuentro en la biblioteca y despiertan mi curiosidad, así que no puedo evitar cogerlos prestados. Cuando cogí esta obra de Aki Shimazaki des"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Ping #16: Actualizaciones, novedades y ranking de distros",
+    "link": "https://voidnull.es/ping-16-actualizaciones-novedades-y-ranking-de-distros/",
+    "fecha": "01/02/2026",
+    "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "White Metal…Simple Etiqueta O Subgénero?",
+    "link": "https://www.delotroladometal.com.ar/2026/02/01/white-metalsimple-etiqueta-o-subgenero/",
+    "fecha": "01/02/2026",
+    "contenido": "Cuestión complicada de dilucidar si las hay, y una de las temáticas que más polvareda...\nThe post White Metal…Simple Etiqueta O Subgénero? first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "note – matizeta",
     "titulo": "Resumen del mes (enero 2026)",
     "link": "https://matizeta.com/2026/01/31/resumen-del-mes-enero-2026/",
@@ -525,13 +560,6 @@
     "contenido": "(2025 &#8211; Girder Records/Pakaderm Music Group) Cuando hablamos del Heavy Metal tradicional existe esa dicotomía...\nThe post Worldview: Invincible | El Heavy Metal Es Invencible first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Morphine el «power trio» ecléctico",
-    "link": "https://victorhckinthefreeworld.com/2026/01/25/morphine-el-power-trio-eclectico/",
-    "fecha": "25/01/2026",
-    "contenido": "La banda de rock Morphine fue una rara avis en el panorama musical, en el que frente al frenesí guitarrero del Grunge epataban con una intensidad musical en la que la gran ausente era la guitarra, icono clásico de la música"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Máximos y Mínimos",
     "link": "https://jinversor.co/2026/01/maximos-y-minimos/",
@@ -546,24 +574,10 @@
     "contenido": "Hace tres años puse las newsletters de vuelta y media y ahora estoy aquí para anunciar que yo también he empezado una. Si te suscribes, más o menos una vez al mes recibirás noticias de mis andanzas: cosas como si voy a sacar algún libro a la venta o si voy a participar en algún [&#8230;]"
   },
   {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Sistema de comentarios de Mastodon",
-    "link": "https://www.zurdala.es/blog/sistema-de-comentarios-de-mastodon/",
-    "fecha": "25/01/2026",
-    "contenido": "He añadido un sistema de comentarios a mi sitio generado estáticamente con Hugo.\nEl sistema de comentarios está basado en Mastodon. Simplemente, al final del post aparece un botón para cargar los comentarios que salgan a este post en Mastodon.\nLa implementación original hay que agradecérsela a Carl "
-  },
-  {
     "blog": "Un blog",
     "titulo": "\"Hackeando\" los QR del supermercado",
     "link": "https://nachof.blog/posts/2026/hackeando-los-qr-del-supermercado/",
     "fecha": "25/01/2026",
     "contenido": "Si vivís en Uruguay, posiblemente estés familizarizado con las promociones de los stickers de Geant, Devoto, y Disco (ese hermoso casi-monopolio disfrazado que tenemos). La cosa funciona así: cuando comprás algo, dependiendo del costo, y de si son productos &ldquo;participantes&rdquo; en la promoció"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Lo Escuchamos En Su Totalidad Y Adelantamos De Qué Se Trata... | Michael Sweet Anuncia “The Master Plan” para Abril",
-    "link": "https://www.delotroladometal.com.ar/2026/01/25/michael-sweet-anuncia-the-master-plan-para-abril/",
-    "fecha": "25/01/2026",
-    "contenido": "Su carrera solista es donde Michael Sweet se permite salir de lo que es Stryper,...\nThe post Lo Escuchamos En Su Totalidad Y Adelantamos De Qué Se Trata... | Michael Sweet Anuncia “The Master Plan” para Abril first appeared on Del Otro Lado Metal."
   }
 ]
