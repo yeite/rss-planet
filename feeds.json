@@ -21,11 +21,74 @@
     "contenido": "Hozuki, la librería de Mitsuko es la segunda historia de la pentalogía La sombra del cardo de la escritora Aki Shimazaki. De nuevo, es otro de esos libros que encuentro en la biblioteca y despiertan mi curiosidad, así que no puedo evitar cogerlos prestados. Cuando cogí esta obra de Aki Shimazaki des"
   },
   {
+    "blog": "Tecno y Soft",
+    "titulo": "Configurar Fastfetch para que muestre una imagen personalizada",
+    "link": "https://tecnoysoft.com/2026/02/01/configurar-fastfetch-para-que-muestre-una-imagen-personalizada/",
+    "fecha": "01/02/2026",
+    "contenido": "Me gusta ser creativo y he decidido configurar Fastfetch para que muestre una imagen personalizada como logo, controlando su tamaño, posición y sin errores en el archivo config.jsonc. Hacer una copia de respaldo Hay que ser cuidadoso en el proceso y, como medida de seguridad, comienza por hacer un r"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 05/2026",
+    "link": "https://www.macram.es/posts/2026/02/semana-5-2026/",
+    "fecha": "01/02/2026",
+    "contenido": "Final de una semana, inicio de mes. Sigue haciendo frío y eso sigue haciendo mella en los coraazones. Lo bueno es que de momento está lloviendo bien y, aunque la tierra a mi alrededor está ya saturada, los pozos están a punto de rebosar y estoy viendo correr arroyos que de normal van secos, no parec"
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "XXXVIII",
+    "link": "http://locutusbit.blogspot.com/2026/02/xxxviii.html",
+    "fecha": "01/02/2026",
+    "contenido": "&nbsp;Son los límites,porque no son símbolos,pero se imponen.Pascual Herrera"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Ping #16: Actualizaciones, novedades y ranking de distros",
     "link": "https://voidnull.es/ping-16-actualizaciones-novedades-y-ranking-de-distros/",
     "fecha": "01/02/2026",
     "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
+  },
+  {
+    "blog": "zona de confort",
+    "titulo": "Perder el miedo",
+    "link": "https://sopadeletras.club/efmorell/perder-el-miedo",
+    "fecha": "01/02/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Dune",
+    "link": "http://frikoteca.blogspot.com/2026/02/dune.html",
+    "fecha": "01/02/2026",
+    "contenido": "Hace unos días me propusieron jugar a una partida en Comunidad Umbría basada en Dune. Como he comentado en varias ocasiones, a mí me gusta bastante jugar a rol por foro, y Comunidad Umbría es un foro de los más grandes que existen en lengua hispana.\nEn Comunidad Umbría te puedes apuntar a las partid"
+  },
+  {
+    "blog": "eaplmx",
+    "titulo": "Ya no es lo que era, y no está bien",
+    "link": "https://text.eapl.mx/ya-no-es-lo-que-era-y-no-esta-bien",
+    "fecha": "01/02/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "56K",
+    "titulo": "Fanta Mixtapes – 004 – Estamos en internet",
+    "link": "https://56k.es/fanta/fanta-mixtapes-004-estamos-en-internet/",
+    "fecha": "01/02/2026",
+    "contenido": "Esta mixtape la he titulado «Estamos en internet». Tiene una duración de unos 10 minutos como habitualmente. Se puede escuchar aquí: &#8211; La voz es de Álvaro Pombo del mitin de UPyD en Vista Alegre en 2011. &#8211; Las canciones que suenan: The Box de Roddy Ricch,  Seasons de Cunninlynguists con "
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "La antigua nueva escuela",
+    "link": "https://alex.corcoles.net/tmpg93s8l5y/built/2026/02/la-antigua-nueva-escuela",
+    "fecha": "01/02/2026",
+    "contenido": "Si todo va bien, estar&#233;is leyendo una versi&#243;n totalmente nueva de este blog con el mismo aburrido contenido de siempre.\n    \nMi primer blog fue un invento raro que hice en PHP creo que con MySQL que corr&#237;a en mi casa\n    \nHe perdido un poco la cuenta de las distintas encarnaciones del"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "80286 mi primer PC",
+    "link": "https://www.fabio.com.ar/9864-80286-mi-primer-pc",
+    "fecha": "01/02/2026",
+    "contenido": "    \nHe hablado en este blog de procesadores muchas veces, pero por alguna raz&oacute;n nunca habl&eacute; en detalle del 80286, procesador ahora olvidado, pero que fue el de mi primera PC, un salto enorme desde la XT original, aunque todav&iacute;a incompleto.\nLa 286 fue la primera PC accesible de "
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -130,7 +193,7 @@
     "titulo": "Recopilatorio de links interesantes #1",
     "link": "https://matizeta.com/2026/01/30/recopilatorio-de-links-interesantes-1/",
     "fecha": "30/01/2026",
-    "contenido": "Revisando mis notas, tenía algunos links de artículos que había guardado para compartirlos en algún momento y quedaron olvidados en alguna nota.&#160; Estos links y otros podés encontarlos en links.matizeta.com"
+    "contenido": "Revisando mis notas, tenía algunos links de artículos que había guardado para compartirlos en algún momento y quedaron olvidados. Estos links y otros podés encontarlos en links.matizeta.com"
   },
   {
     "blog": "impermanente",
@@ -558,26 +621,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/01/26/el-heavy-metal-es-invencible/",
     "fecha": "26/01/2026",
     "contenido": "(2025 &#8211; Girder Records/Pakaderm Music Group) Cuando hablamos del Heavy Metal tradicional existe esa dicotomía...\nThe post Worldview: Invincible | El Heavy Metal Es Invencible first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Máximos y Mínimos",
-    "link": "https://jinversor.co/2026/01/maximos-y-minimos/",
-    "fecha": "25/01/2026",
-    "contenido": "Como inversionista también caí en la penosa obsesión por los precios máximos y mínimos de los títulos a negociar. Perseguimos la idea de vender en máximos y recomprar en mínimos [&#8230;]\nLa entrada Máximos y Mínimos se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Newsletter news",
-    "link": "https://www.ericafustero.com/2026-01-newsletter-news",
-    "fecha": "25/01/2026",
-    "contenido": "Hace tres años puse las newsletters de vuelta y media y ahora estoy aquí para anunciar que yo también he empezado una. Si te suscribes, más o menos una vez al mes recibirás noticias de mis andanzas: cosas como si voy a sacar algún libro a la venta o si voy a participar en algún [&#8230;]"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "\"Hackeando\" los QR del supermercado",
-    "link": "https://nachof.blog/posts/2026/hackeando-los-qr-del-supermercado/",
-    "fecha": "25/01/2026",
-    "contenido": "Si vivís en Uruguay, posiblemente estés familizarizado con las promociones de los stickers de Geant, Devoto, y Disco (ese hermoso casi-monopolio disfrazado que tenemos). La cosa funciona así: cuando comprás algo, dependiendo del costo, y de si son productos &ldquo;participantes&rdquo; en la promoció"
   }
 ]
