@@ -17,6 +17,14 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "Spam de autor",
+    "Url": "http://blog.spamdeautor.com",
+    "Feed": "http://blog.spamdeautor.com/feed/",
+    "Descripción": "Llevo desde 2011 comentando asuntos sobre música, cine, literatura, cómics y lo que surja.",
+    "Categoría": "Entretenimiento y Cultura",
+    "País": "España"
+  },
+  {
     "Nombre": "Picando Código",
     "Url": "https://picandocodigo.net",
     "Feed": "https://picandocodigo.net/feed/",
