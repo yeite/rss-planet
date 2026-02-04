@@ -1,10 +1,73 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Reduciendo el dolor de cabeza en el diseño \"Liquid Glass\"",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/02/04/20260204-reduciendo-dolor-en-liquid-glass/",
+    "fecha": "04/02/2026",
+    "contenido": "iOS 26 apostó por los efectos de transparencia y fluidez de movimiento, lo que genera múltiples problemas de accesibilidad"
+  },
+  {
+    "blog": "--el Profe Juan--",
+    "titulo": "De vuelta al mar",
+    "link": "https://elprofejuan.com.ar/de-vuelta-al-mar",
+    "fecha": "03/02/2026",
+    "contenido": "Hemos modificado nuestra residencia personal, ahora nos hemos movido más cerca del mar, en la casa de residencia veraniega y de otras épocas del año, y esta vez nos recibió con una flor solitaria pero sobreviviente al cortador de pasto desconocedor de que esa planta existía.\n\nNos estamos leyendo, re"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/02/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2026/",
+    "fecha": "03/02/2026",
+    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Municipios en los que el sueldo medio al año supera los 80 mil euros por persona trabajadora de bibliotecas públicas",
+    "link": "https://pedrolr.es/blog/municipios-en-los-que-el-sueldo-medio-al-ano-supera-los-80-mil-euros-por-persona-trabajadora-de-bibliotecas-publicas/",
+    "fecha": "03/02/2026",
+    "contenido": "Se publicaron los datos de 2024 para bibliotecas públicas en la web de Bibliotecas públicas en cifras (Ministerio de Cultura, 2026; en este post la referencia principal y en la que se basan muchos enlaces y una captura añadida es la anterior). Como todos los años, he hecho un cálculo: Gastos corrien"
+  },
+  {
+    "blog": "NeoSite Blog",
+    "titulo": "NeoCMS - Autenticación 2FA para panel de administración",
+    "link": "http://blog.neosite.com.ar/post/draft_neocms-autenticaci-n-2fa-para-panel-de-administraci-n",
+    "fecha": "03/02/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#180: he descubierto que me gusta el yogur de avena",
+    "link": "https://www.macram.es/posts/2026/02/yogur-de-avena/",
+    "fecha": "03/02/2026",
+    "contenido": "Llevo tiempo probando de vez en cuando alternativas vegetarianas a determinados alimentos, particularmente lácteos. La leche (nótense la cursiva) todavía no la consigo manejar bien en casa, aunque fuera se ve que la saben preparar y la puedo tomar sin ningún problema. Sin embargo los yogures creo qu"
+  },
+  {
     "blog": "post-it – matizeta",
     "titulo": "Unihertz Titan 2 Elite",
     "link": "https://matizeta.com/2026/02/03/unihertz-titan-2-elite/",
     "fecha": "03/02/2026",
     "contenido": "¿Será este 2026 el tímido regreso de los móviles con teclado?. Con la reciente llegada de Ikko Mind One a los consumidores que permite por medio de una funda sumarle un teclado y el anunciado Clicks Comunicator, ahora la empresa Unihertz anuncia una nuevo teléfono con tecklado QWERTY Unihertz viene "
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Nos vamos a Cracovia",
+    "link": "https://blog.danielaragay.net/nos-vamos-a-cracovia/",
+    "fecha": "03/02/2026",
+    "contenido": "En unas horas vuelo hacia Cracovia y en medio de un marr&#xf3;n.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@haci"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Berlín a -10 grados",
+    "link": "https://www.ericafustero.com/2026-02-berlin-a-10-grados",
+    "fecha": "03/02/2026",
+    "contenido": "Esta semana estoy en Berlín, y uno de cada tres cómics que dibujo tiene que ver con el frío. This week I'm in Berlin, and one out of every three comics I draw has to do with the cold. 1 \"Let's go to that bakery; it's really pretty inside.\" 2 \"Beautiful.\" 1 \"It's not as [&#8230;]"
+  },
+  {
+    "blog": "ochobitshacenunbyte",
+    "titulo": "Test de IOPS en Linux con Fio",
+    "link": "https://www.ochobitshacenunbyte.com/2026/02/03/test-de-iops-en-linux-con-fio/",
+    "fecha": "03/02/2026",
+    "contenido": "La necesidad aviva el ingenio o por lo menos eso dicen. La cuestión, en mi día a día me piden realizar diferentes pruebas, ya sea de uso de memoria, CPU o uso disco en&#46;&#46;&#46;\nLa entrada Test de IOPS en Linux con Fio se publicó primero en ochobitshacenunbyte."
   },
   {
     "blog": "56K",
@@ -21,11 +84,11 @@
     "contenido": "    \nEl otro d&iacute;a me encontr&eacute; con la portada de un disco de Beastie Boys, Licensed to Ill, que me hab&iacute;a olvidado completamente de su existencia y todo un thread lleno de portadas de discos asociadas a la aviaci&oacute;n.\nColeccion&eacute; las que m&aacute;s me llamaron la atenci&"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"The Blind Leading Blind\" Se Estrena El 13 De Febrero... | Nuevo Single Y Nuevo EP Para Fear Not",
-    "link": "https://www.delotroladometal.com.ar/2026/02/03/nuevo-single-y-nuevo-ep-para-fear-not/",
+    "blog": "Un blog",
+    "titulo": "Emprolijando un deploy",
+    "link": "https://nachof.blog/posts/2026/emprolijando-un-deploy/",
     "fecha": "03/02/2026",
-    "contenido": "Hace un buen tiempo, nos prometieron un disco entero, pero parece que aún no es...\nThe post \"The Blind Leading Blind\" Se Estrena El 13 De Febrero... | Nuevo Single Y Nuevo EP Para Fear Not first appeared on Del Otro Lado Metal."
+    "contenido": "Uno de los sitios que mantengo es Mesa de Juegos, que es una herramienta que usamos para organizar juntadas de juegos de mesa. Está ahí andando y generalmente no necesita demasiado mantenimiento porque anda. De hecho, el total de modificaciones al código durante el 2025 fue cero. Hay un par de error"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -47,13 +110,6 @@
     "link": "https://blog.luiscarlospando.com/personal/2026/02/tambien-quiero-recuperar-mi-vida-digital/",
     "fecha": "02/02/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "De Heliboard a LeanType: la IA llega al mejor teclado Android de código abierto",
-    "link": "https://alt43.es/cuando-el-mejor-teclado-android-heliboard-adopta-la-ia-de-la-mejor-manera-posible-leantype/",
-    "fecha": "02/02/2026",
-    "contenido": "Descubre LeanType, la evolución del teclado Heliboard para Android que integra IA de forma transparente. Analizamos sus tres versiones (estándar, offline y lite), su compromiso con la privacidad y cómo configurar modelos como Gemini o Groq para traducir y corregir textos sin salir de cualquier app."
   },
   {
     "blog": "Galerías Preciados",
@@ -133,6 +189,13 @@
     "contenido": "\n  \n    \n  \nY sin verlo venir, ya ha llegado febrero. Ya se ha ido el primer mes del año. Parece mentira cómo pasa el tiempo y, que sí, al final todo llega y todo pasa.He escrito poco por aquí el mes de enero porque, de nuevo, estoy algo desbordado con el trabajo y me faltan horas en el día (y en la"
   },
   {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "En el templo de la Superposición",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/en-el-templo-de-la-superposicion/",
+    "fecha": "02/02/2026",
+    "contenido": "En el templo de la Superposición, el Sumo Sacerdote no oficiaba la misa: simplemente esperaba a que todos los futuros posibles se agotaran hasta quedar solo uno.\nLos fieles no se arrodillaban; permanecían en un estado de vibración constante, sabiendo que la fe, al igual que un fotón, se destruye en "
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Buscando tu propio Reichstag",
     "link": "https://www.fabio.com.ar/9865-buscando-tu-propio-reichstag",
@@ -140,32 +203,11 @@
     "contenido": "    \nEl 23 de Febrero de 1933 el parlamento alem&aacute;n ard&iacute;a en llamas, el Reichstag era consumido por un fuego tan voraz como provocador, luego del incendio pasaron cosas, muchas cosas.\nTodo estado fascista necesita un incendio del Reichstag, en su momento sirvi&oacute; para perseguir a l"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Angel Distress: Ligna In Inani | La Conjunción Entre Lo Bello Y Oscuro",
-    "link": "https://www.delotroladometal.com.ar/2026/02/02/la-conjuncion-entre-lo-bello-y-oscuro/",
-    "fecha": "02/02/2026",
-    "contenido": "(2025 &#8211; Extreme Records) La belleza y lo hermoso también tienen su costado oscuro, y...\nThe post Angel Distress: Ligna In Inani | La Conjunción Entre Lo Bello Y Oscuro first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "plr blog",
     "titulo": "La película \"Buenos principios\" está basada en \"Al oeste de Roma\" y \"Mi perro idiota\" de John Fante",
     "link": "https://pedrolr.es/blog/la-pelicula-buenos-principios-esta-basada-en-al-oeste-de-roma-y-mi-perro-idiota-de-john-fante/",
     "fecha": "01/02/2026",
     "contenido": "El viernes me puse una película en la app de RTVE: \"Buenos principios\" (enlace a RTVE). Me la puse sin saber que está basada en \"Al oeste de Roma\" y \"Mi perro idiota\" de John Fante, quizá sin ninguna duda de quien he leído más. Tengo pocos libros en casa (tiro de bibliotecas), pero de [&#8230;]"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "El silencio también envejece",
-    "link": "https://gatooscuro.xyz/el-silencio-tambien-envejece/",
-    "fecha": "01/02/2026",
-    "contenido": "Me animé a escribir esto durante esta noche, a pocos días de mi cumpleaños, con una serie de emociones encontradas. Realmente no sé a qué darle prioridad de todo lo\nSeguir leyendo  El silencio también envejece\nEl cargo El silencio también envejece apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Hozuki, la librería de Mitsuko",
-    "link": "https://mareosdeungeek.es/hozuki-la-libreria-de-mitsuko/",
-    "fecha": "01/02/2026",
-    "contenido": "Hozuki, la librería de Mitsuko es la segunda historia de la pentalogía La sombra del cardo de la escritora Aki Shimazaki. De nuevo, es otro de esos libros que encuentro en la biblioteca y despiertan mi curiosidad, así que no puedo evitar cogerlos prestados. Cuando cogí esta obra de Aki Shimazaki des"
   },
   {
     "blog": "Tecno y Soft",
@@ -238,13 +280,6 @@
     "contenido": "    \nHe hablado en este blog de procesadores muchas veces, pero por alguna raz&oacute;n nunca habl&eacute; en detalle del 80286, procesador ahora olvidado, pero que fue el de mi primera PC, un salto enorme desde la XT original, aunque todav&iacute;a incompleto.\nLa 286 fue la primera PC accesible de "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "White Metal…Simple Etiqueta O Subgénero?",
-    "link": "https://www.delotroladometal.com.ar/2026/02/01/white-metalsimple-etiqueta-o-subgenero/",
-    "fecha": "01/02/2026",
-    "contenido": "Cuestión complicada de dilucidar si las hay, y una de las temáticas que más polvareda...\nThe post White Metal…Simple Etiqueta O Subgénero? first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Lecturas de enero 2026",
     "link": "https://mcallus.net/2026/01/31/lecturas-de-enero-2026/",
@@ -271,20 +306,6 @@
     "link": "https://nachof.blog/posts/2026/el-hockey-es-como-el-f%C3%BAtbol-pero-nada-que-ver/",
     "fecha": "31/01/2026",
     "contenido": "Recientemente estuve de viaje por Montreal, y tuve la oportunidad de ir a ver un partido de hockey sobre hielo, de la NHL. No soy en general muy fan de los deportes de espectador, pero es el tipo de cosas que pasa una vez.\n\n\n\n\nEl juego\nEl hockey es un juego similar al fútbol en cuanto a que se trata"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Roxx Records Prepara Un Album De Covers Con Varias Bandas | Se Viene El Homenaje Por Los 40 Años de “To Hell With The Devil”…",
-    "link": "https://www.delotroladometal.com.ar/2026/01/31/se-viene-el-homenaje-por-los-40-anos-de-to-hell-with-the-devil/",
-    "fecha": "31/01/2026",
-    "contenido": "En este 2026 se viene el aniversario de uno de los discos icónicos del denominado...\nThe post Roxx Records Prepara Un Album De Covers Con Varias Bandas | Se Viene El Homenaje Por Los 40 Años de “To Hell With The Devil”… first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "Glosas sobre mi tribuna en El País",
-    "link": "https://brucknerite.net/2026/01/glosas-sobre-mi-tribuna-en-el-pais.html",
-    "fecha": "30/01/2026",
-    "contenido": "Anteayer (28/01/2026, para los lectores del futuro) salió publicada una tribuna mía en El País, en la que intentaba contestar a una pregunta relativamente sencilla sobre la red de tren de alta velocidad española: ¿hay demasiados trenes en ella? Para mí, la respuesta obvia es que no, teniendo en cuen"
   },
   {
     "blog": "Victorhck in the free world",
@@ -329,13 +350,6 @@
     "contenido": "Y aquí estamos ante otro episodio de cosas que cambian y dejan todo roto a su paso. Aunque en realidad estoy exagerando. La función de incrustar de Sketchfab sigue trabajando, pero aprovecharé que han cambiado de dueño y reglas para implementar algo mas domestico, como con el resaltado de código que"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Reto OFF February",
-    "link": "https://mareosdeungeek.es/reto-off-february/",
-    "fecha": "30/01/2026",
-    "contenido": "OFF es un movimiento global que ha surgido ante la dependencia tecnológica de nuestra sociedad. En este caso, se trata más de hacer hincapié en la dependencia de las redes sociales. Estamos viviendo, sobre todo en al última década, el fenómeno de las redes sociales. Se inició como una manera de inte"
-  },
-  {
     "blog": "note – matizeta",
     "titulo": "Recopilatorio de links interesantes #1",
     "link": "https://matizeta.com/2026/01/30/recopilatorio-de-links-interesantes-1/",
@@ -376,13 +390,6 @@
     "link": "https://www.fabio.com.ar/9863-links-de-viernes---926",
     "fecha": "30/01/2026",
     "contenido": "     Se acab&oacute; el tiempo, leete unos links\nEs vierrrrneesss y tu cabeza lo sabe, por ende es hora de dejar todo aquello que estabas haciendo, encender el \"Working Simulator\" y ponerte a ver links, porque no queda otra, es viernes y todo aquello que hoy no terminaste no lo vas a terminar, se ha"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Tandem: La Vida Es Hoy | Una Fórmula Simple Y Efectiva",
-    "link": "https://www.delotroladometal.com.ar/2026/01/30/una-formula-simple-y-efectiva/",
-    "fecha": "30/01/2026",
-    "contenido": "(2025 &#8211; Icarus Music) El Rock Simple, o mejor dicho el Hard Rock, con buenas...\nThe post Tandem: La Vida Es Hoy | Una Fórmula Simple Y Efectiva first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -469,13 +476,6 @@
     "contenido": "Ayer vi este post en Mastodon:\nhttps://mstdn.mx/@categulario/115973172596591372\n\n\nY la verdad es que creo que aplica a blogs también. Y voy a ponerme el sombrero dogmático ahora.\nSi no tiene RSS no es un blog.\nSi el RSS no incluye los posts completos, el blog puede mejorar.\nSi el RSS no incluye los "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Fures Promete Arrasar Con Todo | La Furia Del Metal Tiene Rostro De Mujer",
-    "link": "https://www.delotroladometal.com.ar/2026/01/29/la-furia-del-metal-tiene-rostro-de-mujer/",
-    "fecha": "29/01/2026",
-    "contenido": "Realmente es todo un hallazgo encontrar una banda solamente integrada por mujeres, y hasta quizá...\nThe post Fures Promete Arrasar Con Todo | La Furia Del Metal Tiene Rostro De Mujer first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "--el Profe Juan--",
     "titulo": "Probando el Carrusel",
     "link": "https://elprofejuan.com.ar/probando-el-carrusel",
@@ -551,61 +551,5 @@
     "link": "https://www.fabio.com.ar/9861-el-retorno-de-isis-con-otro-nombre-mismos-modales-y-el-genocidio-que-todos-niegan",
     "fecha": "28/01/2026",
     "contenido": "    \nYa ni me hago problema por la demencia senil de occidente, pero igual escribo de estos temas para dar mi opini&oacute;n y conocimiento a aquellos pocos que les interesa, en este caso es la vuelta a la vida de ISIS.\n&iquest;Pero c&oacute;mo, no los hab&iacute;an vencido ya? Si, pero no. Es que l"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"The Silver Cord Is Severed\" Es Lo Nuevo De Los Brasileños | Sabbatariam Estrena Cover De Mortification",
-    "link": "https://www.delotroladometal.com.ar/2026/01/28/sabbatariam-estrena-cover-de-mortification/",
-    "fecha": "28/01/2026",
-    "contenido": "La banda brasileña Sabbatariam, acaba de sacudir su silencio discográfico lanzando, en forma digital, su...\nThe post \"The Silver Cord Is Severed\" Es Lo Nuevo De Los Brasileños | Sabbatariam Estrena Cover De Mortification first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "La fantasía de ser invisible",
-    "link": "https://jinversor.co/2026/01/la-fantasia-de-ser-invisible/",
-    "fecha": "27/01/2026",
-    "contenido": "Esta mañana en el blog El Cuarto de Gatooscuro leí una entrada titulada La fantasía de ser invisible. El post me encantó y me hizo pensar en las maromas que [&#8230;]\nLa entrada La fantasía de ser invisible se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Splinter Cell: Deathwatch",
-    "link": "https://mareosdeungeek.es/splinter-cell-deathwatch/",
-    "fecha": "27/01/2026",
-    "contenido": "Splinter Cell: Deathwatch es una serie de animación francesa creada por Derek Kolstad y dirigida por Guillaume Dousse. Está producida por Netflix y Ubisoft, creadores de la serie de videojuegos, entre otros. Siguiendo con el desarrollo de la serie Tom Clancy&#8217;s Splinter Cell, nos encontramos a "
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#179: estoy consumiendo mucho contenido sobre Pokémon",
-    "link": "https://www.macram.es/posts/2026/01/estoy-consumiendo-mucho-contenido-pokemon/",
-    "fecha": "27/01/2026",
-    "contenido": "Últimamente estoy consumiendo mucho (quizá demasiado, no lo voy a negar) contenido sobre Pokémon. No me refiero exactamente a los juegos, sino más bien a todo el lore que hay alrededor de ellos y dentro de este universo. Es cierto que me empezaron a aparecer en recomendaciones de YouTube (supongo qu"
-  },
-  {
-    "blog": "productor de sostenibilidad",
-    "titulo": "Alarga la vida útil de tu PC con Windows 10",
-    "link": "https://productordesostenibilidad.es/2026/01/alarga-la-vida-util-de-tu-pc-con-windows-10/",
-    "fecha": "27/01/2026",
-    "contenido": "Si me lees habitualmente sabes que soy un poco dramas. Me voy a enrollar un rato sobre cuestiones poco prácticas. Si vienes buscando una solución para seguir recibiendo actualizaciones en tu PC con Windows 10 salta unos párrafos más abajo. La buena noticia es que puedes seguir utilizando el ordenado"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Transiciones en vídeo espectaculares",
-    "link": "https://blog.danielaragay.net/transiciones-en-video-espectaculares/",
-    "fecha": "27/01/2026",
-    "contenido": "En este cap&#xed;tulo te cuento mientras paseamos con Rico un tipo de transiciones que si las hubiera hecho con los sistemas tradicionales me hubiera costado d&#xed;as. Aqu&#xed; el v&#xed;deo de ejemplo: El paseo infinito de Rico &#x1f415;&#x1f501; El paseo infinito de Rico"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "La interfaz",
-    "link": "https://docig.bearblog.dev/la-interfaz/",
-    "fecha": "27/01/2026",
-    "contenido": "El televisor nuevo es una plancha de cristal negro que no devuelve el reflejo, sino una versión grisácea y humillada de su propio rostro. Ella sostiene el mando a distancia como si fuera un animal pequeño y peligroso. No entiende la tiranía de las capas: para llegar a lo que quiere —un hombre hablan"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Foto dramas: La cámara TLR",
-    "link": "https://www.ericafustero.com/2026-01-foto-dramas-la-camara-tlr",
-    "fecha": "27/01/2026",
-    "contenido": "Jump to the English version Este mes compré una Yashica 635 y... me salió rana. Venía con un par de defectos con los que podía vivir, pero la lente trasera no estaba en buenas condiciones. Tenía unas marcas que no tengo muy claro si eran hongos o los elementos del cristal separándose; lo típico que "
   }
 ]
