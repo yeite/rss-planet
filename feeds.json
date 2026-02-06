@@ -1,5 +1,47 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Formatear un pendrive con celdas defectuosas en Debian",
+    "link": "https://malagaoriginal.blogspot.com/2026/02/formatear-un-pendrive-con-celdas.html",
+    "fecha": "06/02/2026",
+    "contenido": "¿Quién no se ha encontrado alguna vez con un pendrive con celdas defectuosas?Nuestra primer impulso es tirarlo a la basura, ¡MAL! Primero porque antes deberíamos destruirlo por completo por la información sensible que pueda seguir teniendo accesibles pero a lo mejor todavía se le puede dar uso, al m"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Marcadores #5",
+    "link": "https://thecheis.com/2026/02/06/marcadores-5/",
+    "fecha": "06/02/2026",
+    "contenido": "Últimamente estoy tomándome un descanso bastante bueno del mundo online, pero tenía en borradores esta entrada con algunos artículos interesantes que no quiero perder. Aquí va un buen popurrí de cosas sacadas de la web personal. Yo me vuelvo a mi cueva. 1. Cómo y por qué dejé de comprar portátiles n"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Webs útiles #1",
+    "link": "https://matizeta.com/2026/02/06/webs-utiles-1/",
+    "fecha": "06/02/2026",
+    "contenido": "Tengo en Notion una colección de webs útiles para tenerlas al alcance de mi mano cuando las necesite. Siempre pensé en compartir su contenido, pero aún estoy analizando la mejor forma de hacerlo. Mientras tanto comparto diez que agregué, quizás algunas te resulten útiles. GenAI Image Showdown Una we"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Configurar Home Assistant con Pangolin para acceder con dominio de forma segura",
+    "link": "https://voidnull.es/configurar-home-assistant-con-pangolin-para-acceder-con-dominio-de-forma-segura/",
+    "fecha": "06/02/2026",
+    "contenido": "Aprende a exponer Home Assistant de forma segura con Pangolin, usando un dominio propio y sin depender de Cloudflare ni abrir puertos en tu red."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #927",
+    "link": "https://www.fabio.com.ar/9869-links-de-viernes---927",
+    "fecha": "06/02/2026",
+    "contenido": "     Mir&aacute;, mir&aacute;, hay links!\nSi, s&iacute;, es viernes, ya nadie lee, pero yo igual les dejo la dosis necesaria para que sus luces vuelvan a iluminarse, que si no es con palabras, que sea con im&aacute;genes, ooooh gloria internetera, reina de los links y los memes, he aqu&iacute; para "
+  },
+  {
+    "blog": "JDRM",
+    "titulo": "Una alternativa abierta y segura a los canales de Telegram",
+    "link": "https://jdrm.info/una-alternativa-abierta-y-segura-a-los-canales-de-telegram.html",
+    "fecha": "06/02/2026",
+    "contenido": "Una opción de código abierto para reemplazar los canales de Telegram"
+  },
+  {
     "blog": "--el Profe Juan--",
     "titulo": "Se viene un nuevo proyecto sobre huerta.",
     "link": "https://elprofejuan.com.ar/se-viene-un-nuevo-proyecto-sobre-huerta",
@@ -60,7 +102,7 @@
     "titulo": "523. Felicidad y soma",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/02/523-felicidad-y-soma.html",
     "fecha": "05/02/2026",
-    "contenido": "&nbsp; &nbsp; Sandalio se acercó a mí y me preguntó si yo era feliz, para qué quería ser libre. Y con intención puramente socrática, yo le pregunté que si él también era feliz y tenía todas sus necesidades cubiertas,&nbsp;por qué siempre estaba tan enfadado con Pedro Sánchez.&nbsp;&nbsp; &nbsp; Que "
+    "contenido": "&nbsp; &nbsp; Sandalio se acercó hasta mí y me preguntó para qué querría yo ser libre si ya soy feliz. Y con intención puramente socrática, le pregunté que si él era feliz y tenía todas sus necesidades cubiertas, por qué siempre se enfadaba tanto con Pedro Sánchez.&nbsp;&nbsp; &nbsp; Que si Pedro co"
   },
   {
     "blog": "danielaragay.net",
@@ -679,13 +721,6 @@
     "contenido": "Bueno, pues hemos vuelto&#8230; por tercera vez.Por algún motivo, el jueves 22 me quedé sin internet sobre las 20h. Hacía mucho tiempo, pero mucho que no me sucedía. El caso es que, buscando en la web DownDetector, que informa en tiempo real de problemas en sitios webs, veo que hay un fallo en mi zo"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Glosas sobre mi tribuna en El País",
-    "link": "https://brucknerite.net/2026/01/glosas-sobre-mi-tribuna-en-el-pais.html",
-    "fecha": "30/01/2026",
-    "contenido": "Anteayer (28/01/2026, para los lectores del futuro) salió publicada una tribuna mía en El País, en la que intentaba contestar a una pregunta relativamente sencilla sobre la red de tren de alta velocidad española: ¿hay demasiados trenes en ella? Para mí, la respuesta obvia es que no, teniendo en cuen"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 5 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/01/30/opensuse-tumbleweed-revision-de-la-semana-5-de-2026/",
@@ -707,13 +742,6 @@
     "contenido": "La galería estaba vacía, olía a cera y madera vieja. Fuera, la lluvia caía sin tregua sobre las losas del patio interior, su murmullo era el único sonido en aquella vieja casa noble. Yo aguardaba allí por simple cortesía. Venía a dar el pésame a mi viejo amigo y contemplar el cuadro de su prometida."
   },
   {
-    "blog": "plr blog",
-    "titulo": "Actualización de la herramienta Indicadores BibPúblicas - Indicadores de eficiencia, de primer nivel y de esfuerzo para bibliotecas públicas de España desde 2010",
-    "link": "https://pedrolr.es/blog/actualizacion-de-la-herramienta-indicadores-bibpublicas-indicadores-de-eficiencia-de-primer-nivel-y-de-esfuerzo-para-bibliotecas-publicas-de-espana-desde-2010/",
-    "fecha": "30/01/2026",
-    "contenido": "Salieron los datos de bibliotecas públicas para 2024 y he actualizado mi herramienta Indicadores BibPúblicas: Indicadores de eficiencia, de primer nivel y de esfuerzo para bibliotecas públicas de España desde 2010: https://pedrolr.es/indicadores/bibpublicas/index.html Destaco a Cantabria, comunidad "
-  },
-  {
     "blog": "Interlan",
     "titulo": "Artículo: Galerías Especiales en WordPress",
     "link": "https://interlan.ec/blog/2026/01/30/articulo-incrustar-modelos-3d-en-wordpress/",
@@ -728,25 +756,11 @@
     "contenido": "OFF es un movimiento global que ha surgido ante la dependencia tecnológica de nuestra sociedad. En este caso, se trata más de hacer hincapié en la dependencia de las redes sociales. Estamos viviendo, sobre todo en al última década, el fenómeno de las redes sociales. Se inició como una manera de inte"
   },
   {
-    "blog": "note – matizeta",
-    "titulo": "Recopilatorio de links interesantes #1",
-    "link": "https://matizeta.com/2026/01/30/recopilatorio-de-links-interesantes-1/",
-    "fecha": "30/01/2026",
-    "contenido": "Revisando mis notas, tenía algunos links de artículos que había guardado para compartirlos en algún momento y quedaron olvidados. Estos links y otros podés encontarlos en links.matizeta.com"
-  },
-  {
     "blog": "impermanente",
     "titulo": "Un poco de humildad",
     "link": "https://impermanente.es/2026/01/30/un-poco-de-humildad.html",
     "fecha": "30/01/2026",
     "contenido": "Carl Sagan tenía una habilidad increíble para recordarnos lo pequeños que somos sin que sonara pedante. En Dragons of Eden propone uno de esos ejercicios que te recolocan la cabeza: el Calendario Cósmico. La idea es comprimir toda la historia del universo en un solo año. Bajo ese marco el Big Bang o"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de CachyOS Desktop Edition #ViernesDeDistros",
-    "link": "https://voidnull.es/instalacion-de-cachyos-desktop-edition-viernesdedistros/",
-    "fecha": "30/01/2026",
-    "contenido": "Guía rápida para instalar CachyOS y dejarlo listo en pocos minutos."
   },
   {
     "blog": "eaplmx",
@@ -756,45 +770,10 @@
     "contenido": ""
   },
   {
-    "blog": "56K",
-    "titulo": "Proyectos inspiradores de computación no extractivista",
-    "link": "https://56k.es/fanta/proyectos-inspiradores-de-computacion-no-extractivista/",
-    "fecha": "30/01/2026",
-    "contenido": "A pesar que la Kombucha es odiada por los streamers de extrema derecha en España (El Xokas en el programa de televisión «El Hormiguero», 2026) lo cierto es que es parece una bebida buena para generar circuitos con materiales vivos. Permite empezar a pensar en un enfoque de computación no extractivis"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #926",
-    "link": "https://www.fabio.com.ar/9863-links-de-viernes---926",
-    "fecha": "30/01/2026",
-    "contenido": "     Se acab&oacute; el tiempo, leete unos links\nEs vierrrrneesss y tu cabeza lo sabe, por ende es hora de dejar todo aquello que estabas haciendo, encender el \"Working Simulator\" y ponerte a ver links, porque no queda otra, es viernes y todo aquello que hoy no terminaste no lo vas a terminar, se ha"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Tandem: La Vida Es Hoy | Una Fórmula Simple Y Efectiva",
-    "link": "https://www.delotroladometal.com.ar/2026/01/30/una-formula-simple-y-efectiva/",
-    "fecha": "30/01/2026",
-    "contenido": "(2025 &#8211; Icarus Music) El Rock Simple, o mejor dicho el Hard Rock, con buenas...\nThe post Tandem: La Vida Es Hoy | Una Fórmula Simple Y Efectiva first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "DANOK se pone en marcha",
-    "link": "https://dani.torresburriel.com/danok-se-pone-en-marcha/",
-    "fecha": "30/01/2026",
-    "contenido": "Llevo meses escribiendo sobre DANOK. Sobre el pacto, sobre la estructura, sobre lo que significa construir una alianza de consultoras especializadas como alternativa a los grandes del sector. Todo eso sigue siendo cierto. Pero hoy quiero contar otra cosa: que ya no estamos hablando de lo que queremo"
-  },
-  {
     "blog": "Un Diario",
     "titulo": "Hablemos De Android Y Las APK's",
     "link": "https://thejnx.bearblog.dev/hablemos-de-android-y-las-apks/",
     "fecha": "30/01/2026",
     "contenido": "Es increíble de creer que para tener la máxima privacidad en un teléfono necesitas un chip de Google, es un poco contradictorio no? La verdad es que hay mucho mas detrás de lo que sabemos, GrapheneOS se considera así misma como una de las mejores ROM's de privacidad para Android y acaparará a cualqu"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Hablemos De Las Tiendas De Juegos",
-    "link": "https://thejnx.bearblog.dev/hablemos-de-las-tiendas-de-juegos/",
-    "fecha": "30/01/2026",
-    "contenido": "Empiezo a notar mucha diversificación en las tiendas de juegos, que si en Epic, otros en Steam o en GOG, algunos en PlayStation o Xbox, por suerte Valve/Steam es como el centro de todo (o al menos donde el catálogo es super ampliado) y ahora con la Steam Deck y la Machine...\nIncluso la gran parte de"
   }
 ]
