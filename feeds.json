@@ -1,5 +1,47 @@
 [
   {
+    "blog": "Alexis Alzate",
+    "titulo": "Cambios en mi uso de internet",
+    "link": "https://alexisalzate.com/blog/2026-02-07/",
+    "fecha": "07/02/2026",
+    "contenido": "A lo largo de los últimos meses he realizado algunos cambios con\nrespecto al uso que hago de internet.\nDe no ser por Codeberg Pages, mi página web no existiría. Sin\nembargo, dicho servicio ahora se encuentra en “modo de\nmantenimiento”, lo que significa que no recibirá nuevas\ncaracterísticas, y si bi"
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Mi móvil con LineageOS: destaco la duración de la batería y la desconexión digital que consigo",
+    "link": "https://pedrolr.es/blog/mi-movil-con-lineageos-destaco-la-duracion-de-la-bateria-y-la-desconexion-digital-que-consigo/",
+    "fecha": "07/02/2026",
+    "contenido": "En un post del 14 de agosto de 2025 ya hablé de mi móvil con LineageOS: probando con LineageOS como sistema principal en el móvil (enlace). En este post añado capturas y cuento algo más. En su día, allá por diciembre de 2022, me compré un móvil del 2017 en una tienda de segunda mano [&#8230;]"
+  },
+  {
+    "blog": "El Sueño del Artista Blog",
+    "titulo": "Los poetas de Facebook o la Instapoesia . Una mirada moderna y digital a la poesía .",
+    "link": "https://polotman.wordpress.com/2026/02/07/los-poetas-de-facebook-o-la-instapoesia-una-mirada-moderna-y-digital-a-la-poesia/",
+    "fecha": "07/02/2026",
+    "contenido": "#literatura #Lospoetasdefaceboock&#160; #ElSueñodelArtistablog #poesia #Instapoesia&#160; Cuando escuche hablar por primera vez de los términos&#160; la instapoesia&#160; o los poetas de Facebook se me hizo algo curioso y a la vez algo gracioso la creación de un&#160; término específico a la redacci"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "COPE. Estar desinformado",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/cope-estar-desinformado.html",
+    "fecha": "07/02/2026",
+    "contenido": "COPE. Estar desinformado :)He hablado ya unas cuantas veces de este asunto: que el lema de la COPE sea «estar informado», cuando encontrarte una última hora en esa emisora es casi un milagro,&nbsp;me parece de mal gusto. Pasó hace unos semanas con el accidente de tren de Adamuz, donde fueron incapac"
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "El material reciclado de Chaosium",
+    "link": "http://frikoteca.blogspot.com/2026/02/el-material-reciclado-de-chaosium.html",
+    "fecha": "07/02/2026",
+    "contenido": "Para nadie será una sorpresa saber que soy muy fan del juego de rol Pendragón. Fui el traductor principal de la quinta edición del juego al español (la que publicó Nosolorol), y la primera persona que dirigió completa la Gran Campaña de Pendragón en el mundo, aparte del autor; no entiendo cómo el go"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Mortification: Scrolls Of The Megilloth | Un Clásico Para No Olvidar",
+    "link": "https://www.delotroladometal.com.ar/2026/02/07/un-clasico-para-no-olvidar/",
+    "fecha": "07/02/2026",
+    "contenido": "(1992 &#8211; Nuclear Blast/Intense Records/Soundmass/Rowe Productions) Es uno de esos discos invencibles por el paso...\nThe post Mortification: Scrolls Of The Megilloth | Un Clásico Para No Olvidar first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Formatear un pendrive con celdas defectuosas en Debian",
     "link": "https://malagaoriginal.blogspot.com/2026/02/formatear-un-pendrive-con-celdas.html",
@@ -679,20 +721,6 @@
     "contenido": "Cuestión complicada de dilucidar si las hay, y una de las temáticas que más polvareda...\nThe post White Metal…Simple Etiqueta O Subgénero? first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Lecturas de enero 2026",
-    "link": "https://mcallus.net/2026/01/31/lecturas-de-enero-2026/",
-    "fecha": "31/01/2026",
-    "contenido": "Finalmente he decidido mantener lo de la entrada mensual de lecturas porque hacer entradas individuales de todo es probable que no tenga mucho sentido (al final he hecho caso al consejo de Shoggoth_Roof para este tema). Aunque durante el mes habrá entradas individuales para algunas de las obras. Est"
-  },
-  {
-    "blog": "note – matizeta",
-    "titulo": "Resumen del mes (enero 2026)",
-    "link": "https://matizeta.com/2026/01/31/resumen-del-mes-enero-2026/",
-    "fecha": "31/01/2026",
-    "contenido": "Este mes de enero del 2026&#160;le dí la bienvenida al nuevo año que comenzó,&#160;compartí algunas máximas sobre el turismo despiadado que se esta viviendo en estos últimos años y me puse a pensar como quiero que sea mi forma de hacer turismo de acá en más. Ultimamente estoy obsesionado con encontr"
-  },
-  {
     "blog": "El condón roto de GNU",
     "titulo": "Añadir DuckDuckGo sin IA como buscador en Firefox y derivados",
     "link": "https://elcondonrotodegnu.wordpress.com/2026/01/31/anadir-duckduckgo-sin-ia-como-buscador-en-firefox-y-derivados/",
@@ -705,27 +733,6 @@
     "link": "https://nachof.blog/posts/2026/el-hockey-es-como-el-f%C3%BAtbol-pero-nada-que-ver/",
     "fecha": "31/01/2026",
     "contenido": "Recientemente estuve de viaje por Montreal, y tuve la oportunidad de ir a ver un partido de hockey sobre hielo, de la NHL. No soy en general muy fan de los deportes de espectador, pero es el tipo de cosas que pasa una vez.\n\n\n\n\nEl juego\nEl hockey es un juego similar al fútbol en cuanto a que se trata"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Roxx Records Prepara Un Album De Covers Con Varias Bandas | Se Viene El Homenaje Por Los 40 Años de “To Hell With The Devil”…",
-    "link": "https://www.delotroladometal.com.ar/2026/01/31/se-viene-el-homenaje-por-los-40-anos-de-to-hell-with-the-devil/",
-    "fecha": "31/01/2026",
-    "contenido": "En este 2026 se viene el aniversario de uno de los discos icónicos del denominado...\nThe post Roxx Records Prepara Un Album De Covers Con Varias Bandas | Se Viene El Homenaje Por Los 40 Años de “To Hell With The Devil”… first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Hablemos De Navegadores",
-    "link": "https://thejnx.bearblog.dev/hablemos-de-navegadores-buscadores-y-extensiones/",
-    "fecha": "31/01/2026",
-    "contenido": "Todo lo relacionado a navegadores, buscadores, extensiones y algunas recomendaciones"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Hablemos De La IA Y Lo Que Le Hace Al Mundo",
-    "link": "https://thejnx.bearblog.dev/hablemos-de-la-ia-y-lo-que-le-hace-al-mundo/",
-    "fecha": "31/01/2026",
-    "contenido": "IA por aquí, por allá, en todo, parece que es de lo único que se habla últimamente, cierto?"
   },
   {
     "blog": "AsturGeek V3",
