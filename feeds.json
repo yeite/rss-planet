@@ -14,6 +14,27 @@
     "contenido": "Últimamente estoy tomándome un descanso bastante bueno del mundo online, pero tenía en borradores esta entrada con algunos artículos interesantes que no quiero perder. Aquí va un buen popurrí de cosas sacadas de la web personal. Yo me vuelvo a mi cueva. 1. Cómo y por qué dejé de comprar portátiles n"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 6 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/02/06/opensuse-tumbleweed-revision-de-la-semana-6-de-2026/",
+    "fecha": "06/02/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Ratas",
+    "link": "https://jinversor.co/2026/02/ratas/",
+    "fecha": "06/02/2026",
+    "contenido": "Me gustó el video. Muy alegórico aunque no somos ratas. ¿O sí?\nLa entrada Ratas se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Estado: Multisite WordPress",
+    "link": "https://interlan.ec/blog/2026/02/06/estado-multisite-wordpress/",
+    "fecha": "06/02/2026",
+    "contenido": "He hecho algunos cambios de perspectivas con respecto a mis dos blogs, actualmente independientes, por cuanto su administracion es complicada para lo que esperaba de ellos. Hoy vamos a intentar unirlos bajo una funcion llamada MultiSite de WordPress Introducción Desde hace un buen tiempo que he esta"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Webs útiles #1",
     "link": "https://matizeta.com/2026/02/06/webs-utiles-1/",
@@ -28,6 +49,13 @@
     "contenido": "Aprende a exponer Home Assistant de forma segura con Pangolin, usando un dominio propio y sin depender de Cloudflare ni abrir puertos en tu red."
   },
   {
+    "blog": "56K",
+    "titulo": "Ejecutar e.com en Linux – Un editor que ocupa 5kb",
+    "link": "https://56k.es/fanta/ejecutar-e-com-en-linux-un-editor-que-ocupa-5kb/",
+    "fecha": "06/02/2026",
+    "contenido": "Lo interesante del paquete que he montado es que el contenido que se edite con el editor se guardará en una imagen de disquete ima. Esto permite que puedas clonarlo a un disquete real si quieres pero digamos que es para poder trabajar como si lo hicieras sobre un disquete. Esto no tiene una utilidad"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Links de Viernes - #927",
     "link": "https://www.fabio.com.ar/9869-links-de-viernes---927",
@@ -35,18 +63,18 @@
     "contenido": "     Mir&aacute;, mir&aacute;, hay links!\nSi, s&iacute;, es viernes, ya nadie lee, pero yo igual les dejo la dosis necesaria para que sus luces vuelvan a iluminarse, que si no es con palabras, que sea con im&aacute;genes, ooooh gloria internetera, reina de los links y los memes, he aqu&iacute; para "
   },
   {
+    "blog": "Spam de autor",
+    "titulo": "Sonic Life, la autobiografía de Thurston Moore",
+    "link": "http://blog.spamdeautor.com/2026/02/06/sonic-life-la-autobiografia-de-thurston-moore/?utm_source=rss&utm_medium=rss&utm_campaign=sonic-life-la-autobiografia-de-thurston-moore",
+    "fecha": "06/02/2026",
+    "contenido": "A mediados de 2025 la Editorial Contra publicó la traducción al castellano de “Sonic Life”, el contundente tomo con más de 500 páginas de autobiografía de Thurston Moore. Como fan absoluto de Sonic Youth, estaba cantado que me iba a &#8230; Sigue leyendo &#8594;\nLa entrada Sonic Life, la autobiograf"
+  },
+  {
     "blog": "JDRM",
     "titulo": "Una alternativa abierta y segura a los canales de Telegram",
     "link": "https://jdrm.info/una-alternativa-abierta-y-segura-a-los-canales-de-telegram.html",
     "fecha": "06/02/2026",
     "contenido": "Una opción de código abierto para reemplazar los canales de Telegram"
-  },
-  {
-    "blog": "--el Profe Juan--",
-    "titulo": "Se viene un nuevo proyecto sobre huerta.",
-    "link": "https://elprofejuan.com.ar/se-viene-un-nuevo-proyecto-sobre-huerta",
-    "fecha": "05/02/2026",
-    "contenido": "Pronto publicaré una idea de plantar verduras sin cuidado de reigo, puede durar hasta mas de dos meses sin regar. Estén atentos en este canal, ahí va una muestra.\n"
   },
   {
     "blog": "Ubuntu Peronista",
@@ -327,13 +355,6 @@
     "link": "https://blogo.asturgeek.eu/2026/02/04/voces-en-castellano-en-spiderman-2-pc/",
     "fecha": "04/02/2026",
     "contenido": "Tengo la absoluta manía de probar muchos de los juegos que me interesan antes de comprarlos. Ya me ha pasado de comprar un juego, en apariencia compatible con alguna versión de Proton y que en mi equipo no vaya. Cosas de jugar en GNU/linux&#8230; En ésta ocasión he probado (que no jugado) Marvel&#82"
-  },
-  {
-    "blog": "--el Profe Juan--",
-    "titulo": "De vuelta al mar",
-    "link": "https://elprofejuan.com.ar/de-vuelta-al-mar",
-    "fecha": "03/02/2026",
-    "contenido": "Hemos modificado nuestra residencia personal, ahora nos hemos movido más cerca del mar, en la casa de residencia veraniega y de otras épocas del año, y esta vez nos recibió con una flor solitaria pero sobreviviente al cortador de pasto desconocedor de que esa planta existía.\n\nNos estamos leyendo, re"
   },
   {
     "blog": "Victorhck in the free world",
@@ -712,68 +733,5 @@
     "link": "https://blogo.asturgeek.eu/2026/01/31/montando-navidrome-en-el-servidor/",
     "fecha": "31/01/2026",
     "contenido": "Hacer kilómetros en coche por Asturias escuchando la radio es imposible. Da igual si vas por autopista o por nacionales, si vas al oriente o al occidente. La radio desaparece en grandes tramos, se pisan emisoras&#8230; Ni las grandes emisoras de inmensos grupos de comunicación se salvan. Suelo recur"
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "Hola Mundo… Again",
-    "link": "https://blogo.asturgeek.eu/2026/01/31/hola-mundo-again/",
-    "fecha": "31/01/2026",
-    "contenido": "Bueno, pues hemos vuelto&#8230; por tercera vez.Por algún motivo, el jueves 22 me quedé sin internet sobre las 20h. Hacía mucho tiempo, pero mucho que no me sucedía. El caso es que, buscando en la web DownDetector, que informa en tiempo real de problemas en sitios webs, veo que hay un fallo en mi zo"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 5 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/01/30/opensuse-tumbleweed-revision-de-la-semana-5-de-2026/",
-    "fecha": "30/01/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Sangre en las calles",
-    "link": "https://jinversor.co/2026/01/sangre-en-las-calles/",
-    "fecha": "30/01/2026",
-    "contenido": "En el mundo de las inversiones hay un viejo adagio que dice: «Compra cuando haya sangre en las calles. Así la sangre sea tuya». La frase se le atribuye a [&#8230;]\nLa entrada Sangre en las calles se publicó primero en Jinversor."
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "El retrato",
-    "link": "https://mcallus.net/2026/01/30/el-retrato/",
-    "fecha": "30/01/2026",
-    "contenido": "La galería estaba vacía, olía a cera y madera vieja. Fuera, la lluvia caía sin tregua sobre las losas del patio interior, su murmullo era el único sonido en aquella vieja casa noble. Yo aguardaba allí por simple cortesía. Venía a dar el pésame a mi viejo amigo y contemplar el cuadro de su prometida."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Artículo: Galerías Especiales en WordPress",
-    "link": "https://interlan.ec/blog/2026/01/30/articulo-incrustar-modelos-3d-en-wordpress/",
-    "fecha": "30/01/2026",
-    "contenido": "Y aquí estamos ante otro episodio de cosas que cambian y dejan todo roto a su paso. Aunque en realidad estoy exagerando. La función de incrustar de Sketchfab sigue trabajando, pero aprovecharé que han cambiado de dueño y reglas para implementar algo mas domestico, como con el resaltado de código que"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Reto OFF February",
-    "link": "https://mareosdeungeek.es/reto-off-february/",
-    "fecha": "30/01/2026",
-    "contenido": "OFF es un movimiento global que ha surgido ante la dependencia tecnológica de nuestra sociedad. En este caso, se trata más de hacer hincapié en la dependencia de las redes sociales. Estamos viviendo, sobre todo en al última década, el fenómeno de las redes sociales. Se inició como una manera de inte"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Un poco de humildad",
-    "link": "https://impermanente.es/2026/01/30/un-poco-de-humildad.html",
-    "fecha": "30/01/2026",
-    "contenido": "Carl Sagan tenía una habilidad increíble para recordarnos lo pequeños que somos sin que sonara pedante. En Dragons of Eden propone uno de esos ejercicios que te recolocan la cabeza: el Calendario Cósmico. La idea es comprimir toda la historia del universo en un solo año. Bajo ese marco el Big Bang o"
-  },
-  {
-    "blog": "eaplmx",
-    "titulo": "¿Tú que no necesitas?",
-    "link": "https://text.eapl.mx/tu-que-no-necesitas",
-    "fecha": "30/01/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Hablemos De Android Y Las APK's",
-    "link": "https://thejnx.bearblog.dev/hablemos-de-android-y-las-apks/",
-    "fecha": "30/01/2026",
-    "contenido": "Es increíble de creer que para tener la máxima privacidad en un teléfono necesitas un chip de Google, es un poco contradictorio no? La verdad es que hay mucho mas detrás de lo que sabemos, GrapheneOS se considera así misma como una de las mejores ROM's de privacidad para Android y acaparará a cualqu"
   }
 ]
