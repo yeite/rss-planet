@@ -21,6 +21,13 @@
     "contenido": "#literatura #Lospoetasdefaceboock&#160; #ElSueñodelArtistablog #poesia #Instapoesia&#160; Cuando escuche hablar por primera vez de los términos&#160; la instapoesia&#160; o los poetas de Facebook se me hizo algo curioso y a la vez algo gracioso la creación de un&#160; término específico a la redacci"
   },
   {
+    "blog": "danielaragay.net",
+    "titulo": "Último día en Cracovia y regreso",
+    "link": "https://blog.danielaragay.net/ultimo-dia-en-cracovia-y-regreso/",
+    "fecha": "07/02/2026",
+    "contenido": "Te cuento como fue el &#xfa;ltimo d&#xed;a y el regreso a casa con Rico.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.n"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "COPE. Estar desinformado",
     "link": "https://www.xn--jmuoz-qta.es/2026/02/cope-estar-desinformado.html",
@@ -33,6 +40,20 @@
     "link": "http://frikoteca.blogspot.com/2026/02/el-material-reciclado-de-chaosium.html",
     "fecha": "07/02/2026",
     "contenido": "Para nadie será una sorpresa saber que soy muy fan del juego de rol Pendragón. Fui el traductor principal de la quinta edición del juego al español (la que publicó Nosolorol), y la primera persona que dirigió completa la Gran Campaña de Pendragón en el mundo, aparte del autor; no entiendo cómo el go"
+  },
+  {
+    "blog": "Diegologs 💾",
+    "titulo": "Volviendo a configurar Nvim desde cero",
+    "link": "https://diegologs.com/configuracion-nvim-desde-cero/",
+    "fecha": "07/02/2026",
+    "contenido": "Llevo usando Vim como 10 años (Neovim desde hace 3 o 4 años) y mi config ha ido evolucionando con el paso del tiempo, he decidido volver a crearla desde cero, hacer un remake, como en los videojuegos.\nHacerlo desde cero me va a permitir hacer limpieza de muchas cosas que he ido arrastrando con el pa"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Odio manejar",
+    "link": "https://nachof.blog/posts/2026/odio-manejar/",
+    "fecha": "07/02/2026",
+    "contenido": "Este post va a ser bastante negativo, lo cual es evidente por el título. Si no querés leer negatividad, sentite libre de saltearlo.\nOdio manejar. Lo odio con todo mi ser. Odio los autos, y la cultura alrededor de ellos, y el riesgo que representan para las personas, y el entorno cultural en el que t"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -700,13 +721,6 @@
     "contenido": "Esta mixtape la he titulado «Estamos en internet». Tiene una duración de unos 10 minutos como habitualmente. Se puede escuchar aquí: &#8211; La voz es de Álvaro Pombo del mitin de UPyD en Vista Alegre en 2011. &#8211; Las canciones que suenan: The Box de Roddy Ricch,  Seasons de Cunninlynguists con "
   },
   {
-    "blog": "El blog es mío",
-    "titulo": "La antigua nueva escuela",
-    "link": "https://alex.corcoles.net/tmpg93s8l5y/built/2026/02/la-antigua-nueva-escuela",
-    "fecha": "01/02/2026",
-    "contenido": "Si todo va bien, estar&#233;is leyendo una versi&#243;n totalmente nueva de este blog con el mismo aburrido contenido de siempre.\n    \nMi primer blog fue un invento raro que hice en PHP creo que con MySQL que corr&#237;a en mi casa\n    \nHe perdido un poco la cuenta de las distintas encarnaciones del"
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "80286 mi primer PC",
     "link": "https://www.fabio.com.ar/9864-80286-mi-primer-pc",
@@ -719,26 +733,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/02/01/white-metalsimple-etiqueta-o-subgenero/",
     "fecha": "01/02/2026",
     "contenido": "Cuestión complicada de dilucidar si las hay, y una de las temáticas que más polvareda...\nThe post White Metal…Simple Etiqueta O Subgénero? first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "El condón roto de GNU",
-    "titulo": "Añadir DuckDuckGo sin IA como buscador en Firefox y derivados",
-    "link": "https://elcondonrotodegnu.wordpress.com/2026/01/31/anadir-duckduckgo-sin-ia-como-buscador-en-firefox-y-derivados/",
-    "fecha": "31/01/2026",
-    "contenido": "Añadir DuckDuckGo sin IA como buscador en Firefox y derivados"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "El Hockey es como el fútbol pero nada que ver",
-    "link": "https://nachof.blog/posts/2026/el-hockey-es-como-el-f%C3%BAtbol-pero-nada-que-ver/",
-    "fecha": "31/01/2026",
-    "contenido": "Recientemente estuve de viaje por Montreal, y tuve la oportunidad de ir a ver un partido de hockey sobre hielo, de la NHL. No soy en general muy fan de los deportes de espectador, pero es el tipo de cosas que pasa una vez.\n\n\n\n\nEl juego\nEl hockey es un juego similar al fútbol en cuanto a que se trata"
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "Montando Navidrome en el servidor",
-    "link": "https://blogo.asturgeek.eu/2026/01/31/montando-navidrome-en-el-servidor/",
-    "fecha": "31/01/2026",
-    "contenido": "Hacer kilómetros en coche por Asturias escuchando la radio es imposible. Da igual si vas por autopista o por nacionales, si vas al oriente o al occidente. La radio desaparece en grandes tramos, se pisan emisoras&#8230; Ni las grandes emisoras de inmensos grupos de comunicación se salvan. Suelo recur"
   }
 ]
