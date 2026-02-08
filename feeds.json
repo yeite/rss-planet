@@ -1,5 +1,40 @@
 [
   {
+    "blog": "La Máquina de Von Neumann",
+    "titulo": "¿Hemos llegado a la AGI?",
+    "link": "https://vonneumannmachine.wordpress.com/2026/02/08/hemos-llegado-a-la-agi/",
+    "fecha": "08/02/2026",
+    "contenido": "&#160; Un reciente artículo en Nature ha arremetido contra las voces críticas, nada más y nada menos, sosteniendo que la AGI ya está aquí ¡Además con cascadas de evidencia a favor! Os ofrezco una réplica a un artículo bastante confuso y contradictorio, y que yo no hubiera publicado en Nature sin muc"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Configurar Git para trabajar con múltiples plataformas",
+    "link": "https://mareosdeungeek.es/configurar-git-para-trabajar-con-multiples-plataformas/",
+    "fecha": "08/02/2026",
+    "contenido": "&#160; Al final, ante la falta de un portátil operativo, he configurado mi ordenador de sobremesa para programar, así que he tenido que configurar Git para trabajar con múltiples plataformas de control de versiones. El proceso para hacerlo es bastante sencillo y similar en sistemas GNU / Linux y Mac"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Elecciones en Aragón",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/elecciones-en-aragon.html",
+    "fecha": "08/02/2026",
+    "contenido": "Ha llegado hoy el momento de la verdad en Aragón, ese instante solemne en el que la democracia cumple su función más higiénica: someter a recuento la vanidad del poder y ofrecer a los ciudadanos la posibilidad, siempre efímera, pero nunca desdeñable, de retirar del escaparate público a quienes han c"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Sueños (II)",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/suenos-ii.html",
+    "fecha": "08/02/2026",
+    "contenido": "Qué feliz te hace soñar con algo que deseas. Hace unas horas he soñado con mi último día de clase este curso. Y he sido feliz en ese mundo onírico porque sé que dentro de no tanto llegará. Porque el tiempo sí que pasa. Y aunque esté bien mirado en mi puesto, la carretera y los madrugones pesan.Aún n"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Se Viene Algo Nuevo De Los Noruegos? | La Vuelta De Extol Al Estudio",
+    "link": "https://www.delotroladometal.com.ar/2026/02/08/la-vuelta-de-extol-al-estudio/",
+    "fecha": "08/02/2026",
+    "contenido": "Extol es una de las bandas mas reconocidas dentro del espectro cristiano del Metal en...\nThe post Se Viene Algo Nuevo De Los Noruegos? | La Vuelta De Extol Al Estudio first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Alexis Alzate",
     "titulo": "Cambios en mi uso de internet",
     "link": "https://alexisalzate.com/blog/2026-02-07/",
@@ -644,27 +679,6 @@
     "contenido": "Este pasado fin de semana he estado en la BilboStack 2026 y me he quedado con ganas de escribir sobre la charla de Carlos Iglesias. No porque dijera cosas que no supiéramos (la mayoría llevamos años masticando estas ideas) sino más bien por cómo las ha articulado y, sobre todo, por lo que hizo despu"
   },
   {
-    "blog": "plr blog",
-    "titulo": "La película \"Buenos principios\" está basada en \"Al oeste de Roma\" y \"Mi perro idiota\" de John Fante",
-    "link": "https://pedrolr.es/blog/la-pelicula-buenos-principios-esta-basada-en-al-oeste-de-roma-y-mi-perro-idiota-de-john-fante/",
-    "fecha": "01/02/2026",
-    "contenido": "El viernes me puse una película en la app de RTVE: \"Buenos principios\" (enlace a RTVE). Me la puse sin saber que está basada en \"Al oeste de Roma\" y \"Mi perro idiota\" de John Fante, quizá sin ninguna duda de quien he leído más. Tengo pocos libros en casa (tiro de bibliotecas), pero de [&#8230;]"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "El silencio también envejece",
-    "link": "https://gatooscuro.xyz/el-silencio-tambien-envejece/",
-    "fecha": "01/02/2026",
-    "contenido": "Me animé a escribir esto durante esta noche, a pocos días de mi cumpleaños, con una serie de emociones encontradas. Realmente no sé a qué darle prioridad de todo lo\nSeguir leyendo  El silencio también envejece\nEl cargo El silencio también envejece apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Hozuki, la librería de Mitsuko",
-    "link": "https://mareosdeungeek.es/hozuki-la-libreria-de-mitsuko/",
-    "fecha": "01/02/2026",
-    "contenido": "Hozuki, la librería de Mitsuko es la segunda historia de la pentalogía La sombra del cardo de la escritora Aki Shimazaki. De nuevo, es otro de esos libros que encuentro en la biblioteca y despiertan mi curiosidad, así que no puedo evitar cogerlos prestados. Cuando cogí esta obra de Aki Shimazaki des"
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "Configurar Fastfetch para que muestre una imagen personalizada",
     "link": "https://tecnoysoft.com/2026/02/01/configurar-fastfetch-para-que-muestre-una-imagen-personalizada/",
@@ -684,13 +698,6 @@
     "link": "http://locutusbit.blogspot.com/2026/02/xxxviii.html",
     "fecha": "01/02/2026",
     "contenido": "&nbsp;Son los límites,porque no son símbolos,pero se imponen.Pascual Herrera"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Ping #16: Actualizaciones, novedades y ranking de distros",
-    "link": "https://voidnull.es/ping-16-actualizaciones-novedades-y-ranking-de-distros/",
-    "fecha": "01/02/2026",
-    "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
   },
   {
     "blog": "zona de confort",
@@ -726,12 +733,5 @@
     "link": "https://www.fabio.com.ar/9864-80286-mi-primer-pc",
     "fecha": "01/02/2026",
     "contenido": "    \nHe hablado en este blog de procesadores muchas veces, pero por alguna raz&oacute;n nunca habl&eacute; en detalle del 80286, procesador ahora olvidado, pero que fue el de mi primera PC, un salto enorme desde la XT original, aunque todav&iacute;a incompleto.\nLa 286 fue la primera PC accesible de "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "White Metal…Simple Etiqueta O Subgénero?",
-    "link": "https://www.delotroladometal.com.ar/2026/02/01/white-metalsimple-etiqueta-o-subgenero/",
-    "fecha": "01/02/2026",
-    "contenido": "Cuestión complicada de dilucidar si las hay, y una de las temáticas que más polvareda...\nThe post White Metal…Simple Etiqueta O Subgénero? first appeared on Del Otro Lado Metal."
   }
 ]
