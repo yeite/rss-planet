@@ -1,10 +1,38 @@
 [
   {
+    "blog": "Un blog",
+    "titulo": "Audiobookshelf",
+    "link": "https://nachof.blog/posts/2026/audiobookshelf/",
+    "fecha": "09/02/2026",
+    "contenido": "Me estoy volviendo cada vez menos tolerante con las pelotudeces del software propietario. Ayer Audible me perdió el progreso en un libro. Así que chau Audible.\nHace un tiempo que venimos escuchando con la familia audiolibros cuando viajamos en auto. Por más que busqué alternativas, parece que compra"
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "Mi Setup DeGoogle",
+    "link": "https://thejnx.bearblog.dev/mi-setup-degoogle/",
+    "fecha": "09/02/2026",
+    "contenido": "Las apps que uso en mi dia a dia para alejarme de Google"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Aplicaciones Flatpak de Gnome sin acentos en KDE Plasma",
+    "link": "https://adrianperales.com/2026/02/aplicaciones-flatpak-de-gnome-sin-acentos-en-kde-plasma/",
+    "fecha": "08/02/2026",
+    "contenido": "Estoy con KDE Neon, basada en la última Ubuntu 24.04 LTS y que trae la última versión de KDE Plasma (actualmente 6.5.5). Uso diversas aplicaciones de Gnome instaladas con Flatpak, como Gajim o Planify, y resulta que los acentos no se escriben. Pulsaba la tecla del acento y era directamente ignorada."
+  },
+  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "¿Hemos llegado a la AGI?",
     "link": "https://vonneumannmachine.wordpress.com/2026/02/08/hemos-llegado-a-la-agi/",
     "fecha": "08/02/2026",
     "contenido": "&#160; Un reciente artículo en Nature ha arremetido contra las voces críticas, nada más y nada menos, sosteniendo que la AGI ya está aquí ¡Además con cascadas de evidencia a favor! Os ofrezco una réplica a un artículo bastante confuso y contradictorio, y que yo no hubiera publicado en Nature sin muc"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "El chico de Internet",
+    "link": "https://jinversor.co/2026/02/el-chico-de-internet/",
+    "fecha": "08/02/2026",
+    "contenido": "Estuve viendo un documental sobre la vida de Aaron Swartz titulado El chico de Internet. Swartz fue un niño prodigio de la informática y un reconocido activista por la libertad [&#8230;]\nLa entrada El chico de Internet se publicó primero en Jinversor."
   },
   {
     "blog": "Mareos de un geek",
@@ -28,11 +56,11 @@
     "contenido": "Qué feliz te hace soñar con algo que deseas. Hace unas horas he soñado con mi último día de clase este curso. Y he sido feliz en ese mundo onírico porque sé que dentro de no tanto llegará. Porque el tiempo sí que pasa. Y aunque esté bien mirado en mi puesto, la carretera y los madrugones pesan.Aún n"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Se Viene Algo Nuevo De Los Noruegos? | La Vuelta De Extol Al Estudio",
-    "link": "https://www.delotroladometal.com.ar/2026/02/08/la-vuelta-de-extol-al-estudio/",
+    "blog": "eaplmx",
+    "titulo": "Frustraciones modernas",
+    "link": "https://text.eapl.mx/frustraciones-modernas",
     "fecha": "08/02/2026",
-    "contenido": "Extol es una de las bandas mas reconocidas dentro del espectro cristiano del Metal en...\nThe post Se Viene Algo Nuevo De Los Noruegos? | La Vuelta De Extol Al Estudio first appeared on Del Otro Lado Metal."
+    "contenido": ""
   },
   {
     "blog": "Alexis Alzate",
@@ -89,13 +117,6 @@
     "link": "https://nachof.blog/posts/2026/odio-manejar/",
     "fecha": "07/02/2026",
     "contenido": "Este post va a ser bastante negativo, lo cual es evidente por el título. Si no querés leer negatividad, sentite libre de saltearlo.\nOdio manejar. Lo odio con todo mi ser. Odio los autos, y la cultura alrededor de ellos, y el riesgo que representan para las personas, y el entorno cultural en el que t"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Mortification: Scrolls Of The Megilloth | Un Clásico Para No Olvidar",
-    "link": "https://www.delotroladometal.com.ar/2026/02/07/un-clasico-para-no-olvidar/",
-    "fecha": "07/02/2026",
-    "contenido": "(1992 &#8211; Nuclear Blast/Intense Records/Soundmass/Rowe Productions) Es uno de esos discos invencibles por el paso...\nThe post Mortification: Scrolls Of The Megilloth | Un Clásico Para No Olvidar first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -301,13 +322,6 @@
     "contenido": "Últimamente he ido identificando ciertos números \"hito\" tanto en este blog como en lo personal. Así que usé esos números como excusa para escribir. En enero escribí mucho En Enero de 2026, publiqué 16 entradas en el blog. Mirando el dropdown de archivos del blog, desde 2021 no escribía tantos posts "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "German Pascual: Beyond Our Comprehensions | En Equilibro Con El Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/02/05/en-equilibro-con-el-metal/",
-    "fecha": "05/02/2026",
-    "contenido": "(2025 &#8211; Roxx Productions) Cuando la cosa parece indefinida y abre la puerta del debate...\nThe post German Pascual: Beyond Our Comprehensions | En Equilibro Con El Metal first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Piumaster | Alejandro Piumetti",
     "titulo": "Mis consumos y recomendaciones de enero",
     "link": "https://alepiumetti.github.io/blog/consumos-de-enero",
@@ -427,20 +441,6 @@
     "contenido": "    \nUna cosa que me pasa, y desde ya no creo ser el &uacute;nico, es que varias zonas de mi cerebro est&aacute;n interconectadas y si uso mucho una para ciertas tareas, no puedo hacer otras porque se me superpone la neurona. En mi caso es escribir y programar.\nNo es que desarrollar software requier"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "RUIDO presenta el EP \"6 Monedas Para Caronte\" | Graves Riffs Desde El Desierto Cuyano",
-    "link": "https://www.delotroladometal.com.ar/2026/02/04/graves-riffs-desde-el-desierto-cuyano/",
-    "fecha": "04/02/2026",
-    "contenido": "Ya era tiempo de poder escuchar algo en esta tonalidad. Sonidos y riffs pesados, graves,...\nThe post RUIDO presenta el EP \"6 Monedas Para Caronte\" | Graves Riffs Desde El Desierto Cuyano first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Mi Setup DeGoogle",
-    "link": "https://thejnx.bearblog.dev/mi-setup-degoogle/",
-    "fecha": "04/02/2026",
-    "contenido": "Las apps que uso en mi dia a dia para alejarme de Google"
-  },
-  {
     "blog": "Un Diario",
     "titulo": "Hablemos De Emulación",
     "link": "https://thejnx.bearblog.dev/hablemos-de-emulacion/",
@@ -532,13 +532,6 @@
     "contenido": "Uno de los sitios que mantengo es Mesa de Juegos, que es una herramienta que usamos para organizar juntadas de juegos de mesa. Está ahí andando y generalmente no necesita demasiado mantenimiento porque anda. De hecho, el total de modificaciones al código durante el 2025 fue cero. Hay un par de error"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"The Blind Leading Blind\" Se Estrena El 13 De Febrero... | Nuevo Single Y Nuevo EP Para Fear Not",
-    "link": "https://www.delotroladometal.com.ar/2026/02/03/nuevo-single-y-nuevo-ep-para-fear-not/",
-    "fecha": "03/02/2026",
-    "contenido": "Hace un buen tiempo, nos prometieron un disco entero, pero parece que aún no es...\nThe post \"The Blind Leading Blind\" Se Estrena El 13 De Febrero... | Nuevo Single Y Nuevo EP Para Fear Not first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "Lo que aprendí organizando una comunidad antes de que existieran las herramientas para hacerlo",
     "link": "https://dani.torresburriel.com/lo-que-aprendi-organizando-una-comunidad-antes-de-que-existieran-las-herramientas-para-hacerlo/",
@@ -581,13 +574,6 @@
     "contenido": "Mi anterior texto fue muy largo y aún así muchos os lo fumasteis enterito que sois mas majos que la vida así que hoy voy con uno más corto que os lo tenéis ganado"
   },
   {
-    "blog": "NeoSite Blog",
-    "titulo": "NeoCMS - Posts relacionados y migración del sistema de estadisticas",
-    "link": "http://blog.neosite.com.ar/post/neocms-posts-relacionados-y-migraci-n-del-sistema-de-estadisticas",
-    "fecha": "02/02/2026",
-    "contenido": ""
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "\"¿Por qué los lectores de RSS parecen clientes de correo electrónico?\"",
     "link": "https://www.macram.es/posts/2026/02/por-que-los-lectores-rss-parecen-clientes-de-correo/",
@@ -607,13 +593,6 @@
     "link": "https://matizeta.com/2026/02/02/aplicaciones-de-listas-de-tipo-todo-para-iphone/",
     "fecha": "02/02/2026",
     "contenido": "Probé muchísimas aplicaciones de listas del tipo TODO. Si bien tengo una de cabecera que me acompaña hace varios años, quiero compartir otras dos que probé y me gustaron por su sencillez. 1. TickTick Mi app de cabecera, hablé de ella en su momento. Tiene plan por suscripción pero su versión gratuita"
-  },
-  {
-    "blog": "JosemiGT | Blog | Jardín digital",
-    "titulo": "Mis aplicaciones por defecto",
-    "link": "https://josemigt.dev/posts/mis-aplicaciones-por-defecto/",
-    "fecha": "02/02/2026",
-    "contenido": "Las aplicaciones que más utilizo en mi día a día"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -651,13 +630,6 @@
     "contenido": "\n  \n    \n  \nY sin verlo venir, ya ha llegado febrero. Ya se ha ido el primer mes del año. Parece mentira cómo pasa el tiempo y, que sí, al final todo llega y todo pasa.He escrito poco por aquí el mes de enero porque, de nuevo, estoy algo desbordado con el trabajo y me faltan horas en el día (y en la"
   },
   {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "En el templo de la Superposición",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/en-el-templo-de-la-superposicion/",
-    "fecha": "02/02/2026",
-    "contenido": "En el templo de la Superposición, el Sumo Sacerdote no oficiaba la misa: simplemente esperaba a que todos los futuros posibles se agotaran hasta quedar solo uno.\nLos fieles no se arrodillaban; permanecían en un estado de vibración constante, sabiendo que la fe, al igual que un fotón, se destruye en "
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "Buscando tu propio Reichstag",
     "link": "https://www.fabio.com.ar/9865-buscando-tu-propio-reichstag",
@@ -665,73 +637,10 @@
     "contenido": "    \nEl 23 de Febrero de 1933 el parlamento alem&aacute;n ard&iacute;a en llamas, el Reichstag era consumido por un fuego tan voraz como provocador, luego del incendio pasaron cosas, muchas cosas.\nTodo estado fascista necesita un incendio del Reichstag, en su momento sirvi&oacute; para perseguir a l"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Angel Distress: Ligna In Inani | La Conjunción Entre Lo Bello Y Oscuro",
-    "link": "https://www.delotroladometal.com.ar/2026/02/02/la-conjuncion-entre-lo-bello-y-oscuro/",
-    "fecha": "02/02/2026",
-    "contenido": "(2025 &#8211; Extreme Records) La belleza y lo hermoso también tienen su costado oscuro, y...\nThe post Angel Distress: Ligna In Inani | La Conjunción Entre Lo Bello Y Oscuro first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "Del output al outcome: cuando alguien se atreve a compartir su framework",
     "link": "https://dani.torresburriel.com/del-output-al-outcome-cuando-alguien-se-atreve-a-compartir-su-framework/",
     "fecha": "02/02/2026",
     "contenido": "Este pasado fin de semana he estado en la BilboStack 2026 y me he quedado con ganas de escribir sobre la charla de Carlos Iglesias. No porque dijera cosas que no supiéramos (la mayoría llevamos años masticando estas ideas) sino más bien por cómo las ha articulado y, sobre todo, por lo que hizo despu"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Configurar Fastfetch para que muestre una imagen personalizada",
-    "link": "https://tecnoysoft.com/2026/02/01/configurar-fastfetch-para-que-muestre-una-imagen-personalizada/",
-    "fecha": "01/02/2026",
-    "contenido": "Me gusta ser creativo y he decidido configurar Fastfetch para que muestre una imagen personalizada como logo, controlando su tamaño, posición y sin errores en el archivo config.jsonc. Hacer una copia de respaldo Hay que ser cuidadoso en el proceso y, como medida de seguridad, comienza por hacer un r"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 05/2026",
-    "link": "https://www.macram.es/posts/2026/02/semana-5-2026/",
-    "fecha": "01/02/2026",
-    "contenido": "Final de una semana, inicio de mes. Sigue haciendo frío y eso sigue haciendo mella en los coraazones. Lo bueno es que de momento está lloviendo bien y, aunque la tierra a mi alrededor está ya saturada, los pozos están a punto de rebosar y estoy viendo correr arroyos que de normal van secos, no parec"
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "XXXVIII",
-    "link": "http://locutusbit.blogspot.com/2026/02/xxxviii.html",
-    "fecha": "01/02/2026",
-    "contenido": "&nbsp;Son los límites,porque no son símbolos,pero se imponen.Pascual Herrera"
-  },
-  {
-    "blog": "zona de confort",
-    "titulo": "Perder el miedo",
-    "link": "https://sopadeletras.club/efmorell/perder-el-miedo",
-    "fecha": "01/02/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Dune",
-    "link": "http://frikoteca.blogspot.com/2026/02/dune.html",
-    "fecha": "01/02/2026",
-    "contenido": "Hace unos días me propusieron jugar a una partida en Comunidad Umbría basada en Dune. Como he comentado en varias ocasiones, a mí me gusta bastante jugar a rol por foro, y Comunidad Umbría es un foro de los más grandes que existen en lengua hispana.\nEn Comunidad Umbría te puedes apuntar a las partid"
-  },
-  {
-    "blog": "eaplmx",
-    "titulo": "Ya no es lo que era, y no está bien",
-    "link": "https://text.eapl.mx/ya-no-es-lo-que-era-y-no-esta-bien",
-    "fecha": "01/02/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "56K",
-    "titulo": "Fanta Mixtapes – 004 – Estamos en internet",
-    "link": "https://56k.es/fanta/fanta-mixtapes-004-estamos-en-internet/",
-    "fecha": "01/02/2026",
-    "contenido": "Esta mixtape la he titulado «Estamos en internet». Tiene una duración de unos 10 minutos como habitualmente. Se puede escuchar aquí: &#8211; La voz es de Álvaro Pombo del mitin de UPyD en Vista Alegre en 2011. &#8211; Las canciones que suenan: The Box de Roddy Ricch,  Seasons de Cunninlynguists con "
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "80286 mi primer PC",
-    "link": "https://www.fabio.com.ar/9864-80286-mi-primer-pc",
-    "fecha": "01/02/2026",
-    "contenido": "    \nHe hablado en este blog de procesadores muchas veces, pero por alguna raz&oacute;n nunca habl&eacute; en detalle del 80286, procesador ahora olvidado, pero que fue el de mi primera PC, un salto enorme desde la XT original, aunque todav&iacute;a incompleto.\nLa 286 fue la primera PC accesible de "
   }
 ]
