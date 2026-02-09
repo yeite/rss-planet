@@ -912,8 +912,8 @@
   },
   {
     "Nombre": "Teletex",
-    "Url": "http://teletex.org/index.html",
-    "Feed": "https://teletex.org/rss.xml",
+    "Url": "http://jmlro.codeberg.page/",
+    "Feed": "http://jmlro.codeberg.page/feed.xml",
     "Descripción": "Blog personal en formato diario.",
     "Categoría": "Tecnología",
     "País": "España"
