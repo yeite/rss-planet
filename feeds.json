@@ -1,10 +1,87 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "El ancho de la vida",
+    "link": "https://brucknerite.net/2026/02/el-ancho-de-la-vida.html",
+    "fecha": "09/02/2026",
+    "contenido": "Esta será una historia de trenes que empieza hace ya unos años, pero que tiene mucho que ver con el estado actual de la red ferroviaria española. Una historia, más concretamente, sobre el ancho de sus vías. En su dramatis personæ, unos ingenieros visionarios, un «luminoso» alcalde de Vigo y […]"
+  },
+  {
+    "blog": "Un bruto con Debian",
+    "titulo": "Gorilla.bas Un ratito de nostalgia.",
+    "link": "http://unbrutocondebian.blogspot.com/2026/02/gorillabas-un-ratito-de-nostalgia.html",
+    "fecha": "09/02/2026",
+    "contenido": "Hoy estaba perdiendo el tiempo un poco delante del ordenador cuando me he topado con un port de gorilla.bas, el mítico juego escrito en QuickBasic al que los que peinamos canas le dedicamos un buen tiempo cuando eramos niños.El caso es que me ha apetecido revivir la experiencia y me lo he descargado"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Mil cosas de Juan Tallón",
+    "link": "https://mareosdeungeek.es/mil-cosas-de-juan-tallon/",
+    "fecha": "09/02/2026",
+    "contenido": "Mil cosas de Juan Tallón es el último libro que he leído. Al final entre estudio, entrevistas y pruebas técnicas, sólo puedo aproximarme a este tipo de libros, tiny literature. En todo caso, este libro se lee rápido, apenas una mañana. Y es que la falta de tiempo, el estrés de las vidas actuales, al"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Stargate: El gran proyecto de infraestructura para la inteligencia del futuro",
+    "link": "https://alt43.es/stargate-el-gran-proyecto-de-infraestructura-para-la-inteligencia-del-futuro/",
+    "fecha": "09/02/2026",
+    "contenido": "Descubre qué es el Proyecto Stargate: la mayor infraestructura de IA de la historia. Analizamos sus socios, el uso de energía nuclear y su impacto en la privacidad global."
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "La manera en que consumimos música hace a su creación",
+    "link": "https://matizeta.com/2026/02/09/la-manera-en-que-consumimos-musica-hace-a-su-creacion/",
+    "fecha": "09/02/2026",
+    "contenido": "En un post anterior comente acerca de dos artículos relacionados al consumo de la música offline y en formato físico. Todo eso me dio pie para reflotar una serie de borradores que tenía a medio armar y poder terminar de darle forma. ¿Cómo consumimos la música hoy en día? La forma en que consumimos h"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalar GoToSocial en Debian 13",
+    "link": "https://voidnull.es/instalar-gotosocial-en-debian-13/",
+    "fecha": "09/02/2026",
+    "contenido": "GoToSocial es un servidor ligero para el Fediverso compatible con ActivityPub. Aprende a instalarlo en Debian 13."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Aragón vota contra Pedro Sánchez",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/aragon-vota-contra-pedro-sanchez.html",
+    "fecha": "09/02/2026",
+    "contenido": "Aragón ha hablado. Y lo ha hecho con esa claridad incómoda que desbarata relatos, rompe consignas y obliga a mirar los datos sin el filtro del argumentario de Ferraz. Las elecciones autonómicas no solo confirman un giro político ya visible en Extremadura; certifican algo más profundo y más grave par"
+  },
+  {
+    "blog": "",
+    "titulo": "Recomendación de la semana.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/02/09/recomendacion-de-la-semana-35/",
+    "fecha": "09/02/2026",
+    "contenido": "Esta semana un arpista de musica medieval nórdica y germánica. el arpista se llama Germán."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Añadir nuevos juegos a la consola X6",
+    "link": "https://56k.es/fanta/anadir-nuevos-juegos-a-la-consola-x6/",
+    "fecha": "09/02/2026",
+    "contenido": "Hablo de la consola portátil X6 versión V-8147. La llaman «Consola X6» pero existen diferentes versiones y por eso lo mismo encontrarás vídeos de gente diciendo que añadir juegos es tan sencillo como copiar las roms en la tarjeta SD y listo. En realidad en esta versión (que por lo que veo es muy eco"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "La red de la ira",
+    "link": "https://www.fabio.com.ar/9870-la-red-de-la-ira",
+    "fecha": "09/02/2026",
+    "contenido": "    \nHace un tiempo que el due&ntilde;o de Twitter decidi&oacute; renombrar la red con un extra&ntilde;o nombre \"X\", en su habitual insan&iacute;a trat&oacute; de darle \"valor\" a esa red buscando la forma en que los usuarios interactuaran de prepo, ya no por deseo propio, sino por \"obligaci&oacute;n"
+  },
+  {
     "blog": "Un blog",
     "titulo": "Audiobookshelf",
     "link": "https://nachof.blog/posts/2026/audiobookshelf/",
     "fecha": "09/02/2026",
     "contenido": "Me estoy volviendo cada vez menos tolerante con las pelotudeces del software propietario. Ayer Audible me perdió el progreso en un libro. Así que chau Audible.\nHace un tiempo que venimos escuchando con la familia audiolibros cuando viajamos en auto. Por más que busqué alternativas, parece que compra"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Adorned Graves: Dream I | Sin Ningún Tipo De Sutilezas",
+    "link": "https://www.delotroladometal.com.ar/2026/02/09/sin-ningun-tipo-de-sutilezas/",
+    "fecha": "09/02/2026",
+    "contenido": "(2025 &#8211; Soundmass) Cómo es posible que apenas un puñado de canciones puedan triturarte tanto...\nThe post Adorned Graves: Dream I | Sin Ningún Tipo De Sutilezas first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Un Diario",
@@ -63,6 +140,13 @@
     "contenido": ""
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Se Viene Algo Nuevo De Los Noruegos? | La Vuelta De Extol Al Estudio",
+    "link": "https://www.delotroladometal.com.ar/2026/02/08/la-vuelta-de-extol-al-estudio/",
+    "fecha": "08/02/2026",
+    "contenido": "Extol es una de las bandas mas reconocidas dentro del espectro cristiano del Metal en...\nThe post Se Viene Algo Nuevo De Los Noruegos? | La Vuelta De Extol Al Estudio first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Alexis Alzate",
     "titulo": "Cambios en mi uso de internet",
     "link": "https://alexisalzate.com/blog/2026-02-07/",
@@ -81,7 +165,7 @@
     "titulo": "Los poetas de Facebook o la Instapoesia . Una mirada moderna y digital a la poesía .",
     "link": "https://polotman.wordpress.com/2026/02/07/los-poetas-de-facebook-o-la-instapoesia-una-mirada-moderna-y-digital-a-la-poesia/",
     "fecha": "07/02/2026",
-    "contenido": "#literatura #Lospoetasdefaceboock&#160; #ElSueñodelArtistablog #poesia #Instapoesia&#160; Cuando escuche hablar por primera vez de los términos&#160; la instapoesia&#160; o los poetas de Facebook se me hizo algo curioso y a la vez algo gracioso la creación de un&#160; término específico a la redacci"
+    "contenido": "#literatura #Lospoetasdefaceboock&#160; #ElSueñodelArtistablog #poesia #Instapoesia&#160; Cuando escuche hablar por primera vez de los términos  la instapoesia  o los poetas de Facebook se me hizo algo curioso y a la vez algo gracioso la creación de un  término específico a la redacción y publicació"
   },
   {
     "blog": "danielaragay.net",
@@ -117,6 +201,13 @@
     "link": "https://nachof.blog/posts/2026/odio-manejar/",
     "fecha": "07/02/2026",
     "contenido": "Este post va a ser bastante negativo, lo cual es evidente por el título. Si no querés leer negatividad, sentite libre de saltearlo.\nOdio manejar. Lo odio con todo mi ser. Odio los autos, y la cultura alrededor de ellos, y el riesgo que representan para las personas, y el entorno cultural en el que t"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Mortification: Scrolls Of The Megilloth | Un Clásico Para No Olvidar",
+    "link": "https://www.delotroladometal.com.ar/2026/02/07/un-clasico-para-no-olvidar/",
+    "fecha": "07/02/2026",
+    "contenido": "(1992 &#8211; Nuclear Blast/Intense Records/Soundmass/Rowe Productions) Es uno de esos discos invencibles por el paso...\nThe post Mortification: Scrolls Of The Megilloth | Un Clásico Para No Olvidar first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -322,6 +413,13 @@
     "contenido": "Últimamente he ido identificando ciertos números \"hito\" tanto en este blog como en lo personal. Así que usé esos números como excusa para escribir. En enero escribí mucho En Enero de 2026, publiqué 16 entradas en el blog. Mirando el dropdown de archivos del blog, desde 2021 no escribía tantos posts "
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "German Pascual: Beyond Our Comprehensions | En Equilibro Con El Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/02/05/en-equilibro-con-el-metal/",
+    "fecha": "05/02/2026",
+    "contenido": "(2025 &#8211; Roxx Productions) Cuando la cosa parece indefinida y abre la puerta del debate...\nThe post German Pascual: Beyond Our Comprehensions | En Equilibro Con El Metal first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Piumaster | Alejandro Piumetti",
     "titulo": "Mis consumos y recomendaciones de enero",
     "link": "https://alepiumetti.github.io/blog/consumos-de-enero",
@@ -441,6 +539,13 @@
     "contenido": "    \nUna cosa que me pasa, y desde ya no creo ser el &uacute;nico, es que varias zonas de mi cerebro est&aacute;n interconectadas y si uso mucho una para ciertas tareas, no puedo hacer otras porque se me superpone la neurona. En mi caso es escribir y programar.\nNo es que desarrollar software requier"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "RUIDO presenta el EP \"6 Monedas Para Caronte\" | Graves Riffs Desde El Desierto Cuyano",
+    "link": "https://www.delotroladometal.com.ar/2026/02/04/graves-riffs-desde-el-desierto-cuyano/",
+    "fecha": "04/02/2026",
+    "contenido": "Ya era tiempo de poder escuchar algo en esta tonalidad. Sonidos y riffs pesados, graves,...\nThe post RUIDO presenta el EP \"6 Monedas Para Caronte\" | Graves Riffs Desde El Desierto Cuyano first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Un Diario",
     "titulo": "Hablemos De Emulación",
     "link": "https://thejnx.bearblog.dev/hablemos-de-emulacion/",
@@ -532,6 +637,13 @@
     "contenido": "Uno de los sitios que mantengo es Mesa de Juegos, que es una herramienta que usamos para organizar juntadas de juegos de mesa. Está ahí andando y generalmente no necesita demasiado mantenimiento porque anda. De hecho, el total de modificaciones al código durante el 2025 fue cero. Hay un par de error"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "\"The Blind Leading Blind\" Se Estrena El 13 De Febrero... | Nuevo Single Y Nuevo EP Para Fear Not",
+    "link": "https://www.delotroladometal.com.ar/2026/02/03/nuevo-single-y-nuevo-ep-para-fear-not/",
+    "fecha": "03/02/2026",
+    "contenido": "Hace un buen tiempo, nos prometieron un disco entero, pero parece que aún no es...\nThe post \"The Blind Leading Blind\" Se Estrena El 13 De Febrero... | Nuevo Single Y Nuevo EP Para Fear Not first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "Lo que aprendí organizando una comunidad antes de que existieran las herramientas para hacerlo",
     "link": "https://dani.torresburriel.com/lo-que-aprendi-organizando-una-comunidad-antes-de-que-existieran-las-herramientas-para-hacerlo/",
@@ -546,25 +658,11 @@
     "contenido": "Fecha de lectura: 02/02/2026.Autor/a: Luc&iacute;a Solla.Categoría: Ficción.Número de páginas: 248.Mi valoración: ★★★★☆Me ha gustado el libro. La historia, la evolución de la protagonista, la forma en que escribe Lucía Solla y en cómo aporta un necesario rayito de luz a tantas sombras cotidianas, qu"
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Da más estilo a Fastfetch con las configuraciones que incorpora",
-    "link": "https://victorhckinthefreeworld.com/2026/02/02/da-mas-estilo-a-fastfetch-con-las-configuraciones-que-incorpora/",
-    "fecha": "02/02/2026",
-    "contenido": "Fastfetch incluye una serie de configuraciones ya creadas que dan más estilo a la información de tu equipo que muestra en la terminal este software"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "También quiero recuperar mi vida digital",
     "link": "https://blog.luiscarlospando.com/personal/2026/02/tambien-quiero-recuperar-mi-vida-digital/",
     "fecha": "02/02/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "De Heliboard a LeanType: la IA llega al mejor teclado Android de código abierto",
-    "link": "https://alt43.es/cuando-el-mejor-teclado-android-heliboard-adopta-la-ia-de-la-mejor-manera-posible-leantype/",
-    "fecha": "02/02/2026",
-    "contenido": "Descubre LeanType, la evolución del teclado Heliboard para Android que integra IA de forma transparente. Analizamos sus tres versiones (estándar, offline y lite), su compromiso con la privacidad y cómo configurar modelos como Gemini o Groq para traducir y corregir textos sin salir de cualquier app."
   },
   {
     "blog": "Galerías Preciados",
@@ -581,60 +679,11 @@
     "contenido": "Acabo de leer en Manual do Usuário este artículo, en inglés: &quot;¿Por qué los lectores de RSS parecen clientes de correo electrónico?&quot;. A su vez enlaza a este post en el blog de Terry Godier (añado, post exquisitamente diseñado). Tiene toda la razón: casi todos los lectores RSS clásicos tiene"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Matriz",
-    "link": "https://www.macram.es/musica/matriz-rozalen/",
-    "fecha": "02/02/2026",
-    "contenido": "Rozalén hizo en 2022 un disco que es una declaración de amor a nuestras raíces. A las suyas, a las mías y a las de todos los que hemos crecido en España. Y lo hizo con algunas de las mejores compañías que se puede tener. Ella misma es bandurrista y se nota en muchas de sus obras, pero nunca había id"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Aplicaciones de listas de tipo ToDo para iPhone",
-    "link": "https://matizeta.com/2026/02/02/aplicaciones-de-listas-de-tipo-todo-para-iphone/",
-    "fecha": "02/02/2026",
-    "contenido": "Probé muchísimas aplicaciones de listas del tipo TODO. Si bien tengo una de cabecera que me acompaña hace varios años, quiero compartir otras dos que probé y me gustaron por su sencillez. 1. TickTick Mi app de cabecera, hablé de ella en su momento. Tiene plan por suscripción pero su versión gratuita"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "522. Macaria",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/02/522-macaria.html",
     "fecha": "02/02/2026",
     "contenido": "&nbsp; &nbsp; Macaria no es que idealizara la monogamia, pero hubo un tiempo en que estaba dispuesta a envejecer junto a Demetario, de no ser porque este, en los últimos tiempos, se había convertido en un pedorro incontinente. Un día inesperado y lluvioso, la consistencia mefítica de uno de los cues"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "LinkedIn, la cámara de eco",
-    "link": "https://blog.danielaragay.net/linkedin-la-camara-de-eco/",
-    "fecha": "02/02/2026",
-    "contenido": "Confieso que apenas entro en LinkedIn. Y si soy sincero, cuando lo hago es m&#xe1;s por presi&#xf3;n corporativa que por gusto real. Para m&#xed;, esta plataforma se ha convertido en una especie de burbuja de egos, un lugar donde todo el mundo parece estar triunfando,"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Newsletter #45 - ¡Empezamos el año con algunos cambios!",
-    "link": "https://voidnull.es/newsletter/newsletter-45-empezamos-el-ano-con-algunos-cambios/",
-    "fecha": "02/02/2026",
-    "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "La Secta del Átomo",
-    "link": "https://docig.bearblog.dev/la-secta-del-atomo/",
-    "fecha": "02/02/2026",
-    "contenido": "Se dice que los adeptos a la Secta del Átomo Indivisible —quienes prefieren llamarse a sí mismos Los Observadores— profesan una fe que es, en rigor, una forma extrema de la aritmética. Su doctrina, dispersa en panfletos de una geometría fatigosa, sostiene que el universo no es una creación, sino una"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Febrero",
-    "link": "https://www.xn--jmuoz-qta.es/2026/02/febrero.html",
-    "fecha": "02/02/2026",
-    "contenido": "\n  \n    \n  \nY sin verlo venir, ya ha llegado febrero. Ya se ha ido el primer mes del año. Parece mentira cómo pasa el tiempo y, que sí, al final todo llega y todo pasa.He escrito poco por aquí el mes de enero porque, de nuevo, estoy algo desbordado con el trabajo y me faltan horas en el día (y en la"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Buscando tu propio Reichstag",
-    "link": "https://www.fabio.com.ar/9865-buscando-tu-propio-reichstag",
-    "fecha": "02/02/2026",
-    "contenido": "    \nEl 23 de Febrero de 1933 el parlamento alem&aacute;n ard&iacute;a en llamas, el Reichstag era consumido por un fuego tan voraz como provocador, luego del incendio pasaron cosas, muchas cosas.\nTodo estado fascista necesita un incendio del Reichstag, en su momento sirvi&oacute; para perseguir a l"
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
