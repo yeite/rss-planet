@@ -17,6 +17,158 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "Alejandro Piumetti (Blog personal)",
+    "Url": "https://alejandropiumetti.com.ar",
+    "Feed": "https://alejandropiumetti.com.ar/feed/blog.xml",
+    "Descripción": "Es un blog personal en donde subo lo que se me ocurra, snippets de programación, ideas, videojuegos, comida, libros que leí. Y también tengo un journey con algunas fotos que voy sacando en mis andanzas.",
+    "Categoría": "Comida y bebida, Tecnología, Vida Diaria",
+    "País": "Argentina"
+},
+{
+    "Nombre": "Martín Vukovic",
+    "Url": "https://martinvukovic.com/",
+    "Feed": "https://martinvukovic.com/feed.xml",
+    "Descripción": "Blog personal con reflexiones y experiencias personales, hobbies, literatura y otros temas.",
+    "Categoría": "Literario, Sociedad y Economía, Tecnología, Vida Diaria",
+    "País": "Argentina"
+},
+{
+    "Nombre": "Jesús Pavón Abián",
+    "Url": "https://jesuspavonabian.es",
+    "Feed": "https://jesuspavonabian.es/index.xml",
+    "Descripción": "Mi blog personal. Hablo de tecnología, de café, de radioafición... Lo que sea.",
+    "Categoría": "",
+    "País": "España"
+},
+{
+    "Nombre": "Blog de Daniel Torres Burriel",
+    "Url": "https://dani.torresburriel.com",
+    "Feed": "https://dani.torresburriel.com/feed/",
+    "Descripción": "Anotaciones sobre diseño, experiencia de usuario, liderazgo, user research, emprendimiento, escalado de equipos y negocios digitales.",
+    "Categoría": "Arte y Diseño, Sociedad y Economía, Tecnología",
+    "País": "España"
+},
+{
+    "Nombre": "None",
+    "Url": "https://dc-none.blogspot.com",
+    "Feed": "https://dc-none.blogspot.com/feeds/posts/default",
+    "Descripción": "Mi pequeño rincón de la web donde guardo y comparto mis relatos y ensayos sobre temas diversos",
+    "Categoría": "Entretenimiento y Cultura, Literario",
+    "País": "Venezuela"
+},
+{
+    "Nombre": "Blog de Veenk",
+    "Url": "https://veenk.org/blog",
+    "Feed": "",
+    "Descripción": "Blog del proyecto Veenk donde cualquiera puede publicar sobre software libre y activismo digital. Encuentra comparaciones de distintas apps, guías de uso y reflexiones sobre el uso de la tecnología.",
+    "Categoría": "Tecnología",
+    "País": "España"
+},
+{
+    "Nombre": "Avatares99",
+    "Url": "https://avatares99.wordpress.com/",
+    "Feed": "https://avatares99.wordpress.com/feed/",
+    "Descripción": "Videojuegos, gaming, retroGaming.",
+    "Categoría": "Entretenimiento y Cultura",
+    "País": "Argentina"
+},
+{
+    "Nombre": "Una Historia Americana",
+    "Url": "https://unahistoriaamericana.wordpress.com",
+    "Feed": "https://unahistoriaamericana.wordpress.com/feed/",
+    "Descripción": "Historia de la exploración conquistadora de América y la piratería del caribe.",
+    "Categoría": "Entretenimiento y Cultura, Literario",
+    "País": "Argentina"
+},
+{
+    "Nombre": "Un Diario",
+    "Url": "https://thejnx.bearblog.dev",
+    "Feed": "https://thejnx.bearblog.dev/rss",
+    "Descripción": "Aquí escribo/reúno mis ideas mas importantes, temas frikis, geeks, algunas reseñas, recomendaciones, etc, por si les resultan de utilidad! (˶ᵔ ᵕ ᵔ˶)",
+    "Categoría": "Tecnología, Vida Diaria",
+    "País": "Colombia"
+},
+{
+    "Nombre": "Ilogeek",
+    "Url": "https://ilogeek.es",
+    "Feed": "https://ilogeek.es/feed",
+    "Descripción": "Espacio personal donde hago reflexiones sin filtros sobre cultura geek, escritas desde la experiencia en sistemas y el interés por el detalle técnico. Una bitácora dónde priorizo la visión personal y el espíritu crítico frente a las tendencias de consumo masivo.",
+    "Categoría": "Tecnología",
+    "País": "España"
+},
+{
+    "Nombre": "Enredada",
+    "Url": "https://escritura.social/akane/",
+    "Feed": "https://escritura.social/akane/feed",
+    "Descripción": "Yo quería hacer activismo de redes, contarle a la gente mi despertar de la pesadilla de las redes sociales comerciales, y de alguna forma he terminado hablando de todo un poco.",
+    "Categoría": "Literario, Tecnología",
+    "País": "España"
+},
+{
+    "Nombre": "QTC",
+    "Url": "https://www.qtc.es",
+    "Feed": "www.qtc.es/feeds/posts/default",
+    "Descripción": "Blog sobre opinión, política, salud y tecnología. Futuro podcast.",
+    "Categoría": "Ciencia y Humanidades, Newsletter, Tecnología",
+    "País": "España"
+},
+{
+    "Nombre": "Asturgeek",
+    "Url": "https://blogo.asturgeek.eu",
+    "Feed": "https://blogo.asturgeek.eu/feed",
+    "Descripción": "Un blog personal con experiencias, pensamientos, linux y juegos",
+    "Categoría": "Entretenimiento y Cultura",
+    "País": "España"
+},
+{
+    "Nombre": "Blog de Pulga",
+    "Url": "https://pulga8.github.io/",
+    "Feed": "https://pulga8.github.io/feed.xml",
+    "Descripción": "Anotaciones, textos, y demases. Escribo sobre tecnología tratando de que sea "entendible", sociedad, y gustos personales.",
+    "Categoría": "Entretenimiento y Cultura, Tecnología, Vida Diaria",
+    "País": "Argentina"
+},
+{
+    "Nombre": "Chocoboreviews",
+    "Url": "https://chocoboreview.neocities.org/",
+    "Feed": "",
+    "Descripción": "Un pequeño blog donde hago pequeñas reseñas del contenido que consumo, principalmente videojuegos.",
+    "Categoría": "Entretenimiento y Cultura, Newsletter",
+    "País": "España"
+},
+{
+    "Nombre": "Sobre música: popular y no tan popular",
+    "Url": "https://leocifuentes.blogspot.com",
+    "Feed": "https://leocifuentes.blogspot.com/feeds/posts/default",
+    "Descripción": "Reflexiones y opinión sobre música y cultura",
+    "Categoría": "Entretenimiento y Cultura",
+    "País": "España"
+},
+{
+    "Nombre": "jdrm",
+    "Url": "https://jdrm.info/",
+    "Feed": "https://jdrm.info/feeds/all.atom.xml",
+    "Descripción": "Un blog personal, principalmente con contenido de informática al margen de las tendencias comerciales",
+    "Categoría": "Tecnología",
+    "País": "España"
+},
+{
+    "Nombre": "El blog de Don Hielos",
+    "Url": "https://www.donhielos.com",
+    "Feed": "https://www.donhielos.com/feed/",
+    "Descripción": "Blog de aventuras de una persona normal.",
+    "Categoría": "Comida y bebida, Entretenimiento y Cultura, Fotografía, Newsletter, Viajes",
+    "País": "Chile"
+},
+{
+    "Nombre": "El blog de Don Hielos",
+    "Url": "https://bloc.lourdesmunozsantamaria.cat/blog-lourdes-munoz/",
+    "Feed": "",
+    "Descripción": "Blog personal de Lourdes Muñoz Santamaría, experta en proyectos de tecnología con datos abiertos para abordar retos sociales. Artículos sobre Open Data, ciberfeminismo. innovación pública o software libre."
+    "Categoría": "Sociedad y Economía, Tecnología",
+    "País": "España"
+},
+  {
     "Nombre": "Spam de autor",
     "Url": "http://blog.spamdeautor.com",
     "Feed": "http://blog.spamdeautor.com/feed/",
