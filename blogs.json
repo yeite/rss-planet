@@ -107,7 +107,7 @@
 {
     "Nombre": "QTC",
     "Url": "https://www.qtc.es",
-    "Feed": "www.qtc.es/feeds/posts/default",
+    "Feed": "https://www.qtc.es/feeds/posts/default",
     "Descripción": "Blog sobre opinión, política, salud y tecnología. Futuro podcast.",
     "Categoría": "Ciencia y Humanidades, Newsletter, Tecnología",
     "País": "España"
