@@ -1,5 +1,33 @@
 [
   {
+    "blog": "pov – matizeta",
+    "titulo": "Poniendo un límite a mi uso de redes sociales",
+    "link": "https://matizeta.com/2026/02/10/poniendo-un-limite-a-mi-uso-de-redes-sociales/",
+    "fecha": "10/02/2026",
+    "contenido": "Todo empezó hace unos días cuando decidí quitar el cliente Ice Cube para Mastodon de mi móvil. Es la red social en donde más interactúo. Ahora mi uso se limita al tiempo que este frente a la PC: la abro en el navegador, «scrolleo» aunque no mucho, publico algo, contesto mensajes. Cuando termino, cie"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Lo de la Super Bowl",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/lo-de-la-super-bowl.html",
+    "fecha": "10/02/2026",
+    "contenido": "\n  \n    \n  \nTenemos una nueva americanada entre nosotros. No teníamos bastante con haber importado Halloween, el Black Friday (en versión semanal y hasta mensual), la Navidad en noviembre, o a Papá Noel. No. Ahora también tenemos final de la Super Bowl. No en el Marca o en el As, o en Teledeporte. N"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Utilizar Skraper desde línea de comandos en Linux",
+    "link": "https://56k.es/fanta/utilizar-skraper-desde-linea-de-comandos-en-linux/",
+    "fecha": "10/02/2026",
+    "contenido": "Skraper se puede usar con wine-mono pero para ciertas cosas lo mismo es más interesante indicar desde línea de comandos lo que deseamos. Con Skraper vamos a poder obtener descripción de juegos, sus caratulas, capturas de pantalla, manuales, vídeos, &#8230; Esto significa que si tenemos en un directo"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ser “Nazi” ya no es lo que era",
+    "link": "https://www.fabio.com.ar/9871-ser-nazi-ya-no-es-lo-que-era",
+    "fecha": "10/02/2026",
+    "contenido": "    \nPablo es un compa&ntilde;ero de trabajo que tiene un hijo de 18 a&ntilde;os el cual comparte grandes cantidades de horas con sus amigos a trav&eacute;s de juegos online.\nEs decir, es un cl&aacute;sico adolescente que, a ojos de los mayores, se la pasa frente a la pantalla con los auriculares cl"
+  },
+  {
     "blog": "La Loica",
     "titulo": "Foto Bordado",
     "link": "https://laloica.noblogs.org/foto-bordado/",
@@ -644,13 +672,6 @@
     "contenido": "Llevo tiempo probando de vez en cuando alternativas vegetarianas a determinados alimentos, particularmente lácteos. La leche (nótense las cursivas) todavía no la consigo manejar bien en casa, aunque fuera se ve que la saben preparar y la puedo tomar sin ningún problema. Sin embargo los yogures creo "
   },
   {
-    "blog": "post-it – matizeta",
-    "titulo": "Unihertz Titan 2 Elite",
-    "link": "https://matizeta.com/2026/02/03/unihertz-titan-2-elite/",
-    "fecha": "03/02/2026",
-    "contenido": "¿Será este 2026 el tímido regreso de los móviles con teclado?. Con la reciente llegada de Ikko Mind One a los consumidores que permite por medio de una funda sumarle un teclado y el anunciado Clicks Comunicator, ahora la empresa Unihertz anuncia una nuevo teléfono con tecklado QWERTY Unihertz viene "
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Nos vamos a Cracovia",
     "link": "https://blog.danielaragay.net/nos-vamos-a-cracovia/",
@@ -672,32 +693,11 @@
     "contenido": "La necesidad aviva el ingenio o por lo menos eso dicen. La cuestión, en mi día a día me piden realizar diferentes pruebas, ya sea de uso de memoria, CPU o uso disco en&#46;&#46;&#46;\nLa entrada Test de IOPS en Linux con Fio se publicó primero en ochobitshacenunbyte."
   },
   {
-    "blog": "56K",
-    "titulo": "No es buena idea usar «Not by AI»",
-    "link": "https://56k.es/fanta/es-posible-que-no-sea-buena-idea-usar-not-by-ai-en-tu-web/",
-    "fecha": "03/02/2026",
-    "contenido": "Sobre Not By AI han escrito por el fediverso un hilo en el que se argumenta porque es mierda TESCREAL. Seguramente reconozcas la etiqueta not By AI viéndola. Es la siguiente: ¿Qué es TESCREAL? Las compañeras Arte es Ética ( @arteesetica@mastodon.social ) lo describen muy bien aquí arteesetica.org/el"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Tapas de discos y aviación",
-    "link": "https://www.fabio.com.ar/9866-tapas-de-discos-y-aviacion",
-    "fecha": "03/02/2026",
-    "contenido": "    \nEl otro d&iacute;a me encontr&eacute; con la portada de un disco de Beastie Boys, Licensed to Ill, que me hab&iacute;a olvidado completamente de su existencia y todo un thread lleno de portadas de discos asociadas a la aviaci&oacute;n.\nColeccion&eacute; las que m&aacute;s me llamaron la atenci&"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Emprolijando un deploy",
     "link": "https://nachof.blog/posts/2026/emprolijando-un-deploy/",
     "fecha": "03/02/2026",
     "contenido": "Uno de los sitios que mantengo es Mesa de Juegos, que es una herramienta que usamos para organizar juntadas de juegos de mesa. Está ahí andando y generalmente no necesita demasiado mantenimiento porque anda. De hecho, el total de modificaciones al código durante el 2025 fue cero. Hay un par de error"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"The Blind Leading Blind\" Se Estrena El 13 De Febrero... | Nuevo Single Y Nuevo EP Para Fear Not",
-    "link": "https://www.delotroladometal.com.ar/2026/02/03/nuevo-single-y-nuevo-ep-para-fear-not/",
-    "fecha": "03/02/2026",
-    "contenido": "Hace un buen tiempo, nos prometieron un disco entero, pero parece que aún no es...\nThe post \"The Blind Leading Blind\" Se Estrena El 13 De Febrero... | Nuevo Single Y Nuevo EP Para Fear Not first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
