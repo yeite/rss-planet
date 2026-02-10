@@ -1,10 +1,24 @@
 [
   {
+    "blog": "La Loica",
+    "titulo": "Foto Bordado",
+    "link": "https://laloica.noblogs.org/foto-bordado/",
+    "fecha": "09/02/2026",
+    "contenido": "Todas estas fotografías son tomadas por mi en la región de Magallanes en distintas localidades, estas están intervenidas con bordados. Esta técnica se llama foto-bordado, que es básicamente perforar el papel para hacer la intervención con hilo de bordar. Todas realizadas durante la pandemia Covid 20"
+  },
+  {
     "blog": "brucknerite",
     "titulo": "El ancho de la vida",
     "link": "https://brucknerite.net/2026/02/el-ancho-de-la-vida.html",
     "fecha": "09/02/2026",
     "contenido": "Esta será una historia de trenes que empieza hace ya unos años, pero que tiene mucho que ver con el estado actual de la red ferroviaria española. Una historia, más concretamente, sobre el ancho de sus vías. En su dramatis personæ, unos ingenieros visionarios, un «luminoso» alcalde de Vigo y […]"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Precedente legal en España: El acceso al software como garantía de una democracia real",
+    "link": "https://victorhckinthefreeworld.com/2026/02/09/precedente-legal-en-espana-el-acceso-al-software-como-garantia-de-una-democracia-real/",
+    "fecha": "09/02/2026",
+    "contenido": "El Tribunal Supremo de España  ha sentado un precedente legal. La libertad de estudiar el software es constitucionalmente necesaria en el contexto de programas informáticos y algorítmicos de administración pública"
   },
   {
     "blog": "Un bruto con Debian",
@@ -28,6 +42,13 @@
     "contenido": "Descubre qué es el Proyecto Stargate: la mayor infraestructura de IA de la historia. Analizamos sus socios, el uso de energía nuclear y su impacto en la privacidad global."
   },
   {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 06/2026",
+    "link": "https://www.macram.es/posts/2026/02/semana-06-2026/",
+    "fecha": "09/02/2026",
+    "contenido": "Esta semana ha seguido haciendo un tiempo bastante desagradable, aunque parece que este tren de borrascas va a darnos un respiro pronto. La semana que terminó ayer (sí, ya sé que es lunes y no domingo) recogí la friolera de 105,9 litros por metro cuadrado con el pluviómetro que tengo en mi terraza. "
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "La manera en que consumimos música hace a su creación",
     "link": "https://matizeta.com/2026/02/09/la-manera-en-que-consumimos-musica-hace-a-su-creacion/",
@@ -35,11 +56,25 @@
     "contenido": "En un post anterior comente acerca de dos artículos relacionados al consumo de la música offline y en formato físico. Todo eso me dio pie para reflotar una serie de borradores que tenía a medio armar y poder terminar de darle forma. ¿Cómo consumimos la música hoy en día? La forma en que consumimos h"
   },
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "524. Todo queda en familia",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/02/524-todo-queda-en-familia.html",
+    "fecha": "09/02/2026",
+    "contenido": "&nbsp; &nbsp; Hoy, después de muchos años de amistad, Demenciano me ha hablado de algunos miembros de su familia.&nbsp;&nbsp; &nbsp; Así he sabido que Egilona, su madre, nunca se gastó un céntimo en desodorante axilar, ya que exprimía la fruta con el sobaco, fuera el izquierdo o el derecho. Los zumo"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalar GoToSocial en Debian 13",
     "link": "https://voidnull.es/instalar-gotosocial-en-debian-13/",
     "fecha": "09/02/2026",
     "contenido": "GoToSocial es un servidor ligero para el Fediverso compatible con ActivityPub. Aprende a instalarlo en Debian 13."
+  },
+  {
+    "blog": "teletex",
+    "titulo": "Compartir comida",
+    "link": "https://jmlro.codeberg.page/posts/2026/02-09-compartir-comida.html",
+    "fecha": "09/02/2026",
+    "contenido": "La evolución del espacio público es una de las profecías de internet. Poco a poco estos lugares se han ido convirtiendo menos en nuestra casa, estamos incómodos y nos sentímos observados. Cualquier persona que haga lo contrario, es sospechosa. Me acuerdo cuando vi los primeros bancos con pinchos par"
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -54,6 +89,20 @@
     "link": "https://mundoceltamedieval.wordpress.com/2026/02/09/recomendacion-de-la-semana-35/",
     "fecha": "09/02/2026",
     "contenido": "Esta semana un arpista de musica medieval nórdica y germánica. el arpista se llama Germán."
+  },
+  {
+    "blog": "ochobitshacenunbyte",
+    "titulo": "Diagramas fáciles con FlossFLOW y Docker",
+    "link": "https://www.ochobitshacenunbyte.com/2026/02/09/diagramas-faciles-con-flossflow-y-docker/",
+    "fecha": "09/02/2026",
+    "contenido": "En un sin fin de proyectos en los que he trabajado he tenido que realizar algún diagrama, para mostrar toda la arquitectura y la relación de todos los elementos entre si. Creo que a&#46;&#46;&#46;\nLa entrada Diagramas fáciles con FlossFLOW y Docker se publicó primero en ochobitshacenunbyte."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Perlas interesantes en «El tamaño correcto para un editor» de Eric S. Raymond",
+    "link": "https://56k.es/fanta/perlas-interesantes-en-el-tamano-correcto-para-un-editor-de-eric-s-raymond/",
+    "fecha": "09/02/2026",
+    "contenido": "Eric S. Raymond escribió en los tiempos de las Guerras de editores «The Right Size for an Editor». Un texto no tan conocido como el de «La catedral y el bazar» pero que tiene perlas interesantes. Cita la Ley de Zawinski (JWZ, el de Netscape) que venía a decir que «Todos los programas tendrían que..."
   },
   {
     "blog": "56K",
@@ -71,6 +120,13 @@
   },
   {
     "blog": "Un blog",
+    "titulo": "Nombres en juegos de rol",
+    "link": "https://nachof.blog/posts/2026/nombres-en-juegos-de-rol/",
+    "fecha": "09/02/2026",
+    "contenido": "Uno de los problemas difíciles con los que nos encontramos en los juegos de rol es el de ponerle nombres a las cosas.\nBen Robbins (creador de Microscope, Follow, In This World, y otros) tiene un muy buen post al respecto en su blog. La sugerencia es sencilla: una lista de nombres con el &ldquo;flavo"
+  },
+  {
+    "blog": "Un blog",
     "titulo": "Audiobookshelf",
     "link": "https://nachof.blog/posts/2026/audiobookshelf/",
     "fecha": "09/02/2026",
@@ -82,6 +138,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/02/09/sin-ningun-tipo-de-sutilezas/",
     "fecha": "09/02/2026",
     "contenido": "(2025 &#8211; Soundmass) Cómo es posible que apenas un puñado de canciones puedan triturarte tanto...\nThe post Adorned Graves: Dream I | Sin Ningún Tipo De Sutilezas first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Un lunes muy lunes",
+    "link": "https://dani.torresburriel.com/un-lunes-muy-lunes/",
+    "fecha": "09/02/2026",
+    "contenido": "Hoy ha sido un lunes al que definiría como una tormenta de arena. No voy mojado, si no me miras muy de cerca no se me nota, aparentemente mi ropa no está sucia, no me he despeinado. Pero me escuecen los ojos, tengo incomodidad en todo el cuerpo, me pica todo. Enero ha sido un &#8230; Sigue leyendo U"
   },
   {
     "blog": "Un Diario",
@@ -574,13 +637,6 @@
     "contenido": "Se publicaron los datos de 2024 para bibliotecas públicas en la web de Bibliotecas públicas en cifras (Ministerio de Cultura, 2026; en este post la referencia principal y en la que se basan muchos enlaces y una captura añadida es la anterior). Como todos los años, he hecho un cálculo: Gastos corrien"
   },
   {
-    "blog": "NeoSite Blog",
-    "titulo": "NeoCMS - Autenticación 2FA para panel de administración",
-    "link": "http://blog.neosite.com.ar/post/draft_neocms-autenticaci-n-2fa-para-panel-de-administraci-n",
-    "fecha": "03/02/2026",
-    "contenido": ""
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "#180: he descubierto que me gusta el yogur de avena",
     "link": "https://www.macram.es/posts/2026/02/yogur-de-avena/",
@@ -649,47 +705,5 @@
     "link": "https://dani.torresburriel.com/lo-que-aprendi-organizando-una-comunidad-antes-de-que-existieran-las-herramientas-para-hacerlo/",
     "fecha": "03/02/2026",
     "contenido": "Hace unos días, en la previa de la BilboStack 2026, estuve viendo una charla de Bart Farrell sobre creación y gestión de comunidades profesionales. Y mientras escuchaba, me encontré viajando mentalmente veinte años atrás, a aquel abril de 2005 en el que convoqué el primer Cocktail Cadius en Zaragoza"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Comerás flores",
-    "link": "https://guillermolatorre.com/libros/comeras-flores",
-    "fecha": "02/02/2026",
-    "contenido": "Fecha de lectura: 02/02/2026.Autor/a: Luc&iacute;a Solla.Categoría: Ficción.Número de páginas: 248.Mi valoración: ★★★★☆Me ha gustado el libro. La historia, la evolución de la protagonista, la forma en que escribe Lucía Solla y en cómo aporta un necesario rayito de luz a tantas sombras cotidianas, qu"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "También quiero recuperar mi vida digital",
-    "link": "https://blog.luiscarlospando.com/personal/2026/02/tambien-quiero-recuperar-mi-vida-digital/",
-    "fecha": "02/02/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "¡Una de breves!",
-    "link": "https://galeriaspreciados.band/una-de-breves/",
-    "fecha": "02/02/2026",
-    "contenido": "Mi anterior texto fue muy largo y aún así muchos os lo fumasteis enterito que sois mas majos que la vida así que hoy voy con uno más corto que os lo tenéis ganado"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "\"¿Por qué los lectores de RSS parecen clientes de correo electrónico?\"",
-    "link": "https://www.macram.es/posts/2026/02/por-que-los-lectores-rss-parecen-clientes-de-correo/",
-    "fecha": "02/02/2026",
-    "contenido": "Acabo de leer en Manual do Usuário este artículo, en inglés: &quot;¿Por qué los lectores de RSS parecen clientes de correo electrónico?&quot;. A su vez enlaza a este post en el blog de Terry Godier (añado, post exquisitamente diseñado). Tiene toda la razón: casi todos los lectores RSS clásicos tiene"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "522. Macaria",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/02/522-macaria.html",
-    "fecha": "02/02/2026",
-    "contenido": "&nbsp; &nbsp; Macaria no es que idealizara la monogamia, pero hubo un tiempo en que estaba dispuesta a envejecer junto a Demetario, de no ser porque este, en los últimos tiempos, se había convertido en un pedorro incontinente. Un día inesperado y lluvioso, la consistencia mefítica de uno de los cues"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Del output al outcome: cuando alguien se atreve a compartir su framework",
-    "link": "https://dani.torresburriel.com/del-output-al-outcome-cuando-alguien-se-atreve-a-compartir-su-framework/",
-    "fecha": "02/02/2026",
-    "contenido": "Este pasado fin de semana he estado en la BilboStack 2026 y me he quedado con ganas de escribir sobre la charla de Carlos Iglesias. No porque dijera cosas que no supiéramos (la mayoría llevamos años masticando estas ideas) sino más bien por cómo las ha articulado y, sobre todo, por lo que hizo despu"
   }
 ]
