@@ -1,5 +1,19 @@
 [
   {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "La maldición de Hill House",
+    "link": "https://guillermolatorre.com/libros/la-maldicion-de-hill-house",
+    "fecha": "10/02/2026",
+    "contenido": "Fecha de lectura: 11/02/2026.Autor/a: Shirley Jackson.Categoría: Ficción.Número de páginas: 256.Mi valoración: ★★★☆☆No sé muy bien por qué, pero no he llegado a sentirme dentro de la historia en ningún momento."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Epstein y los idiotas",
+    "link": "https://jinversor.co/2026/02/epstein-y-los-idiotas/",
+    "fecha": "10/02/2026",
+    "contenido": "Mea culpa. Sucumbí al tema de moda y terminé viendo en HBO el Documental de Jeffrey Epstein. Me pareció un trabajo bien logrado porque se centró en los hechos históricos [&#8230;]\nLa entrada Epstein y los idiotas se publicó primero en Jinversor."
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Poniendo un límite a mi uso de redes sociales",
     "link": "https://matizeta.com/2026/02/10/poniendo-un-limite-a-mi-uso-de-redes-sociales/",
@@ -14,6 +28,27 @@
     "contenido": "\n  \n    \n  \nTenemos una nueva americanada entre nosotros. No teníamos bastante con haber importado Halloween, el Black Friday (en versión semanal y hasta mensual), la Navidad en noviembre, o a Papá Noel. No. Ahora también tenemos final de la Super Bowl. No en el Marca o en el As, o en Teledeporte. N"
   },
   {
+    "blog": "",
+    "titulo": "Curso de Semiotica Medieval en Uruguay.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/02/10/curso-de-semiotica-medieval-en-uruguay/",
+    "fecha": "10/02/2026",
+    "contenido": "El lunes 10 de febrero se dio a conocer un curso de Semiótica medieval en Mastodon, les dejo una copia de la publicación y el formulario de inscripción. Curso de verano en el IPAFuentes tardoantiguas de la semiótica medieval 📅5 y 6 de marzo&#124; 9 a 12 h📍Salón: Anfiteatro &#124; PresencialInstituto"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Slow Net – Menos velocidad, menos vigilancia",
+    "link": "https://56k.es/fanta/slow-net-menos-velocidad-menos-vigilancia/",
+    "fecha": "10/02/2026",
+    "contenido": "Existe un escrito llamado «A Quick Guide to the Slow Net» que se puede en teoría obtener desde el Website slownet.work/ Lo he bajado y lo he juntado en un pdf que puede consultarse aquí: A_quick_guide_to_the_slow_net-Beverly_cou.pdf Beverly Chou explora mediante una serie de experimentos cómo las re"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Offline – Vida fuera de internet",
+    "link": "https://56k.es/fanta/offline/",
+    "fecha": "10/02/2026",
+    "contenido": "No estar también es una opción, trabajar offline, hacer las cosas sin necesidad de conexión a internet constante. «Cuanto más colores tiene la pantalla de alta definición menos colores tiene el mundo, porque van desapareciendo especies, va aumentando la contaminación, los cielos están sucios…» Belen"
+  },
+  {
     "blog": "56K",
     "titulo": "Utilizar Skraper desde línea de comandos en Linux",
     "link": "https://56k.es/fanta/utilizar-skraper-desde-linea-de-comandos-en-linux/",
@@ -26,6 +61,13 @@
     "link": "https://www.fabio.com.ar/9871-ser-nazi-ya-no-es-lo-que-era",
     "fecha": "10/02/2026",
     "contenido": "    \nPablo es un compa&ntilde;ero de trabajo que tiene un hijo de 18 a&ntilde;os el cual comparte grandes cantidades de horas con sus amigos a trav&eacute;s de juegos online.\nEs decir, es un cl&aacute;sico adolescente que, a ojos de los mayores, se la pasa frente a la pantalla con los auriculares cl"
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "Hablemos sobre el problema del conformismo",
+    "link": "https://thejnx.bearblog.dev/hablemos-del-problema-del-conformismo/",
+    "fecha": "10/02/2026",
+    "contenido": "En esta entrada no voy a intentar dar un sermon largo, mi objetivo es dar consciencia sobre este tema, el cual me gustaría empezar dando un \"pequeño\" consejo:\nSi es posible no sean tan conformistas, es una palabra que ni sabia que existía pero siento que define a la gran mayoría de personas en inter"
   },
   {
     "blog": "La Loica",
@@ -176,7 +218,7 @@
   },
   {
     "blog": "Un Diario",
-    "titulo": "Mi Setup DeGoogle",
+    "titulo": "Mi setup DeGoogle",
     "link": "https://thejnx.bearblog.dev/mi-setup-degoogle/",
     "fecha": "09/02/2026",
     "contenido": "Las apps que uso en mi dia a dia para alejarme de Google"
@@ -378,6 +420,13 @@
     "contenido": "Una opción de código abierto para reemplazar los canales de Telegram"
   },
   {
+    "blog": "JDRM",
+    "titulo": "Una alternativa abierta y segura a los canales de Telegram",
+    "link": "https://jdrm.info/una-alternativa-abierta-y-segura-a-los-canales-de-telegram.html",
+    "fecha": "06/02/2026",
+    "contenido": "Una opción de código abierto para reemplazar los canales de Telegram"
+  },
+  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo convierto imágenes BIN/CUE a ISO en Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2026/01/como-convertir-imagenes-bin-cue-a-iso-en-ubuntu.html",
@@ -553,13 +602,6 @@
     "contenido": "En evaluación de bibliotecas es muy común llevar a cabo estudios de satisfacción de personas usuarias con los servicios ofrecidos. Llevo tiempo dedicándome a eso y en los últimos años he podido impartir una asignatura que se llama Calidad y Evaluación de los Servicios en Documentación en el Grado en"
   },
   {
-    "blog": "Fierro Viejo",
-    "titulo": "Red de Invitados como Red Predeterminada",
-    "link": "https://fierroviejo.com/2026/02/red-de-invitados-como-red-predeterminada.html",
-    "fecha": "04/02/2026",
-    "contenido": "Ventajas de utilizar la red de invitados."
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "El maestro que prometió el mar",
     "link": "https://mareosdeungeek.es/el-maestro-que-prometio-el-mar/",
@@ -602,13 +644,6 @@
     "contenido": "iOS 26 apostó por los efectos de transparencia y fluidez de movimiento, lo que genera múltiples problemas de accesibilidad"
   },
   {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Descubre los libros de Daniel Omar Cignacco (gratis)",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/descubre-la-literatura-sin-fronteras-de-daniel-omar-cignacco-gratis/",
-    "fecha": "04/02/2026",
-    "contenido": "¿Buscas una lectura que desafíe tus sentidos y te invite a la reflexión profunda? Te invito a sumergirte en el universo literario de Daniel Omar Cignacco, un escritor argentino que ha dedicado su pluma a explorar la condición humana, la consciencia y la belleza de lo cotidiano.\nComo defensor de la l"
-  },
-  {
     "blog": "eaplmx",
     "titulo": "Incongruencias modernas",
     "link": "https://text.eapl.mx/incongruencias-modernas",
@@ -637,73 +672,10 @@
     "contenido": "Ya era tiempo de poder escuchar algo en esta tonalidad. Sonidos y riffs pesados, graves,...\nThe post RUIDO presenta el EP \"6 Monedas Para Caronte\" | Graves Riffs Desde El Desierto Cuyano first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Un Diario",
-    "titulo": "Hablemos De Emulación",
-    "link": "https://thejnx.bearblog.dev/hablemos-de-emulacion/",
-    "fecha": "04/02/2026",
-    "contenido": "Todo lo referente a la emulación: multiplataforma, Android, PC, guías, paginas útiles, etc."
-  },
-  {
     "blog": "AsturGeek V3",
     "titulo": "Voces en castellano en Spiderman 2 (PC)",
     "link": "https://blogo.asturgeek.eu/2026/02/04/voces-en-castellano-en-spiderman-2-pc/",
     "fecha": "04/02/2026",
     "contenido": "Tengo la absoluta manía de probar muchos de los juegos que me interesan antes de comprarlos. Ya me ha pasado de comprar un juego, en apariencia compatible con alguna versión de Proton y que en mi equipo no vaya. Cosas de jugar en GNU/linux&#8230; En ésta ocasión he probado (que no jugado) Marvel&#82"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/02/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2026/",
-    "fecha": "03/02/2026",
-    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Municipios en los que el sueldo medio al año supera los 80 mil euros por persona trabajadora de bibliotecas públicas",
-    "link": "https://pedrolr.es/blog/municipios-en-los-que-el-sueldo-medio-al-ano-supera-los-80-mil-euros-por-persona-trabajadora-de-bibliotecas-publicas/",
-    "fecha": "03/02/2026",
-    "contenido": "Se publicaron los datos de 2024 para bibliotecas públicas en la web de Bibliotecas públicas en cifras (Ministerio de Cultura, 2026; en este post la referencia principal y en la que se basan muchos enlaces y una captura añadida es la anterior). Como todos los años, he hecho un cálculo: Gastos corrien"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#180: he descubierto que me gusta el yogur de avena",
-    "link": "https://www.macram.es/posts/2026/02/yogur-de-avena/",
-    "fecha": "03/02/2026",
-    "contenido": "Llevo tiempo probando de vez en cuando alternativas vegetarianas a determinados alimentos, particularmente lácteos. La leche (nótense las cursivas) todavía no la consigo manejar bien en casa, aunque fuera se ve que la saben preparar y la puedo tomar sin ningún problema. Sin embargo los yogures creo "
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Nos vamos a Cracovia",
-    "link": "https://blog.danielaragay.net/nos-vamos-a-cracovia/",
-    "fecha": "03/02/2026",
-    "contenido": "En unas horas vuelo hacia Cracovia y en medio de un marr&#xf3;n.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@haci"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Berlín a -10 grados",
-    "link": "https://www.ericafustero.com/2026-02-berlin-a-10-grados",
-    "fecha": "03/02/2026",
-    "contenido": "Esta semana estoy en Berlín, y uno de cada tres cómics que dibujo tiene que ver con el frío. This week I'm in Berlin, and one out of every three comics I draw has to do with the cold. 1 \"Let's go to that bakery; it's really pretty inside.\" 2 \"Beautiful.\" 1 \"It's not as [&#8230;]"
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Test de IOPS en Linux con Fio",
-    "link": "https://www.ochobitshacenunbyte.com/2026/02/03/test-de-iops-en-linux-con-fio/",
-    "fecha": "03/02/2026",
-    "contenido": "La necesidad aviva el ingenio o por lo menos eso dicen. La cuestión, en mi día a día me piden realizar diferentes pruebas, ya sea de uso de memoria, CPU o uso disco en&#46;&#46;&#46;\nLa entrada Test de IOPS en Linux con Fio se publicó primero en ochobitshacenunbyte."
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Emprolijando un deploy",
-    "link": "https://nachof.blog/posts/2026/emprolijando-un-deploy/",
-    "fecha": "03/02/2026",
-    "contenido": "Uno de los sitios que mantengo es Mesa de Juegos, que es una herramienta que usamos para organizar juntadas de juegos de mesa. Está ahí andando y generalmente no necesita demasiado mantenimiento porque anda. De hecho, el total de modificaciones al código durante el 2025 fue cero. Hay un par de error"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Lo que aprendí organizando una comunidad antes de que existieran las herramientas para hacerlo",
-    "link": "https://dani.torresburriel.com/lo-que-aprendi-organizando-una-comunidad-antes-de-que-existieran-las-herramientas-para-hacerlo/",
-    "fecha": "03/02/2026",
-    "contenido": "Hace unos días, en la previa de la BilboStack 2026, estuve viendo una charla de Bart Farrell sobre creación y gestión de comunidades profesionales. Y mientras escuchaba, me encontré viajando mentalmente veinte años atrás, a aquel abril de 2005 en el que convoqué el primer Cocktail Cadius en Zaragoza"
   }
 ]
