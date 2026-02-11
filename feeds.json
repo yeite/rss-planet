@@ -1,5 +1,54 @@
 [
   {
+    "blog": "Mareos de un geek",
+    "titulo": "República Bananera de España: infraestructuras",
+    "link": "https://mareosdeungeek.es/republica-bananera-de-espana-infraestructuras/",
+    "fecha": "11/02/2026",
+    "contenido": "Siguiendo al hilo de la actualidad en España, aunque siempre con el tiempo de por medio, llega el capítulo de las infraestructuras. No voy a retomar la falta de mantenimiento (y responsabilidad) que pudo verse durante la DANA de Valencia. Las infraestructuras españolas llevan décadas dejadas de la m"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Estoy asqueado de la basura viral IA de Internet",
+    "link": "https://matizeta.com/2026/02/11/estoy-asqueado-de-la-basura-viral-ia-de-internet/",
+    "fecha": "11/02/2026",
+    "contenido": "Ultimamente hay algo que hace que este rechazando consumir contenido en Internet, y es quizás la gota que rebalsó mi vaso. A pesar de que hace un par fui advertido de lo que iba a suceder, sabía que no había manera de detenerlo, sólo esperar a que suceda. Cuando entro en las redes sociales o [&#8230"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Acceso seguro a servicios locales con Pangolin sin depender de Cloudflare Tunnel",
+    "link": "https://voidnull.es/acceso-seguro-a-servicios-locales-con-pangolin-sin-depender-de-cloudflare-tunnel/",
+    "fecha": "11/02/2026",
+    "contenido": "En este artículo veremos cómo usar Pangolin para acceder de forma segura a tus servicios locales, configurando aplicaciones de tu HomeLab y utilizando una alternativa autoalojada a Cloudflare Tunnel."
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "OpenClawd, Molbook y Rent-a-human",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/02/11/20260211-molbot-moltbook-rentahuman/",
+    "fecha": "11/02/2026",
+    "contenido": "Agentes de IAGen"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Japanish",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/japanish.html",
+    "fecha": "11/02/2026",
+    "contenido": "La semana pasada descubrí por casualidad, escuchando en la radio Córdoba patrimonio gastronómico,&nbsp;Japanish, un restaurante de comida fusión sito en Lucena (Córdoba). Fui casi de improviso, reservando el día de antes, para probar su carta de comida fusión entre Córdoba (y Andalucía y España) y J"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El parche en el ojo tiene su costo, MagisTV",
+    "link": "https://www.fabio.com.ar/9872-el-parche-en-el-ojo-tiene-su-costo-magistv",
+    "fecha": "11/02/2026",
+    "contenido": "    \nHay formas y formas de honrar al Capit&aacute;n Jack Sparrow 🏴&zwj;☠️, pero creo que la peor de todas es la de la vagancia. Si van a hacerlo, h&aacute;ganlo bien.\nLa facilidad de uso se confunde con algo \"bueno\" per se, pero es la puerta de entrada a cualquier aplicaci&oacute;n basura en tu PC "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "En El Marco Del Tour 20ª Aniversario De \"Shadows Are Security\" | As I Lay Dying Vuelve A Argentina Y Latinoamérica",
+    "link": "https://www.delotroladometal.com.ar/2026/02/11/as-i-lay-dying-vuelve-a-argentina-y-latinoamerica/",
+    "fecha": "11/02/2026",
+    "contenido": "Un aniversario más, y van. Lo que al principio parecía simpático, ya parece haberse convertido...\nThe post En El Marco Del Tour 20ª Aniversario De \"Shadows Are Security\" | As I Lay Dying Vuelve A Argentina Y Latinoamérica first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "La maldición de Hill House",
     "link": "https://guillermolatorre.com/libros/la-maldicion-de-hill-house",
@@ -19,6 +68,13 @@
     "link": "https://matizeta.com/2026/02/10/poniendo-un-limite-a-mi-uso-de-redes-sociales/",
     "fecha": "10/02/2026",
     "contenido": "Todo empezó hace unos días cuando decidí quitar el cliente Ice Cube para Mastodon de mi móvil. Es la red social en donde más interactúo. Ahora mi uso se limita al tiempo que este frente a la PC: la abro en el navegador, «scrolleo» aunque no mucho, publico algo, contesto mensajes. Cuando termino, cie"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Bailando sin Cesar con 31 Minutos",
+    "link": "https://altgr.xyz/2026/02/10/bailando-sin-cesar-con-31-minutos/",
+    "fecha": "10/02/2026",
+    "contenido": "El inicio de la temporada de conciertos 2026 vino directo desde Titirilquén con el show Radio Guaripolo de 31 Minutos el sábado 31 de enero en el Movistar Arena. Una presentación con el conocido humor que se complementa su repertorio musical interpretado por los mismísimos artistas originales. Allí "
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -581,39 +637,11 @@
     "contenido": "El blogging en español no vive sus mejores momentos. Pero hay iniciativas como la que traigo hoy aquí que arroja un poco de luz."
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Obras alemanas, obras españolas",
-    "link": "https://brucknerite.net/2026/02/obras-alemanas-obras-espanolas.html",
-    "fecha": "04/02/2026",
-    "contenido": "Entre el pasado 1 de agosto de 2025 y el 30 de abril de 2026 se está ejecutando la renovación general de la línea de alta velocidad Berlín-Hamburgo. Para ello, se ha cerrado por completo. El proyecto se llama allí Generalsanierung, lo que a mis oídos duros para el alemán les remite a cierto personaj"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Añadir notas a pestañas, widgets de listas y temporizador en Firefox Nightly",
-    "link": "https://victorhckinthefreeworld.com/2026/02/04/anadir-notas-a-pestanas-widgets-de-listas-y-temporizador-en-firefox-nightly/",
-    "fecha": "04/02/2026",
-    "contenido": "En Firefox Nightly podemos experimentar con nuevas funciones como añadir notas a las pestañas, o añadir widgets de crear listas o un temporizador enla página de nueva pestaña"
-  },
-  {
     "blog": "plr blog",
     "titulo": "Un llamamiento para llevar a cabo más estudios sobre personas no usuarias de bibliotecas públicas",
     "link": "https://pedrolr.es/blog/un-llamamiento-para-llevar-a-cabo-mas-estudios-sobre-personas-no-usuarias-de-bibliotecas-publicas/",
     "fecha": "04/02/2026",
     "contenido": "En evaluación de bibliotecas es muy común llevar a cabo estudios de satisfacción de personas usuarias con los servicios ofrecidos. Llevo tiempo dedicándome a eso y en los últimos años he podido impartir una asignatura que se llama Calidad y Evaluación de los Servicios en Documentación en el Grado en"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "El maestro que prometió el mar",
-    "link": "https://mareosdeungeek.es/el-maestro-que-prometio-el-mar/",
-    "fecha": "04/02/2026",
-    "contenido": "El maestro que prometió el mar es una película sobre la enseñanza durante la II República. Contando la historia de uno de esos maestros de pueblo que introdujo métodos revolucionarios para la época. Y el caro precio que tuvo que pagar por sus ideas revolucionarias. Uno de los avances más destacados "
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "No seamos islas",
-    "link": "https://matizeta.com/2026/02/04/no-seamos-islas/",
-    "fecha": "04/02/2026",
-    "contenido": "Hay una canción de un grupo que me gusta que se titula Islas, si bien es una canción de amor, en su estribillo repite «..no seamos islas» y eso me hace reflexionar sobre la actualidad de blogs. Si pretendemos devolver un poco de eso a la web que hemos perdido, ¿como vamos a hacerlo si [&#8230;]"
   },
   {
     "blog": "danielaragay.net",
@@ -630,20 +658,6 @@
     "contenido": "Herramienta para combinar líneas de uno o varios archivos en columnas, ideal para unir datos y generar tablas simples desde la terminal."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Pangolin en Ubuntu 24.04",
-    "link": "https://voidnull.es/instalacion-de-pangolin-en-ubuntu-24-04/",
-    "fecha": "04/02/2026",
-    "contenido": "Pangolin permite exponer servicios internos a Internet de forma segura y sin abrir puertos actuando como una alternativa segura de CloudFlare Tunnel"
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Reduciendo el dolor de cabeza en el diseño \"Liquid Glass\"",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/02/04/20260204-reduciendo-dolor-en-liquid-glass/",
-    "fecha": "04/02/2026",
-    "contenido": "iOS 26 apostó por los efectos de transparencia y fluidez de movimiento, lo que genera múltiples problemas de accesibilidad"
-  },
-  {
     "blog": "eaplmx",
     "titulo": "Incongruencias modernas",
     "link": "https://text.eapl.mx/incongruencias-modernas",
@@ -656,20 +670,6 @@
     "link": "https://blog.adrianaaraujot.casa/quemaditos/",
     "fecha": "04/02/2026",
     "contenido": "Bad Bunny, JLo, Djaimilia Pereira de Almeida y yo"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Cuando programo, no escribo",
-    "link": "https://www.fabio.com.ar/9867-cuando-programo-no-escribo",
-    "fecha": "04/02/2026",
-    "contenido": "    \nUna cosa que me pasa, y desde ya no creo ser el &uacute;nico, es que varias zonas de mi cerebro est&aacute;n interconectadas y si uso mucho una para ciertas tareas, no puedo hacer otras porque se me superpone la neurona. En mi caso es escribir y programar.\nNo es que desarrollar software requier"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "RUIDO presenta el EP \"6 Monedas Para Caronte\" | Graves Riffs Desde El Desierto Cuyano",
-    "link": "https://www.delotroladometal.com.ar/2026/02/04/graves-riffs-desde-el-desierto-cuyano/",
-    "fecha": "04/02/2026",
-    "contenido": "Ya era tiempo de poder escuchar algo en esta tonalidad. Sonidos y riffs pesados, graves,...\nThe post RUIDO presenta el EP \"6 Monedas Para Caronte\" | Graves Riffs Desde El Desierto Cuyano first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "AsturGeek V3",
