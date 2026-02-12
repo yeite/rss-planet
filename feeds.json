@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Lista random de cosas que no me gustan",
+    "link": "https://blog.luiscarlospando.com/personal/2026/02/lista-random-de-cosas-que-no-me-gustan/",
+    "fecha": "12/02/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
     "blog": "Mareos de un geek",
     "titulo": "República Bananera de España: infraestructuras",
     "link": "https://mareosdeungeek.es/republica-bananera-de-espana-infraestructuras/",
@@ -7,11 +14,39 @@
     "contenido": "Siguiendo al hilo de la actualidad en España, aunque siempre con el tiempo de por medio, llega el capítulo de las infraestructuras. No voy a retomar la falta de mantenimiento (y responsabilidad) que pudo verse durante la DANA de Valencia. Las infraestructuras españolas llevan décadas dejadas de la m"
   },
   {
+    "blog": "Cajón desastre",
+    "titulo": "The Magnus Archives, primera temporada",
+    "link": "https://ccriss92.bearblog.dev/the-magnus-archives-primera-temporada/",
+    "fecha": "11/02/2026",
+    "contenido": "Quería poner un poco de orden en el blog, y no me terminaba de convencer lo de recopilar los comentarios que hago en Mastodon de The Magnus Archives en una única página. Así que he pensado en dejar esa página como índice y crear una entrada por temporada. Además de esas impresiones tras escuchar los"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Estoy asqueado de la basura viral IA de Internet",
     "link": "https://matizeta.com/2026/02/11/estoy-asqueado-de-la-basura-viral-ia-de-internet/",
     "fecha": "11/02/2026",
     "contenido": "Ultimamente hay algo que hace que este rechazando consumir contenido en Internet, y es quizás la gota que rebalsó mi vaso. A pesar de que hace un par fui advertido de lo que iba a suceder, sabía que no había manera de detenerlo, sólo esperar a que suceda. Cuando entro en las redes sociales o [&#8230"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Andando sobre hielo, niños en prisión y medicamentos inexistentes en Suecia",
+    "link": "https://blog.danielaragay.net/andando-sobre-hielo-ninos-en-prision-y-medicamentos-inexistentes-en-suecia/",
+    "fecha": "11/02/2026",
+    "contenido": "En este cap&#xed;tulo repasamos un poco mis aventuras como creador de v&#xed;deo en la empresa, mi experiencia andando encima del lago de Estocolmo entre otras cosasFormas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7;"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Saiko en Matucana 100",
+    "link": "https://altgr.xyz/2026/02/11/saiko-en-matucana-100/",
+    "fecha": "11/02/2026",
+    "contenido": "Jueves 5 de febrero en el salón principal del centro cultural Matucana 100 tuvimos la oportunidad de disfrutar de la música de Saiko, un concierto que fue una extensión de la gira por los 25 años de la banda. Quienes estuvimos ahí fuimos los afortunados que escuchamos por primera vez en vivo Romance"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalar CouchDB en Debian 13",
+    "link": "https://voidnull.es/instalar-couchdb-en-debian-13/",
+    "fecha": "11/02/2026",
+    "contenido": "Apache CouchDB es una base de datos NoSQL orientada a documentos que utiliza JSON para almacenar datos"
   },
   {
     "blog": "_ voidNull",
@@ -25,7 +60,7 @@
     "titulo": "OpenClawd, Molbook y Rent-a-human",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/02/11/20260211-molbot-moltbook-rentahuman/",
     "fecha": "11/02/2026",
-    "contenido": "Agentes de IAGen"
+    "contenido": "Los agentes de IAGen que filtran datos están de moda, y hay quien tiene ganas de que sean nuestros \"overlords\" lo más pronto posible"
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -33,6 +68,20 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/02/japanish.html",
     "fecha": "11/02/2026",
     "contenido": "La semana pasada descubrí por casualidad, escuchando en la radio Córdoba patrimonio gastronómico,&nbsp;Japanish, un restaurante de comida fusión sito en Lucena (Córdoba). Fui casi de improviso, reservando el día de antes, para probar su carta de comida fusión entre Córdoba (y Andalucía y España) y J"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Etimología del paisaje",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/etimologia-del-paisaje/",
+    "fecha": "11/02/2026",
+    "contenido": "El procedimiento no dolió, pero el despertar fue un estallido de sintaxis visual. Durante décadas, su mundo fue una construcción de texturas, aromas y el rítmico goteo del tiempo sobre el papel. Ahora, los nuevos globos oculares —frías esferas de cristal líquido y grafeno— le devolvían una realidad "
+  },
+  {
+    "blog": "ochobitshacenunbyte",
+    "titulo": "Mealie: Libros de recetas de cocina con Docker",
+    "link": "https://www.ochobitshacenunbyte.com/2026/02/11/mealie-libros-de-recetas-de-cocina-con-docker/",
+    "fecha": "11/02/2026",
+    "contenido": "¿Te consideras una persona cocinillas? ¿Te gustaría guardar las recetas que vas encontrando por Internet? ¿Piensas que sería buena idea planificar toda la semana para organizar las comidas y las cenas? Pues estás de&#46;&#46;&#46;\nLa entrada Mealie: Libros de recetas de cocina con Docker se publicó "
   },
   {
     "blog": "Fabio.com.ar",
@@ -47,6 +96,20 @@
     "link": "https://www.delotroladometal.com.ar/2026/02/11/as-i-lay-dying-vuelve-a-argentina-y-latinoamerica/",
     "fecha": "11/02/2026",
     "contenido": "Un aniversario más, y van. Lo que al principio parecía simpático, ya parece haberse convertido...\nThe post En El Marco Del Tour 20ª Aniversario De \"Shadows Are Security\" | As I Lay Dying Vuelve A Argentina Y Latinoamérica first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "ResearchOps: cuando la investigación con usuarios necesita estructura operativa",
+    "link": "https://dani.torresburriel.com/researchops-cuando-la-investigacion-con-usuarios-necesita-estructura-operativa/",
+    "fecha": "11/02/2026",
+    "contenido": "Hoy vengo con algo muy concreto de lo que escribiré más a menudo este año. Y es que hay una disciplina que lleva años ganando peso en los equipos de investigación con usuarios y que, sin embargo, sigue siendo la gran desconocida en el ecosistema de producto digital en español: ResearchOps, o lo que "
+  },
+  {
+    "blog": "AsturGeek V3",
+    "titulo": "Donación Febrero: Asociación Galbán",
+    "link": "https://blogo.asturgeek.eu/2026/02/11/donacion-febrero-asociacion-galban/",
+    "fecha": "11/02/2026",
+    "contenido": "Febrero ya avanzado y toca nueva donación. Generalmente me centro en asociaciones o proyectos tecnológicos. Pero ésta vez es especial. Asociación Galbán es una entidad sin ánimo de lucro registrada en varios municipios de Asturias y declarada de utilidad pública.También forma parte de la Federación "
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -567,13 +630,6 @@
     "contenido": "Me despierto esta mañana leyendo en El País&nbsp;que Ámsterdam se convierte en la primera capital que prohíbe los anuncios de la carne. En una época en la que todo se etiqueta como fascismo, qué menos que hacer lo propio con la prohibición de exhibir carteles cárnicos en una de las principales capit"
   },
   {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "La extinción del procedimiento",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/la-extincion-del-procedimiento/",
-    "fecha": "05/02/2026",
-    "contenido": "El reloj de la cocina, un artefacto de plástico que pretendía imitar el mármol, marcó las 11:50 con un clic metálico que, por alguna razón, me recordó a las etiquetas de los frascos de mermelada en los estantes de un supermercado de Versalles. Faltaban diez minutos para el fin del mundo. No era una "
-  },
-  {
     "blog": "",
     "titulo": "Recomendación.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/02/05/recomendacion-15/",
@@ -635,47 +691,5 @@
     "link": "https://ilogeek.es/el-blog-personal-como-resistencia/",
     "fecha": "05/02/2026",
     "contenido": "El blogging en español no vive sus mejores momentos. Pero hay iniciativas como la que traigo hoy aquí que arroja un poco de luz."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Un llamamiento para llevar a cabo más estudios sobre personas no usuarias de bibliotecas públicas",
-    "link": "https://pedrolr.es/blog/un-llamamiento-para-llevar-a-cabo-mas-estudios-sobre-personas-no-usuarias-de-bibliotecas-publicas/",
-    "fecha": "04/02/2026",
-    "contenido": "En evaluación de bibliotecas es muy común llevar a cabo estudios de satisfacción de personas usuarias con los servicios ofrecidos. Llevo tiempo dedicándome a eso y en los últimos años he podido impartir una asignatura que se llama Calidad y Evaluación de los Servicios en Documentación en el Grado en"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Cracovia día 1",
-    "link": "https://blog.danielaragay.net/cracovia-dia-1/",
-    "fecha": "04/02/2026",
-    "contenido": "Hoy hacemos el podcast desde la ciudad polaca de Cracovia.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@haciendoel"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "paste: combina lineas de varios ficheros de forma horizontal",
-    "link": "https://voidnull.es/paste-combina-lineas-de-varios-ficheros-de-forma-horizontal/",
-    "fecha": "04/02/2026",
-    "contenido": "Herramienta para combinar líneas de uno o varios archivos en columnas, ideal para unir datos y generar tablas simples desde la terminal."
-  },
-  {
-    "blog": "eaplmx",
-    "titulo": "Incongruencias modernas",
-    "link": "https://text.eapl.mx/incongruencias-modernas",
-    "fecha": "04/02/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "prosa",
-    "titulo": "quemaditos",
-    "link": "https://blog.adrianaaraujot.casa/quemaditos/",
-    "fecha": "04/02/2026",
-    "contenido": "Bad Bunny, JLo, Djaimilia Pereira de Almeida y yo"
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "Voces en castellano en Spiderman 2 (PC)",
-    "link": "https://blogo.asturgeek.eu/2026/02/04/voces-en-castellano-en-spiderman-2-pc/",
-    "fecha": "04/02/2026",
-    "contenido": "Tengo la absoluta manía de probar muchos de los juegos que me interesan antes de comprarlos. Ya me ha pasado de comprar un juego, en apariencia compatible con alguna versión de Proton y que en mi equipo no vaya. Cosas de jugar en GNU/linux&#8230; En ésta ocasión he probado (que no jugado) Marvel&#82"
   }
 ]
