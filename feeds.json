@@ -1,10 +1,59 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "FooBilliardPlus: la evolución lógica de FooBilliard",
+    "link": "https://malagaoriginal.blogspot.com/2026/02/foobilliardplus-la-evolucion-logica-de.html",
+    "fecha": "13/02/2026",
+    "contenido": "FooBilliard era un juego de billard 3D que se jugaba con el ratón y que ahora tiene un más que digno sucesor FooBilliard plus, sigue siendo un juego libre.El juego se controla con el ratón con el que apuntas la bola moviéndote con el mismo y aumentas o disminuyes la fuerza del disparo con la rueda d"
+  },
+  {
+    "blog": "Redes nuestras",
+    "titulo": "Adultocentrismo",
+    "link": "https://redesnuestras.net/2026/02/13/adultocentrismo/",
+    "fecha": "13/02/2026",
+    "contenido": "Si te digo que hay un chaval de quince años permanentemente encerrado en su casa porque su familia y la policía dicen que la calle es demasiado insegura para él, supongo que te parecerá indignante. Puede que te preguntes por todo lo que hemos hecho mal para que la calle llegue a ser un lugar [&#8230"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Depuración de scripts #18",
+    "link": "https://voidnull.es/depuracion-de-scripts/",
+    "fecha": "13/02/2026",
+    "contenido": "Aprende cómo funcionan las funciones recursivas en Bash y resuelve problemas clásicos como el factorial o la sucesión de Fibonacci paso a paso."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Herrera en COPE. Estar engañado.",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/herrera-en-cope-estar-enganado.html",
+    "fecha": "13/02/2026",
+    "contenido": "Herrera en COPE, ese programa que Carlos Herrera presenta algunos días, algunas horas. Un programa el cual dura siete horas y cuyo presentador estelar presenta dos. DOS HORAS. Dos. Y se sigue llamando Herrera en COPE. Es una estafa, un engaño, un juego de trileros. Y para colmo, esta temporada han g"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #928",
+    "link": "https://www.fabio.com.ar/9874-links-de-viernes---928",
+    "fecha": "13/02/2026",
+    "contenido": "     Se acab&oacute; la semana, empieza el finde largo y hay links\nBueno, empieza un finde \"largo\" entre comillas, porque ni en todo el mundo ni en todos los trabajos el carnaval es una fecha no lavorable, pero aqu&iacute;, en este blog, no dormirmos, no descansamos, as&iacute; que igual tendremos l"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Royal Altar Lanza Versión de \"Rich Men North Of Richmond\"... | Country En Clave De Heavy Metal…Y Nuevo Álbum?",
+    "link": "https://www.delotroladometal.com.ar/2026/02/13/country-en-clave-de-heavy-metaly-nuevo-album/",
+    "fecha": "13/02/2026",
+    "contenido": "No recuerdo muchos covers hechos por bandas de Heavy Metal, de canciones que provengan de...\nThe post Royal Altar Lanza Versión de \"Rich Men North Of Richmond\"... | Country En Clave De Heavy Metal…Y Nuevo Álbum? first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Blep",
     "titulo": "Desvaríos y vomitona verbal",
     "link": "https://blep.org/Desvarios-y-vomitona-verbal",
     "fecha": "12/02/2026",
     "contenido": "Buenas.\n\nEste no es un artículo del blog. Es solo una especie de desahogo, un flujo de conciencia para ver si me desbloqueo mentalmente y sobre todo emocionalmente.\n\nHace mucho que no escribo nada. Cansancio, agobios, mala vida. Vacío. Han pasado muchas cosas.\n\nFamiliares en el hospital (demasiados "
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Instalar Qemu y VirtManager en Arch - 2",
+    "link": "https://vctrsnts.github.io/2026-02-12-qemu-virtmanager-2/",
+    "fecha": "12/02/2026",
+    "contenido": "En este segundo articulo, explicaremos un poco como me voy adaptando a usar VirtManager en vez de VirtualBox y las modificaciones que he tenido que hacer en mi flujo de trabajo con respecto al usar VirtManager."
   },
   {
     "blog": "Moribundo Insurgente",
@@ -54,13 +103,6 @@
     "link": "https://www.fabio.com.ar/9873-ruleta-rusa-863",
     "fecha": "12/02/2026",
     "contenido": "     No est&aacute; todo perdido si hay ruleta\nHa llegado el jueves, una semana productiva, mucho posteo, mucha pirater&iacute;a y hasta el buscador de blogs creciendo (ya 150 blogs y 68.000 art&iacute;culos indexados!) &iquest;qu&eacute; mejor que empezar el salto hacia el fin de semana que se apro"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "No, el socialismo no fracasó",
-    "link": "https://nachof.blog/posts/2026/no-el-socialismo-no-fracas%C3%B3/",
-    "fecha": "12/02/2026",
-    "contenido": "Me tiene las bolas por el piso el argumento de que &ldquo;si el socialismo es tan bueno por qué siempre que se intentó fracasó&rdquo;. Porque no fracasó, todo lo contrario.\nPrimero lo primero: no soy historiador. Como no soy historiador, me puedo meter en esta discusión, porque ningún historiador se"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -378,20 +420,6 @@
     "contenido": "    \nHace un tiempo que el due&ntilde;o de Twitter decidi&oacute; renombrar la red con un extra&ntilde;o nombre \"X\", en su habitual insan&iacute;a trat&oacute; de darle \"valor\" a esa red buscando la forma en que los usuarios interactuaran de prepo, ya no por deseo propio, sino por \"obligaci&oacute;n"
   },
   {
-    "blog": "Un blog",
-    "titulo": "Nombres en juegos de rol",
-    "link": "https://nachof.blog/posts/2026/nombres-en-juegos-de-rol/",
-    "fecha": "09/02/2026",
-    "contenido": "Uno de los problemas difíciles con los que nos encontramos en los juegos de rol es el de ponerle nombres a las cosas.\nBen Robbins (creador de Microscope, Follow, In This World, y otros) tiene un muy buen post al respecto en su blog. La sugerencia es sencilla: una lista de nombres con el &ldquo;flavo"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Audiobookshelf",
-    "link": "https://nachof.blog/posts/2026/audiobookshelf/",
-    "fecha": "09/02/2026",
-    "contenido": "Me estoy volviendo cada vez menos tolerante con las pelotudeces del software propietario. Ayer Audible me perdió el progreso en un libro. Así que chau Audible.\nHace un tiempo que venimos escuchando con la familia audiolibros cuando viajamos en auto. Por más que busqué alternativas, parece que compra"
-  },
-  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Adorned Graves: Dream I | Sin Ningún Tipo De Sutilezas",
     "link": "https://www.delotroladometal.com.ar/2026/02/09/sin-ningun-tipo-de-sutilezas/",
@@ -518,32 +546,11 @@
     "contenido": "Llevo usando Vim como 10 años (Neovim desde hace 3 o 4 años) y mi config ha ido evolucionando con el paso del tiempo, he decidido volver a crearla desde cero, hacer un remake, como en los videojuegos.\nHacerlo desde cero me va a permitir hacer limpieza de muchas cosas que he ido arrastrando con el pa"
   },
   {
-    "blog": "Un blog",
-    "titulo": "Odio manejar",
-    "link": "https://nachof.blog/posts/2026/odio-manejar/",
-    "fecha": "07/02/2026",
-    "contenido": "Este post va a ser bastante negativo, lo cual es evidente por el título. Si no querés leer negatividad, sentite libre de saltearlo.\nOdio manejar. Lo odio con todo mi ser. Odio los autos, y la cultura alrededor de ellos, y el riesgo que representan para las personas, y el entorno cultural en el que t"
-  },
-  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Mortification: Scrolls Of The Megilloth | Un Clásico Para No Olvidar",
     "link": "https://www.delotroladometal.com.ar/2026/02/07/un-clasico-para-no-olvidar/",
     "fecha": "07/02/2026",
     "contenido": "(1992 &#8211; Nuclear Blast/Intense Records/Soundmass/Rowe Productions) Es uno de esos discos invencibles por el paso...\nThe post Mortification: Scrolls Of The Megilloth | Un Clásico Para No Olvidar first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Formatear un pendrive con celdas defectuosas en Debian",
-    "link": "https://malagaoriginal.blogspot.com/2026/02/formatear-un-pendrive-con-celdas.html",
-    "fecha": "06/02/2026",
-    "contenido": "¿Quién no se ha encontrado alguna vez con un pendrive con celdas defectuosas?Nuestra primer impulso es tirarlo a la basura, ¡MAL! Primero porque antes deberíamos destruirlo por completo por la información sensible que pueda seguir teniendo accesibles pero a lo mejor todavía se le puede dar uso, al m"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Marcadores #5",
-    "link": "https://thecheis.com/2026/02/06/marcadores-5/",
-    "fecha": "06/02/2026",
-    "contenido": "Últimamente estoy tomándome un descanso bastante bueno del mundo online, pero tenía en borradores esta entrada con algunos artículos interesantes que no quiero perder. Aquí va un buen popurrí de cosas sacadas de la web personal. Yo me vuelvo a mi cueva. 1. Cómo y por qué dejé de comprar portátiles n"
   },
   {
     "blog": "Victorhck in the free world",
@@ -567,20 +574,6 @@
     "contenido": "He hecho algunos cambios de perspectivas con respecto a mis dos blogs, actualmente independientes, por cuanto su administracion es complicada para lo que esperaba de ellos. Hoy vamos a intentar unirlos bajo una funcion llamada MultiSite de WordPress Introducción Desde hace un buen tiempo que he esta"
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "Webs útiles #1",
-    "link": "https://matizeta.com/2026/02/06/webs-utiles-1/",
-    "fecha": "06/02/2026",
-    "contenido": "Tengo en Notion una colección de webs útiles para tenerlas al alcance de mi mano cuando las necesite. Siempre pensé en compartir su contenido, pero aún estoy analizando la mejor forma de hacerlo. Mientras tanto comparto diez que agregué, quizás algunas te resulten útiles. GenAI Image Showdown Una we"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Configurar Home Assistant con Pangolin para acceder con dominio de forma segura",
-    "link": "https://voidnull.es/configurar-home-assistant-con-pangolin-para-acceder-con-dominio-de-forma-segura/",
-    "fecha": "06/02/2026",
-    "contenido": "Aprende a exponer Home Assistant de forma segura con Pangolin, usando un dominio propio y sin depender de Cloudflare ni abrir puertos en tu red."
-  },
-  {
     "blog": "56K",
     "titulo": "Ejecutar e.com en Linux – Un editor que ocupa 5kb",
     "link": "https://56k.es/fanta/ejecutar-e-com-en-linux-un-editor-que-ocupa-5kb/",
@@ -588,31 +581,10 @@
     "contenido": "Lo interesante del paquete que he montado es que el contenido que se edite con el editor se guardará en una imagen de disquete ima. Esto permite que puedas clonarlo a un disquete real si quieres pero digamos que es para poder trabajar como si lo hicieras sobre un disquete. Esto no tiene una utilidad"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #927",
-    "link": "https://www.fabio.com.ar/9869-links-de-viernes---927",
-    "fecha": "06/02/2026",
-    "contenido": "     Mir&aacute;, mir&aacute;, hay links!\nSi, s&iacute;, es viernes, ya nadie lee, pero yo igual les dejo la dosis necesaria para que sus luces vuelvan a iluminarse, que si no es con palabras, que sea con im&aacute;genes, ooooh gloria internetera, reina de los links y los memes, he aqu&iacute; para "
-  },
-  {
     "blog": "Spam de autor",
     "titulo": "Sonic Life, la autobiografía de Thurston Moore",
     "link": "http://blog.spamdeautor.com/2026/02/06/sonic-life-la-autobiografia-de-thurston-moore/?utm_source=rss&utm_medium=rss&utm_campaign=sonic-life-la-autobiografia-de-thurston-moore",
     "fecha": "06/02/2026",
     "contenido": "A mediados de 2025 la Editorial Contra publicó la traducción al castellano de “Sonic Life”, el contundente tomo con más de 500 páginas de autobiografía de Thurston Moore. Como fan absoluto de Sonic Youth, estaba cantado que me iba a &#8230; Sigue leyendo &#8594;\nLa entrada Sonic Life, la autobiograf"
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Una alternativa abierta y segura a los canales de Telegram",
-    "link": "https://jdrm.info/una-alternativa-abierta-y-segura-a-los-canales-de-telegram.html",
-    "fecha": "06/02/2026",
-    "contenido": "Una opción de código abierto para reemplazar los canales de Telegram"
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Una alternativa abierta y segura a los canales de Telegram",
-    "link": "https://jdrm.info/una-alternativa-abierta-y-segura-a-los-canales-de-telegram.html",
-    "fecha": "06/02/2026",
-    "contenido": "Una opción de código abierto para reemplazar los canales de Telegram"
   }
 ]
