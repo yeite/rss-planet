@@ -1,5 +1,12 @@
 [
   {
+    "blog": "El Blog de Juan A. Flores",
+    "titulo": "Está caído mi servidor Casero",
+    "link": "https://juanagustinflores.wordpress.com/2026/02/14/esta-caido-mi-servidor-casero/",
+    "fecha": "14/02/2026",
+    "contenido": "Resumen porque está caido mi blog personal auto alojado elprofejuan.com.ar"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Caminos",
     "link": "https://www.xn--jmuoz-qta.es/2026/02/caminos.html",
@@ -7,11 +14,18 @@
     "contenido": "\n  \n    \n  \nFoto que realicé en el ocaso de un día como hoy hace diez años."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista con Flavio Lema de Ignis | “Si Necesitas De Inteligencia Artificial Para Hacer Arte Es Porque Tu Inteligencia Natural Se Terminó”",
-    "link": "https://www.delotroladometal.com.ar/2026/02/14/si-necesitas-de-inteligencia-artificial-para-hacer-arte-es-porque-tu-inteligencia-natural-se-termino/",
+    "blog": "Bitácora baldía on zurdeando",
+    "titulo": "Sentir algo está bien",
+    "link": "https://www.zurdala.es/blog/sentir-algo-est%C3%A1-bien/",
     "fecha": "14/02/2026",
-    "contenido": "Mientras preparaba la publicación de esta entrevista, me tenté nuevamente a escuchar todo de un...\nThe post Entrevista con Flavio Lema de Ignis | “Si Necesitas De Inteligencia Artificial Para Hacer Arte Es Porque Tu Inteligencia Natural Se Terminó” first appeared on Del Otro Lado Metal."
+    "contenido": "Simplemente quería republicar la entrada de Annie.\nFeeling something is okay I guess\nUna pequeña selección de lo que más me ha tocado\n\nMost of us think of ourselves as thinking creatures that feel, but we are actually feeling creatures that think.\n\n\n― Jill Bolte Taylor\n\n\n\nIf your feelings fling you "
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "The Adventures of Mary Darling - Pat Murphy",
+    "link": "https://nachof.blog/posts/2026/the-adventures-of-mary-darling/",
+    "fecha": "14/02/2026",
+    "contenido": "\n\n\n\nIn stories, the hero never dies. And every child thinks of themself as the hero of their story. But children could die. She could die. Tom could die. Sam could die. That was one of the secrets of Neverland. There were fairies and mermaids. You could fly away on adventures. And you could die.\n\nTe"
   },
   {
     "blog": "Malagueños originales y libres",
@@ -91,20 +105,6 @@
     "contenido": "     Se acab&oacute; la semana, empieza el finde largo y hay links\nBueno, empieza un finde \"largo\" entre comillas, porque ni en todo el mundo ni en todos los trabajos el carnaval es una fecha no lavorable, pero aqu&iacute;, en este blog, no dormirmos, no descansamos, as&iacute; que igual tendremos l"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Royal Altar Lanza Versión de \"Rich Men North Of Richmond\"... | Country En Clave De Heavy Metal…Y Nuevo Álbum?",
-    "link": "https://www.delotroladometal.com.ar/2026/02/13/country-en-clave-de-heavy-metaly-nuevo-album/",
-    "fecha": "13/02/2026",
-    "contenido": "No recuerdo muchos covers hechos por bandas de Heavy Metal, de canciones que provengan de...\nThe post Royal Altar Lanza Versión de \"Rich Men North Of Richmond\"... | Country En Clave De Heavy Metal…Y Nuevo Álbum? first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Cómo vendo yo (y cómo no deberías vender tú)",
-    "link": "https://dani.torresburriel.com/como-vendo-yo-y-como-no-deberias-vender-tu/",
-    "fecha": "13/02/2026",
-    "contenido": "Ayer escribí sobre por qué ignoro los correos de ventas no solicitados y la cosa tuvo bastante recorrido. En los comentarios de LinkedIn, también en un artículo de Miguel Angel Díez Ferreira en la misma red social, mucha gente compartía su hartazgo con el mismo tipo de prácticas invasivas. Pero entr"
-  },
-  {
     "blog": "Blep",
     "titulo": "Desvaríos y vomitona verbal",
     "link": "https://blep.org/Desvarios-y-vomitona-verbal",
@@ -140,13 +140,6 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "El método Williams",
-    "link": "https://mareosdeungeek.es/el-metodo-williams/",
-    "fecha": "12/02/2026",
-    "contenido": "El método Williams es una película protagonizada por Will Smith, que todo sea dicho, hace una interpretación genial. Aunque la película trata sobre las hermanas Williams, la interpretación de Smith eclipsa y domina toda la trama. Nos encontramos ante un drama biográfico sobre la historia de las herm"
-  },
-  {
     "blog": "pov – matizeta",
     "titulo": "Hagamos pequeños círculos",
     "link": "https://matizeta.com/2026/02/12/hagamos-pequenos-circulos/",
@@ -173,27 +166,6 @@
     "link": "https://nachof.blog/posts/2026/no-el-socialismo-no-fracas%C3%B3/",
     "fecha": "12/02/2026",
     "contenido": "Me tiene las bolas por el piso el argumento de que &ldquo;si el socialismo es tan bueno por qué siempre que se intentó fracasó&rdquo;. Porque no fracasó, todo lo contrario.\nPrimero lo primero: no soy historiador. Como no soy historiador, me puedo meter en esta discusión, porque ningún historiador se"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "1990XHC/Social Crisis: Split Hardcore 2024 | Hardcore Para Guardar Y Repartir",
-    "link": "https://www.delotroladometal.com.ar/2026/02/12/hardcore-para-guardar-y-repartir/",
-    "fecha": "12/02/2026",
-    "contenido": "(2024 &#8211; Independiente) Cuanto hace que no veía una de estas cosas, llamada comunmente como...\nThe post 1990XHC/Social Crisis: Split Hardcore 2024 | Hardcore Para Guardar Y Repartir first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Por qué ignoro los correos de ventas",
-    "link": "https://dani.torresburriel.com/por-que-ignoro-los-correos-de-ventas/",
-    "fecha": "12/02/2026",
-    "contenido": "Por momentos me guardo las ganas de escribir esto. Y por momentos, como ahora, no puedo guardármelas porque necesito soltar una idea que me ronda la cabeza día sí y día también. Imaginad que alguien llama a la puerta de vuestra casa. No le conocéis. No le habéis invitado. Pero insiste en que le abrá"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "República Bananera de España: infraestructuras",
-    "link": "https://mareosdeungeek.es/republica-bananera-de-espana-infraestructuras/",
-    "fecha": "11/02/2026",
-    "contenido": "Siguiendo al hilo de la actualidad en España, aunque siempre con el tiempo de por medio, llega el capítulo de las infraestructuras. No voy a retomar la falta de mantenimiento (y responsabilidad) que pudo verse durante la DANA de Valencia. Las infraestructuras españolas llevan décadas dejadas de la m"
   },
   {
     "blog": "Cajón desastre",
@@ -271,27 +243,6 @@
     "link": "https://www.fabio.com.ar/9872-el-parche-en-el-ojo-tiene-su-costo-magistv",
     "fecha": "11/02/2026",
     "contenido": "    \nHay formas y formas de honrar al Capit&aacute;n Jack Sparrow 🏴&zwj;☠️, pero creo que la peor de todas es la de la vagancia. Si van a hacerlo, h&aacute;ganlo bien.\nLa facilidad de uso se confunde con algo \"bueno\" per se, pero es la puerta de entrada a cualquier aplicaci&oacute;n basura en tu PC "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "En El Marco Del Tour 20ª Aniversario De \"Shadows Are Security\" | As I Lay Dying Vuelve A Argentina Y Latinoamérica",
-    "link": "https://www.delotroladometal.com.ar/2026/02/11/as-i-lay-dying-vuelve-a-argentina-y-latinoamerica/",
-    "fecha": "11/02/2026",
-    "contenido": "Un aniversario más, y van. Lo que al principio parecía simpático, ya parece haberse convertido...\nThe post En El Marco Del Tour 20ª Aniversario De \"Shadows Are Security\" | As I Lay Dying Vuelve A Argentina Y Latinoamérica first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "ResearchOps: cuando la investigación con usuarios necesita estructura operativa",
-    "link": "https://dani.torresburriel.com/researchops-cuando-la-investigacion-con-usuarios-necesita-estructura-operativa/",
-    "fecha": "11/02/2026",
-    "contenido": "Hoy vengo con algo muy concreto de lo que escribiré más a menudo este año. Y es que hay una disciplina que lleva años ganando peso en los equipos de investigación con usuarios y que, sin embargo, sigue siendo la gran desconocida en el ecosistema de producto digital en español: ResearchOps, o lo que "
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "Donación Febrero: Asociación Galbán",
-    "link": "https://blogo.asturgeek.eu/2026/02/11/donacion-febrero-asociacion-galban/",
-    "fecha": "11/02/2026",
-    "contenido": "Febrero ya avanzado y toca nueva donación. Generalmente me centro en asociaciones o proyectos tecnológicos. Pero ésta vez es especial. Asociación Galbán es una entidad sin ánimo de lucro registrada en varios municipios de Asturias y declarada de utilidad pública.También forma parte de la Federación "
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -378,13 +329,6 @@
     "contenido": "Todas estas fotografías son tomadas por mi en la región de Magallanes en distintas localidades, estas están intervenidas con bordados. Esta técnica se llama foto-bordado, que es básicamente perforar el papel para hacer la intervención con hilo de bordar. Todas realizadas durante la pandemia Covid 20"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "El ancho de la vida",
-    "link": "https://brucknerite.net/2026/02/el-ancho-de-la-vida.html",
-    "fecha": "09/02/2026",
-    "contenido": "Esta será una historia de trenes que empieza hace ya unos años, pero que tiene mucho que ver con el estado actual de la red ferroviaria española. Una historia, más concretamente, sobre el ancho de sus vías. En su dramatis personæ, unos ingenieros visionarios, un «luminoso» alcalde de Vigo y […]"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Precedente legal en España: El acceso al software como garantía de una democracia real",
     "link": "https://victorhckinthefreeworld.com/2026/02/09/precedente-legal-en-espana-el-acceso-al-software-como-garantia-de-una-democracia-real/",
@@ -397,20 +341,6 @@
     "link": "http://unbrutocondebian.blogspot.com/2026/02/gorillabas-un-ratito-de-nostalgia.html",
     "fecha": "09/02/2026",
     "contenido": "Hoy estaba perdiendo el tiempo un poco delante del ordenador cuando me he topado con un port de gorilla.bas, el mítico juego escrito en QuickBasic al que los que peinamos canas le dedicamos un buen tiempo cuando eramos niños.El caso es que me ha apetecido revivir la experiencia y me lo he descargado"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Mil cosas de Juan Tallón",
-    "link": "https://mareosdeungeek.es/mil-cosas-de-juan-tallon/",
-    "fecha": "09/02/2026",
-    "contenido": "Mil cosas de Juan Tallón es el último libro que he leído. Al final entre estudio, entrevistas y pruebas técnicas, sólo puedo aproximarme a este tipo de libros, tiny literature. En todo caso, este libro se lee rápido, apenas una mañana. Y es que la falta de tiempo, el estrés de las vidas actuales, al"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Stargate: El gran proyecto de infraestructura para la inteligencia del futuro",
-    "link": "https://alt43.es/stargate-el-gran-proyecto-de-infraestructura-para-la-inteligencia-del-futuro/",
-    "fecha": "09/02/2026",
-    "contenido": "Descubre qué es el Proyecto Stargate: la mayor infraestructura de IA de la historia. Analizamos sus socios, el uso de energía nuclear y su impacto en la privacidad global."
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -504,20 +434,6 @@
     "contenido": "Me estoy volviendo cada vez menos tolerante con las pelotudeces del software propietario. Ayer Audible me perdió el progreso en un libro. Así que chau Audible.\nHace un tiempo que venimos escuchando con la familia audiolibros cuando viajamos en auto. Por más que busqué alternativas, parece que compra"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Adorned Graves: Dream I | Sin Ningún Tipo De Sutilezas",
-    "link": "https://www.delotroladometal.com.ar/2026/02/09/sin-ningun-tipo-de-sutilezas/",
-    "fecha": "09/02/2026",
-    "contenido": "(2025 &#8211; Soundmass) Cómo es posible que apenas un puñado de canciones puedan triturarte tanto...\nThe post Adorned Graves: Dream I | Sin Ningún Tipo De Sutilezas first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Un lunes muy lunes",
-    "link": "https://dani.torresburriel.com/un-lunes-muy-lunes/",
-    "fecha": "09/02/2026",
-    "contenido": "Hoy ha sido un lunes al que definiría como una tormenta de arena. No voy mojado, si no me miras muy de cerca no se me nota, aparentemente mi ropa no está sucia, no me he despeinado. Pero me escuecen los ojos, tengo incomodidad en todo el cuerpo, me pica todo. Enero ha sido un &#8230; Sigue leyendo U"
-  },
-  {
     "blog": "Un Diario",
     "titulo": "Mi setup DeGoogle",
     "link": "https://thejnx.bearblog.dev/mi-setup-degoogle/",
@@ -546,13 +462,6 @@
     "contenido": "Estuve viendo un documental sobre la vida de Aaron Swartz titulado El chico de Internet. Swartz fue un niño prodigio de la informática y un reconocido activista por la libertad [&#8230;]\nLa entrada El chico de Internet se publicó primero en Jinversor."
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Configurar Git para trabajar con múltiples plataformas",
-    "link": "https://mareosdeungeek.es/configurar-git-para-trabajar-con-multiples-plataformas/",
-    "fecha": "08/02/2026",
-    "contenido": "&#160; Al final, ante la falta de un portátil operativo, he configurado mi ordenador de sobremesa para programar, así que he tenido que configurar Git para trabajar con múltiples plataformas de control de versiones. El proceso para hacerlo es bastante sencillo y similar en sistemas GNU / Linux y Mac"
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Elecciones en Aragón",
     "link": "https://www.xn--jmuoz-qta.es/2026/02/elecciones-en-aragon.html",
@@ -572,26 +481,5 @@
     "link": "https://text.eapl.mx/frustraciones-modernas",
     "fecha": "08/02/2026",
     "contenido": ""
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Se Viene Algo Nuevo De Los Noruegos? | La Vuelta De Extol Al Estudio",
-    "link": "https://www.delotroladometal.com.ar/2026/02/08/la-vuelta-de-extol-al-estudio/",
-    "fecha": "08/02/2026",
-    "contenido": "Extol es una de las bandas mas reconocidas dentro del espectro cristiano del Metal en...\nThe post Se Viene Algo Nuevo De Los Noruegos? | La Vuelta De Extol Al Estudio first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Último día en Cracovia y regreso",
-    "link": "https://blog.danielaragay.net/ultimo-dia-en-cracovia-y-regreso/",
-    "fecha": "07/02/2026",
-    "contenido": "Te cuento como fue el &#xfa;ltimo d&#xed;a y el regreso a casa con Rico.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.n"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Odio manejar",
-    "link": "https://nachof.blog/posts/2026/odio-manejar/",
-    "fecha": "07/02/2026",
-    "contenido": "Este post va a ser bastante negativo, lo cual es evidente por el título. Si no querés leer negatividad, sentite libre de saltearlo.\nOdio manejar. Lo odio con todo mi ser. Odio los autos, y la cultura alrededor de ellos, y el riesgo que representan para las personas, y el entorno cultural en el que t"
   }
 ]
