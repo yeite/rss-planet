@@ -1,5 +1,68 @@
 [
   {
+    "blog": "Proyecto para no aburrir",
+    "titulo": "Al final me lié y me monté un Joplin Server en Docker",
+    "link": "https://ericdq.com/2026/02/16/final-lie-monte-joplin-server-docker/",
+    "fecha": "16/02/2026",
+    "contenido": "Hago esta entrada a modo de notas para mí mismo. La configuración de Docker en una RaspberryPi con sus correspondientes servicios, errores que cometí, cosas que me quedan pendientes y posibles mejoras por si tengo que volver a montarlo en un futuro."
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "La semana pasada pasaron demasiadas cosas",
+    "link": "https://blog.luiscarlospando.com/personal/2026/02/la-semana-pasada-pasaron-demasiadas-cosas/",
+    "fecha": "16/02/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "ChatControl: Análisis del nuevo paradigma de vigilancia en la UE",
+    "link": "https://alt43.es/chatcontrol-analisis-del-nuevo-paradigma-de-vigilancia-en-la-ue/",
+    "fecha": "16/02/2026",
+    "contenido": "Análisis técnico del reglamento ChatControl en la UE: el fin del cifrado de extremo a extremo, el impacto del escaneo en el dispositivo y las consecuencias para la privacidad y el secreto de las comunicaciones."
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 07/2026",
+    "link": "https://www.macram.es/posts/2026/02/semana-07-2026/",
+    "fecha": "16/02/2026",
+    "contenido": "El tiempo parece haber dado un pequeño respiro. Hemos vuelto a ver el sol por aquí y eso se nota en mi estado de ánimo (y en general en el estado de ánimo de la gente que me rodea), si bien hace un viento bastante desagradable que no invita a estar en la calle. Todavía no es tiempo de terrazas (y, q"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Añade un segundo nodo de Adguard Home para que sincronicen los dos DNS",
+    "link": "https://voidnull.es/anade-un-segundo-nodo-de-adguard-home-para-que-sincronicen-los-dos-dns/",
+    "fecha": "16/02/2026",
+    "contenido": "Dos nodos de AdGuard Home sincronizados para asegurar DNS redundante y evitar caídas en la resolución de nombres."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Después de la tormenta...",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/despues-de-la-tormenta.html",
+    "fecha": "16/02/2026",
+    "contenido": "\n  \n    \n  \n...siempre llega la calma. Eso dicen. Igual que tras encadenar diez borrascas, cuando parecía que estábamos condenados a tener un tiempo más propio de otras latitudes, por fin se despeja, pasa algo parecido con la vida.Vuelvo a mirar a ese último día de agosto en el que la tristeza me in"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Guía de Acestream 2026",
+    "link": "https://www.fabio.com.ar/9875-guia-de-acestream-2026",
+    "fecha": "16/02/2026",
+    "contenido": "    \nBueno, luego del posteo del otro d&iacute;a es hora de hacer uno actualizado de Acestream para novatos y curiosos, el &uacute;ltimo fue hace 9 a&ntilde;os, as&iacute; que es hora de darles una actualizaci&oacute;n.\nAcestream es una red p2p para streamings, es decir, para ver cosas en vivo que, "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Vengeance Rising: Anthology - Roger Martinez 1962-2025 In Memorial | Que La Memoria No Falle",
+    "link": "https://www.delotroladometal.com.ar/2026/02/16/que-la-memoria-no-falle/",
+    "fecha": "16/02/2026",
+    "contenido": "(2025 &#8211; Roxx Records/Frontline Records) Muchos sentimientos y sensaciones surgen en la cabeza y en...\nThe post Vengeance Rising: Anthology - Roger Martinez 1962-2025 In Memorial | Que La Memoria No Falle first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Graphite y GIMP en el FOSDEM 2026",
+    "link": "https://javiersam.uy/2026/02/graphite-y-gimp-en-el-fosdem-2026.html",
+    "fecha": "16/02/2026",
+    "contenido": "A principios de mes, de regreso de mis vacaciones anuales, me encontré con que se había realizado en Bruselas (Bélgica) una nueva edición del FOSDEM.Y, desde unos días después, están disponibles en el sitio web del evento las grabaciones de las charlas que allí se dieron. Ahora que pude ver las dos "
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "Google Gemini, compañero de aventuras",
     "link": "https://thecheis.com/2026/02/15/google-gemini-companero-de-aventuras/",
@@ -249,7 +312,7 @@
     "titulo": "Lista random de cosas que no me gustan",
     "link": "https://blog.luiscarlospando.com/personal/2026/02/lista-random-de-cosas-que-no-me-gustan/",
     "fecha": "12/02/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "Mareos de un geek",
@@ -483,39 +546,11 @@
     "contenido": "Todas estas fotografías son tomadas por mi en la región de Magallanes en distintas localidades, estas están intervenidas con bordados. Esta técnica se llama foto-bordado, que es básicamente perforar el papel para hacer la intervención con hilo de bordar. Todas realizadas durante la pandemia Covid 20"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "El ancho de la vida",
-    "link": "https://brucknerite.net/2026/02/el-ancho-de-la-vida.html",
-    "fecha": "09/02/2026",
-    "contenido": "Esta será una historia de trenes que empieza hace ya unos años, pero que tiene mucho que ver con el estado actual de la red ferroviaria española. Una historia, más concretamente, sobre el ancho de sus vías. En su dramatis personæ, unos ingenieros visionarios, un «luminoso» alcalde de Vigo y […]"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Precedente legal en España: El acceso al software como garantía de una democracia real",
     "link": "https://victorhckinthefreeworld.com/2026/02/09/precedente-legal-en-espana-el-acceso-al-software-como-garantia-de-una-democracia-real/",
     "fecha": "09/02/2026",
     "contenido": "El Tribunal Supremo de España  ha sentado un precedente legal. La libertad de estudiar el software es constitucionalmente necesaria en el contexto de programas informáticos y algorítmicos de administración pública"
-  },
-  {
-    "blog": "Un bruto con Debian",
-    "titulo": "Gorilla.bas Un ratito de nostalgia.",
-    "link": "http://unbrutocondebian.blogspot.com/2026/02/gorillabas-un-ratito-de-nostalgia.html",
-    "fecha": "09/02/2026",
-    "contenido": "Hoy estaba perdiendo el tiempo un poco delante del ordenador cuando me he topado con un port de gorilla.bas, el mítico juego escrito en QuickBasic al que los que peinamos canas le dedicamos un buen tiempo cuando eramos niños.El caso es que me ha apetecido revivir la experiencia y me lo he descargado"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Mil cosas de Juan Tallón",
-    "link": "https://mareosdeungeek.es/mil-cosas-de-juan-tallon/",
-    "fecha": "09/02/2026",
-    "contenido": "Mil cosas de Juan Tallón es el último libro que he leído. Al final entre estudio, entrevistas y pruebas técnicas, sólo puedo aproximarme a este tipo de libros, tiny literature. En todo caso, este libro se lee rápido, apenas una mañana. Y es que la falta de tiempo, el estrés de las vidas actuales, al"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Stargate: El gran proyecto de infraestructura para la inteligencia del futuro",
-    "link": "https://alt43.es/stargate-el-gran-proyecto-de-infraestructura-para-la-inteligencia-del-futuro/",
-    "fecha": "09/02/2026",
-    "contenido": "Descubre qué es el Proyecto Stargate: la mayor infraestructura de IA de la historia. Analizamos sus socios, el uso de energía nuclear y su impacto en la privacidad global."
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -525,46 +560,11 @@
     "contenido": "Esta semana ha seguido haciendo un tiempo bastante desagradable, aunque parece que este tren de borrascas va a darnos un respiro pronto. La semana que terminó ayer (sí, ya sé que es lunes y no domingo) recogí la friolera de 105,9 litros por metro cuadrado con el pluviómetro que tengo en mi terraza. "
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "La manera en que consumimos música hace a su creación",
-    "link": "https://matizeta.com/2026/02/09/la-manera-en-que-consumimos-musica-hace-a-su-creacion/",
-    "fecha": "09/02/2026",
-    "contenido": "En un post anterior comente acerca de dos artículos relacionados al consumo de la música offline y en formato físico. Todo eso me dio pie para reflotar una serie de borradores que tenía a medio armar y poder terminar de darle forma. ¿Cómo consumimos la música hoy en día? La forma en que consumimos h"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "524. Todo queda en familia",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/02/524-todo-queda-en-familia.html",
     "fecha": "09/02/2026",
     "contenido": "&nbsp; &nbsp; Hoy, después de muchos años de amistad, Demenciano me ha hablado de algunos miembros de su familia.&nbsp;&nbsp; &nbsp; Así he sabido que Egilona, su madre, nunca se gastó un céntimo en desodorante axilar, ya que exprimía la fruta con el sobaco, fuera el izquierdo o el derecho. Los zumo"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalar GoToSocial en Debian 13",
-    "link": "https://voidnull.es/instalar-gotosocial-en-debian-13/",
-    "fecha": "09/02/2026",
-    "contenido": "GoToSocial es un servidor ligero para el Fediverso compatible con ActivityPub. Aprende a instalarlo en Debian 13."
-  },
-  {
-    "blog": "teletex",
-    "titulo": "Compartir comida",
-    "link": "https://jmlro.codeberg.page/posts/2026/02-09-compartir-comida.html",
-    "fecha": "09/02/2026",
-    "contenido": "La evolución del espacio público es una de las profecías de internet. Poco a poco estos lugares se han ido convirtiendo menos en nuestra casa, estamos incómodos y nos sentímos observados. Cualquier persona que haga lo contrario, es sospechosa. Me acuerdo cuando vi los primeros bancos con pinchos par"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Aragón vota contra Pedro Sánchez",
-    "link": "https://www.xn--jmuoz-qta.es/2026/02/aragon-vota-contra-pedro-sanchez.html",
-    "fecha": "09/02/2026",
-    "contenido": "Aragón ha hablado. Y lo ha hecho con esa claridad incómoda que desbarata relatos, rompe consignas y obliga a mirar los datos sin el filtro del argumentario de Ferraz. Las elecciones autonómicas no solo confirman un giro político ya visible en Extremadura; certifican algo más profundo y más grave par"
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendación de la semana.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/02/09/recomendacion-de-la-semana-35/",
-    "fecha": "09/02/2026",
-    "contenido": "Esta semana un arpista de musica medieval nórdica y germánica. el arpista se llama Germán."
   },
   {
     "blog": "ochobitshacenunbyte",
@@ -581,32 +581,11 @@
     "contenido": "Eric S. Raymond escribió en los tiempos de las Guerras de editores «The Right Size for an Editor». Un texto no tan conocido como el de «La catedral y el bazar» pero que tiene perlas interesantes. Cita la Ley de Zawinski (JWZ, el de Netscape) que venía a decir que «Todos los programas tendrían que..."
   },
   {
-    "blog": "56K",
-    "titulo": "Añadir nuevos juegos a la consola X6",
-    "link": "https://56k.es/fanta/anadir-nuevos-juegos-a-la-consola-x6/",
-    "fecha": "09/02/2026",
-    "contenido": "Hablo de la consola portátil X6 versión V-8147. La llaman «Consola X6» pero existen diferentes versiones y por eso lo mismo encontrarás vídeos de gente diciendo que añadir juegos es tan sencillo como copiar las roms en la tarjeta SD y listo. En realidad en esta versión (que por lo que veo es muy eco"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "La red de la ira",
-    "link": "https://www.fabio.com.ar/9870-la-red-de-la-ira",
-    "fecha": "09/02/2026",
-    "contenido": "    \nHace un tiempo que el due&ntilde;o de Twitter decidi&oacute; renombrar la red con un extra&ntilde;o nombre \"X\", en su habitual insan&iacute;a trat&oacute; de darle \"valor\" a esa red buscando la forma en que los usuarios interactuaran de prepo, ya no por deseo propio, sino por \"obligaci&oacute;n"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Nombres en juegos de rol",
     "link": "https://nachof.blog/posts/2026/nombres-en-juegos-de-rol/",
     "fecha": "09/02/2026",
     "contenido": "Uno de los problemas difíciles con los que nos encontramos en los juegos de rol es el de ponerle nombres a las cosas.\nBen Robbins (creador de Microscope, Follow, In This World, y otros) tiene un muy buen post al respecto en su blog. La sugerencia es sencilla: una lista de nombres con el &ldquo;flavo"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Adorned Graves: Dream I | Sin Ningún Tipo De Sutilezas",
-    "link": "https://www.delotroladometal.com.ar/2026/02/09/sin-ningun-tipo-de-sutilezas/",
-    "fecha": "09/02/2026",
-    "contenido": "(2025 &#8211; Soundmass) Cómo es posible que apenas un puñado de canciones puedan triturarte tanto...\nThe post Adorned Graves: Dream I | Sin Ningún Tipo De Sutilezas first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
