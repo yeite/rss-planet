@@ -28,11 +28,25 @@
     "contenido": "El tiempo parece haber dado un pequeño respiro. Hemos vuelto a ver el sol por aquí y eso se nota en mi estado de ánimo (y en general en el estado de ánimo de la gente que me rodea), si bien hace un viento bastante desagradable que no invita a estar en la calle. Todavía no es tiempo de terrazas (y, q"
   },
   {
+    "blog": "danielaragay.net",
+    "titulo": "¡3 personas en Estocolmo se hunden en el hielo!",
+    "link": "https://blog.danielaragay.net/3-personas-en-estocolmo-se-hunden-en-el-hielo/",
+    "fecha": "16/02/2026",
+    "contenido": "Pues s&#xed;, es algo que ha pasado este fin de semana, 3 personas cayeron dentro del agua al romperse el hielo por donde andaban.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoels"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Añade un segundo nodo de Adguard Home para que sincronicen los dos DNS",
     "link": "https://voidnull.es/anade-un-segundo-nodo-de-adguard-home-para-que-sincronicen-los-dos-dns/",
     "fecha": "16/02/2026",
     "contenido": "Dos nodos de AdGuard Home sincronizados para asegurar DNS redundante y evitar caídas en la resolución de nombres."
+  },
+  {
+    "blog": "teletex",
+    "titulo": "Primer sol",
+    "link": "https://jmlro.codeberg.page/posts/2026/02-16-primer-sol.html",
+    "fecha": "16/02/2026",
+    "contenido": "Después de, que yo recuerde, un par de meses nublados y lluviosos ayer atrapamos al sol en una terraza. Llevábamos todo el día en el centro, y como ya se sabe la experiencia humana en los centros es alienígena. En la calle reina una falta de modestia o excesivo esmero en que tu aspecto refleje una p"
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -42,6 +56,13 @@
     "contenido": "\n  \n    \n  \n...siempre llega la calma. Eso dicen. Igual que tras encadenar diez borrascas, cuando parecía que estábamos condenados a tener un tiempo más propio de otras latitudes, por fin se despeja, pasa algo parecido con la vida.Vuelvo a mirar a ese último día de agosto en el que la tristeza me in"
   },
   {
+    "blog": "",
+    "titulo": "Felicitaciones Aires celtas por su reconocimiento.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/02/16/felicitaciones-aires-celtas-por-su-reconocimiento/",
+    "fecha": "16/02/2026",
+    "contenido": ""
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Guía de Acestream 2026",
     "link": "https://www.fabio.com.ar/9875-guia-de-acestream-2026",
@@ -49,11 +70,25 @@
     "contenido": "    \nBueno, luego del posteo del otro d&iacute;a es hora de hacer uno actualizado de Acestream para novatos y curiosos, el &uacute;ltimo fue hace 9 a&ntilde;os, as&iacute; que es hora de darles una actualizaci&oacute;n.\nAcestream es una red p2p para streamings, es decir, para ver cosas en vivo que, "
   },
   {
+    "blog": "Picando Código",
+    "titulo": "List Category Posts v0.94.0 - Año nuevo, \"vulnerabilidad crítica de seguridad\" nueva",
+    "link": "https://picandocodigo.net/2026/list-category-posts-v0-94-0-ano-nuevo-vulnerabilidad-nueva/",
+    "fecha": "16/02/2026",
+    "contenido": "Desde octubre la cosa estaba bastante tranquila en el frente List Category Posts, el plugin que desarrollé para WordPress. El año pasado empezaron los reportes de seguridad de supuestas vulnerabilidades del plugin. Inicialmente demoré demasiado en corregirlo, por lo que Wordfence alarmó a todos los "
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Vengeance Rising: Anthology - Roger Martinez 1962-2025 In Memorial | Que La Memoria No Falle",
     "link": "https://www.delotroladometal.com.ar/2026/02/16/que-la-memoria-no-falle/",
     "fecha": "16/02/2026",
     "contenido": "(2025 &#8211; Roxx Records/Frontline Records) Muchos sentimientos y sensaciones surgen en la cabeza y en...\nThe post Vengeance Rising: Anthology - Roger Martinez 1962-2025 In Memorial | Que La Memoria No Falle first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "A vueltas con las apps de notas",
+    "link": "https://dani.torresburriel.com/a-vueltas-con-las-apps-de-notas/",
+    "fecha": "16/02/2026",
+    "contenido": "Llevo un cacao importante con un tema. El otro día David Bonilla hizo una pregunta en Twitter respecto de Evernote, y me acordé que Evernote fue la primera aplicación de notas que yo empecé a utilizar, ya ni me acuerdo cuándo. Pero hace muchos, muchísimos años. Allá por el año 2002 o 2003. Quizá ant"
   },
   {
     "blog": "JavierSam",
@@ -537,61 +572,5 @@
     "link": "https://thejnx.bearblog.dev/hablemos-del-problema-del-conformismo/",
     "fecha": "10/02/2026",
     "contenido": "En esta entrada no voy a intentar dar un sermon largo, mi objetivo es dar consciencia sobre este tema, el cual me gustaría empezar dando un \"pequeño\" consejo:\nSi es posible no sean tan conformistas, es una palabra que ni sabia que existía pero siento que define a la gran mayoría de personas en inter"
-  },
-  {
-    "blog": "La Loica",
-    "titulo": "Foto Bordado",
-    "link": "https://laloica.noblogs.org/foto-bordado/",
-    "fecha": "09/02/2026",
-    "contenido": "Todas estas fotografías son tomadas por mi en la región de Magallanes en distintas localidades, estas están intervenidas con bordados. Esta técnica se llama foto-bordado, que es básicamente perforar el papel para hacer la intervención con hilo de bordar. Todas realizadas durante la pandemia Covid 20"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Precedente legal en España: El acceso al software como garantía de una democracia real",
-    "link": "https://victorhckinthefreeworld.com/2026/02/09/precedente-legal-en-espana-el-acceso-al-software-como-garantia-de-una-democracia-real/",
-    "fecha": "09/02/2026",
-    "contenido": "El Tribunal Supremo de España  ha sentado un precedente legal. La libertad de estudiar el software es constitucionalmente necesaria en el contexto de programas informáticos y algorítmicos de administración pública"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 06/2026",
-    "link": "https://www.macram.es/posts/2026/02/semana-06-2026/",
-    "fecha": "09/02/2026",
-    "contenido": "Esta semana ha seguido haciendo un tiempo bastante desagradable, aunque parece que este tren de borrascas va a darnos un respiro pronto. La semana que terminó ayer (sí, ya sé que es lunes y no domingo) recogí la friolera de 105,9 litros por metro cuadrado con el pluviómetro que tengo en mi terraza. "
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "524. Todo queda en familia",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/02/524-todo-queda-en-familia.html",
-    "fecha": "09/02/2026",
-    "contenido": "&nbsp; &nbsp; Hoy, después de muchos años de amistad, Demenciano me ha hablado de algunos miembros de su familia.&nbsp;&nbsp; &nbsp; Así he sabido que Egilona, su madre, nunca se gastó un céntimo en desodorante axilar, ya que exprimía la fruta con el sobaco, fuera el izquierdo o el derecho. Los zumo"
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Diagramas fáciles con FlossFLOW y Docker",
-    "link": "https://www.ochobitshacenunbyte.com/2026/02/09/diagramas-faciles-con-flossflow-y-docker/",
-    "fecha": "09/02/2026",
-    "contenido": "En un sin fin de proyectos en los que he trabajado he tenido que realizar algún diagrama, para mostrar toda la arquitectura y la relación de todos los elementos entre si. Creo que a&#46;&#46;&#46;\nLa entrada Diagramas fáciles con FlossFLOW y Docker se publicó primero en ochobitshacenunbyte."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Perlas interesantes en «El tamaño correcto para un editor» de Eric S. Raymond",
-    "link": "https://56k.es/fanta/perlas-interesantes-en-el-tamano-correcto-para-un-editor-de-eric-s-raymond/",
-    "fecha": "09/02/2026",
-    "contenido": "Eric S. Raymond escribió en los tiempos de las Guerras de editores «The Right Size for an Editor». Un texto no tan conocido como el de «La catedral y el bazar» pero que tiene perlas interesantes. Cita la Ley de Zawinski (JWZ, el de Netscape) que venía a decir que «Todos los programas tendrían que..."
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Nombres en juegos de rol",
-    "link": "https://nachof.blog/posts/2026/nombres-en-juegos-de-rol/",
-    "fecha": "09/02/2026",
-    "contenido": "Uno de los problemas difíciles con los que nos encontramos en los juegos de rol es el de ponerle nombres a las cosas.\nBen Robbins (creador de Microscope, Follow, In This World, y otros) tiene un muy buen post al respecto en su blog. La sugerencia es sencilla: una lista de nombres con el &ldquo;flavo"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Un lunes muy lunes",
-    "link": "https://dani.torresburriel.com/un-lunes-muy-lunes/",
-    "fecha": "09/02/2026",
-    "contenido": "Hoy ha sido un lunes al que definiría como una tormenta de arena. No voy mojado, si no me miras muy de cerca no se me nota, aparentemente mi ropa no está sucia, no me he despeinado. Pero me escuecen los ojos, tengo incomodidad en todo el cuerpo, me pica todo. Enero ha sido un &#8230; Sigue leyendo U"
   }
 ]
