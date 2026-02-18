@@ -1,10 +1,31 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "La ingesta indigesta de Claude",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/02/18/20260218-la-ingesta-indigesta-de-claude/",
+    "fecha": "18/02/2026",
+    "contenido": "Una breve historia sobre el atragantamiento de bots de Anthropic mediante AISEO"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "‘Hamnet’ y la llorera",
+    "link": "https://adrianperales.com/2026/02/hamnet-y-la-llorera/",
+    "fecha": "17/02/2026",
+    "contenido": "Hemos ido al cine a ver &#8216;Hamnet&#8217; con el alumnado de bachillerato. Es una película dramática relacionada con (que no «acerca de») Shakespeare. Me ha gustado muchísimo y he llorado muchísimo, aunque no sé si es para todo el mundo. El aviso A partir de aquí viene mi opinión sobre la películ"
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "Music Has the Right to Children (1998), de Boards of Canada",
     "link": "https://thecheis.com/2026/02/17/music-has-the-right-to-children-1998-de-boards-of-canada/",
     "fecha": "17/02/2026",
     "contenido": "«The holts are nearly always close to the sea» A Coruña, año 2011. Por aquel entonces cursaba allí el primer ciclo de formación profesional de mi vida, en horario nocturno. De camino a clase, en las frescas tardes de otoño-invierno, llevaba mi reproductor MP3 cargado de una música muy especial. La e"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "No me lo estaba inventando",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/no-me-lo-estaba-inventando/",
+    "fecha": "17/02/2026",
+    "contenido": "Cuando empecé a explorar el autismo como una posibilidad, como una categoría que podía hacerme comprensible para mí misma y para otros (pero sobre todo para mí misma) tuve que luchar, en primer lugar, contra mis propios prejuicios. ¿Cómo iba a ser yo autista? Autista era mi tío, que aprendió unas po"
   },
   {
     "blog": "La Máquina de Von Neumann",
@@ -14,11 +35,25 @@
     "contenido": "En conversaciones en «X», mucha gente me critica que muestro claros sesgos antropocéntricos. Cuando critico la posibilidad de consciencia en máquinas, apelan a la idea de que yo solo entiendo la consciencia a partir de las cualidades de la humana, pero que la IA podría desarrollar otra completamente"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Vuelve Micromanía",
+    "link": "https://mareosdeungeek.es/vuelve-micromania/",
+    "fecha": "17/02/2026",
+    "contenido": "Desde el pasado fin de semana se puede reservar o hacer una suscripción a la nueva época de la revista Micromanía. El retorno de la clásica revista de videojuegos se produce después de casi dos años desde su último número. Micromanía es una revista sobre videojuegos que se remonta a los años 80. Sur"
+  },
+  {
     "blog": "Tecno y Soft",
-    "titulo": "Cuando y cómo utilizar install-grub en Manjaro",
-    "link": "https://tecnoysoft.com/2026/02/17/cuando-y-como-utilizar-install-grub-en-manjaro/",
+    "titulo": "Cuándo utilizar install-grub en Manjaro",
+    "link": "https://tecnoysoft.com/2026/02/17/cuando-utilizar-install-grub-en-manjaro/",
     "fecha": "17/02/2026",
     "contenido": "Introducción Manjaro es otro mundo, nada que ver con cualquier otra derivada de Arch Linux, ponen el foco en herramientas propias que faciliten el uso y administración del sistema. Haciendo que todo sea más fácil, rápido y productivo. En Manjaro, el comando install-grub es una herramienta específica"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "\"Two ways of doing (almost) the same\"",
+    "link": "https://www.macram.es/posts/2026/02/dos-formas-de-hacer-lo-mismo/",
+    "fecha": "17/02/2026",
+    "contenido": "En ale, today una reflexión sobre cómo dos switches para deshabilitar las funciones de inteligencia artificial en dos programas pueden expresar cosas totalmente distintas."
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -26,6 +61,20 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/02/arrebol.html",
     "fecha": "17/02/2026",
     "contenido": "\n  \n    \n  \nNo sé qué tienen de mágico e hipnótico estos atardeceres de febrero en los que empiezan a alargarse los días y las nubes se vuelven rojizas, cargadas de agua mientras inciden los últimos rayos de sol sobre ellas.En febrero, aún siendo invierno, empieza a vislumbrarse allá a lo lejos la h"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Optimizar la batería del portátil en GNU+Linux",
+    "link": "https://56k.es/fanta/optimizar-la-bateria-del-portatil-en-gnulinux/",
+    "fecha": "17/02/2026",
+    "contenido": "Desde mi experiencia la forma en la que consigo que la batería del portátil me dure más tiempo sin tener que enchufarlo pasa por estas 2 cosas: Brillo de la pantalla y MHz CPU. A groso modo si bajas un poco el brillo te durará más y si lo pones en powersave. Tema del brillo:..."
+  },
+  {
+    "blog": "56K",
+    "titulo": "La IA ética no existe",
+    "link": "https://56k.es/fanta/la-ia-feminista-no-existe/",
+    "fecha": "17/02/2026",
+    "contenido": "He tratado de ordenar ciertos pensamientos alrededor de la «Soberanía tecnológica», «la computación extractivista» y el Cherry Picking cuando algunas personas afirman sin despeinarse que las IAs son éticas, anti-racistas o feministas. &#160; 1. ¿Es posible actualmente una hamburguesa ética? 2. Dison"
   },
   {
     "blog": "Fabio.com.ar",
@@ -40,6 +89,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/02/17/pura-brutalidad-desde-rosario/",
     "fecha": "17/02/2026",
     "contenido": "El Metal Extremo tiene su capítulo también en la provincia de Santa Fe, Argentina. Más...\nThe post V.I.L. Presenta \"Opresor\" | Pura Brutalidad Desde Rosario first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Ownership en UX: tu trabajo no es mandar un email, es conseguir un resultado",
+    "link": "https://dani.torresburriel.com/ownership-en-ux-resultado-no-tarea/",
+    "fecha": "17/02/2026",
+    "contenido": "Hay una idea que me persigue desde hace tiempo y que se me ha vuelto a aparecer esta semana dando una formación sobre liderazgo operativo en experiencia de usuario. La idea es sencilla de formular, pero ligeramente incómoda de asumir: la mayoría de profesionales que trabajamos en diseño dedicamos má"
   },
   {
     "blog": "Proyecto para no aburrir",
@@ -504,13 +560,6 @@
     "contenido": "La semana pasada descubrí por casualidad, escuchando en la radio Córdoba patrimonio gastronómico,&nbsp;Japanish, un restaurante de comida fusión sito en Lucena (Córdoba). Fui casi de improviso, reservando el día de antes, para probar su carta de comida fusión entre Córdoba (y Andalucía y España) y J"
   },
   {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Etimología del paisaje",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/etimologia-del-paisaje/",
-    "fecha": "11/02/2026",
-    "contenido": "El procedimiento no dolió, pero el despertar fue un estallido de sintaxis visual. Durante décadas, su mundo fue una construcción de texturas, aromas y el rítmico goteo del tiempo sobre el papel. Ahora, los nuevos globos oculares —frías esferas de cristal líquido y grafeno— le devolvían una realidad "
-  },
-  {
     "blog": "ochobitshacenunbyte",
     "titulo": "Mealie: Libros de recetas de cocina con Docker",
     "link": "https://www.ochobitshacenunbyte.com/2026/02/11/mealie-libros-de-recetas-de-cocina-con-docker/",
@@ -539,52 +588,10 @@
     "contenido": "Hoy vengo con algo muy concreto de lo que escribiré más a menudo este año. Y es que hay una disciplina que lleva años ganando peso en los equipos de investigación con usuarios y que, sin embargo, sigue siendo la gran desconocida en el ecosistema de producto digital en español: ResearchOps, o lo que "
   },
   {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "La maldición de Hill House",
-    "link": "https://guillermolatorre.com/libros/la-maldicion-de-hill-house",
-    "fecha": "10/02/2026",
-    "contenido": "Fecha de lectura: 11/02/2026.Autor/a: Shirley Jackson.Categoría: Ficción.Número de páginas: 256.Mi valoración: ★★★☆☆No sé muy bien por qué, pero no he llegado a sentirme dentro de la historia en ningún momento."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Epstein y los idiotas",
-    "link": "https://jinversor.co/2026/02/epstein-y-los-idiotas/",
-    "fecha": "10/02/2026",
-    "contenido": "Mea culpa. Sucumbí al tema de moda y terminé viendo en HBO el Documental de Jeffrey Epstein. Me pareció un trabajo bien logrado porque se centró en los hechos históricos [&#8230;]\nLa entrada Epstein y los idiotas se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Bailando sin Cesar con 31 Minutos",
-    "link": "https://altgr.xyz/2026/02/10/bailando-sin-cesar-con-31-minutos/",
-    "fecha": "10/02/2026",
-    "contenido": "El inicio de la temporada de conciertos 2026 vino directo desde Titirilquén con el show Radio Guaripolo de 31 Minutos el sábado 31 de enero en el Movistar Arena. Una presentación con el conocido humor que se complementa su repertorio musical interpretado por los mismísimos artistas originales. Allí "
-  },
-  {
-    "blog": "",
-    "titulo": "Curso de Semiotica Medieval en Uruguay.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/02/10/curso-de-semiotica-medieval-en-uruguay/",
-    "fecha": "10/02/2026",
-    "contenido": "El lunes 10 de febrero se dio a conocer un curso de Semiótica medieval en Mastodon, les dejo una copia de la publicación y el formulario de inscripción. Curso de verano en el IPAFuentes tardoantiguas de la semiótica medieval 📅5 y 6 de marzo&#124; 9 a 12 h📍Salón: Anfiteatro &#124; PresencialInstituto"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Slow Net – Menos velocidad, menos vigilancia",
-    "link": "https://56k.es/fanta/slow-net-menos-velocidad-menos-vigilancia/",
-    "fecha": "10/02/2026",
-    "contenido": "Existe un escrito llamado «A Quick Guide to the Slow Net» que se puede en teoría obtener desde el Website slownet.work/ Lo he bajado y lo he juntado en un pdf que puede consultarse aquí: A_quick_guide_to_the_slow_net-Beverly_cou.pdf Beverly Chou explora mediante una serie de experimentos cómo las re"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Offline – Vida fuera de internet",
-    "link": "https://56k.es/fanta/offline/",
-    "fecha": "10/02/2026",
-    "contenido": "No estar también es una opción, trabajar offline, hacer las cosas sin necesidad de conexión a internet constante. «Cuanto más colores tiene la pantalla de alta definición menos colores tiene el mundo, porque van desapareciendo especies, va aumentando la contaminación, los cielos están sucios…» Belen"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Hablemos sobre el problema del conformismo",
-    "link": "https://thejnx.bearblog.dev/hablemos-del-problema-del-conformismo/",
-    "fecha": "10/02/2026",
-    "contenido": "En esta entrada no voy a intentar dar un sermon largo, mi objetivo es dar consciencia sobre este tema, el cual me gustaría empezar dando un \"pequeño\" consejo:\nSi es posible no sean tan conformistas, es una palabra que ni sabia que existía pero siento que define a la gran mayoría de personas en inter"
+    "blog": "AsturGeek V3",
+    "titulo": "Donación Febrero: Asociación Galbán",
+    "link": "https://asturgeek.eu/2026/02/11/donacion-febrero-asociacion-galban/",
+    "fecha": "11/02/2026",
+    "contenido": "Febrero ya avanzado y toca nueva donación. Generalmente me centro en asociaciones o proyectos tecnológicos. Pero ésta vez es especial. Asociación Galbán es una entidad sin ánimo de lucro registrada en varios municipios de Asturias y declarada de utilidad pública.También forma parte de la Federación "
   }
 ]
