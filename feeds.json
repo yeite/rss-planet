@@ -1,5 +1,61 @@
 [
   {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "Dejar la puerta abierta.",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/dejar-la-puerta-abierta/",
+    "fecha": "18/02/2026",
+    "contenido": "Mi amiga Míriam me regaló La novia grulla de CJ Hauser para mi cumpleaños. Fue una cosa así un poco serendípica, porque ella nunca regala libros que no haya leído, pero el librero se lo recomendó muy fuerte y aquí estamos. \nNo sabía que el libro me iba a dar tanto. Desde el principio, además. Es una"
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Honor",
+    "link": "https://mcallus.net/2026/02/18/honor/",
+    "fecha": "18/02/2026",
+    "contenido": "Ōka Haruhisa estaba sentado con los ojos cerrados en posición de loto. Las puertas de su despacho se encontraban abiertas hacia el pequeño jardín interior. El frescor primaveral de la madrugada le había acompañado durante toda la noche de meditación. Su kimono blanco apenas le había mantenido abriga"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Vinilandia es uno de los podcasts que más he disfrutado últimamente",
+    "link": "https://blog.luiscarlospando.com/musica/2026/02/vinilandia-es-uno-de-los-podcasts-que-mas-he-disfrutado-ultimamente/",
+    "fecha": "18/02/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "El Cautivo de Amenábar",
+    "link": "https://mareosdeungeek.es/el-cautivo-de-amenabar/",
+    "fecha": "18/02/2026",
+    "contenido": "El Cautivo es la última película de Alejandro Amenábar. Estrenada en septiembre de 2025 estamos ante un drama histórico, no exento de polémica, que recrea el cautiverio de Miguel de Cervantes en la ciudad de Argel. Aunque la base de la película es bastante simple, el cautiverio durante 5 años de Cer"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#181: notificaciones push en navegadores",
+    "link": "https://www.macram.es/posts/2026/02/notificaciones-push-en-navegadores/",
+    "fecha": "18/02/2026",
+    "contenido": "Creo que los navegadores actuales deberían ser mucho más restrictivos con las notificaciones push. Se están usando mucho con fines maliciosos. Tengo cierta confianza en que, igual que en su momento se popularizaron los bloqueadores de popups, se acabará poniendo coto al uso de estas API.\nPor mi (ses"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "526. Hacker",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/02/526-hacker.html",
+    "fecha": "18/02/2026",
+    "contenido": "&nbsp; &nbsp; La entrada que programé para que se publicara ayer no ha aparecido. Y es algo normal porque no la encuentro por ningún sitio. Quiero pensar que se debe a la obsolescencia de esta plataforma olvidada, y no a los ajustes pertinentes que hice un poco pasado de octanaje para tal efecto.&nb"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Sobre el por qué tomo fotografías",
+    "link": "https://impermanente.es/2026/02/18/sobre-el-por-qu-tomo.html",
+    "fecha": "18/02/2026",
+    "contenido": "Hay algo que me cuesta admitir, aunque tampoco tengo ya demasiados reparos en decirlo: no recuerdo casi nada de mi infancia. No de manera normal, al menos. Tengo imágenes sueltas, fragmentos desconectados, escenas que flotan sin contexto como si pertenecieran a la vida de otra persona que conozco mu"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "sort: es hora de ordenar las cosas",
+    "link": "https://voidnull.es/sort-es-hora-de-ordenar-las-cosas/",
+    "fecha": "18/02/2026",
+    "contenido": "Herramienta para combinar líneas de uno o varios archivos en columnas, ideal para unir datos y generar tablas simples desde la terminal."
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalación de BookStack en Debian 13",
     "link": "https://voidnull.es/instalacion-de-bookstack-en-debian-13/",
@@ -14,11 +70,46 @@
     "contenido": "Una breve historia sobre el atragantamiento de bots de Anthropic mediante AISEO"
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "El proceso analógico",
+    "link": "https://www.ericafustero.com/2026-02-el-proceso-analogico",
+    "fecha": "18/02/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "",
+    "titulo": "Convocatoria",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/02/18/convocatoria-3/",
+    "fecha": "18/02/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "prosa",
+    "titulo": "amateur y amatora",
+    "link": "https://blog.adrianaaraujot.casa/amateur-y-amatora/",
+    "fecha": "18/02/2026",
+    "contenido": "Miranda July, el viento y por qué no puedo decir que amo escribir"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Prohibirle redes sociales a los niños, tarde, muy tarde",
     "link": "https://www.fabio.com.ar/9877-prohibirle-redes-sociales-a-los-ninos-tarde-muy-tarde",
     "fecha": "18/02/2026",
     "contenido": "    \nMuy tarde, muy poco, una vez m&aacute;s los gobernantes usan al reh&eacute;n habitual de las decisiones autoritarias: los ni&ntilde;os. &iquest;Para qu&eacute; en este caso? Para prohibir y controlar, obvio! lo que siempre trae resultados &iquest;No?\nProhibir el acceso a servicios digitales en "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "GodArchy Zine Nro. 1 – Julio 2003",
+    "link": "https://www.delotroladometal.com.ar/2026/02/18/godarchy-zine-nro-1-julio-2003/",
+    "fecha": "18/02/2026",
+    "contenido": "No, no nos fuimos para el lado del punk rock ni mucho menos, pero no...\nThe post GodArchy Zine Nro. 1 – Julio 2003 first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Hoy me alegro especialmente de tener un blog personal",
+    "link": "https://dani.torresburriel.com/hoy-me-alegro-especialmente-de-tener-un-blog-personal/",
+    "fecha": "18/02/2026",
+    "contenido": "Hoy es uno de esos días en los que me da un gusto tremendo tener un blog personal. Porque la entrada que estoy escribiendo no tiene una temática concreta, sino que más bien me sirve para expresar y compartir un estado de ánimo. Y ese estado de ánimo tiene que ver con que llevo unos &#8230; Sigue ley"
   },
   {
     "blog": "Ilogeek",
@@ -63,11 +154,25 @@
     "contenido": "En conversaciones en «X», mucha gente me critica que muestro claros sesgos antropocéntricos. Cuando critico la posibilidad de consciencia en máquinas, apelan a la idea de que yo solo entiendo la consciencia a partir de las cualidades de la humana, pero que la IA podría desarrollar otra completamente"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Vuelve Micromanía",
+    "link": "https://mareosdeungeek.es/vuelve-micromania/",
+    "fecha": "17/02/2026",
+    "contenido": "Desde el pasado fin de semana se puede reservar o hacer una suscripción a la nueva época de la revista Micromanía. El retorno de la clásica revista de videojuegos se produce después de casi dos años desde su último número. Micromanía es una revista sobre videojuegos que se remonta a los años 80. Sur"
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "Cuándo utilizar install-grub en Manjaro",
     "link": "https://tecnoysoft.com/2026/02/17/cuando-utilizar-install-grub-en-manjaro/",
     "fecha": "17/02/2026",
     "contenido": "Introducción Manjaro es otro mundo, nada que ver con cualquier otra derivada de Arch Linux, ponen el foco en herramientas propias que faciliten el uso y administración del sistema. Haciendo que todo sea más fácil, rápido y productivo. En Manjaro, el comando install-grub es una herramienta específica"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "\"Two ways of doing (almost) the same\"",
+    "link": "https://www.macram.es/posts/2026/02/dos-formas-de-hacer-lo-mismo/",
+    "fecha": "17/02/2026",
+    "contenido": "En ale, today una reflexión sobre cómo dos switches para deshabilitar las funciones de inteligencia artificial en dos programas pueden expresar cosas totalmente distintas."
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -98,6 +203,20 @@
     "contenido": "    \nSe que es un tema irrelevante para la gran mayor&iacute;a, pero hasta hace poco la &uacute;nica forma de crear emojis en una PC era utilizando los sets de im&aacute;genes que el sistema operativo provee. No hab&iacute;a una tipograf&iacute;a que tuviera los emojis para usar en cualquier tipo de"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "V.I.L. Presenta \"Opresor\" | Pura Brutalidad Desde Rosario",
+    "link": "https://www.delotroladometal.com.ar/2026/02/17/pura-brutalidad-desde-rosario/",
+    "fecha": "17/02/2026",
+    "contenido": "El Metal Extremo tiene su capítulo también en la provincia de Santa Fe, Argentina. Más...\nThe post V.I.L. Presenta \"Opresor\" | Pura Brutalidad Desde Rosario first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Ownership en UX: tu trabajo no es mandar un email, es conseguir un resultado",
+    "link": "https://dani.torresburriel.com/ownership-en-ux-resultado-no-tarea/",
+    "fecha": "17/02/2026",
+    "contenido": "Hay una idea que me persigue desde hace tiempo y que se me ha vuelto a aparecer esta semana dando una formación sobre liderazgo operativo en experiencia de usuario. La idea es sencilla de formular, pero ligeramente incómoda de asumir: la mayoría de profesionales que trabajamos en diseño dedicamos má"
+  },
+  {
     "blog": "Proyecto para no aburrir",
     "titulo": "Al final me lié y me monté un Joplin Server en Docker",
     "link": "https://ericdq.com/2026/02/16/final-lie-monte-joplin-server-docker/",
@@ -109,14 +228,21 @@
     "titulo": "La semana pasada pasaron demasiadas cosas",
     "link": "https://blog.luiscarlospando.com/personal/2026/02/la-semana-pasada-pasaron-demasiadas-cosas/",
     "fecha": "16/02/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "danielaragay.net",
-    "titulo": "¡3 personas en Estocolmo se hunden en el hielo!",
-    "link": "https://blog.danielaragay.net/3-personas-en-estocolmo-se-hunden-en-el-hielo/",
+    "blog": "alt43",
+    "titulo": "ChatControl: Análisis del nuevo paradigma de vigilancia en la UE",
+    "link": "https://alt43.es/chatcontrol-analisis-del-nuevo-paradigma-de-vigilancia-en-la-ue/",
     "fecha": "16/02/2026",
-    "contenido": "Pues s&#xed;, es algo que ha pasado este fin de semana, 3 personas cayeron dentro del agua al romperse el hielo por donde andaban.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoels"
+    "contenido": "Análisis técnico del reglamento ChatControl en la UE: el fin del cifrado de extremo a extremo, el impacto del escaneo en el dispositivo y las consecuencias para la privacidad y el secreto de las comunicaciones."
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 07/2026",
+    "link": "https://www.macram.es/posts/2026/02/semana-07-2026/",
+    "fecha": "16/02/2026",
+    "contenido": "El tiempo parece haber dado un pequeño respiro. Hemos vuelto a ver el sol por aquí y eso se nota en mi estado de ánimo (y en general en el estado de ánimo de la gente que me rodea), si bien hace un viento bastante desagradable que no invita a estar en la calle. Todavía no es tiempo de terrazas (y, q"
   },
   {
     "blog": "_ voidNull",
@@ -161,6 +287,20 @@
     "contenido": "Desde octubre la cosa estaba bastante tranquila en el frente List Category Posts, el plugin que desarrollé para WordPress. El año pasado empezaron los reportes de seguridad de supuestas vulnerabilidades del plugin. Inicialmente demoré demasiado en corregirlo, por lo que Wordfence alarmó a todos los "
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Vengeance Rising: Anthology - Roger Martinez 1962-2025 In Memorial | Que La Memoria No Falle",
+    "link": "https://www.delotroladometal.com.ar/2026/02/16/que-la-memoria-no-falle/",
+    "fecha": "16/02/2026",
+    "contenido": "(2025 &#8211; Roxx Records/Frontline Records) Muchos sentimientos y sensaciones surgen en la cabeza y en...\nThe post Vengeance Rising: Anthology - Roger Martinez 1962-2025 In Memorial | Que La Memoria No Falle first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "A vueltas con las apps de notas",
+    "link": "https://dani.torresburriel.com/a-vueltas-con-las-apps-de-notas/",
+    "fecha": "16/02/2026",
+    "contenido": "Llevo un cacao importante con un tema: las apps de notas. El otro día David Bonilla hizo una pregunta en Twitter respecto de Evernote, y me acordé que Evernote fue la primera aplicación de notas que yo empecé a utilizar, ya ni me acuerdo cuándo. Pero hace muchos, muchísimos años. Allá por el año 200"
+  },
+  {
     "blog": "JavierSam",
     "titulo": "Graphite y GIMP en el FOSDEM 2026",
     "link": "https://javiersam.uy/2026/02/graphite-y-gimp-en-el-fosdem-2026.html",
@@ -180,6 +320,13 @@
     "link": "https://moribundoinsurgente.noblogs.org/post/2026/02/15/implementacion-de-verificacion-de-edad-en-discord-relacionada-con-cofundador-de-palantir/",
     "fecha": "15/02/2026",
     "contenido": "La semana pasada, Discord provocó el desprecio de sus usuarios al anunciar que en marzo implementará restricciones globales de verificación de edad, lo que limitará el contenido visible y las comunidades para los usuarios que no escaneen sus rostros o &#8230; Sigue leyendo &#8594;"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Anunciada la WordCamp Málaga 2026",
+    "link": "https://mareosdeungeek.es/anunciada-la-wordcamp-malaga-2026/",
+    "fecha": "15/02/2026",
+    "contenido": "El pasado viernes se lanzó la página web de la WordCamp Málaga 2026. Un evento que girará alrededor de WordPress y el e-commerce. Organizado por la comunidad de WordPress de la ciudad de Málaga y alrededores. Esta edición, centrada en comercio electrónico, se celebrará en la Facultad de Marketing y "
   },
   {
     "blog": "La bitácora de Locutus",
@@ -217,6 +364,13 @@
     "contenido": ""
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "Mis fotos favoritas de 2025",
+    "link": "https://www.ericafustero.com/2026-02-mis-fotos-favoritas-de-2025",
+    "fecha": "15/02/2026",
+    "contenido": "A principios de año decidí hacer una selección de mis fotos favoritas de 2025. «Esto lo tengo listo en una tarde», me dije. JA. Estuve dándole vueltas durante todo enero, lo dejé aparcado unos días y la semana pasada me obligué a retomarlo. En parte por cabezonería, en parte porque quiero imprimir p"
+  },
+  {
     "blog": "La Frikoteca",
     "titulo": "La Serpiente Coristos (aventura en Aelios)",
     "link": "http://frikoteca.blogspot.com/2026/02/la-serpiente-coristos-aventura-en-aelios.html",
@@ -231,11 +385,18 @@
     "contenido": ""
   },
   {
-    "blog": "Ardi RSS",
+    "blog": "Feed de Ardi",
     "titulo": "A link to the past: 2025",
-    "link": "https://ardi.monster/blog/a-link-to-the-past-2025",
+    "link": "https://www.ardi.monster/blog/a-link-to-the-past-2025",
     "fecha": "15/02/2026",
     "contenido": "Una entrada donde hago una retrospectiva de mi ano 2025"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Rey Parra Nos Cuenta Los Planes Para Este Año | El 2026 De Sacred Warrior",
+    "link": "https://www.delotroladometal.com.ar/2026/02/15/el-2026-de-sacred-warrior/",
+    "fecha": "15/02/2026",
+    "contenido": "Sacred Warrior es una leyenda del Metal. Su historia, que viene desde los lejanos años...\nThe post Rey Parra Nos Cuenta Los Planes Para Este Año | El 2026 De Sacred Warrior first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "El Blog de Juan A. Flores",
@@ -264,6 +425,13 @@
     "link": "https://nachof.blog/posts/2026/the-adventures-of-mary-darling/",
     "fecha": "14/02/2026",
     "contenido": "\n\n\n\nIn stories, the hero never dies. And every child thinks of themself as the hero of their story. But children could die. She could die. Tom could die. Sam could die. That was one of the secrets of Neverland. There were fairies and mermaids. You could fly away on adventures. And you could die.\n\nTe"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Entrevista con Flavio Lema de Ignis | “Si Necesitas De Inteligencia Artificial Para Hacer Arte Es Porque Tu Inteligencia Natural Se Terminó”",
+    "link": "https://www.delotroladometal.com.ar/2026/02/14/si-necesitas-de-inteligencia-artificial-para-hacer-arte-es-porque-tu-inteligencia-natural-se-termino/",
+    "fecha": "14/02/2026",
+    "contenido": "Mientras preparaba la publicación de esta entrevista, me tenté nuevamente a escuchar todo de un...\nThe post Entrevista con Flavio Lema de Ignis | “Si Necesitas De Inteligencia Artificial Para Hacer Arte Es Porque Tu Inteligencia Natural Se Terminó” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -343,18 +511,18 @@
     "contenido": "     Se acab&oacute; la semana, empieza el finde largo y hay links\nBueno, empieza un finde \"largo\" entre comillas, porque ni en todo el mundo ni en todos los trabajos el carnaval es una fecha no lavorable, pero aqu&iacute;, en este blog, no dormirmos, no descansamos, as&iacute; que igual tendremos l"
   },
   {
-    "blog": "Blep",
-    "titulo": "Desvaríos y vomitona verbal",
-    "link": "https://blep.org/Desvarios-y-vomitona-verbal",
-    "fecha": "12/02/2026",
-    "contenido": "Buenas.\n\nEste no es un artículo del blog. Es solo una especie de desahogo, un flujo de conciencia para ver si me desbloqueo mentalmente y sobre todo emocionalmente.\n\nHace mucho que no escribo nada. Cansancio, agobios, mala vida. Vacío. Han pasado muchas cosas.\n\nFamiliares en el hospital (demasiados "
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Royal Altar Lanza Versión de \"Rich Men North Of Richmond\"... | Country En Clave De Heavy Metal…Y Nuevo Álbum?",
+    "link": "https://www.delotroladometal.com.ar/2026/02/13/country-en-clave-de-heavy-metaly-nuevo-album/",
+    "fecha": "13/02/2026",
+    "contenido": "No recuerdo muchos covers hechos por bandas de Heavy Metal, de canciones que provengan de...\nThe post Royal Altar Lanza Versión de \"Rich Men North Of Richmond\"... | Country En Clave De Heavy Metal…Y Nuevo Álbum? first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Instalar Qemu y VirtManager en Arch - 2",
-    "link": "https://vctrsnts.github.io/2026-02-12-qemu-virtmanager-2/",
-    "fecha": "12/02/2026",
-    "contenido": "En este segundo articulo, explicaremos un poco como me voy adaptando a usar VirtManager en vez de VirtualBox y las modificaciones que he tenido que hacer en mi flujo de trabajo con respecto al usar VirtManager."
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Cómo vendo yo (y cómo no deberías vender tú)",
+    "link": "https://dani.torresburriel.com/como-vendo-yo-y-como-no-deberias-vender-tu/",
+    "fecha": "13/02/2026",
+    "contenido": "Ayer escribí sobre por qué ignoro los correos de ventas no solicitados y la cosa tuvo bastante recorrido. En los comentarios de LinkedIn, también en un artículo de Miguel Angel Díez Ferreira en la misma red social, mucha gente compartía su hartazgo con el mismo tipo de prácticas invasivas. Pero entr"
   },
   {
     "blog": "Moribundo Insurgente",
@@ -371,11 +539,11 @@
     "contenido": "#ComunicacionSocial #propaganda #arte #ElSueñodelArtistablog #RedeSociales&#160; Desde los inicios la propaganda surgió como medio de persuasión de grandes agentes hacia las masas con su evolución ha encontrado en el arte una forma de embellecer y tocar las fibras de millones de personas logrando qu"
   },
   {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Lista random de cosas que no me gustan",
-    "link": "https://blog.luiscarlospando.com/personal/2026/02/lista-random-de-cosas-que-no-me-gustan/",
+    "blog": "Mareos de un geek",
+    "titulo": "El método Williams",
+    "link": "https://mareosdeungeek.es/el-metodo-williams/",
     "fecha": "12/02/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
+    "contenido": "El método Williams es una película protagonizada por Will Smith, que todo sea dicho, hace una interpretación genial. Aunque la película trata sobre las hermanas Williams, la interpretación de Smith eclipsa y domina toda la trama. Nos encontramos ante un drama biográfico sobre la historia de las herm"
   },
   {
     "blog": "pov – matizeta",
@@ -406,45 +574,17 @@
     "contenido": "Me tiene las bolas por el piso el argumento de que &ldquo;si el socialismo es tan bueno por qué siempre que se intentó fracasó&rdquo;. Porque no fracasó, todo lo contrario.\nPrimero lo primero: no soy historiador. Como no soy historiador, me puedo meter en esta discusión, porque ningún historiador se"
   },
   {
-    "blog": "Cajón desastre",
-    "titulo": "The Magnus Archives, primera temporada",
-    "link": "https://ccriss92.bearblog.dev/the-magnus-archives-primera-temporada/",
-    "fecha": "11/02/2026",
-    "contenido": "Quería poner un poco de orden en el blog, y no me terminaba de convencer lo de recopilar los comentarios que hago en Mastodon de The Magnus Archives en una única página. Así que he pensado en dejar esa página como índice y crear una entrada por temporada. Además de esas impresiones tras escuchar los"
+    "blog": "Del Otro Lado Metal",
+    "titulo": "1990XHC/Social Crisis: Split Hardcore 2024 | Hardcore Para Guardar Y Repartir",
+    "link": "https://www.delotroladometal.com.ar/2026/02/12/hardcore-para-guardar-y-repartir/",
+    "fecha": "12/02/2026",
+    "contenido": "(2024 &#8211; Independiente) Cuanto hace que no veía una de estas cosas, llamada comunmente como...\nThe post 1990XHC/Social Crisis: Split Hardcore 2024 | Hardcore Para Guardar Y Repartir first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "danielaragay.net",
-    "titulo": "Andando sobre hielo, niños en prisión y medicamentos inexistentes en Suecia",
-    "link": "https://blog.danielaragay.net/andando-sobre-hielo-ninos-en-prision-y-medicamentos-inexistentes-en-suecia/",
-    "fecha": "11/02/2026",
-    "contenido": "En este cap&#xed;tulo repasamos un poco mis aventuras como creador de v&#xed;deo en la empresa, mi experiencia andando encima del lago de Estocolmo entre otras cosasFormas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7;"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Saiko en Matucana 100",
-    "link": "https://altgr.xyz/2026/02/11/saiko-en-matucana-100/",
-    "fecha": "11/02/2026",
-    "contenido": "Jueves 5 de febrero en el salón principal del centro cultural Matucana 100 tuvimos la oportunidad de disfrutar de la música de Saiko, un concierto que fue una extensión de la gira por los 25 años de la banda. Quienes estuvimos ahí fuimos los afortunados que escuchamos por primera vez en vivo Romance"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalar CouchDB en Debian 13",
-    "link": "https://voidnull.es/instalar-couchdb-en-debian-13/",
-    "fecha": "11/02/2026",
-    "contenido": "Apache CouchDB es una base de datos NoSQL orientada a documentos que utiliza JSON para almacenar datos"
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Mealie: Libros de recetas de cocina con Docker",
-    "link": "https://www.ochobitshacenunbyte.com/2026/02/11/mealie-libros-de-recetas-de-cocina-con-docker/",
-    "fecha": "11/02/2026",
-    "contenido": "¿Te consideras una persona cocinillas? ¿Te gustaría guardar las recetas que vas encontrando por Internet? ¿Piensas que sería buena idea planificar toda la semana para organizar las comidas y las cenas? Pues estás de&#46;&#46;&#46;\nLa entrada Mealie: Libros de recetas de cocina con Docker se publicó "
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "Donación Febrero: Asociación Galbán",
-    "link": "https://asturgeek.eu/2026/02/11/donacion-febrero-asociacion-galban/",
-    "fecha": "11/02/2026",
-    "contenido": "Febrero ya avanzado y toca nueva donación. Generalmente me centro en asociaciones o proyectos tecnológicos. Pero ésta vez es especial. Asociación Galbán es una entidad sin ánimo de lucro registrada en varios municipios de Asturias y declarada de utilidad pública.También forma parte de la Federación "
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Por qué ignoro los correos de ventas",
+    "link": "https://dani.torresburriel.com/por-que-ignoro-los-correos-de-ventas/",
+    "fecha": "12/02/2026",
+    "contenido": "Por momentos me guardo las ganas de escribir esto. Y por momentos, como ahora, no puedo guardármelas porque necesito soltar una idea que me ronda la cabeza día sí y día también. Imaginad que alguien llama a la puerta de vuestra casa. No le conocéis. No le habéis invitado. Pero insiste en que le abrá"
   }
 ]
