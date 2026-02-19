@@ -1,5 +1,54 @@
 [
   {
+    "blog": "Fierro Viejo",
+    "titulo": "El Sistema Operativo Universal",
+    "link": "https://fierroviejo.com/2026/02/el-sistema-operativo-universal.html",
+    "fecha": "19/02/2026",
+    "contenido": "Por qué Debian es El Sistema Operativo Universal."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La Edad de las Redes Sociales",
+    "link": "https://mareosdeungeek.es/la-edad-de-las-redes-sociales/",
+    "fecha": "19/02/2026",
+    "contenido": "La Edad de las Redes Sociales, el momento que estamos viviendo, en el que unos algoritmos, alimentados por nosotros mismos, nos roban toda nuestra atención. Está claro que la polémica ha surgido después del anuncio, por parte del gobierno español, de limitar el acceso a los menores de 16 años a esta"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Una de breves #1: Tos",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/una-de-breves-1-tos.html",
+    "fecha": "19/02/2026",
+    "contenido": "&nbsp;Me pone muy nervioso la gente que tose y tose y no deja de toser."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Jueves",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/jueves.html",
+    "fecha": "19/02/2026",
+    "contenido": "\n  \n    \n  \nY si los miércoles son mi mejor día de la semana este curso, los jueves son el peor. Largos, eternos, con mucha carga laboral, sin apenas un descanso.Empiezo este jueves de invierno de febrero desmotivado, con sueño, como casi todos los días, entre la alegría del miércoles y el vislumbra"
+  },
+  {
+    "blog": "ochobitshacenunbyte",
+    "titulo": "Guía Práctica: Sustituyendo Ingress-NGINX por Envoy Gateway (Paso a Paso)",
+    "link": "https://www.ochobitshacenunbyte.com/2026/02/19/guia-practica-sustituyendo-ingress-nginx-por-envoy-gateway-paso-a-paso/",
+    "fecha": "19/02/2026",
+    "contenido": "Durante muchos años el proxy inverso del Ingress-Nginx ha sido el más utilizado en las empresas que utilizaban Kubernetes. A diferencia de Nginx-Ingress, que sí esta mantenido por una empresa, en este caso F5,&#46;&#46;&#46;\nLa entrada Guía Práctica: Sustituyendo Ingress-NGINX por Envoy Gateway (Pas"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #864",
+    "link": "https://www.fabio.com.ar/9878-ruleta-rusa-864",
+    "fecha": "19/02/2026",
+    "contenido": "     Vamos, vamos todos a la ruleta!\nPues s&iacute;, es jueves, no esperen otra cosa que paro de la CGT y Ruleta Rusa, esta, en particular, dedicada a aquellos que no pudieron moverse por el paro de transportes provocado por unos gordos sindicales que nunca movieron el orto para trabajar 😅\nAhora s&i"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Perú destituyó al presidente. Otra vez.",
+    "link": "https://nachof.blog/posts/2026/per%C3%BA-destituy%C3%B3-al-presidente-otra-vez/",
+    "fecha": "19/02/2026",
+    "contenido": "Si en Uruguay destituyen a un presidente, sería algo sin precedentes, una crisis enorme, nunca pasó. En Perú, es martes.\nDesde que Ollanta Humala dejó el cargo en el 2016, ningún otro presidente completó un mandato completo.\nEn el 2016 fue electo Pedro Pablo Kuczynski, o, más fácil, PPK. Montones de"
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "Dejar la puerta abierta.",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/dejar-la-puerta-abierta/",
@@ -98,20 +147,6 @@
     "contenido": "    \nMuy tarde, muy poco, una vez m&aacute;s los gobernantes usan al reh&eacute;n habitual de las decisiones autoritarias: los ni&ntilde;os. &iquest;Para qu&eacute; en este caso? Para prohibir y controlar, obvio! lo que siempre trae resultados &iquest;No?\nProhibir el acceso a servicios digitales en "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "GodArchy Zine Nro. 1 – Julio 2003",
-    "link": "https://www.delotroladometal.com.ar/2026/02/18/godarchy-zine-nro-1-julio-2003/",
-    "fecha": "18/02/2026",
-    "contenido": "No, no nos fuimos para el lado del punk rock ni mucho menos, pero no...\nThe post GodArchy Zine Nro. 1 – Julio 2003 first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Hoy me alegro especialmente de tener un blog personal",
-    "link": "https://dani.torresburriel.com/hoy-me-alegro-especialmente-de-tener-un-blog-personal/",
-    "fecha": "18/02/2026",
-    "contenido": "Hoy es uno de esos días en los que me da un gusto tremendo tener un blog personal. Porque la entrada que estoy escribiendo no tiene una temática concreta, sino que más bien me sirve para expresar y compartir un estado de ánimo. Y ese estado de ánimo tiene que ver con que llevo unos &#8230; Sigue ley"
-  },
-  {
     "blog": "Ilogeek",
     "titulo": "Los podcasts que escucho (edición 2026)",
     "link": "https://ilogeek.es/los-podcasts-que-escucho-edicion-2026/",
@@ -203,20 +238,6 @@
     "contenido": "    \nSe que es un tema irrelevante para la gran mayor&iacute;a, pero hasta hace poco la &uacute;nica forma de crear emojis en una PC era utilizando los sets de im&aacute;genes que el sistema operativo provee. No hab&iacute;a una tipograf&iacute;a que tuviera los emojis para usar en cualquier tipo de"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "V.I.L. Presenta \"Opresor\" | Pura Brutalidad Desde Rosario",
-    "link": "https://www.delotroladometal.com.ar/2026/02/17/pura-brutalidad-desde-rosario/",
-    "fecha": "17/02/2026",
-    "contenido": "El Metal Extremo tiene su capítulo también en la provincia de Santa Fe, Argentina. Más...\nThe post V.I.L. Presenta \"Opresor\" | Pura Brutalidad Desde Rosario first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Ownership en UX: tu trabajo no es mandar un email, es conseguir un resultado",
-    "link": "https://dani.torresburriel.com/ownership-en-ux-resultado-no-tarea/",
-    "fecha": "17/02/2026",
-    "contenido": "Hay una idea que me persigue desde hace tiempo y que se me ha vuelto a aparecer esta semana dando una formación sobre liderazgo operativo en experiencia de usuario. La idea es sencilla de formular, pero ligeramente incómoda de asumir: la mayoría de profesionales que trabajamos en diseño dedicamos má"
-  },
-  {
     "blog": "Proyecto para no aburrir",
     "titulo": "Al final me lié y me monté un Joplin Server en Docker",
     "link": "https://ericdq.com/2026/02/16/final-lie-monte-joplin-server-docker/",
@@ -231,13 +252,6 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "alt43",
-    "titulo": "ChatControl: Análisis del nuevo paradigma de vigilancia en la UE",
-    "link": "https://alt43.es/chatcontrol-analisis-del-nuevo-paradigma-de-vigilancia-en-la-ue/",
-    "fecha": "16/02/2026",
-    "contenido": "Análisis técnico del reglamento ChatControl en la UE: el fin del cifrado de extremo a extremo, el impacto del escaneo en el dispositivo y las consecuencias para la privacidad y el secreto de las comunicaciones."
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "Semana 07/2026",
     "link": "https://www.macram.es/posts/2026/02/semana-07-2026/",
@@ -245,18 +259,18 @@
     "contenido": "El tiempo parece haber dado un pequeño respiro. Hemos vuelto a ver el sol por aquí y eso se nota en mi estado de ánimo (y en general en el estado de ánimo de la gente que me rodea), si bien hace un viento bastante desagradable que no invita a estar en la calle. Todavía no es tiempo de terrazas (y, q"
   },
   {
+    "blog": "danielaragay.net",
+    "titulo": "¡3 personas en Estocolmo se hunden en el hielo!",
+    "link": "https://blog.danielaragay.net/3-personas-en-estocolmo-se-hunden-en-el-hielo/",
+    "fecha": "16/02/2026",
+    "contenido": "Pues s&#xed;, es algo que ha pasado este fin de semana, 3 personas cayeron dentro del agua al romperse el hielo por donde andaban.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoels"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Añade un segundo nodo de Adguard Home para que sincronicen los dos DNS",
     "link": "https://voidnull.es/anade-un-segundo-nodo-de-adguard-home-para-que-sincronicen-los-dos-dns/",
     "fecha": "16/02/2026",
     "contenido": "Dos nodos de AdGuard Home sincronizados para asegurar DNS redundante y evitar caídas en la resolución de nombres."
-  },
-  {
-    "blog": "teletex",
-    "titulo": "Primer sol",
-    "link": "https://jmlro.codeberg.page/posts/2026/02-16-primer-sol.html",
-    "fecha": "16/02/2026",
-    "contenido": "Después de, que yo recuerde, un par de meses nublados y lluviosos ayer atrapamos al sol en una terraza. Llevábamos todo el día en el centro, y como ya se sabe la experiencia humana en los centros es alienígena. En la calle reina una falta de modestia o excesivo esmero en que tu aspecto refleje una p"
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -285,20 +299,6 @@
     "link": "https://picandocodigo.net/2026/list-category-posts-v0-94-0-ano-nuevo-vulnerabilidad-nueva/",
     "fecha": "16/02/2026",
     "contenido": "Desde octubre la cosa estaba bastante tranquila en el frente List Category Posts, el plugin que desarrollé para WordPress. El año pasado empezaron los reportes de seguridad de supuestas vulnerabilidades del plugin. Inicialmente demoré demasiado en corregirlo, por lo que Wordfence alarmó a todos los "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Vengeance Rising: Anthology - Roger Martinez 1962-2025 In Memorial | Que La Memoria No Falle",
-    "link": "https://www.delotroladometal.com.ar/2026/02/16/que-la-memoria-no-falle/",
-    "fecha": "16/02/2026",
-    "contenido": "(2025 &#8211; Roxx Records/Frontline Records) Muchos sentimientos y sensaciones surgen en la cabeza y en...\nThe post Vengeance Rising: Anthology - Roger Martinez 1962-2025 In Memorial | Que La Memoria No Falle first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "A vueltas con las apps de notas",
-    "link": "https://dani.torresburriel.com/a-vueltas-con-las-apps-de-notas/",
-    "fecha": "16/02/2026",
-    "contenido": "Llevo un cacao importante con un tema: las apps de notas. El otro día David Bonilla hizo una pregunta en Twitter respecto de Evernote, y me acordé que Evernote fue la primera aplicación de notas que yo empecé a utilizar, ya ni me acuerdo cuándo. Pero hace muchos, muchísimos años. Allá por el año 200"
   },
   {
     "blog": "JavierSam",
@@ -392,13 +392,6 @@
     "contenido": "Una entrada donde hago una retrospectiva de mi ano 2025"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Rey Parra Nos Cuenta Los Planes Para Este Año | El 2026 De Sacred Warrior",
-    "link": "https://www.delotroladometal.com.ar/2026/02/15/el-2026-de-sacred-warrior/",
-    "fecha": "15/02/2026",
-    "contenido": "Sacred Warrior es una leyenda del Metal. Su historia, que viene desde los lejanos años...\nThe post Rey Parra Nos Cuenta Los Planes Para Este Año | El 2026 De Sacred Warrior first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "El Blog de Juan A. Flores",
     "titulo": "Está caído mi servidor Casero",
     "link": "https://juanagustinflores.wordpress.com/2026/02/14/esta-caido-mi-servidor-casero/",
@@ -425,13 +418,6 @@
     "link": "https://nachof.blog/posts/2026/the-adventures-of-mary-darling/",
     "fecha": "14/02/2026",
     "contenido": "\n\n\n\nIn stories, the hero never dies. And every child thinks of themself as the hero of their story. But children could die. She could die. Tom could die. Sam could die. That was one of the secrets of Neverland. There were fairies and mermaids. You could fly away on adventures. And you could die.\n\nTe"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista con Flavio Lema de Ignis | “Si Necesitas De Inteligencia Artificial Para Hacer Arte Es Porque Tu Inteligencia Natural Se Terminó”",
-    "link": "https://www.delotroladometal.com.ar/2026/02/14/si-necesitas-de-inteligencia-artificial-para-hacer-arte-es-porque-tu-inteligencia-natural-se-termino/",
-    "fecha": "14/02/2026",
-    "contenido": "Mientras preparaba la publicación de esta entrevista, me tenté nuevamente a escuchar todo de un...\nThe post Entrevista con Flavio Lema de Ignis | “Si Necesitas De Inteligencia Artificial Para Hacer Arte Es Porque Tu Inteligencia Natural Se Terminó” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -511,20 +497,6 @@
     "contenido": "     Se acab&oacute; la semana, empieza el finde largo y hay links\nBueno, empieza un finde \"largo\" entre comillas, porque ni en todo el mundo ni en todos los trabajos el carnaval es una fecha no lavorable, pero aqu&iacute;, en este blog, no dormirmos, no descansamos, as&iacute; que igual tendremos l"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Royal Altar Lanza Versión de \"Rich Men North Of Richmond\"... | Country En Clave De Heavy Metal…Y Nuevo Álbum?",
-    "link": "https://www.delotroladometal.com.ar/2026/02/13/country-en-clave-de-heavy-metaly-nuevo-album/",
-    "fecha": "13/02/2026",
-    "contenido": "No recuerdo muchos covers hechos por bandas de Heavy Metal, de canciones que provengan de...\nThe post Royal Altar Lanza Versión de \"Rich Men North Of Richmond\"... | Country En Clave De Heavy Metal…Y Nuevo Álbum? first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Cómo vendo yo (y cómo no deberías vender tú)",
-    "link": "https://dani.torresburriel.com/como-vendo-yo-y-como-no-deberias-vender-tu/",
-    "fecha": "13/02/2026",
-    "contenido": "Ayer escribí sobre por qué ignoro los correos de ventas no solicitados y la cosa tuvo bastante recorrido. En los comentarios de LinkedIn, también en un artículo de Miguel Angel Díez Ferreira en la misma red social, mucha gente compartía su hartazgo con el mismo tipo de prácticas invasivas. Pero entr"
-  },
-  {
     "blog": "Moribundo Insurgente",
     "titulo": "Google envió información personal y financiera de un estudiante de periodismo al ICE",
     "link": "https://moribundoinsurgente.noblogs.org/post/2026/02/12/google-envio-informacion-personal-y-financiera-de-un-estudiante-de-periodismo-al-ice/",
@@ -546,45 +518,10 @@
     "contenido": "El método Williams es una película protagonizada por Will Smith, que todo sea dicho, hace una interpretación genial. Aunque la película trata sobre las hermanas Williams, la interpretación de Smith eclipsa y domina toda la trama. Nos encontramos ante un drama biográfico sobre la historia de las herm"
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "Hagamos pequeños círculos",
-    "link": "https://matizeta.com/2026/02/12/hagamos-pequenos-circulos/",
-    "fecha": "12/02/2026",
-    "contenido": "Volví a sentir algo este último tiempo que ya me había sucedido años atrás con Facebook: Las personas que tengo en Instagram, en su mayoría no me interesa que hacen de sus vidas, de hecho estoy silenciado cada vez más gente. Con el tiempo, estos espacios de comunicación se vuelven una suerte de dire"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Canal 24 Horas",
-    "link": "https://www.xn--jmuoz-qta.es/2026/02/canal-24-horas.html",
-    "fecha": "12/02/2026",
-    "contenido": "Se ha convertido en tradición en casa los fines de semana comenzar el día viendo el Canal 24 Horas mientras desayunamos. Normalmente yo, que me levanto antes y me tomo un café mientras echo un ojo al a prensa, ya me he enterado de todo lo importante de la jornada, en esa misma prensa que reviso y en"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #863",
-    "link": "https://www.fabio.com.ar/9873-ruleta-rusa-863",
-    "fecha": "12/02/2026",
-    "contenido": "     No est&aacute; todo perdido si hay ruleta\nHa llegado el jueves, una semana productiva, mucho posteo, mucha pirater&iacute;a y hasta el buscador de blogs creciendo (ya 150 blogs y 68.000 art&iacute;culos indexados!) &iquest;qu&eacute; mejor que empezar el salto hacia el fin de semana que se apro"
-  },
-  {
     "blog": "Un blog",
     "titulo": "No, el socialismo no fracasó",
     "link": "https://nachof.blog/posts/2026/no-el-socialismo-no-fracas%C3%B3/",
     "fecha": "12/02/2026",
     "contenido": "Me tiene las bolas por el piso el argumento de que &ldquo;si el socialismo es tan bueno por qué siempre que se intentó fracasó&rdquo;. Porque no fracasó, todo lo contrario.\nPrimero lo primero: no soy historiador. Como no soy historiador, me puedo meter en esta discusión, porque ningún historiador se"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "1990XHC/Social Crisis: Split Hardcore 2024 | Hardcore Para Guardar Y Repartir",
-    "link": "https://www.delotroladometal.com.ar/2026/02/12/hardcore-para-guardar-y-repartir/",
-    "fecha": "12/02/2026",
-    "contenido": "(2024 &#8211; Independiente) Cuanto hace que no veía una de estas cosas, llamada comunmente como...\nThe post 1990XHC/Social Crisis: Split Hardcore 2024 | Hardcore Para Guardar Y Repartir first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Por qué ignoro los correos de ventas",
-    "link": "https://dani.torresburriel.com/por-que-ignoro-los-correos-de-ventas/",
-    "fecha": "12/02/2026",
-    "contenido": "Por momentos me guardo las ganas de escribir esto. Y por momentos, como ahora, no puedo guardármelas porque necesito soltar una idea que me ronda la cabeza día sí y día también. Imaginad que alguien llama a la puerta de vuestra casa. No le conocéis. No le habéis invitado. Pero insiste en que le abrá"
   }
 ]
