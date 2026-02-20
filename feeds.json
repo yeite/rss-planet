@@ -1,5 +1,61 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Utilidades para compartir información entre PC y CPC desde GNU/Linux",
+    "link": "https://malagaoriginal.blogspot.com/2020/10/utilidades-para-compartir-informacion.html",
+    "fecha": "20/02/2026",
+    "contenido": "\n\n\n\n\nHace tiempo vimos una guía de emuladores para ejecutar software de los ordenadores Amstrad en GNU/Linux, ahora vamos a ver que aplicaciones podemos usar en este sistema para intercambiar información entre el PC y un Amstrad CPC.\n\n\n\nNativas\n\nAplicaciones nativas de GNU/Linux para interactuar con"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Un pequeño servidor PHP local",
+    "link": "https://adrianperales.com/2026/02/un-pequeno-servidor-php-local/",
+    "fecha": "20/02/2026",
+    "contenido": "De vez en cuando me gusta probar pequeños sistemas para crear webs y blogs. De hecho, tengo una lista con recomendaciones, y normalmente los pruebo en local. Para ello, en un sistema GNU/Linux (y supongo que en macOS también, con Homebrew) es tan fácil como: Esto iniciará el servidor y en el mismo t"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "¡Échale grasa!",
+    "link": "https://brucknerite.net/2026/02/echale-grasa.html",
+    "fecha": "20/02/2026",
+    "contenido": "Imaginad la escena. Una pareja, chico y chica. Un coche. El capó levantado transmitiendo la señal universal de «avería». Él, fuera del coche, de pie, en la actitud que ordenan las leyes no escritas del patriarcado. Mira hacia las profundidades del motor con gesto de desesperación. Ella, dentro, se a"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Cómo escuchar jazz",
+    "link": "https://mareosdeungeek.es/como-escuchar-jazz/",
+    "fecha": "20/02/2026",
+    "contenido": "Cómo escuchar jazz de Ted Gioia es uno de los primeros libros que he leído en este 2026. De nuevo una visita a la biblioteca, vistazo a la estantería de novedades y ahí estaba. Ya he comentado alguna vez que me gusta escuchar jazz, es una música que me relaja a la vez que me [&#8230;]"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Gestión de imágenes propias #10",
+    "link": "https://voidnull.es/gestion-de-imagenes-propias-10/",
+    "fecha": "20/02/2026",
+    "contenido": "Aprende a crear imágenes Docker a partir de contenedores existentes, exportarlas para moverlas entre sistemas y publicarlas en repositorios, entendiendo cómo funcionan realmente las etiquetas y la distribución de imágenes."
+  },
+  {
+    "blog": "eaplmx",
+    "titulo": "Datos curiosos de tu bloguero favorito",
+    "link": "https://text.eapl.mx/datos-curiosos-de-tu-bloguero-favorito",
+    "fecha": "20/02/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #929",
+    "link": "https://www.fabio.com.ar/9879-links-de-viernes---929",
+    "fecha": "20/02/2026",
+    "contenido": "     El tiempo pasa y siempre hay links\nViernes! buen d&iacute;a para unos links! Ah, y al forro que se la pasa haciendo pen testing malo contra el blog &iquest;Podr&iacute;a darse cuenta que no funciona? Intentar lo mismo 200 veces y fracasar miserablemente no va a dar distintos resultados 😁 al men"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Luteoks: Barely True Norwegian Black Metal | Vikingos Al Ataque",
+    "link": "https://www.delotroladometal.com.ar/2026/02/20/vikingos-al-ataque/",
+    "fecha": "20/02/2026",
+    "contenido": "(2023 &#8211; Nordic Mission) La historia del Black Metal está ligada intímamente a Noruega, hogar...\nThe post Luteoks: Barely True Norwegian Black Metal | Vikingos Al Ataque first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Los therian y el desprecio al vecino",
     "link": "https://adrianperales.com/2026/02/los-therian-y-el-desprecio-al-vecino/",
@@ -588,13 +644,6 @@
     "contenido": "Mientras preparaba la publicación de esta entrevista, me tenté nuevamente a escuchar todo de un...\nThe post Entrevista con Flavio Lema de Ignis | “Si Necesitas De Inteligencia Artificial Para Hacer Arte Es Porque Tu Inteligencia Natural Se Terminó” first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "FooBilliardPlus: la evolución lógica de FooBilliard",
-    "link": "https://malagaoriginal.blogspot.com/2026/02/foobilliardplus-la-evolucion-logica-de.html",
-    "fecha": "13/02/2026",
-    "contenido": "FooBilliard era un juego de billard 3D que se jugaba con el ratón y que ahora tiene un más que digno sucesor FooBilliard plus, sigue siendo un juego libre.El juego se controla con el ratón con el que apuntas la bola moviéndote con el mismo y aumentas o disminuyes la fuerza del disparo con la rueda d"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 7 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/02/13/opensuse-tumbleweed-revision-de-la-semana-7-de-2026/",
@@ -623,46 +672,11 @@
     "contenido": "&nbsp; &nbsp; Estimado lector y querida lectora, esto que a continuación relato ocurrió tal cual.&nbsp;&nbsp; &nbsp; Antonio, alias Carabú dado su rostro difícil, al final accede a someterse a una sesión de hipnosis para curar su migraña. No por desesperación, ni tampoco porque la ciencia, por el mo"
   },
   {
-    "blog": "Redes nuestras",
-    "titulo": "Adultocentrismo",
-    "link": "https://redesnuestras.net/2026/02/13/adultocentrismo/",
-    "fecha": "13/02/2026",
-    "contenido": "Si te digo que hay un chaval de quince años permanentemente encerrado en su casa porque su familia y la policía dicen que la calle es demasiado insegura para él, supongo que te parecerá indignante. Puede que te preguntes por todo lo que hemos hecho mal para que la calle llegue a ser un lugar [&#8230"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Depuración de scripts #18",
-    "link": "https://voidnull.es/depuracion-de-scripts/",
-    "fecha": "13/02/2026",
-    "contenido": "Aprende cómo funcionan las funciones recursivas en Bash y resuelve problemas clásicos como el factorial o la sucesión de Fibonacci paso a paso."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Herrera en COPE. Estar engañado.",
-    "link": "https://www.xn--jmuoz-qta.es/2026/02/herrera-en-cope-estar-enganado.html",
-    "fecha": "13/02/2026",
-    "contenido": "Herrera en COPE, ese programa que Carlos Herrera presenta algunos días, algunas horas. Un programa el cual dura siete horas y cuyo presentador estelar presenta dos. DOS HORAS. Dos. Y se sigue llamando Herrera en COPE. Es una estafa, un engaño, un juego de trileros. Y para colmo, esta temporada han g"
-  },
-  {
     "blog": "Calaveras",
     "titulo": "Me mudé al futuro",
     "link": "https://calaveras.bearblog.dev/me-mude-al-futuro/",
     "fecha": "13/02/2026",
     "contenido": "El evento mas interesante de este corriente mes, fue mi mudanza. Si, hace muchos años que no sucedía, hasta que llegó el momento, se siente como algo nuevo y algo estresante sobre todo. Lo más particular de esta mudanza fue la elección del lugar, primero empiezo por el barrio, que está a apenas 15km"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #928",
-    "link": "https://www.fabio.com.ar/9874-links-de-viernes---928",
-    "fecha": "13/02/2026",
-    "contenido": "     Se acab&oacute; la semana, empieza el finde largo y hay links\nBueno, empieza un finde \"largo\" entre comillas, porque ni en todo el mundo ni en todos los trabajos el carnaval es una fecha no lavorable, pero aqu&iacute;, en este blog, no dormirmos, no descansamos, as&iacute; que igual tendremos l"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Royal Altar Lanza Versión de \"Rich Men North Of Richmond\"... | Country En Clave De Heavy Metal…Y Nuevo Álbum?",
-    "link": "https://www.delotroladometal.com.ar/2026/02/13/country-en-clave-de-heavy-metaly-nuevo-album/",
-    "fecha": "13/02/2026",
-    "contenido": "No recuerdo muchos covers hechos por bandas de Heavy Metal, de canciones que provengan de...\nThe post Royal Altar Lanza Versión de \"Rich Men North Of Richmond\"... | Country En Clave De Heavy Metal…Y Nuevo Álbum? first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
