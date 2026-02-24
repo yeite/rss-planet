@@ -1,5 +1,19 @@
 [
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "528. 6G",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/02/528-6g.html",
+    "fecha": "24/02/2026",
+    "contenido": "&nbsp; &nbsp; ¿Era el viento las orejas de 6G en movimiento? En efecto, 6G era un orejón como nunca nadie ha conocido. Pero ya nunca tendremos la respuesta. La última vez que lo vimos con vida, 6G tenía quince años de edad, y se agarraba de cara al marco de la ventana de un octavo piso con los brazo"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Le lenguaje de los perros: las señales de calma",
+    "link": "https://guillermolatorre.com/libros/el-lenguaje-de-los-perros-las-senales-de-calma",
+    "fecha": "23/02/2026",
+    "contenido": "Fecha de lectura: 19/02/2026.Autor/a: Turid Rugaas.Categoría: Ensayo.Número de páginas: 60.Mi valoración: ★★★★★Ahora que Gara ha llegado a casa, he releído el famoso libro con el que Turid Rugaas contribuyó al entendimiento de los perros y cómo se comunican entre ellos. Es un libro muy cortito y muy"
+  },
+  {
     "blog": "Un bruto con Debian",
     "titulo": "Epstein.bash",
     "link": "http://unbrutocondebian.blogspot.com/2026/02/epsteinbash.html",
@@ -22,10 +36,24 @@
   },
   {
     "blog": "Mi blog on Manu Mateos",
+    "titulo": "Antiguo pero fiable",
+    "link": "https://www.macram.es/posts/2026/02/antiguo-pero-fiable/",
+    "fecha": "23/02/2026",
+    "contenido": "Veo en Microsiervos1 que Alvy estuvo en un programa de RNE defendiendo que los aparatos antiguos, al menos, siempre funcionaban… o siempre fallaban de maneras predecibles y, por tanto, fáciles de reparar, mientras que los aparatos de hoy muchas veces no sabemos por qué fallan. Aporta algunos ejemplo"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
     "titulo": "Semana 08/2026",
     "link": "https://www.macram.es/posts/2026/02/semana-08-2026/",
     "fecha": "23/02/2026",
     "contenido": "Seguimos con buen tiempo. Parece que esta semana va a seguir estable e incluso casi calurosa (ayer ni toqué el abrigo), y que la que viene ya volvemos un poco a las andadas, aunque sin tanta agua. La que viene también planeaba volver al gimnasio, siempre que tuviera el coche reparado y en mi poder ("
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Guía Definitiva de Filamentos 3D: ¿Cuál necesitas para tu impresora?",
+    "link": "https://blog.danielaragay.net/guia-definitiva-de-filamentos-3d-cual-necesitas-para-tu-impresora/",
+    "fecha": "23/02/2026",
+    "contenido": "&#xbf;Est&#xe1;s pensando en comprarte una impresora 3D? O quiz&#xe1;s ya tienes una en casa, pero de repente te has chocado de frente con el enorme mundo de los materiales. Que si PLA, PETG, TPU, ABS... Ves todas estas siglas y es muy probable que te"
   },
   {
     "blog": "_ voidNull",
@@ -75,6 +103,13 @@
     "link": "https://jesuspavonabian.es/post/an46hu/",
     "fecha": "23/02/2026",
     "contenido": "Hace unos días EC7R comentó por el grupo de la sección de URE Huelva que se haría un Diploma por el Día de Andalucía.\nYo seguía sin antenas en el tejado así que ignoré el mensaje, no era para mí. Hasta que descubrí que uno de los modos del diploma era Voz Digital.\nAsí que pregunté si podía ayudar a "
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "La privacidad tiene un problema de diseño",
+    "link": "https://dani.torresburriel.com/la-privacidad-tiene-un-problema-de-diseno/",
+    "fecha": "23/02/2026",
+    "contenido": "Quienes me leéis sabéis que desde hace unos meses estoy alternando el uso de dos tipos aplicaciones. Por una parte las que todo el mundo usa, las que se actualizan cada dos semanas, las que tienen una feature para cada cosa que se te ocurra y para tres que no se te habían ocurrido, y &#8230; Sigue l"
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -595,13 +630,6 @@
     "contenido": "«The holts are nearly always close to the sea» A Coruña, año 2011. Por aquel entonces cursaba allí el primer ciclo de formación profesional de mi vida, en horario nocturno. De camino a clase, en las frescas tardes de otoño-invierno, llevaba mi reproductor MP3 cargado de una música muy especial. La e"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "No me lo estaba inventando",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/no-me-lo-estaba-inventando/",
-    "fecha": "17/02/2026",
-    "contenido": "Cuando empecé a explorar el autismo como una posibilidad, como una categoría que podía hacerme comprensible para mí misma y para otros (pero sobre todo para mí misma) tuve que luchar, en primer lugar, contra mis propios prejuicios. ¿Cómo iba a ser yo autista? Autista era mi tío, que aprendió unas po"
-  },
-  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "¿Hay un Y tal que Y sea sentirse una IA?",
     "link": "https://vonneumannmachine.wordpress.com/2026/02/17/hay-un-y-tal-que-y-sea-sentirse-una-ia/",
@@ -670,33 +698,5 @@
     "link": "https://dani.torresburriel.com/ownership-en-ux-resultado-no-tarea/",
     "fecha": "17/02/2026",
     "contenido": "Hay una idea que me persigue desde hace tiempo y que se me ha vuelto a aparecer esta semana dando una formación sobre liderazgo operativo en experiencia de usuario. La idea es sencilla de formular, pero ligeramente incómoda de asumir: la mayoría de profesionales que trabajamos en diseño dedicamos má"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "¡3 personas en Estocolmo se hunden en el hielo!",
-    "link": "https://blog.danielaragay.net/3-personas-en-estocolmo-se-hunden-en-el-hielo/",
-    "fecha": "16/02/2026",
-    "contenido": "Pues s&#xed;, es algo que ha pasado este fin de semana, 3 personas cayeron dentro del agua al romperse el hielo por donde andaban.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoels"
-  },
-  {
-    "blog": "",
-    "titulo": "Felicitaciones Aires celtas por su reconocimiento.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/02/16/felicitaciones-aires-celtas-por-su-reconocimiento/",
-    "fecha": "16/02/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "List Category Posts v0.94.0 - Año nuevo, \"vulnerabilidad crítica de seguridad\" nueva",
-    "link": "https://picandocodigo.net/2026/list-category-posts-v0-94-0-ano-nuevo-vulnerabilidad-nueva/",
-    "fecha": "16/02/2026",
-    "contenido": "Desde octubre la cosa estaba bastante tranquila en el frente List Category Posts, el plugin que desarrollé para WordPress. El año pasado empezaron los reportes de seguridad de supuestas vulnerabilidades del plugin. Inicialmente demoré demasiado en corregirlo, por lo que Wordfence alarmó a todos los "
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "A vueltas con las apps de notas",
-    "link": "https://dani.torresburriel.com/a-vueltas-con-las-apps-de-notas/",
-    "fecha": "16/02/2026",
-    "contenido": "Llevo un cacao importante con un tema: las apps de notas. El otro día David Bonilla hizo una pregunta en Twitter respecto de Evernote, y me acordé que Evernote fue la primera aplicación de notas que yo empecé a utilizar, ya ni me acuerdo cuándo. Pero hace muchos, muchísimos años. Allá por el año 200"
   }
 ]
