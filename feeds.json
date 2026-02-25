@@ -1,10 +1,45 @@
 [
   {
+    "blog": "_ voidNull",
+    "titulo": "Integración de Flightradar24 en Home Assistant",
+    "link": "https://voidnull.es/integracion-de-flightradar24-en-home-assistant/",
+    "fecha": "25/02/2026",
+    "contenido": "Integra Flightradar24 en Home Assistant para visualizar y monitorizar vuelos cercanos en tiempo real. Aprende a obtener datos de aeronaves y añadirlos a tus paneles y automatizaciones de forma sencilla."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Opinión sobre los estratos laborales de la IA",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/02/25/20260225-estratos-laborales-ia/",
     "fecha": "25/02/2026",
     "contenido": "La comunicación significativa no es un bien de consumo replicable hasta el infinito"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Tapones y envases",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/tapones-y-envases.html",
+    "fecha": "25/02/2026",
+    "contenido": "\n  \n    \n  \nLe deseo una muerte cruel, turbia y muy dolorosa al lumbreras que se le ocurrió lo de unir el tapón al envase. Sea el que sea. Ojalá sufras todo el mal que has causado, maldito hijo de mil putas."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "¿Por qué el fideo se parte en tres partes o más?",
+    "link": "https://www.fabio.com.ar/9882-por-que-el-fideo-se-parte-en-tres-partes-o-mas",
+    "fecha": "25/02/2026",
+    "contenido": "    \n&iquest;Es esto una pregunta filos&oacute;fica? &iexcl;Por supuesto!\nPero tambi&eacute;n es un complejo problema de la f&iacute;sica de la pasta que podr&iacute;a hacerle estallar una vena a un italiano, la pasta no se corta! Claro, pero cuando sucede &iquest;Por qu&eacute; cuernos no se parte "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Antithesis: Dying For Life | Morir Para Quedar En La Memoria",
+    "link": "https://www.delotroladometal.com.ar/2026/02/25/morir-para-quedar-en-la-memoria/",
+    "fecha": "25/02/2026",
+    "contenido": "(2001 &#8211; Nightmare Records/Massacre Records/Art Music Group) Hay bandas que aparecen, y desaparecen. Editan un...\nThe post Antithesis: Dying For Life | Morir Para Quedar En La Memoria first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Full Circle #224 (diciembre 2025)",
+    "link": "https://javiersam.uy/2026/02/full-circle-224-diciembre-2025.html",
+    "fecha": "25/02/2026",
+    "contenido": "Hace casi un mes que está disponible la edición #225 y, seguramente, en horas estará disponible la #226, pero yo tengo que seguir pagando mi deuda, así que aquí va mi reseña de la edición #224 de Full Circle magazine. Está disponible para su descarga desde el 26 de diciembre y se trata del número co"
   },
   {
     "blog": "Webnauta ⁂",
@@ -588,13 +623,6 @@
     "contenido": "El Cautivo es la última película de Alejandro Amenábar. Estrenada en septiembre de 2025 estamos ante un drama histórico, no exento de polémica, que recrea el cautiverio de Miguel de Cervantes en la ciudad de Argel. Aunque la base de la película es bastante simple, el cautiverio durante 5 años de Cer"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#181: notificaciones push en navegadores",
-    "link": "https://www.macram.es/posts/2026/02/notificaciones-push-en-navegadores/",
-    "fecha": "18/02/2026",
-    "contenido": "Creo que los navegadores actuales deberían ser mucho más restrictivos con las notificaciones push. Se están usando mucho con fines maliciosos. Tengo cierta confianza en que, igual que en su momento se popularizaron los bloqueadores de popups, se acabará poniendo coto al uso de estas API.\nPor mi (ses"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "526. Hacker",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/02/526-hacker.html",
@@ -616,27 +644,6 @@
     "contenido": "Herramienta para combinar líneas de uno o varios archivos en columnas, ideal para unir datos y generar tablas simples desde la terminal."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de BookStack en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-bookstack-en-debian-13/",
-    "fecha": "18/02/2026",
-    "contenido": "BookStack es un software Wiki de código abierto destinado a una plataforma sencilla, autoalojada y fácil de usar. Basado en Laravel, un framework PHP, BookStack está publicado bajo la licencia MIT."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "La ingesta indigesta de Claude",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/02/18/20260218-la-ingesta-indigesta-de-claude/",
-    "fecha": "18/02/2026",
-    "contenido": "Una breve historia sobre el atragantamiento de bots de Anthropic mediante AISEO"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "El proceso analógico",
-    "link": "https://www.ericafustero.com/2026-02-el-proceso-analogico",
-    "fecha": "18/02/2026",
-    "contenido": ""
-  },
-  {
     "blog": "",
     "titulo": "Convocatoria",
     "link": "https://mundoceltamedieval.wordpress.com/2026/02/18/convocatoria-3/",
@@ -651,38 +658,10 @@
     "contenido": "Miranda July, el viento y por qué no puedo decir que amo escribir"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Prohibirle redes sociales a los niños, tarde, muy tarde",
-    "link": "https://www.fabio.com.ar/9877-prohibirle-redes-sociales-a-los-ninos-tarde-muy-tarde",
-    "fecha": "18/02/2026",
-    "contenido": "    \nMuy tarde, muy poco, una vez m&aacute;s los gobernantes usan al reh&eacute;n habitual de las decisiones autoritarias: los ni&ntilde;os. &iquest;Para qu&eacute; en este caso? Para prohibir y controlar, obvio! lo que siempre trae resultados &iquest;No?\nProhibir el acceso a servicios digitales en "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "GodArchy Zine Nro. 1 – Julio 2003",
-    "link": "https://www.delotroladometal.com.ar/2026/02/18/godarchy-zine-nro-1-julio-2003/",
-    "fecha": "18/02/2026",
-    "contenido": "No, no nos fuimos para el lado del punk rock ni mucho menos, pero no...\nThe post GodArchy Zine Nro. 1 – Julio 2003 first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "Hoy me alegro especialmente de tener un blog personal",
     "link": "https://dani.torresburriel.com/hoy-me-alegro-especialmente-de-tener-un-blog-personal/",
     "fecha": "18/02/2026",
     "contenido": "Hoy es uno de esos días en los que me da un gusto tremendo tener un blog personal. Porque la entrada que estoy escribiendo no tiene una temática concreta, sino que más bien me sirve para expresar y compartir un estado de ánimo. Y ese estado de ánimo tiene que ver con que llevo unos &#8230; Sigue ley"
-  },
-  {
-    "blog": "Ilogeek",
-    "titulo": "Los podcasts que escucho (edición 2026)",
-    "link": "https://ilogeek.es/los-podcasts-que-escucho-edicion-2026/",
-    "fecha": "18/02/2026",
-    "contenido": "La cuarta edición de los podcasts que me acompañan en mi día a día divididos entre diarios y no diarios."
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "Vuelvo al podcast, ahora autoalojado",
-    "link": "https://asturgeek.eu/2026/02/18/vuelvo-al-podcast-ahora-autoalojado/",
-    "fecha": "18/02/2026",
-    "contenido": "El miniservidor instalado en casa, dentro del minipc, ya tiene forma y poco a poco voy añadiendo servicios que me interesa tener. Éste blog ya está ahí entre otras.Ahora me he montado el podcast, casi abandonado en Spotify, con Castodpod.Me apetecía grabar, pero la plataforma no es de mi agrado. He "
   }
 ]
