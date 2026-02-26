@@ -1,5 +1,26 @@
 [
   {
+    "blog": "El Sueño del Artista Blog",
+    "titulo": "El Chivo Expiatorio del Arte: Lo que no se contó en el episodio .",
+    "link": "https://polotman.wordpress.com/2026/02/25/el-chivo-expiatorio-del-arte-lo-que-no-se-conto-en-el-episodio/",
+    "fecha": "25/02/2026",
+    "contenido": "#podcast #ArteDegenerado #ElSueñodelArtistaBlog #HistoriadelArte #inoclastas #destrucciondeArte Han pasado unos días desde que publicamos el nuevo episodio «El Chivo Expiatorio del Arte» en El Sueño del Artista, ya son 7 episodios de esta II temporada y cómo ya viene siendo costumbre dejamos algunas"
+  },
+  {
+    "blog": "El Sueño del Artista Blog",
+    "titulo": "El chivo expiatorio cuando el arte recibe la culpa episodio 7 segunda temporada",
+    "link": "https://polotman.wordpress.com/2026/02/25/el-chivo-expiatorio-cuando-el-arte-recibe-la-culpa-episodio-7-segunda-temporada/",
+    "fecha": "25/02/2026",
+    "contenido": "¿Puede un cuadro desatar una plaga? ¿Puede una escultura corromper el alma de una nación? A lo largo de la historia, cuando el miedo, la derrota o el fanatismo han buscado un responsable, con frecuencia la mirada ha caído, no sobre gobernantes o ejércitos, sino sobre el arte. Hoy exploraremos dos mo"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Vince en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-vince-en-debian-13/",
+    "fecha": "25/02/2026",
+    "contenido": "Vince es una alternativa autoalojada y privada a Google Analytics, sin cookies ni rastreadores, pensada para cumplir con GDPR y obtener métricas útiles sin perder el control de tus datos."
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Integración de Flightradar24 en Home Assistant",
     "link": "https://voidnull.es/integracion-de-flightradar24-en-home-assistant/",
@@ -14,11 +35,46 @@
     "contenido": "La comunicación significativa no es un bien de consumo replicable hasta el infinito"
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "La vida con subtítulos",
+    "link": "https://www.ericafustero.com/2026-02-la-vida-con-subtitulos",
+    "fecha": "25/02/2026",
+    "contenido": "¡Publiqué un nuevo fanzine! Se llama La vida con subtítulos y recopila algunas de las tiras que he ido publicando durante los últimos años en internet. Como su nombre indica, viene con subtítulos y, aunque digo que es bilingüe, en realidad es cuatrilingüe, porque también hay textos en catalán y alem"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Divisiones",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/divisiones.html",
+    "fecha": "25/02/2026",
+    "contenido": "\n  \n    \n  \nDeberíamos de ser prácticos y empezar a enseñar a los niños a dividir con ejemplos de la vida real. Pestañeen y tendremos por arte de magia tres nuevos partidos de izquierda. Vuelvan a pestañear y toda esta escoria se habrá inventado un nuevo motivo para dividir a la sociedad; llámenlo g"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Tapones y envases",
     "link": "https://www.xn--jmuoz-qta.es/2026/02/tapones-y-envases.html",
     "fecha": "25/02/2026",
     "contenido": "\n  \n    \n  \nLe deseo una muerte cruel, turbia y muy dolorosa al lumbreras que se le ocurrió lo de unir el tapón al envase. Sea el que sea. Ojalá sufras todo el mal que has causado, maldito hijo de mil putas."
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "El Reino de los Cielos (y del Windows 98)",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/el-reino-de-los-cielos-y-del-windows-98/",
+    "fecha": "25/02/2026",
+    "contenido": "El \"Gordo\" Morales no sabía lo que era la nube, pero vivía en ella. En su escritorio, una vieja torre color crema —ya más amarilla que otra cosa— zumbaba como un ventilador de carnicería. Para él, el ratón era un bicho que se limpiaba con alcohol cuando se ponía \"pesado\" y el monitor de tubo servía "
+  },
+  {
+    "blog": "",
+    "titulo": "Convocatoria.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/02/25/convocatoria-4/",
+    "fecha": "25/02/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "56K",
+    "titulo": "Presentator 0.1 – Presentaciones con chiptunes",
+    "link": "https://56k.es/fanta/presentator-0-1-presentaciones-con-chiptunes/",
+    "fecha": "25/02/2026",
+    "contenido": "Querido insecto. Hoy vengo a compartir un sencillo programa de 200 líneas de código en C que me permite mostrar diapositivas al ritmo del buen chiptune. Esto tendría que funcionar en ordenadores viejos y poco potentes sin problema. Lo de que las imágenes tengan música de fondo en realidad es simplem"
   },
   {
     "blog": "Fabio.com.ar",
@@ -28,11 +84,11 @@
     "contenido": "    \n&iquest;Es esto una pregunta filos&oacute;fica? &iexcl;Por supuesto!\nPero tambi&eacute;n es un complejo problema de la f&iacute;sica de la pasta que podr&iacute;a hacerle estallar una vena a un italiano, la pasta no se corta! Claro, pero cuando sucede &iquest;Por qu&eacute; cuernos no se parte "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Antithesis: Dying For Life | Morir Para Quedar En La Memoria",
-    "link": "https://www.delotroladometal.com.ar/2026/02/25/morir-para-quedar-en-la-memoria/",
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Decálogo para abordar tu primer proyecto de Vibe Coding",
+    "link": "https://dani.torresburriel.com/decalogo-para-abordar-tu-primer-proyecto-de-vibe-coding/",
     "fecha": "25/02/2026",
-    "contenido": "(2001 &#8211; Nightmare Records/Massacre Records/Art Music Group) Hay bandas que aparecen, y desaparecen. Editan un...\nThe post Antithesis: Dying For Life | Morir Para Quedar En La Memoria first appeared on Del Otro Lado Metal."
+    "contenido": "Hoy le he contado a alguien en una conversación cuál es la experiencia que tenemos en el Estudio para trabajar con herramientas de inteligencia artificial en el ámbito del diseño de producto y la investigación con usuarios. Normalmente cuando salgo de las reuniones de trabajo me tomo unas notas de v"
   },
   {
     "blog": "JavierSam",
@@ -91,13 +147,6 @@
     "contenido": "    \nNadie habla jam&aacute;s de Magic Cap y es l&oacute;gico, no fue ni &uacute;til ni bueno, una porquer&iacute;a para la &eacute;poca, un camino sin futuro, pero algo s&iacute; podemos decir de este desconocido sistema: fue uno de los primeros y varios productos lo usaron!\nAs&iacute; es, no se tr"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Werken: Hielo Eterno | El Frio Llegó Para Quedarse",
-    "link": "https://www.delotroladometal.com.ar/2026/02/24/el-frio-llego-para-quedarse/",
-    "fecha": "24/02/2026",
-    "contenido": "(2025 &#8211; Cuervo Records) No es fácil traducir musicalmente al frio, menos si estamos hablando...\nThe post Werken: Hielo Eterno | El Frio Llegó Para Quedarse first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Ilogeek",
     "titulo": "Las Kokuyo HAKO-AKE, tijeras y cutter todo en uno",
     "link": "https://ilogeek.es/las-kokuyo-hako-ake-tijeras-y-cutter-todo-en-uno/",
@@ -138,13 +187,6 @@
     "link": "https://ericdq.com/2026/02/23/programar-correos-thunderbird-complemento-enviar-mas-tarde/",
     "fecha": "23/02/2026",
     "contenido": "Descripción de las opciones del complemento Enviar más Tarde de Thunderbird. Algunos problemas que he encontrado como que tenemos que tener el ordenador encendido o que las opciones no acaban de estar del todo bien ordenadas."
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Endurecimiento de la Privacidad en Red",
-    "link": "https://alt43.es/endurecimiento-de-la-privacidad-en-red/",
-    "fecha": "23/02/2026",
-    "contenido": "Opciones para mejorar tu privacidad frente a las técnicas modernas de filtrado e inspección de datos. Una guía técnica y práctica sobre el uso de VPN, ECH, DNS cifrado, protocolos QUIC y la red Tor para garantizar una navegación segura, privada y resiliente en el entorno digital de 2026."
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -203,13 +245,6 @@
     "contenido": "    \nEstimados! Otro a&ntilde;o y otro concurso Oscars acompa&ntilde;ados por Motorola!!!\nTenemos premio, tenemos ternas, tenemos nuevo micrositio para participar y una noche de gala para ganar, as&iacute; es, Concurso Oscars 2026 renovado!\nA continuaci&oacute;n los detalles...Creative Commons (CC) "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"Grace\" Perteneciente A \"Teodrama\" Ya Está Disponible | Perpetual Legacy Estrena Videoclip",
-    "link": "https://www.delotroladometal.com.ar/2026/02/23/perpetual-legacy-estrena-videoclip/",
-    "fecha": "23/02/2026",
-    "contenido": "No exageramos cuando decimos que &#8220;Teodrama&#8221; es una gran obra de arte. En formato de...\nThe post \"Grace\" Perteneciente A \"Teodrama\" Ya Está Disponible | Perpetual Legacy Estrena Videoclip first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "El Blog de un informático que sueña con mejorar el mundo",
     "titulo": "Diploma del Día de Andalucía",
     "link": "https://jesuspavonabian.es/post/an46hu/",
@@ -257,13 +292,6 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/02/lenguas-andaluzas.html",
     "fecha": "22/02/2026",
     "contenido": "\n  \n    \n  \nCuán lamentables deben ser las encuestas internas de la PSOE en Andalucía -algo lógico después de los batacazos de Extremadura y Aragón- que la candidata María Jesús Montero tiene que llamar la atención con cualquier idea loca que se le pase por la cabeza.La monterada de hoy es anunciar "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista Con Jose Velocet de Resistentes | “Resistentes Es Mi Velocet Actual”",
-    "link": "https://www.delotroladometal.com.ar/2026/02/22/resistentes-es-mi-velocet-actual/",
-    "fecha": "22/02/2026",
-    "contenido": "Jose Velocet es un tipo conocido de la escena del Metal aquí en Argentina, tanto...\nThe post Entrevista Con Jose Velocet de Resistentes | “Resistentes Es Mi Velocet Actual” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Adrián Perales",
@@ -329,13 +357,6 @@
     "contenido": "El martes nos volvimos a juntar con el grupo de rol indie. Tuvimos uno de esos problemas que está re bueno tener, y es que fue más gente de la que esperábamos. Normalmente, oscilábamos entre cuatro o cinco, y esencialmente con los mismos cinco. Esta vez, vinieron tres personas que nunca habían venid"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Salvaje Y El Wasil En El Amparo Bar - 20/02/2026 | El Heavy Metal En Su Esencia",
-    "link": "https://www.delotroladometal.com.ar/2026/02/21/el-heavy-metal-en-su-esencia/",
-    "fecha": "21/02/2026",
-    "contenido": "La esencia sigue latente. Esa es la primera conclusión a la que se puede arribar...\nThe post Salvaje Y El Wasil En El Amparo Bar - 20/02/2026 | El Heavy Metal En Su Esencia first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "La industria no necesita más software",
     "link": "https://dani.torresburriel.com/la-industria-no-necesita-mas-software/",
@@ -362,13 +383,6 @@
     "link": "https://adrianperales.com/2026/02/un-pequeno-servidor-php-local/",
     "fecha": "20/02/2026",
     "contenido": "De vez en cuando me gusta probar pequeños sistemas para crear webs y blogs. De hecho, tengo una lista con recomendaciones, y normalmente los pruebo en local. Para ello, en un sistema GNU/Linux (y supongo que en macOS también, con Homebrew) es tan fácil como: Esto iniciará el servidor y en el mismo t"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "¡Échale grasa!",
-    "link": "https://brucknerite.net/2026/02/echale-grasa.html",
-    "fecha": "20/02/2026",
-    "contenido": "Imaginad la escena. Una pareja, chico y chica. Un coche. El capó levantado transmitiendo la señal universal de «avería». Él, fuera del coche, de pie, en la actitud que ordenan las leyes no escritas del patriarcado. Mira hacia las profundidades del motor con gesto de desesperación. Ella, dentro, se a"
   },
   {
     "blog": "Interlan",
@@ -441,13 +455,6 @@
     "contenido": "Bash tiene un montón de features que muchos de sus usuarios no conocemos. Podés usar bash durante años y quedarte en la orillita de lo que es posible. Por ejemplo, durante varios años no conocía el poder de las expresiones con símbolos de exclamación. El otro día pensaba en eso, y me di cuenta que e"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Luteoks: Barely True Norwegian Black Metal | Vikingos Al Ataque",
-    "link": "https://www.delotroladometal.com.ar/2026/02/20/vikingos-al-ataque/",
-    "fecha": "20/02/2026",
-    "contenido": "(2023 &#8211; Nordic Mission) La historia del Black Metal está ligada intímamente a Noruega, hogar...\nThe post Luteoks: Barely True Norwegian Black Metal | Vikingos Al Ataque first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Un Diario",
     "titulo": "Reddit, la API y clientes de terceros",
     "link": "https://thejnx.bearblog.dev/reddit-api/",
@@ -474,13 +481,6 @@
     "link": "https://pedrolr.es/blog/mr-robot-y-la-nina-de-la-banquisa-sobre-disociacion-y-recuerdos-dormidos/",
     "fecha": "19/02/2026",
     "contenido": "He acabado el libro \"La niña de la banquisa\" de Adélaïde Bon y me ha parecido demoledor; llevo unos días como conmocionado incluso. Me pasa con algunos libros, que no solo se leen, sino que cambian la forma de ser y de ver las cosas. El anterior con el que me pasó fue \"Lo que [&#8230;]"
-  },
-  {
-    "blog": "Fierro Viejo",
-    "titulo": "El Sistema Operativo Universal",
-    "link": "https://fierroviejo.com/2026/02/el-sistema-operativo-universal.html",
-    "fecha": "19/02/2026",
-    "contenido": "Por qué Debian es El Sistema Operativo Universal."
   },
   {
     "blog": "Luis Carlos Pando",
@@ -539,13 +539,6 @@
     "contenido": "\n  \n    \n  \nY si los miércoles son mi mejor día de la semana este curso, los jueves son el peor. Largos, eternos, con mucha carga laboral, sin apenas un descanso.Empiezo este jueves de invierno de febrero desmotivado, con sueño, como casi todos los días, entre la alegría del miércoles y el vislumbra"
   },
   {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Biografía Apócrifa: El Colombófilo de la Calle Artigas",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/biografia-apocrifa-el-colombofilo-de-la-calle-artigas/",
-    "fecha": "19/02/2026",
-    "contenido": "Nombre: Desconocido (algunos lo llaman El mudo de la terraza).\nResidencia: Una casona de techos altos cerca de la Plaza Flores, coronada por un palomar de madera de cedro que, visto desde el aire, tiene la forma de un hexágono perfecto.\nSe dice que este hombre no cría palomas por deporte, sino por e"
-  },
-  {
     "blog": "ochobitshacenunbyte",
     "titulo": "Guía Práctica: Sustituyendo Ingress-NGINX por Envoy Gateway (Paso a Paso)",
     "link": "https://www.ochobitshacenunbyte.com/2026/02/19/guia-practica-sustituyendo-ingress-nginx-por-envoy-gateway-paso-a-paso/",
@@ -600,68 +593,5 @@
     "link": "https://jdrm.info/configurando-la-firma-digital-en-gnulinux.html",
     "fecha": "19/02/2026",
     "contenido": "Unas pequeñas notas para configurar la firma digital en un ordenador con GNU/Linux"
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Honor",
-    "link": "https://mcallus.net/2026/02/18/honor/",
-    "fecha": "18/02/2026",
-    "contenido": "Ōka Haruhisa estaba sentado con los ojos cerrados en posición de loto. Las puertas de su despacho se encontraban abiertas hacia el pequeño jardín interior. El frescor primaveral de la madrugada le había acompañado durante toda la noche de meditación. Su kimono blanco apenas le había mantenido abriga"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Vinilandia es uno de los podcasts que más he disfrutado últimamente",
-    "link": "https://blog.luiscarlospando.com/musica/2026/02/vinilandia-es-uno-de-los-podcasts-que-mas-he-disfrutado-ultimamente/",
-    "fecha": "18/02/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "El Cautivo de Amenábar",
-    "link": "https://mareosdeungeek.es/el-cautivo-de-amenabar/",
-    "fecha": "18/02/2026",
-    "contenido": "El Cautivo es la última película de Alejandro Amenábar. Estrenada en septiembre de 2025 estamos ante un drama histórico, no exento de polémica, que recrea el cautiverio de Miguel de Cervantes en la ciudad de Argel. Aunque la base de la película es bastante simple, el cautiverio durante 5 años de Cer"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "526. Hacker",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/02/526-hacker.html",
-    "fecha": "18/02/2026",
-    "contenido": "&nbsp; &nbsp; La entrada que programé para que se publicara ayer no ha aparecido. Y es algo normal porque no la encuentro por ningún sitio. Quiero pensar que se debe a la obsolescencia de esta plataforma olvidada, y no a los ajustes pertinentes que hice un poco pasado de octanaje etílico.&nbsp;&nbsp"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Sobre el por qué tomo fotografías",
-    "link": "https://impermanente.es/2026/02/18/sobre-el-por-qu-tomo.html",
-    "fecha": "18/02/2026",
-    "contenido": "Hay algo que me cuesta admitir, aunque tampoco tengo ya demasiados reparos en decirlo: no recuerdo casi nada de mi infancia. No de manera normal, al menos. Tengo imágenes sueltas, fragmentos desconectados, escenas que flotan sin contexto como si pertenecieran a la vida de otra persona que conozco mu"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "sort: es hora de ordenar las cosas",
-    "link": "https://voidnull.es/sort-es-hora-de-ordenar-las-cosas/",
-    "fecha": "18/02/2026",
-    "contenido": "Herramienta para combinar líneas de uno o varios archivos en columnas, ideal para unir datos y generar tablas simples desde la terminal."
-  },
-  {
-    "blog": "",
-    "titulo": "Convocatoria",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/02/18/convocatoria-3/",
-    "fecha": "18/02/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "prosa",
-    "titulo": "amateur y amatora",
-    "link": "https://blog.adrianaaraujot.casa/amateur-y-amatora/",
-    "fecha": "18/02/2026",
-    "contenido": "Miranda July, el viento y por qué no puedo decir que amo escribir"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Hoy me alegro especialmente de tener un blog personal",
-    "link": "https://dani.torresburriel.com/hoy-me-alegro-especialmente-de-tener-un-blog-personal/",
-    "fecha": "18/02/2026",
-    "contenido": "Hoy es uno de esos días en los que me da un gusto tremendo tener un blog personal. Porque la entrada que estoy escribiendo no tiene una temática concreta, sino que más bien me sirve para expresar y compartir un estado de ánimo. Y ese estado de ánimo tiene que ver con que llevo unos &#8230; Sigue ley"
   }
 ]
