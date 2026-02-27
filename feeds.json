@@ -1,5 +1,47 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Manejo de los botones de la gotek",
+    "link": "https://malagaoriginal.blogspot.com/2026/02/manejo-de-los-botones-de-la-gotek.html",
+    "fecha": "27/02/2026",
+    "contenido": "Si tienes un sencillo emulador de disquetera gotek con botones de selección te habrás percatado que solo hay dos botones para moverte por los archivos del directorio a la izquierda o a la derecha pero no hay un botón para seleccionar el archivo o el directorio si queremos navegar por ellos, entonces"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Las siestas de Gara",
+    "link": "https://guillermolatorre.com/fotolog/las-siestas-de-gara",
+    "fecha": "27/02/2026",
+    "contenido": "Responder por email."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Sirât",
+    "link": "https://mareosdeungeek.es/sirat/",
+    "fecha": "27/02/2026",
+    "contenido": "Sirât es la última película del director Óliver Laxe. Nos sumerge, por un lado, en la cultura de las raves. Esa cultura, predominantemente francesa que aparece cada año en las noticias, sobre todo en Navidad, cuando se organiza alguna fiesta que dura días. Así es como empieza Sirât, con una rave, qu"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Zorin OS 18 Core #ViernesDeDistros",
+    "link": "https://voidnull.es/instalacion-de-zorin-os-18-core/",
+    "fecha": "27/02/2026",
+    "contenido": "Guía rápida para instalar Zorin OS 18 Core y dejarlo listo en pocos minutos."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #930",
+    "link": "https://www.fabio.com.ar/9884-links-de-viernes---930",
+    "fecha": "27/02/2026",
+    "contenido": "     Estabas buscando links para este finde?\nOh si, Viernes! y viernes de la semana en la que comenz&oacute; oficialmente el concurso Oscars 2026 con el que les molestar&eacute; cada d&iacute;a hasta que participen 😅, y s&iacute;, es cosa importante en este blog, ya van 11 a&ntilde;os de hacerlo sin"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Bride: Live At Cornerstone Fest 2001 | Los Mismos De Siempre",
+    "link": "https://www.delotroladometal.com.ar/2026/02/27/los-mismos-de-siempre/",
+    "fecha": "27/02/2026",
+    "contenido": "(2025 &#8211; Retroactive Records) Nunca voy a dejar de alabar a una banda como Bride....\nThe post Bride: Live At Cornerstone Fest 2001 | Los Mismos De Siempre first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Buscadores sin IA",
     "link": "https://adrianperales.com/2026/02/buscadores-sin-ia/",
@@ -497,32 +539,11 @@
     "contenido": "Esta semana hemos estado tomando un café con uno de nuestros socios de DANOK. Bueno, un café, se ha alargado seis horas. Aquí las cosas las hacemos bien o no las hacemos. La cuestión es que estábamos explorando oportunidades. Hablando, hablando, ha salido el tema del sector industrial, ese mundo de "
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Utilidades para compartir información entre PC y CPC desde GNU/Linux",
-    "link": "https://malagaoriginal.blogspot.com/2020/10/utilidades-para-compartir-informacion.html",
-    "fecha": "20/02/2026",
-    "contenido": "\n\n\n\n\nHace tiempo vimos una guía de emuladores para ejecutar software de los ordenadores Amstrad en GNU/Linux, ahora vamos a ver que aplicaciones podemos usar en este sistema para intercambiar información entre el PC y un Amstrad CPC.\n\n\n\nNativas\n\nAplicaciones nativas de GNU/Linux para interactuar con"
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Bienvenida, Gara",
     "link": "https://guillermolatorre.com/fotolog/bienvenida-gara",
     "fecha": "20/02/2026",
     "contenido": "Con el nombre de la famosa princesa guanche de La Gomera y con solo unos mesecitos de edad, Gara ya está aquí. Fue vernos en el refugio de perretes sin hogar y la conexión hizo el resto.\n¡Bienvenida a casa! ❤️Responder por email."
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "Un pequeño servidor PHP local",
-    "link": "https://adrianperales.com/2026/02/un-pequeno-servidor-php-local/",
-    "fecha": "20/02/2026",
-    "contenido": "De vez en cuando me gusta probar pequeños sistemas para crear webs y blogs. De hecho, tengo una lista con recomendaciones, y normalmente los pruebo en local. Para ello, en un sistema GNU/Linux (y supongo que en macOS también, con Homebrew) es tan fácil como: Esto iniciará el servidor y en el mismo t"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "¡Échale grasa!",
-    "link": "https://brucknerite.net/2026/02/echale-grasa.html",
-    "fecha": "20/02/2026",
-    "contenido": "Imaginad la escena. Una pareja, chico y chica. Un coche. El capó levantado transmitiendo la señal universal de «avería». Él, fuera del coche, de pie, en la actitud que ordenan las leyes no escritas del patriarcado. Mira hacia las profundidades del motor con gesto de desesperación. Ella, dentro, se a"
   },
   {
     "blog": "Interlan",
@@ -539,32 +560,11 @@
     "contenido": "No sé si es que ver tanto Dexter y House ha sido la combinación perfecta para que, cada vez que me enfrento a un caso trágico o curioso, me despierte\nSeguir leyendo  ¿Homicidio o una vida de excesos?\nEl cargo ¿Homicidio o una vida de excesos? apareció primero en El cuarto de GatoOscuro."
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Cómo escuchar jazz",
-    "link": "https://mareosdeungeek.es/como-escuchar-jazz/",
-    "fecha": "20/02/2026",
-    "contenido": "Cómo escuchar jazz de Ted Gioia es uno de los primeros libros que he leído en este 2026. De nuevo una visita a la biblioteca, vistazo a la estantería de novedades y ahí estaba. Ya he comentado alguna vez que me gusta escuchar jazz, es una música que me relaja a la vez que me [&#8230;]"
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "#182: me hacía falta el sol",
     "link": "https://www.macram.es/posts/2026/02/me-hacia-falta-el-sol/",
     "fecha": "20/02/2026",
     "contenido": "Llevamos unos días de sol en mi zona. Sabía que me hacía falta, pero no sabía que me hacía tanta falta. Es que es ver un poco de sol en la calle y estar casi desesperado por salir a que me toque la piel la luz del sol. Recuerdo que en 2020, cuando el confinamiento duro, estaba desesperado por los po"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Gestión de imágenes propias #10",
-    "link": "https://voidnull.es/gestion-de-imagenes-propias-10/",
-    "fecha": "20/02/2026",
-    "contenido": "Aprende a crear imágenes Docker a partir de contenedores existentes, exportarlas para moverlas entre sistemas y publicarlas en repositorios, entendiendo cómo funcionan realmente las etiquetas y la distribución de imágenes."
-  },
-  {
-    "blog": "eaplmx",
-    "titulo": "Datos curiosos de tu bloguero favorito",
-    "link": "https://text.eapl.mx/datos-curiosos-de-tu-bloguero-favorito",
-    "fecha": "20/02/2026",
-    "contenido": ""
   },
   {
     "blog": "56K",
@@ -581,25 +581,11 @@
     "contenido": "Son muy recomendables estos 2 vídeos. No son largos (el primero es bastante corto pero impactante). Dejo el primero a manopla y el segundo en un link. Y si ese te ha gustado flipa con el que sacó MKBHD realizado con Blender (sin IA ni mierdas) aquí: www.youtube.com/watch?v=Jh9pFp1oM7E Los chips al f"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #929",
-    "link": "https://www.fabio.com.ar/9879-links-de-viernes---929",
-    "fecha": "20/02/2026",
-    "contenido": "     El tiempo pasa y siempre hay links\nViernes! buen d&iacute;a para unos links! Ah, y al forro que se la pasa haciendo pen testing malo contra el blog &iquest;Podr&iacute;a darse cuenta que no funciona? Intentar lo mismo 200 veces y fracasar miserablemente no va a dar distintos resultados 😁 al men"
-  },
-  {
     "blog": "Un blog",
     "titulo": "El maravilloso poder de las exclamaciones en bash",
     "link": "https://nachof.blog/posts/2026/el-maravilloso-poder-de-las-exclamaciones-en-bash/",
     "fecha": "20/02/2026",
     "contenido": "Bash tiene un montón de features que muchos de sus usuarios no conocemos. Podés usar bash durante años y quedarte en la orillita de lo que es posible. Por ejemplo, durante varios años no conocía el poder de las expresiones con símbolos de exclamación. El otro día pensaba en eso, y me di cuenta que e"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Luteoks: Barely True Norwegian Black Metal | Vikingos Al Ataque",
-    "link": "https://www.delotroladometal.com.ar/2026/02/20/vikingos-al-ataque/",
-    "fecha": "20/02/2026",
-    "contenido": "(2023 &#8211; Nordic Mission) La historia del Black Metal está ligada intímamente a Noruega, hogar...\nThe post Luteoks: Barely True Norwegian Black Metal | Vikingos Al Ataque first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Un Diario",
