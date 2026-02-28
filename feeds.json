@@ -14,6 +14,27 @@
     "contenido": "Responder por email."
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 9 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/02/27/opensuse-tumbleweed-revision-de-la-semana-9-de-2026/",
+    "fecha": "27/02/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "iAgosto Blog",
+    "titulo": "Migre mi blog a PHP!",
+    "link": "https://blog.iagosto.dev/entradas/migre-mi-blog-a-php",
+    "fecha": "27/02/2026",
+    "contenido": "En esta ocasión quiero contarles los motivos por los que decidí migrar mi blog; de estar en Typescript, con Deno, en un entorno de tecnología moderna. A PHP con Codeigniter, un framework de hace mas de 19 años."
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Seguridad: SMTP Smuggling",
+    "link": "https://interlan.ec/blog/2026/02/27/seguridad-smtp-smuggling/",
+    "fecha": "27/02/2026",
+    "contenido": "La usurpación de identidad es una técnica bastante curiosa en el sentido de que no funciona para causar ningún daño técnico, sino para engañar al humano del otro lado del computador. Ya revisamos lo que sucedía en el Spoofing y ahora me salen con el SMTP Smuggling."
+  },
+  {
     "blog": "Mareos de un geek",
     "titulo": "Sirât",
     "link": "https://mareosdeungeek.es/sirat/",
@@ -21,11 +42,32 @@
     "contenido": "Sirât es la última película del director Óliver Laxe. Nos sumerge, por un lado, en la cultura de las raves. Esa cultura, predominantemente francesa que aparece cada año en las noticias, sobre todo en Navidad, cuando se organiza alguna fiesta que dura días. Así es como empieza Sirât, con una rave, qu"
   },
   {
+    "blog": "NeoSite Blog",
+    "titulo": "NeoCMS - Autenticación 2FA para panel de administración",
+    "link": "http://blog.neosite.com.ar/post/neocms-autenticaci-n-2fa-para-panel-de-administraci-n",
+    "fecha": "27/02/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#184: volviendo a ver Friends",
+    "link": "https://www.macram.es/posts/2026/02/friends-de-nuevo/",
+    "fecha": "27/02/2026",
+    "contenido": "Estoy volviendo a ver Friends. No es que esté prestándole toda mi atención pero es una serie que me parece agradable de tener de fondo, sobre todo porque ya la conozco. Y creo que en general ha envejecido muy bien. Tengo opiniones sobre algunas cuestiones, pero en general las tramas y los personajes"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalación de Zorin OS 18 Core #ViernesDeDistros",
     "link": "https://voidnull.es/instalacion-de-zorin-os-18-core/",
     "fecha": "27/02/2026",
     "contenido": "Guía rápida para instalar Zorin OS 18 Core y dejarlo listo en pocos minutos."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Cercanía",
+    "link": "https://www.xn--jmuoz-qta.es/2026/02/cercania.html",
+    "fecha": "27/02/2026",
+    "contenido": "\n  \n    \n  \nCórdoba de mis amores. Creo que no podría vivir en otro lugar que no fuera este. Antaño decía que nunca viviría en un lugar en el que tuviera que cambiar la tarjeta SIM del móvil, pero subo la apuesta.Hoy estoy de vacaciones y me ha dado tiempo, antes de ponerme con la comida, a desayuna"
   },
   {
     "blog": "Fabio.com.ar",
@@ -68,13 +110,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/02/529-invocaciones-y-plegarias.html",
     "fecha": "26/02/2026",
     "contenido": "&nbsp; &nbsp; ¡Salve a Namtaru, portador de la peste, que camina al lado de la Reina del Inframundo!&nbsp; &nbsp; ¡Salve a Lamashu, devoradora de infantes, diosa de la pesadilla y la enfermedad!&nbsp; &nbsp; ¡Salve a Asakku, espíritu de la fiebre y la muerte, que abate a los sanadores!&nbsp; &nbsp; "
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Libro terminado!",
-    "link": "https://blog.danielaragay.net/libro-terminado/",
-    "fecha": "26/02/2026",
-    "contenido": "Oficialmente el libro ya est&#xe1; terminado e incluso lo he presentado a un concurso!Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast."
   },
   {
     "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
@@ -264,13 +299,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/02/528-6g.html",
     "fecha": "24/02/2026",
     "contenido": "&nbsp; &nbsp; ¿Era el viento las orejas de 6G en movimiento? En efecto, 6G era un orejón como nunca nadie ha conocido. Pero ya nunca tendremos la respuesta. La última vez que lo vimos con vida, 6G tenía quince años de edad, y se agarraba de cara al marco de la ventana de un octavo piso con los brazo"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Trabajando en le novela con IA en local",
-    "link": "https://blog.danielaragay.net/trabajando-en-le-novela-con-ia-en-local/",
-    "fecha": "24/02/2026",
-    "contenido": "Ha llegado el momento de correcci&#xf3;n de la novela y lo har&#xe9; con la ayuda de un modelo en local de IA especializado en correcci&#xf3;n literaria. Ya ir&#xe9; contando como va pero me esperan muchas horas de trabajo por delante.Formas de patrocinio. Blog"
   },
   {
     "blog": "Erica Fustero",
@@ -469,25 +497,11 @@
     "contenido": "Llevo desde enero bajo de ánimos. Diría que el clima (¡cuánta lluvia!) y cuestiones del trabajo son lo que más han afectado. Pero el bajón grande llegó en febrero. He estado quince días sin entrenar y apenas sin escribir a mano en la libreta. Son dos de los hábitos que más me ayudan a sobrellevar [&"
   },
   {
-    "blog": "Alexis Alzate",
-    "titulo": "Mi página web es primero para mí",
-    "link": "https://alexisalzate.com/blog/2026-02-21/",
-    "fecha": "21/02/2026",
-    "contenido": "En los últimos años, a través de la palabra escrita –este blog,\npublicaciones en Mastodon, correos electrónicos y alguna que otra\nconversación– me he permitido a mí mismo compartir lo poco que sé sobre\nel tema de la informática. Aunque considero que aún podría esclarecer\nalgunas de mis opiniones, a "
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 8 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/02/21/opensuse-tumbleweed-revision-de-la-semana-8-de-2026/",
     "fecha": "21/02/2026",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "527. Míster Mierdas",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/02/527-mierdecillas.html",
-    "fecha": "21/02/2026",
-    "contenido": "&nbsp; &nbsp; De vez en cuando, Mierdecillas deja caquita maloliente en mi correo con una risible retórica de reverso de bolsa de pipas. Lo que lleva a preguntarme por qué una persona es de una manera y no de otra. Puede que Mierdecillas, en una época delicada de su infancia, sus progenitores le obl"
   },
   {
     "blog": "danielaragay.net",
@@ -518,13 +532,6 @@
     "contenido": "Aparentemente hay un juego de detectives que se llama Hidden Agenda del 2017. No me refiero a ese. No lo jugué, no sé si es bueno, pero estoy seguro que no es mejor que el Hidden Agenda de 1988.\n\n\n La última imagen a color que vas a ver en este post\n \n\n\nDe qué se trata\nHidden Agenda te pone en el ro"
   },
   {
-    "blog": "Un blog",
-    "titulo": "Definitely Wizards",
-    "link": "https://nachof.blog/posts/2026/definitely-wizards/",
-    "fecha": "21/02/2026",
-    "contenido": "El martes nos volvimos a juntar con el grupo de rol indie. Tuvimos uno de esos problemas que está re bueno tener, y es que fue más gente de la que esperábamos. Normalmente, oscilábamos entre cuatro o cinco, y esencialmente con los mismos cinco. Esta vez, vinieron tres personas que nunca habían venid"
-  },
-  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Salvaje Y El Wasil En El Amparo Bar - 20/02/2026 | El Heavy Metal En Su Esencia",
     "link": "https://www.delotroladometal.com.ar/2026/02/21/el-heavy-metal-en-su-esencia/",
@@ -537,61 +544,5 @@
     "link": "https://dani.torresburriel.com/la-industria-no-necesita-mas-software/",
     "fecha": "21/02/2026",
     "contenido": "Esta semana hemos estado tomando un café con uno de nuestros socios de DANOK. Bueno, un café, se ha alargado seis horas. Aquí las cosas las hacemos bien o no las hacemos. La cuestión es que estábamos explorando oportunidades. Hablando, hablando, ha salido el tema del sector industrial, ese mundo de "
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Bienvenida, Gara",
-    "link": "https://guillermolatorre.com/fotolog/bienvenida-gara",
-    "fecha": "20/02/2026",
-    "contenido": "Con el nombre de la famosa princesa guanche de La Gomera y con solo unos mesecitos de edad, Gara ya está aquí. Fue vernos en el refugio de perretes sin hogar y la conexión hizo el resto.\n¡Bienvenida a casa! ❤️Responder por email."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Proyecto: Super Simple Audio Cutter",
-    "link": "https://interlan.ec/blog/2026/02/20/proyecto-super-simple-audio-cutter/",
-    "fecha": "20/02/2026",
-    "contenido": "Coronado por el logo mas feo que he hecho a partir de una tijera y un altavoz, aquí estamos de nuevo con un ensayo de PWA. Introducción No es que no hayan alternativas ni pienso superar lo que ya existe. El problema es que hay muchísimas alternativas, o muy amplias para una sola tarea, o [&#8230;]"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "¿Homicidio o una vida de excesos?",
-    "link": "https://gatooscuro.xyz/homicidio-o-una-vida-de-excesos/",
-    "fecha": "20/02/2026",
-    "contenido": "No sé si es que ver tanto Dexter y House ha sido la combinación perfecta para que, cada vez que me enfrento a un caso trágico o curioso, me despierte\nSeguir leyendo  ¿Homicidio o una vida de excesos?\nEl cargo ¿Homicidio o una vida de excesos? apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#182: me hacía falta el sol",
-    "link": "https://www.macram.es/posts/2026/02/me-hacia-falta-el-sol/",
-    "fecha": "20/02/2026",
-    "contenido": "Llevamos unos días de sol en mi zona. Sabía que me hacía falta, pero no sabía que me hacía tanta falta. Es que es ver un poco de sol en la calle y estar casi desesperado por salir a que me toque la piel la luz del sol. Recuerdo que en 2020, cuando el confinamiento duro, estaba desesperado por los po"
-  },
-  {
-    "blog": "56K",
-    "titulo": "El telégrafo óptico – Mandar mensajes sin electricidad",
-    "link": "https://56k.es/fanta/el-telegrafo-optico-mandar-mensajes-sin-electricidad/",
-    "fecha": "20/02/2026",
-    "contenido": "Supongamos no tienes electricidad alguna ni gasolina, ni baterías, &#8230;. ni nada de eso. ¿Cómo mandas un mensaje a 300 Km/h? Esto se hacía mediante óptica , sin fibra (el telégrafo óptico). Algunos ejemplos se tienen para distancias cortas como por ejemplo En Almería en el siglo X. Allí ya se uti"
-  },
-  {
-    "blog": "56K",
-    "titulo": "¿Cómo de pequeño es un transistor dentro de una oblea de silicio?",
-    "link": "https://56k.es/fanta/como-de-pequeno-es-un-transistor-dentro-de-una-oblea-de-silicio/",
-    "fecha": "20/02/2026",
-    "contenido": "Son muy recomendables estos 2 vídeos. No son largos (el primero es bastante corto pero impactante). Dejo el primero a manopla y el segundo en un link. Y si ese te ha gustado flipa con el que sacó MKBHD realizado con Blender (sin IA ni mierdas) aquí: www.youtube.com/watch?v=Jh9pFp1oM7E Los chips al f"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "El maravilloso poder de las exclamaciones en bash",
-    "link": "https://nachof.blog/posts/2026/el-maravilloso-poder-de-las-exclamaciones-en-bash/",
-    "fecha": "20/02/2026",
-    "contenido": "Bash tiene un montón de features que muchos de sus usuarios no conocemos. Podés usar bash durante años y quedarte en la orillita de lo que es posible. Por ejemplo, durante varios años no conocía el poder de las expresiones con símbolos de exclamación. El otro día pensaba en eso, y me di cuenta que e"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Reddit, la API y clientes de terceros",
-    "link": "https://thejnx.bearblog.dev/reddit-api/",
-    "fecha": "20/02/2026",
-    "contenido": "Los cambios de API de Reddit y una solución temporal en Android"
   }
 ]
