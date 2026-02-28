@@ -1,5 +1,40 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "El poder de decir «No»",
+    "link": "https://victorhckinthefreeworld.com/2026/02/28/el-poder-de-decir-no/",
+    "fecha": "28/02/2026",
+    "contenido": "Vivimos en un mundo que nos presiona constantemente para decir \"sí\". Sí a los Términos del servicio que no leímos. Sí a la aplicación que todo el mundo utiliza. Sí a la cómoda y brillante jaula que ofrece el software privativo."
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "No sabía que el cacahuete es una legumbre",
+    "link": "https://pedrolr.es/blog/no-sabia-que-el-cacahuete-es-una-legumbre/",
+    "fecha": "28/02/2026",
+    "contenido": "El finde pasado estuve en la montaña con mi hermano y yo llevaba yogures de soja chocolate. Llevo unos 8 meses que suelo rematar las comidas y cenas con un yogur de soja chocolate con 2 cucharadas de crema de cacahuete. Quizá incluso se podría decir que es crema de cacahuete con un poco de [&#8230;]"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Soberanía digital personal",
+    "link": "https://impermanente.es/2026/02/28/soberana-digital-personal.html",
+    "fecha": "28/02/2026",
+    "contenido": "¿Quién decide si voy a poder abrir mis documentos actuales en diez años? La respuesta, en la mayoría de los casos, no somos nosotros. Hace unos meses decidí que, en mi caso, ya no iba a ser así. No se trata de purismo tecnológico, sino de una decisión práctica sobre dónde viven mis ideas y creacione"
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Al rico web scraping",
+    "link": "http://frikoteca.blogspot.com/2026/02/al-rico-web-scraping.html",
+    "fecha": "28/02/2026",
+    "contenido": "Como sabéis, no soy un gran fan de la Inteligencia Artificial. Hace más de un año que escribí una entrada soltando toda la bilis que podía soltar sobre la IA y, después de leerlo de nuevo, me reafirmo en todo lo escrito, punto por punto. Ese día debía estar algo cabreado, ahora que lo releo xD. \nEn "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Desde Ecuador, Hidekel Estrena Su Nuevo Videoclip | Un Testigo Falso Va A Juicio",
+    "link": "https://www.delotroladometal.com.ar/2026/02/28/un-testigo-falso-va-a-juicio/",
+    "fecha": "28/02/2026",
+    "contenido": "Todo lo que tenga que ver con el derecho penal, me resulta de lo más...\nThe post Desde Ecuador, Hidekel Estrena Su Nuevo Videoclip | Un Testigo Falso Va A Juicio first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Manejo de los botones de la gotek",
     "link": "https://malagaoriginal.blogspot.com/2026/02/manejo-de-los-botones-de-la-gotek.html",
@@ -33,13 +68,6 @@
     "link": "https://interlan.ec/blog/2026/02/27/seguridad-smtp-smuggling/",
     "fecha": "27/02/2026",
     "contenido": "La usurpación de identidad es una técnica bastante curiosa en el sentido de que no funciona para causar ningún daño técnico, sino para engañar al humano del otro lado del computador. Ya revisamos lo que sucedía en el Spoofing y ahora me salen con el SMTP Smuggling."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Sirât",
-    "link": "https://mareosdeungeek.es/sirat/",
-    "fecha": "27/02/2026",
-    "contenido": "Sirât es la última película del director Óliver Laxe. Nos sumerge, por un lado, en la cultura de las raves. Esa cultura, predominantemente francesa que aparece cada año en las noticias, sobre todo en Navidad, cuando se organiza alguna fiesta que dura días. Así es como empieza Sirât, con una rave, qu"
   },
   {
     "blog": "NeoSite Blog",
@@ -89,13 +117,6 @@
     "link": "https://adrianperales.com/2026/02/buscadores-sin-ia/",
     "fecha": "26/02/2026",
     "contenido": "Es un hecho: la IA está por todas partes. Llámese IA a secas, IA generativa, modelos grandes de lenguaje o LLM. Como sea. No solo están en sus propias aplicaciones sino que han llegado a lugares como los buscadores, donde se ofrecen resúmenes usando esta (problemática y cansina) herramienta. Quizá t"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "El matadero digital: ¿Por qué tu identidad ya no te pertenece?",
-    "link": "https://gatooscuro.xyz/el-matadero-digital-por-que-tu-identidad-ya-no-te-pertenece/",
-    "fecha": "26/02/2026",
-    "contenido": "Siempre lo dije (no es mía la frase, es un dicho muy coloquial): «No muere quien se va, sino quien se olvida». Pero lo que no previmos es que el\nSeguir leyendo  El matadero digital: ¿Por qué tu identidad ya no te pertenece?\nEl cargo El matadero digital: ¿Por qué tu identidad ya no te pertenece? apar"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -203,13 +224,6 @@
     "contenido": "La comunicación significativa no es un bien de consumo replicable hasta el infinito"
   },
   {
-    "blog": "Erica Fustero",
-    "titulo": "La vida con subtítulos",
-    "link": "https://www.ericafustero.com/2026-02-la-vida-con-subtitulos",
-    "fecha": "25/02/2026",
-    "contenido": "¡Publiqué un nuevo fanzine! Se llama La vida con subtítulos y recopila algunas de las tiras que he ido publicando durante los últimos años en internet. Como su nombre indica, viene con subtítulos y, aunque digo que es bilingüe, en realidad es cuatrilingüe, porque también hay textos en catalán y alem"
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Divisiones",
     "link": "https://www.xn--jmuoz-qta.es/2026/02/divisiones.html",
@@ -259,13 +273,6 @@
     "contenido": "(2001 &#8211; Nightmare Records/Massacre Records/Art Music Group) Hay bandas que aparecen, y desaparecen. Editan un...\nThe post Antithesis: Dying For Life | Morir Para Quedar En La Memoria first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Decálogo para abordar tu primer proyecto de Vibe Coding",
-    "link": "https://dani.torresburriel.com/decalogo-para-abordar-tu-primer-proyecto-de-vibe-coding/",
-    "fecha": "25/02/2026",
-    "contenido": "Hoy le he contado a alguien en una conversación cuál es la experiencia que tenemos en el Estudio para trabajar con herramientas de inteligencia artificial en el ámbito del diseño de producto y la investigación con usuarios. Normalmente cuando salgo de las reuniones de trabajo me tomo unas notas de v"
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Full Circle #224 (diciembre 2025)",
     "link": "https://javiersam.uy/2026/02/full-circle-224-diciembre-2025.html",
@@ -299,13 +306,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/02/528-6g.html",
     "fecha": "24/02/2026",
     "contenido": "&nbsp; &nbsp; ¿Era el viento las orejas de 6G en movimiento? En efecto, 6G era un orejón como nunca nadie ha conocido. Pero ya nunca tendremos la respuesta. La última vez que lo vimos con vida, 6G tenía quince años de edad, y se agarraba de cara al marco de la ventana de un octavo piso con los brazo"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Foto dramas: Fin de carrete",
-    "link": "https://www.ericafustero.com/2026-02-foto-dramas-fin-de-carrete",
-    "fecha": "24/02/2026",
-    "contenido": "Este carrete ha sido uno de los peores que he disparado en meses. No me gustaron las fotos (bueno, puede que una o dos) y no me gustó el carrete (un Kodak Vision 500T, de los nuevos sin la capa remjet). Me pasé un buen rato en Lightroom intentando arreglarlo pero al final desistí. A [&#8230;]"
   },
   {
     "blog": "Fabio.com.ar",
@@ -399,13 +399,6 @@
     "contenido": "CyberPanel es un potente panel de control para servidores web diseñado para simplificar la gestión de sitios web y aplicaciones en servidores GNU/Linux."
   },
   {
-    "blog": "Erica Fustero",
-    "titulo": "Friends with Cameras: María Rodilla",
-    "link": "https://www.ericafustero.com/2026-02-friends-with-cameras-maria-rodilla",
-    "fecha": "23/02/2026",
-    "contenido": "Hoy en día es raro encontrar a alguien que no haga fotos, pero no es tan fácil encontrar a gente con sensibilidad a la hora de hacerlas. Y no hablo tanto de habilidades técnicas, si no de capacidad de observación. Las redes sociales parecen un corta y pega de las mismas imágenes de vacaciones, fiest"
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "La percepción del tiempo",
     "link": "https://www.xn--jmuoz-qta.es/2026/02/la-percepcion-del-tiempo.html",
@@ -441,25 +434,11 @@
     "contenido": "Hace unos días EC7R comentó por el grupo de la sección de URE Huelva que se haría un Diploma por el Día de Andalucía.\nYo seguía sin antenas en el tejado así que ignoré el mensaje, no era para mí. Hasta que descubrí que uno de los modos del diploma era Voz Digital.\nAsí que pregunté si podía ayudar a "
   },
   {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "La privacidad tiene un problema de diseño",
-    "link": "https://dani.torresburriel.com/la-privacidad-tiene-un-problema-de-diseno/",
-    "fecha": "23/02/2026",
-    "contenido": "Quienes me leéis sabéis que desde hace unos meses estoy alternando el uso de dos tipos aplicaciones. Por una parte las que todo el mundo usa, las que se actualizan cada dos semanas, las que tienen una feature para cada cosa que se te ocurra y para tres que no se te habían ocurrido, y &#8230; Sigue l"
-  },
-  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "Cuestiones familiares.",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/cuestiones-familiares/",
     "fecha": "22/02/2026",
     "contenido": "Hoy me compré mi vestido de novia. Mientras la trabajadora de la tienda subía cremalleras y abrochaba botones yo pensaba que mi madre no estaba allí y menos mal. Habría hecho lo que hace casi siempre: empeorar las situaciones a las que llega. No sé qué habría podido aportar ella a las lágrimas emoci"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Crystal Castles vive",
-    "link": "https://gatooscuro.xyz/crystal-castles-vive/",
-    "fecha": "22/02/2026",
-    "contenido": "Llevaba más de un año dándole vueltas a este artículo, posponiéndolo como si necesitara un permiso que nunca llegó. La verdad es que no hay momento correcto para hablar de\nSeguir leyendo  Crystal Castles vive\nEl cargo Crystal Castles vive apareció primero en El cuarto de GatoOscuro."
   },
   {
     "blog": "Si dios te da limones",
@@ -490,32 +469,11 @@
     "contenido": "Jose Velocet es un tipo conocido de la escena del Metal aquí en Argentina, tanto...\nThe post Entrevista Con Jose Velocet de Resistentes | “Resistentes Es Mi Velocet Actual” first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Altibajos y abandono de hábitos",
-    "link": "https://adrianperales.com/2026/02/altibajos-y-abandono-de-habitos/",
-    "fecha": "21/02/2026",
-    "contenido": "Llevo desde enero bajo de ánimos. Diría que el clima (¡cuánta lluvia!) y cuestiones del trabajo son lo que más han afectado. Pero el bajón grande llegó en febrero. He estado quince días sin entrenar y apenas sin escribir a mano en la libreta. Son dos de los hábitos que más me ayudan a sobrellevar [&"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 8 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/02/21/opensuse-tumbleweed-revision-de-la-semana-8-de-2026/",
-    "fecha": "21/02/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Por poco nos quedamos sin podcast",
     "link": "https://blog.danielaragay.net/por-poco-nos-quedamos-sin-podcast/",
     "fecha": "21/02/2026",
     "contenido": "Una actualizaci&#xf3;n casi lo estropea todoFormas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@haciendoelsueco/episodes"
-  },
-  {
-    "blog": "zona de confort",
-    "titulo": "El regreso de los clásicos",
-    "link": "https://sopadeletras.club/efmorell/el-regreso-de-los-clasicos",
-    "fecha": "21/02/2026",
-    "contenido": ""
   },
   {
     "blog": "La Frikoteca",
@@ -537,12 +495,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/02/21/el-heavy-metal-en-su-esencia/",
     "fecha": "21/02/2026",
     "contenido": "La esencia sigue latente. Esa es la primera conclusión a la que se puede arribar...\nThe post Salvaje Y El Wasil En El Amparo Bar - 20/02/2026 | El Heavy Metal En Su Esencia first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "La industria no necesita más software",
-    "link": "https://dani.torresburriel.com/la-industria-no-necesita-mas-software/",
-    "fecha": "21/02/2026",
-    "contenido": "Esta semana hemos estado tomando un café con uno de nuestros socios de DANOK. Bueno, un café, se ha alargado seis horas. Aquí las cosas las hacemos bien o no las hacemos. La cuestión es que estábamos explorando oportunidades. Hablando, hablando, ha salido el tema del sector industrial, ese mundo de "
   }
 ]
