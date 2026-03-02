@@ -1,5 +1,68 @@
 [
   {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Primer año en el club de lectura de Librería Luces",
+    "link": "https://mcallus.net/2026/03/02/primer-ano-en-el-club-de-lectura-de-libreria-luces/",
+    "fecha": "02/03/2026",
+    "contenido": "En su momento cuando cumplí un año en el Club de Lectura (o más bien cuando llevaba doce libros) en febrero de 2025 quería haber hecho un podcast/vídeo al respecto. Al final como no me dio la vida el tiempo fue pasando y pasaron los meses y ya no me pareció razonable publicar ese contenido. [&#8230;"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Hablemos de Instagram, bueno, de las redes sociales en general",
+    "link": "https://blog.luiscarlospando.com/personal/2026/03/hablemos-de-instagram-bueno-de-las-redes-sociales-en-general/",
+    "fecha": "02/03/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Definiendo nuestra estrategia de privacidad",
+    "link": "https://alt43.es/definiendo-nuestra-estrategia-de-privacidad/",
+    "fecha": "02/03/2026",
+    "contenido": "Guía técnica para definir una estrategia de privacidad robusta. Analizamos el modelado de amenazas, el uso selectivo de VPN según el dispositivo y la integración con servicios de red locales. Aprende a dimensionar tu protección sin añadir complejidad innecesaria a tu flujo de trabajo digital."
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 09/2026",
+    "link": "https://www.macram.es/posts/2026/03/semana-09-2026/",
+    "fecha": "02/03/2026",
+    "contenido": "Ayer hizo un día estupendo, con viento pero con sol. Y decidimos hacer planes. Con unos amigos fui a montar en kart a un pueblo cercano, y la verdad es que me encantó la experiencia. Incluso se me hizo corta (hubiera dado otras diez vueltas muy tranquilamente). Planeo repetir tan pronto como me sea "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Newsletter #46 - Pangolin por todas partes y también creamos un segundo nodo de AdGuard Home.",
+    "link": "https://voidnull.es/newsletter/newsletter-46/",
+    "fecha": "02/03/2026",
+    "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
+  },
+  {
+    "blog": "56K",
+    "titulo": "El optimismo Ludita",
+    "link": "https://56k.es/fanta/el-optimismo-ludita/",
+    "fecha": "02/03/2026",
+    "contenido": "Es un error reducir los debates a «Tecno optimismo de Silicon Valley VS pesimismo Ludita» básicamente porque los Luditas eran optimistas. Cuando dices «Tecnología sí, pero no así» estas siendo optimista. Es interesante leer el libro «Sangre en las máquinas» de Brian Merchant porque habla de que los "
+  },
+  {
+    "blog": "56K",
+    "titulo": "El dinero de las grandes tecnológicas en el Kernel Linux",
+    "link": "https://56k.es/fanta/el-dinero-de-las-grandes-tecnologicas-en-el-kernel-linux/",
+    "fecha": "02/03/2026",
+    "contenido": "Decir que Linux no tiene jefes es no conocer realmente la furia de Linus Torvalds en la lista del kernel :). Fuera bromas el proyecto del Kernel de Linux (que sin duda es solamente el Kernel y no una distribucion completa funcional de sistema operativo) es buena cosa pero no es cierto que no tenga.."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Los gigantes del aire cancelados",
+    "link": "https://www.fabio.com.ar/9886-los-gigantes-del-aire-cancelados",
+    "fecha": "02/03/2026",
+    "contenido": "    \nHubo una &eacute;poca en la que casi, casi, tenemos toda una fllota de gitantes del aire, pero la realidad los hizo chocar contra una pared, la realidad de la eficiencia.\nEs que las ideas derivadas de la guerra no son siempre aplicables en la paz, en un avi&oacute;n de combate no te importa tan"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Las Fechas Del 2026 Condensadas En Un Solo Espacio | Agenda Del Acero",
+    "link": "https://www.delotroladometal.com.ar/2026/03/02/agenda-del-acero/",
+    "fecha": "02/03/2026",
+    "contenido": "Por aquí iremos publicando y actualizando todas las fechas de los shows del año, tanto...\nThe post Las Fechas Del 2026 Condensadas En Un Solo Espacio | Agenda Del Acero first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Webnauta ⁂",
     "titulo": "Tiempo para hacer de todo menos pensar",
     "link": "https://webnauta.blog/p/tiempo-para-hacer-de-todo-menos-pensar/",
@@ -11,7 +74,7 @@
     "titulo": "Recuerdos de museos (mi post del IndieWeb Carnival de marzo)",
     "link": "https://blog.luiscarlospando.com/personal/2026/03/recuerdos-de-museos-mi-post-del-indieweb-carnival-de-marzo/",
     "fecha": "01/03/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "Mareos de un geek",
@@ -504,27 +567,6 @@
     "contenido": "Fecha de lectura: 19/02/2026.Autor/a: Turid Rugaas.Categoría: Ensayo.Número de páginas: 60.Mi valoración: ★★★★★Ahora que Gara ha llegado a casa, he releído el famoso libro con el que Turid Rugaas contribuyó al entendimiento de los perros y cómo se comunican entre ellos. Es un libro muy cortito y muy"
   },
   {
-    "blog": "Un bruto con Debian",
-    "titulo": "Epstein.bash",
-    "link": "http://unbrutocondebian.blogspot.com/2026/02/epsteinbash.html",
-    "fecha": "23/02/2026",
-    "contenido": "&nbsp;Seguramente habrás oído mencionar a un tal Jeffrey Epstein, un “financiero” que se codeaba con lo más selecto de la clase ultra-alta, desde la casa real británica hasta Bill Gates o Donald Trump.&nbsp;Este individuo se dedicaba al noble arte del espionaje y la extorsión, la búsqueda de modific"
-  },
-  {
-    "blog": "Proyecto para no aburrir",
-    "titulo": "Programar correos en Thunderbird con el complemento Enviar más Tarde",
-    "link": "https://ericdq.com/2026/02/23/programar-correos-thunderbird-complemento-enviar-mas-tarde/",
-    "fecha": "23/02/2026",
-    "contenido": "Descripción de las opciones del complemento Enviar más Tarde de Thunderbird. Algunos problemas que he encontrado como que tenemos que tener el ordenador encendido o que las opciones no acaban de estar del todo bien ordenadas."
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Endurecimiento de la Privacidad en Red",
-    "link": "https://alt43.es/endurecimiento-de-la-privacidad-en-red/",
-    "fecha": "23/02/2026",
-    "contenido": "Opciones para mejorar tu privacidad frente a las técnicas modernas de filtrado e inspección de datos. Una guía técnica y práctica sobre el uso de VPN, ECH, DNS cifrado, protocolos QUIC y la red Tor para garantizar una navegación segura, privada y resiliente en el entorno digital de 2026."
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "Antiguo pero fiable",
     "link": "https://www.macram.es/posts/2026/02/antiguo-pero-fiable/",
@@ -532,67 +574,11 @@
     "contenido": "Veo en Microsiervos1 que Alvy estuvo en un programa de RNE defendiendo que los aparatos antiguos, al menos, siempre funcionaban… o siempre fallaban de maneras predecibles y, por tanto, fáciles de reparar, mientras que los aparatos de hoy muchas veces no sabemos por qué fallan. Aporta algunos ejemplo"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 08/2026",
-    "link": "https://www.macram.es/posts/2026/02/semana-08-2026/",
-    "fecha": "23/02/2026",
-    "contenido": "Seguimos con buen tiempo. Parece que esta semana va a seguir estable e incluso casi calurosa (ayer ni toqué el abrigo), y que la que viene ya volvemos un poco a las andadas, aunque sin tanta agua. La que viene también planeaba volver al gimnasio, siempre que tuviera el coche reparado y en mi poder ("
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Guía Definitiva de Filamentos 3D: ¿Cuál necesitas para tu impresora?",
     "link": "https://blog.danielaragay.net/guia-definitiva-de-filamentos-3d-cual-necesitas-para-tu-impresora/",
     "fecha": "23/02/2026",
     "contenido": "&#xbf;Est&#xe1;s pensando en comprarte una impresora 3D? O quiz&#xe1;s ya tienes una en casa, pero de repente te has chocado de frente con el enorme mundo de los materiales. Que si PLA, PETG, TPU, ABS... Ves todas estas siglas y es muy probable que te"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de CyberPanel en Ubuntu 24.04",
-    "link": "https://voidnull.es/instalacion-de-cyberpanel-en-ubuntu-24-04/",
-    "fecha": "23/02/2026",
-    "contenido": "CyberPanel es un potente panel de control para servidores web diseñado para simplificar la gestión de sitios web y aplicaciones en servidores GNU/Linux."
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Friends with Cameras: María Rodilla",
-    "link": "https://www.ericafustero.com/2026-02-friends-with-cameras-maria-rodilla",
-    "fecha": "23/02/2026",
-    "contenido": "Hoy en día es raro encontrar a alguien que no haga fotos, pero no es tan fácil encontrar a gente con sensibilidad a la hora de hacerlas. Y no hablo tanto de habilidades técnicas, si no de capacidad de observación. Las redes sociales parecen un corta y pega de las mismas imágenes de vacaciones, fiest"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "La percepción del tiempo",
-    "link": "https://www.xn--jmuoz-qta.es/2026/02/la-percepcion-del-tiempo.html",
-    "fecha": "23/02/2026",
-    "contenido": "\n  \n    \n  \n¿Por qué el tiempo se nos pasa volando cuando estamos disfrutando y se nos hace tan largo y eterno cuando estamos a otros menesteres que no nos gustan tanto?Especialmente este año, el fin de semana se ma pasa volado, como se me pasaron las vacaciones de Navidad y se me pasarán las próxim"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "San Isidro Labrador",
-    "link": "https://www.xn--jmuoz-qta.es/2026/02/san-isidro-labrador.html",
-    "fecha": "23/02/2026",
-    "contenido": "\n  \n    \n  \nSan Isidro Labrador. En Cardeña, Córdoba."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Concurso Oscars 2026 - El concurso por un Moto G",
-    "link": "https://www.fabio.com.ar/9880-concurso-oscars-2026---el-concurso-por-un-moto-g",
-    "fecha": "23/02/2026",
-    "contenido": "    \nEstimados! Otro a&ntilde;o y otro concurso Oscars acompa&ntilde;ados por Motorola!!!\nTenemos premio, tenemos ternas, tenemos nuevo micrositio para participar y una noche de gala para ganar, as&iacute; es, Concurso Oscars 2026 renovado!\nA continuaci&oacute;n los detalles...Creative Commons (CC) "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"Grace\" Perteneciente A \"Teodrama\" Ya Está Disponible | Perpetual Legacy Estrena Videoclip",
-    "link": "https://www.delotroladometal.com.ar/2026/02/23/perpetual-legacy-estrena-videoclip/",
-    "fecha": "23/02/2026",
-    "contenido": "No exageramos cuando decimos que &#8220;Teodrama&#8221; es una gran obra de arte. En formato de...\nThe post \"Grace\" Perteneciente A \"Teodrama\" Ya Está Disponible | Perpetual Legacy Estrena Videoclip first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "El Blog de un informático que sueña con mejorar el mundo",
-    "titulo": "Diploma del Día de Andalucía",
-    "link": "https://jesuspavonabian.es/post/an46hu/",
-    "fecha": "23/02/2026",
-    "contenido": "Hace unos días EC7R comentó por el grupo de la sección de URE Huelva que se haría un Diploma por el Día de Andalucía.\nYo seguía sin antenas en el tejado así que ignoré el mensaje, no era para mí. Hasta que descubrí que uno de los modos del diploma era Voz Digital.\nAsí que pregunté si podía ayudar a "
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
