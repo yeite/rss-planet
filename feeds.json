@@ -1,5 +1,12 @@
 [
   {
+    "blog": "THE_CHEI$",
+    "titulo": "melonDS, mi nuevo emulador favorito",
+    "link": "https://thecheis.com/2026/03/02/melonds-mi-nuevo-emulador-favorito/",
+    "fecha": "02/03/2026",
+    "contenido": "No estoy muerto, simplemente estoy viciado. En el último mes tuve unas ganas terribles de recordar algunos juegos de Pokémon, en parte gracias a las buenas experiencias que tuve con Gemini AI sobre la gestión personalizada de la partida y el análisis de estrategias. Una cosa llevó a la otra, y con l"
+  },
+  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Primer año en el club de lectura de Librería Luces",
     "link": "https://mcallus.net/2026/03/02/primer-ano-en-el-club-de-lectura-de-libreria-luces/",
@@ -12,6 +19,13 @@
     "link": "https://blog.luiscarlospando.com/personal/2026/03/hablemos-de-instagram-bueno-de-las-redes-sociales-en-general/",
     "fecha": "02/03/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "El misterio de la lavandería de Yeonnam-dong",
+    "link": "https://mareosdeungeek.es/el-misterio-de-la-lavanderia-de-yeonnam-dong/",
+    "fecha": "02/03/2026",
+    "contenido": "El misterio de la lavandería de Yeonnam-dong de Kim Jiyun es otro ejemplo de healing fiction asiática. Esta obra es surcoreana pero sigue las mismas premisas de los libros japoneses del mismo estilo. En esta ocasión nos trasladamos al bullicioso y popular barrio de Yeonnam en la ciudad de Seúl. Allí"
   },
   {
     "blog": "alt43",
@@ -28,11 +42,39 @@
     "contenido": "Ayer hizo un día estupendo, con viento pero con sol. Y decidimos hacer planes. Con unos amigos fui a montar en kart a un pueblo cercano, y la verdad es que me encantó la experiencia. Incluso se me hizo corta (hubiera dado otras diez vueltas muy tranquilamente). Planeo repetir tan pronto como me sea "
   },
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "530. Bípedos siendo cuadrúpedos",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/03/530-bipedos-siendo-cuadrupedos.html",
+    "fecha": "02/03/2026",
+    "contenido": "&nbsp; &nbsp; Llevo unos días leyendo sobre algo de reciente viralización llamado teriantropía. No es que me interese, pero me he obligado a ello antes de escribir esta entrada. Y me ha dado la sensación de que todo lo que he leído sobre el tema intenta convencerme de que es una práctica similar al "
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Newsletter #46 - Pangolin por todas partes y también creamos un segundo nodo de AdGuard Home.",
     "link": "https://voidnull.es/newsletter/newsletter-46/",
     "fecha": "02/03/2026",
     "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "Fatiga regulatoria, riesgos y consecuencias",
+    "link": "https://blog.elmundoesimperfecto.com/2026/03/02/cumplimiento-fatiga/",
+    "fecha": "02/03/2026",
+    "contenido": "\n\nCuando hablamos de seguridad (aunque también si hablamos solo de llevar adelante nuestro trabajo) aparecen los aspectos de las regulaciones: muchas veces nos parecen un inconveniente y un freno, pero la realidad es que a veces hay que hacer normas para que determinadas operaciones (que parecen de "
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "Secuestro de datos en el entorno industrial: un gran problema",
+    "link": "https://fernand0.github.io//consecuencias-secuestro-datos/",
+    "fecha": "02/03/2026",
+    "contenido": "El secuestro de datos (ransomware) es un problema que sigue de actualidad, aunque ahora esté un poco silenciado por los riesgos de la IA. Hace algún tiempo podíamos leer On average, manufacturing companies lose $1.9 million per day to downtime from ransomware attacks. Esto es, este tipo de ataques e"
+  },
+  {
+    "blog": "",
+    "titulo": "Gran evento sobre musica Irlandesa en Lago Puelo.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/03/02/gran-evento-sobre-musica-irlandesa-en-lago-puelo/",
+    "fecha": "02/03/2026",
+    "contenido": ""
   },
   {
     "blog": "56K",
@@ -490,13 +532,6 @@
     "contenido": "Hace casi un mes que está disponible la edición #225 y, seguramente, en horas estará disponible la #226, pero yo tengo que seguir pagando mi deuda, así que aquí va mi reseña de la edición #224 de Full Circle magazine. Está disponible para su descarga desde el 26 de diciembre y se trata del número co"
   },
   {
-    "blog": "Webnauta ⁂",
-    "titulo": "\"No tengo energía para tener más vida\"",
-    "link": "https://webnauta.blog/p/no-tengo-energia-para-tener-mas-vida/",
-    "fecha": "24/02/2026",
-    "contenido": "Más allá de este búnker —resguardado por trincheras de letras y silencios deliberados— se extiende un territorio de bullicio y desenfreno. De ese lugar efervescente rara vez llegan noticias que merezcan reposo; casi todo ocurre a la velocidad del olvido. Sin embargo, esta vez cruzó la frontera un re"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Nada que ver",
     "link": "https://jinversor.co/2026/02/nada-que-ver/",
@@ -509,13 +544,6 @@
     "link": "https://www.macram.es/posts/2026/02/capsulas-sabores-delta-q/",
     "fecha": "24/02/2026",
     "contenido": "El otro día, ya que me desplazaba para entregar el coche en el taller, aproveché para pasar por un hipermercado Carrefour y comprar algunas cosas. Entre otras, algunas cajas de cápsulas de café, porque no me gusta tener que comprarlas por Internet si quiero algo distinto a &ldquo;con cafeína&rdquo; "
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "528. 6G",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/02/528-6g.html",
-    "fecha": "24/02/2026",
-    "contenido": "&nbsp; &nbsp; ¿Era el viento las orejas de 6G en movimiento? En efecto, 6G era un orejón como nunca nadie ha conocido. Pero ya nunca tendremos la respuesta. La última vez que lo vimos con vida, 6G tenía quince años de edad, y se agarraba de cara al marco de la ventana de un octavo piso con los brazo"
   },
   {
     "blog": "Erica Fustero",
@@ -558,33 +586,5 @@
     "link": "https://jdrm.info/convirtiendo-ficheros-markdown-a-gemini-mediante-md2gmi.html",
     "fecha": "24/02/2026",
     "contenido": "Hasta ahora, cada vez que escribíoa un artículo para mi blog en markdown, tenía que reformatearlo todo para Gemini.... hasta hoy"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Le lenguaje de los perros: las señales de calma",
-    "link": "https://guillermolatorre.com/libros/el-lenguaje-de-los-perros-las-senales-de-calma",
-    "fecha": "23/02/2026",
-    "contenido": "Fecha de lectura: 19/02/2026.Autor/a: Turid Rugaas.Categoría: Ensayo.Número de páginas: 60.Mi valoración: ★★★★★Ahora que Gara ha llegado a casa, he releído el famoso libro con el que Turid Rugaas contribuyó al entendimiento de los perros y cómo se comunican entre ellos. Es un libro muy cortito y muy"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Antiguo pero fiable",
-    "link": "https://www.macram.es/posts/2026/02/antiguo-pero-fiable/",
-    "fecha": "23/02/2026",
-    "contenido": "Veo en Microsiervos1 que Alvy estuvo en un programa de RNE defendiendo que los aparatos antiguos, al menos, siempre funcionaban… o siempre fallaban de maneras predecibles y, por tanto, fáciles de reparar, mientras que los aparatos de hoy muchas veces no sabemos por qué fallan. Aporta algunos ejemplo"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Guía Definitiva de Filamentos 3D: ¿Cuál necesitas para tu impresora?",
-    "link": "https://blog.danielaragay.net/guia-definitiva-de-filamentos-3d-cual-necesitas-para-tu-impresora/",
-    "fecha": "23/02/2026",
-    "contenido": "&#xbf;Est&#xe1;s pensando en comprarte una impresora 3D? O quiz&#xe1;s ya tienes una en casa, pero de repente te has chocado de frente con el enorme mundo de los materiales. Que si PLA, PETG, TPU, ABS... Ves todas estas siglas y es muy probable que te"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "La privacidad tiene un problema de diseño",
-    "link": "https://dani.torresburriel.com/la-privacidad-tiene-un-problema-de-diseno/",
-    "fecha": "23/02/2026",
-    "contenido": "Quienes me leéis sabéis que desde hace unos meses estoy alternando el uso de dos tipos aplicaciones. Por una parte las que todo el mundo usa, las que se actualizan cada dos semanas, las que tienen una feature para cada cosa que se te ocurra y para tres que no se te habían ocurrido, y &#8230; Sigue l"
   }
 ]
