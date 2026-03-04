@@ -1,10 +1,73 @@
 [
   {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Segundo año en el club de lectura de Librería Luces",
+    "link": "https://mcallus.net/2026/03/04/segundo-ano-en-el-club-de-lectura-de-libreria-luces/",
+    "fecha": "04/03/2026",
+    "contenido": "En esta entrada repaso el que fue mi segundo año en el club de lectura de Librería Luces, ese período va de marzo de 2025 a febrero de 2026. Si queréis saber de que va esta entrada, y/o leer sobre mi primer año en el club, podéis hacerlo en esta entrada. Como en la anterior [&#8230;]"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Leviathan",
+    "link": "https://mareosdeungeek.es/leviathan/",
+    "fecha": "04/03/2026",
+    "contenido": "Leviathan es un anime de estética steampunk y ciencia ficción que presenta una versión alternativa de la  Primera Guerra Mundial. En esta serie, que consta de doce episodios, adapta los libros de la trilogia escrita por Scott Westerfeld. La serie ha sido realizada por el estudio Orange, conocido por"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Sé que soy aburrido",
+    "link": "https://matizeta.com/2026/03/04/se-que-soy-aburrido/",
+    "fecha": "04/03/2026",
+    "contenido": "Una pequeña y simple reflexión sobre que escribir en un blog personal, particularmente sobre dos entradas que leí en el blog de Alexis Alzate que habla de que pone en duda sobre quién carajos leerá lo que escribe por hablar de temas mundanos, el de Jinversor que dice que no encuentra nada interesant"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Utiliza whisper para generar texto de audios",
+    "link": "https://voidnull.es/utiliza-whisper-para-generar-texto-de-audios/",
+    "fecha": "04/03/2026",
+    "contenido": "whisper.cpp permite transcribir audio a texto de forma local utilizando el modelo Whisper, sin depender de servicios cloud. Es una solución ideal para proyectos de automatización y Home Assistant donde la privacidad y el control de los datos son clave."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Guía de supervivencia de \"Dungeon of the Endless\"",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/03/04/20260304-dungeon-of-the-endless/",
     "fecha": "04/03/2026",
     "contenido": "Unas malas indicaciones en las instrucicones pueden llevar al abandono de un juego competente"
+  },
+  {
+    "blog": "",
+    "titulo": "Downtown Matias.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/03/04/downtown-matias/",
+    "fecha": "04/03/2026",
+    "contenido": "Se inicia la temporada de San Patricio 2026, y Downtown Matías ya tiene lista sus reservas mas información en su pagina, se las dejo abajo. https://downtownmatias.com/"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El acoso de los bots",
+    "link": "https://www.fabio.com.ar/9888-el-acoso-de-los-bots",
+    "fecha": "04/03/2026",
+    "contenido": "    \nA escondidas de todo webmaster hay una enorme red de robots dispuestos para acosar el trabajo diario, una nefasta red de bots que buscan vulnerabilidades, ya les he contado mucho al respecto.\nAnoche doy de alta un subdominio, al minuto de darle de alta el certificado de seguridad de Let's Encry"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Miguel Roldán, Barni, Lázaro y Raza Fuerte En Marquee Session Live | El 28 De Marzo Se Viene Otra Noche De Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/03/04/el-28-de-marzo-se-viene-otra-noche-de-metal/",
+    "fecha": "04/03/2026",
+    "contenido": "Como una especie de revival de lo ocurrido aquella noche de Diciembre en el ya...\nThe post Miguel Roldán, Barni, Lázaro y Raza Fuerte En Marquee Session Live | El 28 De Marzo Se Viene Otra Noche De Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "Hablemos de la diversificación del entretenimiento",
+    "link": "https://thejnx.bearblog.dev/hablemos-del-entretenimiento/",
+    "fecha": "04/03/2026",
+    "contenido": "Las empresas multimillonarias quieren un pedazo de ti"
+  },
+  {
+    "blog": "AsturGeek V3",
+    "titulo": "Radio Garden, una interesante forma de escuchar la radio",
+    "link": "https://asturgeek.eu/2026/03/04/radio-garden-una-interesante-forma-de-escuchar-la-radio/",
+    "fecha": "04/03/2026",
+    "contenido": "Una web y aplicación espectacular para descubrir emisoras de radio en el mundo."
   },
   {
     "blog": "Victorhck in the free world",
@@ -343,13 +406,6 @@
     "contenido": "Sirât es la última película del director Óliver Laxe. Nos sumerge, por un lado, en la cultura de las raves. Esa cultura, predominantemente francesa que aparece cada año en las noticias, sobre todo en Navidad, cuando se organiza alguna fiesta que dura días. Así es como empieza Sirât, con una rave, qu"
   },
   {
-    "blog": "NeoSite Blog",
-    "titulo": "NeoCMS - Autenticación 2FA para panel de administración",
-    "link": "http://blog.neosite.com.ar/post/neocms-autenticaci-n-2fa-para-panel-de-administraci-n",
-    "fecha": "27/02/2026",
-    "contenido": ""
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "#184: volviendo a ver Friends",
     "link": "https://www.macram.es/posts/2026/02/friends-de-nuevo/",
@@ -490,20 +546,6 @@
     "contenido": "Vince es una alternativa autoalojada y privada a Google Analytics, sin cookies ni rastreadores, pensada para cumplir con GDPR y obtener métricas útiles sin perder el control de tus datos."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Integración de Flightradar24 en Home Assistant",
-    "link": "https://voidnull.es/integracion-de-flightradar24-en-home-assistant/",
-    "fecha": "25/02/2026",
-    "contenido": "Integra Flightradar24 en Home Assistant para visualizar y monitorizar vuelos cercanos en tiempo real. Aprende a obtener datos de aeronaves y añadirlos a tus paneles y automatizaciones de forma sencilla."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Opinión sobre los estratos laborales de la IA",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/02/25/20260225-estratos-laborales-ia/",
-    "fecha": "25/02/2026",
-    "contenido": "La comunicación significativa no es un bien de consumo replicable hasta el infinito"
-  },
-  {
     "blog": "Erica Fustero",
     "titulo": "La vida con subtítulos",
     "link": "https://www.ericafustero.com/2026-02-la-vida-con-subtitulos",
@@ -516,13 +558,6 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/02/divisiones.html",
     "fecha": "25/02/2026",
     "contenido": "\n  \n    \n  \nDeberíamos de ser prácticos y empezar a enseñar a los niños a dividir con ejemplos de la vida real. Pestañeen y tendremos por arte de magia tres nuevos partidos de izquierda. Vuelvan a pestañear y toda esta escoria se habrá inventado un nuevo motivo para dividir a la sociedad; llámenlo g"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Tapones y envases",
-    "link": "https://www.xn--jmuoz-qta.es/2026/02/tapones-y-envases.html",
-    "fecha": "25/02/2026",
-    "contenido": "\n  \n    \n  \nLe deseo una muerte cruel, turbia y muy dolorosa al lumbreras que se le ocurrió lo de unir el tapón al envase. Sea el que sea. Ojalá sufras todo el mal que has causado, maldito hijo de mil putas."
   },
   {
     "blog": "",
@@ -539,31 +574,10 @@
     "contenido": "Querido insecto. Hoy vengo a compartir un sencillo programa de 200 líneas de código en C que me permite mostrar diapositivas al ritmo del buen chiptune. Esto tendría que funcionar en ordenadores viejos y poco potentes sin problema. Lo de que las imágenes tengan música de fondo en realidad es simplem"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "¿Por qué el fideo se parte en tres partes o más?",
-    "link": "https://www.fabio.com.ar/9882-por-que-el-fideo-se-parte-en-tres-partes-o-mas",
-    "fecha": "25/02/2026",
-    "contenido": "    \n&iquest;Es esto una pregunta filos&oacute;fica? &iexcl;Por supuesto!\nPero tambi&eacute;n es un complejo problema de la f&iacute;sica de la pasta que podr&iacute;a hacerle estallar una vena a un italiano, la pasta no se corta! Claro, pero cuando sucede &iquest;Por qu&eacute; cuernos no se parte "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Antithesis: Dying For Life | Morir Para Quedar En La Memoria",
-    "link": "https://www.delotroladometal.com.ar/2026/02/25/morir-para-quedar-en-la-memoria/",
-    "fecha": "25/02/2026",
-    "contenido": "(2001 &#8211; Nightmare Records/Massacre Records/Art Music Group) Hay bandas que aparecen, y desaparecen. Editan un...\nThe post Antithesis: Dying For Life | Morir Para Quedar En La Memoria first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "Decálogo para abordar tu primer proyecto de Vibe Coding",
     "link": "https://dani.torresburriel.com/decalogo-para-abordar-tu-primer-proyecto-de-vibe-coding/",
     "fecha": "25/02/2026",
     "contenido": "Hoy le he contado a alguien en una conversación cuál es la experiencia que tenemos en el Estudio para trabajar con herramientas de inteligencia artificial en el ámbito del diseño de producto y la investigación con usuarios. Normalmente cuando salgo de las reuniones de trabajo me tomo unas notas de v"
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Full Circle #224 (diciembre 2025)",
-    "link": "https://javiersam.uy/2026/02/full-circle-224-diciembre-2025.html",
-    "fecha": "25/02/2026",
-    "contenido": "Hace casi un mes que está disponible la edición #225 y, seguramente, en horas estará disponible la #226, pero yo tengo que seguir pagando mi deuda, así que aquí va mi reseña de la edición #224 de Full Circle magazine. Está disponible para su descarga desde el 26 de diciembre y se trata del número co"
   }
 ]
