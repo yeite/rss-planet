@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Jinversor",
+    "titulo": "(Casi) todos quieren ser vistos",
+    "link": "https://jinversor.co/2026/03/casi-todos-quieren-ser-vistos/",
+    "fecha": "04/03/2026",
+    "contenido": "Ayer mientras hacía una fila me dio por ojear algunos estados de Whatsapp y noté que casi todos quieren ser vistos. Nunca abro estados personales porque cuando veo frases motivacionales [&#8230;]\nLa entrada (Casi) todos quieren ser vistos se publicó primero en Jinversor."
+  },
+  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Segundo año en el club de lectura de Librería Luces",
     "link": "https://mcallus.net/2026/03/04/segundo-ano-en-el-club-de-lectura-de-libreria-luces/",
@@ -14,11 +21,39 @@
     "contenido": "Leviathan es un anime de estética steampunk y ciencia ficción que presenta una versión alternativa de la  Primera Guerra Mundial. En esta serie, que consta de doce episodios, adapta los libros de la trilogia escrita por Scott Westerfeld. La serie ha sido realizada por el estudio Orange, conocido por"
   },
   {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#185: apuntes de italiano",
+    "link": "https://www.macram.es/posts/2026/03/apuntes-de-italiano/",
+    "fecha": "04/03/2026",
+    "contenido": "Llevo un tiempo aprendiendo italiano. Empecé con Duolingo, donde llegué a tener una racha de más de un año. Luego cambié Duolingo por Babbel, aprovechando que pude hacerme con una suscripción de por vida (ya sabemos cómo va eso), y reconozco que me gusta un poco más, porque Babbel explica gramática "
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Sé que soy aburrido",
     "link": "https://matizeta.com/2026/03/04/se-que-soy-aburrido/",
     "fecha": "04/03/2026",
-    "contenido": "Una pequeña y simple reflexión sobre que escribir en un blog personal, particularmente sobre dos entradas que leí en el blog de Alexis Alzate que habla de que pone en duda sobre quién carajos leerá lo que escribe por hablar de temas mundanos, el de Jinversor que dice que no encuentra nada interesant"
+    "contenido": "Una pequeña y simple reflexión sobre que escribir en un blog personal, particularmente sobre dos entradas que leí en el blog de Alexis Alzate que habla de que pone en duda sobre quién carajos leerá lo que escribe por hablar de temas mundanos, y el de Jinversor que dice que no encuentra nada interesa"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Hipocresía sueca",
+    "link": "https://blog.danielaragay.net/hipocresia-sueca/",
+    "fecha": "04/03/2026",
+    "contenido": "Entre otros temas te hablo de lo que opina la pol&#xed;tica sueca de la guerra en Iran.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Una sociedad a prueba de fuegos",
+    "link": "https://impermanente.es/2026/03/04/una-sociedad-a-prueba-de.html",
+    "fecha": "04/03/2026",
+    "contenido": "Hace unos meses escribí sobre cómo el capitalismo no está roto, sino que hace exactamente lo que sabe hacer (POSIWID). Y usé la metáfora del fuego: no decimos &ldquo;abolamos el fuego&rdquo;, decimos &ldquo;el fuego es muy útil pero también peligoros, diseñemos con eso en mente&rdquo;. Y así integra"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "quota: control del espacio en disco por usuario",
+    "link": "https://voidnull.es/quota-control-del-espacio-en-disco-por-usuario/",
+    "fecha": "04/03/2026",
+    "contenido": "Consulta y supervisa el uso de disco por usuario o grupo en GNU/Linux con el comando quota."
   },
   {
     "blog": "_ voidNull",
@@ -42,6 +77,20 @@
     "contenido": "Se inicia la temporada de San Patricio 2026, y Downtown Matías ya tiene lista sus reservas mas información en su pagina, se las dejo abajo. https://downtownmatias.com/"
   },
   {
+    "blog": "Calaveras",
+    "titulo": "Goodbye my friend Debian",
+    "link": "https://calaveras.bearblog.dev/goodbye-my-friend-debian/",
+    "fecha": "04/03/2026",
+    "contenido": "Disclaimer: this post is written in bad english, I need to practice.\nWhat's this post about? Well, maybe it's a love letter or goodbye letter to one of my favourite distributions in the GNU/Linux world: Debian.\nI've started my journey with Debian 12 in a virtual machine long time ago. It was all new"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "This was supposed to be the future",
+    "link": "https://alex.corcoles.net/2026/03/this-was-supposed-to-be-the-future",
+    "fecha": "04/03/2026",
+    "contenido": "\n  (No s&#233; cu&#225;n antigua es una camiseta que creo que todav&#237;a conservo con este mensaje. Mucho texto ya es ilegible.)\n  Estaba oyendo hoy otra cantinela sobre las nuevas maravillas de Apple. Nada nuevo bajo el sol; la gente sigue d&#225;ndole dinero y elogios a dos manos a Apple, y a m&"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "El acoso de los bots",
     "link": "https://www.fabio.com.ar/9888-el-acoso-de-los-bots",
@@ -54,6 +103,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/03/04/el-28-de-marzo-se-viene-otra-noche-de-metal/",
     "fecha": "04/03/2026",
     "contenido": "Como una especie de revival de lo ocurrido aquella noche de Diciembre en el ya...\nThe post Miguel Roldán, Barni, Lázaro y Raza Fuerte En Marquee Session Live | El 28 De Marzo Se Viene Otra Noche De Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Cuando emprender se pone feo: la suerte nos pilla trabajando",
+    "link": "https://dani.torresburriel.com/cuando-emprender-se-pone-feo-la-suerte-nos-pilla-trabajando/",
+    "fecha": "04/03/2026",
+    "contenido": "Llevo unas semanas en una de esas rachas que no tienen un nombre dramático ni una causa única. Sólo una acumulación silenciosa de cosas que no acaban de cuajar: propuestas que no progresan, conversaciones que se enfrían, proyectos que tardan más de lo esperado en arrancar. Días que pasan y en los qu"
   },
   {
     "blog": "Un Diario",
@@ -406,6 +462,13 @@
     "contenido": "Sirât es la última película del director Óliver Laxe. Nos sumerge, por un lado, en la cultura de las raves. Esa cultura, predominantemente francesa que aparece cada año en las noticias, sobre todo en Navidad, cuando se organiza alguna fiesta que dura días. Así es como empieza Sirât, con una rave, qu"
   },
   {
+    "blog": "NeoSite Blog",
+    "titulo": "NeoCMS - Autenticación 2FA para panel de administración",
+    "link": "http://blog.neosite.com.ar/post/neocms-autenticaci-n-2fa-para-panel-de-administraci-n",
+    "fecha": "27/02/2026",
+    "contenido": ""
+  },
+  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "#184: volviendo a ver Friends",
     "link": "https://www.macram.es/posts/2026/02/friends-de-nuevo/",
@@ -523,61 +586,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/02/26/entre-el-silencio-el-eco-y-la-liberacion/",
     "fecha": "26/02/2026",
     "contenido": "Los primeros meses de 2026 ya van arrojando novedades discográficas, y una de sus primeras...\nThe post \"Liberation\", El Primer Álbum De The Silence The Echo Ya Es Una Realidad | Entre El Silencio, El Eco Y La Liberación first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "El Chivo Expiatorio del Arte: Lo que no se contó en el episodio .",
-    "link": "https://polotman.wordpress.com/2026/02/25/el-chivo-expiatorio-del-arte-lo-que-no-se-conto-en-el-episodio/",
-    "fecha": "25/02/2026",
-    "contenido": "#podcast #ArteDegenerado #ElSueñodelArtistaBlog #HistoriadelArte #inoclastas #destrucciondeArte Han pasado unos días desde que publicamos el nuevo episodio «El Chivo Expiatorio del Arte» en El Sueño del Artista, ya son 7 episodios de esta II temporada y cómo ya viene siendo costumbre dejamos algunas"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "El chivo expiatorio cuando el arte recibe la culpa episodio 7 segunda temporada",
-    "link": "https://polotman.wordpress.com/2026/02/25/el-chivo-expiatorio-cuando-el-arte-recibe-la-culpa-episodio-7-segunda-temporada/",
-    "fecha": "25/02/2026",
-    "contenido": "¿Puede un cuadro desatar una plaga? ¿Puede una escultura corromper el alma de una nación? A lo largo de la historia, cuando el miedo, la derrota o el fanatismo han buscado un responsable, con frecuencia la mirada ha caído, no sobre gobernantes o ejércitos, sino sobre el arte. Hoy exploraremos dos mo"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Vince en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-vince-en-debian-13/",
-    "fecha": "25/02/2026",
-    "contenido": "Vince es una alternativa autoalojada y privada a Google Analytics, sin cookies ni rastreadores, pensada para cumplir con GDPR y obtener métricas útiles sin perder el control de tus datos."
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "La vida con subtítulos",
-    "link": "https://www.ericafustero.com/2026-02-la-vida-con-subtitulos",
-    "fecha": "25/02/2026",
-    "contenido": "¡Publiqué un nuevo fanzine! Se llama La vida con subtítulos y recopila algunas de las tiras que he ido publicando durante los últimos años en internet. Como su nombre indica, viene con subtítulos y, aunque digo que es bilingüe, en realidad es cuatrilingüe, porque también hay textos en catalán y alem"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Divisiones",
-    "link": "https://www.xn--jmuoz-qta.es/2026/02/divisiones.html",
-    "fecha": "25/02/2026",
-    "contenido": "\n  \n    \n  \nDeberíamos de ser prácticos y empezar a enseñar a los niños a dividir con ejemplos de la vida real. Pestañeen y tendremos por arte de magia tres nuevos partidos de izquierda. Vuelvan a pestañear y toda esta escoria se habrá inventado un nuevo motivo para dividir a la sociedad; llámenlo g"
-  },
-  {
-    "blog": "",
-    "titulo": "Convocatoria.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/02/25/convocatoria-4/",
-    "fecha": "25/02/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "56K",
-    "titulo": "Presentator 0.1 – Presentaciones con chiptunes",
-    "link": "https://56k.es/fanta/presentator-0-1-presentaciones-con-chiptunes/",
-    "fecha": "25/02/2026",
-    "contenido": "Querido insecto. Hoy vengo a compartir un sencillo programa de 200 líneas de código en C que me permite mostrar diapositivas al ritmo del buen chiptune. Esto tendría que funcionar en ordenadores viejos y poco potentes sin problema. Lo de que las imágenes tengan música de fondo en realidad es simplem"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Decálogo para abordar tu primer proyecto de Vibe Coding",
-    "link": "https://dani.torresburriel.com/decalogo-para-abordar-tu-primer-proyecto-de-vibe-coding/",
-    "fecha": "25/02/2026",
-    "contenido": "Hoy le he contado a alguien en una conversación cuál es la experiencia que tenemos en el Estudio para trabajar con herramientas de inteligencia artificial en el ámbito del diseño de producto y la investigación con usuarios. Normalmente cuando salgo de las reuniones de trabajo me tomo unas notas de v"
   }
 ]
