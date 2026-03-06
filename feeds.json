@@ -1,10 +1,59 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "¿Cómo cambiar el DNS al que se conecta Raspberry pi OS de 64 bits?",
+    "link": "https://malagaoriginal.blogspot.com/2026/03/como-cambiar-el-dns-al-que-se-conecta.html",
+    "fecha": "06/03/2026",
+    "contenido": "La última versión de Raspberry pi OS disponible en 2025 usa NetworkManager para gestionar las conexiones de red, por lo que la manera de configurar la red es distinta a lo que estamos acostumbrados.Vamos a ver como usar un DNS distinto al que nos asigna nuestro router, para lo que vamos a seguir los"
+  },
+  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "La app que los capos usan para eludir la justicia: Zangi en el mundo delictivo",
     "link": "https://gatooscuro.xyz/la-app-que-los-capos-usan-para-eludir-la-justicia-zangi-en-el-mundo-delictivo/",
     "fecha": "06/03/2026",
     "contenido": "Hoy vengo a escribir sobre una aplicación de mensajería que lleva relativamente bastante tiempo en línea, con actuaciones de fondo que de verdad nunca me esperé. En este blog vengo,\nSeguir leyendo  La app que los capos usan para eludir la justicia: Zangi en el mundo delictivo\nEl cargo La app que los"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "531. Cuestión",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/03/531-cuestion.html",
+    "fecha": "06/03/2026",
+    "contenido": "&nbsp; &nbsp; Son las 2:34 a.m. del viernes mientras escribo esto. Con suerte, el sueño llegará dentro de cuatro o cinco horas. Sin suerte, me acostaré a las ocho de la mañana como los últimos siete días que llevo currados en el turno de noche. ¿Hay alguien tan despierto como yo al otro lado de la p"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Migrar de un dongle Zigbee USB al SMLight SLZB-06 en Zigbee2MQTT",
+    "link": "https://voidnull.es/migrar-de-un-dongle-zigbee-usb-al-smlight-slzb-06-en-zigbee2mqtt/",
+    "fecha": "06/03/2026",
+    "contenido": "En este artículo explicamos cómo sustituir un coordinador Zigbee USB tradicional por un SLZB-06, migrando la configuración de Zigbee2MQTT y pasando a una arquitectura basada en red, más limpia y flexible."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Windows 98SE sobre Linux con Qemu",
+    "link": "https://56k.es/fanta/virtualizar-windows-98se-sobre-gnu-linux-con-qemu/",
+    "fecha": "06/03/2026",
+    "contenido": "La versión de windows 98 SE en Spanish se puede descargar desde aquí. &#160; La clave en la instalación podría ser una como la siguiente: DMWRC-T9XP4-GJ2P8-26G66-V9WBB &#160; Creamos una imagen qcow2 de 20G: $ qemu-img create -f qcow2 windows98se.qcow2 8G &#160; Ejecutamos el tinglado para que comie"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #931",
+    "link": "https://www.fabio.com.ar/9890-links-de-viernes---931",
+    "fecha": "06/03/2026",
+    "contenido": "     Un cafecito acompa&ntilde;ado de unos links\nTenemos muchos links para estos Links de Viernes, como debe ser! Si, a veces hay unos cuantos para ver, esta es una de esas semanas, y si se agotan de leer, pues bien, tienen el concurso Oscars 2026!!!! S&iacute;, ya quedan diez d&iacute;as antes de l"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Stairway: Metal Rising | Una Historia De Heavy Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/03/06/una-historia-de-heavy-metal/",
+    "fecha": "06/03/2026",
+    "contenido": "(2025 &#8211; Roxx Records) Nadie me puede discutir que Stairway son una leyenda viviente del...\nThe post Stairway: Metal Rising | Una Historia De Heavy Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "El silencio como respuesta",
+    "link": "https://dani.torresburriel.com/el-silencio-como-respuesta/",
+    "fecha": "06/03/2026",
+    "contenido": "Tengo una relación extraña con el silencio. Siempre la he tenido. Cuando lo recibo, me cuesta. Cuando lo doy, me pesa. Y sin embargo, mira tú qué cosas, cuantos más años cumplo, más lo entiendo como el espacio de descanso más honesto que existe. Para mí, el silencio personal es paz. No un silencio i"
   },
   {
     "blog": "GoRiX blog",
@@ -504,20 +553,6 @@
     "contenido": "No tenía previsto escribir nada hoy sábado. Pero hay días en los que las cosas se acumulan por dentro y la única forma de sacarlas es sentarse delante del ordenador y teclear. Y hoy es uno de esos días. Llevo meses madurando algo que suena muy de señor de 53 años, lo sé, pero que &#8230; Sigue leyen"
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Manejo de los botones de la gotek",
-    "link": "https://malagaoriginal.blogspot.com/2026/02/manejo-de-los-botones-de-la-gotek.html",
-    "fecha": "27/02/2026",
-    "contenido": "Si tienes un sencillo emulador de disquetera gotek con botones de selección te habrás percatado que solo hay dos botones para moverte por los archivos del directorio a la izquierda o a la derecha pero no hay un botón para seleccionar el archivo o el directorio si queremos navegar por ellos, entonces"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Las siestas de Gara",
-    "link": "https://guillermolatorre.com/fotolog/las-siestas-de-gara",
-    "fecha": "27/02/2026",
-    "contenido": "Responder por email."
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 9 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/02/27/opensuse-tumbleweed-revision-de-la-semana-9-de-2026/",
@@ -539,13 +574,6 @@
     "contenido": "La usurpación de identidad es una técnica bastante curiosa en el sentido de que no funciona para causar ningún daño técnico, sino para engañar al humano del otro lado del computador. Ya revisamos lo que sucedía en el Spoofing y ahora me salen con el SMTP Smuggling."
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Sirât",
-    "link": "https://mareosdeungeek.es/sirat/",
-    "fecha": "27/02/2026",
-    "contenido": "Sirât es la última película del director Óliver Laxe. Nos sumerge, por un lado, en la cultura de las raves. Esa cultura, predominantemente francesa que aparece cada año en las noticias, sobre todo en Navidad, cuando se organiza alguna fiesta que dura días. Así es como empieza Sirât, con una rave, qu"
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "#184: volviendo a ver Friends",
     "link": "https://www.macram.es/posts/2026/02/friends-de-nuevo/",
@@ -553,31 +581,10 @@
     "contenido": "Estoy volviendo a ver Friends. No es que esté prestándole toda mi atención pero es una serie que me parece agradable de tener de fondo, sobre todo porque ya la conozco. Y creo que en general ha envejecido muy bien. Tengo opiniones sobre algunas cuestiones, pero en general las tramas y los personajes"
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Zorin OS 18 Core #ViernesDeDistros",
-    "link": "https://voidnull.es/instalacion-de-zorin-os-18-core/",
-    "fecha": "27/02/2026",
-    "contenido": "Guía rápida para instalar Zorin OS 18 Core y dejarlo listo en pocos minutos."
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Cercanía",
     "link": "https://www.xn--jmuoz-qta.es/2026/02/cercania.html",
     "fecha": "27/02/2026",
     "contenido": "\n  \n    \n  \nCórdoba de mis amores. Creo que no podría vivir en otro lugar que no fuera este. Antaño decía que nunca viviría en un lugar en el que tuviera que cambiar la tarjeta SIM del móvil, pero subo la apuesta.Hoy estoy de vacaciones y me ha dado tiempo, antes de ponerme con la comida, a desayuna"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #930",
-    "link": "https://www.fabio.com.ar/9884-links-de-viernes---930",
-    "fecha": "27/02/2026",
-    "contenido": "     Estabas buscando links para este finde?\nOh si, Viernes! y viernes de la semana en la que comenz&oacute; oficialmente el concurso Oscars 2026 con el que les molestar&eacute; cada d&iacute;a hasta que participen 😅, y s&iacute;, es cosa importante en este blog, ya van 11 a&ntilde;os de hacerlo sin"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Bride: Live At Cornerstone Fest 2001 | Los Mismos De Siempre",
-    "link": "https://www.delotroladometal.com.ar/2026/02/27/los-mismos-de-siempre/",
-    "fecha": "27/02/2026",
-    "contenido": "(2025 &#8211; Retroactive Records) Nunca voy a dejar de alabar a una banda como Bride....\nThe post Bride: Live At Cornerstone Fest 2001 | Los Mismos De Siempre first appeared on Del Otro Lado Metal."
   }
 ]
