@@ -1,5 +1,19 @@
 [
   {
+    "blog": "La Máquina de Von Neumann",
+    "titulo": "La distinción de Pylyshyn",
+    "link": "https://vonneumannmachine.wordpress.com/2026/03/07/la-distincion-de-pylyshyn/",
+    "fecha": "07/03/2026",
+    "contenido": "Andaba yo leyendo la obra Computación y cognición (1984) del canadiense Zenon Pylyshyn (Sí, probablemente, tiene el apellido más extraño de la historia de la ciencia), cuando encontré una distinción conceptual tremendamente esclarecedora para superar uno de los grandes problemas de la consciencia ar"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Nine Orders Lanza \"Ex-Imperium\", Su Primer Álbum | Metal Progresivo Desde Suecia",
+    "link": "https://www.delotroladometal.com.ar/2026/03/07/metal-progresivo-desde-suecia/",
+    "fecha": "07/03/2026",
+    "contenido": "Encontrar buena música en estos tiempos es casi una quimera, y la misión es mucho...\nThe post Nine Orders Lanza \"Ex-Imperium\", Su Primer Álbum | Metal Progresivo Desde Suecia first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "¿Cómo cambiar el DNS al que se conecta Raspberry pi OS de 64 bits?",
     "link": "https://malagaoriginal.blogspot.com/2026/03/como-cambiar-el-dns-al-que-se-conecta.html",
@@ -7,11 +21,32 @@
     "contenido": "La última versión de Raspberry pi OS disponible en 2025 usa NetworkManager para gestionar las conexiones de red, por lo que la manera de configurar la red es distinta a lo que estamos acostumbrados.Vamos a ver como usar un DNS distinto al que nos asigna nuestro router, para lo que vamos a seguir los"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 10 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/03/06/opensuse-tumbleweed-revision-de-la-semana-10-de-2026/",
+    "fecha": "06/03/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Proyecto: Informes de Control para RSS",
+    "link": "https://interlan.ec/blog/2026/03/06/proyecto-control-rss/",
+    "fecha": "06/03/2026",
+    "contenido": "Esto solo es un script bash para tener una idea de cuantos lectores RSS se tienen."
+  },
+  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "La app que los capos usan para eludir la justicia: Zangi en el mundo delictivo",
     "link": "https://gatooscuro.xyz/la-app-que-los-capos-usan-para-eludir-la-justicia-zangi-en-el-mundo-delictivo/",
     "fecha": "06/03/2026",
     "contenido": "Hoy vengo a escribir sobre una aplicación de mensajería que lleva relativamente bastante tiempo en línea, con actuaciones de fondo que de verdad nunca me esperé. En este blog vengo,\nSeguir leyendo  La app que los capos usan para eludir la justicia: Zangi en el mundo delictivo\nEl cargo La app que los"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Youtube sin anuncios",
+    "link": "https://mareosdeungeek.es/youtube-sin-anuncios/",
+    "fecha": "06/03/2026",
+    "contenido": "Harto de los anuncios he decidido instalar el navegador Brave para disfrutar de Youtube sin ellos. Últimamente estaba viendo bastantes vídeos, sobre todo de cursos o para poner música y estudiar, las interrupciones constantes con anuncios eran demasiado molestas. Por ello, viendo opciones, he visto "
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -22,10 +57,24 @@
   },
   {
     "blog": "_ voidNull",
+    "titulo": "GadgetBridge: gestiona tu pulsera deportiva inteligente libremente",
+    "link": "https://voidnull.es/gadgetbridge-gestiona-tu-pulsera-deportiva-inteligente-libremente/",
+    "fecha": "06/03/2026",
+    "contenido": "Gadgetbridge es una aplicación libre que permite gestionar dispositivos como relojes inteligentes, pulseras deportivas y otros gadgets Bluetooth"
+  },
+  {
+    "blog": "_ voidNull",
     "titulo": "Migrar de un dongle Zigbee USB al SMLight SLZB-06 en Zigbee2MQTT",
     "link": "https://voidnull.es/migrar-de-un-dongle-zigbee-usb-al-smlight-slzb-06-en-zigbee2mqtt/",
     "fecha": "06/03/2026",
     "contenido": "En este artículo explicamos cómo sustituir un coordinador Zigbee USB tradicional por un SLZB-06, migrando la configuración de Zigbee2MQTT y pasando a una arquitectura basada en red, más limpia y flexible."
+  },
+  {
+    "blog": "",
+    "titulo": "Flema.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/03/06/flema/",
+    "fecha": "06/03/2026",
+    "contenido": "La mítica banda Argentina de Punk realizara una gira por Europa, y esa gira incluye una presentación en Irlanda, Flema desembarca por primera vez en Irlanda."
   },
   {
     "blog": "56K",
@@ -469,20 +518,6 @@
     "contenido": "En sus amplios conceptos pronunciados&nbsp;el 24 de febrero de 1949&nbsp;ante los representantes de gremios obreros acerca del panorama nacional, Juan Perón expone la necesidad aprender a elaborar y cumplimentar planes, a la vez que amplía sobre la conversión de Kodak PhotoCD a JPG en Ubuntu.(...)&n"
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "El poder de decir «No»",
-    "link": "https://victorhckinthefreeworld.com/2026/02/28/el-poder-de-decir-no/",
-    "fecha": "28/02/2026",
-    "contenido": "Vivimos en un mundo que nos presiona constantemente para decir \"sí\". Sí a los Términos del servicio que no leímos. Sí a la aplicación que todo el mundo utiliza. Sí a la cómoda y brillante jaula que ofrece el software privativo."
-  },
-  {
-    "blog": "Blog de Thalskarth",
-    "titulo": "Breve lista incompleta de cosas que me molestan",
-    "link": "https://blog.thalskarth.ar/cosas-que-me-molestan/",
-    "fecha": "28/02/2026",
-    "contenido": "No tiene un orden concreto, salieron a medida que me los acordaba:"
-  },
-  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Lecturas Febrero 2026",
     "link": "https://mcallus.net/2026/03/01/lecturas-febrero-2026/",
@@ -490,39 +525,11 @@
     "contenido": "Se acabó febrero, el mes más corto del año, y toca ver que he leído este mes. En números brutos son 16 grapas americanas (repartidas de diferentes formas entre ocho series). Aunque he avanzado con varios libros, lo cierto es que solo he terminado cómics este mes. Imperial 4 El cierre del evento Impe"
   },
   {
-    "blog": "plr blog",
-    "titulo": "No sabía que el cacahuete es una legumbre",
-    "link": "https://pedrolr.es/blog/no-sabia-que-el-cacahuete-es-una-legumbre/",
-    "fecha": "28/02/2026",
-    "contenido": "El finde pasado estuve en la montaña con mi hermano y yo llevaba yogures de soja chocolate. Llevo unos 8 meses que suelo rematar las comidas y cenas con un yogur de soja chocolate con 2 cucharadas de crema de cacahuete. Quizá incluso se podría decir que es crema de cacahuete con un poco de [&#8230;]"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Fábrica de Victoria Málaga",
-    "link": "https://mareosdeungeek.es/fabrica-de-victoria-malaga/",
-    "fecha": "28/02/2026",
-    "contenido": "Una de mis últimas actividades ha sido visitar la fábrica de Victoria Málaga. Cervezas Victoria es la productora de cervezas más conocida de la ciudad. Esta cervecera inició su actividad en 1928, así que dentro de poco celebrará su centenario. Aunque ha tenido algunos parones, durante unos meses en "
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "Manjaro Testing, una experiencia que puede sorprender",
     "link": "https://tecnoysoft.com/2026/02/28/manjaro-testing-una-experiencia-que-puede-sorprender/",
     "fecha": "28/02/2026",
     "contenido": "Tras diez meses utilizando la rama Testing de Manjaro, creo que merece la pena compartir la experiencia. Estos son los puntos clave que, a mi juicio, la resumen. Un modelo de testing conservador y bien diseñado Base sólida con capas adicionales de estabilidad Gestión flexible y segura del kernel Act"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Soberanía digital personal",
-    "link": "https://impermanente.es/2026/02/28/soberana-digital-personal.html",
-    "fecha": "28/02/2026",
-    "contenido": "¿Quién decide si voy a poder abrir mis documentos actuales en diez años? La respuesta, en la mayoría de los casos, no somos nosotros. Hace unos meses decidí que, en mi caso, ya no iba a ser así. No se trata de purismo tecnológico, sino de una decisión práctica sobre dónde viven mis ideas y creacione"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Al rico web scraping",
-    "link": "http://frikoteca.blogspot.com/2026/02/al-rico-web-scraping.html",
-    "fecha": "28/02/2026",
-    "contenido": "Como sabéis, no soy un gran fan de la Inteligencia Artificial. Hace más de un año que escribí una entrada soltando toda la bilis que podía soltar sobre la IA y, después de leerlo de nuevo, me reafirmo en todo lo escrito, punto por punto. Ese día debía estar algo cabreado, ahora que lo releo xD. \nEn "
   },
   {
     "blog": "Feed de Ardi",
@@ -539,52 +546,10 @@
     "contenido": "Los backups son importantes, y casi igual de importante es validar que los backups sirvan.\nLes voy a contar una historia de cómo se me volvió a grabar este concepto recientemente.\nLa situación\nSe me ocurrió que todos los cables que tengo en donde tengo las &ldquo;cosas de la internet&rdquo; estaban "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Desde Ecuador, Hidekel Estrena Su Nuevo Videoclip | Un Testigo Falso Va A Juicio",
-    "link": "https://www.delotroladometal.com.ar/2026/02/28/un-testigo-falso-va-a-juicio/",
-    "fecha": "28/02/2026",
-    "contenido": "Todo lo que tenga que ver con el derecho penal, me resulta de lo más...\nThe post Desde Ecuador, Hidekel Estrena Su Nuevo Videoclip | Un Testigo Falso Va A Juicio first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "El valor del trabajo",
     "link": "https://dani.torresburriel.com/el-valor-del-trabajo/",
     "fecha": "28/02/2026",
     "contenido": "No tenía previsto escribir nada hoy sábado. Pero hay días en los que las cosas se acumulan por dentro y la única forma de sacarlas es sentarse delante del ordenador y teclear. Y hoy es uno de esos días. Llevo meses madurando algo que suena muy de señor de 53 años, lo sé, pero que &#8230; Sigue leyen"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 9 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/02/27/opensuse-tumbleweed-revision-de-la-semana-9-de-2026/",
-    "fecha": "27/02/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "iAgosto Blog",
-    "titulo": "Migre mi blog a PHP!",
-    "link": "https://blog.iagosto.dev/entradas/migre-mi-blog-a-php",
-    "fecha": "27/02/2026",
-    "contenido": "En esta ocasión quiero contarles los motivos por los que decidí migrar mi blog; de estar en Typescript, con Deno, en un entorno de tecnología moderna. A PHP con Codeigniter, un framework de hace mas de 19 años."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Seguridad: SMTP Smuggling",
-    "link": "https://interlan.ec/blog/2026/02/27/seguridad-smtp-smuggling/",
-    "fecha": "27/02/2026",
-    "contenido": "La usurpación de identidad es una técnica bastante curiosa en el sentido de que no funciona para causar ningún daño técnico, sino para engañar al humano del otro lado del computador. Ya revisamos lo que sucedía en el Spoofing y ahora me salen con el SMTP Smuggling."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#184: volviendo a ver Friends",
-    "link": "https://www.macram.es/posts/2026/02/friends-de-nuevo/",
-    "fecha": "27/02/2026",
-    "contenido": "Estoy volviendo a ver Friends. No es que esté prestándole toda mi atención pero es una serie que me parece agradable de tener de fondo, sobre todo porque ya la conozco. Y creo que en general ha envejecido muy bien. Tengo opiniones sobre algunas cuestiones, pero en general las tramas y los personajes"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Cercanía",
-    "link": "https://www.xn--jmuoz-qta.es/2026/02/cercania.html",
-    "fecha": "27/02/2026",
-    "contenido": "\n  \n    \n  \nCórdoba de mis amores. Creo que no podría vivir en otro lugar que no fuera este. Antaño decía que nunca viviría en un lugar en el que tuviera que cambiar la tarjeta SIM del móvil, pero subo la apuesta.Hoy estoy de vacaciones y me ha dado tiempo, antes de ponerme con la comida, a desayuna"
   }
 ]
