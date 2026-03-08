@@ -1,10 +1,31 @@
 [
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Hola MacBook Neo",
+    "link": "https://mareosdeungeek.es/hola-macbook-neo/",
+    "fecha": "08/03/2026",
+    "contenido": "MacBook Neo viene a llenar un hueco que la propia Apple había ido creando con el paso de los años y las nuevas versiones de los MacBook. Los que llevábamos varias generaciones de ordenadores Apple hemos visto como se ha ido diversificando el número de opciones. Lo que empezó con el MacBook y el MacB"
+  },
+  {
     "blog": "Si dios te da limones",
     "titulo": "Down, down, down the road...",
     "link": "https://sidiostedalimones.com/blog/2026/down-the-road/",
     "fecha": "08/03/2026",
     "contenido": ""
+  },
+  {
+    "blog": "Spanish on Jorge Sanz",
+    "titulo": "Un par de usos para Gotify",
+    "link": "https://jorgesanz.net/posts/2026-03-08-un-par-de-usos-para-gotify/",
+    "fecha": "08/03/2026",
+    "contenido": "Llevo un tiempo usando Gotify para recibir notificaciones automáticas de cosas del servidor donde hospedo esta web. Esto en sí mismo no tiene mayor importancia, pero resulta que recientemente he añadido un par de funciones adicionales que sí me parecen más interesantes como para comentarlas por aquí"
+  },
+  {
+    "blog": "xol.ar",
+    "titulo": "Emulando teclado de Mac Logitech MX Keys en CachyOS/Linux",
+    "link": "https://xol.ar/emulando-teclado-mac-logitech-mx-keys-cachyos-linux/",
+    "fecha": "08/03/2026",
+    "contenido": "Cómo logré imitar casi por completo la distribución y funcionamiento un teclado de macOS en CachyOS/Linux."
   },
   {
     "blog": "La Frikoteca",
@@ -85,10 +106,10 @@
   },
   {
     "blog": "Mareos de un geek",
-    "titulo": "Youtube sin anuncios",
+    "titulo": "YouTube sin anuncios",
     "link": "https://mareosdeungeek.es/youtube-sin-anuncios/",
     "fecha": "06/03/2026",
-    "contenido": "Harto de los anuncios he decidido instalar el navegador Brave para disfrutar de Youtube sin ellos. Últimamente estaba viendo bastantes vídeos, sobre todo de cursos o para poner música y estudiar, las interrupciones constantes con anuncios eran demasiado molestas. Por ello, viendo opciones, he visto "
+    "contenido": "Harto de los anuncios he decidido instalar el navegador Brave para disfrutar de YouTube sin ellos. Últimamente estaba viendo bastantes vídeos, sobre todo de cursos o para poner música y estudiar, las interrupciones constantes con anuncios eran demasiado molestas. Por ello, viendo opciones, he visto "
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -243,6 +264,13 @@
     "link": "https://mareosdeungeek.es/leviathan/",
     "fecha": "04/03/2026",
     "contenido": "Leviathan es un anime de estética steampunk y ciencia ficción que presenta una versión alternativa de la  Primera Guerra Mundial. En esta serie, que consta de doce episodios, adapta los libros de la trilogia escrita por Scott Westerfeld. La serie ha sido realizada por el estudio Orange, conocido por"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#185: apuntes de italiano",
+    "link": "https://www.macram.es/posts/2026/03/apuntes-de-italiano/",
+    "fecha": "04/03/2026",
+    "contenido": "Llevo un tiempo aprendiendo italiano. Empecé con Duolingo, donde llegué a tener una racha de más de un año. Luego cambié Duolingo por Babbel, aprovechando que pude hacerme con una suscripción de por vida (ya sabemos cómo va eso), y reconozco que me gusta un poco más, porque Babbel explica gramática "
   },
   {
     "blog": "pov – matizeta",
@@ -413,6 +441,13 @@
     "contenido": "Guía técnica para definir una estrategia de privacidad robusta. Analizamos el modelado de amenazas, el uso selectivo de VPN según el dispositivo y la integración con servicios de red locales. Aprende a dimensionar tu protección sin añadir complejidad innecesaria a tu flujo de trabajo digital."
   },
   {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 09/2026",
+    "link": "https://www.macram.es/posts/2026/03/semana-09-2026/",
+    "fecha": "02/03/2026",
+    "contenido": "Ayer hizo un día estupendo, con viento pero con sol. Y decidimos hacer planes. Con unos amigos fui a montar en kart a un pueblo cercano, y la verdad es que me encantó la experiencia. Incluso se me hizo corta (hubiera dado otras diez vueltas muy tranquilamente). Planeo repetir tan pronto como me sea "
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "530. Bípedos siendo cuadrúpedos",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/03/530-bipedos-siendo-cuadrupedos.html",
@@ -483,45 +518,10 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Desconexión digital en el móvil",
-    "link": "https://mareosdeungeek.es/desconexion-digital-en-el-movil/",
-    "fecha": "01/03/2026",
-    "contenido": "Febrero ha sido el mes para probar una especie de desconexión digital en el móvil. Aunque el reto OFF February, se centraba únicamente en las redes sociales, he querido ir un poco más allá. Para ello, lo primero que hice fue desinstalar un montón de aplicaciones que tenía en el móvil y que no utiliz"
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "El electromagnetismo",
-    "link": "http://locutusbit.blogspot.com/2026/03/el-electromagnetismo.html",
-    "fecha": "01/03/2026",
-    "contenido": "&nbsp;La palabra es desconcertante, en todos los sentidos,es instantánea, como una tormenta de tristeza,como los labios en contacto con la lluvia,como el espacio que no quieren estar vacío,como la pobreza que se abraza a la primavera.La palabra traspasa su carencia buscando significado,buscando el e"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Ping #18: Actualizaciones, novedades y ranking de distros",
-    "link": "https://voidnull.es/ping-18/",
-    "fecha": "01/03/2026",
-    "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Marzo",
-    "link": "https://www.xn--jmuoz-qta.es/2026/03/marzo.html",
-    "fecha": "01/03/2026",
-    "contenido": "Y así, casi sin darnos cuenta, estrenamos el tercer mes del año, el que nos trae la primavera oficialmente dentro de unas semanas, aunque extraoficialmente hayamos podido disfrutar de un poquito de sol en esta que hoy termina. Bueno, veremos a ver cómo se presenta la próxima semana porque parece que"
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "A dónde Irán",
     "link": "https://www.fabio.com.ar/9885-a-donde-iran",
     "fecha": "01/03/2026",
     "contenido": "    \nA diferencia de Von der Leyen yo s&iacute; voy a trabajar un domingo hablando del tema principal de este fin de semana: el ataque masivo contra el r&eacute;gimen terrorista de Ir&aacute;n.\nNo es un finde cualquiera cuando EEUU e Israel lanzan el ataque m&aacute;s grande en Medio Oriente desde l"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Llegamos A Nuestro Primer Aniversario!!!",
-    "link": "https://www.delotroladometal.com.ar/2026/03/01/llegamos-a-nuestro-primer-aniversario/",
-    "fecha": "01/03/2026",
-    "contenido": "Estamos de festejo, llegamos al primer año de estar online con este proyecto llamado www.delotroladometal.com.ar,...\nThe post Llegamos A Nuestro Primer Aniversario!!! first appeared on Del Otro Lado Metal."
   }
 ]
