@@ -1,10 +1,52 @@
 [
   {
+    "blog": "Si dios te da limones",
+    "titulo": "Down, down, down the road...",
+    "link": "https://sidiostedalimones.com/blog/2026/down-the-road/",
+    "fecha": "08/03/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Mythras es tan sencillo como RuneQuest (si quieres que lo sea)",
+    "link": "http://frikoteca.blogspot.com/2026/03/mythras-es-tan-sencillo-como-runequest.html",
+    "fecha": "08/03/2026",
+    "contenido": "Como ya os he comentado el mes pasado, estoy dirigiendo de nuevo Mythras. Me lié la manta a la cabeza, les dije a mi grupo que dejábamos la anterior campaña y nos poníamos con una nueva, y ahí estamos. No se sorprendieron mucho; les cambio el sistema cada poco tiempo xD. Y bueno, sospecho que tambié"
+  },
+  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "La distinción de Pylyshyn",
     "link": "https://vonneumannmachine.wordpress.com/2026/03/07/la-distincion-de-pylyshyn/",
     "fecha": "07/03/2026",
     "contenido": "Andaba yo leyendo la obra Computación y cognición (1984) del canadiense Zenon Pylyshyn (Sí, probablemente, tiene el apellido más extraño de la historia de la ciencia), cuando encontré una distinción conceptual tremendamente esclarecedora para superar uno de los grandes problemas de la consciencia ar"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "El procés creatiu de la meva primera novela de ficció",
+    "link": "https://blog.danielaragay.net/el-proces-creatiu-de-la-meva-primera-novela-de-ficcio/",
+    "fecha": "07/03/2026",
+    "contenido": "En aquest cap&#xed;tol t&#x2019;explico en detall com ha estat el proc&#xe9;s creatiu i l&#x2019;&#xfa;s de la IA en la escriptura de la meva primera novela de ficci&#xf3; aix&#xed; com la realitzaci&#xf3; de video amb IA. Curtmetratge: Event Horizon"
+  },
+  {
+    "blog": "",
+    "titulo": "Ya esta confirmado el festejo de San Patricio de Valinor Irish Pub.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/03/07/ya-esta-confirmado-el-festejo-de-san-patricio-de-valinor-irish-pub/",
+    "fecha": "07/03/2026",
+    "contenido": "Agendate el viernes 20/03 🍻St. Patrick’s Day se vive en Valinor 🍀Una tradición especial que nos encanta compartir con ustedes: música, juegos, sorpresas y muuuucha birra.Venís con amigos para tomar, entrás en modo irlandés y te volvés con anécdotas que vas a contar por años.📩 Reservá con tiempo por "
+  },
+  {
+    "blog": "56K",
+    "titulo": "Compilar OpenRA en Linux – Command And Conquer, Dune 2000, Red Alert",
+    "link": "https://56k.es/fanta/compilar-openra-en-linux/",
+    "fecha": "07/03/2026",
+    "contenido": "Red Alert, Command &#038; Conquer, Dune 2000, &#8230; son juegos disfrutables al día de hoy con OpenRA (un motor libre). En Debian forky (Debian 14, ando en SID) lo he compilado así: # apt update # apt install make liblua5.1-0-dev libfreetype6 libopenal1 liblua5.1-0 libsdl2-2.0-0 $ wget \"https://git"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Shroud - Adrian Tchaikovsky",
+    "link": "https://nachof.blog/posts/2026/shroud/",
+    "fecha": "07/03/2026",
+    "contenido": "\n\n\n\nI was well aware that, as before, every guess was steeped in my human Earth-born viewpoint, but what other tools did I have to try and understand?\n\nParece que es un tema recurrente en los libros de Adrian Tchaikovsky: primer contacto con una inteligencia extraterrestre que funciona totalmente di"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -203,13 +245,6 @@
     "contenido": "Leviathan es un anime de estética steampunk y ciencia ficción que presenta una versión alternativa de la  Primera Guerra Mundial. En esta serie, que consta de doce episodios, adapta los libros de la trilogia escrita por Scott Westerfeld. La serie ha sido realizada por el estudio Orange, conocido por"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#185: apuntes de italiano",
-    "link": "https://www.macram.es/posts/2026/03/apuntes-de-italiano/",
-    "fecha": "04/03/2026",
-    "contenido": "Llevo un tiempo aprendiendo italiano. Empecé con Duolingo, donde llegué a tener una racha de más de un año. Luego cambié Duolingo por Babbel, aprovechando que pude hacerme con una suscripción de por vida (ya sabemos cómo va eso), y reconozco que me gusta un poco más, porque Babbel explica gramática "
-  },
-  {
     "blog": "pov – matizeta",
     "titulo": "Sé que soy aburrido",
     "link": "https://matizeta.com/2026/03/04/se-que-soy-aburrido/",
@@ -378,13 +413,6 @@
     "contenido": "Guía técnica para definir una estrategia de privacidad robusta. Analizamos el modelado de amenazas, el uso selectivo de VPN según el dispositivo y la integración con servicios de red locales. Aprende a dimensionar tu protección sin añadir complejidad innecesaria a tu flujo de trabajo digital."
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 09/2026",
-    "link": "https://www.macram.es/posts/2026/03/semana-09-2026/",
-    "fecha": "02/03/2026",
-    "contenido": "Ayer hizo un día estupendo, con viento pero con sol. Y decidimos hacer planes. Con unos amigos fui a montar en kart a un pueblo cercano, y la verdad es que me encantó la experiencia. Incluso se me hizo corta (hubiera dado otras diez vueltas muy tranquilamente). Planeo repetir tan pronto como me sea "
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "530. Bípedos siendo cuadrúpedos",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/03/530-bipedos-siendo-cuadrupedos.html",
@@ -448,13 +476,6 @@
     "contenido": "Por aquí iremos publicando y actualizando todas las fechas de los shows del año, tanto...\nThe post Las Fechas Del 2026 Condensadas En Un Solo Espacio | Agenda Del Acero first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Webnauta ⁂",
-    "titulo": "Tiempo para hacer de todo menos pensar",
-    "link": "https://webnauta.blog/p/tiempo-para-hacer-de-todo-menos-pensar/",
-    "fecha": "01/03/2026",
-    "contenido": "\nCuando un científico eminente pero anciano afirma que algo es posible, es casi seguro que tiene razón. Cuando afirma que algo es imposible, muy probablemente está equivocado. — Sir Arthur Charles Clarke\n\nHay intuiciones que, como el vino, mejoran con el paso del tiempo. No requieren grandes elucubr"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "Recuerdos de museos (mi post del IndieWeb Carnival de marzo)",
     "link": "https://blog.luiscarlospando.com/personal/2026/03/recuerdos-de-museos-mi-post-del-indieweb-carnival-de-marzo/",
@@ -490,13 +511,6 @@
     "contenido": "Y así, casi sin darnos cuenta, estrenamos el tercer mes del año, el que nos trae la primavera oficialmente dentro de unas semanas, aunque extraoficialmente hayamos podido disfrutar de un poquito de sol en esta que hoy termina. Bueno, veremos a ver cómo se presenta la próxima semana porque parece que"
   },
   {
-    "blog": "El blog es mío",
-    "titulo": "Notas",
-    "link": "https://alex.corcoles.net/2026/03/notas",
-    "fecha": "01/03/2026",
-    "contenido": "\n  Hoy tocaba escribir en el blog, pero en vez de ello me he dedicado a migrar m&#225;s contenido (principalmente \"ensayos\") a esta web.\n  Durante mucho tiempo, met&#237;a ficheros de texto (mayoritariamente en Markdown) en mi \"monorepo\" Git personal. (El monorepo es un amalgama de un mont&#243;n de"
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "A dónde Irán",
     "link": "https://www.fabio.com.ar/9885-a-donde-iran",
@@ -509,47 +523,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/03/01/llegamos-a-nuestro-primer-aniversario/",
     "fecha": "01/03/2026",
     "contenido": "Estamos de festejo, llegamos al primer año de estar online con este proyecto llamado www.delotroladometal.com.ar,...\nThe post Llegamos A Nuestro Primer Aniversario!!! first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Ubuntu Peronista",
-    "titulo": "¿Cómo convierto PhotoCD a JPG en Ubuntu?",
-    "link": "https://ubuntuperonista.blogspot.com/2026/02/convertir-kodak-photocd-a-jpeg-en-ubuntu.html",
-    "fecha": "28/02/2026",
-    "contenido": "En sus amplios conceptos pronunciados&nbsp;el 24 de febrero de 1949&nbsp;ante los representantes de gremios obreros acerca del panorama nacional, Juan Perón expone la necesidad aprender a elaborar y cumplimentar planes, a la vez que amplía sobre la conversión de Kodak PhotoCD a JPG en Ubuntu.(...)&n"
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Lecturas Febrero 2026",
-    "link": "https://mcallus.net/2026/03/01/lecturas-febrero-2026/",
-    "fecha": "28/02/2026",
-    "contenido": "Se acabó febrero, el mes más corto del año, y toca ver que he leído este mes. En números brutos son 16 grapas americanas (repartidas de diferentes formas entre ocho series). Aunque he avanzado con varios libros, lo cierto es que solo he terminado cómics este mes. Imperial 4 El cierre del evento Impe"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Manjaro Testing, una experiencia que puede sorprender",
-    "link": "https://tecnoysoft.com/2026/02/28/manjaro-testing-una-experiencia-que-puede-sorprender/",
-    "fecha": "28/02/2026",
-    "contenido": "Tras diez meses utilizando la rama Testing de Manjaro, creo que merece la pena compartir la experiencia. Estos son los puntos clave que, a mi juicio, la resumen. Un modelo de testing conservador y bien diseñado Base sólida con capas adicionales de estabilidad Gestión flexible y segura del kernel Act"
-  },
-  {
-    "blog": "Feed de Ardi",
-    "titulo": "Metroid Prime Beyond",
-    "link": "https://www.ardi.monster/blog/metroid-prime-beyond",
-    "fecha": "28/02/2026",
-    "contenido": "Cuarta entrega de la saga Prime con Samus a traves del desierto"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Los backups son importantes",
-    "link": "https://nachof.blog/posts/2026/los-backups-son-importantes/",
-    "fecha": "28/02/2026",
-    "contenido": "Los backups son importantes, y casi igual de importante es validar que los backups sirvan.\nLes voy a contar una historia de cómo se me volvió a grabar este concepto recientemente.\nLa situación\nSe me ocurrió que todos los cables que tengo en donde tengo las &ldquo;cosas de la internet&rdquo; estaban "
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "El valor del trabajo",
-    "link": "https://dani.torresburriel.com/el-valor-del-trabajo/",
-    "fecha": "28/02/2026",
-    "contenido": "No tenía previsto escribir nada hoy sábado. Pero hay días en los que las cosas se acumulan por dentro y la única forma de sacarlas es sentarse delante del ordenador y teclear. Y hoy es uno de esos días. Llevo meses madurando algo que suena muy de señor de 53 años, lo sé, pero que &#8230; Sigue leyen"
   }
 ]
