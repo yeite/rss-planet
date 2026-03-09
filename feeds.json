@@ -1,5 +1,82 @@
 [
   {
+    "blog": "Un bruto con Debian",
+    "titulo": "NoiseTorch, el micro virtual con cancelación de ruido.",
+    "link": "http://unbrutocondebian.blogspot.com/2026/03/noisetorch-el-micro-virtual-con.html",
+    "fecha": "09/03/2026",
+    "contenido": "&nbsp;Siempre he sido más de escribir que de hablar. Por eso esto es un blog y no un podcast. Así que nunca me he preocupado de tener un micrófono decente en mi equipo.¿Y que ocurre si en un momento dado necesito grabar algo con un mínimo de calidad o tener una reunión de Teams o Zoom o Webex en la "
+  },
+  {
+    "blog": "alt43",
+    "titulo": "El precio del software gratuito: extracción de datos en Android y Windows",
+    "link": "https://alt43.es/el-precio-del-software-gratuito-extraccion-de-datos-en-android-y-windows/",
+    "fecha": "09/03/2026",
+    "contenido": "Android y Windows recopilan información sobre ti de forma continua y silenciosa: tu ubicación, tus hábitos, tus relaciones, tu estado de ánimo. No es alarmismo, es el modelo de negocio detrás del software gratuito. Este artículo explica qué datos se extraen, qué riesgos reales suponen y qué puedes h"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 10/2026",
+    "link": "https://www.macram.es/posts/2026/03/semana-10-2026/",
+    "fecha": "09/03/2026",
+    "contenido": "Esta semana ha sido más &ldquo;normal&rdquo; que la anterior. Más &ldquo;rutinaria&rdquo;, si lo preferís. He vuelto al gimnasio, parece que de manera definitiva (habrá que ver cuánto aguanto). Fuera de ese cambio y de querer, más o menos, reiniciar mi aprendizaje de italiano, la semana ha sido bast"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "MacBook Neo es lo que hace tiempo queríamos ver hacer a un iPad",
+    "link": "https://matizeta.com/2026/03/09/macbook-neo-es-lo-que-hace-tiempo-queriamos-ver-hacer-a-un-ipad/",
+    "fecha": "09/03/2026",
+    "contenido": "Me gusta hablar de Apple, lo sabes. Soy usuario y puedo decirte que a nivel general me parece la mejor opción con respecto a Windows.&#160; Esta semana hubo anuncios de nuevos productos de Apple y en este post solo me voy a enfocar en los nuevo MacBook Neo, la gama de entrada a sus portátiles.&#160;"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de un nodo de Mastodon en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-un-nodo-de-mastodon-en-debian-13/",
+    "fecha": "09/03/2026",
+    "contenido": "Mastodon es una red social libre y descentralizada de microblogging. Esta red social es una federación descentralizada de servidores que ejecutan el Software bajo licencia AGPL."
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Erica a diario",
+    "link": "https://www.ericafustero.com/2026-03-erica-a-diario",
+    "fecha": "09/03/2026",
+    "contenido": "Hace cosa de dos años, allá por febrero de 2024, decidí participar en el Hourly comic day, un evento en el que dibujantes de todo el mundo se dedican a contar su día en formato cómic. La experiencia me gustó tanto que decidí seguir dibujando y publicando mis días en formato diario el resto del [&#82"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "El nivel del actual feminismo",
+    "link": "https://www.xn--jmuoz-qta.es/2026/03/el-nivel-del-actual-feminismo.html",
+    "fecha": "09/03/2026",
+    "contenido": "\n  \n    \n  \nAyer, pegando un repaso a la prensa antes de acostarme, me encontré la imagen que está sobre estas líneas en la portada de El País.Iba a leer algo sobre la actualidad del día antes de acostarme, pero en ese antaño Día de la Mujer Trabajadora, marcado desde hace años por unas manifestacio"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Maldición eterna a quien lea este blog",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/maldicion-eterna-a-quien-lea-este-blog/",
+    "fecha": "09/03/2026",
+    "contenido": "La pantalla no brilla; supura una luz biliar que te fija las pupilas al cristal. Ya es tarde. Al desplazar el cursor, has activado el engranaje de una maquinaria invisible. No busques el botón de salida, porque el hipervínculo ahora corre por tu sistema nervioso.\nCada palabra que devoras es un ladri"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El F-35 está demostrando que valía la pena",
+    "link": "https://www.fabio.com.ar/9891-el-f-35-esta-demostrando-que-valia-la-pena",
+    "fecha": "09/03/2026",
+    "contenido": "    \nSiempre fui cr&iacute;tico del programa del F-35 Lightning II porque me parec&iacute;a excesivamente costoso y sin un escenario real de uso, un avi&oacute;n que r&aacute;pidamente podr&iacute;a volverse obsoleto si era alcanzado tecnol&oacute;gicamente por un rival, etc.\nLa realidad est&aacute;"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Fisión Nuclear: Libres De Todo Mal | La Energía Nuclear Y Sus Leyes",
+    "link": "https://www.delotroladometal.com.ar/2026/03/09/la-energia-nuclear-y-sus-leyes/",
+    "fecha": "09/03/2026",
+    "contenido": "(2025 &#8211; Metal Command) El tema de lo nuclear está de moda últimamente. Bah, nunca...\nThe post Fisión Nuclear: Libres De Todo Mal | La Energía Nuclear Y Sus Leyes first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "El informe de Anthropic sobre empleo y AI no menciona a los diseñadores. Eso también es un dato.",
+    "link": "https://dani.torresburriel.com/informe-anthropic-empleo-ia-disenadores-ux/",
+    "fecha": "09/03/2026",
+    "contenido": "La semana pasada Anthropic publicó un informe sobre el impacto de la IA en el mercado laboral. Lo comparto aquí porque juego en casa: es un informe de la empresa que hace Claude, y lo he leído con bastante atención porque el tema me afecta directamente, tanto como profesional como como persona que l"
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "No estamos todas...",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/no-estamos-todas/",
@@ -50,7 +127,7 @@
   },
   {
     "blog": "xol.ar",
-    "titulo": "Emulando teclado de Mac Logitech MX Keys en CachyOS/Linux",
+    "titulo": "emulando teclado de Mac Logitech MX Keys en CachyOS/Linux",
     "link": "https://xol.ar/emulando-teclado-mac-logitech-mx-keys-cachyos-linux/",
     "fecha": "08/03/2026",
     "contenido": "Cómo logré imitar casi por completo la distribución y funcionamiento un teclado de macOS en CachyOS/Linux."
@@ -441,20 +518,6 @@
     "contenido": "No estoy muerto, simplemente estoy viciado. En el último mes tuve unas ganas terribles de recordar algunos juegos de Pokémon, en parte gracias a las buenas experiencias que tuve con Gemini AI sobre la gestión personalizada de la partida y el análisis de estrategias. Una cosa llevó a la otra, y con l"
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Primer año en el club de lectura de Librería Luces",
-    "link": "https://mcallus.net/2026/03/02/primer-ano-en-el-club-de-lectura-de-libreria-luces/",
-    "fecha": "02/03/2026",
-    "contenido": "En su momento cuando cumplí un año en el Club de Lectura (o más bien cuando llevaba doce libros) en febrero de 2025 quería haber hecho un podcast/vídeo al respecto. Al final como no me dio la vida el tiempo fue pasando y pasaron los meses y ya no me pareció razonable publicar ese contenido. [&#8230;"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Hablemos de Instagram, bueno, de las redes sociales en general",
-    "link": "https://blog.luiscarlospando.com/personal/2026/03/hablemos-de-instagram-bueno-de-las-redes-sociales-en-general/",
-    "fecha": "02/03/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "El misterio de la lavandería de Yeonnam-dong",
     "link": "https://mareosdeungeek.es/el-misterio-de-la-lavanderia-de-yeonnam-dong/",
@@ -462,32 +525,11 @@
     "contenido": "El misterio de la lavandería de Yeonnam-dong de Kim Jiyun es otro ejemplo de healing fiction asiática. Esta obra es surcoreana pero sigue las mismas premisas de los libros japoneses del mismo estilo. En esta ocasión nos trasladamos al bullicioso y popular barrio de Yeonnam en la ciudad de Seúl. Allí"
   },
   {
-    "blog": "alt43",
-    "titulo": "Definiendo nuestra estrategia de privacidad",
-    "link": "https://alt43.es/definiendo-nuestra-estrategia-de-privacidad/",
-    "fecha": "02/03/2026",
-    "contenido": "Guía técnica para definir una estrategia de privacidad robusta. Analizamos el modelado de amenazas, el uso selectivo de VPN según el dispositivo y la integración con servicios de red locales. Aprende a dimensionar tu protección sin añadir complejidad innecesaria a tu flujo de trabajo digital."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 09/2026",
-    "link": "https://www.macram.es/posts/2026/03/semana-09-2026/",
-    "fecha": "02/03/2026",
-    "contenido": "Ayer hizo un día estupendo, con viento pero con sol. Y decidimos hacer planes. Con unos amigos fui a montar en kart a un pueblo cercano, y la verdad es que me encantó la experiencia. Incluso se me hizo corta (hubiera dado otras diez vueltas muy tranquilamente). Planeo repetir tan pronto como me sea "
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "530. Bípedos siendo cuadrúpedos",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/03/530-bipedos-siendo-cuadrupedos.html",
     "fecha": "02/03/2026",
     "contenido": "&nbsp; &nbsp; Llevo unos días leyendo sobre algo de reciente viralización llamado teriantropía. No es que me interese, pero me he obligado a ello antes de escribir esta entrada. Y me ha dado la sensación de que todo lo que he leído sobre el tema intenta convencerme de que es una práctica similar al "
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Newsletter #46 - Pangolin por todas partes y también creamos un segundo nodo de AdGuard Home.",
-    "link": "https://voidnull.es/newsletter/newsletter-46/",
-    "fecha": "02/03/2026",
-    "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
   },
   {
     "blog": "Bitácora de fernand0",
@@ -509,33 +551,5 @@
     "link": "https://mundoceltamedieval.wordpress.com/2026/03/02/gran-evento-sobre-musica-irlandesa-en-lago-puelo/",
     "fecha": "02/03/2026",
     "contenido": ""
-  },
-  {
-    "blog": "56K",
-    "titulo": "El optimismo Ludita",
-    "link": "https://56k.es/fanta/el-optimismo-ludita/",
-    "fecha": "02/03/2026",
-    "contenido": "Es un error reducir los debates a «Tecno optimismo de Silicon Valley VS pesimismo Ludita» básicamente porque los Luditas eran optimistas. Cuando dices «Tecnología sí, pero no así» estas siendo optimista. Es interesante leer el libro «Sangre en las máquinas» de Brian Merchant porque habla de que los "
-  },
-  {
-    "blog": "56K",
-    "titulo": "El dinero de las grandes tecnológicas en el Kernel Linux",
-    "link": "https://56k.es/fanta/el-dinero-de-las-grandes-tecnologicas-en-el-kernel-linux/",
-    "fecha": "02/03/2026",
-    "contenido": "Decir que Linux no tiene jefes es no conocer realmente la furia de Linus Torvalds en la lista del kernel :). Fuera bromas el proyecto del Kernel de Linux (que sin duda es solamente el Kernel y no una distribucion completa funcional de sistema operativo) es buena cosa pero no es cierto que no tenga.."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Los gigantes del aire cancelados",
-    "link": "https://www.fabio.com.ar/9886-los-gigantes-del-aire-cancelados",
-    "fecha": "02/03/2026",
-    "contenido": "    \nHubo una &eacute;poca en la que casi, casi, tenemos toda una fllota de gitantes del aire, pero la realidad los hizo chocar contra una pared, la realidad de la eficiencia.\nEs que las ideas derivadas de la guerra no son siempre aplicables en la paz, en un avi&oacute;n de combate no te importa tan"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Las Fechas Del 2026 Condensadas En Un Solo Espacio | Agenda Del Acero",
-    "link": "https://www.delotroladometal.com.ar/2026/03/02/agenda-del-acero/",
-    "fecha": "02/03/2026",
-    "contenido": "Por aquí iremos publicando y actualizando todas las fechas de los shows del año, tanto...\nThe post Las Fechas Del 2026 Condensadas En Un Solo Espacio | Agenda Del Acero first appeared on Del Otro Lado Metal."
   }
 ]
