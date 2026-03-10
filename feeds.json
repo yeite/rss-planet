@@ -1,5 +1,19 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Errores de certificados en curl y OpenSSL al actualizar openSUSE Tumbleweed",
+    "link": "https://victorhckinthefreeworld.com/2026/03/09/errores-de-certificados-en-curl-y-openssl-al-actualizar-opensuse-tumbleweed/",
+    "fecha": "09/03/2026",
+    "contenido": "Al intentar actualizar openSUSE Tumbleweed curl me daba una serie de errores de certificados al querer acceder a los repositorios y no me dejaba actualizar el sistema"
+  },
+  {
+    "blog": "Blog de Thalskarth",
+    "titulo": "Openings buenos en animes malos",
+    "link": "https://blog.thalskarth.ar/openings-buenos-en-animes-malos/",
+    "fecha": "09/03/2026",
+    "contenido": "No se si a ustedes les haya pasado, seguro es un raye mío. Pero tengo una regla que suele cumplirse seguido: Muchos de los mejores openings, esos que más me gustan, son de animes que realmente no me gustaron o eran un meh atómico. Como que “a mejor opening, peor anime”."
+  },
+  {
     "blog": "Un bruto con Debian",
     "titulo": "NoiseTorch, el micro virtual con cancelación de ruido.",
     "link": "http://unbrutocondebian.blogspot.com/2026/03/noisetorch-el-micro-virtual-con.html",
@@ -7,11 +21,32 @@
     "contenido": "&nbsp;Siempre he sido más de escribir que de hablar. Por eso esto es un blog y no un podcast. Así que nunca me he preocupado de tener un micrófono decente en mi equipo.¿Y que ocurre si en un momento dado necesito grabar algo con un mínimo de calidad o tener una reunión de Teams o Zoom o Webex en la "
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Maspalomas la película",
+    "link": "https://mareosdeungeek.es/maspalomas-la-pelicula/",
+    "fecha": "09/03/2026",
+    "contenido": "Maspalomas es una película dirigida por el cineasta vasco José Mari Goenaga, está protagonizada por José Ramón Soroiz que ganó el Goya a mejor actor principal la pasada semana. En Maspalomas también intervienen Kandido Uranga y Nagore Aranburu, además de otros actores y actrices vascos. De hecho la "
+  },
+  {
     "blog": "alt43",
     "titulo": "El precio del software gratuito: extracción de datos en Android y Windows",
     "link": "https://alt43.es/el-precio-del-software-gratuito-extraccion-de-datos-en-android-y-windows/",
     "fecha": "09/03/2026",
     "contenido": "Android y Windows recopilan información sobre ti de forma continua y silenciosa: tu ubicación, tus hábitos, tus relaciones, tu estado de ánimo. No es alarmismo, es el modelo de negocio detrás del software gratuito. Este artículo explica qué datos se extraen, qué riesgos reales suponen y qué puedes h"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Usar GNU/Linux, el arte de no encajar",
+    "link": "https://tecnoysoft.com/2026/03/09/usar-gnu-linux-el-arte-de-no-encajar/",
+    "fecha": "09/03/2026",
+    "contenido": "En el mundo de la tecnología hay una corriente dominante. Sistemas diseñados para funcionar sin preguntas, sin demasiadas opciones y sin obligarte a pensar demasiado en lo que ocurre detrás de la pantalla. En ese contexto, usar GNU/Linux suele sentirse como caminar en dirección contraria y, curiosam"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#186: café americanon't",
+    "link": "https://www.macram.es/posts/2026/03/cafe-americanont/",
+    "fecha": "09/03/2026",
+    "contenido": "Hoy he probado a hacerme lo que honestamente pensaba que era un café americano. He echado 35 gramos de un café molido más bien grueso (Delta Brasil en mi caso, porque es lo que tenía a mano) y 250 gramos de agua hirviendo. Un poco de edulcorante en la taza, a filtrar y a beber. Y la verdad es que es"
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -26,6 +61,13 @@
     "link": "https://matizeta.com/2026/03/09/macbook-neo-es-lo-que-hace-tiempo-queriamos-ver-hacer-a-un-ipad/",
     "fecha": "09/03/2026",
     "contenido": "Me gusta hablar de Apple, lo sabes. Soy usuario y puedo decirte que a nivel general me parece la mejor opción con respecto a Windows.&#160; Esta semana hubo anuncios de nuevos productos de Apple y en este post solo me voy a enfocar en los nuevo MacBook Neo, la gama de entrada a sus portátiles.&#160;"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "El pan nuestro de cada IA",
+    "link": "https://blog.danielaragay.net/el-pan-nuestro-de-cada-ia/",
+    "fecha": "09/03/2026",
+    "contenido": "Tres temas hoy: efectivo en Suecia, menores y redes sociales y la IA en nuestro d&#xed;a a d&#xed;a: Event Horizon - an IA Short Film Event Horizon - an IA Short Film https://youtu.be/8Ckc5AoJaIYFormas de patrocinio. Blog danielaragay.net Todos los podcasts: https:"
   },
   {
     "blog": "_ voidNull",
@@ -54,6 +96,27 @@
     "link": "https://danielomarcignacco.mataroa.blog/blog/maldicion-eterna-a-quien-lea-este-blog/",
     "fecha": "09/03/2026",
     "contenido": "La pantalla no brilla; supura una luz biliar que te fija las pupilas al cristal. Ya es tarde. Al desplazar el cursor, has activado el engranaje de una maquinaria invisible. No busques el botón de salida, porque el hipervínculo ahora corre por tu sistema nervioso.\nCada palabra que devoras es un ladri"
+  },
+  {
+    "blog": "",
+    "titulo": "El grupo de musica celta Sete Netos se presenta en San Telmo.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/03/09/el-grupo-de-musica-celta-sete-netos-se-presenta-en-san-telmo/",
+    "fecha": "09/03/2026",
+    "contenido": "El grupo de musica celta Sete Netos se presenta en San Telmo para festejar San Patricio."
+  },
+  {
+    "blog": "",
+    "titulo": "Anam Keltoi.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/03/09/anam-keltoi-5/",
+    "fecha": "09/03/2026",
+    "contenido": "Anam Keltoi se presenta en el Tatro Astengo en Rosario para festejar San Patricio, el concierto se realizara el 20 de marzo a las 20 Horas. Abajo tiene el Link para las entradas. Click Aqui"
+  },
+  {
+    "blog": "Calaveras",
+    "titulo": "Resumen de Noticias de la IA - Febrero 2026",
+    "link": "https://calaveras.bearblog.dev/resumen-de-noticias-de-la-ia-febrero-2026/",
+    "fecha": "09/03/2026",
+    "contenido": "Llevamos un par de días adentrados en Marzo, pido disculpas por demorar este posteo. Vamos con eso.\nAntrophic compra AntrophicEl creador de Claudio, Claudio Pro, Claudio 4.5, Claudio 5.4, Claudio THX, y Claudio GTA6 anuncia la compra de su propia empresa Antrophic. ¿Cómo funciona eso? Es fácil de en"
   },
   {
     "blog": "Fabio.com.ar",
@@ -483,13 +546,6 @@
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
   },
   {
-    "blog": "Webnauta ⁂",
-    "titulo": "Modas algorítmicas",
-    "link": "https://webnauta.blog/p/modas-algoritmicas/",
-    "fecha": "03/03/2026",
-    "contenido": "Imaginemos por un momento VII\nLos seres humanos somos sociales por naturaleza: estamos hechos para encajar y agradar. Desde tiempos inmemoriales, ambas tareas han sido complejas incluso en comunidades pequeñas. Hoy, bajo la influencia de las redes sociales, esa complejidad ha alcanzado niveles estra"
-  },
-  {
     "blog": "",
     "titulo": "Anam Keltoi.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/03/03/anam-keltoi-4/",
@@ -509,47 +565,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/03/03/de-un-extremo-al-otro/",
     "fecha": "03/03/2026",
     "contenido": "(2024 &#8211; Rottweiler Records) Lo primero que se me ocurre es que los Shamash están...\nThe post Shamash: Done With Misery (Nos Pergamos In Domine Saluteum) | De Un Extremo Al Otro first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "melonDS, mi nuevo emulador favorito",
-    "link": "https://thecheis.com/2026/03/02/melonds-mi-nuevo-emulador-favorito/",
-    "fecha": "02/03/2026",
-    "contenido": "No estoy muerto, simplemente estoy viciado. En el último mes tuve unas ganas terribles de recordar algunos juegos de Pokémon, en parte gracias a las buenas experiencias que tuve con Gemini AI sobre la gestión personalizada de la partida y el análisis de estrategias. Una cosa llevó a la otra, y con l"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "El misterio de la lavandería de Yeonnam-dong",
-    "link": "https://mareosdeungeek.es/el-misterio-de-la-lavanderia-de-yeonnam-dong/",
-    "fecha": "02/03/2026",
-    "contenido": "El misterio de la lavandería de Yeonnam-dong de Kim Jiyun es otro ejemplo de healing fiction asiática. Esta obra es surcoreana pero sigue las mismas premisas de los libros japoneses del mismo estilo. En esta ocasión nos trasladamos al bullicioso y popular barrio de Yeonnam en la ciudad de Seúl. Allí"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "530. Bípedos siendo cuadrúpedos",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/03/530-bipedos-siendo-cuadrupedos.html",
-    "fecha": "02/03/2026",
-    "contenido": "&nbsp; &nbsp; Llevo unos días leyendo sobre algo de reciente viralización llamado teriantropía. No es que me interese, pero me he obligado a ello antes de escribir esta entrada. Y me ha dado la sensación de que todo lo que he leído sobre el tema intenta convencerme de que es una práctica similar al "
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "Fatiga regulatoria, riesgos y consecuencias",
-    "link": "https://blog.elmundoesimperfecto.com/2026/03/02/cumplimiento-fatiga/",
-    "fecha": "02/03/2026",
-    "contenido": "\n\nCuando hablamos de seguridad (aunque también si hablamos solo de llevar adelante nuestro trabajo) aparecen los aspectos de las regulaciones: muchas veces nos parecen un inconveniente y un freno, pero la realidad es que a veces hay que hacer normas para que determinadas operaciones (que parecen de "
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "Secuestro de datos en el entorno industrial: un gran problema",
-    "link": "https://fernand0.github.io//consecuencias-secuestro-datos/",
-    "fecha": "02/03/2026",
-    "contenido": "El secuestro de datos (ransomware) es un problema que sigue de actualidad, aunque ahora esté un poco silenciado por los riesgos de la IA. Hace algún tiempo podíamos leer On average, manufacturing companies lose $1.9 million per day to downtime from ransomware attacks. Esto es, este tipo de ataques e"
-  },
-  {
-    "blog": "",
-    "titulo": "Gran evento sobre musica Irlandesa en Lago Puelo.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/03/02/gran-evento-sobre-musica-irlandesa-en-lago-puelo/",
-    "fecha": "02/03/2026",
-    "contenido": ""
   }
 ]
