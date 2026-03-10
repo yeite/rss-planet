@@ -1,5 +1,47 @@
 [
   {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Si muriera hoy",
+    "link": "https://blog.luiscarlospando.com/personal/2026/03/si-muriera-hoy/",
+    "fecha": "10/03/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "End3r.es",
+    "titulo": "La \"fantabulosa\" historia de CryptoQueen",
+    "link": "https://www.end3r.es/posts/015-cryptoqueen/",
+    "fecha": "10/03/2026",
+    "contenido": "La historia de Ruja Ignatova, conocida mundialmente como “CryptoQueen”, es uno de los escándalos financieros\nmás fascinantes, turbios e increíbles de la era digital. \nSu nombre está ligado a OneCoin, una supuesta criptomoneda que resultó ser un gigantesco fraude global\nque estafó miles de millones d"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "532. Bajo tierra sin ser enanos",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/03/532-bajo-tierra-sin-ser-enanos.html",
+    "fecha": "10/03/2026",
+    "contenido": "&nbsp; &nbsp; Era su primer día en la mina. A media mañana, minutos después del almuerzo, se acercó hasta mí y me preguntó con cierto reparo y mucha urgencia lo que siempre inquieren todos los nuevos un día u otro.&nbsp;&nbsp; &nbsp; Le di las indicaciones pertinentes y, sin pensárselo, se colocó el"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Los nueve juegos...",
+    "link": "https://impermanente.es/2026/03/10/los-nueve-juegos.html",
+    "fecha": "10/03/2026",
+    "contenido": "&hellip;que definieron mi infancia, de acuerdo al último trend de moda en redes =)\n"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "VHS - Mi propio YouTube en el blog",
+    "link": "https://www.fabio.com.ar/9892-vhs---mi-propio-youtube-en-el-blog",
+    "fecha": "10/03/2026",
+    "contenido": "    \nHace unos a&ntilde;os hab&iacute;a recibido un strike en mi canal de YouTube y hab&iacute;a comenzado a programar un sistema propio donde ubicar mis videos \"no tan aptos\" para esa plataforma (YouTube es tan censurador que hoy por hoy ciertos temas no se pueden publicar). No era muy rentable la "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Los Brasileños Andarán Por Oriente, Europa Y Centroamérica | Antidemon De Gira",
+    "link": "https://www.delotroladometal.com.ar/2026/03/10/antidemon-de-gira/",
+    "fecha": "10/03/2026",
+    "contenido": "Es difícil encontrar una banda que haya viajado tanto por el mundo y por diferentes...\nThe post Los Brasileños Andarán Por Oriente, Europa Y Centroamérica | Antidemon De Gira first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Errores de certificados en curl y OpenSSL al actualizar openSUSE Tumbleweed",
     "link": "https://victorhckinthefreeworld.com/2026/03/09/errores-de-certificados-en-curl-y-openssl-al-actualizar-opensuse-tumbleweed/",
@@ -19,13 +61,6 @@
     "link": "http://unbrutocondebian.blogspot.com/2026/03/noisetorch-el-micro-virtual-con.html",
     "fecha": "09/03/2026",
     "contenido": "&nbsp;Siempre he sido más de escribir que de hablar. Por eso esto es un blog y no un podcast. Así que nunca me he preocupado de tener un micrófono decente en mi equipo.¿Y que ocurre si en un momento dado necesito grabar algo con un mínimo de calidad o tener una reunión de Teams o Zoom o Webex en la "
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Maspalomas la película",
-    "link": "https://mareosdeungeek.es/maspalomas-la-pelicula/",
-    "fecha": "09/03/2026",
-    "contenido": "Maspalomas es una película dirigida por el cineasta vasco José Mari Goenaga, está protagonizada por José Ramón Soroiz que ganó el Goya a mejor actor principal la pasada semana. En Maspalomas también intervienen Kandido Uranga y Nagore Aranburu, además de otros actores y actrices vascos. De hecho la "
   },
   {
     "blog": "alt43",
@@ -161,13 +196,6 @@
     "contenido": "#podcast #ElSueñodelArtistaBlog #MujeresArtistas #Impresionismo #DiadelaMujer #BertheMorrisot #HistoriadeñArte Portada del capítulo Madre, Mujer, Artista ¿Cuántas obras maestras llevan el nombre de un hombre… pero fueron creadas por una mujer que también criaba hijos? Bienvenidos a una serie especia"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Hola MacBook Neo",
-    "link": "https://mareosdeungeek.es/hola-macbook-neo/",
-    "fecha": "08/03/2026",
-    "contenido": "MacBook Neo viene a llenar un hueco que la propia Apple había ido creando con el paso de los años y las nuevas versiones de los MacBook. Los que llevábamos varias generaciones de ordenadores Apple hemos visto como se ha ido diversificando el número de opciones. Lo que empezó con el MacBook y el MacB"
-  },
-  {
     "blog": "El condón roto de GNU",
     "titulo": "Lanzamiento Ubuntu Touch 24.04-1.2",
     "link": "https://elcondonrotodegnu.wordpress.com/2026/03/08/lanzamiento-ubuntu-touch-24-04-1-2/",
@@ -264,20 +292,6 @@
     "link": "https://interlan.ec/blog/2026/03/06/proyecto-control-rss/",
     "fecha": "06/03/2026",
     "contenido": "Esto solo es un script bash para tener una idea de cuantos lectores RSS se tienen."
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "La app que los capos usan para eludir la justicia: Zangi en el mundo delictivo",
-    "link": "https://gatooscuro.xyz/la-app-que-los-capos-usan-para-eludir-la-justicia-zangi-en-el-mundo-delictivo/",
-    "fecha": "06/03/2026",
-    "contenido": "Hoy vengo a escribir sobre una aplicación de mensajería que lleva relativamente bastante tiempo en línea, con actuaciones de fondo que de verdad nunca me esperé. En este blog vengo,\nSeguir leyendo  La app que los capos usan para eludir la justicia: Zangi en el mundo delictivo\nEl cargo La app que los"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "YouTube sin anuncios",
-    "link": "https://mareosdeungeek.es/youtube-sin-anuncios/",
-    "fecha": "06/03/2026",
-    "contenido": "Harto de los anuncios he decidido instalar el navegador Brave para disfrutar de YouTube sin ellos. Últimamente estaba viendo bastantes vídeos, sobre todo de cursos o para poner música y estudiar, las interrupciones constantes con anuncios eran demasiado molestas. Por ello, viendo opciones, he visto "
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -427,13 +441,6 @@
     "contenido": "En esta entrada repaso el que fue mi segundo año en el club de lectura de Librería Luces, ese período va de marzo de 2025 a febrero de 2026. Si queréis saber de que va esta entrada, y/o leer sobre mi primer año en el club, podéis hacerlo en esta entrada. Como en la anterior [&#8230;]"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Leviathan",
-    "link": "https://mareosdeungeek.es/leviathan/",
-    "fecha": "04/03/2026",
-    "contenido": "Leviathan es un anime de estética steampunk y ciencia ficción que presenta una versión alternativa de la  Primera Guerra Mundial. En esta serie, que consta de doce episodios, adapta los libros de la trilogia escrita por Scott Westerfeld. La serie ha sido realizada por el estudio Orange, conocido por"
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "#185: apuntes de italiano",
     "link": "https://www.macram.es/posts/2026/03/apuntes-de-italiano/",
@@ -544,26 +551,5 @@
     "link": "https://victorhckinthefreeworld.com/2026/03/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-marzo-de-2026/",
     "fecha": "03/03/2026",
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
-    "blog": "",
-    "titulo": "Anam Keltoi.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/03/03/anam-keltoi-4/",
-    "fecha": "03/03/2026",
-    "contenido": "El grupo de musica celta Anam Keltoi fue nominado para los premios Gardel, felicitaciones."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "El Bodyshaming a los sanos",
-    "link": "https://www.fabio.com.ar/9887-el-bodyshaming-a-los-sanos",
-    "fecha": "03/03/2026",
-    "contenido": "    \nYa me hab&iacute;a cruzado con varias actitudes \"anti-sanos\" en mi vida, era algo muy com&uacute;n en toda mi primera mitad de la vida, la educaci&oacute;n de los Boomers indicaba que todo aquel que se cuidara era un \"putito\", como se imaginar&aacute;n esas expresiones comenzaron un r&aacute;pi"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Shamash: Done With Misery (Nos Pergamos In Domine Saluteum) | De Un Extremo Al Otro",
-    "link": "https://www.delotroladometal.com.ar/2026/03/03/de-un-extremo-al-otro/",
-    "fecha": "03/03/2026",
-    "contenido": "(2024 &#8211; Rottweiler Records) Lo primero que se me ocurre es que los Shamash están...\nThe post Shamash: Done With Misery (Nos Pergamos In Domine Saluteum) | De Un Extremo Al Otro first appeared on Del Otro Lado Metal."
   }
 ]
