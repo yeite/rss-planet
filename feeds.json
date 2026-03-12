@@ -1,10 +1,45 @@
 [
   {
+    "blog": "Ubuntu Peronista",
+    "titulo": "¡Ubuntu Peronista supera los 3 millones de visitas!",
+    "link": "https://ubuntuperonista.blogspot.com/2026/03/ubuntu peronista supera los 3 millones de visitas.html",
+    "fecha": "12/03/2026",
+    "contenido": "Este miércoles 11 de marzo, el blog de adoctrinamiento \npolítico-tecnológico Ubuntu Peronista superó los 3 millones de visitas a\n su plataforma.&nbsp;La cifra es atestiguada y acreditada a través la plataforma de medición.Operando en superficie desde 2009, Ubuntu Peronista compendia soluciones ofrec"
+  },
+  {
+    "blog": "El Sueño del Artista Blog",
+    "titulo": "Si llegara a cien años",
+    "link": "https://polotman.wordpress.com/2026/03/11/si-llegara-a-cien-anos/",
+    "fecha": "11/03/2026",
+    "contenido": "Escribe una carta a tu yo de 100 años. Para el querido he irritante :YO No sé si llegases a leer esta pequeña epístola, no es que no crea que no hallas vivido lo suficiente para leerla o mejor escrito sobrevivido a todos los posibles acontecimientos que han de venir para transformar el curso de [&#8"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Zen Browser",
+    "link": "https://mareosdeungeek.es/zen-browser/",
+    "fecha": "11/03/2026",
+    "contenido": "Zen Browser es un navegador web basado en el motor Gecko de Mozilla, centrado en la privacidad, ofreciendo una experiencia de usuario limpia y minimalista. El proyecto de Zen Browser, de código libre y abierto, se lanzó en verano de 2024 y lleva en fase beta desde diciembre de ese mismo año. Su apar"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Privacidad no es anonimato: lo que los gobiernos pueden exigirle a tu VPN",
+    "link": "https://alt43.es/privacidad-no-es-anonimato-lo-que-los-gobiernos-pueden-exigirle-a-tu-vpn/",
+    "fecha": "11/03/2026",
+    "contenido": "Un activista de Stop Cop City fue identificado por el FBI gracias a datos de pago de su cuenta de Proton Mail, entregados a través de un tratado legal suizo. El caso revela los límites reales de las herramientas de privacidad digital: el cifrado protege el contenido, pero los metadatos y los datos d"
+  },
+  {
     "blog": "NeoSite Blog",
     "titulo": "NeoSite Podcast #10 - Los beneficios de usar la IA para cosas productivas",
     "link": "http://blog.neosite.com.ar/post/neosite-podcast-10-los-beneficios-de-usar-la-ia-para-cosas-productivas",
     "fecha": "11/03/2026",
     "contenido": ""
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de WordPress en nuestro servidor en AlmaLinux 10",
+    "link": "https://voidnull.es/instalacion-de-wordpress-en-nuestro-servidor-en-almalinux-10/",
+    "fecha": "11/03/2026",
+    "contenido": "WordPress es el sistema gestor de contenidos (CMS) por excelencia y además es de Software Libre, orientado principalmente a la creación de blogs y tiendas online. Este famoso CMS está basado en PHP y MySQL."
   },
   {
     "blog": "_ voidNull",
@@ -21,11 +56,39 @@
     "contenido": ""
   },
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Un e-reader en lugar de un tablet en 2026",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/03/11/20260311-ebook-en-2026/",
+    "fecha": "11/03/2026",
+    "contenido": "Comparto mi experiencia con un lector electrónico básico y accesible"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Novedades del Graf cómic",
+    "link": "https://www.ericafustero.com/2026-03-novedades-graf-comic",
+    "fecha": "11/03/2026",
+    "contenido": "Este fin de semana se celebra el festival de cómic y autoedición Graf. El 14 y 15 de marzo me podrás encontrar en el stand 22 junto a mi nuevo libro y un montón de novedades. ¡Pásate a saludar! Si el Graf te pilla a desmano, puedes comprar Erica a diario aquí. El resto de [&#8230;]"
+  },
+  {
     "blog": "",
     "titulo": "Slainte.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/03/11/slainte/",
     "fecha": "11/03/2026",
     "contenido": "Slainte ya confirmo su fecha para San Patricio."
+  },
+  {
+    "blog": "56K",
+    "titulo": "ChatSSL – Monta un chat cifrado con 5 líneas en bash",
+    "link": "https://56k.es/fanta/chatssl-monta-un-chat-cifrado-con-5-lineas-en-bash/",
+    "fecha": "11/03/2026",
+    "contenido": "He dejado por aquí git.56k.es/fanta/chatSSL un script en bash para chatear con alguien tranquilamente desde la shell. El script se puede ver en acción en la siguiente captura. La parte de arriba sería lo que escribe alguien desde la máquina 1 y lo de abajo lo que escribe alguien desde la máquina 2. "
+  },
+  {
+    "blog": "56K",
+    "titulo": "Escenario Fediverse para el juego OpenTTD",
+    "link": "https://56k.es/fanta/escenario-fediverse-para-el-juego-openttd/",
+    "fecha": "11/03/2026",
+    "contenido": "El escenario del fediverso para el juego openttd ya anda aquí. Puede usted bajarse el escenario desde aquí: fediverso.zip Se trata de un mapa en el que los pueblos tienen nombres de nodos de lo que llamamos fediverso. Aquí pueden verse unas cuantas capturas: &#160; Poner en marcha el escenario/mapa "
   },
   {
     "blog": "Fabio.com.ar",
@@ -40,6 +103,20 @@
     "link": "https://picandocodigo.net/2026/resena-vultures-scavengers-of-death-steam/",
     "fecha": "11/03/2026",
     "contenido": "Vultures - Scavengers of Death es un juego de survival horror por turnos, con inspiración en clásicos como Resident Evil y Parasite Eve. Los gráficos están estilizados como recuerdo el primer Resident Evil en PlayStation. Se ven bastante poligonales, pero optimizados para pantallas modernas con alta"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Kebranto Prepara Un Nuevo EP | Tiempo De Death Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/03/11/tiempo-de-death-metal/",
+    "fecha": "11/03/2026",
+    "contenido": "Kebranto es una de las tantas bandas que desde lo más profundo del under, levantan...\nThe post Kebranto Prepara Un Nuevo EP | Tiempo De Death Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Hoy he dado un taller de Vibe Coding en Etopía",
+    "link": "https://dani.torresburriel.com/hoy-he-dado-un-taller-de-vibe-coding-en-etopia/",
+    "fecha": "11/03/2026",
+    "contenido": "Y ha sido una tarde muy buena. No digo esto siempre. De hecho, precisamente porque no lo digo siempre, vale la pena decirlo cuando es verdad. Soy muy selectivo con los sitios donde voy a compartir presencialmente. El tiempo es finito y la energía también, y no todos los contextos merecen el mismo es"
   },
   {
     "blog": "Una Historia Americana",
@@ -105,6 +182,20 @@
     "contenido": "    \nHace unos a&ntilde;os hab&iacute;a recibido un strike en mi canal de YouTube y hab&iacute;a comenzado a programar un sistema propio donde ubicar mis videos \"no tan aptos\" para esa plataforma (YouTube es tan censurador que hoy por hoy ciertos temas no se pueden publicar). No era muy rentable la "
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Los Brasileños Andarán Por Oriente, Europa Y Centroamérica | Antidemon De Gira",
+    "link": "https://www.delotroladometal.com.ar/2026/03/10/antidemon-de-gira/",
+    "fecha": "10/03/2026",
+    "contenido": "Es difícil encontrar una banda que haya viajado tanto por el mundo y por diferentes...\nThe post Los Brasileños Andarán Por Oriente, Europa Y Centroamérica | Antidemon De Gira first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "El emprendedor completo",
+    "link": "https://dani.torresburriel.com/el-emprendedor-completo/",
+    "fecha": "10/03/2026",
+    "contenido": "Dicen que hay que emprender con propósito, trabajar ocho horas justas, hacer ejercicio cinco días a la semana, comer sano, dormir ocho horas, cultivar la vida social, estar presente en familia, leer, aprender, crecer como persona y, por supuesto, mantener una actitud positiva ante los retos. Yo tomo"
+  },
+  {
     "blog": "JDRM",
     "titulo": "LibreTranslate traduce contenidos en local",
     "link": "https://jdrm.info/libretranslate-traduce-contenidos-en-local.html",
@@ -138,6 +229,20 @@
     "link": "http://unbrutocondebian.blogspot.com/2026/03/noisetorch-el-micro-virtual-con.html",
     "fecha": "09/03/2026",
     "contenido": "&nbsp;Siempre he sido más de escribir que de hablar. Por eso esto es un blog y no un podcast. Así que nunca me he preocupado de tener un micrófono decente en mi equipo.¿Y que ocurre si en un momento dado necesito grabar algo con un mínimo de calidad o tener una reunión de Teams o Zoom o Webex en la "
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Maspalomas la película",
+    "link": "https://mareosdeungeek.es/maspalomas-la-pelicula/",
+    "fecha": "09/03/2026",
+    "contenido": "Maspalomas es una película dirigida por el cineasta vasco José Mari Goenaga, está protagonizada por José Ramón Soroiz que ganó el Goya a mejor actor principal la pasada semana. En Maspalomas también intervienen Kandido Uranga y Nagore Aranburu, además de otros actores y actrices vascos. De hecho la "
+  },
+  {
+    "blog": "alt43",
+    "titulo": "El precio del software gratuito: extracción de datos en Android y Windows",
+    "link": "https://alt43.es/el-precio-del-software-gratuito-extraccion-de-datos-en-android-y-windows/",
+    "fecha": "09/03/2026",
+    "contenido": "Android y Windows recopilan información sobre ti de forma continua y silenciosa: tu ubicación, tus hábitos, tus relaciones, tu estado de ánimo. No es alarmismo, es el modelo de negocio detrás del software gratuito. Este artículo explica qué datos se extraen, qué riesgos reales suponen y qué puedes h"
   },
   {
     "blog": "Tecno y Soft",
@@ -182,6 +287,13 @@
     "contenido": "Mastodon es una red social libre y descentralizada de microblogging. Esta red social es una federación descentralizada de servidores que ejecutan el Software bajo licencia AGPL."
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "Erica a diario",
+    "link": "https://www.ericafustero.com/2026-03-erica-a-diario",
+    "fecha": "09/03/2026",
+    "contenido": "Hace cosa de dos años, allá por febrero de 2024, decidí participar en el Hourly comic day, un evento en el que dibujantes de todo el mundo se dedican a contar su día en formato cómic. La experiencia me gustó tanto que decidí seguir dibujando y publicando mis días en formato diario el resto del [&#82"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "El nivel del actual feminismo",
     "link": "https://www.xn--jmuoz-qta.es/2026/03/el-nivel-del-actual-feminismo.html",
@@ -224,6 +336,20 @@
     "contenido": "    \nSiempre fui cr&iacute;tico del programa del F-35 Lightning II porque me parec&iacute;a excesivamente costoso y sin un escenario real de uso, un avi&oacute;n que r&aacute;pidamente podr&iacute;a volverse obsoleto si era alcanzado tecnol&oacute;gicamente por un rival, etc.\nLa realidad est&aacute;"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Fisión Nuclear: Libres De Todo Mal | La Energía Nuclear Y Sus Leyes",
+    "link": "https://www.delotroladometal.com.ar/2026/03/09/la-energia-nuclear-y-sus-leyes/",
+    "fecha": "09/03/2026",
+    "contenido": "(2025 &#8211; Metal Command) El tema de lo nuclear está de moda últimamente. Bah, nunca...\nThe post Fisión Nuclear: Libres De Todo Mal | La Energía Nuclear Y Sus Leyes first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "El informe de Anthropic sobre empleo y AI no menciona a los diseñadores. Eso también es un dato.",
+    "link": "https://dani.torresburriel.com/informe-anthropic-empleo-ia-disenadores-ux/",
+    "fecha": "09/03/2026",
+    "contenido": "La semana pasada Anthropic publicó un informe sobre el impacto de la IA en el mercado laboral. Lo comparto aquí porque juego en casa: es un informe de la empresa que hace Claude, y lo he leído con bastante atención porque el tema me afecta directamente, tanto como profesional como como persona que l"
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "No estamos todas...",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/no-estamos-todas/",
@@ -243,6 +369,13 @@
     "link": "https://polotman.wordpress.com/2026/03/08/capitulo-1-berthe-morisot-el-impresionismo-desde-la-cuna/",
     "fecha": "08/03/2026",
     "contenido": "#podcast #ElSueñodelArtistaBlog #MujeresArtistas #Impresionismo #DiadelaMujer #BertheMorrisot #HistoriadeñArte Portada del capítulo Madre, Mujer, Artista ¿Cuántas obras maestras llevan el nombre de un hombre… pero fueron creadas por una mujer que también criaba hijos? Bienvenidos a una serie especia"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Hola MacBook Neo",
+    "link": "https://mareosdeungeek.es/hola-macbook-neo/",
+    "fecha": "08/03/2026",
+    "contenido": "MacBook Neo viene a llenar un hueco que la propia Apple había ido creando con el paso de los años y las nuevas versiones de los MacBook. Los que llevábamos varias generaciones de ordenadores Apple hemos visto como se ha ido diversificando el número de opciones. Lo que empezó con el MacBook y el MacB"
   },
   {
     "blog": "El condón roto de GNU",
@@ -305,7 +438,7 @@
     "titulo": "Compilar OpenRA en Linux – Command And Conquer, Dune 2000, Red Alert",
     "link": "https://56k.es/fanta/compilar-openra-en-linux/",
     "fecha": "07/03/2026",
-    "contenido": "Red Alert, Command &#038; Conquer, Dune 2000, &#8230; son juegos disfrutables al día de hoy con OpenRA (un motor libre). En Debian forky (Debian 14, ando en SID) lo he compilado así: # apt update # apt install make liblua5.1-0-dev libfreetype6 libopenal1 liblua5.1-0 libsdl2-2.0-0 $ wget \"https://git"
+    "contenido": "Red Alert, Command &#38; Conquer, Dune 2000, &#8230; son juegos disfrutables al día de hoy con OpenRA (un motor libre). En Debian forky (Debian 14, ando en SID) lo he compilado así: # apt update # apt install make liblua5.1-0-dev libfreetype6 libopenal1 liblua5.1-0 libsdl2-2.0-0 $ wget \"https://gith"
   },
   {
     "blog": "Un blog",
@@ -313,6 +446,13 @@
     "link": "https://nachof.blog/posts/2026/shroud/",
     "fecha": "07/03/2026",
     "contenido": "\n\n\n\nI was well aware that, as before, every guess was steeped in my human Earth-born viewpoint, but what other tools did I have to try and understand?\n\nParece que es un tema recurrente en los libros de Adrian Tchaikovsky: primer contacto con una inteligencia extraterrestre que funciona totalmente di"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Nine Orders Lanza \"Ex-Imperium\", Su Primer Álbum | Metal Progresivo Desde Suecia",
+    "link": "https://www.delotroladometal.com.ar/2026/03/07/metal-progresivo-desde-suecia/",
+    "fecha": "07/03/2026",
+    "contenido": "Encontrar buena música en estos tiempos es casi una quimera, y la misión es mucho...\nThe post Nine Orders Lanza \"Ex-Imperium\", Su Primer Álbum | Metal Progresivo Desde Suecia first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -334,6 +474,20 @@
     "link": "https://interlan.ec/blog/2026/03/06/proyecto-control-rss/",
     "fecha": "06/03/2026",
     "contenido": "Esto solo es un script bash para tener una idea de cuantos lectores RSS se tienen."
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "La app que los capos usan para eludir la justicia: Zangi en el mundo delictivo",
+    "link": "https://gatooscuro.xyz/la-app-que-los-capos-usan-para-eludir-la-justicia-zangi-en-el-mundo-delictivo/",
+    "fecha": "06/03/2026",
+    "contenido": "Hoy vengo a escribir sobre una aplicación de mensajería que lleva relativamente bastante tiempo en línea, con actuaciones de fondo que de verdad nunca me esperé. En este blog vengo,\nSeguir leyendo  La app que los capos usan para eludir la justicia: Zangi en el mundo delictivo\nEl cargo La app que los"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "YouTube sin anuncios",
+    "link": "https://mareosdeungeek.es/youtube-sin-anuncios/",
+    "fecha": "06/03/2026",
+    "contenido": "Harto de los anuncios he decidido instalar el navegador Brave para disfrutar de YouTube sin ellos. Últimamente estaba viendo bastantes vídeos, sobre todo de cursos o para poner música y estudiar, las interrupciones constantes con anuncios eran demasiado molestas. Por ello, viendo opciones, he visto "
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -378,6 +532,20 @@
     "contenido": "     Un cafecito acompa&ntilde;ado de unos links\nTenemos muchos links para estos Links de Viernes, como debe ser! Si, a veces hay unos cuantos para ver, esta es una de esas semanas, y si se agotan de leer, pues bien, tienen el concurso Oscars 2026!!!! S&iacute;, ya quedan diez d&iacute;as antes de l"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Stairway: Metal Rising | Una Historia De Heavy Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/03/06/una-historia-de-heavy-metal/",
+    "fecha": "06/03/2026",
+    "contenido": "(2025 &#8211; Roxx Records) Nadie me puede discutir que Stairway son una leyenda viviente del...\nThe post Stairway: Metal Rising | Una Historia De Heavy Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "El silencio como respuesta",
+    "link": "https://dani.torresburriel.com/el-silencio-como-respuesta/",
+    "fecha": "06/03/2026",
+    "contenido": "Tengo una relación extraña con el silencio. Siempre la he tenido. Cuando lo recibo, me cuesta. Cuando lo doy, me pesa. Y sin embargo, mira tú qué cosas, cuantos más años cumplo, más lo entiendo como el espacio de descanso más honesto que existe. Para mí, el silencio personal es paz. No un silencio i"
+  },
+  {
     "blog": "GoRiX blog",
     "titulo": "Canary Tokens Caseros",
     "link": "https://blog.gorix.xyz/canary-tokens-caseros.html",
@@ -399,11 +567,11 @@
     "contenido": "#ElSueñodelArtistablog #arte #FinalFantasy #anime #aminacion #Japon #exposicion #pintores #pintura&#160;#YoshitakaAmano&#160; La obra del creador japonés Yoshitaka Amano ha sabido transcender en el tiempo con cada una de sus obras&#160; . Conocido en el mundo de la animación y de los videojuegos por"
   },
   {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "El ayuno del teclado",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/el-ayuno-del-teclado/",
+    "blog": "Erica Fustero",
+    "titulo": "Algunas fotos de febrero",
+    "link": "https://www.ericafustero.com/2026-03-algunas-fotos-de-febrero",
     "fecha": "05/03/2026",
-    "contenido": "La pantalla era un desierto de luz blanca que le devolvía el reflejo de sus propias ojeras. Santiago abrió la interfaz de entrada, la misma que en otros tiempos se llenaba de ráfagas místicas y reflexiones sobre el devenir. Pero hoy, el silencio no era una elección filosófica, sino un vacío técnico."
+    "contenido": "La tónica general de febrero fue estar estresada y ocupada. Hace unos días Charlotte decía en bluesky que no hacer fotos le produce ansiedad y me sentí muy identificada con su comentario. Y ojo, no es que este mes no hiciese fotos, pero definitivamente pasé más tiempo pensando en hacerlas que hacién"
   },
   {
     "blog": "56K",
@@ -427,52 +595,17 @@
     "contenido": "Mi Kobo se veía un poco aburrido, así con la cubierta toda negra. Así que se me ocurrió decorarlo un poco. Elegí varias portadas de libros, imprimí en papel sticker (aproveché que estaba imprimiendo etiquetas para la caja del Fantasy Map Maker), y las pegué por toda la cubierta del Kobo.\n\n\n Así qued"
   },
   {
-    "blog": "JavierSam",
-    "titulo": "Efecto de grabado (como el de los billetes) con GIMP",
-    "link": "https://javiersam.uy/2026/03/efecto-de-grabado-como-el-de-los-billetes-con-gimp.html",
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Simon Pilgrim Rosén Nos Cuenta Algunos Detalles | Crimson Moonlight Prepara Su Nuevo Arsenal",
+    "link": "https://www.delotroladometal.com.ar/2026/03/05/crimson-moonlight-prepara-su-nuevo-arsenal/",
     "fecha": "05/03/2026",
-    "contenido": "En este video de Valeu Cara se explica, en portugués, cómo crear un efecto de grabado, como el de los retratos en los billetes, con GIMP. Para probar esta técnica hice el siguiente diseño que homenajea a Ton Roosendaal, creador de Blender, que recientemente se retiró de la dirección de la Fundación "
+    "contenido": "Posiblemente Crimson Moonlight debe ser uno de los más claros referentes que existen en cuanto...\nThe post Simon Pilgrim Rosén Nos Cuenta Algunos Detalles | Crimson Moonlight Prepara Su Nuevo Arsenal first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Jinversor",
-    "titulo": "(Casi) todos quieren ser vistos",
-    "link": "https://jinversor.co/2026/03/casi-todos-quieren-ser-vistos/",
-    "fecha": "04/03/2026",
-    "contenido": "Ayer mientras hacía una fila me dio por ojear algunos estados de Whatsapp y noté que casi todos quieren ser vistos. Nunca abro estados personales porque cuando veo frases motivacionales [&#8230;]\nLa entrada (Casi) todos quieren ser vistos se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#185: apuntes de italiano",
-    "link": "https://www.macram.es/posts/2026/03/apuntes-de-italiano/",
-    "fecha": "04/03/2026",
-    "contenido": "Llevo un tiempo aprendiendo italiano. Empecé con Duolingo, donde llegué a tener una racha de más de un año. Luego cambié Duolingo por Babbel, aprovechando que pude hacerme con una suscripción de por vida (ya sabemos cómo va eso), y reconozco que me gusta un poco más, porque Babbel explica gramática "
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Hipocresía sueca",
-    "link": "https://blog.danielaragay.net/hipocresia-sueca/",
-    "fecha": "04/03/2026",
-    "contenido": "Entre otros temas te hablo de lo que opina la pol&#xed;tica sueca de la guerra en Iran.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Una sociedad a prueba de fuegos",
-    "link": "https://impermanente.es/2026/03/04/una-sociedad-a-prueba-de.html",
-    "fecha": "04/03/2026",
-    "contenido": "Hace unos meses escribí sobre cómo el capitalismo no está roto, sino que hace exactamente lo que sabe hacer (POSIWID). Y usé la metáfora del fuego: no decimos &ldquo;abolamos el fuego&rdquo;, decimos &ldquo;el fuego es muy útil pero también peligoros, diseñemos con eso en mente&rdquo;. Y así integra"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "quota: control del espacio en disco por usuario",
-    "link": "https://voidnull.es/quota-control-del-espacio-en-disco-por-usuario/",
-    "fecha": "04/03/2026",
-    "contenido": "Consulta y supervisa el uso de disco por usuario o grupo en GNU/Linux con el comando quota."
-  },
-  {
-    "blog": "Calaveras",
-    "titulo": "Goodbye my friend Debian",
-    "link": "https://calaveras.bearblog.dev/goodbye-my-friend-debian/",
-    "fecha": "04/03/2026",
-    "contenido": "Disclaimer: this post is written in bad english, I need to practice.\nWhat's this post about? Well, maybe it's a love letter or goodbye letter to one of my favourite distributions in the GNU/Linux world: Debian.\nI've started my journey with Debian 12 in a virtual machine long time ago. It was all new"
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Diseñar para dos tipos de usuarios: personas y máquinas",
+    "link": "https://dani.torresburriel.com/disenar-para-dos-tipos-de-usuarios-personas-y-maquinas/",
+    "fecha": "05/03/2026",
+    "contenido": "Addy Osmani ha publicado hoy el Google Workspace CLI con una frase que se me ha quedado dando vueltas en la cabeza: “built for humans and agents”. Cuarenta y tantas agent skills incluidas, acceso a Drive, Gmail, Calendar. Una herramienta de línea de comandos que sirve a dos amos a la vez. Trabajando"
   }
 ]
