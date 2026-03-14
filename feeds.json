@@ -1,5 +1,54 @@
 [
   {
+    "blog": "Tecno y Soft",
+    "titulo": "Crisis en el proyecto Manjaro",
+    "link": "https://tecnoysoft.com/2026/03/14/crisis-en-el-proyecto-manjaro/",
+    "fecha": "14/03/2026",
+    "contenido": "Mi opinión sobre la propuesta de reestructuración de Manjaro Se avecinan momentos dificiles para Manjaro, tras la publicación del «Manifiesto de Manjaro 2.0», que les invito a leer, refleja algo que lleva tiempo siendo evidente en el proyecto Manjaro Linux: una crisis de gobernanza. No parece un pro"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Cuando el podcast era el futuro — Radio Terrassa, 2007",
+    "link": "https://blog.danielaragay.net/cuando-el-podcast-era-el-futuro-radio-terrassa-2007/",
+    "fecha": "14/03/2026",
+    "contenido": "Hay algo extra&#xf1;o y hermoso en escuchar una grabaci&#xf3;n donde tienes que explicar qu&#xe9; es un podcast.Escucha la entrevista aqu&#xed;: https://podcast.danielaragay.net/@danipodcasts/episodes/cuando-el-podcast-era-el-futuro-radio-terrassa-2007Esta entrevista es eso exactamente. Fernando del"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "AC/DC, Rock & Roll de Alto Voltaje",
+    "link": "https://altgr.xyz/2026/03/14/ac-dc-rock-roll-de-alto-voltaje/",
+    "fecha": "14/03/2026",
+    "contenido": "Fue de esos conciertos que pensaba que ya no vería en esta vida. Pero sucedió&#8230; AC/DC, la noche del miércoles 11 de marzo en el Parque Estadio Nacional. Quedé gratamente sorprendido ya que a pesar de los muchos años de rockanroleo que tienen encima Angus Young y Brian Johnson, se mantienen en m"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "The Pretty Reckless en la previa de AC/DC",
+    "link": "https://altgr.xyz/2026/03/14/the-pretty-reckless-en-la-previa-de-ac-dc/",
+    "fecha": "14/03/2026",
+    "contenido": "La noche de este miércoles 11 de marzo tuve que correr para alcanzar a ver a esta tremenda banda de sonido muy noventero con Taylor Momsen en la voz, una vocalista con mucha energía, carisma y manejo del escenario. ¡Qué mejor manera para esperar el plato fuerte de la noche!"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Clara Cantore: Bajo, canciones hermosas y muy buenos invitados",
+    "link": "https://altgr.xyz/2026/03/14/clara-cantore-bajo-canciones-hermosas-y-muy-buenos-invitados/",
+    "fecha": "14/03/2026",
+    "contenido": "Si tienes apellido Cantore, tu destino no podría ser otro que la música. Clara Cantore, bajista y cantautora argentina se presentó en la Sala Máster de la Universidad de Chile el martes 3 de marzo. Una presentación íntima que tuvo algunos invitados como Nano Stern y Magdalena Matthey"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Fanta Mixtapes – 006 – No quiero ser concejala del PP",
+    "link": "https://56k.es/fanta/fanta-mixtapes-006-no-quiero-ser-diputada-del-pp/",
+    "fecha": "14/03/2026",
+    "contenido": "Bueno pues esta vez llega una nueva «mixtape» en vertical para toda esa gente que no deja el smartphone ni para cagar (justo para cagar menos). La voz del locutor de Radio es de José Luis Sastre. Se puede escuchar aquí: Las canciones son: Muelas De Gallo &#8211; Cabrón y Medio ILL Pekeño &#8211; Pr"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Entrevista con Dale Thompson | “El Camino Que Nos Llevó Como Bride No Nos Llevará Más Allá De 2026”",
+    "link": "https://www.delotroladometal.com.ar/2026/03/14/el-camino-que-nos-llevo-como-bride-no-nos-llevara-mas-alla-de-2026/",
+    "fecha": "14/03/2026",
+    "contenido": "El anuncio sorprende, pero es la realidad. Bride no va más, o mejor dicho, su...\nThe post Entrevista con Dale Thompson | “El Camino Que Nos Llevó Como Bride No Nos Llevará Más Allá De 2026” first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Retropixel y OpenSouthCode este verano en Málaga",
     "link": "https://malagaoriginal.blogspot.com/2026/03/retropixel-y-opensouthcode-este-verano.html",
@@ -49,11 +98,46 @@
     "contenido": "Dominasi platform media sosial raksasa selama ini telah menciptakan ekosistem digital yang sangat terkungkung oleh tembok algoritma. Pengguna sering kali merasa terjebak dalam ruang gema yang hanya menampilkan konten berdasarkan preferensi komersial semata. Fenomena ini memicu kebutuhan mendesak aka"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 11 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/03/13/opensuse-tumbleweed-revision-de-la-semana-11-de-2026/",
+    "fecha": "13/03/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Algunos errores en XML JATS en trabajos de revistas científicas ya publicados (VIII): sobre una herramienta que han lanzado para crear JATS",
+    "link": "https://pedrolr.es/blog/algunos-errores-en-xml-jats-en-trabajos-de-revistas-cientificas-ya-publicados-viii-sobre-una-herramienta-que-han-lanzado-para-crear-jats/",
+    "fecha": "13/03/2026",
+    "contenido": "Ayer vi que vi que EDITUM - Ediciones de la Universidad de Murcia ha lanzado una herrameinta para crear JATS y que se integra como plugin en OJS (Open Journal System). Han publicado todo como software libre y eso es es genial. Pronto trataré de instalar y probar todo en mi OJS de pruebas en [&#8230;"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Proyecto: OPML to Blog Roll",
+    "link": "https://interlan.ec/blog/2026/03/13/proyecto-opml-to-blog-roll/",
+    "fecha": "13/03/2026",
+    "contenido": "Llevo rato viendo esto de los Blog Roll y no me parece una mala idea. Inauguremos este articulo con mi pagina propia de /blogroll  y una herramienta que hice para facilitar la tarea: OPML to Blog Roll Esta es una herramienta sencilla, diseñado en un modelo híbrido porque si algo me desespera, es que"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Tree, una alternativa moderna al comando ls",
+    "link": "https://tecnoysoft.com/2026/03/13/tree-una-alternativa-moderna-al-comando-ls/",
+    "fecha": "13/03/2026",
+    "contenido": "¿Qué es el comando tree en Linux? El comando tree es una herramienta muy útil en sistemas Linux que permite visualizar la estructura de directorios y archivos en forma de árbol. A diferencia del comando ls, que muestra una lista simple de archivos, tree organiza la información de forma jerárquica, f"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "533. Prioriades",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/03/533-prioriades.html",
     "fecha": "13/03/2026",
-    "contenido": "&nbsp; &nbsp; Antes de la pandemia, yo conformaba un reducido grupo de amigos que se veían casi a diario. Lo teníamos todo a favor para creer que aquello perduraría en el tiempo. Pero llegó el confinamiento domiciliario, fuera o no necesario, y nos obligó a seguir viviendo con las relaciones sociale"
+    "contenido": "&nbsp; &nbsp; Antes de la pandemia, yo era parte de un reducido grupo de amigos que nos veíamos siempre que el trabajo lo permitía. Lo teníamos todo a favor para creer que aquello perduraría en el tiempo. Pero llegó el confinamiento domiciliario, fuera o no necesario, y nos obligó a seguir viviendo "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "K9-Mail: cliente de correo todoterreno",
+    "link": "https://voidnull.es/k9-mail-cliente-de-correo-todoterreno/",
+    "fecha": "13/03/2026",
+    "contenido": "Cliente de correo electrónico libre y veterano para Android, centrado en privacidad y control del usuario."
   },
   {
     "blog": "_ voidNull",
@@ -61,6 +145,13 @@
     "link": "https://voidnull.es/apache-vs-nginx-vs-caddy-que-servidor-web-usar-en-tu-servidor/",
     "fecha": "13/03/2026",
     "contenido": "Apache, Nginx o Caddy: comparativa rápida para elegir el servidor web ideal según rendimiento, configuración y uso."
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Lucky 200 al atardecer",
+    "link": "https://www.ericafustero.com/2026-03-lucky-200-al-atardecer",
+    "fecha": "13/03/2026",
+    "contenido": "A finales de 2025 probé un carrete de Lucky 200 y me gustó tanto que fui corriendo a por más. Inauguré 2026 con un Lucky 200 en 120 y el mes pasado gasté otro en 35mm. A este carrete le sienta bien el sol, y más aún el sol del atardecer. Hice estas fotos en [&#8230;]"
   },
   {
     "blog": "",
@@ -75,6 +166,13 @@
     "link": "https://www.fabio.com.ar/9895-links-de-viernes---932",
     "fecha": "13/03/2026",
     "contenido": "     Sin links se torna peligroso\nViernes! Viernes de semanita agitada, tengo carrera de F1 bien tard&iacute;a (es en China!) y la entrega de los Oscars y eso significa concurso! Estamos en las &uacute;ltimas horas para poder participar! no los molesto m&aacute;s despu&eacute;s de hoy, el domingo ci"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Gnadenthron: Verheissung | Un Misterio Vikingo",
+    "link": "https://www.delotroladometal.com.ar/2026/03/13/un-misterio-vikingo/",
+    "fecha": "13/03/2026",
+    "contenido": "(2024 &#8211; SneeuwStorm Produkties) El Black Metal es ya de por sí un género bastante...\nThe post Gnadenthron: Verheissung | Un Misterio Vikingo first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Ubuntu Peronista",
@@ -210,11 +308,39 @@
     "contenido": "     Duelo o Ruleta?\nSemanita de mucho trabajo, de muchas cosas por mi parte, y de muchas balas para ruletear! Este finde tenemos la entrega de los Oscars 2026 y tienen el concurso para participar hasta el domingo a las 20hs! Llega esa hora y ya es tarde, no hagan la de siempre que alguno se queda a"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Santa Fe White Metal nro. 6 – Noviembre 2005",
+    "link": "https://www.delotroladometal.com.ar/2026/03/12/santa-fe-white-metal-nro-6-noviembre-2005/",
+    "fecha": "12/03/2026",
+    "contenido": "Dentro de la movida de lo que es el denominado White Metal, sin duda, el...\nThe post Santa Fe White Metal nro. 6 – Noviembre 2005 first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "La ilusión con la que alguien firma un contrato de trabajo",
+    "link": "https://dani.torresburriel.com/la-ilusion-con-la-que-alguien-firma-un-contrato-de-trabajo/",
+    "fecha": "12/03/2026",
+    "contenido": "Hoy he tenido una conversación sorprendente. Estaba tomándome un café y un pincho de tortilla espectacular con alguien cercano, un profesional al que respeto mucho, que tiene una formación sólida en varias áreas, entre ellas recursos humanos y gestión de talento. En un momento determinado, la conver"
+  },
+  {
     "blog": "El Sueño del Artista Blog",
     "titulo": "Si llegara a cien años",
     "link": "https://polotman.wordpress.com/2026/03/11/si-llegara-a-cien-anos/",
     "fecha": "11/03/2026",
     "contenido": "Escribe una carta a tu yo de 100 años. Para el querido he irritante :YO No sé si llegases a leer esta pequeña epístola, no es que no crea que no hallas vivido lo suficiente para leerla o mejor escrito sobrevivido a todos los posibles acontecimientos que han de venir para transformar el curso de [&#8"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Zen Browser",
+    "link": "https://mareosdeungeek.es/zen-browser/",
+    "fecha": "11/03/2026",
+    "contenido": "Zen Browser es un navegador web basado en el motor Gecko de Mozilla, centrado en la privacidad, ofreciendo una experiencia de usuario limpia y minimalista. El proyecto de Zen Browser, de código libre y abierto, se lanzó en verano de 2024 y lleva en fase beta desde diciembre de ese mismo año. Su apar"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Privacidad no es anonimato: lo que los gobiernos pueden exigirle a tu VPN",
+    "link": "https://alt43.es/privacidad-no-es-anonimato-lo-que-los-gobiernos-pueden-exigirle-a-tu-vpn/",
+    "fecha": "11/03/2026",
+    "contenido": "Un activista de Stop Cop City fue identificado por el FBI gracias a datos de pago de su cuenta de Proton Mail, entregados a través de un tratado legal suizo. El caso revela los límites reales de las herramientas de privacidad digital: el cifrado protege el contenido, pero los metadatos y los datos d"
   },
   {
     "blog": "NeoSite Blog",
@@ -259,6 +385,13 @@
     "contenido": "Comparto mi experiencia con un lector electrónico básico y accesible"
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "Novedades del Graf cómic",
+    "link": "https://www.ericafustero.com/2026-03-novedades-graf-comic",
+    "fecha": "11/03/2026",
+    "contenido": "Este fin de semana se celebra el festival de cómic y autoedición Graf. El 14 y 15 de marzo me podrás encontrar en el stand 22 junto a mi nuevo libro y un montón de novedades. ¡Pásate a saludar! Si el Graf te pilla a desmano, puedes comprar Erica a diario aquí. El resto de [&#8230;]"
+  },
+  {
     "blog": "",
     "titulo": "Slainte.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/03/11/slainte/",
@@ -292,6 +425,20 @@
     "link": "https://picandocodigo.net/2026/resena-vultures-scavengers-of-death-steam/",
     "fecha": "11/03/2026",
     "contenido": "Vultures - Scavengers of Death es un juego de survival horror por turnos, con inspiración en clásicos como Resident Evil y Parasite Eve. Los gráficos están estilizados como recuerdo el primer Resident Evil en PlayStation. Se ven bastante poligonales, pero optimizados para pantallas modernas con alta"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Kebranto Prepara Un Nuevo EP | Tiempo De Death Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/03/11/tiempo-de-death-metal/",
+    "fecha": "11/03/2026",
+    "contenido": "Kebranto es una de las tantas bandas que desde lo más profundo del under, levantan...\nThe post Kebranto Prepara Un Nuevo EP | Tiempo De Death Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Hoy he dado un taller de Vibe Coding en Etopía",
+    "link": "https://dani.torresburriel.com/hoy-he-dado-un-taller-de-vibe-coding-en-etopia/",
+    "fecha": "11/03/2026",
+    "contenido": "Y ha sido una tarde muy buena. No digo esto siempre. De hecho, precisamente porque no lo digo siempre, vale la pena decirlo cuando es verdad. Soy muy selectivo con los sitios donde voy a compartir presencialmente. El tiempo es finito y la energía también, y no todos los contextos merecen el mismo es"
   },
   {
     "blog": "Una Historia Americana",
@@ -357,6 +504,20 @@
     "contenido": "    \nHace unos a&ntilde;os hab&iacute;a recibido un strike en mi canal de YouTube y hab&iacute;a comenzado a programar un sistema propio donde ubicar mis videos \"no tan aptos\" para esa plataforma (YouTube es tan censurador que hoy por hoy ciertos temas no se pueden publicar). No era muy rentable la "
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Los Brasileños Andarán Por Oriente, Europa Y Centroamérica | Antidemon De Gira",
+    "link": "https://www.delotroladometal.com.ar/2026/03/10/antidemon-de-gira/",
+    "fecha": "10/03/2026",
+    "contenido": "Es difícil encontrar una banda que haya viajado tanto por el mundo y por diferentes...\nThe post Los Brasileños Andarán Por Oriente, Europa Y Centroamérica | Antidemon De Gira first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "El emprendedor completo",
+    "link": "https://dani.torresburriel.com/el-emprendedor-completo/",
+    "fecha": "10/03/2026",
+    "contenido": "Dicen que hay que emprender con propósito, trabajar ocho horas justas, hacer ejercicio cinco días a la semana, comer sano, dormir ocho horas, cultivar la vida social, estar presente en familia, leer, aprender, crecer como persona y, por supuesto, mantener una actitud positiva ante los retos. Yo tomo"
+  },
+  {
     "blog": "JDRM",
     "titulo": "LibreTranslate traduce contenidos en local",
     "link": "https://jdrm.info/libretranslate-traduce-contenidos-en-local.html",
@@ -390,6 +551,20 @@
     "link": "http://unbrutocondebian.blogspot.com/2026/03/noisetorch-el-micro-virtual-con.html",
     "fecha": "09/03/2026",
     "contenido": "&nbsp;Siempre he sido más de escribir que de hablar. Por eso esto es un blog y no un podcast. Así que nunca me he preocupado de tener un micrófono decente en mi equipo.¿Y que ocurre si en un momento dado necesito grabar algo con un mínimo de calidad o tener una reunión de Teams o Zoom o Webex en la "
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Maspalomas la película",
+    "link": "https://mareosdeungeek.es/maspalomas-la-pelicula/",
+    "fecha": "09/03/2026",
+    "contenido": "Maspalomas es una película dirigida por el cineasta vasco José Mari Goenaga, está protagonizada por José Ramón Soroiz que ganó el Goya a mejor actor principal la pasada semana. En Maspalomas también intervienen Kandido Uranga y Nagore Aranburu, además de otros actores y actrices vascos. De hecho la "
+  },
+  {
+    "blog": "alt43",
+    "titulo": "El precio del software gratuito: extracción de datos en Android y Windows",
+    "link": "https://alt43.es/el-precio-del-software-gratuito-extraccion-de-datos-en-android-y-windows/",
+    "fecha": "09/03/2026",
+    "contenido": "Android y Windows recopilan información sobre ti de forma continua y silenciosa: tu ubicación, tus hábitos, tus relaciones, tu estado de ánimo. No es alarmismo, es el modelo de negocio detrás del software gratuito. Este artículo explica qué datos se extraen, qué riesgos reales suponen y qué puedes h"
   },
   {
     "blog": "Tecno y Soft",
@@ -434,6 +609,13 @@
     "contenido": "Mastodon es una red social libre y descentralizada de microblogging. Esta red social es una federación descentralizada de servidores que ejecutan el Software bajo licencia AGPL."
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "Erica a diario",
+    "link": "https://www.ericafustero.com/2026-03-erica-a-diario",
+    "fecha": "09/03/2026",
+    "contenido": "Hace cosa de dos años, allá por febrero de 2024, decidí participar en el Hourly comic day, un evento en el que dibujantes de todo el mundo se dedican a contar su día en formato cómic. La experiencia me gustó tanto que decidí seguir dibujando y publicando mis días en formato diario el resto del [&#82"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "El nivel del actual feminismo",
     "link": "https://www.xn--jmuoz-qta.es/2026/03/el-nivel-del-actual-feminismo.html",
@@ -476,6 +658,20 @@
     "contenido": "    \nSiempre fui cr&iacute;tico del programa del F-35 Lightning II porque me parec&iacute;a excesivamente costoso y sin un escenario real de uso, un avi&oacute;n que r&aacute;pidamente podr&iacute;a volverse obsoleto si era alcanzado tecnol&oacute;gicamente por un rival, etc.\nLa realidad est&aacute;"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Fisión Nuclear: Libres De Todo Mal | La Energía Nuclear Y Sus Leyes",
+    "link": "https://www.delotroladometal.com.ar/2026/03/09/la-energia-nuclear-y-sus-leyes/",
+    "fecha": "09/03/2026",
+    "contenido": "(2025 &#8211; Metal Command) El tema de lo nuclear está de moda últimamente. Bah, nunca...\nThe post Fisión Nuclear: Libres De Todo Mal | La Energía Nuclear Y Sus Leyes first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "El informe de Anthropic sobre empleo y AI no menciona a los diseñadores. Eso también es un dato.",
+    "link": "https://dani.torresburriel.com/informe-anthropic-empleo-ia-disenadores-ux/",
+    "fecha": "09/03/2026",
+    "contenido": "La semana pasada Anthropic publicó un informe sobre el impacto de la IA en el mercado laboral. Lo comparto aquí porque juego en casa: es un informe de la empresa que hace Claude, y lo he leído con bastante atención porque el tema me afecta directamente, tanto como profesional como como persona que l"
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "No estamos todas...",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/no-estamos-todas/",
@@ -495,6 +691,13 @@
     "link": "https://polotman.wordpress.com/2026/03/08/capitulo-1-berthe-morisot-el-impresionismo-desde-la-cuna/",
     "fecha": "08/03/2026",
     "contenido": "#podcast #ElSueñodelArtistaBlog #MujeresArtistas #Impresionismo #DiadelaMujer #BertheMorrisot #HistoriadeñArte Portada del capítulo Madre, Mujer, Artista ¿Cuántas obras maestras llevan el nombre de un hombre… pero fueron creadas por una mujer que también criaba hijos? Bienvenidos a una serie especia"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Hola MacBook Neo",
+    "link": "https://mareosdeungeek.es/hola-macbook-neo/",
+    "fecha": "08/03/2026",
+    "contenido": "MacBook Neo viene a llenar un hueco que la propia Apple había ido creando con el paso de los años y las nuevas versiones de los MacBook. Los que llevábamos varias generaciones de ordenadores Apple hemos visto como se ha ido diversificando el número de opciones. Lo que empezó con el MacBook y el MacB"
   },
   {
     "blog": "El condón roto de GNU",
@@ -532,13 +735,6 @@
     "contenido": "Como ya os he comentado el mes pasado, estoy dirigiendo de nuevo Mythras. Me lié la manta a la cabeza, les dije a mi grupo que dejábamos la anterior campaña y nos poníamos con una nueva, y ahí estamos. No se sorprendieron mucho; les cambio el sistema cada poco tiempo xD. Y bueno, sospecho que tambié"
   },
   {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "La distinción de Pylyshyn",
-    "link": "https://vonneumannmachine.wordpress.com/2026/03/07/la-distincion-de-pylyshyn/",
-    "fecha": "07/03/2026",
-    "contenido": "Andaba yo leyendo la obra Computación y cognición (1984) del canadiense Zenon Pylyshyn (Sí, probablemente, tiene el apellido más extraño de la historia de la ciencia), cuando encontré una distinción conceptual tremendamente esclarecedora para superar uno de los grandes problemas de la consciencia ar"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "El procés creatiu de la meva primera novela de ficció",
     "link": "https://blog.danielaragay.net/el-proces-creatiu-de-la-meva-primera-novela-de-ficcio/",
@@ -565,33 +761,5 @@
     "link": "https://nachof.blog/posts/2026/shroud/",
     "fecha": "07/03/2026",
     "contenido": "\n\n\n\nI was well aware that, as before, every guess was steeped in my human Earth-born viewpoint, but what other tools did I have to try and understand?\n\nParece que es un tema recurrente en los libros de Adrian Tchaikovsky: primer contacto con una inteligencia extraterrestre que funciona totalmente di"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 10 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/03/06/opensuse-tumbleweed-revision-de-la-semana-10-de-2026/",
-    "fecha": "06/03/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Proyecto: Informes de Control para RSS",
-    "link": "https://interlan.ec/blog/2026/03/06/proyecto-control-rss/",
-    "fecha": "06/03/2026",
-    "contenido": "Esto solo es un script bash para tener una idea de cuantos lectores RSS se tienen."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "GadgetBridge: gestiona tu pulsera deportiva inteligente libremente",
-    "link": "https://voidnull.es/gadgetbridge-gestiona-tu-pulsera-deportiva-inteligente-libremente/",
-    "fecha": "06/03/2026",
-    "contenido": "Gadgetbridge es una aplicación libre que permite gestionar dispositivos como relojes inteligentes, pulseras deportivas y otros gadgets Bluetooth"
-  },
-  {
-    "blog": "",
-    "titulo": "Flema.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/03/06/flema/",
-    "fecha": "06/03/2026",
-    "contenido": "La mítica banda Argentina de Punk realizara una gira por Europa, y esa gira incluye una presentación en Irlanda, Flema desembarca por primera vez en Irlanda."
   }
 ]
