@@ -1,5 +1,54 @@
 [
   {
+    "blog": "El condón roto de GNU",
+    "titulo": "Lanzamiento Ubuntu Touch 20.04 OTA-12",
+    "link": "https://elcondonrotodegnu.wordpress.com/2026/03/15/lanzamiento-ubuntu-touch-20-04-ota-12/",
+    "fecha": "15/03/2026",
+    "contenido": "Lanzamiento Ubuntu Touch 20.04 OTA-12 Mejoras en VoLTE"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Ping #19: Actualizaciones, novedades y ranking de distros",
+    "link": "https://voidnull.es/ping-19-actualizaciones-novedades-y-ranking-de-distros/",
+    "fecha": "15/03/2026",
+    "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Fanta Mixtapes – 007 – Suave suave su-su-suave",
+    "link": "https://56k.es/fanta/fanta-mixtapes-007-suave-suave-su-su-suave/",
+    "fecha": "15/03/2026",
+    "contenido": "Nueva mixtape de unos 10 minutos como mucho llamada «Suave suave su-su-suave. Vamos Robert sal a bailar, que tu lo haces fenomenal, tu cuerpo se mueve como una palmera, suave suave, su-su-suave. Se puede escuchar aquí: Las canciones: &#8211; Orion &#8211; Nero Keygen (Crack.xm) &#8211; Jeanette &#82"
+  },
+  {
+    "blog": "prosa",
+    "titulo": "el trabajo de los ojos",
+    "link": "https://blog.adrianaaraujot.casa/el-trabajo-de-los-ojos/",
+    "fecha": "15/03/2026",
+    "contenido": "¡ya tengo los fanzines! así que desvelo título y cubierta :)"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "\"Metal\" Mike Cook Revela Su Nuevo Proyecto | Se Viene El Debut De Iron Faith",
+    "link": "https://www.delotroladometal.com.ar/2026/03/15/se-viene-el-debut-de-iron-faith/",
+    "fecha": "15/03/2026",
+    "contenido": "Ok, quizá muchos no lo recuerden o ni siquiera sepan quien es Mike Cook, o...\nThe post \"Metal\" Mike Cook Revela Su Nuevo Proyecto | Se Viene El Debut De Iron Faith first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "¡Salió GIMP 3.2!",
+    "link": "https://javiersam.uy/2026/03/salio-gimp-3-2.html",
+    "fecha": "15/03/2026",
+    "contenido": "Ayer, sábado 14 de marzo de 2026, se produjo el lanzamiento de la versión 3.2 de GIMP. El siguiente texto es una traducción libre y parcial de la página del lanzamiento, que está en inglés. Estas son algunas de las novedades más destacadas de GIMP 3.2:"
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "No fui",
+    "link": "https://mcallus.net/2026/03/14/no-fui/",
+    "fecha": "14/03/2026",
+    "contenido": "El último viernes de mi padre en la Tierra, elegí no ir verle al hospital. Durante dos semanas había ido después de trabajar y hasta la noche, para que mi madre y mi hermana descansaran.&#160; Mi hermana me dijo que ya no iban a salir del hospital ninguna de las dos porque mi padre no [&#8230;]"
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "Crisis en el proyecto Manjaro",
     "link": "https://tecnoysoft.com/2026/03/14/crisis-en-el-proyecto-manjaro/",
@@ -40,6 +89,13 @@
     "link": "https://56k.es/fanta/fanta-mixtapes-006-no-quiero-ser-diputada-del-pp/",
     "fecha": "14/03/2026",
     "contenido": "Bueno pues esta vez llega una nueva «mixtape» en vertical para toda esa gente que no deja el smartphone ni para cagar (justo para cagar menos). La voz del locutor de Radio es de José Luis Sastre. Se puede escuchar aquí: Las canciones son: Muelas De Gallo &#8211; Cabrón y Medio ILL Pekeño &#8211; Pr"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Fantasy Map Maker",
+    "link": "https://nachof.blog/posts/2026/fantasy-map-maker/",
+    "fecha": "14/03/2026",
+    "contenido": "Fantasy Map Maker casi no es un juego. Es más bien una experiencia de dibujar un mapa, guiado por dados y ciertos objetivos, y al final contás puntos, sí. Pero es casi que irrelevante la parte de contar puntos. Lo lindo es la parte de dibujar el mapa.\n\n\n\n\nQué es Fantasy Map Maker y cómo se juega\nFan"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -217,6 +273,13 @@
     "contenido": "Traducción al español."
   },
   {
+    "blog": "ladoB – matizeta",
+    "titulo": "Reseña de películas #1",
+    "link": "https://matizeta.com/2026/03/12/resena-de-peliculas-1/",
+    "fecha": "12/03/2026",
+    "contenido": "Que  mejor lugar para ver películas en un viaje de avión de casi 14 horas. Me puse al día y vi algunas de las que ofrecía la plataforma de la aerolínea.  Mikey 17 ⭑⭒⭒⭒⭒ Es una película de ciencia ficción que pretende ser graciosa a través de escenas y diálogos ridículos, pasando por escenas amorosas"
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "Cómo Instalar y Usar LM Studio: Tu Asistente de IA Local sin Internet",
     "link": "https://blog.danielaragay.net/como-instalar-y-usar-lm-studio-tu-asistente-de-ia-local-sin-internet/",
@@ -274,7 +337,7 @@
   },
   {
     "blog": "56K",
-    "titulo": "Emular Amiga 1200 en Linux con FS-UAE – Instalar Workbench desde cero",
+    "titulo": "Amiga 1200 en Linux con FS-UAE – Instalar Workbench desde cero",
     "link": "https://56k.es/fanta/emular-amiga-1200-en-linux-con-fs-uae-instalar-workbench-desde-cero/",
     "fecha": "12/03/2026",
     "contenido": "En una entrada anterior se comentó como compilar fs-uae para disponer en Linux de un buen emulador de ordenadores Amiga. Por tanto yo parto de que dispones de fs-uae ya sea compilado por ti o instalado desde repositorios. La idea de este post es mostrar como emular un Amiga 1200 con fs-uae que tenga"
@@ -672,13 +735,6 @@
     "contenido": "La semana pasada Anthropic publicó un informe sobre el impacto de la IA en el mercado laboral. Lo comparto aquí porque juego en casa: es un informe de la empresa que hace Claude, y lo he leído con bastante atención porque el tema me afecta directamente, tanto como profesional como como persona que l"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "No estamos todas...",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/no-estamos-todas/",
-    "fecha": "08/03/2026",
-    "contenido": "... faltan las muertas.\nEs uno de los lemas que recuerdo de mis primeras manifestaciones del Día de la Mujer, el 8 de marzo. Siempre me ha gustado esa manifestación (aunque en los últimos años todas las manifestaciones hayan tenido algún momento de incomodidad para mí, pero es también convivir, gest"
-  },
-  {
     "blog": "El Sueño del Artista Blog",
     "titulo": "Detrás de «La cuna»: Lo que el episodio sobre Berthe Morisot no pudo contar",
     "link": "https://polotman.wordpress.com/2026/03/08/detras-de-la-cuna-lo-que-el-episodio-sobre-berthe-morisot-no-pudo-contar/",
@@ -693,73 +749,10 @@
     "contenido": "#podcast #ElSueñodelArtistaBlog #MujeresArtistas #Impresionismo #DiadelaMujer #BertheMorrisot #HistoriadeñArte Portada del capítulo Madre, Mujer, Artista ¿Cuántas obras maestras llevan el nombre de un hombre… pero fueron creadas por una mujer que también criaba hijos? Bienvenidos a una serie especia"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Hola MacBook Neo",
-    "link": "https://mareosdeungeek.es/hola-macbook-neo/",
-    "fecha": "08/03/2026",
-    "contenido": "MacBook Neo viene a llenar un hueco que la propia Apple había ido creando con el paso de los años y las nuevas versiones de los MacBook. Los que llevábamos varias generaciones de ordenadores Apple hemos visto como se ha ido diversificando el número de opciones. Lo que empezó con el MacBook y el MacB"
-  },
-  {
     "blog": "El condón roto de GNU",
     "titulo": "Lanzamiento Ubuntu Touch 24.04-1.2",
     "link": "https://elcondonrotodegnu.wordpress.com/2026/03/08/lanzamiento-ubuntu-touch-24-04-1-2/",
     "fecha": "08/03/2026",
     "contenido": "Lanzamiento Ubuntu Touch 24.04-1.2"
-  },
-  {
-    "blog": "Si dios te da limones",
-    "titulo": "Down, down, down the road...",
-    "link": "https://sidiostedalimones.com/blog/2026/down-the-road/",
-    "fecha": "08/03/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Spanish on Jorge Sanz",
-    "titulo": "Un par de usos para Gotify",
-    "link": "https://jorgesanz.net/posts/2026-03-08-un-par-de-usos-para-gotify/",
-    "fecha": "08/03/2026",
-    "contenido": "Llevo un tiempo usando Gotify para recibir notificaciones automáticas de cosas del servidor donde hospedo esta web. Esto en sí mismo no tiene mayor importancia, pero resulta que recientemente he añadido un par de funciones adicionales que sí me parecen más interesantes como para comentarlas por aquí"
-  },
-  {
-    "blog": "xol.ar",
-    "titulo": "emulando teclado de Mac Logitech MX Keys en CachyOS/Linux",
-    "link": "https://xol.ar/emulando-teclado-mac-logitech-mx-keys-cachyos-linux/",
-    "fecha": "08/03/2026",
-    "contenido": "Cómo logré imitar casi por completo la distribución y funcionamiento un teclado de macOS en CachyOS/Linux."
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Mythras es tan sencillo como RuneQuest (si quieres que lo sea)",
-    "link": "http://frikoteca.blogspot.com/2026/03/mythras-es-tan-sencillo-como-runequest.html",
-    "fecha": "08/03/2026",
-    "contenido": "Como ya os he comentado el mes pasado, estoy dirigiendo de nuevo Mythras. Me lié la manta a la cabeza, les dije a mi grupo que dejábamos la anterior campaña y nos poníamos con una nueva, y ahí estamos. No se sorprendieron mucho; les cambio el sistema cada poco tiempo xD. Y bueno, sospecho que tambié"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El procés creatiu de la meva primera novela de ficció",
-    "link": "https://blog.danielaragay.net/el-proces-creatiu-de-la-meva-primera-novela-de-ficcio/",
-    "fecha": "07/03/2026",
-    "contenido": "En aquest cap&#xed;tol t&#x2019;explico en detall com ha estat el proc&#xe9;s creatiu i l&#x2019;&#xfa;s de la IA en la escriptura de la meva primera novela de ficci&#xf3; aix&#xed; com la realitzaci&#xf3; de video amb IA. Curtmetratge: Event Horizon"
-  },
-  {
-    "blog": "",
-    "titulo": "Ya esta confirmado el festejo de San Patricio de Valinor Irish Pub.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/03/07/ya-esta-confirmado-el-festejo-de-san-patricio-de-valinor-irish-pub/",
-    "fecha": "07/03/2026",
-    "contenido": "Agendate el viernes 20/03 🍻St. Patrick’s Day se vive en Valinor 🍀Una tradición especial que nos encanta compartir con ustedes: música, juegos, sorpresas y muuuucha birra.Venís con amigos para tomar, entrás en modo irlandés y te volvés con anécdotas que vas a contar por años.📩 Reservá con tiempo por "
-  },
-  {
-    "blog": "56K",
-    "titulo": "Compilar OpenRA en Linux – Command And Conquer, Dune 2000, Red Alert",
-    "link": "https://56k.es/fanta/compilar-openra-en-linux/",
-    "fecha": "07/03/2026",
-    "contenido": "Red Alert, Command &#38; Conquer, Dune 2000, &#8230; son juegos disfrutables al día de hoy con OpenRA (un motor libre). En Debian forky (Debian 14, ando en SID) lo he compilado así: # apt update # apt install make liblua5.1-0-dev libfreetype6 libopenal1 liblua5.1-0 libsdl2-2.0-0 $ wget \"https://gith"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Shroud - Adrian Tchaikovsky",
-    "link": "https://nachof.blog/posts/2026/shroud/",
-    "fecha": "07/03/2026",
-    "contenido": "\n\n\n\nI was well aware that, as before, every guess was steeped in my human Earth-born viewpoint, but what other tools did I have to try and understand?\n\nParece que es un tema recurrente en los libros de Adrian Tchaikovsky: primer contacto con una inteligencia extraterrestre que funciona totalmente di"
   }
 ]
