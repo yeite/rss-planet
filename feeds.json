@@ -1,5 +1,68 @@
 [
   {
+    "blog": "THE_CHEI$",
+    "titulo": "La persistencia de la memoria",
+    "link": "https://thecheis.com/2026/03/16/la-persistencia-de-la-memoria/",
+    "fecha": "16/03/2026",
+    "contenido": "Tras un mes pasándolo en grande con los videojuegos y la IA, he llegado a algunas conclusiones sobre su uso. O, al menos, sobre el uso que yo le estaba dando. ¿Puede esta herramienta ser competente para temas tan específicos como un juego RPG? ¿Puede ser coherente en sesiones extensas donde requiere"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Marknote 1.5 llega a #KDE",
+    "link": "https://victorhckinthefreeworld.com/2026/03/16/marknote-1-5-llega-a-kde/",
+    "fecha": "16/03/2026",
+    "contenido": "Marknote 1.5 hace ahora más sencillo el tomar notas y añade nuevas funcionalidades a esta aplicación de KDE que ahora la hacen más potente y versátil"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Subida a Puerto Rico alto",
+    "link": "https://mareosdeungeek.es/subida-a-puerto-rico-alto/",
+    "fecha": "16/03/2026",
+    "contenido": "La subida a Puerto Rico Alto es una ruta de senderismo que sale de la misma ciudad de Marbella. A través de un sendero se llega hasta un punto intermedio frente a las cimas de El Juanar o La Concha. Aprovechando que ha dejado de llover he hecho esta ruta que es perfecta para iniciarse [&#8230;]"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Más allá de la VPN: túneles y redes mesh para conectividad privada",
+    "link": "https://alt43.es/mas-alla-de-la-vpn-tuneles-y-redes-mesh-para-conectividad-privada/",
+    "fecha": "16/03/2026",
+    "contenido": "La conectividad privada ya no es sinónimo de VPN. Cloudflare Tunnel, Tailscale, NetBird, ZeroTier y Yggdrasil ofrecen modelos alternativos (túneles salientes, redes mesh, Ethernet virtual y topologías descentralizadas) con menor superficie de ataque, mejor usabilidad y, en varios casos, mayor contro"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Lollapalooza Chile 2026 – Día 1: Tom Morello",
+    "link": "https://altgr.xyz/2026/03/16/lollapalooza-chile-2026-dia-1-tom-morello/",
+    "fecha": "16/03/2026",
+    "contenido": "La conexión de Tom Morello con Chile es especial. Lo sabemos desde hace tiempo. Su admiración por Víctor Jara, sumado a sus constantes halagos al público nacional nos hacen saber que nos hemos ganado un rincón especial en su rockero corazón. Su presentación en el Alternative Stage fue el cierre de l"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Zigbee2MQTT en Proxmox",
+    "link": "https://voidnull.es/instalacion-de-zigbee2mqtt-en-proxmox/",
+    "fecha": "16/03/2026",
+    "contenido": "Guía para instalar Zigbee2MQTT en Proxmox e integrar tu red Zigbee de forma autónoma, sin depender de hubs propietarios."
+  },
+  {
+    "blog": "",
+    "titulo": "San Patricio en el colegio Santa Brigida.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/03/16/san-patricio-en-el-colegio-santa-brigida/",
+    "fecha": "16/03/2026",
+    "contenido": "La Asociación Catolico-Irlandesa organiza un evento en el colegio Santa Brigida en la Ciudad de Buenos Aires, el mismo consta de una misa y una feria con presentaciones de musica y baile. La reunión se realiza el 17 de Marzo el mismo día de San Patricio."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Las guerras no son justas",
+    "link": "https://www.fabio.com.ar/9896-las-guerras-no-son-justas",
+    "fecha": "16/03/2026",
+    "contenido": "    \nUn destructor iran&iacute; zarpa desde un puerto de Sri Lanka, acaba de participar de pr&aacute;cticas militares y unos d&iacute;as atr&aacute;s los EEUU hab&iacute;an comenzado a bombardear su pa&iacute;s. El capit&aacute;n decide que es \"buena idea\" cumplir sus &oacute;rdenes y volver al Golf"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Paramaecium: Exhumed Of The Earth | Una Eterna Exhumación",
+    "link": "https://www.delotroladometal.com.ar/2026/03/16/una-eterna-exhumacion/",
+    "fecha": "16/03/2026",
+    "contenido": "(1993/94 &#8211; R.E.X. Music/Witchhunt Records) Un canto operístico, casi de sirena, acompañado de un primigenio...\nThe post Paramaecium: Exhumed Of The Earth | Una Eterna Exhumación first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "La bitácora de Locutus",
     "titulo": "La fuerza nuclear fuerte",
     "link": "http://locutusbit.blogspot.com/2026/03/la-fuerza-nuclear-fuerte.html",
@@ -242,7 +305,7 @@
     "titulo": "533. Prioriades",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/03/533-prioriades.html",
     "fecha": "13/03/2026",
-    "contenido": "&nbsp; &nbsp; Antes de la pandemia, yo era parte de un reducido grupo de amigos que nos veíamos siempre que el trabajo lo permitía. Lo teníamos todo a favor para creer que aquello perduraría en el tiempo. Pero llegó el confinamiento domiciliario, fuera o no necesario, y nos obligó a seguir viviendo "
+    "contenido": "&nbsp; &nbsp; Antes de la pandemia, yo era parte de un reducido grupo de amigos que nos veíamos siempre que el trabajo lo permitía. Lo teníamos todo a favor para creer que aquello perduraría en el tiempo. Pero llegó el confinamiento domiciliario, fuera o no necesario, y nos obligó a vivir con las re"
   },
   {
     "blog": "_ voidNull",
@@ -658,25 +721,11 @@
     "contenido": "Al intentar actualizar openSUSE Tumbleweed curl me daba una serie de errores de certificados al querer acceder a los repositorios y no me dejaba actualizar el sistema"
   },
   {
-    "blog": "Un bruto con Debian",
-    "titulo": "NoiseTorch, el micro virtual con cancelación de ruido.",
-    "link": "http://unbrutocondebian.blogspot.com/2026/03/noisetorch-el-micro-virtual-con.html",
-    "fecha": "09/03/2026",
-    "contenido": "&nbsp;Siempre he sido más de escribir que de hablar. Por eso esto es un blog y no un podcast. Así que nunca me he preocupado de tener un micrófono decente en mi equipo.¿Y que ocurre si en un momento dado necesito grabar algo con un mínimo de calidad o tener una reunión de Teams o Zoom o Webex en la "
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "Maspalomas la película",
     "link": "https://mareosdeungeek.es/maspalomas-la-pelicula/",
     "fecha": "09/03/2026",
     "contenido": "Maspalomas es una película dirigida por el cineasta vasco José Mari Goenaga, está protagonizada por José Ramón Soroiz que ganó el Goya a mejor actor principal la pasada semana. En Maspalomas también intervienen Kandido Uranga y Nagore Aranburu, además de otros actores y actrices vascos. De hecho la "
-  },
-  {
-    "blog": "alt43",
-    "titulo": "El precio del software gratuito: extracción de datos en Android y Windows",
-    "link": "https://alt43.es/el-precio-del-software-gratuito-extraccion-de-datos-en-android-y-windows/",
-    "fecha": "09/03/2026",
-    "contenido": "Android y Windows recopilan información sobre ti de forma continua y silenciosa: tu ubicación, tus hábitos, tus relaciones, tu estado de ánimo. No es alarmismo, es el modelo de negocio detrás del software gratuito. Este artículo explica qué datos se extraen, qué riesgos reales suponen y qué puedes h"
   },
   {
     "blog": "Tecno y Soft",
@@ -693,20 +742,6 @@
     "contenido": "Hoy he probado a hacerme lo que honestamente pensaba que era un café americano. He echado 35 gramos de un café molido más bien grueso (Delta Brasil en mi caso, porque es lo que tenía a mano) y 250 gramos de agua hirviendo. Un poco de edulcorante en la taza, a filtrar y a beber. Y la verdad es que es"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 10/2026",
-    "link": "https://www.macram.es/posts/2026/03/semana-10-2026/",
-    "fecha": "09/03/2026",
-    "contenido": "Esta semana ha sido más &ldquo;normal&rdquo; que la anterior. Más &ldquo;rutinaria&rdquo;, si lo preferís. He vuelto al gimnasio, parece que de manera definitiva (habrá que ver cuánto aguanto). Fuera de ese cambio y de querer, más o menos, reiniciar mi aprendizaje de italiano, la semana ha sido bast"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "MacBook Neo es lo que hace tiempo queríamos ver hacer a un iPad",
-    "link": "https://matizeta.com/2026/03/09/macbook-neo-es-lo-que-hace-tiempo-queriamos-ver-hacer-a-un-ipad/",
-    "fecha": "09/03/2026",
-    "contenido": "Me gusta hablar de Apple, lo sabes. Soy usuario y puedo decirte que a nivel general me parece la mejor opción con respecto a Windows.&#160; Esta semana hubo anuncios de nuevos productos de Apple y en este post solo me voy a enfocar en los nuevo MacBook Neo, la gama de entrada a sus portátiles.&#160;"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "El pan nuestro de cada IA",
     "link": "https://blog.danielaragay.net/el-pan-nuestro-de-cada-ia/",
@@ -714,66 +749,10 @@
     "contenido": "Tres temas hoy: efectivo en Suecia, menores y redes sociales y la IA en nuestro d&#xed;a a d&#xed;a: Event Horizon - an IA Short Film Event Horizon - an IA Short Film https://youtu.be/8Ckc5AoJaIYFormas de patrocinio. Blog danielaragay.net Todos los podcasts: https:"
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de un nodo de Mastodon en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-un-nodo-de-mastodon-en-debian-13/",
-    "fecha": "09/03/2026",
-    "contenido": "Mastodon es una red social libre y descentralizada de microblogging. Esta red social es una federación descentralizada de servidores que ejecutan el Software bajo licencia AGPL."
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Erica a diario",
-    "link": "https://www.ericafustero.com/2026-03-erica-a-diario",
-    "fecha": "09/03/2026",
-    "contenido": "Hace cosa de dos años, allá por febrero de 2024, decidí participar en el Hourly comic day, un evento en el que dibujantes de todo el mundo se dedican a contar su día en formato cómic. La experiencia me gustó tanto que decidí seguir dibujando y publicando mis días en formato diario el resto del [&#82"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "El nivel del actual feminismo",
-    "link": "https://www.xn--jmuoz-qta.es/2026/03/el-nivel-del-actual-feminismo.html",
-    "fecha": "09/03/2026",
-    "contenido": "\n  \n    \n  \nAyer, pegando un repaso a la prensa antes de acostarme, me encontré la imagen que está sobre estas líneas en la portada de El País.Iba a leer algo sobre la actualidad del día antes de acostarme, pero en ese antaño Día de la Mujer Trabajadora, marcado desde hace años por unas manifestacio"
-  },
-  {
-    "blog": "",
-    "titulo": "El grupo de musica celta Sete Netos se presenta en San Telmo.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/03/09/el-grupo-de-musica-celta-sete-netos-se-presenta-en-san-telmo/",
-    "fecha": "09/03/2026",
-    "contenido": "El grupo de musica celta Sete Netos se presenta en San Telmo para festejar San Patricio."
-  },
-  {
-    "blog": "",
-    "titulo": "Anam Keltoi.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/03/09/anam-keltoi-5/",
-    "fecha": "09/03/2026",
-    "contenido": "Anam Keltoi se presenta en el Tatro Astengo en Rosario para festejar San Patricio, el concierto se realizara el 20 de marzo a las 20 Horas. Abajo tiene el Link para las entradas. Click Aqui"
-  },
-  {
     "blog": "Calaveras",
     "titulo": "Resumen de Noticias de la IA - Febrero 2026",
     "link": "https://calaveras.bearblog.dev/resumen-de-noticias-de-la-ia-febrero-2026/",
     "fecha": "09/03/2026",
     "contenido": "Llevamos un par de días adentrados en Marzo, pido disculpas por demorar este posteo. Vamos con eso.\nAntrophic compra AntrophicEl creador de Claudio, Claudio Pro, Claudio 4.5, Claudio 5.4, Claudio THX, y Claudio GTA6 anuncia la compra de su propia empresa Antrophic. ¿Cómo funciona eso? Es fácil de en"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "El F-35 está demostrando que valía la pena",
-    "link": "https://www.fabio.com.ar/9891-el-f-35-esta-demostrando-que-valia-la-pena",
-    "fecha": "09/03/2026",
-    "contenido": "    \nSiempre fui cr&iacute;tico del programa del F-35 Lightning II porque me parec&iacute;a excesivamente costoso y sin un escenario real de uso, un avi&oacute;n que r&aacute;pidamente podr&iacute;a volverse obsoleto si era alcanzado tecnol&oacute;gicamente por un rival, etc.\nLa realidad est&aacute;"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Fisión Nuclear: Libres De Todo Mal | La Energía Nuclear Y Sus Leyes",
-    "link": "https://www.delotroladometal.com.ar/2026/03/09/la-energia-nuclear-y-sus-leyes/",
-    "fecha": "09/03/2026",
-    "contenido": "(2025 &#8211; Metal Command) El tema de lo nuclear está de moda últimamente. Bah, nunca...\nThe post Fisión Nuclear: Libres De Todo Mal | La Energía Nuclear Y Sus Leyes first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "El informe de Anthropic sobre empleo y AI no menciona a los diseñadores. Eso también es un dato.",
-    "link": "https://dani.torresburriel.com/informe-anthropic-empleo-ia-disenadores-ux/",
-    "fecha": "09/03/2026",
-    "contenido": "La semana pasada Anthropic publicó un informe sobre el impacto de la IA en el mercado laboral. Lo comparto aquí porque juego en casa: es un informe de la empresa que hace Claude, y lo he leído con bastante atención porque el tema me afecta directamente, tanto como profesional como como persona que l"
   }
 ]
