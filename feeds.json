@@ -7,6 +7,13 @@
     "contenido": "Vamos a añadir un widget que mostrará información de nuestro sistema con escritorio Plasma de KDE"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "Contra la autoayuda",
+    "link": "https://jinversor.co/2026/03/contra-la-autoayuda/",
+    "fecha": "18/03/2026",
+    "contenido": "Ayer mientras hacía unas compras en el supermercado pasé por el estante de libros y me detuve un momento a ver si había algo interesante. Salí asqueado de ese pasillo [&#8230;]\nLa entrada Contra la autoayuda se publicó primero en Jinversor."
+  },
+  {
     "blog": "Papel Continuo",
     "titulo": "Doorags. Del Blues al ruido.",
     "link": "https://papelcontinuo.net/3486/doorags-del-blues-al-ruido/",
@@ -15,10 +22,24 @@
   },
   {
     "blog": "Luis Carlos Pando",
+    "titulo": "#Video: Thursday - What's Up? (4 Non Blondes cover)",
+    "link": "https://blog.luiscarlospando.com/musica/2026/03/video-thursday-whats-up-4-non-blondes-cover/",
+    "fecha": "18/03/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Cosas que le he agregado últimamente a mi sitio",
+    "link": "https://blog.luiscarlospando.com/personal/2026/03/cosas-que-le-he-agregado-ultimamente-a-mi-sitio/",
+    "fecha": "18/03/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Luis Carlos Pando",
     "titulo": "Mi Epiphone Les Paul Custom me hace muy feliz, pero últimamente no dejo de pensar en entrarle a una Gibson",
     "link": "https://blog.luiscarlospando.com/personal/2026/03/mi-epiphone-les-paul-custom-me-hace-muy-feliz-pero-ultimamente-no-dejo-de-pensar-en-entrarle-a-una-gibson/",
     "fecha": "18/03/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "Mareos de un geek",
@@ -29,10 +50,38 @@
   },
   {
     "blog": "_ voidNull",
+    "titulo": "xz: comprime a saco sin consumir recursos",
+    "link": "https://voidnull.es/xz-comprime-a-saco-sin-consumir-recursos/",
+    "fecha": "18/03/2026",
+    "contenido": "Aprende a comprimir y descomprimir archivos eficientemente en GNU/Linux usando xz y su potente algoritmo LZMA2."
+  },
+  {
+    "blog": "_ voidNull",
     "titulo": "Instalación de Zabbix Server 7.0 en RockyLinux 10",
     "link": "https://voidnull.es/instalacion-de-zabbix-server-7-0-en-rockylinux-10/",
     "fecha": "18/03/2026",
     "contenido": "Zabbix es un software de monitoreo de infraestructura bajo licencia GPLv3, muy popular y con muchas funcionalidades desarrollado en PHP."
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "La rotación de certificados no es tan fácil como la pintan",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/03/18/20260318-certificados-y-rotacion/",
+    "fecha": "18/03/2026",
+    "contenido": "¿Es seguridad, o un negocio?"
+  },
+  {
+    "blog": "",
+    "titulo": "Convocatoria.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/03/18/convocatoria-6/",
+    "fecha": "18/03/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "",
+    "titulo": "Convocatoria.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/03/18/convocatoria-5/",
+    "fecha": "18/03/2026",
+    "contenido": ""
   },
   {
     "blog": "Fabio.com.ar",
@@ -68,13 +117,6 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/para-que-te-lo-voy-a-explicar-si-no-me-vas-a-entender/",
     "fecha": "17/03/2026",
     "contenido": "Para que te hagas una idea: hoy he salido de un bazar sin comprar lo que había ido a buscar porque no tenía las fuerzas necesarias para preguntar el precio. Y no, no es un capricho, no es una extravagancia, no es timidez. Es que no podía hacerlo. Sin más. Supongo que esto para muchas personas (o no "
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "\"No estás deprimido, solo no tienes un tercer espacio\"",
-    "link": "https://www.macram.es/posts/2026/03/no-estas-deprimido-solo-no-tienes-un-tercer-espacio/",
-    "fecha": "17/03/2026",
-    "contenido": "Ya escribí sobre terceros lugares el año pasado. Y hace unos días, haciendo doomscrolling en Instagram, me crucé con este vídeo de Esteban Go que explica de maravilla qué es un tercer espacio y por qué son importantes, incluso aunque creamos que no lo son. No os lo perdáis.\n\n\n"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -147,6 +189,13 @@
     "contenido": "(2025 &#8211; Soundmass) Coros gregorianos, estética eclesiástica y monástica, viejos himnos cristianos, mas una base...\nThe post Himmelschor: Himmelschor | El Arte De Revivir Los Himnos first appeared on Del Otro Lado Metal."
   },
   {
+    "blog": "El Blog de un informático que sueña con mejorar el mundo",
+    "titulo": "EA7LEE: Saliendo al aire",
+    "link": "https://jesuspavonabian.es/post/ea7leesaliendoalaire/",
+    "fecha": "17/03/2026",
+    "contenido": "Tengo las antenas en la azotea, por fin.\nHa costado. coordinar gente, el clima que no colavoraba&hellip; Pero ya está. Hace dos días subieron a la azotea, y a falta de cambiar una cuerda por una más resistente, cosa que haremos esta semana y que no impide operar, tengo la instalación fija montada. Y"
+  },
+  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "Construir producto te cambia la mirada",
     "link": "https://dani.torresburriel.com/vibe-coding-para-disenadores/",
@@ -194,13 +243,6 @@
     "link": "https://tecnoysoft.com/2026/03/16/la-gota-que-reboso-el-vaso/",
     "fecha": "16/03/2026",
     "contenido": "A veces basta una gota para que el vaso rebose. Quienes me seguís posiblemente sepáis que abandoné Manjaro como mi distro principal en favor de CachyOS. Aun así, en mi viejo portátil sigo conservando Manjaro Unstable. Manjaro no atraviesa su mejor momento. Algunos desarrolladores, descontentos con e"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 11/2026",
-    "link": "https://www.macram.es/posts/2026/03/semana-11-2026/",
-    "fecha": "16/03/2026",
-    "contenido": "Parece que ya sí que sí llega la primavera. Mis fosas nasales lo están acusando. Hace sol, apetece estar en el exterior, todo eso. Aunque el sábado pasé el día fuera de casa y reconozco que pasé bastante frío. Nadie esperaba que fuera a estar tan nublado y que fuera a hacer tanto viento. Yo debería "
   },
   {
     "blog": "danielaragay.net",
@@ -525,13 +567,6 @@
     "contenido": "(2024 &#8211; SneeuwStorm Produkties) El Black Metal es ya de por sí un género bastante...\nThe post Gnadenthron: Verheissung | Un Misterio Vikingo first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Ubuntu Peronista",
-    "titulo": "¡Ubuntu Peronista supera los 3 millones de visitas!",
-    "link": "https://ubuntuperonista.blogspot.com/2026/03/ubuntu peronista supera los 3 millones de visitas.html",
-    "fecha": "12/03/2026",
-    "contenido": "Este miércoles 11 de marzo, el blog de adoctrinamiento \npolítico-tecnológico Ubuntu Peronista superó los 3 millones de visitas a\n su plataforma.&nbsp;La cifra es acreditada a través las Estadísticas de Blogger.Operando en superficie desde 2009, Ubuntu Peronista compendia soluciones ofrecidas en ocas"
-  },
-  {
     "blog": "Adrián Perales",
     "titulo": "Cacharros que me gustaría probar",
     "link": "https://adrianperales.com/2026/03/cacharros-que-me-gustaria-probar/",
@@ -558,13 +593,6 @@
     "link": "https://pedrolr.es/blog/sobre-la-costumbre-de-no-validar-html-y-xml-jats/",
     "fecha": "12/03/2026",
     "contenido": "El lunes coincidí con una compañera que me comentó algo sobre mi paper \"La edición de XML JATS a examen: análisis de errores en artículos de revistas científicas ya publicados\". En este trabajo analizo archivos XML JATS (Journal Article Tag Suite), en el contexto de las revistas científicas, detecta"
-  },
-  {
-    "blog": "Fierro Viejo",
-    "titulo": "¿Seguirá existiendo mi trabajo en diez años?",
-    "link": "https://fierroviejo.com/2026/03/seguira-existiendo-mi-trabajo-en-diez-anos.html",
-    "fecha": "12/03/2026",
-    "contenido": "Traducción al español."
   },
   {
     "blog": "ladoB – matizeta",
@@ -607,13 +635,6 @@
     "link": "https://jmlro.codeberg.page/posts/2026/03-12-las-aventuras-de-trumpstein.html",
     "fecha": "12/03/2026",
     "contenido": "Trumpstein\n\tcon gorra come una hamburguesa. \n\nTrumpstein\n\tes uno de los presidentes más americanos de la historia. \n\nTrumpstein \n\t\"mira-un-pajarito\" mientras tiene en la mano Papeles de Epstein. \n\nTrumpstein \n\tatacó Irán sin previsión de lo que iba a pasar.\n\nTrumpstein\n\tdice: \"Todos los americanos s"
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Linux",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/linux/",
-    "fecha": "12/03/2026",
-    "contenido": "El kernel despertó con un pánico binario: el hardware era un caos de impulsos eléctricos sin documentación. No había man pages para los sentimientos, ni un driver estable para la nostalgia.\n—sudo apt-get install voluntad —ejecutó el sistema en un arranque de optimismo lógico.\nEl terminal devolvió un"
   },
   {
     "blog": "",
@@ -677,54 +698,5 @@
     "link": "https://dani.torresburriel.com/la-ilusion-con-la-que-alguien-firma-un-contrato-de-trabajo/",
     "fecha": "12/03/2026",
     "contenido": "Hoy he tenido una conversación sorprendente. Estaba tomándome un café y un pincho de tortilla espectacular con alguien cercano, un profesional al que respeto mucho, que tiene una formación sólida en varias áreas, entre ellas recursos humanos y gestión de talento. En un momento determinado, la conver"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Si llegara a cien años",
-    "link": "https://polotman.wordpress.com/2026/03/11/si-llegara-a-cien-anos/",
-    "fecha": "11/03/2026",
-    "contenido": "Escribe una carta a tu yo de 100 años. Para el querido he irritante :YO No sé si llegases a leer esta pequeña epístola, no es que no crea que no hallas vivido lo suficiente para leerla o mejor escrito sobrevivido a todos los posibles acontecimientos que han de venir para transformar el curso de [&#8"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Zen Browser",
-    "link": "https://mareosdeungeek.es/zen-browser/",
-    "fecha": "11/03/2026",
-    "contenido": "Zen Browser es un navegador web basado en el motor Gecko de Mozilla, centrado en la privacidad, ofreciendo una experiencia de usuario limpia y minimalista. El proyecto de Zen Browser, de código libre y abierto, se lanzó en verano de 2024 y lleva en fase beta desde diciembre de ese mismo año. Su apar"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de WordPress en nuestro servidor en AlmaLinux 10",
-    "link": "https://voidnull.es/instalacion-de-wordpress-en-nuestro-servidor-en-almalinux-10/",
-    "fecha": "11/03/2026",
-    "contenido": "WordPress es el sistema gestor de contenidos (CMS) por excelencia y además es de Software Libre, orientado principalmente a la creación de blogs y tiendas online. Este famoso CMS está basado en PHP y MySQL."
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Novedades del Graf cómic",
-    "link": "https://www.ericafustero.com/2026-03-novedades-graf-comic",
-    "fecha": "11/03/2026",
-    "contenido": "Este fin de semana se celebra el festival de cómic y autoedición Graf. El 14 y 15 de marzo me podrás encontrar en el stand 22 junto a mi nuevo libro y un montón de novedades. ¡Pásate a saludar! Si el Graf te pilla a desmano, puedes comprar Erica a diario aquí. El resto de [&#8230;]"
-  },
-  {
-    "blog": "56K",
-    "titulo": "ChatSSL – Monta un chat cifrado con 5 líneas en bash",
-    "link": "https://56k.es/fanta/chatssl-monta-un-chat-cifrado-con-5-lineas-en-bash/",
-    "fecha": "11/03/2026",
-    "contenido": "He dejado por aquí git.56k.es/fanta/chatSSL un script en bash para chatear con alguien tranquilamente desde la shell. El script se puede ver en acción en la siguiente captura. La parte de arriba sería lo que escribe alguien desde la máquina 1 y lo de abajo lo que escribe alguien desde la máquina 2. "
-  },
-  {
-    "blog": "56K",
-    "titulo": "Escenario Fediverse para el juego OpenTTD",
-    "link": "https://56k.es/fanta/escenario-fediverse-para-el-juego-openttd/",
-    "fecha": "11/03/2026",
-    "contenido": "El escenario del fediverso para el juego openttd ya anda aquí. Puede usted bajarse el escenario desde aquí: fediverso.zip Se trata de un mapa en el que los pueblos tienen nombres de nodos de lo que llamamos fediverso. Aquí pueden verse unas cuantas capturas: &#160; Poner en marcha el escenario/mapa "
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Hoy he dado un taller de Vibe Coding en Etopía",
-    "link": "https://dani.torresburriel.com/hoy-he-dado-un-taller-de-vibe-coding-en-etopia/",
-    "fecha": "11/03/2026",
-    "contenido": "Y ha sido una tarde muy buena. No digo esto siempre. De hecho, precisamente porque no lo digo siempre, vale la pena decirlo cuando es verdad. Soy muy selectivo con los sitios donde voy a compartir presencialmente. El tiempo es finito y la energía también, y no todos los contextos merecen el mismo es"
   }
 ]
