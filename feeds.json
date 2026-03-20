@@ -21,11 +21,39 @@
     "contenido": "El viernes pasado falleció mi exsuegro a los 95 años de edad. En su recuerdo, me gustaría traer a colación de nuevo un artículo de hace un tiempito. Se trata de un pedacito curioso de la historia automotriz de este rincón de Europa que, si tenéis un rato, os invito a disfrutar de nuevo si estabais p"
   },
   {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "De juerga",
+    "link": "https://mcallus.net/2026/03/19/de-juerga/",
+    "fecha": "19/03/2026",
+    "contenido": "Diana atravesaba la plaza Pío XII con la mano agarrando el culo de Arancha, la chica con la que había bailado y bebido toda la noche. Al final se dieron el lote de manera salvaje, tanto que salieron corriendo del bar para ir a la casa de Arancha, que estaba relativamente cerca.&#160; No contaban con"
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Estoy de regreso",
+    "link": "https://matizeta.com/2026/03/19/estoy-de-regreso/",
+    "fecha": "19/03/2026",
+    "contenido": "Estas últimas semanas estuve bastante desconectado de mi blog (y de Internet en general). El motivo de ello es que me tomé varias semanas de vacaciones para recorrer lugares de Italia que no había visitado anteriormente y conocer un nuevo país: Malta. No sé si escribiré sobre el viaje, sinceramente "
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "EarPods: reseña y comparativa innecesaria",
     "link": "https://matizeta.com/2026/03/19/earpods-resena-y-comparativa-innecesaria/",
     "fecha": "19/03/2026",
     "contenido": "En comparación con los Samsung Akg que venía utilizando hasta ahora, los EarPods no tiene goma en sus extremos sino que son enteramente de plástico, sin embargo se sienten cómodos y los prefiero por sobre ellos (por esa misma razón me decidí por los  inalámbricos AirPods clásicos por sobre los Pro)."
+  },
+  {
+    "blog": "esencial",
+    "titulo": "No gastar",
+    "link": "https://yeite.github.io/esencial/no-gastar",
+    "fecha": "19/03/2026",
+    "contenido": "¿Qué es un reto de “no gastar”?"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Lollapalooza Chile 2026 – Día 3: Akriila",
+    "link": "https://altgr.xyz/2026/03/19/lollapalooza-chile-2026-dia-3-akriila/",
+    "fecha": "19/03/2026",
+    "contenido": "No soy un gran seguidor del género urbano, pero he leído buenos comentarios sobre Akriila, así que decidí aprovechar la oportunidad para escucharla. La verdad, no la encontré nada sobresaliente ni particularmente original, salvo un par de canciones. Con esto finalizamos la participación en Lollapalo"
   },
   {
     "blog": "Eterno aprendiz",
@@ -42,11 +70,53 @@
     "contenido": "El ex Lucybell ahora como solista en formato trío (¿Nos recuerda algo?) presentó un show con canciones propias, pero también muchos éxitos de su ex banda. Sonó muy bien y tuvo como invitados a Princesa Alba y Piero Duhart (De Saloon)."
   },
   {
+    "blog": "La Frikoteca",
+    "titulo": "El juego perfecto no existe (pero hay que buscarlo)",
+    "link": "http://frikoteca.blogspot.com/2026/03/el-juego-perfecto-no-existe-pero-hay.html",
+    "fecha": "19/03/2026",
+    "contenido": "Hace muchos, muchos años, los debates sobre rol en internet los tenía a través de listas de correo como Glorantha Hispana o foros como SPQRol. A principios de siglo la discusión saltó a las redes sociales como Facebook o Twitter y a los blogs como el mío y muchos otros, que tuvieron su momento de gl"
+  },
+  {
+    "blog": "Calaveras",
+    "titulo": "Inteligencia Artificial, chupapijas y otros sinsentidos: Prólogo",
+    "link": "https://calaveras.bearblog.dev/inteligencia-artificial-chupapijas-y-otros-sinsentidos-prologo/",
+    "fecha": "19/03/2026",
+    "contenido": "El título parece un podcast de bajo presupuesto, pero esto es peor, es un posteo de bajo presupuesto con el objetivo de ser un manifiesto, un ranteo, una opinión, lo que sea que salga de mi precioso cerebro.\nBásicamente mi vida gira en torno a un trabajo, varios hobbies y varias personas, dónde encu"
+  },
+  {
+    "blog": "56K",
+    "titulo": "WordPerfect 8.1 sobre Linux en 2026",
+    "link": "https://56k.es/fanta/wordperfect-8-1-sobre-linux-en-2026/",
+    "fecha": "19/03/2026",
+    "contenido": "Aquí dejo una receta de como hacer funcionar Wordperfect 8.1 en GNU+Linux en 2026. Concretamente en Debian 13. # apt install makepkg wget libc6:i386 libxaw7:i386 binutils # cp -pRv /usr/bin/makepkg /sbin/makepkg $ mkdir -p ~/Downloads/wp-inst $ wget https://fanta.56k.es/software/Ofimatica/WordPerfec"
+  },
+  {
+    "blog": "56K",
+    "titulo": "La compra de inteligencia y la desposesión de la cocina",
+    "link": "https://56k.es/fanta/la-compra-de-inteligencia-y-la-desposesion-de-la-cocina/",
+    "fecha": "19/03/2026",
+    "contenido": "Actualmente se empieza a normalizar que algunas personas se vanaglorien de no necesitar saber o conocer algo porque creen que pueden comprar la inteligencia mediante suscripción (inteligencia como servicio). Los supermercados Mercadona hace poco fueron «noticia» porque decían que la cocina en las ca"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "Me gusta el fútbol",
+    "link": "https://alex.corcoles.net/2026/03/me-gusta-el-futbol",
+    "fecha": "19/03/2026",
+    "contenido": "\n  Pero ya nunca veo partidos y b&#225;sicamente s&#243;lo me entero de cosas porque no escapar&#237;a de los gritos ni en el fondo de la fosa de las Marianas. &#191;Por qu&#233;?\n  En 2011 escrib&#237; por aqu&#237; sobre Cruyff y la liga espa&#241;ola[1].\n  \n    [1] Holandeses voladores, ciclos y "
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Ruleta Rusa #868",
     "link": "https://www.fabio.com.ar/9899-ruleta-rusa-868",
     "fecha": "19/03/2026",
     "contenido": "     Al borde del abismo hay ruleta\n&iquest;Ya es jueves? As&iacute; es, y ni yo me di cuenta, me lleg&oacute; el d&iacute;a y la ruleta as&iacute; como si nada, pues como todo jueves desde hace muchos, muchos a&ntilde;os (16 y medio, ponele) a esta hora lo que vas a ver son veinte balazos.\nEl otro "
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "El síndrome del impostor no desaparece con los años. Aprendes a convivir con él.",
+    "link": "https://dani.torresburriel.com/sindrome-del-impostor-profesionales-con-experiencia/",
+    "fecha": "19/03/2026",
+    "contenido": "Llevas décadas en tu campo. Tienes proyectos, clientes, reconocimiento. Y aun así, antes de entrar a una reunión importante, aparece esa voz: ¿y si no estoy a la altura? El síndrome del impostor no desaparece con los años. Lo que cambia es tu relación con él.\nLa entrada El síndrome del impostor no d"
   },
   {
     "blog": "Victorhck in the free world",
@@ -371,13 +441,6 @@
     "contenido": "Los neoyorquinos estuvieron en uno de los escenarios principales. La primera parte del concierto la escuchamos a la distancia mientras comíamos, pero luego nos sumamos al público para disfrutar como corresponde, en medio del público. Interpol es un tipo de banda &#8220;sandía calada&#8221; para este"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Lollapalooza Chile 2026 – Día 1: Men I Trust",
-    "link": "https://altgr.xyz/2026/03/15/lollapalooza-chile-2026-dia-1-men-i-trust-2/",
-    "fecha": "15/03/2026",
-    "contenido": "Men I Trust es, hasta ahora, el descubrimiento para mí en este Lollapalooza. Es una banda canadiense liderada por una chica llamada Emmanuelle Proulx. Asumo que sus compañeros son los &#8220;Men I Trust&#8221;. Un proyecto indie pop/rock más que interesante."
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "Ping #19: Actualizaciones, novedades y ranking de distros",
     "link": "https://voidnull.es/ping-19-actualizaciones-novedades-y-ranking-de-distros/",
@@ -579,61 +642,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/03/13/un-misterio-vikingo/",
     "fecha": "13/03/2026",
     "contenido": "(2024 &#8211; SneeuwStorm Produkties) El Black Metal es ya de por sí un género bastante...\nThe post Gnadenthron: Verheissung | Un Misterio Vikingo first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Thunderbird siempre actualizado desde los repositorios de openSUSE Tumbleweed",
-    "link": "https://victorhckinthefreeworld.com/2026/03/12/thunderbird-siempre-actualizado-desde-los-repositorios-de-opensuse-tumbleweed/",
-    "fecha": "12/03/2026",
-    "contenido": "Cómo sustituir la versión ESR de Mozilla Thunderbird por la de actualizaciones mensuales directamente desde los repositorios de openSUSE Tumbleweed y mantener tu cliente de correo siempre al día"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Cómo Instalar y Usar LM Studio: Tu Asistente de IA Local sin Internet",
-    "link": "https://blog.danielaragay.net/como-instalar-y-usar-lm-studio-tu-asistente-de-ia-local-sin-internet/",
-    "fecha": "12/03/2026",
-    "contenido": "&#xbf;Quieres tener una inteligencia artificial en tu ordenador que no est&#xe9; conectada a Internet? En este art&#xed;culo te explico c&#xf3;mo instalar y usar&#xa0;LM Studio, un programa gratuito que te permite trabajar con modelos de lenguaje locales, seguros y sin depender de servidores"
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "Un poco de soberanía tecnológica: ejecuta una IA en tu PC",
-    "link": "https://blog.elmundoesimperfecto.com/2026/03/12/ejecuta-tu-propia-ia/",
-    "fecha": "12/03/2026",
-    "contenido": "Desde que descubrí la cosa vengo haciendo pruebas con IAs locales: esto es, inteligencias artificiales de las que llaman abiertas open que, esencialmente, permiten descargar un modelo y ejecutarlo en nuestro propio sistema.\nLas ventajas son claras: adiós a la contabilidad de tokens y privacidad, fun"
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "Usando IAs para portar código",
-    "link": "https://fernand0.github.io//criptografia-ia/",
-    "fecha": "12/03/2026",
-    "contenido": "En el mundo actual, con las IAs generativas trabajando a todo trapo y mejorando a buen paso, la pregunta no es si se hará alguna tarea concreta con ellas, sino cuando. En este caso, en Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library nos cuentan una experiencia de Microsoft "
-  },
-  {
-    "blog": "56K",
-    "titulo": "Wordworth 7 en Linux – Mínimo 2 Mb de RAM",
-    "link": "https://56k.es/fanta/procesador-de-textos-wordworth-7-en-linux/",
-    "fecha": "12/03/2026",
-    "contenido": "Este procesador de textos necesita un mínimo de 2 Megas de RAM, si has leído bien: 2MB de RAM. 2 megas no 2 gigas. &#160; Para disfrutar de este procesador de textos hemos de arrancar el tinglado. Esto puede hacerse rápidamente así: # apt install fs-uae $ wget https://56k.es/downloads/wordworth_7_on"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Amiga 1200 en Linux con FS-UAE – Instalar Workbench desde cero",
-    "link": "https://56k.es/fanta/emular-amiga-1200-en-linux-con-fs-uae-instalar-workbench-desde-cero/",
-    "fecha": "12/03/2026",
-    "contenido": "En una entrada anterior se comentó como compilar fs-uae para disponer en Linux de un buen emulador de ordenadores Amiga. Por tanto yo parto de que dispones de fs-uae ya sea compilado por ti o instalado desde repositorios. La idea de este post es mostrar como emular un Amiga 1200 con fs-uae que tenga"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Emular ordenadores Amiga desde Linux con FS-UAE",
-    "link": "https://56k.es/fanta/emular-ordenadores-amiga-desde-linux-con-fs-uae/",
-    "fecha": "12/03/2026",
-    "contenido": "Para disfrutar de software (procesadores de textos, trackers, juegos, &#8230;) de Amiga Classic desde GNU+Linux es posible hacerlo utilizando el emulador FS-UAE. FS es una versión mejorada y evolucionada de UAE (Unix Amiga Emulator) que puede emular ordenadores Amiga 500, A500+, A600, A1200, A1000, "
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "La ilusión con la que alguien firma un contrato de trabajo",
-    "link": "https://dani.torresburriel.com/la-ilusion-con-la-que-alguien-firma-un-contrato-de-trabajo/",
-    "fecha": "12/03/2026",
-    "contenido": "Hoy he tenido una conversación sorprendente. Estaba tomándome un café y un pincho de tortilla espectacular con alguien cercano, un profesional al que respeto mucho, que tiene una formación sólida en varias áreas, entre ellas recursos humanos y gestión de talento. En un momento determinado, la conver"
   }
 ]
