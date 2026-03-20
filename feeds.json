@@ -1,5 +1,54 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Horacio esquiador: remake para GNU/Linux",
+    "link": "https://malagaoriginal.blogspot.com/2026/03/horacio-esquiador-remake-para-gnulinux.html",
+    "fecha": "20/03/2026",
+    "contenido": "Hace tiempo Luis L. García Ventura hizo un simpático remake de Horacio Esquiador para GNU/Linux, el conocido juego en ordenadores de 8 bits.Para quien lo quiera probar solo tiene que:Descargarlo.Descomprimirlo en tu carpeta preferida.tar zxvf horacio_linux.tar.gzDar permisos de ejecución y ejecutar:"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Todos los blogs serán personales",
+    "link": "https://jinversor.co/2026/03/todos-los-blogs-seran-personales/",
+    "fecha": "20/03/2026",
+    "contenido": "Gracias a la Inteligencia Artificial más temprano que tarde TODOS los blogs serán personales (los pocos que con el tiempo queden en línea). Este es el destino inevitable de nuestro [&#8230;]\nLa entrada Todos los blogs serán personales se publicó primero en Jinversor."
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Recopilatorio de links interesantes #2",
+    "link": "https://matizeta.com/2026/03/20/recopilatorio-de-links-interesantes-2/",
+    "fecha": "20/03/2026",
+    "contenido": "Algunas notas que leí y me parecen interesantes para compartir: Los prototipos viajaban en avión con billete propio, la verdad sobre su tamaño y otras cosas.&#160; El autor enumera las pistas que se sigue para intentar descubrir quién es el creador del Bitcoin.&#160; Analizando mensajes en foros del"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "535. Bailoteo en la ciudad",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/03/535-bailoteo-en-la-ciudad.html",
+    "fecha": "20/03/2026",
+    "contenido": "&nbsp; &nbsp; Hacía tiempo que no pateaba la ciudad por las mañanas. Ya casi no recordaba la congestión vehicular en las rotondas, ni la hostilidad que se desata tras el volante en miradas de reproche, aspavientos de odio y cacofonía de cláxones. La verdad es que no solo por la noche la locura y el "
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Graf 2026",
+    "link": "https://www.ericafustero.com/2026-03-graf-2026",
+    "fecha": "20/03/2026",
+    "contenido": "El 14 y 15 de marzo participé en el festival de cómic independiente y autoedición Graf, que se celebra anualmente en Barcelona. Fue un fin de semana intenso lleno de reencuentros, conocer a gente nueva y hablar por los codos. Gracias a Coral y Javier por su inestimable ayuda y a todo el mundo que [&"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #933",
+    "link": "https://www.fabio.com.ar/9900-links-de-viernes---933",
+    "fecha": "20/03/2026",
+    "contenido": "     Hay que ver los links\nBueno se&ntilde;ores, es viernes y hay que ponerle un fin a la semana, se viene finde semi-largo en Argentina, ya que para no todo es largo, pero para otros es largu&iacute;simo 😁 as&iacute; que van a necesitar dosis de buenos enlaces y creo que hay una linda selecci&oacut"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Rústica: Máquina De Agredir | Solo Se Trata De Heavy Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/03/20/solo-se-trata-de-heavy-metal/",
+    "fecha": "20/03/2026",
+    "contenido": "(2024 &#8211; Metal Command/Rustic Records) Es lo primero que se nos ocurre al acercarnos a...\nThe post Rústica: Máquina De Agredir | Solo Se Trata De Heavy Metal first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "manje.net",
     "titulo": "Etika Diskusi Menjaga Rasionalitas Di Tengah Polarisasi Politik Digital",
     "link": "https://blog.manje.net/etika-diskusi-menjaga-rasionalitas-di-tengah-polarisasi-politik-digital/",
@@ -85,10 +134,10 @@
   },
   {
     "blog": "56K",
-    "titulo": "WordPerfect 8.1 sobre Linux en 2026",
+    "titulo": "WordPerfect 8.1 sobre GNU+Linux en 2026",
     "link": "https://56k.es/fanta/wordperfect-8-1-sobre-linux-en-2026/",
     "fecha": "19/03/2026",
-    "contenido": "Aquí dejo una receta de como hacer funcionar Wordperfect 8.1 en GNU+Linux en 2026. Concretamente en Debian 13. # apt install makepkg wget libc6:i386 libxaw7:i386 binutils # cp -pRv /usr/bin/makepkg /sbin/makepkg $ mkdir -p ~/Downloads/wp-inst $ wget https://fanta.56k.es/software/Ofimatica/WordPerfec"
+    "contenido": "Aquí dejo una receta de como hacer funcionar Wordperfect 8.1 en GNU+Linux en 2026. Concretamente en Debian 13. El WP8 se comercializaba en el año 1998 y funcionaba en equipos que tuviesen al menos 6Mb de RAM libres. Actualmente puedes usarlo de forma nativa en Linux (en Debian) tal y como vamos a in"
   },
   {
     "blog": "56K",
@@ -448,13 +497,6 @@
     "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
   },
   {
-    "blog": "56K",
-    "titulo": "Fanta Mixtapes – 007 – Suave suave su-su-suave",
-    "link": "https://56k.es/fanta/fanta-mixtapes-007-suave-suave-su-su-suave/",
-    "fecha": "15/03/2026",
-    "contenido": "Nueva mixtape de unos 10 minutos como mucho llamada «Suave suave su-su-suave. Vamos Robert sal a bailar, que tu lo haces fenomenal, tu cuerpo se mueve como una palmera, suave suave, su-su-suave. Se puede escuchar aquí: Las canciones: &#8211; Orion &#8211; Nero Keygen (Crack.xm) &#8211; Jeanette &#82"
-  },
-  {
     "blog": "prosa",
     "titulo": "el trabajo de los ojos",
     "link": "https://blog.adrianaaraujot.casa/el-trabajo-de-los-ojos/",
@@ -518,13 +560,6 @@
     "contenido": "Hay algo extra&#xf1;o y hermoso en escuchar una grabaci&#xf3;n donde tienes que explicar qu&#xe9; es un podcast.Escucha la entrevista aqu&#xed;: https://podcast.danielaragay.net/@danipodcasts/episodes/cuando-el-podcast-era-el-futuro-radio-terrassa-2007Esta entrevista es eso exactamente. Fernando del"
   },
   {
-    "blog": "56K",
-    "titulo": "Fanta Mixtapes – 006 – No quiero ser concejala del PP",
-    "link": "https://56k.es/fanta/fanta-mixtapes-006-no-quiero-ser-diputada-del-pp/",
-    "fecha": "14/03/2026",
-    "contenido": "Bueno pues esta vez llega una nueva «mixtape» en vertical para toda esa gente que no deja el smartphone ni para cagar (justo para cagar menos). La voz del locutor de Radio es de José Luis Sastre. Se puede escuchar aquí: Las canciones son: Muelas De Gallo &#8211; Cabrón y Medio ILL Pekeño &#8211; Pr"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Fantasy Map Maker",
     "link": "https://nachof.blog/posts/2026/fantasy-map-maker/",
@@ -537,34 +572,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/03/14/el-camino-que-nos-llevo-como-bride-no-nos-llevara-mas-alla-de-2026/",
     "fecha": "14/03/2026",
     "contenido": "El anuncio sorprende, pero es la realidad. Bride no va más, o mejor dicho, su...\nThe post Entrevista con Dale Thompson | “El Camino Que Nos Llevó Como Bride No Nos Llevará Más Allá De 2026” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Retropixel y OpenSouthCode este verano en Málaga",
-    "link": "https://malagaoriginal.blogspot.com/2026/03/retropixel-y-opensouthcode-este-verano.html",
-    "fecha": "13/03/2026",
-    "contenido": "Este año empezaremos el verano en Málaga con dos de los grandes eventos tecnológicos tecnológicos que se celebran todos los años en la ciudad.&nbsp;Retropixel 2026&nbsp;Retropixel 2026, la IX Muestra de retroinformática y videojuegos, se traslada este año al Palacio de Ferias y Congresos de Málaga ("
-  },
-  {
-    "blog": "manje.net",
-    "titulo": "Selamat Tinggal Big Tech Cara Membangun Komunitas Mandiri Melalui Protokol Terbuka",
-    "link": "https://blog.manje.net/selamat-tinggal-big-tech-cara-membangun-komunitas-mandiri-melalui-protokol-terbuka/",
-    "fecha": "13/03/2026",
-    "contenido": "Dominasi perusahaan teknologi raksasa telah mengubah cara kita berinteraksi di ruang digital secara mendalam selama satu dekade terakhir. Namun, ketergantungan pada platform tertutup sering kali mengorbankan privasi data serta membatasi kebebasan berekspresi para pengguna. Kini, gerakan untuk mening"
-  },
-  {
-    "blog": "manje.net",
-    "titulo": "Kedaulatan Digital di Tangan Anda: Mengenal Kekuatan Desentralisasi dalam Fediverso",
-    "link": "https://blog.manje.net/kedaulatan-digital-di-tangan-anda-mengenal-kekuatan-desentralisasi-dalam-fediverso/",
-    "fecha": "13/03/2026",
-    "contenido": "Kedaulatan digital kini menjadi isu yang sangat mendesak di tengah dominasi platform media sosial raksasa dunia saat ini. Banyak pengguna mulai merasa khawatir terhadap privasi data dan kontrol algoritma yang terlalu membatasi ruang gerak mereka. Sebagai solusi, hadirlah konsep Fediverso &#8230; Sig"
-  },
-  {
-    "blog": "manje.net",
-    "titulo": "Runtuhnya Tembok Algoritma Mengapa Fediverso Adalah Masa Depan Media Sosial yang Sehat",
-    "link": "https://blog.manje.net/runtuhnya-tembok-algoritma-mengapa-fediverso-adalah-masa-depan-media-sosial-yang-sehat/",
-    "fecha": "13/03/2026",
-    "contenido": "Dominasi platform media sosial raksasa selama ini telah menciptakan ekosistem digital yang sangat terkungkung oleh tembok algoritma. Pengguna sering kali merasa terjebak dalam ruang gema yang hanya menampilkan konten berdasarkan preferensi komersial semata. Fenomena ini memicu kebutuhan mendesak aka"
   },
   {
     "blog": "Victorhck in the free world",
@@ -595,52 +602,10 @@
     "contenido": "¿Qué es el comando tree en Linux? El comando tree es una herramienta muy útil en sistemas Linux que permite visualizar la estructura de directorios y archivos en forma de árbol. A diferencia del comando ls, que muestra una lista simple de archivos, tree organiza la información de forma jerárquica, f"
   },
   {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "533. Prioriades",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/03/533-prioriades.html",
-    "fecha": "13/03/2026",
-    "contenido": "&nbsp; &nbsp; Antes de la pandemia, yo era parte de un reducido grupo de amigos que nos veíamos siempre que el trabajo lo permitía. Lo teníamos todo a favor para creer que aquello perduraría en el tiempo. Pero llegó el confinamiento domiciliario, fuera o no necesario, y nos obligó a vivir con las re"
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "K9-Mail: cliente de correo todoterreno",
     "link": "https://voidnull.es/k9-mail-cliente-de-correo-todoterreno/",
     "fecha": "13/03/2026",
     "contenido": "Cliente de correo electrónico libre y veterano para Android, centrado en privacidad y control del usuario."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Apache vs Nginx vs Caddy: qué servidor web usar en tu servidor",
-    "link": "https://voidnull.es/apache-vs-nginx-vs-caddy-que-servidor-web-usar-en-tu-servidor/",
-    "fecha": "13/03/2026",
-    "contenido": "Apache, Nginx o Caddy: comparativa rápida para elegir el servidor web ideal según rendimiento, configuración y uso."
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Lucky 200 al atardecer",
-    "link": "https://www.ericafustero.com/2026-03-lucky-200-al-atardecer",
-    "fecha": "13/03/2026",
-    "contenido": "A finales de 2025 probé un carrete de Lucky 200 y me gustó tanto que fui corriendo a por más. Inauguré 2026 con un Lucky 200 en 120 y el mes pasado gasté otro en 35mm. A este carrete le sienta bien el sol, y más aún el sol del atardecer. Hice estas fotos en [&#8230;]"
-  },
-  {
-    "blog": "",
-    "titulo": "Evento Volver a la magia.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/03/13/evento-volver-a-la-magia/",
-    "fecha": "13/03/2026",
-    "contenido": "&#62;&#62;&#62; Click Aqui &#60;&#60;&#60;"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #932",
-    "link": "https://www.fabio.com.ar/9895-links-de-viernes---932",
-    "fecha": "13/03/2026",
-    "contenido": "     Sin links se torna peligroso\nViernes! Viernes de semanita agitada, tengo carrera de F1 bien tard&iacute;a (es en China!) y la entrega de los Oscars y eso significa concurso! Estamos en las &uacute;ltimas horas para poder participar! no los molesto m&aacute;s despu&eacute;s de hoy, el domingo ci"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Gnadenthron: Verheissung | Un Misterio Vikingo",
-    "link": "https://www.delotroladometal.com.ar/2026/03/13/un-misterio-vikingo/",
-    "fecha": "13/03/2026",
-    "contenido": "(2024 &#8211; SneeuwStorm Produkties) El Black Metal es ya de por sí un género bastante...\nThe post Gnadenthron: Verheissung | Un Misterio Vikingo first appeared on Del Otro Lado Metal."
   }
 ]
