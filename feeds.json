@@ -1,5 +1,68 @@
 [
   {
+    "blog": "El Blog de Juan A. Flores",
+    "titulo": "Excelente Blog del amigo José, si quieres aprender cosas nuevas de software libre, recomiendo su lectura.",
+    "link": "https://juanagustinflores.wordpress.com/2026/03/21/excelente-blog-del-amigo-jose-su-quieres-aprender-cosas-nuevas-de-software-libre-recomiendo-su-lectura/",
+    "fecha": "22/03/2026",
+    "contenido": "Aquí un artículo sobre el programa LaTex muy utilizado para crear papers y notas de divulgación."
+  },
+  {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "La cena",
+    "link": "https://mcallus.net/2026/03/21/la-cena/",
+    "fecha": "21/03/2026",
+    "contenido": "Después de cenar mi madre friega los platos y mi padre finge leer el periódico. Yo busco una frase para decir en voz alta pero no la encuentro. El reloj del pasillo marca los segundos, uno detrás de otro, como gotas de agua contra la piedra. Nadie habla. Nunca hablamos. Y, sin embargo, a veces [&#82"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Ranking de cervezas Untappd 2025",
+    "link": "https://mareosdeungeek.es/ranking-untappd-2025/",
+    "fecha": "21/03/2026",
+    "contenido": "La red social dedicada a la cerveza Untappd ha publicado su ranking de cervezas del año 2025. Una extensa colección de cervezas organizadas por países, estilos y cerveceras. Centrándonos en España, un pequeño resumen de los resultados del ranking Untappd 2025. Las 10 primeras del ranking Untappd 202"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Análisis de la mierdificación en el ecosistema de iVoox",
+    "link": "https://blog.danielaragay.net/analisis-de-la-mierdificacion-en-el-ecosistema-de-ivoox/",
+    "fecha": "21/03/2026",
+    "contenido": "Mucho se ha escrito sobre la mierdificaci&#xf3;n &#x2014;o enshittification&#x2014; en gigantes tecnol&#xf3;gicos como Twitter (ahora X), Meta o Amazon, donde la degradaci&#xf3;n del servicio parece un peaje inevitable del &#xe9;xito corporativo. Sin embargo, en Espa&#xf1;a apenas se ha puesto"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Les meves feines a Suècia (i a San Francisco)",
+    "link": "https://blog.danielaragay.net/les-meves-feines-a-suecia-i-a-san-francisco/",
+    "fecha": "21/03/2026",
+    "contenido": "Les meves feines a Su&#xe8;cia (i a San Francisco)Tots els podcasts: aragay.netMastodon: masto.es/@proteusbcnBlog: danielaragay.net Telegram: t.me/haciendoelsuecoAjuda&#x2019;ns amb el nostre projecte a PATREON: patreon.com/c/proteusbcn Reproductors de podcasts lliures: podcastapps.comEnlla&#xe7;: L"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Àlex Gorina, 2005: todo lo que el cine iba a ser (y fue)",
+    "link": "https://blog.danielaragay.net/alex-gorina-2005-todo-lo-que-el-cine-iba-a-ser-y-fue/",
+    "fecha": "21/03/2026",
+    "contenido": "Hay entrevistas que envejecen mal y hay entrevistas que envejecen demasiado bien. Esta es de las segundas.Escucha la entrevista: https://podcast.danielaragay.net/@danipodcasts/episodes/alex-gorina-2005-todo-lo-que-el-cine-iba-a-ser-y-fueEn 2005 grab&#xe9; esta conversaci&#xf3;n para Dime T&#xfa;, mi"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Claves SSH en Nitrokey",
+    "link": "https://nachof.blog/posts/2026/claves-ssh-en-nitrokey/",
+    "fecha": "21/03/2026",
+    "contenido": "Me compré un jueguete nuevo, una llave USB Nitrokey. Bueno, en realidad me compré dos, porque no tengo criterio y se me ocurrió que capaz que rendía.\nLa cosa es que aparte de soportar el tema de passkeys, tiene también la capacidad de guardar claves SSH adentro. La clave SSH que estaba usando estaba"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "El Ex Seventh Avenue Y Actual Avantasia Estrena Nuevo Tema | Herbie Langhans Lanza “Little Lights”",
+    "link": "https://www.delotroladometal.com.ar/2026/03/21/herbie-langhans-lanza-little-lights/",
+    "fecha": "21/03/2026",
+    "contenido": "Herbie Langhans parece decidido a profundizar su costado &#8220;solista&#8221; luego de su salida de Firewind,...\nThe post El Ex Seventh Avenue Y Actual Avantasia Estrena Nuevo Tema | Herbie Langhans Lanza “Little Lights” first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Full Circle #225 (enero 2026)",
+    "link": "https://javiersam.uy/2026/03/full-circle-225-enero-2026.html",
+    "fecha": "21/03/2026",
+    "contenido": "A sabiendas de que ya está disponible la edición #226, aquí va mi reseña de la edición #225 de Full Circle magazine. Está disponible para su descarga desde el 30 de enero, se trata del número correspondiente a enero de 2026 y consiste en un PDF de 60 páginas y de 6,9 MB. De la sección de Noticias (p"
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Horacio esquiador: remake para GNU/Linux",
     "link": "https://malagaoriginal.blogspot.com/2026/03/horacio-esquiador-remake-para-gnulinux.html",
@@ -7,11 +70,46 @@
     "contenido": "Hace tiempo Luis L. García Ventura hizo un simpático remake de Horacio Esquiador para GNU/Linux, el conocido juego en ordenadores de 8 bits.Para quien lo quiera probar solo tiene que:Descargarlo.Descomprimirlo en tu carpeta preferida.tar zxvf horacio_linux.tar.gzDar permisos de ejecución y ejecutar:"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 12 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/03/20/opensuse-tumbleweed-revision-de-la-semana-12-de-2026/",
+    "fecha": "20/03/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "Perder la palabra.",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/perder-la-palabra/",
+    "fecha": "20/03/2026",
+    "contenido": "Decía Aristóteles que los humanos tenemos de especial, respecto de los animales, que, además de tener voz, tenemos palabra. Por eso somos sociales: la naturaleza no hace nada en vano y si nos ha dado palabras será para que las usemos. Unos con otros, se entiende. \nY qué maravilla de don, la palabra."
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Todos los blogs serán personales",
     "link": "https://jinversor.co/2026/03/todos-los-blogs-seran-personales/",
     "fecha": "20/03/2026",
     "contenido": "Gracias a la Inteligencia Artificial más temprano que tarde TODOS los blogs serán personales (los pocos que con el tiempo queden en línea). Este es el destino inevitable de nuestro [&#8230;]\nLa entrada Todos los blogs serán personales se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Pensamientos: Mi primer strike",
+    "link": "https://interlan.ec/blog/2026/03/20/pensamientos-mi-primer-strike/",
+    "fecha": "20/03/2026",
+    "contenido": "Todo comienza con un mensaje de la consola de google anunciando una infracción de copyright"
+  },
+  {
+    "blog": "Escritos en la nube",
+    "titulo": "Software",
+    "link": "https://nube.codeberg.page/blog/software/",
+    "fecha": "20/03/2026",
+    "contenido": "Recientemente leí a una amistad en Fedi hablar de lo que ella propondría como un estándar de software general&hellip; eso me hizo pensar a mi en escribir esto, como yo veo el software, como pienso que debería ser, lo que a mi me gusta. Este post ha tenido varios borradores, la idea la tenía desde ha"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Como simular una actualización en CachyOS",
+    "link": "https://tecnoysoft.com/2026/03/20/como-simular-una-actualizacion-en-cachyos/",
+    "fecha": "20/03/2026",
+    "contenido": "Hace poco que comencé a usar CachyOS y, aunque tengo más de una década de experiencia en el ecosistema Arch, cada distro tiene sus peculiaridades. El comando sudo pacman -Syu --print simula una actualización sin tocar nada, demasiado útil como para no conocerlo. Si usas CachyOS, basado en Arch Linux"
   },
   {
     "blog": "note – matizeta",
@@ -28,11 +126,46 @@
     "contenido": "&nbsp; &nbsp; Hacía tiempo que no pateaba la ciudad por las mañanas. Ya casi no recordaba la congestión vehicular en las rotondas, ni la hostilidad que se desata tras el volante en miradas de reproche, aspavientos de odio y cacofonía de cláxones. La verdad es que no solo por la noche la locura y el "
   },
   {
+    "blog": "danielaragay.net",
+    "titulo": "El fin de una etapa",
+    "link": "https://blog.danielaragay.net/el-fin-de-una-etapa/",
+    "fecha": "20/03/2026",
+    "contenido": "Ayer empez&#xf3; el fin de una etapa que ha durado casi 13 a&#xf1;os.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "ShiftCal: gestiona tu horario laboral y tus turnos",
+    "link": "https://voidnull.es/shiftcal-gestiona-tu-horario-laboral-y-tus-turnos/",
+    "fecha": "20/03/2026",
+    "contenido": "Calendario de turnos libre para organizar horarios laborales sin depender de servicios externos."
+  },
+  {
     "blog": "Erica Fustero",
     "titulo": "Graf 2026",
     "link": "https://www.ericafustero.com/2026-03-graf-2026",
     "fecha": "20/03/2026",
     "contenido": "El 14 y 15 de marzo participé en el festival de cómic independiente y autoedición Graf, que se celebra anualmente en Barcelona. Fue un fin de semana intenso lleno de reencuentros, conocer a gente nueva y hablar por los codos. Gracias a Coral y Javier por su inestimable ayuda y a todo el mundo que [&"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Setas Shiitake como memorias RAM",
+    "link": "https://56k.es/fanta/setas-shiitake-como-memorias-ram/",
+    "fecha": "20/03/2026",
+    "contenido": "Un grupo de investigación interdisciplinar de Ohio ( LaRocco, J., Tahmina, Q., Petreaca, R., Simonis, J., &#38; Hill, J. (2025). Sustainable memristors from shiitake mycelium for high-frequency bioelectronics. ) sacaron un paper en el que demuestran que es posible utilizar plataformas ecológicas par"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Una garrafa de agua como batería de gravedad",
+    "link": "https://56k.es/fanta/bateria-de-gravedad/",
+    "fecha": "20/03/2026",
+    "contenido": "Hace unos años puse usé en el smartphone una canción de Johnny Cash llamada «I Walk he line». La encontré en youtube y la puse para despertar a mi pareja que al escucharla dijo «la canción del muelle» (es que suena como un muelle jajaja). Youtube me recomendó otra canción al terminar pero &#8230; no"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "Peligros de bolsillo",
+    "link": "https://alex.corcoles.net/2026/03/peligros-de-bolsillo",
+    "fecha": "20/03/2026",
+    "contenido": "\n  Google lleva un tiempo intentando controlar los programas que uno puede ejecutar en su m&#243;vil Android. La idea es que toda aplicaci&#243;n deba estar aprobada por Google, lo que incluye que Google pueda identificar a la persona f&#237;sica responsable de la aplicaci&#243;n.\n  Esta es la en&#2"
   },
   {
     "blog": "Fabio.com.ar",
@@ -537,75 +670,5 @@
     "link": "https://javiersam.uy/2026/03/salio-gimp-3-2.html",
     "fecha": "15/03/2026",
     "contenido": "Ayer, sábado 14 de marzo de 2026, se produjo el lanzamiento de la versión 3.2 de GIMP. El siguiente texto es una traducción libre y parcial de la página del lanzamiento, que está en inglés. Estas son algunas de las novedades más destacadas de GIMP 3.2:"
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "No fui",
-    "link": "https://mcallus.net/2026/03/14/no-fui/",
-    "fecha": "14/03/2026",
-    "contenido": "El último viernes de mi padre en la Tierra, elegí no ir verle al hospital. Durante dos semanas había ido después de trabajar y hasta la noche, para que mi madre y mi hermana descansaran.&#160; Mi hermana me dijo que ya no iban a salir del hospital ninguna de las dos porque mi padre no [&#8230;]"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Crisis en el proyecto Manjaro",
-    "link": "https://tecnoysoft.com/2026/03/14/crisis-en-el-proyecto-manjaro/",
-    "fecha": "14/03/2026",
-    "contenido": "Mi opinión sobre la propuesta de reestructuración de Manjaro Se avecinan momentos dificiles para Manjaro, tras la publicación del «Manifiesto de Manjaro 2.0», que les invito a leer, refleja algo que lleva tiempo siendo evidente en el proyecto Manjaro Linux: una crisis de gobernanza. No parece un pro"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Cuando el podcast era el futuro — Radio Terrassa, 2007",
-    "link": "https://blog.danielaragay.net/cuando-el-podcast-era-el-futuro-radio-terrassa-2007/",
-    "fecha": "14/03/2026",
-    "contenido": "Hay algo extra&#xf1;o y hermoso en escuchar una grabaci&#xf3;n donde tienes que explicar qu&#xe9; es un podcast.Escucha la entrevista aqu&#xed;: https://podcast.danielaragay.net/@danipodcasts/episodes/cuando-el-podcast-era-el-futuro-radio-terrassa-2007Esta entrevista es eso exactamente. Fernando del"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Fantasy Map Maker",
-    "link": "https://nachof.blog/posts/2026/fantasy-map-maker/",
-    "fecha": "14/03/2026",
-    "contenido": "Fantasy Map Maker casi no es un juego. Es más bien una experiencia de dibujar un mapa, guiado por dados y ciertos objetivos, y al final contás puntos, sí. Pero es casi que irrelevante la parte de contar puntos. Lo lindo es la parte de dibujar el mapa.\n\n\n\n\nQué es Fantasy Map Maker y cómo se juega\nFan"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista con Dale Thompson | “El Camino Que Nos Llevó Como Bride No Nos Llevará Más Allá De 2026”",
-    "link": "https://www.delotroladometal.com.ar/2026/03/14/el-camino-que-nos-llevo-como-bride-no-nos-llevara-mas-alla-de-2026/",
-    "fecha": "14/03/2026",
-    "contenido": "El anuncio sorprende, pero es la realidad. Bride no va más, o mejor dicho, su...\nThe post Entrevista con Dale Thompson | “El Camino Que Nos Llevó Como Bride No Nos Llevará Más Allá De 2026” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 11 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/03/13/opensuse-tumbleweed-revision-de-la-semana-11-de-2026/",
-    "fecha": "13/03/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Algunos errores en XML JATS en trabajos de revistas científicas ya publicados (VIII): sobre una herramienta que han lanzado para crear JATS",
-    "link": "https://pedrolr.es/blog/algunos-errores-en-xml-jats-en-trabajos-de-revistas-cientificas-ya-publicados-viii-sobre-una-herramienta-que-han-lanzado-para-crear-jats/",
-    "fecha": "13/03/2026",
-    "contenido": "Ayer vi que vi que EDITUM - Ediciones de la Universidad de Murcia ha lanzado una herrameinta para crear JATS y que se integra como plugin en OJS (Open Journal System). Han publicado todo como software libre y eso es es genial. Pronto trataré de instalar y probar todo en mi OJS de pruebas en [&#8230;"
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Proyecto: OPML to Blog Roll",
-    "link": "https://interlan.ec/blog/2026/03/13/proyecto-opml-to-blog-roll/",
-    "fecha": "13/03/2026",
-    "contenido": "Llevo rato viendo esto de los Blog Roll y no me parece una mala idea. Inauguremos este articulo con mi pagina propia de /blogroll  y una herramienta que hice para facilitar la tarea: OPML to Blog Roll Esta es una herramienta sencilla, diseñado en un modelo híbrido porque si algo me desespera, es que"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Tree, una alternativa moderna al comando ls",
-    "link": "https://tecnoysoft.com/2026/03/13/tree-una-alternativa-moderna-al-comando-ls/",
-    "fecha": "13/03/2026",
-    "contenido": "¿Qué es el comando tree en Linux? El comando tree es una herramienta muy útil en sistemas Linux que permite visualizar la estructura de directorios y archivos en forma de árbol. A diferencia del comando ls, que muestra una lista simple de archivos, tree organiza la información de forma jerárquica, f"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "K9-Mail: cliente de correo todoterreno",
-    "link": "https://voidnull.es/k9-mail-cliente-de-correo-todoterreno/",
-    "fecha": "13/03/2026",
-    "contenido": "Cliente de correo electrónico libre y veterano para Android, centrado en privacidad y control del usuario."
   }
 ]
