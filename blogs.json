@@ -17,6 +17,38 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "Gabo Scribe",
+    "Url": "https://gaboscribe.com",
+    "Feed": "https://gaboscribe.com/feed.xml",
+    "Descripción": "Una bitácora sobre vida",
+    "Categoría": "Vida Diaria",
+    "País": "Argentina"
+  },
+  {
+    "Nombre": "loveof74",
+    "Url": "https://loveof74.es/",
+    "Feed": "https://www.loveof74.es/weblog/feed/",
+    "Descripción": "Música indie y conciertos que ocurren por Donostia",
+    "Categoría": "Entretenimiento y Cultura, Vida Diaria",
+    "País": "España"
+  },
+  {
+    "Nombre": "Chancli.dev",
+    "Url": "https://chancli.dev/blog",
+    "Feed": "https://chancli.dev/blog/feed.xml",
+    "Descripción": "Banco de pruebas además de un aliado en la lucha de la web independiente, libre de algoritmos.",
+    "Categoría": "Tecnología, Vida Diaria",
+    "País": "España"
+  },
+  {
+    "Nombre": "Jorge",
+    "Url": "https://blog.jagedn.dev",
+    "Feed": "https://blog.jagedn.dev/feed.xml",
+    "Descripción": "Blog personal de Jorge donde publico mis tonterías, casi todas devs.",
+    "Categoría": "Tecnología",
+    "País": "España"
+  },
+  {
     "Nombre": "javiersam",
     "Url": "https://javiersam.uy",
     "Feed": "https://javiersam.uy/feed",
