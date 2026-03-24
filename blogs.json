@@ -17,6 +17,14 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "El Cajón de la Tecnología",
+    "Url": "https://tecnocajon.wordpress.com",
+    "Feed": "http://tecnocajon.wordpress.com/feed",
+    "Descripción": "El Cajón de la Tecnología es un blog personal en el que hablamos de tecnología, Linux, software libre y tenemos artículos de opinión.",
+    "Categoría": "Tecnología",
+    "País": "España"
+  },
+  {
     "Nombre": "Gabo Scribe",
     "Url": "https://gaboscribe.com",
     "Feed": "https://gaboscribe.com/feed.xml",
