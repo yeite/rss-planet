@@ -1,5 +1,61 @@
 [
   {
+    "blog": "Mareos de un geek",
+    "titulo": "25 Aniversario Mac OS X",
+    "link": "https://mareosdeungeek.es/25-aniversario-mac-os-x/",
+    "fecha": "25/03/2026",
+    "contenido": "Ayer, 24 de marzo se cumplió el 25 Aniversario del lanzamiento de Mac OS X. Oficialmente conocido como Mac OS X 10.0 supuso un cambio muy importante para el software de Apple. Un cambio que ha llegado hasta nuestros días, con un sistema operativo sólido y amigable a nivel de interfaz de usuario. Los"
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Videos interesantes #1",
+    "link": "https://matizeta.com/2026/03/25/videos-interesantes-1/",
+    "fecha": "25/03/2026",
+    "contenido": "Algunos videos en YouTube que ví en estos días y considero que valen la pena compartir: Un documental de 40 minutos sobre esta comunidad religiosa que viven sin electricidad, televisión o internet y utiliza carros a caballo. La llamada micro generación, aquella que vivió en dos mundos distintos: uno"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Análisis de la mierdificación en el ecosistema de iVoox",
+    "link": "https://blog.danielaragay.net/analisis-de-la-mierdificacion-en-el-ecosistema-de-ivoox-2/",
+    "fecha": "25/03/2026",
+    "contenido": "iVoox ha pasado de ser el motor del podcasting en Espa&#xf1;a a un &#x201c;jard&#xed;n vallado&#x201d; que parasita contenido ajeno. Secuestro de feeds RSS, manipulaci&#xf3;n de estad&#xed;sticas en planes de pago y publicidad insertada sin autorizaci&#xf3;n del autor. &#xbf;"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Integrar UGREEN NAS en Home Assistant",
+    "link": "https://voidnull.es/integrar-ugreen-nas-en-home-assistant/",
+    "fecha": "25/03/2026",
+    "contenido": "Cómo integrar un UGREEN NAS en Home Assistant para monitorizar su estado y recursos desde tu panel domótico."
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "La importancia de los lazos familiares en \"Children of Morta\"",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/03/25/20260325-children-of-morta/",
+    "fecha": "25/03/2026",
+    "contenido": "La narración de una epopeya de fantasía oscura desde el punto de vista de una familia"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Rápido y sucio no, házmelo cuanto peor mejor",
+    "link": "https://56k.es/fanta/rapido-y-sucio-no-hazmelo-cuanto-peor-mejor/",
+    "fecha": "25/03/2026",
+    "contenido": "Eres una persona con la mente sucia y con el titulo has pensado en cosas sexuales pero realmente son dos conceptos que se usan en programación: &#8211; Rápido y sucio (Quick and dirty) &#8211; Peor es mejor (también conocido como estilo Nueva Jersey) Tim Paterson trabajó en una empresa llamada SCP ("
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "BadTattoo: los peores tatuajes que jamás te deberías hacer - 22",
+    "link": "https://www.fabio.com.ar/9903-badtattoo-los-peores-tatuajes-que-jamas-te-deberias-hacer---22",
+    "fecha": "25/03/2026",
+    "contenido": "    \nEl a&ntilde;o pasado, tambi&eacute;n de semana santa, les poste&eacute; una hermosa colecci&oacute;n de aberraciones en la piel, me adelanto una semanita este a&ntilde;o para dejarles una muestra de belleza, arte y dudosas elecciones bajo diversas ifluencias que llevaron a algunas a transformar"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "2026 Es El Año De Su Nuevo Material | El Nuevo Disco De Tourniquet Se Hace Esperar",
+    "link": "https://www.delotroladometal.com.ar/2026/03/25/el-nuevo-disco-de-tourniquet-se-hace-esperar/",
+    "fecha": "25/03/2026",
+    "contenido": "Posiblemente sea uno de los discos más esperados del 2026. Tourniquet se ha vuelto a...\nThe post 2026 Es El Año De Su Nuevo Material | El Nuevo Disco De Tourniquet Se Hace Esperar first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Cuando toque huir",
     "link": "https://jinversor.co/2026/03/cuando-toque-huir/",
@@ -245,6 +301,13 @@
     "contenido": "Google Stitch actualiza su canvas con vibe design, voz y DESIGN.md. Qué cambia para diseñadores UX y qué oportunidad abre para quienes vienen de fuera del diseño.\nLa entrada Google Stitch y el vibe design: lo que cambia, lo que no y lo que deberías empezar a entender se publicó primero en Blog de Da"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "#018 ¿He aprendido a relativizar y no me he dado cuenta?",
+    "link": "https://chancli.dev/blog/quizas-aprendi-a-relativizar.html",
+    "fecha": "23/03/2026",
+    "contenido": ""
+  },
+  {
     "blog": "El Blog de Juan A. Flores",
     "titulo": "Excelente Blog del amigo José, si quieres aprender cosas nuevas de software libre, recomiendo su lectura.",
     "link": "https://juanagustinflores.wordpress.com/2026/03/21/excelente-blog-del-amigo-jose-su-quieres-aprender-cosas-nuevas-de-software-libre-recomiendo-su-lectura/",
@@ -362,6 +425,20 @@
     "link": "https://javiersam.uy/2026/03/full-circle-225-enero-2026.html",
     "fecha": "21/03/2026",
     "contenido": "A sabiendas de que ya está disponible la edición #226, aquí va mi reseña de la edición #225 de Full Circle magazine. Está disponible para su descarga desde el 30 de enero, se trata del número correspondiente a enero de 2026 y consiste en un PDF de 60 páginas y de 6,9 MB. De la sección de Noticias (p"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "#017 100 jumps ¿cuántos saltos eres capaz de dar?",
+    "link": "https://chancli.dev/blog/100jumps-nueva-adiccion-gratis.html",
+    "fecha": "21/03/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "#016 Filtrando IPs maliciosas en tu servidor",
+    "link": "https://chancli.dev/blog/filtrando-ips-maliciosas.html",
+    "fecha": "21/03/2026",
+    "contenido": ""
   },
   {
     "blog": "Malagueños originales y libres",
@@ -602,25 +679,11 @@
     "contenido": "Llevas décadas en tu campo. Tienes proyectos, clientes, reconocimiento. Y aun así, antes de entrar a una reunión importante, aparece esa voz: ¿y si no estoy a la altura? El síndrome del impostor no desaparece con los años. Lo que cambia es tu relación con él.\nLa entrada El síndrome del impostor no d"
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Mostrar información de tu sistema con los plasmoides nativos de Plasma 6 de #KDE",
-    "link": "https://victorhckinthefreeworld.com/2026/03/18/mostrar-informacion-de-tu-sistema-con-los-plasmoides-nativos-de-plasma-6-de-kde/",
-    "fecha": "18/03/2026",
-    "contenido": "Vamos a añadir un widget que mostrará información de nuestro sistema con escritorio Plasma de KDE"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Contra la autoayuda",
     "link": "https://jinversor.co/2026/03/contra-la-autoayuda/",
     "fecha": "18/03/2026",
     "contenido": "Ayer mientras hacía unas compras en el supermercado pasé por el estante de libros y me detuve un momento a ver si había algo interesante. Salí asqueado de ese pasillo [&#8230;]\nLa entrada Contra la autoayuda se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Papel Continuo",
-    "titulo": "Doorags. Del Blues al ruido.",
-    "link": "https://papelcontinuo.net/3486/doorags-del-blues-al-ruido/",
-    "fecha": "18/03/2026",
-    "contenido": "«Doorags. Del Blues al ruido», de Daniel Quiñones y Miguel Sarró (Mutis), es un documental que recorre la historia de Los Caballos De Dusseldorf (LCDD), banda liderada por Olaf Ladousse y Carmen, que construye sus propios instrumentos a partir de desechos electrónicos. A lo largo de 75 minutos se re"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -637,39 +700,11 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋\n&lt;p&gt;The post Cosas que le he agregado últimamente a mi sitio "
   },
   {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Mi Epiphone Les Paul Custom me hace muy feliz, pero últimamente no dejo de pensar en entrarle a una Gibson",
-    "link": "https://blog.luiscarlospando.com/personal/2026/03/mi-epiphone-les-paul-custom-me-hace-muy-feliz-pero-ultimamente-no-dejo-de-pensar-en-entrarle-a-una-gibson/",
-    "fecha": "18/03/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋\n&lt;p&gt;The post Mi Epiphone Les Paul Custom me hace muy feliz, p"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "La muy catastrófica visita al zoo",
-    "link": "https://mareosdeungeek.es/la-muy-catastrofica-visita-al-zoo/",
-    "fecha": "18/03/2026",
-    "contenido": "La muy catastrófica visita al zoo es un entretenido libro escrito por Jöel Dicker. Un cambio de registro para el autor que no deja de sorprender por su frescura y originalidad. El autor suizo es conocido por sus obras de misterio, bueno, La muy catastrófica visita al zoo tiene misterio e investigaci"
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "xz: comprime a saco sin consumir recursos",
     "link": "https://voidnull.es/xz-comprime-a-saco-sin-consumir-recursos/",
     "fecha": "18/03/2026",
     "contenido": "Aprende a comprimir y descomprimir archivos eficientemente en GNU/Linux usando xz y su potente algoritmo LZMA2."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Zabbix Server 7.0 en RockyLinux 10",
-    "link": "https://voidnull.es/instalacion-de-zabbix-server-7-0-en-rockylinux-10/",
-    "fecha": "18/03/2026",
-    "contenido": "Zabbix es un software de monitoreo de infraestructura bajo licencia GPLv3, muy popular y con muchas funcionalidades desarrollado en PHP."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "La rotación de certificados no es tan fácil como la pintan",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/03/18/20260318-certificados-y-rotacion/",
-    "fecha": "18/03/2026",
-    "contenido": "¿Es seguridad, o un negocio?"
   },
   {
     "blog": "",
@@ -684,26 +719,5 @@
     "link": "https://mundoceltamedieval.wordpress.com/2026/03/18/convocatoria-5/",
     "fecha": "18/03/2026",
     "contenido": ""
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Fundite con un sólo click",
-    "link": "https://www.fabio.com.ar/9898-fundite-con-un-solo-click",
-    "fecha": "18/03/2026",
-    "contenido": "    \nEn la escuela no te ense&ntilde;an nada de finanzas, nada de manejar tu propio dinero, tampoco a no ser un boludo, esta combinaci&oacute;n con aplicaciones que te dejan a un click de un mont&oacute;n de dinero est&aacute; disparando una enorme cantidad de deudores.\n&iquest;Es culpa de alguien? "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Desde Chile, Sempiternus Prepara Su Primer EP | Metal Extremo Desde El Fin Del Mundo",
-    "link": "https://www.delotroladometal.com.ar/2026/03/18/metal-extremo-desde-el-fin-del-mundo/",
-    "fecha": "18/03/2026",
-    "contenido": "Chile es un hermoso país para conocer. De hecho, al vivir del otro lado de...\nThe post Desde Chile, Sempiternus Prepara Su Primer EP | Metal Extremo Desde El Fin Del Mundo first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "¡Salió Blender 5.1!",
-    "link": "https://javiersam.uy/2026/03/salio-blender-5-1.html",
-    "fecha": "18/03/2026",
-    "contenido": "Ayer, martes 17 de marzo, tal y como estaba previsto, se produjo el lanzamiento de Blender 5.1. Esta nueva versión no trae grandes novedades. Se ha centrado principalmente en pequeñas mejoras y en la estabilidad, la performance y el pulido general. Raycast node Aún así, se destaca el nodo Raycast (P"
   }
 ]
