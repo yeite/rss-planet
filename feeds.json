@@ -1,10 +1,73 @@
 [
   {
+    "blog": "Adrián Perales",
+    "titulo": "Sobre afeitado",
+    "link": "https://adrianperales.com/2026/03/sobre-afeitado/",
+    "fecha": "26/03/2026",
+    "contenido": "Desde agosto de 2025 vuelvo a afeitarme, y en esta entrada me apetece divagar sobre el tema. Cuando me dejé barba Terminar la carrera de Filología Hispánica hizo que me replanteara bastantes aspectos de mi vida. No recuerdo si fue al final de ese curso o durante el transcurso del siguiente durante e"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Las tres cosas",
+    "link": "https://brucknerite.net/2026/03/las-tres-cosas.html",
+    "fecha": "26/03/2026",
+    "contenido": "Estos días he estado alejado del blog. Reformas en casa. No he tirado tabiques, ni cambiado ventanas ni —y bien sé que esto que digo tendrá que hacerse— pintado. Han sido unas reformas del siglo XXI: he rehecho mis los servicios digitales domésticos. Como dirían en LinkedIn, los he rearquitecturado."
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Instalar Firefox Beta en #openSUSE",
+    "link": "https://victorhckinthefreeworld.com/2026/03/26/instalar-firefox-beta-en-opensuse/",
+    "fecha": "26/03/2026",
+    "contenido": "Veamos cómo añadir el repositorio oficial de Firefox para instalar la versión Beta del navegador Firefox"
+  },
+  {
     "blog": "El Sueño del Artista Blog",
     "titulo": "La historia detrás del día de la poesía.",
     "link": "https://polotman.wordpress.com/2026/03/25/la-historia-detras-del-dia-de-la-poesia/",
     "fecha": "26/03/2026",
     "contenido": "#DiadelaPoesia&#160; #PoetryDay #literatura #ElSueñodelArtistablog&#160; #ElSueñodelArtista #arte #21deMarzo&#160; Aunque ya halla pasado el día de la poesía no significa que su celebración halla culminado sino todo lo contrario . En&#160; este post lejos de hablarte de algunos de sus máximos repres"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#188: PSA - Actualiza la URL de tu feed RSS",
+    "link": "https://www.macram.es/posts/2026/03/psa-actualiza-tu-feed/",
+    "fecha": "26/03/2026",
+    "contenido": "Si estás suscrito a mi blog desde que era WordPress es probable que tengas en tu feed la URL que termina en /feed. Deberías actualizarla. Esa URL ya no funciona, desde que migré a GitHub Pages hace unos días, y deberías utilizar la que termina en index.xml. Más información y las URL concretas en la "
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#187: Doing, una herramienta para registrar tus actividades",
+    "link": "https://www.macram.es/posts/2026/03/doing/",
+    "fecha": "26/03/2026",
+    "contenido": "Descubro en uno de los blogs de Jack Baty una herramienta llamada Doing. Se trata de una utilidad de línea de comandos que tiene muchas funcionalidades, pero la principal es ir registrando qué vas haciendo en cada momento, y obtener un reporte diario. Esto en otras épocas laborales en las que tenía "
+  },
+  {
+    "blog": "56K",
+    "titulo": "La tipografía de Bárcenas – Ideal para sobres",
+    "link": "https://56k.es/fanta/la-tipografia-de-barcenas-ideal-para-imprimir-en-sobres/",
+    "fecha": "26/03/2026",
+    "contenido": "Hace unos años se destapó un escándalo en uno de los partidos de derechas en España: El PP (Partido Popular). Bárcenas había pagado sobresueldos en dinero negro por importes que irían de los 5000 a los 15 000 euros mensuales a altos cargos de su partido. El señor Bárcenas era entonces tesorero y se "
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #869",
+    "link": "https://www.fabio.com.ar/9904-ruleta-rusa-869",
+    "fecha": "26/03/2026",
+    "contenido": "  Buscando ruleta encontrar&aacute;s balas\nAh, si, jueves, andamos a full esta micro-semana, ayer fue terrible, un lunes-martes-mi&eacute;rcoles sobrecargado, pero aqu&iacute; estamos, para el blog no hay feriados, los d&iacute;as siguen pasando aun cuando nuestros cerebros se congelen, nuestros cor"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Ritual Servant: Albus Mendacius | Lecciones Sobre Violencia Aprobadas",
+    "link": "https://www.delotroladometal.com.ar/2026/03/26/lecciones-sobre-violencia-aprobadas/",
+    "fecha": "26/03/2026",
+    "contenido": "(2023 &#8211; Roxx Records) El Thrash Metal tiene su historia, y Ritual Servant se ha...\nThe post Ritual Servant: Albus Mendacius | Lecciones Sobre Violencia Aprobadas first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "AsturGeek V3",
+    "titulo": "Mi primer ordenador….",
+    "link": "https://asturgeek.eu/2026/03/26/mi-primer-ordenador/",
+    "fecha": "26/03/2026",
+    "contenido": "Finales de los 80, no recuerdo el año exacto.Con mis padres, visitamos a mi tío Clemente. Él siempre había sido una persona distinta a mi padre. Siempre tenía detalles de persona adelantada a su época, por lo menos a lo que es mi familia.Había comprado algo que nos cambió la vida a mi hermano y..."
   },
   {
     "blog": "El Blog de Juan A. Flores",
@@ -400,7 +463,7 @@
   },
   {
     "blog": "56K",
-    "titulo": "qrencode – Generar códigos QR in the night",
+    "titulo": "Qrencode – Generar códigos QR in the night",
     "link": "https://56k.es/fanta/qrencode-generar-codigos-qr-in-the-night/",
     "fecha": "22/03/2026",
     "contenido": "Generar códigos QR utilizando la web de un terceros es un poco una mierda, no mola. Lo que esta muy bien es poder hacerlo en local (local first, make local first great again) y desde equipos que no tengan muchos recursos. Qeencode te permitirá de forma sencilla poder automatizar la generación de cód"
@@ -623,20 +686,6 @@
     "contenido": "Comenzamos a transitar los últimos días de Marzo de 2026, justamente hoy es el último día de verano y los días ya comienzan a sentirse perfectos. Comienza el otoño. El mismo otoño que verá comenzar el próximo mundial de fútbol dentro de 92 días y lo último que sabrá al despedirse, es que Argentina e"
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Delta Chat puede ser la respuesta",
-    "link": "https://adrianperales.com/2026/03/delta-chat-puede-ser-la-respuesta/",
-    "fecha": "19/03/2026",
-    "contenido": "Hace muchos años que los sistemas de mensajería instantánea son un tema que reviso con frecuencia. Ya lo traté tanto en 2024 como en 2025. Resulta que últimamente se está moviendo mucho Delta Chat por el fediverso y, a pesar de mi reticencia inicial, me animé a probarlo. Menos mal. Un poco de histor"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "En recuerdo",
-    "link": "https://brucknerite.net/2026/03/en-recuerdo.html",
-    "fecha": "19/03/2026",
-    "contenido": "El viernes pasado falleció mi exsuegro a los 95 años de edad. En su recuerdo, me gustaría traer a colación de nuevo un artículo de hace un tiempito. Se trata de un pedacito curioso de la historia automotriz de este rincón de Europa que, si tenéis un rato, os invito a disfrutar de nuevo si estabais p"
-  },
-  {
     "blog": "El Laberinto de McAllus",
     "titulo": "De juerga",
     "link": "https://mcallus.net/2026/03/19/de-juerga/",
@@ -651,32 +700,11 @@
     "contenido": "Estas últimas semanas estuve bastante desconectado de mi blog (y de Internet en general). El motivo de ello es que me tomé varias semanas de vacaciones para recorrer lugares de Italia que no había visitado anteriormente y conocer un nuevo país: Malta. No sé si escribiré sobre el viaje, sinceramente "
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "EarPods: reseña y comparativa innecesaria",
-    "link": "https://matizeta.com/2026/03/19/earpods-resena-y-comparativa-innecesaria/",
-    "fecha": "19/03/2026",
-    "contenido": "En comparación con los Samsung Akg que venía utilizando hasta ahora, los EarPods no tiene goma en sus extremos sino que son enteramente de plástico, sin embargo se sienten cómodos y los prefiero por sobre ellos (por esa misma razón me decidí por los  inalámbricos AirPods clásicos por sobre los Pro)."
-  },
-  {
     "blog": "Eterno aprendiz",
     "titulo": "Lollapalooza Chile 2026 – Día 3: Akriila",
     "link": "https://altgr.xyz/2026/03/19/lollapalooza-chile-2026-dia-3-akriila/",
     "fecha": "19/03/2026",
     "contenido": "No soy un gran seguidor del género urbano, pero he leído buenos comentarios sobre Akriila, así que decidí aprovechar la oportunidad para escucharla. La verdad, no la encontré nada sobresaliente ni particularmente original, salvo un par de canciones. Con esto finalizamos la participación en Lollapalo"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Lollapalooza Chile 2026 – Día 3: 2 Minutos",
-    "link": "https://altgr.xyz/2026/03/18/lollapalooza-chile-2026-dia-3-2-minutos/",
-    "fecha": "19/03/2026",
-    "contenido": "Punk del más crudo y rebelde con los argentinos 2 Minutos. El cambio de horario de las bandas en el Alternative Stage me hizo perder parte de este concierto. Pero salté, canté y grité con ellos."
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Lollapalooza Chile 2026 – Día 3: Claudio Valenzuela",
-    "link": "https://altgr.xyz/2026/03/18/lollapalooza-chile-2026-dia-3-claudio-valenzuela/",
-    "fecha": "19/03/2026",
-    "contenido": "El ex Lucybell ahora como solista en formato trío (¿Nos recuerda algo?) presentó un show con canciones propias, pero también muchos éxitos de su ex banda. Sonó muy bien y tuvo como invitados a Princesa Alba y Piero Duhart (De Saloon)."
   },
   {
     "blog": "La Frikoteca",
@@ -705,13 +733,6 @@
     "link": "https://56k.es/fanta/la-compra-de-inteligencia-y-la-desposesion-de-la-cocina/",
     "fecha": "19/03/2026",
     "contenido": "Actualmente se empieza a normalizar que algunas personas se vanaglorien de no necesitar saber o conocer algo porque creen que pueden comprar la inteligencia mediante suscripción (inteligencia como servicio). Los supermercados Mercadona hace poco fueron «noticia» porque decían que la cocina en las ca"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #868",
-    "link": "https://www.fabio.com.ar/9899-ruleta-rusa-868",
-    "fecha": "19/03/2026",
-    "contenido": "     Al borde del abismo hay ruleta\n&iquest;Ya es jueves? As&iacute; es, y ni yo me di cuenta, me lleg&oacute; el d&iacute;a y la ruleta as&iacute; como si nada, pues como todo jueves desde hace muchos, muchos a&ntilde;os (16 y medio, ponele) a esta hora lo que vas a ver son veinte balazos.\nEl otro "
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
