@@ -1,5 +1,33 @@
 [
   {
+    "blog": "El Sueño del Artista Blog",
+    "titulo": "La historia detrás del día de la poesía.",
+    "link": "https://polotman.wordpress.com/2026/03/25/la-historia-detras-del-dia-de-la-poesia/",
+    "fecha": "26/03/2026",
+    "contenido": "#DiadelaPoesia&#160; #PoetryDay #literatura #ElSueñodelArtistablog&#160; #ElSueñodelArtista #arte #21deMarzo&#160; Aunque ya halla pasado el día de la poesía no significa que su celebración halla culminado sino todo lo contrario . En&#160; este post lejos de hablarte de algunos de sus máximos repres"
+  },
+  {
+    "blog": "El Blog de Juan A. Flores",
+    "titulo": "Iniciativa del Colectivo Clementina",
+    "link": "https://juanagustinflores.wordpress.com/2026/03/25/iniciativa-del-colectivo-clementina/",
+    "fecha": "25/03/2026",
+    "contenido": "Link sobre el mapa del colectivo Clementina y el Software Libre"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Probando #Hyprland por primera vez en #openSUSE Tumbleweed",
+    "link": "https://victorhckinthefreeworld.com/2026/03/25/probando-hyprland-por-primera-vez-en-opensuse-tumbleweed/",
+    "fecha": "25/03/2026",
+    "contenido": "Pruebo el gestor de ventanas Hyprland por primera vez en mi openSUSE Tumbleweed"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "HBD Kali Linux",
+    "link": "https://jinversor.co/2026/03/hbd-kali-linux/",
+    "fecha": "25/03/2026",
+    "contenido": "Kali Linux, la distribución GNU/Linux enfocada en ciberseguridad cumple años. Leí en una noticia que eran 20 años pero creo que se equivocan. Kali Linux propiamente dicho tiene 13 años [&#8230;]\nLa entrada HBD Kali Linux se publicó primero en Jinversor."
+  },
+  {
     "blog": "Mareos de un geek",
     "titulo": "25 Aniversario Mac OS X",
     "link": "https://mareosdeungeek.es/25-aniversario-mac-os-x/",
@@ -15,10 +43,31 @@
   },
   {
     "blog": "danielaragay.net",
+    "titulo": "La mierdificación en los empleos",
+    "link": "https://blog.danielaragay.net/la-mierdificacion-en-los-empleos/",
+    "fecha": "25/03/2026",
+    "contenido": "Quiz&#xe1;s pronto te podr&#xe9; contar en el podcast como es ser aut&#xf3;nomo en Suecia.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podc"
+  },
+  {
+    "blog": "danielaragay.net",
     "titulo": "Análisis de la mierdificación en el ecosistema de iVoox",
     "link": "https://blog.danielaragay.net/analisis-de-la-mierdificacion-en-el-ecosistema-de-ivoox-2/",
     "fecha": "25/03/2026",
     "contenido": "iVoox ha pasado de ser el motor del podcasting en Espa&#xf1;a a un &#x201c;jard&#xed;n vallado&#x201d; que parasita contenido ajeno. Secuestro de feeds RSS, manipulaci&#xf3;n de estad&#xed;sticas en planes de pago y publicidad insertada sin autorizaci&#xf3;n del autor. &#xbf;"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Por ahí no es",
+    "link": "https://impermanente.es/2026/03/25/por-ah-no-es.html",
+    "fecha": "25/03/2026",
+    "contenido": "Hay un verso de Shelley que es el favorito de mi hijo mayor. Es de Ozymandias: el viajero encuentra en el desierto los restos de una estatua colosal, y en el pedestal lee la inscripción del faraón: &ldquo;Look on my Works, ye Mighty, and despair!&rdquo; Alrededor, nada. Arena. El poder más grande de"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Mumble en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-mumble-en-debian-13/",
+    "fecha": "25/03/2026",
+    "contenido": "Aprende a instalar y configurar Mumble en tu servidor para disponer de un sistema de comunicación por voz rápido, seguro y de baja latencia."
   },
   {
     "blog": "_ voidNull",
@@ -40,6 +89,13 @@
     "link": "https://56k.es/fanta/rapido-y-sucio-no-hazmelo-cuanto-peor-mejor/",
     "fecha": "25/03/2026",
     "contenido": "Eres una persona con la mente sucia y con el titulo has pensado en cosas sexuales pero realmente son dos conceptos que se usan en programación: &#8211; Rápido y sucio (Quick and dirty) &#8211; Peor es mejor (también conocido como estilo Nueva Jersey) Tim Paterson trabajó en una empresa llamada SCP ("
+  },
+  {
+    "blog": "prosa",
+    "titulo": "spring cleaning",
+    "link": "https://blog.adrianaaraujot.casa/spring-cleaning/",
+    "fecha": "25/03/2026",
+    "contenido": "aquella spring cleaning de 2022 y ¡ahora sí! la puesta a la venta del fanzine"
   },
   {
     "blog": "Fabio.com.ar",
@@ -602,13 +658,6 @@
     "contenido": "En comparación con los Samsung Akg que venía utilizando hasta ahora, los EarPods no tiene goma en sus extremos sino que son enteramente de plástico, sin embargo se sienten cómodos y los prefiero por sobre ellos (por esa misma razón me decidí por los  inalámbricos AirPods clásicos por sobre los Pro)."
   },
   {
-    "blog": "esencial",
-    "titulo": "No gastar",
-    "link": "https://yeite.github.io/esencial/no-gastar",
-    "fecha": "19/03/2026",
-    "contenido": "¿Qué es un reto de “no gastar”?"
-  },
-  {
     "blog": "Eterno aprendiz",
     "titulo": "Lollapalooza Chile 2026 – Día 3: Akriila",
     "link": "https://altgr.xyz/2026/03/19/lollapalooza-chile-2026-dia-3-akriila/",
@@ -658,13 +707,6 @@
     "contenido": "Actualmente se empieza a normalizar que algunas personas se vanaglorien de no necesitar saber o conocer algo porque creen que pueden comprar la inteligencia mediante suscripción (inteligencia como servicio). Los supermercados Mercadona hace poco fueron «noticia» porque decían que la cocina en las ca"
   },
   {
-    "blog": "El blog es mío",
-    "titulo": "Me gusta el fútbol",
-    "link": "https://alex.corcoles.net/2026/03/me-gusta-el-futbol",
-    "fecha": "19/03/2026",
-    "contenido": "\n  Pero ya nunca veo partidos y b&#225;sicamente s&#243;lo me entero de cosas porque no escapar&#237;a de los gritos ni en el fondo de la fosa de las Marianas. &#191;Por qu&#233;?\n  En 2011 escrib&#237; por aqu&#237; sobre Cruyff y la liga espa&#241;ola[1].\n  \n    [1] Holandeses voladores, ciclos y "
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "Ruleta Rusa #868",
     "link": "https://www.fabio.com.ar/9899-ruleta-rusa-868",
@@ -677,47 +719,5 @@
     "link": "https://dani.torresburriel.com/sindrome-del-impostor-profesionales-con-experiencia/",
     "fecha": "19/03/2026",
     "contenido": "Llevas décadas en tu campo. Tienes proyectos, clientes, reconocimiento. Y aun así, antes de entrar a una reunión importante, aparece esa voz: ¿y si no estoy a la altura? El síndrome del impostor no desaparece con los años. Lo que cambia es tu relación con él.\nLa entrada El síndrome del impostor no d"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Contra la autoayuda",
-    "link": "https://jinversor.co/2026/03/contra-la-autoayuda/",
-    "fecha": "18/03/2026",
-    "contenido": "Ayer mientras hacía unas compras en el supermercado pasé por el estante de libros y me detuve un momento a ver si había algo interesante. Salí asqueado de ese pasillo [&#8230;]\nLa entrada Contra la autoayuda se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "#Video: Thursday - What's Up? (4 Non Blondes cover)",
-    "link": "https://blog.luiscarlospando.com/musica/2026/03/video-thursday-whats-up-4-non-blondes-cover/",
-    "fecha": "18/03/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋\n&lt;p&gt;The post #Video: Thursday - What&#039;s Up? (4 Non Blonde"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Cosas que le he agregado últimamente a mi sitio",
-    "link": "https://blog.luiscarlospando.com/personal/2026/03/cosas-que-le-he-agregado-ultimamente-a-mi-sitio/",
-    "fecha": "18/03/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋\n&lt;p&gt;The post Cosas que le he agregado últimamente a mi sitio "
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "xz: comprime a saco sin consumir recursos",
-    "link": "https://voidnull.es/xz-comprime-a-saco-sin-consumir-recursos/",
-    "fecha": "18/03/2026",
-    "contenido": "Aprende a comprimir y descomprimir archivos eficientemente en GNU/Linux usando xz y su potente algoritmo LZMA2."
-  },
-  {
-    "blog": "",
-    "titulo": "Convocatoria.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/03/18/convocatoria-6/",
-    "fecha": "18/03/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "",
-    "titulo": "Convocatoria.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/03/18/convocatoria-5/",
-    "fecha": "18/03/2026",
-    "contenido": ""
   }
 ]
