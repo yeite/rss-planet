@@ -1,10 +1,59 @@
 [
   {
+    "blog": "--el Profe Juan--",
+    "titulo": "Estamos vivos de vuelta",
+    "link": "https://elprofejuan.com.ar/estamos-vivos-de-vuelta",
+    "fecha": "28/03/2026",
+    "contenido": "Después de varios días el sitio estuvo caido, porque mi isp me hizo resetear el router y no estaba yo en lugar fisico para poder corregir el hecho de que apunte el Nat interno a mi servidor local. no he implementado el tunnel en el mismo por falta de conocimiento y solo redirecciono puertos porque e"
+  },
+  {
+    "blog": "La Máquina de Von Neumann",
+    "titulo": "Realismo de selva tropical",
+    "link": "https://vonneumannmachine.wordpress.com/2026/03/28/realismo-de-selva-tropical/",
+    "fecha": "28/03/2026",
+    "contenido": "En la obra Everything Must Go (2007) del filósofo británico James Ladyman y del economista canadiense Don Ross, se intenta, probablemente, el ejercicio filosófico más sano que hay: naturalizar la metafísica, es decir, dejar de utilizarla como una máquina de generación de sandeces y comenzar a adecua"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Así automatizo el playlist de mis canciones favoritas en Apple Music",
+    "link": "https://blog.luiscarlospando.com/coding/2026/03/asi-automatizo-el-playlist-de-mis-canciones-favoritas-en-apple-music/",
+    "fecha": "28/03/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋\n&lt;p&gt;The post Así automatizo el playlist de mis canciones favori"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Ángel Rodríguez Lozano: cuando apagaron Vanguardia de la Ciencia",
+    "link": "https://blog.danielaragay.net/angel-rodriguez-lozano-cuando-apagaron-vanguardia-de-la-ciencia/",
+    "fecha": "28/03/2026",
+    "contenido": "Nota: Esta entrevista se realiz&#xf3; por tel&#xe9;fono el mismo d&#xed;a en que &#xc1;ngel dejaba Radio Exterior de Espa&#xf1;a. Disculpad la calidad del audio.Escucha la entrevista aqu&#xed;: https://podcast.danielaragay.net/@danipodcasts/episodes/angel-rodriguez-lozano-cuando-apagaron-vanguardia-"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "El nivel de vida a Suecia vs Catalunya",
+    "link": "https://blog.danielaragay.net/el-nivel-de-vida-a-suecia-vs-catalunya/",
+    "fecha": "28/03/2026",
+    "contenido": "En aquest episodi de Fent el Suec, t&#x2019;explico com &#xe9;s viure a Su&#xe8;cia aquest 2026 i comparo la meva experi&#xe8;ncia aqu&#xed; amb la vida a Catalunya. Analitzo les difer&#xe8;ncies reals en el mercat de l&#x2019;habitatge &#x2014;on la"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "El tiempo sí que pasa (II)",
+    "link": "https://www.xn--jmuoz-qta.es/2026/03/el-tiempo-si-que-pasa-ii.html",
+    "fecha": "28/03/2026",
+    "contenido": "\n  \n    \n  \nEscribía allá por diciembre que, como el que no quiere la cosa, el primer trimestre ya había terminado y estábamos a las puertas de la Navidad. Y el tiempo sigue pasando, para todo, para todos, y como el que no quiere la cosa, ha pasado el segundo trimestre y estamos a las puertas de la "
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Gestionar y borrar metadata con software libre",
     "link": "https://malagaoriginal.blogspot.com/2026/03/gestionar-y-borrar-metadata-con.html",
     "fecha": "27/03/2026",
     "contenido": "&nbsp;¿Qué son los metadata?Los metadata es una información asociada a cada archivo que se crea sin intervención directa de su creador ni acceso evidente en la mayoría de los casos, los datos que se pueden guardar dependen del tipo de archivo, por poner algunos ejemplos:Momento de su creación, modif"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 13 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/03/27/opensuse-tumbleweed-revision-de-la-semana-13-de-2026/",
+    "fecha": "27/03/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -14,11 +63,53 @@
     "contenido": "Hace bastantes años leí una novela juvenil titulada Si decido quedarme, en la que una adolescente que ha quedado en coma tras un accidente parece tener la decisión de caminar hacia el lado de la muerte o el de la vida. El título me ha vuelto a la mente en los últimos días, supongo que porque nunca e"
   },
   {
+    "blog": "Interlan",
+    "titulo": "Desarme: Inflador Generico para Colchones Inflables",
+    "link": "https://interlan.ec/blog/2026/03/27/desarme-inflador-generico-para-colchones-inflables/",
+    "fecha": "27/03/2026",
+    "contenido": "Como era de esperarse, este aparato dejó de funcionar. Irreparablemente. Claro, en realidad es reparable, pero las molestias son tantas para su tan bajo coste que sale mejor comprar otro y olvidarse del asunto. Igual tenia curiosidad por desarmarlo y así lo hice."
+  },
+  {
+    "blog": "Ikkaro",
+    "titulo": "OpenRocket, software de diseño de cohetes Open Source",
+    "link": "https://www.ikkaro.com/que-es-openrocket/",
+    "fecha": "27/03/2026",
+    "contenido": "Siempre he sido fan de los cohetes caseros. Y aunque nunca he intentado construir ninguno con combustible, sí que he ... Sigue leyendo\nEl artículo OpenRocket, software de diseño de cohetes Open Source se publicó primero en Ikkaro."
+  },
+  {
+    "blog": "Escritos en la nube",
+    "titulo": "El desastre de LiteLLM y los agentes de IA",
+    "link": "https://nube.codeberg.page/blog/litellm/",
+    "fecha": "27/03/2026",
+    "contenido": "Una semana más, un nuevo post, esta vez sobre un tema del que no creo haber hablado antes en este blog: IA.\nEste post de verdad que iba a ser algo para darle el beneficio de la duda a la utilidad de los agentes de IA como OpenClaw, Nanobot, etc, sin embargo pasó algo que me frenó en seco y el cambio"
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "La respuesta llega cuando menos la esperas",
+    "link": "https://matizeta.com/2026/03/27/la-respuesta-viene-cuando-menos-te-los-esperas/",
+    "fecha": "27/03/2026",
+    "contenido": "Quizás llevas tiempo pensando algo, buscándole la vuelta, piensas y piensas y no hay caso: la respuesta no aparece. Entonces te rindes. Y cuando menos los esperas, un martes cualquiera, dando la vuelta al perro la respuesta llega a tu cabeza. ¿Te sucedió alguna vez? A mi varias veces. La respuesta a"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "El tipo de cafetera que juré nunca comprar (y terminé comprando)",
     "link": "https://matizeta.com/2026/03/27/el-tipo-de-cafetera-que-jure-nunca-comprar-y-compre/",
     "fecha": "27/03/2026",
     "contenido": "Soy de las personas que sin un café no arranca el día: primero un café, luego existo. Y en este gusto por la infusión hay un mundo de tipo de cafeteras: Moka, Francesa, de filtro, entre otras.&#160; No soy un experto en café, ni un exquisito y estoy lejos de serlo. No me interesa. Yo [&#8230;]"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "537. Cuando ya no queda nada 3",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/03/537-cuando-ya-no-queda-nada-3.html",
+    "fecha": "27/03/2026",
+    "contenido": "&nbsp; &nbsp; No le preguntes a un creyente dónde estaba su dios cuando a Noelia, como a tantos millones de personas desde que el mundo es mundo, le ocurrían cosas desagradables. No le preguntes a un creyente por qué su dios quiso que la mente de Noelia funcionara de una manera y no de otra. No le p"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Tusky: un cliente para el Fediverso muy completo",
+    "link": "https://voidnull.es/tusky-un-cliente-para-el-fediverso-muy-completo/",
+    "fecha": "27/03/2026",
+    "contenido": "Cliente libre para Mastodon en Android, sin dependencias de Google y con soporte completo del Fediverso."
   },
   {
     "blog": "_ voidNull",
@@ -33,6 +124,13 @@
     "link": "https://www.ericafustero.com/2026-03-peep-media",
     "fecha": "27/03/2026",
     "contenido": "Peep Media es el micro proyecto editorial de Alba G. Mora, a través del cual publica fanzines y organiza encuentros. Alba tiene un gusto excelente, y en su pequeña tienda también distribuye libros, revistas y ephemera, que se pueden comprar tanto online como en persona durante los encuentros. Peep M"
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Reseña de Estación Norte (para Axis Mundi)",
+    "link": "http://frikoteca.blogspot.com/2026/03/resena-de-estacion-norte-para-axis-mundi.html",
+    "fecha": "27/03/2026",
+    "contenido": "Estación Norte es el primer suplemento publicado por 77Mundos para su retroclón Axis Mundi. Es una aventura (más un mini entorno de campaña) estructurada en lo que el juego denomina «base y mazmorra», es decir, una descripción de un pueblo que puede servir como base para los personajes jugadores y u"
   },
   {
     "blog": "56K",
@@ -60,7 +158,7 @@
     "titulo": "El feedback que llega cuando menos lo esperas",
     "link": "https://dani.torresburriel.com/el-feedback-que-llega-cuando-menos-lo-esperas/",
     "fecha": "27/03/2026",
-    "contenido": "Yolanda, vamos a poner que se llama Yolanda, me escribió un sábado por la mañana. Dos mensajes, sin más. Me decía que disfrutaba leyendo lo que publico, y que en medio del ruido habitual de LinkedIn, encontrar algo así le daba paz mental. «Se convierte en un recordatorio de que hay gente normal haci"
+    "contenido": "Hoy quería hablar de la constancia en redes sociales. Lo haré a través de Yolanda. Vamos a poner que se llama Yolanda. Me escribió un sábado por la mañana. Dos mensajes, sin más. Me decía que disfrutaba leyendo lo que publico, y que en medio del ruido habitual de LinkedIn, encontrar algo así le daba"
   },
   {
     "blog": "Adrián Perales",
@@ -163,9 +261,9 @@
   {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "Marco de trabajo UXAI",
-    "link": "https://dani.torresburriel.com/marco-de-trabajo-uxai/",
+    "link": "https://dani.torresburriel.com/framework-ux-inteligencia-artificial-equipos-producto/",
     "fecha": "26/03/2026",
-    "contenido": "Oa aseguro que hoy está siendo en lo personal un día complicado. Pero no queda más remedio que entonar eso de que la vida sigue y aquí vengo yo a contar algo en lo que he estado trabajando en los últimos meses. Muchos meses, que si son 12, ya los podemos contar como un año. &#8230; Sigue leyendo Mar"
+    "contenido": "Os aseguro que hoy está siendo en lo personal un día complicado. Pero no queda más remedio que entonar eso de que la vida sigue. Aquí vengo yo a contar algo en lo que he estado trabajando en los últimos meses. Muchos meses, que si son 12, ya los podemos contar como un año. La &#8230; Sigue leyendo M"
   },
   {
     "blog": "AsturGeek V3",
@@ -298,7 +396,7 @@
     "titulo": "Gracias YouTube por recomendarme este canal",
     "link": "https://blog.luiscarlospando.com/gaming/2026/03/gracias-youtube-por-recomendarme-este-canal/",
     "fecha": "24/03/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋\n&lt;p&gt;The post Gracias YouTube por recomendarme este canal first "
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋\n&lt;p&gt;The post Gracias YouTube por recomendarme este canal firs"
   },
   {
     "blog": "End3r.es",
@@ -595,13 +693,6 @@
     "contenido": "Estamos obsesionados en ver la tecnología, o la vida en general, a dos colores, eres de Apple o de Android, de Mac o de Windows (o Linux), de Adobe o de código abierto… Son muchos los ejemplos, pero pocos los que se deberían aplicar. A veces utilizar las dos cosas (o tres, o las que [&#8230;]"
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "La cena",
-    "link": "https://mcallus.net/2026/03/21/la-cena/",
-    "fecha": "21/03/2026",
-    "contenido": "Después de cenar mi madre friega los platos y mi padre finge leer el periódico. Yo busco una frase para decir en voz alta pero no la encuentro. El reloj del pasillo marca los segundos, uno detrás de otro, como gotas de agua contra la piedra. Nadie habla. Nunca hablamos. Y, sin embargo, a veces [&#82"
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "Ranking de cervezas Untappd 2025",
     "link": "https://mareosdeungeek.es/ranking-untappd-2025/",
@@ -621,96 +712,5 @@
     "link": "https://blog.danielaragay.net/les-meves-feines-a-suecia-i-a-san-francisco/",
     "fecha": "21/03/2026",
     "contenido": "Les meves feines a Su&#xe8;cia (i a San Francisco)Tots els podcasts: aragay.netMastodon: masto.es/@proteusbcnBlog: danielaragay.net Telegram: t.me/haciendoelsuecoAjuda&#x2019;ns amb el nostre projecte a PATREON: patreon.com/c/proteusbcn Reproductors de podcasts lliures: podcastapps.comEnlla&#xe7;: L"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Àlex Gorina, 2005: todo lo que el cine iba a ser (y fue)",
-    "link": "https://blog.danielaragay.net/alex-gorina-2005-todo-lo-que-el-cine-iba-a-ser-y-fue/",
-    "fecha": "21/03/2026",
-    "contenido": "Hay entrevistas que envejecen mal y hay entrevistas que envejecen demasiado bien. Esta es de las segundas.Escucha la entrevista: https://podcast.danielaragay.net/@danipodcasts/episodes/alex-gorina-2005-todo-lo-que-el-cine-iba-a-ser-y-fueEn 2005 grab&#xe9; esta conversaci&#xf3;n para Dime T&#xfa;, mi"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Claves SSH en Nitrokey",
-    "link": "https://nachof.blog/posts/2026/claves-ssh-en-nitrokey/",
-    "fecha": "21/03/2026",
-    "contenido": "Me compré un jueguete nuevo, una llave USB Nitrokey. Bueno, en realidad me compré dos, porque no tengo criterio y se me ocurrió que capaz que rendía.\nLa cosa es que aparte de soportar el tema de passkeys, tiene también la capacidad de guardar claves SSH adentro. La clave SSH que estaba usando estaba"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Ex Seventh Avenue Y Actual Avantasia Estrena Nuevo Tema | Herbie Langhans Lanza “Little Lights”",
-    "link": "https://www.delotroladometal.com.ar/2026/03/21/herbie-langhans-lanza-little-lights/",
-    "fecha": "21/03/2026",
-    "contenido": "Herbie Langhans parece decidido a profundizar su costado &#8220;solista&#8221; luego de su salida de Firewind,...\nThe post El Ex Seventh Avenue Y Actual Avantasia Estrena Nuevo Tema | Herbie Langhans Lanza “Little Lights” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Full Circle #225 (enero 2026)",
-    "link": "https://javiersam.uy/2026/03/full-circle-225-enero-2026.html",
-    "fecha": "21/03/2026",
-    "contenido": "A sabiendas de que ya está disponible la edición #226, aquí va mi reseña de la edición #225 de Full Circle magazine. Está disponible para su descarga desde el 30 de enero, se trata del número correspondiente a enero de 2026 y consiste en un PDF de 60 páginas y de 6,9 MB. De la sección de Noticias (p"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "#017 100 jumps ¿cuántos saltos eres capaz de dar?",
-    "link": "https://chancli.dev/blog/100jumps-nueva-adiccion-gratis.html",
-    "fecha": "21/03/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "#016 Filtrando IPs maliciosas en tu servidor",
-    "link": "https://chancli.dev/blog/filtrando-ips-maliciosas.html",
-    "fecha": "21/03/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 12 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/03/20/opensuse-tumbleweed-revision-de-la-semana-12-de-2026/",
-    "fecha": "20/03/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Pensamientos: Mi primer strike",
-    "link": "https://interlan.ec/blog/2026/03/20/pensamientos-mi-primer-strike/",
-    "fecha": "20/03/2026",
-    "contenido": "Todo comienza con un mensaje de la consola de google anunciando una infracción de copyright"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Como simular una actualización en CachyOS",
-    "link": "https://tecnoysoft.com/2026/03/20/como-simular-una-actualizacion-en-cachyos/",
-    "fecha": "20/03/2026",
-    "contenido": "Hace poco que comencé a usar CachyOS y, aunque tengo más de una década de experiencia en el ecosistema Arch, cada distro tiene sus peculiaridades. El comando sudo pacman -Syu --print simula una actualización sin tocar nada, demasiado útil como para no conocerlo. Si usas CachyOS, basado en Arch Linux"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El fin de una etapa",
-    "link": "https://blog.danielaragay.net/el-fin-de-una-etapa/",
-    "fecha": "20/03/2026",
-    "contenido": "Ayer empez&#xf3; el fin de una etapa que ha durado casi 13 a&#xf1;os.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "ShiftSwift: gestiona tu horario laboral y tus turnos",
-    "link": "https://voidnull.es/shiftcal-gestiona-tu-horario-laboral-y-tus-turnos/",
-    "fecha": "20/03/2026",
-    "contenido": "Calendario de turnos libre para organizar horarios laborales sin depender de servicios externos."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Setas Shiitake como memorias RAM",
-    "link": "https://56k.es/fanta/setas-shiitake-como-memorias-ram/",
-    "fecha": "20/03/2026",
-    "contenido": "Un grupo de investigación interdisciplinar de Ohio ( LaRocco, J., Tahmina, Q., Petreaca, R., Simonis, J., &#38; Hill, J. (2025). Sustainable memristors from shiitake mycelium for high-frequency bioelectronics. ) sacaron un paper en el que demuestran que es posible utilizar plataformas ecológicas par"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Una garrafa de agua como batería de gravedad",
-    "link": "https://56k.es/fanta/bateria-de-gravedad/",
-    "fecha": "20/03/2026",
-    "contenido": "Hace unos años puse usé en el smartphone una canción de Johnny Cash llamada «I Walk he line». La encontré en youtube y la puse para despertar a mi pareja que al escucharla dijo «la canción del muelle» (es que suena como un muelle jajaja). Youtube me recomendó otra canción al terminar pero &#8230; no"
   }
 ]
