@@ -1,10 +1,24 @@
 [
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Chats que exponen a policías a merced del crimen",
+    "link": "https://gatooscuro.xyz/chats-que-exponen-a-policias-a-merced-del-crimen/",
+    "fecha": "29/03/2026",
+    "contenido": "Hay noticias que uno lee y pasa la página. Y hay otras que se quedan haciendo ruido días después. El caso revelado por El Colombiano sobre alias “Medio Labio” pertenece\nSeguir leyendo  Chats que exponen a policías a merced del crimen\nEl cargo Chats que exponen a policías a merced del crimen apareció"
+  },
+  {
     "blog": "--el Profe Juan--",
     "titulo": "Estamos vivos de vuelta",
     "link": "https://elprofejuan.com.ar/estamos-vivos-de-vuelta",
     "fecha": "28/03/2026",
     "contenido": "Después de varios días el sitio estuvo caido, porque mi isp me hizo resetear el router y no estaba yo en lugar fisico para poder corregir el hecho de que apunte el Nat interno a mi servidor local. no he implementado el tunnel en el mismo por falta de conocimiento y solo redirecciono puertos porque e"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "[RE]: 3 años de este blog… ¿Qué sigue?",
+    "link": "https://thecheis.com/2026/03/28/re-3-anos-de-este-blog-que-sigue/",
+    "fecha": "28/03/2026",
+    "contenido": "Hace unos días eapl escribió un artículo muy interesante donde reflexionaba acerca de sus 4 años frente al blog. Estuvimos intercambiando impresiones por Mastodon, y decidí copiarle la iniciativa para plasmar mi experiencia e ideas sobre el futuro. Me parecía un momento perfecto porque este espacio "
   },
   {
     "blog": "La Máquina de Von Neumann",
@@ -14,25 +28,32 @@
     "contenido": "En la obra Everything Must Go (2007) del filósofo británico James Ladyman y del economista canadiense Don Ross, se intenta, probablemente, el ejercicio filosófico más sano que hay: naturalizar la metafísica, es decir, dejar de utilizarla como una máquina de generación de sandeces y comenzar a adecua"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "No estar",
+    "link": "https://jinversor.co/2026/03/no-estar/",
+    "fecha": "28/03/2026",
+    "contenido": "Esta entrada podría ser la respuesta a un post anterior y quizás también la continuación de Nada que ver. Perdonarán lo repetitivo pero es algo que definitivamente me lleva tallando [&#8230;]\nLa entrada No estar se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Hace rato que no tenía un fin de semana de relax puro",
+    "link": "https://blog.luiscarlospando.com/personal/2026/03/hace-rato-que-no-tenia-un-fin-de-semana-de-relax-puro/",
+    "fecha": "28/03/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "Así automatizo el playlist de mis canciones favoritas en Apple Music",
     "link": "https://blog.luiscarlospando.com/coding/2026/03/asi-automatizo-el-playlist-de-mis-canciones-favoritas-en-apple-music/",
     "fecha": "28/03/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋\n&lt;p&gt;The post Así automatizo el playlist de mis canciones favori"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "danielaragay.net",
-    "titulo": "Ángel Rodríguez Lozano: cuando apagaron Vanguardia de la Ciencia",
-    "link": "https://blog.danielaragay.net/angel-rodriguez-lozano-cuando-apagaron-vanguardia-de-la-ciencia/",
+    "blog": "Eterno aprendiz",
+    "titulo": "Halestorm: Tormenta Perfecta de Hard Rock",
+    "link": "https://altgr.xyz/2026/03/28/halestorm-tormenta-perfecta-de-hard-rock/",
     "fecha": "28/03/2026",
-    "contenido": "Nota: Esta entrevista se realiz&#xf3; por tel&#xe9;fono el mismo d&#xed;a en que &#xc1;ngel dejaba Radio Exterior de Espa&#xf1;a. Disculpad la calidad del audio.Escucha la entrevista aqu&#xed;: https://podcast.danielaragay.net/@danipodcasts/episodes/angel-rodriguez-lozano-cuando-apagaron-vanguardia-"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El nivel de vida a Suecia vs Catalunya",
-    "link": "https://blog.danielaragay.net/el-nivel-de-vida-a-suecia-vs-catalunya/",
-    "fecha": "28/03/2026",
-    "contenido": "En aquest episodi de Fent el Suec, t&#x2019;explico com &#xe9;s viure a Su&#xe8;cia aquest 2026 i comparo la meva experi&#xe8;ncia aqu&#xed; amb la vida a Catalunya. Analitzo les difer&#xe8;ncies reals en el mercat de l&#x2019;habitatge &#x2014;on la"
+    "contenido": "¡Qué tremenda frontwoman es Lzzy Hale! Un desplante muy generoso, mucho carisma sumado a su hermosa y potente voz que queda perfecta con el estilo hardrockero de la banda. Una estupenda noche de rock en el Teatro Coliseo. Se convirtió inmediatamente en uno de mis conciertos favoritos en lo que va de"
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -40,6 +61,34 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/03/el-tiempo-si-que-pasa-ii.html",
     "fecha": "28/03/2026",
     "contenido": "\n  \n    \n  \nEscribía allá por diciembre que, como el que no quiere la cosa, el primer trimestre ya había terminado y estábamos a las puertas de la Navidad. Y el tiempo sigue pasando, para todo, para todos, y como el que no quiere la cosa, ha pasado el segundo trimestre y estamos a las puertas de la "
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Servidor SMTP relay en Docker",
+    "link": "https://nachof.blog/posts/2026/servidor-smtp-relay-en-docker/",
+    "fecha": "28/03/2026",
+    "contenido": "Hace tiempo que venía usando msmtp como servidor SMTP en mi stack Docker, con la imagen de crazy-max. La idea es que en lugar de tener que configurar usuario y contraseña y conexión en todos los servicios que tengo corriendo, sólo lo configuraba en msmtp y los demás mandaban el mail a través de ese "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "El Sucesor De \"The Death Is Dead\" Viene En Camino... | “Last Caesar” Será El Nuevo Álbum De No More Death",
+    "link": "https://www.delotroladometal.com.ar/2026/03/28/last-caesar-sera-el-nuevo-album-de-no-more-death/",
+    "fecha": "28/03/2026",
+    "contenido": "Tiago Torres, conocido por su anterior banda Mad Dragzter, nos sorprendió durante 2025 con el...\nThe post El Sucesor De \"The Death Is Dead\" Viene En Camino... | “Last Caesar” Será El Nuevo Álbum De No More Death first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JDRM",
+    "titulo": "Servidor web y Gemini en FreeBSD",
+    "link": "https://jdrm.info/servidor-web-y-gemini-en-freebsd.html",
+    "fecha": "28/03/2026",
+    "contenido": "Como he contado en la anterior entrada he mudado el servidor de Debian a FreeBSD, así que aquí van algunos apuntes del proceso casi casi completo."
+  },
+  {
+    "blog": "JDRM",
+    "titulo": "Servidor web y Gemini en FreeBSD",
+    "link": "https://jdrm.info/servidor-web-y-gemini-en-freebsd.html",
+    "fecha": "28/03/2026",
+    "contenido": "Como he contado en la anterior entrada he mudado el servidor de Debian a FreeBSD, así que aquí van algunos apuntes del proceso casi casi completo."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -159,6 +208,20 @@
     "link": "https://dani.torresburriel.com/el-feedback-que-llega-cuando-menos-lo-esperas/",
     "fecha": "27/03/2026",
     "contenido": "Hoy quería hablar de la constancia en redes sociales. Lo haré a través de Yolanda. Vamos a poner que se llama Yolanda. Me escribió un sábado por la mañana. Dos mensajes, sin más. Me decía que disfrutaba leyendo lo que publico, y que en medio del ruido habitual de LinkedIn, encontrar algo así le daba"
+  },
+  {
+    "blog": "JDRM",
+    "titulo": "Me he mudado de hosting y más cosas",
+    "link": "https://jdrm.info/me-he-mudado-de-hosting-y-mas-cosas.html",
+    "fecha": "27/03/2026",
+    "contenido": "He migrado a un hosting en Europa y he aprovechado para hacer un cambio importante (toma Clickbait)"
+  },
+  {
+    "blog": "JDRM",
+    "titulo": "Me he mudado de hosting y más cosas",
+    "link": "https://jdrm.info/me-he-mudado-de-hosting-y-mas-cosas.html",
+    "fecha": "27/03/2026",
+    "contenido": "He migrado a un hosting en Europa y he aprovechado para hacer un cambio importante (toma Clickbait)"
   },
   {
     "blog": "Adrián Perales",
@@ -308,20 +371,6 @@
     "contenido": "Algunos videos en YouTube que ví en estos días y considero que valen la pena compartir: Un documental de 40 minutos sobre esta comunidad religiosa que viven sin electricidad, televisión o internet y utiliza carros a caballo. La llamada micro generación, aquella que vivió en dos mundos distintos: uno"
   },
   {
-    "blog": "danielaragay.net",
-    "titulo": "La mierdificación en los empleos",
-    "link": "https://blog.danielaragay.net/la-mierdificacion-en-los-empleos/",
-    "fecha": "25/03/2026",
-    "contenido": "Quiz&#xe1;s pronto te podr&#xe9; contar en el podcast como es ser aut&#xf3;nomo en Suecia.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podc"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Análisis de la mierdificación en el ecosistema de iVoox",
-    "link": "https://blog.danielaragay.net/analisis-de-la-mierdificacion-en-el-ecosistema-de-ivoox-2/",
-    "fecha": "25/03/2026",
-    "contenido": "iVoox ha pasado de ser el motor del podcasting en Espa&#xf1;a a un &#x201c;jard&#xed;n vallado&#x201d; que parasita contenido ajeno. Secuestro de feeds RSS, manipulaci&#xf3;n de estad&#xed;sticas en planes de pago y publicidad insertada sin autorizaci&#xf3;n del autor. &#xbf;"
-  },
-  {
     "blog": "impermanente",
     "titulo": "Por ahí no es",
     "link": "https://impermanente.es/2026/03/25/por-ah-no-es.html",
@@ -396,7 +445,7 @@
     "titulo": "Gracias YouTube por recomendarme este canal",
     "link": "https://blog.luiscarlospando.com/gaming/2026/03/gracias-youtube-por-recomendarme-este-canal/",
     "fecha": "24/03/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋\n&lt;p&gt;The post Gracias YouTube por recomendarme este canal firs"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "End3r.es",
@@ -630,13 +679,6 @@
     "contenido": ""
   },
   {
-    "blog": "El Blog de Juan A. Flores",
-    "titulo": "Excelente Blog del amigo José, si quieres aprender cosas nuevas de software libre, recomiendo su lectura.",
-    "link": "https://juanagustinflores.wordpress.com/2026/03/21/excelente-blog-del-amigo-jose-su-quieres-aprender-cosas-nuevas-de-software-libre-recomiendo-su-lectura/",
-    "fecha": "22/03/2026",
-    "contenido": "Aquí un artículo sobre el programa LaTex muy utilizado para crear papers y notas de divulgación."
-  },
-  {
     "blog": "Jinversor",
     "titulo": "La Cuba que conocí",
     "link": "https://jinversor.co/2026/03/la-cuba-que-conoci/",
@@ -656,13 +698,6 @@
     "link": "https://altgr.xyz/2026/03/22/seru-giran-por-pedro-aznar-y-david-lebon/",
     "fecha": "22/03/2026",
     "contenido": "Viendo otra vez a Aznar en vivo. Esta vez en compañía de David Lebón para rememorar a Serú Girán, la histórica banda argentina de rock progresivo en la que ambos fueron miembros junto a Charly García y Oscar Moro. Fue realmente encantador escuchar tantas hermosas canciones clásicas, a pesar de lo ma"
-  },
-  {
-    "blog": "Si dios te da limones",
-    "titulo": "Esta silla está libre",
-    "link": "https://sidiostedalimones.com/blog/2026/esta-silla-esta-libre/",
-    "fecha": "22/03/2026",
-    "contenido": ""
   },
   {
     "blog": "56K",
@@ -691,26 +726,5 @@
     "link": "https://tecnocajon.wordpress.com/2026/03/22/por-que-siempre-blanco-o-negro/",
     "fecha": "22/03/2026",
     "contenido": "Estamos obsesionados en ver la tecnología, o la vida en general, a dos colores, eres de Apple o de Android, de Mac o de Windows (o Linux), de Adobe o de código abierto… Son muchos los ejemplos, pero pocos los que se deberían aplicar. A veces utilizar las dos cosas (o tres, o las que [&#8230;]"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Ranking de cervezas Untappd 2025",
-    "link": "https://mareosdeungeek.es/ranking-untappd-2025/",
-    "fecha": "21/03/2026",
-    "contenido": "La red social dedicada a la cerveza Untappd ha publicado su ranking de cervezas del año 2025. Una extensa colección de cervezas organizadas por países, estilos y cerveceras. Centrándonos en España, un pequeño resumen de los resultados del ranking Untappd 2025. Las 10 primeras del ranking Untappd 202"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Análisis de la mierdificación en el ecosistema de iVoox",
-    "link": "https://blog.danielaragay.net/analisis-de-la-mierdificacion-en-el-ecosistema-de-ivoox/",
-    "fecha": "21/03/2026",
-    "contenido": "Mucho se ha escrito sobre la mierdificaci&#xf3;n &#x2014;o enshittification&#x2014; en gigantes tecnol&#xf3;gicos como Twitter (ahora X), Meta o Amazon, donde la degradaci&#xf3;n del servicio parece un peaje inevitable del &#xe9;xito corporativo. Sin embargo, en Espa&#xf1;a apenas se ha puesto"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Les meves feines a Suècia (i a San Francisco)",
-    "link": "https://blog.danielaragay.net/les-meves-feines-a-suecia-i-a-san-francisco/",
-    "fecha": "21/03/2026",
-    "contenido": "Les meves feines a Su&#xe8;cia (i a San Francisco)Tots els podcasts: aragay.netMastodon: masto.es/@proteusbcnBlog: danielaragay.net Telegram: t.me/haciendoelsuecoAjuda&#x2019;ns amb el nostre projecte a PATREON: patreon.com/c/proteusbcn Reproductors de podcasts lliures: podcastapps.comEnlla&#xe7;: L"
   }
 ]
