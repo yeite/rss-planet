@@ -1,13 +1,5 @@
 [
   {
-    "Nombre": "Jinversor",
-    "Url": "https://jinversor.co/",
-    "Feed": "https://jinversor.co/feed/",
-    "Descripción": "Hablo sobre inversiones, finanzas personales, ciberseguridad, software libre, libertarismo y minimalismo digital.",
-    "Categoría": "Tecnología, Sociedad y Economía",
-    "País": "Colombia"
-  },
-  {
     "Nombre": "Luis Carlos Pando",
     "Url": "https://luiscarlospando.com",
     "Feed": "https://blog.luiscarlospando.com/rss/",
@@ -15,6 +7,286 @@
     "Categoría": "Tecnología, Arte y Diseño, Entretenimiento y Cultura, Fotografía, Newsletter, Vida Diaria",
     "País": "México",
     "Aliado": "si"
+  },
+  {
+    "Nombre": "javiersam",
+    "Url": "https://javiersam.uy",
+    "Feed": "https://javiersam.uy/feed",
+    "Descripción": "Es, principalmente, un cuaderno de apuntes sobre diseño con software libre. Pero también es mi blog personal, así que el contenido es un poco ecléctico.",
+    "Categoría": "Arte y Diseño, Entretenimiento y Cultura, Tecnología",
+    "País": "Uruguay",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Alejandro Piumetti (Blog personal)",
+    "Url": "https://alejandropiumetti.com.ar",
+    "Feed": "https://alejandropiumetti.com.ar/feed/blog.xml",
+    "Descripción": "Es un blog personal en donde subo lo que se me ocurra, snippets de programación, ideas, videojuegos, comida, libros que leí. Y también tengo un journey con algunas fotos que voy sacando en mis andanzas.",
+    "Categoría": "Comida y Bebida, Tecnología, Vida Diaria",
+    "País": "Argentina",
+    "Aliado": "si"
+},
+{
+    "Nombre": "Un Diario",
+    "Url": "https://thejnx.bearblog.dev",
+    "Feed": "https://thejnx.bearblog.dev/rss",
+    "Descripción": "Aquí escribo/reúno mis ideas mas importantes, temas frikis, geeks, algunas reseñas, recomendaciones, etc, por si les resultan de utilidad! (˶ᵔ ᵕ ᵔ˶)",
+    "Categoría": "Tecnología, Vida Diaria",
+    "País": "Colombia",
+    "Aliado": "si"
+},
+{
+    "Nombre": "Chocoboreviews",
+    "Url": "https://chocoboreview.neocities.org/",
+    "Feed": "",
+    "Descripción": "Un pequeño blog donde hago pequeñas reseñas del contenido que consumo, principalmente videojuegos.",
+    "Categoría": "Entretenimiento y Cultura, Newsletter",
+    "País": "España",
+    "Aliado": "si"
+},
+  {
+    "Nombre": "Picando Código",
+    "Url": "https://picandocodigo.net",
+    "Feed": "https://picandocodigo.net/feed/",
+    "Descripción": "Es mi blog personal donde escribo sobre programación, a veces software libre, videojuegos, libros, cómics, tecnología y demás.",
+    "Categoría": "Entretenimiento y Cultura, Tecnología",
+    "País": "Uruguay",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Zurdeando por la red",
+    "Url": "https://www.zurdala.es",
+    "Feed": "https://www.zurdala.es/blog/index.xml",
+    "Descripción": "Blog personal sobre naderías y alguna cosa más. Sitio personal.",
+    "Categoría": "Vida Diaria",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Películas y Series",
+    "Url": "https://peliculasyseries.matizeta.com",
+    "Feed": "https://yeite.github.io/lps/atom.xml",
+    "Descripción": "Blogs con micro reseñas  sobre las películas y series que voy mirando 👀",
+    "Categoría": "Entretenimiento y Cultura",
+    "País": "Argentina",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "52 semanas",
+    "Url": "https://52s.matizeta.com",
+    "Feed": "https://matizeta.com/category/52s/feed",
+    "Descripción": "Los domingos a primera hora (pero no todos), te envío a tu casilla cosas que encuentro interesantes en la web y algunas novedades.",
+    "Categoría": "Newsletter",
+    "País": "Argentina",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Cozy Kis",
+    "Url": "https://cozy-kis.bearblog.dev/mas-jueguitos/",
+    "Feed": "https://cozy-kis.bearblog.dev/feed/",
+    "Descripción": "Blog de reseñas de videojuegos indies",
+    "Categoría": "Entretenimiento y Cultura",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Blog de Thalskarth",
+    "Url": "https://blog.thalskarth.ar/",
+    "Feed": "https://blog.thalskarth.ar/feed.xml",
+    "Descripción": "Blog donde hablo de lo que me interesó ese día",
+    "Categoría": "Tecnología, Entretenimiento y Cultura",
+    "País": "Argentina",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "El laberinto de McAllus",
+    "Url": "https://mcallus.net",
+    "Feed": "https://mcallus.net/feed/",
+    "Descripción": "Un blog donde escribo principalmente mis relatos y sobre mis lecturas pero también tienen cabida el rol, los juegos de mesa, el cine y las series.",
+    "Categoría": "Literario, Entretenimiento y Cultura, Manualidades / Hobbies",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "iAgosto",
+    "Url": "https://blog.iagosto.dev",
+    "Feed": "https://blog.iagosto.dev/rss.xml",
+    "Descripción": "Blog de tecnologia, programacion y administracion de sistemas.",
+    "Categoría": "Podcast, Manualidades / Hobbies, Tecnología",
+    "País": "México",
+    "Aliado": "si"
+  },
+ {
+    "Nombre": "El cuaderno sin hojas",
+    "Url": "https://sinhojas.net",
+    "Feed": "https://sinhojas.net/entradas.xml",
+    "Descripción": "Un cuaderno virtual con devaneos textuales (largos o breves) y fotografías. Este blog es principalmente sobre literatura, pero también sobre el arte y las posibilidades de autogestión que la ofrece la web en pequeño.",
+    "Categoría": "Literario, Fotografía, Arte y Diseño",
+    "País": "México",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "jurassikdev34",
+    "Url": "https://jurassikdev34.com",
+    "Feed": "https://jurassikdev34.com/index.xml",
+    "Descripción": "Un blog tecnológico y filosófico donde comparto pensamientos e ideas.",
+    "Categoría": "Tecnología, Ciencia y Humanidades, Literario",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Brucknerite",
+    "Url": "https://brucknerite.net",
+    "Feed": "https://brucknerite.net/feed",
+    "Descripción": "Divulgación, trenes, pensamiento, espacio, más trenes…",
+    "Categoría": "Tecnología, Entretenimiento y Cultura, Ciencia y Humanidades",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "THE_CHEI$",
+    "Url": "https://thecheis.com",
+    "Feed": "https://thecheis.com/feed/",
+    "Descripción": "Geek en tierra extraña. Tecnoloogía, software libre, música y reflexiones.",
+    "Categoría": "Tecnología",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Webnauta",
+    "Url": "https://webnauta.blog/",
+    "Feed": "https://webnauta.blog/rss",
+    "Descripción": "Ensayos y pequeños relatos",
+    "Categoría": "Tecnología, Vida Diaria",
+    "País": "México",
+    "Aliado": "si"
+  },
+{
+    "Nombre": "Xolar",
+    "Url": "https://xol.ar",
+    "Feed": "https://xol.ar/rss.xml",
+    "Descripción": "Blog personal donde hablo de las cosas que me apasionan: Desarrollo de software (sobre todo desarrollo Web), Música, Ciencia, Tecnología, Juegos (de cualquier tipo) entre otros temas.",
+    "Categoría": "Tecnología, Vida Diaria, Sociedad y Economía",
+    "País": "Argentina",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "El cuaderno de J. Muñoz",
+    "Url": "https://www.jmuñoz.es/",
+    "Feed": "https://www.jmuñoz.es/feeds/posts/default",
+    "Descripción": "Anotaciones sin ninguna pretensión.",
+    "Categoría": "Comida y Bebida, Entretenimiento y Cultura, Aire Libre, Sociedad y Economía, Vida Diaria",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "La Frikoteca",
+    "Url": "https://frikoteca.blogspot.com/",
+    "Feed": "https://feeds.feedburner.com/LaFrikoteca",
+    "Descripción": "Un blog personal centrado en los juegos de rol y el frikismo en general. El autor ha escrito, traducido y editado juegos de rol.",
+    "Categoría": "Literario, Manualidades / Hobbies",
+    "País": "España",
+    "Aliado": "si"
+  },
+    {
+    "Nombre": "kernelcast",
+    "Url": "https://www.kernelcast.es/",
+    "Feed": "https://rss.app/feeds/Z2UoFd814d10jbq1.xml",
+    "Descripción": "Noticias sobre tecnología y software libre.",
+    "Categoría": "Tecnología, Podcast",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Mindeka",
+    "Url": "https://mindeka.duckdns.org",
+    "Feed": "https://mindeka.duckdns.org/feed/",
+    "Descripción": "Biblioteca de ideas y pensamientos sobre tecnología, software libre, auto alojamiento y ¡mucho más!",
+    "Categoría": "Tecnología, Manualidades / Hobbies, Vida Diaria",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Blogpocket Foodie",
+    "Url": "https://foodybp.blog/",
+    "Feed": "https://foodybp.blog/feed/",
+    "Descripción": "Mi blog personal de recetas de cocina (freidora, robot, horno y algunas tradicionales)",
+    "Categoría": "Comida y Bebida",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Un Bruto con Debian",
+    "Url": "https://unbrutocondebian.blogspot.com",
+    "Feed": "https://unbrutocondebian.blogspot.com/feeds/posts/default",
+    "Descripción": "Un novato que usa Debian y cuenta sus experiencias y luchas",
+    "Categoría": "Tecnología",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Manu Mateos",
+    "Url": "https://www.macram.es",
+    "Feed": "https://www.macram.es/index.xml",
+    "Descripción": "Blog personal donde hablo de tecnología y otras cosas.",
+    "Categoría": "Tecnología, Entretenimiento y Cultura, Vida Diaria",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Post-it",
+    "Url": "https://postit.matizeta.com",
+    "Feed": "https://matizeta.com/category/post-it/feed",
+    "Descripción": "Pequeñas publicaciones de cosas que encuentro navegando en Internet y me resultan interesantes.",
+    "Categoría": "Tecnología",
+    "País": "Argentina",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Lado B",
+    "Url": "https://ladob.matizeta.com",
+    "Feed": "https://matizeta.com/category/ladoB/feed/",
+    "Descripción": "Lado B nace de una necesidad de tener un espacio para escribir mis pensamientos y reflexiones más personales",
+    "Categoría": "Literario, Sociedad y Economía, Vida Diaria, Aire Libre, Ciencia y Humanidades, Arte y Diseño, Entretenimiento y Cultura, Viajes",
+    "País": "Argentina",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "POV",
+    "Url": "https://blog.matizeta.com",
+    "Feed": "https://matizeta.com/category/blog/feed",
+    "Descripción": "Blog te Tecnología. Una mirada personal sobre dispositivos electrónicos, tendencias en internet,  recomendaciones, mini hacks y demás frikeadas.",
+    "Categoría": "Tecnología",
+    "País": "Argentina",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Ocubom's blog",
+    "Url": "https://ocubom.page/es/post/",
+    "Feed": "https://ocubom.page/es/post/index.xml",
+    "Descripción": "Ciencia, informática, música, libros y nuevas tecnologías en orden caótico–inexistente.",
+    "Categoría": "Ciencia y Humanidades, Entretenimiento y Cultura, Literario, Tecnología, Vida Diaria",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "Esencial",
+    "Url": "https://esencial.matizeta.com",
+    "Feed": "https://yeite.github.io/esencial/feed.xml",
+    "Descripción": "Textos cortos pero contundentes que voy recopilando y que invitan a reflexionar sobre el mundo actual.",
+    "Categoría": "Literario, Sociedad y Economía, Vida Diaria",
+    "País": "Argentina",
+    "Aliado": "si"
+  },
+    
+    
+  {
+    "Nombre": "Jinversor",
+    "Url": "https://jinversor.co/",
+    "Feed": "https://jinversor.co/feed/",
+    "Descripción": "Hablo sobre inversiones, finanzas personales, ciberseguridad, software libre, libertarismo y minimalismo digital.",
+    "Categoría": "Tecnología, Sociedad y Economía",
+    "País": "Colombia"
   },
   {
     "Nombre": "El Cajón de la Tecnología",
@@ -56,24 +328,7 @@
     "Categoría": "Tecnología",
     "País": "España"
   },
-  {
-    "Nombre": "javiersam",
-    "Url": "https://javiersam.uy",
-    "Feed": "https://javiersam.uy/feed",
-    "Descripción": "Es, principalmente, un cuaderno de apuntes sobre diseño con software libre. Pero también es mi blog personal, así que el contenido es un poco ecléctico.",
-    "Categoría": "Arte y Diseño, Entretenimiento y Cultura, Tecnología",
-    "País": "Uruguay",
-    "Aliado": "si"
-  },
-  {
-    "Nombre": "Alejandro Piumetti (Blog personal)",
-    "Url": "https://alejandropiumetti.com.ar",
-    "Feed": "https://alejandropiumetti.com.ar/feed/blog.xml",
-    "Descripción": "Es un blog personal en donde subo lo que se me ocurra, snippets de programación, ideas, videojuegos, comida, libros que leí. Y también tengo un journey con algunas fotos que voy sacando en mis andanzas.",
-    "Categoría": "Comida y Bebida, Tecnología, Vida Diaria",
-    "País": "Argentina",
-    "Aliado": "si"
-},
+
 {
     "Nombre": "Martín Vukovic",
     "Url": "https://martinvukovic.com/",
@@ -131,15 +386,6 @@
     "País": "Argentina"
 },
 {
-    "Nombre": "Un Diario",
-    "Url": "https://thejnx.bearblog.dev",
-    "Feed": "https://thejnx.bearblog.dev/rss",
-    "Descripción": "Aquí escribo/reúno mis ideas mas importantes, temas frikis, geeks, algunas reseñas, recomendaciones, etc, por si les resultan de utilidad! (˶ᵔ ᵕ ᵔ˶)",
-    "Categoría": "Tecnología, Vida Diaria",
-    "País": "Colombia",
-    "Aliado": "si"
-},
-{
     "Nombre": "Ilogeek",
     "Url": "https://ilogeek.es",
     "Feed": "https://ilogeek.es/feed",
@@ -178,15 +424,6 @@
     "Descripción": "Anotaciones, textos, y demases. Escribo sobre tecnología tratando de que sea entendible",
     "Categoría": "Entretenimiento y Cultura, Tecnología, Vida Diaria",
     "País": "Argentina"
-},
-{
-    "Nombre": "Chocoboreviews",
-    "Url": "https://chocoboreview.neocities.org/",
-    "Feed": "",
-    "Descripción": "Un pequeño blog donde hago pequeñas reseñas del contenido que consumo, principalmente videojuegos.",
-    "Categoría": "Entretenimiento y Cultura, Newsletter",
-    "País": "España",
-    "Aliado": "si"
 },
 {
     "Nombre": "Sobre música: popular y no tan popular",
@@ -229,15 +466,6 @@
     "País": "España"
   },
   {
-    "Nombre": "Picando Código",
-    "Url": "https://picandocodigo.net",
-    "Feed": "https://picandocodigo.net/feed/",
-    "Descripción": "Es mi blog personal donde escribo sobre programación, a veces software libre, videojuegos, libros, cómics, tecnología y demás.",
-    "Categoría": "Entretenimiento y Cultura, Tecnología",
-    "País": "Uruguay",
-    "Aliado": "si"
-  },
-  {
     "Nombre": "Un blog",
     "Url": "https://nachof.blog",
     "Feed": "https://nachof.blog/index.xml",
@@ -268,15 +496,6 @@
     "Descripción": "Una newsletter más o menos quincenal en la que cavilo sobre lo que he visto, leído, registrado y creado dentro y fuera del internet.",
     "Categoría": "Literario, Manualidades / Hobbies, Newsletter, Tecnología, Vida Diaria",
     "País": "Venezuela"
-  },
-  {
-    "Nombre": "Zurdeando por la red",
-    "Url": "https://www.zurdala.es",
-    "Feed": "https://www.zurdala.es/blog/index.xml",
-    "Descripción": "Blog personal sobre naderías y alguna cosa más. Sitio personal.",
-    "Categoría": "Vida Diaria",
-    "País": "España",
-    "Aliado": "si"
   },
   {
     "Nombre": "El blog es mío",
@@ -399,24 +618,6 @@
     "País": "España"
   },
   {
-    "Nombre": "Películas y Series",
-    "Url": "https://peliculasyseries.matizeta.com",
-    "Feed": "https://yeite.github.io/lps/atom.xml",
-    "Descripción": "Blogs con micro reseñas  sobre las películas y series que voy mirando 👀",
-    "Categoría": "Entretenimiento y Cultura",
-    "País": "Argentina",
-    "Aliado": "si"
-  },
-  {
-    "Nombre": "52 semanas",
-    "Url": "https://52s.matizeta.com",
-    "Feed": "https://matizeta.com/category/52s/feed",
-    "Descripción": "Los domingos a primera hora (pero no todos), te envío a tu casilla cosas que encuentro interesantes en la web y algunas novedades.",
-    "Categoría": "Newsletter",
-    "País": "Argentina",
-    "Aliado": "si"
-  },
-  {
     "Nombre": "Blep Blog",
     "Url": "https://blep.org",
     "Feed": "https://blep.org/atom.xml",
@@ -464,15 +665,7 @@
     "Categoría": "Tecnología",
     "País": "Chile"
   },
-  {
-    "Nombre": "Cozy Kis",
-    "Url": "https://cozy-kis.bearblog.dev/mas-jueguitos/",
-    "Feed": "https://cozy-kis.bearblog.dev/feed/",
-    "Descripción": "Blog de reseñas de videojuegos indies",
-    "Categoría": "Entretenimiento y Cultura",
-    "País": "España",
-    "Aliado": "si"
-  },
+
   {
     "Nombre": "El bocadillo de Tortilla",
     "Url": "https://www.lynze.net",
@@ -481,24 +674,7 @@
     "Categoría": "Entretenimiento y Cultura, Vida Diaria",
     "País": "España"
   },
-  {
-    "Nombre": "El cuaderno sin hojas",
-    "Url": "https://sinhojas.net",
-    "Feed": "https://sinhojas.net/entradas.xml",
-    "Descripción": "Un cuaderno virtual con devaneos textuales (largos o breves) y fotografías. Este blog es principalmente sobre literatura, pero también sobre el arte y las posibilidades de autogestión que la ofrece la web en pequeño.",
-    "Categoría": "Literario, Fotografía, Arte y Diseño",
-    "País": "México",
-    "Aliado": "si"
-  },
-  {
-    "Nombre": "jurassikdev34",
-    "Url": "https://jurassikdev34.com",
-    "Feed": "https://jurassikdev34.com/index.xml",
-    "Descripción": "Un blog tecnológico y filosófico donde comparto pensamientos e ideas.",
-    "Categoría": "Tecnología, Ciencia y Humanidades, Literario",
-    "País": "España",
-    "Aliado": "si"
-  },
+
   {
     "Nombre": "Juan Agustin Flores",
     "Url": "https://juanagustinflores.wordpress.com/",
@@ -522,24 +698,6 @@
     "Descripción": "Un blog personal de temática variada: sociedad, cultura, tecnología y educación.",
     "Categoría": "Tecnología, Sociedad y Economía, Entretenimiento y Cultura, Vida Diaria",
     "País": "España"
-  },
-  {
-    "Nombre": "Brucknerite",
-    "Url": "https://brucknerite.net",
-    "Feed": "https://brucknerite.net/feed",
-    "Descripción": "Divulgación, trenes, pensamiento, espacio, más trenes…",
-    "Categoría": "Tecnología, Entretenimiento y Cultura, Ciencia y Humanidades",
-    "País": "España",
-    "Aliado": "si"
-  },
-  {
-    "Nombre": "THE_CHEI$",
-    "Url": "https://thecheis.com",
-    "Feed": "https://thecheis.com/feed/",
-    "Descripción": "Geek en tierra extraña. Tecnoloogía, software libre, música y reflexiones.",
-    "Categoría": "Tecnología",
-    "País": "España",
-    "Aliado": "si"
   },
   {
     "Nombre": "Si lo haces, hazlo bien!",
@@ -597,15 +755,7 @@
     "Categoría": "Literario",
     "País": ""
   },
-  {
-    "Nombre": "Webnauta",
-    "Url": "https://webnauta.blog/",
-    "Feed": "https://webnauta.blog/rss",
-    "Descripción": "Ensayos y pequeños relatos",
-    "Categoría": "Tecnología, Vida Diaria",
-    "País": "México",
-    "Aliado": "si"
-  },
+
   {
     "Nombre": "La Máquina de Von Neumann",
     "Url": "https://vonneumannmachine.wordpress.com",
@@ -623,39 +773,12 @@
     "País": "España"
   },
   {
-    "Nombre": "Blog de Thalskarth",
-    "Url": "https://blog.thalskarth.ar/",
-    "Feed": "https://blog.thalskarth.ar/feed.xml",
-    "Descripción": "Blog donde hablo de lo que me interesó ese día",
-    "Categoría": "Tecnología, Entretenimiento y Cultura",
-    "País": "Argentina",
-    "Aliado": "si"
-  },
-  {
     "Nombre": "Mi perra vida",
     "Url": "miperravida.anacronico.rocks",
     "Feed": "miperravida.anacronico.rocks/feed/podcast/",
     "Descripción": "Cuentos propios, poemas de otr@s, frases robadas y sinopsis de algún libro.",
     "Categoría": "Arte y Diseño, Literario, Podcast",
     "País": "México"
-  },
-  {
-    "Nombre": "El laberinto de McAllus",
-    "Url": "https://mcallus.net",
-    "Feed": "https://mcallus.net/feed/",
-    "Descripción": "Un blog donde escribo principalmente mis relatos y sobre mis lecturas pero también tienen cabida el rol, los juegos de mesa, el cine y las series.",
-    "Categoría": "Literario, Entretenimiento y Cultura, Manualidades / Hobbies",
-    "País": "España",
-    "Aliado": "si"
-  },
-  {
-    "Nombre": "iAgosto",
-    "Url": "https://blog.iagosto.dev",
-    "Feed": "https://blog.iagosto.dev/rss.xml",
-    "Descripción": "Blog de tecnologia, programacion y administracion de sistemas.",
-    "Categoría": "Podcast, Manualidades / Hobbies, Tecnología",
-    "País": "México",
-    "Aliado": "si"
   },
   {
     "Nombre": "plr blog",
@@ -689,24 +812,7 @@
     "Categoría": "Tecnología",
     "País": "España"
   },
-  {
-    "Nombre": "kernelcast",
-    "Url": "https://www.kernelcast.es/",
-    "Feed": "https://rss.app/feeds/Z2UoFd814d10jbq1.xml",
-    "Descripción": "Noticias sobre tecnología y software libre.",
-    "Categoría": "Tecnología, Podcast",
-    "País": "España",
-    "Aliado": "si"
-  },
-  {
-    "Nombre": "Mindeka",
-    "Url": "https://mindeka.duckdns.org",
-    "Feed": "https://mindeka.duckdns.org/feed/",
-    "Descripción": "Biblioteca de ideas y pensamientos sobre tecnología, software libre, auto alojamiento y ¡mucho más!",
-    "Categoría": "Tecnología, Manualidades / Hobbies, Vida Diaria",
-    "País": "España",
-    "Aliado": "si"
-  },
+  
   {
     "Nombre": "Papel Continuo",
     "Url": "https://papelcontinuo.net/",
@@ -730,24 +836,6 @@
     "Descripción": "Debrayes de un veterano en tecnología",
     "Categoría": "Tecnología",
     "País": "México"
-  },
-  {
-    "Nombre": "Blogpocket Foodie",
-    "Url": "https://foodybp.blog/",
-    "Feed": "https://foodybp.blog/feed/",
-    "Descripción": "Mi blog personal de recetas de cocina (freidora, robot, horno y algunas tradicionales)",
-    "Categoría": "Comida y Bebida",
-    "País": "España",
-    "Aliado": "si"
-  },
-  {
-    "Nombre": "Un Bruto con Debian",
-    "Url": "https://unbrutocondebian.blogspot.com",
-    "Feed": "https://unbrutocondebian.blogspot.com/feeds/posts/default",
-    "Descripción": "Un novato que usa Debian y cuenta sus experiencias y luchas",
-    "Categoría": "Tecnología",
-    "País": "España",
-    "Aliado": "si"
   },
   {
     "Nombre": "Proyecto para no aburrir",
@@ -893,33 +981,7 @@
     "Categoría": "Tecnología, Ciencia y Humanidades, Entretenimiento y Cultura",
     "País": "España"
   },
-  {
-    "Nombre": "Manu Mateos",
-    "Url": "https://www.macram.es",
-    "Feed": "https://www.macram.es/index.xml",
-    "Descripción": "Blog personal donde hablo de tecnología y otras cosas.",
-    "Categoría": "Tecnología, Entretenimiento y Cultura, Vida Diaria",
-    "País": "España",
-    "Aliado": "si"
-  },
-  {
-    "Nombre": "Post-it",
-    "Url": "https://postit.matizeta.com",
-    "Feed": "https://matizeta.com/category/post-it/feed",
-    "Descripción": "Pequeñas publicaciones de cosas que encuentro navegando en Internet y me resultan interesantes.",
-    "Categoría": "Tecnología",
-    "País": "Argentina",
-    "Aliado": "si"
-  },
-  {
-    "Nombre": "Lado B",
-    "Url": "https://ladob.matizeta.com",
-    "Feed": "https://matizeta.com/category/ladoB/feed/",
-    "Descripción": "Lado B nace de una necesidad de tener un espacio para escribir mis pensamientos y reflexiones más personales",
-    "Categoría": "Literario, Sociedad y Economía, Vida Diaria, Aire Libre, Ciencia y Humanidades, Arte y Diseño, Entretenimiento y Cultura, Viajes",
-    "País": "Argentina",
-    "Aliado": "si"
-  },
+
   {
     "Nombre": "La bitácora de locutus",
     "Url": "https://locutusbit.blogspot.com/",
@@ -936,15 +998,7 @@
     "Categoría": "Arte y Diseño, Ciencia y Humanidades, Fotografía, Sociedad y Economía",
     "País": "España"
   },
-  {
-    "Nombre": "POV",
-    "Url": "https://blog.matizeta.com",
-    "Feed": "https://matizeta.com/category/blog/feed",
-    "Descripción": "Blog te Tecnología. Una mirada personal sobre dispositivos electrónicos, tendencias en internet,  recomendaciones, mini hacks y demás frikeadas.",
-    "Categoría": "Tecnología",
-    "País": "Argentina",
-    "Aliado": "si"
-  },
+
   {
     "Nombre": "La cueva de Beckermatic",
     "Url": "https://arielbecker.com/",
@@ -952,15 +1006,6 @@
     "Descripción": "Cuentos, traducciones y columna semanal.",
     "Categoría": "Literario, Vida Diaria",
     "País": "Argentina"
-  },
-  {
-    "Nombre": "Ocubom's blog",
-    "Url": "https://ocubom.page/es/post/",
-    "Feed": "https://ocubom.page/es/post/index.xml",
-    "Descripción": "Ciencia, informática, música, libros y nuevas tecnologías en orden caótico–inexistente.",
-    "Categoría": "Ciencia y Humanidades, Entretenimiento y Cultura, Literario, Tecnología, Vida Diaria",
-    "País": "España",
-    "Aliado": "si"
   },
   {
     "Nombre": "Crónicas Digitales",
@@ -986,15 +1031,7 @@
     "Categoría": "Tecnología",
     "País": ""
   },
-  {
-    "Nombre": "Esencial",
-    "Url": "https://esencial.matizeta.com",
-    "Feed": "https://yeite.github.io/esencial/feed.xml",
-    "Descripción": "Textos cortos pero contundentes que voy recopilando y que invitan a reflexionar sobre el mundo actual.",
-    "Categoría": "Literario, Sociedad y Economía, Vida Diaria",
-    "País": "Argentina",
-    "Aliado": "si"
-  },
+
   {
     "Nombre": "La Madre Que Parió Al Pato Negro",
     "Url": "https://lamadredelpatonegro.blogspot.com",
@@ -1139,15 +1176,7 @@
     "Categoría": "Entretenimiento y Cultura, Ciencia y Humanidades, Literario",
     "País": "Argentina"
   },
-  {
-    "Nombre": "Xolar",
-    "Url": "https://xol.ar",
-    "Feed": "https://xol.ar/rss.xml",
-    "Descripción": "Blog personal donde hablo de las cosas que me apasionan: Desarrollo de software (sobre todo desarrollo Web), Música, Ciencia, Tecnología, Juegos (de cualquier tipo) entre otros temas.",
-    "Categoría": "Tecnología, Vida Diaria, Sociedad y Economía",
-    "País": "Argentina",
-    "Aliado": "si"
-  },
+
   {
     "Nombre": "La paradoja del cero y el uno",
     "Url": "https://docig.bearblog.dev/blog/",
@@ -1172,15 +1201,7 @@
     "Categoría": "Literario, Fotografía, Viajes, Vida Diaria",
     "País": "México"
   },
-  {
-    "Nombre": "El cuaderno de J. Muñoz",
-    "Url": "https://www.jmuñoz.es/",
-    "Feed": "https://www.jmuñoz.es/feeds/posts/default",
-    "Descripción": "Anotaciones sin ninguna pretensión.",
-    "Categoría": "Comida y Bebida, Entretenimiento y Cultura, Aire Libre, Sociedad y Economía, Vida Diaria",
-    "País": "España",
-    "Aliado": "si"
-  },
+ 
   {
     "Nombre": "La cosa infinita (Daniel Omar Cignacco)",
     "Url": "https://danielomarcignacco.mataroa.blog",
@@ -1196,15 +1217,6 @@
     "Descripción": "Blog de música celta y ferias medievales",
     "Categoría": "Arte y Diseño, Entretenimiento y Cultura",
     "País": "Argentina"
-  },
-  {
-    "Nombre": "La Frikoteca",
-    "Url": "https://frikoteca.blogspot.com/",
-    "Feed": "https://feeds.feedburner.com/LaFrikoteca",
-    "Descripción": "Un blog personal centrado en los juegos de rol y el frikismo en general. El autor ha escrito, traducido y editado juegos de rol.",
-    "Categoría": "Literario, Manualidades / Hobbies",
-    "País": "España",
-    "Aliado": "si"
   },
   {
     "Nombre": "Ocho Bits Hacen Un Byte",
