@@ -9,6 +9,15 @@
     "Aliado": "si"
   },
   {
+    "Nombre": "End3r.es",
+    "Url": "https://www.end3r.es/",
+    "Feed": "https://www.end3r.es/atom.xml",
+    "Descripción": "Blog personal sobre Software Libre, Gnu/Linux, programación, cómics, literatura, filosofía y pensamiento crítico.",
+    "Categoría": "Tecnología, Ciencia y Humanidades, Entretenimiento y Cultura",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
     "Nombre": "javiersam",
     "Url": "https://javiersam.uy",
     "Feed": "https://javiersam.uy/feed",
@@ -973,15 +982,6 @@
     "Categoría": "Tecnología",
     "País": "España"
   },
-  {
-    "Nombre": "End3r.es",
-    "Url": "https://www.end3r.es/",
-    "Feed": "https://www.end3r.es/atom.xml",
-    "Descripción": "Blog personal sobre Software Libre, Gnu/Linux, programación, cómics, literatura, filosofía y pensamiento crítico.",
-    "Categoría": "Tecnología, Ciencia y Humanidades, Entretenimiento y Cultura",
-    "País": "España"
-  },
-
   {
     "Nombre": "La bitácora de locutus",
     "Url": "https://locutusbit.blogspot.com/",
