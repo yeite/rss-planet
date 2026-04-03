@@ -42,6 +42,20 @@
     "contenido": "En estos días leí una entrada en el blog de jInversor en la que contaba que había vuelto a usar MacOS en su equipo de trabajo. La realidad es que hoy en día no hay mejor SO que ese. Ya en su momento hablé de Windows y su “Inconsisteng Design”, pero como yo no soy [&#8230;]"
   },
   {
+    "blog": "esencial",
+    "titulo": "El pescador y el empresario",
+    "link": "https://yeite.github.io/esencial/fabula-pescador-empreario",
+    "fecha": "02/04/2026",
+    "contenido": "Un empresario estaba en el muelle de un pueblo costero cuando llegó un bote pequeño con un solo pescador. Dentro del bote había varios atunes amarillos de buen tamaño."
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Suecia aprueba una ley que baja el IVA de la alimentación",
+    "link": "https://blog.danielaragay.net/suecia-aprueba-una-ley-que-baja-el-iva-de-la-alimentacion/",
+    "fecha": "02/04/2026",
+    "contenido": "Este 1 de abril se han aprobado dos leyes, la primera afecta a los precios de alimentaci&#xf3;n y la segunda la posibilidad de comprar una vivienda.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https:"
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "12 años, 1000 producciones y un nuevo horizonte creativo",
     "link": "https://blog.danielaragay.net/12-anos-1000-producciones-y-un-nuevo-horizonte-creativo/",
@@ -61,6 +75,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/04/02/cuando-se-juntan-las-potencias/",
     "fecha": "02/04/2026",
     "contenido": "(2026 &#8211; Roxx Records) Tenía un especial interés en saber como sonaría la particular ecuación...\nThe post Bethesda: Bethesda | Cuando Se Juntan Las Potencias first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "El color y el olor de la paz",
+    "link": "https://dani.torresburriel.com/el-color-y-el-olor-de-la-paz/",
+    "fecha": "02/04/2026",
+    "contenido": "Una pequeña reflexión personal sobre lo que significa un espacio de paz y tranquilidad. Y la importancia de disfrutarlo.\nLa entrada El color y el olor de la paz se publicó primero en Blog de Daniel Torres Burriel."
   },
   {
     "blog": "Victorhck in the free world",
@@ -602,13 +623,6 @@
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Si decido marcharme.",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/si-decido-marcharme/",
-    "fecha": "27/03/2026",
-    "contenido": "Hace bastantes años leí una novela juvenil titulada Si decido quedarme, en la que una adolescente que ha quedado en coma tras un accidente parece tener la decisión de caminar hacia el lado de la muerte o el de la vida. El título me ha vuelto a la mente en los últimos días, supongo que porque nunca e"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Desarme: Inflador Generico para Colchones Inflables",
     "link": "https://interlan.ec/blog/2026/03/27/desarme-inflador-generico-para-colchones-inflables/",
@@ -726,40 +740,5 @@
     "link": "https://jdrm.info/me-he-mudado-de-hosting-y-mas-cosas.html",
     "fecha": "27/03/2026",
     "contenido": "He migrado a un hosting en Europa y he aprovechado para hacer un cambio importante (toma Clickbait)"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Funciona muy bien",
-    "link": "https://jinversor.co/2026/03/funciona-muy-bien/",
-    "fecha": "26/03/2026",
-    "contenido": "Debo admitir, con algo de vergüenza, que el sistema operativo de Barbie, macOS, funciona muy bien. El maldito sistema operativo cerrado, infantilizado y cuya curva de dificultad es tan plana [&#8230;]\nLa entrada Funciona muy bien se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Ronin de Frank Miller",
-    "link": "https://mareosdeungeek.es/ronin-de-frank-miller/",
-    "fecha": "26/03/2026",
-    "contenido": "Ronin de Frank Miller es un cómic que entremezcla la ciencia ficción y la fantasía tradicional japonesa. Una historia intensa que se dedica a desnudar los defectos y carencias de la especie humana. Con este cómic Frank Miller marcó un hito en su carrera, porque esta obra se situa antes de su salto a"
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "Las letras y esas movidas",
-    "link": "https://galeriaspreciados.band/las-letras-y-esas-movidas/",
-    "fecha": "26/03/2026",
-    "contenido": "Cuando abrí el blog una de las cosas que quería hacer era hablar del proceso este de hacer canciones. Pero no había hablado aún de las letras que es también un temita así que voy a contar hoy un poco de esto"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Annica",
-    "link": "https://impermanente.es/2026/03/26/annica.html",
-    "fecha": "26/03/2026",
-    "contenido": "Obtuve acceso a un AI con recursos, para fines prácticos, ilimitados. Me dijeron que podía pedirle que me construya lo que yo quiera. Pero se me ocurrió otra cosa, le pedí que construya lo que el/ella quiera más bien.\nAnicca fue lo que creó.\n"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Marco de trabajo UXAI",
-    "link": "https://dani.torresburriel.com/framework-ux-inteligencia-artificial-equipos-producto/",
-    "fecha": "26/03/2026",
-    "contenido": "Os aseguro que hoy está siendo en lo personal un día complicado. Pero no queda más remedio que entonar eso de que la vida sigue. Aquí vengo yo a contar algo en lo que he estado trabajando en los últimos meses. Muchos meses, que si son 12, ya los podemos contar como un año. La &#8230; Sigue leyendo M"
   }
 ]
