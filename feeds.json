@@ -1,5 +1,12 @@
 [
   {
+    "blog": "--el Profe Juan--",
+    "titulo": "Al fin pude...",
+    "link": "https://elprofejuan.com.ar/al-fin-pude",
+    "fecha": "04/04/2026",
+    "contenido": "Hace un tiempo que quería usar el tunnel de cloudflare y por suerte ahora ya está activo en mis sitios\n"
+  },
+  {
     "blog": "Alexis Alzate",
     "titulo": "Comparte tu cine",
     "link": "https://alexisalzate.com/blog/2026-04-04/",
@@ -21,6 +28,20 @@
     "contenido": "&nbsp; &nbsp; Un diminuto diablo me acompaña siempre allí donde voy. Va sentado en mi hombro izquierdo y con su mano derecha se agarra al lóbulo de mi oreja para no caerse. A veces acerca su boca sibilina a mi oído y me susurra que haga cosas que no se deben hacer. Yo me resisto a ello, pero él no d"
   },
   {
+    "blog": "El Bulevar de la Doble Hacha",
+    "titulo": "Estupidez natural",
+    "link": "https://bulevardoblehacha.wordpress.com/2026/04/04/estupidez-natural/",
+    "fecha": "04/04/2026",
+    "contenido": "I Laura se sentía inquieta. Por eso se había acabado la ensalada de pasta que su padre les había preparado a ella y a su hermana pequeña con toda la rapidez con la que había sido capaz de devorar el contenido de su bol. Necesitaba volver a tener su teléfono móvil en las manos y &#8230; Sigue leyendo"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "La segunda entrevista de Chat",
+    "link": "https://blog.danielaragay.net/la-segunda-entrevista-de-chat/",
+    "fecha": "04/04/2026",
+    "contenido": "Hoy Chat ha tenido la segunda entrevista, una entrevista un tanto accidentada.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielar"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Madrugar",
     "link": "https://www.xn--jmuoz-qta.es/2026/04/madrugar.html",
@@ -40,6 +61,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/04/04/finalmente-narnia-devela-su-nuevo-album/",
     "fecha": "04/04/2026",
     "contenido": "Desde el año pasado venimos anunciando a través de este medio que Narnia se encontraba...\nThe post \"Ocean Wide\" Es El Single Adelanto De \"X\" | Finalmente Narnia Devela Su Nuevo Álbum first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Loveof74",
+    "titulo": "Una calle para Rafael Berrio en Donostia",
+    "link": "https://www.loveof74.es/weblog/cultura/musica/una-calle-para-rafael-berrio-en-donostia/?utm_source=rss&utm_medium=rss&utm_campaign=una-calle-para-rafael-berrio-en-donostia",
+    "fecha": "04/04/2026",
+    "contenido": "Se lanza esta idea para honrar al autor donostiarra, al gran músico, mejor letrista y mejormejor persona, socarrón, socabrón, único, irrepetible, mayúsculo, inimitable (y así podríamos seguir como en su Niño Futuro) LA PETICIÓN https://www.change.org/p/una-calle-para-rafael-berrio-en-donostia EN LOS"
   },
   {
     "blog": "Malagueños originales y libres",
@@ -602,20 +630,6 @@
     "contenido": "\n    Cuando querés enumerar subdominios, tenés dos caminos clásicos: fuerza bruta o enumeración pasiva. La fuerza bruta depende totalmente de diccionarios, así que si el subdominio no está en la lista… no lo vas a ver ni de casualidad.\n\n\n    La otra opción es usar fuentes públicas, básicamente raspa"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Alguien te recuerda con amor",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/alguien-te-recuerda-con-amor/",
-    "fecha": "29/03/2026",
-    "contenido": "Llevo días queriendo escribir esta entrada, pero hoy hablaba con mi amiga \nAna cuando le ha saltado una notificación de su ex: He visto esto y me he acordado de ti. \"A ver qué puerta hemos abierto, amiga\", me ha dicho ella. Pues resulta que el mensaje contenía un fragmento de un concierto de música "
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Chats que exponen a policías a merced del crimen",
-    "link": "https://gatooscuro.xyz/chats-que-exponen-a-policias-a-merced-del-crimen/",
-    "fecha": "29/03/2026",
-    "contenido": "Hay noticias que uno lee y pasa la página. Y hay otras que se quedan haciendo ruido días después. El caso revelado por El Colombiano sobre alias “Medio Labio” pertenece\nSeguir leyendo  Chats que exponen a policías a merced del crimen\nEl cargo Chats que exponen a policías a merced del crimen apareció"
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "La cena",
     "link": "https://mareosdeungeek.es/la-cena/",
@@ -628,68 +642,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/03/29/veniamos-bien-ypasaron-cosas/",
     "fecha": "29/03/2026",
     "contenido": "A modo repetición, y en una especie de &#8220;revival&#8221; de lo vívido en el mes...\nThe post Destripador, Raza Fuerte, Lázaro, MR y Barni en Marquee Session Live - 28/03/26 | Veníamos Bien Y…Pasaron Cosas first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "#019 Instalar FreshRSS en tu VPS con docker",
-    "link": "https://chancli.dev/blog/instala-freshrss-vps-docker.html",
-    "fecha": "29/03/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "[RE]: 3 años de este blog… ¿Qué sigue?",
-    "link": "https://thecheis.com/2026/03/28/re-3-anos-de-este-blog-que-sigue/",
-    "fecha": "28/03/2026",
-    "contenido": "Hace unos días eapl escribió un artículo muy interesante donde reflexionaba acerca de sus 4 años frente al blog. Estuvimos intercambiando impresiones por Mastodon, y decidí copiarle la iniciativa para plasmar mi experiencia e ideas sobre el futuro. Me parecía un momento perfecto porque este espacio "
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "No estar",
-    "link": "https://jinversor.co/2026/03/no-estar/",
-    "fecha": "28/03/2026",
-    "contenido": "Esta entrada podría ser la respuesta a un post anterior y quizás también la continuación de Nada que ver. Perdonarán lo repetitivo pero es algo que definitivamente me lleva tallando [&#8230;]\nLa entrada No estar se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Hace rato que no tenía un fin de semana de relax puro",
-    "link": "https://blog.luiscarlospando.com/personal/2026/03/hace-rato-que-no-tenia-un-fin-de-semana-de-relax-puro/",
-    "fecha": "28/03/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Operación Autónomo: impuestos, first contact",
-    "link": "https://blog.danielaragay.net/operacion-autonomo-impuestos-first-contact/",
-    "fecha": "28/03/2026",
-    "contenido": "Es f&#xe1;cil ser aut&#xf3;nomo en Suecia pero en tema de impuestos es para avanzados.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast."
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Halestorm: Tormenta Perfecta de Hard Rock",
-    "link": "https://altgr.xyz/2026/03/28/halestorm-tormenta-perfecta-de-hard-rock/",
-    "fecha": "28/03/2026",
-    "contenido": "¡Qué tremenda frontwoman es Lzzy Hale! Un desplante muy generoso, mucho carisma sumado a su hermosa y potente voz que queda perfecta con el estilo hardrockero de la banda. Una estupenda noche de rock en el Teatro Coliseo. Se convirtió inmediatamente en uno de mis conciertos favoritos en lo que va de"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Sucesor De \"The Death Is Dead\" Viene En Camino... | “Last Caesar” Será El Nuevo Álbum De No More Death",
-    "link": "https://www.delotroladometal.com.ar/2026/03/28/last-caesar-sera-el-nuevo-album-de-no-more-death/",
-    "fecha": "28/03/2026",
-    "contenido": "Tiago Torres, conocido por su anterior banda Mad Dragzter, nos sorprendió durante 2025 con el...\nThe post El Sucesor De \"The Death Is Dead\" Viene En Camino... | “Last Caesar” Será El Nuevo Álbum De No More Death first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Servidor web y Gemini en FreeBSD",
-    "link": "https://jdrm.info/servidor-web-y-gemini-en-freebsd.html",
-    "fecha": "28/03/2026",
-    "contenido": "Como he contado en la anterior entrada he mudado el servidor de Debian a FreeBSD, así que aquí van algunos apuntes del proceso casi casi completo."
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Servidor web y Gemini en FreeBSD",
-    "link": "https://jdrm.info/servidor-web-y-gemini-en-freebsd.html",
-    "fecha": "28/03/2026",
-    "contenido": "Como he contado en la anterior entrada he mudado el servidor de Debian a FreeBSD, así que aquí van algunos apuntes del proceso casi casi completo."
   }
 ]
