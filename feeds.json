@@ -1,6 +1,13 @@
 [
   {
     "blog": "--el Profe Juan--",
+    "titulo": "El otro servicio que habilité...",
+    "link": "https://elprofejuan.com.ar/el-otro-servicio-que-habilit%C3%A9",
+    "fecha": "06/04/2026",
+    "contenido": "También pude desplegar un git con base a gitea, ya se que ahora se usa forgejo, luego lo mudaré,  ya que son totalmente compatible y además es un fork comunitario del mismo.\n\n"
+  },
+  {
+    "blog": "--el Profe Juan--",
     "titulo": "Bueno, tenemos noticias de Pascua.",
     "link": "https://elprofejuan.com.ar/bueno-tenemos-noticias-de-pascua",
     "fecha": "06/04/2026",
@@ -12,6 +19,13 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/orgullosa-de-mi-padre/",
     "fecha": "06/04/2026",
     "contenido": "El título de este post no es muy efectista y lo que escriba dará lo que el título promete. Vengo a hablar de lo orgullosa que estoy de mi padre. Resulta que por eventos eventuantes mi padre se ha visto de golpe y porrazo solo en casa, haciendo el solterismo absoluto. Yo quiero mucho a mi padre y con"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Romantizar a la escoria",
+    "link": "https://jinversor.co/2026/04/romantizar-a-la-escoria/",
+    "fecha": "06/04/2026",
+    "contenido": "De romantizar a la escoria no se vuelve. Cuando una sociedad lo hace ya sabemos que tocó fondo. No existe futuro promisorio cuando las sociedades se ponen de lado de [&#8230;]\nLa entrada Romantizar a la escoria se publicó primero en Jinversor."
   },
   {
     "blog": "Un bruto con Debian",
@@ -49,6 +63,20 @@
     "contenido": "Por un largo tiempo estuve utilizando YouTube Music, pero con el pasar de los meses su interfaz engorrosa me fue disgustando cada vez más a tal punto que comencé a mirar otras alternativas. No quería volver a Spotify que se terminó transformando en casi una red social. Yo solo quería un reproductor "
   },
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "540. Magníficos días festivos",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/04/540-magnificos-dias-festivos.html",
+    "fecha": "06/04/2026",
+    "contenido": "&nbsp; &nbsp; Como es lógico, durante la Semana Santa se ralentizaron los latidos de la ciudad. Muchos de sus habitantes, por poco que pudieron, no se resignaron a quedarse en sus nichos-vivienda habituales. Prefirieron desplazarse y pagar por habitar en otros nichos de otros parajes. Quién sabe si "
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Blog rediseñado",
+    "link": "https://impermanente.es/2026/04/06/blog-rediseado.html",
+    "fecha": "06/04/2026",
+    "contenido": "Y bueno, eso&hellip; aunque si me lees en RSS (y te felicito por eso) no lo vas a notar."
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Newsletter #47 - Zigbee usando SLZB-06 e iniciamos nuestra campaña #KeepAndroidOpen",
     "link": "https://voidnull.es/newsletter/newsletter-47-zigbee-usando-slzb-06-e-iniciamos-nuestra-campana-keepandroidopen/",
@@ -56,11 +84,53 @@
     "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
   },
   {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "Daniel Omar Cignacco",
+    "link": "https://docig.bearblog.dev/new-post/",
+    "fecha": "06/04/2026",
+    "contenido": "https://es.babelio.com/auteur/Daniel-Omar-Cignacco/160821"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El fin de la resistencia",
+    "link": "https://docig.bearblog.dev/el-fin-de-la-resistencia/",
+    "fecha": "06/04/2026",
+    "contenido": "https://www.bubok.es/libros/284525/el-fin-de-la-resistencia"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "Geometría del azar",
+    "link": "https://docig.bearblog.dev/geometria-del-azar/",
+    "fecha": "06/04/2026",
+    "contenido": "https://danielomarcignacco.blogspot.com/2026/04/la-geometria-del-azar-el-viejo-arnaldo.html"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Doble cierre",
     "link": "https://www.xn--jmuoz-qta.es/2026/04/doble-cierre.html",
     "fecha": "06/04/2026",
     "contenido": "\n  \n    \n  \n"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Geometría del azar",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/geometria-del-azar/",
+    "fecha": "06/04/2026",
+    "contenido": "https://danielomarcignacco.blogspot.com/2026/04/la-geometria-del-azar-el-viejo-arnaldo.html\nDaniel Omar Cignacco"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "El fin de la resistencia",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/el-fin-de-la-resistencia/",
+    "fecha": "06/04/2026",
+    "contenido": "https://www.bubok.es/libros/284525/el-fin-de-la-resistencia\nDaniel Omar Cignacco"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Daniel Omar Cignacco",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/daniel-omar-cignacco/",
+    "fecha": "06/04/2026",
+    "contenido": "https://es.babelio.com/auteur/Daniel-Omar-Cignacco/160821\nDaniel Omar Cignacco"
   },
   {
     "blog": "56K",
@@ -567,13 +637,6 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "End3r.es",
-    "titulo": "Archlinux, guía de instalación",
-    "link": "https://www.end3r.es/posts/017-archlinux-guia-instalacion/",
-    "fecha": "31/03/2026",
-    "contenido": "Hace unos días instalé Arch Linux en mi portátil y, como su instalación puede resultar algo exigente para quienes\nestán empezando —al no ser una distro “next-next-finish” y carecer de instalador gráfico por defecto—,\ndecidí ir anotando cada paso para convertirlo en una pequeña guía.\nEsta guía es apl"
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "Relojes radiocontrolados y el cambio de hora",
     "link": "https://www.macram.es/posts/2026/03/relojes-radiocontrolados-y-el-cambio-de-hora/",
@@ -635,26 +698,5 @@
     "link": "https://dani.torresburriel.com/cuanta-ia-uso-en-mi-trabajo-real/",
     "fecha": "31/03/2026",
     "contenido": "He medido durante 7 días reales cuánta IA uso en mi trabajo como CEO de una consultora de diseño. Los resultados son más matizados de lo que esperaba. Datos, gráfico y reflexión.\nLa entrada Cuánta inteligencia artificial uso en mi trabajo real se publicó primero en Blog de Daniel Torres Burriel."
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El descaro de los jefes de Chat",
-    "link": "https://blog.danielaragay.net/el-descaro-de-los-jefes-de-chat/",
-    "fecha": "30/03/2026",
-    "contenido": "Como dice el dicho &#x201c;&#xe9;ramos pocos y pari&#xf3; la abuela&#x201d; y es que no sales de un marr&#xf3;n para meterte en otro.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t."
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Rojo",
-    "link": "https://impermanente.es/2026/03/30/rojo.html",
-    "fecha": "30/03/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "56K",
-    "titulo": "Revistas y Podcast recomendables",
-    "link": "https://56k.es/fanta/revistas-y-podcast-sobre-medioambiente-y-tecnologia-desde-una-perspectiva-critica/",
-    "fecha": "30/03/2026",
-    "contenido": "Creo que existen muchos podcasts y medios que hablan de tecnología pero pocos los que lo hacen desde un punto de vista critico. La mayoría son de gente muy apasionada por la tecnología y es menos frecuente encontrar los de gente que no se dejan obnubilar por «el brilli brilli» del tecnocapitalismo. "
   }
 ]
