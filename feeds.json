@@ -1,5 +1,40 @@
 [
   {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 14/2026",
+    "link": "https://www.macram.es/posts/2026/04/semana-14-2026/",
+    "fecha": "07/04/2026",
+    "contenido": "Con dos días de retraso en esta ocasión. No sé si os pasará igual a vosotros, pero a mí los periodos &ldquo;festivos&rdquo; como la semana santa me trastocan por completo. Además siempre pretendo hacer muchas cosas y al final acabo frustrado porque no hago nada de lo que tengo pensado. A lo mejor de"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Al algoritmo le gusta tu opinión de mierda",
+    "link": "https://matizeta.com/2026/04/07/al-algoritmo-le-gusta-tu-opinion-de-mierda/",
+    "fecha": "07/04/2026",
+    "contenido": "Hace unos días, leía una entrada con un titulo que resume las opiniones de hoy en día: “Los borrachos pesados del bar son ahora opinadores en redes: saben de todos los temas y se mueren por demostrarlo” El problema no es la reciprocidad de que tu opinión sea distinta a la mía. Pensar distinto es [&#"
+  },
+  {
+    "blog": "La línea doméstica",
+    "titulo": "Cangrejos",
+    "link": "https://jmlro.codeberg.page/posts/2026/04-07-cangrejos.html",
+    "fecha": "07/04/2026",
+    "contenido": "El señor B. cuando se enfada ya pone cara de enfadado. Él mismo puede así mostrar que está enfadado y lo identifica correctamente en otras personas. Pero además de dar un manotazo al aire si no encuentra nada que azotar añade: \"¡Fatal!\". \n\nEstamos con la lucha para que se siente a usar el orinal per"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Los nombres reales de los países no son nada parecidos a los que usamos",
+    "link": "https://www.fabio.com.ar/9913-los-nombres-reales-de-los-paises-no-son-nada-parecidos-a-los-que-usamos",
+    "fecha": "07/04/2026",
+    "contenido": "    \nAlemania no es Alemania, es Deutschland, de hecho, en ingl&eacute;s le dicen Germany, en franc&eacute;s Allemagne como en espa&ntilde;ol, pero los n&oacute;rdicos le dicen Tiskland, los polacos Niemcy y los finlandeses Saksa.\nSi uno se quiere referir al pa&iacute;s de los \"alemanes\" claramente "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Bloodgood: Detonation | Heavy Metal Para Detonar Oídos…Y El Alma",
+    "link": "https://www.delotroladometal.com.ar/2026/04/07/heavy-metal-para-detonar-oidosy-el-alma/",
+    "fecha": "07/04/2026",
+    "contenido": "(1987 &#8211; Alarma Records/Frontline Records) Generalmente se identifica al White Metal, o Metal Cristiano como...\nThe post Bloodgood: Detonation | Heavy Metal Para Detonar Oídos…Y El Alma first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "--el Profe Juan--",
     "titulo": "El otro servicio que habilité...",
     "link": "https://elprofejuan.com.ar/el-otro-servicio-que-habilit%C3%A9",
@@ -12,6 +47,13 @@
     "link": "https://elprofejuan.com.ar/bueno-tenemos-noticias-de-pascua",
     "fecha": "06/04/2026",
     "contenido": "Estuve dedicando mucho tiempo al servidor. Como comenté antes, ya está en modo tunnel con los servicios que tengo, ahora he incorporado el Nextcloud.\n\n"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Querido Diego, te abraza Quiela",
+    "link": "https://guillermolatorre.com/libros/querido-diego-te-abraza-quiela",
+    "fecha": "06/04/2026",
+    "contenido": "Fecha de lectura: 06/04/2026.Autor/a: Elena Poniatowska.Categoría: Ficción.Número de páginas: 72.Mi valoración: ★★☆☆☆"
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -113,17 +155,17 @@
   },
   {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Geometría del azar",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/geometria-del-azar/",
-    "fecha": "06/04/2026",
-    "contenido": "https://danielomarcignacco.blogspot.com/2026/04/la-geometria-del-azar-el-viejo-arnaldo.html\nDaniel Omar Cignacco"
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
     "titulo": "El fin de la resistencia",
     "link": "https://danielomarcignacco.mataroa.blog/blog/el-fin-de-la-resistencia/",
     "fecha": "06/04/2026",
     "contenido": "https://www.bubok.es/libros/284525/el-fin-de-la-resistencia\nDaniel Omar Cignacco"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Geometría del azar",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/geometria-del-azar/",
+    "fecha": "06/04/2026",
+    "contenido": "https://danielomarcignacco.blogspot.com/2026/04/la-geometria-del-azar-el-viejo-arnaldo.html\nDaniel Omar Cignacco"
   },
   {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
@@ -644,20 +686,6 @@
     "contenido": "Cada uno de los dos cambios de hora me acuerdo mucho de que tengo varios relojes radiocontrolados en casa. Y me acuerdo mucho de que vivo demasiado lejos de Alemania y en una casa con los muros demasiado gruesos como para que sea útil tener relojes radiocontrolados.\n\n\nLa tecnología: la estación DCF7"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#189: \"Mi estrategia para redes sociales\"",
-    "link": "https://www.macram.es/posts/2026/03/mi-estrategia-para-social-media/",
-    "fecha": "31/03/2026",
-    "contenido": "Ste publicó en su excelente blog una nota titulada «My Social Media “Strategy”», donde describe su posición respecto a las redes sociales y al Internet actual. Y, leyéndola, me he dado cuenta de que estoy en una posición muy parecida.\nLos puntos en que podríamos resumirla son:\n\nMejor comunidades peq"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Webs que descubrí #2",
-    "link": "https://matizeta.com/2026/03/31/webs-que-descubri-2/",
-    "fecha": "31/03/2026",
-    "contenido": "Otra nueva entrega con 10 links de webs curiosas e interesantes que encontré navegando en la web. NMTV Si extrañas la vieja MTV, esta web simula su transmisión proyectando videos sin interrupción de las épocas 80, 90 y 2000 y hasta shows en vivo de aquella época. Muy bueno para tenerlo de fondo mien"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "538. El gato",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/03/538-el-gato.html",
@@ -672,25 +700,11 @@
     "contenido": "A veces puedes tener todas las razones del mundo pero no sirven de nada si te topas con una versi&#xf3;n sueca de Sr. Scrooge.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsueco"
   },
   {
-    "blog": "La línea doméstica",
-    "titulo": "Llamadas Y Mensajes",
-    "link": "https://jmlro.codeberg.page/posts/2026/03-31-llamadas-y-mensajes.html",
-    "fecha": "31/03/2026",
-    "contenido": "Llevo algunos meses bloqueado (estoy buscando la palabra idónea para esto, no es saturado, no es apabullado, no es superado), ¡abrumado! para responder mensajes que ya tengo por adelantado un aviso en mi foto de perfil [1] de que puedo tardar semanas en responder mensajes. Esto es para poner el fren"
-  },
-  {
     "blog": "La Frikoteca",
     "titulo": "Adaptando tus reglas (de rol) a tu mundo (de juego)",
     "link": "http://frikoteca.blogspot.com/2026/03/adaptando-tus-reglas-de-rol-tu-mundo-de.html",
     "fecha": "31/03/2026",
     "contenido": "El domingo continuamos jugando la partida de Mythras ambientada en mi mundo de juego, Aelios. En esta ocasión nos dio tiempo a comenzar una batalla entre griegos de fantasía (los okosios) y vikingos de fantasía (los hrabarios). Antes de comenzar la batalla hubo que tomar decisiones estratégicas, inc"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "La Paja",
-    "link": "https://www.fabio.com.ar/9907-la-paja",
-    "fecha": "31/03/2026",
-    "contenido": "    \nEs el t&eacute;rmino m&aacute;s utilizado en el momento y no se refiere al onanismo sino a la vagancia \"me da paja\", \"es una paja\", \"&iexcl;Qu&eacute; paja!\".\nY creo yo, es el mayor de los males tambi&eacute;n, es lo que describe el estado de &aacute;nimo general, pero tambi&eacute;n es un s&ia"
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
