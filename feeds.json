@@ -1,10 +1,59 @@
 [
   {
+    "blog": "Mareos de un geek",
+    "titulo": "50 aniversario de Apple",
+    "link": "https://mareosdeungeek.es/50-aniversario-de-apple/",
+    "fecha": "08/04/2026",
+    "contenido": "Con los días de vacaciones no pude escribir sobre el 50 aniversario de Apple. Algo que sí que hice el primer año de este espacio, cuando aún no tenía mi Macbook. El pasado día 1 de abril, la empresa de la manzana cumplió, nada más y nada menos, que medio siglo. Sin lugar a dudas, [&#8230;]"
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Lecturas recomendadas #3",
+    "link": "https://matizeta.com/2026/04/08/lecturas-recomendadas-3/",
+    "fecha": "08/04/2026",
+    "contenido": "Una nueva entrada con algunas notas que leí y me parecen interesantes para compartir: Muy buena entrada donde cita este artículo del 2001,  un caso hipotético que hoy se convirtió en una profecía cumplida.  Una joya de la arquitectura en la ciudad de Roma que pocos conocen. Realizada entre 1923 y 19"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "quota: crea archivos y directorios temporales",
+    "link": "https://voidnull.es/quota-crea-archivos-y-directorios-temporales/",
+    "fecha": "08/04/2026",
+    "contenido": "Crea archivos y directorios temporales seguros en GNU/Linux con mktemp, evitando conflictos y problemas de seguridad en scripts."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Mumble en Ubuntu 24.04",
+    "link": "https://voidnull.es/instalacion-de-mumble-en-ubuntu-24-04/",
+    "fecha": "08/04/2026",
+    "contenido": "Aprende a instalar y configurar Mumble en tu servidor para disponer de un sistema de comunicación por voz rápido, seguro y de baja latencia."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Se filtra código fuente de Claude Code",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/04/08/20260408-se-filtra-codigo-de-claude/",
     "fecha": "08/04/2026",
-    "contenido": "A Claude se se le cae la careta y demuestra una vez más que no es una compañía ética en lo referente a respeto o privacidad"
+    "contenido": "A Claude se le cae la careta y demuestra una vez más que no es una compañía ética en lo referente a respeto o privacidad"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "La Alianza de las Bitácoras: El Último Latido de Blogblog y Mataroa",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/la-alianza-de-las-bitacoras-el-ultimo-latido-de-blogblog-y-mataroa/",
+    "fecha": "08/04/2026",
+    "contenido": "En el margen donde el código sangra y la sintaxis se vuelve carne, las dos torres se alzaron. De un lado, blogblog.es, un enjambre de voces hipervinculadas, el murmullo constante de la aldea global que se niega a ser procesada. Del otro, mataroa.blog, un monolito de silencio minimalista, la pureza d"
+  },
+  {
+    "blog": "",
+    "titulo": "Mago de Oz.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/04/08/mago-de-oz-5/",
+    "fecha": "08/04/2026",
+    "contenido": "Mago de oz fue nominado a los premios de la Academia de la Música de España como mejor álbum de Rock."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Adicción a la mediocridad desalmada",
+    "link": "https://56k.es/fanta/normalizando-la-adiccion-a-la-mediocridad-desalmada/",
+    "fecha": "08/04/2026",
+    "contenido": "La gente normal es posiblemente a la que todo el mundo odia. Eso suelen decir algunas personas y la verdad que me da totalmente igual si es así o no. Lo importante es que este post tendrá 3 partes y que esas son las siguientes: Mediocre Desalmado Adictivo &#160; 1. Mediocre En una entrevista de..."
   },
   {
     "blog": "El blog es mío",
@@ -12,6 +61,34 @@
     "link": "https://alex.corcoles.net/2026/04/el-enemigo-en-casa",
     "fecha": "08/04/2026",
     "contenido": "\n  All&#225; por 2013 cog&#237; una webcam (dir&#237;a que una de Playstation) y mont&#233; un peque&#241;o sistema de videovigilancia para poder echar un ojo a la gata desde fuera de casa. Un programilla que sab&#237;a detectar movimiento y unos cuantos scripts hac&#237;an que recibiese un email co"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "History Tech #14 - Cuando nos vendían tecnología",
+    "link": "https://www.fabio.com.ar/9914-history-tech-14---cuando-nos-vendian-tecnologia",
+    "fecha": "08/04/2026",
+    "contenido": "    \nLa colecci&oacute;n de hoy me hizo recordar a mis a&ntilde;os de pirateo, primero clonando diskettes donde met&iacute;amos un programita nuestro y un txt de \"Billy Burger\" donde cada uno pod&iacute;a ir dejando su nombre en honor a la pirateada masiva, luego vend&iacute; CDs y m&aacute;s tarde "
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Irán ganó la guerra",
+    "link": "https://nachof.blog/posts/2026/iran-gano-la-guerra/",
+    "fecha": "08/04/2026",
+    "contenido": "Hace dos días Trump amenazó con que si Irán no se rendía iba a destruir todo. Irán respondió que &ldquo;go ahead, make my day&rdquo;, y Trump dijo que Irán había aceptado un alto el fuego, y que por dos semanas no hay más guerra.\nSegún Trump, la base de la negociación va a ser los 10 &ldquo;very wor"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Krig Presenta \"Bite My Byte\", Su Nuevo Álbum | La Matrix Te Tiene",
+    "link": "https://www.delotroladometal.com.ar/2026/04/08/la-matrix-te-tiene/",
+    "fecha": "08/04/2026",
+    "contenido": "La última película de Matrix realmente fue mala, bastante lejana a la trilogía que todos...\nThe post Krig Presenta \"Bite My Byte\", Su Nuevo Álbum | La Matrix Te Tiene first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "AsturGeek V3",
+    "titulo": "Magia en la PS4",
+    "link": "https://asturgeek.eu/2026/04/08/magia-en-la-ps4/",
+    "fecha": "08/04/2026",
+    "contenido": "Tengo todas y cada una de las consolas desconectadas desde hace tiempo. No las uso. Pero un vídeo de yutube me ha hecho conectar la PS4 Pro que estaba almacenando polvo. Y es que se puede hacer «magia».Hay una pega importante. No puedes jugar online ni usar la Store de Playstation. Tampoco los juego"
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -232,17 +309,17 @@
   },
   {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Geometría del azar",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/geometria-del-azar/",
-    "fecha": "06/04/2026",
-    "contenido": "https://danielomarcignacco.blogspot.com/2026/04/la-geometria-del-azar-el-viejo-arnaldo.html\nDaniel Omar Cignacco"
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
     "titulo": "El fin de la resistencia",
     "link": "https://danielomarcignacco.mataroa.blog/blog/el-fin-de-la-resistencia/",
     "fecha": "06/04/2026",
     "contenido": "https://www.bubok.es/libros/284525/el-fin-de-la-resistencia\nDaniel Omar Cignacco"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Geometría del azar",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/geometria-del-azar/",
+    "fecha": "06/04/2026",
+    "contenido": "https://danielomarcignacco.blogspot.com/2026/04/la-geometria-del-azar-el-viejo-arnaldo.html\nDaniel Omar Cignacco"
   },
   {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
@@ -546,13 +623,6 @@
     "contenido": "En estos días leí una entrada en el blog de jInversor en la que contaba que había vuelto a usar MacOS en su equipo de trabajo. La realidad es que hoy en día no hay mejor SO que ese. Ya en su momento hablé de Windows y su “Inconsisteng Design”, pero como yo no soy [&#8230;]"
   },
   {
-    "blog": "esencial",
-    "titulo": "El pescador y el empresario",
-    "link": "https://yeite.github.io/esencial/fabula-pescador-empreario",
-    "fecha": "02/04/2026",
-    "contenido": "Un empresario estaba en el muelle de un pueblo costero cuando llegó un bote pequeño con un solo pescador. Dentro del bote había varios atunes amarillos de buen tamaño."
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Suecia aprueba una ley que baja el IVA de la alimentación",
     "link": "https://blog.danielaragay.net/suecia-aprueba-una-ley-que-baja-el-iva-de-la-alimentacion/",
@@ -586,152 +656,5 @@
     "link": "https://dani.torresburriel.com/el-color-y-el-olor-de-la-paz/",
     "fecha": "02/04/2026",
     "contenido": "Una pequeña reflexión personal sobre lo que significa un espacio de paz y tranquilidad. Y la importancia de disfrutarlo.\nLa entrada El color y el olor de la paz se publicó primero en Blog de Daniel Torres Burriel."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Thunderbird y la bandeja de sistema en Linux",
-    "link": "https://victorhckinthefreeworld.com/2026/04/01/thunderbird-y-la-bandeja-de-sistema-en-linux/",
-    "fecha": "01/04/2026",
-    "contenido": "El cliente de correo Thunderbird y la gestión para que se visualice en la bandeja de sistema de sistemas GNU/Linux es un problema que quizás pronto tenga solución"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Bicinazis",
-    "link": "https://jinversor.co/2026/04/bicinazis/",
-    "fecha": "01/04/2026",
-    "contenido": "Alguien les dijo que si iban todos los días al trabajo en bicicleta iban a salvar el mundo del «colapso climático». Y ellos, por supuesto, se lo creyeron. Y no [&#8230;]\nLa entrada Bicinazis se publicó primero en Jinversor."
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "El fracaso del email seguro: privacidad, metadatos y la ilusión Suiza en 2026",
-    "link": "https://gatooscuro.xyz/el-fracaso-del-email-seguro-privacidad-metadatos-y-la-ilusion-suiza-en-2026/",
-    "fecha": "01/04/2026",
-    "contenido": "Durante estos días surgió un artículo bastante crítico acerca de ProtonMail, titulado: “El problema de Proton”, escrito por Sam Bent, periodista y experto en OSINT (inteligencia de fuentes abiertas), OPSEC\nSeguir leyendo  El fracaso del email seguro: privacidad, metadatos y la ilusión Suiza en 2026\n"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Estoy desarrollando una app para Chihuahua",
-    "link": "https://blog.luiscarlospando.com/personal/2026/04/estoy-desarrollando-una-app-para-chihuahua/",
-    "fecha": "01/04/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "infoDana, otro fracaso más de la administración digital española",
-    "link": "https://mareosdeungeek.es/infodana-otro-fracaso-mas-de-la-administracion-digital-espanola/",
-    "fecha": "01/04/2026",
-    "contenido": "La aplicación infoDana es otro fracaso más, de la administración digital española. Un nuevo despilfarro de dinero público. Seguramente infoDana haya sido uno de esos proyectos que habrá ido a parar a unos cuantos amigos más preocupados en cazar el dinero público que en convertirlo en algo útil para "
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Apple cumple 50 años",
-    "link": "https://matizeta.com/2026/04/01/apple-cumple-50-anos/",
-    "fecha": "01/04/2026",
-    "contenido": "Un día como hoy pero de 1976, nacía Apple. La primera vez que tuve una Mac frente a mis ojos fue allá por el 2004, era precisamente una iMac G3. Estaba en un trabajo de pasante, y mi compañero era un diseñador que se había llevado su propia computadora para trabajar. Era hermosa y admito [&#8230;]"
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "La fuerza nuclear débil",
-    "link": "http://locutusbit.blogspot.com/2026/04/la-fuerza-nuclear-debil.html",
-    "fecha": "01/04/2026",
-    "contenido": "&nbsp;Las palabras no se reducen a su origen, emiten,se descomponen en su positivo y su negativo,como la fruta que cambia de sabor según madura,como una rebelión que derriba muros y se expande,como el gemido en la noche de un mar lleno de otoño.Las palabras se reinventan, ascienden despiertas,borran"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Aquí tampoco es",
-    "link": "https://impermanente.es/2026/04/01/aqu-tampoco-es.html",
-    "fecha": "01/04/2026",
-    "contenido": "Por temas de trabajo he tenido la suerte de poder viajar mucho, desde muy joven. La cosa es que hoy en día ya llevo doscientas y pico ciudades visitadas en el mundo. Pero no las cuento por coleccionismo, las cuento porque en algún momento me di cuenta de que cada ciudad nueva no me ensancha el mundo"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Ozymandias",
-    "link": "https://impermanente.es/2026/04/01/ozymandias.html",
-    "fecha": "01/04/2026",
-    "contenido": "I met a traveller from an antique land,\nWho said—“Two vast and trunkless legs of stone\nStand in the desert. . . . Near them, on the sand,\nHalf sunk a shattered visage lies, whose frown,\nAnd wrinkled lip, and sneer of cold command,\nTell that its sculptor well those passions read\nWhich yet survive, st"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Docker en AlmaLinux 10",
-    "link": "https://voidnull.es/instalacion-de-docker-en-almalinux-10/",
-    "fecha": "01/04/2026",
-    "contenido": "Docker es una aplicación que simplifica el proceso de gestión de los procesos de las aplicaciones en contenedores. Los contenedores le permiten ejecutar sus aplicaciones en procesos aislados de recursos."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Configurar rsyslog en Debian 13",
-    "link": "https://voidnull.es/configurar-rsyslog-en-debian-13/",
-    "fecha": "01/04/2026",
-    "contenido": "Aprende a configurar rsyslog en Debian 13 para gestionar y centralizar los logs de tu servidor de forma eficiente."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Manjaro no se bifurca",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/04/01/20260401-manjaro-no-se-bifurca/",
-    "fecha": "01/04/2026",
-    "contenido": "Toda la cuestión del manifesto de Manjaro 2.0 llega a buen puerto y los usuarios no tenemos de que preocuparnos"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Presentación de Erica a diario en Barcelona",
-    "link": "https://www.ericafustero.com/2026-04-presentacion-erica-a-diario-barcelona",
-    "fecha": "01/04/2026",
-    "contenido": "El próximo viernes 10 de abril a las 19h. tienes una cita en la librería más bonita de Barcelona, Librería Terranova, para oírnos a Alba G. Mora y a mi hablar sobre el proceso de creación de Erica a diario, sobre escribir en general y sobre lo que surja. ¡Os esperamos! Next Friday, April 10th [&#823"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Abril",
-    "link": "https://www.xn--jmuoz-qta.es/2026/04/abril.html",
-    "fecha": "01/04/2026",
-    "contenido": "Abril. Quizá el mes más bello del año en el hemisferio norte. La primavera en todo su esplendor, una explosión de vida que vemos en la naturaleza. Colores variopintos, céspedes verdes, aguas claras que discurren por los arroyos. Calorcito, sin exceso, el suficiente para poder sentarte en el campo y "
-  },
-  {
-    "blog": "",
-    "titulo": "Gustavo Fuentes.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/04/01/gustavo-fuentes-3/",
-    "fecha": "01/04/2026",
-    "contenido": "Hoy cumpliría años Gustavo Fuentes, uno de los grandes referentes de la musica celta en Argentina, lamentablemente ya no se encuentra entre nosotros, solo nos queda su música."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Game Boy Color con Pantalla Retroiluminada",
-    "link": "https://56k.es/fanta/game-boy-color-con-pantalla-retroiluminada/",
-    "fecha": "01/04/2026",
-    "contenido": "La Game Boy Color es una buena consola portátil. Consume la mitad de pilas que por ejemplo la Game Boy Clásica y los juegos tienen colorines. El problema que tiene es que la gente la dejó de lado porque es una consola que la pantalla se ve muy muy mal. Solamente puedes verlo de día..."
-  },
-  {
-    "blog": "56K",
-    "titulo": "El ordenador Galaksija de Voja Antonić",
-    "link": "https://56k.es/fanta/el-ordenador-galaksija-de-voja-antonic-cuando-la-radio-emitia-software/",
-    "fecha": "01/04/2026",
-    "contenido": "A principios de los años ochenta en el país «Yugoslavia» (que ya no existe) ciertas leyes no permitían la importación de ordenadores y tenías que hacerte tu propio ordenador para disponer de uno. Voja Antonić fue el creador, a principios de los 80, del mítico ordenador «Galaksija» (Galaxia en castel"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Clientes Mastodon para tu computadora retro",
-    "link": "https://www.fabio.com.ar/9908-clientes-mastodon-para-tu-computadora-retro",
-    "fecha": "01/04/2026",
-    "contenido": "    \nTen&eacute;s una computadora muy vieja, pero aun as&iacute; quer&eacute;s interactuar con humanos online? Aqu&iacute; tengo para vos una lista de clientes de Mastodon para poder hacerlo desde tu computadora m&aacute;s retro posible 😅\n&iquest;No sab&eacute;s qu&eacute; es Mastodon? Pues bien, es"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "En Uruguay II 🇺🇾",
-    "link": "https://picandocodigo.net/2026/en-uruguay-2/",
-    "fecha": "01/04/2026",
-    "contenido": "El lunes a la noche después de más de 20 horas de viaje, volví de una visita a Uruguay. Cuando voy a Uruguay, es más que nada para pasar tiempo con mi familia y amigos de allá. Esta vez fue el centro de todo, no pasé un sólo día sin juntarme con gente. Estuvo bueno porque vi a casi todas las persona"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Nostalgia Por El Pasado…",
-    "link": "https://www.delotroladometal.com.ar/2026/04/01/la-nostalgia-por-el-pasado/",
-    "fecha": "01/04/2026",
-    "contenido": "En una recordada entrevista, el conocido bajista de Kiss, Gene Simmons, afirmó que &#8220;el rock...\nThe post La Nostalgia Por El Pasado… first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "El fediverso necesita algoritmo?",
-    "link": "https://thejnx.bearblog.dev/el-fediverso/",
-    "fecha": "01/04/2026",
-    "contenido": "Una minuciosa reseña a las redes sociales y su alternativa"
   }
 ]
