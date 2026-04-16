@@ -14,11 +14,25 @@
     "contenido": "Nunca, desde que salí de casa de mis padres, he conocido a mis vecinos. No sé cómo se llaman, no sé apenas nada de sus vidas, más allá de lo que pueda deducir cuando me los cruzo por la escalera... ¡Qué leches! Si ni siquiera sé a qué piso van cuando me los cruzo en el ascensor... Mi mente no es cap"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Marbella, quiero y no puedo",
+    "link": "https://mareosdeungeek.es/marbella-quiero-y-no-puedo/",
+    "fecha": "15/04/2026",
+    "contenido": "Hoy he podido revivir otro quiero y no puedo marbellí. Como todos los veranos, tengo que buscar campamento para mis hijos. El verano es muy largo y aunque vivamos en una ciudad turística, no podemos estar dos meses y medio de vacaciones. Afortunadamente, en Marbella, hay multitud de opciones en form"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Webs que descubrí #3",
     "link": "https://matizeta.com/2026/04/15/webs-que-descubri-3/",
     "fecha": "15/04/2026",
     "contenido": "Kill the newsletter Permite recibir las newsletter en un feed RSS. Ideal para limpiar un poco tu bandeja de entrada. En caso de que la suscripción requiera confirmación (como suele pasar), al agregar el feed que se te genera a tu lector, posiblemente te llegue ahí mismo el mail (transformado en feed"
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "XXXIX",
+    "link": "http://locutusbit.blogspot.com/2026/04/xxxix.html",
+    "fecha": "15/04/2026",
+    "contenido": "&nbsp;Efervescente,identidad singularsemiformada.&nbsp;Pascual Herrera"
   },
   {
     "blog": "_ voidNull",
@@ -47,6 +61,13 @@
     "link": "https://www.ericafustero.com/2026-04-unas-fotos-para-mariam",
     "fecha": "15/04/2026",
     "contenido": "En marzo hice una sesión de fotos con Màriam Ben-Arab, ilustradora, dibujante de cómics y persona majísima en general. Nos tomamos un café, nos reímos mucho y Màriam me dibujó mientras yo le hacía fotos. Una tarde redonda. In March, I had a photoshoot with Màriam Ben-Arab, an illustrator, comic book"
+  },
+  {
+    "blog": "",
+    "titulo": "Mala Suerte en Salón Pueyrredón.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/04/15/mala-suerte-en-salon-pueyrredon/",
+    "fecha": "15/04/2026",
+    "contenido": "El grupo de Punk Celta Mala Suerte se presenta en Salón Pueyrredón para festejar los 35 años de su primer disco. Abajo les dejo el enlace para conseguir las entradas. &#62;&#62;&#62; Entradas Aquí &#60;&#60;&#60;"
   },
   {
     "blog": "56K",
@@ -89,13 +110,6 @@
     "link": "https://javiersam.uy/2026/04/estan-disponibles-scribus-1-7-3-y-1-6-6.html",
     "fecha": "15/04/2026",
     "contenido": "Ayer estaba tratando de grabar un video que formará parte de un taller sobre Scribus el viernes de la semana próxima en el FLISoL 2026. Lo venía preparando sobre la versión 1.7.2 de Scribus, la más reciente de las las versiones de desarrollo. O eso es lo que creía, pues cuando fui al sitio oficial p"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "Hijos del optimismo",
-    "link": "https://brucknerite.net/2026/04/hijos-del-optimismo.html",
-    "fecha": "14/04/2026",
-    "contenido": "Ya tocaba esta crítica, constructiva y a ratos entusiasta, del libro recientemente publicado por María Álvarez (editorial Debate). Un texto necesario en estos tiempos oscuros. Pero ¿cuándo no lo fueron?"
   },
   {
     "blog": "El cuarto de GatoOscuro",
@@ -635,26 +649,5 @@
     "link": "https://dani.torresburriel.com/ai-experience-suite/",
     "fecha": "09/04/2026",
     "contenido": "Tras unas vacaciones estupendas, cuento aquí en mi blog personal, algo sobre nuestro nuevo producto: AI Experience Suite. La mejor forma de rentabilizar, en términos de experiencia de usuario, la inversión en inteligencia artificial.\nLa entrada AI Experience Suite se publicó primero en Blog de Danie"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "mktemp: crea archivos y directorios temporales",
-    "link": "https://voidnull.es/mktemp-crea-archivos-y-directorios-temporales/",
-    "fecha": "08/04/2026",
-    "contenido": "Crea archivos y directorios temporales seguros en GNU/Linux con mktemp, evitando conflictos y problemas de seguridad en scripts."
-  },
-  {
-    "blog": "",
-    "titulo": "Mago de Oz.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/04/08/mago-de-oz-5/",
-    "fecha": "08/04/2026",
-    "contenido": "Mago de oz fue nominado a los premios de la Academia de la Música de España como mejor álbum de Rock."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Adicción a la mediocridad desalmada",
-    "link": "https://56k.es/fanta/normalizando-la-adiccion-a-la-mediocridad-desalmada/",
-    "fecha": "08/04/2026",
-    "contenido": "La gente normal es posiblemente a la que todo el mundo odia. Eso suelen decir algunas personas y la verdad que me da totalmente igual si es así o no. Lo importante es que este post tendrá 3 partes y que esas son las siguientes: Mediocre Desalmado Adictivo &#160; 1. Mediocre En una entrevista de..."
   }
 ]
