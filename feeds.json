@@ -1,5 +1,12 @@
 [
   {
+    "blog": "impermanente",
+    "titulo": "El fin del \"one size fits all\"",
+    "link": "https://impermanente.es/2026/04/18/el-fin-del-one-size.html",
+    "fecha": "18/04/2026",
+    "contenido": "Durante décadas trabajamos bajo un modelo implícito que podríamos llamar el modelo SAP: existe una forma “correcta” de hacer las cosas, alguien la ha codificado en una herramienta, y tu trabajo consiste en adaptar tus procesos a ese molde. El software dictaba el flujo y tú te ajustabas. Pagábamos co"
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Leer parte de una URL de otra URL y con plan B",
     "link": "https://malagaoriginal.blogspot.com/2026/04/leer-parte-de-una-url-de-otra-url-y-con.html",
@@ -7,11 +14,32 @@
     "contenido": "Supongamos que queremos descargar mediante un script un archivo, pero con estas circunstancias:Cuando cambia de versión, la URL cambia porque el número de versión es parte de la descarga.Si accedemos a una dirección concreta obtendremos el número de versión actual. Para ello usamos el comando wget U"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 16 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/04/17/opensuse-tumbleweed-revision-de-la-semana-16-de-2026/",
+    "fecha": "17/04/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
     "blog": "plr blog",
     "titulo": "Borré versiones antiguas de los posts con una orden para aligerar la base de datos del blog",
     "link": "https://pedrolr.es/blog/borre-versiones-antiguas-de-los-posts-con-una-orden-para-aligerar-la-base-de-datos-del-blog/",
     "fecha": "17/04/2026",
     "contenido": "Tocaba hacer copia de seguridad de todo lo del hosting y vi que la database del blog pesaba 110 megas. Leí que quizá lo que estaba generando más peso eran las versiones antiguas de los posts. Viene bien tenerlas, por si se hacen cambios que luego se quieren revertir, pero algunos posts tenían muchas"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Tutorial: Desplegando DNS privado para red Wireguard",
+    "link": "https://interlan.ec/blog/2026/04/17/tutorial-desplegando-dns-privado-para-red-wireguard/",
+    "fecha": "17/04/2026",
+    "contenido": "Contamos con WireGuard, lo hemos pulido hasta que funciona con el ancho de banda completo. Vamos a confiar un poco mas en el para administrar los servicios que tenemos expuestos por internet... ¡En privado!"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Sin la música la vida no valdría la pena",
+    "link": "https://blog.luiscarlospando.com/personal/2026/04/sin-la-musica-la-vida-no-valdria-la-pena/",
+    "fecha": "17/04/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "pov – matizeta",
@@ -36,10 +64,31 @@
   },
   {
     "blog": "_ voidNull",
+    "titulo": "Binary Eye: escanea códigos QR con estilo",
+    "link": "https://voidnull.es/binary-eye-escanea-codigos-qr-con-estilo/",
+    "fecha": "17/04/2026",
+    "contenido": "Escáner de códigos QR y de barras sin publicidad ni rastreo, centrado en hacer una sola cosa bien."
+  },
+  {
+    "blog": "_ voidNull",
     "titulo": "Gestión de volúmenes y ficheros #11",
     "link": "https://voidnull.es/gestion-de-volumenes-y-ficheros-11/",
     "fecha": "17/04/2026",
     "contenido": "Aprende por qué los contenedores Docker son efímeros y cómo los volúmenes permiten persistir datos esenciales."
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Les Cinc Sénies en 120",
+    "link": "https://www.ericafustero.com/2026-04-les-cinc-senies-en-120",
+    "fecha": "17/04/2026",
+    "contenido": "Poco después de devolver la Yashica 635 acabé con consiguiendo una Yashica Mat-124G que esta vez, si funciona y está en buen estado general. Y tras disparar cuatro carretes con ella ¡por fin! empiezan a gustarme las fotos que estoy haciendo. Adaptarse a una nueva cámara siempre lleva más tiempo del "
+  },
+  {
+    "blog": "Bitácora baldía on zurdeando",
+    "titulo": "Por favor, poned molduras en las ventanas",
+    "link": "https://blog.zurdala.es/blog/por-favor-poned-molduras-en-las-ventanas/",
+    "fecha": "17/04/2026",
+    "contenido": "Hay algo que me trae de cabeza, y es lo asépticos (gracias a Nacho por recordarme esta palabra) que son los edificios que se construyen ahora.\nSea para oficinas, como viviendas, como residencias.\nSe hace todo sin gracia ni carácter.\nNo sé, pon una puta moldura en las ventanas al menos. ALGO que le d"
   },
   {
     "blog": "Fabio.com.ar",
@@ -49,11 +98,32 @@
     "contenido": "     Llenate de enlaces!\nViernes agitado, viernes lleno de links! Si, semanita completa se&ntilde;ores, podemos empezar a pensar en cosas m&aacute;s importantes (?) o no, no importa, lo que vale es que van a poder descansar si es que dejan todo bien cerrado con mo&ntilde;o hoy. Y si te parecen pocos"
   },
   {
+    "blog": "Un blog",
+    "titulo": "Arcs",
+    "link": "https://nachof.blog/posts/2026/arcs/",
+    "fecha": "17/04/2026",
+    "contenido": "Arcs es un juego diseñado por Cole Wehrle e ilustrado por Kyle Ferrin. Como si eso no fuera suficiente, además está ambientado en EL ESPACIO. No sé si podés describir un juego en un párrafo tan corto y que me llame más la atención que esto.\n\n\n Imagen de BGG\n \n\n\nCole Wehrle y Kyle Ferrin son el equip"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Iconic Prepara \"II\", Su Nuevo Álbum | Los Super Héroes Del Hard Rock Atacan De Vuelta",
+    "link": "https://www.delotroladometal.com.ar/2026/04/17/los-super-heroes-del-hard-rock-atacan-de-vuelta/",
+    "fecha": "17/04/2026",
+    "contenido": "A través de Frontiers Records, Iconic, la formación que incluye a grandes de la escena...\nThe post Iconic Prepara \"II\", Su Nuevo Álbum | Los Super Héroes Del Hard Rock Atacan De Vuelta first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "DANOK toma forma: aprender a construir en red",
     "link": "https://dani.torresburriel.com/danok-red-consultoras-digitales-en-marcha/",
     "fecha": "17/04/2026",
     "contenido": "Hace unos días nos juntamos de nuevo los socios de DANOK. Esta vez en Burgos, en uno de esos encuentros presenciales que, con el tiempo, se han convertido en algo más que una reunión de trabajo: son el momento en el que el proyecto se hace tangible. DANOK es una red de consultoras digitales independ"
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "GameNative: el único emulador que ha funcionado hasta ahora",
+    "link": "https://thejnx.bearblog.dev/emulador-gamenative/",
+    "fecha": "17/04/2026",
+    "contenido": "Esta entrada será un poco breve ya que no es algo nuevo, solo el como la emulación de PC esta avanzando en Android a un ritmo increíble y el emulador GameNative es una prueba de ello\nLlevo días probando emuladores de PC en mi teléfono (y mas que recientemente me compré el Dead Cells), un gama media:"
   },
   {
     "blog": "Adrián Perales",
@@ -196,6 +266,13 @@
     "contenido": "    \nVoy a hablar de moda, pero no de cualquier moda, sino de moda top, top&iacute;sima de m&aacute;s de 500 a&ntilde;os atr&aacute;s, porque la moda no es un invento moderno, existe desde que el humano camina sobre este planeta.\nEn alg&uacute;n momento de la alta edad media las damas, las de alta a"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Azeroth: Azeroth | La Vuelta De Un Disco Legendario",
+    "link": "https://www.delotroladometal.com.ar/2026/04/15/la-vuelta-de-un-disco-legendario/",
+    "fecha": "15/04/2026",
+    "contenido": "(2025 &#8211; Cuervo Records) Hay discos que son difícil de olvidar, que han marcado y...\nThe post Azeroth: Azeroth | La Vuelta De Un Disco Legendario first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "JDRM",
     "titulo": "La importancia de la privacidad al navegar por la web",
     "link": "https://jdrm.info/la-importancia-de-la-privacidad-al-navegar-por-la-web.html",
@@ -222,6 +299,13 @@
     "link": "https://javiersam.uy/2026/04/estan-disponibles-scribus-1-7-3-y-1-6-6.html",
     "fecha": "15/04/2026",
     "contenido": "Ayer estaba tratando de grabar un video que formará parte de un taller sobre Scribus el viernes de la semana próxima en el FLISoL 2026. Lo venía preparando sobre la versión 1.7.2 de Scribus, la más reciente de las las versiones de desarrollo. O eso es lo que creía, pues cuando fui al sitio oficial p"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Hijos del optimismo",
+    "link": "https://brucknerite.net/2026/04/hijos-del-optimismo.html",
+    "fecha": "14/04/2026",
+    "contenido": "Ya tocaba esta crítica, constructiva y a ratos entusiasta, del libro recientemente publicado por María Álvarez (editorial Debate). Un texto necesario en estos tiempos oscuros. Pero ¿cuándo no lo fueron?"
   },
   {
     "blog": "El cuarto de GatoOscuro",
@@ -273,6 +357,13 @@
     "contenido": "    \nMuchos de ustedes jam&aacute;s escucharon hablar de la Crotoxina, pero yo recuerdo perfectamente a decenas de enfermos y familiares reclamando por su \"dosis\" al gobierno, era chico, pero no entend&iacute;a algo: Si era tan buena como dec&iacute;an &iquest;Por qu&eacute; el gobierno se las negab"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Satan Destroyer Presenta Nuevo Álbum | El Caos Dice Presente",
+    "link": "https://www.delotroladometal.com.ar/2026/04/14/el-caos-dice-presente/",
+    "fecha": "14/04/2026",
+    "contenido": "&#8220;Utter Kaos And The Eclipsed Moon&#8221; es el título de lo nuevo de esta banda...\nThe post Satan Destroyer Presenta Nuevo Álbum | El Caos Dice Presente first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "Escribir el día para no perderlo",
     "link": "https://dani.torresburriel.com/diario-de-trabajo-productividad/",
@@ -320,6 +411,13 @@
     "link": "https://mcallus.net/2026/04/13/unas-palabras-sobre-proyecto-hail-mary-proyecto-salvacion/",
     "fecha": "13/04/2026",
     "contenido": "El artículo es sin spoilers. Pues no sabía si escribir este artículo porque la verdad es que parece que decir la más mínima cosa negativa de la película Proyecto Salvación es ser un hater, un gafapasta o simplemente alguien que quiere llamar la atención yendo en contra de todo el mundo. Y nada más l"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Migrar de WhatsApp a Signal",
+    "link": "https://alt43.es/migrar-de-whatsapp-a-signal-sin-dramas/",
+    "fecha": "13/04/2026",
+    "contenido": "WhatsApp recopila y monetiza una ingente cantidad de datos personales mediante los \"metadatos\". En el lado opuesto tenemos a Signal, de código abierto y gestionada mediante una fundación. Desarrollamos de forma práctica como migrar de una a otra y algunos argumentos para tratar de sumar amigos y con"
   },
   {
     "blog": "Cajón desastre",
@@ -376,6 +474,13 @@
     "link": "https://www.fabio.com.ar/9917-la-extrana-derrota-subjetiva",
     "fecha": "13/04/2026",
     "contenido": "    \nUltimamente estoy escribiendo una serie de art&iacute;culos sobre el ataque autoinmune de Occidente (en parte financiado con dinero de las dictaduras a las cual les viene muy mal esta parte del mundo), y hoy quer&iacute;a comentar de un caso muy interesante de \"post-verdad\".\nPodr&iacute;amos ll"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Banda Argentina Prepara Nuevo Video Y Nuevo Material | Triade Proyecta Su 2026",
+    "link": "https://www.delotroladometal.com.ar/2026/04/13/triade-proyecta-su-2026/",
+    "fecha": "13/04/2026",
+    "contenido": "Triade es una banda histórica y legendaria dentro de lo que es el denominado White...\nThe post La Banda Argentina Prepara Nuevo Video Y Nuevo Material | Triade Proyecta Su 2026 first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
@@ -462,18 +567,18 @@
     "contenido": "Siempre he escuchado que la letra bien vestida puede expresar muchas cosas. En este caso en particular voy a hablar un poco de un trabajo artístico de caligrafía muy interesante realizado por Barbara Galińska. Esta obra gráfica se llama «STOP WAR!» (No a la guerra, alto a la guerra!) y la realizó la"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Dark Woods: Convert | Aquellos Bosques Oscuros",
+    "link": "https://www.delotroladometal.com.ar/2026/04/12/aquellos-bosques-oscuros/",
+    "fecha": "12/04/2026",
+    "contenido": "(2025 &#8211; Kongsblod Records) Los bosques son parte de la naturaleza, símbolo de vida y...\nThe post Dark Woods: Convert | Aquellos Bosques Oscuros first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "Una de memes sobre Linux #13",
     "link": "https://thecheis.com/2026/04/11/una-de-memes-sobre-linux-13/",
     "fecha": "11/04/2026",
     "contenido": ""
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Señoras haciendo cosas. Capítulo 1.",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/senoras-haciendo-cosas-capitulo-1/",
-    "fecha": "11/04/2026",
-    "contenido": "Tengo mono de newsletter. No puedo evitarlo. Y mientras pienso qué hago con eso, se me ocurrió que podría publicar de forma periódica (periodicidad por determinar) un pequeño boletín con recomendaciones de señoras haciendo cosas o de cosas hechas por señoras. Por aquello de aúpar a las otras, cada u"
   },
   {
     "blog": "Jinversor",
@@ -511,11 +616,11 @@
     "contenido": "La estética no es vital pero si importante. Nos gustan las cosas bellas más que lo feo y en el caso de los ordenadores, teclados, monitores &#8230; con cubiertas de plástico con bromo (para que no prendan mucho en caso de incendio) el paso del tiempo y la luz hace que empiecen a verse amarillos...."
   },
   {
-    "blog": "Un blog",
-    "titulo": "Claude Code: tengo Opiniones",
-    "link": "https://nachof.blog/posts/2026/claude-code/",
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Banda Nos Adelanta \"Throne Of Gold\" Con Matt Smith Y Victor Smolski De Invitados | Un Nuevo Álbum Para Signum Regis",
+    "link": "https://www.delotroladometal.com.ar/2026/04/11/un-nuevo-album-para-signum-regis/",
     "fecha": "11/04/2026",
-    "contenido": "Por cuestiones que no termino de entender, el uso de Claude en el proyecto en el que estoy es esencialmente obligatorio. Eso significa que lo usé un poco en los últimos dos días1. Tengo Opiniones.\nPero resumiendo, si alguien piensa que esta cosa puede reemplazar a un programador, incluso a un progra"
+    "contenido": "La banda Eslovaca Signum Regis decidió tirarse a la pileta, firmar con el sello Fireflash...\nThe post La Banda Nos Adelanta \"Throne Of Gold\" Con Matt Smith Y Victor Smolski De Invitados | Un Nuevo Álbum Para Signum Regis first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "El blog de Don Hielos",
@@ -523,61 +628,5 @@
     "link": "https://www.donhielos.com/letras/libros/2026/04/1984/",
     "fecha": "11/04/2026",
     "contenido": "Es el segundo libro que leo de George Orwell y también el segundo del año; un año que decidí dedicar, al menos en estos primeros meses, a historias distópicas. Por ello, me pareció un buen punto de partida leer esta... Leer más1984"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de las semanas 14 y 15 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/04/10/opensuse-tumbleweed-revision-de-las-semanas-14-y-15-de-2026/",
-    "fecha": "10/04/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "DOAJ rejected por falta de rigor en plazos cortos de revisión y cómo han ignorado la publicación de las revisiones en abierto",
-    "link": "https://pedrolr.es/blog/doaj-rejected-por-falta-de-rigor-en-plazos-cortos-de-revision-y-como-han-ignorado-la-publicacion-de-las-revisiones-en-abierto/",
-    "fecha": "10/04/2026",
-    "contenido": "En diciembre mandamos una solicitud a DOAJ (Directory of Open Access Journals) para indexar en el directorio con la revista en la que tengo el rol de la secretaría de redacción. Vamos ahora por el volumen 3. La revista es de acceso abierto diamante (no se cobra por nada, ni por publicar ni por leer)"
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Salon de la Fama del Spam 12: Un mensaje de la ICANN",
-    "link": "https://interlan.ec/blog/2026/04/10/salon-de-la-fama-del-spam-12-un-mensaje-de-la-icann/",
-    "fecha": "10/04/2026",
-    "contenido": "Un mensaje de la ICANN que parecía real, pero es phishing"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Cachy Update y Flatpak: cómo evitar bloqueos con un simple alias",
-    "link": "https://tecnoysoft.com/2026/04/10/cachy-update-y-flatpak-como-evitar-bloqueos-con-un-simple-alias/",
-    "fecha": "10/04/2026",
-    "contenido": "Introducción Si usas Cachy Update junto con Flatpak, puede que hayas notado comportamientos extraños o poco claros durante las actualizaciones. Aunque en teoría todo debería funcionar de forma integrada, en la práctica hay varios inconvenientes que conviene conocer. Falta de feedback durante la actu"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Suècia, el paradís que es va vendre a si mateix",
-    "link": "https://blog.danielaragay.net/suecia-el-paradis-que-es-va-vendre-a-si-mateix/",
-    "fecha": "10/04/2026",
-    "contenido": "Durant d&#xe8;cades, Su&#xe8;cia va ser la prova que es podia ser ric i just alhora. El Folkhemmet ho prometia tot: feina, escola, metge, sostre. Llavors van obrir la porta al mercat. Tres d&#xe8;cades despr&#xe9;s, les ag&#xe8;ncies de col&#xb7;locaci&"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Conversations: cliente completo para XMPP",
-    "link": "https://voidnull.es/conversations-cliente-completo-para-xmpp/",
-    "fecha": "10/04/2026",
-    "contenido": "Cliente XMPP moderno y cifrado que demuestra que la mensajería federada sigue siendo una alternativa real."
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "No hay mil años de historia en Aelios",
-    "link": "http://frikoteca.blogspot.com/2026/04/no-hay-mil-anos-de-historia-en-aelios.html",
-    "fecha": "10/04/2026",
-    "contenido": "Ya sabéis todos que adoro Glorantha, el mundo de juego creado por Greg Stafford, que en el Valhalla descanse. Desde que me compré mi primer RuneQuest hace 35 añitos de nada, empecé a oír hablar de este mundo y cuando me compré Genertela, directamente flipé con las posibilidades de este mundo de jueg"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Cuatro meses con software europeo: balance de un experimento",
-    "link": "https://dani.torresburriel.com/cuatro-meses-con-software-europeo-balance-honesto-de-un-experimento/",
-    "fecha": "10/04/2026",
-    "contenido": "En enero arranqué un experimento con software europeo. Quería probar si podía construir mi infraestructura digital personal sobre herramientas europeas: Vivaldi como navegador, Proton para correo y almacenamiento, Qwant como buscador. Lo planteé como un experimento acotado a mi vida personal, con la"
   }
 ]
