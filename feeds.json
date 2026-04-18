@@ -1,10 +1,45 @@
 [
   {
+    "blog": "--el Profe Juan--",
+    "titulo": "Jugando con GIMP",
+    "link": "https://elprofejuan.com.ar/jugando-con-gimp",
+    "fecha": "18/04/2026",
+    "contenido": "Este es un posteo de prueba, estoy viendo como interactua algunos plugins del CMS\n"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "De ratones y hombres",
+    "link": "https://guillermolatorre.com/libros/de-ratones-y-hombres",
+    "fecha": "18/04/2026",
+    "contenido": "Fecha de lectura: 15/04/2026.Autor/a: John Steinbeck.Categoría: Ficción.Número de páginas: 110.Mi valoración: ★★★★★Conecté con los personajes desde el primer capítulo y ya supe que era un libro que iba a remover por dentro. La relación entre George y Lennie es el corazón del libro: dos jornaleros qu"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Entendiendo Btrfs, los subvolúmenes y zRAM",
+    "link": "https://thecheis.com/2026/04/18/entendiendo-btrfs-los-subvolumenes-y-zram/",
+    "fecha": "18/04/2026",
+    "contenido": "Cuando escribí sobre mi nuevo Intel NUC y la (nada extraña) elección de Fedora, hice alusiones sobre evolucionar mi uso de Linux adoptando adecuadamente tecnologías avanzadas como Btrfs. Si bien este formato de archivos ya no es un extraño, Fedora ha sido el ariete definitivo para asentar un concept"
+  },
+  {
+    "blog": "El Sueño del Artista Blog",
+    "titulo": "Despegando  hacia el futuro con «Afrofuturismo: Imaginarios del Porvenir»",
+    "link": "https://polotman.wordpress.com/2026/04/18/https-polotman-wordpress-com-2025-04-23-afrofuturismo-podcast-estreno/",
+    "fecha": "18/04/2026",
+    "contenido": "#Afrofuturismo #podcast #ElRincondeKeren #ElSueñodelArtistaBlog #ElSueñodelArtista #Arte #literatura #cultura Hace unos meses, mientras navegaba entre libros, música terminado en una espiral de búsquedas hacia nuevos conocimientos . En ese navegar constante descubrí a una serie de no pocos creadores"
+  },
+  {
     "blog": "impermanente",
     "titulo": "El fin del \"one size fits all\"",
     "link": "https://impermanente.es/2026/04/18/el-fin-del-one-size.html",
     "fecha": "18/04/2026",
     "contenido": "Durante décadas trabajamos bajo un modelo implícito que podríamos llamar el modelo SAP: existe una forma “correcta” de hacer las cosas, alguien la ha codificado en una herramienta, y tu trabajo consiste en adaptar tus procesos a ese molde. El software dictaba el flujo y tú te ajustabas. Pagábamos co"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Northern Flame: Twisted Reality | El Fuego Del Metal Viene Del Norte",
+    "link": "https://www.delotroladometal.com.ar/2026/04/18/el-fuego-del-metal-viene-del-norte/",
+    "fecha": "18/04/2026",
+    "contenido": "(2020 &#8211; Teosto/NCB) No es ninguna novedad decir que desde hace tiempo ya el norte...\nThe post Northern Flame: Twisted Reality | El Fuego Del Metal Viene Del Norte first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -614,13 +649,6 @@
     "link": "https://56k.es/fanta/retr0bright-desamarillear-un-viejo-monitor/",
     "fecha": "11/04/2026",
     "contenido": "La estética no es vital pero si importante. Nos gustan las cosas bellas más que lo feo y en el caso de los ordenadores, teclados, monitores &#8230; con cubiertas de plástico con bromo (para que no prendan mucho en caso de incendio) el paso del tiempo y la luz hace que empiecen a verse amarillos...."
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Banda Nos Adelanta \"Throne Of Gold\" Con Matt Smith Y Victor Smolski De Invitados | Un Nuevo Álbum Para Signum Regis",
-    "link": "https://www.delotroladometal.com.ar/2026/04/11/un-nuevo-album-para-signum-regis/",
-    "fecha": "11/04/2026",
-    "contenido": "La banda Eslovaca Signum Regis decidió tirarse a la pileta, firmar con el sello Fireflash...\nThe post La Banda Nos Adelanta \"Throne Of Gold\" Con Matt Smith Y Victor Smolski De Invitados | Un Nuevo Álbum Para Signum Regis first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "El blog de Don Hielos",
