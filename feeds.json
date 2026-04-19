@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Si dios te da limones",
+    "titulo": "Bumble, likes y matches",
+    "link": "https://sidiostedalimones.com/blog/2026/bumble/",
+    "fecha": "19/04/2026",
+    "contenido": ""
+  },
+  {
     "blog": "--el Profe Juan--",
     "titulo": "Jugando con GIMP",
     "link": "https://elprofejuan.com.ar/jugando-con-gimp",
@@ -21,6 +28,13 @@
     "contenido": "Cuando escribí sobre mi nuevo Intel NUC y la (nada extraña) elección de Fedora, hice alusiones sobre evolucionar mi uso de Linux adoptando adecuadamente tecnologías avanzadas como Btrfs. Si bien este formato de archivos ya no es un extraño, Fedora ha sido el ariete definitivo para asentar un concept"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "Una pelea desigual",
+    "link": "https://jinversor.co/2026/04/una-pelea-desigual/",
+    "fecha": "18/04/2026",
+    "contenido": "Todos los inversionistas de activos financieros sabemos que los mercados se manipulan. Quien no lo sepa, o lo dude, es porque lleva muy poco tiempo en este negocio. No obstante, [&#8230;]\nLa entrada Una pelea desigual se publicó primero en Jinversor."
+  },
+  {
     "blog": "El Sueño del Artista Blog",
     "titulo": "Despegando  hacia el futuro con «Afrofuturismo: Imaginarios del Porvenir»",
     "link": "https://polotman.wordpress.com/2026/04/18/https-polotman-wordpress-com-2025-04-23-afrofuturismo-podcast-estreno/",
@@ -28,11 +42,25 @@
     "contenido": "#Afrofuturismo #podcast #ElRincondeKeren #ElSueñodelArtistaBlog #ElSueñodelArtista #Arte #literatura #cultura Hace unos meses, mientras navegaba entre libros, música terminado en una espiral de búsquedas hacia nuevos conocimientos . En ese navegar constante descubrí a una serie de no pocos creadores"
   },
   {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Una anécdota bien rara (y medio triste 😆)",
+    "link": "https://blog.luiscarlospando.com/personal/2026/04/una-anecdota-bien-rara-y-medio-triste-%f0%9f%98%86/",
+    "fecha": "18/04/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
     "blog": "impermanente",
     "titulo": "El fin del \"one size fits all\"",
     "link": "https://impermanente.es/2026/04/18/el-fin-del-one-size.html",
     "fecha": "18/04/2026",
     "contenido": "Durante décadas trabajamos bajo un modelo implícito que podríamos llamar el modelo SAP: existe una forma “correcta” de hacer las cosas, alguien la ha codificado en una herramienta, y tu trabajo consiste en adaptar tus procesos a ese molde. El software dictaba el flujo y tú te ajustabas. Pagábamos co"
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Reseña de Artemisa VI",
+    "link": "http://frikoteca.blogspot.com/2026/04/resena-de-artemisa-vi.html",
+    "fecha": "18/04/2026",
+    "contenido": "Artemisa VI es una aventura de ciencia ficción escrita por Ernesto Orellana para el juego M-Space, de 77Mundos. Una aventura que realmente parece llegar en un momento de lo más adecuado, teniendo en cuenta que la gente tiene más que presente las misiones Artemisa de la NASA después que la segunda mi"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -74,7 +102,7 @@
     "titulo": "Sin la música la vida no valdría la pena",
     "link": "https://blog.luiscarlospando.com/personal/2026/04/sin-la-musica-la-vida-no-valdria-la-pena/",
     "fecha": "17/04/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "pov – matizeta",
@@ -539,13 +567,6 @@
     "contenido": "Algunos discos de rock progresivo y sinfónico que considero esenciales"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Temporal repentino",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/temporal-repentino/",
-    "fecha": "12/04/2026",
-    "contenido": "Llevo días queriendo sentarme a escribir un post tierno, esperanzador, pero hoy me siento a llorar en este rincón de Internet1. En días como hoy entiendo muchas cosas. No voy a ser yo la libre de pecado que lance piedra alguna, hace ya tiempo que no se me ocurre. \nEs curioso. Una está bien. Ha tenid"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Osint a un enlace",
     "link": "https://jinversor.co/2026/04/osint-a-un-enlace/",
@@ -607,54 +628,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/04/12/aquellos-bosques-oscuros/",
     "fecha": "12/04/2026",
     "contenido": "(2025 &#8211; Kongsblod Records) Los bosques son parte de la naturaleza, símbolo de vida y...\nThe post Dark Woods: Convert | Aquellos Bosques Oscuros first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Una de memes sobre Linux #13",
-    "link": "https://thecheis.com/2026/04/11/una-de-memes-sobre-linux-13/",
-    "fecha": "11/04/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Ayer conocí el infierno",
-    "link": "https://jinversor.co/2026/04/ayer-conoci-el-infierno/",
-    "fecha": "11/04/2026",
-    "contenido": "Confieso que el título de la entrada es engañoso. Yo siempre he conocido el infierno pues nací y crecí en Colombia. Lo que pasó ayer fue que bajé a una [&#8230;]\nLa entrada Ayer conocí el infierno se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "Actualización Xeno Arena – No Man’s Sky",
-    "link": "https://unpinguino.com/actualizacion-xeno-arena-no-mans-sky/",
-    "fecha": "11/04/2026",
-    "contenido": "Esto lo escribí el día de lanzamiento de la actualización, pero quedó en borrador y&#8230;"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "541. Accidente doméstico",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/04/541-accidente-domestico.html",
-    "fecha": "11/04/2026",
-    "contenido": "&nbsp; &nbsp; La mujer que se cayó por las escaleras no es católica ni reina, pero se llama Isabel. Como leéis, no escribo en pasado respecto a ella. Es decir: no se mató. Aunque es más exacto decir que se resbaló desde el primer peldaño y las bajó de culo. En ese momento accidentado, ella sostenía "
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Vuelta podcast, ajetreo laboral y mucho cacharreo",
-    "link": "https://www.ochobitshacenunbyte.com/2026/04/11/vuelta-podcast-ajetreo-laboral-y-mucho-cacharreo/",
-    "fecha": "11/04/2026",
-    "contenido": "Hola amigas y amigos. Hacía mucho que no publicaba un podcast, pero tenía muchas ganas desde hace tiempo, de volver al lío. Durante estos últimos años han pasado muchas cosas, en lo laboral ha&#46;&#46;&#46;\nLa entrada Vuelta podcast, ajetreo laboral y mucho cacharreo se publicó primero en ochobitsh"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Retr0bright – Desamarillear un viejo monitor",
-    "link": "https://56k.es/fanta/retr0bright-desamarillear-un-viejo-monitor/",
-    "fecha": "11/04/2026",
-    "contenido": "La estética no es vital pero si importante. Nos gustan las cosas bellas más que lo feo y en el caso de los ordenadores, teclados, monitores &#8230; con cubiertas de plástico con bromo (para que no prendan mucho en caso de incendio) el paso del tiempo y la luz hace que empiecen a verse amarillos...."
-  },
-  {
-    "blog": "El blog de Don Hielos",
-    "titulo": "1984",
-    "link": "https://www.donhielos.com/letras/libros/2026/04/1984/",
-    "fecha": "11/04/2026",
-    "contenido": "Es el segundo libro que leo de George Orwell y también el segundo del año; un año que decidí dedicar, al menos en estos primeros meses, a historias distópicas. Por ello, me pareció un buen punto de partida leer esta... Leer más1984"
   }
 ]
