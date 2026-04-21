@@ -1,5 +1,124 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "Caer con estilo",
+    "link": "https://brucknerite.net/2026/04/caer-con-estilo.html",
+    "fecha": "20/04/2026",
+    "contenido": "La degradación gradual o controlada es una técnica de diseño empleada frecuentemente en ingeniería cuando se desea proteger la función principal del sistema a expensas de otras, consideradas secundarias. Pero ¿se usa en todos los casos en los que se debería?"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "El fin de los piratas",
+    "link": "https://jinversor.co/2026/04/el-fin-de-los-piratas/",
+    "fecha": "20/04/2026",
+    "contenido": "Qué bien me caían esos sujetos que se saltaban los abusos de las malas empresas como Mierdasoft. Esos que tomaban el software que necesitaban, no para venderlo sino para usarlo, [&#8230;]\nLa entrada El fin de los piratas se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Un bruto con Debian",
+    "titulo": "Crea webapps de la manera más sencilla.",
+    "link": "http://unbrutocondebian.blogspot.com/2026/04/crea-webapps-de-la-manera-mas-sencilla.html",
+    "fecha": "20/04/2026",
+    "contenido": "&nbsp;El otro día descubrí una aplicacion bastante interesante para trasnferir ficheros entre diferentes equipos, estén o no en la misma red y sin depender de un servidor-espía central. El gran problema es que solo tiene cliente para móvil aunque se puede \"ejecutar\" desde cualquier navegador moderno"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "La cuestión de la soberanía digital en Europa",
+    "link": "https://alt43.es/la-cuestion-de-la-soberania-digital-en-europa/",
+    "fecha": "20/04/2026",
+    "contenido": "Europa lleva años anunciando su independencia digital mientras firma contratos millonarios con los mismos proveedores que dice querer sustituir. Revisamos propuestas como EUCS, Gaia-X, EuroHPC y las iniciativas que funcionan (y las que no) para tratar de entender en qué punto se encuentra realmente "
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 16/2026",
+    "link": "https://www.macram.es/posts/2026/04/semana-16-2026/",
+    "fecha": "20/04/2026",
+    "contenido": "Mediados de mes y apenas he publicado cinco notas, de las que tres son de estas retros. No quiero dejar de escribir, me gusta, me hace sentir bien, pero cierto es que cuando llega el calor queremos hacer más actividades de exterior, y éstas muchas veces son incompatibles con sentarse en un sitio a e"
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Ajustando el diseño de mi blog",
+    "link": "https://matizeta.com/2026/04/20/ajustando-el-diseno-de-mi-blog/",
+    "fecha": "20/04/2026",
+    "contenido": "Lo volví a hacer. Si, cada cierto tiempo toco un poco el diseño de mi blog. No lo dejo tranquilo. Me gusta la estética de micro.blog, de hecho el servicio que ofrece me parece un buen lugar para tener un blog. Quería acerca mi blog a ese interfaz limpia y minimalista, así que estuve quitando [&#8230"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "El primer videojuego Argentino",
+    "link": "https://matizeta.com/2026/04/20/el-primer-videojuego-argentino/",
+    "fecha": "20/04/2026",
+    "contenido": "¿Si tuvieras que hacer el primer juego de tu país, cuál sería su temática? Seguramente algo muy característicos, arraigado a las costumbres. Fue así que en 1982, se creó el primer videojuego Argentino llamado “El Truco” o también llamado Truco Arbiser (el apellido de sus creadores). Para quien no lo"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "4 herramientas para gestionar y monitorizar Proxmox",
+    "link": "https://voidnull.es/4-herramientas-para-gestionar-y-monitorizar-proxmox/",
+    "fecha": "20/04/2026",
+    "contenido": "Descubre 4 herramientas que mejoran la gestión, monitorización y automatización de infraestructuras basadas en Proxmox en entornos de laboratorio y producción."
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Especial Javier y Erica II",
+    "link": "https://www.ericafustero.com/2026-04-especial-javier-y-erica-ii",
+    "fecha": "20/04/2026",
+    "contenido": "«¿Has hecho balance de tu año?». «Yo solo he hecho balance de blancos». \"Have you taken stock of your year?\" \"I’ve only adjusted my white balance\". The word play is lost in English, sorry! \"Hacer balance del año\" means reflecting on your year. «Instalé el open heart protocol de Muan para que la gent"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Dietpi – Una distro para RaspberryPi a dieta",
+    "link": "https://56k.es/fanta/dietpi-una-distro-para-raspberrypi-a-dieta/",
+    "fecha": "20/04/2026",
+    "contenido": "DietPI es una distro ligera para dispositivos del rollo Raspberry PI (no solamente Raspberry, también Orange Pi y otros). DietPi es una distribución Linux basada en Debian altamente optimizada y minimalista. DietPi es extremadamente ligera y también fácil de instalar y usar. En mi caso la he probado"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Se puede ser más boludo",
+    "link": "https://www.fabio.com.ar/9923-se-puede-ser-mas-boludo",
+    "fecha": "20/04/2026",
+    "contenido": "    \nNormalmente dir&iacute;amos \"no se puede ser m&aacute;s boludo\" como queriendo poner un l&iacute;mite mental a la estupidez que hizo alguien, pero creo que tenemos que ser m&aacute;s abiertos y darnos cuenta que algunos S&Iacute; pueden ser m&aacute;s boludos.\nDesde hace unos d&iacute;as quer&i"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Un Nuevo Álbum Asoma | Martin Simson´s Destroyer Of Death Estrena “Trinity” junto a Anette Olzon",
+    "link": "https://www.delotroladometal.com.ar/2026/04/20/martin-simsons-destroyer-of-death-estrena-trinity-junto-a-anette-olzon/",
+    "fecha": "20/04/2026",
+    "contenido": "Ya les habíamos contado en otra oportunidad sobre el proyecto Martin Simson´s Destroyer Of Death,...\nThe post Un Nuevo Álbum Asoma | Martin Simson´s Destroyer Of Death Estrena “Trinity” junto a Anette Olzon first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "Optando por apps con intervalos para notificaciones",
+    "link": "https://thejnx.bearblog.dev/sincronizacion-notificaciones/",
+    "fecha": "20/04/2026",
+    "contenido": "Desde mi último setup mencioné que lo primero que me llamó la atención como alternativa al FCM de Google (el servicio para que las apps envíen notificaciones al teléfono) fue UnifiedPush, aunque hay un pero, es el como las apps que utilizan este protocolo son casi inexistentes o al final no me son d"
+  },
+  {
+    "blog": "Loveof74",
+    "titulo": "El petit és molt gran",
+    "link": "https://www.loveof74.es/weblog/cultura/conciertos/el-petit-es-molt-gran/?utm_source=rss&utm_medium=rss&utm_campaign=el-petit-es-molt-gran",
+    "fecha": "20/04/2026",
+    "contenido": "Supongo que la cosa va de templos pequeños. Capillas para orar a nuestros variados dioses musicales. Hay una en Guissona, parada y fonda de los proyectos de El Petit de Cal Eril. Y hay otra en Donostia, llamada Dabadaba. Cuando las dos se juntan la cosa es celestial para los feligreses. Llegaba la b"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Suzume de Makoto Shinkai",
+    "link": "https://mareosdeungeek.es/suzume-de-makoto-shinkai/",
+    "fecha": "19/04/2026",
+    "contenido": "Suzume es otra de esas obras de Makoto Shinkai que se disfruta de principio a fin. Una nueva de vuelta a su manera de disfrutar de una buena historia entre la realidad y la fantasía, todo ello aderezado de una perfecta animación, de esas que sabes que solo puedes disfrutar en muy pocas películas de "
+  },
+  {
+    "blog": "productor de sostenibilidad",
+    "titulo": "SDDR: No es burocracia, es falta de voluntad.",
+    "link": "https://productordesostenibilidad.es/2026/04/sddr-no-es-burocracia-es-falta-de-voluntad/",
+    "fecha": "19/04/2026",
+    "contenido": "Leo a Antonio Cerrillo en La Vanguardia y me enciendo. El titular “La burocracia bloquea la implantación del retorno de envases usados al comercio” es un blanqueo a la jugarreta que está perpetrando la industria del envase de usar y tirar. Si me acompañas en los próximos párrafos te cuento qué está "
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "La nueva cara de BBS Paranoicos en Epicentro",
+    "link": "https://altgr.xyz/2026/04/19/la-nueva-cara-de-bbs-paranoicos-en-epicentro/",
+    "fecha": "19/04/2026",
+    "contenido": "Me costó acostumbrarme al nuevo vocalista de la banda. No veía a los BBS Paranoicos en vivo desde hace varios años y fue raro encontrarme con una cara diferente a la de Omar Acosta al frente. Aunque después de un rato ya estaba disfrutando como siempre. Para mí BBS Paranoicos no volverá a ser los mi"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Ping #22: Actualizaciones, novedades y ranking de distros",
     "link": "https://voidnull.es/ping-22/",
@@ -12,6 +131,13 @@
     "link": "https://sidiostedalimones.com/blog/2026/bumble/",
     "fecha": "19/04/2026",
     "contenido": ""
+  },
+  {
+    "blog": "56K",
+    "titulo": "Camuflar archivos en cartuchos de Game Boy",
+    "link": "https://56k.es/fanta/camuflar-archivos-secretos-en-cartuchos-de-game-boy/",
+    "fecha": "19/04/2026",
+    "contenido": "La idea es guardar datos en un cartucho de Game Boy de forma oculta. Esto implica que el juego ha de ser jugable sin problemas pero tener contenido guardado que podamos rescatar posteriormente simplemente sabiendo lo que ocupa la ROM del juego original. Lo primero de todo es elegir un juego de game "
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -224,6 +350,13 @@
     "contenido": "—Usar de pie. Rescatar hardware.— Estuve montando un despacho/estudio totalmente de improviso, pero el resultado preliminar me gustó tanto que empezó a fluir. Como no tengo escritorio, puse una librería Kallax de Ikea que tenía apartada y en los casilleros incorporé cestas llenas de herramientas, ca"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "La UE lanza una aplicación para verificar la edad",
+    "link": "https://mareosdeungeek.es/la-ue-lanza-una-aplicacion-para-verificar-la-edad/",
+    "fecha": "16/04/2026",
+    "contenido": "Ayer, la presidenta de la Comisión Europea anunció que la UE ya tiene preparada una aplicación para verificar la edad de los usuarios en Internet. Desde hace varios años, la UE y los países que la componen, buscan limitar o controlar el acceso a ciertos contenidos de la red. La excusa es el acceso d"
+  },
+  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "#190: me gustan estas cuerdas de guitarra",
     "link": "https://www.macram.es/posts/2026/04/me-gustan-estas-cuerdas-de-guitarra/",
@@ -243,6 +376,13 @@
     "link": "https://blog.danielaragay.net/are-we-spending-3-trillion-just-to-turn-out-the-stars/",
     "fecha": "16/04/2026",
     "contenido": "A thread on Mastodon last week stopped me mid-scroll. Someone was doing the math on Sam Altman&apos;s latest funding ambitions &#x2014; $2 to $3 trillion to reach the &quot;next level&quot; of intelligence &#x2014; and I couldn&apos;t help thinking: we&apos;ve seen this movie"
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "En la Casa de la Mujer hablando de IA",
+    "link": "https://blog.elmundoesimperfecto.com/2026/04/16/maria-moliner-ia/",
+    "fecha": "16/04/2026",
+    "contenido": "No me considero un gran experto en IA, aunque algo de material he ido preparando para mis clases, alguna sesión que me han pedido aquí y allá y mis propias lecturas y pruebas con la cosa.\n\nHace algunas semanas me contactó María Dubón de la Asociación María Moliner para ver si podíamos organizar una "
   },
   {
     "blog": "56K",
@@ -271,6 +411,13 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/vencindario/",
     "fecha": "15/04/2026",
     "contenido": "Nunca, desde que salí de casa de mis padres, he conocido a mis vecinos. No sé cómo se llaman, no sé apenas nada de sus vidas, más allá de lo que pueda deducir cuando me los cruzo por la escalera... ¡Qué leches! Si ni siquiera sé a qué piso van cuando me los cruzo en el ascensor... Mi mente no es cap"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Marbella, quiero y no puedo",
+    "link": "https://mareosdeungeek.es/marbella-quiero-y-no-puedo/",
+    "fecha": "15/04/2026",
+    "contenido": "Hoy he podido revivir otro quiero y no puedo marbellí. Como todos los veranos, tengo que buscar campamento para mis hijos. El verano es muy largo y aunque vivamos en una ciudad turística, no podemos estar dos meses y medio de vacaciones. Afortunadamente, en Marbella, hay multitud de opciones en form"
   },
   {
     "blog": "pov – matizeta",
@@ -378,6 +525,13 @@
     "contenido": "Ya tocaba esta crítica, constructiva y a ratos entusiasta, del libro recientemente publicado por María Álvarez (editorial Debate). Un texto necesario en estos tiempos oscuros. Pero ¿cuándo no lo fueron?"
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "10 mujeres que definieron la seguridad informática",
+    "link": "https://gatooscuro.xyz/10-mujeres-que-definieron-la-seguridad-informatica/",
+    "fecha": "14/04/2026",
+    "contenido": "Durante la madrugada me encontraba leyendo sobre las últimas herramientas que aún nos quedan en esta vasta red para blindar nuestra seguridad y privacidad en línea. En medio de esa\nSeguir leyendo  10 mujeres que definieron la seguridad informática\nEl cargo 10 mujeres que definieron la seguridad info"
+  },
+  {
     "blog": "post-it – matizeta",
     "titulo": "Qin F25",
     "link": "https://matizeta.com/2026/04/14/qin-f25/",
@@ -404,13 +558,6 @@
     "link": "https://blog.danielaragay.net/asi-se-hace-la-declaracion-de-la-renta-en-suecia/",
     "fecha": "14/04/2026",
     "contenido": "As&#xed; se hace la declaraci&#xf3;n de la renta en SueciaFormas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@haciendoel"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Presentación en Terranova",
-    "link": "https://www.ericafustero.com/2026-04-presentacion-en-terranova",
-    "fecha": "14/04/2026",
-    "contenido": "Muchas gracias a toda la gente que vinisteis a Terranova el viernes, fue genial presentar Erica a diario junto a Alba G. Mora rodeadas de tanta gente estupenda. Antes de la presentación dije que haría muchas fotos pero luego me olvidé. Eso y que supongo que me tocaba hablar y no se puede estar a [&#"
   },
   {
     "blog": "Fabio.com.ar",
@@ -446,138 +593,5 @@
     "link": "https://javiersam.uy/2026/04/full-circle-226-febrero-2026.html",
     "fecha": "14/04/2026",
     "contenido": "Aquí va mi reseña de la edición #226 de Full Circle magazine. Está disponible para su descarga desde el 27 de febrero y se trata del número correspondiente a febrero de 2026. consiste en un PDF de 57 páginas y de 5,0 MB.) De la sección de Noticias (páginas 4 a 14) lo que más llamó mi atención fue: P"
-  },
-  {
-    "blog": "Blep",
-    "titulo": "Pausas y vacíos",
-    "link": "https://blep.org/Pausas-y-vacios",
-    "fecha": "13/04/2026",
-    "contenido": "Llevo ya más de una semana que, muy a menudo, pienso en cosas que escribir aquí en distintos momentos pero, una vez llego al ordenador y abro esto, mi mente se queda en blanco. Pero la intención, el impulso de decir bobadas, sigue ahí. Es una sensación incómoda, pero no extraña: la he sentido innume"
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "¿Tiene una derecho a llorar lo que no supo luchar?",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/tiene-una-derecho-a-llorar-lo-que-no-supo-luchar/",
-    "fecha": "13/04/2026",
-    "contenido": "Este año la editorial que publica mi libro no me ha llamado para acudir a la Feria del Libro de Madrid, como los tres anteriores. A decir verdad, yo no tenía muy claro lo de querer ir: el año pasado me salió por un pico y, como autista, ese rato de parecer normal y sentirme expuesta se me hace bola,"
-  },
-  {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "La inexistencia del tiempo según McTaggart",
-    "link": "https://vonneumannmachine.wordpress.com/2026/04/13/la-inexistencia-del-tiempo-segun-mctaggart/",
-    "fecha": "13/04/2026",
-    "contenido": "La pregunta por el tiempo ha sido, sin lugar a dudas, una de las cuestiones filosóficamente más potentes. Es algo muy extraño. Nos da la impresión de que es algo que transcurre, que pasa de forma, además, inevitable. Y nos parece que va siempre en una misma dirección, inexorablemente hacia el futuro"
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Unas palabras sobre Proyecto Hail Mary (Proyecto Salvación)",
-    "link": "https://mcallus.net/2026/04/13/unas-palabras-sobre-proyecto-hail-mary-proyecto-salvacion/",
-    "fecha": "13/04/2026",
-    "contenido": "El artículo es sin spoilers. Pues no sabía si escribir este artículo porque la verdad es que parece que decir la más mínima cosa negativa de la película Proyecto Salvación es ser un hater, un gafapasta o simplemente alguien que quiere llamar la atención yendo en contra de todo el mundo. Y nada más l"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Migrar de WhatsApp a Signal",
-    "link": "https://alt43.es/migrar-de-whatsapp-a-signal-sin-dramas/",
-    "fecha": "13/04/2026",
-    "contenido": "WhatsApp recopila y monetiza una ingente cantidad de datos personales mediante los \"metadatos\". En el lado opuesto tenemos a Signal, de código abierto y gestionada mediante una fundación. Desarrollamos de forma práctica como migrar de una a otra y algunos argumentos para tratar de sumar amigos y con"
-  },
-  {
-    "blog": "Cajón desastre",
-    "titulo": "Por qué cacharrear, o la tecnología como patio de juegos",
-    "link": "https://ccriss92.bearblog.dev/por-que-cacharrear-o-la-tecnologia-como-patio-de-juegos/",
-    "fecha": "13/04/2026",
-    "contenido": "Últimamente pienso mucho en cómo ha cambiado mi relación con la tecnología. En cómo antes me ilusionaba leyendo sobre novedades y tenía ganas de que sacaran nuevas versiones del software para ver qué había cambiado y cómo ahora me he resignado y aferro a lo malo conocido. Y me pregunto quién ha camb"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Los teclados actuales deberían incluir un hub de conectividad",
-    "link": "https://www.macram.es/posts/2026/04/el-hub-de-un-ordenador-deberia-estar-en-el-teclado/",
-    "fecha": "13/04/2026",
-    "contenido": "Cada vez que uso mi dock Thunderbolt pienso que tener la posibilidad de conectar todos mis periféricos a mi portátil a través de un único cable es agradable, y me permite tener el escritorio mucho más ordenado de lo que lo tendría en caso contrario. Y cada vez que miro mi teclado pienso que sería to"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 15/2026",
-    "link": "https://www.macram.es/posts/2026/04/semana-15-2026/",
-    "fecha": "13/04/2026",
-    "contenido": "No me da la vida. Este es esencialmente el resumen que puedo hacer de esta semana. He estado ocupado con algunos affaires del mundo real que han requerido de mi presencia y mi atención y, lo reconozco, mi presencia online se ha tenido que reducir en consecuencia. Hay un límite de horas al día.\nEsta "
-  },
-  {
-    "blog": "post-it – matizeta",
-    "titulo": "Videojuegos Legendarios",
-    "link": "https://matizeta.com/2026/04/13/videojuegos-legendarios/",
-    "fecha": "13/04/2026",
-    "contenido": "Esta colección llamada Videojuegos Legendarios recorre la historia de los videjuegos a través de las sagas y títulos más importantes.&#160; En una entrega con un total de 70 fasículos de tapa dura coleccionables que se autodenomina como la primera colección sobre videojuegos. Cada libro explora en d"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Actualizando redes y generando herramientas",
-    "link": "https://blog.danielaragay.net/actualizando-redes-y-generando-herramientas/",
-    "fecha": "13/04/2026",
-    "contenido": "Prepar&#xe1;ndome para mi nuevo futuro laboral actualizando la red que m&#xe1;s lo peta en Suecia y otras cosas interesantes.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoE"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "El Lado Más Romántico de Denisse Malebrán",
-    "link": "https://altgr.xyz/2026/04/13/el-lado-mas-romantico-de-denisse-malebran/",
-    "fecha": "13/04/2026",
-    "contenido": "La vocalista de Saiko presentó por primera vez en vivo su más reciente trabajo como solista, Corazón Salvaje, la noche de sábado en la Sala SCD de Plaza Egaña. Un disco con reversiones de clásicos de la balada romántica en español. Canciones muy bien trabajadas que quedan preciosas en la voz de Deni"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de PieFed en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-piefed-en-debian-13/",
-    "fecha": "13/04/2026",
-    "contenido": "PieFed es una plataforma federada de agregación de enlaces y discusión que forma parte del Fediverso."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "La extraña derrota subjetiva",
-    "link": "https://www.fabio.com.ar/9917-la-extrana-derrota-subjetiva",
-    "fecha": "13/04/2026",
-    "contenido": "    \nUltimamente estoy escribiendo una serie de art&iacute;culos sobre el ataque autoinmune de Occidente (en parte financiado con dinero de las dictaduras a las cual les viene muy mal esta parte del mundo), y hoy quer&iacute;a comentar de un caso muy interesante de \"post-verdad\".\nPodr&iacute;amos ll"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Banda Argentina Prepara Nuevo Video Y Nuevo Material | Triade Proyecta Su 2026",
-    "link": "https://www.delotroladometal.com.ar/2026/04/13/triade-proyecta-su-2026/",
-    "fecha": "13/04/2026",
-    "contenido": "Triade es una banda histórica y legendaria dentro de lo que es el denominado White...\nThe post La Banda Argentina Prepara Nuevo Video Y Nuevo Material | Triade Proyecta Su 2026 first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Lovable payments inicia sesión",
-    "link": "https://dani.torresburriel.com/lovable-payments/",
-    "fecha": "13/04/2026",
-    "contenido": "Lovable Payments entra en escena para dar un golpe encima de la mesa de las aplicaciones de construcción de producto con inteligencia artificial.\nLa entrada Lovable payments inicia sesión se publicó primero en Blog de Daniel Torres Burriel."
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Algunos álbumes del rock progresivo - sinfónico",
-    "link": "https://jdrm.info/algunos-albumes-del-rock-progresivo-sinfonico.html",
-    "fecha": "13/04/2026",
-    "contenido": "Algunos discos de rock progresivo y sinfónico que considero esenciales"
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Algunos álbumes del rock progresivo - sinfónico",
-    "link": "https://jdrm.info/algunos-albumes-del-rock-progresivo-sinfonico.html",
-    "fecha": "13/04/2026",
-    "contenido": "Algunos discos de rock progresivo y sinfónico que considero esenciales"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Osint a un enlace",
-    "link": "https://jinversor.co/2026/04/osint-a-un-enlace/",
-    "fecha": "12/04/2026",
-    "contenido": "Hace mucho no jugaba con mi máquina Kali Linux. Por el trabajo que estoy haciendo en las últimas semanas he perdido un poco el interés en la ciberseguridad. Sin embargo, [&#8230;]\nLa entrada Osint a un enlace se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "El Regreso de Dama Juana",
-    "link": "https://altgr.xyz/2026/04/12/el-regreso-de-dama-juana/",
-    "fecha": "12/04/2026",
-    "contenido": "Este viernes, en la antesala del show de Cler Canifrú en el Club Chocolate se presentó &#8211;de manera muy sorpresiva para mí&#8211; Dama Juana, otro de los proyectos de Pancho Rojas (La Banda del Capitán Corneta, Mandrácula), una banda chilena de hard rock muy potente. Un bonito milagro de Santa C"
   }
 ]
