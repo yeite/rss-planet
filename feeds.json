@@ -1,10 +1,24 @@
 [
   {
-    "blog": "FerretCMS site",
+    "blog": "Diego Cano",
     "titulo": "Guía de supervivencia para tiempos interesantes",
     "link": "https://blep.org/guia-de-supervivencia-para-tiempos-interesantes",
     "fecha": "22/04/2026",
     "contenido": "No creo ser la persona apropiada para escribir esto. Tampoco creo que sea la única intentándolo. Pero bueno, lo escribo sobre todo para mi (sí, esa segunda persona del singular que aparece por todo el texto soy yo mismo. Estoy monologándome para sacudirme el aturdimiento). Por cierto, siguiendo mi c"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Probando Cockpit, el sustituto de YaST en #openSUSE Tumbleweed",
+    "link": "https://victorhckinthefreeworld.com/2026/04/22/probando-cockpit-el-sustituto-de-yast-en-opensuse-tumbleweed/",
+    "fecha": "22/04/2026",
+    "contenido": "Cockpit en openSUSE es el sustituto ya \"de facto\" de YaST a la hora de configurar diversos aspectos de nuestro sistema openSUSE"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Mírame",
+    "link": "https://jinversor.co/2026/04/mirame/",
+    "fecha": "22/04/2026",
+    "contenido": "Mírame, mírame, por favor mírame. Te prometo que verás cosas que nunca antes habías visto. Te aseguro que soy la persona más original del mundo. Soy única e irrepetible. Solo [&#8230;]\nLa entrada Mírame se publicó primero en Jinversor."
   },
   {
     "blog": "Mareos de un geek",
@@ -14,11 +28,39 @@
     "contenido": "Los misterios de la taberna Kamogawa es el inicio de una serie de libros escritos por el japonés Hisashi Kashiwai. Mezclando la gastronomía y el misterio ha ido creando una serie de historias que alcanzan ya, en Japón, los once libros. Afortunadamente, en España, parece que está teniendo una buena a"
   },
   {
+    "blog": "NeoSite Blog",
+    "titulo": "NeoSite Podcast #12 - MergerFS, magia de directorios en tu homeserver",
+    "link": "http://blog.neosite.com.ar/post/neosite-podcast-12-mergerfs-magia-de-directorios-en-tu-homeserver",
+    "fecha": "22/04/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Cambios inesperados del concurso literario que me presenté",
+    "link": "https://blog.danielaragay.net/cambios-inesperados-del-concurso-literario-que-me-presente/",
+    "fecha": "22/04/2026",
+    "contenido": "Cambios inesperados del concurso literario que me present&#xe9;Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@hacie"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "nl: numera líneas por encima de tus posibilidades",
+    "link": "https://voidnull.es/nl-numera-lineas-por-encima-de-tus-posibilidades/",
+    "fecha": "22/04/2026",
+    "contenido": "Aprende a usar el comando nl en GNU/Linux para numerar líneas de archivos de texto y controlar el formato de salida desde la terminal."
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Integración de Ghost CMS en Home Assistant",
     "link": "https://voidnull.es/integracion-de-ghost-cms-en-home-assistant/",
     "fecha": "22/04/2026",
     "contenido": "Integra Ghost CMS en Home Assistant y monitoriza tu blog en tiempo real desde tu panel domótico fácilmente."
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Las aventuras de Benchamín",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/04/22/20260422-aventuras-de-benchamin/",
+    "fecha": "22/04/2026",
+    "contenido": "The Bench es la historia de un anciano sentadito al sol al que todos subestiman, cuando tiene más peligro de cierto infame ganso"
   },
   {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
@@ -36,6 +78,13 @@
   },
   {
     "blog": "56K",
+    "titulo": "dosemu2 – Ejecutar aplicaciones de DOS en LINUX",
+    "link": "https://56k.es/fanta/dosemu2-ejecutar-aplicaciones-de-dos-en-linux/",
+    "fecha": "22/04/2026",
+    "contenido": "Es posible ejecutar software de MSDOS en Linux usando dosemu2. El problema es que posiblemente vamos a tener que compilar dosemu2 y alguna de sus dependencias. Si por ejemplo te apetece jugar algún juego fanta.56k.es/software/Juegos/Msdos-Games/ en una ventana mientras navegas y haces otras cosas (p"
+  },
+  {
+    "blog": "56K",
     "titulo": "Biblioburros – Fuera de las garras de la IA",
     "link": "https://56k.es/fanta/biblioburros-fuera-de-las-garras-de-la-ia/",
     "fecha": "22/04/2026",
@@ -49,11 +98,46 @@
     "contenido": "@Anthk@neopaquita.es comentó el otro día la existencia del software «Minimodem» en un comentario en 56k.es. Un software que puede usarse para transferir datos entre ordenadores cercanos mediante un cable de audio (o simplemente mediante ondas sonoras), o entre ordenadores remotos mediante radio, tel"
   },
   {
+    "blog": "prosa",
+    "titulo": "frikismo exquisito",
+    "link": "https://blog.adrianaaraujot.casa/frikismo-exquisito/",
+    "fecha": "22/04/2026",
+    "contenido": "para las frikis de las notas, las listas y registros que leen estas cartas (y un desearles un feliz día del libro, por adelantado)"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "¿Realmente los Nazis pagaron por lo que hicieron?",
     "link": "https://www.fabio.com.ar/9925-realmente-los-nazis-pagaron-por-lo-que-hicieron",
     "fecha": "22/04/2026",
     "contenido": "    \nCuando era m&aacute;s chico daba por hecho que casi todos los nazis hab&iacute;an terminado en la horca y s&oacute;lo unos pocos hab&iacute;an escapado.\nPero con el paso del tiempo no s&oacute;lo me enteraba de alg&uacute;n que otro jerarca que era perseguido o que sencillamente hab&iacute;a lo"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Akumajō Special: Boku Dracula-kun (Kid Dracula) - Famicom",
+    "link": "https://picandocodigo.net/2026/akumajo-special-boku-dracula-kun-kid-dracula-famicom/",
+    "fecha": "22/04/2026",
+    "contenido": "Akumajō Special: Boku Dracula-kun es un juego de plataformas publicado en 1990 por Konami para el Famicom. Fue exclusivo del mercado japonés hasta que en 2019 se incluyera en Castlevania Anniversary Collection. En esa colección podemos encontrar una versión localizada al inglés del juego. Lo tengo e"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Con Varios Ex Integrantes De La Banda Más Luke Renno, Ex Crimson Thorn... | Se Confirma Rumor…Vuelve Mortification, En Forma De Tributo A “Scrolls Of The Megilloth”….",
+    "link": "https://www.delotroladometal.com.ar/2026/04/22/se-confirma-rumorvuelve-mortification-en-forma-de-tributo/",
+    "fecha": "22/04/2026",
+    "contenido": "Era un rumor que andaba dando vuelta y necesitaba confirmarse. Ya lo podemos decir con...\nThe post Con Varios Ex Integrantes De La Banda Más Luke Renno, Ex Crimson Thorn... | Se Confirma Rumor…Vuelve Mortification, En Forma De Tributo A “Scrolls Of The Megilloth”…. first appeared on Del Otro Lado Me"
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Una nota personal sobre la actualidad",
+    "link": "https://dani.torresburriel.com/una-nota-personal-sobre-la-actualidad/",
+    "fecha": "22/04/2026",
+    "contenido": "Se ha firmado el acuerdo de gobierno para Aragón. Como aragonés, deseo sinceramente que la legislatura sirva para mejorar la vida de la gente: la vivienda, la sanidad, la escuela rural, el agua, los regadíos, los cuidados. Ahí hay mucho trabajo que merece salir bien, y ojalá salga. Y como ciudadano,"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "La diferencia de impedancia entre dos redes sociales",
+    "link": "https://brucknerite.net/2026/04/la-diferencia-de-impedancia-entre-dos-redes-sociales.html",
+    "fecha": "21/04/2026",
+    "contenido": "A «nivel usuario», entre Mastodón y Bluesky no hay demasiada diferencia. Sin embargo, comunicarse entre ambas redes, aunque posible, viene con una serie de condicionantes que se parecen mucho al desacoplamiento de impedancia entre redes de componentes electrónicos."
   },
   {
     "blog": "THE_CHEI$",
@@ -68,6 +152,13 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/los-grandes-gestos-como-pobres-disculpas/",
     "fecha": "21/04/2026",
     "contenido": "Este post contiene spoilers de la novela Hamnet, aunque sean como mera excusa para iniciar el razonamiento, así que si no la has leído y no te gusta que te destripen detalles, deberías parar de leer aquí.\n\nAyer acabé de leer Hamnet, la novela de Maggie O'Farrell. Hacia el final de la novela hay dos "
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Todos vamos a morir",
+    "link": "https://jinversor.co/2026/04/todos-vamos-a-morir/",
+    "fecha": "21/04/2026",
+    "contenido": "En lo corrido del año han muerto tres personas que conozco. Tres mujeres ± de mi edad y las tres por la misma causa: cáncer. Sé que todos vamos a [&#8230;]\nLa entrada Todos vamos a morir se publicó primero en Jinversor."
   },
   {
     "blog": "plr blog",
@@ -133,6 +224,13 @@
     "contenido": "    \nEn la Tierra hay algunos lugares que son extremadamente planos, y creemos que nuestras pampas son planas, pero no tenemos idea de la extensi&oacute;n que tienen estas dos planicies que les voy a mencionar.\nRusia es el pa&iacute;s en com&uacute;n en ambas zonas divididas por una cadena monta&nti"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Testimony Of Apocalypse: Agony In The Garden | No Todo Lo Que Parece, Es…",
+    "link": "https://www.delotroladometal.com.ar/2026/04/21/no-todo-lo-que-parece-es/",
+    "fecha": "21/04/2026",
+    "contenido": "(2025 &#8211; Roxx Records) Las apariencias engañan dice un viejo dicho, y una regla que...\nThe post Testimony Of Apocalypse: Agony In The Garden | No Todo Lo Que Parece, Es… first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "JavierSam",
     "titulo": "Libre Graphics Meeting 2026",
     "link": "https://javiersam.uy/2026/04/libre-graphics-meeting-2026.html",
@@ -140,11 +238,32 @@
     "contenido": "Mañana, miércoles 22 de abril, comienza en Nurembreg, Alemania, la 19ª Libre Graphics Meeting y va hasta el sábado 25. Charlas En principio, y luego de una mirada superficial al programa, las charlas que me parecen más interesantes son: Miércoles 22 Jueves 23 Viernes 24 Sábado 25 Las charlas se tran"
   },
   {
+    "blog": "brucknerite",
+    "titulo": "Caer con estilo",
+    "link": "https://brucknerite.net/2026/04/caer-con-estilo.html",
+    "fecha": "20/04/2026",
+    "contenido": "La degradación gradual o controlada es una técnica de diseño empleada frecuentemente en ingeniería cuando se desea proteger la función principal del sistema a expensas de otras, consideradas secundarias. Pero ¿se usa en todos los casos en los que se debería?"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "El fin de los piratas",
+    "link": "https://jinversor.co/2026/04/el-fin-de-los-piratas/",
+    "fecha": "20/04/2026",
+    "contenido": "Qué bien me caían esos sujetos que se saltaban los abusos de las malas empresas como Mierdasoft. Esos que tomaban el software que necesitaban, no para venderlo sino para usarlo, [&#8230;]\nLa entrada El fin de los piratas se publicó primero en Jinversor."
+  },
+  {
     "blog": "Un bruto con Debian",
     "titulo": "Crea webapps de la manera más sencilla.",
     "link": "http://unbrutocondebian.blogspot.com/2026/04/crea-webapps-de-la-manera-mas-sencilla.html",
     "fecha": "20/04/2026",
     "contenido": "&nbsp;El otro día descubrí una aplicacion bastante interesante para trasnferir ficheros entre diferentes equipos, estén o no en la misma red y sin depender de un servidor-espía central. El gran problema es que solo tiene cliente para móvil aunque se puede \"ejecutar\" desde cualquier navegador moderno"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "La cuestión de la soberanía digital en Europa",
+    "link": "https://alt43.es/la-cuestion-de-la-soberania-digital-en-europa/",
+    "fecha": "20/04/2026",
+    "contenido": "Europa lleva años anunciando su independencia digital mientras firma contratos millonarios con los mismos proveedores que dice querer sustituir. Revisamos propuestas como EUCS, Gaia-X, EuroHPC y las iniciativas que funcionan (y las que no) para tratar de entender en qué punto se encuentra realmente "
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -194,6 +313,13 @@
     "link": "https://www.fabio.com.ar/9923-se-puede-ser-mas-boludo",
     "fecha": "20/04/2026",
     "contenido": "    \nNormalmente dir&iacute;amos \"no se puede ser m&aacute;s boludo\" como queriendo poner un l&iacute;mite mental a la estupidez que hizo alguien, pero creo que tenemos que ser m&aacute;s abiertos y darnos cuenta que algunos S&Iacute; pueden ser m&aacute;s boludos.\nDesde hace unos d&iacute;as quer&i"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Un Nuevo Álbum Asoma | Martin Simson´s Destroyer Of Death Estrena “Trinity” junto a Anette Olzon",
+    "link": "https://www.delotroladometal.com.ar/2026/04/20/martin-simsons-destroyer-of-death-estrena-trinity-junto-a-anette-olzon/",
+    "fecha": "20/04/2026",
+    "contenido": "Ya les habíamos contado en otra oportunidad sobre el proyecto Martin Simson´s Destroyer Of Death,...\nThe post Un Nuevo Álbum Asoma | Martin Simson´s Destroyer Of Death Estrena “Trinity” junto a Anette Olzon first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Un Diario",
@@ -252,6 +378,13 @@
     "contenido": "La idea es guardar datos en un cartucho de Game Boy de forma oculta. Esto implica que el juego ha de ser jugable sin problemas pero tener contenido guardado que podamos rescatar posteriormente simplemente sabiendo lo que ocupa la ROM del juego original. Lo primero de todo es elegir un juego de game "
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Estreno y Próximo EP En Camino | “Última Batalla”, Lo Nuevo De Proyecto Grial",
+    "link": "https://www.delotroladometal.com.ar/2026/04/19/ultima-batalla-lo-ultimo-de-proyecto-grial/",
+    "fecha": "19/04/2026",
+    "contenido": "La banda afincada en la provincia de Córdoba, Argentina, acaba de liberar y estrenar un...\nThe post Estreno y Próximo EP En Camino | “Última Batalla”, Lo Nuevo De Proyecto Grial first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "JavierSam",
     "titulo": "¡Se viene el FLISoL 2026!",
     "link": "https://javiersam.uy/2026/04/se-viene-el-flisol-2026.html",
@@ -280,6 +413,13 @@
     "contenido": "Cuando escribí sobre mi nuevo Intel NUC y la (nada extraña) elección de Fedora, hice alusiones sobre evolucionar mi uso de Linux adoptando adecuadamente tecnologías avanzadas como Btrfs. Si bien este formato de archivos ya no es un extraño, Fedora ha sido el ariete definitivo para asentar un concept"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "Una pelea desigual",
+    "link": "https://jinversor.co/2026/04/una-pelea-desigual/",
+    "fecha": "18/04/2026",
+    "contenido": "Todos los inversionistas de activos financieros sabemos que los mercados se manipulan. Quien no lo sepa, o lo dude, es porque lleva muy poco tiempo en este negocio. No obstante, [&#8230;]\nLa entrada Una pelea desigual se publicó primero en Jinversor."
+  },
+  {
     "blog": "El Sueño del Artista Blog",
     "titulo": "Despegando  hacia el futuro con «Afrofuturismo: Imaginarios del Porvenir»",
     "link": "https://polotman.wordpress.com/2026/04/18/https-polotman-wordpress-com-2025-04-23-afrofuturismo-podcast-estreno/",
@@ -306,6 +446,13 @@
     "link": "http://frikoteca.blogspot.com/2026/04/resena-de-artemisa-vi.html",
     "fecha": "18/04/2026",
     "contenido": "Artemisa VI es una aventura de ciencia ficción escrita por Ernesto Orellana para el juego M-Space, de 77Mundos. Una aventura que realmente parece llegar en un momento de lo más adecuado, teniendo en cuenta que la gente tiene más que presente las misiones Artemisa de la NASA después que la segunda mi"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Northern Flame: Twisted Reality | El Fuego Del Metal Viene Del Norte",
+    "link": "https://www.delotroladometal.com.ar/2026/04/18/el-fuego-del-metal-viene-del-norte/",
+    "fecha": "18/04/2026",
+    "contenido": "(2020 &#8211; Teosto/NCB) No es ninguna novedad decir que desde hace tiempo ya el norte...\nThe post Northern Flame: Twisted Reality | El Fuego Del Metal Viene Del Norte first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -399,6 +546,13 @@
     "contenido": "Arcs es un juego diseñado por Cole Wehrle e ilustrado por Kyle Ferrin. Como si eso no fuera suficiente, además está ambientado en EL ESPACIO. No sé si podés describir un juego en un párrafo tan corto y que me llame más la atención que esto.\n\n\n Imagen de BGG\n \n\n\nCole Wehrle y Kyle Ferrin son el equip"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Iconic Prepara \"II\", Su Nuevo Álbum | Los Super Héroes Del Hard Rock Atacan De Vuelta",
+    "link": "https://www.delotroladometal.com.ar/2026/04/17/los-super-heroes-del-hard-rock-atacan-de-vuelta/",
+    "fecha": "17/04/2026",
+    "contenido": "A través de Frontiers Records, Iconic, la formación que incluye a grandes de la escena...\nThe post Iconic Prepara \"II\", Su Nuevo Álbum | Los Super Héroes Del Hard Rock Atacan De Vuelta first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "DANOK toma forma: aprender a construir en red",
     "link": "https://dani.torresburriel.com/danok-red-consultoras-digitales-en-marcha/",
@@ -467,19 +621,5 @@
     "link": "https://www.fabio.com.ar/9921-ruleta-rusa-872",
     "fecha": "16/04/2026",
     "contenido": "     Necesitabas un buen balazo?\nEs hora de cabecear balas porque es jueves, es d&iacute;a de ruleta, y porque estoy al borde del colapso mental, as&iacute; que mejor algo que nos cambie el tema, no importa cual sea, que lo cambie. Es hora de Ruleta y de unos buenos balazos, gatitos y cosas as&iacut"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Marbella, quiero y no puedo",
-    "link": "https://mareosdeungeek.es/marbella-quiero-y-no-puedo/",
-    "fecha": "15/04/2026",
-    "contenido": "Hoy he podido revivir otro quiero y no puedo marbellí. Como todos los veranos, tengo que buscar campamento para mis hijos. El verano es muy largo y aunque vivamos en una ciudad turística, no podemos estar dos meses y medio de vacaciones. Afortunadamente, en Marbella, hay multitud de opciones en form"
-  },
-  {
-    "blog": "",
-    "titulo": "Mala Suerte en Salón Pueyrredón.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/04/15/mala-suerte-en-salon-pueyrredon/",
-    "fecha": "15/04/2026",
-    "contenido": "El grupo de Punk Celta Mala Suerte se presenta en Salón Pueyrredón para festejar los 35 años de su primer disco. Abajo les dejo el enlace para conseguir las entradas. &#62;&#62;&#62; Entradas Aquí &#60;&#60;&#60;"
   }
 ]
