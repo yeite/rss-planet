@@ -1,6 +1,55 @@
 [
   {
     "blog": "Diego Cano",
+    "titulo": "Implementando OpenHeart",
+    "link": "https://blep.org/Implementando-OpenHeart",
+    "fecha": "23/04/2026",
+    "contenido": "Hace poco oí hablar del protocolo Open Heart. Me pareció una idea muy sencilla de dar un poco de feedback a una página, sin tener que implementar complicados sistemas de rastreo o de comentarios.\n\nConfieso que la búsqueda que hice fue somera, pero no encontré ninguna implementación que pudiese meter"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Apple y lo barato",
+    "link": "https://adrianperales.com/2026/04/apple-y-lo-barato/",
+    "fecha": "23/04/2026",
+    "contenido": "Se me revuelve todo por dentro cuando veo que el iPhone 17e o el MacBook Neo cuestan 700 euros y se habla de ellos como productos «baratos». Un portátil de 700 euros no es barato. Un móvil de 700 no es barato. Mi iPhone SE de 2022 costó 500 y tampoco era barato para lo [&#8230;]"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Signal bajo asedio | Cuando el sistema traiciona al cifrado",
+    "link": "https://gatooscuro.xyz/signal-bajo-asedio-cuando-el-sistema-traiciona-al-cifrado/",
+    "fecha": "23/04/2026",
+    "contenido": "PD: El tema estuvo muy sonado semanas atrás, pero debido a compromisos no pude estar al día, lo lamento, aun así&#8230; proporciono fuentes centralizadas en este artículo que les servirá\nSeguir leyendo  Signal bajo asedio &#124; Cuando el sistema traiciona al cifrado\nEl cargo Signal bajo asedio | Cu"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Sigo vivo",
+    "link": "https://www.xn--jmuoz-qta.es/2026/04/sigo-vivo.html",
+    "fecha": "23/04/2026",
+    "contenido": "Ando algo desconectado de este cuaderno y eso no me gusta nada, porque este pequeño rincón me ha dado mucha paz en momentos de incertidumbre. Pero ahora mismo no doy para más. Este último achuchón me está costando más de lo que esperaba por cansancio y por falta de sueño. Es algo que se repite por e"
+  },
+  {
+    "blog": "56K",
+    "titulo": "PliegOS – Fuera de las garras de la IA",
+    "link": "https://56k.es/fanta/pliegos-fuera-de-las-garras-de-la-ia/",
+    "fecha": "23/04/2026",
+    "contenido": "Desde hace tiempo que quería comentar el proyecto «PliegOS« (parte de la familia cooperativa femProcomuns) y creo que encaja muy bien en esta serie de posts «Fuera de las garras de la IA». No se trata de un Sistema Operativo de software pero si de todo un sistema de operar promoviendo la difusión de"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #873",
+    "link": "https://www.fabio.com.ar/9926-ruleta-rusa-873",
+    "fecha": "23/04/2026",
+    "contenido": "     Hoy todas las balas pegan\nMis ruleteros! &iquest;D&oacute;nde est&aacute;n? Pues p&oacute;nganse a reparo que aqu&iacute; llegaron las balas que estaban esperando! Gatos, paisajes, perros, idioteces y tetas, lo que todo jueves deber&iacute;a tener por ley.\nAhora s&iacute;, Ruleta Rusa!Creative "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Lightmare: The Fool | La Sinfónica Alemana",
+    "link": "https://www.delotroladometal.com.ar/2026/04/23/la-sinfonica-alemana/",
+    "fecha": "23/04/2026",
+    "contenido": "(1997 &#8211; Treasure Hunt Records) Hay discos que trascienden el paso del tiempo, y que...\nThe post Lightmare: The Fool | La Sinfónica Alemana first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Diego Cano",
     "titulo": "Guía de supervivencia para tiempos interesantes",
     "link": "https://blep.org/guia-de-supervivencia-para-tiempos-interesantes",
     "fecha": "22/04/2026",
@@ -120,10 +169,10 @@
   },
   {
     "blog": "Del Otro Lado Metal",
-    "titulo": "Con Varios Ex Integrantes De La Banda Más Luke Renno, Ex Crimson Thorn... | Se Confirma Rumor…Vuelve Mortification, En Forma De Tributo A “Scrolls Of The Megilloth”….",
+    "titulo": "Con Varios Ex Integrantes De La Banda Más Luke Renno, Ex Crimson Thorn... | Se Confirma Rumor…Vuelve Mortification, Para Celebrar Los 35 Años De “Scrolls Of The Megilloth”….",
     "link": "https://www.delotroladometal.com.ar/2026/04/22/se-confirma-rumorvuelve-mortification-en-forma-de-tributo/",
     "fecha": "22/04/2026",
-    "contenido": "Era un rumor que andaba dando vuelta y necesitaba confirmarse. Ya lo podemos decir con...\nThe post Con Varios Ex Integrantes De La Banda Más Luke Renno, Ex Crimson Thorn... | Se Confirma Rumor…Vuelve Mortification, En Forma De Tributo A “Scrolls Of The Megilloth”…. first appeared on Del Otro Lado Me"
+    "contenido": "Era un rumor que andaba dando vuelta y necesitaba confirmarse. Ya lo podemos decir con...\nThe post Con Varios Ex Integrantes De La Banda Más Luke Renno, Ex Crimson Thorn... | Se Confirma Rumor…Vuelve Mortification, Para Celebrar Los 35 Años De “Scrolls Of The Megilloth”…. first appeared on Del Otro "
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
@@ -567,32 +616,11 @@
     "contenido": "Esta entrada será un poco breve ya que no es algo nuevo, solo el como la emulación de PC esta avanzando en Android a un ritmo increíble y el emulador GameNative es una prueba de ello\nLlevo días probando emuladores de PC en mi teléfono (y mas que recientemente me compré el Dead Cells), un gama media:"
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Polémicas en torno a programas libres",
-    "link": "https://adrianperales.com/2026/04/polemicas-en-torno-a-programas-libres/",
-    "fecha": "16/04/2026",
-    "contenido": "Mis dos últimas entradas han estado destinadas a recomendar y reconocer el valor de programas libres, pero en todos los años que llevo en el mundillo he visto muchas polémicas en torno a ellos, especialmente los más grandes y populares. Esta entrada no busca ser destructiva. Ocurre que, al escribir "
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Un escritorio sin escritorio (y un Intel NUC que lo cambia todo)",
-    "link": "https://thecheis.com/2026/04/16/un-escritorio-sin-escritorio-y-un-intel-nuc-que-lo-cambia-todo/",
-    "fecha": "16/04/2026",
-    "contenido": "—Usar de pie. Rescatar hardware.— Estuve montando un despacho/estudio totalmente de improviso, pero el resultado preliminar me gustó tanto que empezó a fluir. Como no tengo escritorio, puse una librería Kallax de Ikea que tenía apartada y en los casilleros incorporé cestas llenas de herramientas, ca"
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "La UE lanza una aplicación para verificar la edad",
     "link": "https://mareosdeungeek.es/la-ue-lanza-una-aplicacion-para-verificar-la-edad/",
     "fecha": "16/04/2026",
     "contenido": "Ayer, la presidenta de la Comisión Europea anunció que la UE ya tiene preparada una aplicación para verificar la edad de los usuarios en Internet. Desde hace varios años, la UE y los países que la componen, buscan limitar o controlar el acceso a ciertos contenidos de la red. La excusa es el acceso d"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "#190: me gustan estas cuerdas de guitarra",
-    "link": "https://www.macram.es/posts/2026/04/me-gustan-estas-cuerdas-de-guitarra/",
-    "fecha": "16/04/2026",
-    "contenido": "Hace unos años me compré en AliExpress unas cuantas unidades de este juego de cuerdas de guitarra: las D&rsquo;Addario rojas para guitarra clásica. Suelen costar unos 12€ pero una vez encontré una oferta a un euro y poco. Llegué a pensar que eran falsificaciones, pero a ese precio decidí comprar un "
   },
   {
     "blog": "danielaragay.net",
@@ -614,12 +642,5 @@
     "link": "https://56k.es/fanta/bateria-con-agua-sal-y-chatarra/",
     "fecha": "16/04/2026",
     "contenido": "Esto que he realizado hoy es una luz LED brillando con agua y sal (y algo de minería urbana). Esto tendría que funcionar bajo tierra, en una maceta para plantas que crezcan con agua salada. He conectado las baterías de agua y sal caseras en serie para conseguir el voltaje suficiente que me permita i"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #872",
-    "link": "https://www.fabio.com.ar/9921-ruleta-rusa-872",
-    "fecha": "16/04/2026",
-    "contenido": "     Necesitabas un buen balazo?\nEs hora de cabecear balas porque es jueves, es d&iacute;a de ruleta, y porque estoy al borde del colapso mental, as&iacute; que mejor algo que nos cambie el tema, no importa cual sea, que lo cambie. Es hora de Ruleta y de unos buenos balazos, gatitos y cosas as&iacut"
   }
 ]
