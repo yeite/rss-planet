@@ -1,5 +1,26 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Copiar archivos de disco a cinta y viceversa con Discology ejecutando en Retro Virtual Machine",
+    "link": "https://malagaoriginal.blogspot.com/2026/04/copiar-archivos-de-disco-cinta-y.html",
+    "fecha": "24/04/2026",
+    "contenido": "Para copiar archivos desde un disco virtual (DSK) a un cassette virtual (CDT) hay que seguir los siguientes pasos: Arrancamos RVM&nbsp;Insertamos Discology desde la unidad AArrancamos DiscologyCreamos un disco nuevo y formateado en la Unidad BInsertamos la cinta, para lo cual hacemos clic en el cass"
+  },
+  {
+    "blog": "Diego Cano",
+    "titulo": "De redes, Mastodon, Bluesky, y su madre",
+    "link": "https://blep.org/De-redes,-Mastodon,-Bluesky,-y-su-madre",
+    "fecha": "24/04/2026",
+    "contenido": "A veces leo entre esa eterna lucha entre el fediverso y Bluesky, leo lo que sea, y me entran ganas de llorar o tirar la toalla. No lo entiendo, pero sí lo entiendo, y eso es lo que más me jode. Rozamos una victoria anarquista sobre el corporativismo Big Tech y perdimos de nuevo.\n\nAlgunes habréis oid"
+  },
+  {
+    "blog": "Papel Continuo",
+    "titulo": "No tape left behind. Los archivos sonoros de Aadam Jacobs",
+    "link": "https://papelcontinuo.net/3501/no-tape-left-behind-los-archivos-sonoros-de-aadam-jacobs/",
+    "fecha": "24/04/2026",
+    "contenido": "Probablemente ustedes ya lo sepan, ya que estos días la noticia ha corrido como la pólvora por redes sociales y medios tradicionales. Pero este es uno de esos temas que tiene que estar en Papel Continuo. Me refiero a No tape left behind: Los archivos sonoros de Aadam Jacobs. Jacobs es un aficionado "
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "La ciudad no es de la clase política",
     "link": "https://blog.luiscarlospando.com/todo-lo-demas/2026/04/la-ciudad-no-es-de-la-clase-politica/",
@@ -12,6 +33,27 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/04/454-carta-certificada.html",
     "fecha": "24/04/2026",
     "contenido": "&nbsp; &nbsp; Ayer, Día Internacional del Libro, el cartero te trajo una carta certificada. Tenía que asegurarme de que la leyeras, porque a veces el correo ordinario no llega allí donde debe. Por suerte, el funcionario te encontró en casa, pues estabas conectando con tu audiencia de palmeros desde "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Ubuntu 26.04 #ViernesDeDistros",
+    "link": "https://voidnull.es/instalacion-de-ubuntu-26-04-viernesdedistros/",
+    "fecha": "24/04/2026",
+    "contenido": "Hoy, nos enfocaremos en la instalación de Ubuntu 26.04, una de las distribuciones más populares y estables dentro del ecosistema GNU/Linux."
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Tour de presentaciones",
+    "link": "https://www.ericafustero.com/2026-04-tour-de-presentaciones",
+    "fecha": "24/04/2026",
+    "contenido": "El mes que viene presentaré Erica a diario en Valencia, Móstoles, Madrid y Zaragoza acompañada de gente estupendísima. Además, el viernes 8 de mayo estaré firmando en la feria del libro de Valencia en el la caseta de La primera de 17-19h, y el sábado 16 de mayo me encontrarás por la mañana firmando "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Undergust: Irrational Behavior | No Apto Para Oídos Sensibles",
+    "link": "https://www.delotroladometal.com.ar/2026/04/24/no-apto-para-oidos-sensibles/",
+    "fecha": "24/04/2026",
+    "contenido": "(2016 &#8211; Undergust) Hacía bastante que no escuchaba algo Hardcore, pero nos referimos al Hardcore...\nThe post Undergust: Irrational Behavior | No Apto Para Oídos Sensibles first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Diego Cano",
@@ -308,6 +350,13 @@
     "contenido": "Hace unos días un amigo me contactó con la clásica de &ldquo;tengo que contarte algo importante&rdquo;. Había estado conversando con ChatGPT y había llegado a una conclusión que, según él, lo cambiaba todo. Lo que había vislumbrado era, en sus palabras, un descubrimiento al nivel de doctorado en fil"
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "Mastodon mail",
+    "link": "https://www.ericafustero.com/2026-04-mastodon-mail",
+    "fecha": "21/04/2026",
+    "contenido": "Estos días he recibido dos envíos de gente que he conocido a través de Mastodon y me apetecía compartirlos por aquí. Me encanta Mastodon. Es una red social descentralizada, se pueden editar los posts y escribir textos largos, no hay anuncios y, aunque no sigo a mucha gente, noto que en general hay m"
+  },
+  {
     "blog": "",
     "titulo": "Santiago Molina en Café Berlín",
     "link": "https://mundoceltamedieval.wordpress.com/2026/04/21/3266/",
@@ -390,6 +439,13 @@
     "link": "https://voidnull.es/4-herramientas-para-gestionar-y-monitorizar-proxmox/",
     "fecha": "20/04/2026",
     "contenido": "Descubre 4 herramientas que mejoran la gestión, monitorización y automatización de infraestructuras basadas en Proxmox en entornos de laboratorio y producción."
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Especial Javier y Erica II",
+    "link": "https://www.ericafustero.com/2026-04-especial-javier-y-erica-ii",
+    "fecha": "20/04/2026",
+    "contenido": "«¿Has hecho balance de tu año?». «Yo solo he hecho balance de blancos». \"Have you taken stock of your year?\" \"I’ve only adjusted my white balance\". The word play is lost in English, sorry! \"Hacer balance del año\" means reflecting on your year. «Instalé el open heart protocol de Muan para que la gent"
   },
   {
     "blog": "56K",
@@ -546,25 +602,11 @@
     "contenido": "(2020 &#8211; Teosto/NCB) No es ninguna novedad decir que desde hace tiempo ya el norte...\nThe post Northern Flame: Twisted Reality | El Fuego Del Metal Viene Del Norte first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Leer parte de una URL de otra URL y con plan B",
-    "link": "https://malagaoriginal.blogspot.com/2026/04/leer-parte-de-una-url-de-otra-url-y-con.html",
-    "fecha": "17/04/2026",
-    "contenido": "Supongamos que queremos descargar mediante un script un archivo, pero con estas circunstancias:Cuando cambia de versión, la URL cambia porque el número de versión es parte de la descarga.Si accedemos a una dirección concreta obtendremos el número de versión actual. Para ello usamos el comando wget U"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 16 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/04/17/opensuse-tumbleweed-revision-de-la-semana-16-de-2026/",
     "fecha": "17/04/2026",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Borré versiones antiguas de los posts con una orden para aligerar la base de datos del blog",
-    "link": "https://pedrolr.es/blog/borre-versiones-antiguas-de-los-posts-con-una-orden-para-aligerar-la-base-de-datos-del-blog/",
-    "fecha": "17/04/2026",
-    "contenido": "Tocaba hacer copia de seguridad de todo lo del hosting y vi que la database del blog pesaba 110 megas. Leí que quizá lo que estaba generando más peso eran las versiones antiguas de los posts. Viene bien tenerlas, por si se hacen cambios que luego se quieren revertir, pero algunos posts tenían muchas"
   },
   {
     "blog": "Interlan",
@@ -581,32 +623,11 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "543. Secuestro nuestro",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/04/543-secuestro-nuestro.html",
-    "fecha": "17/04/2026",
-    "contenido": "&nbsp; &nbsp; Fueron muchas las noches en las que la mítica sala Bóveda (antigua Mephisto) se desbordaba en picos de exceso decibélico. Por otro lado, la paz auditiva empezaba a ser un bien escaso para quienes vivían en zonas concretas de las extensas y medianas ciudades. El descanso nocturno se hab"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "La burocràcia: Suècia vs. Espanya",
-    "link": "https://blog.danielaragay.net/la-burocracia-suecia-vs-espanya/",
-    "fecha": "17/04/2026",
-    "contenido": "Sabies que canviar el nom d&#x2019;un cotxe pot ser una experi&#xe8;ncia completament diferent depenent d&#x2019;on visquis? Avui explorem per qu&#xe8; la mateixa gesti&#xf3; administrativa pot semblar m&#xe0;gia en un pa&#xed;s i un calvari en un altre. Inspirat pel"
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "Binary Eye: escanea códigos QR con estilo",
     "link": "https://voidnull.es/binary-eye-escanea-codigos-qr-con-estilo/",
     "fecha": "17/04/2026",
     "contenido": "Escáner de códigos QR y de barras sin publicidad ni rastreo, centrado en hacer una sola cosa bien."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Gestión de volúmenes y ficheros #11",
-    "link": "https://voidnull.es/gestion-de-volumenes-y-ficheros-11/",
-    "fecha": "17/04/2026",
-    "contenido": "Aprende por qué los contenedores Docker son efímeros y cómo los volúmenes permiten persistir datos esenciales."
   },
   {
     "blog": "Bitácora baldía on zurdeando",
@@ -616,32 +637,11 @@
     "contenido": "Hay algo que me trae de cabeza, y es lo asépticos (gracias a Nacho por recordarme esta palabra) que son los edificios que se construyen ahora.\nSea para oficinas, como viviendas, como residencias.\nSe hace todo sin gracia ni carácter.\nNo sé, pon una puta moldura en las ventanas al menos. ALGO que le d"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #937",
-    "link": "https://www.fabio.com.ar/9922-links-de-viernes---937",
-    "fecha": "17/04/2026",
-    "contenido": "     Llenate de enlaces!\nViernes agitado, viernes lleno de links! Si, semanita completa se&ntilde;ores, podemos empezar a pensar en cosas m&aacute;s importantes (?) o no, no importa, lo que vale es que van a poder descansar si es que dejan todo bien cerrado con mo&ntilde;o hoy. Y si te parecen pocos"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Arcs",
     "link": "https://nachof.blog/posts/2026/arcs/",
     "fecha": "17/04/2026",
     "contenido": "Arcs es un juego diseñado por Cole Wehrle e ilustrado por Kyle Ferrin. Como si eso no fuera suficiente, además está ambientado en EL ESPACIO. No sé si podés describir un juego en un párrafo tan corto y que me llame más la atención que esto.\n\n\n Imagen de BGG\n \n\n\nCole Wehrle y Kyle Ferrin son el equip"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Iconic Prepara \"II\", Su Nuevo Álbum | Los Super Héroes Del Hard Rock Atacan De Vuelta",
-    "link": "https://www.delotroladometal.com.ar/2026/04/17/los-super-heroes-del-hard-rock-atacan-de-vuelta/",
-    "fecha": "17/04/2026",
-    "contenido": "A través de Frontiers Records, Iconic, la formación que incluye a grandes de la escena...\nThe post Iconic Prepara \"II\", Su Nuevo Álbum | Los Super Héroes Del Hard Rock Atacan De Vuelta first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "DANOK toma forma: aprender a construir en red",
-    "link": "https://dani.torresburriel.com/danok-red-consultoras-digitales-en-marcha/",
-    "fecha": "17/04/2026",
-    "contenido": "Hace unos días nos juntamos de nuevo los socios de DANOK. Esta vez en Burgos, en uno de esos encuentros presenciales que, con el tiempo, se han convertido en algo más que una reunión de trabajo: son el momento en el que el proyecto se hace tangible. DANOK es una red de consultoras digitales independ"
   },
   {
     "blog": "Un Diario",
