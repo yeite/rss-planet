@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "Señoras haciendo cosas. Capítulo 2",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/senoras-haciendo-cosas-capitulo-2/",
+    "fecha": "25/04/2026",
+    "contenido": "Ea, con dificultad, pero he encontrado un ratito para contarte cosas de señoras que hacen cosas. Je. \n\n\nAlice Oseman - Heartstopper Heartstopper ha concluído y nos ha dejado un huequito en el corazón (a pesar de que las últimas tiras eran un poco ir estirando el chicle) porque son todos TAN monos, T"
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Copiar archivos de disco a cinta y viceversa con Discology ejecutando en Retro Virtual Machine",
     "link": "https://malagaoriginal.blogspot.com/2026/04/copiar-archivos-de-disco-cinta-y.html",
@@ -7,11 +14,25 @@
     "contenido": "Para copiar archivos desde un disco virtual (DSK) a un cassette virtual (CDT) hay que seguir los siguientes pasos: Arrancamos RVM&nbsp;Insertamos Discology desde la unidad AArrancamos DiscologyCreamos un disco nuevo y formateado en la Unidad BInsertamos la cinta, para lo cual hacemos clic en el cass"
   },
   {
+    "blog": "Ubuntu Peronista",
+    "titulo": "¿Cómo instalo SETEdit en Ubuntu?",
+    "link": "https://ubuntuperonista.blogspot.com/2026/04/como-instalar-setedit-en-ubuntu.html",
+    "fecha": "24/04/2026",
+    "contenido": "En su Conducción Política, Juan Perón exponía las edificaciones que ha de contemplar el Conductor, a la vez que explica cómo instalar el editor estilo Borland SETEdit en Ubuntu.&nbsp;(...)Es inútil dar a una masa inorgánica y anárquica un conductor. Lo van a colgar. Primero hay que formar esa masa. "
+  },
+  {
     "blog": "Diego Cano",
     "titulo": "De redes, Mastodon, Bluesky, y su madre",
     "link": "https://blep.org/De-redes,-Mastodon,-Bluesky,-y-su-madre",
     "fecha": "24/04/2026",
     "contenido": "A veces leo entre esa eterna lucha entre el fediverso y Bluesky, leo lo que sea, y me entran ganas de llorar o tirar la toalla. No lo entiendo, pero sí lo entiendo, y eso es lo que más me jode. Rozamos una victoria anarquista sobre el corporativismo Big Tech y perdimos de nuevo.\n\nAlgunes habréis oid"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 17 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/04/24/opensuse-tumbleweed-revision-de-la-semana-17-de-2026/",
+    "fecha": "24/04/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
     "blog": "Papel Continuo",
@@ -36,6 +57,13 @@
   },
   {
     "blog": "_ voidNull",
+    "titulo": "CoMaps: la mejor forma para moverse por la ciudad",
+    "link": "https://voidnull.es/comaps-la-mejor-forma-para-moverse-por-la-ciudad/",
+    "fecha": "24/04/2026",
+    "contenido": "Aplicación de mapas offline enfocada en privacidad para navegar, hacer rutas o viajar sin depender de servicios centralizados."
+  },
+  {
+    "blog": "_ voidNull",
     "titulo": "Instalación de Ubuntu 26.04 #ViernesDeDistros",
     "link": "https://voidnull.es/instalacion-de-ubuntu-26-04-viernesdedistros/",
     "fecha": "24/04/2026",
@@ -49,11 +77,39 @@
     "contenido": "El mes que viene presentaré Erica a diario en Valencia, Móstoles, Madrid y Zaragoza acompañada de gente estupendísima. Además, el viernes 8 de mayo estaré firmando en la feria del libro de Valencia en el la caseta de La primera de 17-19h, y el sábado 16 de mayo me encontrarás por la mañana firmando "
   },
   {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #938",
+    "link": "https://www.fabio.com.ar/9927-links-de-viernes---938",
+    "fecha": "24/04/2026",
+    "contenido": "     A rodar por unos links!\nHoy tard&eacute; en publicar los links porque estaba en cama con fiebre, que no todo se puede che! Igual ya me levant&eacute; s&oacute;lo para esto, para postear los links! Y si te parecen pocos sumate a LinksDV para compartir m&aacute;s y m&aacute;s links! Ahora s&iacut"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Playlist ACAB (en español)",
+    "link": "https://nachof.blog/posts/2026/playlist-acab/",
+    "fecha": "24/04/2026",
+    "contenido": "El otro día publiqué un pedido de recomendaciones musicales en Mastodon.\nhttps://mastodon.uy/@nachof/116348465939960678\n\n\nAcá dejo la lista de respuestas, compilada, con links a videos en YouTube:\nRecomendadas en el thread\n\nEskorbuto - Mucha policía, poca diversión\nNarco - Puta policía\nCicatriz - En"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Undergust: Irrational Behavior | No Apto Para Oídos Sensibles",
     "link": "https://www.delotroladometal.com.ar/2026/04/24/no-apto-para-oidos-sensibles/",
     "fecha": "24/04/2026",
     "contenido": "(2016 &#8211; Undergust) Hacía bastante que no escuchaba algo Hardcore, pero nos referimos al Hardcore...\nThe post Undergust: Irrational Behavior | No Apto Para Oídos Sensibles first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Sistemas de diseño e inteligencia artificial",
+    "link": "https://dani.torresburriel.com/sistemas-de-diseno-e-inteligencia-artificial/",
+    "fecha": "24/04/2026",
+    "contenido": "Anticipo de mi trabajo diseñando y gestionando un sistema de diseño como playground para hacer experimentos con inteligencia artificial generativa en todo el proceso de diseño centrado en el usuario.\nLa entrada Sistemas de diseño e inteligencia artificial se publicó primero en Blog de Daniel Torres "
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Taller de Scribus en el FLISoL 2026",
+    "link": "https://javiersam.uy/2026/04/taller-de-scribus-en-el-flisol-2026.html",
+    "fecha": "24/04/2026",
+    "contenido": ""
   },
   {
     "blog": "Diego Cano",
@@ -267,10 +323,10 @@
   },
   {
     "blog": "Del Otro Lado Metal",
-    "titulo": "Con Varios Ex Integrantes De La Banda Más Luke Renno, Ex Crimson Thorn... | Se Confirma Rumor…Vuelve Mortification, Para Celebrar Los 35 Años De “Scrolls Of The Megilloth”….",
+    "titulo": "Con Varios Ex Integrantes De La Banda Más Luke Renno de Crimson Thorn... | Se Confirma Rumor…Vuelve Mortification, Para Celebrar Los 35 Años De “Scrolls Of The Megilloth”….",
     "link": "https://www.delotroladometal.com.ar/2026/04/22/se-confirma-rumorvuelve-mortification-en-forma-de-tributo/",
     "fecha": "22/04/2026",
-    "contenido": "Era un rumor que andaba dando vuelta y necesitaba confirmarse. Ya lo podemos decir con...\nThe post Con Varios Ex Integrantes De La Banda Más Luke Renno, Ex Crimson Thorn... | Se Confirma Rumor…Vuelve Mortification, Para Celebrar Los 35 Años De “Scrolls Of The Megilloth”…. first appeared on Del Otro "
+    "contenido": "Era un rumor que andaba dando vuelta y necesitaba confirmarse. Ya lo podemos decir con...\nThe post Con Varios Ex Integrantes De La Banda Más Luke Renno de Crimson Thorn... | Se Confirma Rumor…Vuelve Mortification, Para Celebrar Los 35 Años De “Scrolls Of The Megilloth”…. first appeared on Del Otro L"
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
@@ -581,13 +637,6 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "impermanente",
-    "titulo": "El fin del \"one size fits all\"",
-    "link": "https://impermanente.es/2026/04/18/el-fin-del-one-size.html",
-    "fecha": "18/04/2026",
-    "contenido": "Durante décadas trabajamos bajo un modelo implícito que podríamos llamar el modelo SAP: existe una forma “correcta” de hacer las cosas, alguien la ha codificado en una herramienta, y tu trabajo consiste en adaptar tus procesos a ese molde. El software dictaba el flujo y tú te ajustabas. Pagábamos co"
-  },
-  {
     "blog": "La Frikoteca",
     "titulo": "Reseña de Artemisa VI",
     "link": "http://frikoteca.blogspot.com/2026/04/resena-de-artemisa-vi.html",
@@ -600,54 +649,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/04/18/el-fuego-del-metal-viene-del-norte/",
     "fecha": "18/04/2026",
     "contenido": "(2020 &#8211; Teosto/NCB) No es ninguna novedad decir que desde hace tiempo ya el norte...\nThe post Northern Flame: Twisted Reality | El Fuego Del Metal Viene Del Norte first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 16 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/04/17/opensuse-tumbleweed-revision-de-la-semana-16-de-2026/",
-    "fecha": "17/04/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Tutorial: Desplegando DNS privado para red Wireguard",
-    "link": "https://interlan.ec/blog/2026/04/17/tutorial-desplegando-dns-privado-para-red-wireguard/",
-    "fecha": "17/04/2026",
-    "contenido": "Contamos con WireGuard, lo hemos pulido hasta que funciona con el ancho de banda completo. Vamos a confiar un poco mas en el para administrar los servicios que tenemos expuestos por internet... ¡En privado!"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Sin la música la vida no valdría la pena",
-    "link": "https://blog.luiscarlospando.com/personal/2026/04/sin-la-musica-la-vida-no-valdria-la-pena/",
-    "fecha": "17/04/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Binary Eye: escanea códigos QR con estilo",
-    "link": "https://voidnull.es/binary-eye-escanea-codigos-qr-con-estilo/",
-    "fecha": "17/04/2026",
-    "contenido": "Escáner de códigos QR y de barras sin publicidad ni rastreo, centrado en hacer una sola cosa bien."
-  },
-  {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Por favor, poned molduras en las ventanas",
-    "link": "https://blog.zurdala.es/blog/por-favor-poned-molduras-en-las-ventanas/",
-    "fecha": "17/04/2026",
-    "contenido": "Hay algo que me trae de cabeza, y es lo asépticos (gracias a Nacho por recordarme esta palabra) que son los edificios que se construyen ahora.\nSea para oficinas, como viviendas, como residencias.\nSe hace todo sin gracia ni carácter.\nNo sé, pon una puta moldura en las ventanas al menos. ALGO que le d"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Arcs",
-    "link": "https://nachof.blog/posts/2026/arcs/",
-    "fecha": "17/04/2026",
-    "contenido": "Arcs es un juego diseñado por Cole Wehrle e ilustrado por Kyle Ferrin. Como si eso no fuera suficiente, además está ambientado en EL ESPACIO. No sé si podés describir un juego en un párrafo tan corto y que me llame más la atención que esto.\n\n\n Imagen de BGG\n \n\n\nCole Wehrle y Kyle Ferrin son el equip"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "GameNative: el único emulador que ha funcionado hasta ahora",
-    "link": "https://thejnx.bearblog.dev/emulador-gamenative/",
-    "fecha": "17/04/2026",
-    "contenido": "Esta entrada será un poco breve ya que no es algo nuevo, solo el como la emulación de PC esta avanzando en Android a un ritmo increíble y el emulador GameNative es una prueba de ello\nLlevo días probando emuladores de PC en mi teléfono (y mas que recientemente me compré el Dead Cells), un gama media:"
   }
 ]
