@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "El compromiso duradero",
+    "link": "https://victorhckinthefreeworld.com/2026/04/25/el-compromiso-duradero/",
+    "fecha": "25/04/2026",
+    "contenido": "No pensaba escribir al respecto, pero ¿por qué no celebrar algo exclusivo? El motivo: celebrar que este blog que estás leyendo cumple hoy 15 años."
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "Señoras haciendo cosas. Capítulo 2",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/senoras-haciendo-cosas-capitulo-2/",
@@ -14,11 +21,25 @@
     "contenido": "A veces la veía en los rostros de otros. No era un parecido. Era algo más preciso. La forma de inclinar la cabeza, la curva exacta de una sonrisa. Gestos familiares que dolían al reconocerlos. Al principio cerraba los ojos. Cuando empecé a fijarme, pude ver que algunos desconocidos me miraban durant"
   },
   {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "#191: Shin Chan ha sido suficiente",
+    "link": "https://www.macram.es/posts/2026/04/shin-chan-ha-sido-suficiente/",
+    "fecha": "25/04/2026",
+    "contenido": "Que Shin Chan haya comenzado a emitirse en el canal Comedy Central ha sido razón suficiente para que vuelva a suscribirme a Movistar Plus+ (ya os conté que cancelé a finales de 2025). Es de las pocas series que disfruto y que puedo tener de fondo sin haber visto todos sus capítulos chopotocientas ve"
+  },
+  {
     "blog": "ochobitshacenunbyte",
     "titulo": "Ejemplos prácticos del comando diff en Linux",
     "link": "https://www.ochobitshacenunbyte.com/2026/04/25/ejemplos-practicos-del-comando-diff-en-linux/",
     "fecha": "25/04/2026",
     "contenido": "Vemos diferentes ejemplos prácticos del comando diff en GNU/Linux. Para quien no lo conozca este comando se encarga de comparar dos archivos, que contienen un texto similar. Genial para comparar diferentes versiones de un&#46;&#46;&#46;\nLa entrada Ejemplos prácticos del comando diff en Linux se publ"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Windows te come el disco y no sé ni por qué",
+    "link": "https://nachof.blog/posts/2026/windows-espacio-en-disco/",
+    "fecha": "25/04/2026",
+    "contenido": "Tengo un software que sólo está para Windows (y Mac) y no lo logré hacer andar bien con Wine. Como es el software del plotter de corte Silhouette, tampoco es que sea fácil encontrar una alternativa. Entonces lo que hice fue instalarlo en una máquina virtual.\nA la máquina virtual le dí 30GB de espaci"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -588,13 +609,6 @@
     "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
   },
   {
-    "blog": "Si dios te da limones",
-    "titulo": "Bumble, likes y matches",
-    "link": "https://sidiostedalimones.com/blog/2026/bumble/",
-    "fecha": "19/04/2026",
-    "contenido": ""
-  },
-  {
     "blog": "56K",
     "titulo": "Camuflar archivos en cartuchos de Game Boy",
     "link": "https://56k.es/fanta/camuflar-archivos-secretos-en-cartuchos-de-game-boy/",
@@ -614,33 +628,5 @@
     "link": "https://javiersam.uy/2026/04/se-viene-el-flisol-2026.html",
     "fecha": "19/04/2026",
     "contenido": "Al igual que en el año pasado, la edición montevideana del tradicional Festival Latinoamericano de Instalación de Software Libre se realizará en dos días. Será el próximo viernes 24 y sábado 25 de abril en la FADU (Facultad de Arquitectura, Diseño y Urbanismo). Desde hace algunos días está disponibl"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "De ratones y hombres",
-    "link": "https://guillermolatorre.com/libros/de-ratones-y-hombres",
-    "fecha": "18/04/2026",
-    "contenido": "Fecha de lectura: 15/04/2026.Autor/a: John Steinbeck.Categoría: Ficción.Número de páginas: 110.Mi valoración: ★★★★★Conecté con los personajes desde el primer capítulo y ya supe que era un libro que iba a remover por dentro. La relación entre George y Lennie es el corazón del libro: dos jornaleros qu"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Una pelea desigual",
-    "link": "https://jinversor.co/2026/04/una-pelea-desigual/",
-    "fecha": "18/04/2026",
-    "contenido": "Todos los inversionistas de activos financieros sabemos que los mercados se manipulan. Quien no lo sepa, o lo dude, es porque lleva muy poco tiempo en este negocio. No obstante, [&#8230;]\nLa entrada Una pelea desigual se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Una anécdota bien rara (y medio triste 😆)",
-    "link": "https://blog.luiscarlospando.com/personal/2026/04/una-anecdota-bien-rara-y-medio-triste-%f0%9f%98%86/",
-    "fecha": "18/04/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Reseña de Artemisa VI",
-    "link": "http://frikoteca.blogspot.com/2026/04/resena-de-artemisa-vi.html",
-    "fecha": "18/04/2026",
-    "contenido": "Artemisa VI es una aventura de ciencia ficción escrita por Ernesto Orellana para el juego M-Space, de 77Mundos. Una aventura que realmente parece llegar en un momento de lo más adecuado, teniendo en cuenta que la gente tiene más que presente las misiones Artemisa de la NASA después que la segunda mi"
   }
 ]
