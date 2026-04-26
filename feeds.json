@@ -1,5 +1,61 @@
 [
   {
+    "blog": "Jinversor",
+    "titulo": "Narcoturismo",
+    "link": "https://jinversor.co/2026/04/narcoturismo/",
+    "fecha": "26/04/2026",
+    "contenido": "Me gusta Medellín. Es una ciudad con mucho por ver, conocer y hacer. Lo que no puedo entender es a las personas que vienen a esta ciudad estrictamente a hacer [&#8230;]\nLa entrada Narcoturismo se publicó primero en Jinversor."
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "He metido un tema tipo terminal con monospace a mi web académica",
+    "link": "https://pedrolr.es/blog/he-metido-un-tema-tipo-terminal-con-monospace-a-mi-web-academica/",
+    "fecha": "26/04/2026",
+    "contenido": "Hace un par de semanas modifiqué el CSS de mi web académica dejándolo tipo viñetas. Este fin de semana he remodelado el tema y lo he dejado tipo terminal. También, antes era HTML + CSS y ahora se basa todo en PHP (también con HTML y CSS). He montado un sistema de tal forma que [&#8230;]"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "No le digas a mamá que voy a Bakhmut",
+    "link": "https://gatooscuro.xyz/no-le-digas-a-mama-que-voy-a-bakhmut/",
+    "fecha": "26/04/2026",
+    "contenido": "PD: No me inclino hacia ningún lado de la guerra, la analizó cómo un trozo importante de historia: allí están los errores que no debemos de repetir y quizás aprender\nSeguir leyendo  No le digas a mamá que voy a Bakhmut\nEl cargo No le digas a mamá que voy a Bakhmut apareció primero en El cuarto de Ga"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Una batalla tras otra",
+    "link": "https://mareosdeungeek.es/una-batalla-tras-otra/",
+    "fecha": "26/04/2026",
+    "contenido": "Una batalla tras otra ha sido la gran ganadora en la última edición de los premios Oscars. Estamos ante una película, dirigida por Paul Thomas Anderson, a la que no le falta de nada. Para empezar está inspirada en una novela, Vineland, la novela mezcla el movimiento hippie, el tráfico de drogas y la"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Reinstalar Linux sin formatear /home y empezar con un usuario limpio",
+    "link": "https://tecnoysoft.com/2026/04/26/reinstalar-linux-sin-formatear-home-y-empezar-con-un-usuario-limpio/",
+    "fecha": "26/04/2026",
+    "contenido": "Cuando reinstalas una distribución Linux, existe una opción muy útil que a menudo se pasa por alto: no formatear la partición /home. Esto permite conservar todos tus archivos personales, pero hacer al mismo tiempo una instalación completamente limpia del sistema. En lugar de reutilizar el usuario an"
+  },
+  {
+    "blog": "Si dios te da limones",
+    "titulo": "Exlibris 2026",
+    "link": "https://sidiostedalimones.com/blog/2026/exlibris-26/",
+    "fecha": "26/04/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Soy feliz",
+    "link": "https://www.xn--jmuoz-qta.es/2026/04/soy-feliz.html",
+    "fecha": "26/04/2026",
+    "contenido": "\n  \n    \n  \nNo es algo que se escuche habitualmente, visto cómo está el mundo, pero, ¿saben? Creo que soy feliz.He escrito muchas veces por aquí que creo que la felicidad está en las pequeñas casas, en eso que te hace feliz día a día: hacer una comida, invitar a tus amigos, unas cervecitas con la su"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Además Anuncian Nuevo Álbum | Benevolence Estrena “Face Of Liar”, Su Nuevo Single",
+    "link": "https://www.delotroladometal.com.ar/2026/04/26/benevolence-estrena-face-of-liar-su-nuevo-single/",
+    "fecha": "26/04/2026",
+    "contenido": "La brutalidad parece ser el emblema que Benevolence levanta en alto. Casi como una aplanadora...\nThe post Además Anuncian Nuevo Álbum | Benevolence Estrena “Face Of Liar”, Su Nuevo Single first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "El compromiso duradero",
     "link": "https://victorhckinthefreeworld.com/2026/04/25/el-compromiso-duradero/",
@@ -595,38 +651,10 @@
     "contenido": "Leo a Antonio Cerrillo en La Vanguardia y me enciendo. El titular “La burocracia bloquea la implantación del retorno de envases usados al comercio” es un blanqueo a la jugarreta que está perpetrando la industria del envase de usar y tirar. Si me acompañas en los próximos párrafos te cuento qué está "
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "La nueva cara de BBS Paranoicos en Epicentro",
-    "link": "https://altgr.xyz/2026/04/19/la-nueva-cara-de-bbs-paranoicos-en-epicentro/",
-    "fecha": "19/04/2026",
-    "contenido": "Me costó acostumbrarme al nuevo vocalista de la banda. No veía a los BBS Paranoicos en vivo desde hace varios años y fue raro encontrarme con una cara diferente a la de Omar Acosta al frente. Aunque después de un rato ya estaba disfrutando como siempre. Para mí BBS Paranoicos no volverá a ser los mi"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Ping #22: Actualizaciones, novedades y ranking de distros",
-    "link": "https://voidnull.es/ping-22/",
-    "fecha": "19/04/2026",
-    "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
-  },
-  {
     "blog": "56K",
     "titulo": "Camuflar archivos en cartuchos de Game Boy",
     "link": "https://56k.es/fanta/camuflar-archivos-secretos-en-cartuchos-de-game-boy/",
     "fecha": "19/04/2026",
     "contenido": "La idea es guardar datos en un cartucho de Game Boy de forma oculta. Esto implica que el juego ha de ser jugable sin problemas pero tener contenido guardado que podamos rescatar posteriormente simplemente sabiendo lo que ocupa la ROM del juego original. Lo primero de todo es elegir un juego de game "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Estreno y Próximo EP En Camino | “Última Batalla”, Lo Nuevo De Proyecto Grial",
-    "link": "https://www.delotroladometal.com.ar/2026/04/19/ultima-batalla-lo-ultimo-de-proyecto-grial/",
-    "fecha": "19/04/2026",
-    "contenido": "La banda afincada en la provincia de Córdoba, Argentina, acaba de liberar y estrenar un...\nThe post Estreno y Próximo EP En Camino | “Última Batalla”, Lo Nuevo De Proyecto Grial first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "¡Se viene el FLISoL 2026!",
-    "link": "https://javiersam.uy/2026/04/se-viene-el-flisol-2026.html",
-    "fecha": "19/04/2026",
-    "contenido": "Al igual que en el año pasado, la edición montevideana del tradicional Festival Latinoamericano de Instalación de Software Libre se realizará en dos días. Será el próximo viernes 24 y sábado 25 de abril en la FADU (Facultad de Arquitectura, Diseño y Urbanismo). Desde hace algunos días está disponibl"
   }
 ]
