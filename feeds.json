@@ -1,5 +1,47 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "Estampidos de trenes",
+    "link": "https://brucknerite.net/2026/04/estampidos-de-trenes.html",
+    "fecha": "27/04/2026",
+    "contenido": "Estamos familiarizados con el estampido sónico que produce un avión al rebasar la velocidad del sonido, pero los trenes de alta velocidad también pueden crear sus estampidos, aunque sus velocidades sean menores, al entrar en un túnel. ¿Cómo lo hacen?"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "NAS doméstico como reemplazo a las suscripciones de pago",
+    "link": "https://alt43.es/nas-domestico-como-reemplazo-a-las-suscripciones-de-pago/",
+    "fecha": "27/04/2026",
+    "contenido": "Los precios del streaming en España han subido un 81,7% desde 2015, triplicando a la inflación general. Un NAS doméstico ofrece una alternativa de menor coste a largo plazo, control total sobre el contenido y privacidad completa; pero a costa de una elevada inversión inicial, hacernos responsables d"
+  },
+  {
+    "blog": "End3r.es",
+    "titulo": "Pi-hole",
+    "link": "https://www.end3r.es/posts/018-pihole/",
+    "fecha": "27/04/2026",
+    "contenido": "Pi-hole es una solución de bloqueo de anuncios y rastreadores a nivel de red que convierte un dispositivo\ncomo una Raspberry Pi o similar en un servidor DNS para toda la red doméstica, bloqueando dominios conocidos\nde publicidad y tracking antes de que lleguen a tus dispositivos.\nAl actuar como un s"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de CloudPanel en Debian 12",
+    "link": "https://voidnull.es/instalacion-de-cloudpanel-en-debian-12/",
+    "fecha": "27/04/2026",
+    "contenido": "CloudPanel es un panel de control moderno diseñado para simplificar la administración de servidores en la nube, especialmente optimizado para aplicaciones PHP, Node.js y Python."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ya no hacen falta programadores",
+    "link": "https://www.fabio.com.ar/9928-ya-no-hacen-falta-programadores",
+    "fecha": "27/04/2026",
+    "contenido": "    \nLe&iacute; a un boludo escribir, y se lo crey&oacute;.\nAnte el auge de la programaci&oacute;n asistida por AI es correcto notar que muchos programadores perder&aacute;n su trabajo, ser&aacute;n reemplazados porque tampoco su trabajo era algo relevante, esos roles de \"obreros del c&oacute;digo\" "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Eternal Throne: From The Depths Of Mortal Flesh | La Furia No Se Negocia",
+    "link": "https://www.delotroladometal.com.ar/2026/04/27/la-furia-no-se-negocia/",
+    "fecha": "27/04/2026",
+    "contenido": "(2025 &#8211; Vision Of God Records) El Black Metal tiene sus variantes, y también su...\nThe post Eternal Throne: From The Depths Of Mortal Flesh | La Furia No Se Negocia first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "Nuestra Odisea",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/nuestra-odisea/",
@@ -581,13 +623,6 @@
     "contenido": "Mañana, miércoles 22 de abril, comienza en Nurembreg, Alemania, la 19ª Libre Graphics Meeting y va hasta el sábado 25. Charlas En principio, y luego de una mirada superficial al programa, las charlas que me parecen más interesantes son: Miércoles 22 Jueves 23 Viernes 24 Sábado 25 Las charlas se tran"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "Caer con estilo",
-    "link": "https://brucknerite.net/2026/04/caer-con-estilo.html",
-    "fecha": "20/04/2026",
-    "contenido": "La degradación gradual o controlada es una técnica de diseño empleada frecuentemente en ingeniería cuando se desea proteger la función principal del sistema a expensas de otras, consideradas secundarias. Pero ¿se usa en todos los casos en los que se debería?"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "El fin de los piratas",
     "link": "https://jinversor.co/2026/04/el-fin-de-los-piratas/",
@@ -595,87 +630,10 @@
     "contenido": "Qué bien me caían esos sujetos que se saltaban los abusos de las malas empresas como Mierdasoft. Esos que tomaban el software que necesitaban, no para venderlo sino para usarlo, [&#8230;]\nLa entrada El fin de los piratas se publicó primero en Jinversor."
   },
   {
-    "blog": "Un bruto con Debian",
-    "titulo": "Crea webapps de la manera más sencilla.",
-    "link": "http://unbrutocondebian.blogspot.com/2026/04/crea-webapps-de-la-manera-mas-sencilla.html",
-    "fecha": "20/04/2026",
-    "contenido": "&nbsp;El otro día descubrí una aplicacion bastante interesante para trasnferir ficheros entre diferentes equipos, estén o no en la misma red y sin depender de un servidor-espía central. El gran problema es que solo tiene cliente para móvil aunque se puede \"ejecutar\" desde cualquier navegador moderno"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "La cuestión de la soberanía digital en Europa",
-    "link": "https://alt43.es/la-cuestion-de-la-soberania-digital-en-europa/",
-    "fecha": "20/04/2026",
-    "contenido": "Europa lleva años anunciando su independencia digital mientras firma contratos millonarios con los mismos proveedores que dice querer sustituir. Revisamos propuestas como EUCS, Gaia-X, EuroHPC y las iniciativas que funcionan (y las que no) para tratar de entender en qué punto se encuentra realmente "
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 16/2026",
-    "link": "https://www.macram.es/posts/2026/04/semana-16-2026/",
-    "fecha": "20/04/2026",
-    "contenido": "Mediados de mes y apenas he publicado cinco notas, de las que tres son de estas retros. No quiero dejar de escribir, me gusta, me hace sentir bien, pero cierto es que cuando llega el calor queremos hacer más actividades de exterior, y éstas muchas veces son incompatibles con sentarse en un sitio a e"
-  },
-  {
-    "blog": "note – matizeta",
-    "titulo": "Ajustando el diseño de mi blog",
-    "link": "https://matizeta.com/2026/04/20/ajustando-el-diseno-de-mi-blog/",
-    "fecha": "20/04/2026",
-    "contenido": "Lo volví a hacer. Si, cada cierto tiempo toco un poco el diseño de mi blog. No lo dejo tranquilo. Me gusta la estética de micro.blog, de hecho el servicio que ofrece me parece un buen lugar para tener un blog. Quería acerca mi blog a ese interfaz limpia y minimalista, así que estuve quitando [&#8230"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Smith/Kotzen en Teatro Coliseo",
-    "link": "https://altgr.xyz/2026/04/20/smith-kotzen-en-teatro-coliseo/",
-    "fecha": "20/04/2026",
-    "contenido": "Una noche de virtuosismo puro en el Teatro Coliseo es lo que vivimos este sábado con Smith/Kotzen. La dupla formada por Adrian Smith (Guitarra en Iron Maiden) y Richie Kotzen (Guitarra y voz en The Winery Dogs) que llevan 2 discos de estudio publicados. La banda se completa con la carismática Julia "
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "4 herramientas para gestionar y monitorizar Proxmox",
-    "link": "https://voidnull.es/4-herramientas-para-gestionar-y-monitorizar-proxmox/",
-    "fecha": "20/04/2026",
-    "contenido": "Descubre 4 herramientas que mejoran la gestión, monitorización y automatización de infraestructuras basadas en Proxmox en entornos de laboratorio y producción."
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Especial Javier y Erica II",
-    "link": "https://www.ericafustero.com/2026-04-especial-javier-y-erica-ii",
-    "fecha": "20/04/2026",
-    "contenido": "«¿Has hecho balance de tu año?». «Yo solo he hecho balance de blancos». \"Have you taken stock of your year?\" \"I’ve only adjusted my white balance\". The word play is lost in English, sorry! \"Hacer balance del año\" means reflecting on your year. «Instalé el open heart protocol de Muan para que la gent"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Dietpi – Una distro para RaspberryPi a dieta",
-    "link": "https://56k.es/fanta/dietpi-una-distro-para-raspberrypi-a-dieta/",
-    "fecha": "20/04/2026",
-    "contenido": "DietPI es una distro ligera para dispositivos del rollo Raspberry PI (no solamente Raspberry, también Orange Pi y otros). DietPi es una distribución Linux basada en Debian altamente optimizada y minimalista. DietPi es extremadamente ligera y también fácil de instalar y usar. En mi caso la he probado"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Se puede ser más boludo",
-    "link": "https://www.fabio.com.ar/9923-se-puede-ser-mas-boludo",
-    "fecha": "20/04/2026",
-    "contenido": "    \nNormalmente dir&iacute;amos \"no se puede ser m&aacute;s boludo\" como queriendo poner un l&iacute;mite mental a la estupidez que hizo alguien, pero creo que tenemos que ser m&aacute;s abiertos y darnos cuenta que algunos S&Iacute; pueden ser m&aacute;s boludos.\nDesde hace unos d&iacute;as quer&i"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Un Nuevo Álbum Asoma | Martin Simson´s Destroyer Of Death Estrena “Trinity” junto a Anette Olzon",
-    "link": "https://www.delotroladometal.com.ar/2026/04/20/martin-simsons-destroyer-of-death-estrena-trinity-junto-a-anette-olzon/",
-    "fecha": "20/04/2026",
-    "contenido": "Ya les habíamos contado en otra oportunidad sobre el proyecto Martin Simson´s Destroyer Of Death,...\nThe post Un Nuevo Álbum Asoma | Martin Simson´s Destroyer Of Death Estrena “Trinity” junto a Anette Olzon first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Un Diario",
     "titulo": "Optando por apps con intervalos para notificaciones",
     "link": "https://thejnx.bearblog.dev/sincronizacion-notificaciones/",
     "fecha": "20/04/2026",
     "contenido": "Desde mi último setup mencioné que lo primero que me llamó la atención como alternativa al FCM de Google (el servicio para que las apps envíen notificaciones al teléfono) fue UnifiedPush, aunque hay un pero, es el como las apps que utilizan este protocolo son casi inexistentes o al final no me son d"
-  },
-  {
-    "blog": "Loveof74",
-    "titulo": "El petit és molt gran",
-    "link": "https://www.loveof74.es/weblog/cultura/conciertos/el-petit-es-molt-gran/?utm_source=rss&utm_medium=rss&utm_campaign=el-petit-es-molt-gran",
-    "fecha": "20/04/2026",
-    "contenido": "Supongo que la cosa va de templos pequeños. Capillas para orar a nuestros variados dioses musicales. Hay una en Guissona, parada y fonda de los proyectos de El Petit de Cal Eril. Y hay otra en Donostia, llamada Dabadaba. Cuando las dos se juntan la cosa es celestial para los feligreses. Llegaba la b"
   }
 ]
