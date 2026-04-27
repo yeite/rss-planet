@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 27 Apr 2026 13:16:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Apr 2026 19:03:29 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,54 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Estampidos de trenes</title>
+<link>https://brucknerite.net/2026/04/estampidos-de-trenes.html</link>
+<guid isPermaLink="true">https://brucknerite.net/2026/04/estampidos-de-trenes.html</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+<category>brucknerite</category>
+<description><![CDATA[Estamos familiarizados con el estampido sónico que produce un avión al rebasar la velocidad del sonido, pero los trenes de alta velocidad también pueden crear sus estampidos, aunque sus velocidades sean menores, al entrar en un túnel. ¿Cómo lo hacen?<br><br><strong>Fuente:</strong> brucknerite]]></description>
+</item>
+<item>
+<title>NAS doméstico como reemplazo a las suscripciones de pago</title>
+<link>https://alt43.es/nas-domestico-como-reemplazo-a-las-suscripciones-de-pago/</link>
+<guid isPermaLink="true">https://alt43.es/nas-domestico-como-reemplazo-a-las-suscripciones-de-pago/</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+<category>alt43</category>
+<description><![CDATA[Los precios del streaming en España han subido un 81,7% desde 2015, triplicando a la inflación general. Un NAS doméstico ofrece una alternativa de menor coste a largo plazo, control total sobre el contenido y privacidad completa; pero a costa de una elevada inversión inicial, hacernos responsables d<br><br><strong>Fuente:</strong> alt43]]></description>
+</item>
+<item>
+<title>Pi-hole</title>
+<link>https://www.end3r.es/posts/018-pihole/</link>
+<guid isPermaLink="true">https://www.end3r.es/posts/018-pihole/</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+<category>End3r.es</category>
+<description><![CDATA[Pi-hole es una solución de bloqueo de anuncios y rastreadores a nivel de red que convierte un dispositivo como una Raspberry Pi o similar en un servidor DNS para toda la red doméstica, bloqueando dominios conocidos de publicidad y tracking antes de que lleguen a tus dispositivos. Al actuar como un s<br><br><strong>Fuente:</strong> End3r.es]]></description>
+</item>
+<item>
+<title>Instalación de CloudPanel en Debian 12</title>
+<link>https://voidnull.es/instalacion-de-cloudpanel-en-debian-12/</link>
+<guid isPermaLink="true">https://voidnull.es/instalacion-de-cloudpanel-en-debian-12/</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[CloudPanel es un panel de control moderno diseñado para simplificar la administración de servidores en la nube, especialmente optimizado para aplicaciones PHP, Node.js y Python.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Ya no hacen falta programadores</title>
+<link>https://www.fabio.com.ar/9928-ya-no-hacen-falta-programadores</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/9928-ya-no-hacen-falta-programadores</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Le&amp;iacute; a un boludo escribir, y se lo crey&amp;oacute;. Ante el auge de la programaci&amp;oacute;n asistida por AI es correcto notar que muchos programadores perder&amp;aacute;n su trabajo, ser&amp;aacute;n reemplazados porque tampoco su trabajo era algo relevante, esos roles de &quot;obreros del c&amp;oacute;digo&quot;<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Eternal Throne: From The Depths Of Mortal Flesh | La Furia No Se Negocia</title>
+<link>https://www.delotroladometal.com.ar/2026/04/27/la-furia-no-se-negocia/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/04/27/la-furia-no-se-negocia/</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[(2025 &amp;#8211; Vision Of God Records) El Black Metal tiene sus variantes, y también su... The post Eternal Throne: From The Depths Of Mortal Flesh | La Furia No Se Negocia first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
 <item>
 <title>Nuestra Odisea</title>
 <link>https://jodidaperonosorprendida.mataroa.blog/blog/nuestra-odisea/</link>
@@ -168,54 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
 <category>Un blog</category>
 <description><![CDATA[Tengo un software que sólo está para Windows (y Mac) y no lo logré hacer andar bien con Wine. Como es el software del plotter de corte Silhouette, tampoco es que sea fácil encontrar una alternativa. Entonces lo que hice fue instalarlo en una máquina virtual. A la máquina virtual le dí 30GB de espaci<br><br><strong>Fuente:</strong> Un blog]]></description>
-</item>
-<item>
-<title>Les Contamos De Qué Se Trata &quot;Raising The Roof&quot; | Peter Carlsohn´s The Rise Estrena Nuevo Disco</title>
-<link>https://www.delotroladometal.com.ar/2026/04/25/peter-carlsohns-the-rise-estrena-nuevo-disco/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/04/25/peter-carlsohns-the-rise-estrena-nuevo-disco/</guid>
-<pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Nunca hay que olvidar a las leyendas vivas, ni subestimar a los grandes del Hard... The post Les Contamos De Qué Se Trata &quot;Raising The Roof&quot; | Peter Carlsohn´s The Rise Estrena Nuevo Disco first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Copiar archivos de disco a cinta y viceversa con Discology ejecutando en Retro Virtual Machine</title>
-<link>https://malagaoriginal.blogspot.com/2026/04/copiar-archivos-de-disco-cinta-y.html</link>
-<guid isPermaLink="true">https://malagaoriginal.blogspot.com/2026/04/copiar-archivos-de-disco-cinta-y.html</guid>
-<pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-<category>Malagueños originales y libres</category>
-<description><![CDATA[Para copiar archivos desde un disco virtual (DSK) a un cassette virtual (CDT) hay que seguir los siguientes pasos: Arrancamos RVM&amp;nbsp;Insertamos Discology desde la unidad AArrancamos DiscologyCreamos un disco nuevo y formateado en la Unidad BInsertamos la cinta, para lo cual hacemos clic en el cass<br><br><strong>Fuente:</strong> Malagueños originales y libres]]></description>
-</item>
-<item>
-<title>¿Cómo instalo SETEdit en Ubuntu?</title>
-<link>https://ubuntuperonista.blogspot.com/2026/04/como-instalar-setedit-en-ubuntu.html</link>
-<guid isPermaLink="true">https://ubuntuperonista.blogspot.com/2026/04/como-instalar-setedit-en-ubuntu.html</guid>
-<pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-<category>Ubuntu Peronista</category>
-<description><![CDATA[En su Conducción Política, Juan Perón exponía las edificaciones que ha de contemplar el Conductor, a la vez que explica cómo instalar el editor estilo Borland SETEdit en Ubuntu.&amp;nbsp;(...)Es inútil dar a una masa inorgánica y anárquica un conductor. Lo van a colgar. Primero hay que formar esa masa.<br><br><strong>Fuente:</strong> Ubuntu Peronista]]></description>
-</item>
-<item>
-<title>De redes, Mastodon, Bluesky, y su madre</title>
-<link>https://blep.org/De-redes,-Mastodon,-Bluesky,-y-su-madre</link>
-<guid isPermaLink="true">https://blep.org/De-redes,-Mastodon,-Bluesky,-y-su-madre</guid>
-<pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-<category>Diego Cano</category>
-<description><![CDATA[A veces leo entre esa eterna lucha entre el fediverso y Bluesky, leo lo que sea, y me entran ganas de llorar o tirar la toalla. No lo entiendo, pero sí lo entiendo, y eso es lo que más me jode. Rozamos una victoria anarquista sobre el corporativismo Big Tech y perdimos de nuevo. Algunes habréis oid<br><br><strong>Fuente:</strong> Diego Cano]]></description>
-</item>
-<item>
-<title>#openSUSE Tumbleweed revisión de la semana 17 de 2026</title>
-<link>https://victorhckinthefreeworld.com/2026/04/24/opensuse-tumbleweed-revision-de-la-semana-17-de-2026/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/04/24/opensuse-tumbleweed-revision-de-la-semana-17-de-2026/</guid>
-<pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[Tumbleweed es una distribución de GNU/Linux &quot;Rolling Release&quot; o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>No tape left behind. Los archivos sonoros de Aadam Jacobs</title>
-<link>https://papelcontinuo.net/3501/no-tape-left-behind-los-archivos-sonoros-de-aadam-jacobs/</link>
-<guid isPermaLink="true">https://papelcontinuo.net/3501/no-tape-left-behind-los-archivos-sonoros-de-aadam-jacobs/</guid>
-<pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-<category>Papel Continuo</category>
-<description><![CDATA[Probablemente ustedes ya lo sepan, ya que estos días la noticia ha corrido como la pólvora por redes sociales y medios tradicionales. Pero este es uno de esos temas que tiene que estar en Papel Continuo. Me refiero a No tape left behind: Los archivos sonoros de Aadam Jacobs. Jacobs es un aficionado<br><br><strong>Fuente:</strong> Papel Continuo]]></description>
 </item>
 
 </channel>
