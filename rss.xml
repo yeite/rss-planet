@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 28 Apr 2026 01:55:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 08:06:18 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -42,12 +42,36 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Pi-hole es una solución de bloqueo de anuncios y rastreadores a nivel de red que convierte un dispositivo como una Raspberry Pi o similar en un servidor DNS para toda la red doméstica, bloqueando dominios conocidos de publicidad y tracking antes de que lleguen a tus dispositivos. Al actuar como un s<br><br><strong>Fuente:</strong> End3r.es]]></description>
 </item>
 <item>
+<title>Una Wikipedia de tu vida</title>
+<link>https://matizeta.com/2026/04/27/una-wikipedia-de-tu-vida/</link>
+<guid isPermaLink="true">https://matizeta.com/2026/04/27/una-wikipedia-de-tu-vida/</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+<category>pov – matizeta</category>
+<description><![CDATA[Jeremy se embarcó en una idea: construir una página de tipo Wikipedia personal, privada sobre la boda de su abuela en base a un puñado de fotos viejas que conservaba la familia.&amp;#160; Utilizó WikiMedia para ello. Wikimedia para quien no conoce es la estructura en la que se basa Wikipedia. Es gratis<br><br><strong>Fuente:</strong> pov – matizeta]]></description>
+</item>
+<item>
+<title>546. Gasto imprevisto</title>
+<link>https://lamadredelpatonegro.blogspot.com/2026/04/546-gasto-imprevisto.html</link>
+<guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/04/546-gasto-imprevisto.html</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+<category>La Madre Que Parió Al Pato Negro</category>
+<description><![CDATA[&amp;nbsp; &amp;nbsp; Ayer me encontré a Crespín en la caja de cobro del supermercado. Observé que su compra consistía en un lote de cerveza cuya marca ese día estaba de oferta. Los hay que compran lo que pueden, y los que pueden comprar cualquier nutriente indistintamente de su precio. Crespín es de los úl<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
+</item>
+<item>
 <title>Instalación de CloudPanel en Debian 12</title>
 <link>https://voidnull.es/instalacion-de-cloudpanel-en-debian-12/</link>
 <guid isPermaLink="true">https://voidnull.es/instalacion-de-cloudpanel-en-debian-12/</guid>
 <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
 <category>_ voidNull</category>
 <description><![CDATA[CloudPanel es un panel de control moderno diseñado para simplificar la administración de servidores en la nube, especialmente optimizado para aplicaciones PHP, Node.js y Python.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>WGTunnel: El cliente de WireGuard que Android merecía (y que además es Open Source)</title>
+<link>https://www.ochobitshacenunbyte.com/2026/04/27/wgtunnel-el-cliente-de-wireguard-que-android-merecia-y-que-ademas-es-open-source/</link>
+<guid isPermaLink="true">https://www.ochobitshacenunbyte.com/2026/04/27/wgtunnel-el-cliente-de-wireguard-que-android-merecia-y-que-ademas-es-open-source/</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+<category>ochobitshacenunbyte</category>
+<description><![CDATA[Introducción: El eslabón perdido en Android WireGuard, aplicación y protocolo de VPN de la que hemos hablado muchas veces, ha cambiado las reglas del juego en las comunicaciones seguras gracias a su simplicidad y&amp;#46;&amp;#46;&amp;#46; La entrada WGTunnel: El cliente de WireGuard que Android merecía (y que<br><br><strong>Fuente:</strong> ochobitshacenunbyte]]></description>
 </item>
 <item>
 <title>Ya no hacen falta programadores</title>
@@ -64,6 +88,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
 <category>Del Otro Lado Metal</category>
 <description><![CDATA[(2025 &amp;#8211; Vision Of God Records) El Black Metal tiene sus variantes, y también su... The post Eternal Throne: From The Depths Of Mortal Flesh | La Furia No Se Negocia first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Por qué el 70% de los proyectos de IA fracasan (y qué tiene que ver la experiencia de usuario)</title>
+<link>https://dani.torresburriel.com/por-que-fracasan-proyectos-ia-experiencia-usuario/</link>
+<guid isPermaLink="true">https://dani.torresburriel.com/por-que-fracasan-proyectos-ia-experiencia-usuario/</guid>
+<pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+<category>Blog de Daniel Torres Burriel</category>
+<description><![CDATA[He aceptado una invitación de Miguel Florido para participar en DSM IA 2026, un congreso online y gratuito que se celebra del 28 al 30 de abril, y que está dedicado íntegramente a la aplicación de la inteligencia artificial en empresa, marketing y herramientas. Me toca el primer día, el dedicado a I<br><br><strong>Fuente:</strong> Blog de Daniel Torres Burriel]]></description>
 </item>
 <item>
 <title>Nuestra Odisea</title>
@@ -122,6 +154,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Cuando reinstalas una distribución Linux, existe una opción muy útil que a menudo se pasa por alto: no formatear la partición /home. Esto permite conservar todos tus archivos personales, pero hacer al mismo tiempo una instalación completamente limpia del sistema. En lugar de reutilizar el usuario an<br><br><strong>Fuente:</strong> Tecno y Soft]]></description>
 </item>
 <item>
+<title>Nicole con toda su luz en Club Chocolate</title>
+<link>https://altgr.xyz/2026/04/26/nicole-con-toda-su-luz-en-club-chocolate/</link>
+<guid isPermaLink="true">https://altgr.xyz/2026/04/26/nicole-con-toda-su-luz-en-club-chocolate/</guid>
+<pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
+<category>Eterno aprendiz</category>
+<description><![CDATA[Me encanta NIcole. La diva pop chilena de los &amp;#8217;90 por excelencia, pero que no se quedó solo ahí. Ha logrado mantenerse vigente hasta ahora y su presentación la noche de sábado 25 en el Club Chocolate es la prueba de ello. El mejor concierto de Nicole en el que he estado. Se vio a una artista r<br><br><strong>Fuente:</strong> Eterno aprendiz]]></description>
+</item>
+<item>
 <title>Exlibris 2026</title>
 <link>https://sidiostedalimones.com/blog/2026/exlibris-26/</link>
 <guid isPermaLink="true">https://sidiostedalimones.com/blog/2026/exlibris-26/</guid>
@@ -176,46 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
 <category>Jodida, pero no sorprendida</category>
 <description><![CDATA[Ea, con dificultad, pero he encontrado un ratito para contarte cosas de señoras que hacen cosas. Je. Alice Oseman - Heartstopper Heartstopper ha concluído y nos ha dejado un huequito en el corazón (a pesar de que las últimas tiras eran un poco ir estirando el chicle) porque son todos TAN monos, T<br><br><strong>Fuente:</strong> Jodida, pero no sorprendida]]></description>
-</item>
-<item>
-<title>Permanencia</title>
-<link>https://mcallus.net/2026/04/25/permanencia/</link>
-<guid isPermaLink="true">https://mcallus.net/2026/04/25/permanencia/</guid>
-<pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
-<category>El Laberinto de McAllus</category>
-<description><![CDATA[A veces la veía en los rostros de otros. No era un parecido. Era algo más preciso. La forma de inclinar la cabeza, la curva exacta de una sonrisa. Gestos familiares que dolían al reconocerlos. Al principio cerraba los ojos. Cuando empecé a fijarme, pude ver que algunos desconocidos me miraban durant<br><br><strong>Fuente:</strong> El Laberinto de McAllus]]></description>
-</item>
-<item>
-<title>#191: Shin Chan ha sido suficiente</title>
-<link>https://www.macram.es/posts/2026/04/shin-chan-ha-sido-suficiente/</link>
-<guid isPermaLink="true">https://www.macram.es/posts/2026/04/shin-chan-ha-sido-suficiente/</guid>
-<pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
-<category>Mi blog on Manu Mateos</category>
-<description><![CDATA[Que Shin Chan haya comenzado a emitirse en el canal Comedy Central ha sido razón suficiente para que vuelva a suscribirme a Movistar Plus+ (ya os conté que cancelé a finales de 2025). Es de las pocas series que disfruto y que puedo tener de fondo sin haber visto todos sus capítulos chopotocientas ve<br><br><strong>Fuente:</strong> Mi blog on Manu Mateos]]></description>
-</item>
-<item>
-<title>Steam en Linux: jugar con máximo rendimiento</title>
-<link>https://xol.ar/steam-linux-jugar-con-maximo-redimiento/</link>
-<guid isPermaLink="true">https://xol.ar/steam-linux-jugar-con-maximo-redimiento/</guid>
-<pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
-<category>xol.ar</category>
-<description><![CDATA[Post evolutivo donde desarrollo mis intentos de lograr el mejor rendimiento para juegos de Steam en mi Linux box.<br><br><strong>Fuente:</strong> xol.ar]]></description>
-</item>
-<item>
-<title>Ejemplos prácticos del comando diff en Linux</title>
-<link>https://www.ochobitshacenunbyte.com/2026/04/25/ejemplos-practicos-del-comando-diff-en-linux/</link>
-<guid isPermaLink="true">https://www.ochobitshacenunbyte.com/2026/04/25/ejemplos-practicos-del-comando-diff-en-linux/</guid>
-<pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
-<category>ochobitshacenunbyte</category>
-<description><![CDATA[Vemos diferentes ejemplos prácticos del comando diff en GNU/Linux. Para quien no lo conozca este comando se encarga de comparar dos archivos, que contienen un texto similar. Genial para comparar diferentes versiones de un&amp;#46;&amp;#46;&amp;#46; La entrada Ejemplos prácticos del comando diff en Linux se publ<br><br><strong>Fuente:</strong> ochobitshacenunbyte]]></description>
-</item>
-<item>
-<title>Windows te come el disco y no sé ni por qué</title>
-<link>https://nachof.blog/posts/2026/windows-espacio-en-disco/</link>
-<guid isPermaLink="true">https://nachof.blog/posts/2026/windows-espacio-en-disco/</guid>
-<pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
-<category>Un blog</category>
-<description><![CDATA[Tengo un software que sólo está para Windows (y Mac) y no lo logré hacer andar bien con Wine. Como es el software del plotter de corte Silhouette, tampoco es que sea fácil encontrar una alternativa. Entonces lo que hice fue instalarlo en una máquina virtual. A la máquina virtual le dí 30GB de espaci<br><br><strong>Fuente:</strong> Un blog]]></description>
 </item>
 
 </channel>
