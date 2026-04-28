@@ -165,6 +165,13 @@ a:hover {
     border: 2px solid #6abe30;
 }
 
+.item.sponsor {
+  border: 2px solid #6abe30;          /* borde interno */
+  outline: 2px solid gold;           /* segundo borde */
+  outline-offset: 2px;
+
+}
+
 .blog img {
     width: 18px;
     height: 18px;
