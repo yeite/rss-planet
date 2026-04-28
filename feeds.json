@@ -21,11 +21,32 @@
     "contenido": "Pi-hole es una solución de bloqueo de anuncios y rastreadores a nivel de red que convierte un dispositivo\ncomo una Raspberry Pi o similar en un servidor DNS para toda la red doméstica, bloqueando dominios conocidos\nde publicidad y tracking antes de que lleguen a tus dispositivos.\nAl actuar como un s"
   },
   {
+    "blog": "pov – matizeta",
+    "titulo": "Una Wikipedia de tu vida",
+    "link": "https://matizeta.com/2026/04/27/una-wikipedia-de-tu-vida/",
+    "fecha": "27/04/2026",
+    "contenido": "Jeremy se embarcó en una idea: construir una página de tipo Wikipedia personal, privada sobre la boda de su abuela en base a un puñado de fotos viejas que conservaba la familia.&#160; Utilizó WikiMedia para ello. Wikimedia para quien no conoce es la estructura en la que se basa Wikipedia. Es gratis "
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "546. Gasto imprevisto",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/04/546-gasto-imprevisto.html",
+    "fecha": "27/04/2026",
+    "contenido": "&nbsp; &nbsp; Ayer me encontré a Crespín en la caja de cobro del supermercado. Observé que su compra consistía en un lote de cerveza cuya marca ese día estaba de oferta. Los hay que compran lo que pueden, y los que pueden comprar cualquier nutriente indistintamente de su precio. Crespín es de los úl"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalación de CloudPanel en Debian 12",
     "link": "https://voidnull.es/instalacion-de-cloudpanel-en-debian-12/",
     "fecha": "27/04/2026",
     "contenido": "CloudPanel es un panel de control moderno diseñado para simplificar la administración de servidores en la nube, especialmente optimizado para aplicaciones PHP, Node.js y Python."
+  },
+  {
+    "blog": "ochobitshacenunbyte",
+    "titulo": "WGTunnel: El cliente de WireGuard que Android merecía (y que además es Open Source)",
+    "link": "https://www.ochobitshacenunbyte.com/2026/04/27/wgtunnel-el-cliente-de-wireguard-que-android-merecia-y-que-ademas-es-open-source/",
+    "fecha": "27/04/2026",
+    "contenido": "Introducción: El eslabón perdido en Android WireGuard, aplicación y protocolo de VPN de la que hemos hablado muchas veces, ha cambiado las reglas del juego en las comunicaciones seguras gracias a su simplicidad y&#46;&#46;&#46;\nLa entrada WGTunnel: El cliente de WireGuard que Android merecía (y que "
   },
   {
     "blog": "Fabio.com.ar",
@@ -40,6 +61,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/04/27/la-furia-no-se-negocia/",
     "fecha": "27/04/2026",
     "contenido": "(2025 &#8211; Vision Of God Records) El Black Metal tiene sus variantes, y también su...\nThe post Eternal Throne: From The Depths Of Mortal Flesh | La Furia No Se Negocia first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Por qué el 70% de los proyectos de IA fracasan (y qué tiene que ver la experiencia de usuario)",
+    "link": "https://dani.torresburriel.com/por-que-fracasan-proyectos-ia-experiencia-usuario/",
+    "fecha": "27/04/2026",
+    "contenido": "He aceptado una invitación de Miguel Florido para participar en DSM IA 2026, un congreso online y gratuito que se celebra del 28 al 30 de abril, y que está dedicado íntegramente a la aplicación de la inteligencia artificial en empresa, marketing y herramientas. Me toca el primer día, el dedicado a I"
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -89,6 +117,13 @@
     "link": "https://tecnoysoft.com/2026/04/26/reinstalar-linux-sin-formatear-home-y-empezar-con-un-usuario-limpio/",
     "fecha": "26/04/2026",
     "contenido": "Cuando reinstalas una distribución Linux, existe una opción muy útil que a menudo se pasa por alto: no formatear la partición /home. Esto permite conservar todos tus archivos personales, pero hacer al mismo tiempo una instalación completamente limpia del sistema. En lugar de reutilizar el usuario an"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Nicole con toda su luz en Club Chocolate",
+    "link": "https://altgr.xyz/2026/04/26/nicole-con-toda-su-luz-en-club-chocolate/",
+    "fecha": "26/04/2026",
+    "contenido": "Me encanta NIcole. La diva pop chilena de los &#8217;90 por excelencia, pero que no se quedó solo ahí. Ha logrado mantenerse vigente hasta ahora y su presentación la noche de sábado 25 en el Club Chocolate es la prueba de ello. El mejor concierto de Nicole en el que he estado. Se vio a una artista r"
   },
   {
     "blog": "Si dios te da limones",
@@ -224,6 +259,13 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
+    "blog": "pov – matizeta",
+    "titulo": "No sé que hacer con mi LinkedIn",
+    "link": "https://matizeta.com/2026/04/24/no-se-que-hacer-con-mi-linkedin/",
+    "fecha": "24/04/2026",
+    "contenido": "Hace rato que vengo con la idea de eliminar mi cuenta de LinkedIn. Ya hablé sobre la basura que en que se convirtió en el último tiempo esta red social:&#160; Ttodo lo que se publica allí es pura mierda hecha con IA, puro autobombo. Los que la utilizamos exponemos información sensible: cronología de"
+  },
+  {
     "blog": "textosperdidos – matizeta",
     "titulo": "Previsión de riesgos",
     "link": "https://matizeta.com/2026/04/24/prevision-de-riesgos/",
@@ -287,13 +329,6 @@
     "contenido": "Anticipo de mi trabajo diseñando y gestionando un sistema de diseño como playground para hacer experimentos con inteligencia artificial generativa en todo el proceso de diseño centrado en el usuario.\nLa entrada Sistemas de diseño e inteligencia artificial se publicó primero en Blog de Daniel Torres "
   },
   {
-    "blog": "JavierSam",
-    "titulo": "Taller de Scribus en el FLISoL 2026",
-    "link": "https://javiersam.uy/2026/04/taller-de-scribus-en-el-flisol-2026.html",
-    "fecha": "24/04/2026",
-    "contenido": ""
-  },
-  {
     "blog": "Diego Cano",
     "titulo": "Implementando OpenHeart",
     "link": "https://blep.org/Implementando-OpenHeart",
@@ -334,6 +369,13 @@
     "link": "https://gatooscuro.xyz/signal-bajo-asedio-cuando-el-sistema-traiciona-al-cifrado/",
     "fecha": "23/04/2026",
     "contenido": "PD: El tema estuvo muy sonado semanas atrás, pero debido a compromisos no pude estar al día, lo lamento, aun así&#8230; proporciono fuentes centralizadas en este artículo que les servirá\nSeguir leyendo  Signal bajo asedio &#124; Cuando el sistema traiciona al cifrado\nEl cargo Signal bajo asedio | Cu"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "El papelón del PC Fútbol",
+    "link": "https://matizeta.com/2026/04/23/el-papelon-de-pc-futbol/",
+    "fecha": "23/04/2026",
+    "contenido": "¿Quién recuerda el PC Fútbol? Pasé largas horas frente a este juego, con amigos y en solitario. Corría el año 1997. Muchos de los que jugábamos en aquellos tiempos seguramente lo recordemos con cariño y con una sonrisa en la cara. A principios del 2023, se anunciaba que se estaba trabajando en una n"
   },
   {
     "blog": "Eterno aprendiz",
@@ -418,6 +460,13 @@
     "link": "http://blog.neosite.com.ar/post/neosite-podcast-12-mergerfs-magia-de-directorios-en-tu-homeserver",
     "fecha": "22/04/2026",
     "contenido": ""
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Evitemos pagar suscripciones",
+    "link": "https://matizeta.com/2026/04/22/evitemos-pagar-suscripciones/",
+    "fecha": "22/04/2026",
+    "contenido": "Se que es cómodo pagar por Spotify, YouTube, Netflix, etc.. yo también pago por ese tipo de servicios porque siento que me aporta un beneficio. Pero no mal acostumbremos a las empresas a pagar por suscripciones . Me refiero a servicios que podrían ser tranquilamente de pago único. Un caso de eso, so"
   },
   {
     "blog": "danielaragay.net",
@@ -532,13 +581,6 @@
     "contenido": "En la emulación de videojuegos es tan importante escoger el programa adecuado como encontrar las ROMs de aquellos títulos que nos apasionan. Por lo general no es difícil hacerse con ellas, y con una simple búsqueda en internet tendremos resultados suficientes, pero a veces hay que navegar bastante. "
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Los grandes gestos como pobres disculpas.",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/los-grandes-gestos-como-pobres-disculpas/",
-    "fecha": "21/04/2026",
-    "contenido": "Este post contiene spoilers de la novela Hamnet, aunque sean como mera excusa para iniciar el razonamiento, así que si no la has leído y no te gusta que te destripen detalles, deberías parar de leer aquí.\n\nAyer acabé de leer Hamnet, la novela de Maggie O'Farrell. Hacia el final de la novela hay dos "
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Todos vamos a morir",
     "link": "https://jinversor.co/2026/04/todos-vamos-a-morir/",
@@ -565,6 +607,13 @@
     "link": "https://www.macram.es/posts/2026/04/tostada-parisina/",
     "fecha": "21/04/2026",
     "contenido": "Soy una persona que desayuna. Esto no coge a nadie de sorpresa porque casi todo el mundo desayuna. Bueno, técnicamente todo el mundo desayuna en algún momento del día, pero digamos que soy una persona que toma un desayuno canónico a una hora normal para desayunar (aunque algunos días como hoy quizá "
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "No creas que todo necesita de tu atención",
+    "link": "https://matizeta.com/2026/04/21/no-creas-que-todo-necesita-de-tu-atencion/",
+    "fecha": "21/04/2026",
+    "contenido": "De verdad, no pasa nada si no te enteras de las últimas tendencias que circulan en Internet. Si no haz visto ese vídeo viral. Las tendencias desaparecen tan rápido como aparecen. Tampoco pasa nada si te saltas un día o si solo lees solo una vez en el diario. Te vas a dar cuenta que [&#8230;]"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -614,26 +663,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/04/21/no-todo-lo-que-parece-es/",
     "fecha": "21/04/2026",
     "contenido": "(2025 &#8211; Roxx Records) Las apariencias engañan dice un viejo dicho, y una regla que...\nThe post Testimony Of Apocalypse: Agony In The Garden | No Todo Lo Que Parece, Es… first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Libre Graphics Meeting 2026",
-    "link": "https://javiersam.uy/2026/04/libre-graphics-meeting-2026.html",
-    "fecha": "21/04/2026",
-    "contenido": "Mañana, miércoles 22 de abril, comienza en Nurembreg, Alemania, la 19ª Libre Graphics Meeting y va hasta el sábado 25. Charlas En principio, y luego de una mirada superficial al programa, las charlas que me parecen más interesantes son: Miércoles 22 Jueves 23 Viernes 24 Sábado 25 Las charlas se tran"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "El fin de los piratas",
-    "link": "https://jinversor.co/2026/04/el-fin-de-los-piratas/",
-    "fecha": "20/04/2026",
-    "contenido": "Qué bien me caían esos sujetos que se saltaban los abusos de las malas empresas como Mierdasoft. Esos que tomaban el software que necesitaban, no para venderlo sino para usarlo, [&#8230;]\nLa entrada El fin de los piratas se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Optando por apps con intervalos para notificaciones",
-    "link": "https://thejnx.bearblog.dev/sincronizacion-notificaciones/",
-    "fecha": "20/04/2026",
-    "contenido": "Desde mi último setup mencioné que lo primero que me llamó la atención como alternativa al FCM de Google (el servicio para que las apps envíen notificaciones al teléfono) fue UnifiedPush, aunque hay un pero, es el como las apps que utilizan este protocolo son casi inexistentes o al final no me son d"
   }
 ]
