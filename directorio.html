@@ -208,7 +208,7 @@
                     const item = document.createElement("div");
                     item.className = "item";
                     if (b.Aliado !== undefined) item.classList.add("aliado");
-                    if (b.Sponsor !== undefined) item.classList.add("sponsor");
+                    if (c.Sponsor !== undefined) item.classList.add("sponsor");
                     let url = b.Url || "";
                     if (url && !url.startsWith("http")) {
                         url = "https://" + url;
@@ -224,8 +224,8 @@
                             ? '<img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif" alt="Aliado" />'
                             : "";
 
-                     const etiquetaAliado =
-                        b.Aliado !== undefined
+                     const etiquetaSponsor =
+                        c.Sponsor !== undefined
                             ? '<p "⭐️" alt="Sponsor" />'
                             : "";
                     
