@@ -166,8 +166,8 @@ a:hover {
 }
 
 .item.sponsor {
-  border: 2px solid #6abe30;          /* borde interno */
   outline: 2px solid gold;           /* segundo borde */
+
   outline-offset: 2px;
 
 }
