@@ -208,7 +208,7 @@
                     const item = document.createElement("div");
                     item.className = "item";
                     if (b.Aliado !== undefined) item.classList.add("aliado");
-                    if (b.Sponsor !== undefined) item.classList.add("sponsor");
+
                     let url = b.Url || "";
                     if (url && !url.startsWith("http")) {
                         url = "https://" + url;
@@ -224,11 +224,6 @@
                             ? '<img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif" alt="Aliado" />'
                             : "";
 
-                     const etiquetaSponsor =
-                        b.Sponsor !== undefined
-                                ? '⭐️'
-                            : "";
-                    
                     const bandera = banderas[b.País] || ""; // 🟡 NUEVO
 
                     // al mostrar blogs
@@ -244,7 +239,7 @@
                     item.innerHTML = `
             <div class="blog">
               <img src="${favicon}" alt="favicon" style="width:16px;height:16px;vertical-align:middle;margin-right:6px;">
-              <a href="${b.Url}" target="_blank">${b.Nombre}</a>${etiquetaAliado}${etiquetaSponsor}
+              <a href="${b.Url}" target="_blank">${b.Nombre}</a>${etiquetaAliado}
             </div>
             <p class="descripcion">${b.Descripción || ""}</p>
             <p><strong>Categoría:</strong> ${categoriasConEmoji}<br>
