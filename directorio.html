@@ -208,7 +208,7 @@
                     const item = document.createElement("div");
                     item.className = "item";
                     if (b.Aliado !== undefined) item.classList.add("aliado");
-                    if (c.Sponsor !== undefined) item.classList.add("sponsor");
+                    if (b.Sponsor !== undefined) item.classList.add("sponsor");
                     let url = b.Url || "";
                     if (url && !url.startsWith("http")) {
                         url = "https://" + url;
@@ -225,8 +225,8 @@
                             : "";
 
                      const etiquetaSponsor =
-                        c.Sponsor !== undefined
-                            ? '<p "⭐️" alt="Sponsor" />'
+                        b.Sponsor !== undefined
+                                ? '⭐️'
                             : "";
                     
                     const bandera = banderas[b.País] || ""; // 🟡 NUEVO
