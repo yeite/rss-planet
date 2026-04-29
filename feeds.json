@@ -1,10 +1,59 @@
 [
   {
+    "blog": "El Blog de Juan A. Flores",
+    "titulo": "Excelentes Datos sobre USB",
+    "link": "https://juanagustinflores.wordpress.com/2026/04/29/excelentes-datos-sobre-usb/",
+    "fecha": "29/04/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Palantir | el ojo que decide",
+    "link": "https://gatooscuro.xyz/palantir-el-ojo-que-decide/",
+    "fecha": "29/04/2026",
+    "contenido": "Hubo un tiempo —no tan lejano, aunque ahora parezca otra vida digital— en el que escribir sobre vigilancia implicaba mirar hacia Oriente con cierta distancia, casi con la tranquilidad de\nSeguir leyendo  Palantir &#124; el ojo que decide\nEl cargo Palantir | el ojo que decide apareció primero en El cu"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Devil May Cry",
+    "link": "https://mareosdeungeek.es/devil-may-cry/",
+    "fecha": "29/04/2026",
+    "contenido": "Devil May Cry es otra de esas adaptaciones de videojuegos que Netflix ha ido haciendo en los últimos tiempos. Aunque la franquicia de Capcom creada por Hideki Kamiya lleva desde 2001 dando guerra, nunca está de más disponer de más material alrededor suyo, en este caso en forma de serie de animación."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de servidor web LAMP en Ubuntu 26.04",
+    "link": "https://voidnull.es/instalacion-de-servidor-web-lamp-en-ubuntu-26-04/",
+    "fecha": "29/04/2026",
+    "contenido": "A continuación vamos a instalar un servidor LAMP completo en Ubuntu 26.04 &quot;Resolute Raccoon&quot;."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Las notificaciones de iOS y la privacidad",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/04/29/20260429-ios-privacidad-notificaciones/",
     "fecha": "29/04/2026",
     "contenido": "Si una aplicación con excelentes mecanismos de privacidad envía una notificación de sistema con contenido de un mensaje, y dicho sistema no tiene buena seguridad, olvídate de la privacidad"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "La guerra Pirata Ruso-Japonesa de 2026",
+    "link": "https://www.fabio.com.ar/9930-la-guerra-pirata-ruso-japonesa-de-2026",
+    "fecha": "29/04/2026",
+    "contenido": "    \nNo estoy hablando de la Guerra Ruso-Japonesa de 1907, esta es otra, es nueva, y me ha hecho re&iacute;r bastante, pero expuso las diferencias culturales al hacerlas chocar violentamente.\nResulta que en Twitter, ahora mal llamado X por su egoc&eacute;ntrico due&ntilde;o, se les ocurri&oacute; qu"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Haggis Ruby 2026 - Glasgow, Escocia",
+    "link": "https://picandocodigo.net/2026/haggis-ruby-2026-glasgow-escocia/",
+    "fecha": "29/04/2026",
+    "contenido": "Después de la primera edición de Haggis Ruby en Edimburgo en 2024, volvió en 2026. Se realizó durante 2 días el jueves 23 y viernes 24 de abril. Esta vez se mudó a la ciudad de Glasgow. La sede fue thestudio, en el 8° y 9° piso de un edificio sobre la calle Hope, enfrente a la Estación Central de Gl"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Nuevo Single Y Video Clip Anticipan Su Próximo Álbum | “Sonic Of Salvation” Es Lo Nuevo De August Burns Red",
+    "link": "https://www.delotroladometal.com.ar/2026/04/29/sonic-of-salvation-es-lo-nuevo-de-august-burns-red/",
+    "fecha": "29/04/2026",
+    "contenido": "La conocida banda Metalcore August Burns Red acaba de estrenar un nuevo video clip. Se...\nThe post Nuevo Single Y Video Clip Anticipan Su Próximo Álbum | “Sonic Of Salvation” Es Lo Nuevo De August Burns Red first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Victorhck in the free world",
@@ -588,27 +637,6 @@
     "contenido": "Cockpit en openSUSE es el sustituto ya \"de facto\" de YaST a la hora de configurar diversos aspectos de nuestro sistema openSUSE"
   },
   {
-    "blog": "Jinversor",
-    "titulo": "Mírame",
-    "link": "https://jinversor.co/2026/04/mirame/",
-    "fecha": "22/04/2026",
-    "contenido": "Mírame, mírame, por favor mírame. Te prometo que verás cosas que nunca antes habías visto. Te aseguro que soy la persona más original del mundo. Soy única e irrepetible. Solo [&#8230;]\nLa entrada Mírame se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Los misterios de la taberna Kamogawa",
-    "link": "https://mareosdeungeek.es/los-misterios-de-la-taberna-kamogawa/",
-    "fecha": "22/04/2026",
-    "contenido": "Los misterios de la taberna Kamogawa es el inicio de una serie de libros escritos por el japonés Hisashi Kashiwai. Mezclando la gastronomía y el misterio ha ido creando una serie de historias que alcanzan ya, en Japón, los once libros. Afortunadamente, en España, parece que está teniendo una buena a"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Evitemos pagar suscripciones",
-    "link": "https://matizeta.com/2026/04/22/evitemos-pagar-suscripciones/",
-    "fecha": "22/04/2026",
-    "contenido": "Se que es cómodo pagar por Spotify, YouTube, Netflix, etc.. yo también pago por ese tipo de servicios porque siento que me aporta un beneficio. Pero no mal acostumbremos a las empresas a pagar por suscripciones . Me refiero a servicios que podrían ser tranquilamente de pago único. Un caso de eso, so"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Cambios inesperados del concurso literario que me presenté",
     "link": "https://blog.danielaragay.net/cambios-inesperados-del-concurso-literario-que-me-presente/",
@@ -623,27 +651,6 @@
     "contenido": "Aprende a usar el comando nl en GNU/Linux para numerar líneas de archivos de texto y controlar el formato de salida desde la terminal."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Integración de Ghost CMS en Home Assistant",
-    "link": "https://voidnull.es/integracion-de-ghost-cms-en-home-assistant/",
-    "fecha": "22/04/2026",
-    "contenido": "Integra Ghost CMS en Home Assistant y monitoriza tu blog en tiempo real desde tu panel domótico fácilmente."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Las aventuras de Benchamín",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/04/22/20260422-aventuras-de-benchamin/",
-    "fecha": "22/04/2026",
-    "contenido": "The Bench es la historia de un anciano sentadito al sol al que todos subestiman, cuando tiene más peligro de cierto infame ganso"
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "k9s: Kubernetes CLI con estilo!",
-    "link": "https://www.ochobitshacenunbyte.com/2026/04/22/k9s-kubernetes-cli-con-estilo/",
-    "fecha": "22/04/2026",
-    "contenido": "Si estas acostumbrado con trabajar con Kubernetes, seguramente te sabrás los principales parámetros a utilizar con Kubectl, ya sea listar los nodos con «kubectl get nodes» o bien los pods de un espacio de&#46;&#46;&#46;\nLa entrada k9s: Kubernetes CLI con estilo! se publicó primero en ochobitshacenun"
-  },
-  {
     "blog": "56K",
     "titulo": "dosemu2 – Ejecutar aplicaciones de DOS en LINUX",
     "link": "https://56k.es/fanta/dosemu2-ejecutar-aplicaciones-de-dos-en-linux/",
@@ -651,32 +658,11 @@
     "contenido": "Es posible ejecutar software de MSDOS en Linux usando dosemu2. El problema es que posiblemente vamos a tener que compilar dosemu2 y alguna de sus dependencias. Si por ejemplo te apetece jugar algún juego fanta.56k.es/software/Juegos/Msdos-Games/ en una ventana mientras navegas y haces otras cosas (p"
   },
   {
-    "blog": "56K",
-    "titulo": "Biblioburros – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/biblioburros-fuera-de-las-garras-de-la-ia/",
-    "fecha": "22/04/2026",
-    "contenido": "Las tecnologías que mejor escapan a las garras de la IA suelen ser analógicas. Me he embarcado en una serie de posts en los que pretendo mostrar ejemplos de tecnologías que permiten la transmisión de conocimientos sin alimentar IAs. Son maravillas muchas de ellas y son tecnología humilde. En este ca"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Un Podcast analógico – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/un-podcast-analogico-fuera-de-las-garras-de-la-ia/",
-    "fecha": "22/04/2026",
-    "contenido": "@Anthk@neopaquita.es comentó el otro día la existencia del software «Minimodem» en un comentario en 56k.es. Un software que puede usarse para transferir datos entre ordenadores cercanos mediante un cable de audio (o simplemente mediante ondas sonoras), o entre ordenadores remotos mediante radio, tel"
-  },
-  {
     "blog": "prosa",
     "titulo": "frikismo exquisito",
     "link": "https://blog.adrianaaraujot.casa/frikismo-exquisito/",
     "fecha": "22/04/2026",
     "contenido": "para las frikis de las notas, las listas y registros que leen estas cartas (y un desearles un feliz día del libro, por adelantado)"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "¿Realmente los Nazis pagaron por lo que hicieron?",
-    "link": "https://www.fabio.com.ar/9925-realmente-los-nazis-pagaron-por-lo-que-hicieron",
-    "fecha": "22/04/2026",
-    "contenido": "    \nCuando era m&aacute;s chico daba por hecho que casi todos los nazis hab&iacute;an terminado en la horca y s&oacute;lo unos pocos hab&iacute;an escapado.\nPero con el paso del tiempo no s&oacute;lo me enteraba de alg&uacute;n que otro jerarca que era perseguido o que sencillamente hab&iacute;a lo"
   },
   {
     "blog": "Picando Código",
