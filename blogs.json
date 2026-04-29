@@ -10,6 +10,15 @@
     "Sponsor": "si"
   },
   {
+    "Nombre": "Desde un balcón de Madrid",
+    "Url": "https://empiezaen2023.wordpress.com/",
+    "Feed": "https://empiezaen2023.wordpress.com/feed/",
+    "Descripción": "Blog sobre vivencias, reflexiones, minimalismo y tecnología (sobre todo software libre)",
+    "Categoría": "Entretenimiento y Cultura, Tecnología",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
     "Nombre": "End3r.es",
     "Url": "https://www.end3r.es/",
     "Feed": "https://www.end3r.es/atom.xml",
@@ -298,14 +307,6 @@
     "Categoría": "Tecnología, Sociedad y Economía",
     "País": "Colombia",
     "Sponsor": "si"
-  },
-  {
-    "Nombre": "Desde un balcón de Madrid",
-    "Url": "https://empiezaen2023.wordpress.com/",
-    "Feed": "https://empiezaen2023.wordpress.com/feed/",
-    "Descripción": "Blog sobre vivencias, reflexiones, minimalismo y tecnología (sobre todo software libre)",
-    "Categoría": "Entretenimiento y Cultura, Tecnología",
-    "País": "España"
   },
   {
     "Nombre": "El Cajón de la Tecnología",
