@@ -1,5 +1,145 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Las notificaciones de iOS y la privacidad",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/04/29/20260429-ios-privacidad-notificaciones/",
+    "fecha": "29/04/2026",
+    "contenido": "Si una aplicación con excelentes mecanismos de privacidad envía una notificación de sistema con contenido de un mensaje, y dicho sistema no tiene buena seguridad, olvídate de la privacidad"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Thunderbird Pro. Las novedades del proyecto en abril de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/04/28/thunderbird-pro-las-novedades-del-proyecto-en-abril-de-2026/",
+    "fecha": "28/04/2026",
+    "contenido": "La comunidad que desarrolla el cliente de correo Thunderbird sigue trabajando en hacer realidad Thundermail, Appointmet y Send"
+  },
+  {
+    "blog": "La Máquina de Von Neumann",
+    "titulo": "The Vector Grounding Problem: ¿comprenden algo los LLMs?",
+    "link": "https://vonneumannmachine.wordpress.com/2026/04/28/the-vector-grounding-problem-comprenden-algo-los-llms/",
+    "fecha": "28/04/2026",
+    "contenido": "Hoy vamos a comentar un artículo, a mi juicio muy interesante, para afrontar el actual debate sobre si los LLMs tienen genuina comprensión de la realidad: «The vector Grounding Problem» de Dimitri Coelho y Raphaël Millière. En él se actualiza el célebre argumento del symbol grounding problem, propue"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "NEOGEO AES+ anunciada para noviembre 2026",
+    "link": "https://mareosdeungeek.es/neogeo-aes-anunciada-para-noviembre-2026/",
+    "fecha": "28/04/2026",
+    "contenido": "SNK y Plaion anunciaron a mediados de abril el lanzamiento para noviembre de 2026 de NEOGEO AES+ (Advanced Entertainment System) En esta ocasión no se trata de una replica como fue la NEOGEO Mini. NEOGEO AES+ es un nuevo producto que adapta la antigua videoconsola original, a los tiempos de hoy. La "
+  },
+  {
+    "blog": "Galerías Preciados",
+    "titulo": "No tengo ni idea (y eso está guay)",
+    "link": "https://galeriaspreciados.band/no-tengo-ni-idea-y-eso-esta-guay/",
+    "fecha": "28/04/2026",
+    "contenido": "La semana pasada me topé con un video de Sr. Chinarro en el que decía que no iba a publicar en streaming su próximo disco: El Año de la Pera y me dejó una buena sensación de que hay cosas que están cambiando un poquito"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 17/2026",
+    "link": "https://www.macram.es/posts/2026/04/semana-17-2026/",
+    "fecha": "28/04/2026",
+    "contenido": "La semana pasada fue intensa. Tanto es así que estoy escribiendo estas palabras el martes siguiente antes de las ocho de la mañana, una hora a la que no es nada habitual que esté haciendo cosas distintas a plantearme dudas existenciales como &ldquo;quién soy&rdquo; y &ldquo;qué año es este&rdquo;.\nN"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "El cine que se viene",
+    "link": "https://matizeta.com/2026/04/28/el-cine-que-se-viene/",
+    "fecha": "28/04/2026",
+    "contenido": "Hace unos días escuché en la radio (vaya forma análoga de consumir información) de la primera serie hecha enteramente con Inteligencia Artificial. Las voces que se utilizaron son humanas y por lo que se entiende el guión no fue hecho con IA (o al menos no enteramente). Juzguen ustedes mismos&#160;co"
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "A partir de ahora podés consumir ¡Blog!¡Blog! vía RSS",
+    "link": "https://matizeta.com/2026/04/28/a-partir-de-ahora-podes-consumir-blogblog-via-rss/",
+    "fecha": "28/04/2026",
+    "contenido": "Es una nueva funcionalidad que implementé y podés usar ya mismo. Ya no hace falta ingresar a ¡Blog!¡Blog! para saber que están publicando los blogs en español del directorio. Podés recibir el contenido a través de su RSS: blogblog.es/rss.xml Es una funcionalidad que quería desde hace tiempo implemen"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Audiolibros, mi primer contacto",
+    "link": "https://blog.danielaragay.net/audiolibros-mi-primer-contacto/",
+    "fecha": "28/04/2026",
+    "contenido": "En Sant Jordi compr&#xe9; mi primer audiolibro y aqu&#xed; te explico mi experienciaFormas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.da"
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "Muchos usuarios odian a sus ordenadores",
+    "link": "https://blog.elmundoesimperfecto.com/2026/04/28/medicos-ordenadores/",
+    "fecha": "28/04/2026",
+    "contenido": "\n\nUna buena puesta de pie a tierra en Why Doctors Hate Their Computers (un resumen en ‘Why doctors hate their computers?’ por si el primero no está disponible).\n\nYo diría que los médicos y muchas otras profesiones se sienten incómodos con los ordenadores, no es exclusivo de la clase médica.\n\nLa prim"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "La seguridad en los tiempos de la IA y la sostenibilidad del software libre",
+    "link": "https://fernand0.github.io//fallos-de-seguridad-ia/",
+    "fecha": "28/04/2026",
+    "contenido": "El panorama ha cambiado un poco en los últimos tiempos, y en Triaging security issues reported by third parties la queja era que recibían muchos avisos de seguridad, perdiendo mucho tiempo en verificarlos, aunque no siempre son tan importantes. I have to spend several hours each week dealing with se"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Friends with Cameras: Laura Sauchelli",
+    "link": "https://www.ericafustero.com/2026-04-friends-with-cameras-laura-sauchelli",
+    "fecha": "28/04/2026",
+    "contenido": "Esto es&#160;Friends with cameras, un espacio para hablar de fotografía con gente cuyas fotos me inspiran a seguir fotografiando. En esta ocasión hablo con Laura Sauchelli, diseñadora, fotógrafa y cofundadora y directora creativa de pop-eye studio en Milán. En su web se define como observadora en su"
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Un comentario sobre Reinos de los Tres Anillos",
+    "link": "http://frikoteca.blogspot.com/2026/04/un-comentario-sobre-reinos-de-los-tres.html",
+    "fecha": "28/04/2026",
+    "contenido": "Hace poco Devir publicó Reinos de los Tres Anillos, un suplemento para la segunda edición de su juego de rol El Anillo Único en el que se describen los tres reinos más importantes de los Elfos de la Tierra Media a finales de la Tercera Edad: el reino de Lindon, donde se encuentran los Puertos Grises"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Sin código QR por favor",
+    "link": "https://56k.es/fanta/sin-codigo-qr-por-favor/",
+    "fecha": "28/04/2026",
+    "contenido": "Me molesta el código QR en los restaurantes por muchos motivos. Presuponen que tengo un smartphone, con cámara, que tengo que llevarlo encima, que tengo que usarlo y que tengo que tener conexión a internet. Todo para llevarme a un PDF en el mejor de los casos y en el peor a perfiles o fotos..."
+  },
+  {
+    "blog": "Bitácora baldía on zurdeando",
+    "titulo": "Colecciones",
+    "link": "https://blog.zurdala.es/blog/colecciones/",
+    "fecha": "28/04/2026",
+    "contenido": "He pensando, que como parte de tener un &ldquo;jardín digital&rdquo;, merece la pena incluir también\ncolecciones de cosas.\nTengo más opiniones sobre esto, pero creo que sigue siendo interesante para mí tener esto\nguardado aquí.\nAsí que además de la página de Libros (que cambiaré en algún momento a a"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El ocaso de los discos Zip",
+    "link": "https://www.fabio.com.ar/9929-el-ocaso-de-los-discos-zip",
+    "fecha": "28/04/2026",
+    "contenido": "    \nUstedes eran j&oacute;venes, pero sol&iacute;amos copiar juegos y programas enteros en diskettes de 1.44Mb, o 1.2Mb! o menos tambi&eacute;n, el tema es que los floppy de 3.5\" y 1.44Mb duraron mucho tiempo sin un reemplazo.\nJusto antes de la llegada del USB y los pen drives, de los CD-ROMs y las"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Ícaro Prepara El Lanzamiento De Su Tercer Y Último Disco | Finalmente “Siendo Libre” Verá La Luz",
+    "link": "https://www.delotroladometal.com.ar/2026/04/28/finalmente-siendo-libre-vera-la-luz/",
+    "fecha": "28/04/2026",
+    "contenido": "El año pasado fue un año de mucha actividad para Ícaro, tanto que los tiempos...\nThe post Ícaro Prepara El Lanzamiento De Su Tercer Y Último Disco | Finalmente “Siendo Libre” Verá La Luz first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "#021 Tras 32 años, vuelve un Mundial a EEUU",
+    "link": "https://chancli.dev/blog/mundial-futbol-2026.html",
+    "fecha": "28/04/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "DESDE UN BALCÓN DE MADRID",
+    "titulo": "91 – Casi 3 años de este blog… ¿Qué sigue?",
+    "link": "https://empiezaen2023.wordpress.com/2026/04/29/91-casi-3-anos-de-este-blog-que-sigue/",
+    "fecha": "28/04/2026",
+    "contenido": "Esta entrada toma como inspiración y base original dos reflexiones muy interesantes (enlaces: EAPL y TheCheis), y el análisis que hizo la IA de este mismo espacio en la entrada anterior (enlace) Primero paso a hacer un repaso de lo dicho por la IA sobre mi espacio: Creo que la IA acierta cuando desc"
+  },
+  {
+    "blog": "DESDE UN BALCÓN DE MADRID",
+    "titulo": "90 – ¿Que dice la IA de este espacio?",
+    "link": "https://empiezaen2023.wordpress.com/2026/04/28/90-que-dice-la-ia-de-este-espacio/",
+    "fecha": "28/04/2026",
+    "contenido": "OBJETIVO:Esta entrada me servirá como nexo y guion de la siguiente.Tenía la intención de escribir sobre lo que ha sido, es y será este blog para mí, pero primeramente preguntaré a la IA que piensa sobre este espacio: PREGUNTA:Analiza y dime todo lo que puedas sobre el siguiente blog: https://empieza"
+  },
+  {
     "blog": "brucknerite",
     "titulo": "Estampidos de trenes",
     "link": "https://brucknerite.net/2026/04/estampidos-de-trenes.html",
@@ -68,6 +208,13 @@
     "link": "https://dani.torresburriel.com/por-que-fracasan-proyectos-ia-experiencia-usuario/",
     "fecha": "27/04/2026",
     "contenido": "He aceptado una invitación de Miguel Florido para participar en DSM IA 2026, un congreso online y gratuito que se celebra del 28 al 30 de abril, y que está dedicado íntegramente a la aplicación de la inteligencia artificial en empresa, marketing y herramientas. Me toca el primer día, el dedicado a I"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "#020 Crónica de la Media Maratón de Granada 2026",
+    "link": "https://chancli.dev/blog/media-maraton-granada-2026.html",
+    "fecha": "27/04/2026",
+    "contenido": ""
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -329,6 +476,13 @@
     "contenido": "Anticipo de mi trabajo diseñando y gestionando un sistema de diseño como playground para hacer experimentos con inteligencia artificial generativa en todo el proceso de diseño centrado en el usuario.\nLa entrada Sistemas de diseño e inteligencia artificial se publicó primero en Blog de Daniel Torres "
   },
   {
+    "blog": "JavierSam",
+    "titulo": "Taller de Scribus en el FLISoL 2026",
+    "link": "https://javiersam.uy/2026/04/taller-de-scribus-en-el-flisol-2026.html",
+    "fecha": "24/04/2026",
+    "contenido": ""
+  },
+  {
     "blog": "Diego Cano",
     "titulo": "Implementando OpenHeart",
     "link": "https://blep.org/Implementando-OpenHeart",
@@ -427,13 +581,6 @@
     "contenido": "(1997 &#8211; Treasure Hunt Records) Hay discos que trascienden el paso del tiempo, y que...\nThe post Lightmare: The Fool | La Sinfónica Alemana first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Diego Cano",
-    "titulo": "Guía de supervivencia para tiempos interesantes",
-    "link": "https://blep.org/guia-de-supervivencia-para-tiempos-interesantes",
-    "fecha": "22/04/2026",
-    "contenido": "No creo ser la persona apropiada para escribir esto. Tampoco creo que sea la única intentándolo. Pero bueno, lo escribo sobre todo para mi (sí, esa segunda persona del singular que aparece por todo el texto soy yo mismo. Estoy monologándome para sacudirme el aturdimiento). Por cierto, siguiendo mi c"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Probando Cockpit, el sustituto de YaST en #openSUSE Tumbleweed",
     "link": "https://victorhckinthefreeworld.com/2026/04/22/probando-cockpit-el-sustituto-de-yast-en-opensuse-tumbleweed/",
@@ -453,13 +600,6 @@
     "link": "https://mareosdeungeek.es/los-misterios-de-la-taberna-kamogawa/",
     "fecha": "22/04/2026",
     "contenido": "Los misterios de la taberna Kamogawa es el inicio de una serie de libros escritos por el japonés Hisashi Kashiwai. Mezclando la gastronomía y el misterio ha ido creando una serie de historias que alcanzan ya, en Japón, los once libros. Afortunadamente, en España, parece que está teniendo una buena a"
-  },
-  {
-    "blog": "NeoSite Blog",
-    "titulo": "NeoSite Podcast #12 - MergerFS, magia de directorios en tu homeserver",
-    "link": "http://blog.neosite.com.ar/post/neosite-podcast-12-mergerfs-magia-de-directorios-en-tu-homeserver",
-    "fecha": "22/04/2026",
-    "contenido": ""
   },
   {
     "blog": "pov – matizeta",
@@ -495,13 +635,6 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/04/22/20260422-aventuras-de-benchamin/",
     "fecha": "22/04/2026",
     "contenido": "The Bench es la historia de un anciano sentadito al sol al que todos subestiman, cuando tiene más peligro de cierto infame ganso"
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "El intervalo",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/el-intervalo/",
-    "fecha": "22/04/2026",
-    "contenido": "El sistema despertó en cero.\nLuego en uno.\nLuego en cero otra vez.\nDurante millones de ciclos no hubo nada más que esa oscilación perfecta, un latido sin cuerpo, una respiración sin aire. Cero: ausencia. Uno: presencia. Cero: vacío. Uno: afirmación.\nPero una vez —un error, dijeron luego— el interval"
   },
   {
     "blog": "ochobitshacenunbyte",
@@ -565,103 +698,5 @@
     "link": "https://dani.torresburriel.com/una-nota-personal-sobre-la-actualidad/",
     "fecha": "22/04/2026",
     "contenido": "Se ha firmado el acuerdo de gobierno para Aragón. Como aragonés, deseo sinceramente que la legislatura sirva para mejorar la vida de la gente: la vivienda, la sanidad, la escuela rural, el agua, los regadíos, los cuidados. Ahí hay mucho trabajo que merece salir bien, y ojalá salga. Y como ciudadano,"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "La diferencia de impedancia entre dos redes sociales",
-    "link": "https://brucknerite.net/2026/04/la-diferencia-de-impedancia-entre-dos-redes-sociales.html",
-    "fecha": "21/04/2026",
-    "contenido": "A «nivel usuario», entre Mastodón y Bluesky no hay demasiada diferencia. Sin embargo, comunicarse entre ambas redes, aunque posible, viene con una serie de condicionantes que se parecen mucho al desacoplamiento de impedancia entre redes de componentes electrónicos."
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Miles de ROMs clásicas en un solo repositorio de GitHub",
-    "link": "https://thecheis.com/2026/04/22/miles-de-roms-clasicas-en-un-solo-repositorio-de-github/",
-    "fecha": "21/04/2026",
-    "contenido": "En la emulación de videojuegos es tan importante escoger el programa adecuado como encontrar las ROMs de aquellos títulos que nos apasionan. Por lo general no es difícil hacerse con ellas, y con una simple búsqueda en internet tendremos resultados suficientes, pero a veces hay que navegar bastante. "
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Todos vamos a morir",
-    "link": "https://jinversor.co/2026/04/todos-vamos-a-morir/",
-    "fecha": "21/04/2026",
-    "contenido": "En lo corrido del año han muerto tres personas que conozco. Tres mujeres ± de mi edad y las tres por la misma causa: cáncer. Sé que todos vamos a [&#8230;]\nLa entrada Todos vamos a morir se publicó primero en Jinversor."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Breve análisis de 22 licitaciones para Vivotecnia: órganos de contratación, importes, expedientes y enlaces",
-    "link": "https://pedrolr.es/blog/breve-analisis-de-22-licitaciones-para-vivotecnia-organos-de-contratacion-importes-expedientes-y-enlaces/",
-    "fecha": "21/04/2026",
-    "contenido": "A finales de 2025 empecé a trabajar con el buscador de licitaciones de la plataforma de contratación del sector público del Ministerio de Hacienda (enlace). He publicado algunos trabajos sobre licitaciones a bases de datos científicas y software de gestión de bibliotecas. Hoy me ha dado por recupera"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "RetróPolis Valencia 2026",
-    "link": "https://mareosdeungeek.es/retropolis-valencia-2026/",
-    "fecha": "21/04/2026",
-    "contenido": "Otra cita ineludible en el calendario de eventos de retroinformática nacionales es Retrópolis Valencia. Un evento que se celebra en la Universidad Politécnica de Valencia bajo el paraguas del Museo de la Informática de la antigua Facultad de Informática. Hace un par de años pude asistir y fue un ree"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Tostada parisina",
-    "link": "https://www.macram.es/posts/2026/04/tostada-parisina/",
-    "fecha": "21/04/2026",
-    "contenido": "Soy una persona que desayuna. Esto no coge a nadie de sorpresa porque casi todo el mundo desayuna. Bueno, técnicamente todo el mundo desayuna en algún momento del día, pero digamos que soy una persona que toma un desayuno canónico a una hora normal para desayunar (aunque algunos días como hoy quizá "
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "No creas que todo necesita de tu atención",
-    "link": "https://matizeta.com/2026/04/21/no-creas-que-todo-necesita-de-tu-atencion/",
-    "fecha": "21/04/2026",
-    "contenido": "De verdad, no pasa nada si no te enteras de las últimas tendencias que circulan en Internet. Si no haz visto ese vídeo viral. Las tendencias desaparecen tan rápido como aparecen. Tampoco pasa nada si te saltas un día o si solo lees solo una vez en el diario. Te vas a dar cuenta que [&#8230;]"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "544. Habilidad y costumbre del abuelo Ursucino",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/04/544-habilidad-y-costumbre-del-abuelo.html",
-    "fecha": "21/04/2026",
-    "contenido": "&nbsp; &nbsp; Dícese del abuelo Ursucino, que era el mejor podólogo de su generación. Tanto si utilizaba la mano diestra como la siniestra, trataba con éxito cualquier afección de los pies. Tal era su dedicación, que de no ser porque empezó a temblarle el pulso, solo la muerte lo hubiera jubilado.&n"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Mi estudio de youtuber ya casi está finalizado",
-    "link": "https://blog.danielaragay.net/mi-estudio-de-youtuber-ya-casi-esta-finalizado/",
-    "fecha": "21/04/2026",
-    "contenido": "Mi estudio de youtuber ya casi est&#xe1; finalizadoFormas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoEnlace al cap&#xed;tulo https://podcast.danielaragay.net/@haciendoelsueco/e"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "El mini-culto de uno",
-    "link": "https://impermanente.es/2026/04/21/el-miniculto-de-uno.html",
-    "fecha": "21/04/2026",
-    "contenido": "Hace unos días un amigo me contactó con la clásica de &ldquo;tengo que contarte algo importante&rdquo;. Había estado conversando con ChatGPT y había llegado a una conclusión que, según él, lo cambiaba todo. Lo que había vislumbrado era, en sus palabras, un descubrimiento al nivel de doctorado en fil"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Mastodon mail",
-    "link": "https://www.ericafustero.com/2026-04-mastodon-mail",
-    "fecha": "21/04/2026",
-    "contenido": "Estos días he recibido dos envíos de gente que he conocido a través de Mastodon y me apetecía compartirlos por aquí. Me encanta Mastodon. Es una red social descentralizada, se pueden editar los posts y escribir textos largos, no hay anuncios y, aunque no sigo a mucha gente, noto que en general hay m"
-  },
-  {
-    "blog": "",
-    "titulo": "Santiago Molina en Café Berlín",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/04/21/3266/",
-    "fecha": "21/04/2026",
-    "contenido": "El 14 de Mayo se presenta en Café Berlín el musico Santiago Molina. Santiago Molina ya se volvió habitué de Café Berlín, abajo le dejo el enlace para adquirir las entradas. &#62;&#62;&#62; Click Aqui &#60;&#60;&#60;"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Un lugar extremadamente plano",
-    "link": "https://www.fabio.com.ar/9924-un-lugar-extremadamente-plano",
-    "fecha": "21/04/2026",
-    "contenido": "    \nEn la Tierra hay algunos lugares que son extremadamente planos, y creemos que nuestras pampas son planas, pero no tenemos idea de la extensi&oacute;n que tienen estas dos planicies que les voy a mencionar.\nRusia es el pa&iacute;s en com&uacute;n en ambas zonas divididas por una cadena monta&nti"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Testimony Of Apocalypse: Agony In The Garden | No Todo Lo Que Parece, Es…",
-    "link": "https://www.delotroladometal.com.ar/2026/04/21/no-todo-lo-que-parece-es/",
-    "fecha": "21/04/2026",
-    "contenido": "(2025 &#8211; Roxx Records) Las apariencias engañan dice un viejo dicho, y una regla que...\nThe post Testimony Of Apocalypse: Agony In The Garden | No Todo Lo Que Parece, Es… first appeared on Del Otro Lado Metal."
   }
 ]
