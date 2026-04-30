@@ -1,5 +1,96 @@
 [
   {
+    "blog": "Adrián Perales",
+    "titulo": "Recursos humanos",
+    "link": "https://adrianperales.com/2026/04/recursos-humanos/",
+    "fecha": "30/04/2026",
+    "contenido": "La expresión “recursos humanos” da repelús. A pesar de ser «humanos», no son personas, son «recursos». Conozco pocas expresiones sobre seres humanos más deshumanizantes."
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Guía visual: instalación de Fedora Linux",
+    "link": "https://thecheis.com/2026/04/30/guia-visual-instalacion-de-fedora-linux/",
+    "fecha": "30/04/2026",
+    "contenido": "Aprovechando la reciente instalación de Fedora en el estudio y el lanzamiento de la versión 44 de la distro, he decidido trasladar mis notas a un tutorial. En él veremos cómo se comporta el nuevo instalador Anaconda y cómo hacer las particiones. Aunque es una configuración bastante básica, me servir"
+  },
+  {
+    "blog": "Papel Continuo",
+    "titulo": "Vintage Obscura, the Dustiest Place on Earth",
+    "link": "https://papelcontinuo.net/3513/vintage-obscura-the-dustiest-place-on-earth/",
+    "fecha": "30/04/2026",
+    "contenido": "En el documental Scratch (2001), DJ Shadow aparecía buscando vinilos raros en el sótano de una vieja tienda de discos. Recuerdo que le decía al cámara: «Cuidado, una vez encontré un murciélago momificado entre unos discos». En ese momento descubrí la literalidad del término Dusty (polvoriento) que s"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Caza Estelar N-1 del Mandaloriano de LEGO®",
+    "link": "https://mareosdeungeek.es/caza-estelar-n-1-del-mandaloriano-de-lego/",
+    "fecha": "30/04/2026",
+    "contenido": "LEGO® prepara el lanzamiento del Caza Estelar N-1 del Mandaloriano para este próximo cuatro de mayo (Día de Star Wars) Es otra de las acciones promocionales de cara al estreno de la película The Mandalorian and Grogu a finales de mayo. Esta versión del Caza Estelar N-1 se va a lanzar dentro de la co"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Mi relación con las redes sociales",
+    "link": "https://matizeta.com/2026/04/30/mi-relacion-con-las-redes-sociales/",
+    "fecha": "30/04/2026",
+    "contenido": "No me considero una persona que pasa mucho tiempo en las redes aunque hay días que hago la excepción. Nunca me sentí atraído por el furor de TikTok, nunca twiteé demasiado, ni publiqué muchas fotos en Facebook.  Tampoco tuve un Fotolog en los tiempos en que todos tenían. Para mí las redes sociales n"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Feeds recomendados",
+    "link": "https://impermanente.es/2026/04/30/feeds-recomendados.html",
+    "fecha": "30/04/2026",
+    "contenido": "En un mundo donde los AIs generan millones de posts por segundo para bombardearnos con ruido sobre todos los temas, y hasta intentar manipularnos, siempre es refrescante tener algunas fuentes de temas curados e interesantes para consumir a gusto por RSS.\nMis recomendaciones:\nAeon - A World of ideas "
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Acaba abril",
+    "link": "https://www.xn--jmuoz-qta.es/2026/04/acaba-abril.html",
+    "fecha": "30/04/2026",
+    "contenido": "\n  \n    \n  \nEn circunstancias más favorables, haría la misma pregunta que Joaquín Sabina: ¿quién coño me ha robado el mes de abril?Quizá el segundo mes más bonito del año, tras mayo, con esa explosión de vida primaveral que uno no se cansa de ver año tras año. Normalmente lo disfruto muchísimo, disf"
+  },
+  {
+    "blog": "",
+    "titulo": "Un poco de musica Irlandesa.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/04/30/un-poco-de-musica-irlandesa/",
+    "fecha": "30/04/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "56K",
+    "titulo": "Espejos de sonido – Fuera de las garras de la IA",
+    "link": "https://56k.es/fanta/espejos-de-sonido-fuera-de-las-garras-de-la-ia/",
+    "fecha": "30/04/2026",
+    "contenido": "El antiguo Matadero en Logroño desde 1999 es «La Casa de las ciencias». Este edificio está a las orillas del río Ebro y es muy impresionante. Este sábado estaré por allí para dar una charla y al comentarlo en redes libres (el fediverso) me han dicho que existe algo muy interesante al lado del edific"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #874",
+    "link": "https://www.fabio.com.ar/9931-ruleta-rusa-874",
+    "fecha": "30/04/2026",
+    "contenido": "     Entrando en el misterioso mundo de la ruleta\nEs jueves se&ntilde;oras! Es el d&iacute;a para hacerse los rulos y, para colmo, es la v&iacute;spera del feriado m&aacute;s feriado del mundo luego de la navidad y pascuas, salvo en un pa&iacute;s, claro, el que provoc&oacute; todo esto 😋 igualmente"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Nuevo comando git history para modificar commits en git",
+    "link": "https://picandocodigo.net/2026/nuevo-comando-git-history-para-modificar-commits-en-git/",
+    "fecha": "30/04/2026",
+    "contenido": "Recientemente se publicó la versión 2.54 de Git, el sistema de control de versiones distribuido. Esta incluye un comando nuevo experimental git history que permite cambiar el texto de un commit en la historia, o dividirlo. Al ser experimental, el comportamiento puede cambiar en versiones futuras. Pe"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Claude me persigue",
+    "link": "https://nachof.blog/posts/2026/claude-me-persigue/",
+    "fecha": "30/04/2026",
+    "contenido": "\n Ya ni puedo jugar al go tranquilo\n \n"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Lethal: Vivo Somos Thrash | Más Vivos Que Nunca",
+    "link": "https://www.delotroladometal.com.ar/2026/04/30/mas-vivos-que-nunca/",
+    "fecha": "30/04/2026",
+    "contenido": "(2026 &#8211; RGS Music) El Thrash Metal tiene un capítulo aparte en Argentina, y parte...\nThe post Lethal: Vivo Somos Thrash | Más Vivos Que Nunca first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "El Blog de Juan A. Flores",
     "titulo": "Excelentes Datos sobre USB",
     "link": "https://juanagustinflores.wordpress.com/2026/04/29/excelentes-datos-sobre-usb/",
@@ -7,11 +98,25 @@
     "contenido": ""
   },
   {
-    "blog": "ladoB – matizeta",
-    "titulo": "No intentes volver a traer a aquellas personas que la vida se encargó de apartar",
-    "link": "https://matizeta.com/2026/04/29/no-intentes-volver-a-traer-a-aquellas-personas-que-la-vida-se-encargo-de-apartar/",
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Nostr | la ilusión de soberanía digital",
+    "link": "https://gatooscuro.xyz/nostr-la-ilusion-de-soberania-digital/",
     "fecha": "29/04/2026",
-    "contenido": "En tiempos de Facebook volvimos a estar en contacto gente que hace mucho tiempo no hablábamos, compañeros de colegio, familiares lejanos, conocido de conocidos, personas que habían desaparecido por completo de nuestras vidas. Las red social nos dió la oportunidad de reencontrarnos con aquellos que l"
+    "contenido": "Durante años, la narrativa fue casi seductora en su simplicidad:si eliminas al intermediario, eliminas el abuso. Esa idea, repetida hasta convertirse en dogma dentro de ciertos círculos tecnológicos, impulsó el\nSeguir leyendo  Nostr &#124; la ilusión de soberanía digital\nEl cargo Nostr | la ilusión "
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Palantir | el ojo que decide",
+    "link": "https://gatooscuro.xyz/palantir-el-ojo-que-decide/",
+    "fecha": "29/04/2026",
+    "contenido": "Hubo un tiempo —no tan lejano, aunque ahora parezca otra vida digital— en el que escribir sobre vigilancia implicaba mirar hacia Oriente con cierta distancia, casi con la tranquilidad de\nSeguir leyendo  Palantir &#124; el ojo que decide\nEl cargo Palantir | el ojo que decide apareció primero en El cu"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Devil May Cry",
+    "link": "https://mareosdeungeek.es/devil-may-cry/",
+    "fecha": "29/04/2026",
+    "contenido": "Devil May Cry es otra de esas adaptaciones de videojuegos que Netflix ha ido haciendo en los últimos tiempos. Aunque la franquicia de Capcom creada por Hideki Kamiya lleva desde 2001 dando guerra, nunca está de más disponer de más material alrededor suyo, en este caso en forma de serie de animación."
   },
   {
     "blog": "danielaragay.net",
@@ -82,6 +187,13 @@
     "link": "https://vonneumannmachine.wordpress.com/2026/04/28/the-vector-grounding-problem-comprenden-algo-los-llms/",
     "fecha": "28/04/2026",
     "contenido": "Hoy vamos a comentar un artículo, a mi juicio muy interesante, para afrontar el actual debate sobre si los LLMs tienen genuina comprensión de la realidad: «The vector Grounding Problem» de Dimitri Coelho y Raphaël Millière. En él se actualiza el célebre argumento del symbol grounding problem, propue"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "NEOGEO AES+ anunciada para noviembre 2026",
+    "link": "https://mareosdeungeek.es/neogeo-aes-anunciada-para-noviembre-2026/",
+    "fecha": "28/04/2026",
+    "contenido": "SNK y Plaion anunciaron a mediados de abril el lanzamiento para noviembre de 2026 de NEOGEO AES+ (Advanced Entertainment System) En esta ocasión no se trata de una replica como fue la NEOGEO Mini. NEOGEO AES+ es un nuevo producto que adapta la antigua videoconsola original, a los tiempos de hoy. La "
   },
   {
     "blog": "Galerías Preciados",
@@ -175,6 +287,13 @@
     "contenido": "El año pasado fue un año de mucha actividad para Ícaro, tanto que los tiempos...\nThe post Ícaro Prepara El Lanzamiento De Su Tercer Y Último Disco | Finalmente “Siendo Libre” Verá La Luz first appeared on Del Otro Lado Metal."
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "#021 Tras 32 años, vuelve un Mundial a EEUU",
+    "link": "https://chancli.dev/blog/mundial-futbol-2026.html",
+    "fecha": "28/04/2026",
+    "contenido": ""
+  },
+  {
     "blog": "DESDE UN BALCÓN DE MADRID",
     "titulo": "91 – Casi 3 años de este blog… ¿Qué sigue?",
     "link": "https://empiezaen2023.wordpress.com/2026/04/29/91-casi-3-anos-de-este-blog-que-sigue/",
@@ -259,6 +378,13 @@
     "contenido": "He aceptado una invitación de Miguel Florido para participar en DSM IA 2026, un congreso online y gratuito que se celebra del 28 al 30 de abril, y que está dedicado íntegramente a la aplicación de la inteligencia artificial en empresa, marketing y herramientas. Me toca el primer día, el dedicado a I"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "#020 Crónica de la Media Maratón de Granada 2026",
+    "link": "https://chancli.dev/blog/media-maraton-granada-2026.html",
+    "fecha": "27/04/2026",
+    "contenido": ""
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "Nuestra Odisea",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/nuestra-odisea/",
@@ -285,6 +411,20 @@
     "link": "https://pedrolr.es/blog/he-metido-un-tema-tipo-terminal-con-monospace-a-mi-web-academica/",
     "fecha": "26/04/2026",
     "contenido": "Hace un par de semanas modifiqué el CSS de mi web académica dejándolo tipo viñetas. Este fin de semana he remodelado el tema y lo he dejado tipo terminal. También, antes era HTML + CSS y ahora se basa todo en PHP (también con HTML y CSS). He montado un sistema de tal forma que [&#8230;]"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "No le digas a mamá que voy a Bakhmut",
+    "link": "https://gatooscuro.xyz/no-le-digas-a-mama-que-voy-a-bakhmut/",
+    "fecha": "26/04/2026",
+    "contenido": "PD: No me inclino hacia ningún lado de la guerra, la analizó cómo un trozo importante de historia: allí están los errores que no debemos de repetir y quizás aprender\nSeguir leyendo  No le digas a mamá que voy a Bakhmut\nEl cargo No le digas a mamá que voy a Bakhmut apareció primero en El cuarto de Ga"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Una batalla tras otra",
+    "link": "https://mareosdeungeek.es/una-batalla-tras-otra/",
+    "fecha": "26/04/2026",
+    "contenido": "Una batalla tras otra ha sido la gran ganadora en la última edición de los premios Oscars. Estamos ante una película, dirigida por Paul Thomas Anderson, a la que no le falta de nada. Para empezar está inspirada en una novela, Vineland, la novela mezcla el movimiento hippie, el tráfico de drogas y la"
   },
   {
     "blog": "Tecno y Soft",
@@ -511,13 +651,6 @@
     "contenido": ""
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Apple y lo barato",
-    "link": "https://adrianperales.com/2026/04/apple-y-lo-barato/",
-    "fecha": "23/04/2026",
-    "contenido": "Se me revuelve todo por dentro cuando veo que el iPhone 17e o el MacBook Neo cuestan 700 euros y se habla de ellos como productos «baratos». Un portátil de 700 euros no es barato. Un móvil de 700 no es barato. Mi iPhone SE de 2022 costó 500 y tampoco era barato para lo [&#8230;]"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Cartas de los lectores",
     "link": "https://jinversor.co/2026/04/cartas-de-los-lectores/",
@@ -539,52 +672,10 @@
     "contenido": "Dejó una gran huella en su momento de mayor apogeo, ahora sus ecos continúan siglos después... › Ver más »¡Patina todo el día!"
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "El papelón del PC Fútbol",
-    "link": "https://matizeta.com/2026/04/23/el-papelon-de-pc-futbol/",
-    "fecha": "23/04/2026",
-    "contenido": "¿Quién recuerda el PC Fútbol? Pasé largas horas frente a este juego, con amigos y en solitario. Corría el año 1997. Muchos de los que jugábamos en aquellos tiempos seguramente lo recordemos con cariño y con una sonrisa en la cara. A principios del 2023, se anunciaba que se estaba trabajando en una n"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "33 Años de Candlebox en Teatro Coliseo",
-    "link": "https://altgr.xyz/2026/04/22/33-anos-de-candlebox-en-teatro-coliseo/",
-    "fecha": "23/04/2026",
-    "contenido": "Me demoré en comprar entradas para este concierto. Incluso pensé en no hacerlo, puesto que Candlebox es de las bandas de la generación grunge que menos he escuchado. Al terminar el show pensé: &#8220;Qué bueno que vine&#8221;. Fue un gran concierto con este tipo de música que me lleva a la adolescen"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Sigo vivo",
-    "link": "https://www.xn--jmuoz-qta.es/2026/04/sigo-vivo.html",
-    "fecha": "23/04/2026",
-    "contenido": "Ando algo desconectado de este cuaderno y eso no me gusta nada, porque este pequeño rincón me ha dado mucha paz en momentos de incertidumbre. Pero ahora mismo no doy para más. Este último achuchón me está costando más de lo que esperaba por cansancio y por falta de sueño. Es algo que se repite por e"
-  },
-  {
     "blog": "56K",
     "titulo": "Minibiebs Street Books – Fuera de las garras de la IA",
     "link": "https://56k.es/fanta/minibiebs-street-books-fuera-de-las-garras-de-la-ia/",
     "fecha": "23/04/2026",
     "contenido": "Las librerías en el espacio urbano se conocen también como Minibiebs en Holanda. Según Livio Liechti y Apsara Flury «En una era de computación en constante expansión y una tonta creencia en el potencial utópico de la IA, la resistencia puede parecer inútil. Pero si separamos nuestra mirada del reino"
-  },
-  {
-    "blog": "56K",
-    "titulo": "PliegOS – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/pliegos-fuera-de-las-garras-de-la-ia/",
-    "fecha": "23/04/2026",
-    "contenido": "Desde hace tiempo que quería comentar el proyecto «PliegOS« (parte de la familia cooperativa femProcomuns) y creo que encaja muy bien en esta serie de posts «Fuera de las garras de la IA». No se trata de un Sistema Operativo de software pero si de todo un sistema de operar promoviendo la difusión de"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #873",
-    "link": "https://www.fabio.com.ar/9926-ruleta-rusa-873",
-    "fecha": "23/04/2026",
-    "contenido": "     Hoy todas las balas pegan\nMis ruleteros! &iquest;D&oacute;nde est&aacute;n? Pues p&oacute;nganse a reparo que aqu&iacute; llegaron las balas que estaban esperando! Gatos, paisajes, perros, idioteces y tetas, lo que todo jueves deber&iacute;a tener por ley.\nAhora s&iacute;, Ruleta Rusa!Creative "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Lightmare: The Fool | La Sinfónica Alemana",
-    "link": "https://www.delotroladometal.com.ar/2026/04/23/la-sinfonica-alemana/",
-    "fecha": "23/04/2026",
-    "contenido": "(1997 &#8211; Treasure Hunt Records) Hay discos que trascienden el paso del tiempo, y que...\nThe post Lightmare: The Fool | La Sinfónica Alemana first appeared on Del Otro Lado Metal."
   }
 ]
