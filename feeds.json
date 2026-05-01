@@ -1,5 +1,47 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Instalar PiApps en Raspberry Pi OS",
+    "link": "https://malagaoriginal.blogspot.com/2026/05/instalar-piapps-en-raspberry-pi-os.html",
+    "fecha": "01/05/2026",
+    "contenido": "PiApps es un script para instalar aplicaciones en Raspberry Pi OS adaptadas específicamente para este tipo de placas.&nbsp;Es un buen complemento para completar la terna de instaladores con synaptic, para instalar software genérico de la familia Debian y RetroMultiInstaller, la colección de scripts "
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Gestión de .pacnew en CachyOS: buenas prácticas y herramientas",
+    "link": "https://tecnoysoft.com/2026/05/01/gestion-de-pacnew-en-cachyos-buenas-practicas-y-herramientas/",
+    "fecha": "01/05/2026",
+    "contenido": "¿Qué son los archivos .pacnew? Si usas una distro basada en Arch Linux como CachyOS, tarde o temprano te vas a encontrar con archivos .pacnew. Bajo mi punto de vista, un auténtico dolor de cabeza y ya verán por qué. Estos aparecen cuando actualizas un paquete que incluye un archivo de configuración "
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "Abductivo",
+    "link": "http://locutusbit.blogspot.com/2026/05/abductivo.html",
+    "fecha": "01/05/2026",
+    "contenido": "&nbsp;Se persigue la vida de los objetos,se anegan los sentidosy se aplasta el contenidode los sujetos en caída constante.Se eterniza la tristeza y el cansancio,la elocuencia del abandono,las biografías estérilesy las afirmaciones monocromáticas.Se encierra la lógica y la forma,se ensalza el mínimo "
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "547. Años más tarde",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/547-anos-mas-tarde.html",
+    "fecha": "01/05/2026",
+    "contenido": "&nbsp; &nbsp; De niño pasaba muchas tardes veraniegas en el desván de la casa de mis abuelos. Para mí era un sitio mágico detenido en el tiempo, atiborrado de trastos antiguos, algunos de veras extraños. Me encantaba cómo la&nbsp;luz del día entraba por la enorme ventana circular y se dibujaba en el"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "¿Madrugar te hace aprovechar el día?",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/madrugar-te-hace-aprovechar-el-dia.html",
+    "fecha": "01/05/2026",
+    "contenido": "Llevo bastantes años que me he convertido un poco en búho: me cunden las noches para hacer diferentes cosas, desde escribir, leer o trabajar. Lo que no sé es si por madrugar se aprovecha más el día porque luego, durante el día día (cuando hay sol, vaya) estoy mucho más cansado; es más, normalmente t"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Sacerdotes Del Underground",
+    "link": "https://www.delotroladometal.com.ar/2026/05/01/sacerdotes-del-underground/",
+    "fecha": "01/05/2026",
+    "contenido": "La noticia del mes pasado fue el regreso de Mortification. Algo impensado, y mucho menos...\nThe post Sacerdotes Del Underground first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Recursos humanos",
     "link": "https://adrianperales.com/2026/04/recursos-humanos/",
@@ -40,6 +82,13 @@
     "link": "https://plutoidemarcianadas.blogspot.com/2026/04/cool-aoi.html",
     "fecha": "30/04/2026",
     "contenido": "Finalizado: 2026-04-26Aoi enérgico y colorido.  › Ver más »¡Patina todo el día!"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Caza Estelar N-1 del Mandaloriano de LEGO®",
+    "link": "https://mareosdeungeek.es/caza-estelar-n-1-del-mandaloriano-de-lego/",
+    "fecha": "30/04/2026",
+    "contenido": "LEGO® prepara el lanzamiento del Caza Estelar N-1 del Mandaloriano para este próximo cuatro de mayo (Día de Star Wars) Es otra de las acciones promocionales de cara al estreno de la película The Mandalorian and Grogu a finales de mayo. Esta versión del Caza Estelar N-1 se va a lanzar dentro de la co"
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -110,6 +159,27 @@
     "link": "https://juanagustinflores.wordpress.com/2026/04/29/excelentes-datos-sobre-usb/",
     "fecha": "29/04/2026",
     "contenido": ""
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Nostr | la ilusión de soberanía digital",
+    "link": "https://gatooscuro.xyz/nostr-la-ilusion-de-soberania-digital/",
+    "fecha": "29/04/2026",
+    "contenido": "Durante años, la narrativa fue casi seductora en su simplicidad:si eliminas al intermediario, eliminas el abuso. Esa idea, repetida hasta convertirse en dogma dentro de ciertos círculos tecnológicos, impulsó el\nSeguir leyendo  Nostr &#124; la ilusión de soberanía digital\nEl cargo Nostr | la ilusión "
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Palantir | el ojo que decide",
+    "link": "https://gatooscuro.xyz/palantir-el-ojo-que-decide/",
+    "fecha": "29/04/2026",
+    "contenido": "Hubo un tiempo —no tan lejano, aunque ahora parezca otra vida digital— en el que escribir sobre vigilancia implicaba mirar hacia Oriente con cierta distancia, casi con la tranquilidad de\nSeguir leyendo  Palantir &#124; el ojo que decide\nEl cargo Palantir | el ojo que decide apareció primero en El cu"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Devil May Cry",
+    "link": "https://mareosdeungeek.es/devil-may-cry/",
+    "fecha": "29/04/2026",
+    "contenido": "Devil May Cry es otra de esas adaptaciones de videojuegos que Netflix ha ido haciendo en los últimos tiempos. Aunque la franquicia de Capcom creada por Hideki Kamiya lleva desde 2001 dando guerra, nunca está de más disponer de más material alrededor suyo, en este caso en forma de serie de animación."
   },
   {
     "blog": "ladoB – matizeta",
@@ -187,6 +257,13 @@
     "link": "https://vonneumannmachine.wordpress.com/2026/04/28/the-vector-grounding-problem-comprenden-algo-los-llms/",
     "fecha": "28/04/2026",
     "contenido": "Hoy vamos a comentar un artículo, a mi juicio muy interesante, para afrontar el actual debate sobre si los LLMs tienen genuina comprensión de la realidad: «The vector Grounding Problem» de Dimitri Coelho y Raphaël Millière. En él se actualiza el célebre argumento del symbol grounding problem, propue"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "NEOGEO AES+ anunciada para noviembre 2026",
+    "link": "https://mareosdeungeek.es/neogeo-aes-anunciada-para-noviembre-2026/",
+    "fecha": "28/04/2026",
+    "contenido": "SNK y Plaion anunciaron a mediados de abril el lanzamiento para noviembre de 2026 de NEOGEO AES+ (Advanced Entertainment System) En esta ocasión no se trata de una replica como fue la NEOGEO Mini. NEOGEO AES+ es un nuevo producto que adapta la antigua videoconsola original, a los tiempos de hoy. La "
   },
   {
     "blog": "Galerías Preciados",
@@ -406,6 +483,20 @@
     "contenido": "Hace un par de semanas modifiqué el CSS de mi web académica dejándolo tipo viñetas. Este fin de semana he remodelado el tema y lo he dejado tipo terminal. También, antes era HTML + CSS y ahora se basa todo en PHP (también con HTML y CSS). He montado un sistema de tal forma que [&#8230;]"
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "No le digas a mamá que voy a Bakhmut",
+    "link": "https://gatooscuro.xyz/no-le-digas-a-mama-que-voy-a-bakhmut/",
+    "fecha": "26/04/2026",
+    "contenido": "PD: No me inclino hacia ningún lado de la guerra, la analizó cómo un trozo importante de historia: allí están los errores que no debemos de repetir y quizás aprender\nSeguir leyendo  No le digas a mamá que voy a Bakhmut\nEl cargo No le digas a mamá que voy a Bakhmut apareció primero en El cuarto de Ga"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Una batalla tras otra",
+    "link": "https://mareosdeungeek.es/una-batalla-tras-otra/",
+    "fecha": "26/04/2026",
+    "contenido": "Una batalla tras otra ha sido la gran ganadora en la última edición de los premios Oscars. Estamos ante una película, dirigida por Paul Thomas Anderson, a la que no le falta de nada. Para empezar está inspirada en una novela, Vineland, la novela mezcla el movimiento hippie, el tráfico de drogas y la"
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "Reinstalar Linux sin formatear /home y empezar con un usuario limpio",
     "link": "https://tecnoysoft.com/2026/04/26/reinstalar-linux-sin-formatear-home-y-empezar-con-un-usuario-limpio/",
@@ -504,13 +595,6 @@
     "contenido": "Nunca hay que olvidar a las leyendas vivas, ni subestimar a los grandes del Hard...\nThe post Les Contamos De Qué Se Trata \"Raising The Roof\" | Peter Carlsohn´s The Rise Estrena Nuevo Disco first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Copiar archivos de disco a cinta y viceversa con Discology ejecutando en Retro Virtual Machine",
-    "link": "https://malagaoriginal.blogspot.com/2026/04/copiar-archivos-de-disco-cinta-y.html",
-    "fecha": "24/04/2026",
-    "contenido": "Para copiar archivos desde un disco virtual (DSK) a un cassette virtual (CDT) hay que seguir los siguientes pasos: Arrancamos RVM&nbsp;Insertamos Discology desde la unidad AArrancamos DiscologyCreamos un disco nuevo y formateado en la Unidad BInsertamos la cinta, para lo cual hacemos clic en el cass"
-  },
-  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo instalo SETEdit en Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2026/04/como-instalar-setedit-en-ubuntu.html",
@@ -523,20 +607,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/04/24/opensuse-tumbleweed-revision-de-la-semana-17-de-2026/",
     "fecha": "24/04/2026",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Papel Continuo",
-    "titulo": "No tape left behind. Los archivos sonoros de Aadam Jacobs",
-    "link": "https://papelcontinuo.net/3501/no-tape-left-behind-los-archivos-sonoros-de-aadam-jacobs/",
-    "fecha": "24/04/2026",
-    "contenido": "Probablemente ustedes ya lo sepan, ya que estos días la noticia ha corrido como la pólvora por redes sociales y medios tradicionales. Pero este es uno de esos temas que tiene que estar en Papel Continuo. Me refiero a No tape left behind: Los archivos sonoros de Aadam Jacobs. Jacobs es un aficionado "
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "No sé que hacer con mi LinkedIn",
-    "link": "https://matizeta.com/2026/04/24/no-se-que-hacer-con-mi-linkedin/",
-    "fecha": "24/04/2026",
-    "contenido": "Hace rato que vengo con la idea de eliminar mi cuenta de LinkedIn. Ya hablé sobre la basura que en que se convirtió en el último tiempo esta red social:&#160; Ttodo lo que se publica allí es pura mierda hecha con IA, puro autobombo. Los que la utilizamos exponemos información sensible: cronología de"
   },
   {
     "blog": "textosperdidos – matizeta",
@@ -553,32 +623,11 @@
     "contenido": "Aplicación de mapas offline enfocada en privacidad para navegar, hacer rutas o viajar sin depender de servicios centralizados."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Ubuntu 26.04 #ViernesDeDistros",
-    "link": "https://voidnull.es/instalacion-de-ubuntu-26-04-viernesdedistros/",
-    "fecha": "24/04/2026",
-    "contenido": "Hoy, nos enfocaremos en la instalación de Ubuntu 26.04, una de las distribuciones más populares y estables dentro del ecosistema GNU/Linux."
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Tour de presentaciones",
-    "link": "https://www.ericafustero.com/2026-04-tour-de-presentaciones",
-    "fecha": "24/04/2026",
-    "contenido": "El mes que viene presentaré Erica a diario en Valencia, Móstoles, Madrid y Zaragoza acompañada de gente estupendísima. Además, el viernes 8 de mayo estaré firmando en la feria del libro de Valencia en el la caseta de La primera de 17-19h, y el sábado 16 de mayo me encontrarás por la mañana firmando "
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "Links de Viernes - #938",
     "link": "https://www.fabio.com.ar/9927-links-de-viernes---938",
     "fecha": "24/04/2026",
     "contenido": "     A rodar por unos links!\nHoy tard&eacute; en publicar los links porque estaba en cama con fiebre, que no todo se puede che! Igual ya me levant&eacute; s&oacute;lo para esto, para postear los links! Y si te parecen pocos sumate a LinksDV para compartir m&aacute;s y m&aacute;s links! Ahora s&iacut"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Undergust: Irrational Behavior | No Apto Para Oídos Sensibles",
-    "link": "https://www.delotroladometal.com.ar/2026/04/24/no-apto-para-oidos-sensibles/",
-    "fecha": "24/04/2026",
-    "contenido": "(2016 &#8211; Undergust) Hacía bastante que no escuchaba algo Hardcore, pero nos referimos al Hardcore...\nThe post Undergust: Irrational Behavior | No Apto Para Oídos Sensibles first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
