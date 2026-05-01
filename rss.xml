@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 01 May 2026 12:54:30 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 May 2026 18:56:35 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,54 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Instalar PiApps en Raspberry Pi OS</title>
+<link>https://malagaoriginal.blogspot.com/2026/05/instalar-piapps-en-raspberry-pi-os.html</link>
+<guid isPermaLink="true">https://malagaoriginal.blogspot.com/2026/05/instalar-piapps-en-raspberry-pi-os.html</guid>
+<pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
+<category>Malagueños originales y libres</category>
+<description><![CDATA[PiApps es un script para instalar aplicaciones en Raspberry Pi OS adaptadas específicamente para este tipo de placas.&amp;nbsp;Es un buen complemento para completar la terna de instaladores con synaptic, para instalar software genérico de la familia Debian y RetroMultiInstaller, la colección de scripts<br><br><strong>Fuente:</strong> Malagueños originales y libres]]></description>
+</item>
+<item>
+<title>Gestión de .pacnew en CachyOS: buenas prácticas y herramientas</title>
+<link>https://tecnoysoft.com/2026/05/01/gestion-de-pacnew-en-cachyos-buenas-practicas-y-herramientas/</link>
+<guid isPermaLink="true">https://tecnoysoft.com/2026/05/01/gestion-de-pacnew-en-cachyos-buenas-practicas-y-herramientas/</guid>
+<pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
+<category>Tecno y Soft</category>
+<description><![CDATA[¿Qué son los archivos .pacnew? Si usas una distro basada en Arch Linux como CachyOS, tarde o temprano te vas a encontrar con archivos .pacnew. Bajo mi punto de vista, un auténtico dolor de cabeza y ya verán por qué. Estos aparecen cuando actualizas un paquete que incluye un archivo de configuración<br><br><strong>Fuente:</strong> Tecno y Soft]]></description>
+</item>
+<item>
+<title>Abductivo</title>
+<link>http://locutusbit.blogspot.com/2026/05/abductivo.html</link>
+<guid isPermaLink="true">http://locutusbit.blogspot.com/2026/05/abductivo.html</guid>
+<pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
+<category>La bitácora de Locutus</category>
+<description><![CDATA[&amp;nbsp;Se persigue la vida de los objetos,se anegan los sentidosy se aplasta el contenidode los sujetos en caída constante.Se eterniza la tristeza y el cansancio,la elocuencia del abandono,las biografías estérilesy las afirmaciones monocromáticas.Se encierra la lógica y la forma,se ensalza el mínimo<br><br><strong>Fuente:</strong> La bitácora de Locutus]]></description>
+</item>
+<item>
+<title>547. Años más tarde</title>
+<link>https://lamadredelpatonegro.blogspot.com/2026/05/547-anos-mas-tarde.html</link>
+<guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/05/547-anos-mas-tarde.html</guid>
+<pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
+<category>La Madre Que Parió Al Pato Negro</category>
+<description><![CDATA[&amp;nbsp; &amp;nbsp; De niño pasaba muchas tardes veraniegas en el desván de la casa de mis abuelos. Para mí era un sitio mágico detenido en el tiempo, atiborrado de trastos antiguos, algunos de veras extraños. Me encantaba cómo la&amp;nbsp;luz del día entraba por la enorme ventana circular y se dibujaba en el<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
+</item>
+<item>
+<title>¿Madrugar te hace aprovechar el día?</title>
+<link>https://www.xn--jmuoz-qta.es/2026/05/madrugar-te-hace-aprovechar-el-dia.html</link>
+<guid isPermaLink="true">https://www.xn--jmuoz-qta.es/2026/05/madrugar-te-hace-aprovechar-el-dia.html</guid>
+<pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
+<category>El cuaderno de J. Muñoz</category>
+<description><![CDATA[Llevo bastantes años que me he convertido un poco en búho: me cunden las noches para hacer diferentes cosas, desde escribir, leer o trabajar. Lo que no sé es si por madrugar se aprovecha más el día porque luego, durante el día día (cuando hay sol, vaya) estoy mucho más cansado; es más, normalmente t<br><br><strong>Fuente:</strong> El cuaderno de J. Muñoz]]></description>
+</item>
+<item>
+<title>Sacerdotes Del Underground</title>
+<link>https://www.delotroladometal.com.ar/2026/05/01/sacerdotes-del-underground/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/05/01/sacerdotes-del-underground/</guid>
+<pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[La noticia del mes pasado fue el regreso de Mortification. Algo impensado, y mucho menos... The post Sacerdotes Del Underground first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
 <item>
 <title>Recursos humanos</title>
 <link>https://adrianperales.com/2026/04/recursos-humanos/</link>
@@ -64,6 +112,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
 <category>Plutoide Marcianadas</category>
 <description><![CDATA[Finalizado: 2026-04-26Aoi enérgico y colorido. › Ver más »¡Patina todo el día!<br><br><strong>Fuente:</strong> Plutoide Marcianadas]]></description>
+</item>
+<item>
+<title>Caza Estelar N-1 del Mandaloriano de LEGO®</title>
+<link>https://mareosdeungeek.es/caza-estelar-n-1-del-mandaloriano-de-lego/</link>
+<guid isPermaLink="true">https://mareosdeungeek.es/caza-estelar-n-1-del-mandaloriano-de-lego/</guid>
+<pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
+<category>Mareos de un geek</category>
+<description><![CDATA[LEGO® prepara el lanzamiento del Caza Estelar N-1 del Mandaloriano para este próximo cuatro de mayo (Día de Star Wars) Es otra de las acciones promocionales de cara al estreno de la película The Mandalorian and Grogu a finales de mayo. Esta versión del Caza Estelar N-1 se va a lanzar dentro de la co<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
 </item>
 <item>
 <title>La gran aventura de Mortadelo y Filemón</title>
@@ -146,76 +202,20 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[<br><br><strong>Fuente:</strong> El Blog de Juan A. Flores]]></description>
 </item>
 <item>
-<title>No intentes volver a traer a aquellas personas que la vida se encargó de apartar</title>
-<link>https://matizeta.com/2026/04/29/no-intentes-volver-a-traer-a-aquellas-personas-que-la-vida-se-encargo-de-apartar/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/04/29/no-intentes-volver-a-traer-a-aquellas-personas-que-la-vida-se-encargo-de-apartar/</guid>
+<title>Nostr | la ilusión de soberanía digital</title>
+<link>https://gatooscuro.xyz/nostr-la-ilusion-de-soberania-digital/</link>
+<guid isPermaLink="true">https://gatooscuro.xyz/nostr-la-ilusion-de-soberania-digital/</guid>
 <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-<category>ladoB – matizeta</category>
-<description><![CDATA[En tiempos de Facebook volvimos a estar en contacto gente que hace mucho tiempo no hablábamos, compañeros de colegio, familiares lejanos, conocido de conocidos, personas que habían desaparecido por completo de nuestras vidas. Las red social nos dió la oportunidad de reencontrarnos con aquellos que l<br><br><strong>Fuente:</strong> ladoB – matizeta]]></description>
+<category>El cuarto de GatoOscuro</category>
+<description><![CDATA[Durante años, la narrativa fue casi seductora en su simplicidad:si eliminas al intermediario, eliminas el abuso. Esa idea, repetida hasta convertirse en dogma dentro de ciertos círculos tecnológicos, impulsó el Seguir leyendo Nostr &amp;#124; la ilusión de soberanía digital El cargo Nostr | la ilusión<br><br><strong>Fuente:</strong> El cuarto de GatoOscuro]]></description>
 </item>
 <item>
-<title>La cara fosca de Suècia: Bandes, menors i mentides</title>
-<link>https://blog.danielaragay.net/la-cara-fosca-de-suecia-bandes-menors-i-mentides/</link>
-<guid isPermaLink="true">https://blog.danielaragay.net/la-cara-fosca-de-suecia-bandes-menors-i-mentides/</guid>
+<title>Palantir | el ojo que decide</title>
+<link>https://gatooscuro.xyz/palantir-el-ojo-que-decide/</link>
+<guid isPermaLink="true">https://gatooscuro.xyz/palantir-el-ojo-que-decide/</guid>
 <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-<category>danielaragay.net</category>
-<description><![CDATA[En aquest episodi analitzem la realitat de la viol&amp;#xe8;ncia armada a Su&amp;#xe8;cia. Desmuntem el fenomen de les bandes i l&amp;#x2019;explotaci&amp;#xf3; de menors sota el model de &amp;#x201c;viol&amp;#xe8;ncia com a servei&amp;#x201d;. Tamb&amp;#xe9; expliquem les noves pol&amp;#xed;tiques del<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
-</item>
-<item>
-<title>Instalación de servidor web LEMP en Ubuntu 26.04</title>
-<link>https://voidnull.es/instalacion-de-servidor-web-lemp-en-ubuntu-26-04/</link>
-<guid isPermaLink="true">https://voidnull.es/instalacion-de-servidor-web-lemp-en-ubuntu-26-04/</guid>
-<pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[A continuación vamos a instalar un servidor LEMP completo en Ubuntu 26.04 &amp;quot;Resolute Raccoon&amp;quot;.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Instalación de servidor web LAMP en Ubuntu 26.04</title>
-<link>https://voidnull.es/instalacion-de-servidor-web-lamp-en-ubuntu-26-04/</link>
-<guid isPermaLink="true">https://voidnull.es/instalacion-de-servidor-web-lamp-en-ubuntu-26-04/</guid>
-<pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[A continuación vamos a instalar un servidor LAMP completo en Ubuntu 26.04 &amp;quot;Resolute Raccoon&amp;quot;.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Las notificaciones de iOS y la privacidad</title>
-<link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/04/29/20260429-ios-privacidad-notificaciones/</link>
-<guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/04/29/20260429-ios-privacidad-notificaciones/</guid>
-<pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-<category>ENTRE DRAGONES Y PINGÜINOS</category>
-<description><![CDATA[Si una aplicación con excelentes mecanismos de privacidad envía una notificación de sistema con contenido de un mensaje, y dicho sistema no tiene buena seguridad, olvídate de la privacidad<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
-</item>
-<item>
-<title>Juegos de Game Boy con password para progresar</title>
-<link>https://56k.es/fanta/juegos-de-game-boy-con-password-para-progresar/</link>
-<guid isPermaLink="true">https://56k.es/fanta/juegos-de-game-boy-con-password-para-progresar/</guid>
-<pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-<category>56K</category>
-<description><![CDATA[Hoy me han ayudado a encontrar en el fediverso algunos juegos de Game Boy de esos que no guardan partida en ningún sitio. Juegos realizados para que la progresión pueda hacerse introduciendo una clave o password. &amp;#160; &amp;#8211; Castlevania II &amp;#8211; Belmont&amp;#8217;s Revenge &amp;#8211; Solomon&amp;#8217;s C<br><br><strong>Fuente:</strong> 56K]]></description>
-</item>
-<item>
-<title>La guerra Pirata Ruso-Japonesa de 2026</title>
-<link>https://www.fabio.com.ar/9930-la-guerra-pirata-ruso-japonesa-de-2026</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/9930-la-guerra-pirata-ruso-japonesa-de-2026</guid>
-<pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[No estoy hablando de la Guerra Ruso-Japonesa de 1907, esta es otra, es nueva, y me ha hecho re&amp;iacute;r bastante, pero expuso las diferencias culturales al hacerlas chocar violentamente. Resulta que en Twitter, ahora mal llamado X por su egoc&amp;eacute;ntrico due&amp;ntilde;o, se les ocurri&amp;oacute; qu<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Haggis Ruby 2026 - Glasgow, Escocia</title>
-<link>https://picandocodigo.net/2026/haggis-ruby-2026-glasgow-escocia/</link>
-<guid isPermaLink="true">https://picandocodigo.net/2026/haggis-ruby-2026-glasgow-escocia/</guid>
-<pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-<category>Picando Código</category>
-<description><![CDATA[Después de la primera edición de Haggis Ruby en Edimburgo en 2024, volvió en 2026. Se realizó durante 2 días el jueves 23 y viernes 24 de abril. Esta vez se mudó a la ciudad de Glasgow. La sede fue thestudio, en el 8° y 9° piso de un edificio sobre la calle Hope, enfrente a la Estación Central de Gl<br><br><strong>Fuente:</strong> Picando Código]]></description>
-</item>
-<item>
-<title>Nuevo Single Y Video Clip Anticipan Su Próximo Álbum | “Sonic Of Salvation” Es Lo Nuevo De August Burns Red</title>
-<link>https://www.delotroladometal.com.ar/2026/04/29/sonic-of-salvation-es-lo-nuevo-de-august-burns-red/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/04/29/sonic-of-salvation-es-lo-nuevo-de-august-burns-red/</guid>
-<pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[La conocida banda Metalcore August Burns Red acaba de estrenar un nuevo video clip. Se... The post Nuevo Single Y Video Clip Anticipan Su Próximo Álbum | “Sonic Of Salvation” Es Lo Nuevo De August Burns Red first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+<category>El cuarto de GatoOscuro</category>
+<description><![CDATA[Hubo un tiempo —no tan lejano, aunque ahora parezca otra vida digital— en el que escribir sobre vigilancia implicaba mirar hacia Oriente con cierta distancia, casi con la tranquilidad de Seguir leyendo Palantir &amp;#124; el ojo que decide El cargo Palantir | el ojo que decide apareció primero en El cu<br><br><strong>Fuente:</strong> El cuarto de GatoOscuro]]></description>
 </item>
 
 </channel>
