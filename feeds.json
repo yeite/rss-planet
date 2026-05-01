@@ -14,6 +14,20 @@
     "contenido": "Aprovechando la reciente instalación de Fedora en el estudio y el lanzamiento de la versión 44 de la distro, he decidido trasladar mis notas a un tutorial. En él veremos cómo se comporta el nuevo instalador Anaconda y cómo hacer las particiones. Aunque es una configuración bastante básica, me servir"
   },
   {
+    "blog": "Moribundo Insurgente",
+    "titulo": "LinkedIn utiliza scripts ocultos para rastrear a sus usuarios",
+    "link": "https://moribundoinsurgente.noblogs.org/post/2026/04/30/linkedin-utiliza-scripts-ocultos-para-rastrear-a-sus-usuarios/",
+    "fecha": "30/04/2026",
+    "contenido": "En las últimas semanas, la reputación de LinkedIn se ha visto seriamente comprometida. La asociación alemana Fairlinked e.V. ha publicado los resultados de una investigación que apunta a una operación de vigilancia digital sin precedentes a través de un informe &#8230; Sigue leyendo &#8594;"
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "El Premio \"Macgyver académico\" 2026 de la Juegoteca, asociación de estudiante de la facultad",
+    "link": "https://pedrolr.es/blog/el-premio-macgyver-academico-2026-de-la-juegoteca-asociacion-de-estudiante-de-la-facultad/",
+    "fecha": "30/04/2026",
+    "contenido": "Hoy me han dado el Premio \"Macgyver académico\" (para el profe que, ante cualquier fallo técnico, encuentra la forma más creativa de seguir con la clase). ¡Qué alegría! En la facultad está la Juegoteca, asociación de estudiantes de la Facultad de Ciencias de la Documentación de la UCM. Han hecho una "
+  },
+  {
     "blog": "Papel Continuo",
     "titulo": "Vintage Obscura, the Dustiest Place on Earth",
     "link": "https://papelcontinuo.net/3513/vintage-obscura-the-dustiest-place-on-earth/",
@@ -21,11 +35,18 @@
     "contenido": "En el documental Scratch (2001), DJ Shadow aparecía buscando vinilos raros en el sótano de una vieja tienda de discos. Recuerdo que le decía al cámara: «Cuidado, una vez encontré un murciélago momificado entre unos discos». En ese momento descubrí la literalidad del término Dusty (polvoriento) que s"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Caza Estelar N-1 del Mandaloriano de LEGO®",
-    "link": "https://mareosdeungeek.es/caza-estelar-n-1-del-mandaloriano-de-lego/",
+    "blog": "Plutoide Marcianadas",
+    "titulo": "Cool Aoi",
+    "link": "https://plutoidemarcianadas.blogspot.com/2026/04/cool-aoi.html",
     "fecha": "30/04/2026",
-    "contenido": "LEGO® prepara el lanzamiento del Caza Estelar N-1 del Mandaloriano para este próximo cuatro de mayo (Día de Star Wars) Es otra de las acciones promocionales de cara al estreno de la película The Mandalorian and Grogu a finales de mayo. Esta versión del Caza Estelar N-1 se va a lanzar dentro de la co"
+    "contenido": "Finalizado: 2026-04-26Aoi enérgico y colorido.  › Ver más »¡Patina todo el día!"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "La gran aventura de Mortadelo y Filemón",
+    "link": "https://www.macram.es/peliculas/la-gran-aventura-de-mortadelo-y-filemon/",
+    "fecha": "30/04/2026",
+    "contenido": "En general podría decir que me ha gustado la película, pero quizá me resulte demasiado surrealista como para haberla terminado de entender (dentro de lo que hay que entender una película de este corte). Ha habido momentos más de vergüenza ajena que de carcajada y creo que algunos detalles han enveje"
   },
   {
     "blog": "pov – matizeta",
@@ -77,13 +98,6 @@
     "contenido": "Recientemente se publicó la versión 2.54 de Git, el sistema de control de versiones distribuido. Esta incluye un comando nuevo experimental git history que permite cambiar el texto de un commit en la historia, o dividirlo. Al ser experimental, el comportamiento puede cambiar en versiones futuras. Pe"
   },
   {
-    "blog": "Un blog",
-    "titulo": "Claude me persigue",
-    "link": "https://nachof.blog/posts/2026/claude-me-persigue/",
-    "fecha": "30/04/2026",
-    "contenido": "\n Ya ni puedo jugar al go tranquilo\n \n"
-  },
-  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Lethal: Vivo Somos Thrash | Más Vivos Que Nunca",
     "link": "https://www.delotroladometal.com.ar/2026/04/30/mas-vivos-que-nunca/",
@@ -98,25 +112,11 @@
     "contenido": ""
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Nostr | la ilusión de soberanía digital",
-    "link": "https://gatooscuro.xyz/nostr-la-ilusion-de-soberania-digital/",
+    "blog": "ladoB – matizeta",
+    "titulo": "No intentes volver a traer a aquellas personas que la vida se encargó de apartar",
+    "link": "https://matizeta.com/2026/04/29/no-intentes-volver-a-traer-a-aquellas-personas-que-la-vida-se-encargo-de-apartar/",
     "fecha": "29/04/2026",
-    "contenido": "Durante años, la narrativa fue casi seductora en su simplicidad:si eliminas al intermediario, eliminas el abuso. Esa idea, repetida hasta convertirse en dogma dentro de ciertos círculos tecnológicos, impulsó el\nSeguir leyendo  Nostr &#124; la ilusión de soberanía digital\nEl cargo Nostr | la ilusión "
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Palantir | el ojo que decide",
-    "link": "https://gatooscuro.xyz/palantir-el-ojo-que-decide/",
-    "fecha": "29/04/2026",
-    "contenido": "Hubo un tiempo —no tan lejano, aunque ahora parezca otra vida digital— en el que escribir sobre vigilancia implicaba mirar hacia Oriente con cierta distancia, casi con la tranquilidad de\nSeguir leyendo  Palantir &#124; el ojo que decide\nEl cargo Palantir | el ojo que decide apareció primero en El cu"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Devil May Cry",
-    "link": "https://mareosdeungeek.es/devil-may-cry/",
-    "fecha": "29/04/2026",
-    "contenido": "Devil May Cry es otra de esas adaptaciones de videojuegos que Netflix ha ido haciendo en los últimos tiempos. Aunque la franquicia de Capcom creada por Hideki Kamiya lleva desde 2001 dando guerra, nunca está de más disponer de más material alrededor suyo, en este caso en forma de serie de animación."
+    "contenido": "En tiempos de Facebook volvimos a estar en contacto gente que hace mucho tiempo no hablábamos, compañeros de colegio, familiares lejanos, conocido de conocidos, personas que habían desaparecido por completo de nuestras vidas. Las red social nos dió la oportunidad de reencontrarnos con aquellos que l"
   },
   {
     "blog": "danielaragay.net",
@@ -187,13 +187,6 @@
     "link": "https://vonneumannmachine.wordpress.com/2026/04/28/the-vector-grounding-problem-comprenden-algo-los-llms/",
     "fecha": "28/04/2026",
     "contenido": "Hoy vamos a comentar un artículo, a mi juicio muy interesante, para afrontar el actual debate sobre si los LLMs tienen genuina comprensión de la realidad: «The vector Grounding Problem» de Dimitri Coelho y Raphaël Millière. En él se actualiza el célebre argumento del symbol grounding problem, propue"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "NEOGEO AES+ anunciada para noviembre 2026",
-    "link": "https://mareosdeungeek.es/neogeo-aes-anunciada-para-noviembre-2026/",
-    "fecha": "28/04/2026",
-    "contenido": "SNK y Plaion anunciaron a mediados de abril el lanzamiento para noviembre de 2026 de NEOGEO AES+ (Advanced Entertainment System) En esta ocasión no se trata de una replica como fue la NEOGEO Mini. NEOGEO AES+ es un nuevo producto que adapta la antigua videoconsola original, a los tiempos de hoy. La "
   },
   {
     "blog": "Galerías Preciados",
@@ -413,20 +406,6 @@
     "contenido": "Hace un par de semanas modifiqué el CSS de mi web académica dejándolo tipo viñetas. Este fin de semana he remodelado el tema y lo he dejado tipo terminal. También, antes era HTML + CSS y ahora se basa todo en PHP (también con HTML y CSS). He montado un sistema de tal forma que [&#8230;]"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "No le digas a mamá que voy a Bakhmut",
-    "link": "https://gatooscuro.xyz/no-le-digas-a-mama-que-voy-a-bakhmut/",
-    "fecha": "26/04/2026",
-    "contenido": "PD: No me inclino hacia ningún lado de la guerra, la analizó cómo un trozo importante de historia: allí están los errores que no debemos de repetir y quizás aprender\nSeguir leyendo  No le digas a mamá que voy a Bakhmut\nEl cargo No le digas a mamá que voy a Bakhmut apareció primero en El cuarto de Ga"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Una batalla tras otra",
-    "link": "https://mareosdeungeek.es/una-batalla-tras-otra/",
-    "fecha": "26/04/2026",
-    "contenido": "Una batalla tras otra ha sido la gran ganadora en la última edición de los premios Oscars. Estamos ante una película, dirigida por Paul Thomas Anderson, a la que no le falta de nada. Para empezar está inspirada en una novela, Vineland, la novela mezcla el movimiento hippie, el tráfico de drogas y la"
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "Reinstalar Linux sin formatear /home y empezar con un usuario limpio",
     "link": "https://tecnoysoft.com/2026/04/26/reinstalar-linux-sin-formatear-home-y-empezar-con-un-usuario-limpio/",
@@ -518,13 +497,6 @@
     "contenido": "Vemos diferentes ejemplos prácticos del comando diff en GNU/Linux. Para quien no lo conozca este comando se encarga de comparar dos archivos, que contienen un texto similar. Genial para comparar diferentes versiones de un&#46;&#46;&#46;\nLa entrada Ejemplos prácticos del comando diff en Linux se publ"
   },
   {
-    "blog": "Un blog",
-    "titulo": "Windows te come el disco y no sé ni por qué",
-    "link": "https://nachof.blog/posts/2026/windows-espacio-en-disco/",
-    "fecha": "25/04/2026",
-    "contenido": "Tengo un software que sólo está para Windows (y Mac) y no lo logré hacer andar bien con Wine. Como es el software del plotter de corte Silhouette, tampoco es que sea fácil encontrar una alternativa. Entonces lo que hice fue instalarlo en una máquina virtual.\nA la máquina virtual le dí 30GB de espaci"
-  },
-  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Les Contamos De Qué Se Trata \"Raising The Roof\" | Peter Carlsohn´s The Rise Estrena Nuevo Disco",
     "link": "https://www.delotroladometal.com.ar/2026/04/25/peter-carlsohns-the-rise-estrena-nuevo-disco/",
@@ -546,13 +518,6 @@
     "contenido": "En su Conducción Política, Juan Perón exponía las edificaciones que ha de contemplar el Conductor, a la vez que explica cómo instalar el editor estilo Borland SETEdit en Ubuntu.&nbsp;(...)Es inútil dar a una masa inorgánica y anárquica un conductor. Lo van a colgar. Primero hay que formar esa masa. "
   },
   {
-    "blog": "Diego Cano",
-    "titulo": "De redes, Mastodon, Bluesky, y su madre",
-    "link": "https://blep.org/De-redes,-Mastodon,-Bluesky,-y-su-madre",
-    "fecha": "24/04/2026",
-    "contenido": "A veces leo entre esa eterna lucha entre el fediverso y Bluesky, leo lo que sea, y me entran ganas de llorar o tirar la toalla. No lo entiendo, pero sí lo entiendo, y eso es lo que más me jode. Rozamos una victoria anarquista sobre el corporativismo Big Tech y perdimos de nuevo.\n\nAlgunes habréis oid"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 17 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/04/24/opensuse-tumbleweed-revision-de-la-semana-17-de-2026/",
@@ -567,13 +532,6 @@
     "contenido": "Probablemente ustedes ya lo sepan, ya que estos días la noticia ha corrido como la pólvora por redes sociales y medios tradicionales. Pero este es uno de esos temas que tiene que estar en Papel Continuo. Me refiero a No tape left behind: Los archivos sonoros de Aadam Jacobs. Jacobs es un aficionado "
   },
   {
-    "blog": "Luis Carlos Pando",
-    "titulo": "La ciudad no es de la clase política",
-    "link": "https://blog.luiscarlospando.com/todo-lo-demas/2026/04/la-ciudad-no-es-de-la-clase-politica/",
-    "fecha": "24/04/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
     "blog": "pov – matizeta",
     "titulo": "No sé que hacer con mi LinkedIn",
     "link": "https://matizeta.com/2026/04/24/no-se-que-hacer-con-mi-linkedin/",
@@ -586,13 +544,6 @@
     "link": "https://matizeta.com/2026/04/24/prevision-de-riesgos/",
     "fecha": "24/04/2026",
     "contenido": "Le pregunté a ChatGPT, evaluando los riesgos,si es mejor volver con vos. Lo use como un psicólogo,O mejor dicho como una previsión de riesgos. Como la película de Mi Novia Pollyque analiza pros y contras de una relacióncon la eficacia de evaluación de una compañía de seguros de vida. Me di vergüenza"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "545. Carta certificada",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/04/454-carta-certificada.html",
-    "fecha": "24/04/2026",
-    "contenido": "&nbsp; &nbsp; Ayer, Día Internacional del Libro, el cartero te trajo una carta certificada. Tenía que asegurarme de que la leyeras, porque a veces el correo ordinario no llega allí donde debe. Por suerte, el funcionario te encontró en casa, pues estabas conectando con tu audiencia de palmeros desde "
   },
   {
     "blog": "_ voidNull",
@@ -623,13 +574,6 @@
     "contenido": "     A rodar por unos links!\nHoy tard&eacute; en publicar los links porque estaba en cama con fiebre, que no todo se puede che! Igual ya me levant&eacute; s&oacute;lo para esto, para postear los links! Y si te parecen pocos sumate a LinksDV para compartir m&aacute;s y m&aacute;s links! Ahora s&iacut"
   },
   {
-    "blog": "Un blog",
-    "titulo": "Playlist ACAB (en español)",
-    "link": "https://nachof.blog/posts/2026/playlist-acab/",
-    "fecha": "24/04/2026",
-    "contenido": "El otro día publiqué un pedido de recomendaciones musicales en Mastodon.\nhttps://mastodon.uy/@nachof/116348465939960678\n\n\nAcá dejo la lista de respuestas, compilada, con links a videos en YouTube:\nRecomendadas en el thread\n\nEskorbuto - Mucha policía, poca diversión\nNarco - Puta policía\nCicatriz - En"
-  },
-  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Undergust: Irrational Behavior | No Apto Para Oídos Sensibles",
     "link": "https://www.delotroladometal.com.ar/2026/04/24/no-apto-para-oidos-sensibles/",
@@ -649,33 +593,5 @@
     "link": "https://javiersam.uy/2026/04/taller-de-scribus-en-el-flisol-2026.html",
     "fecha": "24/04/2026",
     "contenido": ""
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Cartas de los lectores",
-    "link": "https://jinversor.co/2026/04/cartas-de-los-lectores/",
-    "fecha": "23/04/2026",
-    "contenido": "De vez en cuando recibo cartas de los lectores de mi blog. Bueno, cartas no, emails. La mayoría escriben simplemente para saludar o para agradecerme por haber puesto el enlace [&#8230;]\nLa entrada Cartas de los lectores se publicó primero en Jinversor."
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Espera",
-    "link": "https://mcallus.net/2026/04/23/espera/",
-    "fecha": "23/04/2026",
-    "contenido": "Todo comenzó con detalles sin importancia. La misma canción sonando en varias tiendas. El número siete repitiéndose en el cambio, los portales en los que me fijaba, el minuto en el reloj. La misma frase en distintas personas, en distintas situaciones. No le di importancia. Pero todo fue a más. Ya no"
-  },
-  {
-    "blog": "Plutoide Marcianadas",
-    "titulo": "Ecos del chico",
-    "link": "https://plutoidemarcianadas.blogspot.com/2026/04/ecos-del-chico.html",
-    "fecha": "23/04/2026",
-    "contenido": "Dejó una gran huella en su momento de mayor apogeo, ahora sus ecos continúan siglos después... › Ver más »¡Patina todo el día!"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Minibiebs Street Books – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/minibiebs-street-books-fuera-de-las-garras-de-la-ia/",
-    "fecha": "23/04/2026",
-    "contenido": "Las librerías en el espacio urbano se conocen también como Minibiebs en Holanda. Según Livio Liechti y Apsara Flury «En una era de computación en constante expansión y una tonta creencia en el potencial utópico de la IA, la resistencia puede parecer inútil. Pero si separamos nuestra mirada del reino"
   }
 ]
