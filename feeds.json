@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Kernel Picnic!",
+    "titulo": "Links de un 1ro de Mayo",
+    "link": "https://yslasdas.bearblog.dev/links-de-un-1ro-de-mayo/",
+    "fecha": "02/05/2026",
+    "contenido": "Canva pidió perdón cuando su herramienta que utiliza IA generativa cambió la palabra Palestine a Ucrania. En términos simples, la herramienta convierte un archivo de trabajo de pixeles, en capas. Pero ya sabemos que no convierte un carajo, las IA no hacen eso, solo recrea lo que interpreta y en este"
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Instalar PiApps en Raspberry Pi OS",
     "link": "https://malagaoriginal.blogspot.com/2026/05/instalar-piapps-en-raspberry-pi-os.html",
@@ -7,11 +14,32 @@
     "contenido": "PiApps es un script para instalar aplicaciones en Raspberry Pi OS adaptadas específicamente para este tipo de placas.&nbsp;Es un buen complemento para completar la terna de instaladores con synaptic, para instalar software genérico de la familia Debian y RetroMultiInstaller, la colección de scripts "
   },
   {
+    "blog": "--el Profe Juan--",
+    "titulo": "Felíz día del Trabajador!!",
+    "link": "https://elprofejuan.com.ar/fel%C3%ADz-d%C3%ADa-del-trabajador",
+    "fecha": "01/05/2026",
+    "contenido": "Hace mucho no posteo algo, y me parece una gran oportunidad el día de hoy escribir alguna reflexión sobre éste día, en especial en Argentina, que está sufriendo un gran aluvión de falta del mismo, no porque las personas que no quieran hacerlo, sino porque la \"moda\" actual es el juego y la especulaci"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "De norte a sur de este a oeste el software libre presente en 6 meetups de LibreLocal",
+    "link": "https://victorhckinthefreeworld.com/2026/05/01/de-norte-a-sur-de-este-a-oeste-el-software-libre-presente-en-6-meetups-de-librelocal/",
+    "fecha": "01/05/2026",
+    "contenido": "¡Este mayo de 2026 es el mes de LibreLocal! La Free Software Foundation (FSF) invita a partidarios del software libre como tú a organizar un meetup para reunir a la gente y intercambiar ideas, aprender unos de otros y celebrar el software libre"
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "Gestión de .pacnew en CachyOS: buenas prácticas y herramientas",
     "link": "https://tecnoysoft.com/2026/05/01/gestion-de-pacnew-en-cachyos-buenas-practicas-y-herramientas/",
     "fecha": "01/05/2026",
     "contenido": "¿Qué son los archivos .pacnew? Si usas una distro basada en Arch Linux como CachyOS, tarde o temprano te vas a encontrar con archivos .pacnew. Bajo mi punto de vista, un auténtico dolor de cabeza y ya verán por qué. Estos aparecen cuando actualizas un paquete que incluye un archivo de configuración "
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Lecturas recomendadas #4",
+    "link": "https://matizeta.com/2026/05/01/lecturas-recomendadas-4/",
+    "fecha": "01/05/2026",
+    "contenido": "Una nueva entrega de publicaciones interesantes que leí y son interesantes para compartir. Una excelente entrada donde el autor analiza la verdadera privacidad y herramientas de herramientas como Proton Mail y hace un repaso por algunas otras.&#160; Cris reflexiona porque ya no tiene tanto interés e"
   },
   {
     "blog": "La bitácora de Locutus",
@@ -28,11 +56,39 @@
     "contenido": "&nbsp; &nbsp; De niño pasaba muchas tardes veraniegas en el desván de la casa de mis abuelos. Para mí era un sitio mágico detenido en el tiempo, atiborrado de trastos antiguos, algunos de veras extraños. Me encantaba cómo la&nbsp;luz del día entraba por la enorme ventana circular y se dibujaba en el"
   },
   {
+    "blog": "_ voidNull",
+    "titulo": "DAVx⁵: sincroniza tus calendarios y listas de tareas",
+    "link": "https://voidnull.es/davx5-sincroniza-tus-calendarios-y-listas-de-tareas/",
+    "fecha": "01/05/2026",
+    "contenido": "La pieza clave para sincronizar calendarios y contactos con tu propio servidor y salir del ecosistema Google."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "1.° de mayo de gambón",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/1-de-mayo-de-gambon.html",
+    "fecha": "01/05/2026",
+    "contenido": "\n  \n    \n  \nHoy, 1.° de mayo, día del trabajo, los sindicatos han movido sus tradicionales manifestaciones a Málaga, la capital de la Costa del Sol. No sean ustedes mal pensados y crean que las elecciones en Andalucía tienen algo que ver; lo que ocurre es que saben que en Málaga se comen las mejores"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "¿Madrugar te hace aprovechar el día?",
     "link": "https://www.xn--jmuoz-qta.es/2026/05/madrugar-te-hace-aprovechar-el-dia.html",
     "fecha": "01/05/2026",
     "contenido": "Llevo bastantes años que me he convertido un poco en búho: me cunden las noches para hacer diferentes cosas, desde escribir, leer o trabajar. Lo que no sé es si por madrugar se aprovecha más el día porque luego, durante el día día (cuando hay sol, vaya) estoy mucho más cansado; es más, normalmente t"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #939",
+    "link": "https://www.fabio.com.ar/9932-links-de-viernes---939",
+    "fecha": "01/05/2026",
+    "contenido": "     Mucho trabajo requiere muchos links!\nFeliz d&iacute;a trabajadores! Sean empleados, independientes o lo que sea, que est&eacute;n descansando hoy o trabajando en alguna guardia, si hiciste algo, estos links son para vos! Y si te parecen pocos sumate a LinksDV para compartir m&aacute;s y m&aacut"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "On Vicious Worlds - Bethany Jacobs",
+    "link": "https://nachof.blog/posts/2026/on-vicious-worlds/",
+    "fecha": "01/05/2026",
+    "contenido": "\n\n\nOn Vicious Worlds es el segundo libro de la trilogía Kindom, de Bethany Jacobs. These Burning Stars es el primer libro de la serie.\nLa trilogía es un space opera bien clásico. Naves espaciales, tecnología que bien podría ser magia, y bastante acción.\nEn cuanto al setting, la historia está ambient"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -147,11 +203,25 @@
     "contenido": "Recientemente se publicó la versión 2.54 de Git, el sistema de control de versiones distribuido. Esta incluye un comando nuevo experimental git history que permite cambiar el texto de un commit en la historia, o dividirlo. Al ser experimental, el comportamiento puede cambiar en versiones futuras. Pe"
   },
   {
+    "blog": "Un blog",
+    "titulo": "Claude me persigue",
+    "link": "https://nachof.blog/posts/2026/claude-me-persigue/",
+    "fecha": "30/04/2026",
+    "contenido": "\n Ya ni puedo jugar al go tranquilo\n \n"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Lethal: Vivo Somos Thrash | Más Vivos Que Nunca",
     "link": "https://www.delotroladometal.com.ar/2026/04/30/mas-vivos-que-nunca/",
     "fecha": "30/04/2026",
     "contenido": "(2026 &#8211; RGS Music) El Thrash Metal tiene un capítulo aparte en Argentina, y parte...\nThe post Lethal: Vivo Somos Thrash | Más Vivos Que Nunca first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Kernel Picnic!",
+    "titulo": "Claude vs Gemini: Un mini-caso real en UX",
+    "link": "https://yslasdas.bearblog.dev/claude-vs-gemini-un-mini-caso-real-en-ux/",
+    "fecha": "30/04/2026",
+    "contenido": "Un problema. Un prompt. Múltiples resultados.El problema: Para el sitio web de un cliente pidieron unificar dos páginas en una sola sección. Actualmente son dos páginas distintas, con una URL única para cada una y que apunta a dos públicos diferentes, aunque ambas orientadas a aprender.\nThe situeish"
   },
   {
     "blog": "El Blog de Juan A. Flores",
@@ -357,13 +427,6 @@
     "contenido": "El año pasado fue un año de mucha actividad para Ícaro, tanto que los tiempos...\nThe post Ícaro Prepara El Lanzamiento De Su Tercer Y Último Disco | Finalmente “Siendo Libre” Verá La Luz first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "#021 Tras 32 años, vuelve un Mundial a EEUU",
-    "link": "https://chancli.dev/blog/mundial-futbol-2026.html",
-    "fecha": "28/04/2026",
-    "contenido": ""
-  },
-  {
     "blog": "DESDE UN BALCÓN DE MADRID",
     "titulo": "91 – Casi 3 años de este blog… ¿Qué sigue?",
     "link": "https://empiezaen2023.wordpress.com/2026/04/29/91-casi-3-anos-de-este-blog-que-sigue/",
@@ -448,11 +511,18 @@
     "contenido": "He aceptado una invitación de Miguel Florido para participar en DSM IA 2026, un congreso online y gratuito que se celebra del 28 al 30 de abril, y que está dedicado íntegramente a la aplicación de la inteligencia artificial en empresa, marketing y herramientas. Me toca el primer día, el dedicado a I"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "#020 Crónica de la Media Maratón de Granada 2026",
-    "link": "https://chancli.dev/blog/media-maraton-granada-2026.html",
+    "blog": "El blog de Lázaro",
+    "titulo": "Rediseño del blog desde cero con ayuda de la IA",
+    "link": "https://elblogdelazaro.org/rediseno-blog-ia-hugo/",
     "fecha": "27/04/2026",
-    "contenido": ""
+    "contenido": "He reconstruido mi blog desde cero con ayuda de IA, consiguiendo en una semana lo que me habría llevado meses y manteniendo un diseño limpio, rápido y funcional."
+  },
+  {
+    "blog": "Kernel Picnic!",
+    "titulo": "Clippings de un Abril a punto de terminar",
+    "link": "https://yslasdas.bearblog.dev/clippings-de-un-abril-a-punto-de-terminar/",
+    "fecha": "27/04/2026",
+    "contenido": "Astarion, del Baldur's Gate 3, tendrá su propia novela a modo de precuela, con lugar anterior a lo conocido en el Baldur's Gate 3. Cof cof Cazador, cof cof.\nSi queres manejar un auto en el 2027, aceptá que te van a espiar. Nada fuera de lo normal, pero para el 2027 los autos deberán incluír una tecn"
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -553,13 +623,6 @@
     "contenido": "No pensaba escribir al respecto, pero ¿por qué no celebrar algo exclusivo? El motivo: celebrar que este blog que estás leyendo cumple hoy 15 años."
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Señoras haciendo cosas. Capítulo 2",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/senoras-haciendo-cosas-capitulo-2/",
-    "fecha": "25/04/2026",
-    "contenido": "Ea, con dificultad, pero he encontrado un ratito para contarte cosas de señoras que hacen cosas. Je. \n\n\nAlice Oseman - Heartstopper Heartstopper ha concluído y nos ha dejado un huequito en el corazón (a pesar de que las últimas tiras eran un poco ir estirando el chicle) porque son todos TAN monos, T"
-  },
-  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Permanencia",
     "link": "https://mcallus.net/2026/04/25/permanencia/",
@@ -588,6 +651,13 @@
     "contenido": "Vemos diferentes ejemplos prácticos del comando diff en GNU/Linux. Para quien no lo conozca este comando se encarga de comparar dos archivos, que contienen un texto similar. Genial para comparar diferentes versiones de un&#46;&#46;&#46;\nLa entrada Ejemplos prácticos del comando diff en Linux se publ"
   },
   {
+    "blog": "Un blog",
+    "titulo": "Windows te come el disco y no sé ni por qué",
+    "link": "https://nachof.blog/posts/2026/windows-espacio-en-disco/",
+    "fecha": "25/04/2026",
+    "contenido": "Tengo un software que sólo está para Windows (y Mac) y no lo logré hacer andar bien con Wine. Como es el software del plotter de corte Silhouette, tampoco es que sea fácil encontrar una alternativa. Entonces lo que hice fue instalarlo en una máquina virtual.\nA la máquina virtual le dí 30GB de espaci"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Les Contamos De Qué Se Trata \"Raising The Roof\" | Peter Carlsohn´s The Rise Estrena Nuevo Disco",
     "link": "https://www.delotroladometal.com.ar/2026/04/25/peter-carlsohns-the-rise-estrena-nuevo-disco/",
@@ -595,52 +665,10 @@
     "contenido": "Nunca hay que olvidar a las leyendas vivas, ni subestimar a los grandes del Hard...\nThe post Les Contamos De Qué Se Trata \"Raising The Roof\" | Peter Carlsohn´s The Rise Estrena Nuevo Disco first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Ubuntu Peronista",
-    "titulo": "¿Cómo instalo SETEdit en Ubuntu?",
-    "link": "https://ubuntuperonista.blogspot.com/2026/04/como-instalar-setedit-en-ubuntu.html",
-    "fecha": "24/04/2026",
-    "contenido": "En su Conducción Política, Juan Perón exponía las edificaciones que ha de contemplar el Conductor, a la vez que explica cómo instalar el editor estilo Borland SETEdit en Ubuntu.&nbsp;(...)Es inútil dar a una masa inorgánica y anárquica un conductor. Lo van a colgar. Primero hay que formar esa masa. "
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 17 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/04/24/opensuse-tumbleweed-revision-de-la-semana-17-de-2026/",
-    "fecha": "24/04/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "textosperdidos – matizeta",
-    "titulo": "Previsión de riesgos",
-    "link": "https://matizeta.com/2026/04/24/prevision-de-riesgos/",
-    "fecha": "24/04/2026",
-    "contenido": "Le pregunté a ChatGPT, evaluando los riesgos,si es mejor volver con vos. Lo use como un psicólogo,O mejor dicho como una previsión de riesgos. Como la película de Mi Novia Pollyque analiza pros y contras de una relacióncon la eficacia de evaluación de una compañía de seguros de vida. Me di vergüenza"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "CoMaps: la mejor forma para moverse por la ciudad",
-    "link": "https://voidnull.es/comaps-la-mejor-forma-para-moverse-por-la-ciudad/",
-    "fecha": "24/04/2026",
-    "contenido": "Aplicación de mapas offline enfocada en privacidad para navegar, hacer rutas o viajar sin depender de servicios centralizados."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #938",
-    "link": "https://www.fabio.com.ar/9927-links-de-viernes---938",
-    "fecha": "24/04/2026",
-    "contenido": "     A rodar por unos links!\nHoy tard&eacute; en publicar los links porque estaba en cama con fiebre, que no todo se puede che! Igual ya me levant&eacute; s&oacute;lo para esto, para postear los links! Y si te parecen pocos sumate a LinksDV para compartir m&aacute;s y m&aacute;s links! Ahora s&iacut"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Sistemas de diseño e inteligencia artificial",
-    "link": "https://dani.torresburriel.com/sistemas-de-diseno-e-inteligencia-artificial/",
-    "fecha": "24/04/2026",
-    "contenido": "Anticipo de mi trabajo diseñando y gestionando un sistema de diseño como playground para hacer experimentos con inteligencia artificial generativa en todo el proceso de diseño centrado en el usuario.\nLa entrada Sistemas de diseño e inteligencia artificial se publicó primero en Blog de Daniel Torres "
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Taller de Scribus en el FLISoL 2026",
-    "link": "https://javiersam.uy/2026/04/taller-de-scribus-en-el-flisol-2026.html",
-    "fecha": "24/04/2026",
-    "contenido": ""
+    "blog": "Kernel Picnic!",
+    "titulo": "Instalando AntiX Linux",
+    "link": "https://yslasdas.bearblog.dev/instalando-antix-linux/",
+    "fecha": "25/04/2026",
+    "contenido": "Sábado, mates sin azúcar y una Lenovo negra sobre la mesa. Un Windows 7 traicionado por su propia gestión de recursos, y un disco mecánico de 500GB contra una distribución de Linux ligera, simple y eficaz, lista para ser instalada mediante un pen drive con Ventoy.\nLa instalaciónFue un proceso bastan"
   }
 ]
