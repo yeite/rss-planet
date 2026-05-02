@@ -1,5 +1,33 @@
 [
   {
+    "blog": "note – matizeta",
+    "titulo": "Tengo mi libro de visitas",
+    "link": "https://matizeta.com/2026/05/02/tengo-mi-libro-de-visitas/",
+    "fecha": "02/05/2026",
+    "contenido": "Desde que creé el blog quería tener un libro de visitas, pero no sabía bien en que contexto ubicarlo. De manera silenciosa, tímida y de forma experimental, hace unos días agregué un blog/categoría llamado Textos Perdidos en donde publico lo que es un intento de poesías. Para dicha sección no quería "
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Córdoba, patrimonio gastronómico",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/cordoba-patrimonio-gastronomico.html",
+    "fecha": "02/05/2026",
+    "contenido": "No soy mucho de pódcast porque lo que de verdad me gusta es la radio en directo, la actualidad, el saber que hay alguien en un estudio en el mismo momento en que yo lo estoy escuchando. Sin embargo, a veces, por cuestiones de horario, tengo que tirar de pódcast con algún programa que me gusta, pero "
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "El café",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/el-cafe.html",
+    "fecha": "02/05/2026",
+    "contenido": "\n  \n    \n  \nEsperando el primer café de la mañana, organizo mentalmente lo previsible del día. Si es el del lunes, en lugar del día, casi toda la semana.He intentando en alguna ocasión dejar el café, pasarme al menos al descafeinado, pero mi dieta necesita al menos un café cafeinado al día para subs"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Dichotomy Presenta \"Lucifer Owns The Fence\" | El Death Metal Que Nos Gusta",
+    "link": "https://www.delotroladometal.com.ar/2026/05/02/el-death-metal-que-nos-gusta/",
+    "fecha": "02/05/2026",
+    "contenido": "Alguna vez escuché a algún idiota decir que el Death Metal no tenía futuro, que...\nThe post Dichotomy Presenta \"Lucifer Owns The Fence\" | El Death Metal Que Nos Gusta first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Kernel Picnic!",
     "titulo": "Links de un 1ro de Mayo",
     "link": "https://yslasdas.bearblog.dev/links-de-un-1ro-de-mayo/",
@@ -427,6 +455,13 @@
     "contenido": "El año pasado fue un año de mucha actividad para Ícaro, tanto que los tiempos...\nThe post Ícaro Prepara El Lanzamiento De Su Tercer Y Último Disco | Finalmente “Siendo Libre” Verá La Luz first appeared on Del Otro Lado Metal."
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "#021 Tras 32 años, vuelve un Mundial a EEUU",
+    "link": "https://chancli.dev/blog/mundial-futbol-2026.html",
+    "fecha": "28/04/2026",
+    "contenido": ""
+  },
+  {
     "blog": "DESDE UN BALCÓN DE MADRID",
     "titulo": "91 – Casi 3 años de este blog… ¿Qué sigue?",
     "link": "https://empiezaen2023.wordpress.com/2026/04/29/91-casi-3-anos-de-este-blog-que-sigue/",
@@ -509,6 +544,13 @@
     "link": "https://dani.torresburriel.com/por-que-fracasan-proyectos-ia-experiencia-usuario/",
     "fecha": "27/04/2026",
     "contenido": "He aceptado una invitación de Miguel Florido para participar en DSM IA 2026, un congreso online y gratuito que se celebra del 28 al 30 de abril, y que está dedicado íntegramente a la aplicación de la inteligencia artificial en empresa, marketing y herramientas. Me toca el primer día, el dedicado a I"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "#020 Crónica de la Media Maratón de Granada 2026",
+    "link": "https://chancli.dev/blog/media-maraton-granada-2026.html",
+    "fecha": "27/04/2026",
+    "contenido": ""
   },
   {
     "blog": "El blog de Lázaro",
@@ -623,13 +665,6 @@
     "contenido": "No pensaba escribir al respecto, pero ¿por qué no celebrar algo exclusivo? El motivo: celebrar que este blog que estás leyendo cumple hoy 15 años."
   },
   {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Permanencia",
-    "link": "https://mcallus.net/2026/04/25/permanencia/",
-    "fecha": "25/04/2026",
-    "contenido": "A veces la veía en los rostros de otros. No era un parecido. Era algo más preciso. La forma de inclinar la cabeza, la curva exacta de una sonrisa. Gestos familiares que dolían al reconocerlos. Al principio cerraba los ojos. Cuando empecé a fijarme, pude ver que algunos desconocidos me miraban durant"
-  },
-  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "#191: Shin Chan ha sido suficiente",
     "link": "https://www.macram.es/posts/2026/04/shin-chan-ha-sido-suficiente/",
@@ -644,25 +679,11 @@
     "contenido": "Post evolutivo donde desarrollo mis intentos de lograr el mejor rendimiento para juegos de Steam en mi Linux box."
   },
   {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Ejemplos prácticos del comando diff en Linux",
-    "link": "https://www.ochobitshacenunbyte.com/2026/04/25/ejemplos-practicos-del-comando-diff-en-linux/",
-    "fecha": "25/04/2026",
-    "contenido": "Vemos diferentes ejemplos prácticos del comando diff en GNU/Linux. Para quien no lo conozca este comando se encarga de comparar dos archivos, que contienen un texto similar. Genial para comparar diferentes versiones de un&#46;&#46;&#46;\nLa entrada Ejemplos prácticos del comando diff en Linux se publ"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Windows te come el disco y no sé ni por qué",
     "link": "https://nachof.blog/posts/2026/windows-espacio-en-disco/",
     "fecha": "25/04/2026",
     "contenido": "Tengo un software que sólo está para Windows (y Mac) y no lo logré hacer andar bien con Wine. Como es el software del plotter de corte Silhouette, tampoco es que sea fácil encontrar una alternativa. Entonces lo que hice fue instalarlo en una máquina virtual.\nA la máquina virtual le dí 30GB de espaci"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Les Contamos De Qué Se Trata \"Raising The Roof\" | Peter Carlsohn´s The Rise Estrena Nuevo Disco",
-    "link": "https://www.delotroladometal.com.ar/2026/04/25/peter-carlsohns-the-rise-estrena-nuevo-disco/",
-    "fecha": "25/04/2026",
-    "contenido": "Nunca hay que olvidar a las leyendas vivas, ni subestimar a los grandes del Hard...\nThe post Les Contamos De Qué Se Trata \"Raising The Roof\" | Peter Carlsohn´s The Rise Estrena Nuevo Disco first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Kernel Picnic!",
