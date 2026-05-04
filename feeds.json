@@ -1,5 +1,68 @@
 [
   {
+    "blog": "El Laberinto de McAllus",
+    "titulo": "Mis lecturas en abril de 2026",
+    "link": "https://mcallus.net/2026/05/03/mis-lecturas-en-abril-de-2026/",
+    "fecha": "03/05/2026",
+    "contenido": "Voy tan cuesta arriba este mes que se ha acabado y el que ha empezado que ni hice la entrada de las lecturas a tiempo (de hecho sale sin la foto de familia de las lecturas porque estoy escribiendo desde el portátil en una cafetería, intentaré acordarme de subir la foto luego cuando regrese a [&#8230"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Listo para mayo, proyectos y reflexiones",
+    "link": "https://mareosdeungeek.es/listo-para-mayo-proyectos-y-reflexiones/",
+    "fecha": "03/05/2026",
+    "contenido": "Ya comenté que abril iba a ser un mes de transición con el colofón de la celebración de WordCamp Málaga 2026. Sinceramente, mereció la pena el evento y el trabajo realizado ese día. Aunque el mérito, además de todo el equipo, es principalmente, de Delia Carballo que se encargó de organizarlo todo. P"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "ZRAM al 100% de la memoria, optimización avanzada en CachyOS",
+    "link": "https://tecnoysoft.com/2026/05/03/zram-al-100-de-la-memoria-optimizacion-avanzada-en-cachyos/",
+    "fecha": "03/05/2026",
+    "contenido": "¿Por qué CachyOS usa ZRAM del mismo tamaño que la RAM? CachyOS aplica una configuración que puede parecer exagerada a primera vista: asignar ZRAM con un tamaño equivalente al 100% de la memoria RAM física. Sin embargo, esta decisión tiene una base técnica sólida y está orientada a mejorar el rendimi"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Ping #23: Actualizaciones, novedades y ranking de distros",
+    "link": "https://voidnull.es/ping-23-actualizaciones-novedades-y-ranking-de-distros/",
+    "fecha": "03/05/2026",
+    "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Yerbabuena",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/yerbabuena.html",
+    "fecha": "03/05/2026",
+    "contenido": "\n  \n    \n  \nPrimeras hojas nuevas."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Mocos",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/mocos.html",
+    "fecha": "03/05/2026",
+    "contenido": "\n  \n    \n  \nQué distinta se ve la vida cuando estás resfriado, con alergia, con algo de destemplaza porque has cogido frío o por lo que coño sea que hace que tras haber pasado el otoño, el invierno, las lluvias torrenciales, haberme mojado de sobremanera y haber continuado sin secarme... ahora, con "
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Dioses de los okosios (la tríada gobernante)",
+    "link": "http://frikoteca.blogspot.com/2026/05/dioses-de-los-okosios-la-triada.html",
+    "fecha": "03/05/2026",
+    "contenido": "Hola, hola, no me puedo entretener mucho, estoy escribiendo sobre Aelios. Como sabéis, estoy probando la aventura La Serpiente Coristos para Mythras con mi grupo de juego, y aunque tengo la siguiente parte de la aventura ya preparada, voy ampliando cosas sobre la cultura en la que se desarrolla, sus"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "40th Anniversary: To Hell With The Devil | Un Saludo Para Los Muchachos De Stryper",
+    "link": "https://www.delotroladometal.com.ar/2026/05/03/un-saludo-para-los-muchachos-de-stryper/",
+    "fecha": "03/05/2026",
+    "contenido": "(2026 &#8211; Roxx Records) Entre tantos recordatorios, aniversarios y demás yerbas, hay uno que no...\nThe post 40th Anniversary: To Hell With The Devil | Un Saludo Para Los Muchachos De Stryper first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "#022 Libro de visitas disponible!",
+    "link": "https://chancli.dev/blog/libro-de-visitas-disponible.html",
+    "fecha": "03/05/2026",
+    "contenido": ""
+  },
+  {
     "blog": "note – matizeta",
     "titulo": "Tengo mi libro de visitas",
     "link": "https://matizeta.com/2026/05/02/tengo-mi-libro-de-visitas/",
@@ -497,13 +560,6 @@
     "contenido": "Los precios del streaming en España han subido un 81,7% desde 2015, triplicando a la inflación general. Un NAS doméstico ofrece una alternativa de menor coste a largo plazo, control total sobre el contenido y privacidad completa; pero a costa de una elevada inversión inicial, hacernos responsables d"
   },
   {
-    "blog": "End3r.es",
-    "titulo": "Pi-hole",
-    "link": "https://www.end3r.es/posts/018-pihole/",
-    "fecha": "27/04/2026",
-    "contenido": "Pi-hole es una solución de bloqueo de anuncios y rastreadores a nivel de red que convierte un dispositivo\ncomo una Raspberry Pi o similar en un servidor DNS para toda la red doméstica, bloqueando dominios conocidos\nde publicidad y tracking antes de que lleguen a tus dispositivos.\nAl actuar como un s"
-  },
-  {
     "blog": "pov – matizeta",
     "titulo": "Una Wikipedia de tu vida",
     "link": "https://matizeta.com/2026/04/27/una-wikipedia-de-tu-vida/",
@@ -553,94 +609,10 @@
     "contenido": "He aceptado una invitación de Miguel Florido para participar en DSM IA 2026, un congreso online y gratuito que se celebra del 28 al 30 de abril, y que está dedicado íntegramente a la aplicación de la inteligencia artificial en empresa, marketing y herramientas. Me toca el primer día, el dedicado a I"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "#020 Crónica de la Media Maratón de Granada 2026",
-    "link": "https://chancli.dev/blog/media-maraton-granada-2026.html",
-    "fecha": "27/04/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Rediseño del blog desde cero con ayuda de la IA",
-    "link": "https://elblogdelazaro.org/rediseno-blog-ia-hugo/",
-    "fecha": "27/04/2026",
-    "contenido": "He reconstruido mi blog desde cero con ayuda de IA, consiguiendo en una semana lo que me habría llevado meses y manteniendo un diseño limpio, rápido y funcional."
-  },
-  {
     "blog": "Kernel Picnic!",
     "titulo": "Clippings de un Abril a punto de terminar",
     "link": "https://yslasdas.bearblog.dev/clippings-de-un-abril-a-punto-de-terminar/",
     "fecha": "27/04/2026",
     "contenido": "Astarion, del Baldur's Gate 3, tendrá su propia novela a modo de precuela, con lugar anterior a lo conocido en el Baldur's Gate 3. Cof cof Cazador, cof cof.\nSi queres manejar un auto en el 2027, aceptá que te van a espiar. Nada fuera de lo normal, pero para el 2027 los autos deberán incluír una tecn"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Narcoturismo",
-    "link": "https://jinversor.co/2026/04/narcoturismo/",
-    "fecha": "26/04/2026",
-    "contenido": "Me gusta Medellín. Es una ciudad con mucho por ver, conocer y hacer. Lo que no puedo entender es a las personas que vienen a esta ciudad estrictamente a hacer [&#8230;]\nLa entrada Narcoturismo se publicó primero en Jinversor."
-  },
-  {
-    "blog": "El Laberinto de McAllus",
-    "titulo": "Unas palabras sobre Pragmata (sin spoilers)",
-    "link": "https://mcallus.net/2026/04/26/unas-palabras-sobre-pragmata-sin-spoilers/",
-    "fecha": "26/04/2026",
-    "contenido": "Menudo viaje ha sido Pragmata. No tiene una historia compleja llena de giros argumentales o de narrativa emergente, pero eso aquí es lo de menos. Esto va del vínculo que se crea entre Hugh y Diana. Entre nosotros y un robot. Lo he pasado mal en los momentos en que Diana sufre, me he alegrado [&#8230"
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "He metido un tema tipo terminal con monospace a mi web académica",
-    "link": "https://pedrolr.es/blog/he-metido-un-tema-tipo-terminal-con-monospace-a-mi-web-academica/",
-    "fecha": "26/04/2026",
-    "contenido": "Hace un par de semanas modifiqué el CSS de mi web académica dejándolo tipo viñetas. Este fin de semana he remodelado el tema y lo he dejado tipo terminal. También, antes era HTML + CSS y ahora se basa todo en PHP (también con HTML y CSS). He montado un sistema de tal forma que [&#8230;]"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "No le digas a mamá que voy a Bakhmut",
-    "link": "https://gatooscuro.xyz/no-le-digas-a-mama-que-voy-a-bakhmut/",
-    "fecha": "26/04/2026",
-    "contenido": "PD: No me inclino hacia ningún lado de la guerra, la analizó cómo un trozo importante de historia: allí están los errores que no debemos de repetir y quizás aprender\nSeguir leyendo  No le digas a mamá que voy a Bakhmut\nEl cargo No le digas a mamá que voy a Bakhmut apareció primero en El cuarto de Ga"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Una batalla tras otra",
-    "link": "https://mareosdeungeek.es/una-batalla-tras-otra/",
-    "fecha": "26/04/2026",
-    "contenido": "Una batalla tras otra ha sido la gran ganadora en la última edición de los premios Oscars. Estamos ante una película, dirigida por Paul Thomas Anderson, a la que no le falta de nada. Para empezar está inspirada en una novela, Vineland, la novela mezcla el movimiento hippie, el tráfico de drogas y la"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Reinstalar Linux sin formatear /home y empezar con un usuario limpio",
-    "link": "https://tecnoysoft.com/2026/04/26/reinstalar-linux-sin-formatear-home-y-empezar-con-un-usuario-limpio/",
-    "fecha": "26/04/2026",
-    "contenido": "Cuando reinstalas una distribución Linux, existe una opción muy útil que a menudo se pasa por alto: no formatear la partición /home. Esto permite conservar todos tus archivos personales, pero hacer al mismo tiempo una instalación completamente limpia del sistema. En lugar de reutilizar el usuario an"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Nicole con toda su luz en Club Chocolate",
-    "link": "https://altgr.xyz/2026/04/26/nicole-con-toda-su-luz-en-club-chocolate/",
-    "fecha": "26/04/2026",
-    "contenido": "Me encanta NIcole. La diva pop chilena de los &#8217;90 por excelencia, pero que no se quedó solo ahí. Ha logrado mantenerse vigente hasta ahora y su presentación la noche de sábado 25 en el Club Chocolate es la prueba de ello. El mejor concierto de Nicole en el que he estado. Se vio a una artista r"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Soy feliz",
-    "link": "https://www.xn--jmuoz-qta.es/2026/04/soy-feliz.html",
-    "fecha": "26/04/2026",
-    "contenido": "\n  \n    \n  \nNo es algo que se escuche habitualmente, visto cómo está el mundo, pero, ¿saben? Creo que soy feliz.He escrito muchas veces por aquí que creo que la felicidad está en las pequeñas casas, en eso que te hace feliz día a día: hacer una comida, invitar a tus amigos, unas cervecitas con la su"
-  },
-  {
-    "blog": "Estás Interfiriendo con mi Zen.",
-    "titulo": "Episodio 95",
-    "link": "https://edgarmtoro.wordpress.com/2026/04/26/episodio-95/",
-    "fecha": "26/04/2026",
-    "contenido": "En medio de tanta tragedia junta, esta fotaza ganadora del World Press Photo 2026, Categoria Sencillos Europa, Rioe Galitz. Un oso polar sobre una ballena piloto, en medio del hielo ártico. Artemis 2 Canadian Astronaut (CSA Jeremy Hansen) bon mots help heal wounds from French language rows. (Jeremy "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Además Anuncian Nuevo Álbum | Benevolence Estrena “Face Of Liar”, Su Nuevo Single",
-    "link": "https://www.delotroladometal.com.ar/2026/04/26/benevolence-estrena-face-of-liar-su-nuevo-single/",
-    "fecha": "26/04/2026",
-    "contenido": "La brutalidad parece ser el emblema que Benevolence levanta en alto. Casi como una aplanadora...\nThe post Además Anuncian Nuevo Álbum | Benevolence Estrena “Face Of Liar”, Su Nuevo Single first appeared on Del Otro Lado Metal."
   }
 ]
