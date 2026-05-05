@@ -1,5 +1,194 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "El día que las estadísticas de este blog dejaron de tener sentido",
+    "link": "https://brucknerite.net/2026/05/el-dia-que-las-estadisticas-de-este-blog-dejaron-de-tener-sentido.html",
+    "fecha": "04/05/2026",
+    "contenido": "Aunque nunca quise darle importancia, este blog ha tenido estadísticas casi siempre. Pero un día, hace no muchos meses, se volvieron locas. Ya no puedo saber si leéis o no, más allá de lo que veo compartirse por Mastodón. ¿Qué ha podido pasar?"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Gestionar software y repositorios en #openSUSE mediante cockpit",
+    "link": "https://victorhckinthefreeworld.com/2026/05/04/gestionar-software-y-repositorios-en-opensuse-mediante-cockpit/",
+    "fecha": "04/05/2026",
+    "contenido": "Cockpit es la aplicación web que viene en openSUSE a reemplazar al veterano YaST. Veamos cómo gestionar los repositorios o instalar/desinstalar software con esta nueva herramienta."
+  },
+  {
+    "blog": "La Máquina de Von Neumann",
+    "titulo": "La falacia de la abstracción (I): el hacedor de mapas",
+    "link": "https://vonneumannmachine.wordpress.com/2026/05/04/la-falacia-de-la-abstraccion-i-el-hacedor-de-mapas/",
+    "fecha": "04/05/2026",
+    "contenido": "&#160; El 19 de marzo el ingeniero de Google DeepMind, Alexander Lerchner, publicó un artículo que bien podría haber sido una entrada en este blog, porque viene a sostener una serie de ideas que venimos defendiendo en La Máquina de Von Neumann desde hace muchos años ya. Así que, siguiendo esta tende"
+  },
+  {
+    "blog": "Un bruto con Debian",
+    "titulo": "Guarda datos encriptados y accedelos como si tal cosa",
+    "link": "http://unbrutocondebian.blogspot.com/2026/05/guarda-datos-encriptados-y-accedelos.html",
+    "fecha": "04/05/2026",
+    "contenido": "Hoy toca guardar secretos. Básicamente lo que vamos ha hacer es crear una carpeta para tener a mano algún tipo de datos “sensibles” y que podamos acceder a ella como si tal cosa, pero que cuando ya no la necesitemos, desaparezca del mapa y solo quede una carpeta con datos encriptados de la máxima se"
+  },
+  {
+    "blog": "Proyecto para no aburrir",
+    "titulo": "Hay trenes que sólo pasan una vez en la vida. Mientras, el carnet joven va por vía circular",
+    "link": "https://ericdq.com/2026/05/04/trenes-pasan-vida-mientras-carnet-joven-via-circular/",
+    "fecha": "04/05/2026",
+    "contenido": "El sistema le ha dado y quitado a mi generación (de los 90) hasta cinco veces el carnet joven por ampliaciones sucesivas de los rangos de edad."
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "¿Quiénes saben que tengo un blog?",
+    "link": "https://blog.luiscarlospando.com/personal/2026/05/quienes-saben-que-tengo-un-blog/",
+    "fecha": "04/05/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Día de la Cruz de Coín",
+    "link": "https://mareosdeungeek.es/dia-de-la-cruz-de-coin/",
+    "fecha": "04/05/2026",
+    "contenido": "Mayo es el mes de las cruces y ayer estuve en Coín, donde se celebró el Día de la Cruz. El año pasado tocó Córdoba y en esta ocasión ha sido en el cercano Valle del Guadalhorce. De nuevo, una visita repetida a Monda y Coín, con la sorpresa del Día de la Cruz en [&#8230;]"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Tiendas de aplicaciones alternativas a Play Store",
+    "link": "https://alt43.es/tiendas-de-aplicaciones-alternativas-a-play-store/",
+    "fecha": "04/05/2026",
+    "contenido": "Google Play Store es la tienda dominante en Android, pero ni es la única ni necesariamente la mejor para todo tipo de usuarios y circunstancias. Analizamos varias alternativas mucho más centradas en la privacidad y aplicaciones de código abierto."
+  },
+  {
+    "blog": "Galerías Preciados",
+    "titulo": "PIS + Galerías Preciados",
+    "link": "https://galeriaspreciados.band/pis-galerias-preciados/",
+    "fecha": "04/05/2026",
+    "contenido": "Ahora que están de moda los homenajes y los revivals, el PIS y servidor nos vamos a hacer uno del Juvencat 2008 (ja ja!! chistaco hiperlocal) para celebrar que somos viejos pero aún nos sobran balas. Ahí te lo cuento."
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "548. Nimios contratiempos de un occidental acomodado",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/548-nimios-contratiempos-de-un.html",
+    "fecha": "04/05/2026",
+    "contenido": "&nbsp; &nbsp; La melódica alarma del móvil me arrancó de mi sueño tranquilo a las cinco de la mañana de mi día de fiesta, lo que significó que olvidé desconectarla. Acto seguido estuve a punto de estrellarlo contra el suelo, pero no lo hice. Después intenté reconectar con el sueño, pero no lo conseg"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "El fin de una idea de Suecia: lo que la nueva ley de ciudadanía dice de verdad",
+    "link": "https://blog.danielaragay.net/el-fin-de-una-idea-de-suecia-lo-que-la-nueva-ley-de-ciudadania-dice-de-verdad/",
+    "fecha": "04/05/2026",
+    "contenido": "A partir del 6 de junio de 2026 cambian las reglas. No de cualquier manera: cambian de filosof&#xed;a. Esto es lo que importa, lo que conviene saber, y lo que opino al respecto.Si me sigues en YouTube, ya habr&#xe1;s visto el episodio donde hablo de"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Lo que el fundador sabía y yo tardé tres años en entender",
+    "link": "https://blog.danielaragay.net/lo-que-el-fundador-sabia-y-yo-tarde-tres-anos-en-entender/",
+    "fecha": "04/05/2026",
+    "contenido": "Sobre empresas, m&#xe1;quinas, y el momento en que alguien pierde su hijo.Septiembre de 2022. Llevaba ocho a&#xf1;os trabajando en Quickchannel, una empresa sueca de streaming de v&#xed;deo que hab&#xed;an fundado una pareja &#x2014;&#xe9;l y ella&#x2014; desde cero. Esa"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "El mito personal",
+    "link": "https://impermanente.es/2026/05/04/el-mito-personal.html",
+    "fecha": "04/05/2026",
+    "contenido": "Hace unos días leí un artículo en Existential Espresso sobre la necesidad de tener un mito personal en la era de la IA. La frase de partida era buena: “I can focus for 12 hours per day because I’m living my myth”. Entiendo por qué circuló tanto, porque en una época obsesionada con la productividad s"
+  },
+  {
+    "blog": "Redes nuestras",
+    "titulo": "Presentaciones de ‘Internet’ y otras pistas",
+    "link": "https://redesnuestras.net/2026/05/04/presentaciones-de-internet-y-otras-pistas/",
+    "fecha": "04/05/2026",
+    "contenido": "Esto va ser breve. Solo paso por aquí a contar que vamos a presentar el nuevo libro en varias ciudades. Con gente guapísima y en librerías chulísimas: Se llama Internet porque ante todo queremos dejar claro que lo digital es mucho más que un puñado de plataformas de redes sociales tóxicas. El subtít"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Newsletter #48 - Llega la gran esperada Ubuntu 26.04",
+    "link": "https://voidnull.es/newsletter/newsletter-48-llega-la-gran-esperada-ubuntu-26-04/",
+    "fecha": "04/05/2026",
+    "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
+  },
+  {
+    "blog": "La línea doméstica",
+    "titulo": "El Emperador",
+    "link": "https://jmlro.codeberg.page/posts/2026/05-04-el-emperador.html",
+    "fecha": "04/05/2026",
+    "contenido": "Lleva cinco años con nosotros. Como buen adoptado tiene una edad indeterminada de unos diez años. Ahora con los niños, el Emperador, como yo lo llamo, tiene un reinado dormilón. Se aleja de los problemas que los pequeños le pueden ocasionar y aunque su pasado joven fue menos agitado no tengo claro q"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Geranios",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/geranios.html",
+    "fecha": "04/05/2026",
+    "contenido": "\n  \n    \n  \nContinúo embelleciento mi balcón con lo más típico de las flores cordobesas de este mes de mayo: geranios. Flores muy vistosas que, además, resisten muy bien la calor del verano de esta ciudad."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Pichones",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/pichones.html",
+    "fecha": "04/05/2026",
+    "contenido": "Huevos que dentro de nada se convertirán en pichones."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Premoniciones",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/premoniciones.html",
+    "fecha": "04/05/2026",
+    "contenido": "\n  \n    \n  \nUno de los primeros sueños que he tenido esta pasada noche es que estaba trabajando a quince minutos en coche de casa. Maravilla. He sido muy feliz en ese sueño hasta que la radio me ha despertado con unos aplausos. Y lo más extraño de todo es que era consciente de que era un sueño, pero"
+  },
+  {
+    "blog": "",
+    "titulo": "Festejos y misa de San Patricio en el Colegio Santa Brigida de Buenos Aires.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/05/04/festejos-y-misa-de-san-patricio-en-el-colegio-santa-brigida-de-buenos-aires/",
+    "fecha": "04/05/2026",
+    "contenido": "Como todos los años en el colegio Santa Brigida de la Ciudad de Buenos Aires se realizo la misa de San Patricio, este año se hizo el martes 17 de marzo en la capilla del colegio, luego de la misa se hizo el festejo en el salón del colegio, en el salón se monto un &#8230; Sigue leyendo Festejos y mis"
+  },
+  {
+    "blog": "56K",
+    "titulo": "OCR de toda la vida en Linux a golpe de click",
+    "link": "https://56k.es/fanta/ocr-de-toda-la-vida-en-linux-a-golpe-de-click/",
+    "fecha": "04/05/2026",
+    "contenido": "En Linux para procesar el texto que tenga una foto se puede usar OCR de toda la vida: # apt install gimagereader # apt install tesseract-ocr-all Por ejemplo el alt text de esta foto es: elperiòdic PACMA denuncia más de 110.000 euros públicos al año en los Bous a la Mar de Dénia y habla..."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Cuando esos iconos dejaron de tener sentido",
+    "link": "https://56k.es/fanta/cuando-esos-iconos-dejaron-de-tener-sentido/",
+    "fecha": "04/05/2026",
+    "contenido": "Los disquetes actualmente no se utilizan como medio de almacenamiento a nivel general. Puede que alguien los utilice en ordenadores Amiga u otros pero generalmente es algo que podemos decir que no se utiliza ya. No obstante el icono de guardar un documento en los procesadores de textos y otro tipo d"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El tiempo le llegó a los diarios de papel",
+    "link": "https://www.fabio.com.ar/9933-el-tiempo-le-llego-a-los-diarios-de-papel",
+    "fecha": "04/05/2026",
+    "contenido": "    \nEs hora de que desaparezcan, no lo digo porque tenga algo contra ellos, no es un deseo, es un hecho, una realidad, no sabemos por qu&eacute; todav&iacute;a existen.\nLa semana pasada mientras unos festejaban que un antiguo puesto de diarios se hab&iacute;a transformado en un caf&eacute; al paso,"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Asoma Un Nuevo Proyecto De Metal Sinfónico | Desde Ecuador Llega Paradox Messiah Con “No Tengo Miedo”",
+    "link": "https://www.delotroladometal.com.ar/2026/05/04/desde-ecuador-llega-paradox-messiah-con-no-tengo-miedo/",
+    "fecha": "04/05/2026",
+    "contenido": "Siempre es gratificante saber que el Metal sigue sonando en cada rincón de nuestra Latinoamérica,...\nThe post Asoma Un Nuevo Proyecto De Metal Sinfónico | Desde Ecuador Llega Paradox Messiah Con “No Tengo Miedo” first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Quienes enseñan sin cobrar por ello",
+    "link": "https://dani.torresburriel.com/curacion-contenidos-profesional-generosidad/",
+    "fecha": "04/05/2026",
+    "contenido": "Hay gente que lleva años haciendo algo que parece sencillo y no lo es: leer mucho, filtrar con criterio y compartir lo que merece la pena. Es una suerte de curación de contenidos profesional sin pedir nada a cambio. Son personas que, de un modo u otro, enseñan sin cobrar por ello. Llevo más de &#823"
+  },
+  {
+    "blog": "DESDE UN BALCÓN DE MADRID",
+    "titulo": "92 – Ubuntu 26.04: Una distribución excelente",
+    "link": "https://empiezaen2023.wordpress.com/2026/05/04/92-ubuntu-26-04-una-distribucion-excelente/",
+    "fecha": "04/05/2026",
+    "contenido": "Como ya he dejado entrever en alguna ocasión, tengo preferencia por las distribuciones basadas en Debian desde hace más de dos décadas.Aunque mis comienzos y primeros años los pasé con Mandrake, tras su pérdida de protagonismo pasé brevemente por las primeras versiones de Fedora hasta recaer en Ubun"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Comentarios federados: por qué he cambiado de idea",
+    "link": "https://elblogdelazaro.org/interaccion-mastodon-blog/",
+    "fecha": "04/05/2026",
+    "contenido": "Por qué he añadido interacción con Mastodon para mostrar respuestas como comentarios en el blog sin usar un sistema tradicional."
+  },
+  {
     "blog": "El Laberinto de McAllus",
     "titulo": "Mis lecturas en abril de 2026",
     "link": "https://mcallus.net/2026/05/03/mis-lecturas-en-abril-de-2026/",
@@ -525,13 +714,6 @@
     "contenido": "El año pasado fue un año de mucha actividad para Ícaro, tanto que los tiempos...\nThe post Ícaro Prepara El Lanzamiento De Su Tercer Y Último Disco | Finalmente “Siendo Libre” Verá La Luz first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "#021 Tras 32 años, vuelve un Mundial a EEUU",
-    "link": "https://chancli.dev/blog/mundial-futbol-2026.html",
-    "fecha": "28/04/2026",
-    "contenido": ""
-  },
-  {
     "blog": "DESDE UN BALCÓN DE MADRID",
     "titulo": "91 – Casi 3 años de este blog… ¿Qué sigue?",
     "link": "https://empiezaen2023.wordpress.com/2026/04/29/91-casi-3-anos-de-este-blog-que-sigue/",
@@ -544,75 +726,5 @@
     "link": "https://empiezaen2023.wordpress.com/2026/04/28/90-que-dice-la-ia-de-este-espacio/",
     "fecha": "28/04/2026",
     "contenido": "OBJETIVO:Esta entrada me servirá como nexo y guion de la siguiente.Tenía la intención de escribir sobre lo que ha sido, es y será este blog para mí, pero primeramente preguntaré a la IA que piensa sobre este espacio: PREGUNTA:Analiza y dime todo lo que puedas sobre el siguiente blog: https://empieza"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "Estampidos de trenes",
-    "link": "https://brucknerite.net/2026/04/estampidos-de-trenes.html",
-    "fecha": "27/04/2026",
-    "contenido": "Estamos familiarizados con el estampido sónico que produce un avión al rebasar la velocidad del sonido, pero los trenes de alta velocidad también pueden crear sus estampidos, aunque sus velocidades sean menores, al entrar en un túnel. ¿Cómo lo hacen?"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "NAS doméstico como reemplazo a las suscripciones de pago",
-    "link": "https://alt43.es/nas-domestico-como-reemplazo-a-las-suscripciones-de-pago/",
-    "fecha": "27/04/2026",
-    "contenido": "Los precios del streaming en España han subido un 81,7% desde 2015, triplicando a la inflación general. Un NAS doméstico ofrece una alternativa de menor coste a largo plazo, control total sobre el contenido y privacidad completa; pero a costa de una elevada inversión inicial, hacernos responsables d"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Una Wikipedia de tu vida",
-    "link": "https://matizeta.com/2026/04/27/una-wikipedia-de-tu-vida/",
-    "fecha": "27/04/2026",
-    "contenido": "Jeremy se embarcó en una idea: construir una página de tipo Wikipedia personal, privada sobre la boda de su abuela en base a un puñado de fotos viejas que conservaba la familia.&#160; Utilizó WikiMedia para ello. Wikimedia para quien no conoce es la estructura en la que se basa Wikipedia. Es gratis "
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "546. Gasto imprevisto",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/04/546-gasto-imprevisto.html",
-    "fecha": "27/04/2026",
-    "contenido": "&nbsp; &nbsp; Ayer me encontré a Crespín en la caja de cobro del supermercado. Observé que su compra consistía en un lote de cerveza cuya marca ese día estaba de oferta. Los hay que compran lo que pueden, y los que pueden comprar cualquier nutriente indistintamente de su precio. Crespín es de los úl"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de CloudPanel en Debian 12",
-    "link": "https://voidnull.es/instalacion-de-cloudpanel-en-debian-12/",
-    "fecha": "27/04/2026",
-    "contenido": "CloudPanel es un panel de control moderno diseñado para simplificar la administración de servidores en la nube, especialmente optimizado para aplicaciones PHP, Node.js y Python."
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "WGTunnel: El cliente de WireGuard que Android merecía (y que además es Open Source)",
-    "link": "https://www.ochobitshacenunbyte.com/2026/04/27/wgtunnel-el-cliente-de-wireguard-que-android-merecia-y-que-ademas-es-open-source/",
-    "fecha": "27/04/2026",
-    "contenido": "Introducción: El eslabón perdido en Android WireGuard, aplicación y protocolo de VPN de la que hemos hablado muchas veces, ha cambiado las reglas del juego en las comunicaciones seguras gracias a su simplicidad y&#46;&#46;&#46;\nLa entrada WGTunnel: El cliente de WireGuard que Android merecía (y que "
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ya no hacen falta programadores",
-    "link": "https://www.fabio.com.ar/9928-ya-no-hacen-falta-programadores",
-    "fecha": "27/04/2026",
-    "contenido": "    \nLe&iacute; a un boludo escribir, y se lo crey&oacute;.\nAnte el auge de la programaci&oacute;n asistida por AI es correcto notar que muchos programadores perder&aacute;n su trabajo, ser&aacute;n reemplazados porque tampoco su trabajo era algo relevante, esos roles de \"obreros del c&oacute;digo\" "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Eternal Throne: From The Depths Of Mortal Flesh | La Furia No Se Negocia",
-    "link": "https://www.delotroladometal.com.ar/2026/04/27/la-furia-no-se-negocia/",
-    "fecha": "27/04/2026",
-    "contenido": "(2025 &#8211; Vision Of God Records) El Black Metal tiene sus variantes, y también su...\nThe post Eternal Throne: From The Depths Of Mortal Flesh | La Furia No Se Negocia first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Por qué el 70% de los proyectos de IA fracasan (y qué tiene que ver la experiencia de usuario)",
-    "link": "https://dani.torresburriel.com/por-que-fracasan-proyectos-ia-experiencia-usuario/",
-    "fecha": "27/04/2026",
-    "contenido": "He aceptado una invitación de Miguel Florido para participar en DSM IA 2026, un congreso online y gratuito que se celebra del 28 al 30 de abril, y que está dedicado íntegramente a la aplicación de la inteligencia artificial en empresa, marketing y herramientas. Me toca el primer día, el dedicado a I"
-  },
-  {
-    "blog": "Kernel Picnic!",
-    "titulo": "Clippings de un Abril a punto de terminar",
-    "link": "https://yslasdas.bearblog.dev/clippings-de-un-abril-a-punto-de-terminar/",
-    "fecha": "27/04/2026",
-    "contenido": "Astarion, del Baldur's Gate 3, tendrá su propia novela a modo de precuela, con lugar anterior a lo conocido en el Baldur's Gate 3. Cof cof Cazador, cof cof.\nSi queres manejar un auto en el 2027, aceptá que te van a espiar. Nada fuera de lo normal, pero para el 2027 los autos deberán incluír una tecn"
   }
 ]
