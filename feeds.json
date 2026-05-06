@@ -1,10 +1,94 @@
 [
   {
+    "blog": "Diego Cano",
+    "titulo": "Mi visión",
+    "link": "https://blep.org/Mi-vision",
+    "fecha": "06/05/2026",
+    "contenido": "Peazo título, parece que me vaya a poner en plan Steve Jobs.\n\nPero no, es más prosaico. Vengo a hablar de ojos y vista. Epa, vista, visión, tiene toda la pinta de que la segunda fue re-importada por los intelectualoides del XVIII o XIX. Tendré que mirarlo. Bueno, a lo que iba.\n\nSoy miope. Muy miope."
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – mayo de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/05/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-mayo-de-2026/",
+    "fecha": "06/05/2026",
+    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Tecnología tangible",
+    "link": "https://matizeta.com/2026/05/06/tecnologia-tangible/",
+    "fecha": "06/05/2026",
+    "contenido": "Hoy todo pasa por el software, de alguna manera experimentar la tecnología no se siente verdadera. Aún hoy, (yo que crecí en los 90), me siguen asombrando más los dispositivos de los 80, con aquellos relojes Casio que te tomaban la temperatura, tenían radio, TV, calculadora, y táctil en pantalla par"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Radiografía de un armario (edición 2026)",
+    "link": "https://blog.danielaragay.net/radiografia-de-un-armario-edicion-2026/",
+    "fecha": "06/05/2026",
+    "contenido": "Tras escuchar el &#xfa;ltimo cap&#xed;tulo del podcast &quot;Sobre la marcha&quot; me he decidido a recopilar todas mis notas en un &#xfa;nico lugar siguiendo la t&#xe9;cnica conocida como Zettelkasten. Pero aqu&#xed; no estoy para contarte de que se trata, para eso mejor"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Cómo comprobar y mitigar la vulnerabilidad Copy Fail (CVE-2026-31431) en GNU/Linux",
+    "link": "https://voidnull.es/como-comprobar-y-mitigar-la-vulnerabilidad-copy-fail-cve-2026-31431-en-gnu-linux/",
+    "fecha": "06/05/2026",
+    "contenido": "Detecta si tu sistema GNU/Linux es vulnerable a Copy Fail (CVE-2026-31431) y aprende a aplicar el fix correctamente."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de WordPress en Ubuntu 26.04",
+    "link": "https://voidnull.es/instalacion-de-wordpress-en-ubuntu-26-04/",
+    "fecha": "06/05/2026",
+    "contenido": "WordPress es el sistema gestor de contenidos (CMS) por excelencia y además es de Software Libre, orientado principalmente a la creación de blogs y tiendas online. Este famoso CMS está basado en PHP y MySQL."
+  },
+  {
+    "blog": "La línea doméstica",
+    "titulo": "Como Son Tus Frases",
+    "link": "https://jmlro.codeberg.page/posts/2026/05-06-como-son-tus-frases.html",
+    "fecha": "06/05/2026",
+    "contenido": "No sé si hemos hablado de esto con anterioridad.\n\na) El ansia de leer libros, de comprarlos, de listarlos para que no se me escape ninguno. Las rutinas de escritura, las herramientas, los métodos, los talleres, la preparación y formación. Todo una especie de ansiedad obsesión por lo previo que el mi"
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Wanderstop como reflexión sobre el proceso de sanación",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/06/20260506-wanderstop-sanacion/",
     "fecha": "06/05/2026",
     "contenido": "A veces para conseguir un objetivo hace falta, irremediablemente, tiempo"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Cuando dormir es un gusto",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/cuando-dormir-es-un-gusto.html",
+    "fecha": "06/05/2026",
+    "contenido": "\n  \n    \n  \nY si bien de normal duermo poco y madrugo bastante, sobre todo cuando tengo cosas que hacer, hay otros momentos en los que, por puro cansancio, duermo y duermo y los cafés no me hacen efecto.Ayer mismamente, cuando llegué a casa después de trabajar, llevaba tres cafés. Aun así, me eché d"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Dump de Broken Sword 1 y 2 con aaru y ddrescue",
+    "link": "https://56k.es/fanta/dump-de-broken-sword-1-y-2-con-aaru-y-ddrescue/",
+    "fecha": "06/05/2026",
+    "contenido": "La historia es sencilla. Al día de hoy los pcs no suelen llevar unidad de cdrom/dvd y para poder explorar el contenido de un dispositivo de almacenamiento de ese tipo se necesita una unidad externa usb (por ejemplo). La cosa es que gracias a que me ha dado error el dump de un cdrom he..."
+  },
+  {
+    "blog": "prosa",
+    "titulo": "diez cosas de abril",
+    "link": "https://blog.adrianaaraujot.casa/diez-c/",
+    "fecha": "06/05/2026",
+    "contenido": "y un ramo de flores para ti"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El bolu-expat y la deportación merecida",
+    "link": "https://www.fabio.com.ar/9935-el-bolu-expat-y-la-deportacion-merecida",
+    "fecha": "06/05/2026",
+    "contenido": "    \nEl otro d&iacute;a le&iacute;a un caso que me caus&oacute; mucha gracia y por eso se los ven&iacute;a a traer, aunque seguramente ya se enteraron, pero bueno quer&iacute;a comentar al respecto.\nContexto: un boludo que ven&iacute;a cada tanto a la Argentina a vivir la gran vida, un ingl&eacute;s"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Parakletos: Offerlammets Makt (Remastered Edition) | Poniendo En Valor Un Viejo Álbum",
+    "link": "https://www.delotroladometal.com.ar/2026/05/06/poniendo-en-valor-un-viejo-album/",
+    "fecha": "06/05/2026",
+    "contenido": "(2024 &#8211; Old Skull Records) Siempre es bienvenido el material que vuelve a ser puesto...\nThe post Parakletos: Offerlammets Makt (Remastered Edition) | Poniendo En Valor Un Viejo Álbum first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Victorhck in the free world",
@@ -103,6 +187,13 @@
     "link": "https://dani.torresburriel.com/mindful-journal-aplicacion-para-parar/",
     "fecha": "05/05/2026",
     "contenido": "Llevo un mes trabajando, a ratos sueltos, en un proyecto personal que no tiene ambición comercial. Se llama Mindful Journal y vive en mindful-journal.app. Es una aplicación para escribir, para pensar, para reflexionar, para darse tiempo y para cuidarse. A veces también para darse unos cuantos latiga"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "#023 Chancli.dev está en Personalsit.es",
+    "link": "https://chancli.dev/blog/chanclidev-en-personalsites.html",
+    "fecha": "05/05/2026",
+    "contenido": ""
   },
   {
     "blog": "Jorge Aguilera",
@@ -364,6 +455,13 @@
     "contenido": "(2026 &#8211; Roxx Records) Entre tantos recordatorios, aniversarios y demás yerbas, hay uno que no...\nThe post 40th Anniversary: To Hell With The Devil | Un Saludo Para Los Muchachos De Stryper first appeared on Del Otro Lado Metal."
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "#022 Libro de visitas disponible!",
+    "link": "https://chancli.dev/blog/libro-de-visitas-disponible.html",
+    "fecha": "03/05/2026",
+    "contenido": ""
+  },
+  {
     "blog": "note – matizeta",
     "titulo": "Tengo mi libro de visitas",
     "link": "https://matizeta.com/2026/05/02/tengo-mi-libro-de-visitas/",
@@ -467,13 +565,6 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/05/1-de-mayo-de-gambon.html",
     "fecha": "01/05/2026",
     "contenido": "\n  \n    \n  \nHoy, 1.° de mayo, día del trabajo, los sindicatos han movido sus tradicionales manifestaciones a Málaga, la capital de la Costa del Sol. No sean ustedes mal pensados y crean que las elecciones en Andalucía tienen algo que ver; lo que ocurre es que saben que en Málaga se comen las mejores"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "¿Madrugar te hace aprovechar el día?",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/madrugar-te-hace-aprovechar-el-dia.html",
-    "fecha": "01/05/2026",
-    "contenido": "Llevo bastantes años que me he convertido un poco en búho: me cunden las noches para hacer diferentes cosas, desde escribir, leer o trabajar. Lo que no sé es si por madrugar se aprovecha más el día porque luego, durante el día día (cuando hay sol, vaya) estoy mucho más cansado; es más, normalmente t"
   },
   {
     "blog": "Fabio.com.ar",
@@ -616,39 +707,11 @@
     "contenido": "Un problema. Un prompt. Múltiples resultados.El problema: Para el sitio web de un cliente pidieron unificar dos páginas en una sola sección. Actualmente son dos páginas distintas, con una URL única para cada una y que apunta a dos públicos diferentes, aunque ambas orientadas a aprender.\nThe situeish"
   },
   {
-    "blog": "El Blog de Juan A. Flores",
-    "titulo": "Excelentes Datos sobre USB",
-    "link": "https://juanagustinflores.wordpress.com/2026/04/29/excelentes-datos-sobre-usb/",
-    "fecha": "29/04/2026",
-    "contenido": ""
-  },
-  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "Nostr | la ilusión de soberanía digital",
     "link": "https://gatooscuro.xyz/nostr-la-ilusion-de-soberania-digital/",
     "fecha": "29/04/2026",
     "contenido": "Durante años, la narrativa fue casi seductora en su simplicidad:si eliminas al intermediario, eliminas el abuso. Esa idea, repetida hasta convertirse en dogma dentro de ciertos círculos tecnológicos, impulsó el\nSeguir leyendo  Nostr &#124; la ilusión de soberanía digital\nEl cargo Nostr | la ilusión "
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Palantir | el ojo que decide",
-    "link": "https://gatooscuro.xyz/palantir-el-ojo-que-decide/",
-    "fecha": "29/04/2026",
-    "contenido": "Hubo un tiempo —no tan lejano, aunque ahora parezca otra vida digital— en el que escribir sobre vigilancia implicaba mirar hacia Oriente con cierta distancia, casi con la tranquilidad de\nSeguir leyendo  Palantir &#124; el ojo que decide\nEl cargo Palantir | el ojo que decide apareció primero en El cu"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Devil May Cry",
-    "link": "https://mareosdeungeek.es/devil-may-cry/",
-    "fecha": "29/04/2026",
-    "contenido": "Devil May Cry es otra de esas adaptaciones de videojuegos que Netflix ha ido haciendo en los últimos tiempos. Aunque la franquicia de Capcom creada por Hideki Kamiya lleva desde 2001 dando guerra, nunca está de más disponer de más material alrededor suyo, en este caso en forma de serie de animación."
-  },
-  {
-    "blog": "ladoB – matizeta",
-    "titulo": "No intentes volver a traer a aquellas personas que la vida se encargó de apartar",
-    "link": "https://matizeta.com/2026/04/29/no-intentes-volver-a-traer-a-aquellas-personas-que-la-vida-se-encargo-de-apartar/",
-    "fecha": "29/04/2026",
-    "contenido": "En tiempos de Facebook volvimos a estar en contacto gente que hace mucho tiempo no hablábamos, compañeros de colegio, familiares lejanos, conocido de conocidos, personas que habían desaparecido por completo de nuestras vidas. Las red social nos dió la oportunidad de reencontrarnos con aquellos que l"
   },
   {
     "blog": "danielaragay.net",
@@ -665,45 +728,10 @@
     "contenido": "A continuación vamos a instalar un servidor LEMP completo en Ubuntu 26.04 &quot;Resolute Raccoon&quot;."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de servidor web LAMP en Ubuntu 26.04",
-    "link": "https://voidnull.es/instalacion-de-servidor-web-lamp-en-ubuntu-26-04/",
-    "fecha": "29/04/2026",
-    "contenido": "A continuación vamos a instalar un servidor LAMP completo en Ubuntu 26.04 &quot;Resolute Raccoon&quot;."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Las notificaciones de iOS y la privacidad",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/04/29/20260429-ios-privacidad-notificaciones/",
-    "fecha": "29/04/2026",
-    "contenido": "Si una aplicación con excelentes mecanismos de privacidad envía una notificación de sistema con contenido de un mensaje, y dicho sistema no tiene buena seguridad, olvídate de la privacidad"
-  },
-  {
     "blog": "56K",
     "titulo": "Juegos de Game Boy con password para progresar",
     "link": "https://56k.es/fanta/juegos-de-game-boy-con-password-para-progresar/",
     "fecha": "29/04/2026",
     "contenido": "Hoy me han ayudado a encontrar en el fediverso algunos juegos de Game Boy de esos que no guardan partida en ningún sitio. Juegos realizados para que la progresión pueda hacerse introduciendo una clave o password. &#160; &#8211; Castlevania II &#8211; Belmont&#8217;s Revenge &#8211; Solomon&#8217;s C"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "La guerra Pirata Ruso-Japonesa de 2026",
-    "link": "https://www.fabio.com.ar/9930-la-guerra-pirata-ruso-japonesa-de-2026",
-    "fecha": "29/04/2026",
-    "contenido": "    \nNo estoy hablando de la Guerra Ruso-Japonesa de 1907, esta es otra, es nueva, y me ha hecho re&iacute;r bastante, pero expuso las diferencias culturales al hacerlas chocar violentamente.\nResulta que en Twitter, ahora mal llamado X por su egoc&eacute;ntrico due&ntilde;o, se les ocurri&oacute; qu"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Haggis Ruby 2026 - Glasgow, Escocia",
-    "link": "https://picandocodigo.net/2026/haggis-ruby-2026-glasgow-escocia/",
-    "fecha": "29/04/2026",
-    "contenido": "Después de la primera edición de Haggis Ruby en Edimburgo en 2024, volvió en 2026. Se realizó durante 2 días el jueves 23 y viernes 24 de abril. Esta vez se mudó a la ciudad de Glasgow. La sede fue thestudio, en el 8° y 9° piso de un edificio sobre la calle Hope, enfrente a la Estación Central de Gl"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Nuevo Single Y Video Clip Anticipan Su Próximo Álbum | “Sonic Of Salvation” Es Lo Nuevo De August Burns Red",
-    "link": "https://www.delotroladometal.com.ar/2026/04/29/sonic-of-salvation-es-lo-nuevo-de-august-burns-red/",
-    "fecha": "29/04/2026",
-    "contenido": "La conocida banda Metalcore August Burns Red acaba de estrenar un nuevo video clip. Se...\nThe post Nuevo Single Y Video Clip Anticipan Su Próximo Álbum | “Sonic Of Salvation” Es Lo Nuevo De August Burns Red first appeared on Del Otro Lado Metal."
   }
 ]
