@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 06 May 2026 13:28:17 GMT</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 19:21:12 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,108 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Mi visión</title>
+<link>https://blep.org/Mi-vision</link>
+<guid isPermaLink="true">https://blep.org/Mi-vision</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>Diego Cano</category>
+<description><![CDATA[Peazo título, parece que me vaya a poner en plan Steve Jobs. Pero no, es más prosaico. Vengo a hablar de ojos y vista. Epa, vista, visión, tiene toda la pinta de que la segunda fue re-importada por los intelectualoides del XVIII o XIX. Tendré que mirarlo. Bueno, a lo que iba. Soy miope. Muy miope.<br><br><strong>Fuente:</strong> Diego Cano]]></description>
+</item>
+<item>
+<title>Recopilación del boletín de noticias de la Free Software Foundation – mayo de 2026</title>
+<link>https://victorhckinthefreeworld.com/2026/05/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-mayo-de-2026/</link>
+<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/05/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-mayo-de-2026/</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>Victorhck in the free world</category>
+<description><![CDATA[Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation.<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
+</item>
+<item>
+<title>Tecnología tangible</title>
+<link>https://matizeta.com/2026/05/06/tecnologia-tangible/</link>
+<guid isPermaLink="true">https://matizeta.com/2026/05/06/tecnologia-tangible/</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>pov – matizeta</category>
+<description><![CDATA[Hoy todo pasa por el software, de alguna manera experimentar la tecnología no se siente verdadera. Aún hoy, (yo que crecí en los 90), me siguen asombrando más los dispositivos de los 80, con aquellos relojes Casio que te tomaban la temperatura, tenían radio, TV, calculadora, y táctil en pantalla par<br><br><strong>Fuente:</strong> pov – matizeta]]></description>
+</item>
+<item>
+<title>Radiografía de un armario (edición 2026)</title>
+<link>https://blog.danielaragay.net/radiografia-de-un-armario-edicion-2026/</link>
+<guid isPermaLink="true">https://blog.danielaragay.net/radiografia-de-un-armario-edicion-2026/</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>danielaragay.net</category>
+<description><![CDATA[Tras escuchar el &amp;#xfa;ltimo cap&amp;#xed;tulo del podcast &amp;quot;Sobre la marcha&amp;quot; me he decidido a recopilar todas mis notas en un &amp;#xfa;nico lugar siguiendo la t&amp;#xe9;cnica conocida como Zettelkasten. Pero aqu&amp;#xed; no estoy para contarte de que se trata, para eso mejor<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
+</item>
+<item>
+<title>Cómo comprobar y mitigar la vulnerabilidad Copy Fail (CVE-2026-31431) en GNU/Linux</title>
+<link>https://voidnull.es/como-comprobar-y-mitigar-la-vulnerabilidad-copy-fail-cve-2026-31431-en-gnu-linux/</link>
+<guid isPermaLink="true">https://voidnull.es/como-comprobar-y-mitigar-la-vulnerabilidad-copy-fail-cve-2026-31431-en-gnu-linux/</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Detecta si tu sistema GNU/Linux es vulnerable a Copy Fail (CVE-2026-31431) y aprende a aplicar el fix correctamente.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Instalación de WordPress en Ubuntu 26.04</title>
+<link>https://voidnull.es/instalacion-de-wordpress-en-ubuntu-26-04/</link>
+<guid isPermaLink="true">https://voidnull.es/instalacion-de-wordpress-en-ubuntu-26-04/</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[WordPress es el sistema gestor de contenidos (CMS) por excelencia y además es de Software Libre, orientado principalmente a la creación de blogs y tiendas online. Este famoso CMS está basado en PHP y MySQL.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Como Son Tus Frases</title>
+<link>https://jmlro.codeberg.page/posts/2026/05-06-como-son-tus-frases.html</link>
+<guid isPermaLink="true">https://jmlro.codeberg.page/posts/2026/05-06-como-son-tus-frases.html</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>La línea doméstica</category>
+<description><![CDATA[No sé si hemos hablado de esto con anterioridad. a) El ansia de leer libros, de comprarlos, de listarlos para que no se me escape ninguno. Las rutinas de escritura, las herramientas, los métodos, los talleres, la preparación y formación. Todo una especie de ansiedad obsesión por lo previo que el mi<br><br><strong>Fuente:</strong> La línea doméstica]]></description>
+</item>
+<item>
 <title>Wanderstop como reflexión sobre el proceso de sanación</title>
 <link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/06/20260506-wanderstop-sanacion/</link>
 <guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/06/20260506-wanderstop-sanacion/</guid>
 <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
 <category>ENTRE DRAGONES Y PINGÜINOS</category>
 <description><![CDATA[A veces para conseguir un objetivo hace falta, irremediablemente, tiempo<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+</item>
+<item>
+<title>Cuando dormir es un gusto</title>
+<link>https://www.xn--jmuoz-qta.es/2026/05/cuando-dormir-es-un-gusto.html</link>
+<guid isPermaLink="true">https://www.xn--jmuoz-qta.es/2026/05/cuando-dormir-es-un-gusto.html</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>El cuaderno de J. Muñoz</category>
+<description><![CDATA[Y si bien de normal duermo poco y madrugo bastante, sobre todo cuando tengo cosas que hacer, hay otros momentos en los que, por puro cansancio, duermo y duermo y los cafés no me hacen efecto.Ayer mismamente, cuando llegué a casa después de trabajar, llevaba tres cafés. Aun así, me eché d<br><br><strong>Fuente:</strong> El cuaderno de J. Muñoz]]></description>
+</item>
+<item>
+<title>Dump de Broken Sword 1 y 2 con aaru y ddrescue</title>
+<link>https://56k.es/fanta/dump-de-broken-sword-1-y-2-con-aaru-y-ddrescue/</link>
+<guid isPermaLink="true">https://56k.es/fanta/dump-de-broken-sword-1-y-2-con-aaru-y-ddrescue/</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[La historia es sencilla. Al día de hoy los pcs no suelen llevar unidad de cdrom/dvd y para poder explorar el contenido de un dispositivo de almacenamiento de ese tipo se necesita una unidad externa usb (por ejemplo). La cosa es que gracias a que me ha dado error el dump de un cdrom he...<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>diez cosas de abril</title>
+<link>https://blog.adrianaaraujot.casa/diez-c/</link>
+<guid isPermaLink="true">https://blog.adrianaaraujot.casa/diez-c/</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>prosa</category>
+<description><![CDATA[y un ramo de flores para ti<br><br><strong>Fuente:</strong> prosa]]></description>
+</item>
+<item>
+<title>El bolu-expat y la deportación merecida</title>
+<link>https://www.fabio.com.ar/9935-el-bolu-expat-y-la-deportacion-merecida</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/9935-el-bolu-expat-y-la-deportacion-merecida</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[El otro d&amp;iacute;a le&amp;iacute;a un caso que me caus&amp;oacute; mucha gracia y por eso se los ven&amp;iacute;a a traer, aunque seguramente ya se enteraron, pero bueno quer&amp;iacute;a comentar al respecto. Contexto: un boludo que ven&amp;iacute;a cada tanto a la Argentina a vivir la gran vida, un ingl&amp;eacute;s<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Parakletos: Offerlammets Makt (Remastered Edition) | Poniendo En Valor Un Viejo Álbum</title>
+<link>https://www.delotroladometal.com.ar/2026/05/06/poniendo-en-valor-un-viejo-album/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/05/06/poniendo-en-valor-un-viejo-album/</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[(2024 &amp;#8211; Old Skull Records) Siempre es bienvenido el material que vuelve a ser puesto... The post Parakletos: Offerlammets Makt (Remastered Edition) | Poniendo En Valor Un Viejo Álbum first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
 </item>
 <item>
 <title>Acceder a cockpit de openSUSE desde otro equipo remoto</title>
@@ -120,102 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
 <category>Fabio.com.ar</category>
 <description><![CDATA[Dato del que no ten&amp;iacute;a idea, pensaba que s&amp;oacute;lo se usaba algo parecido a modo &quot;legacy&quot; en veh&amp;iacute;culos hist&amp;oacute;ricos, pero es que se sigue usando combustible con plomo en miles de aviones! Para aquellos que viven en un termo, el plomo agregado en los combustibles fue una geni<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>La Banda De Brutal Death Metal Argentina Prepara Un Nuevo Disco | Endless Sacrifice No Se Rinde</title>
-<link>https://www.delotroladometal.com.ar/2026/05/05/endless-sacrifice-no-se-rinde/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/05/05/endless-sacrifice-no-se-rinde/</guid>
-<pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Quizá para muchos pasaron desapercibidos, pero Endless Sacrifice tiene una historia interesante para contar. Forjados... The post La Banda De Brutal Death Metal Argentina Prepara Un Nuevo Disco | Endless Sacrifice No Se Rinde first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>He construido una aplicación para parar</title>
-<link>https://dani.torresburriel.com/mindful-journal-aplicacion-para-parar/</link>
-<guid isPermaLink="true">https://dani.torresburriel.com/mindful-journal-aplicacion-para-parar/</guid>
-<pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
-<category>Blog de Daniel Torres Burriel</category>
-<description><![CDATA[Llevo un mes trabajando, a ratos sueltos, en un proyecto personal que no tiene ambición comercial. Se llama Mindful Journal y vive en mindful-journal.app. Es una aplicación para escribir, para pensar, para reflexionar, para darse tiempo y para cuidarse. A veces también para darse unos cuantos latiga<br><br><strong>Fuente:</strong> Blog de Daniel Torres Burriel]]></description>
-</item>
-<item>
-<title>Auto alojando Writefreely</title>
-<link>https://blog.jagedn.dev/blog/2026/writefreely.html</link>
-<guid isPermaLink="true">https://blog.jagedn.dev/blog/2026/writefreely.html</guid>
-<pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
-<category>Jorge Aguilera</category>
-<description><![CDATA[Autoalojar una instancia de WriteFreely<br><br><strong>Fuente:</strong> Jorge Aguilera]]></description>
-</item>
-<item>
-<title>El día que las estadísticas de este blog dejaron de tener sentido</title>
-<link>https://brucknerite.net/2026/05/el-dia-que-las-estadisticas-de-este-blog-dejaron-de-tener-sentido.html</link>
-<guid isPermaLink="true">https://brucknerite.net/2026/05/el-dia-que-las-estadisticas-de-este-blog-dejaron-de-tener-sentido.html</guid>
-<pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-<category>brucknerite</category>
-<description><![CDATA[Aunque nunca quise darle importancia, este blog ha tenido estadísticas casi siempre. Pero un día, hace no muchos meses, se volvieron locas. Ya no puedo saber si leéis o no, más allá de lo que veo compartirse por Mastodón. ¿Qué ha podido pasar?<br><br><strong>Fuente:</strong> brucknerite]]></description>
-</item>
-<item>
-<title>Gestionar software y repositorios en #openSUSE mediante cockpit</title>
-<link>https://victorhckinthefreeworld.com/2026/05/04/gestionar-software-y-repositorios-en-opensuse-mediante-cockpit/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/05/04/gestionar-software-y-repositorios-en-opensuse-mediante-cockpit/</guid>
-<pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[Cockpit es la aplicación web que viene en openSUSE a reemplazar al veterano YaST. Veamos cómo gestionar los repositorios o instalar/desinstalar software con esta nueva herramienta.<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>La falacia de la abstracción (I): el hacedor de mapas</title>
-<link>https://vonneumannmachine.wordpress.com/2026/05/04/la-falacia-de-la-abstraccion-i-el-hacedor-de-mapas/</link>
-<guid isPermaLink="true">https://vonneumannmachine.wordpress.com/2026/05/04/la-falacia-de-la-abstraccion-i-el-hacedor-de-mapas/</guid>
-<pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-<category>La Máquina de Von Neumann</category>
-<description><![CDATA[&amp;#160; El 19 de marzo el ingeniero de Google DeepMind, Alexander Lerchner, publicó un artículo que bien podría haber sido una entrada en este blog, porque viene a sostener una serie de ideas que venimos defendiendo en La Máquina de Von Neumann desde hace muchos años ya. Así que, siguiendo esta tende<br><br><strong>Fuente:</strong> La Máquina de Von Neumann]]></description>
-</item>
-<item>
-<title>Guarda datos encriptados y accedelos como si tal cosa</title>
-<link>http://unbrutocondebian.blogspot.com/2026/05/guarda-datos-encriptados-y-accedelos.html</link>
-<guid isPermaLink="true">http://unbrutocondebian.blogspot.com/2026/05/guarda-datos-encriptados-y-accedelos.html</guid>
-<pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-<category>Un bruto con Debian</category>
-<description><![CDATA[Hoy toca guardar secretos. Básicamente lo que vamos ha hacer es crear una carpeta para tener a mano algún tipo de datos “sensibles” y que podamos acceder a ella como si tal cosa, pero que cuando ya no la necesitemos, desaparezca del mapa y solo quede una carpeta con datos encriptados de la máxima se<br><br><strong>Fuente:</strong> Un bruto con Debian]]></description>
-</item>
-<item>
-<title>Hay trenes que sólo pasan una vez en la vida. Mientras, el carnet joven va por vía circular</title>
-<link>https://ericdq.com/2026/05/04/trenes-pasan-vida-mientras-carnet-joven-via-circular/</link>
-<guid isPermaLink="true">https://ericdq.com/2026/05/04/trenes-pasan-vida-mientras-carnet-joven-via-circular/</guid>
-<pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-<category>Proyecto para no aburrir</category>
-<description><![CDATA[El sistema le ha dado y quitado a mi generación (de los 90) hasta cinco veces el carnet joven por ampliaciones sucesivas de los rangos de edad.<br><br><strong>Fuente:</strong> Proyecto para no aburrir]]></description>
-</item>
-<item>
-<title>¿Quiénes saben que tengo un blog?</title>
-<link>https://blog.luiscarlospando.com/personal/2026/05/quienes-saben-que-tengo-un-blog/</link>
-<guid isPermaLink="true">https://blog.luiscarlospando.com/personal/2026/05/quienes-saben-que-tengo-un-blog/</guid>
-<pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-<category>Luis Carlos Pando</category>
-<description><![CDATA[Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋<br><br><strong>Fuente:</strong> Luis Carlos Pando]]></description>
-</item>
-<item>
-<title>Día de la Cruz de Coín</title>
-<link>https://mareosdeungeek.es/dia-de-la-cruz-de-coin/</link>
-<guid isPermaLink="true">https://mareosdeungeek.es/dia-de-la-cruz-de-coin/</guid>
-<pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-<category>Mareos de un geek</category>
-<description><![CDATA[Mayo es el mes de las cruces y ayer estuve en Coín, donde se celebró el Día de la Cruz. El año pasado tocó Córdoba y en esta ocasión ha sido en el cercano Valle del Guadalhorce. De nuevo, una visita repetida a Monda y Coín, con la sorpresa del Día de la Cruz en [&amp;#8230;]<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
-</item>
-<item>
-<title>Tiendas de aplicaciones alternativas a Play Store</title>
-<link>https://alt43.es/tiendas-de-aplicaciones-alternativas-a-play-store/</link>
-<guid isPermaLink="true">https://alt43.es/tiendas-de-aplicaciones-alternativas-a-play-store/</guid>
-<pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-<category>alt43</category>
-<description><![CDATA[Google Play Store es la tienda dominante en Android, pero ni es la única ni necesariamente la mejor para todo tipo de usuarios y circunstancias. Analizamos varias alternativas mucho más centradas en la privacidad y aplicaciones de código abierto.<br><br><strong>Fuente:</strong> alt43]]></description>
-</item>
-<item>
-<title>PIS + Galerías Preciados</title>
-<link>https://galeriaspreciados.band/pis-galerias-preciados/</link>
-<guid isPermaLink="true">https://galeriaspreciados.band/pis-galerias-preciados/</guid>
-<pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
-<category>Galerías Preciados</category>
-<description><![CDATA[Ahora que están de moda los homenajes y los revivals, el PIS y servidor nos vamos a hacer uno del Juvencat 2008 (ja ja!! chistaco hiperlocal) para celebrar que somos viejos pero aún nos sobran balas. Ahí te lo cuento.<br><br><strong>Fuente:</strong> Galerías Preciados]]></description>
 </item>
 
 </channel>
