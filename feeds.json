@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Jinversor",
+    "titulo": "Es la genética",
+    "link": "https://jinversor.co/2026/05/es-la-genetica/",
+    "fecha": "07/05/2026",
+    "contenido": "Se acercan las elecciones en mi país y los homúnculos, desde luego, nuevamente votarán socialismo. No puede ser de otra forma, es la genética que nos tocó. En los paisuchos [&#8230;]\nLa entrada Es la genética se publicó primero en Jinversor."
+  },
+  {
     "blog": "Diego Cano",
     "titulo": "Mi visión",
     "link": "https://blep.org/Mi-vision",
@@ -14,6 +21,13 @@
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Ubuntu y sus cuatro días para olvidar",
+    "link": "https://mareosdeungeek.es/ubuntu-y-sus-cuatro-dias-para-olvidar/",
+    "fecha": "06/05/2026",
+    "contenido": "Canonical anunció la llegada de Ubuntu 26.04 LTS el pasado 23 de abril. La nueva versión, incluía una buena serie de actualizaciones, como la versión 7.0 del kernel. Además, controladores, versiones recientes de paquetes importantes, etcétera. Nada fuera de lo normal, pero otro peldaño más en un via"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Tecnología tangible",
     "link": "https://matizeta.com/2026/05/06/tecnologia-tangible/",
@@ -26,6 +40,13 @@
     "link": "https://blog.danielaragay.net/radiografia-de-un-armario-edicion-2026/",
     "fecha": "06/05/2026",
     "contenido": "Tras escuchar el &#xfa;ltimo cap&#xed;tulo del podcast &quot;Sobre la marcha&quot; me he decidido a recopilar todas mis notas en un &#xfa;nico lugar siguiendo la t&#xe9;cnica conocida como Zettelkasten. Pero aqu&#xed; no estoy para contarte de que se trata, para eso mejor"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "tree: Visualiza los directorios ordenados en árbol",
+    "link": "https://voidnull.es/tree-visualiza-los-directorios-ordenados-en-arbol/",
+    "fecha": "06/05/2026",
+    "contenido": "El comando tree permite visualizar la estructura de directorios en forma jerárquica en GNU/Linux, facilitando su análisis."
   },
   {
     "blog": "_ voidNull",
@@ -54,6 +75,13 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/06/20260506-wanderstop-sanacion/",
     "fecha": "06/05/2026",
     "contenido": "A veces para conseguir un objetivo hace falta, irremediablemente, tiempo"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Se nos ha ido de las manos",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/se-nos-ha-ido-de-las-manos.html",
+    "fecha": "06/05/2026",
+    "contenido": "Hace dos semanas se estrenó en La 1 de Televisión Española un programa que pillé días antes anunciado por pura casualidad y le hice caso porque el tema me interesaba: el asunto de la vivienda y la especulación inmobiliaria. La presentación y dirección corre a cuenta de Carles Tamayo, que yo conocía "
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -396,7 +424,7 @@
     "titulo": "Comentarios federados: por qué he cambiado de idea",
     "link": "https://elblogdelazaro.org/interaccion-mastodon-blog/",
     "fecha": "04/05/2026",
-    "contenido": "Por qué he añadido interacción con Mastodon para mostrar respuestas como comentarios en el blog sin usar un sistema tradicional."
+    "contenido": "Por: Carlos M.Publicado el 4 de mayo de 2026Por qué he añadido interacción con Mastodon para mostrar respuestas como comentarios en el blog sin usar un sistema tradicional.Continuar leyendo →#Mastodon #Fediverso #Blog "
   },
   {
     "blog": "El Laberinto de McAllus",
@@ -560,13 +588,6 @@
     "contenido": "La pieza clave para sincronizar calendarios y contactos con tu propio servidor y salir del ecosistema Google."
   },
   {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "1.° de mayo de gambón",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/1-de-mayo-de-gambon.html",
-    "fecha": "01/05/2026",
-    "contenido": "\n  \n    \n  \nHoy, 1.° de mayo, día del trabajo, los sindicatos han movido sus tradicionales manifestaciones a Málaga, la capital de la Costa del Sol. No sean ustedes mal pensados y crean que las elecciones en Andalucía tienen algo que ver; lo que ocurre es que saben que en Málaga se comen las mejores"
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "Links de Viernes - #939",
     "link": "https://www.fabio.com.ar/9932-links-de-viernes---939",
@@ -705,33 +726,5 @@
     "link": "https://yslasdas.bearblog.dev/claude-vs-gemini-un-mini-caso-real-en-ux/",
     "fecha": "30/04/2026",
     "contenido": "Un problema. Un prompt. Múltiples resultados.El problema: Para el sitio web de un cliente pidieron unificar dos páginas en una sola sección. Actualmente son dos páginas distintas, con una URL única para cada una y que apunta a dos públicos diferentes, aunque ambas orientadas a aprender.\nThe situeish"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Nostr | la ilusión de soberanía digital",
-    "link": "https://gatooscuro.xyz/nostr-la-ilusion-de-soberania-digital/",
-    "fecha": "29/04/2026",
-    "contenido": "Durante años, la narrativa fue casi seductora en su simplicidad:si eliminas al intermediario, eliminas el abuso. Esa idea, repetida hasta convertirse en dogma dentro de ciertos círculos tecnológicos, impulsó el\nSeguir leyendo  Nostr &#124; la ilusión de soberanía digital\nEl cargo Nostr | la ilusión "
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "La cara fosca de Suècia: Bandes, menors i mentides",
-    "link": "https://blog.danielaragay.net/la-cara-fosca-de-suecia-bandes-menors-i-mentides/",
-    "fecha": "29/04/2026",
-    "contenido": "En aquest episodi analitzem la realitat de la viol&#xe8;ncia armada a Su&#xe8;cia. Desmuntem el fenomen de les bandes i l&#x2019;explotaci&#xf3; de menors sota el model de &#x201c;viol&#xe8;ncia com a servei&#x201d;. Tamb&#xe9; expliquem les noves pol&#xed;tiques del"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de servidor web LEMP en Ubuntu 26.04",
-    "link": "https://voidnull.es/instalacion-de-servidor-web-lemp-en-ubuntu-26-04/",
-    "fecha": "29/04/2026",
-    "contenido": "A continuación vamos a instalar un servidor LEMP completo en Ubuntu 26.04 &quot;Resolute Raccoon&quot;."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Juegos de Game Boy con password para progresar",
-    "link": "https://56k.es/fanta/juegos-de-game-boy-con-password-para-progresar/",
-    "fecha": "29/04/2026",
-    "contenido": "Hoy me han ayudado a encontrar en el fediverso algunos juegos de Game Boy de esos que no guardan partida en ningún sitio. Juegos realizados para que la progresión pueda hacerse introduciendo una clave o password. &#160; &#8211; Castlevania II &#8211; Belmont&#8217;s Revenge &#8211; Solomon&#8217;s C"
   }
 ]
