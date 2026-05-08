@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Ubuntu Peronista",
+    "titulo": "¿Cómo calibro un Joystick en Ubuntu?",
+    "link": "https://ubuntuperonista.blogspot.com/2026/05/como-calibro-un-joystick-en-ubuntu.html",
+    "fecha": "07/05/2026",
+    "contenido": "En su Mensaje a la Juventud&nbsp;para el trunco Encuentro de la Juventud Peronista de Febrero de 1967 en Montevideo, Juan Perón expone en magnético cómo solucionar los problemas económicos Argentinos tomando la palanca del quehacer nacional, a la vez que enseña cómo calibrar Joysticks en Ubuntu.(..."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Cómo escribo en 2026 (I): a mano",
     "link": "https://adrianperales.com/2026/05/como-escribo-en-2026-i-a-mano/",
@@ -15,10 +22,24 @@
   },
   {
     "blog": "Jinversor",
+    "titulo": "Primavera en NYC",
+    "link": "https://jinversor.co/2026/05/primavera-en-nyc/",
+    "fecha": "07/05/2026",
+    "contenido": "La primavera es la mejor época del año y la primavera en NYC es la más linda del mundo. Cuando lo yermo se torna verde y contrasta con la arquitectura [&#8230;]\nLa entrada Primavera en NYC se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Jinversor",
     "titulo": "Es la genética",
     "link": "https://jinversor.co/2026/05/es-la-genetica/",
     "fecha": "07/05/2026",
     "contenido": "Se acercan las elecciones en mi país y los homúnculos, desde luego, nuevamente votarán socialismo. No puede ser de otra forma, es la genética que nos tocó. En los paisuchos [&#8230;]\nLa entrada Es la genética se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Escritos en la nube",
+    "titulo": "Un post aburrido para no perder la costumbre",
+    "link": "https://nube.codeberg.page/blog/aburrido/",
+    "fecha": "07/05/2026",
+    "contenido": "Últimamente tengo ideas sobre que escribir pero no me decido exactamente que idea elegir y desarrollar, además, el hecho de estar sin electricidad e internet 6-8 horas diarias hacen que mi mente se concentre en otras cosas y las ideas se esfumen o que los borradores no sean tan coherentes como yo qu"
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -35,11 +56,39 @@
     "contenido": "Las palabras duelenpero eso nunca te lo dicen. Me refiero a las palabraque nos decimos a uno mismo. Cuando somos sinceroscon nosotros,voces internasque no llevan maquillaje. Esas que te escupen la verdadun día cualquiera a las de la tarde de un miércolescuando te quedas en silencio. Y ahí tú voz en "
   },
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "549. Regresa el superhéroe olvidado",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/549-regresa-el-superheroe-olvidado.html",
+    "fecha": "07/05/2026",
+    "contenido": "&nbsp; &nbsp; A mí siempre me ha gustado el cómic. Para ser más exactos, el de superhéroes, aunque siempre acabe sintiendo predilección congénita por los supervillanos. De hecho, si estos últimos no existieran, ¿para qué querríamos a los superhéroes? ¿Para que rescataran al gato del árbol y devolvér"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "La Jihad no era contra las máquinas",
+    "link": "https://impermanente.es/2026/05/07/la-jihad-no-era-contra.html",
+    "fecha": "07/05/2026",
+    "contenido": "La frase aparece pronto en Dune: &ldquo;no harás una máquina a semejanza de la mente humana&rdquo;. Casi todo el mundo la lee como una prohibición tecnológica, como si Frank Herbert hubiese imaginado un futuro hippie sin ordenadores. Es una lectura cómoda y bastante perezosa. Lo que prohíbe el manda"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Día de permiso",
     "link": "https://www.xn--jmuoz-qta.es/2026/05/dia-de-permiso.html",
     "fecha": "07/05/2026",
     "contenido": "Hoy es el primer día de permiso por asuntos propios que pido como funcionario de la administración pública en toda mi vida. No piensen ustedes que estoy disfrutándolo en un pequeño viaje o en que me voy a vestir de punta en blanco para irme a comer a un lugar de pitiminí; en realidad estoy en casa, "
+  },
+  {
+    "blog": "",
+    "titulo": "REFLEXIONES DE SAN PATRICIO.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/05/07/reflexiones-de-san-patricio/",
+    "fecha": "07/05/2026",
+    "contenido": "Marzo&#8230; la fría brisa del otoño, el olor suave del lúpulo, el Pub, el sonido de las gaitas, los tambores, ese momento de alegría que tapa el silencio solemne de las dificultades de la vida. Me relajo y busca la tranquilidad de las risas, no parece existir tristeza en este momento&#8230; momento"
+  },
+  {
+    "blog": "ochobitshacenunbyte",
+    "titulo": "RustFS: Una gran alternativa para almacenar objetos S3",
+    "link": "https://www.ochobitshacenunbyte.com/2026/05/07/rustfs-una-gran-alternativa-para-almacenar-objetos-s3/",
+    "fecha": "07/05/2026",
+    "contenido": "Seguro que habéis notado el cambio de rumbo de MinIO, producto del que ya hemos hablado. Este gigante del almacenamiento S3, hasta hace poco el favorito de la comunidad open source, está priorizando ahora&#46;&#46;&#46;\nLa entrada RustFS: Una gran alternativa para almacenar objetos S3 se publicó pri"
   },
   {
     "blog": "56K",
@@ -57,10 +106,24 @@
   },
   {
     "blog": "Del Otro Lado Metal",
-    "titulo": "Mick Jelinick Cuenta Sus Sensaciones | Mortification En Argentina Y Latinoamérica",
+    "titulo": "Diciembre En Brasil, Colombia Y Costa Rica | “The Last Dance” De Bride En Latinoamérica Junto A Les Carlsen",
+    "link": "https://www.delotroladometal.com.ar/2026/05/07/the-last-dance-de-bride-en-latinoamerica-junto-a-les-carlsen/",
+    "fecha": "07/05/2026",
+    "contenido": "Dale Thompson lo anunció primero en sus redes, y posteriormente lo confirmó en varias entrevistas....\nThe post Diciembre En Brasil, Colombia Y Costa Rica | “The Last Dance” De Bride En Latinoamérica Junto A Les Carlsen first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Mick Jelinic Cuenta Sus Sensaciones | Mortification En Argentina Y Latinoamérica",
     "link": "https://www.delotroladometal.com.ar/2026/05/07/mortification-en-argentina-y-latinoamerica/",
     "fecha": "07/05/2026",
-    "contenido": "La verdad es que todo fue una sorpresa, una real y grata sorpresa. Mortification volviendo...\nThe post Mick Jelinick Cuenta Sus Sensaciones | Mortification En Argentina Y Latinoamérica first appeared on Del Otro Lado Metal."
+    "contenido": "La verdad es que todo fue una sorpresa, una real y grata sorpresa. Mortification volviendo...\nThe post Mick Jelinic Cuenta Sus Sensaciones | Mortification En Argentina Y Latinoamérica first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Acompañar a los socios: notas desde Bilbao tras la presentación del estudio B2B de LIN3S",
+    "link": "https://dani.torresburriel.com/estudio-b2b-lin3s-bilbao-partners/",
+    "fecha": "07/05/2026",
+    "contenido": "Hoy he hecho 600 kilómetros para estar en Bilbao. He salido de casa a las seis y media de la mañana y, mientras tomaba unas notas de voz para escribir este post, eran las cinco y veinte de la tarde. Venía de vuelta atascado a la entrada de Zaragoza. Lo cuento no porque tenga ningún &#8230; Sigue ley"
   },
   {
     "blog": "El blog de Lázaro",
@@ -649,40 +712,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/05/01/sacerdotes-del-underground/",
     "fecha": "01/05/2026",
     "contenido": "La noticia del mes pasado fue el regreso de Mortification. Algo impensado, y mucho menos...\nThe post Sacerdotes Del Underground first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Moribundo Insurgente",
-    "titulo": "LinkedIn utiliza scripts ocultos para rastrear a sus usuarios",
-    "link": "https://moribundoinsurgente.noblogs.org/post/2026/04/30/linkedin-utiliza-scripts-ocultos-para-rastrear-a-sus-usuarios/",
-    "fecha": "30/04/2026",
-    "contenido": "En las últimas semanas, la reputación de LinkedIn se ha visto seriamente comprometida. La asociación alemana Fairlinked e.V. ha publicado los resultados de una investigación que apunta a una operación de vigilancia digital sin precedentes a través de un informe &#8230; Sigue leyendo &#8594;"
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "El Premio \"Macgyver académico\" 2026 de la Juegoteca, asociación de estudiante de la facultad",
-    "link": "https://pedrolr.es/blog/el-premio-macgyver-academico-2026-de-la-juegoteca-asociacion-de-estudiante-de-la-facultad/",
-    "fecha": "30/04/2026",
-    "contenido": "Hoy me han dado el Premio \"Macgyver académico\" (para el profe que, ante cualquier fallo técnico, encuentra la forma más creativa de seguir con la clase). ¡Qué alegría! En la facultad está la Juegoteca, asociación de estudiantes de la Facultad de Ciencias de la Documentación de la UCM. Han hecho una "
-  },
-  {
-    "blog": "Plutoide Marcianadas",
-    "titulo": "Cool Aoi",
-    "link": "https://plutoidemarcianadas.blogspot.com/2026/04/cool-aoi.html",
-    "fecha": "30/04/2026",
-    "contenido": "Finalizado: 2026-04-26Aoi enérgico y colorido.  › Ver más »¡Patina todo el día!"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "La gran aventura de Mortadelo y Filemón",
-    "link": "https://www.macram.es/peliculas/la-gran-aventura-de-mortadelo-y-filemon/",
-    "fecha": "30/04/2026",
-    "contenido": "En general podría decir que me ha gustado la película, pero quizá me resulte demasiado surrealista como para haberla terminado de entender (dentro de lo que hay que entender una película de este corte). Ha habido momentos más de vergüenza ajena que de carcajada y creo que algunos detalles han enveje"
-  },
-  {
-    "blog": "Kernel Picnic!",
-    "titulo": "Claude vs Gemini: Un mini-caso real en UX",
-    "link": "https://yslasdas.bearblog.dev/claude-vs-gemini-un-mini-caso-real-en-ux/",
-    "fecha": "30/04/2026",
-    "contenido": "Un problema. Un prompt. Múltiples resultados.El problema: Para el sitio web de un cliente pidieron unificar dos páginas en una sola sección. Actualmente son dos páginas distintas, con una URL única para cada una y que apunta a dos públicos diferentes, aunque ambas orientadas a aprender.\nThe situeish"
   }
 ]
