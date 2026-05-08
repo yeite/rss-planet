@@ -1,5 +1,54 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Elegir el mando correcto para tu televisor Samsung",
+    "link": "https://malagaoriginal.blogspot.com/2026/05/elegir-el-mando-correcto-para-tu.html",
+    "fecha": "08/05/2026",
+    "contenido": "Os comparto mi experiencia con los mandos de televisores Samsung, porque no todos son iguales ni mucho menos.&nbsp;Hace tiempo os comenté que el proceso para quitar la telemetría a mi televisor Samsung y convertirlo en un sencillo televisor tonto de 65\" tuve que cambiar el desastroso mando que traía"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Culpar al más güevón",
+    "link": "https://jinversor.co/2026/05/culpar-al-mas-guevon/",
+    "fecha": "08/05/2026",
+    "contenido": "Ya está aquí el hantavirus, el nuevo embeleco de una humanidad novelera que se caga encima por 10 muerticos mientras las sobredosis, las guerras y la delincuencia les parecen meras [&#8230;]\nLa entrada Culpar al más güevón se publicó primero en Jinversor."
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Lecturas recomendadas #5",
+    "link": "https://matizeta.com/2026/05/08/lecturas-recomendadas-5/",
+    "fecha": "08/05/2026",
+    "contenido": "Les dejo un par de lecturas para el fin de semana, con entradas de blogs que me gustaron. Si quedan con ganas de más recuerden que siempre esta ¡Blog!¡Blog! Eran los piratas… “tomaban el software que necesitaban, no para venderlo sino para usarlo, y terminaban destripándolo, entendiéndolo y haciendo"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Integración de Navidrome en Home Assistant",
+    "link": "https://voidnull.es/integracion-de-navidrome-en-home-assistant/",
+    "fecha": "08/05/2026",
+    "contenido": "Conecta tu servidor Navidrome con Home Assistant gracias a esta integración personalizada compatible con la API Subsonic."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Hantavirus",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/hantavirus.html",
+    "fecha": "08/05/2026",
+    "contenido": "\n  \n    \n  \nCasi no se habla de otra cosa. Asoma por aquí en plena primavera ya la que será una de las palabras del año para la FundéuRAE. Pero de lo que seguramente también debería hablarse, y mucho, es del nivel repugnante de la política española, de cómo unos y otros aprovechan cualquier crisis s"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #940",
+    "link": "https://www.fabio.com.ar/9937-links-de-viernes---940",
+    "fecha": "08/05/2026",
+    "contenido": "     Links de Viernes, foto de Frank Herfort\nViernes y nuevamente nos despachamos con enlaces, porque el oto&ntilde;o se sobrevive con buena lectura, variada y bien por fuera de esos algoritmos que nos crean burbujas artificiales, as&iacute; es, aqu&iacute; vas a ver esas cosas que cre&iacute;as que"
+  },
+  {
+    "blog": "Gabo Scribe",
+    "titulo": "Vísteme despacio",
+    "link": "https://gaboscribe.com/blog/2026/05/08/visteme-despacio.html",
+    "fecha": "08/05/2026",
+    "contenido": "Hoy tuve una hermosa sensación cuando llevé a mi hija al colegio. Salimos bien temprano así que no había necesidad de ir rápido, es más, es el momento que la vida nos da para pasar 20 minutos juntos, hablar un poco de algo, cansarla con algún consejo y reír."
+  },
+  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo calibro un Joystick en Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2026/05/como-calibro-un-joystick-en-ubuntu.html",
@@ -145,13 +194,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/05/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-mayo-de-2026/",
     "fecha": "06/05/2026",
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Ubuntu y sus cuatro días para olvidar",
-    "link": "https://mareosdeungeek.es/ubuntu-y-sus-cuatro-dias-para-olvidar/",
-    "fecha": "06/05/2026",
-    "contenido": "Canonical anunció la llegada de Ubuntu 26.04 LTS el pasado 23 de abril. La nueva versión, incluía una buena serie de actualizaciones, como la versión 7.0 del kernel. Además, controladores, versiones recientes de paquetes importantes, etcétera. Nada fuera de lo normal, pero otro peldaño más en un via"
   },
   {
     "blog": "pov – matizeta",
@@ -392,13 +434,6 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Día de la Cruz de Coín",
-    "link": "https://mareosdeungeek.es/dia-de-la-cruz-de-coin/",
-    "fecha": "04/05/2026",
-    "contenido": "Mayo es el mes de las cruces y ayer estuve en Coín, donde se celebró el Día de la Cruz. El año pasado tocó Córdoba y en esta ocasión ha sido en el cercano Valle del Guadalhorce. De nuevo, una visita repetida a Monda y Coín, con la sorpresa del Día de la Cruz en [&#8230;]"
-  },
-  {
     "blog": "alt43",
     "titulo": "Tiendas de aplicaciones alternativas a Play Store",
     "link": "https://alt43.es/tiendas-de-aplicaciones-alternativas-a-play-store/",
@@ -546,13 +581,6 @@
     "contenido": "Por: Carlos M.Publicado el 4 de mayo de 2026Por qué he añadido interacción con Mastodon para mostrar respuestas como comentarios en el blog sin usar un sistema tradicional.Continuar leyendo →#Mastodon #Fediverso #Blog "
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Listo para mayo, proyectos y reflexiones",
-    "link": "https://mareosdeungeek.es/listo-para-mayo-proyectos-y-reflexiones/",
-    "fecha": "03/05/2026",
-    "contenido": "Ya comenté que abril iba a ser un mes de transición con el colofón de la celebración de WordCamp Málaga 2026. Sinceramente, mereció la pena el evento y el trabajo realizado ese día. Aunque el mérito, además de todo el equipo, es principalmente, de Delia Carballo que se encargó de organizarlo todo. P"
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "ZRAM al 100% de la memoria, optimización avanzada en CachyOS",
     "link": "https://tecnoysoft.com/2026/05/03/zram-al-100-de-la-memoria-optimizacion-avanzada-en-cachyos/",
@@ -616,13 +644,6 @@
     "contenido": "Hoy hablo del software que uso en mi d&#xed;a a d&#xed;a: edici&#xf3;n de v&#xed;deo, podcast, fotograf&#xed;a y m&#xe1;s. Tambi&#xe9;n te cuento c&#xf3;mo Chad cocin&#xf3; para la embajada tailandesa durante la visita del rey."
   },
   {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Córdoba, patrimonio gastronómico",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/cordoba-patrimonio-gastronomico.html",
-    "fecha": "02/05/2026",
-    "contenido": "No soy mucho de pódcast porque lo que de verdad me gusta es la radio en directo, la actualidad, el saber que hay alguien en un estudio en el mismo momento en que yo lo estoy escuchando. Sin embargo, a veces, por cuestiones de horario, tengo que tirar de pódcast con algún programa que me gusta, pero "
-  },
-  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Dichotomy Presenta \"Lucifer Owns The Fence\" | El Death Metal Que Nos Gusta",
     "link": "https://www.delotroladometal.com.ar/2026/05/02/el-death-metal-que-nos-gusta/",
@@ -635,13 +656,6 @@
     "link": "https://yslasdas.bearblog.dev/links-de-un-1ro-de-mayo/",
     "fecha": "02/05/2026",
     "contenido": "Canva pidió perdón cuando su herramienta que utiliza IA generativa cambió la palabra Palestine a Ucrania. En términos simples, la herramienta convierte un archivo de trabajo de pixeles, en capas. Pero ya sabemos que no convierte un carajo, las IA no hacen eso, solo recrea lo que interpreta y en este"
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Instalar PiApps en Raspberry Pi OS",
-    "link": "https://malagaoriginal.blogspot.com/2026/05/instalar-piapps-en-raspberry-pi-os.html",
-    "fecha": "01/05/2026",
-    "contenido": "PiApps es un script para instalar aplicaciones en Raspberry Pi OS adaptadas específicamente para este tipo de placas.&nbsp;Es un buen complemento para completar la terna de instaladores con synaptic, para instalar software genérico de la familia Debian y RetroMultiInstaller, la colección de scripts "
   },
   {
     "blog": "--el Profe Juan--",
@@ -658,32 +672,11 @@
     "contenido": "¡Este mayo de 2026 es el mes de LibreLocal! La Free Software Foundation (FSF) invita a partidarios del software libre como tú a organizar un meetup para reunir a la gente y intercambiar ideas, aprender unos de otros y celebrar el software libre"
   },
   {
-    "blog": "Tecno y Soft",
-    "titulo": "Gestión de .pacnew en CachyOS: buenas prácticas y herramientas",
-    "link": "https://tecnoysoft.com/2026/05/01/gestion-de-pacnew-en-cachyos-buenas-practicas-y-herramientas/",
-    "fecha": "01/05/2026",
-    "contenido": "¿Qué son los archivos .pacnew? Si usas una distro basada en Arch Linux como CachyOS, tarde o temprano te vas a encontrar con archivos .pacnew. Bajo mi punto de vista, un auténtico dolor de cabeza y ya verán por qué. Estos aparecen cuando actualizas un paquete que incluye un archivo de configuración "
-  },
-  {
     "blog": "note – matizeta",
     "titulo": "Lecturas recomendadas #4",
     "link": "https://matizeta.com/2026/05/01/lecturas-recomendadas-4/",
     "fecha": "01/05/2026",
     "contenido": "Una nueva entrega de publicaciones interesantes que leí y son interesantes para compartir. Una excelente entrada donde el autor analiza la verdadera privacidad y herramientas de herramientas como Proton Mail y hace un repaso por algunas otras.&#160; Cris reflexiona porque ya no tiene tanto interés e"
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "Abductivo",
-    "link": "http://locutusbit.blogspot.com/2026/05/abductivo.html",
-    "fecha": "01/05/2026",
-    "contenido": "&nbsp;Se persigue la vida de los objetos,se anegan los sentidosy se aplasta el contenidode los sujetos en caída constante.Se eterniza la tristeza y el cansancio,la elocuencia del abandono,las biografías estérilesy las afirmaciones monocromáticas.Se encierra la lógica y la forma,se ensalza el mínimo "
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "547. Años más tarde",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/547-anos-mas-tarde.html",
-    "fecha": "01/05/2026",
-    "contenido": "&nbsp; &nbsp; De niño pasaba muchas tardes veraniegas en el desván de la casa de mis abuelos. Para mí era un sitio mágico detenido en el tiempo, atiborrado de trastos antiguos, algunos de veras extraños. Me encantaba cómo la&nbsp;luz del día entraba por la enorme ventana circular y se dibujaba en el"
   },
   {
     "blog": "_ voidNull",
@@ -705,12 +698,5 @@
     "link": "https://nachof.blog/posts/2026/on-vicious-worlds/",
     "fecha": "01/05/2026",
     "contenido": "\n\n\nOn Vicious Worlds es el segundo libro de la trilogía Kindom, de Bethany Jacobs. These Burning Stars es el primer libro de la serie.\nLa trilogía es un space opera bien clásico. Naves espaciales, tecnología que bien podría ser magia, y bastante acción.\nEn cuanto al setting, la historia está ambient"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Sacerdotes Del Underground",
-    "link": "https://www.delotroladometal.com.ar/2026/05/01/sacerdotes-del-underground/",
-    "fecha": "01/05/2026",
-    "contenido": "La noticia del mes pasado fue el regreso de Mortification. Algo impensado, y mucho menos...\nThe post Sacerdotes Del Underground first appeared on Del Otro Lado Metal."
   }
 ]
