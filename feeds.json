@@ -1,5 +1,19 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Cambio en la dirección de la junta de #openSUSE",
+    "link": "https://victorhckinthefreeworld.com/2026/05/09/cambio-en-la-direccion-de-la-junta-de-opensuse/",
+    "fecha": "09/05/2026",
+    "contenido": "Gerald Pfeifer ha renunciado a su cargo de presidente de la junta de openSUSE y será relevado en su cargo por Jeff Mahoney"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Zaxas: Zaxas | Hacer Metal En La Década De Los ´90",
+    "link": "https://www.delotroladometal.com.ar/2026/05/09/hacer-metal-en-la-decada-de-los-90/",
+    "fecha": "09/05/2026",
+    "contenido": "(1995 &#8211; Noise) De vez en cuando está bueno rescatar estas joyas olvidadas en el...\nThe post Zaxas: Zaxas | Hacer Metal En La Década De Los ´90 first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Elegir el mando correcto para tu televisor Samsung",
     "link": "https://malagaoriginal.blogspot.com/2026/05/elegir-el-mando-correcto-para-tu.html",
@@ -210,13 +224,6 @@
     "contenido": "La verdad es que todo fue una sorpresa, una real y grata sorpresa. Mortification volviendo...\nThe post Mick Jelinic Cuenta Sus Sensaciones | Mortification En Argentina Y Latinoamérica first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Acompañar a los socios: notas desde Bilbao tras la presentación del estudio B2B de LIN3S",
-    "link": "https://dani.torresburriel.com/estudio-b2b-lin3s-bilbao-partners/",
-    "fecha": "07/05/2026",
-    "contenido": "Hoy he hecho 600 kilómetros para estar en Bilbao. He salido de casa a las seis y media de la mañana y, mientras tomaba unas notas de voz para escribir este post, eran las cinco y veinte de la tarde. Venía de vuelta atascado a la entrada de Zaragoza. Lo cuento no porque tenga ningún &#8230; Sigue ley"
-  },
-  {
     "blog": "El blog de Lázaro",
     "titulo": "Sigo liado con el diseño",
     "link": "https://elblogdelazaro.org/notas/mejoras-blog-gemini-vscodium/",
@@ -236,13 +243,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/05/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-mayo-de-2026/",
     "fecha": "06/05/2026",
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Ubuntu y sus cuatro días para olvidar",
-    "link": "https://mareosdeungeek.es/ubuntu-y-sus-cuatro-dias-para-olvidar/",
-    "fecha": "06/05/2026",
-    "contenido": "Canonical anunció la llegada de Ubuntu 26.04 LTS el pasado 23 de abril. La nueva versión, incluía una buena serie de actualizaciones, como la versión 7.0 del kernel. Además, controladores, versiones recientes de paquetes importantes, etcétera. Nada fuera de lo normal, pero otro peldaño más en un via"
   },
   {
     "blog": "pov – matizeta",
@@ -392,13 +392,6 @@
     "contenido": "Siempre me hizo gracia que en Shadowrun y Cyberpunk el ordenador no fuera invisible. Un deck no era una superficie lisa que te invitaba a tocar iconos bonitos. Era una herramienta. Pesaba, tenía puertos, cables, modificaciones, limitaciones. Era parte del personaje casi tanto como una chaqueta, una "
   },
   {
-    "blog": "Erica Fustero",
-    "titulo": "Algunas fotos de abril",
-    "link": "https://www.ericafustero.com/2026-05-algunas-fotos-de-abril",
-    "fecha": "05/05/2026",
-    "contenido": "A finales de marzo me apunté a un taller exprés de revelado y positivado en blanco y negro en La perversa. Hacía más de 20 años que no entraba a un laboratorio pero durante estas semanas he recuperado el tiempo perdido. Y, aunque me gusta más hacer fotos a color, me encanta hacer todo el [&#8230;]"
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Debate de las elecciones andaluzas en RTVE",
     "link": "https://www.xn--jmuoz-qta.es/2026/05/debate-de-las-elecciones-andaluzas-en.html",
@@ -420,25 +413,11 @@
     "contenido": "Quizá para muchos pasaron desapercibidos, pero Endless Sacrifice tiene una historia interesante para contar. Forjados...\nThe post La Banda De Brutal Death Metal Argentina Prepara Un Nuevo Disco | Endless Sacrifice No Se Rinde first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "He construido una aplicación para parar",
-    "link": "https://dani.torresburriel.com/mindful-journal-aplicacion-para-parar/",
-    "fecha": "05/05/2026",
-    "contenido": "Llevo un mes trabajando, a ratos sueltos, en un proyecto personal que no tiene ambición comercial. Se llama Mindful Journal y vive en mindful-journal.app. Es una aplicación para escribir, para pensar, para reflexionar, para darse tiempo y para cuidarse. A veces también para darse unos cuantos latiga"
-  },
-  {
     "blog": "Chancli.dev",
     "titulo": "#023 Chancli.dev está en Personalsit.es",
     "link": "https://chancli.dev/blog/chanclidev-en-personalsites.html",
     "fecha": "05/05/2026",
     "contenido": ""
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "Auto alojando Writefreely",
-    "link": "https://blog.jagedn.dev/blog/2026/writefreely.html",
-    "fecha": "05/05/2026",
-    "contenido": "Autoalojar una instancia de WriteFreely"
   },
   {
     "blog": "brucknerite",
@@ -483,25 +462,11 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Día de la Cruz de Coín",
-    "link": "https://mareosdeungeek.es/dia-de-la-cruz-de-coin/",
-    "fecha": "04/05/2026",
-    "contenido": "Mayo es el mes de las cruces y ayer estuve en Coín, donde se celebró el Día de la Cruz. El año pasado tocó Córdoba y en esta ocasión ha sido en el cercano Valle del Guadalhorce. De nuevo, una visita repetida a Monda y Coín, con la sorpresa del Día de la Cruz en [&#8230;]"
-  },
-  {
     "blog": "alt43",
     "titulo": "Tiendas de aplicaciones alternativas a Play Store",
     "link": "https://alt43.es/tiendas-de-aplicaciones-alternativas-a-play-store/",
     "fecha": "04/05/2026",
     "contenido": "Google Play Store es la tienda dominante en Android, pero ni es la única ni necesariamente la mejor para todo tipo de usuarios y circunstancias. Analizamos varias alternativas mucho más centradas en la privacidad y aplicaciones de código abierto."
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "PIS + Galerías Preciados",
-    "link": "https://galeriaspreciados.band/pis-galerias-preciados/",
-    "fecha": "04/05/2026",
-    "contenido": "Ahora que están de moda los homenajes y los revivals, el PIS y servidor nos vamos a hacer uno del Juvencat 2008 (ja ja!! chistaco hiperlocal) para celebrar que somos viejos pero aún nos sobran balas. Ahí te lo cuento."
   },
   {
     "blog": "ladoB – matizeta",
@@ -616,13 +581,6 @@
     "contenido": "Siempre es gratificante saber que el Metal sigue sonando en cada rincón de nuestra Latinoamérica,...\nThe post Asoma Un Nuevo Proyecto De Metal Sinfónico | Desde Ecuador Llega Paradox Messiah Con “No Tengo Miedo” first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Quienes enseñan sin cobrar por ello",
-    "link": "https://dani.torresburriel.com/curacion-contenidos-profesional-generosidad/",
-    "fecha": "04/05/2026",
-    "contenido": "Hay gente que lleva años haciendo algo que parece sencillo y no lo es: leer mucho, filtrar con criterio y compartir lo que merece la pena. Es una suerte de curación de contenidos profesional sin pedir nada a cambio. Son personas que, de un modo u otro, enseñan sin cobrar por ello. Llevo más de &#823"
-  },
-  {
     "blog": "DESDE UN BALCÓN DE MADRID",
     "titulo": "92 – Ubuntu 26.04: Una distribución excelente",
     "link": "https://empiezaen2023.wordpress.com/2026/05/04/92-ubuntu-26-04-una-distribucion-excelente/",
@@ -635,13 +593,6 @@
     "link": "https://elblogdelazaro.org/interaccion-mastodon-blog/",
     "fecha": "04/05/2026",
     "contenido": "Por: Carlos M.Publicado el 4 de mayo de 2026Por qué he añadido interacción con Mastodon para mostrar respuestas como comentarios en el blog sin usar un sistema tradicional.Continuar leyendo →#Mastodon #Fediverso #Blog "
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Listo para mayo, proyectos y reflexiones",
-    "link": "https://mareosdeungeek.es/listo-para-mayo-proyectos-y-reflexiones/",
-    "fecha": "03/05/2026",
-    "contenido": "Ya comenté que abril iba a ser un mes de transición con el colofón de la celebración de WordCamp Málaga 2026. Sinceramente, mereció la pena el evento y el trabajo realizado ese día. Aunque el mérito, además de todo el equipo, es principalmente, de Delia Carballo que se encargó de organizarlo todo. P"
   },
   {
     "blog": "Tecno y Soft",
@@ -693,24 +644,10 @@
     "contenido": ""
   },
   {
-    "blog": "note – matizeta",
-    "titulo": "Tengo mi libro de visitas",
-    "link": "https://matizeta.com/2026/05/02/tengo-mi-libro-de-visitas/",
-    "fecha": "02/05/2026",
-    "contenido": "Desde que creé el blog quería tener un libro de visitas, pero no sabía bien en que contexto ubicarlo. De manera silenciosa, tímida y de forma experimental, hace unos días agregué un blog/categoría llamado Textos Perdidos en donde publico lo que es un intento de poesías. Para dicha sección no quería "
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Software, Yentafo y el Rey de Tailandia",
     "link": "https://blog.danielaragay.net/software-yentafo-y-el-rey-de-tailandia/",
     "fecha": "02/05/2026",
     "contenido": "Hoy hablo del software que uso en mi d&#xed;a a d&#xed;a: edici&#xf3;n de v&#xed;deo, podcast, fotograf&#xed;a y m&#xe1;s. Tambi&#xe9;n te cuento c&#xf3;mo Chad cocin&#xf3; para la embajada tailandesa durante la visita del rey."
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Dichotomy Presenta \"Lucifer Owns The Fence\" | El Death Metal Que Nos Gusta",
-    "link": "https://www.delotroladometal.com.ar/2026/05/02/el-death-metal-que-nos-gusta/",
-    "fecha": "02/05/2026",
-    "contenido": "Alguna vez escuché a algún idiota decir que el Death Metal no tenía futuro, que...\nThe post Dichotomy Presenta \"Lucifer Owns The Fence\" | El Death Metal Que Nos Gusta first appeared on Del Otro Lado Metal."
   }
 ]
