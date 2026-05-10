@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Adrián Perales",
+    "titulo": "Insignias por la creación humana",
+    "link": "https://adrianperales.com/2026/05/insignias-por-la-creacion-humana/",
+    "fecha": "10/05/2026",
+    "contenido": "Desde que la IA generativa se ha popularizado, también han aparecido muchas imágenes para destacar que un trabajo creativo es obra de un humano. Dado que yo no paro quiero en la web, me he cruzado ya con unas cuentas. Esta entrada es una pequeña recopilación de estas insignias, ordenados por puro gu"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Por qué deberías usar CachyOS",
+    "link": "https://tecnoysoft.com/2026/05/10/por-que-deberias-usar-cachyos/",
+    "fecha": "10/05/2026",
+    "contenido": "El verdadero significado de “sacar el máximo rendimiento” a tu hardware: Cuando compras un procesador moderno, no estás pagando solo por más núcleos o más velocidad. También estás pagando por tecnologías e instrucciones avanzadas que permiten que el sistema haga las cosas más rápido, consuma menos r"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Karma: The Creation Of Chaos - Demo Collection 1991-1993 | El Sano Arte De La Arqueología Metálica",
+    "link": "https://www.delotroladometal.com.ar/2026/05/10/el-sano-arte-de-la-arqueologia-metalica/",
+    "fecha": "10/05/2026",
+    "contenido": "(2025 &#8211; Disembodied Records) La arqueología es un sano deporte cuando se trata de hacer...\nThe post Karma: The Creation Of Chaos - Demo Collection 1991-1993 | El Sano Arte De La Arqueología Metálica first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "10 de mayo de 2026",
+    "link": "https://dani.torresburriel.com/10-de-mayo-de-2026/",
+    "fecha": "10/05/2026",
+    "contenido": "Es difícil pasar un 10 de mayo, con todo lo que eso significa para quienes somos zaragocistas, siendo consciente de que el equipo que nos quita la vida, nos da alegrías y une a personas de muy diferente procedencia ideológica, va a bajar a una categoría no profesional de fútbol. 10 de mayo de 2026. "
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Cambio en la dirección de la junta de #openSUSE",
     "link": "https://victorhckinthefreeworld.com/2026/05/09/cambio-en-la-direccion-de-la-junta-de-opensuse/",
@@ -273,6 +301,13 @@
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Ubuntu y sus cuatro días para olvidar",
+    "link": "https://mareosdeungeek.es/ubuntu-y-sus-cuatro-dias-para-olvidar/",
+    "fecha": "06/05/2026",
+    "contenido": "Canonical anunció la llegada de Ubuntu 26.04 LTS el pasado 23 de abril. La nueva versión, incluía una buena serie de actualizaciones, como la versión 7.0 del kernel. Además, controladores, versiones recientes de paquetes importantes, etcétera. Nada fuera de lo normal, pero otro peldaño más en un via"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Tecnología tangible",
     "link": "https://matizeta.com/2026/05/06/tecnologia-tangible/",
@@ -455,6 +490,13 @@
     "contenido": "Llevo un mes trabajando, a ratos sueltos, en un proyecto personal que no tiene ambición comercial. Se llama Mindful Journal y vive en mindful-journal.app. Es una aplicación para escribir, para pensar, para reflexionar, para darse tiempo y para cuidarse. A veces también para darse unos cuantos latiga"
   },
   {
+    "blog": "Jorge Aguilera",
+    "titulo": "Auto alojando Writefreely",
+    "link": "https://blog.jagedn.dev/blog/2026/writefreely.html",
+    "fecha": "05/05/2026",
+    "contenido": "Autoalojar una instancia de WriteFreely"
+  },
+  {
     "blog": "brucknerite",
     "titulo": "El día que las estadísticas de este blog dejaron de tener sentido",
     "link": "https://brucknerite.net/2026/05/el-dia-que-las-estadisticas-de-este-blog-dejaron-de-tener-sentido.html",
@@ -495,6 +537,13 @@
     "link": "https://blog.luiscarlospando.com/personal/2026/05/quienes-saben-que-tengo-un-blog/",
     "fecha": "04/05/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Día de la Cruz de Coín",
+    "link": "https://mareosdeungeek.es/dia-de-la-cruz-de-coin/",
+    "fecha": "04/05/2026",
+    "contenido": "Mayo es el mes de las cruces y ayer estuve en Coín, donde se celebró el Día de la Cruz. El año pasado tocó Córdoba y en esta ocasión ha sido en el cercano Valle del Guadalhorce. De nuevo, una visita repetida a Monda y Coín, con la sorpresa del Día de la Cruz en [&#8230;]"
   },
   {
     "blog": "alt43",
@@ -644,20 +693,6 @@
     "contenido": "Por: Carlos M.Publicado el 4 de mayo de 2026Por qué he añadido interacción con Mastodon para mostrar respuestas como comentarios en el blog sin usar un sistema tradicional.Continuar leyendo →#Mastodon #Fediverso #Blog "
   },
   {
-    "blog": "Tecno y Soft",
-    "titulo": "ZRAM al 100% de la memoria, optimización avanzada en CachyOS",
-    "link": "https://tecnoysoft.com/2026/05/03/zram-al-100-de-la-memoria-optimizacion-avanzada-en-cachyos/",
-    "fecha": "03/05/2026",
-    "contenido": "¿Por qué CachyOS usa ZRAM del mismo tamaño que la RAM? CachyOS aplica una configuración que puede parecer exagerada a primera vista: asignar ZRAM con un tamaño equivalente al 100% de la memoria RAM física. Sin embargo, esta decisión tiene una base técnica sólida y está orientada a mejorar el rendimi"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Ping #23: Actualizaciones, novedades y ranking de distros",
-    "link": "https://voidnull.es/ping-23-actualizaciones-novedades-y-ranking-de-distros/",
-    "fecha": "03/05/2026",
-    "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Yerbabuena",
     "link": "https://www.xn--jmuoz-qta.es/2026/05/yerbabuena.html",
@@ -665,24 +700,10 @@
     "contenido": "\n  \n    \n  \nPrimeras hojas nuevas."
   },
   {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Mocos",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/mocos.html",
-    "fecha": "03/05/2026",
-    "contenido": "\n  \n    \n  \nQué distinta se ve la vida cuando estás resfriado, con alergia, con algo de destemplaza porque has cogido frío o por lo que coño sea que hace que tras haber pasado el otoño, el invierno, las lluvias torrenciales, haberme mojado de sobremanera y haber continuado sin secarme... ahora, con "
-  },
-  {
     "blog": "La Frikoteca",
     "titulo": "Dioses de los okosios (la tríada gobernante)",
     "link": "http://frikoteca.blogspot.com/2026/05/dioses-de-los-okosios-la-triada.html",
     "fecha": "03/05/2026",
     "contenido": "Hola, hola, no me puedo entretener mucho, estoy escribiendo sobre Aelios. Como sabéis, estoy probando la aventura La Serpiente Coristos para Mythras con mi grupo de juego, y aunque tengo la siguiente parte de la aventura ya preparada, voy ampliando cosas sobre la cultura en la que se desarrolla, sus"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "40th Anniversary: To Hell With The Devil | Un Saludo Para Los Muchachos De Stryper",
-    "link": "https://www.delotroladometal.com.ar/2026/05/03/un-saludo-para-los-muchachos-de-stryper/",
-    "fecha": "03/05/2026",
-    "contenido": "(2026 &#8211; Roxx Records) Entre tantos recordatorios, aniversarios y demás yerbas, hay uno que no...\nThe post 40th Anniversary: To Hell With The Devil | Un Saludo Para Los Muchachos De Stryper first appeared on Del Otro Lado Metal."
   }
 ]
