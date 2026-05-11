@@ -10,6 +10,15 @@
     "Sponsor": "si"
   },
   {
+    "Nombre": "Salva Más De Cerca",
+    "Url": "https://salvamir.github.io",
+    "Feed": "https://salvamir.github.io/index.xml#feed",
+    "Descripción": "Soy Salva, hijo de Dios, estudiante de Geología, fanático apasionado de la Música. Me gusta la tecnología y odio la tecnología, no se nada de programación. Creo cosas y analizo otras. Leo, escribo, aprendo, escucho, recibo, pienso. Esto es 100% humano.",
+    "Categoría": "Aire Libre, Arte y Diseño, Ciencia y Humanidades, Literario, Manualidades / Hobbies, Viajes, Vida Diaria",
+    "País": "Argentina"
+    "Sponsor": "si"
+  },
+  {
     "Nombre": "Desde un balcón de Madrid",
     "Url": "https://empiezaen2023.wordpress.com/",
     "Feed": "https://empiezaen2023.wordpress.com/feed/",
@@ -307,6 +316,14 @@
     "Categoría": "Tecnología, Sociedad y Economía",
     "País": "Colombia",
     "Sponsor": "si"
+  },
+  {
+    "Nombre": "Kernel Picnic!",
+    "Url": "https://yslasdas.bearblog.dev",
+    "Feed": "https://yslasdas.bearblog.dev/rss/",
+    "Descripción": "Esto es una amalgama de textos relacionados a mis intereses: principalmente videojuegos, diseño, ficciones de bajo presupuesto, pensamientos rancios, o cosas de la vida en terminos generales.",
+    "Categoría": "Arte y Diseño, Ciencia y Humanidades, Entretenimiento y Cultura, Tecnología, Vida Diaria",
+    "País": "Argentina"
   },
   {
     "Nombre": "Kernel Picnic!",
