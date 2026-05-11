@@ -318,6 +318,14 @@
     "Sponsor": "si"
   },
   {
+    "Nombre": "panic_error!",
+    "Url": "https://panicerror.org/blog/index.html",
+    "Feed": "https://panicerror.org/blog/atom.xml",
+    "Descripción": "Mi blog personal. Escribo sobre libros, pensamientos y opiniones, algo de programación, tecnología en general.",
+    "Categoría": "Ciencia y Humanidades, Literario, Manualidades / Hobbies, Tecnología",
+    "País": "España"
+  },
+  {
     "Nombre": "Kernel Picnic!",
     "Url": "https://yslasdas.bearblog.dev",
     "Feed": "https://yslasdas.bearblog.dev/rss/",
