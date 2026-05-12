@@ -1,10 +1,129 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Firefox no muestra los kanjis o caracteres japoneses (ni chinos ni koreanos) en Plasma",
+    "link": "https://victorhckinthefreeworld.com/2026/05/11/firefox-no-muestra-los-kanjis-o-caracteres-japoneses-ni-chinos-ni-koreanos-en-plasma/",
+    "fecha": "11/05/2026",
+    "contenido": "Cómo solucionar que Firefox muestre los caracteres en idioma japonés y también chinos y koreanos"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Los nueve niveles",
+    "link": "https://jinversor.co/2026/05/los-nueve-niveles/",
+    "fecha": "11/05/2026",
+    "contenido": "A mi viejo amigo «El gurre» le robaron una plata y me pidió el favor de investigar o conseguirle la persona que supuestamente le robó. Yo sabía que, de aceptar [&#8230;]\nLa entrada Los nueve niveles se publicó primero en Jinversor."
+  },
+  {
+    "blog": "plr blog",
+    "titulo": "Uno de los monitores del ordenador salta(ba) cuando se activa(ba) la nevera",
+    "link": "https://pedrolr.es/blog/uno-de-los-monitores-del-ordenador-saltaba-cuando-se-activaba-la-nevera/",
+    "fecha": "11/05/2026",
+    "contenido": "Uno de los monitores del ordenador saltaba cuando se activaba la nevera. Habló así en pasado pero porque espero que deje de pasar. Uso dos pantallas. Lo curioso es que me ha pasado en dos casas diferentes, con hasta 3 neveras diferentes (en la casa que estoy ahora se rompió y hubo que cambiarla hace"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Detener la descarga del modelo IA de Google Chrome en Windows",
+    "link": "https://mareosdeungeek.es/detener-la-descarga-del-modelo-ia-de-google-chrome-en-windows/",
+    "fecha": "11/05/2026",
+    "contenido": "Recientemente se ha descubierto que Google Chrome está descargando el modelo de IA Gemini Nano en ordenadores Windows. También lo he visto en macOS. La sorpresa, al encontrar el fichero en mi ordenador, no ha sido el tamaño, si no, la fecha de creación, ya que lleva ahí desde el pasado verano. En to"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Análisis de motores de búsqueda privados",
+    "link": "https://alt43.es/analisis-de-motores-de-busqueda-privados/",
+    "fecha": "11/05/2026",
+    "contenido": "Cualquier búsqueda en Google conlleva la cesión de innumerables datos personales. Hay varios buscadores alternativos y privados, cada uno con sus diferentes matices. Repasamos DuckDuckGo, Brave Search, Kagi, SearXNG, Startpage, Qwant y Mojeek. Sus resultados, nivel de privacidad y la importancia del"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Una intrenet viva",
+    "link": "https://matizeta.com/2026/05/11/una-intrenet-viva/",
+    "fecha": "11/05/2026",
+    "contenido": "Mucho se habla de la Internet muerta, una teoría que viene circulando desde el 2015 en donde el tráfico de bots son los que navegan las páginas y no los humanos. Donde son ellos quienes publican en las redes sociales privativas, y en donde según este informe, el 35% del contenido creado por Internet"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "550. Pese a quien a pese, seguimos vivos.",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/550-pese-quien-pese-seguimos-vivos.html",
+    "fecha": "11/05/2026",
+    "contenido": "&nbsp; &nbsp; Hubo un tiempo, no muy lejano, en el que nos señalabas, nos mirabas de reojo e incluso te burlabas. Pero siempre desde lejos y acompañado, no fuera a ser que nos diéramos cuenta y te pidiéramos explicaciones.&nbsp; &nbsp; Lo sé, lo sé... Quizá nosotros también fuimos algo culpables de "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Cómo instalar y configurar PixelFed en Debian 13",
+    "link": "https://voidnull.es/como-instalar-y-configurar-pixelfed-en-debian-13/",
+    "fecha": "11/05/2026",
+    "contenido": "Pixelfed es un sistema para compartir imágenes en forma de software libre, que utiliza el protocolo ActivityPub para federarse con el Fediverso, lanzado a mediados del mes de abril de 2018 por el desarrollador canadiense Daniel Supernault."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "CanalSur a negro",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/canalsur-negro.html",
+    "fecha": "11/05/2026",
+    "contenido": "Vuelve a repetirse la historia de hace cuatro años en plena campaña electoral en CanalSur: algunos sindicatos convocan huelga coincidiendo casi casi con las elecciones autonómicas. No es casual, evidentemente, es deliberado como medida de presión contra la Junta de Andalucía para que ceda a las pret"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Días de frío primaverales",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/dias-de-frio-primaverales.html",
+    "fecha": "11/05/2026",
+    "contenido": "\n  \n    \n  \nNos adentrarse en mayo... y sigue haciendo frío. Todo el mundo a mi alrededor está deseando que haga calor, que salga un poco de sol para que les dé como a los caracoles en el campo, estar en manga corta, locuras mediante como salir de casa temprano con 10 °C sin ningún tipo de abrigo.Mi"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Todos con miedo al Hantavirus menos nosotros",
+    "link": "https://www.fabio.com.ar/9938-todos-con-miedo-al-hantavirus-menos-nosotros",
+    "fecha": "11/05/2026",
+    "contenido": "    \nDe todas las cepas de virus creo que el Hantavirus es una de las que m&aacute;s preocupaci&oacute;n da por el nombre y menos por sus efectos virales.\nVivimos con ese virus en este pa&iacute;s (hasta un conocido m&iacute;o muri&oacute; por esa enfermedad), sin embargo vivimos sin pensar en &eacu"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Banda Chilena De Death Metal Prepara Su Primer EP | Sempiternus Estrena Material",
+    "link": "https://www.delotroladometal.com.ar/2026/05/11/sempiternus-estrena-material/",
+    "fecha": "11/05/2026",
+    "contenido": "Ya les habíamos hablado de ellos en su momento, y también contado su historia, pero...\nThe post La Banda Chilena De Death Metal Prepara Su Primer EP | Sempiternus Estrena Material first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Hoy es un día singular",
+    "link": "https://javiersam.uy/2026/05/hoy-es-un-dia-singular.html",
+    "fecha": "11/05/2026",
+    "contenido": "Hoy es el día del estreno mundial de Singularity, la más reciente de las open-movies del Blender Studio. La “Premiere party” es a las 12:00 hs de Uruguay:"
+  },
+  {
+    "blog": "Jorge Aguilera",
+    "titulo": "K3s Networking: Solving the Source IP SNAT Issue",
+    "link": "https://blog.jagedn.dev/blog/2026/k3s-real-ip.html",
+    "fecha": "11/05/2026",
+    "contenido": "Obtaining the remote IP in a cluster with K3s y Traefik"
+  },
+  {
+    "blog": "DESDE UN BALCÓN DE MADRID",
+    "titulo": "93 – ¡Blog!¡Blog!",
+    "link": "https://empiezaen2023.wordpress.com/2026/05/11/93-blogblog/",
+    "fecha": "11/05/2026",
+    "contenido": "En esta ocasión quiero hacerme eco de un directorio de blogs al que me he unido, y cuya iniciativa me ha encantado. Se trata de ¡Blog!¡Blog!, un directorio de blogs en español creado por Matizeta, en el que se recopilan un gran número de blogs en español. Actualmente se superan los 150 blogs indexad"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "📨 Libro De Visitas",
+    "link": "https://salvamir.github.io/libro-de-visitas",
+    "fecha": "11/05/2026",
+    "contenido": "Gracias por cruzarte, dejá tu huella: También, podés mandarme un mail si querés conversar. 🌐 Links Te dejo otros lugares interesantes para ver."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌳 Sobre el deporte como medio de santidad.",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B3-Sobre-el-deporte-como-medio-de-santidad.",
+    "fecha": "11/05/2026",
+    "contenido": "“El deporte es un don divino que perfecciona la unidad del hombre: fortalece el cuerpo, esclarece la mente y templa la voluntad."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Insignias por la creación humana",
     "link": "https://adrianperales.com/2026/05/insignias-por-la-creacion-humana/",
     "fecha": "10/05/2026",
-    "contenido": "Desde que la IA generativa se ha popularizado, también han aparecido muchas imágenes para destacar que un trabajo creativo es obra de un humano. Dado que yo no paro quiero en la web, me he cruzado ya con unas cuentas. Esta entrada es una pequeña recopilación de estas insignias, ordenados por puro gu"
+    "contenido": "Desde que la IA generativa se ha popularizado, también han aparecido muchas imágenes para destacar que un trabajo creativo es obra de un humano. Dado que yo no paro quieto en la web, me he cruzado ya con unas cuantas. Esta entrada es una pequeña recopilación de estas insignias, ordenados por puro gu"
   },
   {
     "blog": "THE_CHEI$",
@@ -61,6 +180,48 @@
     "link": "https://dani.torresburriel.com/10-de-mayo-de-2026/",
     "fecha": "10/05/2026",
     "contenido": "Es difícil pasar un 10 de mayo, con todo lo que eso significa para quienes somos zaragocistas, siendo consciente de que el equipo que nos quita la vida, nos da alegrías y une a personas de muy diferente procedencia ideológica, va a bajar a una categoría no profesional de fútbol. 10 de mayo de 2026. "
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Bienvenidos!",
+    "link": "https://salvamir.github.io/",
+    "fecha": "10/05/2026",
+    "contenido": "Acá tengo archivados distintos detalles de mi vida. Quizás les interese."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌷 Dejar que a los otros les vaya bien y alegrarse con ellos.",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B7-Dejar-que-a-los-otros-les-vaya-bien-y-alegrarse-con-ellos.",
+    "fecha": "10/05/2026",
+    "contenido": "A veces me cuesta un poco la envidia. Quizás porque soy muy autocompasivo y me enfoco demasiado en lo mucho que me cuestan las cosas."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🪁 El Jardín Digital",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
+    "fecha": "10/05/2026",
+    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "📖 Notas",
+    "link": "https://salvamir.github.io/Notas/",
+    "fecha": "10/05/2026",
+    "contenido": "Pequeñas actualizaciones casi anecdóticas de lo que voy viviendo día a día."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "📅 Ahora",
+    "link": "https://salvamir.github.io/ahora",
+    "fecha": "10/05/2026",
+    "contenido": "Acá archivo lo que vengo viviendo. Cumple Draculín 20 años."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Sencillez",
+    "link": "https://salvamir.github.io/Notas/Sencillez",
+    "fecha": "10/05/2026",
+    "contenido": "Hace unos días me propuse regalarle mi nuevo celular a mi hermano para quedarme con mi viejo celular."
   },
   {
     "blog": "Victorhck in the free world",
@@ -434,18 +595,18 @@
     "contenido": "(2024 &#8211; Old Skull Records) Siempre es bienvenido el material que vuelve a ser puesto...\nThe post Parakletos: Offerlammets Makt (Remastered Edition) | Poniendo En Valor Un Viejo Álbum first appeared on Del Otro Lado Metal."
   },
   {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Aprendiendo a manejar la frustración.",
+    "link": "https://salvamir.github.io/Notas/Aprendiendo-a-manejar-la-frustraci%C3%B3n.",
+    "fecha": "06/05/2026",
+    "contenido": "Estoy frustrado. No por algo específico sino en general."
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Acceder a cockpit de openSUSE desde otro equipo remoto",
     "link": "https://victorhckinthefreeworld.com/2026/05/05/acceder-a-cockpit-de-opensuse-desde-otro-equipo-remoto/",
     "fecha": "05/05/2026",
     "contenido": "Veamos cómo podemos acceder al centro de control Cockpit en openSUSE desde otro equipo"
-  },
-  {
-    "blog": "Blog de Thalskarth",
-    "titulo": "Odio mudarme",
-    "link": "https://blog.thalskarth.ar/No-me-gusta-mudarme/",
-    "fecha": "05/05/2026",
-    "contenido": "En marzó me mudé y, realmente puedo confirmar que odio mudarme. Es un dolor. Y no hablo solo del día en sí, mover cajas, coordinar flete, etc."
   },
   {
     "blog": "Mi blog on Manu Mateos",
@@ -523,208 +684,5 @@
     "link": "https://dani.torresburriel.com/mindful-journal-aplicacion-para-parar/",
     "fecha": "05/05/2026",
     "contenido": "Llevo un mes trabajando, a ratos sueltos, en un proyecto personal que no tiene ambición comercial. Se llama Mindful Journal y vive en mindful-journal.app. Es una aplicación para escribir, para pensar, para reflexionar, para darse tiempo y para cuidarse. A veces también para darse unos cuantos latiga"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "#023 Chancli.dev está en Personalsit.es",
-    "link": "https://chancli.dev/blog/chanclidev-en-personalsites.html",
-    "fecha": "05/05/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "Auto alojando Writefreely",
-    "link": "https://blog.jagedn.dev/blog/2026/writefreely.html",
-    "fecha": "05/05/2026",
-    "contenido": "Autoalojar una instancia de WriteFreely"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "El día que las estadísticas de este blog dejaron de tener sentido",
-    "link": "https://brucknerite.net/2026/05/el-dia-que-las-estadisticas-de-este-blog-dejaron-de-tener-sentido.html",
-    "fecha": "04/05/2026",
-    "contenido": "Aunque nunca quise darle importancia, este blog ha tenido estadísticas casi siempre. Pero un día, hace no muchos meses, se volvieron locas. Ya no puedo saber si leéis o no, más allá de lo que veo compartirse por Mastodón. ¿Qué ha podido pasar?"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Gestionar software y repositorios en #openSUSE mediante cockpit",
-    "link": "https://victorhckinthefreeworld.com/2026/05/04/gestionar-software-y-repositorios-en-opensuse-mediante-cockpit/",
-    "fecha": "04/05/2026",
-    "contenido": "Cockpit es la aplicación web que viene en openSUSE a reemplazar al veterano YaST. Veamos cómo gestionar los repositorios o instalar/desinstalar software con esta nueva herramienta."
-  },
-  {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "La falacia de la abstracción (I): el hacedor de mapas",
-    "link": "https://vonneumannmachine.wordpress.com/2026/05/04/la-falacia-de-la-abstraccion-i-el-hacedor-de-mapas/",
-    "fecha": "04/05/2026",
-    "contenido": "&#160; El 19 de marzo el ingeniero de Google DeepMind, Alexander Lerchner, publicó un artículo que bien podría haber sido una entrada en este blog, porque viene a sostener una serie de ideas que venimos defendiendo en La Máquina de Von Neumann desde hace muchos años ya. Así que, siguiendo esta tende"
-  },
-  {
-    "blog": "Un bruto con Debian",
-    "titulo": "Guarda datos encriptados y accedelos como si tal cosa",
-    "link": "http://unbrutocondebian.blogspot.com/2026/05/guarda-datos-encriptados-y-accedelos.html",
-    "fecha": "04/05/2026",
-    "contenido": "Hoy toca guardar secretos. Básicamente lo que vamos ha hacer es crear una carpeta para tener a mano algún tipo de datos “sensibles” y que podamos acceder a ella como si tal cosa, pero que cuando ya no la necesitemos, desaparezca del mapa y solo quede una carpeta con datos encriptados de la máxima se"
-  },
-  {
-    "blog": "Proyecto para no aburrir",
-    "titulo": "Hay trenes que sólo pasan una vez en la vida. Mientras, el carnet joven va por vía circular",
-    "link": "https://ericdq.com/2026/05/04/trenes-pasan-vida-mientras-carnet-joven-via-circular/",
-    "fecha": "04/05/2026",
-    "contenido": "El sistema le ha dado y quitado a mi generación (de los 90) hasta cinco veces el carnet joven por ampliaciones sucesivas de los rangos de edad."
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "¿Quiénes saben que tengo un blog?",
-    "link": "https://blog.luiscarlospando.com/personal/2026/05/quienes-saben-que-tengo-un-blog/",
-    "fecha": "04/05/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Día de la Cruz de Coín",
-    "link": "https://mareosdeungeek.es/dia-de-la-cruz-de-coin/",
-    "fecha": "04/05/2026",
-    "contenido": "Mayo es el mes de las cruces y ayer estuve en Coín, donde se celebró el Día de la Cruz. El año pasado tocó Córdoba y en esta ocasión ha sido en el cercano Valle del Guadalhorce. De nuevo, una visita repetida a Monda y Coín, con la sorpresa del Día de la Cruz en [&#8230;]"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Tiendas de aplicaciones alternativas a Play Store",
-    "link": "https://alt43.es/tiendas-de-aplicaciones-alternativas-a-play-store/",
-    "fecha": "04/05/2026",
-    "contenido": "Google Play Store es la tienda dominante en Android, pero ni es la única ni necesariamente la mejor para todo tipo de usuarios y circunstancias. Analizamos varias alternativas mucho más centradas en la privacidad y aplicaciones de código abierto."
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "PIS + Galerías Preciados",
-    "link": "https://galeriaspreciados.band/pis-galerias-preciados/",
-    "fecha": "04/05/2026",
-    "contenido": "Ahora que están de moda los homenajes y los revivals, el PIS y servidor nos vamos a hacer uno del Juvencat 2008 (ja ja!! chistaco hiperlocal) para celebrar que somos viejos pero aún nos sobran balas. Ahí te lo cuento."
-  },
-  {
-    "blog": "ladoB – matizeta",
-    "titulo": "El  aguafiestas",
-    "link": "https://matizeta.com/2026/05/04/el-aguafiestas/",
-    "fecha": "04/05/2026",
-    "contenido": "Ayer preguntaba en Mastodon, si en otros países (fuera de Argentina), el Día del Trabajador se lo solía saludar a uno con un “Feliz día”. Una usuaria que en su perfil se auto-describía como “feminista antifascista, anticolonialista y cooperativista” me señalaba básicamente que jamás le podría decir "
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "548. Nimios contratiempos de un occidental acomodado",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/548-nimios-contratiempos-de-un.html",
-    "fecha": "04/05/2026",
-    "contenido": "&nbsp; &nbsp; La melódica alarma del móvil me arrancó de mi sueño tranquilo a las cinco de la mañana de mi día de fiesta, lo que significó que olvidé desconectarla. Acto seguido estuve a punto de estrellarlo contra el suelo, pero no lo hice. Después intenté reconectar con el sueño, pero no lo conseg"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El fin de una idea de Suecia: lo que la nueva ley de ciudadanía dice de verdad",
-    "link": "https://blog.danielaragay.net/el-fin-de-una-idea-de-suecia-lo-que-la-nueva-ley-de-ciudadania-dice-de-verdad/",
-    "fecha": "04/05/2026",
-    "contenido": "A partir del 6 de junio de 2026 cambian las reglas. No de cualquier manera: cambian de filosof&#xed;a. Esto es lo que importa, lo que conviene saber, y lo que opino al respecto.Si me sigues en YouTube, ya habr&#xe1;s visto el episodio donde hablo de"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Lo que el fundador sabía y yo tardé tres años en entender",
-    "link": "https://blog.danielaragay.net/lo-que-el-fundador-sabia-y-yo-tarde-tres-anos-en-entender/",
-    "fecha": "04/05/2026",
-    "contenido": "Sobre empresas, m&#xe1;quinas, y el momento en que alguien pierde su hijo.Septiembre de 2022. Llevaba ocho a&#xf1;os trabajando en Quickchannel, una empresa sueca de streaming de v&#xed;deo que hab&#xed;an fundado una pareja &#x2014;&#xe9;l y ella&#x2014; desde cero. Esa"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "El mito personal",
-    "link": "https://impermanente.es/2026/05/04/el-mito-personal.html",
-    "fecha": "04/05/2026",
-    "contenido": "Hace unos días leí un artículo en Existential Espresso sobre la necesidad de tener un mito personal en la era de la IA. La frase de partida era buena: “I can focus for 12 hours per day because I’m living my myth”. Entiendo por qué circuló tanto, porque en una época obsesionada con la productividad s"
-  },
-  {
-    "blog": "Redes nuestras",
-    "titulo": "Presentaciones de ‘Internet’ y otras pistas",
-    "link": "https://redesnuestras.net/2026/05/04/presentaciones-de-internet-y-otras-pistas/",
-    "fecha": "04/05/2026",
-    "contenido": "Esto va ser breve. Solo paso por aquí a contar que vamos a presentar el nuevo libro en varias ciudades. Con gente guapísima y en librerías chulísimas: Se llama Internet porque ante todo queremos dejar claro que lo digital es mucho más que un puñado de plataformas de redes sociales tóxicas. El subtít"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Newsletter #48 - Llega la gran esperada Ubuntu 26.04",
-    "link": "https://voidnull.es/newsletter/newsletter-48-llega-la-gran-esperada-ubuntu-26-04/",
-    "fecha": "04/05/2026",
-    "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "El Emperador",
-    "link": "https://jmlro.codeberg.page/posts/2026/05-04-el-emperador.html",
-    "fecha": "04/05/2026",
-    "contenido": "Lleva cinco años con nosotros. Como buen adoptado tiene una edad indeterminada de unos diez años. Ahora con los niños, el Emperador, como yo lo llamo, tiene un reinado dormilón. Se aleja de los problemas que los pequeños le pueden ocasionar y aunque su pasado joven fue menos agitado no tengo claro q"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Geranios",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/geranios.html",
-    "fecha": "04/05/2026",
-    "contenido": "\n  \n    \n  \nContinúo embelleciento mi balcón con lo más típico de las flores cordobesas de este mes de mayo: geranios. Flores muy vistosas que, además, resisten muy bien la calor del verano de esta ciudad."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Pichones",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/pichones.html",
-    "fecha": "04/05/2026",
-    "contenido": "Huevos que dentro de nada se convertirán en pichones."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Premoniciones",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/premoniciones.html",
-    "fecha": "04/05/2026",
-    "contenido": "\n  \n    \n  \nUno de los primeros sueños que he tenido esta pasada noche es que estaba trabajando a quince minutos en coche de casa. Maravilla. He sido muy feliz en ese sueño hasta que la radio me ha despertado con unos aplausos. Y lo más extraño de todo es que era consciente de que era un sueño, pero"
-  },
-  {
-    "blog": "",
-    "titulo": "Festejos y misa de San Patricio en el Colegio Santa Brigida de Buenos Aires.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/05/04/festejos-y-misa-de-san-patricio-en-el-colegio-santa-brigida-de-buenos-aires/",
-    "fecha": "04/05/2026",
-    "contenido": "Como todos los años en el colegio Santa Brigida de la Ciudad de Buenos Aires se realizo la misa de San Patricio, este año se hizo el martes 17 de marzo en la capilla del colegio, luego de la misa se hizo el festejo en el salón del colegio, en el salón se monto un &#8230; Sigue leyendo Festejos y mis"
-  },
-  {
-    "blog": "56K",
-    "titulo": "OCR de toda la vida en Linux a golpe de click",
-    "link": "https://56k.es/fanta/ocr-de-toda-la-vida-en-linux-a-golpe-de-click/",
-    "fecha": "04/05/2026",
-    "contenido": "En Linux para procesar el texto que tenga una foto se puede usar OCR de toda la vida: # apt install gimagereader # apt install tesseract-ocr-all Por ejemplo el alt text de esta foto es: elperiòdic PACMA denuncia más de 110.000 euros públicos al año en los Bous a la Mar de Dénia y habla..."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Cuando esos iconos dejaron de tener sentido",
-    "link": "https://56k.es/fanta/cuando-esos-iconos-dejaron-de-tener-sentido/",
-    "fecha": "04/05/2026",
-    "contenido": "Los disquetes actualmente no se utilizan como medio de almacenamiento a nivel general. Puede que alguien los utilice en ordenadores Amiga u otros pero generalmente es algo que podemos decir que no se utiliza ya. No obstante el icono de guardar un documento en los procesadores de textos y otro tipo d"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "El tiempo le llegó a los diarios de papel",
-    "link": "https://www.fabio.com.ar/9933-el-tiempo-le-llego-a-los-diarios-de-papel",
-    "fecha": "04/05/2026",
-    "contenido": "    \nEs hora de que desaparezcan, no lo digo porque tenga algo contra ellos, no es un deseo, es un hecho, una realidad, no sabemos por qu&eacute; todav&iacute;a existen.\nLa semana pasada mientras unos festejaban que un antiguo puesto de diarios se hab&iacute;a transformado en un caf&eacute; al paso,"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Asoma Un Nuevo Proyecto De Metal Sinfónico | Desde Ecuador Llega Paradox Messiah Con “No Tengo Miedo”",
-    "link": "https://www.delotroladometal.com.ar/2026/05/04/desde-ecuador-llega-paradox-messiah-con-no-tengo-miedo/",
-    "fecha": "04/05/2026",
-    "contenido": "Siempre es gratificante saber que el Metal sigue sonando en cada rincón de nuestra Latinoamérica,...\nThe post Asoma Un Nuevo Proyecto De Metal Sinfónico | Desde Ecuador Llega Paradox Messiah Con “No Tengo Miedo” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Quienes enseñan sin cobrar por ello",
-    "link": "https://dani.torresburriel.com/curacion-contenidos-profesional-generosidad/",
-    "fecha": "04/05/2026",
-    "contenido": "Hay gente que lleva años haciendo algo que parece sencillo y no lo es: leer mucho, filtrar con criterio y compartir lo que merece la pena. Es una suerte de curación de contenidos profesional sin pedir nada a cambio. Son personas que, de un modo u otro, enseñan sin cobrar por ello. Llevo más de &#823"
-  },
-  {
-    "blog": "DESDE UN BALCÓN DE MADRID",
-    "titulo": "92 – Ubuntu 26.04: Una distribución excelente",
-    "link": "https://empiezaen2023.wordpress.com/2026/05/04/92-ubuntu-26-04-una-distribucion-excelente/",
-    "fecha": "04/05/2026",
-    "contenido": "Como ya he dejado entrever en alguna ocasión, tengo preferencia por las distribuciones basadas en Debian desde hace más de dos décadas.Aunque mis comienzos y primeros años los pasé con Mandrake, tras su pérdida de protagonismo pasé brevemente por las primeras versiones de Fedora hasta recaer en Ubun"
   }
 ]
