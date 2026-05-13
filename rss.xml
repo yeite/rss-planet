@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 13 May 2026 02:05:52 GMT</lastBuildDate>
+<lastBuildDate>Wed, 13 May 2026 08:32:50 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Chrome descarga el modelo de lenguaje Gemini-nano sin consentimiento</title>
+<link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/13/20260513-chrome-descarga-nano-sin-consentimiento/</link>
+<guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/13/20260513-chrome-descarga-nano-sin-consentimiento/</guid>
+<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
+<category>ENTRE DRAGONES Y PINGÜINOS</category>
+<description><![CDATA[El lanzamiento unilateral a producción por parte de Google de un estándar web no consensuado genera problemas de privacidad, seguridad y legales<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+</item>
 <item>
 <title>La pesadilla de la M-70</title>
 <link>https://brucknerite.net/2026/05/la-pesadilla-de-la-m-70.html</link>
@@ -34,12 +42,12 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Al buscar un texto en Firefox mediante Ctrl+F si no encuentra el texto buscado, Firefox reproduce un sonido bastante desagradable. Vamos a modificar eso para que reproduzca uno de nuestro sistema<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
 </item>
 <item>
-<title>El Bronx de Bogotá</title>
-<link>https://jinversor.co/2026/05/el-bronx-de-bogota/</link>
-<guid isPermaLink="true">https://jinversor.co/2026/05/el-bronx-de-bogota/</guid>
+<title>La IA es el diablo</title>
+<link>https://webnauta.blog/p/la-ia-es-el-diablo/</link>
+<guid isPermaLink="true">https://webnauta.blog/p/la-ia-es-el-diablo/</guid>
 <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
-<category>Jinversor</category>
-<description><![CDATA[No profundizaré en las razones por las cuales conocí El Bronx de Bogotá. Basta decir que lo conocí una noche de mayo del lejano año 2006, dos décadas que se [&amp;#8230;] La entrada El Bronx de Bogotá se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
+<category>Webnauta ⁂</category>
+<description><![CDATA[Doceavo día de mayo, sí que vuela el tiempo. La Semana Santa y el fin de semana extendido por el Día Internacional de los Trabajadores terminaron en un parpadeo. Ojalá mi percepción del tiempo fuera como cuando miro Ben-Hur de Charlton Heston durante la semana mayor; esa película dura una eternidad:<br><br><strong>Fuente:</strong> Webnauta ⁂]]></description>
 </item>
 <item>
 <title>&quot;Un hogar en Internet que se desmorona como tiza&quot;</title>
@@ -98,12 +106,28 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[&amp;iquest;Qu&amp;eacute; significa este t&amp;iacute;tulo? Pues bien, ya en alg&amp;uacute;n momento he escrito sobre el caso de alg&amp;uacute;n ingeniero que se hab&amp;iacute;a ca&amp;iacute;do en el pozo de una AI, es decir, se hab&amp;iacute;a cre&amp;iacute;do que era un ser conciente. Se han dado casos terribles con cr&amp;i<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
 </item>
 <item>
+<title>Scripts para actualizar Navidrome</title>
+<link>https://picandocodigo.net/2026/scripts-para-actualizar-navidrome/</link>
+<guid isPermaLink="true">https://picandocodigo.net/2026/scripts-para-actualizar-navidrome/</guid>
+<pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
+<category>Picando Código</category>
+<description><![CDATA[Una de las responsabilidades de gestionar mi propio servidor personal de streaming de música Navidrome, es el mantenimiento.&amp;#160;Siguiendo la línea de Scripts de mantenimiento para FreshRSS, comparto mis scripts para actualizar Navidrome. Al igual que con FreshRSS, estoy suscripto al feed de lanzam<br><br><strong>Fuente:</strong> Picando Código]]></description>
+</item>
+<item>
 <title>&quot;Anthology&quot; Rescata Sus Viejos Demos | Sentry Tiene Su Revancha</title>
 <link>https://www.delotroladometal.com.ar/2026/05/12/sentry-tiene-su-revancha/</link>
 <guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/05/12/sentry-tiene-su-revancha/</guid>
 <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
 <category>Del Otro Lado Metal</category>
 <description><![CDATA[Si hay algo que nos gusta y bancamos de Roxx Records es esa idea de... The post &quot;Anthology&quot; Rescata Sus Viejos Demos | Sentry Tiene Su Revancha first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Frodo Baggins</title>
+<link>https://yslasdas.bearblog.dev/frodo-baggins/</link>
+<guid isPermaLink="true">https://yslasdas.bearblog.dev/frodo-baggins/</guid>
+<pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
+<category>Kernel Picnic!</category>
+<description><![CDATA[Hace bastante que quería volver a ilustrar, dibujar, diseñar, lo que sea, hacer algo manual. Como nuevo-fan del Señor de los Anillos, hice mi pequeño aporte, un Frodo en mi estilo. Próximamente en NFT... Responder vía Email.<br><br><strong>Fuente:</strong> Kernel Picnic!]]></description>
 </item>
 <item>
 <title>Firefox no muestra los kanjis o caracteres japoneses (ni chinos ni koreanos) en Plasma</title>
@@ -119,7 +143,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <guid isPermaLink="true">https://jinversor.co/2026/05/los-nueve-niveles/</guid>
 <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
 <category>Jinversor</category>
-<description><![CDATA[A mi viejo amigo «El gurre» le robaron una plata y me pidió el favor de investigar o conseguirle la persona que supuestamente le robó. Yo sabía que, de aceptar [&amp;#8230;] La entrada Los nueve niveles se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
+<description><![CDATA[A mi viejo amigo «El Gurre» le robaron una plata y me pidió el favor de investigar o conseguirle la persona que supuestamente le robó. Yo sabía que, de aceptar [&amp;#8230;] La entrada Los nueve niveles se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
 </item>
 <item>
 <title>Uno de los monitores del ordenador salta(ba) cuando se activa(ba) la nevera</title>
@@ -154,7 +178,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Mucho se habla de la Internet muerta, una teoría que viene circulando desde el 2015 en donde el tráfico de bots son los que navegan las páginas y no los humanos. Donde son ellos quienes publican en las redes sociales privativas, y en donde según este informe, el 35% del contenido creado por Internet<br><br><strong>Fuente:</strong> pov – matizeta]]></description>
 </item>
 <item>
-<title>550. Pese a quien a pese, seguimos vivos.</title>
+<title>550. Pese a quien pese, seguimos vivos.</title>
 <link>https://lamadredelpatonegro.blogspot.com/2026/05/550-pese-quien-pese-seguimos-vivos.html</link>
 <guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/05/550-pese-quien-pese-seguimos-vivos.html</guid>
 <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
@@ -192,30 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
 <category>Fabio.com.ar</category>
 <description><![CDATA[De todas las cepas de virus creo que el Hantavirus es una de las que m&amp;aacute;s preocupaci&amp;oacute;n da por el nombre y menos por sus efectos virales. Vivimos con ese virus en este pa&amp;iacute;s (hasta un conocido m&amp;iacute;o muri&amp;oacute; por esa enfermedad), sin embargo vivimos sin pensar en &amp;eacu<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>La Banda Chilena De Death Metal Prepara Su Primer EP | Sempiternus Estrena Material</title>
-<link>https://www.delotroladometal.com.ar/2026/05/11/sempiternus-estrena-material/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/05/11/sempiternus-estrena-material/</guid>
-<pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Ya les habíamos hablado de ellos en su momento, y también contado su historia, pero... The post La Banda Chilena De Death Metal Prepara Su Primer EP | Sempiternus Estrena Material first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Hoy es un día singular</title>
-<link>https://javiersam.uy/2026/05/hoy-es-un-dia-singular.html</link>
-<guid isPermaLink="true">https://javiersam.uy/2026/05/hoy-es-un-dia-singular.html</guid>
-<pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-<category>JavierSam</category>
-<description><![CDATA[Hoy fue el estreno mundial de Singularity, la más reciente de las open-movies del Blender Studio. En la Premiere party (algo así como “fiesta de estreno”) Andy Goralczyk, el escritor y director de Singularity, contó algo sobre el proceso de creación que insumió como un año y medio y que partió de lo<br><br><strong>Fuente:</strong> JavierSam]]></description>
-</item>
-<item>
-<title>K3s Networking: Solving the Source IP SNAT Issue</title>
-<link>https://blog.jagedn.dev/blog/2026/k3s-real-ip.html</link>
-<guid isPermaLink="true">https://blog.jagedn.dev/blog/2026/k3s-real-ip.html</guid>
-<pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-<category>Jorge Aguilera</category>
-<description><![CDATA[Obtaining the remote IP in a cluster with K3s y Traefik<br><br><strong>Fuente:</strong> Jorge Aguilera]]></description>
 </item>
 
 </channel>
