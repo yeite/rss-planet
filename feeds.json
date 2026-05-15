@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Crear una imagen para una microSD a partir de los archivos y directorios que hay en una ruta de directorio",
+    "link": "https://malagaoriginal.blogspot.com/2026/05/crear-una-imagen-para-una-microsd.html",
+    "fecha": "15/05/2026",
+    "contenido": "Supongamos que queremos crear una imagen para distribuir entre dispositivos que consiste en un conjunto de archivos y directorios contenidos en un archivo ZIP que hay que volcar en una microSD con formato FAT32, por ejemplo para usar algún desarrollo baremetal para algún dispositivo ARM, real o emul"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "El Bronx de Bogotá",
+    "link": "https://jinversor.co/2026/05/el-bronx-de-bogota/",
+    "fecha": "15/05/2026",
+    "contenido": "No profundizaré en las razones por las cuales siento una gran fascinación histórica por el extinto Bronx de Bogotá. Basta decir que lo conocí una noche de mayo del lejano [&#8230;]\nLa entrada El Bronx de Bogotá se publicó primero en Jinversor."
+  },
+  {
+    "blog": "textosperdidos – matizeta",
+    "titulo": "Mi Musa",
+    "link": "https://matizeta.com/2026/05/15/mi-musa/",
+    "fecha": "15/05/2026",
+    "contenido": "Recuerdo las noches de desveloque me sentaba a escribir. Una voz me recitaba al oídopalabras que volcaba en el papel,yo solo era un médiumde esa musa. Con una rapidez inusuallas palabras caían una tras otra en el papel. Pasó una década de aquel encuentro de madrugadas. Mi musa ya no está aquí¿adonde"
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "Los caprichos del agua",
+    "link": "http://locutusbit.blogspot.com/2026/05/los-caprichos-del-agua.html",
+    "fecha": "15/05/2026",
+    "contenido": "&nbsp;Tratar de darle nombre a la forma, aquella forma,aquel juego de luces que aparece y desaparece,que confunde los colores y los hace fluir, desesperados,en busca de un cauce, de un abanico de posibilidadesque entrelace naciente y desembocadura,oscuridad abisal y naufragio en la orilla,que, en un"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "551. Atrapado en la tormenta",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/05/551-atrapado-en-la-tormenta.html",
@@ -7,11 +35,53 @@
     "contenido": "&nbsp; &nbsp; Hubo una tarde de un día inopinado en la que yo conducía en dirección a casa de mis padres. Desde mi punto de salida y con el tráfico habitual, los quince kilómetros a cubrir suponían un cuarto de hora de conducción, siempre y cuando no surgiera algún contratiempo.&nbsp;&nbsp; &nbsp; L"
   },
   {
+    "blog": "_ voidNull",
+    "titulo": "Gestión de redes #12",
+    "link": "https://voidnull.es/gestion-de-redes/",
+    "fecha": "15/05/2026",
+    "contenido": "Aprende cómo funcionan las redes en Docker, los diferentes tipos disponibles y cómo se comunican los contenedores entre sí utilizando DNS interno, aislamiento de redes y exposición de puertos."
+  },
+  {
     "blog": "La línea doméstica",
     "titulo": "Origenes",
     "link": "https://jmlro.codeberg.page/posts/2026/05-15-origenes.html",
     "fecha": "15/05/2026",
     "contenido": "Desde que vivo en Madrid, voy conociendo gente que con el tiempo se sorprende, o eso dicen, de que provenga de Valencia. No me ven ninguno de los artibutos/clichés con los que se asocia a los valencianos y además no hablo valenciano ni tampoco sé hacer paellas. Touché. Aún así mi suegra me sigue bus"
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Los proyectos que me llaman (y los que me repelen) a mediados de 2026",
+    "link": "http://frikoteca.blogspot.com/2026/05/los-proyectos-que-me-llaman-y-los-que.html",
+    "fecha": "15/05/2026",
+    "contenido": "Hace una semanas tuve que reorganizar otra vez mi biblioteca rolera y librojueguil, porque de nuevo no entraba un libro en las tres estanterías de Ikea en las que moran las obras que he ido adquiriendo en las últimas décadas. Os alegrará sin duda saber que he logrado optimizar de nuevo el espacio, e"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Gafas para ver el total eclipse of the heart el 12A",
+    "link": "https://56k.es/fanta/gafas-para-ver-el-total-eclipse-of-the-heart-el-12a/",
+    "fecha": "15/05/2026",
+    "contenido": "Me han regalado 2 gafas para ver el 12 de Agosto el Eclipse. Eso supone que tocará ese día ir a algún sitio de estos: sitios para ver el eclipse en España. No se a que sitio iré finalmente pero uno que me gusta es el del Museo Paleontológico de Cuenca. Pero posiblemente no iré..."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #941",
+    "link": "https://www.fabio.com.ar/9942-links-de-viernes---941",
+    "fecha": "15/05/2026",
+    "contenido": "     Vamos a por unos links\nY si, se nos hizo viernes, as&iacute; como si nada, as&iacute; que vamos a relajar con unos buenos enlaces que seguramente te duren hasta el domingo, porque si no duran, bueno, es que sos una m&aacute;quina de leer porquer&iacute;as 😋 Y si te parecen pocos sumate a LinksD"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Nuevo Álbum Disponible A Partir De Julio De Este Año | “What Planet Are You From?” Es El Nombre De Lo Nuevo De Galactic Cowboys",
+    "link": "https://www.delotroladometal.com.ar/2026/05/15/what-planet-are-you-from-es-el-nombre-de-lo-nuevo-de-galactic-cowboys/",
+    "fecha": "15/05/2026",
+    "contenido": "&#8220;Barrilete Cósmico…de qué planeta viniste?&#8221; decía el relator radial del famoso gol de Diego Maradona...\nThe post Nuevo Álbum Disponible A Partir De Julio De Este Año | “What Planet Are You From?” Es El Nombre De Lo Nuevo De Galactic Cowboys first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Mi experiencia en los 101km de Ronda 2026",
+    "link": "https://chancli.dev/blog/experiencia-101km-ronda-2026.html",
+    "fecha": "15/05/2026",
+    "contenido": ""
   },
   {
     "blog": "Adrián Perales",
@@ -236,6 +306,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/05/13/renaciendo-desde-las-cenizas-de-los-80/",
     "fecha": "13/05/2026",
     "contenido": "(2025 &#8211; Retroactive Records) El tiempo va pasando rápido, aunque no nos demos cuenta, y...\nThe post Mass: New Birth - 40th Anniversary Edition | Renaciendo Desde Las Cenizas De Los ´80 first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "PanicError",
+    "titulo": "Mi cuaderno de notas",
+    "link": "http://panicerror.org/blog/cuaderno-de-notas.md.html",
+    "fecha": "13/05/2026",
+    "contenido": "Mi cuaderno de notas\nHoy por fin me he decidido a escribir un artículo sobre mi sistema de gestión de notas. Es algo que tenía pendiente de hacer desde hace tiempo y lo había dejado en la lista de artículos pendientes demasiado tiempo. Gestionar las notas y apuntes del día a día ha sido para mi siem"
   },
   {
     "blog": "brucknerite",
@@ -595,13 +672,6 @@
     "contenido": "(1995 &#8211; Noise) De vez en cuando está bueno rescatar estas joyas olvidadas en el...\nThe post Zaxas: Zaxas | Hacer Metal En La Década De Los ´90 first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Elegir el mando correcto para tu televisor Samsung",
-    "link": "https://malagaoriginal.blogspot.com/2026/05/elegir-el-mando-correcto-para-tu.html",
-    "fecha": "08/05/2026",
-    "contenido": "Os comparto mi experiencia con los mandos de televisores Samsung, porque no todos son iguales ni mucho menos.&nbsp;Hace tiempo os comenté que el proceso para quitar la telemetría a mi televisor Samsung y convertirlo en un sencillo televisor tonto de 65\" tuve que cambiar el desastroso mando que traía"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de las semanas 18 y 19 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/05/08/opensuse-tumbleweed-revision-de-las-semanas-18-y-19-de-2026/",
@@ -609,32 +679,11 @@
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
-    "blog": "Jinversor",
-    "titulo": "Culpar al más güevón",
-    "link": "https://jinversor.co/2026/05/culpar-al-mas-guevon/",
-    "fecha": "08/05/2026",
-    "contenido": "Ya está aquí el hantavirus, el nuevo embeleco de una humanidad novelera que se caga encima por 10 muerticos mientras las sobredosis, las guerras y la delincuencia les parecen meras [&#8230;]\nLa entrada Culpar al más güevón se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Resolución de Problemas: Linkbud Clip Sony no conecta a Linux Mint",
-    "link": "https://interlan.ec/blog/2026/05/08/resolucion-de-problemas-linkbud-clip-sony-no-conecta-a-linux-mint/",
-    "fecha": "08/05/2026",
-    "contenido": "Queriendo arriesgarme un poco para obtener mas calidad, he decidido conseguir nuevos auriculares. Especialmente teniendo en cuenta que los Xiaomi buds 4 lite están en constante riesgo de muerte debido a la batería inflada de su cajita de carga. Pero no soy fan de los auriculares. Me hacen bastante d"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "#Fotos: Artemis II",
     "link": "https://blog.luiscarlospando.com/tech/2026/05/fotos-artemis-ii/",
     "fecha": "08/05/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "note – matizeta",
-    "titulo": "Lecturas recomendadas #5",
-    "link": "https://matizeta.com/2026/05/08/lecturas-recomendadas-5/",
-    "fecha": "08/05/2026",
-    "contenido": "Les dejo un par de lecturas para el fin de semana, con entradas de blogs que me gustaron. Si quedan con ganas de más recuerden que siempre esta ¡Blog!¡Blog! Eran los piratas… “tomaban el software que necesitaban, no para venderlo sino para usarlo, y terminaban destripándolo, entendiéndolo y haciendo"
   },
   {
     "blog": "danielaragay.net",
@@ -651,27 +700,6 @@
     "contenido": "Juego de defensa de torres libre para Android, sin anuncios ni compras integradas, centrado en la estrategia pura."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Integración de Navidrome en Home Assistant",
-    "link": "https://voidnull.es/integracion-de-navidrome-en-home-assistant/",
-    "fecha": "08/05/2026",
-    "contenido": "Conecta tu servidor Navidrome con Home Assistant gracias a esta integración personalizada compatible con la API Subsonic."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Hantavirus",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/hantavirus.html",
-    "fecha": "08/05/2026",
-    "contenido": "\n  \n    \n  \nCasi no se habla de otra cosa. Asoma por aquí en plena primavera ya la que será una de las palabras del año para la FundéuRAE. Pero de lo que seguramente también debería hablarse, y mucho, es del nivel repugnante de la política española, de cómo unos y otros aprovechan cualquier crisis s"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #940",
-    "link": "https://www.fabio.com.ar/9937-links-de-viernes---940",
-    "fecha": "08/05/2026",
-    "contenido": "     Links de Viernes, foto de Frank Herfort\nViernes y nuevamente nos despachamos con enlaces, porque el oto&ntilde;o se sobrevive con buena lectura, variada y bien por fuera de esos algoritmos que nos crean burbujas artificiales, as&iacute; es, aqu&iacute; vas a ver esas cosas que cre&iacute;as que"
-  },
-  {
     "blog": "Un blog",
     "titulo": "The Mercy of Gods - James S.A. Corey",
     "link": "https://nachof.blog/posts/2026/the-mercy-of-gods/",
@@ -684,12 +712,5 @@
     "link": "https://thejnx.bearblog.dev/el-resplandor/",
     "fecha": "08/05/2026",
     "contenido": "Mi punto de vista del significado de la película \"El Resplandor\""
-  },
-  {
-    "blog": "Gabo Scribe",
-    "titulo": "Vísteme despacio",
-    "link": "https://gaboscribe.com/blog/2026/05/08/visteme-despacio.html",
-    "fecha": "08/05/2026",
-    "contenido": "Hoy tuve una hermosa sensación cuando llevé a mi hija al colegio. Salimos bien temprano así que no había necesidad de ir rápido, es más, es el momento que la vida nos da para pasar 20 minutos juntos, hablar un poco de algo, cansarla con algún consejo y reír."
   }
 ]
