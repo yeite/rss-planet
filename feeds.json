@@ -1,5 +1,12 @@
 [
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "551. Atrapado en la tormenta",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/551-atrapado-en-la-tormenta.html",
+    "fecha": "15/05/2026",
+    "contenido": "&nbsp; &nbsp; Hubo una tarde de un día inopinado en la que yo conducía en dirección a casa de mis padres. Desde mi punto de salida y con el tráfico habitual, los quince kilómetros a cubrir suponían un cuarto de hora de conducción, siempre y cuando no surgiera algún contratiempo.&nbsp;&nbsp; &nbsp; L"
+  },
+  {
     "blog": "La línea doméstica",
     "titulo": "Origenes",
     "link": "https://jmlro.codeberg.page/posts/2026/05-15-origenes.html",
@@ -21,6 +28,13 @@
     "contenido": "Se que hace tiempo que no escribo ningun articulo, pero es que he estado muy ocupado. Si quereis echarle la culpa al alguien, ahora os dire quienes han ocasionado este retraso en mi ritmo de publicaciones aqui&hellip;"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Leap 15.6 llega a su fin de vida. Es hora de actualizar",
+    "link": "https://victorhckinthefreeworld.com/2026/05/14/opensuse-leap-15-6-llega-a-su-fin-de-vida-es-hora-de-actualizar/",
+    "fecha": "14/05/2026",
+    "contenido": "El pasado 30 de abril de 2026 openSUSE Leap 15.6 llegó a su fin de vida oficial. Es hora de actualizar a openSUSE Leap 16.0 sí o sí"
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "Nos cuidamos unas a otras, profe.",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/nos-cuidamos-unas-a-otras-profe/",
@@ -28,11 +42,32 @@
     "contenido": "Hace unos días tuve una conversación con una alumna a la que admiro y respeto mucho. Es una alumna de 10, en todos los sentidos: educada, simpática, inteligente, creativa, con sentido del humor... Y hasta ahora no la había visto sufrir académicamente. Daba la sensación (jeje, las sensaciones, esa co"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "Perplexity para inversionistas",
+    "link": "https://jinversor.co/2026/05/perplexity-para-inversionistas/",
+    "fecha": "14/05/2026",
+    "contenido": "La IA se nos metió en todo. Ese dolor es inevitable. Hace poco me ofrecieron un refrigerador equipado con IA y no supe qué responder. No necesito tal cosa pues [&#8230;]\nLa entrada Perplexity para inversionistas se publicó primero en Jinversor."
+  },
+  {
+    "blog": "develumpen.com",
+    "titulo": "Cómo mover un personaje en canvas",
+    "link": "https://develumpen.com/mover-personaje-canvas",
+    "fecha": "14/05/2026",
+    "contenido": "Después de implementar un mapa de losetas básico en canvas, voy a añadir un personaje y moverlo con las flechas del teclado. Puedes ver el resultado final en Codepen.\n\nLo primero que hago es añadir un nuevo tipo de loseta para representar al personaje. Para que se diferencie bien de las demás, elijo"
+  },
+  {
     "blog": "pov – matizeta",
     "titulo": "Una red social para cuando te canses de las redes",
     "link": "https://matizeta.com/2026/05/14/una-red-social-para-cuando-te-canses-de-las-redes/",
     "fecha": "14/05/2026",
     "contenido": "Hay una red social distinta a todas. Se llama Friendster. Quizás te suene el nombre porque lleva el mismo que aquella que existía antes que existiera Facebook, pero que desapreció en 2018. Hoy resurge de otra manera. ¿Que tiene de distinto al resto de las otras redes sociales que conocemos? ¿Cómo te"
+  },
+  {
+    "blog": "productor de sostenibilidad",
+    "titulo": "Todo lo que deberías saber sobre Malismo",
+    "link": "https://productordesostenibilidad.es/2026/05/todo-lo-que-deberias-saber-sobre-malismo/",
+    "fecha": "14/05/2026",
+    "contenido": "Supe de la existencia de Mauro Entrialgo en algún momento a finales de la segunda mitad de la década de 1990. Uno de esos veranos de pueblo, conocí a la vez las letras de Manolo Kabezabolo y las viñetas de Herminio Bolaextra. Treinta años más tarde he leído “Malismo”, que llevaba esperándome en la e"
   },
   {
     "blog": "La línea doméstica",
@@ -61,6 +96,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/05/14/las-visitas-que-fueron-y-las-que-se-vienen/",
     "fecha": "14/05/2026",
     "contenido": "Latinoamérica siempre fue difícil para las visitas internacionales de los grandes nombres del denominado &#8220;White...\nThe post Mortification, Bride, Whitecross Y Más? | Las Visitas Que Fueron, Y Las Que Se Vienen… first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "El Cajón de la Tecnología",
+    "titulo": "La eterna batalla de encontrar un buen navegador…",
+    "link": "https://tecnocajon.wordpress.com/2026/05/14/la-eterna-batalla-de-encontrar-un-buen-navegador/",
+    "fecha": "14/05/2026",
+    "contenido": "Soy una persona a la que le gusta experimentar, me gusta probar cosas, estar cambiando de sistema operativo, de aplicaciones…. Son muchos los ejemplos. Una de mis guerras continuas es el navegador, seré un gran defensor de Firefox siempre, pero creo que a día de hoy no están llevando las cosas por b"
   },
   {
     "blog": "Moribundo Insurgente",
@@ -101,6 +143,13 @@
     "blog": "NeoSite Blog",
     "titulo": "NeoSite Podcast #13 - NixOS, una distro diferente",
     "link": "http://blog.neosite.com.ar/post/neosite-podcast-13-nixos-una-distro-diferente",
+    "fecha": "13/05/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "Feed de SL1200",
+    "titulo": "- Me han intentado hackear el VPS",
+    "link": "https://proxy.dystopic.world/art/intentohackeo.gmi",
     "fecha": "13/05/2026",
     "contenido": ""
   },
@@ -642,68 +691,5 @@
     "link": "https://gaboscribe.com/blog/2026/05/08/visteme-despacio.html",
     "fecha": "08/05/2026",
     "contenido": "Hoy tuve una hermosa sensación cuando llevé a mi hija al colegio. Salimos bien temprano así que no había necesidad de ir rápido, es más, es el momento que la vida nos da para pasar 20 minutos juntos, hablar un poco de algo, cansarla con algún consejo y reír."
-  },
-  {
-    "blog": "Ubuntu Peronista",
-    "titulo": "¿Cómo calibro un Joystick en Ubuntu?",
-    "link": "https://ubuntuperonista.blogspot.com/2026/05/como-calibro-un-joystick-en-ubuntu.html",
-    "fecha": "07/05/2026",
-    "contenido": "En su Mensaje a la Juventud&nbsp;para el trunco Encuentro de la Juventud Peronista de Febrero de 1967 en Montevideo, Juan Perón expone en magnético cómo solucionar los problemas económicos Argentinos tomando la palanca del quehacer nacional, a la vez que enseña cómo calibrar Joysticks en Ubuntu.(..."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Primavera en NYC",
-    "link": "https://jinversor.co/2026/05/primavera-en-nyc/",
-    "fecha": "07/05/2026",
-    "contenido": "La primavera es la mejor época del año y la primavera en NYC es la más linda del mundo. Cuando lo yermo se torna verde y contrasta con la arquitectura [&#8230;]\nLa entrada Primavera en NYC se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Escritos en la nube",
-    "titulo": "Un post aburrido para no perder la costumbre",
-    "link": "https://nube.codeberg.page/blog/aburrido/",
-    "fecha": "07/05/2026",
-    "contenido": "Últimamente tengo ideas sobre que escribir pero no me decido exactamente que idea elegir y desarrollar, además, el hecho de estar sin electricidad e internet 6-8 horas diarias hacen que mi mente se concentre en otras cosas y las ideas se esfumen o que los borradores no sean tan coherentes como yo qu"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "549. Regresa el superhéroe olvidado",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/549-regresa-el-superheroe-olvidado.html",
-    "fecha": "07/05/2026",
-    "contenido": "&nbsp; &nbsp; A mí siempre me ha gustado el cómic. Para ser más exactos, el de superhéroes, aunque siempre acabe sintiendo predilección congénita por los supervillanos. De hecho, si estos últimos no existieran, ¿para qué querríamos a los superhéroes? ¿Para rescatar del árbol al gato de la abuela? ¡P"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "La Jihad no era contra las máquinas",
-    "link": "https://impermanente.es/2026/05/07/la-jihad-no-era-contra.html",
-    "fecha": "07/05/2026",
-    "contenido": "La frase aparece pronto en Dune: &ldquo;no harás una máquina a semejanza de la mente humana&rdquo;. Casi todo el mundo la lee como una prohibición tecnológica, como si Frank Herbert hubiese imaginado un futuro hippie sin ordenadores. Es una lectura cómoda y bastante perezosa. Lo que prohíbe el manda"
-  },
-  {
-    "blog": "",
-    "titulo": "REFLEXIONES DE SAN PATRICIO.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/05/07/reflexiones-de-san-patricio/",
-    "fecha": "07/05/2026",
-    "contenido": "Marzo&#8230; la fría brisa del otoño, el olor suave del lúpulo, el Pub, el sonido de las gaitas, los tambores, ese momento de alegría que tapa el silencio solemne de las dificultades de la vida. Me relajo y busca la tranquilidad de las risas, no parece existir tristeza en este momento&#8230; momento"
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "RustFS: Una gran alternativa para almacenar objetos S3",
-    "link": "https://www.ochobitshacenunbyte.com/2026/05/07/rustfs-una-gran-alternativa-para-almacenar-objetos-s3/",
-    "fecha": "07/05/2026",
-    "contenido": "Seguro que habéis notado el cambio de rumbo de MinIO, producto del que ya hemos hablado. Este gigante del almacenamiento S3, hasta hace poco el favorito de la comunidad open source, está priorizando ahora&#46;&#46;&#46;\nLa entrada RustFS: Una gran alternativa para almacenar objetos S3 se publicó pri"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Diciembre En Brasil, Colombia Y Costa Rica | “The Last Dance” De Bride En Latinoamérica Junto A Les Carlsen",
-    "link": "https://www.delotroladometal.com.ar/2026/05/07/the-last-dance-de-bride-en-latinoamerica-junto-a-les-carlsen/",
-    "fecha": "07/05/2026",
-    "contenido": "Dale Thompson lo anunció primero en sus redes, y posteriormente lo confirmó en varias entrevistas....\nThe post Diciembre En Brasil, Colombia Y Costa Rica | “The Last Dance” De Bride En Latinoamérica Junto A Les Carlsen first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Acompañar a los socios: notas desde Bilbao tras la presentación del estudio B2B de LIN3S",
-    "link": "https://dani.torresburriel.com/estudio-b2b-lin3s-bilbao-partners/",
-    "fecha": "07/05/2026",
-    "contenido": "Hoy he hecho 600 kilómetros para estar en Bilbao. He salido de casa a las seis y media de la mañana y, mientras tomaba unas notas de voz para escribir este post, eran las cinco y veinte de la tarde. Venía de vuelta atascado a la entrada de Zaragoza. Lo cuento no porque tenga ningún &#8230; Sigue ley"
   }
 ]
