@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 15 May 2026 13:28:40 GMT</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 19:16:11 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,6 +18,38 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Crear una imagen para una microSD a partir de los archivos y directorios que hay en una ruta de directorio</title>
+<link>https://malagaoriginal.blogspot.com/2026/05/crear-una-imagen-para-una-microsd.html</link>
+<guid isPermaLink="true">https://malagaoriginal.blogspot.com/2026/05/crear-una-imagen-para-una-microsd.html</guid>
+<pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+<category>Malagueños originales y libres</category>
+<description><![CDATA[Supongamos que queremos crear una imagen para distribuir entre dispositivos que consiste en un conjunto de archivos y directorios contenidos en un archivo ZIP que hay que volcar en una microSD con formato FAT32, por ejemplo para usar algún desarrollo baremetal para algún dispositivo ARM, real o emul<br><br><strong>Fuente:</strong> Malagueños originales y libres]]></description>
+</item>
+<item>
+<title>El Bronx de Bogotá</title>
+<link>https://jinversor.co/2026/05/el-bronx-de-bogota/</link>
+<guid isPermaLink="true">https://jinversor.co/2026/05/el-bronx-de-bogota/</guid>
+<pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+<category>Jinversor</category>
+<description><![CDATA[No profundizaré en las razones por las cuales siento una gran fascinación histórica por el extinto Bronx de Bogotá. Basta decir que lo conocí una noche de mayo del lejano [&amp;#8230;] La entrada El Bronx de Bogotá se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
+</item>
+<item>
+<title>Mi Musa</title>
+<link>https://matizeta.com/2026/05/15/mi-musa/</link>
+<guid isPermaLink="true">https://matizeta.com/2026/05/15/mi-musa/</guid>
+<pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+<category>textosperdidos – matizeta</category>
+<description><![CDATA[Recuerdo las noches de desveloque me sentaba a escribir. Una voz me recitaba al oídopalabras que volcaba en el papel,yo solo era un médiumde esa musa. Con una rapidez inusuallas palabras caían una tras otra en el papel. Pasó una década de aquel encuentro de madrugadas. Mi musa ya no está aquí¿adonde<br><br><strong>Fuente:</strong> textosperdidos – matizeta]]></description>
+</item>
+<item>
+<title>Los caprichos del agua</title>
+<link>http://locutusbit.blogspot.com/2026/05/los-caprichos-del-agua.html</link>
+<guid isPermaLink="true">http://locutusbit.blogspot.com/2026/05/los-caprichos-del-agua.html</guid>
+<pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+<category>La bitácora de Locutus</category>
+<description><![CDATA[&amp;nbsp;Tratar de darle nombre a la forma, aquella forma,aquel juego de luces que aparece y desaparece,que confunde los colores y los hace fluir, desesperados,en busca de un cauce, de un abanico de posibilidadesque entrelace naciente y desembocadura,oscuridad abisal y naufragio en la orilla,que, en un<br><br><strong>Fuente:</strong> La bitácora de Locutus]]></description>
+</item>
+<item>
 <title>551. Atrapado en la tormenta</title>
 <link>https://lamadredelpatonegro.blogspot.com/2026/05/551-atrapado-en-la-tormenta.html</link>
 <guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/05/551-atrapado-en-la-tormenta.html</guid>
@@ -26,12 +58,60 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[&amp;nbsp; &amp;nbsp; Hubo una tarde de un día inopinado en la que yo conducía en dirección a casa de mis padres. Desde mi punto de salida y con el tráfico habitual, los quince kilómetros a cubrir suponían un cuarto de hora de conducción, siempre y cuando no surgiera algún contratiempo.&amp;nbsp;&amp;nbsp; &amp;nbsp; L<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
 </item>
 <item>
+<title>Gestión de redes #12</title>
+<link>https://voidnull.es/gestion-de-redes/</link>
+<guid isPermaLink="true">https://voidnull.es/gestion-de-redes/</guid>
+<pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Aprende cómo funcionan las redes en Docker, los diferentes tipos disponibles y cómo se comunican los contenedores entre sí utilizando DNS interno, aislamiento de redes y exposición de puertos.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
 <title>Origenes</title>
 <link>https://jmlro.codeberg.page/posts/2026/05-15-origenes.html</link>
 <guid isPermaLink="true">https://jmlro.codeberg.page/posts/2026/05-15-origenes.html</guid>
 <pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
 <category>La línea doméstica</category>
 <description><![CDATA[Desde que vivo en Madrid, voy conociendo gente que con el tiempo se sorprende, o eso dicen, de que provenga de Valencia. No me ven ninguno de los artibutos/clichés con los que se asocia a los valencianos y además no hablo valenciano ni tampoco sé hacer paellas. Touché. Aún así mi suegra me sigue bus<br><br><strong>Fuente:</strong> La línea doméstica]]></description>
+</item>
+<item>
+<title>Los proyectos que me llaman (y los que me repelen) a mediados de 2026</title>
+<link>http://frikoteca.blogspot.com/2026/05/los-proyectos-que-me-llaman-y-los-que.html</link>
+<guid isPermaLink="true">http://frikoteca.blogspot.com/2026/05/los-proyectos-que-me-llaman-y-los-que.html</guid>
+<pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+<category>La Frikoteca</category>
+<description><![CDATA[Hace una semanas tuve que reorganizar otra vez mi biblioteca rolera y librojueguil, porque de nuevo no entraba un libro en las tres estanterías de Ikea en las que moran las obras que he ido adquiriendo en las últimas décadas. Os alegrará sin duda saber que he logrado optimizar de nuevo el espacio, e<br><br><strong>Fuente:</strong> La Frikoteca]]></description>
+</item>
+<item>
+<title>Gafas para ver el total eclipse of the heart el 12A</title>
+<link>https://56k.es/fanta/gafas-para-ver-el-total-eclipse-of-the-heart-el-12a/</link>
+<guid isPermaLink="true">https://56k.es/fanta/gafas-para-ver-el-total-eclipse-of-the-heart-el-12a/</guid>
+<pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Me han regalado 2 gafas para ver el 12 de Agosto el Eclipse. Eso supone que tocará ese día ir a algún sitio de estos: sitios para ver el eclipse en España. No se a que sitio iré finalmente pero uno que me gusta es el del Museo Paleontológico de Cuenca. Pero posiblemente no iré...<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>Links de Viernes - #941</title>
+<link>https://www.fabio.com.ar/9942-links-de-viernes---941</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/9942-links-de-viernes---941</guid>
+<pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Vamos a por unos links Y si, se nos hizo viernes, as&amp;iacute; como si nada, as&amp;iacute; que vamos a relajar con unos buenos enlaces que seguramente te duren hasta el domingo, porque si no duran, bueno, es que sos una m&amp;aacute;quina de leer porquer&amp;iacute;as 😋 Y si te parecen pocos sumate a LinksD<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Nuevo Álbum Disponible A Partir De Julio De Este Año | “What Planet Are You From?” Es El Nombre De Lo Nuevo De Galactic Cowboys</title>
+<link>https://www.delotroladometal.com.ar/2026/05/15/what-planet-are-you-from-es-el-nombre-de-lo-nuevo-de-galactic-cowboys/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/05/15/what-planet-are-you-from-es-el-nombre-de-lo-nuevo-de-galactic-cowboys/</guid>
+<pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[&amp;#8220;Barrilete Cósmico…de qué planeta viniste?&amp;#8221; decía el relator radial del famoso gol de Diego Maradona... The post Nuevo Álbum Disponible A Partir De Julio De Este Año | “What Planet Are You From?” Es El Nombre De Lo Nuevo De Galactic Cowboys first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Mi experiencia en los 101km de Ronda 2026</title>
+<link>https://chancli.dev/blog/experiencia-101km-ronda-2026.html</link>
+<guid isPermaLink="true">https://chancli.dev/blog/experiencia-101km-ronda-2026.html</guid>
+<pubDate>Fri, 15 May 2026 12:00:00 GMT</pubDate>
+<category>Chancli.dev</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> Chancli.dev]]></description>
 </item>
 <item>
 <title>Cómo escribo en 2026 (y II): en digital</title>
@@ -136,86 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
 <category>El Cajón de la Tecnología</category>
 <description><![CDATA[Soy una persona a la que le gusta experimentar, me gusta probar cosas, estar cambiando de sistema operativo, de aplicaciones…. Son muchos los ejemplos. Una de mis guerras continuas es el navegador, seré un gran defensor de Firefox siempre, pero creo que a día de hoy no están llevando las cosas por b<br><br><strong>Fuente:</strong> El Cajón de la Tecnología]]></description>
-</item>
-<item>
-<title>Google envió información personal y financiera de un periodista estudiantil a ICE</title>
-<link>https://moribundoinsurgente.noblogs.org/post/2026/05/13/google-envio-informacion-personal-y-financiera-de-un-periodista-estudiantil-a-ice/</link>
-<guid isPermaLink="true">https://moribundoinsurgente.noblogs.org/post/2026/05/13/google-envio-informacion-personal-y-financiera-de-un-periodista-estudiantil-a-ice/</guid>
-<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-<category>Moribundo Insurgente</category>
-<description><![CDATA[Google entregó un tesoro de datos personales sobre un estudiante y periodista a Estados Unidos. El Servicio de Inmigración y Control de Aduanas en respuesta a una citación que no había sido aprobada por un juez, según un informe de &amp;#8230; Sigue leyendo &amp;#8594;<br><br><strong>Fuente:</strong> Moribundo Insurgente]]></description>
-</item>
-<item>
-<title>Sovereign Tech Fund invierte más de 1 millón de euros en el desarrollo de software #KDE</title>
-<link>https://victorhckinthefreeworld.com/2026/05/13/sovereign-tech-fund-invierte-mas-de-1-millon-de-euros-en-el-desarrollo-de-software-kde/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/05/13/sovereign-tech-fund-invierte-mas-de-1-millon-de-euros-en-el-desarrollo-de-software-kde/</guid>
-<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[La inversión se utilizará para reforzar la fiabilidad estructural y la seguridad de la infraestructura central de KDE, incluyendo Plasma, KDE Linux y los marcos que sustentan sus servicios de comunicación<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>Lo básico de Docker</title>
-<link>https://jinversor.co/2026/05/lo-basico-de-docker/</link>
-<guid isPermaLink="true">https://jinversor.co/2026/05/lo-basico-de-docker/</guid>
-<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-<category>Jinversor</category>
-<description><![CDATA[Docker es una plataforma que nos permite empaquetar aplicaciones completas en pequeñas cajitas llamadas contenedores. Estos contenedores incluyen el código completo de la aplicación, las bibliotecas, las herramientas y todo [&amp;#8230;] La entrada Lo básico de Docker se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
-</item>
-<item>
-<title>Operation Epic Furious – Straight to Hell.</title>
-<link>https://papelcontinuo.net/3526/operation-epic-furious-straight-to-hell/</link>
-<guid isPermaLink="true">https://papelcontinuo.net/3526/operation-epic-furious-straight-to-hell/</guid>
-<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-<category>Papel Continuo</category>
-<description><![CDATA[Aparecen en Washington unos arcades con un videojuego satírico con Trump y su guerra con Iran. El juego se puede jugar online en epicfurious.com. Continuar leyendo Operation Epic Furious &amp;#8211; Straight to Hell. en Papel Continuo.<br><br><strong>Fuente:</strong> Papel Continuo]]></description>
-</item>
-<item>
-<title>Fatiga digital</title>
-<link>https://gatooscuro.xyz/fatiga-digital/</link>
-<guid isPermaLink="true">https://gatooscuro.xyz/fatiga-digital/</guid>
-<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-<category>El cuarto de GatoOscuro</category>
-<description><![CDATA[Pasé por lo menos 20 minutos pensando solo en el título y sí, la mejor táctica en escritura es primero redactar el contenido y luego el título, pero esta vez Seguir leyendo Fatiga digital El cargo Fatiga digital apareció primero en El cuarto de GatoOscuro.<br><br><strong>Fuente:</strong> El cuarto de GatoOscuro]]></description>
-</item>
-<item>
-<title>NeoSite Podcast #13 - NixOS, una distro diferente</title>
-<link>http://blog.neosite.com.ar/post/neosite-podcast-13-nixos-una-distro-diferente</link>
-<guid isPermaLink="true">http://blog.neosite.com.ar/post/neosite-podcast-13-nixos-una-distro-diferente</guid>
-<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-<category>NeoSite Blog</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> NeoSite Blog]]></description>
-</item>
-<item>
-<title>- Me han intentado hackear el VPS</title>
-<link>https://proxy.dystopic.world/art/intentohackeo.gmi</link>
-<guid isPermaLink="true">https://proxy.dystopic.world/art/intentohackeo.gmi</guid>
-<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-<category>Feed de SL1200</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> Feed de SL1200]]></description>
-</item>
-<item>
-<title>Friends</title>
-<link>https://www.macram.es/series/friends/</link>
-<guid isPermaLink="true">https://www.macram.es/series/friends/</guid>
-<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-<category>Mi blog on Manu Mateos</category>
-<description><![CDATA[Qué decir de Friends. Es la sitcom que definió una década, que marcó estilo y el camino a seguir para muchas otras que vinieron después. La he visto de nuevo después de mucho tiempo, y tal como recordaba, no ha envejecido demasiado mal. Alguna broma estaba bien para finales de los noventa o principi<br><br><strong>Fuente:</strong> Mi blog on Manu Mateos]]></description>
-</item>
-<item>
-<title>¿Cuál es tu velocidad de Internet?</title>
-<link>https://www.macram.es/posts/2026/05/cual-es-tu-velocidad-de-internet/</link>
-<guid isPermaLink="true">https://www.macram.es/posts/2026/05/cual-es-tu-velocidad-de-internet/</guid>
-<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-<category>Mi blog on Manu Mateos</category>
-<description><![CDATA[Leo en el blog de Kev Quirk que acaba de cambiar de tecnología de acceso a Internet en su casa: aprovechando que han pasado de FTTC a FTTP en su pueblo, se ha puesto algo que llama &amp;ldquo;full fibre&amp;rdquo;. Muestra un test de velocidad de unos 850Mbps de bajada y unos 100 de subida, aproximadamente.<br><br><strong>Fuente:</strong> Mi blog on Manu Mateos]]></description>
-</item>
-<item>
-<title>Viajar se volvió una moda</title>
-<link>https://matizeta.com/2026/05/13/viajar-se-volvio-una-moda/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/05/13/viajar-se-volvio-una-moda/</guid>
-<pubDate>Wed, 13 May 2026 12:00:00 GMT</pubDate>
-<category>ladoB – matizeta</category>
-<description><![CDATA[Mientras me paseo por la región de Puglia en Italia, más precisamente por Alberobello me doy cuenta que todo ha sido devorado por el turismo. El pueblo es precioso, sus Trulli son una poesía para los ojos, y aún es más rico cuando uno se sumerge en su historia: como vivía su gente allí, el [&amp;#8230;<br><br><strong>Fuente:</strong> ladoB – matizeta]]></description>
 </item>
 
 </channel>
