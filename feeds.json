@@ -1,5 +1,33 @@
 [
   {
+    "blog": "El Sueño del Artista Blog",
+    "titulo": "De Systema Solar a  Ibeyi: dos caras del mismo cosmos afrofuturista»",
+    "link": "https://polotman.wordpress.com/2026/05/15/de-systema-solar-a-ibeyi-dos-caras-del-mismo-cosmos-afrofuturista/",
+    "fecha": "16/05/2026",
+    "contenido": "#Afrofuturismo #ElSueñodelArtista #musica #SystemaSolar #Ibeyi #Arte En muchas ocasiones las play Lists del momento generadas claramente por grandes distribuidoras de música pasan por alto muy buena música que se está creando alrededor del mundo y así pasa desapercibida para un gran público, pero no"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Fin de la ilusión cordobesista",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/fin-de-la-ilusion-cordobesista.html",
+    "fecha": "16/05/2026",
+    "contenido": "\n  \n    \n  \nEl Córdoba CF se la volvía a jugar ayer en un todo o nada, esta vez contra el Albacete. Nueve puntos aún en disputa que había que ganar sí o sí y que algún rival por encima en la tabla fallara... pero todo se torció y las posibilidades de colarse por la retaguardia en los play off se esf"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Abrázame hasta que la caja tonta sea tonta again",
+    "link": "https://56k.es/fanta/abrazame-hasta-que-la-caja-tonta-sea-tonta-again/",
+    "fecha": "16/05/2026",
+    "contenido": "En este post quiero soltar lastre contra lo que llaman televisión inteligente y no quedarme en eso solamente. Voy a mostraros mi televisión tonta. 1. Ver morir un cine 2. Quiero una tele tonta 3. Ver nacer un cine con una tele tonta Vamos a darle bien duro al tema. &#160; 1. Ver morir un..."
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Pantokrator: Marching Out Of Babylon | Como Sobrevivir A Los Tiempos Que Corren",
+    "link": "https://www.delotroladometal.com.ar/2026/05/16/como-sobrevivir-a-los-tiempos-que-corren/",
+    "fecha": "16/05/2026",
+    "contenido": "(2021 &#8211; Nordic Mission) Que buenos recuerdos nos trae Pantokrator. Una banda que supimos conocer...\nThe post Pantokrator: Marching Out Of Babylon | Como Sobrevivir A Los Tiempos Que Corren first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Crear una imagen para una microSD a partir de los archivos y directorios que hay en una ruta de directorio",
     "link": "https://malagaoriginal.blogspot.com/2026/05/crear-una-imagen-para-una-microsd.html",
@@ -7,11 +35,32 @@
     "contenido": "Supongamos que queremos crear una imagen para distribuir entre dispositivos que consiste en un conjunto de archivos y directorios contenidos en un archivo ZIP que hay que volcar en una microSD con formato FAT32, por ejemplo para usar algún desarrollo baremetal para algún dispositivo ARM, real o emul"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 20 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/05/15/opensuse-tumbleweed-revision-de-la-semana-20-de-2026/",
+    "fecha": "15/05/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
     "blog": "Jinversor",
     "titulo": "El Bronx de Bogotá",
     "link": "https://jinversor.co/2026/05/el-bronx-de-bogota/",
     "fecha": "15/05/2026",
     "contenido": "No profundizaré en las razones por las cuales siento una gran fascinación histórica por el extinto Bronx de Bogotá. Basta decir que lo conocí una noche de mayo del lejano [&#8230;]\nLa entrada El Bronx de Bogotá se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Salon de la Fama del Spam 13: Arqueologia del Spam",
+    "link": "https://interlan.ec/blog/2026/05/15/salon-de-la-fama-del-spam-13-arqueologia-del-spam/",
+    "fecha": "15/05/2026",
+    "contenido": "Y en un nuevo episodio del salon de la fama del spam, hoy haremos una breve presentacion de una reliquia de mi servidor. Un ruso intentando crear una web porno a punta de comentarios. He hecho una captura de pantalla del texto que escribí en esta entrada porque no quiero darles gusto, pero quiero co"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "¿Por qué siento que en Latinoamérica vivimos más como en un internet prestado?",
+    "link": "https://blog.luiscarlospando.com/personal/2026/05/por-que-siento-que-en-latinoamerica-vivimos-mas-como-en-un-internet-prestado/",
+    "fecha": "15/05/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "textosperdidos – matizeta",
@@ -33,6 +82,13 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/05/551-atrapado-en-la-tormenta.html",
     "fecha": "15/05/2026",
     "contenido": "&nbsp; &nbsp; Hubo una tarde de un día inopinado en la que yo conducía en dirección a casa de mis padres. Desde mi punto de salida y con el tráfico habitual, los quince kilómetros a cubrir suponían un cuarto de hora de conducción, siempre y cuando no surgiera algún contratiempo.&nbsp;&nbsp; &nbsp; L"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Catima: todas tus tarjetas en una sola APP",
+    "link": "https://voidnull.es/catima-todas-tus-tarjetas-en-una-sola-app/",
+    "fecha": "15/05/2026",
+    "contenido": "Gestor de tarjetas de fidelización libre para llevar todas tus tarjetas en el móvil sin depender de apps privativas."
   },
   {
     "blog": "_ voidNull",
@@ -637,13 +693,6 @@
     "contenido": "Hace unos días me propuse regalarle mi nuevo celular a mi hermano para quedarme con mi viejo celular."
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Cambio en la dirección de la junta de #openSUSE",
-    "link": "https://victorhckinthefreeworld.com/2026/05/09/cambio-en-la-direccion-de-la-junta-de-opensuse/",
-    "fecha": "09/05/2026",
-    "contenido": "Gerald Pfeifer ha renunciado a su cargo de presidente de la junta de openSUSE y será relevado en su cargo por Jeff Mahoney"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Dos libros de superación personal",
     "link": "https://jinversor.co/2026/05/dos-libros-de-superacion-personal/",
@@ -663,54 +712,5 @@
     "link": "https://56k.es/fanta/aventuras-graficas-no-tan-tipicas/",
     "fecha": "09/05/2026",
     "contenido": "Todo el mundo odiamos a la gente que solamente conoce Monkey island, Day of the Tentacle y con suerte los Leisure Suit Larry. Los odiamos porque llevan toda la vida hablando de lo bueno que es el Monkey Island y bla bla bla pero es posible que no conozcan mucho más que eso. Nos creemos..."
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Zaxas: Zaxas | Hacer Metal En La Década De Los ´90",
-    "link": "https://www.delotroladometal.com.ar/2026/05/09/hacer-metal-en-la-decada-de-los-90/",
-    "fecha": "09/05/2026",
-    "contenido": "(1995 &#8211; Noise) De vez en cuando está bueno rescatar estas joyas olvidadas en el...\nThe post Zaxas: Zaxas | Hacer Metal En La Década De Los ´90 first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de las semanas 18 y 19 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/05/08/opensuse-tumbleweed-revision-de-las-semanas-18-y-19-de-2026/",
-    "fecha": "08/05/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "#Fotos: Artemis II",
-    "link": "https://blog.luiscarlospando.com/tech/2026/05/fotos-artemis-ii/",
-    "fecha": "08/05/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "IA y Archivos Perdidos: Reconstruyendo mi Documental",
-    "link": "https://blog.danielaragay.net/ia-y-archivos-perdidos-reconstruyendo-mi-documental/",
-    "fecha": "08/05/2026",
-    "contenido": "Hoy te cuento c&#xf3;mo el azar me llev&#xf3; a reencontrar un disco duro con 10 a&#xf1;os de entrevistas sobre un documental de VIH que cre&#xed;a perdido. Con la ayuda de la IA, por fin podr&#xe9; estructurar este relato. Adem&#xe1;s, te"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Anuto TD: ¡Defiende la torre!",
-    "link": "https://voidnull.es/anuto-td-defiende-la-torre/",
-    "fecha": "08/05/2026",
-    "contenido": "Juego de defensa de torres libre para Android, sin anuncios ni compras integradas, centrado en la estrategia pura."
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "The Mercy of Gods - James S.A. Corey",
-    "link": "https://nachof.blog/posts/2026/the-mercy-of-gods/",
-    "fecha": "08/05/2026",
-    "contenido": "\n\n\nThe Mercy of Gods es el primer libro de la nueva serie de James S.A. Corey. James S.A. Corey es, por supuesto, el pseudónimo bajo el que Daniel Abraham y Ty Franck escribieron la serie de The Expanse. Decir que arranqué el libro con expectativas altas se quedaría corto.\nLa historia sigue a un gru"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Mi interpretación de: El Resplandor (Kubrick)",
-    "link": "https://thejnx.bearblog.dev/el-resplandor/",
-    "fecha": "08/05/2026",
-    "contenido": "Mi punto de vista del significado de la película \"El Resplandor\""
   }
 ]
