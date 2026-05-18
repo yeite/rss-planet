@@ -1,10 +1,94 @@
 [
   {
+    "blog": "brucknerite",
+    "titulo": "La caza del movimiento de lazo",
+    "link": "https://brucknerite.net/2026/05/la-caza-del-movimiento-de-lazo.html",
+    "fecha": "18/05/2026",
+    "contenido": "En un viaje de Madrid a Barcelona en un Frecciarossa 1000 de Iryo noté un movimiento peculiar, como si el tren me meciera. ¿Qué estaba pasando? ¿Sería el mítico movimiento de lazo, la inestabilidad que puede surgir en trenes de alta velocidad circulando en rectas?"
+  },
+  {
+    "blog": "Un bruto con Debian",
+    "titulo": "No puedo escribir en un Arduino",
+    "link": "http://unbrutocondebian.blogspot.com/2026/05/no-puedo-escribir-en-un-arduino.html",
+    "fecha": "18/05/2026",
+    "contenido": "Por temas que no vienen al caso, he empezado a mirar tutoriales de Arduino y comprado una placa básica. No quiero complicarme lo más mínimo, solo hacer cuatro tontadas básicas con la placa y poco más.&nbsp;&nbsp;Pero ha sido conectar la placa y llevarme la primera bofetada de realidad. El IDE de Ard"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "La paradoja de la tecnología inteligente",
+    "link": "https://gatooscuro.xyz/la-paradoja-de-la-tecnologia-inteligente/",
+    "fecha": "18/05/2026",
+    "contenido": "Hace unos días estaba navegando por Internet cuando, de la nada, me topé con un video crítico de un internauta en el que expresaba su malestar acerca de la marca\nSeguir leyendo  La paradoja de la tecnología inteligente\nEl cargo La paradoja de la tecnología inteligente apareció primero en El cuarto d"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Mi suegro y el capitalismo de vigilancia",
+    "link": "https://alt43.es/mi-suegro-y-el-capitalismo-de-vigilancia/",
+    "fecha": "18/05/2026",
+    "contenido": "Cual conversación de bar, tratamos de desglosar la lógica tras el concepto de \"capitalismo de vigilancia\": cómo las plataformas convierten cada interacción en datos, cada dato en un perfil y cada perfil en una predicción para que alguien la compre. Con el caso Cambridge Analytica como ejemplo más vi"
+  },
+  {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 20/2026",
+    "link": "https://www.macram.es/posts/2026/05/semana-20-2026/",
+    "fecha": "18/05/2026",
+    "contenido": "Esta semana que parece que ha vuelto el buen tiempo ha habido más actividades outdoor. Paseé un poco, el viernes vi el estreno de un documental sobre la trashumancia, el sábado estuve viendo pasar un rebaño de ovejas que se va a hacer la trashumancia al norte (fueron unos días temáticos), vi algún c"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Esta estupidez de la seguridad digital",
+    "link": "https://matizeta.com/2026/05/18/esta-estupidez-de-la-seguridad-digital/",
+    "fecha": "18/05/2026",
+    "contenido": "La otra vez en reunión con amigos, uno comentaba que había borrado la app de Instagram de su móvil pero que no podía volver a instalarla porque no recordaba su contraseña, ni siquiera con que email se había registrado. A lo que muchos respondieron que les pasaba lo mismo: no tenían registro de sus c"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "El nombre es el mensaje",
+    "link": "https://impermanente.es/2026/05/18/el-nombre-es-el-mensaje.html",
+    "fecha": "18/05/2026",
+    "contenido": "No soy católico pesar de (o tal vez gracias a) que estudié en un colegio católico. No tengo lealtad emocional al Vaticano y desconfío por defecto de cualquier institución que se la pase explicándole a la gente cómo debe vivir. Dicho eso, me parece interesante lo que está haciendo Leo XIV con la IA, "
+  },
+  {
     "blog": "Eterno aprendiz",
     "titulo": "Post-punk clásico con The Chameleons en Epicentro",
     "link": "https://altgr.xyz/2026/05/17/post-punk-clasico-con-the-chameleons-en-epicentro/",
     "fecha": "18/05/2026",
     "contenido": "Como escribieron por ahí, el lado B del post-punk, The Chameleons, una banda que no alcanzó el nivel de fama de otras, aunque por talento y sonido, que es de lo más característico del género, no se quedan atrás. Un lujo total escucharlos en un escenario pequeño e íntimo como Epicentro en Santiago."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Docker en Proxmox en un LXC",
+    "link": "https://voidnull.es/instalacion-de-docker-en-proxmox-en-un-lxc/",
+    "fecha": "18/05/2026",
+    "contenido": "Aprende a instalar Docker en Proxmox utilizando un contenedor LXC ligero y eficiente."
+  },
+  {
+    "blog": "56K",
+    "titulo": "La tipografía para ISBN y códigos EAN",
+    "link": "https://56k.es/fanta/la-tipografia-para-isbn-y-codigos-ean/",
+    "fecha": "18/05/2026",
+    "contenido": "&#160; OCR-A es la tipografía que se usa para el ISBN en los libros y para muchos otros temas. Básicamente se inventó para ser reconocida mediante OCR y al mismo tiempo ser legible por humanos. Se usa también en los códigos de barras UPC/EAN por lo que en un libro es posible que la uses..."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Escondidos por el algoritmo",
+    "link": "https://www.fabio.com.ar/9943-escondidos-por-el-algoritmo",
+    "fecha": "18/05/2026",
+    "contenido": "    \n&iquest;De d&oacute;nde sacaste esas bandas? &iquest;C&oacute;mo llegaste a ellas? Me pregunt&oacute;, no entend&iacute;a c&oacute;mo hab&iacute;a dado con una banda de folk metal alem&aacute;n (Feuerschwanz) y otras igual de raras para ella (Vision of Atlantis, Amaranthe) que, desde su punto d"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Disponible A Partir De Junio | Escuchamos “Siendo Libre”, El Nuevo Disco De Ícaro",
+    "link": "https://www.delotroladometal.com.ar/2026/05/18/escuchamos-siendo-libre-el-nuevo-disco-de-icaro/",
+    "fecha": "18/05/2026",
+    "contenido": "Como veníamos anunciando, Ícaro ya tiene todo listo para lo que será su tercer álbum,...\nThe post Disponible A Partir De Junio | Escuchamos “Siendo Libre”, El Nuevo Disco De Ícaro first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Trilium: jerarquía, clones, etiquetas, workspaces, cifrado y backups",
+    "link": "https://elblogdelazaro.org/organizar-trilium-jerarquia-clones-workspaces-cifrado-backups/",
+    "fecha": "18/05/2026",
+    "contenido": "Por: Carlos M.Publicado el 18 de mayo de 2026Cómo estructurar Trilium, proteger tus notas sensibles y hacer backups correctamente.Continuar leyendo →#Unraid #Trilium "
   },
   {
     "blog": "Salva Más De Cerca",
@@ -110,6 +194,13 @@
     "link": "https://dani.torresburriel.com/ia-proceso-diseno-ux/",
     "fecha": "17/05/2026",
     "contenido": "Me gusta mucho empezar a escribir un post por el principio. Esto puede parecer una obviedad pero es que lo que me gusta es escribir el título del post al final. Básicamente porque yo sé cómo empiezo a escribir pero hay veces que el propio texto me lleva a otros territorios y entonces tengo que &#823"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Gestiona tus favoritos con Linkding",
+    "link": "https://chancli.dev/blog/gestiona-favoritos-linkding.html",
+    "fecha": "17/05/2026",
+    "contenido": ""
   },
   {
     "blog": "Salva Más De Cerca",
@@ -320,6 +411,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/05/15/what-planet-are-you-from-es-el-nombre-de-lo-nuevo-de-galactic-cowboys/",
     "fecha": "15/05/2026",
     "contenido": "&#8220;Barrilete Cósmico…de qué planeta viniste?&#8221; decía el relator radial del famoso gol de Diego Maradona...\nThe post Nuevo Álbum Disponible A Partir De Julio De Este Año | “What Planet Are You From?” Es El Nombre De Lo Nuevo De Galactic Cowboys first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Mi experiencia en los 101km de Ronda 2026",
+    "link": "https://chancli.dev/blog/experiencia-101km-ronda-2026.html",
+    "fecha": "15/05/2026",
+    "contenido": ""
   },
   {
     "blog": "Adrián Perales",
@@ -550,7 +648,7 @@
     "titulo": "Mi cuaderno de notas",
     "link": "http://panicerror.org/blog/cuaderno-de-notas.md.html",
     "fecha": "13/05/2026",
-    "contenido": "Mi cuaderno de notas\nHoy por fin me he decidido a escribir un artículo sobre mi sistema de gestión de notas. Es algo que tenía pendiente de hacer desde hace tiempo y lo había dejado en la lista de artículos pendientes demasiado tiempo. Gestionar las notas y apuntes del día a día ha sido para mi siem"
+    "contenido": "Hoy por fin me he decidido a escribir un artículo sobre mi sistema de gestión de notas. Es algo que tenía pendiente de hacer desde hace tiempo y lo había dejado en la lista de artículos pendientes demasiado tiempo. Gestionar las notas y apuntes del día a día ha sido para mi siempre un tema que he ne"
   },
   {
     "blog": "brucknerite",
@@ -686,25 +784,11 @@
     "contenido": "Esta es la configuración y las herramientas que utilizo actualmente en mi día a día.\nLa página está inspirada en la idea de /uses, habitual en la IndieWeb y la smol web:\ncompartir el hardware, software y entorno con el que uno trabaja y escribe.\nNada especialmente exótico.\nSolo herramientas con las "
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Firefox no muestra los kanjis o caracteres japoneses (ni chinos ni koreanos) en Plasma",
-    "link": "https://victorhckinthefreeworld.com/2026/05/11/firefox-no-muestra-los-kanjis-o-caracteres-japoneses-ni-chinos-ni-koreanos-en-plasma/",
-    "fecha": "11/05/2026",
-    "contenido": "Cómo solucionar que Firefox muestre los caracteres en idioma japonés y también chinos y koreanos"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Los nueve niveles",
     "link": "https://jinversor.co/2026/05/los-nueve-niveles/",
     "fecha": "11/05/2026",
     "contenido": "A mi viejo amigo «El Gurre» le robaron una plata y me pidió el favor de investigar o conseguirle la persona que supuestamente le robó. Yo sabía que, de aceptar [&#8230;]\nLa entrada Los nueve niveles se publicó primero en Jinversor."
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Uno de los monitores del ordenador salta(ba) cuando se activa(ba) la nevera",
-    "link": "https://pedrolr.es/blog/uno-de-los-monitores-del-ordenador-saltaba-cuando-se-activaba-la-nevera/",
-    "fecha": "11/05/2026",
-    "contenido": "Uno de los monitores del ordenador saltaba cuando se activaba la nevera. Habló así en pasado pero porque espero que deje de pasar. Uso dos pantallas. Lo curioso es que me ha pasado en dos casas diferentes, con hasta 3 neveras diferentes (en la casa que estoy ahora se rompió y hubo que cambiarla hace"
   },
   {
     "blog": "Mareos de un geek",
@@ -714,20 +798,6 @@
     "contenido": "Recientemente se ha descubierto que Google Chrome está descargando el modelo de IA Gemini Nano en ordenadores Windows. También lo he visto en macOS. La sorpresa, al encontrar el fichero en mi ordenador, no ha sido el tamaño, si no, la fecha de creación, ya que lleva ahí desde el pasado verano. En to"
   },
   {
-    "blog": "alt43",
-    "titulo": "Análisis de motores de búsqueda privados",
-    "link": "https://alt43.es/analisis-de-motores-de-busqueda-privados/",
-    "fecha": "11/05/2026",
-    "contenido": "Cualquier búsqueda en Google conlleva la cesión de innumerables datos personales. Hay varios buscadores alternativos y privados, cada uno con sus diferentes matices. Repasamos DuckDuckGo, Brave Search, Kagi, SearXNG, Startpage, Qwant y Mojeek. Sus resultados, nivel de privacidad y la importancia del"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Una intrenet viva",
-    "link": "https://matizeta.com/2026/05/11/una-intrenet-viva/",
-    "fecha": "11/05/2026",
-    "contenido": "Mucho se habla de la Internet muerta, una teoría que viene circulando desde el 2015 en donde el tráfico de bots son los que navegan las páginas y no los humanos. Donde son ellos quienes publican en las redes sociales privativas, y en donde según este informe, el 35% del contenido creado por Internet"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "550. Pese a quien pese, seguimos vivos.",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/05/550-pese-quien-pese-seguimos-vivos.html",
@@ -735,45 +805,10 @@
     "contenido": "&nbsp; &nbsp; Hubo un tiempo, no muy lejano, en el que nos señalabas, nos mirabas de reojo e incluso te burlabas. Pero siempre desde lejos y acompañado, no fuera a ser que nos diéramos cuenta y te pidiéramos explicaciones.&nbsp; &nbsp; Lo sé, lo sé... Quizá nosotros también fuimos algo culpables de "
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Cómo instalar y configurar PixelFed en Debian 13",
-    "link": "https://voidnull.es/como-instalar-y-configurar-pixelfed-en-debian-13/",
-    "fecha": "11/05/2026",
-    "contenido": "Pixelfed es un sistema para compartir imágenes en forma de software libre, que utiliza el protocolo ActivityPub para federarse con el Fediverso, lanzado a mediados del mes de abril de 2018 por el desarrollador canadiense Daniel Supernault."
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "CanalSur a negro",
     "link": "https://www.xn--jmuoz-qta.es/2026/05/canalsur-negro.html",
     "fecha": "11/05/2026",
     "contenido": "Vuelve a repetirse la historia de hace cuatro años en plena campaña electoral en CanalSur: algunos sindicatos convocan huelga coincidiendo casi casi con las elecciones autonómicas. No es casual, evidentemente, es deliberado como medida de presión contra la Junta de Andalucía para que ceda a las pret"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Días de frío primaverales",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/dias-de-frio-primaverales.html",
-    "fecha": "11/05/2026",
-    "contenido": "\n  \n    \n  \nNos adentrarse en mayo... y sigue haciendo frío. Todo el mundo a mi alrededor está deseando que haga calor, que salga un poco de sol para que les dé como a los caracoles en el campo, estar en manga corta, locuras mediante como salir de casa temprano con 10 °C sin ningún tipo de abrigo.Mi"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Todos con miedo al Hantavirus menos nosotros",
-    "link": "https://www.fabio.com.ar/9938-todos-con-miedo-al-hantavirus-menos-nosotros",
-    "fecha": "11/05/2026",
-    "contenido": "    \nDe todas las cepas de virus creo que el Hantavirus es una de las que m&aacute;s preocupaci&oacute;n da por el nombre y menos por sus efectos virales.\nVivimos con ese virus en este pa&iacute;s (hasta un conocido m&iacute;o muri&oacute; por esa enfermedad), sin embargo vivimos sin pensar en &eacu"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Banda Chilena De Death Metal Prepara Su Primer EP | Sempiternus Estrena Material",
-    "link": "https://www.delotroladometal.com.ar/2026/05/11/sempiternus-estrena-material/",
-    "fecha": "11/05/2026",
-    "contenido": "Ya les habíamos hablado de ellos en su momento, y también contado su historia, pero...\nThe post La Banda Chilena De Death Metal Prepara Su Primer EP | Sempiternus Estrena Material first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "DESDE UN BALCÓN DE MADRID",
-    "titulo": "93 – ¡Blog!¡Blog!",
-    "link": "https://empiezaen2023.wordpress.com/2026/05/11/93-blogblog/",
-    "fecha": "11/05/2026",
-    "contenido": "En esta ocasión quiero hacerme eco de un directorio de blogs al que me he unido, y cuya iniciativa me ha encantado. Se trata de ¡Blog!¡Blog!, un directorio de blogs en español creado por Matizeta, en el que se recopilan un gran número de blogs en español. Actualmente se superan los 150 blogs indexad"
   }
 ]
