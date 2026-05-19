@@ -7,18 +7,25 @@
     "contenido": "En un viaje de Madrid a Barcelona en un Frecciarossa 1000 de Iryo noté un movimiento peculiar, como si el tren me meciera. ¿Qué estaba pasando? ¿Sería el mítico movimiento de lazo, la inestabilidad que puede surgir en trenes de alta velocidad circulando en rectas?"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "¿Quién soy?",
+    "link": "https://jinversor.co/2026/05/quien-soy/",
+    "fecha": "18/05/2026",
+    "contenido": "He visto que muchos blogs tienen una página llamada ¿Quién soy? Donde el autor cuenta algunas cosas de su vida para que sus lectores le conozcan un poco. Creo que, [&#8230;]\nLa entrada ¿Quién soy? se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Irresistible",
+    "link": "https://jinversor.co/2026/05/irresistible/",
+    "fecha": "18/05/2026",
+    "contenido": "Terminé de leer el libro Irresistible ¿Quién nos ha convertido en yonquis tecnológicos? de Adam Alter y creo que vale mucho la pena. Hacía mucho no enlazaba libros de la [&#8230;]\nLa entrada Irresistible se publicó primero en Jinversor."
+  },
+  {
     "blog": "Un bruto con Debian",
     "titulo": "No puedo escribir en un Arduino",
     "link": "http://unbrutocondebian.blogspot.com/2026/05/no-puedo-escribir-en-un-arduino.html",
     "fecha": "18/05/2026",
     "contenido": "Por temas que no vienen al caso, he empezado a mirar tutoriales de Arduino y comprado una placa básica. No quiero complicarme lo más mínimo, solo hacer cuatro tontadas básicas con la placa y poco más.&nbsp;&nbsp;Pero ha sido conectar la placa y llevarme la primera bofetada de realidad. El IDE de Ard"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "La paradoja de la tecnología inteligente",
-    "link": "https://gatooscuro.xyz/la-paradoja-de-la-tecnologia-inteligente/",
-    "fecha": "18/05/2026",
-    "contenido": "Hace unos días estaba navegando por Internet cuando, de la nada, me topé con un video crítico de un internauta en el que expresaba su malestar acerca de la marca\nSeguir leyendo  La paradoja de la tecnología inteligente\nEl cargo La paradoja de la tecnología inteligente apareció primero en El cuarto d"
   },
   {
     "blog": "alt43",
@@ -46,7 +53,7 @@
     "titulo": "El nombre es el mensaje",
     "link": "https://impermanente.es/2026/05/18/el-nombre-es-el-mensaje.html",
     "fecha": "18/05/2026",
-    "contenido": "No soy católico pesar de (o tal vez gracias a) que estudié en un colegio católico. No tengo lealtad emocional al Vaticano y desconfío por defecto de cualquier institución que se la pase explicándole a la gente cómo debe vivir. Dicho eso, me parece interesante lo que está haciendo Leo XIV con la IA, "
+    "contenido": "No soy católico a pesar de (o tal vez gracias a) que estudié en un colegio católico. No tengo lealtad emocional al Vaticano y desconfío por defecto de cualquier institución que se la pase explicándole a la gente cómo debe vivir. Dicho eso, me parece interesante lo que está haciendo Leo XIV con la IA"
   },
   {
     "blog": "Eterno aprendiz",
@@ -88,21 +95,35 @@
     "titulo": "Trilium: jerarquía, clones, etiquetas, workspaces, cifrado y backups",
     "link": "https://elblogdelazaro.org/organizar-trilium-jerarquia-clones-workspaces-cifrado-backups/",
     "fecha": "18/05/2026",
-    "contenido": "Por: Carlos M.Publicado el 18 de mayo de 2026Cómo estructurar Trilium, proteger tus notas sensibles y hacer backups correctamente.Continuar leyendo →#Unraid #Trilium "
+    "contenido": "Por: Carlos M.Publicado el 18 de mayo de 2026Cómo organizar Trilium sin convertirlo en otro cajón desastre, aprovechando jerarquía, clones, workspaces, cifrado y copias de seguridad.Continuar leyendo →#Unraid #Trilium "
   },
   {
     "blog": "Salva Más De Cerca",
-    "titulo": "🤷‍♂️ ¿Algo más?",
-    "link": "https://salvamir.github.io/algo-mas",
+    "titulo": "🎧 Música",
+    "link": "https://salvamir.github.io/M%C3%BAsica/",
     "fecha": "18/05/2026",
-    "contenido": "👷🏿‍♀️ Últimas actualizaciones ¡Lo último que hice fue agregar los badges al libro de visitas! Razones por las que quise hacer esta página."
+    "contenido": "Por lo pronto, esta página está vacía."
   },
   {
     "blog": "Salva Más De Cerca",
-    "titulo": "¡Bienvenidos!",
+    "titulo": "Presentación.",
     "link": "https://salvamir.github.io/",
     "fecha": "18/05/2026",
-    "contenido": "Sobre Mi: Hola! Soy Salvador, vivo en Argentina, hago música cuando puedo, estudio Geología y tengo 5 hermanos."
+    "contenido": "Soy Salvador, vivo en Argentina, hago música cuando puedo, estudio Geología y tengo 5 hermanos."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "📚 Librería",
+    "link": "https://salvamir.github.io/librer%C3%ADa",
+    "fecha": "18/05/2026",
+    "contenido": "Acá van a encontrarse con los libros que más me marcaron y algún comentario. El joven de carácter, de Tihamer Toth."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "📅 Ahora",
+    "link": "https://salvamir.github.io/ahora",
+    "fecha": "18/05/2026",
+    "contenido": "Acá archivo lo que vengo viviendo. Conociendo un barsito nuevo. 16/05/2026 Quedaba un poco más lejos."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -110,6 +131,27 @@
     "link": "https://salvamir.github.io/libro-de-visitas",
     "fecha": "18/05/2026",
     "contenido": "Gracias por cruzarte, dejá tu huella: También, podés mandarme un mail si querés conversar. 🌐 Links Te dejo otros lugares interesantes para ver."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salvamir.github.io/algo-mas",
+    "fecha": "18/05/2026",
+    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar los badges al libro de visitas! Cómo tener mi propia página web."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🪁 El Jardín Digital",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
+    "fecha": "18/05/2026",
+    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "📖 Notas",
+    "link": "https://salvamir.github.io/Notas/",
+    "fecha": "18/05/2026",
+    "contenido": "Pequeñas actualizaciones casi anecdóticas de lo que voy viviendo día a día."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -201,27 +243,6 @@
     "link": "https://chancli.dev/blog/gestiona-favoritos-linkding.html",
     "fecha": "17/05/2026",
     "contenido": ""
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "📅 Ahora",
-    "link": "https://salvamir.github.io/ahora",
-    "fecha": "17/05/2026",
-    "contenido": "Acá archivo lo que vengo viviendo. Conociendo un barsito nuevo. 16/04/2026 Quedaba un poco más lejos."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "📖 Notas",
-    "link": "https://salvamir.github.io/Notas/",
-    "fecha": "17/05/2026",
-    "contenido": "Pequeñas actualizaciones casi anecdóticas de lo que voy viviendo día a día."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪁 El Jardín Digital",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
-    "fecha": "17/05/2026",
-    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
   },
   {
     "blog": "El Sueño del Artista Blog",
@@ -406,6 +427,13 @@
     "contenido": "     Vamos a por unos links\nY si, se nos hizo viernes, as&iacute; como si nada, as&iacute; que vamos a relajar con unos buenos enlaces que seguramente te duren hasta el domingo, porque si no duran, bueno, es que sos una m&aacute;quina de leer porquer&iacute;as 😋 Y si te parecen pocos sumate a LinksD"
   },
   {
+    "blog": "Un blog",
+    "titulo": "Claude, de nuevo",
+    "link": "https://nachof.blog/posts/2026/claude-de-nuevo/",
+    "fecha": "15/05/2026",
+    "contenido": "Hace un tiempo comenté sobre Claude, y cómo, por cuestiones del trabajo, me veo obligado a usarlo. También comenté sobre mi experiencia al usarlo. Pero eso fue básicamente una primera impresión, después de pocos días de uso. Quería dar una pequeña acrualización, para ver qué tanto de mis impresiones"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Nuevo Álbum Disponible A Partir De Julio De Este Año | “What Planet Are You From?” Es El Nombre De Lo Nuevo De Galactic Cowboys",
     "link": "https://www.delotroladometal.com.ar/2026/05/15/what-planet-are-you-from-es-el-nombre-de-lo-nuevo-de-galactic-cowboys/",
@@ -539,13 +567,6 @@
     "contenido": "Aparecen en Washington unos arcades con un videojuego satírico con Trump y su guerra con Iran. El juego se puede jugar online en epicfurious.com.\nContinuar leyendo Operation Epic Furious &#8211; Straight to Hell. en Papel Continuo."
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Fatiga digital",
-    "link": "https://gatooscuro.xyz/fatiga-digital/",
-    "fecha": "13/05/2026",
-    "contenido": "Pasé por lo menos 20 minutos pensando solo en el título y sí, la mejor táctica en escritura es primero redactar el contenido y luego el título, pero esta vez\nSeguir leyendo  Fatiga digital\nEl cargo Fatiga digital apareció primero en El cuarto de GatoOscuro."
-  },
-  {
     "blog": "NeoSite Blog",
     "titulo": "NeoSite Podcast #13 - NixOS, una distro diferente",
     "link": "http://blog.neosite.com.ar/post/neosite-podcast-13-nixos-una-distro-diferente",
@@ -665,13 +686,6 @@
     "contenido": "Al buscar un texto en Firefox mediante Ctrl+F si no encuentra el texto buscado, Firefox reproduce un sonido bastante desagradable. Vamos a modificar eso para que reproduzca uno de nuestro sistema"
   },
   {
-    "blog": "Webnauta ⁂",
-    "titulo": "La IA es el diablo",
-    "link": "https://webnauta.blog/p/la-ia-es-el-diablo/",
-    "fecha": "12/05/2026",
-    "contenido": "Doceavo día de mayo, sí que vuela el tiempo. La Semana Santa y el fin de semana extendido por el Día Internacional de los Trabajadores terminaron en un parpadeo. Ojalá mi percepción del tiempo fuera como cuando miro Ben-Hur de Charlton Heston durante la semana mayor; esa película dura una eternidad:"
-  },
-  {
     "blog": "develumpen.com",
     "titulo": "Cómo dibujar un mapa de losetas con canvas",
     "link": "https://develumpen.com/mapa-losetas-canvas",
@@ -747,68 +761,5 @@
     "link": "https://yslasdas.bearblog.dev/frodo-baggins/",
     "fecha": "12/05/2026",
     "contenido": "Hace bastante que quería volver a ilustrar, dibujar, diseñar, lo que sea, hacer algo manual. Como nuevo-fan del Señor de los Anillos, hice mi pequeño aporte, un Frodo en mi estilo.\n\nPróximamente en NFT...\n Responder vía Email."
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "blogroll",
-    "link": "https://vctrsnts.github.io/blogroll/",
-    "fecha": "11/05/2026",
-    "contenido": "Pequeña selección de sitios, canales y podcasts que sigo habitualmente.\nblogs\n\nAtareao\nEl Blog de Lázaro\nuGeek\nSalmorejoGeek\n\nyoutube\n\nYoyo308\nAtareao\n\npodcast\nlinux · self-hosting · tecnología\n\nPodcast Atareao\nDesahogo Geek\nFrente al Cliente\nPapafriki\nuGeek Podcast\nHardware Adictos\nPa ti la perra g"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "colophon",
-    "link": "https://vctrsnts.github.io/colophon/",
-    "fecha": "11/05/2026",
-    "contenido": "Este sitio es mi espacio personal en internet.\nTodo empezó un mal día de 2008, sí que hace tiempo y cuántas cosas han pasado, que decidí tener una web en wordpress donde quería ir guardando mis notas, mis apuntes de todo lo relacionado con la informática y el mundo GNU/Linux por si alguna vez lo vol"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "now",
-    "link": "https://vctrsnts.github.io/now/",
-    "fecha": "11/05/2026",
-    "contenido": "leyendo\n\n\n\n\n\n  \n    \n    \n      \n        \n          ▸ 2025-12-12: Rasputín - Los archivos secretos\n        \n      \n    \n      \n        \n          ▸ 2025-09-04: Fui asistente del doctor Mengele\n        \n      \n    \n      \n        \n          ▸ 2025-06-21: ¿Murió Hitler en el búnker?\n        \n      \n  "
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "search",
-    "link": "https://vctrsnts.github.io/search/",
-    "fecha": "11/05/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "uses",
-    "link": "https://vctrsnts.github.io/uses/",
-    "fecha": "11/05/2026",
-    "contenido": "Esta es la configuración y las herramientas que utilizo actualmente en mi día a día.\nLa página está inspirada en la idea de /uses, habitual en la IndieWeb y la smol web:\ncompartir el hardware, software y entorno con el que uno trabaja y escribe.\nNada especialmente exótico.\nSolo herramientas con las "
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Los nueve niveles",
-    "link": "https://jinversor.co/2026/05/los-nueve-niveles/",
-    "fecha": "11/05/2026",
-    "contenido": "A mi viejo amigo «El Gurre» le robaron una plata y me pidió el favor de investigar o conseguirle la persona que supuestamente le robó. Yo sabía que, de aceptar [&#8230;]\nLa entrada Los nueve niveles se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Detener la descarga del modelo IA de Google Chrome en Windows",
-    "link": "https://mareosdeungeek.es/detener-la-descarga-del-modelo-ia-de-google-chrome-en-windows/",
-    "fecha": "11/05/2026",
-    "contenido": "Recientemente se ha descubierto que Google Chrome está descargando el modelo de IA Gemini Nano en ordenadores Windows. También lo he visto en macOS. La sorpresa, al encontrar el fichero en mi ordenador, no ha sido el tamaño, si no, la fecha de creación, ya que lleva ahí desde el pasado verano. En to"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "550. Pese a quien pese, seguimos vivos.",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/550-pese-quien-pese-seguimos-vivos.html",
-    "fecha": "11/05/2026",
-    "contenido": "&nbsp; &nbsp; Hubo un tiempo, no muy lejano, en el que nos señalabas, nos mirabas de reojo e incluso te burlabas. Pero siempre desde lejos y acompañado, no fuera a ser que nos diéramos cuenta y te pidiéramos explicaciones.&nbsp; &nbsp; Lo sé, lo sé... Quizá nosotros también fuimos algo culpables de "
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "CanalSur a negro",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/canalsur-negro.html",
-    "fecha": "11/05/2026",
-    "contenido": "Vuelve a repetirse la historia de hace cuatro años en plena campaña electoral en CanalSur: algunos sindicatos convocan huelga coincidiendo casi casi con las elecciones autonómicas. No es casual, evidentemente, es deliberado como medida de presión contra la Junta de Andalucía para que ceda a las pret"
   }
 ]
