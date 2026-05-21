@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "En el retrovisor (mucho drama)",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/en-el-retrovisor-mucho-drama/",
+    "fecha": "20/05/2026",
+    "contenido": "Probablemente este post sea dramático en exceso, pero es mi blog y me lo follo como quiero. Y hoy, querda lectora, estoy en la mierda. ¿Lo necesitaba? Pues más bien no. Pero aquí estamos. \n¿Sabéis cuál es la cosa que me da más miedo? Enfermar o envejecer. Normal, claro. Pero no es por el dolor, no e"
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Música contra la crueldad",
     "link": "https://jinversor.co/2026/05/musica-contra-la-crueldad/",
@@ -21,6 +28,13 @@
     "contenido": "Me gustan mucho estos proyectos donde se une todo, una utilidad real muy loca, Inteligencia Artificial, una app, tecnología LoRaWan ... Sigue leyendo\nEl artículo Cómo funciona Halter: La ingeniería detrás de las vallas virtuales para vacas se publicó primero en Ikkaro."
   },
   {
+    "blog": "Luis Carlos Pando",
+    "titulo": "¿Qué demonios está pasando en Chihuahua?",
+    "link": "https://blog.luiscarlospando.com/todo-lo-demas/2026/05/que-demonios-esta-pasando-en-chihuahua/",
+    "fecha": "20/05/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
     "blog": "Mareos de un geek",
     "titulo": "FreakCon 2026: Videojuegos, cosplay y cultura geek en Málaga",
     "link": "https://mareosdeungeek.es/freakcon-2026-videojuegos-cosplay-y-cultura-geek-en-malaga/",
@@ -33,6 +47,13 @@
     "link": "https://matizeta.com/2026/05/20/la-resistencia/",
     "fecha": "20/05/2026",
     "contenido": "Hubo un tiempo que Internet era bien distinto de lo que es hoy. Mucho de nosotros la recordamos.  Esa aldea se construía entre todos, cada uno aportaba y hacía su propia casa en su terreno, sin grandes pretensiones, sino formando parte de un todo, una pequeña comunidad que cada vez se volvía más gra"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "tee: Duplica la salida de un comando en un fichero",
+    "link": "https://voidnull.es/tee-duplica-la-salida-de-un-comando-en-un-fichero/",
+    "fecha": "20/05/2026",
+    "contenido": "El comando tee permite redirigir la salida de un comando a un archivo y mostrarla simultáneamente por pantalla en GNU/Linux."
   },
   {
     "blog": "_ voidNull",
@@ -68,6 +89,13 @@
     "link": "http://frikoteca.blogspot.com/2026/05/la-creacion-publica-de-un-mundo-de.html",
     "fecha": "20/05/2026",
     "contenido": "Aelios es un mundo de juego en el que llevo pensando décadas. No exagero; tengo mapas antiguos dibujados en los apuntes de la universidad, y os aseguro que ya ha llovido bastante desde entonces xD. Que sea una ambientación en la que llevo tanto tiempo trabajando no quiere decir que sea enormemente o"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Canciones de mierda",
+    "link": "https://56k.es/fanta/algunas-canciones-de-mierda-para-que-disfrute-bebiendo-una-limonada/",
+    "fecha": "20/05/2026",
+    "contenido": "Quería recuperar una lista de canciones de mierda que creo que pueden ser buena cosa para estos días de calor. PutoChinoMaricón &#8211; Gente de Mierda &#8211; www.youtube.com/watch?v=hczjFyu4oO8 Astrud – Todo nos parece una mierda &#8211; www.youtube.com/watch?v=SI9gV01m8uE La Polla Records – Ellos"
   },
   {
     "blog": "56K",
@@ -172,7 +200,7 @@
     "titulo": "Hablemos tantito del nuevo Star Fox",
     "link": "https://blog.luiscarlospando.com/gaming/2026/05/hablemos-tantito-del-nuevo-star-fox/",
     "fecha": "19/05/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "note – matizeta",
@@ -225,7 +253,7 @@
   },
   {
     "blog": "56K",
-    "titulo": "fits on a floppy – Manifiesto para software pequeño",
+    "titulo": "Fits on a floppy – Manifiesto para software pequeño",
     "link": "https://56k.es/fanta/fits-on-a-floppy-manifiesto-para-software-pequeno/",
     "fecha": "19/05/2026",
     "contenido": "El manifiesto «Fits on a floppy» (Se ajusta a un disquete) me gusta por ciertos motivos. Por un lado usan como medida un disquete pero no por nostalgia, es decir, un disquete realmente es un mal medio de almacenamiento como lo son por ejemplo los cds o los discos duros SSD. Un disco duro SSD..."
@@ -679,25 +707,11 @@
     "contenido": "El pasado 30 de abril de 2026 openSUSE Leap 15.6 llegó a su fin de vida oficial. Es hora de actualizar a openSUSE Leap 16.0 sí o sí"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Nos cuidamos unas a otras, profe.",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/nos-cuidamos-unas-a-otras-profe/",
-    "fecha": "14/05/2026",
-    "contenido": "Hace unos días tuve una conversación con una alumna a la que admiro y respeto mucho. Es una alumna de 10, en todos los sentidos: educada, simpática, inteligente, creativa, con sentido del humor... Y hasta ahora no la había visto sufrir académicamente. Daba la sensación (jeje, las sensaciones, esa co"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Perplexity para inversionistas",
     "link": "https://jinversor.co/2026/05/perplexity-para-inversionistas/",
     "fecha": "14/05/2026",
     "contenido": "La IA se nos metió en todo. Ese dolor es inevitable. Hace poco me ofrecieron un refrigerador equipado con IA y no supe qué responder. No necesito tal cosa pues [&#8230;]\nLa entrada Perplexity para inversionistas se publicó primero en Jinversor."
-  },
-  {
-    "blog": "develumpen.com",
-    "titulo": "Cómo mover un personaje en canvas",
-    "link": "https://develumpen.com/mover-personaje-canvas",
-    "fecha": "14/05/2026",
-    "contenido": "Después de implementar un mapa de losetas básico en canvas, voy a añadir un personaje y moverlo con las flechas del teclado. Puedes ver el resultado final en Codepen.\n\nLo primero que hago es añadir un nuevo tipo de loseta para representar al personaje. Para que se diferencie bien de las demás, elijo"
   },
   {
     "blog": "pov – matizeta",
@@ -747,54 +761,5 @@
     "link": "https://tecnocajon.wordpress.com/2026/05/14/la-eterna-batalla-de-encontrar-un-buen-navegador/",
     "fecha": "14/05/2026",
     "contenido": "Soy una persona a la que le gusta experimentar, me gusta probar cosas, estar cambiando de sistema operativo, de aplicaciones…. Son muchos los ejemplos. Una de mis guerras continuas es el navegador, seré un gran defensor de Firefox siempre, pero creo que a día de hoy no están llevando las cosas por b"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Buscando culpables 😆",
-    "link": "https://vctrsnts.github.io/posts/2026-05-14-actualizacion-estado/",
-    "fecha": "13/05/2026",
-    "contenido": "Sé que hace tiempo que no escribo ningún artículo, pero es que he estado muy ocupado. Si queréis echarle la culpa a alguien, ahora os diré quiénes han ocasionado este retraso en mi ritmo de publicaciones aquí&hellip;\nLos culpables 😏 son:\n\nLorenzo\nCarlos M.\n\n¿Por qué digo esto? Expongamos a los culpa"
-  },
-  {
-    "blog": "Moribundo Insurgente",
-    "titulo": "Google envió información personal y financiera de un periodista estudiantil a ICE",
-    "link": "https://moribundoinsurgente.noblogs.org/post/2026/05/13/google-envio-informacion-personal-y-financiera-de-un-periodista-estudiantil-a-ice/",
-    "fecha": "13/05/2026",
-    "contenido": "Google entregó un tesoro de datos personales sobre un estudiante y periodista a Estados Unidos. El Servicio de Inmigración y Control de Aduanas en respuesta a una citación que no había sido aprobada por un juez, según un informe de &#8230; Sigue leyendo &#8594;"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Sovereign Tech Fund invierte más de 1 millón de euros en el desarrollo de software #KDE",
-    "link": "https://victorhckinthefreeworld.com/2026/05/13/sovereign-tech-fund-invierte-mas-de-1-millon-de-euros-en-el-desarrollo-de-software-kde/",
-    "fecha": "13/05/2026",
-    "contenido": "La inversión se utilizará para reforzar la fiabilidad estructural y la seguridad de la infraestructura central de KDE, incluyendo Plasma, KDE Linux y los marcos que sustentan sus servicios de comunicación"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Lo básico de Docker",
-    "link": "https://jinversor.co/2026/05/lo-basico-de-docker/",
-    "fecha": "13/05/2026",
-    "contenido": "Docker es una plataforma que nos permite empaquetar aplicaciones completas en pequeñas cajitas llamadas contenedores. Estos contenedores incluyen el código completo de la aplicación, las bibliotecas, las herramientas y todo [&#8230;]\nLa entrada Lo básico de Docker se publicó primero en Jinversor."
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Fatiga digital",
-    "link": "https://gatooscuro.xyz/fatiga-digital/",
-    "fecha": "13/05/2026",
-    "contenido": "Pasé por lo menos 20 minutos pensando solo en el título y sí, la mejor táctica en escritura es primero redactar el contenido y luego el título, pero esta vez\nSeguir leyendo  Fatiga digital\nEl cargo Fatiga digital apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de ProxMenux en Proxmox",
-    "link": "https://voidnull.es/instalacion-de-proxmenux-en-proxmox/",
-    "fecha": "13/05/2026",
-    "contenido": "Es una interfaz de menú en terminal (TUI) que facilita la aplicación de optimizaciones y configuraciones habituales en nodos Proxmox"
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Headlamp: La interfaz moderna para Kubernetes",
-    "link": "https://www.ochobitshacenunbyte.com/2026/05/13/headlamp-la-interfaz-moderna-para-kubernetes/",
-    "fecha": "13/05/2026",
-    "contenido": "Si trabajas a diario con Kubernetes, estarás acostumbrado a la línea de comandos y a usar el comando kubectl, como si no hubiese un mañana. Sin embargo, a medida que el número de microservicios,&#46;&#46;&#46;\nLa entrada Headlamp: La interfaz moderna para Kubernetes se publicó primero en ochobitshac"
   }
 ]
