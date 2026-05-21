@@ -1,5 +1,82 @@
 [
   {
+    "blog": "Adrián Perales",
+    "titulo": "Orgdown y Typst",
+    "link": "https://adrianperales.com/2026/05/orgdown-y-typst/",
+    "fecha": "21/05/2026",
+    "contenido": "Las dos entradas anteriores, sobre escritura a mano y en digital, son una divagación enorme porque, en realidad, lo que yo quería contar en un principio era que había descubierto estos dos lenguajes de marcado. Se me fue de las manos pero aquí estamos, vamos a ello. Orgdown Orgdown es el nombre que "
+  },
+  {
+    "blog": "Blog de Thalskarth",
+    "titulo": "Links de interés 02",
+    "link": "https://blog.thalskarth.ar/links-de-interes-02/",
+    "fecha": "21/05/2026",
+    "contenido": "Y llegó el turno de la segunda entrega de los links de interes. Pueden ver la primera parte acá. Cómo ya comenté la vez anterior, la idea idea ir guardando aquellos enlaces que encuentro interesantes y los publicaré cada vez que considere que ya junté suficientes links."
+  },
+  {
+    "blog": "post-it – matizeta",
+    "titulo": "Mindful Journal",
+    "link": "https://matizeta.com/2026/05/21/mindful-journal/",
+    "fecha": "21/05/2026",
+    "contenido": "Daniel Torres Burriel creó una webapp para registrar nuestro día a día.  A modo de diario privado podemos crear entradas, registrar nuestro estado de ánimo mediante emojis.   Cómo así mismo se define  Mindful Journal es una herramienta de bienestar personal para la reflexión diaria y el seguimiento "
+  },
+  {
+    "blog": "La línea doméstica",
+    "titulo": "Argumento De Autoridad",
+    "link": "https://jmlro.codeberg.page/posts/2026/05-21-argumento-de-autoridad.html",
+    "fecha": "21/05/2026",
+    "contenido": "Nos dan la noticia de su embarazo amigos cercanos y van uniéndose al club. Me da alegría poder compartir algunas escaramuzas sobre la mater/paternidad. Al mismo tiempo intento no apabullar a nadie. Si algo he odiado desde el principio es el comentario con puntos suspensivos sobre los niños y la vida"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Fin de la primera parte",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/fin-de-la-primera-parte.html",
+    "fecha": "21/05/2026",
+    "contenido": "\n  \n    \n  \nPor fin llegó uno de esos momentos marcados en rojo en el calendario: el final de las clases de los grupos de bachillerato. Ayer estuve toda la tarde con las evaluaciones de estos grupos, que marca el principio del final de esta etapa. Si bien aún queda un mes con los grupos de la secund"
+  },
+  {
+    "blog": "",
+    "titulo": "Primer concierto de An Dish.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/05/21/primer-concierto-de-an-dish/",
+    "fecha": "21/05/2026",
+    "contenido": "Este grupo se formo hace menos de un año, el grupo ensaya en un espacio verde de la ciudad de Buenos Aires, este grupo esta compuesto por Nicolás Sokolic y Alejandro Ponte, es un dúo y hacen música irlandesa, este grupo va a dar su primer concierto en Je Suis Lacan el sábado 18 de &#8230; Sigue leye"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Dando con la tecla para cambiar la tecla",
+    "link": "https://56k.es/fanta/dando-con-la-tecla-para-cambiar-la-tecla-del-teclado/",
+    "fecha": "21/05/2026",
+    "contenido": "Uso un teclado HP que es maravilloso y del que solamente tengo una pega: «Tiene una tecla que suspende la sesión muy cerca de la de capturar pantalla». Si busco capturar pantalla lo más probable es que termine bloqueando la sesión y teniendo que meter de nuevo login (esto al menos ocurre en Gnome). "
+  },
+  {
+    "blog": "56K",
+    "titulo": "Simplifier – Buscando suelo para poder saltar",
+    "link": "https://56k.es/fanta/simplifier-buscando-suelo-para-poder-saltar/",
+    "fecha": "21/05/2026",
+    "contenido": "Mucha gente conocerá el inicio del juego Stardew Valley porque el personaje se quema de la programación y se va al campo a tener su propio huerto. Y un poco de esto va la historia que quería contar hoy por aquí. Hace años encontré una web en neocities llamada «simplifier» (simplificar en castellano)"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #877",
+    "link": "https://www.fabio.com.ar/9946-ruleta-rusa-877",
+    "fecha": "21/05/2026",
+    "contenido": "     No te caigas que hay ruleta\nPero se vino el jueves, as&iacute; no m&aacute;s, como si nada, es que estoy trabajando mucho y como que no me doy cuenta que se me pasan los d&iacute;as y, para colmo, en unas semanas todo desaparecer&aacute; porque el mundial de f&uacute;tbol ser&aacute; el &uacute"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Entrevista Con Fernando Ricciardulli De Azeroth | “A Las Bandas Nacionales Siempre Le Buscan El Pelo Al Huevo”",
+    "link": "https://www.delotroladometal.com.ar/2026/05/21/a-las-bandas-nacionales-siempre-le-buscan-el-pelo-al-huevo/",
+    "fecha": "21/05/2026",
+    "contenido": "Partamos de una base. Azeroth es una banda que en lo que a nosotros nos...\nThe post Entrevista Con Fernando Ricciardulli De Azeroth | “A Las Bandas Nacionales Siempre Le Buscan El Pelo Al Huevo” first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Lázaro, el tema para Hugo que he construido",
+    "link": "https://elblogdelazaro.org/asi-es-tema-lazaro-hugo/",
+    "fecha": "21/05/2026",
+    "contenido": "Por: Carlos M.Publicado el 21 de mayo de 2026Así es Lázaro, el tema que he creado para Hugo. Te cuento cómo nació, cómo está construido y por qué prioriza velocidad, privacidad y simplicidad.Continuar leyendo →#Hugo #Tema Hugo #Desarrollo Web "
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "En el retrovisor (mucho drama)",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/en-el-retrovisor-mucho-drama/",
@@ -357,6 +434,13 @@
     "contenido": "Aprende a instalar Docker en Proxmox utilizando un contenedor LXC ligero y eficiente."
   },
   {
+    "blog": "La línea doméstica",
+    "titulo": "Eso Es Porque Lo Tienen",
+    "link": "https://jmlro.codeberg.page/posts/2026/05-18-eso-es-porque-lo-tienen.html",
+    "fecha": "18/05/2026",
+    "contenido": "Queridos hermanos,\n\nA vosotros \nque no os gusta \nhablar de dinero,\nde enviar bizums\no decirle a vuestra pareja \nquién paga esto. \n\nNo os gustan los hospitales \nni los funerales, decís.\nEstáis en medio de un atasco \ny está atestado de turistas. \n\nTodo no es político.\nQue es solo una broma. \nNo son ra"
+  },
+  {
     "blog": "56K",
     "titulo": "La tipografía para ISBN y códigos EAN",
     "link": "https://56k.es/fanta/la-tipografia-para-isbn-y-codigos-ean/",
@@ -481,13 +565,6 @@
     "link": "https://dani.torresburriel.com/ia-proceso-diseno-ux/",
     "fecha": "17/05/2026",
     "contenido": "Me gusta mucho empezar a escribir un post por el principio. Esto puede parecer una obviedad pero es que lo que me gusta es escribir el título del post al final. Básicamente porque yo sé cómo empiezo a escribir pero hay veces que el propio texto me lleva a otros territorios y entonces tengo que &#823"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Gestiona tus favoritos con Linkding",
-    "link": "https://chancli.dev/blog/gestiona-favoritos-linkding.html",
-    "fecha": "17/05/2026",
-    "contenido": ""
   },
   {
     "blog": "El Sueño del Artista Blog",
@@ -686,20 +763,6 @@
     "contenido": "&#8220;Barrilete Cósmico…de qué planeta viniste?&#8221; decía el relator radial del famoso gol de Diego Maradona...\nThe post Nuevo Álbum Disponible A Partir De Julio De Este Año | “What Planet Are You From?” Es El Nombre De Lo Nuevo De Galactic Cowboys first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Mi experiencia en los 101km de Ronda 2026",
-    "link": "https://chancli.dev/blog/experiencia-101km-ronda-2026.html",
-    "fecha": "15/05/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "Cómo escribo en 2026 (y II): en digital",
-    "link": "https://adrianperales.com/2026/05/como-escribo-en-2026-y-ii-en-digital/",
-    "fecha": "14/05/2026",
-    "contenido": "En una entrada anterior dije que, para la mayoría de mis casos, escribir en digital con un teclado es lo que me parece más productivo, así que en esta me enrollo muchísimo sobre este tema. El teclado Ya que en la entrada anterior hablé de instrumentos de escritura a mano, me detengo un momento para "
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Leap 15.6 llega a su fin de vida. Es hora de actualizar",
     "link": "https://victorhckinthefreeworld.com/2026/05/14/opensuse-leap-15-6-llega-a-su-fin-de-vida-es-hora-de-actualizar/",
@@ -714,46 +777,11 @@
     "contenido": "La IA se nos metió en todo. Ese dolor es inevitable. Hace poco me ofrecieron un refrigerador equipado con IA y no supe qué responder. No necesito tal cosa pues [&#8230;]\nLa entrada Perplexity para inversionistas se publicó primero en Jinversor."
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "Una red social para cuando te canses de las redes",
-    "link": "https://matizeta.com/2026/05/14/una-red-social-para-cuando-te-canses-de-las-redes/",
-    "fecha": "14/05/2026",
-    "contenido": "Hay una red social distinta a todas. Se llama Friendster. Quizás te suene el nombre porque lleva el mismo que aquella que existía antes que existiera Facebook, pero que desapreció en 2018. Hoy resurge de otra manera. ¿Que tiene de distinto al resto de las otras redes sociales que conocemos? ¿Cómo te"
-  },
-  {
     "blog": "productor de sostenibilidad",
     "titulo": "Todo lo que deberías saber sobre Malismo",
     "link": "https://productordesostenibilidad.es/2026/05/todo-lo-que-deberias-saber-sobre-malismo/",
     "fecha": "14/05/2026",
     "contenido": "Supe de la existencia de Mauro Entrialgo en algún momento a finales de la segunda mitad de la década de 1990. Uno de esos veranos de pueblo, conocí a la vez las letras de Manolo Kabezabolo y las viñetas de Herminio Bolaextra. Treinta años más tarde he leído “Malismo”, que llevaba esperándome en la e"
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "Grabaciones De Voz",
-    "link": "https://jmlro.codeberg.page/posts/2026/05-14-grabaciones-de-voz.html",
-    "fecha": "14/05/2026",
-    "contenido": "A las 5 AM Ba. ha empezado a hablar. Se quitaba el chupete para decirme todo lo que yo no entendía. Escuchaba con atención el tono, los gorjeos. Yo estaba descansado, extraño, oyéndola en la oscuridad. Después la he acunado y he intentado que siguiera durmiendo. \n\nHace dos años grabé una nota de voz"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Kilómetro sur",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/kilometro-sur.html",
-    "fecha": "14/05/2026",
-    "contenido": "\n  \n    \n  \nPara sorpresa de nadie, ayer se desveló que quien canta la canción del PP de Andalucía en la campaña electoral aún en curso es Juan Manuel Moreno Bonilla, el propio candidato.Bueno, para sorpresa de nadie es decir mucho porque sorprendido me hallo con todos los medios de comunicación en "
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #876",
-    "link": "https://www.fabio.com.ar/9941-ruleta-rusa-876",
-    "fecha": "14/05/2026",
-    "contenido": "     Viajemos hasta la ruleta\nSemanita productiva viene siendo esta, al menos en lo laboral, pero en varios de mis proyectos personales tambi&eacute;n, y el canal de YT de Formula 1 est&aacute; funcionando bien, as&iacute; que estoy contento, qu&eacute; se yo, algo que funciona 🤪 ahora bien, ustedes"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Mortification, Bride, Whitecross Y Más? | Las Visitas Que Fueron, Y Las Que Se Vienen…",
-    "link": "https://www.delotroladometal.com.ar/2026/05/14/las-visitas-que-fueron-y-las-que-se-vienen/",
-    "fecha": "14/05/2026",
-    "contenido": "Latinoamérica siempre fue difícil para las visitas internacionales de los grandes nombres del denominado &#8220;White...\nThe post Mortification, Bride, Whitecross Y Más? | Las Visitas Que Fueron, Y Las Que Se Vienen… first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "El Cajón de la Tecnología",
