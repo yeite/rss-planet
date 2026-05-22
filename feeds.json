@@ -1,5 +1,12 @@
 [
   {
+    "blog": "xol.ar",
+    "titulo": "inspirame",
+    "link": "https://xol.ar/inspirame/",
+    "fecha": "22/05/2026",
+    "contenido": "Busco inspiración."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Orgdown y Typst",
     "link": "https://adrianperales.com/2026/05/orgdown-y-typst/",
@@ -21,11 +28,25 @@
     "contenido": "Daniel Torres Burriel creó una webapp para registrar nuestro día a día.  A modo de diario privado podemos crear entradas, registrar nuestro estado de ánimo mediante emojis.   Cómo así mismo se define  Mindful Journal es una herramienta de bienestar personal para la reflexión diaria y el seguimiento "
   },
   {
-    "blog": "La línea doméstica",
-    "titulo": "Argumento De Autoridad",
-    "link": "https://jmlro.codeberg.page/posts/2026/05-21-argumento-de-autoridad.html",
+    "blog": "esencial",
+    "titulo": "La era de la urgencia",
+    "link": "https://yeite.github.io/esencial/la-era-de-la-urgencia",
     "fecha": "21/05/2026",
-    "contenido": "Nos dan la noticia de su embarazo amigos cercanos y van uniéndose al club. Me da alegría poder compartir algunas escaramuzas sobre la mater/paternidad. Al mismo tiempo intento no apabullar a nadie. Si algo he odiado desde el principio es el comentario con puntos suspensivos sobre los niños y la vida"
+    "contenido": "Debemos aceptar que WhatsApp nunca ha servido para hablar. La culpa siempre fue nuestra por usar incorrectamente esta herramienta maravillosa. Quizá, sólo quizá, lo que necesitamos es superar la era de la urgencia. Desactiva las notificaciones. Deja de responder los mensajes al instante, destruye la"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "553. Contrapunto",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/553-contrapunto.html",
+    "fecha": "21/05/2026",
+    "contenido": "&nbsp; &nbsp; El otro día transité por el extrarradio hasta llegar al tanatorio. La ciudad tiene más de uno, pero solo aquel está alejado del núcleo urbano, construido en la zona industrial. Conozco bastante bien ese polígono, pero no tenía ni idea de que una de las naves más gigantescas que hay fre"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Mon Laferte, Nuestra Femme Fatale en Show Larga Duración",
+    "link": "https://altgr.xyz/2026/05/21/mon-laferte-nuestra-femme-fatale-en-show-larga-duracion/",
+    "fecha": "21/05/2026",
+    "contenido": "El segundo concierto en Santiago de nuestra querida y talentosa Mon Laferte, parte de la gira de promoción de su más reciente disco, Femme Fatale, en Movistar Arena (El primero fue el pasado jueves 14). La noche de martes disfrutamos más de 3 horas de concierto, donde la chilena interpretó completo "
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -110,13 +131,6 @@
     "link": "https://blog.luiscarlospando.com/todo-lo-demas/2026/05/que-demonios-esta-pasando-en-chihuahua/",
     "fecha": "20/05/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "FreakCon 2026: Videojuegos, cosplay y cultura geek en Málaga",
-    "link": "https://mareosdeungeek.es/freakcon-2026-videojuegos-cosplay-y-cultura-geek-en-malaga/",
-    "fecha": "20/05/2026",
-    "contenido": "Este fin de semana llega al Palacio de Congresos de Torremolinos, la décima edición de FreakCon, el festival de cultura geek, videojuegos, series y películas, manga y cómic de Málaga. Por supuesto, tras diez ediciones, van a tirar la casa por la ventana y y habrá un motón de invitados, tanto naciona"
   },
   {
     "blog": "pov – matizeta",
@@ -266,13 +280,6 @@
     "contenido": "El jueves 14 fue el último día de clases y como es un Grado en Información y Documentación relacionado con bibliotecas y la lectura, se me ocurrió recomendar a la clase 3 libros a modo de regalo. Guardo mis lecturas en Zotero y también en BookWyrm y una web que tengo con php y un [&#8230;]"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Sueño en decadencia",
-    "link": "https://gatooscuro.xyz/sueno-en-decadencia/",
-    "fecha": "19/05/2026",
-    "contenido": "Nota: Lo descrito a continuación es un sueño que viví de forma tan intensa que lo siento completamente real. Está escrito tal como lo oscuro que fue. No busco interpretaciones.\nSeguir leyendo  Sueño en decadencia\nEl cargo Sueño en decadencia apareció primero en El cuarto de GatoOscuro."
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "Hablemos tantito del nuevo Star Fox",
     "link": "https://blog.luiscarlospando.com/gaming/2026/05/hablemos-tantito-del-nuevo-star-fox/",
@@ -385,13 +392,6 @@
     "contenido": "Por temas que no vienen al caso, he empezado a mirar tutoriales de Arduino y comprado una placa básica. No quiero complicarme lo más mínimo, solo hacer cuatro tontadas básicas con la placa y poco más.&nbsp;&nbsp;Pero ha sido conectar la placa y llevarme la primera bofetada de realidad. El IDE de Ard"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "La paradoja de la tecnología inteligente",
-    "link": "https://gatooscuro.xyz/la-paradoja-de-la-tecnologia-inteligente/",
-    "fecha": "18/05/2026",
-    "contenido": "Hace unos días estaba navegando por Internet cuando, de la nada, me topé con un video crítico de un internauta en el que expresaba su malestar acerca de la marca\nSeguir leyendo  La paradoja de la tecnología inteligente\nEl cargo La paradoja de la tecnología inteligente apareció primero en El cuarto d"
-  },
-  {
     "blog": "alt43",
     "titulo": "Mi suegro y el capitalismo de vigilancia",
     "link": "https://alt43.es/mi-suegro-y-el-capitalismo-de-vigilancia/",
@@ -432,13 +432,6 @@
     "link": "https://voidnull.es/instalacion-de-docker-en-proxmox-en-un-lxc/",
     "fecha": "18/05/2026",
     "contenido": "Aprende a instalar Docker en Proxmox utilizando un contenedor LXC ligero y eficiente."
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "Eso Es Porque Lo Tienen",
-    "link": "https://jmlro.codeberg.page/posts/2026/05-18-eso-es-porque-lo-tienen.html",
-    "fecha": "18/05/2026",
-    "contenido": "Queridos hermanos,\n\nA vosotros \nque no os gusta \nhablar de dinero,\nde enviar bizums\no decirle a vuestra pareja \nquién paga esto. \n\nNo os gustan los hospitales \nni los funerales, decís.\nEstáis en medio de un atasco \ny está atestado de turistas. \n\nTodo no es político.\nQue es solo una broma. \nNo son ra"
   },
   {
     "blog": "56K",
@@ -565,6 +558,13 @@
     "link": "https://dani.torresburriel.com/ia-proceso-diseno-ux/",
     "fecha": "17/05/2026",
     "contenido": "Me gusta mucho empezar a escribir un post por el principio. Esto puede parecer una obviedad pero es que lo que me gusta es escribir el título del post al final. Básicamente porque yo sé cómo empiezo a escribir pero hay veces que el propio texto me lleva a otros territorios y entonces tengo que &#823"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Gestiona tus favoritos con Linkding",
+    "link": "https://chancli.dev/blog/gestiona-favoritos-linkding.html",
+    "fecha": "17/05/2026",
+    "contenido": ""
   },
   {
     "blog": "El Sueño del Artista Blog",
@@ -700,13 +700,6 @@
     "contenido": "&nbsp;Tratar de darle nombre a la forma, aquella forma,aquel juego de luces que aparece y desaparece,que confunde los colores y los hace fluir, desesperados,en busca de un cauce, de un abanico de posibilidadesque entrelace naciente y desembocadura,oscuridad abisal y naufragio en la orilla,que, en un"
   },
   {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "551. Atrapado en la tormenta",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/551-atrapado-en-la-tormenta.html",
-    "fecha": "15/05/2026",
-    "contenido": "&nbsp; &nbsp; Hubo una tarde de un día inopinado en la que yo conducía en dirección a casa de mis padres. Desde mi punto de salida y con el tráfico habitual, los quince kilómetros a cubrir suponían un cuarto de hora de conducción, siempre y cuando no surgiera algún contratiempo.&nbsp;&nbsp; &nbsp; L"
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "Catima: todas tus tarjetas en una sola APP",
     "link": "https://voidnull.es/catima-todas-tus-tarjetas-en-una-sola-app/",
@@ -719,13 +712,6 @@
     "link": "https://voidnull.es/gestion-de-redes/",
     "fecha": "15/05/2026",
     "contenido": "Aprende cómo funcionan las redes en Docker, los diferentes tipos disponibles y cómo se comunican los contenedores entre sí utilizando DNS interno, aislamiento de redes y exposición de puertos."
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "Origenes",
-    "link": "https://jmlro.codeberg.page/posts/2026/05-15-origenes.html",
-    "fecha": "15/05/2026",
-    "contenido": "Desde que vivo en Madrid, voy conociendo gente que con el tiempo se sorprende, o eso dicen, de que provenga de Valencia. No me ven ninguno de los artibutos/clichés con los que se asocia a los valencianos y además no hablo valenciano ni tampoco sé hacer paellas. Touché. Aún así mi suegra me sigue bus"
   },
   {
     "blog": "La Frikoteca",
@@ -761,33 +747,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/05/15/what-planet-are-you-from-es-el-nombre-de-lo-nuevo-de-galactic-cowboys/",
     "fecha": "15/05/2026",
     "contenido": "&#8220;Barrilete Cósmico…de qué planeta viniste?&#8221; decía el relator radial del famoso gol de Diego Maradona...\nThe post Nuevo Álbum Disponible A Partir De Julio De Este Año | “What Planet Are You From?” Es El Nombre De Lo Nuevo De Galactic Cowboys first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Leap 15.6 llega a su fin de vida. Es hora de actualizar",
-    "link": "https://victorhckinthefreeworld.com/2026/05/14/opensuse-leap-15-6-llega-a-su-fin-de-vida-es-hora-de-actualizar/",
-    "fecha": "14/05/2026",
-    "contenido": "El pasado 30 de abril de 2026 openSUSE Leap 15.6 llegó a su fin de vida oficial. Es hora de actualizar a openSUSE Leap 16.0 sí o sí"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Perplexity para inversionistas",
-    "link": "https://jinversor.co/2026/05/perplexity-para-inversionistas/",
-    "fecha": "14/05/2026",
-    "contenido": "La IA se nos metió en todo. Ese dolor es inevitable. Hace poco me ofrecieron un refrigerador equipado con IA y no supe qué responder. No necesito tal cosa pues [&#8230;]\nLa entrada Perplexity para inversionistas se publicó primero en Jinversor."
-  },
-  {
-    "blog": "productor de sostenibilidad",
-    "titulo": "Todo lo que deberías saber sobre Malismo",
-    "link": "https://productordesostenibilidad.es/2026/05/todo-lo-que-deberias-saber-sobre-malismo/",
-    "fecha": "14/05/2026",
-    "contenido": "Supe de la existencia de Mauro Entrialgo en algún momento a finales de la segunda mitad de la década de 1990. Uno de esos veranos de pueblo, conocí a la vez las letras de Manolo Kabezabolo y las viñetas de Herminio Bolaextra. Treinta años más tarde he leído “Malismo”, que llevaba esperándome en la e"
-  },
-  {
-    "blog": "El Cajón de la Tecnología",
-    "titulo": "La eterna batalla de encontrar un buen navegador…",
-    "link": "https://tecnocajon.wordpress.com/2026/05/14/la-eterna-batalla-de-encontrar-un-buen-navegador/",
-    "fecha": "14/05/2026",
-    "contenido": "Soy una persona a la que le gusta experimentar, me gusta probar cosas, estar cambiando de sistema operativo, de aplicaciones…. Son muchos los ejemplos. Una de mis guerras continuas es el navegador, seré un gran defensor de Firefox siempre, pero creo que a día de hoy no están llevando las cosas por b"
   }
 ]
