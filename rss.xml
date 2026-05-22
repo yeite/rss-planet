@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 22 May 2026 14:14:33 GMT</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 19:22:19 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,100 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Hacer juegos con bash</title>
+<link>https://malagaoriginal.blogspot.com/2026/05/hacer-juegos-con-bash.html</link>
+<guid isPermaLink="true">https://malagaoriginal.blogspot.com/2026/05/hacer-juegos-con-bash.html</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>Malagueños originales y libres</category>
+<description><![CDATA[SÍ, no lo has leído mal pone &quot;Hacer juegos con bash&quot; no &quot;Hacer juegos para bash&quot;, sabíamos que bash es un lenguaje de scripting para GNU/Linux muy potente pero, ¿tanto como para crear un videojuego? Pues sí, de hecho se han creado unos cuantos con él.Lógicamente, no esperes un juego espectacular, pe<br><br><strong>Fuente:</strong> Malagueños originales y libres]]></description>
+</item>
+<item>
+<title>DNS tiene/tenía un límite de 512 bytes?? WTF Parte 3</title>
+<link>https://blog.gorix.xyz/dns-tienetena-un-lmite-de-512-bytes-wtf-parte-4.html</link>
+<guid isPermaLink="true">https://blog.gorix.xyz/dns-tienetena-un-lmite-de-512-bytes-wtf-parte-4.html</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>GoRiX blog</category>
+<description><![CDATA[Alguna vez me pasó que un dominio que resolvía bien desde mi casa pero desde la otra red fallaba al azar. A veces andaba, a veces no. Cambiabas de DNS y mejoraba un toque… en ese momento leí sobre que era y entendí a medias, acá lo bajo a tierra con ejemplos. La causa era una boludez hist<br><br><strong>Fuente:</strong> GoRiX blog]]></description>
+</item>
+<item>
+<title>Seguridad: Analisis de Logs</title>
+<link>https://interlan.ec/blog/2026/05/22/seguridad-analisis-de-logs/</link>
+<guid isPermaLink="true">https://interlan.ec/blog/2026/05/22/seguridad-analisis-de-logs/</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>Interlan</category>
+<description><![CDATA[Es muy probable que si tienes alguna duda y preguntes en un foro o grupo te respondan que vayas a los logs. Se, son groseros, pero hazles caso<br><br><strong>Fuente:</strong> Interlan]]></description>
+</item>
+<item>
+<title>Lecturas recomendadas #6</title>
+<link>https://matizeta.com/2026/05/22/lecturas-recomendadas-6/</link>
+<guid isPermaLink="true">https://matizeta.com/2026/05/22/lecturas-recomendadas-6/</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>pov – matizeta</category>
+<description><![CDATA[10 lecturas publicadas en blogs que me gustaron y quiero compartir. Para más lecturas recordá que podés visitar ¡Blog!¡Blog! Interesante análisis filosófico sobre una de las películas de ciencia ficción más importantes del género. “(…) compara el internet actual con la arquitectura propia de un cent<br><br><strong>Fuente:</strong> pov – matizeta]]></description>
+</item>
+<item>
+<title>La gamificación de una compañía eléctrica sueca</title>
+<link>https://blog.danielaragay.net/la-gamificacion-de-una-compania-electrica-sueca/</link>
+<guid isPermaLink="true">https://blog.danielaragay.net/la-gamificacion-de-una-compania-electrica-sueca/</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>danielaragay.net</category>
+<description><![CDATA[Te cuento en este cap&amp;#xed;tulo como una el&amp;#xe9;ctrica sueca, Tibber, est&amp;#xe1; usando la gamificaci&amp;#xf3;n en un aplicaci&amp;#xf3;n para animarte a consumir cuando la tarifa est&amp;#xe1; m&amp;#xe1;s baja y a consumir menos energ&amp;#xed;a.Formas de patrocinio. Blog<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
+</item>
+<item>
+<title>Retrobant &quot;Surviving Still&quot;: IA i documental</title>
+<link>https://blog.danielaragay.net/retrobant-surviving-still-ia-i-documental/</link>
+<guid isPermaLink="true">https://blog.danielaragay.net/retrobant-surviving-still-ia-i-documental/</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>danielaragay.net</category>
+<description><![CDATA[Et comparteixo com he repr&amp;#xe8;s &amp;#x201c;Surviving Still&amp;#x201d; (https://survivingstill.com), el meu documental sobre el VIH que vaig comen&amp;#xe7;ar fa 10 anys. Gr&amp;#xe0;cies a eines d&amp;#x2019;IA en local i DaVinci Resolve, estic accelerant l&amp;#x2019;edici&amp;#xf3;. Aprofito el meu<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
+</item>
+<item>
+<title>Configurar NetGear como repetidor de tu señal WiFi</title>
+<link>https://voidnull.es/configurar-netgear-como-repetidor-de-tu-senal-wifi/</link>
+<guid isPermaLink="true">https://voidnull.es/configurar-netgear-como-repetidor-de-tu-senal-wifi/</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Amplía tu red WiFi fácilmente configurando un repetidor Netgear N300 y mejora la cobertura en toda tu casa.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
 <title>inspirame</title>
 <link>https://xol.ar/inspirame/</link>
 <guid isPermaLink="true">https://xol.ar/inspirame/</guid>
 <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
 <category>xol.ar</category>
 <description><![CDATA[Busco inspiración.<br><br><strong>Fuente:</strong> xol.ar]]></description>
+</item>
+<item>
+<title>MIG Flash – Preservar juegos de Nintendo Switch</title>
+<link>https://56k.es/fanta/mig-flass-preservando-juegos-de-nintendo-switch/</link>
+<guid isPermaLink="true">https://56k.es/fanta/mig-flass-preservando-juegos-de-nintendo-switch/</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Un amigo me ha contado como funciona esto del MIG Flash. Al parecer es un cartucho de Nintendo Switch que tiene una ranura en un lateral en el que puedes insertar una tarjeta microSD. Yo voy a relatar como funciona pero no me hago responsable de nada amigo/a/e. Si te banean la cuenta de la...<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>Links de Viernes - #942</title>
+<link>https://www.fabio.com.ar/9947-links-de-viernes---942</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/9947-links-de-viernes---942</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Sucio como gato de taller Aqu&amp;iacute; estamos, fr&amp;iacute;o casi invernal, o ya dir&amp;iacute;a que invernal aunque sea oto&amp;ntilde;o, gris, descolorido, de esos d&amp;iacute;as que necesitan de unos buenos links para recuperar el calor y el color, as&amp;iacute; que aqu&amp;iacute; los tienen! Y si te parecen<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Apostle: Chariots Of Iron | El Heavy Metal Al Rescate</title>
+<link>https://www.delotroladometal.com.ar/2026/05/22/el-heavy-metal-al-rescate/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/05/22/el-heavy-metal-al-rescate/</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[(2026 &amp;#8211; Retroactive Records) Nunca me voy a cansar de destacar este tipo de ediciones... The post Apostle: Chariots Of Iron | El Heavy Metal Al Rescate first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Taller de Scribus en FabMVD</title>
+<link>https://javiersam.uy/2026/05/taller-de-scribus-en-fabmvd.html</link>
+<guid isPermaLink="true">https://javiersam.uy/2026/05/taller-de-scribus-en-fabmvd.html</guid>
+<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+<category>JavierSam</category>
+<description><![CDATA[Hace casi un mes, el 24 de abril, en el FLISoL 2026 que se realizó en la FADU, di un taller de Scribus. A fin de cuentas, pude dar un 25% del ejercicio que preparé para la ocasión. Para quienes lo quieran continuar y/o para quienes lo quieran empezar, mañana, sábado 23 de mayo, a las 10:30 hs. en Fa<br><br><strong>Fuente:</strong> JavierSam]]></description>
 </item>
 <item>
 <title>Orgdown y Typst</title>
@@ -63,7 +151,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/05/553-contrapunto.html</guid>
 <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
 <category>La Madre Que Parió Al Pato Negro</category>
-<description><![CDATA[&amp;nbsp; &amp;nbsp; El otro día transité por el extrarradio hasta llegar al tanatorio. La ciudad tiene más de uno, pero solo aquel está alejado del núcleo urbano, construido en la zona industrial. Conozco bastante bien ese polígono, pero no tenía ni idea de que una de las naves más gigantescas que hay fre<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
+<description><![CDATA[&amp;nbsp; &amp;nbsp; El otro día transité por el extrarradio hasta llegar al tanatorio del polígono industrial situado en la zona oeste de la ciudad. Conozco bastante bien ese sitio, pero no tenía ni idea de que una de las naves más gigantescas que hay frente al tanatorio fuera un gimnasio.&amp;nbsp;&amp;nbsp; &amp;nb<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
 </item>
 <item>
 <title>Mon Laferte, Nuestra Femme Fatale en Show Larga Duración</title>
@@ -128,94 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 21 May 2026 12:00:00 GMT</pubDate>
 <category>El blog de Lázaro</category>
 <description><![CDATA[Por: Carlos M.Publicado el 21 de mayo de 2026Así es Lázaro, el tema que he creado para Hugo. Te cuento cómo nació, cómo está construido y por qué prioriza velocidad, privacidad y simplicidad.Continuar leyendo →#Hugo #Tema Hugo #Desarrollo Web<br><br><strong>Fuente:</strong> El blog de Lázaro]]></description>
-</item>
-<item>
-<title>En el retrovisor (mucho drama)</title>
-<link>https://jodidaperonosorprendida.mataroa.blog/blog/en-el-retrovisor-mucho-drama/</link>
-<guid isPermaLink="true">https://jodidaperonosorprendida.mataroa.blog/blog/en-el-retrovisor-mucho-drama/</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category>Jodida, pero no sorprendida</category>
-<description><![CDATA[Probablemente este post sea dramático en exceso, pero es mi blog y me lo follo como quiero. Y hoy, querda lectora, estoy en la mierda. ¿Lo necesitaba? Pues más bien no. Pero aquí estamos. ¿Sabéis cuál es la cosa que me da más miedo? Enfermar o envejecer. Normal, claro. Pero no es por el dolor, no e<br><br><strong>Fuente:</strong> Jodida, pero no sorprendida]]></description>
-</item>
-<item>
-<title>Música contra la crueldad</title>
-<link>https://jinversor.co/2026/05/musica-contra-la-crueldad/</link>
-<guid isPermaLink="true">https://jinversor.co/2026/05/musica-contra-la-crueldad/</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category>Jinversor</category>
-<description><![CDATA[Una cosa sí nos dejó la mala madre España —además del idioma, la religión católica, la burocracia insaciable y la sífilis— y fue la crueldad para con los animales. No [&amp;#8230;] La entrada Música contra la crueldad se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
-</item>
-<item>
-<title>Un corazón duro</title>
-<link>https://jinversor.co/2026/05/un-corazon-duro/</link>
-<guid isPermaLink="true">https://jinversor.co/2026/05/un-corazon-duro/</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category>Jinversor</category>
-<description><![CDATA[Los años y la experiencia me convirtieron en una persona de corazón duro. Duro como una puta roca de moissanita. Duro como los callos de las patas de un venezolano [&amp;#8230;] La entrada Un corazón duro se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
-</item>
-<item>
-<title>Cómo funciona Halter: La ingeniería detrás de las vallas virtuales para vacas</title>
-<link>https://www.ikkaro.com/control-ganado-ia-iot-halter/</link>
-<guid isPermaLink="true">https://www.ikkaro.com/control-ganado-ia-iot-halter/</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category>Ikkaro</category>
-<description><![CDATA[Me gustan mucho estos proyectos donde se une todo, una utilidad real muy loca, Inteligencia Artificial, una app, tecnología LoRaWan ... Sigue leyendo El artículo Cómo funciona Halter: La ingeniería detrás de las vallas virtuales para vacas se publicó primero en Ikkaro.<br><br><strong>Fuente:</strong> Ikkaro]]></description>
-</item>
-<item>
-<title>¿Qué demonios está pasando en Chihuahua?</title>
-<link>https://blog.luiscarlospando.com/todo-lo-demas/2026/05/que-demonios-esta-pasando-en-chihuahua/</link>
-<guid isPermaLink="true">https://blog.luiscarlospando.com/todo-lo-demas/2026/05/que-demonios-esta-pasando-en-chihuahua/</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category>Luis Carlos Pando</category>
-<description><![CDATA[Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋<br><br><strong>Fuente:</strong> Luis Carlos Pando]]></description>
-</item>
-<item>
-<title>La resistencia</title>
-<link>https://matizeta.com/2026/05/20/la-resistencia/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/05/20/la-resistencia/</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category>pov – matizeta</category>
-<description><![CDATA[Hubo un tiempo que Internet era bien distinto de lo que es hoy. Mucho de nosotros la recordamos. Esa aldea se construía entre todos, cada uno aportaba y hacía su propia casa en su terreno, sin grandes pretensiones, sino formando parte de un todo, una pequeña comunidad que cada vez se volvía más gra<br><br><strong>Fuente:</strong> pov – matizeta]]></description>
-</item>
-<item>
-<title>tee: Duplica la salida de un comando en un fichero</title>
-<link>https://voidnull.es/tee-duplica-la-salida-de-un-comando-en-un-fichero/</link>
-<guid isPermaLink="true">https://voidnull.es/tee-duplica-la-salida-de-un-comando-en-un-fichero/</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[El comando tee permite redirigir la salida de un comando a un archivo y mostrarla simultáneamente por pantalla en GNU/Linux.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Instalación de Docker en Ubuntu 26.04</title>
-<link>https://voidnull.es/instalacion-de-docker-en-ubuntu-26-04/</link>
-<guid isPermaLink="true">https://voidnull.es/instalacion-de-docker-en-ubuntu-26-04/</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[Docker es una aplicación que simplifica el proceso de gestión de los procesos de las aplicaciones en contenedores. Los contenedores le permiten ejecutar sus aplicaciones en procesos aislados de recursos.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Blender y el dinero de Anthropic</title>
-<link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/20/20260520-blender-y-anthropic/</link>
-<guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/20/20260520-blender-y-anthropic/</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category>ENTRE DRAGONES Y PINGÜINOS</category>
-<description><![CDATA[El lavado de cara de Anthropic ha dañado la reputación e integridad de un proyecto impecable<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
-</item>
-<item>
-<title>Zapatero</title>
-<link>https://www.xn--jmuoz-qta.es/2026/05/zapatero.html</link>
-<guid isPermaLink="true">https://www.xn--jmuoz-qta.es/2026/05/zapatero.html</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category>El cuaderno de J. Muñoz</category>
-<description><![CDATA[Creo que son incontables las veces que he escuchado en las últimas horas la palabra &quot;Zapatero&quot;, en referencia, claro, al ex presidente José Luis Rodríguez Zapatero.Corrupción, Plus Ultra, sus hijas de por medio... La verdad es que sin ser votantes socialista y diciendo con orgullo que no<br><br><strong>Fuente:</strong> El cuaderno de J. Muñoz]]></description>
-</item>
-<item>
-<title>Recomendación.</title>
-<link>https://mundoceltamedieval.wordpress.com/2026/05/20/recomendacion-17/</link>
-<guid isPermaLink="true">https://mundoceltamedieval.wordpress.com/2026/05/20/recomendacion-17/</guid>
-<pubDate>Wed, 20 May 2026 12:00:00 GMT</pubDate>
-<category></category>
-<description><![CDATA[Les dejo una interpretación de The Ramparts, un grupo vocal formado en Dublin Irlanda, es el tipico grupo de Pub pero con un poco de musica coral de la opera y de la música religiosa.<br><br><strong>Fuente:</strong> ]]></description>
 </item>
 
 </channel>
