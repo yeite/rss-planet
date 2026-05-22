@@ -1,10 +1,87 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Hacer juegos con bash",
+    "link": "https://malagaoriginal.blogspot.com/2026/05/hacer-juegos-con-bash.html",
+    "fecha": "22/05/2026",
+    "contenido": "SÍ, no lo has leído mal pone \"Hacer juegos con bash\" no \"Hacer juegos para bash\", sabíamos que bash es un lenguaje de scripting para GNU/Linux muy potente pero, ¿tanto como para crear un videojuego? Pues sí, de hecho se han creado unos cuantos con él.Lógicamente, no esperes un juego espectacular, pe"
+  },
+  {
+    "blog": "GoRiX blog",
+    "titulo": "DNS tiene/tenía un límite de 512 bytes?? WTF Parte 3",
+    "link": "https://blog.gorix.xyz/dns-tienetena-un-lmite-de-512-bytes-wtf-parte-4.html",
+    "fecha": "22/05/2026",
+    "contenido": "\n    Alguna vez me pasó que un dominio que resolvía bien desde mi casa pero desde la otra red fallaba al azar. A veces andaba, a veces no. Cambiabas de DNS y mejoraba un toque… en ese momento leí sobre que era y entendí a medias, acá lo bajo a tierra con ejemplos.\n\n\n    La causa era una boludez hist"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Seguridad: Analisis de Logs",
+    "link": "https://interlan.ec/blog/2026/05/22/seguridad-analisis-de-logs/",
+    "fecha": "22/05/2026",
+    "contenido": "Es muy probable que si tienes alguna duda y preguntes en un foro o grupo te respondan que vayas a los logs. Se, son groseros, pero hazles caso"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Lecturas recomendadas #6",
+    "link": "https://matizeta.com/2026/05/22/lecturas-recomendadas-6/",
+    "fecha": "22/05/2026",
+    "contenido": "10 lecturas publicadas en blogs que me gustaron y quiero compartir. Para más lecturas recordá que podés visitar ¡Blog!¡Blog! Interesante análisis filosófico sobre una de las películas de ciencia ficción más importantes del género. “(…) compara el internet actual con la arquitectura propia de un cent"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "La gamificación de una compañía eléctrica sueca",
+    "link": "https://blog.danielaragay.net/la-gamificacion-de-una-compania-electrica-sueca/",
+    "fecha": "22/05/2026",
+    "contenido": "Te cuento en este cap&#xed;tulo como una el&#xe9;ctrica sueca, Tibber, est&#xe1; usando la gamificaci&#xf3;n en un aplicaci&#xf3;n para animarte a consumir cuando la tarifa est&#xe1; m&#xe1;s baja y a consumir menos energ&#xed;a.Formas de patrocinio. Blog"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Retrobant \"Surviving Still\": IA i documental",
+    "link": "https://blog.danielaragay.net/retrobant-surviving-still-ia-i-documental/",
+    "fecha": "22/05/2026",
+    "contenido": "Et comparteixo com he repr&#xe8;s &#x201c;Surviving Still&#x201d; (https://survivingstill.com), el meu documental sobre el VIH que vaig comen&#xe7;ar fa 10 anys. Gr&#xe0;cies a eines d&#x2019;IA en local i DaVinci Resolve, estic accelerant l&#x2019;edici&#xf3;. Aprofito el meu"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Configurar NetGear como repetidor de tu señal WiFi",
+    "link": "https://voidnull.es/configurar-netgear-como-repetidor-de-tu-senal-wifi/",
+    "fecha": "22/05/2026",
+    "contenido": "Amplía tu red WiFi fácilmente configurando un repetidor Netgear N300 y mejora la cobertura en toda tu casa."
+  },
+  {
     "blog": "xol.ar",
     "titulo": "inspirame",
     "link": "https://xol.ar/inspirame/",
     "fecha": "22/05/2026",
     "contenido": "Busco inspiración."
+  },
+  {
+    "blog": "56K",
+    "titulo": "MIG Flash – Preservar juegos de Nintendo Switch",
+    "link": "https://56k.es/fanta/mig-flass-preservando-juegos-de-nintendo-switch/",
+    "fecha": "22/05/2026",
+    "contenido": "Un amigo me ha contado como funciona esto del MIG Flash. Al parecer es un cartucho de Nintendo Switch que tiene una ranura en un lateral en el que puedes insertar una tarjeta microSD. Yo voy a relatar como funciona pero no me hago responsable de nada amigo/a/e. Si te banean la cuenta de la..."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #942",
+    "link": "https://www.fabio.com.ar/9947-links-de-viernes---942",
+    "fecha": "22/05/2026",
+    "contenido": "     Sucio como gato de taller\nAqu&iacute; estamos, fr&iacute;o casi invernal, o ya dir&iacute;a que invernal aunque sea oto&ntilde;o, gris, descolorido, de esos d&iacute;as que necesitan de unos buenos links para recuperar el calor y el color, as&iacute; que aqu&iacute; los tienen! Y si te parecen "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Apostle: Chariots Of Iron | El Heavy Metal Al Rescate",
+    "link": "https://www.delotroladometal.com.ar/2026/05/22/el-heavy-metal-al-rescate/",
+    "fecha": "22/05/2026",
+    "contenido": "(2026 &#8211; Retroactive Records) Nunca me voy a cansar de destacar este tipo de ediciones...\nThe post Apostle: Chariots Of Iron | El Heavy Metal Al Rescate first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Taller de Scribus en FabMVD",
+    "link": "https://javiersam.uy/2026/05/taller-de-scribus-en-fabmvd.html",
+    "fecha": "22/05/2026",
+    "contenido": "Hace casi un mes, el 24 de abril, en el FLISoL 2026 que se realizó en la FADU, di un taller de Scribus. A fin de cuentas, pude dar un 25% del ejercicio que preparé para la ocasión. Para quienes lo quieran continuar y/o para quienes lo quieran empezar, mañana, sábado 23 de mayo, a las 10:30 hs. en Fa"
   },
   {
     "blog": "Adrián Perales",
@@ -39,7 +116,7 @@
     "titulo": "553. Contrapunto",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/05/553-contrapunto.html",
     "fecha": "21/05/2026",
-    "contenido": "&nbsp; &nbsp; El otro día transité por el extrarradio hasta llegar al tanatorio. La ciudad tiene más de uno, pero solo aquel está alejado del núcleo urbano, construido en la zona industrial. Conozco bastante bien ese polígono, pero no tenía ni idea de que una de las naves más gigantescas que hay fre"
+    "contenido": "&nbsp; &nbsp; El otro día transité por el extrarradio hasta llegar al tanatorio del polígono industrial situado en la zona oeste de la ciudad. Conozco bastante bien ese sitio, pero no tenía ni idea de que una de las naves más gigantescas que hay frente al tanatorio fuera un gimnasio.&nbsp;&nbsp; &nb"
   },
   {
     "blog": "Eterno aprendiz",
@@ -131,6 +208,13 @@
     "link": "https://blog.luiscarlospando.com/todo-lo-demas/2026/05/que-demonios-esta-pasando-en-chihuahua/",
     "fecha": "20/05/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "FreakCon 2026: Videojuegos, cosplay y cultura geek en Málaga",
+    "link": "https://mareosdeungeek.es/freakcon-2026-videojuegos-cosplay-y-cultura-geek-en-malaga/",
+    "fecha": "20/05/2026",
+    "contenido": "Este fin de semana llega al Palacio de Congresos de Torremolinos, la décima edición de FreakCon, el festival de cultura geek, videojuegos, series y películas, manga y cómic de Málaga. Por supuesto, tras diez ediciones, van a tirar la casa por la ventana y y habrá un motón de invitados, tanto naciona"
   },
   {
     "blog": "pov – matizeta",
@@ -280,6 +364,13 @@
     "contenido": "El jueves 14 fue el último día de clases y como es un Grado en Información y Documentación relacionado con bibliotecas y la lectura, se me ocurrió recomendar a la clase 3 libros a modo de regalo. Guardo mis lecturas en Zotero y también en BookWyrm y una web que tengo con php y un [&#8230;]"
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Sueño en decadencia",
+    "link": "https://gatooscuro.xyz/sueno-en-decadencia/",
+    "fecha": "19/05/2026",
+    "contenido": "Nota: Lo descrito a continuación es un sueño que viví de forma tan intensa que lo siento completamente real. Está escrito tal como lo oscuro que fue. No busco interpretaciones.\nSeguir leyendo  Sueño en decadencia\nEl cargo Sueño en decadencia apareció primero en El cuarto de GatoOscuro."
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "Hablemos tantito del nuevo Star Fox",
     "link": "https://blog.luiscarlospando.com/gaming/2026/05/hablemos-tantito-del-nuevo-star-fox/",
@@ -340,7 +431,7 @@
     "titulo": "Fits on a floppy – Manifiesto para software pequeño",
     "link": "https://56k.es/fanta/fits-on-a-floppy-manifiesto-para-software-pequeno/",
     "fecha": "19/05/2026",
-    "contenido": "El manifiesto «Fits on a floppy» (Se ajusta a un disquete) me gusta por ciertos motivos. Por un lado usan como medida un disquete pero no por nostalgia, es decir, un disquete realmente es un mal medio de almacenamiento como lo son por ejemplo los cds o los discos duros SSD. Un disco duro SSD..."
+    "contenido": "El manifiesto «Fits on a floppy» (Se ajusta a un disquete) me gusta por ciertos motivos (mezcla computación con limites y el principio KISS). Por un lado usan como medida un disquete pero no por nostalgia, es decir, un disquete realmente es un mal medio de almacenamiento como lo son por ejemplo los "
   },
   {
     "blog": "Fabio.com.ar",
@@ -390,6 +481,13 @@
     "link": "http://unbrutocondebian.blogspot.com/2026/05/no-puedo-escribir-en-un-arduino.html",
     "fecha": "18/05/2026",
     "contenido": "Por temas que no vienen al caso, he empezado a mirar tutoriales de Arduino y comprado una placa básica. No quiero complicarme lo más mínimo, solo hacer cuatro tontadas básicas con la placa y poco más.&nbsp;&nbsp;Pero ha sido conectar la placa y llevarme la primera bofetada de realidad. El IDE de Ard"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "La paradoja de la tecnología inteligente",
+    "link": "https://gatooscuro.xyz/la-paradoja-de-la-tecnologia-inteligente/",
+    "fecha": "18/05/2026",
+    "contenido": "Hace unos días estaba navegando por Internet cuando, de la nada, me topé con un video crítico de un internauta en el que expresaba su malestar acerca de la marca\nSeguir leyendo  La paradoja de la tecnología inteligente\nEl cargo La paradoja de la tecnología inteligente apareció primero en El cuarto d"
   },
   {
     "blog": "alt43",
@@ -644,13 +742,6 @@
     "contenido": "Nuevo libro de Cristina Monge, “Contra el descontento. Por una alianza para construir futuros deseables”. Me lo acabo de comprar y estoy deseando hincarle el diente.\nLa entrada Nuevo libro: contra el descontento se publicó primero en Blog de Daniel Torres Burriel."
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Crear una imagen para una microSD a partir de los archivos y directorios que hay en una ruta de directorio",
-    "link": "https://malagaoriginal.blogspot.com/2026/05/crear-una-imagen-para-una-microsd.html",
-    "fecha": "15/05/2026",
-    "contenido": "Supongamos que queremos crear una imagen para distribuir entre dispositivos que consiste en un conjunto de archivos y directorios contenidos en un archivo ZIP que hay que volcar en una microSD con formato FAT32, por ejemplo para usar algún desarrollo baremetal para algún dispositivo ARM, real o emul"
-  },
-  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Tenemos nuevo tema!!",
     "link": "https://vctrsnts.github.io/posts/2026-05-16-nuevo-tema/",
@@ -665,39 +756,11 @@
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
-    "blog": "Jinversor",
-    "titulo": "El Bronx de Bogotá",
-    "link": "https://jinversor.co/2026/05/el-bronx-de-bogota/",
-    "fecha": "15/05/2026",
-    "contenido": "No profundizaré en las razones por las cuales siento una gran fascinación histórica por el extinto Bronx de Bogotá. Basta decir que lo conocí una noche de mayo del lejano [&#8230;]\nLa entrada El Bronx de Bogotá se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Salon de la Fama del Spam 13: Arqueologia del Spam",
-    "link": "https://interlan.ec/blog/2026/05/15/salon-de-la-fama-del-spam-13-arqueologia-del-spam/",
-    "fecha": "15/05/2026",
-    "contenido": "Y en un nuevo episodio del salon de la fama del spam, hoy haremos una breve presentacion de una reliquia de mi servidor. Un ruso intentando crear una web porno a punta de comentarios. He hecho una captura de pantalla del texto que escribí en esta entrada porque no quiero darles gusto, pero quiero co"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "¿Por qué siento que en Latinoamérica vivimos más como en un internet prestado?",
     "link": "https://blog.luiscarlospando.com/personal/2026/05/por-que-siento-que-en-latinoamerica-vivimos-mas-como-en-un-internet-prestado/",
     "fecha": "15/05/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "textosperdidos – matizeta",
-    "titulo": "Mi Musa",
-    "link": "https://matizeta.com/2026/05/15/mi-musa/",
-    "fecha": "15/05/2026",
-    "contenido": "Recuerdo las noches de desveloque me sentaba a escribir. Una voz me recitaba al oídopalabras que volcaba en el papel,yo solo era un médiumde esa musa. Con una rapidez inusuallas palabras caían una tras otra en el papel. Pasó una década de aquel encuentro de madrugadas. Mi musa ya no está aquí¿adonde"
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "Los caprichos del agua",
-    "link": "http://locutusbit.blogspot.com/2026/05/los-caprichos-del-agua.html",
-    "fecha": "15/05/2026",
-    "contenido": "&nbsp;Tratar de darle nombre a la forma, aquella forma,aquel juego de luces que aparece y desaparece,que confunde los colores y los hace fluir, desesperados,en busca de un cauce, de un abanico de posibilidadesque entrelace naciente y desembocadura,oscuridad abisal y naufragio en la orilla,que, en un"
   },
   {
     "blog": "_ voidNull",
@@ -707,45 +770,10 @@
     "contenido": "Gestor de tarjetas de fidelización libre para llevar todas tus tarjetas en el móvil sin depender de apps privativas."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Gestión de redes #12",
-    "link": "https://voidnull.es/gestion-de-redes/",
-    "fecha": "15/05/2026",
-    "contenido": "Aprende cómo funcionan las redes en Docker, los diferentes tipos disponibles y cómo se comunican los contenedores entre sí utilizando DNS interno, aislamiento de redes y exposición de puertos."
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Los proyectos que me llaman (y los que me repelen) a mediados de 2026",
-    "link": "http://frikoteca.blogspot.com/2026/05/los-proyectos-que-me-llaman-y-los-que.html",
-    "fecha": "15/05/2026",
-    "contenido": "Hace una semanas tuve que reorganizar otra vez mi biblioteca rolera y librojueguil, porque de nuevo no entraba un libro en las tres estanterías de Ikea en las que moran las obras que he ido adquiriendo en las últimas décadas. Os alegrará sin duda saber que he logrado optimizar de nuevo el espacio, e"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Gafas para ver el total eclipse of the heart el 12A",
-    "link": "https://56k.es/fanta/gafas-para-ver-el-total-eclipse-of-the-heart-el-12a/",
-    "fecha": "15/05/2026",
-    "contenido": "Me han regalado 2 gafas para ver el 12 de Agosto el Eclipse. Eso supone que tocará ese día ir a algún sitio de estos: sitios para ver el eclipse en España. No se a que sitio iré finalmente pero uno que me gusta es el del Museo Paleontológico de Cuenca. Pero posiblemente no iré..."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #941",
-    "link": "https://www.fabio.com.ar/9942-links-de-viernes---941",
-    "fecha": "15/05/2026",
-    "contenido": "     Vamos a por unos links\nY si, se nos hizo viernes, as&iacute; como si nada, as&iacute; que vamos a relajar con unos buenos enlaces que seguramente te duren hasta el domingo, porque si no duran, bueno, es que sos una m&aacute;quina de leer porquer&iacute;as 😋 Y si te parecen pocos sumate a LinksD"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Claude, de nuevo",
     "link": "https://nachof.blog/posts/2026/claude-de-nuevo/",
     "fecha": "15/05/2026",
     "contenido": "Hace un tiempo comenté sobre Claude, y cómo, por cuestiones del trabajo, me veo obligado a usarlo. También comenté sobre mi experiencia al usarlo. Pero eso fue básicamente una primera impresión, después de pocos días de uso. Quería dar una pequeña acrualización, para ver qué tanto de mis impresiones"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Nuevo Álbum Disponible A Partir De Julio De Este Año | “What Planet Are You From?” Es El Nombre De Lo Nuevo De Galactic Cowboys",
-    "link": "https://www.delotroladometal.com.ar/2026/05/15/what-planet-are-you-from-es-el-nombre-de-lo-nuevo-de-galactic-cowboys/",
-    "fecha": "15/05/2026",
-    "contenido": "&#8220;Barrilete Cósmico…de qué planeta viniste?&#8221; decía el relator radial del famoso gol de Diego Maradona...\nThe post Nuevo Álbum Disponible A Partir De Julio De Este Año | “What Planet Are You From?” Es El Nombre De Lo Nuevo De Galactic Cowboys first appeared on Del Otro Lado Metal."
   }
 ]
