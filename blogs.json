@@ -10,6 +10,15 @@
     "Sponsor": "si"
   },
   {
+    "Nombre": "El Cajón de la Tecnología",
+    "Url": "https://tecnocajon.wordpress.com",
+    "Feed": "https://tecnocajon.wordpress.com/feed",
+    "Descripción": "El Cajón de la Tecnología es un blog personal en el que hablamos de tecnología, Linux, software libre y tenemos artículos de opinión.",
+    "Categoría": "Tecnología",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
     "Nombre": "panic_error!",
     "Url": "https://panicerror.org/blog/index.html",
     "Feed": "https://panicerror.org/blog/atom.xml",
@@ -337,14 +346,6 @@
     "Url": "https://elblogdelazaro.org/",
     "Feed": "https://elblogdelazaro.org/index.xml",
     "Descripción": "Blog personal, una especie de cuaderno digital donde voy guardando notas, ideas y cosas que voy aprendiendo sobre GNU/Linux, redes, self-hosting y alguna nota más personal.",
-    "Categoría": "Tecnología",
-    "País": "España"
-  },
-  {
-    "Nombre": "El Cajón de la Tecnología",
-    "Url": "https://tecnocajon.wordpress.com",
-    "Feed": "https://tecnocajon.wordpress.com/feed",
-    "Descripción": "El Cajón de la Tecnología es un blog personal en el que hablamos de tecnología, Linux, software libre y tenemos artículos de opinión.",
     "Categoría": "Tecnología",
     "País": "España"
   },
