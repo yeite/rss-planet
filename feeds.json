@@ -1,5 +1,26 @@
 [
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Cómo Internet convirtió la autonomía en una carga individual",
+    "link": "https://gatooscuro.xyz/como-internet-convirtio-la-autonomia-en-una-carga-individual/",
+    "fecha": "23/05/2026",
+    "contenido": "Hubo una época en que Internet parecía una extensión natural de la curiosidad humana. Un territorio caótico, sí, pero todavía moldeable. Existía la sensación de que aprender sobre tecnología otorgaba\nSeguir leyendo  Cómo Internet convirtió la autonomía en una carga individual\nEl cargo Cómo Internet "
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Feria",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/feria.html",
+    "fecha": "23/05/2026",
+    "contenido": "\n  \n    \n  \nUn año más, llega la feria. Un año más, es probable que ni la pise si puedo evitarlo.En años anteriores, no he ido por circunstancias ajenas: hace dos por cuestiones laborales (no me daba tiempo), el año pasado por el esguince que tuve en el pie cuando casi me atropellan... sumando y sum"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Desde San Francisco, Esto Es Hand Of Fire | La Tradición Del Thrash Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/05/23/la-tradicion-del-thrash-metal/",
+    "fecha": "23/05/2026",
+    "contenido": "Si hay un lugar que historia en el Thrash Metal, ese es la ciudad de...\nThe post Desde San Francisco, Esto Es Hand Of Fire | La Tradición Del Thrash Metal first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Hacer juegos con bash",
     "link": "https://malagaoriginal.blogspot.com/2026/05/hacer-juegos-con-bash.html",
@@ -26,13 +47,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/05/22/opensuse-tumbleweed-revision-de-la-semana-21-de-2026/",
     "fecha": "22/05/2026",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "El punk nacional",
-    "link": "https://jinversor.co/2026/05/el-punk-nacional/",
-    "fecha": "22/05/2026",
-    "contenido": "Después de escribir la entrada anterior quedé pensando largo y tendido en el punk nacional colombiano. Recordé la época en que en el colegio nos prestábamos e intercambiábamos casettes regrabados. [&#8230;]\nLa entrada El punk nacional se publicó primero en Jinversor."
   },
   {
     "blog": "Interlan",
@@ -250,20 +264,6 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/en-el-retrovisor-mucho-drama/",
     "fecha": "20/05/2026",
     "contenido": "Probablemente este post sea dramático en exceso, pero es mi blog y me lo follo como quiero. Y hoy, querda lectora, estoy en la mierda. ¿Lo necesitaba? Pues más bien no. Pero aquí estamos. \n¿Sabéis cuál es la cosa que me da más miedo? Enfermar o envejecer. Normal, claro. Pero no es por el dolor, no e"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Música contra la crueldad",
-    "link": "https://jinversor.co/2026/05/musica-contra-la-crueldad/",
-    "fecha": "20/05/2026",
-    "contenido": "Una cosa sí nos dejó la mala madre España —además del idioma, la religión católica, la burocracia insaciable y la sífilis— y fue la crueldad para con los animales. No [&#8230;]\nLa entrada Música contra la crueldad se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Un corazón duro",
-    "link": "https://jinversor.co/2026/05/un-corazon-duro/",
-    "fecha": "20/05/2026",
-    "contenido": "Los años y la experiencia me convirtieron en una persona de corazón duro. Duro como una puta roca de moissanita. Duro como los callos de las patas de un venezolano [&#8230;]\nLa entrada Un corazón duro se publicó primero en Jinversor."
   },
   {
     "blog": "Ikkaro",
@@ -532,20 +532,6 @@
     "contenido": "En un viaje de Madrid a Barcelona en un Frecciarossa 1000 de Iryo noté un movimiento peculiar, como si el tren me meciera. ¿Qué estaba pasando? ¿Sería el mítico movimiento de lazo, la inestabilidad que puede surgir en trenes de alta velocidad circulando en rectas?"
   },
   {
-    "blog": "Jinversor",
-    "titulo": "¿Quién soy?",
-    "link": "https://jinversor.co/2026/05/quien-soy/",
-    "fecha": "18/05/2026",
-    "contenido": "He visto que muchos blogs tienen una página llamada ¿Quién soy? Donde el autor cuenta algunas cosas de su vida para que sus lectores le conozcan un poco. Creo que, [&#8230;]\nLa entrada ¿Quién soy? se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Irresistible",
-    "link": "https://jinversor.co/2026/05/irresistible/",
-    "fecha": "18/05/2026",
-    "contenido": "Terminé de leer el libro Irresistible ¿Quién nos ha convertido en yonquis tecnológicos? de Adam Alter y creo que vale mucho la pena. Hacía mucho no enlazaba libros de la [&#8230;]\nLa entrada Irresistible se publicó primero en Jinversor."
-  },
-  {
     "blog": "Un bruto con Debian",
     "titulo": "No puedo escribir en un Arduino",
     "link": "http://unbrutocondebian.blogspot.com/2026/05/no-puedo-escribir-en-un-arduino.html",
@@ -770,25 +756,11 @@
     "contenido": "Tras una semana bien atareado te traigo las novedades sobre el documental, el Songkran o fin de a&#xf1;o tailand&#xe9;s en Espa&#xf1;a y el nuevo integrante en casa.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/"
   },
   {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Fin de la ilusión cordobesista",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/fin-de-la-ilusion-cordobesista.html",
-    "fecha": "16/05/2026",
-    "contenido": "\n  \n    \n  \nEl Córdoba CF se la volvía a jugar ayer en un todo o nada, esta vez contra el Albacete. Nueve puntos aún en disputa que había que ganar sí o sí y que algún rival por encima en la tabla fallara... pero todo se torció y las posibilidades de colarse por la retaguardia en los play off se esf"
-  },
-  {
     "blog": "ochobitshacenunbyte",
     "titulo": "Descubre Beszel: Monitorización ligera para tus contenedores",
     "link": "https://www.ochobitshacenunbyte.com/2026/05/16/descubre-beszel-monitorizacion-ligera-para-tus-contenedores/",
     "fecha": "16/05/2026",
     "contenido": "Si tienes un servidor casero, una Raspberry Pi o un par de servidores en la mal llamada «nube«, que al final son servidores de otros, seguro que te has enfrentado al dilema de la&#46;&#46;&#46;\nLa entrada Descubre Beszel: Monitorización ligera para tus contenedores se publicó primero en ochobitshace"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Pantokrator: Marching Out Of Babylon | Como Sobrevivir A Los Tiempos Que Corren",
-    "link": "https://www.delotroladometal.com.ar/2026/05/16/como-sobrevivir-a-los-tiempos-que-corren/",
-    "fecha": "16/05/2026",
-    "contenido": "(2021 &#8211; Nordic Mission) Que buenos recuerdos nos trae Pantokrator. Una banda que supimos conocer...\nThe post Pantokrator: Marching Out Of Babylon | Como Sobrevivir A Los Tiempos Que Corren first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
