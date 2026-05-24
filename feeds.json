@@ -1,5 +1,19 @@
 [
   {
+    "blog": "Tecno y Soft",
+    "titulo": "Yay vs Paru: cuál usar en Arch y derivadas en 2026",
+    "link": "https://tecnoysoft.com/2026/05/24/yay-vs-paru-cual-usar-en-arch-y-derivadas-en-2026/",
+    "fecha": "24/05/2026",
+    "contenido": "Si usas Arch Linux, CachyOS o cualquier distribución derivada, seguramente te hayas encontrado con dos herramientas muy populares para gestionar la paqueteria AUR: Yay y Paru. Muchos usuarios terminan teniendo ambos instalados, especialmente porque aplicaciones como Octopi muestran soporte para vari"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "El Ep \"Entre Tumbas\" Ya Está Disponible | La Muerte Edita Su Primer Material Oficial",
+    "link": "https://www.delotroladometal.com.ar/2026/05/24/la-muerte-edita-su-primer-material-oficial/",
+    "fecha": "24/05/2026",
+    "contenido": "La banda argentina La Muerte ya tiene disponible su primer EP, titulado &#8220;Entre Tumbas&#8221;, el...\nThe post El Ep \"Entre Tumbas\" Ya Está Disponible | La Muerte Edita Su Primer Material Oficial first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "JavierSam",
     "titulo": "Chau Zed, hola Gram",
     "link": "https://javiersam.uy/2026/05/hola-gram-chau-zed.html",
@@ -12,6 +26,20 @@
     "link": "https://salvamir.github.io/algo-mas",
     "fecha": "24/05/2026",
     "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salvamir.github.io/",
+    "fecha": "24/05/2026",
+    "contenido": "/* 1."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Dibujos en la compu",
+    "link": "https://salvamir.github.io/Notas/Dibujos-en-la-compu",
+    "fecha": "24/05/2026",
+    "contenido": "Hoy le pedí a lolo que me presté su tableta gráfica, porque quería probar usarla en la compu, para poder hacer de mis publicaciones algo más genuino."
   },
   {
     "blog": "THE_CHEI$",
@@ -47,13 +75,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/05/23/la-tradicion-del-thrash-metal/",
     "fecha": "23/05/2026",
     "contenido": "Si hay un lugar que historia en el Thrash Metal, ese es la ciudad de...\nThe post Desde San Francisco, Esto Es Hand Of Fire | La Tradición Del Thrash Metal first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salvamir.github.io/",
-    "fecha": "23/05/2026",
-    "contenido": "/* 1."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -476,13 +497,6 @@
     "contenido": "Por lo pronto, esta página está vacía."
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "📖 Notas",
-    "link": "https://salvamir.github.io/Notas/",
-    "fecha": "20/05/2026",
-    "contenido": "Pequeñas actualizaciones casi anecdóticas de lo que voy viviendo día a día."
-  },
-  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "Herramientas cognitivas XII",
     "link": "https://vonneumannmachine.wordpress.com/2026/05/19/herramientas-cognitivas-xii/",
@@ -721,13 +735,6 @@
     "contenido": "Un alias es un atajo en la terminal que reemplaza un comando por otro. Su función es simplificar el uso del sistema y ahorrar escritura. Por ejemplo, un alias puede hacer que al escribir ll se ejecute realmente ls -lh. CachyOS utiliza alias que el usuario no siempre conoce En distribuciones como Cac"
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Ping #24: Actualizaciones, novedades y ranking de distros",
-    "link": "https://voidnull.es/ping-24/",
-    "fecha": "17/05/2026",
-    "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
-  },
-  {
     "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
     "titulo": "Ctrl+F: Sin algoritmos ¿Os apuntáis? Una newsletter sencilla y directa al grano",
     "link": "https://seyker.eu/ctrl-f-sin-algoritmos-boletin-directo-clic/",
@@ -749,38 +756,10 @@
     "contenido": "\n  \n    \n  \nPues parece que al final no era una percepción mía a la hora de ir a votar más tarde de lo habitual: la participación ha subido algo más de siete puntos y medio a las seis de la tarde.No sé si hay muchas ganas de votar en general, muchas ganas de votar contra la candidata de Sánchez, de "
   },
   {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Elecciones en Andalucía 2026 (I)",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/elecciones-en-andalucia-2026-i.html",
-    "fecha": "17/05/2026",
-    "contenido": "\n  \n    \n  \nHoy he acudido a votar más tarde de lo históricamente lo he hecho. Normalmente siempre he ido a primera hora de la mañana. Hoy, por diversas circunstancias, porque este año vivo más cansado o porque me lo he tomado como un domingo casi sabático he ido poco antes de la hora de empezar a h"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Horchata fresquita para las amigas de Aurora",
-    "link": "https://56k.es/fanta/haciendo-horchata-fresquita-y-fartons-para-las-amigas-de-aurora/",
-    "fecha": "17/05/2026",
-    "contenido": "Aurora dijo que le apetecía beber horchata fresquita para ver con sus amigas los juegos olímpicos. Les gusta mucho la Esgrima y disfrutan mucho viéndola por televisión sentadas en un sofá. Por tanto sembré chufa y durante meses la regué para que creciese bien. Eso si siempre con mi gorro de paja en "
-  },
-  {
     "blog": "Bitácora baldía on zurdeando",
     "titulo": "Paletas de colores CSS",
     "link": "https://blog.zurdala.es/blog/paletas-de-colores-css/",
     "fecha": "17/05/2026",
     "contenido": "Julia Evans compartía el otro día una lista de paletas de colores preparadas para CSS,\nasí como otras herramientas para generarlas.\nCreo entrada para futura referencia, y aprovecho a añadir otras tantas paletas que\ntengo por ahí guardadas y que me gustan y alguna vez he usado aunque sea como temas\np"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "No Te Rindas Zine nro. 2 – 2003",
-    "link": "https://www.delotroladometal.com.ar/2026/05/17/no-te-rindas-zine-nro-2-2003/",
-    "fecha": "17/05/2026",
-    "contenido": "Suponemos que el 2003 fue el año de edición de este número 2 del Fanzine...\nThe post No Te Rindas Zine nro. 2 – 2003 first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Inteligencia artificial en el proceso de diseño: lo que ya está pasando en mi empresa",
-    "link": "https://dani.torresburriel.com/ia-proceso-diseno-ux/",
-    "fecha": "17/05/2026",
-    "contenido": "Me gusta mucho empezar a escribir un post por el principio. Esto puede parecer una obviedad pero es que lo que me gusta es escribir el título del post al final. Básicamente porque yo sé cómo empiezo a escribir pero hay veces que el propio texto me lleva a otros territorios y entonces tengo que &#823"
   }
 ]
