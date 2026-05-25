@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 25 May 2026 02:28:34 GMT</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 09:47:11 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,68 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>¿Algo más?</title>
+<link>https://salvamir.github.io/algo-mas</link>
+<guid isPermaLink="true">https://salvamir.github.io/algo-mas</guid>
+<pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>links</title>
+<link>https://salvamir.github.io/links</link>
+<guid isPermaLink="true">https://salvamir.github.io/links</guid>
+<pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>Rodeando el volcán de Arenas Negras</title>
+<link>https://guillermolatorre.com/rutas/rodeando-volcan-arenas-negras</link>
+<guid isPermaLink="true">https://guillermolatorre.com/rutas/rodeando-volcan-arenas-negras</guid>
+<pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
+<category>Guillermo Latorre | Feed RSS</category>
+<description><![CDATA[Fecha realización: 25/05/2026.Ubicación: Arenas Negras (Tenerife).Mi valoración: ★★★★★Nivel de exigencia: Fácil.Ruta circular: SíTiempo activo: 01:00 horas.Distancia total: 4,8 km.Desnivel positivo: 150 metros.Desnivel negativo: 150 metros.Opción de baño: SíHoy, de forma improvisada, hemos decidido<br><br><strong>Fuente:</strong> Guillermo Latorre | Feed RSS]]></description>
+</item>
+<item>
 <title>Yay vs Paru: cuál usar en Arch y derivadas en 2026</title>
 <link>https://tecnoysoft.com/2026/05/24/yay-vs-paru-cual-usar-en-arch-y-derivadas-en-2026/</link>
 <guid isPermaLink="true">https://tecnoysoft.com/2026/05/24/yay-vs-paru-cual-usar-en-arch-y-derivadas-en-2026/</guid>
 <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
 <category>Tecno y Soft</category>
 <description><![CDATA[Si usas Arch Linux, CachyOS o cualquier distribución derivada, seguramente te hayas encontrado con dos herramientas muy populares para gestionar la paqueteria AUR: Yay y Paru. Muchos usuarios terminan teniendo ambos instalados, especialmente porque aplicaciones como Octopi muestran soporte para vari<br><br><strong>Fuente:</strong> Tecno y Soft]]></description>
+</item>
+<item>
+<title>Por qué en Suecia el Estado no cabe en su capital (y en España sí)</title>
+<link>https://blog.danielaragay.net/por-que-en-suecia-el-estado-no-cabe-en-su-capital-y-en-espana-si/</link>
+<guid isPermaLink="true">https://blog.danielaragay.net/por-que-en-suecia-el-estado-no-cabe-en-su-capital-y-en-espana-si/</guid>
+<pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
+<category>danielaragay.net</category>
+<description><![CDATA[Llevo a&amp;#xf1;os viviendo en Suecia y hay una cosa que sigo sin poder explicarle del todo a mi familia en Espa&amp;#xf1;a: aqu&amp;#xed;, cuando necesitas algo de una agencia estatal importante, lo m&amp;#xe1;s probable es que su sede central no est&amp;#xe9; en Estocolmo.<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
+</item>
+<item>
+<title>La estúpida burocracia española</title>
+<link>https://blog.danielaragay.net/la-estupida-burocracia-espanola/</link>
+<guid isPermaLink="true">https://blog.danielaragay.net/la-estupida-burocracia-espanola/</guid>
+<pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
+<category>danielaragay.net</category>
+<description><![CDATA[A colaci&amp;#xf3;n de los &amp;#xfa;ltimos episodios de El parche de Od&amp;#xed;n, te cuento mi opini&amp;#xf3;n sobre la estupidez de los estamentos gubernamentales en Espa&amp;#xf1;a con los tr&amp;#xe1;mites de sus ciudadanos.Formas de patrocinio. Blog danielaragay.net Todos los podcasts:<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
+</item>
+<item>
+<title>Seguimos compartiendo el producto, no la idea</title>
+<link>https://impermanente.es/2026/05/25/seguimos-compartiendo-el-producto-no.html</link>
+<guid isPermaLink="true">https://impermanente.es/2026/05/25/seguimos-compartiendo-el-producto-no.html</guid>
+<pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
+<category>impermanente</category>
+<description><![CDATA[Hace unas semanas escribí que la herramienta perfecta para otro no se compra ni se descarga: se reescribe. Y que el reflejo de subirla a GitHub con un README que dice &amp;ldquo;esto podría funcionar para ti&amp;rdquo; es la forma actual del viejo molde SAP, solo que esta vez los que quieren imponer el mold<br><br><strong>Fuente:</strong> impermanente]]></description>
+</item>
+<item>
+<title>Notas de Viaje – Bogotá – Abril 2026</title>
+<link>https://edgarmtoro.wordpress.com/2026/05/24/notas-de-viaje-bogota-abril-2026/</link>
+<guid isPermaLink="true">https://edgarmtoro.wordpress.com/2026/05/24/notas-de-viaje-bogota-abril-2026/</guid>
+<pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
+<category>Estás Interfiriendo con mi Zen.</category>
+<description><![CDATA[AC463 B737 Max 8 C-FSKZ Air Canada lo compró nuevo desde el 2018. Espacio justo en el Boeing 737 Max 8, adecuado para vuelos cortos, pero no mucho más. En el 737, no recomiendo la fila 15, no tiene ventana, solo la de adelante, si el de la 14 baja el asiento, no hay ventana. &amp;#8230; Continue reading<br><br><strong>Fuente:</strong> Estás Interfiriendo con mi Zen.]]></description>
 </item>
 <item>
 <title>El Ep &quot;Entre Tumbas&quot; Ya Está Disponible | La Muerte Edita Su Primer Material Oficial</title>
@@ -42,20 +98,20 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[En la sección de Noticias de la edición #227 de Full Circle Magazine, la primera que aparece da nota de Gram, una bifurcación del editor de código Zed pero sin su telemetría, sin características de IA ni características colaborativas. ¿Qué es Zed? Mis tareas de escritura de código no son muy exigent<br><br><strong>Fuente:</strong> JavierSam]]></description>
 </item>
 <item>
-<title>¿Algo más?</title>
-<link>https://salvamir.github.io/algo-mas</link>
-<guid isPermaLink="true">https://salvamir.github.io/algo-mas</guid>
-<pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
 <title>Salva Más De Cerca</title>
 <link>https://salvamir.github.io/</link>
 <guid isPermaLink="true">https://salvamir.github.io/</guid>
 <pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
 <category>Salva Más De Cerca</category>
 <description><![CDATA[/* 1.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>mapa-principal</title>
+<link>https://salvamir.github.io/Excalidraw/mapa-principal</link>
+<guid isPermaLink="true">https://salvamir.github.io/Excalidraw/mapa-principal</guid>
+<pubDate>Sun, 24 May 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
 </item>
 <item>
 <title>Dibujos en la compu</title>
@@ -114,28 +170,12 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Acá archivo lo que vengo viviendo. Estoy viviendo el otoño. 20/05/2026 Me encanta como se ve el otoño.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
 </item>
 <item>
-<title>mapa-principal</title>
-<link>https://salvamir.github.io/Excalidraw/mapa-principal</link>
-<guid isPermaLink="true">https://salvamir.github.io/Excalidraw/mapa-principal</guid>
-<pubDate>Sat, 23 May 2026 12:00:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
 <title>Libro de Visitas</title>
 <link>https://salvamir.github.io/libro-de-visitas</link>
 <guid isPermaLink="true">https://salvamir.github.io/libro-de-visitas</guid>
 <pubDate>Sat, 23 May 2026 12:00:00 GMT</pubDate>
 <category>Salva Más De Cerca</category>
 <description><![CDATA[<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>links</title>
-<link>https://salvamir.github.io/links</link>
-<guid isPermaLink="true">https://salvamir.github.io/links</guid>
-<pubDate>Sat, 23 May 2026 12:00:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
 </item>
 <item>
 <title>Hacer juegos con bash</title>
@@ -176,46 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
 <category>Jinversor</category>
 <description><![CDATA[Después de escribir la entrada anterior quedé pensando largo y tendido en el punk nacional colombiano. Recordé la época en que en el colegio nos prestábamos e intercambiábamos casettes regrabados. [&amp;#8230;] La entrada El punk nacional se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
-</item>
-<item>
-<title>Seguridad: Analisis de Logs</title>
-<link>https://interlan.ec/blog/2026/05/22/seguridad-analisis-de-logs/</link>
-<guid isPermaLink="true">https://interlan.ec/blog/2026/05/22/seguridad-analisis-de-logs/</guid>
-<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-<category>Interlan</category>
-<description><![CDATA[Es muy probable que si tienes alguna duda y preguntes en un foro o grupo te respondan que vayas a los logs. Se, son groseros, pero hazles caso<br><br><strong>Fuente:</strong> Interlan]]></description>
-</item>
-<item>
-<title>Lecturas recomendadas #6</title>
-<link>https://matizeta.com/2026/05/22/lecturas-recomendadas-6/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/05/22/lecturas-recomendadas-6/</guid>
-<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-<category>pov – matizeta</category>
-<description><![CDATA[10 lecturas publicadas en blogs que me gustaron y quiero compartir. Para más lecturas recordá que podés visitar ¡Blog!¡Blog! Interesante análisis filosófico sobre una de las películas de ciencia ficción más importantes del género. “(…) compara el internet actual con la arquitectura propia de un cent<br><br><strong>Fuente:</strong> pov – matizeta]]></description>
-</item>
-<item>
-<title>La gamificación de una compañía eléctrica sueca</title>
-<link>https://blog.danielaragay.net/la-gamificacion-de-una-compania-electrica-sueca/</link>
-<guid isPermaLink="true">https://blog.danielaragay.net/la-gamificacion-de-una-compania-electrica-sueca/</guid>
-<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-<category>danielaragay.net</category>
-<description><![CDATA[Te cuento en este cap&amp;#xed;tulo como una el&amp;#xe9;ctrica sueca, Tibber, est&amp;#xe1; usando la gamificaci&amp;#xf3;n en un aplicaci&amp;#xf3;n para animarte a consumir cuando la tarifa est&amp;#xe1; m&amp;#xe1;s baja y a consumir menos energ&amp;#xed;a.Formas de patrocinio. Blog<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
-</item>
-<item>
-<title>Retrobant &quot;Surviving Still&quot;: IA i documental</title>
-<link>https://blog.danielaragay.net/retrobant-surviving-still-ia-i-documental/</link>
-<guid isPermaLink="true">https://blog.danielaragay.net/retrobant-surviving-still-ia-i-documental/</guid>
-<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-<category>danielaragay.net</category>
-<description><![CDATA[Et comparteixo com he repr&amp;#xe8;s &amp;#x201c;Surviving Still&amp;#x201d; (https://survivingstill.com), el meu documental sobre el VIH que vaig comen&amp;#xe7;ar fa 10 anys. Gr&amp;#xe0;cies a eines d&amp;#x2019;IA en local i DaVinci Resolve, estic accelerant l&amp;#x2019;edici&amp;#xf3;. Aprofito el meu<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
-</item>
-<item>
-<title>La Liturgia con Candelabro en La Cúpula</title>
-<link>https://altgr.xyz/2026/05/22/la-liturgia-con-candelabro-en-la-cupula/</link>
-<guid isPermaLink="true">https://altgr.xyz/2026/05/22/la-liturgia-con-candelabro-en-la-cupula/</guid>
-<pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
-<category>Eterno aprendiz</category>
-<description><![CDATA[En el Teatro La Cúpula repleto Candelabro, la banda revelación del rock chileno actual, presentaron su exitoso disco Deseo, Carne y Voluntad. Una presentación que se acerca a un ritual religioso con sus fanáticos &amp;#8211;un público muy joven&amp;#8211; convertidos en leales feligreses que corean, aplaude<br><br><strong>Fuente:</strong> Eterno aprendiz]]></description>
 </item>
 
 </channel>
