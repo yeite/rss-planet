@@ -1,10 +1,59 @@
 [
   {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salvamir.github.io/algo-mas",
+    "fecha": "25/05/2026",
+    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "links",
+    "link": "https://salvamir.github.io/links",
+    "fecha": "25/05/2026",
+    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Rodeando el volcán de Arenas Negras",
+    "link": "https://guillermolatorre.com/rutas/rodeando-volcan-arenas-negras",
+    "fecha": "24/05/2026",
+    "contenido": "Fecha realización: 25/05/2026.Ubicación: Arenas Negras (Tenerife).Mi valoración: ★★★★★Nivel de exigencia: Fácil.Ruta circular: SíTiempo activo: 01:00 horas.Distancia total: 4,8 km.Desnivel positivo: 150 metros.Desnivel negativo: 150 metros.Opción de baño: SíHoy, de forma improvisada, hemos decidido "
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "Yay vs Paru: cuál usar en Arch y derivadas en 2026",
     "link": "https://tecnoysoft.com/2026/05/24/yay-vs-paru-cual-usar-en-arch-y-derivadas-en-2026/",
     "fecha": "24/05/2026",
     "contenido": "Si usas Arch Linux, CachyOS o cualquier distribución derivada, seguramente te hayas encontrado con dos herramientas muy populares para gestionar la paqueteria AUR: Yay y Paru. Muchos usuarios terminan teniendo ambos instalados, especialmente porque aplicaciones como Octopi muestran soporte para vari"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Por qué en Suecia el Estado no cabe en su capital (y en España sí)",
+    "link": "https://blog.danielaragay.net/por-que-en-suecia-el-estado-no-cabe-en-su-capital-y-en-espana-si/",
+    "fecha": "24/05/2026",
+    "contenido": "Llevo a&#xf1;os viviendo en Suecia y hay una cosa que sigo sin poder explicarle del todo a mi familia en Espa&#xf1;a: aqu&#xed;, cuando necesitas algo de una agencia estatal importante, lo m&#xe1;s probable es que su sede central no est&#xe9; en Estocolmo."
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "La estúpida burocracia española",
+    "link": "https://blog.danielaragay.net/la-estupida-burocracia-espanola/",
+    "fecha": "24/05/2026",
+    "contenido": "A colaci&#xf3;n de los &#xfa;ltimos episodios de El parche de Od&#xed;n, te cuento mi opini&#xf3;n sobre la estupidez de los estamentos gubernamentales en Espa&#xf1;a con los tr&#xe1;mites de sus ciudadanos.Formas de patrocinio. Blog danielaragay.net Todos los podcasts:"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Seguimos compartiendo el producto, no la idea",
+    "link": "https://impermanente.es/2026/05/25/seguimos-compartiendo-el-producto-no.html",
+    "fecha": "24/05/2026",
+    "contenido": "Hace unas semanas escribí que la herramienta perfecta para otro no se compra ni se descarga: se reescribe. Y que el reflejo de subirla a GitHub con un README que dice &ldquo;esto podría funcionar para ti&rdquo; es la forma actual del viejo molde SAP, solo que esta vez los que quieren imponer el mold"
+  },
+  {
+    "blog": "Estás Interfiriendo con mi Zen.",
+    "titulo": "Notas de Viaje – Bogotá – Abril 2026",
+    "link": "https://edgarmtoro.wordpress.com/2026/05/24/notas-de-viaje-bogota-abril-2026/",
+    "fecha": "24/05/2026",
+    "contenido": "AC463 B737 Max 8 C-FSKZ Air Canada lo compró nuevo desde el 2018. Espacio justo en el Boeing 737 Max 8, adecuado para vuelos cortos, pero no mucho más. En el 737, no recomiendo la fila 15, no tiene ventana, solo la de adelante, si el de la 14 baja el asiento, no hay ventana. &#8230; Continue reading"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -22,17 +71,17 @@
   },
   {
     "blog": "Salva Más De Cerca",
-    "titulo": "¿Algo más?",
-    "link": "https://salvamir.github.io/algo-mas",
-    "fecha": "24/05/2026",
-    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
-  },
-  {
-    "blog": "Salva Más De Cerca",
     "titulo": "Salva Más De Cerca",
     "link": "https://salvamir.github.io/",
     "fecha": "24/05/2026",
     "contenido": "/* 1."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "mapa-principal",
+    "link": "https://salvamir.github.io/Excalidraw/mapa-principal",
+    "fecha": "24/05/2026",
+    "contenido": "⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -85,24 +134,10 @@
   },
   {
     "blog": "Salva Más De Cerca",
-    "titulo": "mapa-principal",
-    "link": "https://salvamir.github.io/Excalidraw/mapa-principal",
-    "fecha": "23/05/2026",
-    "contenido": "⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document."
-  },
-  {
-    "blog": "Salva Más De Cerca",
     "titulo": "Libro de Visitas",
     "link": "https://salvamir.github.io/libro-de-visitas",
     "fecha": "23/05/2026",
     "contenido": ""
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "links",
-    "link": "https://salvamir.github.io/links",
-    "fecha": "23/05/2026",
-    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -215,6 +250,13 @@
     "link": "https://56k.es/fanta/mig-flass-preservando-juegos-de-nintendo-switch/",
     "fecha": "22/05/2026",
     "contenido": "Un amigo me ha contado como funciona esto del MIG Flash. Al parecer es un cartucho de Nintendo Switch que tiene una ranura en un lateral en el que puedes insertar una tarjeta microSD. Yo voy a relatar como funciona pero no me hago responsable de nada amigo/a/e. Si te banean la cuenta de la..."
+  },
+  {
+    "blog": "Estás Interfiriendo con mi Zen.",
+    "titulo": "Episodio 96",
+    "link": "https://edgarmtoro.wordpress.com/2026/05/22/episodio-96/",
+    "fecha": "22/05/2026",
+    "contenido": "Animalandia Viendo Ballenas, (y no estoy hablando de Fajardo) En Alemania, rescatan una joven ballena Timmy, nos hace sentir mejor como especie, a pesar de que todas las personas involucradas dicen que la ballena no tiene muchas posibilidades de sobrevivir. Dinamarca, muy pragmática, dice que no va "
   },
   {
     "blog": "Fabio.com.ar",
@@ -477,13 +519,6 @@
   },
   {
     "blog": "Salva Más De Cerca",
-    "titulo": "📌 Galería",
-    "link": "https://salvamir.github.io/galer%C3%ADa",
-    "fecha": "20/05/2026",
-    "contenido": "Acá guardo las fotos que más destacaron últimamente, o simplemente fotos que me encantan y quiero verlas juntas."
-  },
-  {
-    "blog": "Salva Más De Cerca",
     "titulo": "🪁 El Jardín Digital",
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
     "fecha": "20/05/2026",
@@ -495,6 +530,13 @@
     "link": "https://salvamir.github.io/M%C3%BAsica/",
     "fecha": "20/05/2026",
     "contenido": "Por lo pronto, esta página está vacía."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "📖 Notas",
+    "link": "https://salvamir.github.io/Notas/",
+    "fecha": "20/05/2026",
+    "contenido": "Pequeñas actualizaciones casi anecdóticas de lo que voy viviendo día a día."
   },
   {
     "blog": "La Máquina de Von Neumann",
@@ -665,13 +707,6 @@
     "contenido": "No soy católico a pesar de (o tal vez gracias a) que estudié en un colegio católico. No tengo lealtad emocional al Vaticano y desconfío por defecto de cualquier institución que se la pase explicándole a la gente cómo debe vivir. Dicho eso, me parece interesante lo que está haciendo Leo XIV con la IA"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Post-punk clásico con The Chameleons en Epicentro",
-    "link": "https://altgr.xyz/2026/05/17/post-punk-clasico-con-the-chameleons-en-epicentro/",
-    "fecha": "18/05/2026",
-    "contenido": "Como escribieron por ahí, el lado B del post-punk, The Chameleons, una banda que no alcanzó el nivel de fama de otras, aunque por talento y sonido, que es de lo más característico del género, no se quedan atrás. Un lujo total escucharlos en un escenario pequeño e íntimo como Epicentro en Santiago."
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "Instalación de Docker en Proxmox en un LXC",
     "link": "https://voidnull.es/instalacion-de-docker-en-proxmox-en-un-lxc/",
@@ -705,61 +740,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/05/18/escuchamos-siendo-libre-el-nuevo-disco-de-icaro/",
     "fecha": "18/05/2026",
     "contenido": "Como veníamos anunciando, Ícaro ya tiene todo listo para lo que será su tercer álbum,...\nThe post Disponible A Partir De Junio | Escuchamos “Siendo Libre”, El Nuevo Disco De Ícaro first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Trilium: jerarquía, clones, etiquetas, workspaces, cifrado y backups",
-    "link": "https://elblogdelazaro.org/organizar-trilium-jerarquia-clones-workspaces-cifrado-backups/",
-    "fecha": "18/05/2026",
-    "contenido": "Por: Carlos M.Publicado el 18 de mayo de 2026Cómo organizar Trilium sin convertirlo en otro cajón desastre, aprovechando jerarquía, clones, workspaces, cifrado y copias de seguridad.Continuar leyendo →#Unraid #Trilium "
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "El Ruletista",
-    "link": "https://guillermolatorre.com/libros/el-ruletista",
-    "fecha": "17/05/2026",
-    "contenido": "Fecha de lectura: 16/05/2026.Autor/a: Mircea Cărtărescu.Categoría: Ficción.Número de páginas: 75.Mi valoración: ★★★★☆Una lectura ágil y rápida y una historia muy original, he disfrutado mucho leyéndola y me ha tenido enganchado todo el tiempo. Son solo 75 páginas, perfecto para una o dos sentadas de"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "4 (+1) apps para disfrutar de la música en Linux",
-    "link": "https://thecheis.com/2026/05/17/4-1-apps-para-disfrutar-de-la-musica-en-linux/",
-    "fecha": "17/05/2026",
-    "contenido": "Últimamente estoy bastante enfocado en mi colección de música local, y he creado un pequeño ecosistema de aplicaciones para exprimirla en GNOME. Casi todas aparecieron en artículos anteriores, pero en este quiero hacer una recomendación personal basándome en la experiencia de uso. Seguro que da buen"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Qué hacer antes de crear un alias en CachyOS",
-    "link": "https://tecnoysoft.com/2026/05/17/que-hacer-antes-de-crear-un-alias-en-cachyos/",
-    "fecha": "17/05/2026",
-    "contenido": "Un alias es un atajo en la terminal que reemplaza un comando por otro. Su función es simplificar el uso del sistema y ahorrar escritura. Por ejemplo, un alias puede hacer que al escribir ll se ejecute realmente ls -lh. CachyOS utiliza alias que el usuario no siempre conoce En distribuciones como Cac"
-  },
-  {
-    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
-    "titulo": "Ctrl+F: Sin algoritmos ¿Os apuntáis? Una newsletter sencilla y directa al grano",
-    "link": "https://seyker.eu/ctrl-f-sin-algoritmos-boletin-directo-clic/",
-    "fecha": "17/05/2026",
-    "contenido": "Siempre que puedo, comparto con la gente las curiosidades que me encuentro. Además, es algo que ha ido a más desde que dejé las redes sociales más tóxicas como X (ese pozo de inmundicia y odio tiene todo el derecho a llamarse como quiera a estas alturas) e Instagram. Si bien me ha costado poco [&#82"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Elecciones en Andalucía 2026 (III)",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/elecciones-en-andalucia-2026-iii.html",
-    "fecha": "17/05/2026",
-    "contenido": "\n  \n    \n  \nPues al final parece que Juan Manuel Moreno Bonilla sí necesitará acompañamiento musical, aunque mínima. Lo cierto es que se reconfigura el Parlamento de Andalucía para que no cambie nada: la derecha seguirá gobernando y la izquierda seguirá en la oposición. Sorpresón de Adelante Andaluc"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Elecciones en Andalucía 2026 (II)",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/elecciones-en-andalucia-2026-ii.html",
-    "fecha": "17/05/2026",
-    "contenido": "\n  \n    \n  \nPues parece que al final no era una percepción mía a la hora de ir a votar más tarde de lo habitual: la participación ha subido algo más de siete puntos y medio a las seis de la tarde.No sé si hay muchas ganas de votar en general, muchas ganas de votar contra la candidata de Sánchez, de "
-  },
-  {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Paletas de colores CSS",
-    "link": "https://blog.zurdala.es/blog/paletas-de-colores-css/",
-    "fecha": "17/05/2026",
-    "contenido": "Julia Evans compartía el otro día una lista de paletas de colores preparadas para CSS,\nasí como otras herramientas para generarlas.\nCreo entrada para futura referencia, y aprovecho a añadir otras tantas paletas que\ntengo por ahí guardadas y que me gustan y alguna vez he usado aunque sea como temas\np"
   }
 ]
