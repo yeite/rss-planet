@@ -1,10 +1,80 @@
 [
   {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Durmiendo plácidamente",
+    "link": "https://guillermolatorre.com/fotolog/durmiendo-placidamente",
+    "fecha": "25/05/2026",
+    "contenido": "Responder por email."
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Cookies: por qué el banner de «rechazar todo» no sirve de nada",
+    "link": "https://alt43.es/cookies-por-que-el-banner-de-rechazar-todo-no-sirve-de-nada/",
+    "fecha": "25/05/2026",
+    "contenido": "El banner de \"rechazar todo\" respecto a las cookies, más que una garantía, es un simple interfaz. Detrás opera el TCF de IAB Europe, un sistema que distribuye tu decisión de consentimiento entre cerca de un millar de empresas sin ningún mecanismo técnico que obligue a respetarla. Analizamos cómo fun"
+  },
+  {
+    "blog": "End3r.es",
+    "titulo": "Hay un dragón en mi garaje",
+    "link": "https://www.end3r.es/posts/019-hay-un-dragon-en-mi-garaje/",
+    "fecha": "25/05/2026",
+    "contenido": "En nuestra vida cotidiana, a menudo nos enfrentamos a fenómenos y objetos que desafían nuestra comprensión\ny percepción de la realidad.\n¿Cómo podemos distinguir una verdad científica de una creencia reconfortante pero falsa?\nEn su libro, El mundo y sus demonios: La ciencia como una luz en la oscurid"
+  },
+  {
+    "blog": "pov – matizeta",
+    "titulo": "Plataformas para tener tu blog (algunas bastante desconocidas)",
+    "link": "https://matizeta.com/2026/05/25/plataformas-para-tener-tu-blog-algunas-bastante-desconocidas/",
+    "fecha": "25/05/2026",
+    "contenido": "¿Querés tener un blog pero no sabes por donde empezar o simplemente quieres ver que otras opciones hay en el mercado para alojar el que ya tenés? En esta entrada, que pretende actualizar periódicamente, voy a listar algunas plataformas de blog para comenzar a probar. Algunas de ellas son bastante de"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de aaPanel en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-aapanel-en-debian-13/",
+    "fecha": "25/05/2026",
+    "contenido": "Su interfaz gráfica intuitiva permite a los usuarios gestionar sitios web, bases de datos, servicios de correo, cortafuegos y mucho más, sin necesidad de usar la terminal constantemente."
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Erica a diario en Valencia",
+    "link": "https://www.ericafustero.com/2026-05-erica-a-diario-en-valencia",
+    "fecha": "25/05/2026",
+    "contenido": "\"Will it be too much to bring two jackets and a sweatshirt? Should I bring a sweater too? What if it rains? Should I bring a dress just in case? And something in case it gets too hot?\" Aunque pueda parecer lo contrario, no se me da muy bien viajar. Me cuesta separarme de mi [&#8230;]"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "48",
+    "link": "https://www.fabio.com.ar/9948-48",
+    "fecha": "25/05/2026",
+    "contenido": "    \nUn nuevo giro alrededor del Sol y me puse a pensar &iquest;C&oacute;mo era hace 40 a&ntilde;os? Ah, no tengo idea, no hay muchas fotos de esa &eacute;poca, pero m&aacute;s o menos son como las que adornan el post, ah&iacute; estoy entre mis 8 y 9 a&ntilde;os m&aacute;s o menos.\nJet&oacute;n, pe"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Hilastherion: Taken From Darkness | La Química Del Metal Extremo",
+    "link": "https://www.delotroladometal.com.ar/2026/05/25/la-quimica-del-metal-extremo/",
+    "fecha": "25/05/2026",
+    "contenido": "(2007 &#8211; Maanalainen Levykauppa AY) Dicen que el agua no se mezcla el aceite, y...\nThe post Hilastherion: Taken From Darkness | La Química Del Metal Extremo first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Añadiendo un buscador al blog con Pagefind",
+    "link": "https://elblogdelazaro.org/anadiendo-un-buscador-al-blog-con-pagefind/",
+    "fecha": "25/05/2026",
+    "contenido": "Por: Carlos M.Publicado el 25 de mayo de 2026Cómo añadí un buscador a mi blog estático con Hugo y Pagefind, paso a paso, sin morir en el intento.Continuar leyendo →#Blog #Hugo "
+  },
+  {
     "blog": "Salva Más De Cerca",
     "titulo": "¿Algo más?",
     "link": "https://salvamir.github.io/algo-mas",
     "fecha": "25/05/2026",
     "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salvamir.github.io/",
+    "fecha": "25/05/2026",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -68,13 +138,6 @@
     "link": "https://javiersam.uy/2026/05/hola-gram-chau-zed.html",
     "fecha": "24/05/2026",
     "contenido": "En la sección de Noticias de la edición #227 de Full Circle Magazine, la primera que aparece da nota de Gram, una bifurcación del editor de código Zed pero sin su telemetría, sin características de IA ni características colaborativas. ¿Qué es Zed? Mis tareas de escritura de código no son muy exigent"
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salvamir.github.io/",
-    "fecha": "24/05/2026",
-    "contenido": "/* 1."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -644,13 +707,6 @@
     "contenido": "Con la reciente e histórica visita de Trump a China se ha vuelto a poner sobre la mesa el futuro de Taiwan. Mientras que EEUU siempre ha visto a la pequeña isla como un aliado frente al gigante chino, estos últimos la dan por anexionada antes del 2049, justo cuando se cumplan 100 años de la fundació"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "La caza del movimiento de lazo",
-    "link": "https://brucknerite.net/2026/05/la-caza-del-movimiento-de-lazo.html",
-    "fecha": "18/05/2026",
-    "contenido": "En un viaje de Madrid a Barcelona en un Frecciarossa 1000 de Iryo noté un movimiento peculiar, como si el tren me meciera. ¿Qué estaba pasando? ¿Sería el mítico movimiento de lazo, la inestabilidad que puede surgir en trenes de alta velocidad circulando en rectas?"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "¿Quién soy?",
     "link": "https://jinversor.co/2026/05/quien-soy/",
@@ -663,82 +719,5 @@
     "link": "https://jinversor.co/2026/05/irresistible/",
     "fecha": "18/05/2026",
     "contenido": "Terminé de leer el libro Irresistible ¿Quién nos ha convertido en yonquis tecnológicos? de Adam Alter y creo que vale mucho la pena. Hacía mucho no enlazaba libros de la [&#8230;]\nLa entrada Irresistible se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Un bruto con Debian",
-    "titulo": "No puedo escribir en un Arduino",
-    "link": "http://unbrutocondebian.blogspot.com/2026/05/no-puedo-escribir-en-un-arduino.html",
-    "fecha": "18/05/2026",
-    "contenido": "Por temas que no vienen al caso, he empezado a mirar tutoriales de Arduino y comprado una placa básica. No quiero complicarme lo más mínimo, solo hacer cuatro tontadas básicas con la placa y poco más.&nbsp;&nbsp;Pero ha sido conectar la placa y llevarme la primera bofetada de realidad. El IDE de Ard"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "La paradoja de la tecnología inteligente",
-    "link": "https://gatooscuro.xyz/la-paradoja-de-la-tecnologia-inteligente/",
-    "fecha": "18/05/2026",
-    "contenido": "Hace unos días estaba navegando por Internet cuando, de la nada, me topé con un video crítico de un internauta en el que expresaba su malestar acerca de la marca\nSeguir leyendo  La paradoja de la tecnología inteligente\nEl cargo La paradoja de la tecnología inteligente apareció primero en El cuarto d"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Mi suegro y el capitalismo de vigilancia",
-    "link": "https://alt43.es/mi-suegro-y-el-capitalismo-de-vigilancia/",
-    "fecha": "18/05/2026",
-    "contenido": "Cual conversación de bar, tratamos de desglosar la lógica tras el concepto de \"capitalismo de vigilancia\": cómo las plataformas convierten cada interacción en datos, cada dato en un perfil y cada perfil en una predicción para que alguien la compre. Con el caso Cambridge Analytica como ejemplo más vi"
-  },
-  {
-    "blog": "Mi blog on Manu Mateos",
-    "titulo": "Semana 20/2026",
-    "link": "https://www.macram.es/posts/2026/05/semana-20-2026/",
-    "fecha": "18/05/2026",
-    "contenido": "Esta semana que parece que ha vuelto el buen tiempo ha habido más actividades outdoor. Paseé un poco, el viernes vi el estreno de un documental sobre la trashumancia, el sábado estuve viendo pasar un rebaño de ovejas que se va a hacer la trashumancia al norte (fueron unos días temáticos), vi algún c"
-  },
-  {
-    "blog": "pov – matizeta",
-    "titulo": "Esta estupidez de la seguridad digital",
-    "link": "https://matizeta.com/2026/05/18/esta-estupidez-de-la-seguridad-digital/",
-    "fecha": "18/05/2026",
-    "contenido": "La otra vez en reunión con amigos, uno comentaba que había borrado la app de Instagram de su móvil pero que no podía volver a instalarla porque no recordaba su contraseña, ni siquiera con que email se había registrado. A lo que muchos respondieron que les pasaba lo mismo: no tenían registro de sus c"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "El nombre es el mensaje",
-    "link": "https://impermanente.es/2026/05/18/el-nombre-es-el-mensaje.html",
-    "fecha": "18/05/2026",
-    "contenido": "No soy católico a pesar de (o tal vez gracias a) que estudié en un colegio católico. No tengo lealtad emocional al Vaticano y desconfío por defecto de cualquier institución que se la pase explicándole a la gente cómo debe vivir. Dicho eso, me parece interesante lo que está haciendo Leo XIV con la IA"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Docker en Proxmox en un LXC",
-    "link": "https://voidnull.es/instalacion-de-docker-en-proxmox-en-un-lxc/",
-    "fecha": "18/05/2026",
-    "contenido": "Aprende a instalar Docker en Proxmox utilizando un contenedor LXC ligero y eficiente."
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "Eso Es Porque Lo Tienen",
-    "link": "https://jmlro.codeberg.page/posts/2026/05-18-eso-es-porque-lo-tienen.html",
-    "fecha": "18/05/2026",
-    "contenido": "Queridos hermanos,\n\nA vosotros \nque no os gusta \nhablar de dinero,\nde enviar bizums\no decirle a vuestra pareja \nquién paga esto. \n\nNo os gustan los hospitales \nni los funerales, decís.\nEstáis en medio de un atasco \ny está atestado de turistas. \n\nTodo no es político.\nQue es solo una broma. \nNo son ra"
-  },
-  {
-    "blog": "56K",
-    "titulo": "La tipografía para ISBN y códigos EAN",
-    "link": "https://56k.es/fanta/la-tipografia-para-isbn-y-codigos-ean/",
-    "fecha": "18/05/2026",
-    "contenido": "&#160; OCR-A es la tipografía que se usa para el ISBN en los libros y para muchos otros temas. Básicamente se inventó para ser reconocida mediante OCR y al mismo tiempo ser legible por humanos. Se usa también en los códigos de barras UPC/EAN por lo que en un libro es posible que la uses..."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Escondidos por el algoritmo",
-    "link": "https://www.fabio.com.ar/9943-escondidos-por-el-algoritmo",
-    "fecha": "18/05/2026",
-    "contenido": "    \n&iquest;De d&oacute;nde sacaste esas bandas? &iquest;C&oacute;mo llegaste a ellas? Me pregunt&oacute;, no entend&iacute;a c&oacute;mo hab&iacute;a dado con una banda de folk metal alem&aacute;n (Feuerschwanz) y otras igual de raras para ella (Vision of Atlantis, Amaranthe) que, desde su punto d"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Disponible A Partir De Junio | Escuchamos “Siendo Libre”, El Nuevo Disco De Ícaro",
-    "link": "https://www.delotroladometal.com.ar/2026/05/18/escuchamos-siendo-libre-el-nuevo-disco-de-icaro/",
-    "fecha": "18/05/2026",
-    "contenido": "Como veníamos anunciando, Ícaro ya tiene todo listo para lo que será su tercer álbum,...\nThe post Disponible A Partir De Junio | Escuchamos “Siendo Libre”, El Nuevo Disco De Ícaro first appeared on Del Otro Lado Metal."
   }
 ]
