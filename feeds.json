@@ -1,5 +1,75 @@
 [
   {
+    "blog": "Mi blog on Manu Mateos",
+    "titulo": "Semana 21/2026",
+    "link": "https://www.macram.es/posts/2026/05/semana-21-2026/",
+    "fecha": "26/05/2026",
+    "contenido": "Esta va a ser rápida. Grosso modo, estoy cansado, y aunque hace calor en cierto modo estoy agradeciéndolo. La pena es que mucho de mi día se ha adelantado a horas bastante tempranas de la mañana (para mis horarios habituales), por lo que no puedo acostarme tarde. Y eso es una pena para mí, porque yo"
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "¿Qué debería hacer con estas fotos?",
+    "link": "https://matizeta.com/2026/05/26/que-deberia-hacer-con-estas-fotos/",
+    "fecha": "26/05/2026",
+    "contenido": "En mis viajes saqué muchas fotos a paisajes, monumentos. En muchas de ellas ni siquiera aparezco, ni tampoco nadie que conozca. ¿Que hago con esas fotos? ¿Tiene sentido tenerlas si ni siquiera yo aparezco en la foto? Me pregunto a mi mismo porque esas fotos no tienen personalidad, no son únicas: tod"
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "La IA, dónde gana y dónde le ganamos",
+    "link": "https://blog.elmundoesimperfecto.com/2026/05/26/valor-IA/",
+    "fecha": "26/05/2026",
+    "contenido": "\n\nEn Where AI Provides Value un análisis de Bruce Schneier con Nathan E. Sanders (de hace un año, casi) donde nos recuerda las capacidades y ventajas de la IA, y qué debemos tener en cuenta.\n\nEstá claro que en muchas tareas la IA es mejor que los humanos y lo que hace falta es tener claro cuáles son"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "Deepfakes para engañar a las empresas. El caso de LastPass",
+    "link": "https://fernand0.github.io//lastpass-deepfakes/",
+    "fecha": "26/05/2026",
+    "contenido": "En LastPass Dodges Deepfake Scam: CEO Impersonation Attempt Thwarted nos cuentan un caso de intento de engaño mediante deep-fakes para engañar a las personas adecuadas, haciéndose pasar por alguna persona de confianza. En este caso se trataba de la empresa LastPass y un intento de engaño con mensaje"
+  },
+  {
+    "blog": "56K",
+    "titulo": "La quema de libros Anthropic, los libros de Panamá",
+    "link": "https://56k.es/fanta/quema-de-libros-de-anthropic-los-libros-de-panama/",
+    "fecha": "26/05/2026",
+    "contenido": "Los lunes se hacen de esos minutos extra e interminables que habitan dentro del último minuto de una lavadora. Ese último minuto que parece eterno y &#8230; hablando de lo que no es eterno: Los libros. Los libros bien conservados pueden durar muchos años y aunque suena a sacrilegio es preferible dob"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Revanced/Morphe: parcheando aplicaciones de Android como YouTube o Reddit",
+    "link": "https://www.fabio.com.ar/9949-revancedmorphe-parcheando-aplicaciones-de-android-como-youtube-o-reddit",
+    "fecha": "26/05/2026",
+    "contenido": "    \n&iquest;Quer&eacute;s que tu app funcione como vos esperabas? &iquest;Como era antes? En el ambiente del hacking de software hay un grupo muy particular de seres que crean parches para software que no es de ellos, sino de terceros.\nLa idea es, por ejemplo, devolverle caracter&iacute;sticas como"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salvamir.github.io/algo-mas",
+    "fecha": "26/05/2026",
+    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌳 Como vivir santamente el sábado",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B3-Como-vivir-santamente-el-s%C3%A1bado",
+    "fecha": "26/05/2026",
+    "contenido": "Una vez una madre me dijo que cuando sus hijos salen ella no puede dormir hasta que vuelvan, porque quiere verlos seguros."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salvamir.github.io/",
+    "fecha": "26/05/2026",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida."
+  },
+  {
+    "blog": "Diego's Island.",
+    "titulo": "Tienes poder sobre tu mente, no sobre los eventos exteriores.",
+    "link": "https://diegoaep.codeberg.page/tienes-poder-sobre-tu-mente/",
+    "fecha": "26/05/2026",
+    "contenido": "Las criticas pueden ser fuertes. Dejar que nos afecten es una decisión."
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Durmiendo plácidamente",
     "link": "https://guillermolatorre.com/fotolog/durmiendo-placidamente",
@@ -99,27 +169,6 @@
   },
   {
     "blog": "Salva Más De Cerca",
-    "titulo": "¿Algo más?",
-    "link": "https://salvamir.github.io/algo-mas",
-    "fecha": "25/05/2026",
-    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "📅 Ahora",
-    "link": "https://salvamir.github.io/ahora",
-    "fecha": "25/05/2026",
-    "contenido": "Acá archivo lo que vengo viviendo. Hoy es 25 de mayo. 25/05/2026 Que hermosa es Argentina."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salvamir.github.io/",
-    "fecha": "25/05/2026",
-    "contenido": "Acá me gusta coleccionar detalles de mi vida."
-  },
-  {
-    "blog": "Salva Más De Cerca",
     "titulo": "links",
     "link": "https://salvamir.github.io/links",
     "fecha": "25/05/2026",
@@ -131,6 +180,20 @@
     "link": "https://salvamir.github.io/Notas/El-calendario-y-mi-vida-no-coinciden",
     "fecha": "25/05/2026",
     "contenido": "Hace un par de días que vengo leyendo a muchas personas que hablan sobre como viven su vida en etapas, que no necesariamente coinciden con el calendario común y corriente."
+  },
+  {
+    "blog": "Diego's Island.",
+    "titulo": "El One Piece es real.",
+    "link": "https://diegoaep.codeberg.page/el-one-piece-es-real/",
+    "fecha": "25/05/2026",
+    "contenido": "Una publicación de mi apreciación por One Piece, mi anime favorito. Te explicaré por qué lo es mientras soy feliz hablando de esto."
+  },
+  {
+    "blog": "Diego's Island.",
+    "titulo": "¿Te ayudo a crear tu web?",
+    "link": "https://diegoaep.codeberg.page/te-ayudo-a-crear-tu-web/",
+    "fecha": "25/05/2026",
+    "contenido": "No es publicidad sobre \"mis servicios\". Es un ofrecimiento de ayuda GRATUITA para que crees tu sitio web."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -637,20 +700,6 @@
     "contenido": "Por lo pronto, esta página está vacía."
   },
   {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "Herramientas cognitivas XII",
-    "link": "https://vonneumannmachine.wordpress.com/2026/05/19/herramientas-cognitivas-xii/",
-    "fecha": "19/05/2026",
-    "contenido": "Seguimos con la infame serie de píldoras cognitivas: Amplificatio. Figura latina que consiste en utilizar técnicas retóricas para darle bombo artificiosamente a una tesis que, de por sí sola, no tendría tanto. Una de las técnicas retóricas más típicas en estos aciagos tiempos es la provocación de in"
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Recomendé 3 libros en el último día de clase de este curso",
-    "link": "https://pedrolr.es/blog/recomende-3-libros-en-el-ultimo-dia-de-clase-de-este-curso/",
-    "fecha": "19/05/2026",
-    "contenido": "El jueves 14 fue el último día de clases y como es un Grado en Información y Documentación relacionado con bibliotecas y la lectura, se me ocurrió recomendar a la clase 3 libros a modo de regalo. Guardo mis lecturas en Zotero y también en BookWyrm y una web que tengo con php y un [&#8230;]"
-  },
-  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "Sueño en decadencia",
     "link": "https://gatooscuro.xyz/sueno-en-decadencia/",
@@ -665,59 +714,10 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "note – matizeta",
-    "titulo": "Prólogo",
-    "link": "https://matizeta.com/2026/05/19/prologo/",
-    "fecha": "19/05/2026",
-    "contenido": "Al igual que los libros tienen su Prólogo, se me ocurrió que sería una buena idea, crear un «prólogo» para mi blog que sirva para guiar y preparar al lector como si este blog fuera una obra, que en parte es mi obra y lo cultivo día a día. Así que escribí esto como prologo [&#8230;]"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "552. Mr. Brown",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/552-mr-brown.html",
-    "fecha": "19/05/2026",
-    "contenido": "&nbsp; &nbsp;&nbsp;Como todas las mañanas de los últimos diez años, Mr. Brown se coloca en un rincón de la sala y mira con los ojos muy abiertos. Nunca son las mismas imágenes las que ve, pero siempre se presentan ante él en el más absoluto silencio e inmovilidad.&nbsp; &nbsp; Esta vez, al fondo a l"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Berlín y la dama del armiño",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/berlin-y-la-dama-del-armino.html",
-    "fecha": "19/05/2026",
-    "contenido": "\n  \n    \n  \nEste fin de semana pasado me he visto Berlín y la dama del armiño. Por esperpentos como ese me alegro de no estar suscrito a Netflix y haberme montado mi propia plataforma de series y películas (tengo que hablarles sobre esto más ampliamente, que ya lo he mencionado en alguna ocasión ant"
-  },
-  {
-    "blog": "",
-    "titulo": "Santi Yonamine.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/05/19/santi-yonamine/",
-    "fecha": "19/05/2026",
-    "contenido": "Este fin de semana se fue un grande de la música, que en paz descanse."
-  },
-  {
     "blog": "eaplmx",
     "titulo": "39",
     "link": "https://text.eapl.mx/39",
     "fecha": "19/05/2026",
     "contenido": ""
-  },
-  {
-    "blog": "56K",
-    "titulo": "Fits on a floppy – Manifiesto para software pequeño",
-    "link": "https://56k.es/fanta/fits-on-a-floppy-manifiesto-para-software-pequeno/",
-    "fecha": "19/05/2026",
-    "contenido": "El manifiesto «Fits on a floppy» (Se ajusta a un disquete) me gusta por ciertos motivos (mezcla computación con limites y el principio KISS). Por un lado usan como medida un disquete pero no por nostalgia, es decir, un disquete realmente es un mal medio de almacenamiento como lo son por ejemplo los "
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Tiling Window Managers, ventanas en mosaico en Linux",
-    "link": "https://www.fabio.com.ar/9944-tiling-window-managers-ventanas-en-mosaico-en-linux",
-    "fecha": "19/05/2026",
-    "contenido": "    \nPara la mayor&iacute;a de ustedes las ventanas en un sistema operativo se mezclan y cruzan entre s&iacute;, o son todas full screen y no ven ninguna ventana, para algunos frikis todo eso es un horror y las quieren organizadas... totalmente organizadas.\nEs as&iacute; que existen, especialmente e"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Krig: Bite My Byte | Los Algoritmos Funcionan",
-    "link": "https://www.delotroladometal.com.ar/2026/05/19/los-algoritmos-funcionan/",
-    "fecha": "19/05/2026",
-    "contenido": "(2026 &#8211; Good Fight Records) Casi como una película de ciencia ficción pero con mucha...\nThe post Krig: Bite My Byte | Los Algoritmos Funcionan first appeared on Del Otro Lado Metal."
   }
 ]
