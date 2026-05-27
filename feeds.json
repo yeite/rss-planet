@@ -1,5 +1,33 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "La búsqueda de Google y la ruptura del contrato social",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/27/20260527-google-contrato-social/",
+    "fecha": "27/05/2026",
+    "contenido": "Si Google ya no redirige el tráfico a tu sitio, ¿por qué le dejas llevarse tu información?"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Presvisualizar archivos MarkDown en el editor Kate de #KDE",
+    "link": "https://victorhckinthefreeworld.com/2026/05/26/presvisualizar-archivos-markdown-en-el-editor-kate-de-kde/",
+    "fecha": "26/05/2026",
+    "contenido": "Veamos cómo previsualizar el renderizado de archivos en formato markdown en el editor Kate de KDE"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "«Acuérdate de mí cuando llegues a tu Reino»",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/acuerdate-de-mi-cuando-llegues-a-tu-reino/",
+    "fecha": "26/05/2026",
+    "contenido": "\nEn verdad te digo, hoy estarás conmigo en el paraíso\n\nSon fragmentos del Evangelio de Lucas. Una, que ha aprendido de pe a pa el catecismo y que ha estado más metida en la Iglesia de lo que es bueno para cualquier persona, no puede evitar que, cuando escucha, lee o vive según qué cosas, se le venga"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Solución al falso aviso de “Conectividad limitada”",
+    "link": "https://tecnoysoft.com/2026/05/26/solucion-al-falso-aviso-de-conectividad-limitada/",
+    "fecha": "26/05/2026",
+    "contenido": "Hace tiempo que vengo sufriendo avisos de “Conectividad limitada”, pero algo no cuadraba hasta que descubrí lo que realmente sucedia. &#8211; Conectividad limitada &#8211; Cambios de estado de red &#8211; Reconexiones aparentes Sin embargo, Internet funcionaba correctamente: &#8211; Navegación norma"
+  },
+  {
     "blog": "Mi blog on Manu Mateos",
     "titulo": "Semana 21/2026",
     "link": "https://www.macram.es/posts/2026/05/semana-21-2026/",
@@ -35,11 +63,32 @@
     "contenido": "Los lunes se hacen de esos minutos extra e interminables que habitan dentro del último minuto de una lavadora. Ese último minuto que parece eterno y &#8230; hablando de lo que no es eterno: Los libros. Los libros bien conservados pueden durar muchos años y aunque suena a sacrilegio es preferible dob"
   },
   {
+    "blog": "prosa",
+    "titulo": "como una regadera",
+    "link": "https://blog.adrianaaraujot.casa/como-una-regadera/",
+    "fecha": "26/05/2026",
+    "contenido": "identidad oculta, visibilidad y \"demonización\""
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Revanced/Morphe: parcheando aplicaciones de Android como YouTube o Reddit",
     "link": "https://www.fabio.com.ar/9949-revancedmorphe-parcheando-aplicaciones-de-android-como-youtube-o-reddit",
     "fecha": "26/05/2026",
     "contenido": "    \n&iquest;Quer&eacute;s que tu app funcione como vos esperabas? &iquest;Como era antes? En el ambiente del hacking de software hay un grupo muy particular de seres que crean parches para software que no es de ellos, sino de terceros.\nLa idea es, por ejemplo, devolverle caracter&iacute;sticas como"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salvamir.github.io/",
+    "fecha": "26/05/2026",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Libro de Visitas",
+    "link": "https://salvamir.github.io/libro-de-visitas",
+    "fecha": "26/05/2026",
+    "contenido": "window.addEventListener(&#039;message&#039;, function(e) { if (e.data &amp;&amp; e.data.type === &#039;resize-iframe&#039;) { document.getElementById(&#039;visitas-iframe&#039;).style.height = e.data.height + &#039;px&#039;; } }); ."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -56,25 +105,18 @@
     "contenido": "Una vez una madre me dijo que cuando sus hijos salen ella no puede dormir hasta que vuelvan, porque quiere verlos seguros."
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salvamir.github.io/",
-    "fecha": "26/05/2026",
-    "contenido": "Acá me gusta coleccionar detalles de mi vida."
-  },
-  {
-    "blog": "Diego's Island.",
-    "titulo": "Tienes poder sobre tu mente, no sobre los eventos exteriores.",
-    "link": "https://diegoaep.codeberg.page/tienes-poder-sobre-tu-mente/",
-    "fecha": "26/05/2026",
-    "contenido": "Las criticas pueden ser fuertes. Dejar que nos afecten es una decisión."
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Durmiendo plácidamente",
     "link": "https://guillermolatorre.com/fotolog/durmiendo-placidamente",
     "fecha": "25/05/2026",
     "contenido": "Responder por email."
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Usando Podman - Instalación y configuración",
+    "link": "https://vctrsnts.github.io/posts/2026-05-26-usando-podman-1/",
+    "fecha": "25/05/2026",
+    "contenido": "Antes de empezar, quiero que quede bien claro una cosa: el porqué de este y los siguientes artículos hablando de Podman.\n\nnota:\nEsto no va a ser una alternativa a todos los articulos que ha publicado atareao en referencia a Podman. Nunca lo haria ni es lo que querría, nunca voy a poder conseguir el "
   },
   {
     "blog": "alt43",
@@ -134,7 +176,7 @@
   },
   {
     "blog": "56K",
-    "titulo": "Newsboat – Leer las noticias sin mierda",
+    "titulo": "Newsboat – Leer las noticias sin tanta mierda",
     "link": "https://56k.es/fanta/newsboat-leer-las-noticias-desde-la-consola/",
     "fecha": "25/05/2026",
     "contenido": "Muchos sites de noticias e incluso blogs de gente tienen mucha mierda. Me refiero a que entras y por ejemplo te clavan nosecuantos trackers (cientos de ellos e incluso miles). Una forma sencilla de estar al día es usar un gestor RSS (No confundir RSS con Redes sociales y lo digo porque algunas perso"
@@ -168,6 +210,13 @@
     "contenido": "Por: Carlos M.Publicado el 25 de mayo de 2026Cómo añadí un buscador a mi blog estático con Hugo y Pagefind, paso a paso, sin morir en el intento.Continuar leyendo →#Blog #Hugo "
   },
   {
+    "blog": "El blog de Lázaro",
+    "titulo": "Añadiendo un buscador al blog con Pagefind",
+    "link": "https://elblogdelazaro.org/anadiendo-un-buscador-al-blog-con-pagefind/",
+    "fecha": "25/05/2026",
+    "contenido": "Por: Carlos M.Publicado el 25 de mayo de 2026Cómo añadí un buscador a mi blog estático con Hugo y Pagefind, paso a paso, sin morir en el intento.Continuar leyendo →#Blog #Hugo "
+  },
+  {
     "blog": "Salva Más De Cerca",
     "titulo": "links",
     "link": "https://salvamir.github.io/links",
@@ -180,20 +229,6 @@
     "link": "https://salvamir.github.io/Notas/El-calendario-y-mi-vida-no-coinciden",
     "fecha": "25/05/2026",
     "contenido": "Hace un par de días que vengo leyendo a muchas personas que hablan sobre como viven su vida en etapas, que no necesariamente coinciden con el calendario común y corriente."
-  },
-  {
-    "blog": "Diego's Island.",
-    "titulo": "El One Piece es real.",
-    "link": "https://diegoaep.codeberg.page/el-one-piece-es-real/",
-    "fecha": "25/05/2026",
-    "contenido": "Una publicación de mi apreciación por One Piece, mi anime favorito. Te explicaré por qué lo es mientras soy feliz hablando de esto."
-  },
-  {
-    "blog": "Diego's Island.",
-    "titulo": "¿Te ayudo a crear tu web?",
-    "link": "https://diegoaep.codeberg.page/te-ayudo-a-crear-tu-web/",
-    "fecha": "25/05/2026",
-    "contenido": "No es publicidad sobre \"mis servicios\". Es un ofrecimiento de ayuda GRATUITA para que crees tu sitio web."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -273,13 +308,6 @@
     "contenido": "«I feel higher than you / Devil bless me» El siguiente disco es una rareza, casi desconocido y bastante difícil de encontrar (aunque hoy en día más accesible gracias al streaming). Fue un álbum que me acompañó en las sombras desde chaval, siempre en la recámara como algo que merecía la pena saborear"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Cómo Internet convirtió la autonomía en una carga individual",
-    "link": "https://gatooscuro.xyz/como-internet-convirtio-la-autonomia-en-una-carga-individual/",
-    "fecha": "23/05/2026",
-    "contenido": "Hubo una época en que Internet parecía una extensión natural de la curiosidad humana. Un territorio caótico, sí, pero todavía moldeable. Existía la sensación de que aprender sobre tecnología otorgaba\nSeguir leyendo  Cómo Internet convirtió la autonomía en una carga individual\nEl cargo Cómo Internet "
-  },
-  {
     "blog": "Eterno aprendiz",
     "titulo": "Natalia Lafourcade, La Cancionera",
     "link": "https://altgr.xyz/2026/05/23/natalia-lafourcade-la-cancionera/",
@@ -299,13 +327,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/05/23/la-tradicion-del-thrash-metal/",
     "fecha": "23/05/2026",
     "contenido": "Si hay un lugar que historia en el Thrash Metal, ese es la ciudad de...\nThe post Desde San Francisco, Esto Es Hand Of Fire | La Tradición Del Thrash Metal first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Libro de Visitas",
-    "link": "https://salvamir.github.io/libro-de-visitas",
-    "fecha": "23/05/2026",
-    "contenido": ""
   },
   {
     "blog": "Malagueños originales y libres",
@@ -504,13 +525,6 @@
     "contenido": "El segundo concierto en Santiago de nuestra querida y talentosa Mon Laferte, parte de la gira de promoción de su más reciente disco, Femme Fatale, en Movistar Arena (El primero fue el pasado jueves 14). La noche de martes disfrutamos más de 3 horas de concierto, donde la chilena interpretó completo "
   },
   {
-    "blog": "La línea doméstica",
-    "titulo": "Argumento De Autoridad",
-    "link": "https://jmlro.codeberg.page/posts/2026/05-21-argumento-de-autoridad.html",
-    "fecha": "21/05/2026",
-    "contenido": "Nos dan la noticia de su embarazo amigos cercanos y van uniéndose al club. Me da alegría poder compartir algunas escaramuzas sobre la mater/paternidad. Al mismo tiempo intento no apabullar a nadie. Si algo he odiado desde el principio es el comentario con puntos suspensivos sobre los niños y la vida"
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Fin de la primera parte",
     "link": "https://www.xn--jmuoz-qta.es/2026/05/fin-de-la-primera-parte.html",
@@ -560,27 +574,6 @@
     "contenido": "Por: Carlos M.Publicado el 21 de mayo de 2026Así es Lázaro, el tema que he creado para Hugo. Te cuento cómo nació, cómo está construido y por qué prioriza velocidad, privacidad y simplicidad.Continuar leyendo →#Hugo #Tema Hugo #Desarrollo Web "
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "En el retrovisor (mucho drama)",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/en-el-retrovisor-mucho-drama/",
-    "fecha": "20/05/2026",
-    "contenido": "Probablemente este post sea dramático en exceso, pero es mi blog y me lo follo como quiero. Y hoy, querda lectora, estoy en la mierda. ¿Lo necesitaba? Pues más bien no. Pero aquí estamos. \n¿Sabéis cuál es la cosa que me da más miedo? Enfermar o envejecer. Normal, claro. Pero no es por el dolor, no e"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Música contra la crueldad",
-    "link": "https://jinversor.co/2026/05/musica-contra-la-crueldad/",
-    "fecha": "20/05/2026",
-    "contenido": "Una cosa sí nos dejó la mala madre España —además del idioma, la religión católica, la burocracia insaciable y la sífilis— y fue la crueldad para con los animales. No [&#8230;]\nLa entrada Música contra la crueldad se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Un corazón duro",
-    "link": "https://jinversor.co/2026/05/un-corazon-duro/",
-    "fecha": "20/05/2026",
-    "contenido": "Los años y la experiencia me convirtieron en una persona de corazón duro. Duro como una puta roca de moissanita. Duro como los callos de las patas de un venezolano [&#8230;]\nLa entrada Un corazón duro se publicó primero en Jinversor."
-  },
-  {
     "blog": "Ikkaro",
     "titulo": "Cómo funciona Halter: La ingeniería detrás de las vallas virtuales para vacas",
     "link": "https://www.ikkaro.com/control-ganado-ia-iot-halter/",
@@ -593,13 +586,6 @@
     "link": "https://blog.luiscarlospando.com/todo-lo-demas/2026/05/que-demonios-esta-pasando-en-chihuahua/",
     "fecha": "20/05/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "FreakCon 2026: Videojuegos, cosplay y cultura geek en Málaga",
-    "link": "https://mareosdeungeek.es/freakcon-2026-videojuegos-cosplay-y-cultura-geek-en-malaga/",
-    "fecha": "20/05/2026",
-    "contenido": "Este fin de semana llega al Palacio de Congresos de Torremolinos, la décima edición de FreakCon, el festival de cultura geek, videojuegos, series y películas, manga y cómic de Málaga. Por supuesto, tras diez ediciones, van a tirar la casa por la ventana y y habrá un motón de invitados, tanto naciona"
   },
   {
     "blog": "pov – matizeta",
@@ -684,40 +670,5 @@
     "link": "https://picandocodigo.net/2026/resena-dracamar-nintendo-switch/",
     "fecha": "20/05/2026",
     "contenido": "Dracamar es un juego de plataformas 3D inspirado en clásicos del género. Es una aventura para un jugador en el que controlamos a un grupo de jóvenes en una aventura para salvar su archipiélago con ambientación basada en la cultura Mediterránea. El juego fue desarrollado por Petoons Studio, un estudi"
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪁 El Jardín Digital",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
-    "fecha": "20/05/2026",
-    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🎧 Música",
-    "link": "https://salvamir.github.io/M%C3%BAsica/",
-    "fecha": "20/05/2026",
-    "contenido": "Por lo pronto, esta página está vacía."
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Sueño en decadencia",
-    "link": "https://gatooscuro.xyz/sueno-en-decadencia/",
-    "fecha": "19/05/2026",
-    "contenido": "Nota: Lo descrito a continuación es un sueño que viví de forma tan intensa que lo siento completamente real. Está escrito tal como lo oscuro que fue. No busco interpretaciones.\nSeguir leyendo  Sueño en decadencia\nEl cargo Sueño en decadencia apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Hablemos tantito del nuevo Star Fox",
-    "link": "https://blog.luiscarlospando.com/gaming/2026/05/hablemos-tantito-del-nuevo-star-fox/",
-    "fecha": "19/05/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "eaplmx",
-    "titulo": "39",
-    "link": "https://text.eapl.mx/39",
-    "fecha": "19/05/2026",
-    "contenido": ""
   }
 ]
