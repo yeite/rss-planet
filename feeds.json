@@ -1,5 +1,54 @@
 [
   {
+    "blog": "La Loica",
+    "titulo": "Estoy en Directo",
+    "link": "https://laloica.noblogs.org/estoy-en-directo/",
+    "fecha": "27/05/2026",
+    "contenido": "Hola! paso a dejarles esta información en el blog. Me estoy motivando a hacer directos almenos una hora diaria por las mañanas, para bordar, tejer, coser y dibujar. Con esto busco una rutina para dedicarle trabajito a mis textiles y depaso conversar y reir con otres. Mis horarios seran de 8 AM a 10 "
+  },
+  {
+    "blog": "La Máquina de Von Neumann",
+    "titulo": "Disposicionalismo fuerte: las leyes científicas no existen",
+    "link": "https://vonneumannmachine.wordpress.com/2026/05/27/disposicionalismo-fuerte-las-leyes-cientificas-no-existen/",
+    "fecha": "27/05/2026",
+    "contenido": "Después de estudiar el realismo de selva tropical de Ladyman y Ross, me interesó una visión contrapuesta, la de Stephen Mumford y Rani Lill Anjum, conocida como disposicionalismo fuerte. Vamos a ello. Si recordamos, para el realismo de Ladyman y Ross, la causalidad no era un elemento fundamental de "
+  },
+  {
+    "blog": "Plutoide Marcianadas",
+    "titulo": "Bocetos digitales - 2026-05",
+    "link": "https://plutoidemarcianadas.blogspot.com/2026/05/bocetos-digitales-2026-05.html",
+    "fecha": "27/05/2026",
+    "contenido": "Un par de dibujos hechos de forma completamente digital: &quot;Turbo Skater&quot; y &quot;Vamos a jugar&quot; Turbo SkaterFinalizado: 2026-05-23   › Ver más »¡Patina todo el día!"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Mi experiencia con el Samsung Galaxy S25 Ultra ¿Vale la pena?",
+    "link": "https://gatooscuro.xyz/mi-experiencia-con-el-samsung-galaxy-s25-ultra-vale-la-pena/",
+    "fecha": "27/05/2026",
+    "contenido": "Nota: Sí, es una reseña de un móvil lanzado en el 2025… Quizás para algunos esté viviendo en el pasado, pero para quienes utilizan un móvil como yo (los invito\nSeguir leyendo  Mi experiencia con el Samsung Galaxy S25 Ultra ¿Vale la pena?\nEl cargo Mi experiencia con el Samsung Galaxy S25 Ultra ¿Vale "
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Coleccionismo y acumulación",
+    "link": "https://matizeta.com/2026/05/27/coleccionismo-y-acumulacion/",
+    "fecha": "27/05/2026",
+    "contenido": "Si tuviera que elegir un coleccionismo estúpido, aniñado y banal sería el de coleccionar autos a escala. Lo digo porque me da mucha envidia quien se lo permite.&#160; Lo de los autos a escala, es en serio, me gusta todo lo que es el diseño de automóvil y estoy seguro que si me meto en [&#8230;]"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de NodeJS en Ubuntu 26.04",
+    "link": "https://voidnull.es/instalacion-de-nodejs-en-ubuntu-26-04/",
+    "fecha": "27/05/2026",
+    "contenido": "En el siguiente tutorial os explicaremos la correcta instalación de NodeJS en Ubuntu 26.04"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalar MariaDB en Ubuntu 26.04",
+    "link": "https://voidnull.es/instalar-mariadb-en-ubuntu-26-04/",
+    "fecha": "27/05/2026",
+    "contenido": "MariaDB es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "La búsqueda de Google y la ruptura del contrato social",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/27/20260527-google-contrato-social/",
@@ -7,8 +56,50 @@
     "contenido": "Si Google ya no redirige el tráfico a tu sitio, ¿por qué le dejas llevarse tu información?"
   },
   {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Nostalgia",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/nostalgia.html",
+    "fecha": "27/05/2026",
+    "contenido": "\n  \n    \n  \nQué caprichoso es el sentimiento de nostalgia, que aparece cuando menos lo esperas, donde menos lo esperas. ¿Quién sabe? Quizá dentro de unos años sienta melancolía por este año que me he pasado yendo y viendo todos los días, y lo añore por lo activo que estaba o por lo delgado que estab"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Toni Cruz",
+    "link": "https://www.xn--jmuoz-qta.es/2026/05/toni-cruz.html",
+    "fecha": "27/05/2026",
+    "contenido": "\n  \n    \n  \nEstas cosas para los oyentes acérrimos de radio siempre causan cierto morbo. Toni Cruz, el jefe de deportes de la COPE en Córdoba, ha escrito otro libro, en este caso sobre los mundiales de fútbol.Lo presentó hace unos días en su emisora, claro, en la desconexión local de las 12:50. Seis"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Broncano – En La Revuelta dicen NO a usar IA",
+    "link": "https://56k.es/fanta/broncano-en-la-revuelta-dicen-no-a-usar-ia/",
+    "fecha": "27/05/2026",
+    "contenido": "El otro día día el programa «La Revuelta» presentado por David Broncano (actualmente se emite en TVE1) dijo que ya no van a usar más la IA tras haber cometido errores que mostraban a gente que no quería salir en televisión pero que salió porque la IA los puso allí. Este es el programa con..."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Peak-mem – Midiendo el pico de uso de Memoria",
+    "link": "https://56k.es/fanta/peak-mem-midiendo-el-pico-de-uso-de-memoria/",
+    "fecha": "27/05/2026",
+    "contenido": "Estoy living a celebration con peak-mem . Se trata de un pequeño programa para GNU+Linux que nos permite calcular el pico maximo de uso de memoria RAM que hace un programa determinado que le indiquemos. Se instala así en Debian: # apt install peak-mem Se ejecuta por ejemplo así para nano y vi: &#160"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El sistema ferroviario más corto del mundo",
+    "link": "https://www.fabio.com.ar/9950-el-sistema-ferroviario-mas-corto-del-mundo",
+    "fecha": "27/05/2026",
+    "contenido": "    \nImaginen un pa&iacute;s con s&oacute;lo 300 metros de v&iacute;as &uacute;tiles, donde el trayecto dentro de ese pa&iacute;s apenas requiere 30 segundos para ser transitado, adivinaron, ese pa&iacute;s es el Vaticano.\nAhora bien &iquest;Por qu&eacute; cuernos una estaci&oacute;n de tren y tan p"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Entrevista Con Michelle De Perpetual Legacy | “Teodrama” Fue Un Proceso Largo Y Desafiante”",
+    "link": "https://www.delotroladometal.com.ar/2026/05/27/teodrama-fue-un-proceso-largo-y-desafiante/",
+    "fecha": "27/05/2026",
+    "contenido": "Hoy en día es raro que una banda se anime a lanzar un álbum doble....\nThe post Entrevista Con Michelle De Perpetual Legacy | “Teodrama” Fue Un Proceso Largo Y Desafiante” first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Victorhck in the free world",
-    "titulo": "Presvisualizar archivos MarkDown en el editor Kate de #KDE",
+    "titulo": "Previsualizar archivos MarkDown en el editor Kate de #KDE",
     "link": "https://victorhckinthefreeworld.com/2026/05/26/presvisualizar-archivos-markdown-en-el-editor-kate-de-kde/",
     "fecha": "26/05/2026",
     "contenido": "Veamos cómo previsualizar el renderizado de archivos en formato markdown en el editor Kate de KDE"
@@ -28,7 +119,7 @@
     "contenido": "Hace tiempo que vengo sufriendo avisos de “Conectividad limitada”, pero algo no cuadraba hasta que descubrí lo que realmente sucedia. &#8211; Conectividad limitada &#8211; Cambios de estado de red &#8211; Reconexiones aparentes Sin embargo, Internet funcionaba correctamente: &#8211; Navegación norma"
   },
   {
-    "blog": "Mi blog on Manu Mateos",
+    "blog": "Manu Mateos",
     "titulo": "Semana 21/2026",
     "link": "https://www.macram.es/posts/2026/05/semana-21-2026/",
     "fecha": "26/05/2026",
@@ -103,6 +194,13 @@
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B3-Como-vivir-santamente-el-s%C3%A1bado",
     "fecha": "26/05/2026",
     "contenido": "Una vez una madre me dijo que cuando sus hijos salen ella no puede dormir hasta que vuelvan, porque quiere verlos seguros."
+  },
+  {
+    "blog": "Diego's Island.",
+    "titulo": "Tienes poder sobre tu mente, no sobre los eventos exteriores.",
+    "link": "https://diegoaep.codeberg.page/tienes-poder-sobre-tu-mente/",
+    "fecha": "26/05/2026",
+    "contenido": "Las criticas pueden ser fuertes. Dejar que nos afecten es una decisión."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -231,6 +329,20 @@
     "contenido": "Hace un par de días que vengo leyendo a muchas personas que hablan sobre como viven su vida en etapas, que no necesariamente coinciden con el calendario común y corriente."
   },
   {
+    "blog": "Diego's Island.",
+    "titulo": "El One Piece es real.",
+    "link": "https://diegoaep.codeberg.page/el-one-piece-es-real/",
+    "fecha": "25/05/2026",
+    "contenido": "Una publicación de mi apreciación por One Piece, mi anime favorito. Te explicaré por qué lo es mientras soy feliz hablando de esto."
+  },
+  {
+    "blog": "Diego's Island.",
+    "titulo": "¿Te ayudo a crear tu web?",
+    "link": "https://diegoaep.codeberg.page/te-ayudo-a-crear-tu-web/",
+    "fecha": "25/05/2026",
+    "contenido": "No es publicidad sobre \"mis servicios\". Es un ofrecimiento de ayuda GRATUITA para que crees tu sitio web."
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Rodeando el volcán de Arenas Negras",
     "link": "https://guillermolatorre.com/rutas/rodeando-volcan-arenas-negras",
@@ -306,6 +418,13 @@
     "link": "https://thecheis.com/2026/05/23/errare-digital-est-2002-de-sin/",
     "fecha": "23/05/2026",
     "contenido": "«I feel higher than you / Devil bless me» El siguiente disco es una rareza, casi desconocido y bastante difícil de encontrar (aunque hoy en día más accesible gracias al streaming). Fue un álbum que me acompañó en las sombras desde chaval, siempre en la recámara como algo que merecía la pena saborear"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Cómo Internet convirtió la autonomía en una carga individual",
+    "link": "https://gatooscuro.xyz/como-internet-convirtio-la-autonomia-en-una-carga-individual/",
+    "fecha": "23/05/2026",
+    "contenido": "Hubo una época en que Internet parecía una extensión natural de la curiosidad humana. Un territorio caótico, sí, pero todavía moldeable. Existía la sensación de que aprender sobre tecnología otorgaba\nSeguir leyendo  Cómo Internet convirtió la autonomía en una carga individual\nEl cargo Cómo Internet "
   },
   {
     "blog": "Eterno aprendiz",
@@ -525,6 +644,13 @@
     "contenido": "El segundo concierto en Santiago de nuestra querida y talentosa Mon Laferte, parte de la gira de promoción de su más reciente disco, Femme Fatale, en Movistar Arena (El primero fue el pasado jueves 14). La noche de martes disfrutamos más de 3 horas de concierto, donde la chilena interpretó completo "
   },
   {
+    "blog": "La línea doméstica",
+    "titulo": "Argumento De Autoridad",
+    "link": "https://jmlro.codeberg.page/posts/2026/05-21-argumento-de-autoridad.html",
+    "fecha": "21/05/2026",
+    "contenido": "Nos dan la noticia de su embarazo amigos cercanos y van uniéndose al club. Me da alegría poder compartir algunas escaramuzas sobre la mater/paternidad. Al mismo tiempo intento no apabullar a nadie. Si algo he odiado desde el principio es el comentario con puntos suspensivos sobre los niños y la vida"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Fin de la primera parte",
     "link": "https://www.xn--jmuoz-qta.es/2026/05/fin-de-la-primera-parte.html",
@@ -574,13 +700,6 @@
     "contenido": "Por: Carlos M.Publicado el 21 de mayo de 2026Así es Lázaro, el tema que he creado para Hugo. Te cuento cómo nació, cómo está construido y por qué prioriza velocidad, privacidad y simplicidad.Continuar leyendo →#Hugo #Tema Hugo #Desarrollo Web "
   },
   {
-    "blog": "Ikkaro",
-    "titulo": "Cómo funciona Halter: La ingeniería detrás de las vallas virtuales para vacas",
-    "link": "https://www.ikkaro.com/control-ganado-ia-iot-halter/",
-    "fecha": "20/05/2026",
-    "contenido": "Me gustan mucho estos proyectos donde se une todo, una utilidad real muy loca, Inteligencia Artificial, una app, tecnología LoRaWan ... Sigue leyendo\nEl artículo Cómo funciona Halter: La ingeniería detrás de las vallas virtuales para vacas se publicó primero en Ikkaro."
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "¿Qué demonios está pasando en Chihuahua?",
     "link": "https://blog.luiscarlospando.com/todo-lo-demas/2026/05/que-demonios-esta-pasando-en-chihuahua/",
@@ -588,87 +707,10 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "pov – matizeta",
-    "titulo": "La resistencia",
-    "link": "https://matizeta.com/2026/05/20/la-resistencia/",
-    "fecha": "20/05/2026",
-    "contenido": "Hubo un tiempo que Internet era bien distinto de lo que es hoy. Mucho de nosotros la recordamos.  Esa aldea se construía entre todos, cada uno aportaba y hacía su propia casa en su terreno, sin grandes pretensiones, sino formando parte de un todo, una pequeña comunidad que cada vez se volvía más gra"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "tee: Duplica la salida de un comando en un fichero",
-    "link": "https://voidnull.es/tee-duplica-la-salida-de-un-comando-en-un-fichero/",
-    "fecha": "20/05/2026",
-    "contenido": "El comando tee permite redirigir la salida de un comando a un archivo y mostrarla simultáneamente por pantalla en GNU/Linux."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Docker en Ubuntu 26.04",
-    "link": "https://voidnull.es/instalacion-de-docker-en-ubuntu-26-04/",
-    "fecha": "20/05/2026",
-    "contenido": "Docker es una aplicación que simplifica el proceso de gestión de los procesos de las aplicaciones en contenedores. Los contenedores le permiten ejecutar sus aplicaciones en procesos aislados de recursos."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Blender y el dinero de Anthropic",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/20/20260520-blender-y-anthropic/",
-    "fecha": "20/05/2026",
-    "contenido": "El lavado de cara de Anthropic ha dañado la reputación e integridad de un proyecto impecable"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Zapatero",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/zapatero.html",
-    "fecha": "20/05/2026",
-    "contenido": "\n  \n    \n  \nCreo que son incontables las veces que he escuchado en las últimas horas la palabra \"Zapatero\", en referencia, claro, al ex presidente José Luis Rodríguez Zapatero.Corrupción, Plus Ultra, sus hijas de por medio... La verdad es que sin ser votantes socialista y diciendo con orgullo que no"
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendación.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/05/20/recomendacion-17/",
-    "fecha": "20/05/2026",
-    "contenido": "Les dejo una interpretación de The Ramparts, un grupo vocal formado en Dublin Irlanda, es el tipico grupo de Pub pero con un poco de musica coral de la opera y de la música religiosa."
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "La creación pública de un mundo de juego (Aelios)",
-    "link": "http://frikoteca.blogspot.com/2026/05/la-creacion-publica-de-un-mundo-de.html",
-    "fecha": "20/05/2026",
-    "contenido": "Aelios es un mundo de juego en el que llevo pensando décadas. No exagero; tengo mapas antiguos dibujados en los apuntes de la universidad, y os aseguro que ya ha llovido bastante desde entonces xD. Que sea una ambientación en la que llevo tanto tiempo trabajando no quiere decir que sea enormemente o"
-  },
-  {
     "blog": "56K",
     "titulo": "Canciones de mierda",
     "link": "https://56k.es/fanta/algunas-canciones-de-mierda-para-que-disfrute-bebiendo-una-limonada/",
     "fecha": "20/05/2026",
     "contenido": "Quería recuperar una lista de canciones de mierda que creo que pueden ser buena cosa para estos días de calor. PutoChinoMaricón &#8211; Gente de Mierda &#8211; www.youtube.com/watch?v=hczjFyu4oO8 Astrud – Todo nos parece una mierda &#8211; www.youtube.com/watch?v=SI9gV01m8uE La Polla Records – Ellos"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Al menos no es Linkedin",
-    "link": "https://56k.es/fanta/al-menos-no-es-linkedin/",
-    "fecha": "20/05/2026",
-    "contenido": "BlueSky se vendió como «Más Twitter», como «Twitter 2», como «el más de lo mismo para gente de izquierda». Alguna gente compró aquello, se hicieron cuenta y en 2 días estaban diciendo «el fediverso es de gente radical». Cuando escucho decir lo de «BlueSky al menos no es Linkedin» o «es para gente de"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Superdisk – 32MB en disquetes de 1.44MB",
-    "link": "https://56k.es/fanta/superdisk-32mb-en-disquetes-de-1-44mb/",
-    "fecha": "20/05/2026",
-    "contenido": "Superdisk fue ese tipo de soluciones a ningún problema que además llegan tarde a la fiesta y se quedan sin parte del pastel. No obstante esta tecnología consiguió algo reseñable que mucha gente desconoce. Para ponernos en situación de lo que vamos a hablar en este post: &#8211; Las cintas en los ord"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Por qué tenés que ser dueño real de lo que es tuyo: pagar no alcanza y el caso Fisker",
-    "link": "https://www.fabio.com.ar/9945-por-que-tenes-que-ser-dueno-real-de-lo-que-es-tuyo-pagar-no-alcanza-y-el-caso-fisker",
-    "fecha": "20/05/2026",
-    "contenido": "    \nImaginate que compr&aacute;s un autom&oacute;vil el&eacute;ctrico, re cool, re caro, unos 70.000 d&oacute;lares en un flamante auto y la compa&ntilde;&iacute;a que lo fabrica... quiebra.\nCon casi cualquier auto del siglo XX esto no era un problema inmediato, pero en el siglo XXI lo es y, especi"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Reseña: Dracamar - Nintendo Switch",
-    "link": "https://picandocodigo.net/2026/resena-dracamar-nintendo-switch/",
-    "fecha": "20/05/2026",
-    "contenido": "Dracamar es un juego de plataformas 3D inspirado en clásicos del género. Es una aventura para un jugador en el que controlamos a un grupo de jóvenes en una aventura para salvar su archipiélago con ambientación basada en la cultura Mediterránea. El juego fue desarrollado por Petoons Studio, un estudi"
   }
 ]
