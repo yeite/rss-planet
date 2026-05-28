@@ -7,11 +7,25 @@
     "contenido": "Hola! paso a dejarles esta información en el blog. Me estoy motivando a hacer directos almenos una hora diaria por las mañanas, para bordar, tejer, coser y dibujar. Con esto busco una rutina para dedicarle trabajito a mis textiles y depaso conversar y reir con otres. Mis horarios seran de 8 AM a 10 "
   },
   {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Adios Radicale. Hola de nuevo GCalendar",
+    "link": "https://vctrsnts.github.io/posts/2026-05-28-adios-radicale/",
+    "fecha": "27/05/2026",
+    "contenido": "Como recordaréis, tenía un articulo en el que explicaba que abandonaba GCalendar —el magnífico calendario de Google 😉— para montar mi propio sistema y así tener el control total.\nPero, lamentablemente, este experimento terminó hace un par de semanas, y no ha sido porque no lo intentara. 😭\nEl problem"
+  },
+  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "Disposicionalismo fuerte: las leyes científicas no existen",
     "link": "https://vonneumannmachine.wordpress.com/2026/05/27/disposicionalismo-fuerte-las-leyes-cientificas-no-existen/",
     "fecha": "27/05/2026",
     "contenido": "Después de estudiar el realismo de selva tropical de Ladyman y Ross, me interesó una visión contrapuesta, la de Stephen Mumford y Rani Lill Anjum, conocida como disposicionalismo fuerte. Vamos a ello. Si recordamos, para el realismo de Ladyman y Ross, la causalidad no era un elemento fundamental de "
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "¿Por qué guardamos fotos?",
+    "link": "https://jinversor.co/2026/05/por-que-guardamos-fotos/",
+    "fecha": "27/05/2026",
+    "contenido": "Rara vez algo me pone a pensar. Yo ya vivo en modo automático. Pero un pequeño post de Matizeta me puso a pensar en la razón por la cuál guardamos [&#8230;]\nLa entrada ¿Por qué guardamos fotos? se publicó primero en Jinversor."
   },
   {
     "blog": "Plutoide Marcianadas",
@@ -68,6 +82,13 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/05/toni-cruz.html",
     "fecha": "27/05/2026",
     "contenido": "\n  \n    \n  \nEstas cosas para los oyentes acérrimos de radio siempre causan cierto morbo. Toni Cruz, el jefe de deportes de la COPE en Córdoba, ha escrito otro libro, en este caso sobre los mundiales de fútbol.Lo presentó hace unos días en su emisora, claro, en la desconexión local de las 12:50. Seis"
+  },
+  {
+    "blog": "",
+    "titulo": "Tutorial de Nicolás Sokolic.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/05/27/tutorial-de-nicolas-sokolic/",
+    "fecha": "27/05/2026",
+    "contenido": "Aquí hay un tutorial de afinación de mandolina de Nicolás Sokolic."
   },
   {
     "blog": "56K",
@@ -214,7 +235,7 @@
     "titulo": "Usando Podman - Instalación y configuración",
     "link": "https://vctrsnts.github.io/posts/2026-05-26-usando-podman-1/",
     "fecha": "25/05/2026",
-    "contenido": "Antes de empezar, quiero que quede bien claro una cosa: el porqué de este y los siguientes artículos hablando de Podman.\n\nnota:\nEsto no va a ser una alternativa a todos los articulos que ha publicado atareao en referencia a Podman. Nunca lo haria ni es lo que querría, nunca voy a poder conseguir el "
+    "contenido": "Antes de empezar, quiero que quede bien claro una cosa: el porqué de este y los siguientes artículos hablando de Podman.\n\nNota\nEsto no va a ser una alternativa a todos los articulos que ha publicado atareao en referencia a Podman. Nunca lo haria ni es lo que querría, nunca voy a poder conseguir el n"
   },
   {
     "blog": "alt43",
@@ -609,25 +630,11 @@
     "contenido": "Las dos entradas anteriores, sobre escritura a mano y en digital, son una divagación enorme porque, en realidad, lo que yo quería contar en un principio era que había descubierto estos dos lenguajes de marcado. Se me fue de las manos pero aquí estamos, vamos a ello. Orgdown Orgdown es el nombre que "
   },
   {
-    "blog": "Blog de Thalskarth",
-    "titulo": "Links de interés 02",
-    "link": "https://blog.thalskarth.ar/links-de-interes-02/",
-    "fecha": "21/05/2026",
-    "contenido": "Y llegó el turno de la segunda entrega de los links de interes. Pueden ver la primera parte acá. Cómo ya comenté la vez anterior, la idea idea ir guardando aquellos enlaces que encuentro interesantes y los publicaré cada vez que considere que ya junté suficientes links."
-  },
-  {
     "blog": "post-it – matizeta",
     "titulo": "Mindful Journal",
     "link": "https://matizeta.com/2026/05/21/mindful-journal/",
     "fecha": "21/05/2026",
     "contenido": "Daniel Torres Burriel creó una webapp para registrar nuestro día a día.  A modo de diario privado podemos crear entradas, registrar nuestro estado de ánimo mediante emojis.   Cómo así mismo se define  Mindful Journal es una herramienta de bienestar personal para la reflexión diaria y el seguimiento "
-  },
-  {
-    "blog": "esencial",
-    "titulo": "La era de la urgencia",
-    "link": "https://yeite.github.io/esencial/la-era-de-la-urgencia",
-    "fecha": "21/05/2026",
-    "contenido": "Debemos aceptar que WhatsApp nunca ha servido para hablar. La culpa siempre fue nuestra por usar incorrectamente esta herramienta maravillosa. Quizá, sólo quizá, lo que necesitamos es superar la era de la urgencia. Desactiva las notificaciones. Deja de responder los mensajes al instante, destruye la"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -691,26 +698,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/05/21/a-las-bandas-nacionales-siempre-le-buscan-el-pelo-al-huevo/",
     "fecha": "21/05/2026",
     "contenido": "Partamos de una base. Azeroth es una banda que en lo que a nosotros nos...\nThe post Entrevista Con Fernando Ricciardulli De Azeroth | “A Las Bandas Nacionales Siempre Le Buscan El Pelo Al Huevo” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Lázaro, el tema para Hugo que he construido",
-    "link": "https://elblogdelazaro.org/asi-es-tema-lazaro-hugo/",
-    "fecha": "21/05/2026",
-    "contenido": "Por: Carlos M.Publicado el 21 de mayo de 2026Así es Lázaro, el tema que he creado para Hugo. Te cuento cómo nació, cómo está construido y por qué prioriza velocidad, privacidad y simplicidad.Continuar leyendo →#Hugo #Tema Hugo #Desarrollo Web "
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "¿Qué demonios está pasando en Chihuahua?",
-    "link": "https://blog.luiscarlospando.com/todo-lo-demas/2026/05/que-demonios-esta-pasando-en-chihuahua/",
-    "fecha": "20/05/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Canciones de mierda",
-    "link": "https://56k.es/fanta/algunas-canciones-de-mierda-para-que-disfrute-bebiendo-una-limonada/",
-    "fecha": "20/05/2026",
-    "contenido": "Quería recuperar una lista de canciones de mierda que creo que pueden ser buena cosa para estos días de calor. PutoChinoMaricón &#8211; Gente de Mierda &#8211; www.youtube.com/watch?v=hczjFyu4oO8 Astrud – Todo nos parece una mierda &#8211; www.youtube.com/watch?v=SI9gV01m8uE La Polla Records – Ellos"
   }
 ]
