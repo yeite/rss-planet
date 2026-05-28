@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Prueba de funcionamiento de mi Webring</title>
+        <style>
+            body {
+                font-family: sans-serif;
+                background-color: #f4f4f9;
+                color: #333;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                min-height: 100vh;
+                margin: 0;
+            }
+            .container {
+                background: white;
+                padding: 30px;
+                border-radius: 12px;
+                box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+                text-align: center;
+                max-width: 500px;
+            }
+            h1 {
+                color: #2c3e50;
+                margin-bottom: 10px;
+            }
+            p {
+                color: #7f8c8d;
+                font-size: 0.95em;
+            }
+            hr {
+                border: 0;
+                border-top: 1px solid #eee;
+                margin: 25px 0;
+            }
+            .badge {
+                background: #e8f4fd;
+                color: #1da1f2;
+                padding: 5px 10px;
+                border-radius: 20px;
+                font-size: 0.8em;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Entorno de Prueba</h1>
+            <p>
+                Esta página simula ser uno de los blogs del anillo para
+                verificar que la lógica de tu script funciona correctamente.
+            </p>
+
+            <hr />
+
+            <!-- AQUÍ SE ENRAIZA TU WEBRING -->
+            <!-- Cambia la URL por la ruta real de tu archivo webring.js en tu servidor -->
+            <script src="https://blogblog.es/webring.js"></script>
+        </div>
+    </body>
+</html>
