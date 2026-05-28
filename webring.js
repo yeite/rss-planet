@@ -1,4 +1,4 @@
-const JSON_URL = "https://blogblog.es"; 
+const JSON_URL = "https://blogblog.es/blogs.json"; 
 
 document.write(`
   <div id="my-webring" style="font-family: system-ui, -apple-system, sans-serif; border: 2px solid #222; padding: 15px; text-align: center; max-width: 380px; margin: 20px auto; background: #fff; border-radius: 8px; box-shadow: 2px 2px 0px #222;">
