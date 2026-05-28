@@ -26,9 +26,17 @@ fetch(JSON_URL + "?v=" + Math.random())
       return;
     }
 
-    const currentUrl = window.location.href.replace(/\/$/, "");
-    let currentIndex = sites.findIndex(site => currentUrl.includes(site.Url.replace(/\/$/, "")));
+    // Convertimos la URL actual a minúsculas y limpiamos barras finales
+    const currentUrl = window.location.href.toLowerCase().replace(/\/$/, "");
+    
+    // CORRECCIÓN AQUÍ: Búsqueda bidireccional tolerante a subpáginas o HTTPS/HTTP
+    let currentIndex = sites.findIndex(site => {
+      if (!site.Url) return false;
+      const cleanSiteUrl = site.Url.toLowerCase().replace(/\/$/, "");
+      return currentUrl.includes(cleanSiteUrl) || cleanSiteUrl.includes(currentUrl);
+    });
 
+    // Si estás en tu página webring.html (que no es un blog de la lista), arranca por defecto en el primero (0)
     if (currentIndex === -1) currentIndex = 0;
 
     const prevIndex = (currentIndex - 1 + sites.length) % sites.length;
@@ -48,7 +56,7 @@ fetch(JSON_URL + "?v=" + Math.random())
   .catch(err => {
     let mensajeError = "Error al conectar con el anillo web.";
     if (err.name === "SyntaxError") {
-      mensajeError = "Error: El archivo webring.json tiene un error de formato (sintaxis).";
+      mensajeError = "Error: El archivo blogs.json tiene un error de formato (sintaxis).";
     } else {
       mensajeError = err.message;
     }
