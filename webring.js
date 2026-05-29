@@ -11,24 +11,34 @@ function inicializarWebring() {
 
   // Inyectamos el HTML de manera moderna dentro de su contenedor
   contenedor.innerHTML = `
-    <div id="my-webring" style="font-family: system-ui, -apple-system, sans-serif; border: 2px solid #222; padding: 18px; text-align: center; max-width: 380px; margin: 20px auto; background: #fff; border-radius: 12px; box-shadow: 3px 3px 0px #222;">
+  <div id="my-webring" style="font-family: system-ui, -apple-system, sans-serif; text-align: center; max-width: 450px; margin: 25px auto; padding: 10px; color: #222;">
       
-      <!-- Enlace principal a blogblog.es con texto e imagen junta -->
-      <div style="display: flex; align-items: center; justify-content: center; gap: 8px; margin-bottom: 5px;">
-        <a href="https://blogblog.es" target="_blank" style="font-weight: bold; font-size: 1.2em; color: #222; text-decoration: none;">¡Blog!¡Blog!</a>
-        <a href="https://blogblog.es" target="_blank" style="display: flex; align-items: center;">
-          <img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif" alt="Frog Pixel" style="height: 24px; width: auto; display: block;" />
-        </a>
+      <!-- Fila principal integrada: Anterior | Título + Logo | Siguiente -->
+      <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.9em; font-weight: 500;">
+        
+        <a id="webring-prev" href="#" style="text-decoration: none; color: #666; transition: color 0.2s;">[Anterior]</a>
+        
+        <!-- Bloque Central -->
+        <div style="display: flex; flex-direction: column; align-items: center; gap: 4px;">
+          <div style="display: flex; align-items: center; gap: 6px;">
+            <a href="https://blogblog.es" target="_blank" style="font-weight: bold; font-size: 1.1em; color: #111; text-decoration: none;">¡Blog!¡Blog!</a>
+            <a href="https://blogblog.es" target="_blank" style="display: flex; align-items: center;">
+              <img src="https://wordpress.com" alt="Frog Pixel" style="height: 20px; width: auto; display: block;" />
+            </a>
+          </div>
+          
+          <!-- Botón de Azar representado por el dado -->
+          <a id="webring-random" href="#" title="Ir a un blog al azar" style="text-decoration: none; font-size: 1.2em; line-height: 1; margin-top: 2px; transition: transform 0.2s; display: inline-block;">🎲</a>
+        </div>
+
+        <a id="webring-next" href="#" style="text-decoration: none; color: #666; transition: color 0.2s;">[Siguiente]</a>
+        
       </div>
 
-      <p id="webring-status" style="font-size: 0.85em; margin: 0 0 15px 0; color: #555;">Cargando comunidad...</p>
-      
-      <!-- Fila inferior de navegación: Anterior, Azar y Siguiente -->
-      <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85em; font-weight: bold; padding: 0 10px;">
-        <a id="webring-prev" href="#" style="text-decoration: none; color: #0066cc;">[← Anterior]</a>
-        <a id="webring-random" href="#" style="text-decoration: none; color: #0066cc;">[Azar]</a>
-        <a id="webring-next" href="#" style="text-decoration: none; color: #0066cc;">[Siguiente →]</a>
-      </div>
+      <!-- Estado informativo discreto abajo del todo -->
+      <p id="webring-status" style="font-size: 0.75em; margin: 12px 0 0 0; color: #888; font-style: italic;">Cargando comunidad...</p>
+
+    </div>
   `;
 
   // Pedimos el JSON de tu servidor ignorando la caché vieja
