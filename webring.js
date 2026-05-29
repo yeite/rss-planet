@@ -19,22 +19,29 @@ function inicializarWebring() {
             -apple-system,
             sans-serif;
         text-align: center;
-        max-width: 250px;
+        max-width: 500px;
         margin: 5px auto;
         padding: 10px;
         color: #222;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 8px;
     "
 >
-    <!-- Fila principal integrada: Anterior | Título + Logo | Siguiente -->
+    <!-- FILA SUPERIOR: Anterior | Título + Logo | Siguiente (Todos en una sola línea) -->
     <div
         style="
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
             align-items: center;
+            width: 100%;
             font-size: 0.9em;
             font-weight: 500;
+            gap: 5px;
         "
     >
+        <!-- Botón Anterior -->
         <a
             id="webring-prev"
             href="#"
@@ -43,59 +50,36 @@ function inicializarWebring() {
                 color: #6bbe30;
                 transition: color 0.2s;
             "
-            >[⏮&#xFE0E;]</a
+            >[⏮︎]</a
         >
 
-        <!-- Bloque Central -->
-        <div
-            style="
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                gap: 4px;
-            "
-        >
-            <div style="display: flex; align-items: center; gap: 6px">
-                <a
-                    href="https://blogblog.es"
-                    target="_blank"
-                    style="
-                        font-weight: 500;
-                        font-size: 1em;
-                        color: #5A982F;
-                        text-decoration: none;
-                    "
-                    >¡Blog!¡Blog!</a
-                >
-            </div>
-
-            <!-- Botón de Azar representado por el dado -->
+        <!-- Bloque de Título Central con la Ranita -->
+        <div style="display: flex; align-items: center; gap: 3px">
             <a
-                id="webring-random"
-                href="#"
-                title="Ir a un blog al azar"
-                style="
-                    text-decoration: none;
-                    font-size: 1.2em;
-                    line-height: 1;
-
-                    transition: transform 0.2s;
-                    display: inline-block;
-                "
-                > <img
+                href="https://blogblog.es"
+                target="_blank"
+                style="display: flex; align-items: center"
+            >
+                <img
                     src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif"
                     alt="¡Blog!¡Blog!"
                     style="height: 20px; width: auto; display: block"
-                /></a
-            >
-
+                />
             </a>
-
-
-
-
+            <a
+                href="https://blogblog.es"
+                target="_blank"
+                style="
+                    font-weight: bold;
+                    font-size: 1em;
+                    color: #5a982f;
+                    text-decoration: none;
+                "
+                >¡Blog!¡Blog!</a
+            >
         </div>
 
+        <!-- Botón Siguiente -->
         <a
             id="webring-next"
             href="#"
@@ -104,16 +88,49 @@ function inicializarWebring() {
                 color: #6bbe30;
                 transition: color 0.2s;
             "
-            >[⏭&#xFE0E;]</a
+            >[⏭︎]</a
         >
     </div>
+
+    <!-- FILA INFERIOR: Botón de Azar centrado justo debajo -->
+    <a
+        id="webring-random"
+        href="#"
+        title="Ir a un blog al azar"
+        style="
+            text-decoration: none;
+            font-size: 1.3em;
+            line-height: 0;
+            transition: transform 0.2s;
+            display: inline-block;
+            color: #6bbe30;
+        "
+    >
+        <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="15"
+            height="15"
+            fill="currentColor"
+            class="bi bi-shuffle"
+            viewBox="0 0 16 16"
+            stroke-width="500"
+        >
+            <path
+                fill-rule="evenodd"
+                d="M0 3.5A.5.5 0 0 1 .5 3H1c2.202 0 3.827 1.24 4.874 2.418.49.552.865 1.102 1.126 1.532.26-.43.636-.98 1.126-1.532C9.173 4.24 10.798 3 13 3v1c-1.798 0-3.173 1.01-4.126 2.082A9.6 9.6 0 0 0 7.556 8a9.6 9.6 0 0 0 1.317 1.918C9.828 10.99 11.204 12 13 12v1c-2.202 0-3.827-1.24-4.874-2.418A10.6 10.6 0 0 1 7 9.05c-.26.43-.636.98-1.126 1.532C4.827 11.76 3.202 13 1 13H.5a.5.5 0 0 1 0-1H1c1.798 0 3.173-1.01 4.126-2.082A9.6 9.6 0 0 0 6.444 8a9.6 9.6 0 0 0-1.317-1.918C4.172 5.01 2.796 4 1 4H.5a.5.5 0 0 1-.5-.5"
+            />
+            <path
+                d="M13 5.466V1.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384l-2.36 1.966a.25.25 0 0 1-.41-.192m0 9v-3.932a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384l-2.36 1.966a.25.25 0 0 1-.41-.192"
+            />
+        </svg>
+    </a>
 
     <!-- Estado informativo discreto abajo del todo -->
     <p
         id="webring-status"
         style="
             font-size: 0.75em;
-            margin: 12px 0 0 0;
+            margin: 4px 0 0 0;
             color: #888;
             font-style: italic;
         "
