@@ -75,7 +75,7 @@ function inicializarWebring() {
                 style="
                     font-family: &quot;Courier Prime&quot, ;
                     font-weight: 500;
-                    font-size: 1.2em;
+                    font-size: 1.1em;
                     color: #5a982f;
                     text-decoration: none;
 
