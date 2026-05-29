@@ -11,15 +11,24 @@ function inicializarWebring() {
 
   // Inyectamos el HTML de manera moderna dentro de su contenedor
   contenedor.innerHTML = `
-    <div id="my-webring" style="font-family: system-ui, -apple-system, sans-serif; border: 2px solid #222; padding: 15px; text-align: center; max-width: 380px; margin: 20px auto; background: #fff; border-radius: 8px; box-shadow: 2px 2px 0px #222;">
-      <h4 style="margin: 0 0 5px 0; font-size: 1.1em; color: #222;">Anillo Web de Aliados</h4>
+    <div id="my-webring" style="font-family: system-ui, -apple-system, sans-serif; border: 2px solid #222; padding: 18px; text-align: center; max-width: 380px; margin: 20px auto; background: #fff; border-radius: 12px; box-shadow: 3px 3px 0px #222;">
+      
+      <!-- Enlace principal a blogblog.es con texto e imagen junta -->
+      <div style="display: flex; align-items: center; justify-content: center; gap: 8px; margin-bottom: 5px;">
+        <a href="https://blogblog.es" target="_blank" style="font-weight: bold; font-size: 1.2em; color: #222; text-decoration: none;">¡Blog!¡Blog!</a>
+        <a href="https://blogblog.es" target="_blank" style="display: flex; align-items: center;">
+          <img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif" alt="Frog Pixel" style="height: 24px; width: auto; display: block;" />
+        </a>
+      </div>
+
       <p id="webring-status" style="font-size: 0.85em; margin: 0 0 15px 0; color: #555;">Cargando comunidad...</p>
-      <div style="display: flex; justify-content: space-around; font-size: 0.85em; font-weight: bold;">
+      
+      <!-- Fila inferior de navegación: Anterior, Azar y Siguiente -->
+      <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85em; font-weight: bold; padding: 0 10px;">
         <a id="webring-prev" href="#" style="text-decoration: none; color: #0066cc;">[← Anterior]</a>
         <a id="webring-random" href="#" style="text-decoration: none; color: #0066cc;">[Azar]</a>
         <a id="webring-next" href="#" style="text-decoration: none; color: #0066cc;">[Siguiente →]</a>
       </div>
-    </div>
   `;
 
   // Pedimos el JSON de tu servidor ignorando la caché vieja
