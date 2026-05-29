@@ -70,7 +70,7 @@ function inicializarWebring() {
                 href="https://blogblog.es"
                 target="_blank"
                 style="
-                    font-weight: bold;
+                    font-weight: 500px;
                     font-size: 1em;
                     color: #5a982f;
                     text-decoration: none;
