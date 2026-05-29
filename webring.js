@@ -15,7 +15,7 @@ function inicializarWebring() {
 <link rel="preconnect" href="https://googleapis.com" />
 <link rel="preconnect" href="https://gstatic.com" crossorigin />
 <link
-    href="https://googleapis.com/css2?family=Courier+Prime:wght@700&display=swap"
+    href="https://googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap"
     rel="stylesheet"
 />
 
@@ -49,36 +49,31 @@ function inicializarWebring() {
             gap: 5px;
         "
     >
-
         <!-- Bloque de Título Central con la Ranita -->
-        <div style="display: flex; align-items: center; gap: 3px">
+        <div style="display: flex; align-items: center; gap: 1px">
+            <a
+                href="https://blogblog.es"
+                target="_blank"
+                style="display: flex; align-items: center"
+            >
+                <img
+                    src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif"
+                    alt="¡Blog!¡Blog!"
+                    style="height: 23px; width: auto; display: block"
+                />
+            </a>
 
-
-                        <a
-                            href="https://blogblog.es"
-                            target="_blank"
-                            style="display: flex; align-items: center"
-                        >
-                            <img
-                                src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif"
-                                alt="¡Blog!¡Blog!"
-                                style="height: 23px; width: auto; display: block"
-                            />
-                        </a>
-
-            </a
-        >
             <!-- SE AGREGA LA PROPIEDAD font-family AQUÍ -->
             <a
                 href="https://blogblog.es"
                 target="_blank"
                 style="
-                    font-family: &quot;Courier Prime&quot, ;
+                    font-family: &quot;PT Sans Narrow&quot;, sans-serif;
                     font-weight: 500;
-                    font-size: 1.1em;
+                    font-size: 1.15em;
                     color: #5a982f;
                     text-decoration: none;
-
+                    letter-spacing: -0px;
                 "
                 >¡Blog!¡Blog!</a
             >
@@ -96,7 +91,6 @@ function inicializarWebring() {
             >[⏮︎]</a
         >
 
-
         <!-- Botón Siguiente -->
         <a
             id="webring-next"
@@ -108,7 +102,6 @@ function inicializarWebring() {
             "
             >[⏭︎]</a
         >
-
 
         <a
             id="webring-random"
@@ -125,8 +118,8 @@ function inicializarWebring() {
         >
             <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="15"
-                height="15"
+                width="13"
+                height="13"
                 fill="currentColor"
                 class="bi bi-shuffle"
                 viewBox="0 0 16 16"
@@ -145,7 +138,6 @@ function inicializarWebring() {
 
     <!-- FILA INFERIOR: Botón de Azar centrado justo debajo -->
 
-
     <!-- Estado informativo discreto abajo del todo -->
     <p
         id="webring-status"
@@ -159,6 +151,7 @@ function inicializarWebring() {
         Cargando comunidad...
     </p>
 </div>
+
 
   `;
 
