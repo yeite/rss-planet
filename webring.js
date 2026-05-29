@@ -16,14 +16,14 @@ function inicializarWebring() {
       <!-- Fila principal integrada: Anterior | Título + Logo | Siguiente -->
       <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.9em; font-weight: 500;">
         
-        <a id="webring-prev" href="#" style="text-decoration: none; color: #666; transition: color 0.2s;">[Anterior]</a>
+        <a id="webring-prev" href="#" style="text-decoration: none; color: #6BBE30; transition: color 0.2s;">[⏮]</a>
         
         <!-- Bloque Central -->
         <div style="display: flex; flex-direction: column; align-items: center; gap: 4px;">
           <div style="display: flex; align-items: center; gap: 6px;">
-            <a href="https://blogblog.es" target="_blank" style="font-weight: bold; font-size: 1.1em; color: #111; text-decoration: none;">¡Blog!¡Blog!</a>
+            <a href="https://blogblog.es" target="_blank" style="font-weight: bold; font-size: 1em; color: #111; text-decoration: none;">¡Blog!¡Blog!</a>
             <a href="https://blogblog.es" target="_blank" style="display: flex; align-items: center;">
-              <img src="https://wordpress.com" alt="Frog Pixel" style="height: 20px; width: auto; display: block;" />
+              <img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif" alt="¡Blog!¡Blog!" style="height: 20px; width: auto; display: block;" />
             </a>
           </div>
           
@@ -31,7 +31,7 @@ function inicializarWebring() {
           <a id="webring-random" href="#" title="Ir a un blog al azar" style="text-decoration: none; font-size: 1.2em; line-height: 1; margin-top: 2px; transition: transform 0.2s; display: inline-block;">🎲</a>
         </div>
 
-        <a id="webring-next" href="#" style="text-decoration: none; color: #666; transition: color 0.2s;">[Siguiente]</a>
+        <a id="webring-next" href="#" style="text-decoration: none; color: #6BBE30; transition: color 0.2s;">[⏭]</a>
         
       </div>
 
