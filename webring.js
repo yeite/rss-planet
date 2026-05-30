@@ -59,7 +59,7 @@ function inicializarWebring() {
                 <img
                     src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif"
                     alt="¡Blog!¡Blog!"
-                    style="height: 23px; width: auto; display: block"
+                    style="height: 23px; width: 23px; display: block"
                 />
             </a>
 
