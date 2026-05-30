@@ -83,6 +83,7 @@ function inicializarWebring() {
         <a
             id="webring-prev"
             href="#"
+            target="_self"
             style="
                 text-decoration: none;
                 color: #6bbe30;
@@ -95,6 +96,7 @@ function inicializarWebring() {
         <a
             id="webring-next"
             href="#"
+            target="_self"
             style="
                 text-decoration: none;
                 color: #6bbe30;
@@ -106,6 +108,7 @@ function inicializarWebring() {
         <a
             id="webring-random"
             href="#"
+            target="_self"
             title="Ir a un blog al azar"
             style="
                 text-decoration: none;
