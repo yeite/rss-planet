@@ -121,6 +121,7 @@
   {
     "Nombre": "Películas y Series",
     "Url": "https://peliculasyseries.matizeta.com",
+    "webring": "https://yeite.github.io/lps/",
     "Feed": "https://yeite.github.io/lps/atom.xml",
     "Descripción": "Blogs con micro reseñas  sobre las películas y series que voy mirando 👀",
     "Categoría": "Entretenimiento y Cultura",
