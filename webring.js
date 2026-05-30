@@ -50,34 +50,18 @@ function inicializarWebring() {
         "
     >
         <!-- Bloque de Título Central con la Ranita -->
-        <div style="display: flex; align-items: center; gap: 1px">
-            <a
-                href="https://blogblog.es"
-                target="_blank"
-                style="display: flex; align-items: center"
-            >
-                <img
-                    src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif"
-                    alt="¡Blog!¡Blog!"
-                    style="height: 23px !important; width: auto !important; display: block; object-fit: contain;"
-                />
-            </a>
-
-            <!-- SE AGREGA LA PROPIEDAD font-family AQUÍ -->
-            <a
-                href="https://blogblog.es"
-                target="_blank"
-                style="
-                    font-family: &quot;PT Sans Narrow&quot;, sans-serif;
-                    font-weight: 500;
-                    font-size: 1.15em;
-                    color: #5a982f;
-                    text-decoration: none;
-                    letter-spacing: -0px;
-                "
-                >¡Blog!¡Blog!</a
-            >
-        </div>
+        <div style="display: flex; align-items: center; gap: 6px;">
+    <a href="https://blogblog.es" 
+       target="_blank" 
+       style="display: flex; align-items: center; gap: 6px; text-decoration: none; font-family: 'PT Sans Narrow', sans-serif; font-weight: 500; font-size: 1.15em; color: #5a982f;">
+        
+        <img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif"
+             alt="Logo de ¡Blog!¡Blog!"
+             style="height: 23px; width: auto; display: block; object-fit: contain;" />
+        
+        <span>¡Blog!¡Blog!</span>
+    </a>
+</div>
 
         <!-- Botón Anterior -->
         <a
