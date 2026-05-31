@@ -1,10 +1,115 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Libro «Nosotros» de Yevgueni Zamiatin",
+    "link": "https://victorhckinthefreeworld.com/2026/05/31/libro-nosotros-de-yevgueni-zamiatin/",
+    "fecha": "31/05/2026",
+    "contenido": "Una distopía escrita en 1920, creo que injustamente olvidada que nos recuera a 1984 de George Orwell"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "La dificultad de posicionar un blog hoy en día",
+    "link": "https://tecnoysoft.com/2026/05/31/la-dificultad-de-posicionar-un-blog-hoy-en-dia/",
+    "fecha": "31/05/2026",
+    "contenido": "Tener un blog ya no es suficiente para aparecer en Google. Hace años bastaba con publicar contenido con cierta frecuencia para ganar visibilidad, pero hoy el escenario es mucho más competitivo. El SEO ha evolucionado hacia un sistema mucho más complejo donde intervienen cientos de factores. Esto hac"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Shelly vs Octopi en CachyOS",
+    "link": "https://tecnoysoft.com/2026/05/31/shelly-vs-octopi-en-cachyos/",
+    "fecha": "31/05/2026",
+    "contenido": "Shelly vs Octopi en CachyOS no es modernidad, es filosofía. Shelly y Octopi no compiten solo en interfaz, compiten en cómo entienden Arch. Octopi: la filosofía Arch sin capas Octopi es directo: pacman + AUR. Ves lo que hay, de dónde viene y qué estás instalando. Ejemplo real: buscas “OBS Studio”. Oc"
+  },
+  {
+    "blog": "note – matizeta",
+    "titulo": "Una vuelta de tuerca a la sección ¡Now!",
+    "link": "https://matizeta.com/2026/05/31/una-vuelta-de-tuerca-a-la-seccion-now/",
+    "fecha": "31/05/2026",
+    "contenido": "Cambié el diseño de mi página now!, ya no es la aburrida página con texto, sino que es una especie de timeline. Tomé la idea de la sección “ahora” del blog de Salva más Cerca. ¡Gracias Salva! También incluí en el menú de este blog la sección, para que esté más visible. Para quien quiera [&#8230;]"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Quis custodiet ipsos custodes?",
+    "link": "https://impermanente.es/2026/05/31/quis-custodiet-ipsos-custodes.html",
+    "fecha": "31/05/2026",
+    "contenido": "Esto no lo escribo desde la teoría. Llevo meses con las manos metidas en dos experimentos que son, cada uno a su manera, una respuesta a un mismo problema. Uno es una colección de evaluadores epistémicos: piezas pequeñas que miran una conversación y miden cosas como si el sistema se contradice consi"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Ping #25: Actualizaciones, novedades y ranking de distros",
+    "link": "https://voidnull.es/ping-25-actualizaciones-novedades-y-ranking-de-distros/",
+    "fecha": "31/05/2026",
+    "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda…",
+    "link": "https://www.delotroladometal.com.ar/2026/05/31/el-nacimiento-de-una-leyenda/",
+    "fecha": "31/05/2026",
+    "contenido": "(1990 &#8211; Intense Records) Apuesto a quien sea que a la hora de poner a...\nThe post Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda… first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "La determinación del Emperador",
+    "link": "https://guillermolatorre.com/clips/la-determinacion-del-emperador",
+    "fecha": "30/05/2026",
+    "contenido": "Hugo Sáez sobre el impacto de la inteligencia artificial en el mundo laboral.Ir al enlace"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Iris Photos: organizador de fotos para Mac",
+    "link": "https://guillermolatorre.com/clips/iris-photos",
+    "fecha": "30/05/2026",
+    "contenido": "La recomend&oacute; Ale Mu&ntilde;oz y creo que merece la pena probarla. Es una app nativa para organizar tus fotos de forma privada y con todas las funciones habituales de softwares cloud de grandes corporaciones: encontrar fotos similares, buscar por personas o mascotas, fotos en un lugar concreto"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Me equivocaba: la IA sí ha cambiado (bastantes) cosas",
+    "link": "https://thecheis.com/2026/05/30/me-equivocaba-la-ia-si-ha-cambiado-bastantes-cosas/",
+    "fecha": "30/05/2026",
+    "contenido": "Quién me lo iba a decir: un inocente experimento con Google Gemini terminó derivando en un viaje a las profundidades de la IA. O más bien, la inercia de los acontecimientos me ha pasado por encima como un tren de cercanías. En 2023 escribí un artículo escéptico sobre la inteligencia artificial, y so"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Marknote 1.6.0 ya publicado",
+    "link": "https://victorhckinthefreeworld.com/2026/05/30/marknote-1-6-0-ya-publicado/",
+    "fecha": "30/05/2026",
+    "contenido": "Marknote es una aplicación de la comunidad KDE para escrirbir notas en formato Markdown"
+  },
+  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "Un Poeta",
     "link": "https://gatooscuro.xyz/un-poeta/",
     "fecha": "30/05/2026",
     "contenido": "Me acabo de ver la película Un Poeta y realmente la recomiendo. Fue especialmente conmovedor ver a un artista intentar superarse a sí mismo. Además de tratar de hacer lo\nSeguir leyendo  Un Poeta\nEl cargo Un Poeta apareció primero en El cuarto de GatoOscuro."
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Migrar a Linux: tres aspectos que debes tener en cuenta",
+    "link": "https://tecnoysoft.com/2026/05/30/migrar-a-linux-tres-aspectos-que-debes-tener-en-cuenta/",
+    "fecha": "30/05/2026",
+    "contenido": "Migrar a Linux puede parecer complicado, pero en realidad todo se reduce a tres preguntas fundamentales: **qué haces con tu ordenador, qué hardware tienes y qué distribución se adapta mejor a ambos factores**. Analizar estos aspectos desde el principio facilita mucho la transición y evita problemas "
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "EXPlay",
+    "link": "https://www.macram.es/posts/2026/05/explay/",
+    "fecha": "30/05/2026",
+    "contenido": "Canal Extremadura relanzó su OTT hace algo más de un mes (junto con un rebranding bastante radical que, con el tiempo, creo que fue acertado, aunque siga pensando que el logo antiguo resultaba bastante atemporal) y eso permite que cualquiera, desde cualquier lugar del mundo, pueda estar conectado co"
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "Finisterra",
+    "link": "https://www.macram.es/musica/finisterra-mago-de-oz/",
+    "fecha": "30/05/2026",
+    "contenido": "Hoy escuché de principio a fin uno de los discos que más quemé en mi adolescencia. Finisterra fue punto de inflexión dentro de la carrera de Mägo de Oz (uno de los grupos que formaron más parte de mi adolescencia y a los que vuelvo de cuando en cuando), el prólogo perfecto a su trilogía Gaia y un di"
+  },
+  {
+    "blog": "productor de sostenibilidad",
+    "titulo": "Seguir usando tu viejo Kindle después de Amazon",
+    "link": "https://productordesostenibilidad.es/2026/05/seguir-usando-tu-viejo-kindle-despues-de-amazon/",
+    "fecha": "30/05/2026",
+    "contenido": "Siguiendo la línea de Windows, Amazon quiere forzarte a comprar un nuevo dispositivo. Pero no te preocupes, a tu viejo Kindle le quedan tantas sesiones de lectura como tengas a bien disfrutar en él. Dice Amazon que, desde el 20 de mayo de 2026, deja de ofrecer soporte para e-readers Kindle que se ha"
   },
   {
     "blog": "danielaragay.net",
@@ -15,10 +120,17 @@
   },
   {
     "blog": "Eterno aprendiz",
-    "titulo": "Restricciones de Acceso a las Redes Sociales",
+    "titulo": "Proteger a los Menores de las Redes Sociales",
     "link": "https://altgr.xyz/2026/05/30/restricciones-de-acceso-a-las-redes-sociales/",
     "fecha": "30/05/2026",
     "contenido": "Por Chile también hay quienes se quieren sumar a los países con leyes para limitar a los menores de edad el acceso a redes sociales. De acuerdo a algunas encuestas parece ser una idea popular. Es verdad que el uso excesivo puede provocar daños en la salud mental, especialmente cuando se trata niños "
+  },
+  {
+    "blog": "Si dios te da limones",
+    "titulo": "Del Kobo a Obsidian",
+    "link": "https://sidiostedalimones.com/blog/2026/kobo-a-obsidian/",
+    "fecha": "30/05/2026",
+    "contenido": ""
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -54,6 +166,27 @@
     "link": "https://javiersam.uy/2026/05/marcos-de-texto-en-scribus.html",
     "fecha": "30/05/2026",
     "contenido": "Hice un video resumiendo lo que hablamos el sábado pasado durante el primer encuentro del Taller de Scribus en Fab MVD. Hoy, a las 10:30, es el segundo encuentro."
+  },
+  {
+    "blog": "El Cajón de la Tecnología",
+    "titulo": "El futuro de el Cajón de la Tecnología",
+    "link": "https://tecnocajon.wordpress.com/2026/05/30/el-futuro-de-el-cajon-de-la-tecnologia/",
+    "fecha": "30/05/2026",
+    "contenido": "Este blog lleva activo 2 años, publico cuando me apetece, tengo tiempo y lo más importante: tengo ideas. En ese tiempo los artículos (al menos desde mi punto de vista), han mejorado y han subido de calidad (y se viene probablemente el mejor artículo que haya tenido esta web, mínimo 2 meses). El punt"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salvamir.github.io/algo-mas",
+    "fecha": "30/05/2026",
+    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "La geología de Amaicha está genial.",
+    "link": "https://salvamir.github.io/Notas/La-geolog%C3%ADa-de-Amaicha-est%C3%A1-genial.",
+    "fecha": "30/05/2026",
+    "contenido": "Contexto. Amaicha es un pueblito de Tucumán, una provincia de Argentina. Con la facultad fuimos a estudiar unas salinas muy interesantes de ahí."
   },
   {
     "blog": "Victorhck in the free world",
@@ -208,20 +341,6 @@
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8D%81-Dios-cuenta-conmigo-(yo,-Salvador)",
     "fecha": "29/05/2026",
     "contenido": "¡Eh! Que la felicidad a la que estás llamado no se compagina con esa marcha tristona, mustia, aburrida que llevas."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🍁 ¿Qué es lo que buscan?",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8D%81-%C2%BFQu%C3%A9-es-lo-que-buscan",
-    "fecha": "29/05/2026",
-    "contenido": "—Únicamente los niños saben lo que buscan —dijo el principito."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪴 Sobre el tiempo y las virtudes",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-el-tiempo-y-las-virtudes",
-    "fecha": "29/05/2026",
-    "contenido": "Sí, por el contrario, es consciente de que le pueden esperar cosas horribles, y reza para pedir las virtudes necesarias para enfrentarse con tales horrores, y entretanto se ocupa del presente, porque en éste, y sólo en éste, residen todos los deberes, toda la gracia, toda la sabiduría y todo el plac"
   },
   {
     "blog": "Malagueños originales y libres",
@@ -651,25 +770,11 @@
     "contenido": "Fecha realización: 25/05/2026.Ubicación: Arenas Negras (Tenerife).Mi valoración: ★★★★★Nivel de exigencia: Fácil.Ruta circular: SíTiempo activo: 01:00 horas.Distancia total: 4,8 km.Desnivel positivo: 150 metros.Desnivel negativo: 150 metros.Opción de baño: SíHoy, de forma improvisada, hemos decidido "
   },
   {
-    "blog": "Tecno y Soft",
-    "titulo": "Yay vs Paru: cuál usar en Arch y derivadas en 2026",
-    "link": "https://tecnoysoft.com/2026/05/24/yay-vs-paru-cual-usar-en-arch-y-derivadas-en-2026/",
-    "fecha": "24/05/2026",
-    "contenido": "Si usas Arch Linux, CachyOS o cualquier distribución derivada, seguramente te hayas encontrado con dos herramientas muy populares para gestionar la paqueteria AUR: Yay y Paru. Muchos usuarios terminan teniendo ambos instalados, especialmente porque aplicaciones como Octopi muestran soporte para vari"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Por qué en Suecia el Estado no cabe en su capital (y en España sí)",
     "link": "https://blog.danielaragay.net/por-que-en-suecia-el-estado-no-cabe-en-su-capital-y-en-espana-si/",
     "fecha": "24/05/2026",
     "contenido": "Llevo a&#xf1;os viviendo en Suecia y hay una cosa que sigo sin poder explicarle del todo a mi familia en Espa&#xf1;a: aqu&#xed;, cuando necesitas algo de una agencia estatal importante, lo m&#xe1;s probable es que su sede central no est&#xe9; en Estocolmo."
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "La estúpida burocracia española",
-    "link": "https://blog.danielaragay.net/la-estupida-burocracia-espanola/",
-    "fecha": "24/05/2026",
-    "contenido": "A colaci&#xf3;n de los &#xfa;ltimos episodios de El parche de Od&#xed;n, te cuento mi opini&#xf3;n sobre la estupidez de los estamentos gubernamentales en Espa&#xf1;a con los tr&#xe1;mites de sus ciudadanos.Formas de patrocinio. Blog danielaragay.net Todos los podcasts:"
   },
   {
     "blog": "impermanente",
@@ -684,33 +789,5 @@
     "link": "https://edgarmtoro.wordpress.com/2026/05/24/notas-de-viaje-bogota-abril-2026/",
     "fecha": "24/05/2026",
     "contenido": "AC463 B737 Max 8 C-FSKZ Air Canada lo compró nuevo desde el 2018. Espacio justo en el Boeing 737 Max 8, adecuado para vuelos cortos, pero no mucho más. En el 737, no recomiendo la fila 15, no tiene ventana, solo la de adelante, si el de la 14 baja el asiento, no hay ventana. &#8230; Continue reading"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Ep \"Entre Tumbas\" Ya Está Disponible | La Muerte Edita Su Primer Material Oficial",
-    "link": "https://www.delotroladometal.com.ar/2026/05/24/la-muerte-edita-su-primer-material-oficial/",
-    "fecha": "24/05/2026",
-    "contenido": "La banda argentina La Muerte ya tiene disponible su primer EP, titulado &#8220;Entre Tumbas&#8221;, el...\nThe post El Ep \"Entre Tumbas\" Ya Está Disponible | La Muerte Edita Su Primer Material Oficial first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Chau Zed, hola Gram",
-    "link": "https://javiersam.uy/2026/05/hola-gram-chau-zed.html",
-    "fecha": "24/05/2026",
-    "contenido": "En la sección de Noticias de la edición #227 de Full Circle Magazine, la primera que aparece da nota de Gram, una bifurcación del editor de código Zed pero sin su telemetría, sin características de IA ni características colaborativas. ¿Qué es Zed? Mis tareas de escritura de código no son muy exigent"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Errare Digital Est (2002), de Sin",
-    "link": "https://thecheis.com/2026/05/23/errare-digital-est-2002-de-sin/",
-    "fecha": "23/05/2026",
-    "contenido": "«I feel higher than you / Devil bless me» El siguiente disco es una rareza, casi desconocido y bastante difícil de encontrar (aunque hoy en día más accesible gracias al streaming). Fue un álbum que me acompañó en las sombras desde chaval, siempre en la recámara como algo que merecía la pena saborear"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Natalia Lafourcade, La Cancionera",
-    "link": "https://altgr.xyz/2026/05/23/natalia-lafourcade-la-cancionera/",
-    "fecha": "23/05/2026",
-    "contenido": "Una introducción en piano para luego pasar a su guitarra acústica, eso fue todo el acompañamiento que tuvo Natalia Lafourcade en este show íntimo parte de la gira Cancionera, promoción del disco que lleva el mismo nombre. El frío de la noche del viernes contrastó con la calidez de la presentación de"
   }
 ]
