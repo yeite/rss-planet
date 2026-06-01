@@ -7,6 +7,20 @@
     "contenido": "Una distopía escrita en 1920, creo que injustamente olvidada que nos recuera a 1984 de George Orwell"
   },
   {
+    "blog": "plr blog",
+    "titulo": "Mejoras en el estilo del blog y convirtiendo proyectos con databases a proyectos con json",
+    "link": "https://pedrolr.es/blog/mejoras-en-el-estilo-del-blog-y-convirtiendo-proyectos-con-databases-a-proyectos-con-json/",
+    "fecha": "31/05/2026",
+    "contenido": "Esta semana hice cosas interesantes en varios proyectos. Gestiono dos sitios de enlaces en los que tan solo se comparte el títulos de noticias, papers, etc., y la fecha en que se leen. Estaban construidos con una base de datos (en realidad 2 al ser dos proyectos), y he podido adaptarlo para que se g"
+  },
+  {
+    "blog": "Escritos en la nube",
+    "titulo": "Alternativas",
+    "link": "https://nube.codeberg.page/blog/build/",
+    "fecha": "31/05/2026",
+    "contenido": "Este texto es algo simple y está dirigido a quienes usan Linux principalmente y a quienes simplemente hacen software, siempre hay mucho debate sobre que algo no funciona como debe, o que han implementado algo que no te gusta, etc.\nYo pienso lo siguiente: si el software no se adapta a tus necesidades"
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "La dificultad de posicionar un blog hoy en día",
     "link": "https://tecnoysoft.com/2026/05/31/la-dificultad-de-posicionar-un-blog-hoy-en-dia/",
@@ -28,11 +42,32 @@
     "contenido": "Cambié el diseño de mi página now!, ya no es la aburrida página con texto, sino que es una especie de timeline. Tomé la idea de la sección “ahora” del blog de Salva más Cerca. ¡Gracias Salva! También incluí en el menú de este blog la sección, para que esté más visible. Para quien quiera [&#8230;]"
   },
   {
+    "blog": "danielaragay.net",
+    "titulo": "De la culpa a la app: así nació Quilt",
+    "link": "https://blog.danielaragay.net/de-la-culpa-a-la-app-asi-nacio-quilt/",
+    "fecha": "31/05/2026",
+    "contenido": "Me compr&#xe9; unos AirPods Pro 3. Estaba harto de pelearme con el Bluetooth de mis Sony cada vez que cambiaba de dispositivo. Los compr&#xe9;, y dos minutos despu&#xe9;s apareci&#xf3; esa sensaci&#xf3;n: &#xbf;era necesario? &#xbf;Me lo pod&#xed;a permitir?En vez"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "La gramática de los dioses",
+    "link": "https://impermanente.es/2026/05/31/la-gramtica-de-los-dioses.html",
+    "fecha": "31/05/2026",
+    "contenido": "Hace unos meses escribí que clasificar a los dioses por dominios es un error de colegio: Ares el de la guerra, Poseidón el de los mares, y ya está. Decía entonces que los dioses no tienen dominios, tienen historias y uno o dos rasgos de los que esas historias brotan. He seguido dándole vueltas, y cr"
+  },
+  {
     "blog": "impermanente",
     "titulo": "Quis custodiet ipsos custodes?",
     "link": "https://impermanente.es/2026/05/31/quis-custodiet-ipsos-custodes.html",
     "fecha": "31/05/2026",
     "contenido": "Esto no lo escribo desde la teoría. Llevo meses con las manos metidas en dos experimentos que son, cada uno a su manera, una respuesta a un mismo problema. Uno es una colección de evaluadores epistémicos: piezas pequeñas que miran una conversación y miden cosas como si el sistema se contradice consi"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Una semana en Panamá",
+    "link": "https://altgr.xyz/2026/05/31/una-semana-en-panama/",
+    "fecha": "31/05/2026",
+    "contenido": "Hoy termina una visita de una semana por Panamá. Fueron unos días agotadores, intensos, pero muy agradables también. No fue un viaje de vacaciones, pero aún así aproveché de disfrutar y conocer un poco. En las próximas publicaciones compartiré algunos de los lugares que visité."
   },
   {
     "blog": "_ voidNull",
@@ -42,11 +77,46 @@
     "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda…",
-    "link": "https://www.delotroladometal.com.ar/2026/05/31/el-nacimiento-de-una-leyenda/",
+    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "titulo": "Patrick’s Parabox: Empuja fuera de la caja",
+    "link": "https://seyker.eu/patricks-parabox-rompecabezas-puzzle/",
     "fecha": "31/05/2026",
-    "contenido": "(1990 &#8211; Intense Records) Apuesto a quien sea que a la hora de poner a...\nThe post Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda… first appeared on Del Otro Lado Metal."
+    "contenido": "No sé si echabais de menos mis reseñas de juegos que voy jugando, aunque parezca que no, sigo vivo y he jugado a unos pocos más en este 2026. El primero de todos fue Patrick’s Parabox, aunque realmente no fue el primero que terminé, ya que sus exigentes rompecabezas hicieron que me lo tomara con [&#"
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Reseña de GURPS Conan",
+    "link": "http://frikoteca.blogspot.com/2026/05/resena-de-gurps-conan.html",
+    "fecha": "31/05/2026",
+    "contenido": "No hace mucho tiempo me compré una copia física de GURPS Conan, un libro de Steve Jackson Games escrito hace mucho tiempo para la tercera edición de GURPS. Se dice que los suplementos de GURPS, independientemente de su edición, son tan buenos que merece la pena comprarlos incluso si no juegas a ese "
+  },
+  {
+    "blog": "Estás Interfiriendo con mi Zen.",
+    "titulo": "24 horas con Pi-Hole",
+    "link": "https://edgarmtoro.wordpress.com/2026/05/31/24-horas-con-pi-hole/",
+    "fecha": "31/05/2026",
+    "contenido": "Entonces, la curiosidad pudo más y terminé instalando (facilmente, cabe decir) Pi-Hole. El setup es improvisado, y no lo recomendaría para larga duración. Basicamente un PC, corriendo TrueNAS Community 25.10.3.1 &#8220;GoldEye&#8221;, y Pi-Hole 1.4.10 como un contenedor. El problema con esta configu"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salvamir.github.io/",
+    "fecha": "31/05/2026",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salvamir.github.io/algo-mas",
+    "fecha": "31/05/2026",
+    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "links",
+    "link": "https://salvamir.github.io/links",
+    "fecha": "31/05/2026",
+    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -154,13 +224,6 @@
     "contenido": "\n  El humor nunca es f&#225;cil. Su dificultad tiene cierta correlaci&#243;n con su efectividad, pero hay humor sin esfuerzo que nos puede matar de un ataque de risa. Quiz&#225; Takeshi Kitano tiene raz&#243;n en que, como la violencia, el mejor humor es el que nos pilla desprevenidos.\n  Hacks (HBO,"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Historia De Tyraels Ascension Continua Con \"Grave Seeker\" | Se Abre Un Nuevo Capítulo",
-    "link": "https://www.delotroladometal.com.ar/2026/05/30/se-abre-un-nuevo-capitulo/",
-    "fecha": "30/05/2026",
-    "contenido": "Es raro encontrar material que se enraíce en una historia conceptual dentro de lo que...\nThe post La Historia De Tyraels Ascension Continua Con \"Grave Seeker\" | Se Abre Un Nuevo Capítulo first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Marcos de texto en Scribus",
     "link": "https://javiersam.uy/2026/05/marcos-de-texto-en-scribus.html",
@@ -173,13 +236,6 @@
     "link": "https://tecnocajon.wordpress.com/2026/05/30/el-futuro-de-el-cajon-de-la-tecnologia/",
     "fecha": "30/05/2026",
     "contenido": "Este blog lleva activo 2 años, publico cuando me apetece, tengo tiempo y lo más importante: tengo ideas. En ese tiempo los artículos (al menos desde mi punto de vista), han mejorado y han subido de calidad (y se viene probablemente el mejor artículo que haya tenido esta web, mínimo 2 meses). El punt"
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "¿Algo más?",
-    "link": "https://salvamir.github.io/algo-mas",
-    "fecha": "30/05/2026",
-    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -280,13 +336,6 @@
     "contenido": "     Paciencia, la semana termina\nBueno, bueno, bueno, ya estoy cansado de esta semana corta :P es que tuve trabajo, cosas, gimnasio, cumplea&ntilde;os, vejez, humedad, d&iacute;as nublados, mucho caf&eacute; para compensar, es hora de retirarnos a nuestros aposentos mentales y qu&eacute; mejor que "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "In Conquered: The Golgotha Chronicles | La Historia Más Bella Y Más Extrema",
-    "link": "https://www.delotroladometal.com.ar/2026/05/29/la-historia-mas-bella-y-mas-extrema/",
-    "fecha": "29/05/2026",
-    "contenido": "(2024 &#8211; Vision Of God Records) Evidentemente llevar una historia como la de Jesucristo y...\nThe post In Conquered: The Golgotha Chronicles | La Historia Más Bella Y Más Extrema first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Salva Más De Cerca",
     "titulo": "🪁 El Jardín Digital",
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
@@ -327,20 +376,6 @@
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B8-%C2%BFQu%C3%A9-son-53-minutos",
     "fecha": "29/05/2026",
     "contenido": "Era un comerciante de píldoras perfeccionadas que quitan la sed. Se toma una por semana y ya no se sienten ganas de beber."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌻 Ser rebeldes...",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%BB-Ser-rebeldes...",
-    "fecha": "29/05/2026",
-    "contenido": "En estos momentos de violencia, de sexualidad brutal, salvaje, hemos de ser rebeldes."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🍁 Dios cuenta conmigo (yo, Salvador)",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8D%81-Dios-cuenta-conmigo-(yo,-Salvador)",
-    "fecha": "29/05/2026",
-    "contenido": "¡Eh! Que la felicidad a la que estás llamado no se compagina con esa marcha tristona, mustia, aburrida que llevas."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -432,13 +467,6 @@
     "link": "https://www.fabio.com.ar/9951-ruleta-rusa-878",
     "fecha": "28/05/2026",
     "contenido": "     Es hora de una panzada de balas\nAh, se pensaron que la semana todav&iacute;a segu&iacute;a? Pues es jueves ya! As&iacute; es, y como todo jueves, hacen falta unos balazos para despertarse y aguantar hasta el viernes, as&iacute; que aqu&iacute; tienen una dosis de balacera de la buena.\nAhora s&i"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Se Viene Un Nuevo Álbum | Stryper Estrena “I´m Alright (I´m Okay)”",
-    "link": "https://www.delotroladometal.com.ar/2026/05/28/stryper-estrena-im-alright-im-okay/",
-    "fecha": "28/05/2026",
-    "contenido": "Estos últimos años debe ser la etapa más prolífica de Stryper en cuanto a material...\nThe post Se Viene Un Nuevo Álbum | Stryper Estrena “I´m Alright (I´m Okay)” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "La Loica",
@@ -553,11 +581,11 @@
     "contenido": "    \nImaginen un pa&iacute;s con s&oacute;lo 300 metros de v&iacute;as &uacute;tiles, donde el trayecto dentro de ese pa&iacute;s apenas requiere 30 segundos para ser transitado, adivinaron, ese pa&iacute;s es el Vaticano.\nAhora bien &iquest;Por qu&eacute; cuernos una estaci&oacute;n de tren y tan p"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista Con Michelle De Perpetual Legacy | “Teodrama” Fue Un Proceso Largo Y Desafiante”",
-    "link": "https://www.delotroladometal.com.ar/2026/05/27/teodrama-fue-un-proceso-largo-y-desafiante/",
+    "blog": "Diego's Island.",
+    "titulo": "Rescatamos a esta gatica😺.",
+    "link": "https://diegoaep.codeberg.page/rescatamos-a-esta-gatica/",
     "fecha": "27/05/2026",
-    "contenido": "Hoy en día es raro que una banda se anime a lanzar un álbum doble....\nThe post Entrevista Con Michelle De Perpetual Legacy | “Teodrama” Fue Un Proceso Largo Y Desafiante” first appeared on Del Otro Lado Metal."
+    "contenido": "Historia de como ahora yo y mi novia somos padres."
   },
   {
     "blog": "Victorhck in the free world",
@@ -651,20 +679,6 @@
     "contenido": "Antes de empezar, quiero que quede bien claro una cosa: el porqué de este y los siguientes artículos hablando de Podman.\n\nNota\nEsto no va a ser una alternativa a todos los articulos que ha publicado atareao en referencia a Podman. Nunca lo haria ni es lo que querría, nunca voy a poder conseguir el n"
   },
   {
-    "blog": "alt43",
-    "titulo": "Cookies: por qué el banner de «rechazar todo» no sirve de nada",
-    "link": "https://alt43.es/cookies-por-que-el-banner-de-rechazar-todo-no-sirve-de-nada/",
-    "fecha": "25/05/2026",
-    "contenido": "El banner de \"rechazar todo\" respecto a las cookies, más que una garantía, es un simple interfaz. Detrás opera el TCF de IAB Europe, un sistema que distribuye tu decisión de consentimiento entre cerca de un millar de empresas sin ningún mecanismo técnico que obligue a respetarla. Analizamos cómo fun"
-  },
-  {
-    "blog": "End3r.es",
-    "titulo": "Hay un dragón en mi garaje",
-    "link": "https://www.end3r.es/posts/019-hay-un-dragon-en-mi-garaje/",
-    "fecha": "25/05/2026",
-    "contenido": "En nuestra vida cotidiana, a menudo nos enfrentamos a fenómenos y objetos que desafían nuestra comprensión\ny percepción de la realidad.\n¿Cómo podemos distinguir una verdad científica de una creencia reconfortante pero falsa?\nEn su libro, El mundo y sus demonios: La ciencia como una luz en la oscurid"
-  },
-  {
     "blog": "pov – matizeta",
     "titulo": "Plataformas para tener tu blog (algunas bastante desconocidas)",
     "link": "https://matizeta.com/2026/05/25/plataformas-para-tener-tu-blog-algunas-bastante-desconocidas/",
@@ -721,34 +735,6 @@
     "contenido": "    \nUn nuevo giro alrededor del Sol y me puse a pensar &iquest;C&oacute;mo era hace 40 a&ntilde;os? Ah, no tengo idea, no hay muchas fotos de esa &eacute;poca, pero m&aacute;s o menos son como las que adornan el post, ah&iacute; estoy entre mis 8 y 9 a&ntilde;os m&aacute;s o menos.\nJet&oacute;n, pe"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Hilastherion: Taken From Darkness | La Química Del Metal Extremo",
-    "link": "https://www.delotroladometal.com.ar/2026/05/25/la-quimica-del-metal-extremo/",
-    "fecha": "25/05/2026",
-    "contenido": "(2007 &#8211; Maanalainen Levykauppa AY) Dicen que el agua no se mezcla el aceite, y...\nThe post Hilastherion: Taken From Darkness | La Química Del Metal Extremo first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Me está dejando de gustar trabajar de programador, gracias IA",
-    "link": "https://chancli.dev/blog/me-esta-dejando-de-gustar-mi-trabajo-por-ia.html",
-    "fecha": "25/05/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Añadiendo un buscador al blog con Pagefind",
-    "link": "https://elblogdelazaro.org/anadiendo-un-buscador-al-blog-con-pagefind/",
-    "fecha": "25/05/2026",
-    "contenido": "Por: Carlos M.Publicado el 25 de mayo de 2026Cómo añadí un buscador a mi blog estático con Hugo y Pagefind, paso a paso, sin morir en el intento.Continuar leyendo →#Blog #Hugo "
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Añadiendo un buscador al blog con Pagefind",
-    "link": "https://elblogdelazaro.org/anadiendo-un-buscador-al-blog-con-pagefind/",
-    "fecha": "25/05/2026",
-    "contenido": "Por: Carlos M.Publicado el 25 de mayo de 2026Cómo añadí un buscador a mi blog estático con Hugo y Pagefind, paso a paso, sin morir en el intento.Continuar leyendo →#Blog #Hugo "
-  },
-  {
     "blog": "Diego's Island.",
     "titulo": "El One Piece es real.",
     "link": "https://diegoaep.codeberg.page/el-one-piece-es-real/",
@@ -761,33 +747,5 @@
     "link": "https://diegoaep.codeberg.page/te-ayudo-a-crear-tu-web/",
     "fecha": "25/05/2026",
     "contenido": "No es publicidad sobre \"mis servicios\". Es un ofrecimiento de ayuda GRATUITA para que crees tu sitio web."
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Rodeando el volcán de Arenas Negras",
-    "link": "https://guillermolatorre.com/rutas/rodeando-volcan-arenas-negras",
-    "fecha": "24/05/2026",
-    "contenido": "Fecha realización: 25/05/2026.Ubicación: Arenas Negras (Tenerife).Mi valoración: ★★★★★Nivel de exigencia: Fácil.Ruta circular: SíTiempo activo: 01:00 horas.Distancia total: 4,8 km.Desnivel positivo: 150 metros.Desnivel negativo: 150 metros.Opción de baño: SíHoy, de forma improvisada, hemos decidido "
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Por qué en Suecia el Estado no cabe en su capital (y en España sí)",
-    "link": "https://blog.danielaragay.net/por-que-en-suecia-el-estado-no-cabe-en-su-capital-y-en-espana-si/",
-    "fecha": "24/05/2026",
-    "contenido": "Llevo a&#xf1;os viviendo en Suecia y hay una cosa que sigo sin poder explicarle del todo a mi familia en Espa&#xf1;a: aqu&#xed;, cuando necesitas algo de una agencia estatal importante, lo m&#xe1;s probable es que su sede central no est&#xe9; en Estocolmo."
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Seguimos compartiendo el producto, no la idea",
-    "link": "https://impermanente.es/2026/05/25/seguimos-compartiendo-el-producto-no.html",
-    "fecha": "24/05/2026",
-    "contenido": "Hace unas semanas escribí que la herramienta perfecta para otro no se compra ni se descarga: se reescribe. Y que el reflejo de subirla a GitHub con un README que dice &ldquo;esto podría funcionar para ti&rdquo; es la forma actual del viejo molde SAP, solo que esta vez los que quieren imponer el mold"
-  },
-  {
-    "blog": "Estás Interfiriendo con mi Zen.",
-    "titulo": "Notas de Viaje – Bogotá – Abril 2026",
-    "link": "https://edgarmtoro.wordpress.com/2026/05/24/notas-de-viaje-bogota-abril-2026/",
-    "fecha": "24/05/2026",
-    "contenido": "AC463 B737 Max 8 C-FSKZ Air Canada lo compró nuevo desde el 2018. Espacio justo en el Boeing 737 Max 8, adecuado para vuelos cortos, pero no mucho más. En el 737, no recomiendo la fila 15, no tiene ventana, solo la de adelante, si el de la 14 baja el asiento, no hay ventana. &#8230; Continue reading"
   }
 ]
