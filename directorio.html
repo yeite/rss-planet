@@ -42,6 +42,7 @@ fetch("header.html")
         <option value="">🏅 Todas las insignias</option>
         <option value="Aliado">🐸 Aliado</option>
         <option value="Sponsor">⭐ Sponsor</option>
+        <option value="Webring">🪐 Webring</option>
     </select>
 
 </div>
@@ -68,6 +69,7 @@ const contenedor = document.getElementById("contenedor");
 const filtroPais = document.getElementById("filtroPais");
 const filtroCategoria = document.getElementById("filtroCategoria");
 const filtroInsignia = document.getElementById("filtroInsignia");
+const filtroWebring = document.getElementById("filtroWebring");
 
 let blogs = [];
 
@@ -217,6 +219,10 @@ function filtrar() {
             matchInsignia = b.Sponsor === "si";
         }
 
+        if (insigniaSel === "Webring") {
+            matchWebring = b.Webring === "si";
+        }
+
         return matchPais && matchCat && matchInsignia;
 
     });
@@ -243,6 +249,7 @@ function mostrarBlogs(lista) {
 
         if (b.Aliado === "si") item.classList.add("aliado");
         if (b.Sponsor === "si") item.classList.add("sponsor");
+        if (b.Webring === "si") item.classList.add("webring");
 
         let url = b.Url || "";
 
@@ -264,6 +271,11 @@ function mostrarBlogs(lista) {
         const etiquetaSponsor =
             b.Sponsor === "si"
             ? '<a href="https://ko-fi.com/matizeta" target="_blank" rel="noopener noreferrer">⭐️</a>'
+            : "";
+
+        const etiquetaWebring =
+            b.Sponsor === "si"
+            ? '<a href="https://blogsencastellano.wordpress.com/webring/" target="_blank" rel="noopener noreferrer">🪐</a>'
             : "";
 
         const bandera = banderas[b.País] || "";
