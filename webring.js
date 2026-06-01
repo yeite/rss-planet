@@ -11,7 +11,6 @@ function inicializarWebring() {
 
   // Inyectamos el HTML de manera moderna dentro de su contenedor
   contenedor.innerHTML = `
-<!-- 1. Cargamos la tipografía fija desde los servidores de Google Fonts -->
 <link rel="preconnect" href="https://googleapis.com" />
 <link rel="preconnect" href="https://gstatic.com" crossorigin />
 <link
@@ -37,7 +36,6 @@ function inicializarWebring() {
         gap: 8px;
     "
 >
-    <!-- FILA SUPERIOR: Anterior | Título + Logo | Siguiente (Todos en una sola línea) -->
     <div
         style="
             display: flex;
@@ -49,7 +47,6 @@ function inicializarWebring() {
             gap: 5px;
         "
     >
-        <!-- Bloque de Título Central con la Ranita -->
         <div style="display: flex; align-items: center; gap: 6px;">
     <a href="https://blogblog.es" 
        target="_blank" 
@@ -63,7 +60,6 @@ function inicializarWebring() {
     </a>
 </div>
 
-        <!-- Botón Anterior -->
         <a
             id="webring-prev"
             href="#"
@@ -76,7 +72,6 @@ function inicializarWebring() {
             >[⏮︎]</a
         >
 
-        <!-- Botón Siguiente -->
         <a
             id="webring-next"
             href="#"
@@ -123,9 +118,6 @@ function inicializarWebring() {
         </a>
     </div>
 
-    <!-- FILA INFERIOR: Botón de Azar centrado justo debajo -->
-
-    <!-- Estado informativo discreto abajo del todo -->
     <p
         id="webring-status"
         style="
@@ -149,8 +141,8 @@ function inicializarWebring() {
       return response.json();
     })
     .then(allSites => {
-      // NUEVO FILTRO: Solo participan los blogs que tienen el campo "webring" definido y no vacío
-      const sites = allSites.filter(site => site.webring && site.webring.trim() !== "");
+      // CORREGIDO: Ahora busca "Webring" con mayúscula en el filtro
+      const sites = allSites.filter(site => site.Webring && site.Webring.trim() !== "");
 
       if (sites.length === 0) {
         document.getElementById('webring-status').innerText = "No hay blogs activos en el webring.";
@@ -160,9 +152,9 @@ function inicializarWebring() {
       // Convertimos la URL actual del navegador a minúsculas y limpiamos barras finales
       const currentUrl = window.location.href.toLowerCase().replace(/\/$/, "");
       
-      // NUEVA BÚSQUEDA: Compara la URL actual usando el valor del campo "webring"
+      // CORREGIDO: Ahora busca "Webring" con mayúscula para comparar la URL actual
       let currentIndex = sites.findIndex(site => {
-        const cleanWebringUrl = site.webring.toLowerCase().replace(/\/$/, "");
+        const cleanWebringUrl = site.Webring.toLowerCase().replace(/\/$/, "");
         return currentUrl.includes(cleanWebringUrl) || cleanWebringUrl.includes(currentUrl);
       });
 
@@ -178,10 +170,10 @@ function inicializarWebring() {
         randomIndex = Math.floor(Math.random() * sites.length);
       } while (randomIndex === currentIndex && sites.length > 1);
 
-      // ASIGNACIÓN DE ENLACES: Usan el valor del campo "webring"
-      document.getElementById('webring-prev').href = sites[prevIndex].webring;
-      document.getElementById('webring-next').href = sites[nextIndex].webring;
-      document.getElementById('webring-random').href = sites[randomIndex].webring;
+      // CORREGIDO: Ahora asigna los enlaces usando "Webring" con mayúscula
+      document.getElementById('webring-prev').href = sites[prevIndex].Webring;
+      document.getElementById('webring-next').href = sites[nextIndex].Webring;
+      document.getElementById('webring-random').href = sites[randomIndex].Webring;
       
       document.getElementById('webring-status').innerText = `Estás visitando: ${sites[currentIndex].Nombre}`;
     })
