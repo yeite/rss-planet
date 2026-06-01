@@ -5,14 +5,7 @@
                 box-sizing: border-box;
             }
 
-            body {
-                margin: 0;
-                padding: 40px 20px;
-                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-                color: #e0e0e0;
-                line-height: 1.6;
-                background-color: #141414; /* Fondo general solicitado */
-            }
+
 
             .container {
                 max-width: 800px;
