@@ -21,7 +21,7 @@
   {
     "Nombre": "Diego's Island",
     "Url": "https://diegoaep.codeberg.page/",
-    "webring": "https://diegoaep.codeberg.page/",
+    "Webring": "https://diegoaep.codeberg.page/",
     "Feed": "https://diegoaep.codeberg.page/rss.xml",
     "Descripción": "Bienvenido a mi pequeña isla en la web. Soy Diego, un joven cubano, apasionado por la tecnología, la programación y el open-source. En esta pequeña isla tendrás contenido tanto de mis hobbys como de mi vida diaria y universitaria(que está a punto de comenzar).",
     "Categoría": "Tecnología, Vida Diaria",
@@ -58,7 +58,7 @@
   {
     "Nombre": "matizeta",
     "Url": "https://matizeta.com",
-    "webring": "https://matizeta.com",
+    "Webring": "https://matizeta.com",
     "Feed": "https://matizeta.com/feed/",
     "Descripción": "Mi refugio fuera de las redes sociales, donde escribo lo que se me pasa por la mente sin importar ningún algoritmo.",
     "Categoría": "Aire Libre, Arte y Diseño, Ciencia y Humanidades, Literario, Manualidades / Hobbies, Viajes, Tecnología, Vida Diaria",
@@ -140,7 +140,7 @@
   {
     "Nombre": "Películas y Series",
     "Url": "https://peliculasyseries.matizeta.com",
-    "webring": "https://yeite.github.io/lps/",
+    "Webring": "https://yeite.github.io/lps/",
     "Feed": "https://yeite.github.io/lps/atom.xml",
     "Descripción": "Blogs con micro reseñas  sobre las películas y series que voy mirando 👀",
     "Categoría": "Entretenimiento y Cultura",
@@ -312,7 +312,7 @@
   {
     "Nombre": "Post-it",
     "Url": "https://postit.matizeta.com",
-    "webring": "https://matizeta.com/post-it/",
+    "Webring": "https://matizeta.com/post-it/",
     "Feed": "https://matizeta.com/category/post-it/feed",
     "Descripción": "Pequeñas publicaciones de cosas que encuentro navegando en Internet y me resultan interesantes.",
     "Categoría": "Tecnología",
@@ -322,7 +322,7 @@
   {
     "Nombre": "Lado B",
     "Url": "https://ladob.matizeta.com",
-   "webring": "https://matizeta.com/ladob/",
+   "Webring": "https://matizeta.com/ladob/",
     "Feed": "https://matizeta.com/category/ladoB/feed/",
     "Descripción": "Lado B nace de una necesidad de tener un espacio para escribir mis pensamientos y reflexiones más personales",
     "Categoría": "Literario, Sociedad y Economía, Vida Diaria, Aire Libre, Ciencia y Humanidades, Arte y Diseño, Entretenimiento y Cultura, Viajes",
