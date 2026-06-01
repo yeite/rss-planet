@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 01 Jun 2026 02:38:21 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 11:07:41 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -24,6 +24,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
 <category>Victorhck in the free world</category>
 <description><![CDATA[Una distopía escrita en 1920, creo que injustamente olvidada que nos recuera a 1984 de George Orwell<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
+</item>
+<item>
+<title>Mejoras en el estilo del blog y convirtiendo proyectos con databases a proyectos con json</title>
+<link>https://pedrolr.es/blog/mejoras-en-el-estilo-del-blog-y-convirtiendo-proyectos-con-databases-a-proyectos-con-json/</link>
+<guid isPermaLink="true">https://pedrolr.es/blog/mejoras-en-el-estilo-del-blog-y-convirtiendo-proyectos-con-databases-a-proyectos-con-json/</guid>
+<pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+<category>plr blog</category>
+<description><![CDATA[Esta semana hice cosas interesantes en varios proyectos. Gestiono dos sitios de enlaces en los que tan solo se comparte el títulos de noticias, papers, etc., y la fecha en que se leen. Estaban construidos con una base de datos (en realidad 2 al ser dos proyectos), y he podido adaptarlo para que se g<br><br><strong>Fuente:</strong> plr blog]]></description>
+</item>
+<item>
+<title>Alternativas</title>
+<link>https://nube.codeberg.page/blog/build/</link>
+<guid isPermaLink="true">https://nube.codeberg.page/blog/build/</guid>
+<pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+<category>Escritos en la nube</category>
+<description><![CDATA[Este texto es algo simple y está dirigido a quienes usan Linux principalmente y a quienes simplemente hacen software, siempre hay mucho debate sobre que algo no funciona como debe, o que han implementado algo que no te gusta, etc. Yo pienso lo siguiente: si el software no se adapta a tus necesidades<br><br><strong>Fuente:</strong> Escritos en la nube]]></description>
 </item>
 <item>
 <title>La dificultad de posicionar un blog hoy en día</title>
@@ -50,12 +66,36 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Cambié el diseño de mi página now!, ya no es la aburrida página con texto, sino que es una especie de timeline. Tomé la idea de la sección “ahora” del blog de Salva más Cerca. ¡Gracias Salva! También incluí en el menú de este blog la sección, para que esté más visible. Para quien quiera [&amp;#8230;]<br><br><strong>Fuente:</strong> note – matizeta]]></description>
 </item>
 <item>
+<title>De la culpa a la app: así nació Quilt</title>
+<link>https://blog.danielaragay.net/de-la-culpa-a-la-app-asi-nacio-quilt/</link>
+<guid isPermaLink="true">https://blog.danielaragay.net/de-la-culpa-a-la-app-asi-nacio-quilt/</guid>
+<pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+<category>danielaragay.net</category>
+<description><![CDATA[Me compr&amp;#xe9; unos AirPods Pro 3. Estaba harto de pelearme con el Bluetooth de mis Sony cada vez que cambiaba de dispositivo. Los compr&amp;#xe9;, y dos minutos despu&amp;#xe9;s apareci&amp;#xf3; esa sensaci&amp;#xf3;n: &amp;#xbf;era necesario? &amp;#xbf;Me lo pod&amp;#xed;a permitir?En vez<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
+</item>
+<item>
+<title>La gramática de los dioses</title>
+<link>https://impermanente.es/2026/05/31/la-gramtica-de-los-dioses.html</link>
+<guid isPermaLink="true">https://impermanente.es/2026/05/31/la-gramtica-de-los-dioses.html</guid>
+<pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+<category>impermanente</category>
+<description><![CDATA[Hace unos meses escribí que clasificar a los dioses por dominios es un error de colegio: Ares el de la guerra, Poseidón el de los mares, y ya está. Decía entonces que los dioses no tienen dominios, tienen historias y uno o dos rasgos de los que esas historias brotan. He seguido dándole vueltas, y cr<br><br><strong>Fuente:</strong> impermanente]]></description>
+</item>
+<item>
 <title>Quis custodiet ipsos custodes?</title>
 <link>https://impermanente.es/2026/05/31/quis-custodiet-ipsos-custodes.html</link>
 <guid isPermaLink="true">https://impermanente.es/2026/05/31/quis-custodiet-ipsos-custodes.html</guid>
 <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
 <category>impermanente</category>
 <description><![CDATA[Esto no lo escribo desde la teoría. Llevo meses con las manos metidas en dos experimentos que son, cada uno a su manera, una respuesta a un mismo problema. Uno es una colección de evaluadores epistémicos: piezas pequeñas que miran una conversación y miden cosas como si el sistema se contradice consi<br><br><strong>Fuente:</strong> impermanente]]></description>
+</item>
+<item>
+<title>Una semana en Panamá</title>
+<link>https://altgr.xyz/2026/05/31/una-semana-en-panama/</link>
+<guid isPermaLink="true">https://altgr.xyz/2026/05/31/una-semana-en-panama/</guid>
+<pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+<category>Eterno aprendiz</category>
+<description><![CDATA[Hoy termina una visita de una semana por Panamá. Fueron unos días agotadores, intensos, pero muy agradables también. No fue un viaje de vacaciones, pero aún así aproveché de disfrutar y conocer un poco. En las próximas publicaciones compartiré algunos de los lugares que visité.<br><br><strong>Fuente:</strong> Eterno aprendiz]]></description>
 </item>
 <item>
 <title>Ping #25: Actualizaciones, novedades y ranking de distros</title>
@@ -66,12 +106,52 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀<br><br><strong>Fuente:</strong> _ voidNull]]></description>
 </item>
 <item>
-<title>Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda…</title>
-<link>https://www.delotroladometal.com.ar/2026/05/31/el-nacimiento-de-una-leyenda/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/05/31/el-nacimiento-de-una-leyenda/</guid>
+<title>Patrick’s Parabox: Empuja fuera de la caja</title>
+<link>https://seyker.eu/patricks-parabox-rompecabezas-puzzle/</link>
+<guid isPermaLink="true">https://seyker.eu/patricks-parabox-rompecabezas-puzzle/</guid>
 <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[(1990 &amp;#8211; Intense Records) Apuesto a quien sea que a la hora de poner a... The post Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda… first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+<category>SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes</category>
+<description><![CDATA[No sé si echabais de menos mis reseñas de juegos que voy jugando, aunque parezca que no, sigo vivo y he jugado a unos pocos más en este 2026. El primero de todos fue Patrick’s Parabox, aunque realmente no fue el primero que terminé, ya que sus exigentes rompecabezas hicieron que me lo tomara con [&amp;#<br><br><strong>Fuente:</strong> SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes]]></description>
+</item>
+<item>
+<title>Reseña de GURPS Conan</title>
+<link>http://frikoteca.blogspot.com/2026/05/resena-de-gurps-conan.html</link>
+<guid isPermaLink="true">http://frikoteca.blogspot.com/2026/05/resena-de-gurps-conan.html</guid>
+<pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+<category>La Frikoteca</category>
+<description><![CDATA[No hace mucho tiempo me compré una copia física de GURPS Conan, un libro de Steve Jackson Games escrito hace mucho tiempo para la tercera edición de GURPS. Se dice que los suplementos de GURPS, independientemente de su edición, son tan buenos que merece la pena comprarlos incluso si no juegas a ese<br><br><strong>Fuente:</strong> La Frikoteca]]></description>
+</item>
+<item>
+<title>24 horas con Pi-Hole</title>
+<link>https://edgarmtoro.wordpress.com/2026/05/31/24-horas-con-pi-hole/</link>
+<guid isPermaLink="true">https://edgarmtoro.wordpress.com/2026/05/31/24-horas-con-pi-hole/</guid>
+<pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+<category>Estás Interfiriendo con mi Zen.</category>
+<description><![CDATA[Entonces, la curiosidad pudo más y terminé instalando (facilmente, cabe decir) Pi-Hole. El setup es improvisado, y no lo recomendaría para larga duración. Basicamente un PC, corriendo TrueNAS Community 25.10.3.1 &amp;#8220;GoldEye&amp;#8221;, y Pi-Hole 1.4.10 como un contenedor. El problema con esta configu<br><br><strong>Fuente:</strong> Estás Interfiriendo con mi Zen.]]></description>
+</item>
+<item>
+<title>Salva Más De Cerca</title>
+<link>https://salvamir.github.io/</link>
+<guid isPermaLink="true">https://salvamir.github.io/</guid>
+<pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[Acá me gusta coleccionar detalles de mi vida.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>¿Algo más?</title>
+<link>https://salvamir.github.io/algo-mas</link>
+<guid isPermaLink="true">https://salvamir.github.io/algo-mas</guid>
+<pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>links</title>
+<link>https://salvamir.github.io/links</link>
+<guid isPermaLink="true">https://salvamir.github.io/links</guid>
+<pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
 </item>
 <item>
 <title>La determinación del Emperador</title>
@@ -136,86 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
 <category>Manu Mateos</category>
 <description><![CDATA[Hoy escuché de principio a fin uno de los discos que más quemé en mi adolescencia. Finisterra fue punto de inflexión dentro de la carrera de Mägo de Oz (uno de los grupos que formaron más parte de mi adolescencia y a los que vuelvo de cuando en cuando), el prólogo perfecto a su trilogía Gaia y un di<br><br><strong>Fuente:</strong> Manu Mateos]]></description>
-</item>
-<item>
-<title>Seguir usando tu viejo Kindle después de Amazon</title>
-<link>https://productordesostenibilidad.es/2026/05/seguir-usando-tu-viejo-kindle-despues-de-amazon/</link>
-<guid isPermaLink="true">https://productordesostenibilidad.es/2026/05/seguir-usando-tu-viejo-kindle-despues-de-amazon/</guid>
-<pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-<category>productor de sostenibilidad</category>
-<description><![CDATA[Siguiendo la línea de Windows, Amazon quiere forzarte a comprar un nuevo dispositivo. Pero no te preocupes, a tu viejo Kindle le quedan tantas sesiones de lectura como tengas a bien disfrutar en él. Dice Amazon que, desde el 20 de mayo de 2026, deja de ofrecer soporte para e-readers Kindle que se ha<br><br><strong>Fuente:</strong> productor de sostenibilidad]]></description>
-</item>
-<item>
-<title>La entrevista y jaleos en el restaurante</title>
-<link>https://blog.danielaragay.net/la-entrevista-y-jaleos-en-el-restaurante/</link>
-<guid isPermaLink="true">https://blog.danielaragay.net/la-entrevista-y-jaleos-en-el-restaurante/</guid>
-<pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-<category>danielaragay.net</category>
-<description><![CDATA[Te cuento como ha ido la entrevista y algunas desventuras que ha tenido Chat en el restaurante incluido un intento de estafa.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &amp;#xb7; Mastodon: https://masto.es/@proteusbcn &amp;#xb7; Telegram: https://t.me/haciendoelsuecoE<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
-</item>
-<item>
-<title>Proteger a los Menores de las Redes Sociales</title>
-<link>https://altgr.xyz/2026/05/30/restricciones-de-acceso-a-las-redes-sociales/</link>
-<guid isPermaLink="true">https://altgr.xyz/2026/05/30/restricciones-de-acceso-a-las-redes-sociales/</guid>
-<pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-<category>Eterno aprendiz</category>
-<description><![CDATA[Por Chile también hay quienes se quieren sumar a los países con leyes para limitar a los menores de edad el acceso a redes sociales. De acuerdo a algunas encuestas parece ser una idea popular. Es verdad que el uso excesivo puede provocar daños en la salud mental, especialmente cuando se trata niños<br><br><strong>Fuente:</strong> Eterno aprendiz]]></description>
-</item>
-<item>
-<title>Del Kobo a Obsidian</title>
-<link>https://sidiostedalimones.com/blog/2026/kobo-a-obsidian/</link>
-<guid isPermaLink="true">https://sidiostedalimones.com/blog/2026/kobo-a-obsidian/</guid>
-<pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-<category>Si dios te da limones</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> Si dios te da limones]]></description>
-</item>
-<item>
-<title>Aimar Bretos</title>
-<link>https://www.xn--jmuoz-qta.es/2026/05/aimar-bretos.html</link>
-<guid isPermaLink="true">https://www.xn--jmuoz-qta.es/2026/05/aimar-bretos.html</guid>
-<pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-<category>El cuaderno de J. Muñoz</category>
-<description><![CDATA[Al final, el desenlace de la historia de la salida de Ángels Barceló del Hoy por hoy se ha conocido pocos días después: será Aimar Bretos, hasta ahora presentador de Hora 25 y voz de la casa, quien se pondrá a los mandos del matinal de la SER a partir de septiembre. Era la primera opción que tecleé<br><br><strong>Fuente:</strong> El cuaderno de J. Muñoz]]></description>
-</item>
-<item>
-<title>Noticias en nuestro PC sin tener internet</title>
-<link>https://56k.es/fanta/obtener-en-texto-la-pagina-de-teletexto-de-un-canal-de-tdt-que-emita-teletexto-en-2025-como-obtener-noticias-en-texto-sin-tener-internet/</link>
-<guid isPermaLink="true">https://56k.es/fanta/obtener-en-texto-la-pagina-de-teletexto-de-un-canal-de-tdt-que-emita-teletexto-en-2025-como-obtener-noticias-en-texto-sin-tener-internet/</guid>
-<pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-<category>56K</category>
-<description><![CDATA[Ya hemos visto otras veces que si disponemos de un cacharro para ver TDT en Linux podemos hacer que sea muy sencillo todo simplemente conociendo que hemos de escanear y luego visualizar. Para escanear podemos usar w_scan_cpp y vlc para abrir ese archivo channels.conf y ver los canales que queramos o<br><br><strong>Fuente:</strong> 56K]]></description>
-</item>
-<item>
-<title>Pufos posmodernos</title>
-<link>https://alex.corcoles.net/2026/05/pufos-posmodernos</link>
-<guid isPermaLink="true">https://alex.corcoles.net/2026/05/pufos-posmodernos</guid>
-<pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-<category>El blog es mío</category>
-<description><![CDATA[El humor nunca es f&amp;#225;cil. Su dificultad tiene cierta correlaci&amp;#243;n con su efectividad, pero hay humor sin esfuerzo que nos puede matar de un ataque de risa. Quiz&amp;#225; Takeshi Kitano tiene raz&amp;#243;n en que, como la violencia, el mejor humor es el que nos pilla desprevenidos. Hacks (HBO,<br><br><strong>Fuente:</strong> El blog es mío]]></description>
-</item>
-<item>
-<title>La Historia De Tyraels Ascension Continua Con &quot;Grave Seeker&quot; | Se Abre Un Nuevo Capítulo</title>
-<link>https://www.delotroladometal.com.ar/2026/05/30/se-abre-un-nuevo-capitulo/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/05/30/se-abre-un-nuevo-capitulo/</guid>
-<pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Es raro encontrar material que se enraíce en una historia conceptual dentro de lo que... The post La Historia De Tyraels Ascension Continua Con &quot;Grave Seeker&quot; | Se Abre Un Nuevo Capítulo first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Marcos de texto en Scribus</title>
-<link>https://javiersam.uy/2026/05/marcos-de-texto-en-scribus.html</link>
-<guid isPermaLink="true">https://javiersam.uy/2026/05/marcos-de-texto-en-scribus.html</guid>
-<pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-<category>JavierSam</category>
-<description><![CDATA[Hice un video resumiendo lo que hablamos el sábado pasado durante el primer encuentro del Taller de Scribus en Fab MVD. Hoy, a las 10:30, es el segundo encuentro.<br><br><strong>Fuente:</strong> JavierSam]]></description>
-</item>
-<item>
-<title>El futuro de el Cajón de la Tecnología</title>
-<link>https://tecnocajon.wordpress.com/2026/05/30/el-futuro-de-el-cajon-de-la-tecnologia/</link>
-<guid isPermaLink="true">https://tecnocajon.wordpress.com/2026/05/30/el-futuro-de-el-cajon-de-la-tecnologia/</guid>
-<pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-<category>El Cajón de la Tecnología</category>
-<description><![CDATA[Este blog lleva activo 2 años, publico cuando me apetece, tengo tiempo y lo más importante: tengo ideas. En ese tiempo los artículos (al menos desde mi punto de vista), han mejorado y han subido de calidad (y se viene probablemente el mejor artículo que haya tenido esta web, mínimo 2 meses). El punt<br><br><strong>Fuente:</strong> El Cajón de la Tecnología]]></description>
 </item>
 
 </channel>
