@@ -10,6 +10,15 @@
     "Sponsor": "si"
   },
   {
+    "Nombre": "Jorge Sanz",
+    "Url": "https://jorgesanz.net",
+    "Feed": "https://jorgesanz.net/languages/spanish/index.xml",
+    "Descripción": "Una web personal con contenidos sobre mi día a día, recursos interesantes que encuentro por ahí, o cualquier cosa que se me ocurra que puede ser de interés. Aunque las páginas principales están en  inglés, escribo en Español, Inglés o Catalán según me parezca más adecuado.",
+    "Categoría": "Tecnología, Vida Diaria",
+    "País": "España",
+    "Aliado": "si"
+  },
+  {
     "Nombre": "Diego's Island",
     "Url": "https://diegoaep.codeberg.page/",
     "webring": "https://diegoaep.codeberg.page/",
@@ -43,6 +52,16 @@
     "Feed": "https://salvamir.github.io/index.xml#feed",
     "Descripción": "Soy Salva, hijo de Dios, estudiante de Geología, fanático apasionado de la Música. Me gusta la tecnología y odio la tecnología, no se nada de programación. Creo cosas y analizo otras. Leo, escribo, aprendo, escucho, recibo, pienso. Esto es 100% humano.",
     "Categoría": "Aire Libre, Arte y Diseño, Ciencia y Humanidades, Literario, Manualidades / Hobbies, Viajes, Vida Diaria",
+    "País": "Argentina",
+    "Aliado": "si"
+  },
+  {
+    "Nombre": "matizeta",
+    "Url": "https://matizeta.com",
+    "webring": "https://matizeta.com",
+    "Feed": "https://matizeta.com/feed/",
+    "Descripción": "Mi refugio fuera de las redes sociales, donde escribo lo que se me pasa por la mente sin importar ningún algoritmo.",
+    "Categoría": "Aire Libre, Arte y Diseño, Ciencia y Humanidades, Literario, Manualidades / Hobbies, Viajes, Tecnología, Vida Diaria",
     "País": "Argentina",
     "Aliado": "si"
   },
@@ -1199,14 +1218,6 @@
     "Feed": "https://sopadeletras.club/efmorell/feed/",
     "Descripción": "Blog personal donde escribo sobre las cosas que me gustan: arte, lbros, papelería,...también subo poemas.",
     "Categoría": "Entretenimiento y Cultura, Literario, Manualidades / Hobbies, Vida Diaria",
-    "País": "España"
-  },
-  {
-    "Nombre": "Jorge Sanz",
-    "Url": "https://jorgesanz.net",
-    "Feed": "https://jorgesanz.net/languages/spanish/index.xml",
-    "Descripción": "Una web personal con contenidos sobre mi día a día, recursos interesantes que encuentro por ahí, o cualquier cosa que se me ocurra que puede ser de interés. Aunque las páginas principales están en  inglés, escribo en Español, Inglés o Catalán según me parezca más adecuado.",
-    "Categoría": "Tecnología, Vida Diaria",
     "País": "España"
   },
   {
