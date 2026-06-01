@@ -47,6 +47,8 @@ fetch("header.html")
 
 </div>
 
+<div id="mensajeInsignia" class="mensaje-recuadro" style="display: none;"></div>
+    
 <div id="contenedor"></div>
 
 </main>
@@ -69,6 +71,7 @@ const contenedor = document.getElementById("contenedor");
 const filtroPais = document.getElementById("filtroPais");
 const filtroCategoria = document.getElementById("filtroCategoria");
 const filtroInsignia = document.getElementById("filtroInsignia");
+const mensajeInsignia = document.getElementById("mensajeInsignia");
 
 let blogs = [];
 
@@ -184,6 +187,22 @@ function filtrar() {
     const catSel = filtroCategoria.value;
     const insigniaSel = filtroInsignia.value;
 
+    // 1. Lógica para mostrar/ocultar el mensaje de la insignia
+    const textosInsignias = {
+        "Aliado": "🐸 Blogs que ayudan a difundir el proyecto poniendo un pequeño banner de ¡Blog!¡Blog en su blog",
+        "Sponsor": "⭐ Blogs que aportaron económicamente al proyecto.",
+        "Webring": "🪐 Blogs que participan del Webring de blogs en español."
+    };
+
+    if (textosInsignias[insigniaSel]) {
+        mensajeInsignia.textContent = textosInsignias[insigniaSel];
+        mensajeInsignia.style.display = "block"; // Muestra el recuadro
+    } else {
+        mensajeInsignia.textContent = "";
+        mensajeInsignia.style.display = "none";  // Oculta si elige "Todas las insignias"
+    }
+
+    // 2. Lógica de filtrado original (se mantiene igual)
     const filtrados = blogs.filter(b => {
         const matchPais = paisSel ? b.País === paisSel : true;
 
@@ -202,7 +221,6 @@ function filtrar() {
             matchInsignia = b.Sponsor === "si";
         }
 
-        // CORREGIDO: Comprueba que el campo Webring exista y no esté vacío en lugar de buscar un "si"
         if (insigniaSel === "Webring") {
             matchInsignia = b.Webring && b.Webring.trim() !== "";
         }

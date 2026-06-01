@@ -246,3 +246,14 @@ select {
         padding-right: 0;
     }
 }
+
+.mensaje-recuadro {
+    margin: 15px auto;
+    padding: 12px 20px;
+    background-color: #141414; /* Un fondo gris claro o el color que use tu diseño */
+    border-left: 5px solid #39956D; /* Una sutil línea de color al costado */
+    border-radius: 4px;
+    font-size: 0.95rem;
+    max-width: 600px; /* Ajusta según el ancho de tus filtros */
+    text-align: left;
+}
