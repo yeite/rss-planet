@@ -1,3 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>¡Blog!¡Blog!</title>
+<link rel="stylesheet" href="estilos.css" />
+</head>
+
+<body>
+
+<!-- header -->
+<div id="header-placeholder"></div>
+
+<script>
+fetch("header.html")
+.then(response => response.text())
+.then(data => {
+    document.getElementById("header-placeholder").innerHTML = data;
+})
+.catch(err => console.error(err));
+</script>
+
+<main>
+
+<div>
+    <p id="contador"></p>
+    <p id="fecha"></p>
+</div>
+
+<div class="filtros">
+
+    <select id="filtroPais">
+        <option value="">🌎 Todos los países</option>
+    </select>
+
+    <select id="filtroCategoria">
+        <option value="">📚 Todas las categorías</option>
+    </select>
+
+    <select id="filtroInsignia">
+        <option value="">🏅 Todas las insignias</option>
+        <option value="Aliado">🐸 Aliado</option>
+        <option value="Sponsor">⭐ Sponsor</option>
+        <option value="Webring">🪐 Webring</option>
+    </select>
+
+</div>
+
+<div id="contenedor"></div>
+
+</main>
+
+<!-- footer -->
+<div id="footer-placeholder"></div>
+
+<script>
+fetch("footer.html")
+.then(response => response.text())
+.then(data => {
+    document.getElementById("footer-placeholder").innerHTML = data;
+})
+.catch(err => console.error(err));
+</script>
+
+<script>
+
 const contenedor = document.getElementById("contenedor");
 const filtroPais = document.getElementById("filtroPais");
 const filtroCategoria = document.getElementById("filtroCategoria");
@@ -225,3 +292,8 @@ function mostrarBlogs(lista) {
         contenedor.appendChild(item);
     });
 }
+
+</script>
+
+</body>
+</html>
