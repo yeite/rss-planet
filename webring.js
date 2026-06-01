@@ -149,8 +149,8 @@ function inicializarWebring() {
       return response.json();
     })
     .then(allSites => {
-      // NUEVO FILTRO: Solo participan los blogs que tienen el campo "webring" definido y no vacío
-      const sites = allSites.filter(site => site.webring && site.webring.trim() !== "");
+      // NUEVO FILTRO: Solo participan los blogs que tienen el campo "Webring" definido y no vacío
+      const sites = allSites.filter(site => site.Webring && site.Webring.trim() !== "");
 
       if (sites.length === 0) {
         document.getElementById('webring-status').innerText = "No hay blogs activos en el webring.";
@@ -162,7 +162,7 @@ function inicializarWebring() {
       
       // NUEVA BÚSQUEDA: Compara la URL actual usando el valor del campo "webring"
       let currentIndex = sites.findIndex(site => {
-        const cleanWebringUrl = site.webring.toLowerCase().replace(/\/$/, "");
+        const cleanWebringUrl = site.Webring.toLowerCase().replace(/\/$/, "");
         return currentUrl.includes(cleanWebringUrl) || cleanWebringUrl.includes(currentUrl);
       });
 
