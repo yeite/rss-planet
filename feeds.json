@@ -1,5 +1,26 @@
 [
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "556. El ruido moderno",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/06/556-el-ruido-moderno.html",
+    "fecha": "02/06/2026",
+    "contenido": "&nbsp; &nbsp; Indistintamente de la música que armoniza nuestras vidas, estaréis de acuerdo en que hay canciones que son proféticas y que no solo se adelantan a su tiempo, sino que perviven en la actualidad.&nbsp;&nbsp; &nbsp; Seguro que al respecto podríamos reunir un buen puñado de ellas.&nbsp; &n"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salvamir.github.io/algo-mas",
+    "fecha": "02/06/2026",
+    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "links",
+    "link": "https://salvamir.github.io/links",
+    "fecha": "02/06/2026",
+    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Cambiar el número de elementos mostrados en la página de pestaña nueva del navegador Firefox",
     "link": "https://victorhckinthefreeworld.com/2026/06/01/cambiar-el-numero-de-elementos-mostrados-en-la-pagina-de-pestana-nueva-del-navegador-firefox/",
@@ -7,18 +28,18 @@
     "contenido": "Vamos a cambiar la cantidad de enlaces habituales que se muestran en la página de nueva pestaña del navegador Firefox para ajustarlo a nuestros gustos"
   },
   {
-    "blog": "alt43",
-    "titulo": "Análisis de riesgos de la tecnología NFC en Android",
-    "link": "https://alt43.es/analisis-de-riesgos-de-la-tecnologia-nfc-en-android/",
-    "fecha": "01/06/2026",
-    "contenido": "El chip NFC del teléfono móvil está diseñado para intercambiar datos a escasos centímetros de distancia. La gran mayoría de veces de forma legítima; pero también existen escenarios teóricos y documentados, donde esa emisión se acaba por convertir en una vulnerabilidad real."
-  },
-  {
     "blog": "La bitácora de Locutus",
     "titulo": "Jactancia y miedo",
     "link": "http://locutusbit.blogspot.com/2026/06/jactancia-y-miedo.html",
     "fecha": "01/06/2026",
     "contenido": "&nbsp;Nadie vio la dilatada sombra de un arco del triunfoque se niega así mismo,el horizonte desangrado, pasto y erial del ruido cansado.Apenas quedarán las paredes enterradas, sin sombra,a expensas de una eternidad inexistente y una inmortalidad deplorable,lúgubre e insustancial, como un instante d"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "El Canal de Panamá",
+    "link": "https://altgr.xyz/2026/06/01/el-canal-de-panama/",
+    "fecha": "01/06/2026",
+    "contenido": "Una gran obra de ingeniería. Visitar el mirador no es tan impactante como uno esperaría. No es una estructura gigante que impresione a la vista. El canal mismo no es enorme, mas bien parece un río encausado cualquiera. Lo que de verdad impacta es entender lo que implicó su construcción en términos d"
   },
   {
     "blog": "Eterno aprendiz",
@@ -70,18 +91,11 @@
     "contenido": "    \nEste puede sonar a posteo para nardos, pero les aseguro que, aunque no sepas nada de programaci&oacute;n, tiene que ver con la seguridad de las contrase&ntilde;as de todos.\nHace muchos, muchos a&ntilde;os me hab&iacute;a comprado un libro de programaci&oacute;n en PHP 3 y aprend&iacute; qu&eacu"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Ciencia Ficción Ya No Es Tan Ficción…",
-    "link": "https://www.delotroladometal.com.ar/2026/06/01/la-ciencia-ficcion-ya-no-es-tan-ficcion/",
-    "fecha": "01/06/2026",
-    "contenido": "A veces pienso que la ciencia ficción, ya nos alcanzó. Que todo lo que alguna...\nThe post La Ciencia Ficción Ya No Es Tan Ficción… first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Loveof74",
     "titulo": "La mirada del niño",
     "link": "https://www.loveof74.es/weblog/cultura/musica/la-mirada-del-nino/?utm_source=rss&utm_medium=rss&utm_campaign=la-mirada-del-nino",
     "fecha": "01/06/2026",
-    "contenido": "Qué difícil es la nostalgia obligatoria. No tanto en las maneras que la edulcorada moda actual de ver un pasado rosa, no. Una nostalgia familiar, cariñosa, forzada de una u otra manera, con el origen a muchos kilómetros de distancia. A eso le cantan y le bailan las letras de Rachid B. Con una suavid"
+    "contenido": "Qué difícil es la nostalgia obligatoria. No tanto en las maneras de la edulcorada moda actual de ver un pasado rosa, no. Una nostalgia familiar, cariñosa, forzada de una u otra manera, con el origen a muchos kilómetros de distancia. A eso le cantan y le bailan las letras de Rachid B. Con una suavida"
   },
   {
     "blog": "El blog de Lázaro",
@@ -89,6 +103,13 @@
     "link": "https://elblogdelazaro.org/copias-de-seguridad-de-tus-bases-de-datos-con-databasus/",
     "fecha": "01/06/2026",
     "contenido": "Por: Carlos M.Publicado el 1 de junio de 2026Cómo instalar Databasus en Unraid y crear copias de seguridad automáticas de PostgreSQL, MySQL, MariaDB y MongoDB.Continuar leyendo →#Telegram #Mariadb #Docker #Unraid #Backup "
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Living slowly and being brave.",
+    "link": "https://salvamir.github.io/Notas/Living-slowly-and-being-brave.",
+    "fecha": "01/06/2026",
+    "contenido": "This post is a reply to Daniel and Rafa’s thoughts about simplicity, overwhelming needs of growth, rush and routines."
   },
   {
     "blog": "PanicError",
@@ -203,32 +224,11 @@
     "contenido": "Entonces, la curiosidad pudo más y terminé instalando (facilmente, cabe decir) Pi-Hole. El setup es improvisado, y no lo recomendaría para larga duración. Basicamente un PC, corriendo TrueNAS Community 25.10.3.1 &#8220;GoldEye&#8221;, y Pi-Hole 1.4.10 como un contenedor. El problema con esta configu"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda…",
-    "link": "https://www.delotroladometal.com.ar/2026/05/31/el-nacimiento-de-una-leyenda/",
-    "fecha": "31/05/2026",
-    "contenido": "(1990 &#8211; Intense Records) Apuesto a quien sea que a la hora de poner a...\nThe post Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda… first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Salva Más De Cerca",
     "titulo": "Salva Más De Cerca",
     "link": "https://salvamir.github.io/",
     "fecha": "31/05/2026",
     "contenido": "Acá me gusta coleccionar detalles de mi vida."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "¿Algo más?",
-    "link": "https://salvamir.github.io/algo-mas",
-    "fecha": "31/05/2026",
-    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "links",
-    "link": "https://salvamir.github.io/links",
-    "fecha": "31/05/2026",
-    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -334,13 +334,6 @@
     "link": "https://alex.corcoles.net/2026/05/pufos-posmodernos",
     "fecha": "30/05/2026",
     "contenido": "\n  El humor nunca es f&#225;cil. Su dificultad tiene cierta correlaci&#243;n con su efectividad, pero hay humor sin esfuerzo que nos puede matar de un ataque de risa. Quiz&#225; Takeshi Kitano tiene raz&#243;n en que, como la violencia, el mejor humor es el que nos pilla desprevenidos.\n  Hacks (HBO,"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Historia De Tyraels Ascension Continua Con \"Grave Seeker\" | Se Abre Un Nuevo Capítulo",
-    "link": "https://www.delotroladometal.com.ar/2026/05/30/se-abre-un-nuevo-capitulo/",
-    "fecha": "30/05/2026",
-    "contenido": "Es raro encontrar material que se enraíce en una historia conceptual dentro de lo que...\nThe post La Historia De Tyraels Ascension Continua Con \"Grave Seeker\" | Se Abre Un Nuevo Capítulo first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "JavierSam",
@@ -455,13 +448,6 @@
     "contenido": "     Paciencia, la semana termina\nBueno, bueno, bueno, ya estoy cansado de esta semana corta :P es que tuve trabajo, cosas, gimnasio, cumplea&ntilde;os, vejez, humedad, d&iacute;as nublados, mucho caf&eacute; para compensar, es hora de retirarnos a nuestros aposentos mentales y qu&eacute; mejor que "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "In Conquered: The Golgotha Chronicles | La Historia Más Bella Y Más Extrema",
-    "link": "https://www.delotroladometal.com.ar/2026/05/29/la-historia-mas-bella-y-mas-extrema/",
-    "fecha": "29/05/2026",
-    "contenido": "(2024 &#8211; Vision Of God Records) Evidentemente llevar una historia como la de Jesucristo y...\nThe post In Conquered: The Golgotha Chronicles | La Historia Más Bella Y Más Extrema first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Salva Más De Cerca",
     "titulo": "🪁 El Jardín Digital",
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
@@ -495,13 +481,6 @@
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B8-Es-invisible...",
     "fecha": "29/05/2026",
     "contenido": "Cuando yo era niño vivía en una casa antigua en la que, según la leyenda, había un tesoro escondido."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌸 ¿Qué son 53 minutos?",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B8-%C2%BFQu%C3%A9-son-53-minutos",
-    "fecha": "29/05/2026",
-    "contenido": "Era un comerciante de píldoras perfeccionadas que quitan la sed. Se toma una por semana y ya no se sienten ganas de beber."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -593,13 +572,6 @@
     "link": "https://www.fabio.com.ar/9951-ruleta-rusa-878",
     "fecha": "28/05/2026",
     "contenido": "     Es hora de una panzada de balas\nAh, se pensaron que la semana todav&iacute;a segu&iacute;a? Pues es jueves ya! As&iacute; es, y como todo jueves, hacen falta unos balazos para despertarse y aguantar hasta el viernes, as&iacute; que aqu&iacute; tienen una dosis de balacera de la buena.\nAhora s&i"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Se Viene Un Nuevo Álbum | Stryper Estrena “I´m Alright (I´m Okay)”",
-    "link": "https://www.delotroladometal.com.ar/2026/05/28/stryper-estrena-im-alright-im-okay/",
-    "fecha": "28/05/2026",
-    "contenido": "Estos últimos años debe ser la etapa más prolífica de Stryper en cuanto a material...\nThe post Se Viene Un Nuevo Álbum | Stryper Estrena “I´m Alright (I´m Okay)” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "La Loica",
@@ -707,13 +679,6 @@
     "contenido": "    \nImaginen un pa&iacute;s con s&oacute;lo 300 metros de v&iacute;as &uacute;tiles, donde el trayecto dentro de ese pa&iacute;s apenas requiere 30 segundos para ser transitado, adivinaron, ese pa&iacute;s es el Vaticano.\nAhora bien &iquest;Por qu&eacute; cuernos una estaci&oacute;n de tren y tan p"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista Con Michelle De Perpetual Legacy | “Teodrama” Fue Un Proceso Largo Y Desafiante”",
-    "link": "https://www.delotroladometal.com.ar/2026/05/27/teodrama-fue-un-proceso-largo-y-desafiante/",
-    "fecha": "27/05/2026",
-    "contenido": "Hoy en día es raro que una banda se anime a lanzar un álbum doble....\nThe post Entrevista Con Michelle De Perpetual Legacy | “Teodrama” Fue Un Proceso Largo Y Desafiante” first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Diego's Island.",
     "titulo": "Rescatamos a esta gatica😺.",
     "link": "https://diegoaep.codeberg.page/rescatamos-a-esta-gatica/",
@@ -726,13 +691,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/05/26/presvisualizar-archivos-markdown-en-el-editor-kate-de-kde/",
     "fecha": "26/05/2026",
     "contenido": "Veamos cómo previsualizar el renderizado de archivos en formato markdown en el editor Kate de KDE"
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "«Acuérdate de mí cuando llegues a tu Reino»",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/acuerdate-de-mi-cuando-llegues-a-tu-reino/",
-    "fecha": "26/05/2026",
-    "contenido": "\nEn verdad te digo, hoy estarás conmigo en el paraíso\n\nSon fragmentos del Evangelio de Lucas. Una, que ha aprendido de pe a pa el catecismo y que ha estado más metida en la Iglesia de lo que es bueno para cualquier persona, no puede evitar que, cuando escucha, lee o vive según qué cosas, se le venga"
   },
   {
     "blog": "Tecno y Soft",
@@ -796,40 +754,5 @@
     "link": "https://diegoaep.codeberg.page/tienes-poder-sobre-tu-mente/",
     "fecha": "26/05/2026",
     "contenido": "Las criticas pueden ser fuertes. Dejar que nos afecten es una decisión."
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Usando Podman - Instalación y configuración",
-    "link": "https://vctrsnts.github.io/posts/2026-05-26-usando-podman-1/",
-    "fecha": "25/05/2026",
-    "contenido": "Antes de empezar, quiero que quede bien claro una cosa: el porqué de este y los siguientes artículos hablando de Podman.\n\nNota\nEsto no va a ser una alternativa a todos los articulos que ha publicado atareao en referencia a Podman. Nunca lo haria ni es lo que querría, nunca voy a poder conseguir el n"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "554. Sirena",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/554-sirena.html",
-    "fecha": "25/05/2026",
-    "contenido": "&nbsp; &nbsp;&nbsp;Hubo que inventarte traidora, porque eras demasiado bella. Hubo que fabular contra ti para no reconocer que eras irresistible y que tu canto era capaz de doblegar la voluntad de cualquier hombre. Quizás por ese mismo embrujo me sumerjo cada día en las olas con la esperanza de enco"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Me equivoqué: España no es un bloque uniforme (y los datos son fascinantes)",
-    "link": "https://blog.danielaragay.net/me-equivoque-espana-no-es-un-bloque-uniforme-y-los-datos-son-fascinantes/",
-    "fecha": "25/05/2026",
-    "contenido": "En un episodio anterior generalic&#xe9; sobre la burocracia espa&#xf1;ola usando casos concretos de Mallorca y Logro&#xf1;o. Ten&#xed;a raz&#xf3;n en lo esencial, pero me equivoqu&#xe9; en la forma: Espa&#xf1;a tiene una de las mayores disparidades internas de toda Europa."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Angels Barceló",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/angels-barcelo.html",
-    "fecha": "25/05/2026",
-    "contenido": "Aún no había tenido tiempo para comentar la salida de Angels Barceló de la Cadena SER para la temporada que viene. La propia emisora publicó el viernes una breve nota donde anunciaba la salida de la catalana, parece que por no haber llegado a un acuerdo en un contrato que se iba renovando año a año."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Newsboat – Leer las noticias sin tanta mierda",
-    "link": "https://56k.es/fanta/newsboat-leer-las-noticias-desde-la-consola/",
-    "fecha": "25/05/2026",
-    "contenido": "Muchos sites de noticias e incluso blogs de gente tienen mucha mierda. Me refiero a que entras y por ejemplo te clavan nosecuantos trackers (cientos de ellos e incluso miles). Una forma sencilla de estar al día es usar un gestor RSS (No confundir RSS con Redes sociales y lo digo porque algunas perso"
   }
 ]
