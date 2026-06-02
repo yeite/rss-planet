@@ -106,13 +106,19 @@ function inicializarWebring() {
       // NUEVA BÚSQUEDA INTEGRAL: Compara de forma precisa para evitar colisiones en carpetas de GitHub Pages
       let currentIndex = sites.findIndex(site => {
         const siteUrlClean = normalizar(site.Webring);
-        // Si las URLs son idénticas tras limpiarlas, es un acierto exacto
         if (currentUrlClean === siteUrlClean) return true;
-        // Si comparte subcarpeta específica ej: yeite.github.io/lps vs yeite.github.io/esencial
         return currentUrlClean.startsWith(siteUrlClean) || siteUrlClean.startsWith(currentUrlClean);
       });
 
-      if (currentIndex === -1) currentIndex = 0;
+      // === AQUÍ EMPIEZAN LOS CAMBIOS ===
+      
+      // Detectamos si el sitio actual NO está en el JSON
+      const noEncontrado = (currentIndex === -1);
+
+      // Si no existe, usamos temporalmente el 0 para que los botones de navegación funcionen
+      if (noEncontrado) {
+        currentIndex = 0;
+      }
 
       const prevIndex = (currentIndex - 1 + sites.length) % sites.length;
       const nextIndex = (currentIndex + 1) % sites.length;
@@ -126,7 +132,14 @@ function inicializarWebring() {
       document.getElementById('webring-next').href = sites[nextIndex].Webring;
       document.getElementById('webring-random').href = sites[randomIndex].Webring;
       
-      document.getElementById('webring-status').innerText = `Estás visitando: ${sites[currentIndex].Nombre}`;
+      // Cambiamos el texto dependiendo de si el sitio está registrado o no
+      if (noEncontrado) {
+        document.getElementById('webring-status').innerText = "Blogs personales en Español";
+      } else {
+        document.getElementById('webring-status').innerText = `Estás visitando: ${sites[currentIndex].Nombre}`;
+      }
+      
+      // === AQUÍ TERMINAN LOS CAMBIOS ===
     })
     .catch(err => {
       let mensajeError = "Error al conectar con el anillo web.";
