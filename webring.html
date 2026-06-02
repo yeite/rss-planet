@@ -3,63 +3,171 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Prueba de funcionamiento de mi Webring</title>
-        <style>
-            body {
-                font-family: sans-serif;
-                background-color: #f4f4f9;
-                color: #333;
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                justify-content: center;
-                min-height: 100vh;
-                margin: 0;
-            }
-            .container {
-                background: white;
-                padding: 30px;
-                border-radius: 12px;
-                box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
-                text-align: center;
-                max-width: 500px;
-            }
-            h1 {
-                color: #2c3e50;
-                margin-bottom: 10px;
-            }
-            p {
-                color: #7f8c8d;
-                font-size: 0.95em;
-            }
-            hr {
-                border: 0;
-                border-top: 1px solid #eee;
-                margin: 25px 0;
-            }
-            .badge {
-                background: #e8f4fd;
-                color: #1da1f2;
-                padding: 5px 10px;
-                border-radius: 20px;
-                font-size: 0.8em;
-                font-weight: bold;
-            }
-        </style>
+        <title>¡Blog!¡Blog!</title>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="estilos.css" />
+        <link rel="stylesheet" href="estilos-acerca.css" />
+        <link
+            rel="alternate"
+            type="application/rss+xml"
+            title="RSS BlogBlog"
+            href="https://blogblog.es/rss.xml"
+        />
     </head>
     <body>
-        <div class="container">
-            <h1>Entorno de Prueba</h1>
-            <p>
-                Esta página simula ser uno de los blogs del anillo para
-                verificar que la lógica de tu script funciona correctamente.
-            </p>
+        <div id="header-placeholder"></div>
 
-            <hr />
+        <script>
+            // Cargar header desde un archivo externo
+            fetch("header.html")
+                .then((response) => response.text())
+                .then((data) => {
+                    document.getElementById("header-placeholder").innerHTML =
+                        data;
+                })
+                .catch((err) =>
+                    console.error("Error al cargar header.html:", err),
+                );
+        </script>
 
-            <!-- AQUÍ SE ENRAIZA TU WEBRING -->
-            <!-- Cambia la URL por la ruta real de tu archivo webring.js en tu servidor -->
-            <script src="https://blogblog.es/webring.js"></script>
-        </div>
+        <main>
+            <div class="container">
+                <header>
+                    <h1>Webring de blogs personales en español</h1>
+ <h2> ¡Sumate al webring de ¡Blog!¡Blog!</h2>
+
+
+
+
+
+
+                    <div class="meta-info">
+                        Última actualización: 2 de junio de 2026
+                    </div>
+                </header>
+
+                <nav class="table-of-contents">
+                    <h2>Tabla de Contenidos</h2>
+                    <ul>
+                        <li><a href="#webring">¿Qué es eso del Webring?</a></li>
+
+                        <li>
+                            <a href="#webring-unirse"
+                                >¿Cómo me uno al Webring de blogs en español?</a
+                            >
+                        </li>
+                        <li>
+                            <a href="#webring-porque"
+                                >¿Por qué y para qué un Webring?</a
+                            >
+                        </li>
+                    </ul>
+                </nav>
+
+
+
+                <p>  ¿Quieres colaborar con el descubrimiento de nuevos blogs? Sumáte al Webring de blogs en español:
+                </p>
+
+                <div>
+                    <img src="img/webring2.webp" alt="Webring de blogs personales en español">
+                </div>
+                <main class="faq-section">
+
+
+
+                    </div>
+
+
+
+                    <div class="faq-item" id="webring">
+                        <h3 class="faq-question">¿Qué es eso del Webring?</h3>
+                        <div class="faq-answer">
+                            <p>
+                                Un web ring funciona como un anillo de webs
+                                enlazadas por un mismo fin, como las de
+                                ¡Blog¡¡Blog!: blogs personales en español
+                                <em
+                                    >Libres de SEO, Inteligencia Artificial,
+                                    algoritmos y sin fines comerciales</em
+                                >.
+                            </p>
+                            <p>
+                                Cada blog enlaza al siguiente. Funciona como un
+                                anillo. Es por eso que es importante no cortar
+                                la cadena para que siga funcionando. Esto es un
+                                compromiso entre todos: si alguien quita el
+                                enlace puede romperse, es por eso que se revisa
+                                la cadena cada cierto tiempo para mantener el
+                                webring en marcha.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="faq-item" id="webring-unirse">
+                        <h3 class="faq-question">
+                            ¿Cómo me uno al Webring de blogs en español?
+                        </h3>
+                        <div class="faq-answer">
+                            <p>
+                                Inserta el siguiente código en la home de tu
+                                blog. Una vez que lo hagas, avísame por mail
+                                escribiendo a
+                                <em>hola [arroba] matizeta.com</em> o por
+                                <a
+                                    href="https://masto.es/@matizeta"
+                                    target="_blank"
+                                    >Mastodon</a
+                                >.
+                                <strong
+                                    >Las verificaciones son manuales.</strong
+                                >
+                            </p>
+                            <pre><code>&lt;div class="webring-container"&gt; https://blogblog.es/webring.js&lt;/div&gt;</code></pre>
+                        </div>
+                    </div>
+
+                    <div class="faq-item" id="webring-porque">
+                        <h3 class="faq-question">
+                            ¿Por qué y para qué Webring?
+                        </h3>
+                        <div class="faq-answer">
+                            <p>
+                                Ser parte de un webring ayuda a crear una
+                                comunidad de blogs personales en español. Entre
+                                todos ayudamos a que cada vez más blogs
+                                personales sean descubiertos. Es una alternativa
+                                robusta contra los algoritmos, orientada a
+                                desarrollar una web más sana y nuestra.
+                            </p>
+                            <p>
+                                Puedes ver quiénes forman parte ingresando al
+                                <a
+                                    href="https://blogblog.es/directorio.html"
+                                    target="_blank"
+                                    >directorio de blogs</a
+                                >
+                                y filtrando por la insignia «webring» 🪐.
+                            </p>
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </main>
+
+        <div id="footer-placeholder"></div>
+
+        <script>
+            // Cargar footer desde un archivo externo
+            fetch("footer.html")
+                .then((response) => response.text())
+                .then((data) => {
+                    document.getElementById("footer-placeholder").innerHTML =
+                        data;
+                })
+                .catch((err) =>
+                    console.error("Error al cargar footer.html:", err),
+                );
+        </script>
     </body>
 </html>
