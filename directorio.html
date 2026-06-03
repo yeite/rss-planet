@@ -122,9 +122,11 @@ fetch("blogs.json")
     poblarFiltros();
     mostrarBlogs(blogs);
 
+    
     document.getElementById("contador").textContent =
-        `🎉 ¡Llegamos al blog N° ${blogs.length}!`;
+        `🎉 Ya hay ${blogs.length} blogs personales en español`;
 
+    
     if (ultimaActualizacion) {
         const fecha = new Date(ultimaActualizacion);
         const fechaFormateada =
