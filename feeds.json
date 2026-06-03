@@ -1,5 +1,19 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "La economía de la confianza",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/03/20260603-economia-confianza/",
+    "fecha": "03/06/2026",
+    "contenido": "La saturación de contenido sintético con la que se han visto afectadas las plataformas de digitales han generado una crisis de confianza en el contenido distribuido"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salvamir.github.io/algo-mas",
+    "fecha": "03/06/2026",
+    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "El blog ya forma parte del fediverso",
     "link": "https://thecheis.com/2026/06/02/el-blog-ya-forma-parte-del-fediverso/",
@@ -14,11 +28,18 @@
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
   },
   {
+    "blog": "Tecno y Soft",
+    "titulo": "Recuperar el control con Linux",
+    "link": "https://tecnoysoft.com/2026/06/02/recuperar-el-control-con-linux/",
+    "fecha": "02/06/2026",
+    "contenido": "Hablar de Linux solo en términos de FPS, compatibilidad con juegos o si ejecuta tal o cual launcher es quedarse en la superficie. Para muchas personas, Linux representa algo mucho más profundo: la idea de que el ordenador te pertenece a ti y no al fabricante del sistema operativo. La diferencia filo"
+  },
+  {
     "blog": "matizeta",
     "titulo": "La forma correcta de cortar el pan de salchicha",
     "link": "https://matizeta.com/2026/06/02/la-forma-correcta-de-cortar-el-pan-de-salchicha/",
     "fecha": "02/06/2026",
-    "contenido": "Salchicha, hot dog, perro caliente&#8230; cómo se llame en tu país. ¿pero cuál es la forma correcta de cortar el pan?¿por arriba o de costado?"
+    "contenido": "Panchos, hot dog, perro caliente&#8230; cómo se llame en tu país. ¿pero cuál es la forma correcta de cortar el pan?¿por arriba o de costado?"
   },
   {
     "blog": "matizeta",
@@ -43,6 +64,20 @@
   },
   {
     "blog": "Eterno aprendiz",
+    "titulo": "Una Lluvia de Esas",
+    "link": "https://altgr.xyz/2026/06/02/una-lluvia-de-esas/",
+    "fecha": "02/06/2026",
+    "contenido": "En la caminata por el casco antiguo me pilló la lluvia. Nada de leve ese aguacero con cerca de 30°. Además de mojado, me dejó esta bonita postal digna de quedar como recuerdo."
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Paseo por el Casco Antiguo – Parte 2",
+    "link": "https://altgr.xyz/2026/06/02/paseo-por-el-casco-antiguo-parte-2/",
+    "fecha": "02/06/2026",
+    "contenido": "El casco antiguo es un sector relativamente pequeño. Yo caminé un poco más de 2 horas y lo recorrí casi completo. Sus calles son angostas y de pronto te pillas con alguna pequeña plaza con monumentos, harta vegetación y algunos vendedores. Por ahí aproveché de comprar algunos pequeños souvenirs de r"
+  },
+  {
+    "blog": "Eterno aprendiz",
     "titulo": "Paseo por el Casco Antiguo – Parte 1",
     "link": "https://altgr.xyz/2026/06/02/paseo-por-el-casco-antiguo-parte-1/",
     "fecha": "02/06/2026",
@@ -54,6 +89,13 @@
     "link": "https://www.ericafustero.com/2026-06-erica-a-diario-en-mostoles",
     "fecha": "02/06/2026",
     "contenido": "Esta es la segunda parte de la serie contando mis aventuras durante las presentaciones de Erica a diario. Si te perdiste la primera parte, puedes leerla aquí. La lluvia y los cielos grises de Valencia me acompañaron a Madrid, ciudad que me recibió con lluvia, poco más de 10 grados y un airecillo de "
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "José Carlos Gómez Villamandos",
+    "link": "https://www.xn--jmuoz-qta.es/2026/06/jose-carlos-gomez-villamandos.html",
+    "fecha": "02/06/2026",
+    "contenido": "\n  \n    \n  \nHa trascendido esta tarde que ha fallecido José Carlos Gómez Villamandos. La mayoría de gente lo conoce por haber sido consejero de Universidades en la Junta de Andalucía, pero yo lo conocía de antes porque participé activamente en su campaña para rector de la Universidad de Córdoba, cua"
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -105,11 +147,11 @@
     "contenido": "Esta sera otra entrada corta, ya que es una continuación sobre mi situación actual con las redes sociales\nLlevo desde unos cuantos días quejandome en este blog de que ninguna red social sigue sin convencerme, tanto que he considerado volver a Twitter, aunque parece que el universo esta haciendo todo"
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "¿Algo más?",
-    "link": "https://salvamir.github.io/algo-mas",
+    "blog": "DESDE UN BALCÓN DE MADRID",
+    "titulo": "94 – El día en que me desperté y habías vuelto",
+    "link": "https://empiezaen2023.wordpress.com/2026/06/03/94-el-dia-que-me-desperte-y-habias-vuelto/",
     "fecha": "02/06/2026",
-    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
+    "contenido": "Hoy no podía dormir, así que decidí bajar al salón un rato y ver algo en la tele para tratar de conciliar el sueño. Sin embargo, al bajar las escaleras creí ver una figura en el sofá… me asusté y encendí la luz rápidamente para quitarme esa idea de la cabeza. Cual fue mi sorpresa [&#8230;]"
   },
   {
     "blog": "Salva Más De Cerca",
@@ -119,11 +161,25 @@
     "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
   },
   {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Our world is alive and you should notice it.",
+    "link": "https://salvamir.github.io/Notas/Our-world-is-alive-and-you-should-notice-it.",
+    "fecha": "02/06/2026",
+    "contenido": "I wanted to make a comment on thispost. June has just arrived and winter is finally coming."
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Cambiar el número de elementos mostrados en la página de pestaña nueva del navegador Firefox",
     "link": "https://victorhckinthefreeworld.com/2026/06/01/cambiar-el-numero-de-elementos-mostrados-en-la-pagina-de-pestana-nueva-del-navegador-firefox/",
     "fecha": "01/06/2026",
     "contenido": "Vamos a cambiar la cantidad de enlaces habituales que se muestran en la página de nueva pestaña del navegador Firefox para ajustarlo a nuestros gustos"
+  },
+  {
+    "blog": "Parlem de Llibres",
+    "titulo": "Yo, Julia",
+    "link": "https://vsantos.envs.net/posts/yo-julia/",
+    "fecha": "01/06/2026",
+    "contenido": ""
   },
   {
     "blog": "alt43",
@@ -225,10 +281,10 @@
   },
   {
     "blog": "Salva Más De Cerca",
-    "titulo": "Living slowly and being brave.",
-    "link": "https://salvamir.github.io/Notas/Living-slowly-and-being-brave.",
+    "titulo": "Live slow and be brave.",
+    "link": "https://salvamir.github.io/Notas/Live-slow-and-be-brave.",
     "fecha": "01/06/2026",
-    "contenido": "This post is a reply to Daniel and Rafa’s thoughts about simplicity, overwhelming needs of growth, rush and routines. Those posts resonated with me."
+    "contenido": "This post is a reply to Daniel’s and Rafa’s thoughts on simplicity, overwhelming “needs” of professional growth, rush and routines."
   },
   {
     "blog": "PanicError",
@@ -616,13 +672,6 @@
     "contenido": "—Los hombres —dijo el principito— se meten en los rápidos pero no saben dónde van ni lo que quieren… Entonces se agitan y dan vueltas… Y añadió: —¡No vale la pena!… 🌷 Dejar que a los otros les vaya bien y alegrarse con ellos.🪻 La resolución, el detalle…."
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌸 Es invisible...",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B8-Es-invisible...",
-    "fecha": "29/05/2026",
-    "contenido": "Cuando yo era niño vivía en una casa antigua en la que, según la leyenda, había un tesoro escondido."
-  },
-  {
     "blog": "Malagueños originales y libres",
     "titulo": "Cadence, emulador Amstrad CPC enfocado al desarrollo, exclusivo GNU/Linux y Apple",
     "link": "https://malagaoriginal.blogspot.com/2026/05/cadence-emulador-amstrad-cpc-enfocado.html",
@@ -749,13 +798,6 @@
     "contenido": "Un par de dibujos hechos de forma completamente digital: &quot;Turbo Skater&quot; y &quot;Vamos a jugar&quot; Turbo SkaterFinalizado: 2026-05-23   › Ver más »¡Patina todo el día!"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Mi experiencia con el Samsung Galaxy S25 Ultra ¿Vale la pena?",
-    "link": "https://gatooscuro.xyz/mi-experiencia-con-el-samsung-galaxy-s25-ultra-vale-la-pena/",
-    "fecha": "27/05/2026",
-    "contenido": "Nota: Sí, es una reseña de un móvil lanzado en el 2025… Quizás para algunos esté viviendo en el pasado, pero para quienes utilizan un móvil como yo (los invito\nSeguir leyendo  Mi experiencia con el Samsung Galaxy S25 Ultra ¿Vale la pena?\nEl cargo Mi experiencia con el Samsung Galaxy S25 Ultra ¿Vale "
-  },
-  {
     "blog": "matizeta",
     "titulo": "Coleccionismo y acumulación",
     "link": "https://matizeta.com/2026/05/27/coleccionismo-y-acumulacion/",
@@ -838,26 +880,5 @@
     "link": "https://diegoaep.codeberg.page/rescatamos-a-esta-gatica/",
     "fecha": "27/05/2026",
     "contenido": "Historia de como ahora yo y mi novia somos padres."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Previsualizar archivos MarkDown en el editor Kate de #KDE",
-    "link": "https://victorhckinthefreeworld.com/2026/05/26/presvisualizar-archivos-markdown-en-el-editor-kate-de-kde/",
-    "fecha": "26/05/2026",
-    "contenido": "Veamos cómo previsualizar el renderizado de archivos en formato markdown en el editor Kate de KDE"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Solución al falso aviso de “Conectividad limitada”",
-    "link": "https://tecnoysoft.com/2026/05/26/solucion-al-falso-aviso-de-conectividad-limitada/",
-    "fecha": "26/05/2026",
-    "contenido": "Hace tiempo que vengo sufriendo avisos de “Conectividad limitada”, pero algo no cuadraba hasta que descubrí lo que realmente sucedia. &#8211; Conectividad limitada &#8211; Cambios de estado de red &#8211; Reconexiones aparentes Sin embargo, Internet funcionaba correctamente: &#8211; Navegación norma"
-  },
-  {
-    "blog": "prosa",
-    "titulo": "como una regadera",
-    "link": "https://blog.adrianaaraujot.casa/como-una-regadera/",
-    "fecha": "26/05/2026",
-    "contenido": "identidad oculta, visibilidad y \"demonización\""
   }
 ]
