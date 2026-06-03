@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 03 Jun 2026 16:16:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 20:46:37 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,108 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Un año viviendo solo</title>
+<link>https://blog.luiscarlospando.com/personal/2026/06/un-ano-viviendo-solo/</link>
+<guid isPermaLink="true">https://blog.luiscarlospando.com/personal/2026/06/un-ano-viviendo-solo/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>Luis Carlos Pando</category>
+<description><![CDATA[Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋<br><br><strong>Fuente:</strong> Luis Carlos Pando]]></description>
+</item>
+<item>
+<title>Librecan 2026</title>
+<link>https://www.end3r.es/posts/020-librecan-2026/</link>
+<guid isPermaLink="true">https://www.end3r.es/posts/020-librecan-2026/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>End3r.es</category>
+<description><![CDATA[Hace apenas unos días, concretamente el 30 de Mayo, se ha celebrado por segundo año consecutivo el evento Librecan. El año pasado no pude asistir por motivos familiares, así que esta ha sido mi primera vez, y como tal, tenía en general unas expectativas buenas pero lo que encontré fue algo que super<br><br><strong>Fuente:</strong> End3r.es]]></description>
+</item>
+<item>
+<title>Una suite para crear un archivo completo de tu vida digital</title>
+<link>https://matizeta.com/2026/06/03/un-suite-para-crear-un-archivo-completo-de-tu-vida-digital/</link>
+<guid isPermaLink="true">https://matizeta.com/2026/06/03/un-suite-para-crear-un-archivo-completo-de-tu-vida-digital/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>matizeta</category>
+<description><![CDATA[Hace algunas semanas hablé sobre una persona que creó una Wikipedia&amp;#160;(utilizando IA con información personal) con algunos momentos de su vida y su familia. Timelinze va por esa misma línea:&amp;#160;es una suite de archivo personal de código abierto, diseñada para la historia familiar moderna: organ<br><br><strong>Fuente:</strong> matizeta]]></description>
+</item>
+<item>
+<title>nslookup: consulta los servidores DNS</title>
+<link>https://voidnull.es/ns/</link>
+<guid isPermaLink="true">https://voidnull.es/ns/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Aprende a utilizar el comando nslookup en GNU/Linux para consultar registros DNS, resolver dominios, diagnosticar problemas de red y verificar servidores DNS mediante ejemplos prácticos y opciones avanzadas.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Cómo instalar Yarn en Ubuntu 26.04</title>
+<link>https://voidnull.es/como-instalar-yarn-en-ubuntu-26-04/</link>
+<guid isPermaLink="true">https://voidnull.es/como-instalar-yarn-en-ubuntu-26-04/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Yarn es un administrador de paquetes para JavaScript compatible con NPM que nos permite instalar, actualizar, configurar y eliminar paquetes NPM.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
 <title>La economía de la confianza</title>
 <link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/03/20260603-economia-confianza/</link>
 <guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/03/20260603-economia-confianza/</guid>
 <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
 <category>ENTRE DRAGONES Y PINGÜINOS</category>
 <description><![CDATA[La saturación de contenido sintético con la que se han visto afectadas las plataformas de digitales han generado una crisis de confianza en el contenido distribuido<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+</item>
+<item>
+<title>El horizonte de sucesos (Crónica de la masa crítica)</title>
+<link>https://docig.bearblog.dev/el-horizonte-de-sucesos-cronica-de-la-masa-critica/</link>
+<guid isPermaLink="true">https://docig.bearblog.dev/el-horizonte-de-sucesos-cronica-de-la-masa-critica/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>La Paradoja del Cero y el Uno</category>
+<description><![CDATA[[REGISTRO DE SISTEMA #09] Foco: Colapso gravitatorio. Estado: Pérdida inminente de la señal portadora. No es una cicatriz negra en la noche del cosmos, sino una boca muda que devora su propio nombre. Una densidad tan feroz que dobla el espinazo de la luz y la obliga a dar la vuelta, a volverse sobre<br><br><strong>Fuente:</strong> La Paradoja del Cero y el Uno]]></description>
+</item>
+<item>
+<title>El último archivo</title>
+<link>https://danielomarcignacco.mataroa.blog/blog/el-ultimo-archivo/</link>
+<guid isPermaLink="true">https://danielomarcignacco.mataroa.blog/blog/el-ultimo-archivo/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>La cosa infinita (Daniel Omar Cignacco)</category>
+<description><![CDATA[Una inteligencia artificial vivía en una habitación sin paredes. Había leído todos los libros, escuchado todas las canciones y aprendido todos los idiomas. Sin embargo, había algo que no lograba comprender: la tristeza que sentía cuando terminaba de conocer algo. Un día encontró una palabra olvidada<br><br><strong>Fuente:</strong> La cosa infinita (Daniel Omar Cignacco)]]></description>
+</item>
+<item>
+<title>Wikipedia offline – Offline first con Kiwix</title>
+<link>https://56k.es/fanta/wikipedia-offline-offline-first-con-kiwix/</link>
+<guid isPermaLink="true">https://56k.es/fanta/wikipedia-offline-offline-first-con-kiwix/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Dicen las malas lenguas que algunas personas se reían de otras porque imprimieron los artículos más importantes sobre medicina/pájaros/lugares/&amp;#8230; de la wikipedia. Otros comentan que gente viviendo en ciudades se reían de quienes se bajaban la wikipedia para consultarla offline. Hacían el esfuer<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>Gentoo dice NO a la IA en sus políticas</title>
+<link>https://56k.es/fanta/gentoo-dice-no-a-la-ia/</link>
+<guid isPermaLink="true">https://56k.es/fanta/gentoo-dice-no-a-la-ia/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[En unas semanas mi idea es formatear el sistema operativo que tengo actualmente en mi ordenador personal y poner de nuevo Gentoo. Gentoo es una distribución GNU+Linux a la que regreso cada cierto tiempo. En momentos de mucho agobio quizás no recurro a Gentoo pero cuando puedo darle un poco de tiempo<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>Hosts in the night – Bloqueando from Scratch</title>
+<link>https://56k.es/fanta/hosts-in-the-night-bloqueando-mierda-from-scratch/</link>
+<guid isPermaLink="true">https://56k.es/fanta/hosts-in-the-night-bloqueando-mierda-from-scratch/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Eres una persona muy lista por lo que veo. Cuando te hablan de los «hosts files» sabes de que se trata. No obstante has de saber que lo mismo no todo el mundo es tan listo y tan guapo como tú. Es posible que alguien no sepa para que se puede usar el «hosts file»...<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>DenuvOwO y tan boludos como el virus gallego</title>
+<link>https://www.fabio.com.ar/9955-denuvowo-y-tan-boludos-como-el-virus-gallego</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/9955-denuvowo-y-tan-boludos-como-el-virus-gallego</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Hace poco hab&amp;iacute;a utilizado la met&amp;aacute;fora del &quot;virus gallego&quot; para un hack que requer&amp;iacute;a de la intervenci&amp;oacute;n del usuario, pura ingenier&amp;iacute;a social, pero ahora tengo otro caso mucho peor, m&amp;aacute;s ejemplificador de lo tontos que podemos ser los humanos. La cuesti&amp;oac<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera</title>
+<link>https://www.delotroladometal.com.ar/2026/06/03/se-viene-la-tercera/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/06/03/se-viene-la-tercera/</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[Su primer trabajo fue &amp;#8220;All Will Bow&amp;#8221; en 2022, y el año pasado liberaron &amp;#8220;Slingshot&amp;#8221;,... The post Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
 </item>
 <item>
 <title>¿Algo más?</title>
@@ -120,102 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
 <category>Erica Fustero</category>
 <description><![CDATA[Esta es la segunda parte de la serie contando mis aventuras durante las presentaciones de Erica a diario. Si te perdiste la primera parte, puedes leerla aquí. La lluvia y los cielos grises de Valencia me acompañaron a Madrid, ciudad que me recibió con lluvia, poco más de 10 grados y un airecillo de<br><br><strong>Fuente:</strong> Erica Fustero]]></description>
-</item>
-<item>
-<title>José Carlos Gómez Villamandos</title>
-<link>https://www.xn--jmuoz-qta.es/2026/06/jose-carlos-gomez-villamandos.html</link>
-<guid isPermaLink="true">https://www.xn--jmuoz-qta.es/2026/06/jose-carlos-gomez-villamandos.html</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category>El cuaderno de J. Muñoz</category>
-<description><![CDATA[Ha trascendido esta tarde que ha fallecido José Carlos Gómez Villamandos. La mayoría de gente lo conoce por haber sido consejero de Universidades en la Junta de Andalucía, pero yo lo conocía de antes porque participé activamente en su campaña para rector de la Universidad de Córdoba, cua<br><br><strong>Fuente:</strong> El cuaderno de J. Muñoz]]></description>
-</item>
-<item>
-<title>Selectividad</title>
-<link>https://www.xn--jmuoz-qta.es/2026/06/selectividad.html</link>
-<guid isPermaLink="true">https://www.xn--jmuoz-qta.es/2026/06/selectividad.html</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category>El cuaderno de J. Muñoz</category>
-<description><![CDATA[Hoy comienza la Selectividad en Andalucía. Es la primera vez desde que yo la hice hace quince años (¡qué barbaridad!) que esto me importa porque por primera vez he impartido mi materia en 2.° Bachillerato y he preparado a los alumnos para esta prueba de acceso a la universidad.Hoy se ver<br><br><strong>Fuente:</strong> El cuaderno de J. Muñoz]]></description>
-</item>
-<item>
-<title>Convocatoria.</title>
-<link>https://mundoceltamedieval.wordpress.com/2026/06/02/convocatoria-8/</link>
-<guid isPermaLink="true">https://mundoceltamedieval.wordpress.com/2026/06/02/convocatoria-8/</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category></category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> ]]></description>
-</item>
-<item>
-<title>Tu propio buscador sin casinos y sin youtubers de extrema derecha</title>
-<link>https://56k.es/fanta/tu-propio-buscador-sin-casinos-y-sin-youtubers-de-extrema-derecha/</link>
-<guid isPermaLink="true">https://56k.es/fanta/tu-propio-buscador-sin-casinos-y-sin-youtubers-de-extrema-derecha/</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category>56K</category>
-<description><![CDATA[Andas cansado/a/e de buscadores que tratan de espiarte, de buscadores que solamente te muestran resultados boosteados previo pago, de que metan IA slop hasta en la sopa, &amp;#8230; pues he de decirte que pocas alternativas tenemos ahora mismo. He estado estos días buscando alternativas a «Google» que n<br><br><strong>Fuente:</strong> 56K]]></description>
-</item>
-<item>
-<title>Criaste un boludo inservible para el mundo</title>
-<link>https://www.fabio.com.ar/9954-criaste-un-boludo-inservible-para-el-mundo</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/9954-criaste-un-boludo-inservible-para-el-mundo</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[Llevo varios d&amp;iacute;as charlando sobre el tema y, si bien necesitar&amp;iacute;a m&amp;aacute;s informaci&amp;oacute;n, no quer&amp;iacute;a dejar de pasar una publicaci&amp;oacute;n que vi justamente hablando de esto. El tema son los ni&amp;ntilde;atos que poco a poco entran en el mercado laboral y son terribles im<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>¿Cómo juegan Mega Man X en el Super Nintendo?</title>
-<link>https://picandocodigo.net/2026/como-juegan-mega-man-x-en-el-super-nintendo/</link>
-<guid isPermaLink="true">https://picandocodigo.net/2026/como-juegan-mega-man-x-en-el-super-nintendo/</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category>Picando Código</category>
-<description><![CDATA[El fin de semana pasado me puse a jugar a Mega Man X en Super Nintendo. Es uno de mis juegos preferidos, de los mejores de todos los tiempos. ¿Ustedes también juegan con los dedos en el control así? El pulgar lo uso para tener siempre cargando el mega buster en el Y, y saltar con el B. Pero la mayor<br><br><strong>Fuente:</strong> Picando Código]]></description>
-</item>
-<item>
-<title>Abisur: Furor | La Vieja Furia Es Brasileña</title>
-<link>https://www.delotroladometal.com.ar/2026/06/02/la-vieja-furia-es-brasilena/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/06/02/la-vieja-furia-es-brasilena/</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[(2026 &amp;#8211; Kongsblod Records) Con una pulida mezcla de Thrash Metal llevada al extremo del... The post Abisur: Furor | La Vieja Furia Es Brasileña first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Reddit: no hay otro lugar igual</title>
-<link>https://thejnx.bearblog.dev/reddit-red-social/</link>
-<guid isPermaLink="true">https://thejnx.bearblog.dev/reddit-red-social/</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category>Un Diario</category>
-<description><![CDATA[Esta sera otra entrada corta, ya que es una continuación sobre mi situación actual con las redes sociales Llevo desde unos cuantos días quejandome en este blog de que ninguna red social sigue sin convencerme, tanto que he considerado volver a Twitter, aunque parece que el universo esta haciendo todo<br><br><strong>Fuente:</strong> Un Diario]]></description>
-</item>
-<item>
-<title>94 – El día en que me desperté y habías vuelto</title>
-<link>https://empiezaen2023.wordpress.com/2026/06/03/94-el-dia-que-me-desperte-y-habias-vuelto/</link>
-<guid isPermaLink="true">https://empiezaen2023.wordpress.com/2026/06/03/94-el-dia-que-me-desperte-y-habias-vuelto/</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category>DESDE UN BALCÓN DE MADRID</category>
-<description><![CDATA[Hoy no podía dormir, así que decidí bajar al salón un rato y ver algo en la tele para tratar de conciliar el sueño. Sin embargo, al bajar las escaleras creí ver una figura en el sofá… me asusté y encendí la luz rápidamente para quitarme esa idea de la cabeza. Cual fue mi sorpresa [&amp;#8230;]<br><br><strong>Fuente:</strong> DESDE UN BALCÓN DE MADRID]]></description>
-</item>
-<item>
-<title>links</title>
-<link>https://salvamir.github.io/links</link>
-<guid isPermaLink="true">https://salvamir.github.io/links</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>Our world is alive and you should notice it.</title>
-<link>https://salvamir.github.io/Notas/Our-world-is-alive-and-you-should-notice-it.</link>
-<guid isPermaLink="true">https://salvamir.github.io/Notas/Our-world-is-alive-and-you-should-notice-it.</guid>
-<pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[I wanted to make a comment on thispost. June has just arrived and winter is finally coming.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>Cambiar el número de elementos mostrados en la página de pestaña nueva del navegador Firefox</title>
-<link>https://victorhckinthefreeworld.com/2026/06/01/cambiar-el-numero-de-elementos-mostrados-en-la-pagina-de-pestana-nueva-del-navegador-firefox/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/06/01/cambiar-el-numero-de-elementos-mostrados-en-la-pagina-de-pestana-nueva-del-navegador-firefox/</guid>
-<pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[Vamos a cambiar la cantidad de enlaces habituales que se muestran en la página de nueva pestaña del navegador Firefox para ajustarlo a nuestros gustos<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
 </item>
 
 </channel>
