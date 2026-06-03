@@ -1,10 +1,94 @@
 [
   {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Un año viviendo solo",
+    "link": "https://blog.luiscarlospando.com/personal/2026/06/un-ano-viviendo-solo/",
+    "fecha": "03/06/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "End3r.es",
+    "titulo": "Librecan 2026",
+    "link": "https://www.end3r.es/posts/020-librecan-2026/",
+    "fecha": "03/06/2026",
+    "contenido": "Hace apenas unos días, concretamente el 30 de Mayo, se ha celebrado por segundo año consecutivo el\nevento Librecan.\nEl año pasado no pude asistir por motivos familiares, así que esta ha sido mi primera vez, y como tal,\ntenía en general unas expectativas buenas pero lo que encontré fue algo que super"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Una suite para crear un archivo completo de tu vida digital",
+    "link": "https://matizeta.com/2026/06/03/un-suite-para-crear-un-archivo-completo-de-tu-vida-digital/",
+    "fecha": "03/06/2026",
+    "contenido": "Hace algunas semanas hablé sobre una persona que creó una Wikipedia&#160;(utilizando IA con información personal) con algunos momentos de su vida y su familia. Timelinze va por esa misma línea:&#160;es una suite de archivo personal de código abierto, diseñada para la historia familiar moderna: organ"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "nslookup: consulta los servidores DNS",
+    "link": "https://voidnull.es/ns/",
+    "fecha": "03/06/2026",
+    "contenido": "Aprende a utilizar el comando nslookup en GNU/Linux para consultar registros DNS, resolver dominios, diagnosticar problemas de red y verificar servidores DNS mediante ejemplos prácticos y opciones avanzadas."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Cómo instalar Yarn en Ubuntu 26.04",
+    "link": "https://voidnull.es/como-instalar-yarn-en-ubuntu-26-04/",
+    "fecha": "03/06/2026",
+    "contenido": "Yarn es un administrador de paquetes para JavaScript compatible con NPM que nos permite instalar, actualizar, configurar y eliminar paquetes NPM."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "La economía de la confianza",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/03/20260603-economia-confianza/",
     "fecha": "03/06/2026",
     "contenido": "La saturación de contenido sintético con la que se han visto afectadas las plataformas de digitales han generado una crisis de confianza en el contenido distribuido"
+  },
+  {
+    "blog": "La Paradoja del Cero y el Uno",
+    "titulo": "El horizonte de sucesos (Crónica de la masa crítica)",
+    "link": "https://docig.bearblog.dev/el-horizonte-de-sucesos-cronica-de-la-masa-critica/",
+    "fecha": "03/06/2026",
+    "contenido": "[REGISTRO DE SISTEMA #09]\nFoco: Colapso gravitatorio.\nEstado: Pérdida inminente de la señal portadora.\nNo es una cicatriz negra en la noche del cosmos,\nsino una boca muda que devora su propio nombre.\nUna densidad tan feroz que dobla el espinazo de la luz\ny la obliga a dar la vuelta,\na volverse sobre"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "El último archivo",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/el-ultimo-archivo/",
+    "fecha": "03/06/2026",
+    "contenido": "Una inteligencia artificial vivía en una habitación sin paredes. Había leído todos los libros, escuchado todas las canciones y aprendido todos los idiomas. Sin embargo, había algo que no lograba comprender: la tristeza que sentía cuando terminaba de conocer algo.\nUn día encontró una palabra olvidada"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Wikipedia offline – Offline first con Kiwix",
+    "link": "https://56k.es/fanta/wikipedia-offline-offline-first-con-kiwix/",
+    "fecha": "03/06/2026",
+    "contenido": "Dicen las malas lenguas que algunas personas se reían de otras porque imprimieron los artículos más importantes sobre medicina/pájaros/lugares/&#8230; de la wikipedia. Otros comentan que gente viviendo en ciudades se reían de quienes se bajaban la wikipedia para consultarla offline. Hacían el esfuer"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Gentoo dice NO a la IA en sus políticas",
+    "link": "https://56k.es/fanta/gentoo-dice-no-a-la-ia/",
+    "fecha": "03/06/2026",
+    "contenido": "En unas semanas mi idea es formatear el sistema operativo que tengo actualmente en mi ordenador personal y poner de nuevo Gentoo. Gentoo es una distribución GNU+Linux a la que regreso cada cierto tiempo. En momentos de mucho agobio quizás no recurro a Gentoo pero cuando puedo darle un poco de tiempo"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Hosts in the night – Bloqueando from Scratch",
+    "link": "https://56k.es/fanta/hosts-in-the-night-bloqueando-mierda-from-scratch/",
+    "fecha": "03/06/2026",
+    "contenido": "Eres una persona muy lista por lo que veo. Cuando te hablan de los «hosts files» sabes de que se trata. No obstante has de saber que lo mismo no todo el mundo es tan listo y tan guapo como tú. Es posible que alguien no sepa para que se puede usar el «hosts file»..."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "DenuvOwO y tan boludos como el virus gallego",
+    "link": "https://www.fabio.com.ar/9955-denuvowo-y-tan-boludos-como-el-virus-gallego",
+    "fecha": "03/06/2026",
+    "contenido": "    \nHace poco hab&iacute;a utilizado la met&aacute;fora del \"virus gallego\" para un hack que requer&iacute;a de la intervenci&oacute;n del usuario, pura ingenier&iacute;a social, pero ahora tengo otro caso mucho peor, m&aacute;s ejemplificador de lo tontos que podemos ser los humanos.\nLa cuesti&oac"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera",
+    "link": "https://www.delotroladometal.com.ar/2026/06/03/se-viene-la-tercera/",
+    "fecha": "03/06/2026",
+    "contenido": "Su primer trabajo fue &#8220;All Will Bow&#8221; en 2022, y el año pasado liberaron &#8220;Slingshot&#8221;,...\nThe post Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -138,13 +222,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/06/02/la-vieja-furia-es-brasilena/",
     "fecha": "02/06/2026",
     "contenido": "(2026 &#8211; Kongsblod Records) Con una pulida mezcla de Thrash Metal llevada al extremo del...\nThe post Abisur: Furor | La Vieja Furia Es Brasileña first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Reddit: no hay otro lugar igual",
-    "link": "https://thejnx.bearblog.dev/reddit-red-social/",
-    "fecha": "02/06/2026",
-    "contenido": "Esta sera otra entrada corta, ya que es una continuación sobre mi situación actual con las redes sociales\nLlevo desde unos cuantos días quejandome en este blog de que ninguna red social sigue sin convencerme, tanto que he considerado volver a Twitter, aunque parece que el universo esta haciendo todo"
   },
   {
     "blog": "DESDE UN BALCÓN DE MADRID",
@@ -571,7 +648,7 @@
     "titulo": "#Streaming: Warped Tour CDMX Warm-Up",
     "link": "https://blog.luiscarlospando.com/musica/2026/05/streaming-warped-tour-cdmx-warm-up/",
     "fecha": "29/05/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "matizeta",
@@ -770,13 +847,6 @@
     "contenido": "Estos últimos años debe ser la etapa más prolífica de Stryper en cuanto a material...\nThe post Se Viene Un Nuevo Álbum | Stryper Estrena “I´m Alright (I´m Okay)” first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "La Loica",
-    "titulo": "Estoy en Directo",
-    "link": "https://laloica.noblogs.org/estoy-en-directo/",
-    "fecha": "27/05/2026",
-    "contenido": "Hola! paso a dejarles esta información en el blog. Me estoy motivando a hacer directos almenos una hora diaria por las mañanas, para bordar, tejer, coser y dibujar. Con esto busco una rutina para dedicarle trabajito a mis textiles y depaso conversar y reir con otres. Mis horarios seran de 8 AM a 10 "
-  },
-  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Adios Radicale. Hola de nuevo GCalendar",
     "link": "https://vctrsnts.github.io/posts/2026-05-28-adios-radicale/",
@@ -784,101 +854,10 @@
     "contenido": "Como recordaréis, tenía un articulo en el que explicaba que abandonaba GCalendar —el magnífico calendario de Google 😉— para montar mi propio sistema y así tener el control total.\nPero, lamentablemente, este experimento terminó hace un par de semanas, y no ha sido porque no lo intentara. 😭\nEl problem"
   },
   {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "Disposicionalismo fuerte: las leyes científicas no existen",
-    "link": "https://vonneumannmachine.wordpress.com/2026/05/27/disposicionalismo-fuerte-las-leyes-cientificas-no-existen/",
-    "fecha": "27/05/2026",
-    "contenido": "Después de estudiar el realismo de selva tropical de Ladyman y Ross, me interesó una visión contrapuesta, la de Stephen Mumford y Rani Lill Anjum, conocida como disposicionalismo fuerte. Vamos a ello. Si recordamos, para el realismo de Ladyman y Ross, la causalidad no era un elemento fundamental de "
-  },
-  {
-    "blog": "Plutoide Marcianadas",
-    "titulo": "Bocetos digitales - 2026-05",
-    "link": "https://plutoidemarcianadas.blogspot.com/2026/05/bocetos-digitales-2026-05.html",
-    "fecha": "27/05/2026",
-    "contenido": "Un par de dibujos hechos de forma completamente digital: &quot;Turbo Skater&quot; y &quot;Vamos a jugar&quot; Turbo SkaterFinalizado: 2026-05-23   › Ver más »¡Patina todo el día!"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Coleccionismo y acumulación",
-    "link": "https://matizeta.com/2026/05/27/coleccionismo-y-acumulacion/",
-    "fecha": "27/05/2026",
-    "contenido": "Si tuviera que elegir un coleccionismo estúpido, aniñado y banal sería el de coleccionar autos a escala. Lo digo porque me da mucha envidia quien se lo permite.&#160; Lo de los autos a escala, es en serio, me gusta todo lo que es el diseño de automóvil y estoy seguro que si me meto en [&#8230;]"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de NodeJS en Ubuntu 26.04",
-    "link": "https://voidnull.es/instalacion-de-nodejs-en-ubuntu-26-04/",
-    "fecha": "27/05/2026",
-    "contenido": "En el siguiente tutorial os explicaremos la correcta instalación de NodeJS en Ubuntu 26.04"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalar MariaDB en Ubuntu 26.04",
-    "link": "https://voidnull.es/instalar-mariadb-en-ubuntu-26-04/",
-    "fecha": "27/05/2026",
-    "contenido": "MariaDB es un sistema de gestión de bases de datos derivado de MySQL con licencia GPL."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "La búsqueda de Google y la ruptura del contrato social",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/05/27/20260527-google-contrato-social/",
-    "fecha": "27/05/2026",
-    "contenido": "Si Google ya no redirige el tráfico a tu sitio, ¿por qué le dejas llevarse tu información?"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Nostalgia",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/nostalgia.html",
-    "fecha": "27/05/2026",
-    "contenido": "\n  \n    \n  \nQué caprichoso es el sentimiento de nostalgia, que aparece cuando menos lo esperas, donde menos lo esperas. ¿Quién sabe? Quizá dentro de unos años sienta melancolía por este año que me he pasado yendo y viendo todos los días, y lo añore por lo activo que estaba o por lo delgado que estab"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Toni Cruz",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/toni-cruz.html",
-    "fecha": "27/05/2026",
-    "contenido": "Estas cosas para los oyentes acérrimos de radio siempre causan cierto morbo. Toni Cruz, el jefe de deportes de la COPE en Córdoba, ha escrito otro libro, en este caso sobre los mundiales de fútbol.Lo presentó hace unos días en su emisora, claro, en la desconexión local de las 12:50. Seis minutos de "
-  },
-  {
     "blog": "",
     "titulo": "Tutorial de Nicolás Sokolic.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/05/27/tutorial-de-nicolas-sokolic/",
     "fecha": "27/05/2026",
     "contenido": "Aquí hay un tutorial de afinación de mandolina de Nicolás Sokolic."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Broncano – En La Revuelta dicen NO a usar IA",
-    "link": "https://56k.es/fanta/broncano-en-la-revuelta-dicen-no-a-usar-ia/",
-    "fecha": "27/05/2026",
-    "contenido": "El otro día día el programa «La Revuelta» presentado por David Broncano (actualmente se emite en TVE1) dijo que ya no van a usar más la IA tras haber cometido errores que mostraban a gente que no quería salir en televisión pero que salió porque la IA los puso allí. Este es el programa con..."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Peak-mem – Midiendo el pico de uso de Memoria",
-    "link": "https://56k.es/fanta/peak-mem-midiendo-el-pico-de-uso-de-memoria/",
-    "fecha": "27/05/2026",
-    "contenido": "Estoy living a celebration con peak-mem . Se trata de un pequeño programa para GNU+Linux que nos permite calcular el pico maximo de uso de memoria RAM que hace un programa determinado que le indiquemos. Se instala así en Debian: # apt install peak-mem Se ejecuta por ejemplo así para nano y vi: &#160"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "El sistema ferroviario más corto del mundo",
-    "link": "https://www.fabio.com.ar/9950-el-sistema-ferroviario-mas-corto-del-mundo",
-    "fecha": "27/05/2026",
-    "contenido": "    \nImaginen un pa&iacute;s con s&oacute;lo 300 metros de v&iacute;as &uacute;tiles, donde el trayecto dentro de ese pa&iacute;s apenas requiere 30 segundos para ser transitado, adivinaron, ese pa&iacute;s es el Vaticano.\nAhora bien &iquest;Por qu&eacute; cuernos una estaci&oacute;n de tren y tan p"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista Con Michelle De Perpetual Legacy | “Teodrama” Fue Un Proceso Largo Y Desafiante”",
-    "link": "https://www.delotroladometal.com.ar/2026/05/27/teodrama-fue-un-proceso-largo-y-desafiante/",
-    "fecha": "27/05/2026",
-    "contenido": "Hoy en día es raro que una banda se anime a lanzar un álbum doble....\nThe post Entrevista Con Michelle De Perpetual Legacy | “Teodrama” Fue Un Proceso Largo Y Desafiante” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Diego's Island.",
-    "titulo": "Rescatamos a esta gatica😺.",
-    "link": "https://diegoaep.codeberg.page/rescatamos-a-esta-gatica/",
-    "fecha": "27/05/2026",
-    "contenido": "Historia de como ahora yo y mi novia somos padres."
   }
 ]
