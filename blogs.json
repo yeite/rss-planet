@@ -305,6 +305,7 @@
   {
     "Nombre": "Manu Mateos",
     "Url": "https://www.macram.es",
+    "Webring": "https://www.macram.es",
     "Feed": "https://www.macram.es/index.xml",
     "Descripción": "Blog personal donde hablo de tecnología y otras cosas.",
     "Categoría": "Tecnología, Entretenimiento y Cultura, Vida Diaria",
@@ -788,8 +789,8 @@
   },
   {
     "Nombre": "Si lo haces, hazlo bien!",
-    "Url": "https://vctrsnts.github.io",
-    "Feed": "https://vctrsnts.github.io/index.xml",
+    "Url": "https://vctrsnts.codeberg.page",
+    "Feed": "https://vctrsnts.codeberg.page/index.xml",
     "Descripción": "Hago la apertura de este blog personal, en donde iré escribiendo temas de lo más variopintos, desde temas informáticos, ya sea GNU/Linux, BSD, Raspberry, etc…. O alguna de las idas de olla que a veces tengo 😃",
     "Categoría": "Tecnología",
     "País": ""
