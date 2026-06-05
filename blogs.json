@@ -556,6 +556,7 @@
   {
     "Nombre": "Un blog",
     "Url": "https://nachof.blog",
+    "Webring": "https://nachof.blog",
     "Feed": "https://nachof.blog/index.xml",
     "Descripción": "Cosas que escribo periódicamente. Hay cosas sobre política, tecnología, libros, juegos, etc. Sobre lo que me interese en el momento, básicamente.",
     "Categoría": "Literario, Manualidades / Hobbies, Tecnología",
