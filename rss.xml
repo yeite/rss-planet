@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 05 Jun 2026 14:23:31 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 19:30:28 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,86 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Usar claves asiméticas SSH con gitlab</title>
+<link>https://malagaoriginal.blogspot.com/2026/09/usar-claves-asimeticas-ssh-con-gitlab.html</link>
+<guid isPermaLink="true">https://malagaoriginal.blogspot.com/2026/09/usar-claves-asimeticas-ssh-con-gitlab.html</guid>
+<pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+<category>Malagueños originales y libres</category>
+<description><![CDATA[GitLab ya no permite subir por https los cambios en tus repositorios, por lo que hay que utilizar métodos &quot;más seguros&quot;, aunque se puede crear un token para salir el paso, no lo recomiendo porque es &quot;pan para hoy y hambre para mañana&quot;, ya puestos usamos claves asimétricas SSH.Si NO las tienes creada<br><br><strong>Fuente:</strong> Malagueños originales y libres]]></description>
+</item>
+<item>
+<title>La ideología y la vida.</title>
+<link>https://jodidaperonosorprendida.mataroa.blog/blog/la-ideologia-y-la-vida/</link>
+<guid isPermaLink="true">https://jodidaperonosorprendida.mataroa.blog/blog/la-ideologia-y-la-vida/</guid>
+<pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+<category>Jodida, pero no sorprendida</category>
+<description><![CDATA[Hace unos días asistí a una graduación de Bachillerato. Este año he tenido el dudoso honor de ser tutora de un grupo y profesora de dos completos y otros 2 parcialmente. No había manera de escaparse. Tampoco tenía ganas de hacerlo, ojo. Aunque este tipo de eventos me dan una soberana pereza y suelo<br><br><strong>Fuente:</strong> Jodida, pero no sorprendida]]></description>
+</item>
+<item>
+<title>Artículo: Un poco sobre los Chat Bots (Parte 1)</title>
+<link>https://interlan.ec/blog/2026/06/05/articulo-un-poco-sobre-los-chat-bots/</link>
+<guid isPermaLink="true">https://interlan.ec/blog/2026/06/05/articulo-un-poco-sobre-los-chat-bots/</guid>
+<pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+<category>Interlan</category>
+<description><![CDATA[Dependiendo de cual es tu entorno en el que navegas, es posible que te hayas encontrado con bots en un contexto malicioso, beneficioso o neutral. Hoy quiero hablarte de los que mas me gustan, los que hasta una mayor investigación llamaremos, «ChatBots Utilitarios» Introducción Como siempre, comenzar<br><br><strong>Fuente:</strong> Interlan]]></description>
+</item>
+<item>
+<title>Este 2026 WordPress no lanzará un theme oficial</title>
+<link>https://matizeta.com/2026/06/05/sin-theme-oficial-por-parte-de-wordpress/</link>
+<guid isPermaLink="true">https://matizeta.com/2026/06/05/sin-theme-oficial-por-parte-de-wordpress/</guid>
+<pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+<category>matizeta</category>
+<description><![CDATA[Este año 2026 WordPress no lanzará el theme oficial que nos tiene acostumbrados desde el 2010. Al igual que el 2018, que tampoco realizaron un theme anual, este 2026 tampoco habrá uno y eso se debe a la hoja de ruta que lleva adelante el equipo de WordPress. Suelo esperar con cierta expectativa cada<br><br><strong>Fuente:</strong> matizeta]]></description>
+</item>
+<item>
+<title>557. Anímico</title>
+<link>https://lamadredelpatonegro.blogspot.com/2026/06/557-animico.html</link>
+<guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/06/557-animico.html</guid>
+<pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+<category>La Madre Que Parió Al Pato Negro</category>
+<description><![CDATA[&amp;nbsp; &amp;nbsp; ¿Se puede morir de tristeza? ¿Se puede morir por el llamado síndrome del corazón roto?&amp;nbsp; &amp;nbsp; Tal denominación no es ciencia ficción, ni literatura trasnochada, ni obra de un poetastro. La comunidad médica y científica no acaba de discernir la causa exacta de esta clase de miocar<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
+</item>
+<item>
+<title>Protege el acceso SSH de tus servidores con SoloKey</title>
+<link>https://voidnull.es/protege-el-acceso-ssh-de-tus-servidores-con-solokey/</link>
+<guid isPermaLink="true">https://voidnull.es/protege-el-acceso-ssh-de-tus-servidores-con-solokey/</guid>
+<pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[SoloKey es una llave de seguridad hardware compatible con FIDO2 y U2F.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>TEO mea en los baños del congreso</title>
+<link>https://56k.es/fanta/teo-mea-en-los-banos-del-congreso/</link>
+<guid isPermaLink="true">https://56k.es/fanta/teo-mea-en-los-banos-del-congreso/</guid>
+<pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Efectivamente ayer hablamos en el Congreso de los diputados como TuNubeSecaMiRío invitados por Izquierda Unida (que pertenece en el momento de escribir estas líneas al grupo parlamentario Sumar). Habló Aurora Goméz (la que sale en la foto) como portavoz del colectivo y yo fui a ver si podía tomarme<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>Elecciones Colombia 2026</title>
+<link>https://edgarmtoro.wordpress.com/2026/06/05/elecciones-colombia-2026/</link>
+<guid isPermaLink="true">https://edgarmtoro.wordpress.com/2026/06/05/elecciones-colombia-2026/</guid>
+<pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+<category>Estás Interfiriendo con mi Zen.</category>
+<description><![CDATA[Repasando las entradas del blog, noto que cada vez escribo menos sobre las elecciones en Colombia. Antes, analizaba la primera y la segunda vuelta, ahora, ya no me queda aire. Para que nos molestamos con una ilusión de soberanía y democracia? Por lo general este tipo de apoyo sería radioactivo en un<br><br><strong>Fuente:</strong> Estás Interfiriendo con mi Zen.]]></description>
+</item>
+<item>
+<title>Links de Viernes - #944</title>
+<link>https://www.fabio.com.ar/9957-links-de-viernes---944</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/9957-links-de-viernes---944</guid>
+<pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Viernes, la semana llega a su fin Aqu&amp;iacute; estamos, otra semana se agota, comienza el finde, tu cerebro cambia de modalidad a una m&amp;aacute;s activa, alegre, personal, para cuando logr&amp;aacute;s el cambio es domingo a las 19hs y te deprim&amp;iacute;s &amp;iquest;El ant&amp;iacute;doto? Links! Muchos link<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho</title>
+<link>https://www.delotroladometal.com.ar/2026/06/05/heavy-metal-hecho-y-derecho/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/06/05/heavy-metal-hecho-y-derecho/</guid>
+<pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[(2023 &amp;#8211; Retroactive Records) Otra joya rescatada más, y van. Cuanto material de los ´80... The post Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
 <item>
 <title>La verdadera historia de Lorem Ipsum…</title>
 <link>https://javiersam.uy/2026/06/la-verdadera-historia-de-lorem-ipsum.html</link>
@@ -136,86 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
 <category>Sin nombre</category>
 <description><![CDATA[Recuerdos que me trae esta época del año.<br><br><strong>Fuente:</strong> Sin nombre]]></description>
-</item>
-<item>
-<title>Configuración de age en Spacemacs</title>
-<link>https://jdrm.info/configuracion-de-age-en-spacemacs.html</link>
-<guid isPermaLink="true">https://jdrm.info/configuracion-de-age-en-spacemacs.html</guid>
-<pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-<category>JDRM</category>
-<description><![CDATA[Mis notas sobre cómo configurar el cifrado mediante age en Spacemacs<br><br><strong>Fuente:</strong> JDRM]]></description>
-</item>
-<item>
-<title>Es necesario un dominio?</title>
-<link>https://vctrsnts.codeberg.page/posts/2026-06-04-es-necesario-dominio/</link>
-<guid isPermaLink="true">https://vctrsnts.codeberg.page/posts/2026-06-04-es-necesario-dominio/</guid>
-<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-<category>Si lo haces, hazlo bien!</category>
-<description><![CDATA[Nota Esta es una pregunta que me hago muchas veces desde hace un par de años. Lo podéis comprobar en los propósitos de Año Nuevo 😅 La duda es bastante directa: ¿merece la pena tener un dominio propio para un blog personal donde vas guardando apuntes, errores, incidencias, mejoras y cosas que vas a<br><br><strong>Fuente:</strong> Si lo haces, hazlo bien!]]></description>
-</item>
-<item>
-<title>Un año viviendo solo</title>
-<link>https://blog.luiscarlospando.com/personal/2026/06/un-ano-viviendo-solo/</link>
-<guid isPermaLink="true">https://blog.luiscarlospando.com/personal/2026/06/un-ano-viviendo-solo/</guid>
-<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-<category>Luis Carlos Pando</category>
-<description><![CDATA[Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋<br><br><strong>Fuente:</strong> Luis Carlos Pando]]></description>
-</item>
-<item>
-<title>Librecan 2026</title>
-<link>https://www.end3r.es/posts/020-librecan-2026/</link>
-<guid isPermaLink="true">https://www.end3r.es/posts/020-librecan-2026/</guid>
-<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-<category>End3r.es</category>
-<description><![CDATA[Hace apenas unos días, concretamente el 30 de Mayo, se ha celebrado por segundo año consecutivo el evento Librecan. El año pasado no pude asistir por motivos familiares, así que esta ha sido mi primera vez, y como tal, tenía en general unas expectativas buenas pero lo que encontré fue algo que super<br><br><strong>Fuente:</strong> End3r.es]]></description>
-</item>
-<item>
-<title>¿Newsletter o RSS?</title>
-<link>https://matizeta.com/2026/06/03/newsletter-o-rss/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/06/03/newsletter-o-rss/</guid>
-<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[¿Cuál medio es de tu preferencia para informarte? Newsletter o RSS?<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>Una suite para crear un archivo completo de tu vida digital</title>
-<link>https://matizeta.com/2026/06/03/un-suite-para-crear-un-archivo-completo-de-tu-vida-digital/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/06/03/un-suite-para-crear-un-archivo-completo-de-tu-vida-digital/</guid>
-<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Hace algunas semanas hablé sobre una persona que creó una Wikipedia&amp;#160;(utilizando IA con información personal) con algunos momentos de su vida y su familia. Timelinze va por esa misma línea:&amp;#160;es una suite de archivo personal de código abierto, diseñada para la historia familiar moderna: organ<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>La Cinta Costera</title>
-<link>https://altgr.xyz/2026/06/03/la-cinta-costera/</link>
-<guid isPermaLink="true">https://altgr.xyz/2026/06/03/la-cinta-costera/</guid>
-<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-<category>Eterno aprendiz</category>
-<description><![CDATA[Una caminata el sábado por la cinta costera el sábado por la tarde resultó un paseo muy agradable. Es un punto de encuentro tranquilo y familiar, lleno de gente haciendo deporte, vendedores, niños jugando y lindos paisajes urbanos. Ellos también tienen un reloj de flores que evidentemente es una cop<br><br><strong>Fuente:</strong> Eterno aprendiz]]></description>
-</item>
-<item>
-<title>Bonus de Panamá Viejo</title>
-<link>https://altgr.xyz/2026/06/03/bonus-de-panama-viejo/</link>
-<guid isPermaLink="true">https://altgr.xyz/2026/06/03/bonus-de-panama-viejo/</guid>
-<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-<category>Eterno aprendiz</category>
-<description><![CDATA[Vista desde Panamá Viejo hacia los rascacielos del Panamá moderno a través de los árboles. Me pareció digno de registrar para el recuerdo.<br><br><strong>Fuente:</strong> Eterno aprendiz]]></description>
-</item>
-<item>
-<title>Panamá Viejo</title>
-<link>https://altgr.xyz/2026/06/03/panama-viejo/</link>
-<guid isPermaLink="true">https://altgr.xyz/2026/06/03/panama-viejo/</guid>
-<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-<category>Eterno aprendiz</category>
-<description><![CDATA[Panamá Viejo se llama a las ruinas de la ciudad que fue fundada por los españoles y que luego se trasladó a la ubicación actual tras el ataque de piratas ingleses. Destaca la torre de la catedral, restaurada con una escalera que permite&amp;#160; observar las ruinas y parte de la ciudad nueva desde la a<br><br><strong>Fuente:</strong> Eterno aprendiz]]></description>
-</item>
-<item>
-<title>nslookup: consulta los servidores DNS</title>
-<link>https://voidnull.es/ns/</link>
-<guid isPermaLink="true">https://voidnull.es/ns/</guid>
-<pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[Aprende a utilizar el comando nslookup en GNU/Linux para consultar registros DNS, resolver dominios, diagnosticar problemas de red y verificar servidores DNS mediante ejemplos prácticos y opciones avanzadas.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
 </item>
 
 </channel>
