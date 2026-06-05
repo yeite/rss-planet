@@ -1,5 +1,75 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Usar claves asiméticas SSH con gitlab",
+    "link": "https://malagaoriginal.blogspot.com/2026/09/usar-claves-asimeticas-ssh-con-gitlab.html",
+    "fecha": "05/06/2026",
+    "contenido": "GitLab ya no permite subir por https los cambios en tus repositorios, por lo que hay que utilizar métodos \"más seguros\", aunque se puede crear un token para salir el paso, no lo recomiendo porque es \"pan para hoy y hambre para mañana\", ya puestos usamos claves asimétricas SSH.Si NO las tienes creada"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "La ideología y la vida.",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/la-ideologia-y-la-vida/",
+    "fecha": "05/06/2026",
+    "contenido": "Hace unos días asistí a una graduación de Bachillerato. Este año he tenido el dudoso honor de ser tutora de un grupo y profesora de dos completos y otros 2 parcialmente. No había manera de escaparse. \nTampoco tenía ganas de hacerlo, ojo. Aunque este tipo de eventos me dan una soberana pereza y suelo"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Artículo: Un poco sobre los Chat Bots (Parte 1)",
+    "link": "https://interlan.ec/blog/2026/06/05/articulo-un-poco-sobre-los-chat-bots/",
+    "fecha": "05/06/2026",
+    "contenido": "Dependiendo de cual es tu entorno en el que navegas, es posible que te hayas encontrado con bots en un contexto malicioso, beneficioso o neutral. Hoy quiero hablarte de los que mas me gustan, los que hasta una mayor investigación llamaremos, «ChatBots Utilitarios» Introducción Como siempre, comenzar"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Este 2026 WordPress no lanzará un theme oficial",
+    "link": "https://matizeta.com/2026/06/05/sin-theme-oficial-por-parte-de-wordpress/",
+    "fecha": "05/06/2026",
+    "contenido": "Este año 2026 WordPress no lanzará el theme oficial que nos tiene acostumbrados desde el 2010. Al igual que el 2018, que tampoco realizaron un theme anual, este 2026 tampoco habrá uno y eso se debe a la hoja de ruta que lleva adelante el equipo de WordPress. Suelo esperar con cierta expectativa cada"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "557. Anímico",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/06/557-animico.html",
+    "fecha": "05/06/2026",
+    "contenido": "&nbsp; &nbsp; ¿Se puede morir de tristeza? ¿Se puede morir por el llamado síndrome del corazón roto?&nbsp; &nbsp; Tal denominación no es ciencia ficción, ni literatura trasnochada, ni obra de un poetastro. La comunidad médica y científica no acaba de discernir la causa exacta de esta clase de miocar"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Protege el acceso SSH de tus servidores con SoloKey",
+    "link": "https://voidnull.es/protege-el-acceso-ssh-de-tus-servidores-con-solokey/",
+    "fecha": "05/06/2026",
+    "contenido": "SoloKey es una llave de seguridad hardware compatible con FIDO2 y U2F."
+  },
+  {
+    "blog": "56K",
+    "titulo": "TEO mea en los baños del congreso",
+    "link": "https://56k.es/fanta/teo-mea-en-los-banos-del-congreso/",
+    "fecha": "05/06/2026",
+    "contenido": "Efectivamente ayer hablamos en el Congreso de los diputados como TuNubeSecaMiRío invitados por Izquierda Unida (que pertenece en el momento de escribir estas líneas al grupo parlamentario Sumar). Habló Aurora Goméz (la que sale en la foto) como portavoz del colectivo y yo fui a ver si podía tomarme "
+  },
+  {
+    "blog": "Estás Interfiriendo con mi Zen.",
+    "titulo": "Elecciones Colombia 2026",
+    "link": "https://edgarmtoro.wordpress.com/2026/06/05/elecciones-colombia-2026/",
+    "fecha": "05/06/2026",
+    "contenido": "Repasando las entradas del blog, noto que cada vez escribo menos sobre las elecciones en Colombia. Antes, analizaba la primera y la segunda vuelta, ahora, ya no me queda aire. Para que nos molestamos con una ilusión de soberanía y democracia? Por lo general este tipo de apoyo sería radioactivo en un"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #944",
+    "link": "https://www.fabio.com.ar/9957-links-de-viernes---944",
+    "fecha": "05/06/2026",
+    "contenido": "     Viernes, la semana llega a su fin\nAqu&iacute; estamos, otra semana se agota, comienza el finde, tu cerebro cambia de modalidad a una m&aacute;s activa, alegre, personal, para cuando logr&aacute;s el cambio es domingo a las 19hs y te deprim&iacute;s &iquest;El ant&iacute;doto? Links! Muchos link"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho",
+    "link": "https://www.delotroladometal.com.ar/2026/06/05/heavy-metal-hecho-y-derecho/",
+    "fecha": "05/06/2026",
+    "contenido": "(2023 &#8211; Retroactive Records) Otra joya rescatada más, y van. Cuanto material de los ´80...\nThe post Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "JavierSam",
     "titulo": "La verdadera historia de Lorem Ipsum…",
     "link": "https://javiersam.uy/2026/06/la-verdadera-historia-de-lorem-ipsum.html",
@@ -117,6 +187,13 @@
     "link": "https://jdrm.info/configuracion-de-age-en-spacemacs.html",
     "fecha": "04/06/2026",
     "contenido": "Mis notas sobre cómo configurar el cifrado mediante age en Spacemacs"
+  },
+  {
+    "blog": "Diego's Island.",
+    "titulo": "¿Dónde encontrar Blogs?",
+    "link": "https://diegoaep.codeberg.page/lee-blogs/",
+    "fecha": "04/06/2026",
+    "contenido": "Encontrar buenos blogs hoy en día es difícil, pero nunca será imposible. Después de leer esta publicación tu búsqueda será más fácil."
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -270,7 +347,7 @@
     "titulo": "El blog ya forma parte del fediverso",
     "link": "https://thecheis.com/2026/06/02/el-blog-ya-forma-parte-del-fediverso/",
     "fecha": "02/06/2026",
-    "contenido": "EDITADO 4 DE JUNIO 2026: La cuenta del blog en el fediverso parece experimentar algunos problemas, como retrasos en las publicaciones y comentarios anidados. Esto es algo conocido y frecuentemente reportado en WordPress, y depende de múltiples factores. Durante estos 3 años el blog ha crecido de for"
+    "contenido": "EDITADO 4 DE JUNIO 2026: La cuenta del blog en el fediverso parece que a veces presenta algunos problemas, como retrasos en las publicaciones y comentarios anidados. Esto es algo conocido y frecuentemente reportado en WordPress, y depende de múltiples factores. Durante estos 3 años el blog ha crecid"
   },
   {
     "blog": "Victorhck in the free world",
@@ -784,32 +861,11 @@
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
-    "blog": "Interlan",
-    "titulo": "Desarme: Generador de Palanca para Celular",
-    "link": "https://interlan.ec/blog/2026/05/29/desarme-generador-de-palanca-para-celular/",
-    "fecha": "29/05/2026",
-    "contenido": "De nuestro inmenso repositorio de «cosas chinas truchas» traemos esta vez un generador de palanca para celulares. Por supuesto, es inútil, pero es curioso como le echaron algo de ganas al diseño del circuito. Introducción Este sera otro post corto. No tanto porque sea pereza, que si, sino porque rea"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "El viaje galáctico – Mi experiencia con el THC",
-    "link": "https://gatooscuro.xyz/el-viaje-galactico-mi-experiencia-con-el-thc/",
-    "fecha": "29/05/2026",
-    "contenido": "Nota:&#160;no incentivo el uso de ninguna droga; más bien, les cuento qué NO deben hacer en caso de que su curiosidad sea más fuerte que la razón. Aprendan de ello.\nSeguir leyendo  El viaje galáctico &#8211; Mi experiencia con el THC\nEl cargo El viaje galáctico &#8211; Mi experiencia con el THC apar"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "#Streaming: Warped Tour CDMX Warm-Up",
     "link": "https://blog.luiscarlospando.com/musica/2026/05/streaming-warped-tour-cdmx-warm-up/",
     "fecha": "29/05/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Webs que descubrí #4",
-    "link": "https://matizeta.com/2026/05/29/webs-que-descubri-4/",
-    "fecha": "29/05/2026",
-    "contenido": "10 webs que descubrí y me parecieron interesantes para compartir. Si conoces alguna que creas que pueda resultar útil, podés compartírmela. No Susbscription Explorá cientos de herramientas de código abierto y sin suscripción, gratuitas o de pago único. The index of indexes Gracias Jandi un lector de"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -826,80 +882,10 @@
     "contenido": "Reproductor de radio por Internet libre, ligero y sin distracciones, centrado en escuchar y nada más."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Trisquel 12.0 &quot;Ecne&quot; #ViernesDeDistros",
-    "link": "https://voidnull.es/instalacion-de-trisquel-12-0-ecne-viernesdedistros/",
-    "fecha": "29/05/2026",
-    "contenido": "Guía completa para instalar Trisquel 12, una distribución GNU/Linux libre, paso a paso desde la descarga hasta la configuración inicial del sistema."
-  },
-  {
     "blog": "Diana                                                   Laurencich",
     "titulo": "Reflexiones en el otoño de la vida",
     "link": "https://dianalaurencich.wordpress.com/2026/05/29/reflexiones-en-el-otono-de-la-vida/",
     "fecha": "29/05/2026",
     "contenido": "Es un día gris. Tengo que salir, hacer compras y doy vueltas. Es algo que desde hace tanto tiempo aborrezco tanto como antes me gustaba. Siempre creí que había heredado el gusto de mi madre por hacerlas, pero fue al revés. Mamá, cuando éramos chicos y ella joven, no le gustaban las compras. Nos mand"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Friends with Cameras: Luis Yang",
-    "link": "https://www.ericafustero.com/2026-05-friends-with-cameras-luis-yang",
-    "fecha": "29/05/2026",
-    "contenido": "Esto es&#160;Friends with cameras, una serie de entrevistas para hablar de fotografía con gente cuyas fotos me inspiran a seguir fotografiando. Conocí a Luis Yang en Valencia, cuando coincidimos estudiando en la universidad. En aquel momento, Luis publicaba cómics en Fanzine Nimio y yo aún no sabía "
-  },
-  {
-    "blog": "",
-    "titulo": "Podcast de Radio Rebel Gael.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/05/29/podcast-de-radio-rebel-gael/",
-    "fecha": "29/05/2026",
-    "contenido": "https://podcasts.com/radio-rebel-gael-962c3e936/episode/meitheal"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Aventuras gráficas no tan típicas – Vol 2",
-    "link": "https://56k.es/fanta/aventuras-graficas-no-tan-tipicas-vol-2/",
-    "fecha": "29/05/2026",
-    "contenido": "Hace un tiempo que escribí el Vol 1 de «Aventuras gráficas no tan típicas» y creo que me dejé mucho en el tintero que merece mencionarse. Sin más dilación creo que vamos a dar paso e ir directamente al grano sin contemplaciones ni rellenos. &#160; 3 Minutes to Midnight Amazon: Guardians of Eden Gray"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #943",
-    "link": "https://www.fabio.com.ar/9952-links-de-viernes---943",
-    "fecha": "29/05/2026",
-    "contenido": "     Paciencia, la semana termina\nBueno, bueno, bueno, ya estoy cansado de esta semana corta :P es que tuve trabajo, cosas, gimnasio, cumplea&ntilde;os, vejez, humedad, d&iacute;as nublados, mucho caf&eacute; para compensar, es hora de retirarnos a nuestros aposentos mentales y qu&eacute; mejor que "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "In Conquered: The Golgotha Chronicles | La Historia Más Bella Y Más Extrema",
-    "link": "https://www.delotroladometal.com.ar/2026/05/29/la-historia-mas-bella-y-mas-extrema/",
-    "fecha": "29/05/2026",
-    "contenido": "(2024 &#8211; Vision Of God Records) Evidentemente llevar una historia como la de Jesucristo y...\nThe post In Conquered: The Golgotha Chronicles | La Historia Más Bella Y Más Extrema first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪁 El Jardín Digital",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
-    "fecha": "29/05/2026",
-    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌱 ¿Cuánto tiempo tenemos?",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-%C2%BFCu%C3%A1nto-tiempo-tenemos",
-    "fecha": "29/05/2026",
-    "contenido": "Al parecer, Él quiere que algunos —pero sólo muy pocos— de los animales humanos con que está poblando el Cielo hayan tenido la experiencia de resistirnos a lo largo de una vida terrenal de sesenta o setenta años."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌱 ¿Dónde ves el Cielo vos?",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-%C2%BFD%C3%B3nde-ves-el-Cielo-vos",
-    "fecha": "29/05/2026",
-    "contenido": "Mientras son jóvenes, siempre les encontramos saliéndose por la tangente."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌷 Estás yendo muy rápido",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B7-Est%C3%A1s-yendo-muy-r%C3%A1pido",
-    "fecha": "29/05/2026",
-    "contenido": "—Los hombres —dijo el principito— se meten en los rápidos pero no saben dónde van ni lo que quieren… Entonces se agitan y dan vueltas… Y añadió: —¡No vale la pena!… 🌷 Dejar que a los otros les vaya bien y alegrarse con ellos.🪻 La resolución, el detalle…."
   }
 ]
