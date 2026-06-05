@@ -1,5 +1,12 @@
 [
   {
+    "blog": "JavierSam",
+    "titulo": "La verdadera historia de Lorem Ipsum…",
+    "link": "https://javiersam.uy/2026/06/la-verdadera-historia-de-lorem-ipsum.html",
+    "fecha": "05/06/2026",
+    "contenido": "Fantástico video de Emily Lin Zhang (de Rabbit Hole) que resume su profunda y reveladora investigación sobre el famoso texto de prueba “Lorem Ipsum”. Hay que mirarlo y con atención:"
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Clientes Jabber/XMPP para macOS",
     "link": "https://adrianperales.com/2026/06/clientes-jabber-xmpp-para-macos/",
@@ -25,7 +32,21 @@
     "titulo": "El mínimo producto viable para la vida",
     "link": "https://matizeta.com/2026/06/04/el-minimo-producto-viable-para-la-vida/",
     "fecha": "04/06/2026",
-    "contenido": "Una de las enseñanzas más importantes que me dejó el curso de UX que hace algunos años es conocer el termino en profundidad de MVP. Vayamos por partes porque hay muchas siglas en sólo dos renglones. Para empezar UXX (User Experience,&#160; &#160;es una materia que estudia, analiza y en consecuencia "
+    "contenido": "Una de las enseñanzas más importantes que me dejó el curso de UX que hace algunos años es conoceren profundidad el termino MVP. Vayamos por partes porque hay muchas siglas en sólo dos renglones. Para empezar UXX (User Experience,&#160; &#160;es una materia que estudia, analiza y en consecuencia desa"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Suecia gastó millones en agua de emergencia que quizá no sirve para nada",
+    "link": "https://blog.danielaragay.net/suecia-gasto-millones-en-agua-de-emergencia-que-quiza-no-sirve-para-nada/",
+    "fecha": "04/06/2026",
+    "contenido": "\nLoading the Elevenlabs Text to Speech AudioNative Player...\n\nEl esc&#xe1;ndalo del agua &quot;Istid&quot; y lo que revela sobre c&#xf3;mo los Estados modernos confunden prepararse con parecer preparados.Resumen en v&#xed;deo:Hay una imagen que resume bien el problema que voy a contarte."
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "F&F Tower",
+    "link": "https://altgr.xyz/2026/06/04/ff-tower/",
+    "fecha": "04/06/2026",
+    "contenido": "¿Es una broca? ¿Es un tornillo? ¡No! Es un edificio. Conocido justamente como &#8220;El tornillo&#8221;, su nombre oficial es F&#38;F Tower y es uno de los edificios emblemáticos en Ciudad de Panamá."
   },
   {
     "blog": "Eterno aprendiz",
@@ -39,7 +60,7 @@
     "titulo": "«The One»",
     "link": "https://www.xn--jmuoz-qta.es/2026/06/the-one.html",
     "fecha": "04/06/2026",
-    "contenido": "Hay una pregunta que todos los españoles deberíamos hacerse después de conocer las últimas revelaciones de la investigación sobre las llamadas cloacas de la PSOE. No es si Leire Díez cobró dinero del partido, tampoco es si Santos Cerdán dirigía determinadas operaciones, ni siquiera es si algunos dir"
+    "contenido": "Hay una pregunta que todos los españoles deberíamos hacernos después de conocer las últimas revelaciones de la investigación sobre las llamadas cloacas de la PSOE. No es si Leire Díez cobró dinero del partido, tampoco es si Santos Cerdán dirigía determinadas operaciones, ni siquiera es si algunos di"
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -70,6 +91,13 @@
     "contenido": "     Por ah&iacute; parece demasiado, pero es la ruleta\nJueves, semana completita, mucho posteo, mucho comentario, cambios en el registro del blog, env&iacute;os masivos de emails para avisar que actualicen contrase&ntilde;as, gente puteando, gente put&eacute;andome, gente ignor&aacute;ndome, pero a"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Prevailer Presenta Su Álbum Debut | Metalcore Con Una Vuelta De Rosca",
+    "link": "https://www.delotroladometal.com.ar/2026/06/04/metalcore-con-una-vuelta-de-rosca/",
+    "fecha": "04/06/2026",
+    "contenido": "Si sos de los que piensan que el Metalcore es siempre, mas o menos lo...\nThe post Prevailer Presenta Su Álbum Debut | Metalcore Con Una Vuelta De Rosca first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Sin nombre",
     "titulo": "Veinticinco",
     "link": "https://martinvukovic.com/posts/2026/06-03-veinticinco.html",
@@ -89,6 +117,13 @@
     "link": "https://jdrm.info/configuracion-de-age-en-spacemacs.html",
     "fecha": "04/06/2026",
     "contenido": "Mis notas sobre cómo configurar el cifrado mediante age en Spacemacs"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Es necesario un dominio?",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-06-04-es-necesario-dominio/",
+    "fecha": "03/06/2026",
+    "contenido": "\nNota\nEsta es una pregunta que me hago muchas veces desde hace un par de años. Lo podéis comprobar en los propósitos de Año Nuevo 😅\n\nLa duda es bastante directa: ¿merece la pena tener un dominio propio para un blog personal donde vas guardando apuntes, errores, incidencias, mejoras y cosas que vas a"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -210,6 +245,20 @@
     "contenido": "    \nHace poco hab&iacute;a utilizado la met&aacute;fora del \"virus gallego\" para un hack que requer&iacute;a de la intervenci&oacute;n del usuario, pura ingenier&iacute;a social, pero ahora tengo otro caso mucho peor, m&aacute;s ejemplificador de lo tontos que podemos ser los humanos.\nLa cuesti&oac"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera",
+    "link": "https://www.delotroladometal.com.ar/2026/06/03/se-viene-la-tercera/",
+    "fecha": "03/06/2026",
+    "contenido": "Su primer trabajo fue &#8220;All Will Bow&#8221; en 2022, y el año pasado liberaron &#8220;Slingshot&#8221;,...\nThe post Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Ser un CEO transparente",
+    "link": "https://dani.torresburriel.com/ser-un-ceo-transparente/",
+    "fecha": "03/06/2026",
+    "contenido": "Me está empezando a dar un poco de miedo porque me ha dado cuenta que hace ya varios días, demasiados, que no me pasaba a escribir por aquí. Hay varias razones para que eso sea así, pero es que tampoco quiero que suene a excusa. En todo caso, como un blog personal es eso, un &#8230; Sigue leyendo Se"
+  },
+  {
     "blog": "Salva Más De Cerca",
     "titulo": "¿Algo más?",
     "link": "https://salvamir.github.io/algo-mas",
@@ -221,7 +270,7 @@
     "titulo": "El blog ya forma parte del fediverso",
     "link": "https://thecheis.com/2026/06/02/el-blog-ya-forma-parte-del-fediverso/",
     "fecha": "02/06/2026",
-    "contenido": "Durante estos 3 años el blog ha crecido de forma ininterrumpida y orgánica, algo que hasta a mí mismo me sorprende teniendo en cuenta que este formato ya no es popular. Los números son bajos si los comparamos con otras plataformas, pero es un detalle que valoro mucho y más cuando se mantienen establ"
+    "contenido": "EDITADO 4 DE JUNIO 2026: La cuenta del blog en el fediverso parece experimentar algunos problemas, como retrasos en las publicaciones y comentarios anidados. Esto es algo conocido y frecuentemente reportado en WordPress, y depende de múltiples factores. Durante estos 3 años el blog ha crecido de for"
   },
   {
     "blog": "Victorhck in the free world",
@@ -336,6 +385,13 @@
     "contenido": "El fin de semana pasado me puse a jugar a Mega Man X en Super Nintendo. Es uno de mis juegos preferidos, de los mejores de todos los tiempos. ¿Ustedes también juegan con los dedos en el control así? El pulgar lo uso para tener siempre cargando el mega buster en el Y, y saltar con el B. Pero la mayor"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Abisur: Furor | La Vieja Furia Es Brasileña",
+    "link": "https://www.delotroladometal.com.ar/2026/06/02/la-vieja-furia-es-brasilena/",
+    "fecha": "02/06/2026",
+    "contenido": "(2026 &#8211; Kongsblod Records) Con una pulida mezcla de Thrash Metal llevada al extremo del...\nThe post Abisur: Furor | La Vieja Furia Es Brasileña first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "DESDE UN BALCÓN DE MADRID",
     "titulo": "94 – El día en que me desperté y habías vuelto",
     "link": "https://empiezaen2023.wordpress.com/2026/06/03/94-el-dia-que-me-desperte-y-habias-vuelto/",
@@ -368,7 +424,14 @@
     "titulo": "Yo, Julia",
     "link": "https://vsantos.envs.net/posts/yo-julia/",
     "fecha": "01/06/2026",
-    "contenido": ""
+    "contenido": "192 d. C. Varios hombres luchan por un imperio, pero Julia, hija de reyes, madre de césares y esposa de emperador, piensa en algo más ambicioso: una dinastía."
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Análisis de riesgos de la tecnología NFC en Android",
+    "link": "https://alt43.es/analisis-de-riesgos-de-la-tecnologia-nfc-en-android/",
+    "fecha": "01/06/2026",
+    "contenido": "El chip NFC del teléfono móvil está diseñado para intercambiar datos a escasos centímetros de distancia. La gran mayoría de veces de forma legítima; pero también existen escenarios teóricos y documentados, donde esa emisión se acaba por convertir en una vulnerabilidad real."
   },
   {
     "blog": "matizeta",
@@ -439,6 +502,13 @@
     "link": "https://www.fabio.com.ar/9953-md5-el-rey-muerto-y-olvidado",
     "fecha": "01/06/2026",
     "contenido": "    \nEste puede sonar a posteo para nardos, pero les aseguro que, aunque no sepas nada de programaci&oacute;n, tiene que ver con la seguridad de las contrase&ntilde;as de todos.\nHace muchos, muchos a&ntilde;os me hab&iacute;a comprado un libro de programaci&oacute;n en PHP 3 y aprend&iacute; qu&eacu"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Ciencia Ficción Ya No Es Tan Ficción…",
+    "link": "https://www.delotroladometal.com.ar/2026/06/01/la-ciencia-ficcion-ya-no-es-tan-ficcion/",
+    "fecha": "01/06/2026",
+    "contenido": "A veces pienso que la ciencia ficción, ya nos alcanzó. Que todo lo que alguna...\nThe post La Ciencia Ficción Ya No Es Tan Ficción… first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Loveof74",
@@ -539,13 +609,6 @@
     "contenido": "Esto no lo escribo desde la teoría. Llevo meses con las manos metidas en dos experimentos que son, cada uno a su manera, una respuesta a un mismo problema. Uno es una colección de evaluadores epistémicos: piezas pequeñas que miran una conversación y miden cosas como si el sistema se contradice consi"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Una semana en Panamá",
-    "link": "https://altgr.xyz/2026/05/31/una-semana-en-panama/",
-    "fecha": "31/05/2026",
-    "contenido": "Hoy termina una visita de una semana por Panamá. Fueron unos días agotadores, intensos, pero muy agradables también. No fue un viaje de vacaciones, pero aún así aproveché de disfrutar y conocer un poco. En las próximas publicaciones compartiré algunos de los lugares que visité."
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "Ping #25: Actualizaciones, novedades y ranking de distros",
     "link": "https://voidnull.es/ping-25-actualizaciones-novedades-y-ranking-de-distros/",
@@ -572,6 +635,13 @@
     "link": "https://edgarmtoro.wordpress.com/2026/05/31/24-horas-con-pi-hole/",
     "fecha": "31/05/2026",
     "contenido": "Entonces, la curiosidad pudo más y terminé instalando (facilmente, cabe decir) Pi-Hole. El setup es improvisado, y no lo recomendaría para larga duración. Basicamente un PC, corriendo TrueNAS Community 25.10.3.1 &#8220;GoldEye&#8221;, y Pi-Hole 1.4.10 como un contenedor. El problema con esta configu"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda…",
+    "link": "https://www.delotroladometal.com.ar/2026/05/31/el-nacimiento-de-una-leyenda/",
+    "fecha": "31/05/2026",
+    "contenido": "(1990 &#8211; Intense Records) Apuesto a quien sea que a la hora de poner a...\nThe post Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda… first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -609,6 +679,13 @@
     "contenido": "Marknote es una aplicación de la comunidad KDE para escrirbir notas en formato Markdown"
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Un Poeta",
+    "link": "https://gatooscuro.xyz/un-poeta/",
+    "fecha": "30/05/2026",
+    "contenido": "Me acabo de ver la película Un Poeta y realmente la recomiendo. Fue especialmente conmovedor ver a un artista intentar superarse a sí mismo. Además de tratar de hacer lo\nSeguir leyendo  Un Poeta\nEl cargo Un Poeta apareció primero en El cuarto de GatoOscuro."
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "Migrar a Linux: tres aspectos que debes tener en cuenta",
     "link": "https://tecnoysoft.com/2026/05/30/migrar-a-linux-tres-aspectos-que-debes-tener-en-cuenta/",
@@ -628,6 +705,13 @@
     "link": "https://www.macram.es/musica/finisterra-mago-de-oz/",
     "fecha": "30/05/2026",
     "contenido": "Hoy escuché de principio a fin uno de los discos que más quemé en mi adolescencia. Finisterra fue punto de inflexión dentro de la carrera de Mägo de Oz (uno de los grupos que formaron más parte de mi adolescencia y a los que vuelvo de cuando en cuando), el prólogo perfecto a su trilogía Gaia y un di"
+  },
+  {
+    "blog": "productor de sostenibilidad",
+    "titulo": "Seguir usando tu viejo Kindle después de Amazon",
+    "link": "https://productordesostenibilidad.es/2026/05/seguir-usando-tu-viejo-kindle-despues-de-amazon/",
+    "fecha": "30/05/2026",
+    "contenido": "Siguiendo la línea de Windows, Amazon quiere forzarte a comprar un nuevo dispositivo. Pero no te preocupes, a tu viejo Kindle le quedan tantas sesiones de lectura como tengas a bien disfrutar en él. Dice Amazon que, desde el 20 de mayo de 2026, deja de ofrecer soporte para e-readers Kindle que se ha"
   },
   {
     "blog": "danielaragay.net",
@@ -665,6 +749,13 @@
     "contenido": "\n  El humor nunca es f&#225;cil. Su dificultad tiene cierta correlaci&#243;n con su efectividad, pero hay humor sin esfuerzo que nos puede matar de un ataque de risa. Quiz&#225; Takeshi Kitano tiene raz&#243;n en que, como la violencia, el mejor humor es el que nos pilla desprevenidos.\n  Hacks (HBO,"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Historia De Tyraels Ascension Continua Con \"Grave Seeker\" | Se Abre Un Nuevo Capítulo",
+    "link": "https://www.delotroladometal.com.ar/2026/05/30/se-abre-un-nuevo-capitulo/",
+    "fecha": "30/05/2026",
+    "contenido": "Es raro encontrar material que se enraíce en una historia conceptual dentro de lo que...\nThe post La Historia De Tyraels Ascension Continua Con \"Grave Seeker\" | Se Abre Un Nuevo Capítulo first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "JavierSam",
     "titulo": "Marcos de texto en Scribus",
     "link": "https://javiersam.uy/2026/05/marcos-de-texto-en-scribus.html",
@@ -698,6 +789,13 @@
     "link": "https://interlan.ec/blog/2026/05/29/desarme-generador-de-palanca-para-celular/",
     "fecha": "29/05/2026",
     "contenido": "De nuestro inmenso repositorio de «cosas chinas truchas» traemos esta vez un generador de palanca para celulares. Por supuesto, es inútil, pero es curioso como le echaron algo de ganas al diseño del circuito. Introducción Este sera otro post corto. No tanto porque sea pereza, que si, sino porque rea"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "El viaje galáctico – Mi experiencia con el THC",
+    "link": "https://gatooscuro.xyz/el-viaje-galactico-mi-experiencia-con-el-thc/",
+    "fecha": "29/05/2026",
+    "contenido": "Nota:&#160;no incentivo el uso de ninguna droga; más bien, les cuento qué NO deben hacer en caso de que su curiosidad sea más fuerte que la razón. Aprendan de ello.\nSeguir leyendo  El viaje galáctico &#8211; Mi experiencia con el THC\nEl cargo El viaje galáctico &#8211; Mi experiencia con el THC apar"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -770,6 +868,13 @@
     "contenido": "     Paciencia, la semana termina\nBueno, bueno, bueno, ya estoy cansado de esta semana corta :P es que tuve trabajo, cosas, gimnasio, cumplea&ntilde;os, vejez, humedad, d&iacute;as nublados, mucho caf&eacute; para compensar, es hora de retirarnos a nuestros aposentos mentales y qu&eacute; mejor que "
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "In Conquered: The Golgotha Chronicles | La Historia Más Bella Y Más Extrema",
+    "link": "https://www.delotroladometal.com.ar/2026/05/29/la-historia-mas-bella-y-mas-extrema/",
+    "fecha": "29/05/2026",
+    "contenido": "(2024 &#8211; Vision Of God Records) Evidentemente llevar una historia como la de Jesucristo y...\nThe post In Conquered: The Golgotha Chronicles | La Historia Más Bella Y Más Extrema first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Salva Más De Cerca",
     "titulo": "🪁 El Jardín Digital",
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
@@ -796,12 +901,5 @@
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B7-Est%C3%A1s-yendo-muy-r%C3%A1pido",
     "fecha": "29/05/2026",
     "contenido": "—Los hombres —dijo el principito— se meten en los rápidos pero no saben dónde van ni lo que quieren… Entonces se agitan y dan vueltas… Y añadió: —¡No vale la pena!… 🌷 Dejar que a los otros les vaya bien y alegrarse con ellos.🪻 La resolución, el detalle…."
-  },
-  {
-    "blog": "La Loica",
-    "titulo": "Fanzines Chikes",
-    "link": "https://laloica.noblogs.org/fanzines-chikes/",
-    "fecha": "28/05/2026",
-    "contenido": "Holi! con mucho cariño hoy les comparto esta serie de 3 fanzines ilustrados inspirados en pequeñas historias y recuerdos junto a mis hijes. Cada fanzine reúne una historia distinta: una de Violeta, una de Mathi y una de León, acompañadas por ilustraciones realizadas por mí. Puedes conseguir este pac"
   }
 ]
