@@ -675,8 +675,8 @@
   },
   {
     "Nombre": "yejokjanan",
-    "Url": "https://blog.yejokjanan.xyz",
-    "Feed": "https://blog.yejokjanan.xyz/rss/",
+    "Url": "https://yejokjanan.xyz",
+    "Feed": "https://yejokjanan.xyz/feed.xml",
     "Descripción": "Un blog personal",
     "Categoría": "Tecnología, Vida Diaria",
     "País": "Colombia"
@@ -1026,6 +1026,7 @@
   {
     "Nombre": "NeoSite Blog",
     "Url": "https://blog.neosite.com.ar",
+    "Webring": "https://blog.neosite.com.ar",
     "Feed": "https://blog.neosite.com.ar/rss.xml",
     "Descripción": "Software libre tecnología y más",
     "Categoría": "Tecnología",
@@ -1204,6 +1205,7 @@
   {
     "Nombre": "Seyker",
     "Url": "https://seyker.eu/blog/",
+    "Webring": "https://seyker.eu/",
     "Feed": "https://seyker.eu/feed/",
     "Descripción": "Blog principalmente de crítica cultural en la que me dejo llevar mucho por los temas que emanan de cada obra, a veces generando algo más que una reseña, una reflexión. De forma puntual hay otros temas como economía en videojuegos, política, movilidad, etc",
     "Categoría": "Sociedad y Economía, Entretenimiento y Cultura",
@@ -1269,6 +1271,7 @@
   {
     "Nombre": "El quiróptero amanuense",
     "Url": "https://quiroptero.blog",
+    "Webring": "https://quiroptero.blog",
     "Feed": "https://quiroptero.blog",
     "Descripción": "Es un blog personal, principalmente publico sobre cosas que pienso o que hago, pero también me sirve para llevar un registro de los libros que leo (y los que tengo), las pelis que veo, lo que estoy haciendo actualmente...",
     "Categoría": "Literario, Fotografía, Viajes, Vida Diaria",
