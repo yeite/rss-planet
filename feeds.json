@@ -1,10 +1,52 @@
 [
   {
+    "blog": "56K",
+    "titulo": "Paradatos",
+    "link": "https://56k.es/fanta/los-paradatos/",
+    "fecha": "06/06/2026",
+    "contenido": "«Los metadatos te cuentan absolutamente todo sobre la vida de alguien» Stewart Baker (exasesor jurídico general de la NSA) «Matamos gente basándonos en metadatos» Michael Hayden (Ex-director de la NSA) Y razón no les falta, es verdad que matan gente y que los metadatos cuentan mucho pero &#8230;¿y l"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Un Nuevo CD Recopilación Está Ya Disponible | Primal Publica “Fin De Los Tiempos”",
+    "link": "https://www.delotroladometal.com.ar/2026/06/06/primal-publica-fin-de-los-tiempos/",
+    "fecha": "06/06/2026",
+    "contenido": "Hacía tiempo que no teníamos novedades de Primal, pero lo que aquí mismo habíamos anunciado...\nThe post Un Nuevo CD Recopilación Está Ya Disponible | Primal Publica “Fin De Los Tiempos” first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Archivos para el taller (5 de junio)",
+    "link": "https://javiersam.uy/2026/06/archivos-para-el-taller-5-de-junio.html",
+    "fecha": "06/06/2026",
+    "contenido": "Texto Fuentes Presentación"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Su primer día de playa VS hoy",
+    "link": "https://chancli.dev/blog/chancla-primer-dia-playa-vs-hoy.html",
+    "fecha": "06/06/2026",
+    "contenido": ""
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Usar claves asiméticas SSH con gitlab",
     "link": "https://malagaoriginal.blogspot.com/2026/09/usar-claves-asimeticas-ssh-con-gitlab.html",
     "fecha": "05/06/2026",
     "contenido": "GitLab ya no permite subir por https los cambios en tus repositorios, por lo que hay que utilizar métodos \"más seguros\", aunque se puede crear un token para salir el paso, no lo recomiendo porque es \"pan para hoy y hambre para mañana\", ya puestos usamos claves asimétricas SSH.Si NO las tienes creada"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Usando Podman - Apuntalando la base",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-06-06-usando-podman-3/",
+    "fecha": "05/06/2026",
+    "contenido": "Espero que este sea el último artículo sobre mis experiencias en la migración de Docker a Podman.\nComo recordaréis, en el anterior artículo habíamos instalado Traefik y CrowdSec, además de su integración en el sistema. Ahora lo que vamos a hacer es instalar PocketID y configurarlo junto con Traefik."
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 23 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/06/05/opensuse-tumbleweed-revision-de-la-semana-23-de-2026/",
+    "fecha": "05/06/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -22,6 +64,13 @@
   },
   {
     "blog": "matizeta",
+    "titulo": "Se fueron mis héroes",
+    "link": "https://matizeta.com/2026/06/05/se-fueron-mis-heroes/",
+    "fecha": "05/06/2026",
+    "contenido": "Me acompañaron durante mi vida: en la infancia y durante mi adolescencia hasta convertirme en un adulto. Me apoyé en ellos, me hacían sentir parte de algo, me dieron alegrías. Gracias a ellos tuve anécdotas y hermosos momentos que compartí con seres queridos, momentos que hoy puedo recordar con aleg"
+  },
+  {
+    "blog": "matizeta",
     "titulo": "Este 2026 WordPress no lanzará un theme oficial",
     "link": "https://matizeta.com/2026/06/05/sin-theme-oficial-por-parte-de-wordpress/",
     "fecha": "05/06/2026",
@@ -35,11 +84,39 @@
     "contenido": "&nbsp; &nbsp; ¿Se puede morir de tristeza? ¿Se puede morir por el llamado síndrome del corazón roto?&nbsp; &nbsp; Tal denominación no es ciencia ficción, ni literatura trasnochada, ni obra de un poetastro. La comunidad médica y científica no acaba de discernir la causa exacta de esta clase de miocar"
   },
   {
+    "blog": "danielaragay.net",
+    "titulo": "El clonado de voces: las ponemos a prueba con Rico",
+    "link": "https://blog.danielaragay.net/el-clonado-de-voces-las-ponemos-a-prueba-con-rico/",
+    "fecha": "05/06/2026",
+    "contenido": "Rico es el cr&#xed;tico de audio m&#xe1;s honesto que conozco. No se gira cuando lo llamo por tel&#xe9;fono y pasa ol&#xed;mpicamente cuando le llama el robot de fregar. Solo reacciona cuando la voz suena de verdad.As&#xed; que, con un buen"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "El Regreso del Guerrero",
+    "link": "https://altgr.xyz/2026/06/05/el-regreso-del-guerrero/",
+    "fecha": "05/06/2026",
+    "contenido": "Volvemos a las andanzas concertísticas con el regreso a los escenarios del guerrero Angelo Pierattini, después del accidente que sufrió a finales del año pasado. Un concierto muy emotivo en el Teatro Nescafé de las Artes, donde por primera vez presentó un show con sus dos facetas: Comenzando con un "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Pixelix: cliente de PixelFed muy liviano",
+    "link": "https://voidnull.es/pixelix-cliente-de-pixelfed-muy-liviano/",
+    "fecha": "05/06/2026",
+    "contenido": "Cliente del Fediverso centrado en imágenes, libre, moderno y sin rastreo para interactuar con redes descentralizadas."
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Protege el acceso SSH de tus servidores con SoloKey",
     "link": "https://voidnull.es/protege-el-acceso-ssh-de-tus-servidores-con-solokey/",
     "fecha": "05/06/2026",
     "contenido": "SoloKey es una llave de seguridad hardware compatible con FIDO2 y U2F."
+  },
+  {
+    "blog": "Diana                                                   Laurencich",
+    "titulo": "El día que nunca queríamos que llegue",
+    "link": "https://dianalaurencich.wordpress.com/2026/06/06/el-dia-que-nunca-queriamos-que-llegue/",
+    "fecha": "05/06/2026",
+    "contenido": "Hoy a la mañana, cinco de junio de 2026, la noticia corrió de teléfono a teléfono. Murió el Indio. No hay forma de dimensionar el dolor que produjeron esas tres palabras en millones de argentinos que sabíamos que el Indio, Carlos Solari, el creador de los Redonditos de Ricota, tenía los días contado"
   },
   {
     "blog": "56K",
@@ -61,6 +138,20 @@
     "link": "https://www.fabio.com.ar/9957-links-de-viernes---944",
     "fecha": "05/06/2026",
     "contenido": "     Viernes, la semana llega a su fin\nAqu&iacute; estamos, otra semana se agota, comienza el finde, tu cerebro cambia de modalidad a una m&aacute;s activa, alegre, personal, para cuando logr&aacute;s el cambio es domingo a las 19hs y te deprim&iacute;s &iquest;El ant&iacute;doto? Links! Muchos link"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Hoy es viernes, ¿qué hay en tu escritorio?",
+    "link": "https://picandocodigo.net/2026/hoy-es-viernes-que-hay-en-tu-escritorio/",
+    "fecha": "05/06/2026",
+    "contenido": "Hoy es viernes y habiendo terminado de trabajar, saltó la inspiración para escribir en el blog. Con la excusa de ¿qué hay en tu escritorio? como detonante para enfrentar la página en blanco (o en mi caso el cuadro de texto en gris oscuro en el escritorio virtual de WordPress porque uso el plugin Dar"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Cosas que aprendí en mayo",
+    "link": "https://nachof.blog/posts/2026/cosas-que-aprendi-en-mayo/",
+    "fecha": "05/06/2026",
+    "contenido": "A veces me pasa que me entero de curiosidades varias. Y después me olvido de compartirlas con otros. Así que acá recopilo las que me enteré durante el mes pasado.\nGallinas\nLos seres humanos domesticamos a las gallinas inicialmente no por la carne o los huevos, sino para ver peleas de gallos como ent"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -361,7 +452,7 @@
     "titulo": "Recuperar el control con Linux",
     "link": "https://tecnoysoft.com/2026/06/02/recuperar-el-control-con-linux/",
     "fecha": "02/06/2026",
-    "contenido": "Hablar de Linux solo en términos de FPS, compatibilidad con juegos o si ejecuta tal o cual launcher es quedarse en la superficie. Para muchas personas, Linux representa algo mucho más profundo: la idea de que el ordenador te pertenece a ti y no al fabricante del sistema operativo. La diferencia filo"
+    "contenido": "Hablar de GNU/Linux solo en términos de FPS, compatibilidad con juegos o si ejecuta tal o cual launcher es quedarse en la superficie. Para muchas personas, Linux representa algo mucho más profundo: la idea de que el ordenador te pertenece a ti y no al fabricante del sistema operativo. La diferencia "
   },
   {
     "blog": "matizeta",
@@ -530,13 +621,6 @@
     "link": "https://altgr.xyz/2026/06/01/el-canal-de-panama/",
     "fecha": "01/06/2026",
     "contenido": "Una gran obra de ingeniería. Visitar el mirador no es tan impactante como uno esperaría. No es una estructura gigante que impresione a la vista. El canal mismo no es enorme, mas bien parece un río encausado cualquiera. Lo que de verdad impacta es entender lo que implicó su construcción en términos d"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "La Casa del Evento en Panamá",
-    "link": "https://altgr.xyz/2026/06/01/la-casa-del-evento-en-panama/",
-    "fecha": "01/06/2026",
-    "contenido": "El motivo de mi visita a Panamá fue asistir a las conferencias de Lacnic45, uno de los eventos de internet más importante de Latinoamérica y El Carib. El lugar que nos acogió fue el Hotel Westin Playa Bonita, en el sector de Veracruz en Ciudad de Panamá. Un lugar tranquilo y bastante alejado del cen"
   },
   {
     "blog": "_ voidNull",
@@ -756,13 +840,6 @@
     "contenido": "Marknote es una aplicación de la comunidad KDE para escrirbir notas en formato Markdown"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Un Poeta",
-    "link": "https://gatooscuro.xyz/un-poeta/",
-    "fecha": "30/05/2026",
-    "contenido": "Me acabo de ver la película Un Poeta y realmente la recomiendo. Fue especialmente conmovedor ver a un artista intentar superarse a sí mismo. Además de tratar de hacer lo\nSeguir leyendo  Un Poeta\nEl cargo Un Poeta apareció primero en El cuarto de GatoOscuro."
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "Migrar a Linux: tres aspectos que debes tener en cuenta",
     "link": "https://tecnoysoft.com/2026/05/30/migrar-a-linux-tres-aspectos-que-debes-tener-en-cuenta/",
@@ -791,101 +868,10 @@
     "contenido": "Siguiendo la línea de Windows, Amazon quiere forzarte a comprar un nuevo dispositivo. Pero no te preocupes, a tu viejo Kindle le quedan tantas sesiones de lectura como tengas a bien disfrutar en él. Dice Amazon que, desde el 20 de mayo de 2026, deja de ofrecer soporte para e-readers Kindle que se ha"
   },
   {
-    "blog": "danielaragay.net",
-    "titulo": "La entrevista y jaleos en el restaurante",
-    "link": "https://blog.danielaragay.net/la-entrevista-y-jaleos-en-el-restaurante/",
-    "fecha": "30/05/2026",
-    "contenido": "Te cuento como ha ido la entrevista y algunas desventuras que ha tenido Chat en el restaurante incluido un intento de estafa.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/haciendoelsuecoE"
-  },
-  {
-    "blog": "Si dios te da limones",
-    "titulo": "Del Kobo a Obsidian",
-    "link": "https://sidiostedalimones.com/blog/2026/kobo-a-obsidian/",
-    "fecha": "30/05/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Aimar Bretos",
-    "link": "https://www.xn--jmuoz-qta.es/2026/05/aimar-bretos.html",
-    "fecha": "30/05/2026",
-    "contenido": "Al final, el desenlace de la historia de la salida de Ángels Barceló del Hoy por hoy se ha conocido pocos días después: será Aimar Bretos, hasta ahora presentador de Hora 25 y voz de la casa, quien se pondrá a los mandos del matinal de la SER a partir de septiembre. Era la primera opción que tecleé "
-  },
-  {
-    "blog": "56K",
-    "titulo": "Noticias en nuestro PC sin tener internet",
-    "link": "https://56k.es/fanta/obtener-en-texto-la-pagina-de-teletexto-de-un-canal-de-tdt-que-emita-teletexto-en-2025-como-obtener-noticias-en-texto-sin-tener-internet/",
-    "fecha": "30/05/2026",
-    "contenido": "Ya hemos visto otras veces que si disponemos de un cacharro para ver TDT en Linux podemos hacer que sea muy sencillo todo simplemente conociendo que hemos de escanear y luego visualizar. Para escanear podemos usar w_scan_cpp y vlc para abrir ese archivo channels.conf y ver los canales que queramos o"
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "Pufos posmodernos",
-    "link": "https://alex.corcoles.net/2026/05/pufos-posmodernos",
-    "fecha": "30/05/2026",
-    "contenido": "\n  El humor nunca es f&#225;cil. Su dificultad tiene cierta correlaci&#243;n con su efectividad, pero hay humor sin esfuerzo que nos puede matar de un ataque de risa. Quiz&#225; Takeshi Kitano tiene raz&#243;n en que, como la violencia, el mejor humor es el que nos pilla desprevenidos.\n  Hacks (HBO,"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Historia De Tyraels Ascension Continua Con \"Grave Seeker\" | Se Abre Un Nuevo Capítulo",
-    "link": "https://www.delotroladometal.com.ar/2026/05/30/se-abre-un-nuevo-capitulo/",
-    "fecha": "30/05/2026",
-    "contenido": "Es raro encontrar material que se enraíce en una historia conceptual dentro de lo que...\nThe post La Historia De Tyraels Ascension Continua Con \"Grave Seeker\" | Se Abre Un Nuevo Capítulo first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Marcos de texto en Scribus",
-    "link": "https://javiersam.uy/2026/05/marcos-de-texto-en-scribus.html",
-    "fecha": "30/05/2026",
-    "contenido": "Hice un video resumiendo lo que hablamos el sábado pasado durante el primer encuentro del Taller de Scribus en Fab MVD. Hoy, a las 10:30, es el segundo encuentro."
-  },
-  {
     "blog": "El Cajón de la Tecnología",
     "titulo": "El futuro de el Cajón de la Tecnología",
     "link": "https://tecnocajon.wordpress.com/2026/05/30/el-futuro-de-el-cajon-de-la-tecnologia/",
     "fecha": "30/05/2026",
     "contenido": "Este blog lleva activo 2 años, publico cuando me apetece, tengo tiempo y lo más importante: tengo ideas. En ese tiempo los artículos (al menos desde mi punto de vista), han mejorado y han subido de calidad (y se viene probablemente el mejor artículo que haya tenido esta web, mínimo 2 meses). El punt"
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "La geología de Amaicha está genial.",
-    "link": "https://salvamir.github.io/Notas/La-geolog%C3%ADa-de-Amaicha-est%C3%A1-genial.",
-    "fecha": "30/05/2026",
-    "contenido": "geología Contexto. Amaicha es un pueblito de Tucumán, una provincia de Argentina."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 22 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/05/29/opensuse-tumbleweed-revision-de-la-semana-22-de-2026/",
-    "fecha": "29/05/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "#Streaming: Warped Tour CDMX Warm-Up",
-    "link": "https://blog.luiscarlospando.com/musica/2026/05/streaming-warped-tour-cdmx-warm-up/",
-    "fecha": "29/05/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "555. Los presumidos también lloran",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/05/555-los-presumidos-tambien-lloran.html",
-    "fecha": "29/05/2026",
-    "contenido": "&nbsp; &nbsp; Muy atrás quedó el tiempo en que J. J. llevaba el pelo largo hasta media espalda y el flequillo rozándole las pestañas. Pero aún hoy se niega a raparse, pese a que su cráneo muestra una pronunciada desforestación parietal y un despeje frontal digno del capó de un Seiscientos.&nbsp; &nb"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Transistor: conéctate a la radio online",
-    "link": "https://voidnull.es/transistor-conectate-a-la-radio-online/",
-    "fecha": "29/05/2026",
-    "contenido": "Reproductor de radio por Internet libre, ligero y sin distracciones, centrado en escuchar y nada más."
-  },
-  {
-    "blog": "Diana                                                   Laurencich",
-    "titulo": "Reflexiones en el otoño de la vida",
-    "link": "https://dianalaurencich.wordpress.com/2026/05/29/reflexiones-en-el-otono-de-la-vida/",
-    "fecha": "29/05/2026",
-    "contenido": "Es un día gris. Tengo que salir, hacer compras y doy vueltas. Es algo que desde hace tanto tiempo aborrezco tanto como antes me gustaba. Siempre creí que había heredado el gusto de mi madre por hacerlas, pero fue al revés. Mamá, cuando éramos chicos y ella joven, no le gustaban las compras. Nos mand"
   }
 ]
