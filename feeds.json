@@ -1,5 +1,19 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Soporte para webcam con pantalla de privacidad hecha con TENTE",
+    "link": "https://malagaoriginal.blogspot.com/2026/06/soporte-para-webcam-con-pantalla-de.html",
+    "fecha": "06/06/2026",
+    "contenido": "Hace unos años me compré una webcam de pinza de la marca Ewent de la que estaba muy contento porque fue barata, funcionaba bien y tenía buen soporte para GNU/Linux, pero con los años una de las patas de la pinza se partió por la presión del muelle y por la degradación del plástico, así que tenía que"
+  },
+  {
+    "blog": "",
+    "titulo": "Hasta siempre.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/06/06/hasta-siempre/",
+    "fecha": "06/06/2026",
+    "contenido": "Es difícil asumir que te fuiste, solo queda tu recuerdo, recuerdo tan intenso como los sentimientos mas profundos."
+  },
+  {
     "blog": "56K",
     "titulo": "Paradatos",
     "link": "https://56k.es/fanta/los-paradatos/",
@@ -7,25 +21,39 @@
     "contenido": "«Los metadatos te cuentan absolutamente todo sobre la vida de alguien» Stewart Baker (exasesor jurídico general de la NSA) «Matamos gente basándonos en metadatos» Michael Hayden (Ex-director de la NSA) Y razón no les falta, es verdad que matan gente y que los metadatos cuentan mucho pero &#8230;¿y l"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Un Nuevo CD Recopilación Está Ya Disponible | Primal Publica “Fin De Los Tiempos”",
-    "link": "https://www.delotroladometal.com.ar/2026/06/06/primal-publica-fin-de-los-tiempos/",
-    "fecha": "06/06/2026",
-    "contenido": "Hacía tiempo que no teníamos novedades de Primal, pero lo que aquí mismo habíamos anunciado...\nThe post Un Nuevo CD Recopilación Está Ya Disponible | Primal Publica “Fin De Los Tiempos” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Archivos para el taller (5 de junio)",
-    "link": "https://javiersam.uy/2026/06/archivos-para-el-taller-5-de-junio.html",
-    "fecha": "06/06/2026",
-    "contenido": "Texto Fuentes Presentación"
-  },
-  {
     "blog": "Chancli.dev",
     "titulo": "Su primer día de playa VS hoy",
     "link": "https://chancli.dev/blog/chancla-primer-dia-playa-vs-hoy.html",
     "fecha": "06/06/2026",
     "contenido": ""
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salvamir.github.io/",
+    "fecha": "06/06/2026",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Música",
+    "link": "https://salvamir.github.io/musica",
+    "fecha": "06/06/2026",
+    "contenido": "window.addEventListener(&#039;message&#039;, function(e) { if (e.data &amp;&amp; e.data.type === &#039;resize-iframe-musica&#039;) { document.getElementById(&#039;musica-iframe&#039;).style.height = e.data.height + &#039;px&#039;; } }); ."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salvamir.github.io/algo-mas",
+    "fecha": "06/06/2026",
+    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Libro de Visitas",
+    "link": "https://salvamir.github.io/libro-de-visitas",
+    "fecha": "06/06/2026",
+    "contenido": "window.addEventListener(&#039;message&#039;, function(e) { if (e.data &amp;&amp; e.data.type === &#039;resize-iframe&#039;) { const iframe = document.getElementById(&#039;visitas-iframe&#039;); if (iframe) { iframe.style.height = e.data.height + &#039;px&#039;; } } }, false); ."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -154,13 +182,6 @@
     "contenido": "A veces me pasa que me entero de curiosidades varias. Y después me olvido de compartirlas con otros. Así que acá recopilo las que me enteré durante el mes pasado.\nGallinas\nLos seres humanos domesticamos a las gallinas inicialmente no por la carne o los huevos, sino para ver peleas de gallos como ent"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho",
-    "link": "https://www.delotroladometal.com.ar/2026/06/05/heavy-metal-hecho-y-derecho/",
-    "fecha": "05/06/2026",
-    "contenido": "(2023 &#8211; Retroactive Records) Otra joya rescatada más, y van. Cuanto material de los ´80...\nThe post Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "JavierSam",
     "titulo": "La verdadera historia de Lorem Ipsum…",
     "link": "https://javiersam.uy/2026/06/la-verdadera-historia-de-lorem-ipsum.html",
@@ -250,13 +271,6 @@
     "link": "https://www.fabio.com.ar/9956-ruleta-rusa-879",
     "fecha": "04/06/2026",
     "contenido": "     Por ah&iacute; parece demasiado, pero es la ruleta\nJueves, semana completita, mucho posteo, mucho comentario, cambios en el registro del blog, env&iacute;os masivos de emails para avisar que actualicen contrase&ntilde;as, gente puteando, gente put&eacute;andome, gente ignor&aacute;ndome, pero a"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Prevailer Presenta Su Álbum Debut | Metalcore Con Una Vuelta De Rosca",
-    "link": "https://www.delotroladometal.com.ar/2026/06/04/metalcore-con-una-vuelta-de-rosca/",
-    "fecha": "04/06/2026",
-    "contenido": "Si sos de los que piensan que el Metalcore es siempre, mas o menos lo...\nThe post Prevailer Presenta Su Álbum Debut | Metalcore Con Una Vuelta De Rosca first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Sin nombre",
@@ -413,27 +427,6 @@
     "contenido": "    \nHace poco hab&iacute;a utilizado la met&aacute;fora del \"virus gallego\" para un hack que requer&iacute;a de la intervenci&oacute;n del usuario, pura ingenier&iacute;a social, pero ahora tengo otro caso mucho peor, m&aacute;s ejemplificador de lo tontos que podemos ser los humanos.\nLa cuesti&oac"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera",
-    "link": "https://www.delotroladometal.com.ar/2026/06/03/se-viene-la-tercera/",
-    "fecha": "03/06/2026",
-    "contenido": "Su primer trabajo fue &#8220;All Will Bow&#8221; en 2022, y el año pasado liberaron &#8220;Slingshot&#8221;,...\nThe post Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Ser un CEO transparente",
-    "link": "https://dani.torresburriel.com/ser-un-ceo-transparente/",
-    "fecha": "03/06/2026",
-    "contenido": "Me está empezando a dar un poco de miedo porque me ha dado cuenta que hace ya varios días, demasiados, que no me pasaba a escribir por aquí. Hay varias razones para que eso sea así, pero es que tampoco quiero que suene a excusa. En todo caso, como un blog personal es eso, un &#8230; Sigue leyendo Se"
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "¿Algo más?",
-    "link": "https://salvamir.github.io/algo-mas",
-    "fecha": "03/06/2026",
-    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
-  },
-  {
     "blog": "THE_CHEI$",
     "titulo": "El blog ya forma parte del fediverso",
     "link": "https://thecheis.com/2026/06/02/el-blog-ya-forma-parte-del-fediverso/",
@@ -553,13 +546,6 @@
     "contenido": "El fin de semana pasado me puse a jugar a Mega Man X en Super Nintendo. Es uno de mis juegos preferidos, de los mejores de todos los tiempos. ¿Ustedes también juegan con los dedos en el control así? El pulgar lo uso para tener siempre cargando el mega buster en el Y, y saltar con el B. Pero la mayor"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Abisur: Furor | La Vieja Furia Es Brasileña",
-    "link": "https://www.delotroladometal.com.ar/2026/06/02/la-vieja-furia-es-brasilena/",
-    "fecha": "02/06/2026",
-    "contenido": "(2026 &#8211; Kongsblod Records) Con una pulida mezcla de Thrash Metal llevada al extremo del...\nThe post Abisur: Furor | La Vieja Furia Es Brasileña first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "DESDE UN BALCÓN DE MADRID",
     "titulo": "94 – El día en que me desperté y habías vuelto",
     "link": "https://empiezaen2023.wordpress.com/2026/06/03/94-el-dia-que-me-desperte-y-habias-vuelto/",
@@ -593,13 +579,6 @@
     "link": "https://vsantos.envs.net/posts/yo-julia/",
     "fecha": "01/06/2026",
     "contenido": "192 d. C. Varios hombres luchan por un imperio, pero Julia, hija de reyes, madre de césares y esposa de emperador, piensa en algo más ambicioso: una dinastía."
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Análisis de riesgos de la tecnología NFC en Android",
-    "link": "https://alt43.es/analisis-de-riesgos-de-la-tecnologia-nfc-en-android/",
-    "fecha": "01/06/2026",
-    "contenido": "El chip NFC del teléfono móvil está diseñado para intercambiar datos a escasos centímetros de distancia. La gran mayoría de veces de forma legítima; pero también existen escenarios teóricos y documentados, donde esa emisión se acaba por convertir en una vulnerabilidad real."
   },
   {
     "blog": "matizeta",
@@ -663,13 +642,6 @@
     "link": "https://www.fabio.com.ar/9953-md5-el-rey-muerto-y-olvidado",
     "fecha": "01/06/2026",
     "contenido": "    \nEste puede sonar a posteo para nardos, pero les aseguro que, aunque no sepas nada de programaci&oacute;n, tiene que ver con la seguridad de las contrase&ntilde;as de todos.\nHace muchos, muchos a&ntilde;os me hab&iacute;a comprado un libro de programaci&oacute;n en PHP 3 y aprend&iacute; qu&eacu"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Ciencia Ficción Ya No Es Tan Ficción…",
-    "link": "https://www.delotroladometal.com.ar/2026/06/01/la-ciencia-ficcion-ya-no-es-tan-ficcion/",
-    "fecha": "01/06/2026",
-    "contenido": "A veces pienso que la ciencia ficción, ya nos alcanzó. Que todo lo que alguna...\nThe post La Ciencia Ficción Ya No Es Tan Ficción… first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Loveof74",
@@ -796,82 +768,5 @@
     "link": "https://edgarmtoro.wordpress.com/2026/05/31/24-horas-con-pi-hole/",
     "fecha": "31/05/2026",
     "contenido": "Entonces, la curiosidad pudo más y terminé instalando (facilmente, cabe decir) Pi-Hole. El setup es improvisado, y no lo recomendaría para larga duración. Basicamente un PC, corriendo TrueNAS Community 25.10.3.1 &#8220;GoldEye&#8221;, y Pi-Hole 1.4.10 como un contenedor. El problema con esta configu"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda…",
-    "link": "https://www.delotroladometal.com.ar/2026/05/31/el-nacimiento-de-una-leyenda/",
-    "fecha": "31/05/2026",
-    "contenido": "(1990 &#8211; Intense Records) Apuesto a quien sea que a la hora de poner a...\nThe post Tourniquet: Stop The Bleeding | El Nacimiento De Una Leyenda… first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salvamir.github.io/",
-    "fecha": "31/05/2026",
-    "contenido": "Acá me gusta coleccionar detalles de mi vida."
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "La determinación del Emperador",
-    "link": "https://guillermolatorre.com/clips/la-determinacion-del-emperador",
-    "fecha": "30/05/2026",
-    "contenido": "Hugo Sáez sobre el impacto de la inteligencia artificial en el mundo laboral.Ir al enlace"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Iris Photos: organizador de fotos para Mac",
-    "link": "https://guillermolatorre.com/clips/iris-photos",
-    "fecha": "30/05/2026",
-    "contenido": "La recomend&oacute; Ale Mu&ntilde;oz y creo que merece la pena probarla. Es una app nativa para organizar tus fotos de forma privada y con todas las funciones habituales de softwares cloud de grandes corporaciones: encontrar fotos similares, buscar por personas o mascotas, fotos en un lugar concreto"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Me equivocaba: la IA sí ha cambiado (bastantes) cosas",
-    "link": "https://thecheis.com/2026/05/30/me-equivocaba-la-ia-si-ha-cambiado-bastantes-cosas/",
-    "fecha": "30/05/2026",
-    "contenido": "Quién me lo iba a decir: un inocente experimento con Google Gemini terminó derivando en un viaje a las profundidades de la IA. O más bien, la inercia de los acontecimientos me ha pasado por encima como un tren de cercanías. En 2023 escribí un artículo escéptico sobre la inteligencia artificial, y so"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Marknote 1.6.0 ya publicado",
-    "link": "https://victorhckinthefreeworld.com/2026/05/30/marknote-1-6-0-ya-publicado/",
-    "fecha": "30/05/2026",
-    "contenido": "Marknote es una aplicación de la comunidad KDE para escrirbir notas en formato Markdown"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Migrar a Linux: tres aspectos que debes tener en cuenta",
-    "link": "https://tecnoysoft.com/2026/05/30/migrar-a-linux-tres-aspectos-que-debes-tener-en-cuenta/",
-    "fecha": "30/05/2026",
-    "contenido": "Migrar a Linux puede parecer complicado, pero en realidad todo se reduce a tres preguntas fundamentales: **qué haces con tu ordenador, qué hardware tienes y qué distribución se adapta mejor a ambos factores**. Analizar estos aspectos desde el principio facilita mucho la transición y evita problemas "
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "EXPlay",
-    "link": "https://www.macram.es/posts/2026/05/explay/",
-    "fecha": "30/05/2026",
-    "contenido": "Canal Extremadura relanzó su OTT hace algo más de un mes (junto con un rebranding bastante radical que, con el tiempo, creo que fue acertado, aunque siga pensando que el logo antiguo resultaba bastante atemporal) y eso permite que cualquiera, desde cualquier lugar del mundo, pueda estar conectado co"
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "Finisterra",
-    "link": "https://www.macram.es/musica/finisterra-mago-de-oz/",
-    "fecha": "30/05/2026",
-    "contenido": "Hoy escuché de principio a fin uno de los discos que más quemé en mi adolescencia. Finisterra fue punto de inflexión dentro de la carrera de Mägo de Oz (uno de los grupos que formaron más parte de mi adolescencia y a los que vuelvo de cuando en cuando), el prólogo perfecto a su trilogía Gaia y un di"
-  },
-  {
-    "blog": "productor de sostenibilidad",
-    "titulo": "Seguir usando tu viejo Kindle después de Amazon",
-    "link": "https://productordesostenibilidad.es/2026/05/seguir-usando-tu-viejo-kindle-despues-de-amazon/",
-    "fecha": "30/05/2026",
-    "contenido": "Siguiendo la línea de Windows, Amazon quiere forzarte a comprar un nuevo dispositivo. Pero no te preocupes, a tu viejo Kindle le quedan tantas sesiones de lectura como tengas a bien disfrutar en él. Dice Amazon que, desde el 20 de mayo de 2026, deja de ofrecer soporte para e-readers Kindle que se ha"
-  },
-  {
-    "blog": "El Cajón de la Tecnología",
-    "titulo": "El futuro de el Cajón de la Tecnología",
-    "link": "https://tecnocajon.wordpress.com/2026/05/30/el-futuro-de-el-cajon-de-la-tecnologia/",
-    "fecha": "30/05/2026",
-    "contenido": "Este blog lleva activo 2 años, publico cuando me apetece, tengo tiempo y lo más importante: tengo ideas. En ese tiempo los artículos (al menos desde mi punto de vista), han mejorado y han subido de calidad (y se viene probablemente el mejor artículo que haya tenido esta web, mínimo 2 meses). El punt"
   }
 ]
