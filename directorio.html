@@ -127,18 +127,7 @@ fetch("blogs.json")
         `🎉 Ya hay ${blogs.length} blogs personales en español`;
 
     
-    if (ultimaActualizacion) {
-        const fecha = new Date(ultimaActualizacion);
-        const fechaFormateada =
-            fecha.toLocaleDateString("es-ES", {
-                day:"numeric",
-                month:"long",
-                year:"numeric"
-            }).toUpperCase();
 
-        document.getElementById("fecha").textContent =
-            `Actualizado: ${fechaFormateada}`;
-    }
 })
 .catch(err => {
     contenedor.innerHTML =
