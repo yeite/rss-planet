@@ -1,10 +1,115 @@
 [
   {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "Ajuar",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/ajuar/",
+    "fecha": "08/06/2026",
+    "contenido": "Me gustaría que esta entrada fuese a tratar de Ajuar, el duo de señoras madrileñas que hacen una actualización del folclore tradicional bien chula, fresca y feminista. Echadle un vistazo a su Bandcamp, ahí enlazado, porque merecen mucho la pena. \nPero no, no vengo a hablar de ellas. Vengo a hablar, "
+  },
+  {
+    "blog": "Un bruto con Debian",
+    "titulo": "aMule, el Ave Fénix que resurge de sus cenizas",
+    "link": "http://unbrutocondebian.blogspot.com/2026/06/amule-el-ave-fenix-que-resurge-de-sus.html",
+    "fecha": "08/06/2026",
+    "contenido": "Hace ni más ni menos que 5 años desde la última actualización de aMule, el hermano gemelo multiplataforma del archiconocido eMule. Tiempo más que suficiente para que se haya quedado atrás en cuanto a prestaciones, aspecto y lo peor de todo muchas librerías han quedado obsoletas y dan problemas.&nbsp"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "El arte de Berserk",
+    "link": "https://mareosdeungeek.es/el-arte-de-berserk/",
+    "fecha": "08/06/2026",
+    "contenido": "El arte de Berserk es un libro recopilatorio que hace un recorrido a esta sensacional serie manga. El fallecimiento de Kentaro Miura, creador y autor de Berserk en 2021 coincidió con el 32 aniversario de la obra. Es por ello que durante ese año se celebró una exposición que recorrió varias ciudades "
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Analizando viejas fotos para saber más sobre ellas",
+    "link": "https://matizeta.com/2026/06/08/analizando-fotografias-para-saber-mas-de-ellas/",
+    "fecha": "08/06/2026",
+    "contenido": "En mi viaje a varias ciudades de Europa, visité muchísimos museos. Hice excesivas fotos, muchas de ellas eran a pinturas que veía , que me fascinaron y quería tenerlas digitalmente, objetos extraños. En ese momento pensé “voy a sacar fotos para en un futuro, cuando existe la tecnología, poder identi"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalar Firefox en Ubuntu usando repositorio oficial",
+    "link": "https://voidnull.es/instalar-firefox-en-ubuntu-usando-repositorio-oficial/",
+    "fecha": "08/06/2026",
+    "contenido": "Ubuntu sigue apostando por Snap para distribuir Firefox, pero muchos usuarios prefieren evitarlo debido a sus tiempos de arranque, consumo extra de recursos y problemas de integración."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Mastodon en Ubuntu 26.04",
+    "link": "https://voidnull.es/instalacion-de-mastodon-en-ubuntu-26-04/",
+    "fecha": "08/06/2026",
+    "contenido": "Mastodon es una red social libre y descentralizada de microblogging. Esta red social es una federación descentralizada de servidores que ejecutan el Software bajo licencia AGPL."
+  },
+  {
+    "blog": "",
+    "titulo": "Nueva emisión del podcast Radio Rebel Gael.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/06/08/nueva-emision-del-podcast-radio-rebel-gael/",
+    "fecha": "08/06/2026",
+    "contenido": "https://podcasts.com/radio-rebel-gael-962c3e936"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Todas las tareas para las que NO necesitás AI",
+    "link": "https://www.fabio.com.ar/9958-todas-las-tareas-para-las-que-no-necesitas-ai",
+    "fecha": "08/06/2026",
+    "contenido": "    \nEn &eacute;pocas de Tokenmaxxing y, m&aacute;s recientemente, ahorro de tokens (porque se dieron cuenta de lo que realmente costaban), me sorprende ver gente que pretende solucionar todo problema con AI como si 12.000 a&ntilde;os de historia de nuestra civilizaci&oacute;n no contaran.\n&iquest;E"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Kashat: Sangre Maligna | Volviendo A Las Fuentes Del Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/06/08/volviendo-a-las-fuentes-del-metal/",
+    "fecha": "08/06/2026",
+    "contenido": "(2025 &#8211; Zzooouhh Records) Cuantas bandas han quedado en el borroso paso del tiempo, y...\nThe post Kashat: Sangre Maligna | Volviendo A Las Fuentes Del Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Una única cosa",
+    "link": "https://guillermolatorre.com/citas-en-tinta/una-unica-cosa",
+    "fecha": "07/06/2026",
+    "contenido": "Wow, ¡cómo pasa el tiempo! Pensaba que llevaba desde finales del año pasado sin publicar ninguna cita en tinta, pero acabo de darme cuenta de que la última es de marzo 2025, más de un año sin publicar. 😳\n\nBueno, pues habrá que ir desoxidando la muñeca y nada mejor que hacerlo con el mensaje que tran"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "RSS-Funnel - Añadiendo mejoras",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-06-08-rss-funnel-annexo/",
+    "fecha": "07/06/2026",
+    "contenido": "Si recordáis, ya había escrito otro artículo donde hablaba de las ventajas de este container. Y, después de dos años, tengo que decir que lo sigo usando porque no he encontrado nada mejor y porque su consumo es ínfimo.\nComo consecuencia de la migración, le di una vuelta de tuerca a la configuración "
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Todo tiene un precio",
     "link": "https://victorhckinthefreeworld.com/2026/06/07/todo-tiene-un-precio/",
     "fecha": "07/06/2026",
     "contenido": "relato de  ficción o peligrosa profecía de la \"truñificación\" que va asolando cada rincón de lo que una vez fue una red abierta."
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Queriendo escribir un libro",
+    "link": "https://gatooscuro.xyz/queriendo-escribir-un-libro/",
+    "fecha": "07/06/2026",
+    "contenido": "Llevo algunos días de ausencia en el blog y de seguro sabrán el porqué, debido a que lo he descrito en diferentes artículos: básicamente, se trata de la división del\nSeguir leyendo  Queriendo escribir un libro\nEl cargo Queriendo escribir un libro apareció primero en El cuarto de GatoOscuro."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Valor sentimental (Affeksjonsverdi)",
+    "link": "https://mareosdeungeek.es/valor-sentimental-affeksjonsverdi/",
+    "fecha": "07/06/2026",
+    "contenido": "Valor sentimental (Affeksjonsverdi) es un drama noruego dirigido por Joachim Trier y premiado en la última edición de los Oscars como Mejor Película Internacional. Joachim Trier nos cuenta la historia de la familia de un director de cine, Gustav Borg, centrada en la casa familiar. La familia de Gust"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "El extraterrestre superó a los alemanes (fin de semana en Londres)",
+    "link": "https://blog.danielaragay.net/el-extraterrestre-supero-a-los-alemanes-fin-de-semana-en-londres/",
+    "fecha": "07/06/2026",
+    "contenido": "Te cuento como ha ido este fin de semana por Londres donde he tenido actividades culturales y eso si, andar mucho y subir muchas escaleras.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram: https://t.me/ha"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Erica a diario en Madrid",
+    "link": "https://www.ericafustero.com/2026-06-erica-a-diario-en-madrid",
+    "fecha": "07/06/2026",
+    "contenido": "\"And why the choice to use black and white? You know the internet supports full color these days, don't you?\" Esta es la tercera parte de la serie contando mis aventuras durante las presentaciones de Erica a diario. Si te perdiste los anteriores capítulos, puedes leerlos aquí: 01 Valencia · 02 Mósto"
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -26,6 +131,83 @@
     "link": "https://www.delotroladometal.com.ar/2026/06/07/que-no-se-pierda-la-sana-costumbre/",
     "fecha": "07/06/2026",
     "contenido": "Estamos viviendo en la época de lo descartable, en donde todo lo que llega a...\nThe post Los Sellos Que No Se Rinden | Que No Se Pierda La Sana Costumbre first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Migrar una aplicación a Lovable",
+    "link": "https://dani.torresburriel.com/migrar-una-aplicacion-a-lovable/",
+    "fecha": "07/06/2026",
+    "contenido": "Este fin de semana ha sido un fin de semana bastante intenso. No porque haya tenido aventuras extraordinarias, sino más bien porque lo que he tenido han sido unas sesiones de estudio largas, intensas y bastante valiosas. Menos mal que con la tele y con las redes sociales he podido estar bastante al "
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "⛅️ hay que animarse a salir al aire libre más seguido",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%E2%9B%85%EF%B8%8F-hay-que-animarse-a-salir-al-aire-libre-m%C3%A1s-seguido",
+    "fecha": "07/06/2026",
+    "contenido": "¡Sal al aire libre todo el tiempo que puedas! Debes ser un estudiante sano, jovial, rebosante de fuerzas, de corazón ardiente, generoso, de espíritu pronto, vivaracho, que sabe reírse de corazón, pero… que también tiene un sentido delicado de la dignidad de su alma."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌱 Es hoy el tiempo...",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Es-hoy-el-tiempo...",
+    "fecha": "07/06/2026",
+    "contenido": "Los grandes ideales se forjan en la juventud y se realizan en la madurez “Los hombres aman el pasado y contra ese amor nada puedo, ni pueden mis verdugos, pero alguna vez habrá un hombre que sienta como yo, y ese destruirá mi muralla, como yo he destruido los libros, y ese borrara mi memoria y será "
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌱 No es tarde",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-No-es-tarde",
+    "fecha": "07/06/2026",
+    "contenido": "Regresan los pródigos, vuelven los desleales, retornan los descaminados, se arrepienten las mujeres de sus horas públicas, se levantan los tibios y perezosos, se enderezan los mediocres."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌳 Cristo tiene hambre!",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B3-Cristo-tiene-hambre!",
+    "fecha": "07/06/2026",
+    "contenido": "Amigo de sus amigos… Jesús, que tiene hambre. Jesús, que tiene sed. Jesús, que se cansa. Jesús, que llora."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌸 Que es ser puro",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B8-Que-es-ser-puro",
+    "fecha": "07/06/2026",
+    "contenido": "Los que tienen la sabiduría que viene de Dios son puros, ante todo."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌺 La preocupación es inútil",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%BA-La-preocupaci%C3%B3n-es-in%C3%BAtil",
+    "fecha": "07/06/2026",
+    "contenido": "Reza, espera y no te preocupes. La preocupación es inútil. Dios es misericordioso y escuchará tu oración. 🌳 Como vivir santamente el sábado."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌺 La vocación no me aisla",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%BA-La-vocaci%C3%B3n-no-me-aisla",
+    "fecha": "07/06/2026",
+    "contenido": "Como se vive la vocación… me lleva a otros. No hay vocaciones para vivirlas en solitario."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌼 A veces hay que decir que maldad y seguir",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%BC-A-veces-hay-que-decir-que-maldad-y-seguir",
+    "fecha": "07/06/2026",
+    "contenido": "No mirar atrás… (parece una canción) Si las confortables orillas te invitan a abandonar la barca, hazte pronto a la mar, no cíes, ¡mar adentro! Si en los caminos marineros oyeras cantos de sirenas, tapona tus oídos y boga ¡mar adentro! Si, zarpada la nave, los tuyos piden saltar a tierra, amárralos "
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌾 Viviendo apasionadamente la rutina",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%BE-Viviendo-apasionadamente-la-rutina",
+    "fecha": "07/06/2026",
+    "contenido": "¿Como santifico mi vida corriente? La esencia de la vocación cristiana consiste en santificar la vida corriente."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🍄 ¿Vivo plenamente?",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8D%84-%C2%BFVivo-plenamente",
+    "fecha": "07/06/2026",
+    "contenido": "Estimo que era lo único importante. Volver a empezar con seriedad la vida, antes de que nos alcance la muerte."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -61,34 +243,6 @@
     "link": "https://chancli.dev/blog/chancla-primer-dia-playa-vs-hoy.html",
     "fecha": "06/06/2026",
     "contenido": ""
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salvamir.github.io/",
-    "fecha": "06/06/2026",
-    "contenido": "Acá me gusta coleccionar detalles de mi vida."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Música",
-    "link": "https://salvamir.github.io/musica",
-    "fecha": "06/06/2026",
-    "contenido": "window.addEventListener(&#039;message&#039;, function(e) { if (e.data &amp;&amp; e.data.type === &#039;resize-iframe-musica&#039;) { document.getElementById(&#039;musica-iframe&#039;).style.height = e.data.height + &#039;px&#039;; } }); ."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "¿Algo más?",
-    "link": "https://salvamir.github.io/algo-mas",
-    "fecha": "06/06/2026",
-    "contenido": "Últimas actualizaciones ¡Lo último que hice fue agregar crear el libro de visitas! Cómo tener mi propia página web."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Libro de Visitas",
-    "link": "https://salvamir.github.io/libro-de-visitas",
-    "fecha": "06/06/2026",
-    "contenido": "window.addEventListener(&#039;message&#039;, function(e) { if (e.data &amp;&amp; e.data.type === &#039;resize-iframe&#039;) { const iframe = document.getElementById(&#039;visitas-iframe&#039;); if (iframe) { iframe.style.height = e.data.height + &#039;px&#039;; } } }, false); ."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -210,6 +364,13 @@
     "contenido": "Hoy es viernes y habiendo terminado de trabajar, saltó la inspiración para escribir en el blog. Con la excusa de ¿qué hay en tu escritorio? como detonante para enfrentar la página en blanco (o en mi caso el cuadro de texto en gris oscuro en el escritorio virtual de WordPress porque uso el plugin Dar"
   },
   {
+    "blog": "Un blog",
+    "titulo": "Cosas que aprendí en mayo",
+    "link": "https://nachof.blog/posts/2026/cosas-que-aprendi-en-mayo/",
+    "fecha": "05/06/2026",
+    "contenido": "A veces me pasa que me entero de curiosidades varias. Y después me olvido de compartirlas con otros. Así que acá recopilo las que me enteré durante el mes pasado.\nGallinas\nLos seres humanos domesticamos a las gallinas inicialmente no por la carne o los huevos, sino para ver peleas de gallos como ent"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho",
     "link": "https://www.delotroladometal.com.ar/2026/06/05/heavy-metal-hecho-y-derecho/",
@@ -243,6 +404,13 @@
     "link": "https://polotman.wordpress.com/2026/06/04/narrativas-transmedia-el-arte-de-expandir-historias/",
     "fecha": "04/06/2026",
     "contenido": "¿Alguna vez has terminado una película o un libro y has sentido que la historia se te quedaba corta? Te quedas con ganas de habitar ese mundo un … Narrativas transmedia: el arte de expandir historias"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "OpenSouthCode 2026",
+    "link": "https://mareosdeungeek.es/opensouthcode-2026/",
+    "fecha": "04/06/2026",
+    "contenido": "OpenSouthCode vuelve otro año más, trayendo un evento centrado en el software open source a la ciudad de Málaga. El evento, gratuito como todas sus ediciones, aunque hay que sacar la entrada, tendrá lugar en La Térmica, como viene siendo habitual. Este año se celebrará los días, viernes 26 y sábado "
   },
   {
     "blog": "matizeta",
@@ -355,6 +523,13 @@
     "link": "https://blog.luiscarlospando.com/personal/2026/06/un-ano-viviendo-solo/",
     "fecha": "03/06/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Envidiosa (Serie)",
+    "link": "https://mareosdeungeek.es/envidiosa-serie/",
+    "fecha": "03/06/2026",
+    "contenido": "Finalmente pude ver la última temporada de Envidiosa, una serie argentina que puede verse en la plataforma de streaming Netflix. Protagonizada por Griselda Siciliani, en el papel de Victoria, lo que empieza como una comedia romántica, acaba recorriendo una serie de traumas para mostrar un curioso cu"
   },
   {
     "blog": "End3r.es",
@@ -474,6 +649,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/06/03/se-viene-la-tercera/",
     "fecha": "03/06/2026",
     "contenido": "Su primer trabajo fue &#8220;All Will Bow&#8221; en 2022, y el año pasado liberaron &#8220;Slingshot&#8221;,...\nThe post Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Ser un CEO transparente",
+    "link": "https://dani.torresburriel.com/ser-un-ceo-transparente/",
+    "fecha": "03/06/2026",
+    "contenido": "Me está empezando a dar un poco de miedo porque me ha dado cuenta que hace ya varios días, demasiados, que no me pasaba a escribir por aquí. Hay varias razones para que eso sea así, pero es que tampoco quiero que suene a excusa. En todo caso, como un blog personal es eso, un &#8230; Sigue leyendo Se"
   },
   {
     "blog": "THE_CHEI$",
@@ -609,192 +791,10 @@
     "contenido": "Hoy no podía dormir, así que decidí bajar al salón un rato y ver algo en la tele para tratar de conciliar el sueño. Sin embargo, al bajar las escaleras creí ver una figura en el sofá… me asusté y encendí la luz rápidamente para quitarme esa idea de la cabeza. Cual fue mi sorpresa [&#8230;]"
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "links",
-    "link": "https://salvamir.github.io/links",
-    "fecha": "02/06/2026",
-    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Our world is alive and you should notice it.",
-    "link": "https://salvamir.github.io/Notas/Our-world-is-alive-and-you-should-notice-it.",
-    "fecha": "02/06/2026",
-    "contenido": "I wanted to make a comment on thispost. June has just arrived and winter is finally coming."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Cambiar el número de elementos mostrados en la página de pestaña nueva del navegador Firefox",
-    "link": "https://victorhckinthefreeworld.com/2026/06/01/cambiar-el-numero-de-elementos-mostrados-en-la-pagina-de-pestana-nueva-del-navegador-firefox/",
-    "fecha": "01/06/2026",
-    "contenido": "Vamos a cambiar la cantidad de enlaces habituales que se muestran en la página de nueva pestaña del navegador Firefox para ajustarlo a nuestros gustos"
-  },
-  {
-    "blog": "Parlem de Llibres",
-    "titulo": "Yo, Julia",
-    "link": "https://vsantos.envs.net/posts/yo-julia/",
-    "fecha": "01/06/2026",
-    "contenido": "192 d. C. Varios hombres luchan por un imperio, pero Julia, hija de reyes, madre de césares y esposa de emperador, piensa en algo más ambicioso: una dinastía."
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Análisis de riesgos de la tecnología NFC en Android",
-    "link": "https://alt43.es/analisis-de-riesgos-de-la-tecnologia-nfc-en-android/",
-    "fecha": "01/06/2026",
-    "contenido": "El chip NFC del teléfono móvil está diseñado para intercambiar datos a escasos centímetros de distancia. La gran mayoría de veces de forma legítima; pero también existen escenarios teóricos y documentados, donde esa emisión se acaba por convertir en una vulnerabilidad real."
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Talento para nada",
-    "link": "https://matizeta.com/2026/06/01/talento-para-nada/",
-    "fecha": "01/06/2026",
-    "contenido": "Admiro a esa gente que es tremendamente bueno en algo. Le tengo algo de envidia. Me fijo en mi:&#160; yo ni siquiera sé en que podría ser bueno. O simplemente soy demasiado vago para descubrirlo. Además de talento, se necesita mucha práctica, muchas horas dedicadas a eso por sobre todas las cosas.&#"
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "Jactancia y miedo",
-    "link": "http://locutusbit.blogspot.com/2026/06/jactancia-y-miedo.html",
-    "fecha": "01/06/2026",
-    "contenido": "&nbsp;Nadie vio la dilatada sombra de un arco del triunfoque se niega así mismo,el horizonte desangrado, pasto y erial del ruido cansado.Apenas quedarán las paredes enterradas, sin sombra,a expensas de una eternidad inexistente y una inmortalidad deplorable,lúgubre e insustancial, como un instante d"
-  },
-  {
     "blog": "Eterno aprendiz",
     "titulo": "El Canal de Panamá",
     "link": "https://altgr.xyz/2026/06/01/el-canal-de-panama/",
     "fecha": "01/06/2026",
     "contenido": "Una gran obra de ingeniería. Visitar el mirador no es tan impactante como uno esperaría. No es una estructura gigante que impresione a la vista. El canal mismo no es enorme, mas bien parece un río encausado cualquiera. Lo que de verdad impacta es entender lo que implicó su construcción en términos d"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Transmission en Portainer",
-    "link": "https://voidnull.es/instalacion-de-transmission-en-portainer/",
-    "fecha": "01/06/2026",
-    "contenido": "Aprende a instalar Transmission en Portainer y monta un cliente BitTorrent ligero en tu NAS o servidor fácilmente."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Newsletter #49 - Algunos artículos de Ubuntu 26.04",
-    "link": "https://voidnull.es/newsletter/newsletter-49/",
-    "fecha": "01/06/2026",
-    "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
-  },
-  {
-    "blog": "Spanish on Jorge Sanz",
-    "titulo": "¡Blog!¡Blog!: un agregador de blogs en castellano",
-    "link": "https://jorgesanz.net/posts/2026-06-01-blogblog-un-agregador-de-blogs-en-castellano/",
-    "fecha": "01/06/2026",
-    "contenido": "¿Qué es un agregador de blogs? Se trata de una web que recopila blogs a partir de un nexo común como una temática o un idioma. Pero no solo es una lista de enlaces; dado que cada blog expone su contenido a través del estándar RSS, el agregador se encarga de periódicamente visitar cada blog y recibir"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Confabulación",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/confabulacion.html",
-    "fecha": "01/06/2026",
-    "contenido": "Cuando estás en tu puesto, intentando trabajar, pero la administración y la tecnología se confabulan para no dejarte. Toca ir a por otro café."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Junio",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/junio.html",
-    "fecha": "01/06/2026",
-    "contenido": "\n  \n    \n  \nCasi no me lo puedo creer: ha llegado junio. Me queda un mes de curso; lectivos menos días aún. El verano ya está prácticamente aquí. Qué lejos me parecía aquel 1 de septiembre, creía que el tiempo no pasaría.Qué diferente es el pasado junio de incertidumbres con este junio, donde todo h"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "MD5 el rey muerto y olvidado",
-    "link": "https://www.fabio.com.ar/9953-md5-el-rey-muerto-y-olvidado",
-    "fecha": "01/06/2026",
-    "contenido": "    \nEste puede sonar a posteo para nardos, pero les aseguro que, aunque no sepas nada de programaci&oacute;n, tiene que ver con la seguridad de las contrase&ntilde;as de todos.\nHace muchos, muchos a&ntilde;os me hab&iacute;a comprado un libro de programaci&oacute;n en PHP 3 y aprend&iacute; qu&eacu"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Ciencia Ficción Ya No Es Tan Ficción…",
-    "link": "https://www.delotroladometal.com.ar/2026/06/01/la-ciencia-ficcion-ya-no-es-tan-ficcion/",
-    "fecha": "01/06/2026",
-    "contenido": "A veces pienso que la ciencia ficción, ya nos alcanzó. Que todo lo que alguna...\nThe post La Ciencia Ficción Ya No Es Tan Ficción… first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Loveof74",
-    "titulo": "La mirada del niño",
-    "link": "https://www.loveof74.es/weblog/cultura/musica/la-mirada-del-nino/?utm_source=rss&utm_medium=rss&utm_campaign=la-mirada-del-nino",
-    "fecha": "01/06/2026",
-    "contenido": "Qué difícil es la nostalgia obligatoria. No tanto en las maneras de la edulcorada moda actual de ver un pasado rosa, no. Una nostalgia familiar, cariñosa, forzada de una u otra manera, con el origen a muchos kilómetros de distancia. A eso le cantan y le bailan las letras de Rachid B. Con una suavida"
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Copias de seguridad de tus bases de datos con Databasus",
-    "link": "https://elblogdelazaro.org/copias-de-seguridad-de-tus-bases-de-datos-con-databasus/",
-    "fecha": "01/06/2026",
-    "contenido": "Por: Carlos M.Publicado el 1 de junio de 2026Cómo instalar Databasus en Unraid y crear copias de seguridad automáticas de PostgreSQL, MySQL, MariaDB y MongoDB.Continuar leyendo →#Telegram #Mariadb #Docker #Unraid #Backup "
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Live slow and be brave.",
-    "link": "https://salvamir.github.io/Notas/Live-slow-and-be-brave.",
-    "fecha": "01/06/2026",
-    "contenido": "This post is a reply to Daniel’s and Rafa’s thoughts on simplicity, overwhelming “needs” of professional growth, rush and routines."
-  },
-  {
-    "blog": "PanicError",
-    "titulo": "Predicciones muy locas",
-    "link": "http://panicerror.org/blog/prediciones-locas.md.html",
-    "fecha": "01/06/2026",
-    "contenido": "El otro día estuve dedicando un rato a pensar en como puede acercarse el futuro a nivel tecnológico. Desde luego no es tarea fácil si quieres acercarte al acierto, viendo el ritmo de cambio de cosas como la IA. Lo que todos tenemos claro es que estos cambios anuncian un cambio de paradigma en muchos"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Usando Podman - La base de todo el sistema",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-06-01-usando-podman-2/",
-    "fecha": "31/05/2026",
-    "contenido": "Nuevo artículo sobre mi migración de Docker a Podman.\nComo ya expliqué en el primer artículo, os comentaba el porqué de la migración a Podman. En este nuevo artículo, os explicaré los containers que para mí son los más importantes y que, siguiendo el consejo de atareao, es recomendable instalarlos a"
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Mejoras en el estilo del blog y convirtiendo proyectos con databases a proyectos con json",
-    "link": "https://pedrolr.es/blog/mejoras-en-el-estilo-del-blog-y-convirtiendo-proyectos-con-databases-a-proyectos-con-json/",
-    "fecha": "31/05/2026",
-    "contenido": "Esta semana hice cosas interesantes en varios proyectos. Gestiono dos sitios de enlaces en los que tan solo se comparte el títulos de noticias, papers, etc., y la fecha en que se leen. Estaban construidos con una base de datos (en realidad 2 al ser dos proyectos), y he podido adaptarlo para que se g"
-  },
-  {
-    "blog": "Escritos en la nube",
-    "titulo": "Alternativas",
-    "link": "https://nube.codeberg.page/blog/build/",
-    "fecha": "31/05/2026",
-    "contenido": "Este texto es algo simple y está dirigido a quienes usan Linux principalmente y a quienes simplemente hacen software, siempre hay mucho debate sobre que algo no funciona como debe, o que han implementado algo que no te gusta, etc.\nYo pienso lo siguiente: si el software no se adapta a tus necesidades"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "De la culpa a la app: así nació Quilt",
-    "link": "https://blog.danielaragay.net/de-la-culpa-a-la-app-asi-nacio-quilt/",
-    "fecha": "31/05/2026",
-    "contenido": "Me compr&#xe9; unos AirPods Pro 3. Estaba harto de pelearme con el Bluetooth de mis Sony cada vez que cambiaba de dispositivo. Los compr&#xe9;, y dos minutos despu&#xe9;s apareci&#xf3; esa sensaci&#xf3;n: &#xbf;era necesario? &#xbf;Me lo pod&#xed;a permitir?En vez"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "La gramática de los dioses",
-    "link": "https://impermanente.es/2026/05/31/la-gramtica-de-los-dioses.html",
-    "fecha": "31/05/2026",
-    "contenido": "Hace unos meses escribí que clasificar a los dioses por dominios es un error de colegio: Ares el de la guerra, Poseidón el de los mares, y ya está. Decía entonces que los dioses no tienen dominios, tienen historias y uno o dos rasgos de los que esas historias brotan. He seguido dándole vueltas, y cr"
-  },
-  {
-    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
-    "titulo": "Patrick’s Parabox: Empuja fuera de la caja",
-    "link": "https://seyker.eu/patricks-parabox-rompecabezas-puzzle/",
-    "fecha": "31/05/2026",
-    "contenido": "No sé si echabais de menos mis reseñas de juegos que voy jugando, aunque parezca que no, sigo vivo y he jugado a unos pocos más en este 2026. El primero de todos fue Patrick’s Parabox, aunque realmente no fue el primero que terminé, ya que sus exigentes rompecabezas hicieron que me lo tomara con [&#"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Reseña de GURPS Conan",
-    "link": "http://frikoteca.blogspot.com/2026/05/resena-de-gurps-conan.html",
-    "fecha": "31/05/2026",
-    "contenido": "No hace mucho tiempo me compré una copia física de GURPS Conan, un libro de Steve Jackson Games escrito hace mucho tiempo para la tercera edición de GURPS. Se dice que los suplementos de GURPS, independientemente de su edición, son tan buenos que merece la pena comprarlos incluso si no juegas a ese "
-  },
-  {
-    "blog": "Estás Interfiriendo con mi Zen.",
-    "titulo": "24 horas con Pi-Hole",
-    "link": "https://edgarmtoro.wordpress.com/2026/05/31/24-horas-con-pi-hole/",
-    "fecha": "31/05/2026",
-    "contenido": "Entonces, la curiosidad pudo más y terminé instalando (facilmente, cabe decir) Pi-Hole. El setup es improvisado, y no lo recomendaría para larga duración. Basicamente un PC, corriendo TrueNAS Community 25.10.3.1 &#8220;GoldEye&#8221;, y Pi-Hole 1.4.10 como un contenedor. El problema con esta configu"
   }
 ]
