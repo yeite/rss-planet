@@ -1,5 +1,11 @@
 // Contenido de tu archivo remoto (ej: https://blogblog.es/easter-egg.js)
-const codigoSecreto = ['arrowup', 'arrowup', 'arrowdown', 'arrowdown'];
+const codigoSecreto = [
+  'ArrowUp', 'ArrowUp', 
+  'ArrowDown', 'ArrowDown', 
+  'ArrowLeft', 'ArrowRight', 
+  'ArrowLeft', 'ArrowRight', 
+  'b', 'a'
+];
 let indiceSecreto = 0;
 
 document.addEventListener('keydown', (e) => {
