@@ -17,7 +17,7 @@ document.addEventListener('keydown', (e) => {
     if (key === codigoSecreto[indiceSecreto]) {
         indiceSecreto++;
         if (indiceSecreto === codigoSecreto.length) {
-            window.location.href = 'https://blogblog.es';
+            window.location.href = 'https://yeite.github.io/egg/';
             indiceSecreto = 0;
         }
     } else {
