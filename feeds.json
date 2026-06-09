@@ -1,5 +1,68 @@
 [
   {
+    "blog": "Luis Carlos Pando",
+    "titulo": "La magia de una Copa Mundial en casa",
+    "link": "https://blog.luiscarlospando.com/personal/2026/06/la-magia-de-una-copa-mundial-en-casa/",
+    "fecha": "09/06/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "Semana 23/2026",
+    "link": "https://www.macram.es/posts/2026/06/semana-23-2026/",
+    "fecha": "09/06/2026",
+    "contenido": "La semana pasada se me olvidó, así que esta retro va a ser de dos semanas. No hay mucha novedad en realidad. Pasando calor, esperando con ansia que abran la piscina municipal, avanzando en el trabajo, escuchando música tranquilita y sin terminar de rematar el cambio de armario, que estp parece que n"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Creando una página web como se hacía 20 años atrás",
+    "link": "https://matizeta.com/2026/06/09/creando-una-pagina-web-como-se-hacia-20-anos-atras/",
+    "fecha": "09/06/2026",
+    "contenido": "Comencé con eso de “armar páginas web” con el editor de Microsoft FrontPage para luego pasar a algo “más profesional” como Dreamweaver. El primero hace más de una década que dejó de existir, el segundo aún sigue vivo aunque dudo mucho que alguien lo siga utilizando, al menos a la forma que se utiliz"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Los Ovnis ya no tienen excusa de baja calidad",
+    "link": "https://www.fabio.com.ar/9959-los-ovnis-ya-no-tienen-excusa-de-baja-calidad",
+    "fecha": "09/06/2026",
+    "contenido": "    \nEl otro d&iacute;a captur&eacute; en mi tel&eacute;fono un momento de lucha policial con una vendedora mantera, mi tel&eacute;fono, algo normal, nada despampanante, capturado en 1920x1080 a 60 cuadros por segundo, iluminaci&oacute;n perfecta, foco l&aacute;ser, estabilizaci&oacute;n &oacute;pti"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "[Libro] Sobredosis Pop - Ignacio Alcuri",
+    "link": "https://picandocodigo.net/2026/libro-sobredosis-pop-ignacio-alcuri/",
+    "fecha": "09/06/2026",
+    "contenido": "Sobredosis Pop fue el primer libro de cuentos cortos y experimentos literarios de Ignacio Alcuri, publicado en 2003. En mi más reciente viaje a Uruguay, me encontré con una nueva edición. Fue en marzo, mientras recorría la sección de autores nacionales y latinoamericanos en el local de Libros Libros"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Charlamos Con Maxi Elosegui Sobre La Actualidad De La Banda | Kraneo Nativo No Espera “Nada De Nadie”",
+    "link": "https://www.delotroladometal.com.ar/2026/06/09/kraneo-nativo-no-espera-nada-de-nadie/",
+    "fecha": "09/06/2026",
+    "contenido": "Quizá exista algún memorioso que recuerde a Habacuc, una vieja banda del underground del conurbano...\nThe post Charlamos Con Maxi Elosegui Sobre La Actualidad De La Banda | Kraneo Nativo No Espera “Nada De Nadie” first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "El Blog de un informático que sueña con mejorar el mundo",
+    "titulo": "Cómo remapear una tecla en el Keychron V6 con QMK (y casi cargarte el teclado en el intento)",
+    "link": "https://jesuspavonabian.es/post/keychron-v6-qmk-remap/",
+    "fecha": "09/06/2026",
+    "contenido": "Mi teclado hacía algo raro de narices. Había una tecla que enviaba Win+D cada vez que la pulsaba. En concreto, la tecla que debería ser PAUSE.\nY diréis&hellip; ¿Para qué sirve esa tecla? Pues para cambiar el control del teclado en las apps de máquinas virtuales en Windows, por ejemplo. Pero claro, a"
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Para tener a mano (LIV)",
+    "link": "https://javiersam.uy/2026/06/para-tener-a-mano-liv-2.html",
+    "fecha": "09/06/2026",
+    "contenido": "Graphite sigue avanzando Graphite es un novedoso editor de gráficos vectoriales de reciente aparición. Ofrece un flujo de trabajo no destructivo donde se puede combinar la tradicional composición basada en capas con el diseño generativo basado en nodos. Graphite se presenta a sí mismo como “el Blend"
+  },
+  {
+    "blog": "Jorge Aguilera",
+    "titulo": "FediPhoto I",
+    "link": "https://blog.jagedn.dev/blog/2026/fediphoto-i.html",
+    "fecha": "09/06/2026",
+    "contenido": "FediPhoto: una aplicación java de ejemplo para el fediverso"
+  },
+  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "Ajuar",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/ajuar/",
@@ -12,6 +75,13 @@
     "link": "http://unbrutocondebian.blogspot.com/2026/06/amule-el-ave-fenix-que-resurge-de-sus.html",
     "fecha": "08/06/2026",
     "contenido": "Hace ni más ni menos que 5 años desde la última actualización de aMule, el hermano gemelo multiplataforma del archiconocido eMule. Tiempo más que suficiente para que se haya quedado atrás en cuanto a prestaciones, aspecto y lo peor de todo muchas librerías han quedado obsoletas y dan problemas.&nbsp"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "El arte de Berserk",
+    "link": "https://mareosdeungeek.es/el-arte-de-berserk/",
+    "fecha": "08/06/2026",
+    "contenido": "El arte de Berserk es un libro recopilatorio que hace un recorrido a esta sensacional serie manga. El fallecimiento de Kentaro Miura, creador y autor de Berserk en 2021 coincidió con el 32 aniversario de la obra. Es por ello que durante ese año se celebró una exposición que recorrió varias ciudades "
   },
   {
     "blog": "matizeta",
@@ -33,6 +103,13 @@
     "link": "https://blog.danielaragay.net/trabajo-planes-de-futuro-y-mi-voz-clonada/",
     "fecha": "08/06/2026",
     "contenido": "Te cuento como va mi nueva aventura a pocas semanas vista de dejar mi trabajo, te cuento adem&#xe1;s como mi madre dio con mi voz en un v&#xed;deo de youtube hablando sobre los beneficios de la Chia. Si quieres saber m&#xe1;s sobre el clonado"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Los Tres en el Teatro Municipal: Una Presentación XCLNT",
+    "link": "https://altgr.xyz/2026/06/08/los-tres-en-el-teatro-municipal-una-presentacion-xclnt/",
+    "fecha": "08/06/2026",
+    "contenido": "Los Tres con formación original (Alvaro Henríquez, Ángel Parra, Roberto Lindl y Francisco Molina) presentaron en vivo el disco XCLNT en el Teatro Municipal de Santiago. La noche del domingo fue la primera de 2 presentaciones en la capital, luego de 2 shows en Concepción. La primera parte fue una pre"
   },
   {
     "blog": "_ voidNull",
@@ -63,6 +140,13 @@
     "contenido": "    \nEn &eacute;pocas de Tokenmaxxing y, m&aacute;s recientemente, ahorro de tokens (porque se dieron cuenta de lo que realmente costaban), me sorprende ver gente que pretende solucionar todo problema con AI como si 12.000 a&ntilde;os de historia de nuestra civilizaci&oacute;n no contaran.\n&iquest;E"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Kashat: Sangre Maligna | Volviendo A Las Fuentes Del Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/06/08/volviendo-a-las-fuentes-del-metal/",
+    "fecha": "08/06/2026",
+    "contenido": "(2025 &#8211; Zzooouhh Records) Cuantas bandas han quedado en el borroso paso del tiempo, y...\nThe post Kashat: Sangre Maligna | Volviendo A Las Fuentes Del Metal first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Una única cosa",
     "link": "https://guillermolatorre.com/citas-en-tinta/una-unica-cosa",
@@ -82,6 +166,20 @@
     "link": "https://victorhckinthefreeworld.com/2026/06/07/todo-tiene-un-precio/",
     "fecha": "07/06/2026",
     "contenido": "relato de  ficción o peligrosa profecía de la \"truñificación\" que va asolando cada rincón de lo que una vez fue una red abierta."
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Queriendo escribir un libro",
+    "link": "https://gatooscuro.xyz/queriendo-escribir-un-libro/",
+    "fecha": "07/06/2026",
+    "contenido": "Llevo algunos días de ausencia en el blog y de seguro sabrán el porqué, debido a que lo he descrito en diferentes artículos: básicamente, se trata de la división del\nSeguir leyendo  Queriendo escribir un libro\nEl cargo Queriendo escribir un libro apareció primero en El cuarto de GatoOscuro."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Valor sentimental (Affeksjonsverdi)",
+    "link": "https://mareosdeungeek.es/valor-sentimental-affeksjonsverdi/",
+    "fecha": "07/06/2026",
+    "contenido": "Valor sentimental (Affeksjonsverdi) es un drama noruego dirigido por Joachim Trier y premiado en la última edición de los Oscars como Mejor Película Internacional. Joachim Trier nos cuenta la historia de la familia de un director de cine, Gustav Borg, centrada en la casa familiar. La familia de Gust"
   },
   {
     "blog": "danielaragay.net",
@@ -110,6 +208,20 @@
     "link": "http://frikoteca.blogspot.com/2026/06/rass-rol-as-service.html",
     "fecha": "07/06/2026",
     "contenido": "Unos amigos me enviaron hace poco un enlace a un artículo en el que se hablaba de la futura estrategia de Chris Cocks (jefazo de Hasbro) con respecto a D&amp;D. El artículo es este: artículo en 3djuegos sobre D&amp;D y básicamente el titular gordo es que la estrategia de la empresa es que cada vez h"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Los Sellos Que No Se Rinden | Que No Se Pierda La Sana Costumbre",
+    "link": "https://www.delotroladometal.com.ar/2026/06/07/que-no-se-pierda-la-sana-costumbre/",
+    "fecha": "07/06/2026",
+    "contenido": "Estamos viviendo en la época de lo descartable, en donde todo lo que llega a...\nThe post Los Sellos Que No Se Rinden | Que No Se Pierda La Sana Costumbre first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Migrar una aplicación a Lovable",
+    "link": "https://dani.torresburriel.com/migrar-una-aplicacion-a-lovable/",
+    "fecha": "07/06/2026",
+    "contenido": "Este fin de semana ha sido un fin de semana bastante intenso. No porque haya tenido aventuras extraordinarias, sino más bien porque lo que he tenido han sido unas sesiones de estudio largas, intensas y bastante valiosas. Menos mal que con la tele y con las redes sociales he podido estar bastante al "
   },
   {
     "blog": "Salva Más De Cerca",
@@ -201,6 +313,13 @@
     "link": "https://56k.es/fanta/los-paradatos/",
     "fecha": "06/06/2026",
     "contenido": "«Los metadatos te cuentan absolutamente todo sobre la vida de alguien» Stewart Baker (exasesor jurídico general de la NSA) «Matamos gente basándonos en metadatos» Michael Hayden (Ex-director de la NSA) Y razón no les falta, es verdad que matan gente y que los metadatos cuentan mucho pero &#8230;¿y l"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Un Nuevo CD Recopilación Está Ya Disponible | Primal Publica “Fin De Los Tiempos”",
+    "link": "https://www.delotroladometal.com.ar/2026/06/06/primal-publica-fin-de-los-tiempos/",
+    "fecha": "06/06/2026",
+    "contenido": "Hacía tiempo que no teníamos novedades de Primal, pero lo que aquí mismo habíamos anunciado...\nThe post Un Nuevo CD Recopilación Está Ya Disponible | Primal Publica “Fin De Los Tiempos” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Chancli.dev",
@@ -336,6 +455,20 @@
     "contenido": "A veces me pasa que me entero de curiosidades varias. Y después me olvido de compartirlas con otros. Así que acá recopilo las que me enteré durante el mes pasado.\nGallinas\nLos seres humanos domesticamos a las gallinas inicialmente no por la carne o los huevos, sino para ver peleas de gallos como ent"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho",
+    "link": "https://www.delotroladometal.com.ar/2026/06/05/heavy-metal-hecho-y-derecho/",
+    "fecha": "05/06/2026",
+    "contenido": "(2023 &#8211; Retroactive Records) Otra joya rescatada más, y van. Cuanto material de los ´80...\nThe post Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "La verdadera historia de Lorem Ipsum…",
+    "link": "https://javiersam.uy/2026/06/la-verdadera-historia-de-lorem-ipsum.html",
+    "fecha": "05/06/2026",
+    "contenido": "Fantástico video de Emily Lin Zhang (de Rabbit Hole) que resume su profunda y reveladora investigación sobre el famoso texto de prueba “Lorem Ipsum”. Hay que mirarlo y con atención:"
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Clientes Jabber/XMPP para macOS",
     "link": "https://adrianperales.com/2026/06/clientes-jabber-xmpp-para-macos/",
@@ -355,6 +488,13 @@
     "link": "https://polotman.wordpress.com/2026/06/04/narrativas-transmedia-el-arte-de-expandir-historias/",
     "fecha": "04/06/2026",
     "contenido": "¿Alguna vez has terminado una película o un libro y has sentido que la historia se te quedaba corta? Te quedas con ganas de habitar ese mundo un … Narrativas transmedia: el arte de expandir historias"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "OpenSouthCode 2026",
+    "link": "https://mareosdeungeek.es/opensouthcode-2026/",
+    "fecha": "04/06/2026",
+    "contenido": "OpenSouthCode vuelve otro año más, trayendo un evento centrado en el software open source a la ciudad de Málaga. El evento, gratuito como todas sus ediciones, aunque hay que sacar la entrada, tendrá lugar en La Térmica, como viene siendo habitual. Este año se celebrará los días, viernes 26 y sábado "
   },
   {
     "blog": "matizeta",
@@ -420,6 +560,13 @@
     "contenido": "     Por ah&iacute; parece demasiado, pero es la ruleta\nJueves, semana completita, mucho posteo, mucho comentario, cambios en el registro del blog, env&iacute;os masivos de emails para avisar que actualicen contrase&ntilde;as, gente puteando, gente put&eacute;andome, gente ignor&aacute;ndome, pero a"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Prevailer Presenta Su Álbum Debut | Metalcore Con Una Vuelta De Rosca",
+    "link": "https://www.delotroladometal.com.ar/2026/06/04/metalcore-con-una-vuelta-de-rosca/",
+    "fecha": "04/06/2026",
+    "contenido": "Si sos de los que piensan que el Metalcore es siempre, mas o menos lo...\nThe post Prevailer Presenta Su Álbum Debut | Metalcore Con Una Vuelta De Rosca first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Sin nombre",
     "titulo": "Veinticinco",
     "link": "https://martinvukovic.com/posts/2026/06-03-veinticinco.html",
@@ -459,7 +606,14 @@
     "titulo": "Un año viviendo solo",
     "link": "https://blog.luiscarlospando.com/personal/2026/06/un-ano-viviendo-solo/",
     "fecha": "03/06/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Envidiosa (Serie)",
+    "link": "https://mareosdeungeek.es/envidiosa-serie/",
+    "fecha": "03/06/2026",
+    "contenido": "Finalmente pude ver la última temporada de Envidiosa, una serie argentina que puede verse en la plataforma de streaming Netflix. Protagonizada por Griselda Siciliani, en el papel de Victoria, lo que empieza como una comedia romántica, acaba recorriendo una serie de traumas para mostrar un curioso cu"
   },
   {
     "blog": "End3r.es",
@@ -574,18 +728,18 @@
     "contenido": "    \nHace poco hab&iacute;a utilizado la met&aacute;fora del \"virus gallego\" para un hack que requer&iacute;a de la intervenci&oacute;n del usuario, pura ingenier&iacute;a social, pero ahora tengo otro caso mucho peor, m&aacute;s ejemplificador de lo tontos que podemos ser los humanos.\nLa cuesti&oac"
   },
   {
-    "blog": "THE_CHEI$",
-    "titulo": "El blog ya forma parte del fediverso",
-    "link": "https://thecheis.com/2026/06/02/el-blog-ya-forma-parte-del-fediverso/",
-    "fecha": "02/06/2026",
-    "contenido": "EDITADO 4 DE JUNIO 2026: La cuenta del blog en el fediverso parece que a veces presenta algunos problemas, como retrasos en las publicaciones y comentarios anidados. Esto es algo conocido y frecuentemente reportado en WordPress, y depende de múltiples factores. Durante estos 3 años el blog ha crecid"
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera",
+    "link": "https://www.delotroladometal.com.ar/2026/06/03/se-viene-la-tercera/",
+    "fecha": "03/06/2026",
+    "contenido": "Su primer trabajo fue &#8220;All Will Bow&#8221; en 2022, y el año pasado liberaron &#8220;Slingshot&#8221;,...\nThe post Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – junio de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/06/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-junio-de-2026/",
-    "fecha": "02/06/2026",
-    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Ser un CEO transparente",
+    "link": "https://dani.torresburriel.com/ser-un-ceo-transparente/",
+    "fecha": "03/06/2026",
+    "contenido": "Me está empezando a dar un poco de miedo porque me ha dado cuenta que hace ya varios días, demasiados, que no me pasaba a escribir por aquí. Hay varias razones para que eso sea así, pero es que tampoco quiero que suene a excusa. En todo caso, como un blog personal es eso, un &#8230; Sigue leyendo Se"
   },
   {
     "blog": "Tecno y Soft",
@@ -593,27 +747,6 @@
     "link": "https://tecnoysoft.com/2026/06/02/recuperar-el-control-con-linux/",
     "fecha": "02/06/2026",
     "contenido": "Hablar de GNU/Linux solo en términos de FPS, compatibilidad con juegos o si ejecuta tal o cual launcher es quedarse en la superficie. Para muchas personas, Linux representa algo mucho más profundo: la idea de que el ordenador te pertenece a ti y no al fabricante del sistema operativo. La diferencia "
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "La forma correcta de cortar el pan de salchicha",
-    "link": "https://matizeta.com/2026/06/02/la-forma-correcta-de-cortar-el-pan-de-salchicha/",
-    "fecha": "02/06/2026",
-    "contenido": "Panchos, hot dog, perro caliente&#8230; cómo se llame en tu país. ¿pero cuál es la forma correcta de cortar el pan?¿por arriba o de costado?"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Webring de blogs personales en español",
-    "link": "https://matizeta.com/2026/06/02/webring-de-blogs-personales-en-espanol/",
-    "fecha": "02/06/2026",
-    "contenido": "Hace tiempo que le estaba dando vuelta a una idea para que todos los que tengamos un blog personal en español podamos colaborar con la difusión de otros blogs. Es por eso que se me ocurrió la idea de revivir la vieja idea de tener un webring. Pero.. ¿qué es eso? Un Webring se usaba [&#8230;]"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El paro en Suecia 2025-2026: una crisis silenciosa que marcará las elecciones",
-    "link": "https://blog.danielaragay.net/el-paro-en-suecia-2025-2026-una-crisis-silenciosa-que-marcara-las-elecciones/",
-    "fecha": "02/06/2026",
-    "contenido": "\nLoading the Elevenlabs Text to Speech AudioNative Player...\n\nEl desempleo sueco escal&#xf3; al 8,8% de media en 2025 (510.000 personas), su nivel m&#xe1;s alto desde la pandemia y tercer a&#xf1;o consecutivo de subida, manteni&#xe9;ndose entre los m&#xe1;s altos de"
   },
   {
     "blog": "Eterno aprendiz",
@@ -630,60 +763,11 @@
     "contenido": "El casco antiguo es un sector relativamente pequeño. Yo caminé un poco más de 2 horas y lo recorrí casi completo. Sus calles son angostas y de pronto te pillas con alguna pequeña plaza con monumentos, harta vegetación y algunos vendedores. Por ahí aproveché de comprar algunos pequeños souvenirs de r"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Paseo por el Casco Antiguo – Parte 1",
-    "link": "https://altgr.xyz/2026/06/02/paseo-por-el-casco-antiguo-parte-1/",
-    "fecha": "02/06/2026",
-    "contenido": "Otro de los lugares que aparece en los listados de imperdibles en Ciudad de Panamá es el casco viejo. El lugar a donde se trasladó la ciudad tras la destrucción a manos de corsarios ingleses en el siglo XVII. La zona conserva construcciones de la época de la colonia. Hay muchas iglesias muy bonitas "
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Erica a diario en Móstoles",
-    "link": "https://www.ericafustero.com/2026-06-erica-a-diario-en-mostoles",
-    "fecha": "02/06/2026",
-    "contenido": "Esta es la segunda parte de la serie contando mis aventuras durante las presentaciones de Erica a diario. Si te perdiste la primera parte, puedes leerla aquí. La lluvia y los cielos grises de Valencia me acompañaron a Madrid, ciudad que me recibió con lluvia, poco más de 10 grados y un airecillo de "
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "José Carlos Gómez Villamandos",
     "link": "https://www.xn--jmuoz-qta.es/2026/06/jose-carlos-gomez-villamandos.html",
     "fecha": "02/06/2026",
     "contenido": "\n  \n    \n  \nHa trascendido esta tarde que ha fallecido José Carlos Gómez Villamandos. La mayoría de gente lo conoce por haber sido consejero de Universidades en la Junta de Andalucía, pero yo lo conocía de antes porque participé activamente en su campaña para rector de la Universidad de Córdoba, cua"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Selectividad",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/selectividad.html",
-    "fecha": "02/06/2026",
-    "contenido": "\n  \n    \n  \nHoy comienza la Selectividad en Andalucía. Es la primera vez desde que yo la hice hace quince años (¡qué barbaridad!) que esto me importa porque por primera vez he impartido mi materia en 2.° Bachillerato y he preparado a los alumnos para esta prueba de acceso a la universidad.Hoy se ver"
-  },
-  {
-    "blog": "",
-    "titulo": "Convocatoria.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/06/02/convocatoria-8/",
-    "fecha": "02/06/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "56K",
-    "titulo": "Tu propio buscador sin casinos y sin youtubers de extrema derecha",
-    "link": "https://56k.es/fanta/tu-propio-buscador-sin-casinos-y-sin-youtubers-de-extrema-derecha/",
-    "fecha": "02/06/2026",
-    "contenido": "Andas cansado/a/e de buscadores que tratan de espiarte, de buscadores que solamente te muestran resultados boosteados previo pago, de que metan IA slop hasta en la sopa, &#8230; pues he de decirte que pocas alternativas tenemos ahora mismo. He estado estos días buscando alternativas a «Google» que n"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Criaste un boludo inservible para el mundo",
-    "link": "https://www.fabio.com.ar/9954-criaste-un-boludo-inservible-para-el-mundo",
-    "fecha": "02/06/2026",
-    "contenido": "    \nLlevo varios d&iacute;as charlando sobre el tema y, si bien necesitar&iacute;a m&aacute;s informaci&oacute;n, no quer&iacute;a dejar de pasar una publicaci&oacute;n que vi justamente hablando de esto.\nEl tema son los ni&ntilde;atos que poco a poco entran en el mercado laboral y son terribles im"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "¿Cómo juegan Mega Man X en el Super Nintendo?",
-    "link": "https://picandocodigo.net/2026/como-juegan-mega-man-x-en-el-super-nintendo/",
-    "fecha": "02/06/2026",
-    "contenido": "El fin de semana pasado me puse a jugar a Mega Man X en Super Nintendo. Es uno de mis juegos preferidos, de los mejores de todos los tiempos. ¿Ustedes también juegan con los dedos en el control así? El pulgar lo uso para tener siempre cargando el mega buster en el Y, y saltar con el B. Pero la mayor"
   },
   {
     "blog": "DESDE UN BALCÓN DE MADRID",
