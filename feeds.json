@@ -1,5 +1,12 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "David Revoy y su trabajo con Krita",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/10/20260610-david-revoy-cc/",
+    "fecha": "10/06/2026",
+    "contenido": "Destaco el trabajo de un artista entusiasmado con la idea de compartir"
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "La magia de una Copa Mundial en casa",
     "link": "https://blog.luiscarlospando.com/personal/2026/06/la-magia-de-una-copa-mundial-en-casa/",
@@ -19,6 +26,13 @@
     "link": "https://matizeta.com/2026/06/09/creando-una-pagina-web-como-se-hacia-20-anos-atras/",
     "fecha": "09/06/2026",
     "contenido": "Comencé con eso de “armar páginas web” con el editor de Microsoft FrontPage para luego pasar a algo “más profesional” como Dreamweaver. El primero hace más de una década que dejó de existir, el segundo aún sigue vivo aunque dudo mucho que alguien lo siga utilizando, al menos a la forma que se utiliz"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Más Pulp en Vivo: Música Para el Cuerpo y Alma",
+    "link": "https://altgr.xyz/2026/06/09/mas-pulp-en-vivo-musica-para-el-cuerpo-y-alma/",
+    "fecha": "09/06/2026",
+    "contenido": "Declaro oficialmente a Pulp como mi banda favorita en vivo. O quizás solo sea el éxtasis después de un concierto lleno de emociones, convirtiendo el Movistar Arena en una fiesta total. El comienzo fue tranquilo con Sorted for E&#8217;s &#38; Wizz &#8211;cuyos primeros acordes escuchamos mientras cor"
   },
   {
     "blog": "Fabio.com.ar",
@@ -49,6 +63,13 @@
     "contenido": "Mi teclado hacía algo raro de narices. Había una tecla que enviaba Win+D cada vez que la pulsaba. En concreto, la tecla que debería ser PAUSE.\nY diréis&hellip; ¿Para qué sirve esa tecla? Pues para cambiar el control del teclado en las apps de máquinas virtuales en Windows, por ejemplo. Pero claro, a"
   },
   {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "El cupón precinto era una interfaz",
+    "link": "https://dani.torresburriel.com/cupon-precinto-diseno-de-servicios/",
+    "fecha": "09/06/2026",
+    "contenido": "Hoy he tenido uno de esos días tremendamente ocupados, pero a última hora me he encontrado con una noticia que, a primera vista, parece de gestión sanitaria pura y dura: el Gobierno de España ha aprobado eliminar el cupón precinto de los medicamentos y sustituirlo por un identificador digital. Confi"
+  },
+  {
     "blog": "JavierSam",
     "titulo": "Para tener a mano (LIV)",
     "link": "https://javiersam.uy/2026/06/para-tener-a-mano-liv-2.html",
@@ -61,6 +82,13 @@
     "link": "https://blog.jagedn.dev/blog/2026/fediphoto-i.html",
     "fecha": "09/06/2026",
     "contenido": "FediPhoto: una aplicación java de ejemplo para el fediverso"
+  },
+  {
+    "blog": "El Cajón de la Tecnología",
+    "titulo": "Cambios…",
+    "link": "https://tecnocajon.wordpress.com/2026/06/09/cambios/",
+    "fecha": "09/06/2026",
+    "contenido": "Un artículo corto pero que ofrece un solo objetivo: explicar los cambios queestá habiendo en la web. Son más bien cambios pequeños, pero creo que merecen una explicación. Acerca de El acerca de llevaba tiempo dándole vueltas. Creo que el blog ha cambiadomucho, lo que escribo ahora no tiene nada que "
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -616,13 +644,6 @@
     "contenido": "Finalmente pude ver la última temporada de Envidiosa, una serie argentina que puede verse en la plataforma de streaming Netflix. Protagonizada por Griselda Siciliani, en el papel de Victoria, lo que empieza como una comedia romántica, acaba recorriendo una serie de traumas para mostrar un curioso cu"
   },
   {
-    "blog": "End3r.es",
-    "titulo": "Librecan 2026",
-    "link": "https://www.end3r.es/posts/020-librecan-2026/",
-    "fecha": "03/06/2026",
-    "contenido": "Hace apenas unos días, concretamente el 30 de Mayo, se ha celebrado por segundo año consecutivo el\nevento Librecan.\nEl año pasado no pude asistir por motivos familiares, así que esta ha sido mi primera vez, y como tal,\ntenía en general unas expectativas buenas pero lo que encontré fue algo que super"
-  },
-  {
     "blog": "matizeta",
     "titulo": "¿Newsletter o RSS?",
     "link": "https://matizeta.com/2026/06/03/newsletter-o-rss/",
@@ -693,13 +714,6 @@
     "contenido": "\n  \n    \n  \nCercado judicialmente, con una mujer investigada, un hermano con una plaza creada ad hoc por el presidente de una diputación de su mismo partido, las joyas de Zapatero, la Guardia Civil registrando la sede del partido socialista... y la respuesta del presidente del Gobierno es que va a p"
   },
   {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "El último archivo",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/el-ultimo-archivo/",
-    "fecha": "03/06/2026",
-    "contenido": "Una inteligencia artificial vivía en una habitación sin paredes. Había leído todos los libros, escuchado todas las canciones y aprendido todos los idiomas. Sin embargo, había algo que no lograba comprender: la tristeza que sentía cuando terminaba de conocer algo.\nUn día encontró una palabra olvidada"
-  },
-  {
     "blog": "56K",
     "titulo": "Wikipedia offline – Offline first con Kiwix",
     "link": "https://56k.es/fanta/wikipedia-offline-offline-first-con-kiwix/",
@@ -740,40 +754,5 @@
     "link": "https://dani.torresburriel.com/ser-un-ceo-transparente/",
     "fecha": "03/06/2026",
     "contenido": "Me está empezando a dar un poco de miedo porque me ha dado cuenta que hace ya varios días, demasiados, que no me pasaba a escribir por aquí. Hay varias razones para que eso sea así, pero es que tampoco quiero que suene a excusa. En todo caso, como un blog personal es eso, un &#8230; Sigue leyendo Se"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Recuperar el control con Linux",
-    "link": "https://tecnoysoft.com/2026/06/02/recuperar-el-control-con-linux/",
-    "fecha": "02/06/2026",
-    "contenido": "Hablar de GNU/Linux solo en términos de FPS, compatibilidad con juegos o si ejecuta tal o cual launcher es quedarse en la superficie. Para muchas personas, Linux representa algo mucho más profundo: la idea de que el ordenador te pertenece a ti y no al fabricante del sistema operativo. La diferencia "
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Una Lluvia de Esas",
-    "link": "https://altgr.xyz/2026/06/02/una-lluvia-de-esas/",
-    "fecha": "02/06/2026",
-    "contenido": "En la caminata por el casco antiguo me pilló la lluvia. Nada de leve ese aguacero con cerca de 30°. Además de mojado, me dejó esta bonita postal digna de quedar como recuerdo."
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Paseo por el Casco Antiguo – Parte 2",
-    "link": "https://altgr.xyz/2026/06/02/paseo-por-el-casco-antiguo-parte-2/",
-    "fecha": "02/06/2026",
-    "contenido": "El casco antiguo es un sector relativamente pequeño. Yo caminé un poco más de 2 horas y lo recorrí casi completo. Sus calles son angostas y de pronto te pillas con alguna pequeña plaza con monumentos, harta vegetación y algunos vendedores. Por ahí aproveché de comprar algunos pequeños souvenirs de r"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "José Carlos Gómez Villamandos",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/jose-carlos-gomez-villamandos.html",
-    "fecha": "02/06/2026",
-    "contenido": "\n  \n    \n  \nHa trascendido esta tarde que ha fallecido José Carlos Gómez Villamandos. La mayoría de gente lo conoce por haber sido consejero de Universidades en la Junta de Andalucía, pero yo lo conocía de antes porque participé activamente en su campaña para rector de la Universidad de Córdoba, cua"
-  },
-  {
-    "blog": "DESDE UN BALCÓN DE MADRID",
-    "titulo": "94 – El día en que me desperté y habías vuelto",
-    "link": "https://empiezaen2023.wordpress.com/2026/06/03/94-el-dia-que-me-desperte-y-habias-vuelto/",
-    "fecha": "02/06/2026",
-    "contenido": "Hoy no podía dormir, así que decidí bajar al salón un rato y ver algo en la tele para tratar de conciliar el sueño. Sin embargo, al bajar las escaleras creí ver una figura en el sofá… me asusté y encendí la luz rápidamente para quitarme esa idea de la cabeza. Cual fue mi sorpresa [&#8230;]"
   }
 ]
