@@ -1,10 +1,80 @@
 [
   {
+    "blog": "plr blog",
+    "titulo": "Un marcador/bookmarklet en el navegador para ver los RSS de las webs",
+    "link": "https://pedrolr.es/blog/un-marcador-bookmarklet-en-el-navegador-para-ver-los-rss-de-las-webs/",
+    "fecha": "10/06/2026",
+    "contenido": "A veces he usado extensiones que buscan los RSS de páginas web. Hace un tiempo empecé a usar cuantas menos extensiones en el navegador mejor. Tengo botones propios para mandar enlaces a Mastodon, a archive.today, a la WayBack Machine, y tengo otros para proyectos personales. En esta web de Josh Beck"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "¿Qué ocurre en Colombia con las llamadas de spam? Cultura, filtraciones y burocracia",
+    "link": "https://gatooscuro.xyz/que-ocurre-en-colombia-con-las-llamadas-de-spam-cultura-filtraciones-y-burocracia/",
+    "fecha": "10/06/2026",
+    "contenido": "Creo que debí escribir este artículo desde hace muchos años. De verdad, es un tema que nos compete a todos y creo que, en algún momento, todos nos hemos hecho\nSeguir leyendo  ¿Qué ocurre en Colombia con las llamadas de spam? Cultura, filtraciones y burocracia\nEl cargo ¿Qué ocurre en Colombia con las"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Hay un huevo de pascua escondido en mi web: te desafío a encontrarlo",
+    "link": "https://matizeta.com/2026/06/10/hay-un-huevo-de-pascua-escondido-en-mi-web-te-desafio-a-encontrarlo/",
+    "fecha": "10/06/2026",
+    "contenido": "Lo que en inglés se llama Easter Egg, puede ser un mensaje, imagen que se accede mediante un código secreto, una combinación de teclas, etc.&#160; Es una especie de “broma” que dejan los desarrolladores.&#160; Hace tiempo que quería incluir uno en mi web pero no sabía que hacer ni como implementarlo"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Mejores paneles de control para gestionar tu servidor",
+    "link": "https://voidnull.es/mejores-paneles-de-control-para-gestionar-tu-servidor/",
+    "fecha": "10/06/2026",
+    "contenido": "Comparativa de algunos de los mejores paneles de control para gestionar servidores GNU/Linux."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "David Revoy y su trabajo con Krita",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/10/20260610-david-revoy-cc/",
     "fecha": "10/06/2026",
     "contenido": "Destaco el trabajo de un artista entusiasmado con la idea de compartir"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "San Isidro 2026",
+    "link": "https://www.ericafustero.com/2026-06-san-isidro-2026",
+    "fecha": "10/06/2026",
+    "contenido": "El día de San Isidro tenía la energía bajo mínimos después de una semana intensa llena de eventos entre Valencia, Móstoles y Madrid. El plan era acercarnos al Jardín de las Vistillas, pasear hasta la feria y tomar algo; aún así, supuse que me encontraría gente interesante que fotografiar y decidí ll"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Teletrabajo para (casi) todo",
+    "link": "https://www.xn--jmuoz-qta.es/2026/06/teletrabajo-para-casi-todo.html",
+    "fecha": "10/06/2026",
+    "contenido": "Creo que el teletrabajo es el futuro para la mayoría de ámbitos. Evidentemente en mi sector, la educación, sí que es cierto que los pupilos más jóvenes deben socializar con sus iguales como parte de su formación vital, pero ¿y el resto? ¿Qué sentido tiene estar en un oficina haciendo un trabajo que "
+  },
+  {
+    "blog": "56K",
+    "titulo": "Una web simple en los registros DNS TXT",
+    "link": "https://56k.es/fanta/una-web-simple-en-los-registros-dns-txt/",
+    "fecha": "10/06/2026",
+    "contenido": "Esto es un experimento realizado por Blaine Murphy que demuestra que es posible usar los DNS TXT records como almacenamiento. ¿Y esto para que puede servir? En este caso la finalidad del experimento dns-web-hosting es demostrar que si has adquirido un dominio podrías no necesitar montar/contratar ho"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Los billetes japoneses de invasión",
+    "link": "https://www.fabio.com.ar/9960-los-billetes-japoneses-de-invasion",
+    "fecha": "10/06/2026",
+    "contenido": "    \nCuando los japoneses invad&iacute;an lo hac&iacute;an con extrema crueldad, pero al mismo tiempo con organizaci&oacute;n y estructura.\nPa&iacute;s invadido, pa&iacute;s que deb&iacute;a seguir funcionando y tener una moneda de curso legal que la autoridad militar japonesa pudiera controlar, as&"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene",
+    "link": "https://www.delotroladometal.com.ar/2026/06/10/ritual-servant-no-se-detiene/",
+    "fecha": "10/06/2026",
+    "contenido": "Ya se habrán dado cuenta todo lo que insistimos con ellos, pero sinceramente no exageramos...\nThe post Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Jorge Aguilera",
+    "titulo": "FediPhoto II",
+    "link": "https://blog.jagedn.dev/blog/2026/fediphoto-ii.html",
+    "fecha": "10/06/2026",
+    "contenido": "FediPhoto: una aplicación java de ejemplo para el fediverso"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -616,13 +686,6 @@
     "contenido": "Mis notas sobre cómo configurar el cifrado mediante age en Spacemacs"
   },
   {
-    "blog": "Diego's Island.",
-    "titulo": "¿Dónde encontrar Blogs?",
-    "link": "https://diegoaep.codeberg.page/lee-blogs/",
-    "fecha": "04/06/2026",
-    "contenido": "Encontrar buenos blogs hoy en día es difícil, pero nunca será imposible. Después de leer esta publicación tu búsqueda será más fácil."
-  },
-  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Es necesario un dominio?",
     "link": "https://vctrsnts.codeberg.page/posts/2026-06-04-es-necesario-dominio/",
@@ -637,25 +700,11 @@
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Envidiosa (Serie)",
-    "link": "https://mareosdeungeek.es/envidiosa-serie/",
-    "fecha": "03/06/2026",
-    "contenido": "Finalmente pude ver la última temporada de Envidiosa, una serie argentina que puede verse en la plataforma de streaming Netflix. Protagonizada por Griselda Siciliani, en el papel de Victoria, lo que empieza como una comedia romántica, acaba recorriendo una serie de traumas para mostrar un curioso cu"
-  },
-  {
     "blog": "matizeta",
     "titulo": "¿Newsletter o RSS?",
     "link": "https://matizeta.com/2026/06/03/newsletter-o-rss/",
     "fecha": "03/06/2026",
     "contenido": "¿Cuál medio es de tu preferencia para informarte? Newsletter o RSS?"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Una suite para crear un archivo completo de tu vida digital",
-    "link": "https://matizeta.com/2026/06/03/un-suite-para-crear-un-archivo-completo-de-tu-vida-digital/",
-    "fecha": "03/06/2026",
-    "contenido": "Hace algunas semanas hablé sobre una persona que creó una Wikipedia&#160;(utilizando IA con información personal) con algunos momentos de su vida y su familia. Timelinze va por esa misma línea:&#160;es una suite de archivo personal de código abierto, diseñada para la historia familiar moderna: organ"
   },
   {
     "blog": "Eterno aprendiz",
@@ -686,67 +735,11 @@
     "contenido": "Aprende a utilizar el comando nslookup en GNU/Linux para consultar registros DNS, resolver dominios, diagnosticar problemas de red y verificar servidores DNS mediante ejemplos prácticos y opciones avanzadas."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Cómo instalar Yarn en Ubuntu 26.04",
-    "link": "https://voidnull.es/como-instalar-yarn-en-ubuntu-26-04/",
-    "fecha": "03/06/2026",
-    "contenido": "Yarn es un administrador de paquetes para JavaScript compatible con NPM que nos permite instalar, actualizar, configurar y eliminar paquetes NPM."
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "La economía de la confianza",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/03/20260603-economia-confianza/",
-    "fecha": "03/06/2026",
-    "contenido": "La saturación de contenido sintético con la que se han visto afectadas las plataformas de digitales han generado una crisis de confianza en el contenido distribuido"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El horizonte de sucesos (Crónica de la masa crítica)",
-    "link": "https://docig.bearblog.dev/el-horizonte-de-sucesos-cronica-de-la-masa-critica/",
-    "fecha": "03/06/2026",
-    "contenido": "[REGISTRO DE SISTEMA #09]\nFoco: Colapso gravitatorio.\nEstado: Pérdida inminente de la señal portadora.\nNo es una cicatriz negra en la noche del cosmos,\nsino una boca muda que devora su propio nombre.\nUna densidad tan feroz que dobla el espinazo de la luz\ny la obliga a dar la vuelta,\na volverse sobre"
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Cerco judicial, pero con presupuestos",
     "link": "https://www.xn--jmuoz-qta.es/2026/06/cerco-judicial-pero-con-presupuestos.html",
     "fecha": "03/06/2026",
     "contenido": "\n  \n    \n  \nCercado judicialmente, con una mujer investigada, un hermano con una plaza creada ad hoc por el presidente de una diputación de su mismo partido, las joyas de Zapatero, la Guardia Civil registrando la sede del partido socialista... y la respuesta del presidente del Gobierno es que va a p"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Wikipedia offline – Offline first con Kiwix",
-    "link": "https://56k.es/fanta/wikipedia-offline-offline-first-con-kiwix/",
-    "fecha": "03/06/2026",
-    "contenido": "Dicen las malas lenguas que algunas personas se reían de otras porque imprimieron los artículos más importantes sobre medicina/pájaros/lugares/&#8230; de la wikipedia. Otros comentan que gente viviendo en ciudades se reían de quienes se bajaban la wikipedia para consultarla offline. Hacían el esfuer"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Gentoo dice NO a la IA en sus políticas",
-    "link": "https://56k.es/fanta/gentoo-dice-no-a-la-ia/",
-    "fecha": "03/06/2026",
-    "contenido": "En unas semanas mi idea es formatear el sistema operativo que tengo actualmente en mi ordenador personal y poner de nuevo Gentoo. Gentoo es una distribución GNU+Linux a la que regreso cada cierto tiempo. En momentos de mucho agobio quizás no recurro a Gentoo pero cuando puedo darle un poco de tiempo"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Hosts in the night – Bloqueando from Scratch",
-    "link": "https://56k.es/fanta/hosts-in-the-night-bloqueando-mierda-from-scratch/",
-    "fecha": "03/06/2026",
-    "contenido": "Eres una persona muy lista por lo que veo. Cuando te hablan de los «hosts files» sabes de que se trata. No obstante has de saber que lo mismo no todo el mundo es tan listo y tan guapo como tú. Es posible que alguien no sepa para que se puede usar el «hosts file»..."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "DenuvOwO y tan boludos como el virus gallego",
-    "link": "https://www.fabio.com.ar/9955-denuvowo-y-tan-boludos-como-el-virus-gallego",
-    "fecha": "03/06/2026",
-    "contenido": "    \nHace poco hab&iacute;a utilizado la met&aacute;fora del \"virus gallego\" para un hack que requer&iacute;a de la intervenci&oacute;n del usuario, pura ingenier&iacute;a social, pero ahora tengo otro caso mucho peor, m&aacute;s ejemplificador de lo tontos que podemos ser los humanos.\nLa cuesti&oac"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera",
-    "link": "https://www.delotroladometal.com.ar/2026/06/03/se-viene-la-tercera/",
-    "fecha": "03/06/2026",
-    "contenido": "Su primer trabajo fue &#8220;All Will Bow&#8221; en 2022, y el año pasado liberaron &#8220;Slingshot&#8221;,...\nThe post Reign Of Glory Prepara Su Tercer Álbum | Se Viene La Tercera first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
