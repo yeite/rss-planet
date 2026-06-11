@@ -1,283 +1,292 @@
 <!doctype html>
 <html lang="es">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>¡Blog!¡Blog!</title>
-<link rel="stylesheet" href="estilos.css" />
-</head>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>¡Blog!¡Blog!</title>
+        <link rel="stylesheet" href="css/estilos.css" />
+    </head>
 
-<body>
+    <body>
+        <!-- header -->
+        <div id="header-placeholder"></div>
 
-<!-- header -->
-<div id="header-placeholder"></div>
+        <script>
+            fetch("header.html")
+                .then((response) => response.text())
+                .then((data) => {
+                    document.getElementById("header-placeholder").innerHTML =
+                        data;
+                })
+                .catch((err) => console.error(err));
+        </script>
 
-<script>
-fetch("header.html")
-.then(response => response.text())
-.then(data => {
-    document.getElementById("header-placeholder").innerHTML = data;
-})
-.catch(err => console.error(err));
-</script>
+        <main>
+            <div>
+                   
+                <p id="contador"></p>
+                   
+                <p id="fecha"></p>
+            </div>
 
-<main>
+            <div class="filtros">
+                   
+                <select id="filtroPais">
+                           
+                    <option value="">🌎 Todos los países</option>
+                       
+                </select>
 
-<div>
-    <p id="contador"></p>
-    <p id="fecha"></p>
-</div>
+                   
+                <select id="filtroCategoria">
+                           
+                    <option value="">📚 Todas las categorías</option>
+                       
+                </select>
 
-<div class="filtros">
+                   
+                <select id="filtroInsignia">
+                           
+                    <option value="">🏅 Todas las insignias</option>
+                           
+                    <option value="Aliado">🐸 Aliado</option>
+                           
+                    <option value="Sponsor">⭐ Sponsor</option>
+                           
+                    <option value="Webring">🪐 Webring</option>
+                       
+                </select>
+            </div>
 
-    <select id="filtroPais">
-        <option value="">🌎 Todos los países</option>
-    </select>
+            <div
+                id="mensajeInsignia"
+                class="mensaje-recuadro"
+                style="display: none"
+            ></div>
 
-    <select id="filtroCategoria">
-        <option value="">📚 Todas las categorías</option>
-    </select>
+            <div id="contenedor"></div>
+        </main>
 
-    <select id="filtroInsignia">
-        <option value="">🏅 Todas las insignias</option>
-        <option value="Aliado">🐸 Aliado</option>
-        <option value="Sponsor">⭐ Sponsor</option>
-        <option value="Webring">🪐 Webring</option>
-    </select>
+        <!-- footer -->
+        <div id="footer-placeholder"></div>
 
-</div>
+        <script>
+            fetch("footer.html")
+                .then((response) => response.text())
+                .then((data) => {
+                    document.getElementById("footer-placeholder").innerHTML =
+                        data;
+                })
+                .catch((err) => console.error(err));
+        </script>
 
-<div id="mensajeInsignia" class="mensaje-recuadro" style="display: none;"></div>
-    
-<div id="contenedor"></div>
+        <script>
+            const contenedor = document.getElementById("contenedor");
+            const filtroPais = document.getElementById("filtroPais");
+            const filtroCategoria = document.getElementById("filtroCategoria");
+            const filtroInsignia = document.getElementById("filtroInsignia");
+            const mensajeInsignia = document.getElementById("mensajeInsignia");
 
-</main>
+            let blogs = [];
 
-<!-- footer -->
-<div id="footer-placeholder"></div>
+            const banderas = {
+                Argentina: "🇦🇷",
+                Bolivia: "🇧🇴",
+                Chile: "🇨🇱",
+                Colombia: "🇨🇴",
+                Cuba: "🇨🇺",
+                Ecuador: "🇪🇨",
+                España: "🇪🇸",
+                México: "🇲🇽",
+                Paraguay: "🇵🇾",
+                Perú: "🇵🇪",
+                Uruguay: "🇺🇾",
+                Venezuela: "🇻🇪",
+            };
 
-<script>
-fetch("footer.html")
-.then(response => response.text())
-.then(data => {
-    document.getElementById("footer-placeholder").innerHTML = data;
-})
-.catch(err => console.error(err));
-</script>
+            const categoriasEmoji = {
+                "AIRE LIBRE": "🍃",
+                "ARTE Y DISEÑO": "🎨",
+                "CIENCIA Y HUMANIDADES": "🧪",
+                "COMIDA Y BEBIDA": "🍽️",
+                "ENTRETENIMIENTO Y CULTURA": "📺",
+                FOTOGRAFÍA: "📸",
+                NEWSLETTER: "🗞️",
+                LITERARIO: "📚",
+                "MANUALIDADES / HOBBIES": "✂️",
+                PODCAST: "🎙️",
+                "SOCIEDAD Y ECONOMÍA": "💸",
+                TECNOLOGÍA: "💻",
+                VIAJES: "✈️",
+                "VIDA DIARIA": "🏠",
+            };
 
-<script>
+            fetch("blogs.json")
+                .then((res) => {
+                    if (!res.ok)
+                        throw new Error("No se pudo cargar blogs.json");
+                    const ultimaActualizacion =
+                        res.headers.get("Last-Modified");
+                    return res.json().then((data) => ({
+                        data,
+                        ultimaActualizacion,
+                    }));
+                })
+                .then(({ data, ultimaActualizacion }) => {
+                    blogs = data;
 
-const contenedor = document.getElementById("contenedor");
-const filtroPais = document.getElementById("filtroPais");
-const filtroCategoria = document.getElementById("filtroCategoria");
-const filtroInsignia = document.getElementById("filtroInsignia");
-const mensajeInsignia = document.getElementById("mensajeInsignia");
+                    poblarFiltros();
+                    mostrarBlogs(blogs);
 
-let blogs = [];
+                    document.getElementById("contador").textContent =
+                        `🎉 Ya hay ${blogs.length} blogs personales en español`;
+                })
+                .catch((err) => {
+                    contenedor.innerHTML = `<p>Error al cargar los blogs 😢</p><p>${err.message}</p>`;
+                });
 
-const banderas = {
-    Argentina:"🇦🇷",
-    Bolivia:"🇧🇴",
-    Chile:"🇨🇱",
-    Colombia:"🇨🇴",
-    Cuba:"🇨🇺",
-    Ecuador:"🇪🇨",
-    España:"🇪🇸",
-    México:"🇲🇽",
-    Paraguay:"🇵🇾",
-    Perú:"🇵🇪",
-    Uruguay:"🇺🇾",
-    Venezuela:"🇻🇪"
-};
+            function poblarFiltros() {
+                const paises = [
+                    ...new Set(blogs.map((b) => b.País).filter(Boolean)),
+                ].sort();
 
-const categoriasEmoji = {
-    "AIRE LIBRE":"🍃",
-    "ARTE Y DISEÑO":"🎨",
-    "CIENCIA Y HUMANIDADES":"🧪",
-    "COMIDA Y BEBIDA":"🍽️",
-    "ENTRETENIMIENTO Y CULTURA":"📺",
-    "FOTOGRAFÍA":"📸",
-    "NEWSLETTER":"🗞️",
-    "LITERARIO":"📚",
-    "MANUALIDADES / HOBBIES":"✂️",
-    "PODCAST":"🎙️",
-    "SOCIEDAD Y ECONOMÍA":"💸",
-    "TECNOLOGÍA":"💻",
-    "VIAJES":"✈️",
-    "VIDA DIARIA":"🏠"
-};
+                const categorias = [
+                    ...new Set(
+                        blogs.flatMap((b) =>
+                            b.Categoría
+                                ? b.Categoría.split(",").map((c) => c.trim())
+                                : [],
+                        ),
+                    ),
+                ].sort();
 
-fetch("blogs.json")
-.then(res => {
-    if (!res.ok) throw new Error("No se pudo cargar blogs.json");
-    const ultimaActualizacion = res.headers.get("Last-Modified");
-    return res.json().then(data => ({
-        data,
-        ultimaActualizacion
-    }));
-})
-.then(({data, ultimaActualizacion}) => {
-    blogs = data;
+                paises.forEach((p) => {
+                    const opt = document.createElement("option");
+                    opt.value = p;
+                    opt.textContent = `${banderas[p] || ""} ${p}`;
+                    filtroPais.appendChild(opt);
+                });
 
-    poblarFiltros();
-    mostrarBlogs(blogs);
+                categorias.forEach((c) => {
+                    const opt = document.createElement("option");
+                    opt.value = c;
+                    opt.textContent = `${categoriasEmoji[c.toUpperCase()] || ""} ${c}`;
+                    filtroCategoria.appendChild(opt);
+                });
 
-    
-    document.getElementById("contador").textContent =
-        `🎉 Ya hay ${blogs.length} blogs personales en español`;
+                filtroPais.addEventListener("change", filtrar);
+                filtroCategoria.addEventListener("change", filtrar);
+                filtroInsignia.addEventListener("change", filtrar);
+            }
 
-    
+            function filtrar() {
+                const paisSel = filtroPais.value;
+                const catSel = filtroCategoria.value;
+                const insigniaSel = filtroInsignia.value;
 
-})
-.catch(err => {
-    contenedor.innerHTML =
-        `<p>Error al cargar los blogs 😢</p><p>${err.message}</p>`;
-});
+                // 1. Lógica para mostrar/ocultar el mensaje de la insignia
+                const textosInsignias = {
+                    Aliado: "🐸 Blogs que ayudan a difundir el proyecto poniendo un pequeño banner de ¡Blog!¡Blog en su blog",
+                    Sponsor:
+                        "⭐ Blogs que aportaron económicamente al proyecto.",
+                    Webring:
+                        "🪐 Blogs que participan del Webring de blogs en español.",
+                };
 
+                if (textosInsignias[insigniaSel]) {
+                    mensajeInsignia.textContent = textosInsignias[insigniaSel];
+                    mensajeInsignia.style.display = "block"; // Muestra el recuadro
+                } else {
+                    mensajeInsignia.textContent = "";
+                    mensajeInsignia.style.display = "none"; // Oculta si elige "Todas las insignias"
+                }
 
-function poblarFiltros() {
-    const paises = [
-        ...new Set(
-            blogs.map(b => b.País).filter(Boolean)
-        )
-    ].sort();
+                // 2. Lógica de filtrado original (se mantiene igual)
+                const filtrados = blogs.filter((b) => {
+                    const matchPais = paisSel ? b.País === paisSel : true;
 
-    const categorias = [
-        ...new Set(
-            blogs.flatMap(b =>
-                b.Categoría
-                ? b.Categoría.split(",").map(c => c.trim())
-                : []
-            )
-        )
-    ].sort();
+                    const matchCat = catSel
+                        ? b.Categoría && b.Categoría.includes(catSel)
+                        : true;
 
-    paises.forEach(p => {
-        const opt = document.createElement("option");
-        opt.value = p;
-        opt.textContent = `${banderas[p] || ""} ${p}`;
-        filtroPais.appendChild(opt);
-    });
+                    let matchInsignia = true;
 
-    categorias.forEach(c => {
-        const opt = document.createElement("option");
-        opt.value = c;
-        opt.textContent =
-            `${categoriasEmoji[c.toUpperCase()] || ""} ${c}`;
-        filtroCategoria.appendChild(opt);
-    });
+                    if (insigniaSel === "Aliado") {
+                        matchInsignia = b.Aliado === "si";
+                    }
 
-    filtroPais.addEventListener("change", filtrar);
-    filtroCategoria.addEventListener("change", filtrar);
-    filtroInsignia.addEventListener("change", filtrar);
-}
+                    if (insigniaSel === "Sponsor") {
+                        matchInsignia = b.Sponsor === "si";
+                    }
 
+                    if (insigniaSel === "Webring") {
+                        matchInsignia = b.Webring && b.Webring.trim() !== "";
+                    }
 
-function filtrar() {
-    const paisSel = filtroPais.value;
-    const catSel = filtroCategoria.value;
-    const insigniaSel = filtroInsignia.value;
+                    return matchPais && matchCat && matchInsignia;
+                });
 
-    // 1. Lógica para mostrar/ocultar el mensaje de la insignia
-    const textosInsignias = {
-        "Aliado": "🐸 Blogs que ayudan a difundir el proyecto poniendo un pequeño banner de ¡Blog!¡Blog en su blog",
-        "Sponsor": "⭐ Blogs que aportaron económicamente al proyecto.",
-        "Webring": "🪐 Blogs que participan del Webring de blogs en español."
-    };
+                mostrarBlogs(filtrados);
+            }
 
-    if (textosInsignias[insigniaSel]) {
-        mensajeInsignia.textContent = textosInsignias[insigniaSel];
-        mensajeInsignia.style.display = "block"; // Muestra el recuadro
-    } else {
-        mensajeInsignia.textContent = "";
-        mensajeInsignia.style.display = "none";  // Oculta si elige "Todas las insignias"
-    }
+            function mostrarBlogs(lista) {
+                contenedor.innerHTML = "";
 
-    // 2. Lógica de filtrado original (se mantiene igual)
-    const filtrados = blogs.filter(b => {
-        const matchPais = paisSel ? b.País === paisSel : true;
+                if (!lista.length) {
+                    contenedor.innerHTML =
+                        "<p>No hay blogs con esos filtros 😢</p>";
+                    return;
+                }
 
-        const matchCat =
-            catSel
-            ? b.Categoría && b.Categoría.includes(catSel)
-            : true;
+                lista.forEach((b) => {
+                    const item = document.createElement("div");
+                    item.className = "item";
 
-        let matchInsignia = true;
+                    if (b.Aliado === "si") item.classList.add("aliado");
+                    if (b.Sponsor === "si") item.classList.add("sponsor");
+                    // CORREGIDO: Añade la clase si Webring tiene datos
+                    if (b.Webring && b.Webring.trim() !== "")
+                        item.classList.add("webring");
 
-        if (insigniaSel === "Aliado") {
-            matchInsignia = b.Aliado === "si";
-        }
+                    let url = b.Url || "";
 
-        if (insigniaSel === "Sponsor") {
-            matchInsignia = b.Sponsor === "si";
-        }
+                    if (url && !url.startsWith("http")) {
+                        url = "https://" + url;
+                    }
 
-        if (insigniaSel === "Webring") {
-            matchInsignia = b.Webring && b.Webring.trim() !== "";
-        }
+                    const dominio = url
+                        .replace(/^https?:\/\//, "")
+                        .split("/")[0];
+                    const favicon = `https://www.google.com/s2/favicons?domain=${dominio}`;
 
-        return matchPais && matchCat && matchInsignia;
-    });
+                    const etiquetaAliado =
+                        b.Aliado === "si"
+                            ? '<img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif" alt="Aliado">'
+                            : "";
 
-    mostrarBlogs(filtrados);
-}
+                    const etiquetaSponsor =
+                        b.Sponsor === "si"
+                            ? '<a href="https://ko-fi.com/matizeta" target="_blank" rel="noopener noreferrer">⭐️</a>'
+                            : "";
 
+                    // CORREGIDO: Ahora evalúa b.Webring en lugar de b.Sponsor
+                    const etiquetaWebring =
+                        b.Webring && b.Webring.trim() !== ""
+                            ? '<a href="https://blogsencastellano.wordpress.com/webring/" target="_blank" rel="noopener noreferrer">🪐</a>'
+                            : "";
 
-function mostrarBlogs(lista) {
-    contenedor.innerHTML = "";
+                    const bandera = banderas[b.País] || "";
 
-    if (!lista.length) {
-        contenedor.innerHTML =
-            "<p>No hay blogs con esos filtros 😢</p>";
-        return;
-    }
+                    const categoriasConEmoji = b.Categoría
+                        ? b.Categoría.split(",")
+                              .map(
+                                  (c) =>
+                                      `${categoriasEmoji[c.trim().toUpperCase()] || ""} ${c.trim()}`,
+                              )
+                              .join(", ")
+                        : "-";
 
-    lista.forEach(b => {
-        const item = document.createElement("div");
-        item.className = "item";
-
-        if (b.Aliado === "si") item.classList.add("aliado");
-        if (b.Sponsor === "si") item.classList.add("sponsor");
-        // CORREGIDO: Añade la clase si Webring tiene datos
-        if (b.Webring && b.Webring.trim() !== "") item.classList.add("webring");
-
-        let url = b.Url || "";
-
-        if (url && !url.startsWith("http")) {
-            url = "https://" + url;
-        }
-
-        const dominio = url.replace(/^https?:\/\//, "").split("/")[0];
-        const favicon = `https://www.google.com/s2/favicons?domain=${dominio}`;
-
-        const etiquetaAliado =
-            b.Aliado === "si"
-            ? '<img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif" alt="Aliado">'
-            : "";
-
-        const etiquetaSponsor =
-            b.Sponsor === "si"
-            ? '<a href="https://ko-fi.com/matizeta" target="_blank" rel="noopener noreferrer">⭐️</a>'
-            : "";
-
-        // CORREGIDO: Ahora evalúa b.Webring en lugar de b.Sponsor
-        const etiquetaWebring =
-            b.Webring && b.Webring.trim() !== ""
-            ? '<a href="https://blogsencastellano.wordpress.com/webring/" target="_blank" rel="noopener noreferrer">🪐</a>'
-            : "";
-
-        const bandera = banderas[b.País] || "";
-
-        const categoriasConEmoji =
-            b.Categoría
-            ? b.Categoría.split(",")
-                .map(c =>
-                    `${categoriasEmoji[c.trim().toUpperCase()] || ""} ${c.trim()}`
-                )
-                .join(", ")
-            : "-";
-
-        item.innerHTML = `
+                    item.innerHTML = `
             <div class="blog">
                 <img src="${favicon}" alt="favicon" style="width:16px;height:16px;vertical-align:middle;margin-right:6px;">
                 <a href="${url}" target="_blank">${b.Nombre}</a>
@@ -294,15 +303,13 @@ function mostrarBlogs(lista) {
             </p>
 
             <a href="${b.Feed}" target="_blank">
-                <img src="rss-16.png" alt="RSS">
+                <img src="img/rss-16.png" alt="RSS">
             </a>
         `;
 
-        contenedor.appendChild(item);
-    });
-}
-
-</script>
-
-</body>
+                    contenedor.appendChild(item);
+                });
+            }
+        </script>
+    </body>
 </html>
