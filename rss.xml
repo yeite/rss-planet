@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 11 Jun 2026 02:36:52 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 10:04:08 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>La historia del Levante Mediterráneo según Nina Paley</title>
+<link>https://javiersam.uy/2026/06/la-historia-del-levante-mediterraneo-segun-nina.html</link>
+<guid isPermaLink="true">https://javiersam.uy/2026/06/la-historia-del-levante-mediterraneo-segun-nina.html</guid>
+<pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+<category>JavierSam</category>
+<description><![CDATA[Nina Paley, que se define a sí misma como animadora, directora, artista y chivo expiatorio, es una activista de la Cultura libre de larga trayectoria. En 2012 publicó la animación This Land Is Mine: Una especie de reseña histórica y paródica del asentamiento humano en el Levante Mediterráneo y sus a<br><br><strong>Fuente:</strong> JavierSam]]></description>
+</item>
+<item>
+<title>Qué maravilla derramarse</title>
+<link>https://guillermolatorre.com/citas-en-tinta/que-maravilla-derramarse</link>
+<guid isPermaLink="true">https://guillermolatorre.com/citas-en-tinta/que-maravilla-derramarse</guid>
+<pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+<category>Guillermo Latorre | Feed RSS</category>
+<description><![CDATA[La cita de hoy es de un artículo de Jodida pero no sorprendida (@bettie en Mastodon) que tenía guardado hace tiempo. ¡Hace un año! 😅 En &amp;iquest;Qu&amp;eacute; lleva una mujer en el bolso? me vi reflejado en ese PLACER SUPREMO que es ir comiéndote a pellizcos, de camino a casa, la barra de pan recién co<br><br><strong>Fuente:</strong> Guillermo Latorre | Feed RSS]]></description>
+</item>
 <item>
 <title>Un marcador/bookmarklet en el navegador para ver los RSS de las webs</title>
 <link>https://pedrolr.es/blog/un-marcador-bookmarklet-en-el-navegador-para-ver-los-rss-de-las-webs/</link>
@@ -34,12 +50,36 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Creo que debí escribir este artículo desde hace muchos años. De verdad, es un tema que nos compete a todos y creo que, en algún momento, todos nos hemos hecho Seguir leyendo ¿Qué ocurre en Colombia con las llamadas de spam? Cultura, filtraciones y burocracia El cargo ¿Qué ocurre en Colombia con las<br><br><strong>Fuente:</strong> El cuarto de GatoOscuro]]></description>
 </item>
 <item>
+<title>Navegador web Vivaldi 8.0</title>
+<link>https://mareosdeungeek.es/navegador-web-vivaldi-8-0/</link>
+<guid isPermaLink="true">https://mareosdeungeek.es/navegador-web-vivaldi-8-0/</guid>
+<pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+<category>Mareos de un geek</category>
+<description><![CDATA[El navegador web Vivaldi ha lanzado su versión 8.0, donde la principal novedad es una interfaz de usuario unificada. Destaca sobre todo por la sencillez y accesibilidad a las diferentes áreas. Proporciona una navegación rápida y simple. Vivaldi 8.0 dispone de múltiples paneles, aprovechando cada par<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
+</item>
+<item>
+<title>Todo lo que necesitas saber sobre los repositorios de CachyOS</title>
+<link>https://tecnoysoft.com/2026/06/10/todo-lo-que-necesitas-saber-sobre-los-repositorios-de-cachyos/</link>
+<guid isPermaLink="true">https://tecnoysoft.com/2026/06/10/todo-lo-que-necesitas-saber-sobre-los-repositorios-de-cachyos/</guid>
+<pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+<category>Tecno y Soft</category>
+<description><![CDATA[Muchos usuarios llegamos a CachyOS atraídos por su rendimiento, sus optimizaciones y la excelente experiencia de escritorio que ofrece desde el primer arranque. Sin embargo, cuando aparece algún problema o surge la necesidad de instalar software específico, es habitual encontrarse con términos como<br><br><strong>Fuente:</strong> Tecno y Soft]]></description>
+</item>
+<item>
 <title>Hay un huevo de pascua escondido en mi web: te desafío a encontrarlo</title>
 <link>https://matizeta.com/2026/06/10/hay-un-huevo-de-pascua-escondido-en-mi-web-te-desafio-a-encontrarlo/</link>
 <guid isPermaLink="true">https://matizeta.com/2026/06/10/hay-un-huevo-de-pascua-escondido-en-mi-web-te-desafio-a-encontrarlo/</guid>
 <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
 <category>matizeta</category>
 <description><![CDATA[Lo que en inglés se llama Easter Egg, puede ser un mensaje, imagen que se accede mediante un código secreto, una combinación de teclas, etc.&amp;#160; Es una especie de “broma” que dejan los desarrolladores.&amp;#160; Hace tiempo que quería incluir uno en mi web pero no sabía que hacer ni como implementarlo<br><br><strong>Fuente:</strong> matizeta]]></description>
+</item>
+<item>
+<title>Instalación de Portainer en NAS Ugreen 4800</title>
+<link>https://voidnull.es/instalacion-de-portainer-en-nas-ugreen-4800/</link>
+<guid isPermaLink="true">https://voidnull.es/instalacion-de-portainer-en-nas-ugreen-4800/</guid>
+<pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Aprende a instalar Portainer en un NAS UGREEN 4800 y mejora la gestión de tus contenedores Docker.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
 </item>
 <item>
 <title>Mejores paneles de control para gestionar tu servidor</title>
@@ -82,6 +122,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Esto es un experimento realizado por Blaine Murphy que demuestra que es posible usar los DNS TXT records como almacenamiento. ¿Y esto para que puede servir? En este caso la finalidad del experimento dns-web-hosting es demostrar que si has adquirido un dominio podrías no necesitar montar/contratar ho<br><br><strong>Fuente:</strong> 56K]]></description>
 </item>
 <item>
+<title>El dotor ecopetao</title>
+<link>https://edgarmtoro.wordpress.com/2026/06/10/el-dotor-ecopetao/</link>
+<guid isPermaLink="true">https://edgarmtoro.wordpress.com/2026/06/10/el-dotor-ecopetao/</guid>
+<pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+<category>Estás Interfiriendo con mi Zen.</category>
+<description><![CDATA[Pues ahí apareció un doctor de las estranjas y encopetao. Dice que para dejar al País, todo bien arreglao. Arreglao su bolsillo, dijo mi mano Talado. Ese dotor solo quiere engañar al necesitado. Qué va a saber del país quien no conoce el asadón, quien no ordeña una vaca, quien vive en una mansión? Q<br><br><strong>Fuente:</strong> Estás Interfiriendo con mi Zen.]]></description>
+</item>
+<item>
 <title>Los billetes japoneses de invasión</title>
 <link>https://www.fabio.com.ar/9960-los-billetes-japoneses-de-invasion</link>
 <guid isPermaLink="true">https://www.fabio.com.ar/9960-los-billetes-japoneses-de-invasion</guid>
@@ -90,20 +138,20 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Cuando los japoneses invad&amp;iacute;an lo hac&amp;iacute;an con extrema crueldad, pero al mismo tiempo con organizaci&amp;oacute;n y estructura. Pa&amp;iacute;s invadido, pa&amp;iacute;s que deb&amp;iacute;a seguir funcionando y tener una moneda de curso legal que la autoridad militar japonesa pudiera controlar, as&amp;<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
 </item>
 <item>
-<title>Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene</title>
-<link>https://www.delotroladometal.com.ar/2026/06/10/ritual-servant-no-se-detiene/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/06/10/ritual-servant-no-se-detiene/</guid>
-<pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Ya se habrán dado cuenta todo lo que insistimos con ellos, pero sinceramente no exageramos... The post Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
 <title>FediPhoto II</title>
 <link>https://blog.jagedn.dev/blog/2026/fediphoto-ii.html</link>
 <guid isPermaLink="true">https://blog.jagedn.dev/blog/2026/fediphoto-ii.html</guid>
 <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
 <category>Jorge Aguilera</category>
 <description><![CDATA[FediPhoto: una aplicación java de ejemplo para el fediverso<br><br><strong>Fuente:</strong> Jorge Aguilera]]></description>
+</item>
+<item>
+<title>La idea de descentralizar las cosas</title>
+<link>https://tecnocajon.wordpress.com/2026/06/10/la-idea-de-descentralizar-las-cosas/</link>
+<guid isPermaLink="true">https://tecnocajon.wordpress.com/2026/06/10/la-idea-de-descentralizar-las-cosas/</guid>
+<pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+<category>El Cajón de la Tecnología</category>
+<description><![CDATA[Bueno… Llevo muchos años siendo un friki de la tecnología, de hecho, meapasiona. Me gustan todas las novedades de los dispositivos móviles perotambién soy de la opinión de que llevar todo en un bolsillo puede seraterrador. A día de hoy, llevamos todo en nuestro teléfono móvil, y, no lo voya negar, e<br><br><strong>Fuente:</strong> El Cajón de la Tecnología]]></description>
 </item>
 <item>
 <title>La magia de una Copa Mundial en casa</title>
@@ -154,14 +202,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Sobredosis Pop fue el primer libro de cuentos cortos y experimentos literarios de Ignacio Alcuri, publicado en 2003. En mi más reciente viaje a Uruguay, me encontré con una nueva edición. Fue en marzo, mientras recorría la sección de autores nacionales y latinoamericanos en el local de Libros Libros<br><br><strong>Fuente:</strong> Picando Código]]></description>
 </item>
 <item>
-<title>Charlamos Con Maxi Elosegui Sobre La Actualidad De La Banda | Kraneo Nativo No Espera “Nada De Nadie”</title>
-<link>https://www.delotroladometal.com.ar/2026/06/09/kraneo-nativo-no-espera-nada-de-nadie/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/06/09/kraneo-nativo-no-espera-nada-de-nadie/</guid>
-<pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Quizá exista algún memorioso que recuerde a Habacuc, una vieja banda del underground del conurbano... The post Charlamos Con Maxi Elosegui Sobre La Actualidad De La Banda | Kraneo Nativo No Espera “Nada De Nadie” first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
 <title>Cómo remapear una tecla en el Keychron V6 con QMK (y casi cargarte el teclado en el intento)</title>
 <link>https://jesuspavonabian.es/post/keychron-v6-qmk-remap/</link>
 <guid isPermaLink="true">https://jesuspavonabian.es/post/keychron-v6-qmk-remap/</guid>
@@ -170,52 +210,12 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Mi teclado hacía algo raro de narices. Había una tecla que enviaba Win+D cada vez que la pulsaba. En concreto, la tecla que debería ser PAUSE. Y diréis&amp;hellip; ¿Para qué sirve esa tecla? Pues para cambiar el control del teclado en las apps de máquinas virtuales en Windows, por ejemplo. Pero claro, a<br><br><strong>Fuente:</strong> El Blog de un informático que sueña con mejorar el mundo]]></description>
 </item>
 <item>
-<title>El cupón precinto era una interfaz</title>
-<link>https://dani.torresburriel.com/cupon-precinto-diseno-de-servicios/</link>
-<guid isPermaLink="true">https://dani.torresburriel.com/cupon-precinto-diseno-de-servicios/</guid>
-<pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-<category>Blog de Daniel Torres Burriel</category>
-<description><![CDATA[Hoy he tenido uno de esos días tremendamente ocupados, pero a última hora me he encontrado con una noticia que, a primera vista, parece de gestión sanitaria pura y dura: el Gobierno de España ha aprobado eliminar el cupón precinto de los medicamentos y sustituirlo por un identificador digital. Confi<br><br><strong>Fuente:</strong> Blog de Daniel Torres Burriel]]></description>
-</item>
-<item>
 <title>Para tener a mano (LIV)</title>
 <link>https://javiersam.uy/2026/06/para-tener-a-mano-liv-2.html</link>
 <guid isPermaLink="true">https://javiersam.uy/2026/06/para-tener-a-mano-liv-2.html</guid>
 <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
 <category>JavierSam</category>
 <description><![CDATA[Graphite sigue avanzando Graphite es un novedoso editor de gráficos vectoriales de reciente aparición. Ofrece un flujo de trabajo no destructivo donde se puede combinar la tradicional composición basada en capas con el diseño generativo basado en nodos. Graphite se presenta a sí mismo como “el Blend<br><br><strong>Fuente:</strong> JavierSam]]></description>
-</item>
-<item>
-<title>FediPhoto I</title>
-<link>https://blog.jagedn.dev/blog/2026/fediphoto-i.html</link>
-<guid isPermaLink="true">https://blog.jagedn.dev/blog/2026/fediphoto-i.html</guid>
-<pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-<category>Jorge Aguilera</category>
-<description><![CDATA[FediPhoto: una aplicación java de ejemplo para el fediverso<br><br><strong>Fuente:</strong> Jorge Aguilera]]></description>
-</item>
-<item>
-<title>Cambios…</title>
-<link>https://tecnocajon.wordpress.com/2026/06/09/cambios/</link>
-<guid isPermaLink="true">https://tecnocajon.wordpress.com/2026/06/09/cambios/</guid>
-<pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-<category>El Cajón de la Tecnología</category>
-<description><![CDATA[Un artículo corto pero que ofrece un solo objetivo: explicar los cambios queestá habiendo en la web. Son más bien cambios pequeños, pero creo que merecen una explicación. Acerca de El acerca de llevaba tiempo dándole vueltas. Creo que el blog ha cambiadomucho, lo que escribo ahora no tiene nada que<br><br><strong>Fuente:</strong> El Cajón de la Tecnología]]></description>
-</item>
-<item>
-<title>Ajuar</title>
-<link>https://jodidaperonosorprendida.mataroa.blog/blog/ajuar/</link>
-<guid isPermaLink="true">https://jodidaperonosorprendida.mataroa.blog/blog/ajuar/</guid>
-<pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
-<category>Jodida, pero no sorprendida</category>
-<description><![CDATA[Me gustaría que esta entrada fuese a tratar de Ajuar, el duo de señoras madrileñas que hacen una actualización del folclore tradicional bien chula, fresca y feminista. Echadle un vistazo a su Bandcamp, ahí enlazado, porque merecen mucho la pena. Pero no, no vengo a hablar de ellas. Vengo a hablar,<br><br><strong>Fuente:</strong> Jodida, pero no sorprendida]]></description>
-</item>
-<item>
-<title>aMule, el Ave Fénix que resurge de sus cenizas</title>
-<link>http://unbrutocondebian.blogspot.com/2026/06/amule-el-ave-fenix-que-resurge-de-sus.html</link>
-<guid isPermaLink="true">http://unbrutocondebian.blogspot.com/2026/06/amule-el-ave-fenix-que-resurge-de-sus.html</guid>
-<pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
-<category>Un bruto con Debian</category>
-<description><![CDATA[Hace ni más ni menos que 5 años desde la última actualización de aMule, el hermano gemelo multiplataforma del archiconocido eMule. Tiempo más que suficiente para que se haya quedado atrás en cuanto a prestaciones, aspecto y lo peor de todo muchas librerías han quedado obsoletas y dan problemas.&amp;nbsp<br><br><strong>Fuente:</strong> Un bruto con Debian]]></description>
 </item>
 
 </channel>
