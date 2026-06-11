@@ -1,5 +1,75 @@
 [
   {
+    "blog": "GoRiX blog",
+    "titulo": "SOCAT: La navaja suiza recargada",
+    "link": "https://blog.gorix.xyz/socat-la-navaja-suiza-recargada.html",
+    "fecha": "11/06/2026",
+    "contenido": "\n    Hace un tiempo escribí sobre netcat y lo llamé como la navaja suiza de Gnu/Linux. Y lo sigo bancando, ojo; pero seamos sinceros entre nosotros: netcat es la navajita que llevás siempre en el bolsillo, la que sacás para todo. socat (SOcket CAT) es la otra, la grandota con sierra, destornillador,"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Por un nuevo humanismo",
+    "link": "https://adrianperales.com/2026/06/por-un-nuevo-humanismo/",
+    "fecha": "11/06/2026",
+    "contenido": "Desde que me dieron de baja por estrés en 2024, muchas de mis lecturas y reflexiones han ido en el mismo sentido. Han construido para nosotros una sociedad totalmente deshumanizada y debemos rehumanizarla. Es como cuando te das un golpe y luego si te golpeas de nuevo es en el mismo sitio, o como cua"
+  },
+  {
+    "blog": "Moribundo Insurgente",
+    "titulo": "Meta integra en secreto sistema de reconocimiento facial en las apps de millones de móviles para sus gafas inteligentes",
+    "link": "https://moribundoinsurgente.noblogs.org/post/2026/06/11/meta-integra-en-secreto-sistema-de-reconocimiento-facial-en-las-apps-de-millones-de-moviles-para-sus-gafas-inteligentes/",
+    "fecha": "11/06/2026",
+    "contenido": "Meta habría introducido discretamente código de reconocimiento facial en Meta AI, su aplicación de inteligencia artificial, que está instalada en más de 50 millones de dispositivos móviles de todo el mundo, según un análisis técnico de Wired sobre su software. &#8230; Sigue leyendo &#8594;"
+  },
+  {
+    "blog": "Galerías Preciados",
+    "titulo": "Inventario de movidas chulas nº2",
+    "link": "https://galeriaspreciados.band/inventario-de-movidas-chulas-no2/",
+    "fecha": "11/06/2026",
+    "contenido": "A ver, que tenía un poco yo esto sin decir nada y ya iba tocando pero bueno que uno dice cosas cuando puede y quiere y que más da ¿no? Que se joda eso del crear contenido! Que cree contenido tu tía la Lolis!"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "La Sagrada Familia se convierte en la basílica más alta del mundo",
+    "link": "https://matizeta.com/2026/06/11/la-sagrada-familia-se-convierte-en-la-basilica-mas-alta-del-mundo/",
+    "fecha": "11/06/2026",
+    "contenido": "La Sagrada Familia, esta obra monumental inauguró ayer, 10 de junio la Torre de Jesús, convirtiéndose así en la basílica más alta del mundo. La fecha fue en conmemoración de los 100 años de la muerte de Gaudí, que precisamente falleció mientras estaba trabajando en la obra, atropeyado por un Tranvia"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Premios Tiny Awards 2026",
+    "link": "https://matizeta.com/2026/06/11/premios-tiny-awards-2026/",
+    "fecha": "11/06/2026",
+    "contenido": "Me enteré divagando en Mastodon por este toot en de dichos premios. Lo cierto es que se vienen haciendo desde 2023, siendo esta su cuarta edición.&#160; ¿De que tratan?&#160; Destacar proyectos web personales. Estos sitios web creativos y no comerciales deben haber sido creados en los últimos 12 mes"
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Olor a verano",
+    "link": "https://www.xn--jmuoz-qta.es/2026/06/olor-verano.html",
+    "fecha": "11/06/2026",
+    "contenido": "Ayer fui a pelarme y en el camino desde la peluquería hasta mi casa (menos de cinco minutos a pie), pasando por los jardines y zona de céspedes de mi barrio, me dio el olor de lo que ya es imparable: el olor a verano. Por un momento olía a mi infancia: el olor a hierba recién cortada, el calor a la "
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Mi último jueves de clase",
+    "link": "https://www.xn--jmuoz-qta.es/2026/06/mi-ultimo-jueves-de-clase.html",
+    "fecha": "11/06/2026",
+    "contenido": "Estoy que no me lo creo: hoy es mi último jueves de clase como tal del curso, después de un curso complicado por aquello de hacerme todos los días bastantes kilómetros con el coche, pero, por lo general, contento en cuanto a alumnos y cursos. Y digo que es mi último jueves de clase en serio porque e"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #880",
+    "link": "https://www.fabio.com.ar/9961-ruleta-rusa-880",
+    "fecha": "11/06/2026",
+    "contenido": "     Llegamos al jueves, que no es poco\nHoy comienza el mundial, nadie le va a dar bola a m&aacute;s nada, ni a este blog (que ya hab&iacute;an abandonado) ni a nada m&aacute;s, estamos solos esos dos gatos locos que quedamos &iquest;Los links de viernes? Nadie los leer&aacute; &iquest;Posteo cosas?"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Wolves At The Gate: Wastedland | Cuando El Metalcore Se Pone Interesante",
+    "link": "https://www.delotroladometal.com.ar/2026/06/11/cuando-el-metalcore-se-pone-interesante/",
+    "fecha": "11/06/2026",
+    "contenido": "(2025 &#8211; Solid State Records) Después de escuchar una y otra vez propuestas mas o...\nThe post Wolves At The Gate: Wastedland | Cuando El Metalcore Se Pone Interesante first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "JavierSam",
     "titulo": "La historia del Levante Mediterráneo según Nina Paley",
     "link": "https://javiersam.uy/2026/06/la-historia-del-levante-mediterraneo-segun-nina.html",
@@ -7,32 +77,18 @@
     "contenido": "Nina Paley, que se define a sí misma como animadora, directora, artista y chivo expiatorio, es una activista de la Cultura libre de larga trayectoria. En 2012 publicó la animación This Land Is Mine: Una especie de reseña histórica y paródica del asentamiento humano en el Levante Mediterráneo y sus a"
   },
   {
+    "blog": "Jorge Aguilera",
+    "titulo": "FediPhoto III",
+    "link": "https://blog.jagedn.dev/blog/2026/fediphoto-iii.html",
+    "fecha": "11/06/2026",
+    "contenido": "FediPhoto: una aplicación java de ejemplo para el fediverso"
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Qué maravilla derramarse",
     "link": "https://guillermolatorre.com/citas-en-tinta/que-maravilla-derramarse",
     "fecha": "10/06/2026",
     "contenido": "\nLa cita de hoy es de un artículo de Jodida pero no sorprendida (@bettie en Mastodon) que tenía guardado hace tiempo. ¡Hace un año! 😅\nEn &iquest;Qu&eacute; lleva una mujer en el bolso? me vi reflejado en ese PLACER SUPREMO que es ir comiéndote a pellizcos, de camino a casa, la barra de pan recién co"
-  },
-  {
-    "blog": "plr blog",
-    "titulo": "Un marcador/bookmarklet en el navegador para ver los RSS de las webs",
-    "link": "https://pedrolr.es/blog/un-marcador-bookmarklet-en-el-navegador-para-ver-los-rss-de-las-webs/",
-    "fecha": "10/06/2026",
-    "contenido": "A veces he usado extensiones que buscan los RSS de páginas web. Hace un tiempo empecé a usar cuantas menos extensiones en el navegador mejor. Tengo botones propios para mandar enlaces a Mastodon, a archive.today, a la WayBack Machine, y tengo otros para proyectos personales. En esta web de Josh Beck"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "¿Qué ocurre en Colombia con las llamadas de spam? Cultura, filtraciones y burocracia",
-    "link": "https://gatooscuro.xyz/que-ocurre-en-colombia-con-las-llamadas-de-spam-cultura-filtraciones-y-burocracia/",
-    "fecha": "10/06/2026",
-    "contenido": "Creo que debí escribir este artículo desde hace muchos años. De verdad, es un tema que nos compete a todos y creo que, en algún momento, todos nos hemos hecho\nSeguir leyendo  ¿Qué ocurre en Colombia con las llamadas de spam? Cultura, filtraciones y burocracia\nEl cargo ¿Qué ocurre en Colombia con las"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Navegador web Vivaldi 8.0",
-    "link": "https://mareosdeungeek.es/navegador-web-vivaldi-8-0/",
-    "fecha": "10/06/2026",
-    "contenido": "El navegador web Vivaldi ha lanzado su versión 8.0, donde la principal novedad es una interfaz de usuario unificada. Destaca sobre todo por la sencillez y accesibilidad a las diferentes áreas. Proporciona una navegación rápida y simple. Vivaldi 8.0 dispone de múltiples paneles, aprovechando cada par"
   },
   {
     "blog": "Tecno y Soft",
@@ -105,6 +161,13 @@
     "contenido": "    \nCuando los japoneses invad&iacute;an lo hac&iacute;an con extrema crueldad, pero al mismo tiempo con organizaci&oacute;n y estructura.\nPa&iacute;s invadido, pa&iacute;s que deb&iacute;a seguir funcionando y tener una moneda de curso legal que la autoridad militar japonesa pudiera controlar, as&"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene",
+    "link": "https://www.delotroladometal.com.ar/2026/06/10/ritual-servant-no-se-detiene/",
+    "fecha": "10/06/2026",
+    "contenido": "Ya se habrán dado cuenta todo lo que insistimos con ellos, pero sinceramente no exageramos...\nThe post Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Jorge Aguilera",
     "titulo": "FediPhoto II",
     "link": "https://blog.jagedn.dev/blog/2026/fediphoto-ii.html",
@@ -117,6 +180,13 @@
     "link": "https://tecnocajon.wordpress.com/2026/06/10/la-idea-de-descentralizar-las-cosas/",
     "fecha": "10/06/2026",
     "contenido": "Bueno… Llevo muchos años siendo un friki de la tecnología, de hecho, meapasiona. Me gustan todas las novedades de los dispositivos móviles perotambién soy de la opinión de que llevar todo en un bolsillo puede seraterrador. A día de hoy, llevamos todo en nuestro teléfono móvil, y, no lo voya negar, e"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Instalado y usando Beszel",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-06-10-usando-beszel/",
+    "fecha": "09/06/2026",
+    "contenido": "Este es un artículo que si no fuera por davidochobits no existiría. Gracias David 👏\nConocí esta aplicación gracias a este toot de David en Mastodon y me lo guardé para cuando tuviera más tiempo y poder echarle un vistazo, porque la monitorización de nuestros equipos, no lo vamos a negar, es un tema "
   },
   {
     "blog": "Luis Carlos Pando",
@@ -161,6 +231,13 @@
     "contenido": "Sobredosis Pop fue el primer libro de cuentos cortos y experimentos literarios de Ignacio Alcuri, publicado en 2003. En mi más reciente viaje a Uruguay, me encontré con una nueva edición. Fue en marzo, mientras recorría la sección de autores nacionales y latinoamericanos en el local de Libros Libros"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Charlamos Con Maxi Elosegui Sobre La Actualidad De La Banda | Kraneo Nativo No Espera “Nada De Nadie”",
+    "link": "https://www.delotroladometal.com.ar/2026/06/09/kraneo-nativo-no-espera-nada-de-nadie/",
+    "fecha": "09/06/2026",
+    "contenido": "Quizá exista algún memorioso que recuerde a Habacuc, una vieja banda del underground del conurbano...\nThe post Charlamos Con Maxi Elosegui Sobre La Actualidad De La Banda | Kraneo Nativo No Espera “Nada De Nadie” first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "El Blog de un informático que sueña con mejorar el mundo",
     "titulo": "Cómo remapear una tecla en el Keychron V6 con QMK (y casi cargarte el teclado en el intento)",
     "link": "https://jesuspavonabian.es/post/keychron-v6-qmk-remap/",
@@ -201,13 +278,6 @@
     "link": "http://unbrutocondebian.blogspot.com/2026/06/amule-el-ave-fenix-que-resurge-de-sus.html",
     "fecha": "08/06/2026",
     "contenido": "Hace ni más ni menos que 5 años desde la última actualización de aMule, el hermano gemelo multiplataforma del archiconocido eMule. Tiempo más que suficiente para que se haya quedado atrás en cuanto a prestaciones, aspecto y lo peor de todo muchas librerías han quedado obsoletas y dan problemas.&nbsp"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "El arte de Berserk",
-    "link": "https://mareosdeungeek.es/el-arte-de-berserk/",
-    "fecha": "08/06/2026",
-    "contenido": "El arte de Berserk es un libro recopilatorio que hace un recorrido a esta sensacional serie manga. El fallecimiento de Kentaro Miura, creador y autor de Berserk en 2021 coincidió con el 32 aniversario de la obra. Es por ello que durante ese año se celebró una exposición que recorrió varias ciudades "
   },
   {
     "blog": "matizeta",
@@ -266,6 +336,13 @@
     "contenido": "    \nEn &eacute;pocas de Tokenmaxxing y, m&aacute;s recientemente, ahorro de tokens (porque se dieron cuenta de lo que realmente costaban), me sorprende ver gente que pretende solucionar todo problema con AI como si 12.000 a&ntilde;os de historia de nuestra civilizaci&oacute;n no contaran.\n&iquest;E"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Kashat: Sangre Maligna | Volviendo A Las Fuentes Del Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/06/08/volviendo-a-las-fuentes-del-metal/",
+    "fecha": "08/06/2026",
+    "contenido": "(2025 &#8211; Zzooouhh Records) Cuantas bandas han quedado en el borroso paso del tiempo, y...\nThe post Kashat: Sangre Maligna | Volviendo A Las Fuentes Del Metal first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Una única cosa",
     "link": "https://guillermolatorre.com/citas-en-tinta/una-unica-cosa",
@@ -285,20 +362,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/06/07/todo-tiene-un-precio/",
     "fecha": "07/06/2026",
     "contenido": "relato de  ficción o peligrosa profecía de la \"truñificación\" que va asolando cada rincón de lo que una vez fue una red abierta."
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Queriendo escribir un libro",
-    "link": "https://gatooscuro.xyz/queriendo-escribir-un-libro/",
-    "fecha": "07/06/2026",
-    "contenido": "Llevo algunos días de ausencia en el blog y de seguro sabrán el porqué, debido a que lo he descrito en diferentes artículos: básicamente, se trata de la división del\nSeguir leyendo  Queriendo escribir un libro\nEl cargo Queriendo escribir un libro apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Valor sentimental (Affeksjonsverdi)",
-    "link": "https://mareosdeungeek.es/valor-sentimental-affeksjonsverdi/",
-    "fecha": "07/06/2026",
-    "contenido": "Valor sentimental (Affeksjonsverdi) es un drama noruego dirigido por Joachim Trier y premiado en la última edición de los Oscars como Mejor Película Internacional. Joachim Trier nos cuenta la historia de la familia de un director de cine, Gustav Borg, centrada en la casa familiar. La familia de Gust"
   },
   {
     "blog": "danielaragay.net",
@@ -327,6 +390,13 @@
     "link": "http://frikoteca.blogspot.com/2026/06/rass-rol-as-service.html",
     "fecha": "07/06/2026",
     "contenido": "Unos amigos me enviaron hace poco un enlace a un artículo en el que se hablaba de la futura estrategia de Chris Cocks (jefazo de Hasbro) con respecto a D&amp;D. El artículo es este: artículo en 3djuegos sobre D&amp;D y básicamente el titular gordo es que la estrategia de la empresa es que cada vez h"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Los Sellos Que No Se Rinden | Que No Se Pierda La Sana Costumbre",
+    "link": "https://www.delotroladometal.com.ar/2026/06/07/que-no-se-pierda-la-sana-costumbre/",
+    "fecha": "07/06/2026",
+    "contenido": "Estamos viviendo en la época de lo descartable, en donde todo lo que llega a...\nThe post Los Sellos Que No Se Rinden | Que No Se Pierda La Sana Costumbre first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -418,6 +488,20 @@
     "link": "https://56k.es/fanta/los-paradatos/",
     "fecha": "06/06/2026",
     "contenido": "«Los metadatos te cuentan absolutamente todo sobre la vida de alguien» Stewart Baker (exasesor jurídico general de la NSA) «Matamos gente basándonos en metadatos» Michael Hayden (Ex-director de la NSA) Y razón no les falta, es verdad que matan gente y que los metadatos cuentan mucho pero &#8230;¿y l"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Un Nuevo CD Recopilación Está Ya Disponible | Primal Publica “Fin De Los Tiempos”",
+    "link": "https://www.delotroladometal.com.ar/2026/06/06/primal-publica-fin-de-los-tiempos/",
+    "fecha": "06/06/2026",
+    "contenido": "Hacía tiempo que no teníamos novedades de Primal, pero lo que aquí mismo habíamos anunciado...\nThe post Un Nuevo CD Recopilación Está Ya Disponible | Primal Publica “Fin De Los Tiempos” first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Su primer día de playa VS hoy",
+    "link": "https://chancli.dev/blog/chancla-primer-dia-playa-vs-hoy.html",
+    "fecha": "06/06/2026",
+    "contenido": ""
   },
   {
     "blog": "Malagueños originales y libres",
@@ -546,6 +630,13 @@
     "contenido": "A veces me pasa que me entero de curiosidades varias. Y después me olvido de compartirlas con otros. Así que acá recopilo las que me enteré durante el mes pasado.\nGallinas\nLos seres humanos domesticamos a las gallinas inicialmente no por la carne o los huevos, sino para ver peleas de gallos como ent"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho",
+    "link": "https://www.delotroladometal.com.ar/2026/06/05/heavy-metal-hecho-y-derecho/",
+    "fecha": "05/06/2026",
+    "contenido": "(2023 &#8211; Retroactive Records) Otra joya rescatada más, y van. Cuanto material de los ´80...\nThe post Final Axe: Beyond Hell’s Gate | Heavy Metal Hecho Y Derecho first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "JavierSam",
     "titulo": "La verdadera historia de Lorem Ipsum…",
     "link": "https://javiersam.uy/2026/06/la-verdadera-historia-de-lorem-ipsum.html",
@@ -553,39 +644,11 @@
     "contenido": "Fantástico video de Emily Lin Zhang (de Rabbit Hole) que resume su profunda y reveladora investigación sobre el famoso texto de prueba “Lorem Ipsum”. Hay que mirarlo y con atención:"
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Clientes Jabber/XMPP para macOS",
-    "link": "https://adrianperales.com/2026/06/clientes-jabber-xmpp-para-macos/",
-    "fecha": "04/06/2026",
-    "contenido": "Este es un pequeño repaso por los principales clientes XMPP o Jabber que hay disponibles para macOS en el momento de escribir. La situación ha mejorado Esta entrada se deriva de la anterior, sobre clientes XMPP en iOS. Empezó como un pequeño inciso con tono pesimista. Pensaba que la situación en mac"
-  },
-  {
     "blog": "THE_CHEI$",
     "titulo": "Speak & Spell (1981), de Depeche Mode",
     "link": "https://thecheis.com/2026/06/04/speak-and-spell-1981-de-depeche-mode/",
     "fecha": "04/06/2026",
     "contenido": "«I&#8217;ll be your operator, baby / I&#8217;m in control» Huele a verano, y como siempre se me vienen a la cabeza discos especiales. Y como no, Depeche Mode repite una vez más en esta sección, donde ya acumula varias entradas. A finales de octubre su álbum debut cumple 45 añazos, una edad que da vé"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Narrativas transmedia: el arte de expandir historias",
-    "link": "https://polotman.wordpress.com/2026/06/04/narrativas-transmedia-el-arte-de-expandir-historias/",
-    "fecha": "04/06/2026",
-    "contenido": "¿Alguna vez has terminado una película o un libro y has sentido que la historia se te quedaba corta? Te quedas con ganas de habitar ese mundo un … Narrativas transmedia: el arte de expandir historias"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "OpenSouthCode 2026",
-    "link": "https://mareosdeungeek.es/opensouthcode-2026/",
-    "fecha": "04/06/2026",
-    "contenido": "OpenSouthCode vuelve otro año más, trayendo un evento centrado en el software open source a la ciudad de Málaga. El evento, gratuito como todas sus ediciones, aunque hay que sacar la entrada, tendrá lugar en La Térmica, como viene siendo habitual. Este año se celebrará los días, viernes 26 y sábado "
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "El mínimo producto viable para la vida",
-    "link": "https://matizeta.com/2026/06/04/el-minimo-producto-viable-para-la-vida/",
-    "fecha": "04/06/2026",
-    "contenido": "Una de las enseñanzas más importantes que me dejó el curso de UX que hace algunos años es conoceren profundidad el termino MVP. Vayamos por partes porque hay muchas siglas en sólo dos renglones. Para empezar UXX (User Experience,&#160; &#160;es una materia que estudia, analiza y en consecuencia desa"
   },
   {
     "blog": "danielaragay.net",
@@ -600,61 +663,5 @@
     "link": "https://altgr.xyz/2026/06/04/ff-tower/",
     "fecha": "04/06/2026",
     "contenido": "¿Es una broca? ¿Es un tornillo? ¡No! Es un edificio. Conocido justamente como &#8220;El tornillo&#8221;, su nombre oficial es F&#38;F Tower y es uno de los edificios emblemáticos en Ciudad de Panamá."
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Animalitos de Incógnito en la Cinta Costera",
-    "link": "https://altgr.xyz/2026/06/04/animalitos-de-incognito-en-la-cinta-costera/",
-    "fecha": "04/06/2026",
-    "contenido": "En la cinta costera me encontré sorpresivamente con unos traviesos y divertidos mapaches haciendo de las suyas. Me advirtieron que tuviera cuidado con ellos. No por nada ocultan su identidad con antifaces. Muy astutos de su parte."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "«The One»",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/the-one.html",
-    "fecha": "04/06/2026",
-    "contenido": "Hay una pregunta que todos los españoles deberíamos hacernos después de conocer las últimas revelaciones de la investigación sobre las llamadas cloacas de la PSOE. No es si Leire Díez cobró dinero del partido, tampoco es si Santos Cerdán dirigía determinadas operaciones, ni siquiera es si algunos di"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Hoy es el principio del final",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/hoy-es-el-principio-del-final.html",
-    "fecha": "04/06/2026",
-    "contenido": "\n  \n    \n  \nHoy, 4 de junio, me resulta muy significativo por muchas cosas: tal día como hoy pero del año pasado la administración rechazaba de manera provisional los motivos que presenté para continuar en Córdoba este curso; dos semanas después lo confirmaría en la resolución definitiva. Este año, "
-  },
-  {
-    "blog": "",
-    "titulo": "Nuevo Grupo.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/06/04/nuevo-grupo/",
-    "fecha": "04/06/2026",
-    "contenido": "Les dejo como recomendación un nuevo grupo, Batallón de San Patricio."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Aventuras gráficas no tan típicas – Vol 3",
-    "link": "https://56k.es/fanta/aventuras-graficas-no-tan-tipicas-vol-3/",
-    "fecha": "04/06/2026",
-    "contenido": "Dada la insistencia de algunos/as/es para que sacase un nuevo post de esta serie he decidido hacerlo. Este es el tercer post sobre «Aventuras gráficas no tan típicas» y aunque seguramente conocerás algunas he de decir que no son digamos «Monkey Island» que parece que todo el mundo la ha jugado o la "
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #879",
-    "link": "https://www.fabio.com.ar/9956-ruleta-rusa-879",
-    "fecha": "04/06/2026",
-    "contenido": "     Por ah&iacute; parece demasiado, pero es la ruleta\nJueves, semana completita, mucho posteo, mucho comentario, cambios en el registro del blog, env&iacute;os masivos de emails para avisar que actualicen contrase&ntilde;as, gente puteando, gente put&eacute;andome, gente ignor&aacute;ndome, pero a"
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Configuración de age en Spacemacs",
-    "link": "https://jdrm.info/configuracion-de-age-en-spacemacs.html",
-    "fecha": "04/06/2026",
-    "contenido": "Mis notas sobre cómo configurar el cifrado mediante age en Spacemacs"
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Configuración de age en Spacemacs",
-    "link": "https://jdrm.info/configuracion-de-age-en-spacemacs.html",
-    "fecha": "04/06/2026",
-    "contenido": "Mis notas sobre cómo configurar el cifrado mediante age en Spacemacs"
   }
 ]
