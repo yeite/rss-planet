@@ -1,0 +1,87 @@
+/* Fuentes e Importaciones */
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap");
+
+/* Contenedor Principal */
+#my-webring {
+    font-family:
+        system-ui,
+        -apple-system,
+        sans-serif;
+    text-align: center;
+    max-width: 500px;
+    margin: 5px auto;
+    padding: 10px;
+    color: #222;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Barra de Navegación del Webring */
+.blogblog-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 0.9em;
+    font-weight: 500;
+    gap: 5px;
+}
+
+/* Contenedor del Logo y Texto del proyecto */
+.blogblog-brand-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+/* Enlace del Logotipo */
+.blogblog-brand-link {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none;
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 500;
+    font-size: 1.15em;
+    color: #5a982f;
+}
+
+/* Imagen del Logo (Rana) */
+.blogblog-logo {
+    height: 23px;
+    width: auto;
+    display: block;
+    object-fit: contain;
+}
+
+/* Botones Anterior [⏮︎] y Siguiente [⏭︎] */
+.blogblog-btn-nav {
+    text-decoration: none;
+    color: #6bbe30;
+    transition: color 0.2s;
+}
+
+/* Botón Aleatorio (Icono SVG) */
+.blogblog-btn-random {
+    text-decoration: none;
+    font-size: 1.3em;
+    line-height: 0;
+    transition: transform 0.2s;
+    display: inline-block;
+    color: #6bbe30;
+}
+
+/* Texto de Estado inferior */
+#webring-status {
+    font-size: 0.75em;
+    margin: 0;
+    color: #888;
+    font-style: italic;
+}
+
+/* Estado de Error */
+.blogblog-error {
+    color: red;
+}
