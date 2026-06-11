@@ -45,7 +45,7 @@ function inicializarWebring() {
             <a href="https://blogblog.es" 
                target="_blank" 
                style="display: flex; align-items: center; gap: 6px; text-decoration: none; font-family: 'PT Sans Narrow', sans-serif; font-weight: 500; font-size: 1.15em; color: #5a982f;">
-                <img src="img/frog-pixel-recortada.gif"
+                <img src="https://raw.githubusercontent.com/yeite/rss-planet/main/img/frog-pixel-recortada.gif"
                      alt="Logo de ¡Blog!¡Blog!"
                      style="height: 23px; width: auto; display: block; object-fit: contain;" />
                 <span>¡Blog!¡Blog!</span>
