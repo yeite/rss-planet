@@ -45,7 +45,7 @@ function inicializarWebring() {
             <a href="https://blogblog.es" 
                target="_blank" 
                style="display: flex; align-items: center; gap: 6px; text-decoration: none; font-family: 'PT Sans Narrow', sans-serif; font-weight: 500; font-size: 1.15em; color: #5a982f;">
-                <img src="https://blogsencastellano.wordpress.com/wp-content/uploads/2025/08/frog-pixel-recortada.gif"
+                <img src="img/frog-pixel-recortada.gif"
                      alt="Logo de ¡Blog!¡Blog!"
                      style="height: 23px; width: auto; display: block; object-fit: contain;" />
                 <span>¡Blog!¡Blog!</span>
@@ -110,7 +110,7 @@ function inicializarWebring() {
         return currentUrlClean.startsWith(siteUrlClean) || siteUrlClean.startsWith(currentUrlClean);
       });
 
-      // === AQUÍ EMPIEZAN LOS CAMBIOS ===
+      
       
       // Detectamos si el sitio actual NO está en el JSON
       const noEncontrado = (currentIndex === -1);
@@ -139,7 +139,6 @@ function inicializarWebring() {
         document.getElementById('webring-status').innerText = `Estás visitando: ${sites[currentIndex].Nombre}`;
       }
       
-      // === AQUÍ TERMINAN LOS CAMBIOS ===
     })
     .catch(err => {
       let mensajeError = "Error al conectar con el anillo web.";
