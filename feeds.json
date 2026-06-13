@@ -1,5 +1,47 @@
 [
   {
+    "blog": "La Loica",
+    "titulo": "Labores Septiembre 1957",
+    "link": "https://laloica.noblogs.org/labores-septiembre-1957/",
+    "fecha": "13/06/2026",
+    "contenido": "En este frío viernes de invierno, después de 6 meses de inactividad, por fin vuelve la Biblioteca Doméstica. En esta oportunidad les traigo otra edición de Labores, suplemento mensual que se adjuntaba a la Revista Argentina Vosotras; esta edición es la de septiembre de 1957. Esta era publicada por l"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "\"¿Qué tiene que ver esta gente con nada de eso?\"",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/que-tiene-que-ver-esta-gente-con-nada-de-eso/",
+    "fecha": "13/06/2026",
+    "contenido": "El día 14 de junio se celebra en Andalucía el día de la Memoria Histórica y Democrática, conmemorando el inicio de la exhumación de la primera fosa común de la Guerra Civil, el 14 de junio de 2003. Por si a alguien le bailan las fechas, Francisco Franco murió en 1975 y la Constitución Española que e"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Cómo evitar errores en AUR con paru en CachyOS",
+    "link": "https://tecnoysoft.com/2026/06/13/como-evitar-errores-en-aur-con-paru-en-cachyos/",
+    "fecha": "13/06/2026",
+    "contenido": "En distribuciones basadas en Arch Linux como CachyOS, el uso del AUR (Arch User Repository) es una parte fundamental del sistema. Permite instalar software adicional que no está en los repos oficiales, pero también puede generar confusión si no se conoce su funcionamiento. En este artículo a modo de"
+  },
+  {
+    "blog": "zona de confort",
+    "titulo": "Mis obsesiones (1)",
+    "link": "https://sopadeletras.club/efmorell/mis-obsesiones-1",
+    "fecha": "13/06/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Horde: Hellig Usvart | Invirtiendo Al Black Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/06/13/invirtiendo-al-black-metal/",
+    "fecha": "13/06/2026",
+    "contenido": "(1994 Nuclear Blast &#8211; Rowe Productions /2019 Soundmass) El Black Metal con letras cristianas no...\nThe post Horde: Hellig Usvart | Invirtiendo Al Black Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Full Circle #227 (marzo 2026)",
+    "link": "https://javiersam.uy/2026/06/full-circle-227-marzo-2026.html",
+    "fecha": "13/06/2026",
+    "contenido": "Aquí va mi reseña de la edición #227 de Full Circle magazine. Se trata del número correspondiente a marzo de 2026 y está disponible para su descarga desde el 27 de ese mes. Consiste en un PDF de 67 páginas y de 5,8 MB. De la extensa sección de Noticias (páginas 4 a 27) lo que me resultó más destacad"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 24 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/06/12/opensuse-tumbleweed-revision-de-la-semana-24-de-2026/",
@@ -7,7 +49,7 @@
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
-    "blog": "plr blog",
+    "blog": "pedrolr blog",
     "titulo": "Más efecto Mateo: seguimos con el más a quien más tiene",
     "link": "https://pedrolr.es/blog/mas-efecto-mateo-seguimos-con-el-mas-a-quien-mas-tiene/",
     "fecha": "12/06/2026",
@@ -19,6 +61,13 @@
     "link": "https://interlan.ec/blog/2026/06/12/salon-de-la-fama-del-spam-14-me-sorprende-tantos-servicios-afectados/",
     "fecha": "12/06/2026",
     "contenido": "No es como que sea tan raro, pero por lo general, los mensajes de spam buscan abusar de la autoridad de plataformas validas para poder ganar relevancia entre los buscadores. No tengo idea de si esto sirve todavía con los motores de búsqueda por IA, pero mientras existan los motores clásicos, esto no"
+  },
+  {
+    "blog": "Posts on Mi blog",
+    "titulo": "El buscador de dominios que no debería haber confiado en mí",
+    "link": "https://blog.taller404.org/posts/blind_sqli/",
+    "fecha": "12/06/2026",
+    "contenido": "No siempre los hallazgos más interesantes aparecen donde los buscas. A veces aparecen en una funcionalidad tan cotidiana que casi la pasas por alto: un campo donde escribes una extensión de dominio y el sistema te dice si está disponible o no.\nEso fue exactamente lo que pasó esta vez.\nEl punto de en"
   },
   {
     "blog": "matizeta",
@@ -36,6 +85,13 @@
   },
   {
     "blog": "_ voidNull",
+    "titulo": "Home Assistant: gestiona tu hogar de forma sencilla",
+    "link": "https://voidnull.es/home-assistant-gestiona-tu-hogar-de-forma-sencilla/",
+    "fecha": "12/06/2026",
+    "contenido": "Plataforma de domótica open source para controlar y automatizar dispositivos en local sin depender de la nube."
+  },
+  {
+    "blog": "_ voidNull",
     "titulo": "Sobre docker compose #13",
     "link": "https://voidnull.es/sobre-docker-compose/",
     "fecha": "12/06/2026",
@@ -47,6 +103,20 @@
     "link": "https://jorgesanz.net/posts/2026-06-12-instalando-autofirma-para-linux-en-un-chromebook/",
     "fecha": "12/06/2026",
     "contenido": "Desde hace tiempo uso un Chromebook como ordenador personal. Es un equipo muy ligero, con una batería que dura bastantes horas, que se puede usar como tablet (el teclado se puede separar) y que, si se conecta al concentrador del escritorio, reconoce todos los periféricos: pantalla, tarjeta de sonido"
+  },
+  {
+    "blog": "Neptuno en tierra",
+    "titulo": "Morin sin Morin",
+    "link": "https://calleneptuno.wordpress.com/2026/06/12/morin-sin-morin/",
+    "fecha": "12/06/2026",
+    "contenido": "Mentiría si dijera que recuerdo con claridad el contenido de aquel seminario que tomé con Edgar Morin en mayo de 1997. “Morin por Morin. La aventura intelectual del pensamiento complejo”, se titulaba y había sido convocado por dos instituciones que probablemente no se han vuelto a hablar desde enton"
+  },
+  {
+    "blog": "56K",
+    "titulo": "El smartphone de papel – Desconexión digital – Vol 1",
+    "link": "https://56k.es/fanta/el-smartphone-de-papel-desconexion-digital-vol-1/",
+    "fecha": "12/06/2026",
+    "contenido": "Esta historia es posible que le guste si anda interesada/a/e en desconectar de lo digital.  En 2019 (ha llovido desde entonces) el estudio «Special Projects» realizó una app para Android llamada «Paper phone» que para sorpresa de nadie actualmente no se puede encontrar en el market de google (google"
   },
   {
     "blog": "56K",
@@ -61,6 +131,13 @@
     "link": "https://www.fabio.com.ar/9962-links-de-viernes---945",
     "fecha": "12/06/2026",
     "contenido": "     Tener links un viernes es como tener el universo en tus manos\nTenemos links mundialistas! Infinitos, agujero negro de minutos, que nadie te diga qu&eacute; leer, eleg&iacute; vos 😋 Bueno, ya saben, es viernes y hay enlaces, hay partidos de f&uacute;tbol de equipos ignotos y alguno que otro rele"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "FreshRSS \"avanzado\"",
+    "link": "https://nachof.blog/posts/2026/freshrss-avanzado/",
+    "fecha": "12/06/2026",
+    "contenido": "Hace tiempo que vengo usando FreshRSS y la verdad es que no podría estar más contento. Como lector RSS básico ya anda re bien, pero tiene unas cuantas cosas que te pueden hacer la vida más fácil y cómoda.\nSi no encontrás el RSS de una web\nPila de veces la web no tiene un link al RSS visible, pero sí"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -189,7 +266,7 @@
     "contenido": "\nLa cita de hoy es de un artículo de Jodida pero no sorprendida (@bettie en Mastodon) que tenía guardado hace tiempo. ¡Hace un año! 😅\nEn &iquest;Qu&eacute; lleva una mujer en el bolso? me vi reflejado en ese PLACER SUPREMO que es ir comiéndote a pellizcos, de camino a casa, la barra de pan recién co"
   },
   {
-    "blog": "plr blog",
+    "blog": "pedrolr blog",
     "titulo": "Un marcador/bookmarklet en el navegador para ver los RSS de las webs",
     "link": "https://pedrolr.es/blog/un-marcador-bookmarklet-en-el-navegador-para-ver-los-rss-de-las-webs/",
     "fecha": "10/06/2026",
@@ -273,13 +350,6 @@
     "contenido": "Ya se habrán dado cuenta todo lo que insistimos con ellos, pero sinceramente no exageramos...\nThe post Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Flabe 5 me deja sin tokens",
-    "link": "https://dani.torresburriel.com/claude-flabe-5-tokens/",
-    "fecha": "10/06/2026",
-    "contenido": "Es curioso, porque hoy me ha pasado algo que he leído primero en Twitter y después he experimentado, y se me ha quedado cara de: Daniel, te empeñas en pensar que las cosas solo les pasan los demás, y luego eres el siguiente en experimentarlo. Me estoy refiriendo al desorbitado consumo de tokens del "
-  },
-  {
     "blog": "El Cajón de la Tecnología",
     "titulo": "La idea de descentralizar las cosas",
     "link": "https://tecnocajon.wordpress.com/2026/06/10/la-idea-de-descentralizar-las-cosas/",
@@ -348,13 +418,6 @@
     "link": "https://jesuspavonabian.es/post/keychron-v6-qmk-remap/",
     "fecha": "09/06/2026",
     "contenido": "Mi teclado hacía algo raro de narices. Había una tecla que enviaba Win+D cada vez que la pulsaba. En concreto, la tecla que debería ser PAUSE.\nY diréis&hellip; ¿Para qué sirve esa tecla? Pues para cambiar el control del teclado en las apps de máquinas virtuales en Windows, por ejemplo. Pero claro, a"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "El cupón precinto era una interfaz",
-    "link": "https://dani.torresburriel.com/cupon-precinto-diseno-de-servicios/",
-    "fecha": "09/06/2026",
-    "contenido": "Hoy he tenido uno de esos días tremendamente ocupados, pero a última hora me he encontrado con una noticia que, a primera vista, parece de gestión sanitaria pura y dura: el Gobierno de España ha aprobado eliminar el cupón precinto de los medicamentos y sustituirlo por un identificador digital. Confi"
   },
   {
     "blog": "JavierSam",
@@ -504,13 +567,6 @@
     "contenido": "Estamos viviendo en la época de lo descartable, en donde todo lo que llega a...\nThe post Los Sellos Que No Se Rinden | Que No Se Pierda La Sana Costumbre first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Migrar una aplicación a Lovable",
-    "link": "https://dani.torresburriel.com/migrar-una-aplicacion-a-lovable/",
-    "fecha": "07/06/2026",
-    "contenido": "Este fin de semana ha sido un fin de semana bastante intenso. No porque haya tenido aventuras extraordinarias, sino más bien porque lo que he tenido han sido unas sesiones de estudio largas, intensas y bastante valiosas. Menos mal que con la tele y con las redes sociales he podido estar bastante al "
-  },
-  {
     "blog": "Salva Más De Cerca",
     "titulo": "⛅️ hay que animarse a salir al aire libre más seguido",
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%E2%9B%85%EF%B8%8F-hay-que-animarse-a-salir-al-aire-libre-m%C3%A1s-seguido",
@@ -581,94 +637,10 @@
     "contenido": "Estimo que era lo único importante. Volver a empezar con seriedad la vida, antes de que nos alcance la muerte."
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Soporte para webcam con pantalla de privacidad hecha con TENTE",
-    "link": "https://malagaoriginal.blogspot.com/2026/06/soporte-para-webcam-con-pantalla-de.html",
-    "fecha": "06/06/2026",
-    "contenido": "Hace unos años me compré una webcam de pinza de la marca Ewent de la que estaba muy contento porque fue barata, funcionaba bien y tenía buen soporte para GNU/Linux, pero con los años una de las patas de la pinza se partió por la presión del muelle y por la degradación del plástico, así que tenía que"
-  },
-  {
     "blog": "",
     "titulo": "Hasta siempre.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/06/06/hasta-siempre/",
     "fecha": "06/06/2026",
     "contenido": "Es difícil asumir que te fuiste, solo queda tu recuerdo, recuerdo tan intenso como los sentimientos mas profundos."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Paradatos",
-    "link": "https://56k.es/fanta/los-paradatos/",
-    "fecha": "06/06/2026",
-    "contenido": "«Los metadatos te cuentan absolutamente todo sobre la vida de alguien» Stewart Baker (exasesor jurídico general de la NSA) «Matamos gente basándonos en metadatos» Michael Hayden (Ex-director de la NSA) Y razón no les falta, es verdad que matan gente y que los metadatos cuentan mucho pero &#8230;¿y l"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Un Nuevo CD Recopilación Está Ya Disponible | Primal Publica “Fin De Los Tiempos”",
-    "link": "https://www.delotroladometal.com.ar/2026/06/06/primal-publica-fin-de-los-tiempos/",
-    "fecha": "06/06/2026",
-    "contenido": "Hacía tiempo que no teníamos novedades de Primal, pero lo que aquí mismo habíamos anunciado...\nThe post Un Nuevo CD Recopilación Está Ya Disponible | Primal Publica “Fin De Los Tiempos” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Su primer día de playa VS hoy",
-    "link": "https://chancli.dev/blog/chancla-primer-dia-playa-vs-hoy.html",
-    "fecha": "06/06/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Usando Podman - Apuntalando la base",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-06-06-usando-podman-3/",
-    "fecha": "05/06/2026",
-    "contenido": "Espero que este sea el último artículo sobre mis experiencias en la migración de Docker a Podman.\nComo recordaréis, en el anterior artículo habíamos instalado Traefik y CrowdSec, además de su integración en el sistema. Ahora lo que vamos a hacer es instalar PocketID y configurarlo junto con Traefik."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 23 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/06/05/opensuse-tumbleweed-revision-de-la-semana-23-de-2026/",
-    "fecha": "05/06/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Se fueron mis héroes",
-    "link": "https://matizeta.com/2026/06/05/se-fueron-mis-heroes/",
-    "fecha": "05/06/2026",
-    "contenido": "Me acompañaron durante mi vida: en la infancia y durante mi adolescencia hasta convertirme en un adulto. Me apoyé en ellos, me hacían sentir parte de algo, me dieron alegrías. Gracias a ellos tuve anécdotas y hermosos momentos que compartí con seres queridos, momentos que hoy puedo recordar con aleg"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El clonado de voces: las ponemos a prueba con Rico",
-    "link": "https://blog.danielaragay.net/el-clonado-de-voces-las-ponemos-a-prueba-con-rico/",
-    "fecha": "05/06/2026",
-    "contenido": "Rico es el cr&#xed;tico de audio m&#xe1;s honesto que conozco. No se gira cuando lo llamo por tel&#xe9;fono y pasa ol&#xed;mpicamente cuando le llama el robot de fregar. Solo reacciona cuando la voz suena de verdad.As&#xed; que, con un buen"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Pixelix: cliente de PixelFed muy liviano",
-    "link": "https://voidnull.es/pixelix-cliente-de-pixelfed-muy-liviano/",
-    "fecha": "05/06/2026",
-    "contenido": "Cliente del Fediverso centrado en imágenes, libre, moderno y sin rastreo para interactuar con redes descentralizadas."
-  },
-  {
-    "blog": "Diana                                                   Laurencich",
-    "titulo": "El día que nunca queríamos que llegue",
-    "link": "https://dianalaurencich.wordpress.com/2026/06/06/el-dia-que-nunca-queriamos-que-llegue/",
-    "fecha": "05/06/2026",
-    "contenido": "Hoy a la mañana, cinco de junio de 2026, la noticia corrió de teléfono a teléfono. Murió el Indio. No hay forma de dimensionar el dolor que produjeron esas tres palabras en millones de argentinos que sabíamos que el Indio, Carlos Solari, el creador de los Redonditos de Ricota, tenía los días contado"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Hoy es viernes, ¿qué hay en tu escritorio?",
-    "link": "https://picandocodigo.net/2026/hoy-es-viernes-que-hay-en-tu-escritorio/",
-    "fecha": "05/06/2026",
-    "contenido": "Hoy es viernes y habiendo terminado de trabajar, saltó la inspiración para escribir en el blog. Con la excusa de ¿qué hay en tu escritorio? como detonante para enfrentar la página en blanco (o en mi caso el cuadro de texto en gris oscuro en el escritorio virtual de WordPress porque uso el plugin Dar"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Cosas que aprendí en mayo",
-    "link": "https://nachof.blog/posts/2026/cosas-que-aprendi-en-mayo/",
-    "fecha": "05/06/2026",
-    "contenido": "A veces me pasa que me entero de curiosidades varias. Y después me olvido de compartirlas con otros. Así que acá recopilo las que me enteré durante el mes pasado.\nGallinas\nLos seres humanos domesticamos a las gallinas inicialmente no por la carne o los huevos, sino para ver peleas de gallos como ent"
   }
 ]
