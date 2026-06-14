@@ -15,6 +15,13 @@
   },
   {
     "blog": "Tecno y Soft",
+    "titulo": "Cómo ajustar el tiempo de espera de sudo tras una contraseña incorrecta en CachyOS",
+    "link": "https://tecnoysoft.com/2026/06/13/como-ajustar-el-tiempo-de-espera-de-sudo-tras-una-contrasena-incorrecta-en-cachyos/",
+    "fecha": "13/06/2026",
+    "contenido": "Hace unos días me encontré con una situación bastante común: escribir mal la contraseña al usar sudo. Nada grave, salvo por un detalle que seguramente muchos usuarios de Linux conocen bien: el sistema obliga a esperar unos segundos antes de permitir un nuevo intento. Normalmente no le damos importan"
+  },
+  {
+    "blog": "Tecno y Soft",
     "titulo": "Cómo evitar errores en AUR con paru en CachyOS",
     "link": "https://tecnoysoft.com/2026/06/13/como-evitar-errores-en-aur-con-paru-en-cachyos/",
     "fecha": "13/06/2026",
@@ -28,18 +35,32 @@
     "contenido": ""
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Horde: Hellig Usvart | Invirtiendo Al Black Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/06/13/invirtiendo-al-black-metal/",
+    "blog": "",
+    "titulo": "Canción nueva de Germán Harper & Bard.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/06/13/cancion-nueva-de-german-harper-bard/",
     "fecha": "13/06/2026",
-    "contenido": "(1994 Nuclear Blast &#8211; Rowe Productions /2019 Soundmass) El Black Metal con letras cristianas no...\nThe post Horde: Hellig Usvart | Invirtiendo Al Black Metal first appeared on Del Otro Lado Metal."
+    "contenido": ""
   },
   {
-    "blog": "JavierSam",
-    "titulo": "Full Circle #227 (marzo 2026)",
-    "link": "https://javiersam.uy/2026/06/full-circle-227-marzo-2026.html",
+    "blog": "Fabio.com.ar",
+    "titulo": "Hice un juego y se los comparto - WOM",
+    "link": "https://www.fabio.com.ar/9963-hice-un-juego-y-se-los-comparto---wom",
     "fecha": "13/06/2026",
-    "contenido": "Aquí va mi reseña de la edición #227 de Full Circle magazine. Se trata del número correspondiente a marzo de 2026 y está disponible para su descarga desde el 27 de ese mes. Consiste en un PDF de 67 páginas y de 5,8 MB. De la extensa sección de Noticias (páginas 4 a 27) lo que me resultó más destacad"
+    "contenido": "    \nLa historia de este juego tiene m&aacute;s de 30 a&ntilde;os, es algo que quer&iacute;a hacer hace mucho, mucho tiempo, cuando apenas sab&iacute;a programar en BASIC.\nEl problema que ten&iacute;a en esa &eacute;poca pre-internet es que no ten&iacute;a forma de entender ni aprender mucho m&aacut"
+  },
+  {
+    "blog": "Sin nombre",
+    "titulo": "Alma rompe un plato y se pone a llorar",
+    "link": "https://martinvukovic.com/posts/2026/06-13-plato.html",
+    "fecha": "13/06/2026",
+    "contenido": "Un momento de fragilidad."
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "Buscando la mejor app de música streaming en Android",
+    "link": "https://thejnx.bearblog.dev/musica-streaming/",
+    "fecha": "13/06/2026",
+    "contenido": "Antes de que Google termine por matar las APK (si es que lo hace, lo dudo) hay que aprovechar lo mejor que se pueda la libertad de este posterior al \"apocalipsis\"\nDebo decir que me gusta evitar siempre que pueda alguna conexión con Google, se que no es lo ideal porque YouTube Music en cuanto a conte"
   },
   {
     "blog": "Victorhck in the free world",
@@ -140,13 +161,6 @@
     "contenido": "Hace tiempo que vengo usando FreshRSS y la verdad es que no podría estar más contento. Como lector RSS básico ya anda re bien, pero tiene unas cuantas cosas que te pueden hacer la vida más fácil y cómoda.\nSi no encontrás el RSS de una web\nPila de veces la web no tiene un link al RSS visible, pero sí"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista con Germán Pascual | “Nunca Me Vi Como Un Músico Limitado A Un Solo Estilo”",
-    "link": "https://www.delotroladometal.com.ar/2026/06/12/nunca-me-vi-como-un-musico-limitado-a-un-solo-estilo/",
-    "fecha": "12/06/2026",
-    "contenido": "Es un tipo con una historia interesante para contar, para escuchar y charlar con él,...\nThe post Entrevista con Germán Pascual | “Nunca Me Vi Como Un Músico Limitado A Un Solo Estilo” first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Un Diario",
     "titulo": "La app de mensajería privada perfecta existe?",
     "link": "https://thejnx.bearblog.dev/apps-mensajeria-privada/",
@@ -245,20 +259,6 @@
     "contenido": "     Llegamos al jueves, que no es poco\nHoy comienza el mundial, nadie le va a dar bola a m&aacute;s nada, ni a este blog (que ya hab&iacute;an abandonado) ni a nada m&aacute;s, estamos solos esos dos gatos locos que quedamos &iquest;Los links de viernes? Nadie los leer&aacute; &iquest;Posteo cosas?"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Wolves At The Gate: Wastedland | Cuando El Metalcore Se Pone Interesante",
-    "link": "https://www.delotroladometal.com.ar/2026/06/11/cuando-el-metalcore-se-pone-interesante/",
-    "fecha": "11/06/2026",
-    "contenido": "(2025 &#8211; Solid State Records) Después de escuchar una y otra vez propuestas mas o...\nThe post Wolves At The Gate: Wastedland | Cuando El Metalcore Se Pone Interesante first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "La historia del Levante Mediterráneo según Nina Paley",
-    "link": "https://javiersam.uy/2026/06/la-historia-del-levante-mediterraneo-segun-nina.html",
-    "fecha": "11/06/2026",
-    "contenido": "Nina Paley, que se define a sí misma como animadora, directora, artista y chivo expiatorio, es una activista de la Cultura libre de larga trayectoria. En 2012 publicó la animación This Land Is Mine: Una especie de reseña histórica y paródica del asentamiento humano en el Levante Mediterráneo y sus a"
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Qué maravilla derramarse",
     "link": "https://guillermolatorre.com/citas-en-tinta/que-maravilla-derramarse",
@@ -343,13 +343,6 @@
     "contenido": "    \nCuando los japoneses invad&iacute;an lo hac&iacute;an con extrema crueldad, pero al mismo tiempo con organizaci&oacute;n y estructura.\nPa&iacute;s invadido, pa&iacute;s que deb&iacute;a seguir funcionando y tener una moneda de curso legal que la autoridad militar japonesa pudiera controlar, as&"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene",
-    "link": "https://www.delotroladometal.com.ar/2026/06/10/ritual-servant-no-se-detiene/",
-    "fecha": "10/06/2026",
-    "contenido": "Ya se habrán dado cuenta todo lo que insistimos con ellos, pero sinceramente no exageramos...\nThe post Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "El Cajón de la Tecnología",
     "titulo": "La idea de descentralizar las cosas",
     "link": "https://tecnocajon.wordpress.com/2026/06/10/la-idea-de-descentralizar-las-cosas/",
@@ -406,25 +399,11 @@
     "contenido": "Sobredosis Pop fue el primer libro de cuentos cortos y experimentos literarios de Ignacio Alcuri, publicado en 2003. En mi más reciente viaje a Uruguay, me encontré con una nueva edición. Fue en marzo, mientras recorría la sección de autores nacionales y latinoamericanos en el local de Libros Libros"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Charlamos Con Maxi Elosegui Sobre La Actualidad De La Banda | Kraneo Nativo No Espera “Nada De Nadie”",
-    "link": "https://www.delotroladometal.com.ar/2026/06/09/kraneo-nativo-no-espera-nada-de-nadie/",
-    "fecha": "09/06/2026",
-    "contenido": "Quizá exista algún memorioso que recuerde a Habacuc, una vieja banda del underground del conurbano...\nThe post Charlamos Con Maxi Elosegui Sobre La Actualidad De La Banda | Kraneo Nativo No Espera “Nada De Nadie” first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "El Blog de un informático que sueña con mejorar el mundo",
     "titulo": "Cómo remapear una tecla en el Keychron V6 con QMK (y casi cargarte el teclado en el intento)",
     "link": "https://jesuspavonabian.es/post/keychron-v6-qmk-remap/",
     "fecha": "09/06/2026",
     "contenido": "Mi teclado hacía algo raro de narices. Había una tecla que enviaba Win+D cada vez que la pulsaba. En concreto, la tecla que debería ser PAUSE.\nY diréis&hellip; ¿Para qué sirve esa tecla? Pues para cambiar el control del teclado en las apps de máquinas virtuales en Windows, por ejemplo. Pero claro, a"
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Para tener a mano (LIV)",
-    "link": "https://javiersam.uy/2026/06/para-tener-a-mano-liv-2.html",
-    "fecha": "09/06/2026",
-    "contenido": "Graphite sigue avanzando Graphite es un novedoso editor de gráficos vectoriales de reciente aparición. Ofrece un flujo de trabajo no destructivo donde se puede combinar la tradicional composición basada en capas con el diseño generativo basado en nodos. Graphite se presenta a sí mismo como “el Blend"
   },
   {
     "blog": "El Cajón de la Tecnología",
@@ -504,13 +483,6 @@
     "contenido": "    \nEn &eacute;pocas de Tokenmaxxing y, m&aacute;s recientemente, ahorro de tokens (porque se dieron cuenta de lo que realmente costaban), me sorprende ver gente que pretende solucionar todo problema con AI como si 12.000 a&ntilde;os de historia de nuestra civilizaci&oacute;n no contaran.\n&iquest;E"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Kashat: Sangre Maligna | Volviendo A Las Fuentes Del Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/06/08/volviendo-a-las-fuentes-del-metal/",
-    "fecha": "08/06/2026",
-    "contenido": "(2025 &#8211; Zzooouhh Records) Cuantas bandas han quedado en el borroso paso del tiempo, y...\nThe post Kashat: Sangre Maligna | Volviendo A Las Fuentes Del Metal first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Una única cosa",
     "link": "https://guillermolatorre.com/citas-en-tinta/una-unica-cosa",
@@ -558,13 +530,6 @@
     "link": "http://frikoteca.blogspot.com/2026/06/rass-rol-as-service.html",
     "fecha": "07/06/2026",
     "contenido": "Unos amigos me enviaron hace poco un enlace a un artículo en el que se hablaba de la futura estrategia de Chris Cocks (jefazo de Hasbro) con respecto a D&amp;D. El artículo es este: artículo en 3djuegos sobre D&amp;D y básicamente el titular gordo es que la estrategia de la empresa es que cada vez h"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Los Sellos Que No Se Rinden | Que No Se Pierda La Sana Costumbre",
-    "link": "https://www.delotroladometal.com.ar/2026/06/07/que-no-se-pierda-la-sana-costumbre/",
-    "fecha": "07/06/2026",
-    "contenido": "Estamos viviendo en la época de lo descartable, en donde todo lo que llega a...\nThe post Los Sellos Que No Se Rinden | Que No Se Pierda La Sana Costumbre first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -635,12 +600,5 @@
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8D%84-%C2%BFVivo-plenamente",
     "fecha": "07/06/2026",
     "contenido": "Estimo que era lo único importante. Volver a empezar con seriedad la vida, antes de que nos alcance la muerte."
-  },
-  {
-    "blog": "",
-    "titulo": "Hasta siempre.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/06/06/hasta-siempre/",
-    "fecha": "06/06/2026",
-    "contenido": "Es difícil asumir que te fuiste, solo queda tu recuerdo, recuerdo tan intenso como los sentimientos mas profundos."
   }
 ]
