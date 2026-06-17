@@ -1,10 +1,101 @@
 [
   {
+    "blog": "--el Profe Juan--",
+    "titulo": "Actualizando el CMS",
+    "link": "https://elprofejuan.com.ar/actualizando-el-cms",
+    "fecha": "17/06/2026",
+    "contenido": "Puesto a retocar mi pequeño blog, me he dedicado a ver como puedo mejorarlo en lo estético y en lo técnico.\n"
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Google tiene responsabilidad legal sobre sus \"resúmenes con IA\"",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/17/20260617-google-responsable-de-ai-overviews/",
+    "fecha": "17/06/2026",
+    "contenido": "La jurisprudencia sobre un generador de contenido sintético no es la misma que la de un buscador"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Cómo solucionar la ventana azul de Spotify",
+    "link": "https://thecheis.com/2026/06/16/como-solucionar-la-ventana-azul-de-spotify/",
+    "fecha": "16/06/2026",
+    "contenido": "Desde hace meses los usuarios de Spotify en Linux sufrimos un problema estético: el marco de la ventana se muestra en color azul, sin respetar la decoración del escritorio. Esto está ampliamente reportado en entornos con Wayland y GNOME, donde se juntan varias inconveniencias. Durante mucho tiempo i"
+  },
+  {
+    "blog": "Ikkaro",
+    "titulo": "20º Aniversario de Ikkaro y una reflexión",
+    "link": "https://www.ikkaro.com/20-aniversario-de-ikkaro/",
+    "fecha": "16/06/2026",
+    "contenido": "Hoy este blog cumple 20 años. Eso es mucho, muchísimo. Y como cantó Carlos Gardel Volver con la frente marchitaLas ... Sigue leyendo\nEl artículo 20º Aniversario de Ikkaro y una reflexión se publicó primero en Ikkaro."
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "Mi batería social está pidiendo vacaciones",
     "link": "https://blog.luiscarlospando.com/personal/2026/06/mi-bateria-social-esta-pidiendo-vacaciones/",
     "fecha": "16/06/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "The Spectrum Azpiri Limited Edition",
+    "link": "https://mareosdeungeek.es/the-spectrum-azpiri-limited-edition/",
+    "fecha": "16/06/2026",
+    "contenido": "The Spectrum Azpiri Limited Edition es la edición especial de la videoconsola The Spectrum, que simula a la perfección el ordenador de 8 bits ZX Spectrum. En este caso, nos encontramos con un dispositivo que recrea a la perfección el ZX Spectrum. Retro games es de nuevo la empresa encargada de publi"
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "El momento adecuado",
+    "link": "https://www.macram.es/posts/2026/06/el-momento-adecuado/",
+    "fecha": "16/06/2026",
+    "contenido": "El verano pasado compré el perfume de verano de Ffern, el del corto que os enseñé (y que me sigue encantando). Me sedujo la propuesta y ese anuncio, lo reconozco. Son 100€ al trimestre; no es barato pero es cierto que llevo tiempo con ganas de un perfume en condiciones para situaciones especiales, y"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Nada es permanente y menos en Internet",
+    "link": "https://matizeta.com/2026/06/16/nada-es-permanente-y-menos-en-internet/",
+    "fecha": "16/06/2026",
+    "contenido": "Muchas veces nos preocupamos casi con obsesión por la permanencia del contenido que generamos en Internet. ¿Cuanto servicios desaparecieron en los últimos años. Las plataformas pioneras de blog son WordPress, Blogger, Open Diary, Live Journal y Typead: las últimas tres cerraron su operaciones luego "
+  },
+  {
+    "blog": "El Bulevar de la Doble Hacha",
+    "titulo": "Protesta",
+    "link": "https://bulevardoblehacha.wordpress.com/2026/06/16/protesta/",
+    "fecha": "16/06/2026",
+    "contenido": "Publicado en el número 4 de La Fedirevista El puente parecía haberse desconectado por completo de la Nueva Noé, y lo parecía desde hacía bastante tiempo. Roger Bartlett se dispuso a revisar la documentación de la que disponía. En ella, encontró que el último Roger Bartlett que había formado parte de"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Tailandia se hace querer: por qué el paraíso ha empezado a poner límites",
+    "link": "https://blog.danielaragay.net/tailandia-se-hace-querer-por-que-el-paraiso-ha-empezado-a-poner-limites/",
+    "fecha": "16/06/2026",
+    "contenido": "\nLoading the Elevenlabs Text to Speech AudioNative Player...\n\nLlevamos meses planeando un viaje a Tailandia para diciembre, con vuelos abiertos y la idea de quedarnos m&#xe1;s de lo habitual. Y mientras cuadr&#xe1;bamos fechas, vino la noticia: el Gobierno tailand&#xe9;s ha decidido recortar la exen"
+  },
+  {
+    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "titulo": "Bronca 2: el cuento del capital y la hormiga",
+    "link": "https://seyker.eu/bronca-2-el-cuento-del-capital-y-la-hormiga/",
+    "fecha": "16/06/2026",
+    "contenido": "Antes de empezar a hablar de Bronca 2, no puedo ser objetivo ante el regalo que supone el retorno de una de las mejores series de Netflix. La primera me fascinó por su capacidad de hablar de la frustración de toda una generación desde un prisma horizontal, allanando las clases sociales y construyend"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Dial-a-Poem – Poemas llamando a un teléfono",
+    "link": "https://56k.es/fanta/dial-a-poem-poemas-gratis-llamando-a-un-telefono/",
+    "fecha": "16/06/2026",
+    "contenido": "El poeta John Giorno (Nueva York, 1936-2019) fue amante de Andy Warhol pero también montó la famosa «Dial-a-Poem», una línea directa telefónica de poesía gratuita que llegó a ser investigada por el FBI. No se marche aún a ver vídeos en Tik Tok y perder tiempo de su vida haciendo nada porque &#8230; "
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Los ofendiditos preventivos",
+    "link": "https://www.fabio.com.ar/9964-los-ofendiditos-preventivos",
+    "fecha": "16/06/2026",
+    "contenido": "    \nEntre todas las ma&ntilde;as que se le han pegado a los j&oacute;venes hay una de la herencia post-woke que los hace quedar como los m&aacute;s flojos de todas las generaciones: la ofensa preventiva.\n&iquest;De qu&eacute; se trata? Pues bien, hay dos modalidades, una es cuando no entienden algo"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Repasamos El Álbum \"Mons Sacratus\" | Desde Chile Y Con El Metal En Alto…Esto Es Balmung",
+    "link": "https://www.delotroladometal.com.ar/2026/06/16/desde-chile-y-con-el-metal-en-altoesto-es-balmung/",
+    "fecha": "16/06/2026",
+    "contenido": "Puerto Montt es una ciudad donde el Metal resuena en cada rincón. No hay caso....\nThe post Repasamos El Álbum \"Mons Sacratus\" | Desde Chile Y Con El Metal En Alto…Esto Es Balmung first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -26,6 +117,13 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/guapa-de-cara/",
     "fecha": "15/06/2026",
     "contenido": "Aviso de contenido: imagen corporal, peso, ideales de belleza, TCA y dismorfia corporal\n\nLlevo unos cuantos días con el guapo subido. Los paseos de ida y vuelta al trabajo, a pesar de la protección solar, me han dorado un poco la piel de la cara, lo cual ha provocado un efecto en cadena maravilloso:"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "2FA en 2026",
+    "link": "https://alt43.es/2fa-en-2026/",
+    "fecha": "15/06/2026",
+    "contenido": "El SMS sigue siendo el 2FA más usado, pero también el más fácil de comprometer. Un atacante no necesita hackear tu teléfono: le basta con llamar a tu operador. Analizamos alternativas disponibles hoy para tratar de elegir con criterio."
   },
   {
     "blog": "Feed de SL1200",
@@ -77,6 +175,13 @@
     "contenido": "Instala Uptime Kuma en Proxmox VE usando un contenedor LXC y scripts comunitarios para tener un sistema de monitorización funcional en pocos minutos."
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "Unas fotos para als cadiraires",
+    "link": "https://www.ericafustero.com/2026-06-unas-fotos-para-als-cadiraires",
+    "fecha": "15/06/2026",
+    "contenido": "En el casco antiguo de Mataró, se encuentra el taller de Xavier, Isabel y Alba, tres artesanos que desde hace 15 años se dedican a la restauración de sillas, mecedoras y butacas (en catalán: cadiraires). En abril de 2026, con motivo de la inauguración de su nuevo espacio en Can Tunyí Falguera, un lo"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Música deshumanizada",
     "link": "https://www.xn--jmuoz-qta.es/2026/06/musica-deshumanizada.html",
@@ -91,6 +196,13 @@
     "contenido": "Algunos smartphones llevan internamente un receptor de radio pero no todos. Hace años se estilaba eso y lo que hoy llamamos «zapatofonos» suelen tener radio. En este post voy a comentar como podemos convertir un smartphone con Android en un receptor de radio y lo añado a la sección «hacking» simplem"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Since The Death: Entangled | Cuando Las Etiquetas No Alcanzan",
+    "link": "https://www.delotroladometal.com.ar/2026/06/15/cuando-las-etiquetas-no-alcanzan/",
+    "fecha": "15/06/2026",
+    "contenido": "(2026 &#8211; Nordic Mission) La mayoría de las veces se buscan etiquetas, no con el...\nThe post Since The Death: Entangled | Cuando Las Etiquetas No Alcanzan first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "El blog de Lázaro",
     "titulo": "Instalación de ntfy en Unraid",
     "link": "https://elblogdelazaro.org/instalacion-ntfy-unraid/",
@@ -103,6 +215,20 @@
     "link": "https://thecheis.com/2026/06/14/peliculas-de-la-temporada-9/",
     "fecha": "14/06/2026",
     "contenido": "Últimamente no estaba viendo muchas pelis, pero acabé pillando una fantástica promoción anual en Filmin que me costó 70 euros. Fue la excusa perfecta para volver al que considero mi servicio de streaming favorito, con un catálogo y filosofía que son un tesoro en los tiempos que corren. Allí pude ree"
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Del guerrero de Robe y del guardián entre el centeno de Salinger",
+    "link": "https://pedrolr.es/blog/del-guerrero-de-robe-y-del-guardian-entre-el-centeno-de-salinger/",
+    "fecha": "14/06/2026",
+    "contenido": "Releí hace unos meses \"El guardián entre el centeno\" de Salinger y una de las canciones que más escucho de Robe es la de \"Guerrero\". Cuando en la canción suena eso de \"del desfiladero no os voy a dejar pasar; como buen guerrero, aquí me pienso plantar...\" (Iniesta, 2015), me recuerda a la parte del "
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Oposición de Sara Mesa",
+    "link": "https://mareosdeungeek.es/oposicion-de-sara-mesa/",
+    "fecha": "14/06/2026",
+    "contenido": "El último libro que he leído es Oposición de la escritora Sara Mesa. Ya comenté cuando hice el examen de oposición que quería cerrar el círculo leyendo este libro. Me ha gustado bastante, no sé si por comprobar que ese choque cultural no lo tengo yo solo, o porque somos muchos los que vemos el [&#82"
   },
   {
     "blog": "impermanente",
@@ -138,6 +264,13 @@
     "link": "https://alex.corcoles.net/2026/06/arañas-descoloridas",
     "fecha": "14/06/2026",
     "contenido": "\n  Antes de ver Spider-Noir (Amazon, una temporada de ocho episodios) dije que este invento podr&#237;a ir o muy bien o muy mal, pero nunca regular. Los antecedentes de las \"pelis relacionadas con Spider-Man de Sony\" no son buenos: las pelis de Venom, Morbius, Madame Web y Kraven han sido m&#225;s d"
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "La conversación va de inteligencia artificial; mi lista de tareas, de otra cosa",
+    "link": "https://dani.torresburriel.com/inteligencia-artificial-y-clientes/",
+    "fecha": "14/06/2026",
+    "contenido": "Inteligencia artificial y clientes que siguen pidiendo lo de siempre: una reflexión sobre el foco, el ruido del sector y la vuelta a los básicos.\nLa entrada La conversación va de inteligencia artificial; mi lista de tareas, de otra cosa se publicó primero en Blog de Daniel Torres Burriel."
   },
   {
     "blog": "La Loica",
@@ -189,6 +322,13 @@
     "contenido": "    \nLa historia de este juego tiene m&aacute;s de 30 a&ntilde;os, es algo que quer&iacute;a hacer hace mucho, mucho tiempo, cuando apenas sab&iacute;a programar en BASIC.\nEl problema que ten&iacute;a en esa &eacute;poca pre-internet es que no ten&iacute;a forma de entender ni aprender mucho m&aacut"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Horde: Hellig Usvart | Invirtiendo Al Black Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/06/13/invirtiendo-al-black-metal/",
+    "fecha": "13/06/2026",
+    "contenido": "(1994 Nuclear Blast &#8211; Rowe Productions /2019 Soundmass) El Black Metal con letras cristianas no...\nThe post Horde: Hellig Usvart | Invirtiendo Al Black Metal first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Sin nombre",
     "titulo": "Alma rompe un plato y se pone a llorar",
     "link": "https://martinvukovic.com/posts/2026/06-13-plato.html",
@@ -215,6 +355,13 @@
     "link": "https://victorhckinthefreeworld.com/2026/06/12/opensuse-tumbleweed-revision-de-la-semana-24-de-2026/",
     "fecha": "12/06/2026",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Más efecto Mateo: seguimos con el más a quien más tiene",
+    "link": "https://pedrolr.es/blog/mas-efecto-mateo-seguimos-con-el-mas-a-quien-mas-tiene/",
+    "fecha": "12/06/2026",
+    "contenido": "Diría que me ha vuelto a pasar. Veo cómo una revista científica prima a otros autores sobre mí. En otro post hablé sobre mi mala experiencia con un paper en una revista (post) y ahora me pasa algo relacionado en otra. Desde el 2020 publico en el Anuario ThinkEPI. Los manuscritos se difunden por list"
   },
   {
     "blog": "Interlan",
@@ -301,6 +448,13 @@
     "contenido": "Hace tiempo que vengo usando FreshRSS y la verdad es que no podría estar más contento. Como lector RSS básico ya anda re bien, pero tiene unas cuantas cosas que te pueden hacer la vida más fácil y cómoda.\nSi no encontrás el RSS de una web\nPila de veces la web no tiene un link al RSS visible, pero sí"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Entrevista con Germán Pascual | “Nunca Me Vi Como Un Músico Limitado A Un Solo Estilo”",
+    "link": "https://www.delotroladometal.com.ar/2026/06/12/nunca-me-vi-como-un-musico-limitado-a-un-solo-estilo/",
+    "fecha": "12/06/2026",
+    "contenido": "Es un tipo con una historia interesante para contar, para escuchar y charlar con él,...\nThe post Entrevista con Germán Pascual | “Nunca Me Vi Como Un Músico Limitado A Un Solo Estilo” first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Un Diario",
     "titulo": "La app de mensajería privada perfecta existe?",
     "link": "https://thejnx.bearblog.dev/apps-mensajeria-privada/",
@@ -341,6 +495,20 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/el-faro-de-cabo-de-palos/",
     "fecha": "11/06/2026",
     "contenido": "Haber vivido con personas, y no meramente entre ellas, supone ir por la vida cargada de huellas y marcas, de restos de su presencia cuando se marchan. Quique González siempre será cosa de D., igual que Terry Pratchett. Sandman, por más mío que lo haya hecho, siempre tendrá restos de C. Zoo o La Fúmi"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Hoy es jueves, ¿qué hay en tu escritorio?",
+    "link": "https://mareosdeungeek.es/hoy-es-jueves-que-hay-en-tu-escritorio/",
+    "fecha": "11/06/2026",
+    "contenido": "Para una vez que Gorka escribe una entrada y encima es en cadena, creo que voy a contestarla. Como bien indica, así es como interactuábamos hace 20 años. En esta ocasión, no es algo nuevo, si no una adaptación de esa cadena que lleva recorriendo las redes año tras año, ¿qué hay en tu escritorio? [&#"
+  },
+  {
+    "blog": "Galerías Preciados",
+    "titulo": "Inventario de movidas chulas nº2",
+    "link": "https://galeriaspreciados.band/inventario-de-movidas-chulas-no2/",
+    "fecha": "11/06/2026",
+    "contenido": "A ver, que tenía un poco yo esto sin decir nada y ya iba tocando pero bueno que uno dice cosas cuando puede y quiere y que más da ¿no? Que se joda eso del crear contenido! Que cree contenido tu tía la Lolis!"
   },
   {
     "blog": "matizeta",
@@ -392,6 +560,13 @@
     "contenido": "     Llegamos al jueves, que no es poco\nHoy comienza el mundial, nadie le va a dar bola a m&aacute;s nada, ni a este blog (que ya hab&iacute;an abandonado) ni a nada m&aacute;s, estamos solos esos dos gatos locos que quedamos &iquest;Los links de viernes? Nadie los leer&aacute; &iquest;Posteo cosas?"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Wolves At The Gate: Wastedland | Cuando El Metalcore Se Pone Interesante",
+    "link": "https://www.delotroladometal.com.ar/2026/06/11/cuando-el-metalcore-se-pone-interesante/",
+    "fecha": "11/06/2026",
+    "contenido": "(2025 &#8211; Solid State Records) Después de escuchar una y otra vez propuestas mas o...\nThe post Wolves At The Gate: Wastedland | Cuando El Metalcore Se Pone Interesante first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "JavierSam",
     "titulo": "La historia del Levante Mediterráneo según Nina Paley",
     "link": "https://javiersam.uy/2026/06/la-historia-del-levante-mediterraneo-segun-nina.html",
@@ -399,11 +574,32 @@
     "contenido": "Nina Paley, que se define a sí misma como animadora, directora, artista y chivo expiatorio, es una activista de la Cultura libre de larga trayectoria. En 2012 publicó la animación This Land Is Mine: Una especie de reseña histórica y paródica del asentamiento humano en el Levante Mediterráneo y sus a"
   },
   {
+    "blog": "Jorge Aguilera",
+    "titulo": "FediPhoto III",
+    "link": "https://blog.jagedn.dev/blog/2026/fediphoto-iii.html",
+    "fecha": "11/06/2026",
+    "contenido": "FediPhoto: una aplicación java de ejemplo para el fediverso"
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Qué maravilla derramarse",
     "link": "https://guillermolatorre.com/citas-en-tinta/que-maravilla-derramarse",
     "fecha": "10/06/2026",
     "contenido": "\nLa cita de hoy es de un artículo de Jodida pero no sorprendida (@bettie en Mastodon) que tenía guardado hace tiempo. ¡Hace un año! 😅\nEn &iquest;Qu&eacute; lleva una mujer en el bolso? me vi reflejado en ese PLACER SUPREMO que es ir comiéndote a pellizcos, de camino a casa, la barra de pan recién co"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "¿Qué ocurre en Colombia con las llamadas de spam? Cultura, filtraciones y burocracia",
+    "link": "https://gatooscuro.xyz/que-ocurre-en-colombia-con-las-llamadas-de-spam-cultura-filtraciones-y-burocracia/",
+    "fecha": "10/06/2026",
+    "contenido": "Creo que debí escribir este artículo desde hace muchos años. De verdad, es un tema que nos compete a todos y creo que, en algún momento, todos nos hemos hecho\nSeguir leyendo  ¿Qué ocurre en Colombia con las llamadas de spam? Cultura, filtraciones y burocracia\nEl cargo ¿Qué ocurre en Colombia con las"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Navegador web Vivaldi 8.0",
+    "link": "https://mareosdeungeek.es/navegador-web-vivaldi-8-0/",
+    "fecha": "10/06/2026",
+    "contenido": "El navegador web Vivaldi ha lanzado su versión 8.0, donde la principal novedad es una interfaz de usuario unificada. Destaca sobre todo por la sencillez y accesibilidad a las diferentes áreas. Proporciona una navegación rápida y simple. Vivaldi 8.0 dispone de múltiples paneles, aprovechando cada par"
   },
   {
     "blog": "Tecno y Soft",
@@ -441,6 +637,13 @@
     "contenido": "Destaco el trabajo de un artista entusiasmado con la idea de compartir"
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "San Isidro 2026",
+    "link": "https://www.ericafustero.com/2026-06-san-isidro-2026",
+    "fecha": "10/06/2026",
+    "contenido": "El día de San Isidro tenía la energía bajo mínimos después de una semana intensa llena de eventos entre Valencia, Móstoles y Madrid. El plan era acercarnos al Jardín de las Vistillas, pasear hasta la feria y tomar algo; aún así, supuse que me encontraría gente interesante que fotografiar y decidí ll"
+  },
+  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Teletrabajo para (casi) todo",
     "link": "https://www.xn--jmuoz-qta.es/2026/06/teletrabajo-para-casi-todo.html",
@@ -469,66 +672,24 @@
     "contenido": "    \nCuando los japoneses invad&iacute;an lo hac&iacute;an con extrema crueldad, pero al mismo tiempo con organizaci&oacute;n y estructura.\nPa&iacute;s invadido, pa&iacute;s que deb&iacute;a seguir funcionando y tener una moneda de curso legal que la autoridad militar japonesa pudiera controlar, as&"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene",
+    "link": "https://www.delotroladometal.com.ar/2026/06/10/ritual-servant-no-se-detiene/",
+    "fecha": "10/06/2026",
+    "contenido": "Ya se habrán dado cuenta todo lo que insistimos con ellos, pero sinceramente no exageramos...\nThe post Patrick Best Nos Adelanta Los Próximos Pasos De La Banda | Ritual Servant No Se Detiene first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Flabe 5 me deja sin tokens",
+    "link": "https://dani.torresburriel.com/claude-flabe-5-tokens/",
+    "fecha": "10/06/2026",
+    "contenido": "Es curioso, porque hoy me ha pasado algo que he leído primero en Twitter y después he experimentado, y se me ha quedado cara de: Daniel, te empeñas en pensar que las cosas solo les pasan los demás, y luego eres el siguiente en experimentarlo. Me estoy refiriendo al desorbitado consumo de tokens del "
+  },
+  {
     "blog": "El Cajón de la Tecnología",
     "titulo": "La idea de descentralizar las cosas",
     "link": "https://tecnocajon.wordpress.com/2026/06/10/la-idea-de-descentralizar-las-cosas/",
     "fecha": "10/06/2026",
     "contenido": "Bueno… Llevo muchos años siendo un friki de la tecnología, de hecho, meapasiona. Me gustan todas las novedades de los dispositivos móviles perotambién soy de la opinión de que llevar todo en un bolsillo puede seraterrador. A día de hoy, llevamos todo en nuestro teléfono móvil, y, no lo voya negar, e"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Instalado y usando Beszel",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-06-10-usando-beszel/",
-    "fecha": "09/06/2026",
-    "contenido": "Este es un artículo que si no fuera por davidochobits no existiría. Gracias David 👏\nConocí esta aplicación gracias a este toot de David en Mastodon y me lo guardé para cuando tuviera más tiempo y poder echarle un vistazo, porque la monitorización de nuestros equipos, no lo vamos a negar, es un tema "
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "Semana 23/2026",
-    "link": "https://www.macram.es/posts/2026/06/semana-23-2026/",
-    "fecha": "09/06/2026",
-    "contenido": "La semana pasada se me olvidó, así que esta retro va a ser de dos semanas. No hay mucha novedad en realidad. Pasando calor, esperando con ansia que abran la piscina municipal, avanzando en el trabajo, escuchando música tranquilita y sin terminar de rematar el cambio de armario, que estp parece que n"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Creando una página web como se hacía 20 años atrás",
-    "link": "https://matizeta.com/2026/06/09/creando-una-pagina-web-como-se-hacia-20-anos-atras/",
-    "fecha": "09/06/2026",
-    "contenido": "Comencé con eso de “armar páginas web” con el editor de Microsoft FrontPage para luego pasar a algo “más profesional” como Dreamweaver. El primero hace más de una década que dejó de existir, el segundo aún sigue vivo aunque dudo mucho que alguien lo siga utilizando, al menos a la forma que se utiliz"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Más Pulp en Vivo: Música Para el Cuerpo y Alma",
-    "link": "https://altgr.xyz/2026/06/09/mas-pulp-en-vivo-musica-para-el-cuerpo-y-alma/",
-    "fecha": "09/06/2026",
-    "contenido": "Declaro oficialmente a Pulp como mi banda favorita en vivo. O quizás solo sea el éxtasis después de un concierto lleno de emociones, convirtiendo el Movistar Arena en una fiesta total. El comienzo fue tranquilo con Sorted for E&#8217;s &#38; Wizz &#8211;cuyos primeros acordes escuchamos mientras cor"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Los Ovnis ya no tienen excusa de baja calidad",
-    "link": "https://www.fabio.com.ar/9959-los-ovnis-ya-no-tienen-excusa-de-baja-calidad",
-    "fecha": "09/06/2026",
-    "contenido": "    \nEl otro d&iacute;a captur&eacute; en mi tel&eacute;fono un momento de lucha policial con una vendedora mantera, mi tel&eacute;fono, algo normal, nada despampanante, capturado en 1920x1080 a 60 cuadros por segundo, iluminaci&oacute;n perfecta, foco l&aacute;ser, estabilizaci&oacute;n &oacute;pti"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "[Libro] Sobredosis Pop - Ignacio Alcuri",
-    "link": "https://picandocodigo.net/2026/libro-sobredosis-pop-ignacio-alcuri/",
-    "fecha": "09/06/2026",
-    "contenido": "Sobredosis Pop fue el primer libro de cuentos cortos y experimentos literarios de Ignacio Alcuri, publicado en 2003. En mi más reciente viaje a Uruguay, me encontré con una nueva edición. Fue en marzo, mientras recorría la sección de autores nacionales y latinoamericanos en el local de Libros Libros"
-  },
-  {
-    "blog": "El Blog de un informático que sueña con mejorar el mundo",
-    "titulo": "Cómo remapear una tecla en el Keychron V6 con QMK (y casi cargarte el teclado en el intento)",
-    "link": "https://jesuspavonabian.es/post/keychron-v6-qmk-remap/",
-    "fecha": "09/06/2026",
-    "contenido": "Mi teclado hacía algo raro de narices. Había una tecla que enviaba Win+D cada vez que la pulsaba. En concreto, la tecla que debería ser PAUSE.\nY diréis&hellip; ¿Para qué sirve esa tecla? Pues para cambiar el control del teclado en las apps de máquinas virtuales en Windows, por ejemplo. Pero claro, a"
-  },
-  {
-    "blog": "El Cajón de la Tecnología",
-    "titulo": "Cambios…",
-    "link": "https://tecnocajon.wordpress.com/2026/06/09/cambios/",
-    "fecha": "09/06/2026",
-    "contenido": "Un artículo corto pero que ofrece un solo objetivo: explicar los cambios queestá habiendo en la web. Son más bien cambios pequeños, pero creo que merecen una explicación. Acerca de El acerca de llevaba tiempo dándole vueltas. Creo que el blog ha cambiadomucho, lo que escribo ahora no tiene nada que "
   }
 ]
