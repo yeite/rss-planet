@@ -370,6 +370,14 @@
     "Sponsor": "si"
   },
   {
+    "Nombre": "Labaudric",
+    "Url": "https://labaudric.net",
+    "Feed": "https://labaudric.net/atom.xml",
+    "Descripción": "Blog personal, auto alojamiento, Linux, software, programación.",
+    "Categoría": "Tecnología",
+    "País": "España"
+  },
+  {
     "Nombre": "Kernel Picnic!",
     "Url": "https://yslasdas.bearblog.dev",
     "Feed": "https://yslasdas.bearblog.dev/rss/",
@@ -377,6 +385,8 @@
     "Categoría": "Arte y Diseño, Ciencia y Humanidades, Entretenimiento y Cultura, Tecnología, Vida Diaria",
     "País": "Argentina"
   },
+  
+  
   {
     "Nombre": "El blog de Lázaro",
     "Url": "https://elblogdelazaro.org/",
