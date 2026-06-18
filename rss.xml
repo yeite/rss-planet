@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 18 Jun 2026 02:37:28 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 10:03:26 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -26,12 +26,108 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Puesto a retocar mi pequeño blog, me he dedicado a ver como puedo mejorarlo en lo estético y en lo técnico.<br><br><strong>Fuente:</strong> --el Profe Juan--]]></description>
 </item>
 <item>
+<title>Thunderbird hará más sencillo poder colaborar en su aplicación para Android</title>
+<link>https://victorhckinthefreeworld.com/2026/06/17/thunderbird-hara-mas-sencillo-poder-colaborar-en-su-aplicacion-para-android/</link>
+<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/06/17/thunderbird-hara-mas-sencillo-poder-colaborar-en-su-aplicacion-para-android/</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>Victorhck in the free world</category>
+<description><![CDATA[Si quieres colaborar con Thunderbird, puede ser difícil saber por dónde empezar o cómo hacerlo. Pronto dar ese primer paso en el desarrollo de la aplicación Thunderbird para Android será más fácil que nunca<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
+</item>
+<item>
+<title>Colombia decide</title>
+<link>https://gatooscuro.xyz/colombia-decide/</link>
+<guid isPermaLink="true">https://gatooscuro.xyz/colombia-decide/</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>El cuarto de GatoOscuro</category>
+<description><![CDATA[Qué un escritor sobre tecnología, internet y algo de filosofía decida escribir sobre política es porque la cosa escaló a otro nivel, y sí, este es mi caso. De antemano Seguir leyendo Colombia decide El cargo Colombia decide apareció primero en El cuarto de GatoOscuro.<br><br><strong>Fuente:</strong> El cuarto de GatoOscuro]]></description>
+</item>
+<item>
+<title>Sorda (película)</title>
+<link>https://mareosdeungeek.es/sorda-pelicula/</link>
+<guid isPermaLink="true">https://mareosdeungeek.es/sorda-pelicula/</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>Mareos de un geek</category>
+<description><![CDATA[Sorda es una película española dirigida por Eva Libertad. Cuenta la historia de su propia hermana, con el añadido de estar protagonizada por ella misma (su hermana) Miriam Garlo se erige en la protagonista, acompañada de Álvaro Cervantes. La historia de Sorda nos lleva al drama que sufren las person<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
+</item>
+<item>
+<title>Salidos del sistema</title>
+<link>https://matizeta.com/2026/06/17/salidos-del-sistema/</link>
+<guid isPermaLink="true">https://matizeta.com/2026/06/17/salidos-del-sistema/</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>matizeta</category>
+<description><![CDATA[Me interesan las vidas de esas personas que rompieron con el molde de vivir de otra manera de la que la mayoría estamos acostumbrados.&amp;#160; No hablo de hippies, hablo de aquellas que conocieron “la vida convencional”, trabajaban en una empresa, llegaron a ser alguien dentro de ellas, pero despertar<br><br><strong>Fuente:</strong> matizeta]]></description>
+</item>
+<item>
+<title>Salud, adiós como empleado y preparativos para ser autónomo</title>
+<link>https://blog.danielaragay.net/salud-adios-como-empleado-y-preparativos-para-ser-autonomo/</link>
+<guid isPermaLink="true">https://blog.danielaragay.net/salud-adios-como-empleado-y-preparativos-para-ser-autonomo/</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>danielaragay.net</category>
+<description><![CDATA[Hablamos sobre el resultado de la radiograf&amp;#xed;a, mis planes de salud, mis &amp;#xfa;ltimos d&amp;#xed;as en la empresa y como ser aut&amp;#xf3;nomo en Suecia.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &amp;#xb7; Mastodon: https://masto.es/@proteusbcn &amp;#xb7; Telegram:<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
+</item>
+<item>
+<title>nohup: ejecuta procesos persistentes en segundo plano</title>
+<link>https://voidnull.es/nohup-ejecuta-procesos-persistentes-en-segundo-plano/</link>
+<guid isPermaLink="true">https://voidnull.es/nohup-ejecuta-procesos-persistentes-en-segundo-plano/</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Aprende a utilizar el comando nohup en GNU/Linux para ejecutar procesos persistentes en segundo plano aunque cierres la terminal o la sesión SSH.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Liberar espacio en disco en un servidor donde uses Docker</title>
+<link>https://voidnull.es/liberar-espacio-en-disco-en-un-servidor-donde-uses-docker/</link>
+<guid isPermaLink="true">https://voidnull.es/liberar-espacio-en-disco-en-un-servidor-donde-uses-docker/</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Aprende a liberar espacio en disco eliminando imágenes, contenedores y cachés innecesarias de Docker.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
 <title>Google tiene responsabilidad legal sobre sus &quot;resúmenes con IA&quot;</title>
 <link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/17/20260617-google-responsable-de-ai-overviews/</link>
 <guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/17/20260617-google-responsable-de-ai-overviews/</guid>
 <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
 <category>ENTRE DRAGONES Y PINGÜINOS</category>
 <description><![CDATA[La jurisprudencia sobre un generador de contenido sintético no es la misma que la de un buscador<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+</item>
+<item>
+<title>A-Linux – Ultra minimal Distro en ensamblador</title>
+<link>https://56k.es/fanta/a-linux-ultra-minimal-distro-en-ensamblador/</link>
+<guid isPermaLink="true">https://56k.es/fanta/a-linux-ultra-minimal-distro-en-ensamblador/</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Lo interesante de esta distro es que tiene una suite de utilidades escritas en ensamblador que ocupan muy poco y nos pueden permitir poder hacer cosas en ordenadores con muy pocos recursos. Lo otro no es ni más ni menos que un Kernel Linux configurado y compilado para entrar de sobra en lo que ocupa<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>Sonidos obsoletos, extintos, desaparecidos</title>
+<link>https://56k.es/fanta/sonidos-obsoletos-extintos-desaparecidos/</link>
+<guid isPermaLink="true">https://56k.es/fanta/sonidos-obsoletos-extintos-desaparecidos/</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[El mundo del ruido, del sonido, de la música, de la remezcla, &amp;#8230; tiene algo que puedes escuchar. Dame unos minutos de tu tiempo y te cuento un poco de que demonios estamos hablando. Calma, no abras nada en el smartphone, centra tu atención un rato porque prometo que esto será breve. De lo que..<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>Ucrania: La guerra a la logística</title>
+<link>https://www.fabio.com.ar/9965-ucrania-la-guerra-a-la-logistica</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/9965-ucrania-la-guerra-a-la-logistica</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Un detalle no menor de la guerra de Ucrania es c&amp;oacute;mo se ha ido cambiando el foco del combate, hasta hace un par de a&amp;ntilde;os era sobre las tropas blindadas, luego sobre la infanter&amp;iacute;a y ahora, por fin, hace unos meses que el alto mando ucraniano entendi&amp;oacute; c&amp;oacute;mo era: lo<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>&quot;Between Blood And Silence&quot; Es Lo Nuevo de Mangled Carpenter | Que El Grindcore Nos Abrace</title>
+<link>https://www.delotroladometal.com.ar/2026/06/17/que-el-grindcore-nos-abrace/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/06/17/que-el-grindcore-nos-abrace/</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[Hacía tiempo que no pasaba por el género del Grindcore, y la verdad es que... The post &quot;Between Blood And Silence&quot; Es Lo Nuevo de Mangled Carpenter | Que El Grindcore Nos Abrace first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Herederos del recuerdo</title>
+<link>http://panicerror.org/blog/herederos-recuerdo.md.html</link>
+<guid isPermaLink="true">http://panicerror.org/blog/herederos-recuerdo.md.html</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+<category>PanicError</category>
+<description><![CDATA[Tres años después de empezar con la saga de Herederos del Tiempo de Adrian Tchaikovsky vuelvo a ella para hablaros de la tercera entrega titulada «Herederos del recuerdo». La saga que se compone de dos libros anteriores (de los que os hablé en el artículo enlazado) no termina con este tercero sino q<br><br><strong>Fuente:</strong> PanicError]]></description>
 </item>
 <item>
 <title>Cómo solucionar la ventana azul de Spotify</title>
@@ -120,102 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
 <category>Fabio.com.ar</category>
 <description><![CDATA[Entre todas las ma&amp;ntilde;as que se le han pegado a los j&amp;oacute;venes hay una de la herencia post-woke que los hace quedar como los m&amp;aacute;s flojos de todas las generaciones: la ofensa preventiva. &amp;iquest;De qu&amp;eacute; se trata? Pues bien, hay dos modalidades, una es cuando no entienden algo<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Repasamos El Álbum &quot;Mons Sacratus&quot; | Desde Chile Y Con El Metal En Alto…Esto Es Balmung</title>
-<link>https://www.delotroladometal.com.ar/2026/06/16/desde-chile-y-con-el-metal-en-altoesto-es-balmung/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/06/16/desde-chile-y-con-el-metal-en-altoesto-es-balmung/</guid>
-<pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Puerto Montt es una ciudad donde el Metal resuena en cada rincón. No hay caso.... The post Repasamos El Álbum &quot;Mons Sacratus&quot; | Desde Chile Y Con El Metal En Alto…Esto Es Balmung first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Writing it down</title>
-<link>https://guillermolatorre.com/citas-en-tinta/writing-it-down</link>
-<guid isPermaLink="true">https://guillermolatorre.com/citas-en-tinta/writing-it-down</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>Guillermo Latorre | Feed RSS</category>
-<description><![CDATA[Descubrí esta frase de Rusty Foster leyendo un post del blog de Tracy Durnell. Me pareció muy rotunda, muy redonda, que resume muy bien esa conexión tan fuerte que sabemos que hay entre la escritura y el pensamiento, cómo el acto analógico de escribir nos abre puertas a creatividad y a la conexión d<br><br><strong>Fuente:</strong> Guillermo Latorre | Feed RSS]]></description>
-</item>
-<item>
-<title>Añadir palabra clave para que Thunderbird nos recuerde si queremos añadir un adjunto</title>
-<link>https://victorhckinthefreeworld.com/2026/06/15/anadir-palabra-clave-para-que-thunderbird-nos-recuerde-si-queremos-anadir-un-adjunto/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/06/15/anadir-palabra-clave-para-que-thunderbird-nos-recuerde-si-queremos-anadir-un-adjunto/</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[El cliente de correo Thunderbird tiene la opción de recordarnos que tenemos que adjuntar un archivo cuando en el cuerpo del correo aparece cierta palabra clave. Veamos cómo añadir una nueva<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>Guapa de cara</title>
-<link>https://jodidaperonosorprendida.mataroa.blog/blog/guapa-de-cara/</link>
-<guid isPermaLink="true">https://jodidaperonosorprendida.mataroa.blog/blog/guapa-de-cara/</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>Jodida, pero no sorprendida</category>
-<description><![CDATA[Aviso de contenido: imagen corporal, peso, ideales de belleza, TCA y dismorfia corporal Llevo unos cuantos días con el guapo subido. Los paseos de ida y vuelta al trabajo, a pesar de la protección solar, me han dorado un poco la piel de la cara, lo cual ha provocado un efecto en cadena maravilloso:<br><br><strong>Fuente:</strong> Jodida, pero no sorprendida]]></description>
-</item>
-<item>
-<title>2FA en 2026</title>
-<link>https://alt43.es/2fa-en-2026/</link>
-<guid isPermaLink="true">https://alt43.es/2fa-en-2026/</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>alt43</category>
-<description><![CDATA[El SMS sigue siendo el 2FA más usado, pero también el más fácil de comprometer. Un atacante no necesita hackear tu teléfono: le basta con llamar a tu operador. Analizamos alternativas disponibles hoy para tratar de elegir con criterio.<br><br><strong>Fuente:</strong> alt43]]></description>
-</item>
-<item>
-<title>- Monta tu propio servidor GEMINI Agate con un simple comando Docker run</title>
-<link>https://proxy.dystopic.world/art/agate.gmi</link>
-<guid isPermaLink="true">https://proxy.dystopic.world/art/agate.gmi</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>Feed de SL1200</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> Feed de SL1200]]></description>
-</item>
-<item>
-<title>Newsboat, un cliente RSS para la terminal</title>
-<link>https://www.end3r.es/posts/021-newsboat-un-lector-de-rss-para-la-terminal/</link>
-<guid isPermaLink="true">https://www.end3r.es/posts/021-newsboat-un-lector-de-rss-para-la-terminal/</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>End3r.es</category>
-<description><![CDATA[Newsboat es un lector de RSS y Atom de código abierto pensado para usarse desde la terminal. Nació como un fork de Newsbeuter optimizado y mantenido activamente por la comunidad, lo que lo convierte en una alternativa sólida para usuarios de Linux, FreeBSD y OpenBSD. Newsboat es una aplicación para<br><br><strong>Fuente:</strong> End3r.es]]></description>
-</item>
-<item>
-<title>Semana 24/2026</title>
-<link>https://www.macram.es/posts/2026/06/semana-24-2026/</link>
-<guid isPermaLink="true">https://www.macram.es/posts/2026/06/semana-24-2026/</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>Manu Mateos</category>
-<description><![CDATA[Ayer cayó una tormenta bastante sorpresiva que hoy ha hecho que se refresque la noche y ha dejado una mañana bastante agradable. Tengo la ventana del despacho abierta aprovechando que no pasan muchos coches, y estoy escuchando cantidad de pájaros cantar, y eso siempre me alegra. No tengo música pues<br><br><strong>Fuente:</strong> Manu Mateos]]></description>
-</item>
-<item>
-<title>Singladura</title>
-<link>http://locutusbit.blogspot.com/2026/06/singladura.html</link>
-<guid isPermaLink="true">http://locutusbit.blogspot.com/2026/06/singladura.html</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>La bitácora de Locutus</category>
-<description><![CDATA[&amp;nbsp;Las infinitas huellas miden el tiempo desdibujadas,&amp;nbsp;como la luz de las estrellas que remontan,&amp;nbsp;solitarias y ciegas,el vacío entre lo inmediato y lo imprescindible.Pascual Herrera<br><br><strong>Fuente:</strong> La bitácora de Locutus]]></description>
-</item>
-<item>
-<title>560. El Libro Máximo</title>
-<link>https://lamadredelpatonegro.blogspot.com/2026/06/560-el-libro-maximo.html</link>
-<guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/06/560-el-libro-maximo.html</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>La Madre Que Parió Al Pato Negro</category>
-<description><![CDATA[&amp;nbsp; &amp;nbsp; Cuando era niño, gracias a la barroca literatura de Lovecraft, me interesé por una macabra técnica llamada bibliopegia antropodérmica. Menuda decepción me llevé, años más tarde, al enterarme de que el Necronomicón no es uno de los libros encuadernados en piel humana que aún se conserva<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
-</item>
-<item>
-<title>Tipografía solidaria: Homeless Fonts</title>
-<link>https://voidnull.es/tipografia-solidaria-homeless-fonts/</link>
-<guid isPermaLink="true">https://voidnull.es/tipografia-solidaria-homeless-fonts/</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[Anna (versión beta) es una tipografía en formato digital diseñada por Anna Vives. Anna es una chica con síndrome de down que ha dedicado el año 2012 a acercarse al mundo de la letra, trabajando la lectura y la escritura.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Instalación de Uptime Kuma en Proxmox</title>
-<link>https://voidnull.es/instalacion-de-uptime-kuma-en-proxmox/</link>
-<guid isPermaLink="true">https://voidnull.es/instalacion-de-uptime-kuma-en-proxmox/</guid>
-<pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[Instala Uptime Kuma en Proxmox VE usando un contenedor LXC y scripts comunitarios para tener un sistema de monitorización funcional en pocos minutos.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
 </item>
 
 </channel>
