@@ -1,10 +1,87 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Publicado Agama 22",
+    "link": "https://victorhckinthefreeworld.com/2026/06/19/publicado-agama-22/",
+    "fecha": "19/06/2026",
+    "contenido": "En esta versión 22 de Agama, el nuevo instalador de openSUSE/SUSE, las novedades se han centrado en pulir la interfaz de usuario, aunque también se ha trabajado en otras áreas."
+  },
+  {
     "blog": "Jinversor",
     "titulo": "El fútbol me importa un culo",
     "link": "https://jinversor.co/2026/06/el-futbol-me-importa-un-culo/",
     "fecha": "19/06/2026",
     "contenido": "Así es, el fútbol me importa un culo. Nada. Cero. Un orto sucio de indigente. O incluso menos. Es el vacío absoluto, el vació perfecto: 0 mbar. ¿Quién ganó? ¿Quién [&#8230;]\nLa entrada El fútbol me importa un culo se publicó primero en Jinversor."
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Pensamientos: Al fin mi blog carga rápido",
+    "link": "https://interlan.ec/blog/2026/06/19/pensamientos-al-fin-mi-blog-carga-rapido/",
+    "fecha": "19/06/2026",
+    "contenido": "Puede que estas declaraciones te parezcan extrañas, pero ha sido una larga lucha por alcanzar la estabilidad de este pequeño blog. Ten en cuenta que administro casi todo de forma personal, es un VPS, asi que si hay algun problema, sin duda alguna es culpa mia, pero si hay una solucion, esta en mis m"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Esto es lo que uso para guardar mis links favoritos",
+    "link": "https://matizeta.com/2026/06/19/esto-es-lo-que-uso-para-guardar-mis-links-favoritos/",
+    "fecha": "19/06/2026",
+    "contenido": "A raíz de la publicación que leí en el blog de Chancli sobre como&#160;gestiona sus links favoritos, me puse a buscar si había escrito yo sobre ello y no encontré nada. Así que hablemos de la herramienta que creé para guardar esos links que deseo conservar, que puede que te sirva a vos también. La ["
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "El último deseo",
+    "link": "https://impermanente.es/2026/06/19/el-ltimo-deseo.html",
+    "fecha": "19/06/2026",
+    "contenido": "Cualquiera que haya leído a Sapkowski o jugado lo suficiente a Dungeons &amp; Dragons conoce el chiste, y conoce el miedo que hay debajo del chiste. El hechizo más poderoso del juego se llama &ldquo;Wish&rdquo; y con él puedes pedir literalmente cualquier cosa. Y es precisamente por eso que todo DM "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "¿Qué es y para que sirve Proxmox? [Proxmox #0]",
+    "link": "https://voidnull.es/que-es-y-para-que-sirve-proxmox/",
+    "fecha": "19/06/2026",
+    "contenido": "Proxmox VE, es una plataforma de virtualización de software libre basada en Debian que permite gestionar diferentes tipos de virtualización desde un mismo entorno."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Completamente viernes",
+    "link": "https://www.xn--jmuoz-qta.es/2026/06/completamente-viernes.html",
+    "fecha": "19/06/2026",
+    "contenido": "\n  \n    \n  \nHoy me siento casi pletórico: es mi último viernes lectivo. Este curso, que empezó como todos hace nueve meses teniendo que ir cada día más lejos de casa, empieza a acabarse. Y por eso, aunque lleve desde las cinco de la mañana corrigiendo exámenes para acabar cuando antes y dejar las úl"
+  },
+  {
+    "blog": "",
+    "titulo": "Recomendacion de Viernes.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/06/19/recomendacion-de-viernes/",
+    "fecha": "19/06/2026",
+    "contenido": "The Dubliners."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Netscape en 2026 sobre Linux",
+    "link": "https://56k.es/fanta/netscape-en-2026-sobre-linux/",
+    "fecha": "19/06/2026",
+    "contenido": "He realizado una prueba que consiste en ver cuanta RAM consume Firefox actualmente abriendo solamente la web: www.frogfind.com (un buscador para usar en equipos con pocos recursos que va por http no por https). Lo he comparado con lo que consume actualmente Netscape 3.04. Firefox &#8211; Año 2026 Ne"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #946",
+    "link": "https://www.fabio.com.ar/9967-links-de-viernes---946",
+    "fecha": "19/06/2026",
+    "contenido": "     Un poco de descanso mental con los Links de Viernes\nEs viernes, aunque no lo creas, pas&oacute; toda una semana sin que te dieras cuenta, apostaste aun sin haber apostado, ese PRODE/Quiniela de tu trabajo, entre tus amigos, provoca el mismo efecto que si hubieses apostado una fortuna en \"Culead"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Delotroladometal – Versión Año 2002",
+    "link": "https://www.delotroladometal.com.ar/2026/06/19/delotroladometal-version-ano-2002/",
+    "fecha": "19/06/2026",
+    "contenido": "Ok, no es ni fue estrictamente lo que se dice un fanzine ni mucho menos,...\nThe post Delotroladometal – Versión Año 2002 first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Nintendo me ha creado una necesidad que no tenía",
+    "link": "https://chancli.dev/blog/nintendo-me-crea-necesidad-que-no-tenia.html",
+    "fecha": "19/06/2026",
+    "contenido": ""
   },
   {
     "blog": "Malagueños originales y libres",
@@ -54,20 +131,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/06/18/publicado-amarok-3-3-3/",
     "fecha": "18/06/2026",
     "contenido": "Tercera versión menor de la versión 3.3 del reproductor de música Amarok creado por la comunidad de KDE"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "¿Qué pasaría si durante los próximos 10 años publicásemos, revisásemos y trabajásemos solo para revistas Open Access Diamante?",
-    "link": "https://pedrolr.es/blog/que-pasaria-si-durante-los-proximos-10-anos-publicasemos-revisasemos-y-trabajasemos-solo-para-revistas-open-access-diamante/",
-    "fecha": "18/06/2026",
-    "contenido": "Me pregunto eso mismo en el contexto de la publicación, la comunicación y la información científicas: ¿Qué pasaría si durante los próximos 10 años publicásemos, revisásemos y trabajásemos solo para revistas Open Access Diamante? La he planteado en inglés en este toot; a ver si alguien responde: http"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Empezando en Codere",
-    "link": "https://mareosdeungeek.es/empezando-en-codere/",
-    "fecha": "18/06/2026",
-    "contenido": "Hoy se cumple un mes desde que empecé a trabajar para Codere, una empresa de apuestas española. Con esta incorporación se cierra un ciclo y vuelvo a trabajar para una empresa española. Además, sin saberlo se cierra un círculo bastante extraño, mi nuevo mánager, Sergi, lo fue de la gente con la que t"
   },
   {
     "blog": "NeoSite Blog",
@@ -145,20 +208,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/06/17/thunderbird-hara-mas-sencillo-poder-colaborar-en-su-aplicacion-para-android/",
     "fecha": "17/06/2026",
     "contenido": "Si quieres colaborar con Thunderbird, puede ser difícil saber por dónde empezar o cómo hacerlo. Pronto dar ese primer paso en el desarrollo de la aplicación Thunderbird para Android será más fácil que nunca"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Colombia decide",
-    "link": "https://gatooscuro.xyz/colombia-decide/",
-    "fecha": "17/06/2026",
-    "contenido": "Qué un escritor sobre tecnología, internet y algo de filosofía decida escribir sobre política es porque la cosa escaló a otro nivel, y sí, este es mi caso. De antemano\nSeguir leyendo  Colombia decide\nEl cargo Colombia decide apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Sorda (película)",
-    "link": "https://mareosdeungeek.es/sorda-pelicula/",
-    "fecha": "17/06/2026",
-    "contenido": "Sorda es una película española dirigida por Eva Libertad. Cuenta la historia de su propia hermana, con el añadido de estar protagonizada por ella misma (su hermana) Miriam Garlo se erige en la protagonista, acompañada de Álvaro Cervantes. La historia de Sorda nos lleva al drama que sufren las person"
   },
   {
     "blog": "matizeta",
@@ -250,13 +299,6 @@
     "link": "https://blog.luiscarlospando.com/personal/2026/06/mi-bateria-social-esta-pidiendo-vacaciones/",
     "fecha": "16/06/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "The Spectrum Azpiri Limited Edition",
-    "link": "https://mareosdeungeek.es/the-spectrum-azpiri-limited-edition/",
-    "fecha": "16/06/2026",
-    "contenido": "The Spectrum Azpiri Limited Edition es la edición especial de la videoconsola The Spectrum, que simula a la perfección el ordenador de 8 bits ZX Spectrum. En este caso, nos encontramos con un dispositivo que recrea a la perfección el ZX Spectrum. Retro games es de nuevo la empresa encargada de publi"
   },
   {
     "blog": "Manu Mateos",
@@ -448,20 +490,6 @@
     "contenido": ""
   },
   {
-    "blog": "pedrolr blog",
-    "titulo": "Del guerrero de Robe y del guardián entre el centeno de Salinger",
-    "link": "https://pedrolr.es/blog/del-guerrero-de-robe-y-del-guardian-entre-el-centeno-de-salinger/",
-    "fecha": "14/06/2026",
-    "contenido": "Releí hace unos meses \"El guardián entre el centeno\" de Salinger y una de las canciones que más escucho de Robe es la de \"Guerrero\". Cuando en la canción suena eso de \"del desfiladero no os voy a dejar pasar; como buen guerrero, aquí me pienso plantar...\" (Iniesta, 2015), me recuerda a la parte del "
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Oposición de Sara Mesa",
-    "link": "https://mareosdeungeek.es/oposicion-de-sara-mesa/",
-    "fecha": "14/06/2026",
-    "contenido": "El último libro que he leído es Oposición de la escritora Sara Mesa. Ya comenté cuando hice el examen de oposición que quería cerrar el círculo leyendo este libro. Me ha gustado bastante, no sé si por comprobar que ese choque cultural no lo tengo yo solo, o porque somos muchos los que vemos el [&#82"
-  },
-  {
     "blog": "impermanente",
     "titulo": "El veterano de la empresa",
     "link": "https://impermanente.es/2026/06/14/el-veterano-de-la-empresa.html",
@@ -581,60 +609,11 @@
     "contenido": "Opinión Elfen Lied\nAcabo de terminar de leer Elfen lied. Antes de meterme en el mundo del manga (hecho bastante reciente), lo tenía visto. Recomendado por colegas que ya estaban metidos en el mundo del manga, me lo vendían que me iba a gustar por que es muy violento y eso.\nLa verdad; de tanto habérm"
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 24 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/06/12/opensuse-tumbleweed-revision-de-la-semana-24-de-2026/",
-    "fecha": "12/06/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Más efecto Mateo: seguimos con el más a quien más tiene",
-    "link": "https://pedrolr.es/blog/mas-efecto-mateo-seguimos-con-el-mas-a-quien-mas-tiene/",
-    "fecha": "12/06/2026",
-    "contenido": "Diría que me ha vuelto a pasar. Veo cómo una revista científica prima a otros autores sobre mí. En otro post hablé sobre mi mala experiencia con un paper en una revista (post) y ahora me pasa algo relacionado en otra. Desde el 2020 publico en el Anuario ThinkEPI. Los manuscritos se difunden por list"
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Salon de la fama del Spam 14: Me sorprende tantos servicios afectados.",
-    "link": "https://interlan.ec/blog/2026/06/12/salon-de-la-fama-del-spam-14-me-sorprende-tantos-servicios-afectados/",
-    "fecha": "12/06/2026",
-    "contenido": "No es como que sea tan raro, pero por lo general, los mensajes de spam buscan abusar de la autoridad de plataformas validas para poder ganar relevancia entre los buscadores. No tengo idea de si esto sirve todavía con los motores de búsqueda por IA, pero mientras existan los motores clásicos, esto no"
-  },
-  {
-    "blog": "Posts on Mi blog",
-    "titulo": "El buscador de dominios que no debería haber confiado en mí",
-    "link": "https://blog.taller404.org/posts/blind_sqli/",
-    "fecha": "12/06/2026",
-    "contenido": "No siempre los hallazgos más interesantes aparecen donde los buscas. A veces aparecen en una funcionalidad tan cotidiana que casi la pasas por alto: un campo donde escribes una extensión de dominio y el sistema te dice si está disponible o no.\nEso fue exactamente lo que pasó esta vez.\nEl punto de en"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Webs que descubrí #5",
-    "link": "https://matizeta.com/2026/06/12/webs-que-descubri-5/",
-    "fecha": "12/06/2026",
-    "contenido": "Una nueva edición de webs que descubrí y quiero compartir, para su deleite. wplace “Pinta el mundo”. Sitios como este son una locura divertida y muestra como Internet nos une para hacer cosas sin nada a cambio. Creado en 2025 es una plataforma de arte colaborativo que a modo de lienzo sobre el mapa "
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "559. Cucaracha blanca 2",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/06/559-cucaracha-blanca-2.html",
-    "fecha": "12/06/2026",
-    "contenido": "&nbsp; &nbsp; Te recordamos, oh, Ali Agca, en estos tiempos de presencia papal en tierra falsamente aconfesional. Las masas aclaman al pontífice y los Lobos Grises olisquean el aire. Algún día sucederá, Ali.&nbsp; &nbsp; Algún día sucederá."
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "Home Assistant: gestiona tu hogar de forma sencilla",
     "link": "https://voidnull.es/home-assistant-gestiona-tu-hogar-de-forma-sencilla/",
     "fecha": "12/06/2026",
     "contenido": "Plataforma de domótica open source para controlar y automatizar dispositivos en local sin depender de la nube."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Sobre docker compose #13",
-    "link": "https://voidnull.es/sobre-docker-compose/",
-    "fecha": "12/06/2026",
-    "contenido": "Aprende qué es Docker Compose, cómo funciona y cómo gestionar múltiples contenedores Docker mediante un único fichero docker-compose.yml."
   },
   {
     "blog": "Neptuno en tierra",
@@ -651,38 +630,10 @@
     "contenido": "Esta historia es posible que le guste si anda interesada/a/e en desconectar de lo digital.  En 2019 (ha llovido desde entonces) el estudio «Special Projects» realizó una app para Android llamada «Paper phone» que para sorpresa de nadie actualmente no se puede encontrar en el market de google (google"
   },
   {
-    "blog": "56K",
-    "titulo": "Aventuras gráficas no tan típicas – Vol 4",
-    "link": "https://56k.es/fanta/aventuras-graficas-no-tan-tipicas-vol-4/",
-    "fecha": "12/06/2026",
-    "contenido": "«Me lo pedís mucho» (ya sabes, nadie lo ha pedido) de modo que aquí anda el cuarto post sobre «Aventuras gráficas no tan típicas», es decir, Aventuras gráficas que no son Monkey Island. Los anteriores posts aquí andan: 🛠️ Aventuras gráficas no tan típicas – Vol 3 🛠️ Aventuras gráficas no tan típicas"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #945",
-    "link": "https://www.fabio.com.ar/9962-links-de-viernes---945",
-    "fecha": "12/06/2026",
-    "contenido": "     Tener links un viernes es como tener el universo en tus manos\nTenemos links mundialistas! Infinitos, agujero negro de minutos, que nadie te diga qu&eacute; leer, eleg&iacute; vos 😋 Bueno, ya saben, es viernes y hay enlaces, hay partidos de f&uacute;tbol de equipos ignotos y alguno que otro rele"
-  },
-  {
     "blog": "Un blog",
     "titulo": "FreshRSS \"avanzado\"",
     "link": "https://nachof.blog/posts/2026/freshrss-avanzado/",
     "fecha": "12/06/2026",
     "contenido": "Hace tiempo que vengo usando FreshRSS y la verdad es que no podría estar más contento. Como lector RSS básico ya anda re bien, pero tiene unas cuantas cosas que te pueden hacer la vida más fácil y cómoda.\nSi no encontrás el RSS de una web\nPila de veces la web no tiene un link al RSS visible, pero sí"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista con Germán Pascual | “Nunca Me Vi Como Un Músico Limitado A Un Solo Estilo”",
-    "link": "https://www.delotroladometal.com.ar/2026/06/12/nunca-me-vi-como-un-musico-limitado-a-un-solo-estilo/",
-    "fecha": "12/06/2026",
-    "contenido": "Es un tipo con una historia interesante para contar, para escuchar y charlar con él,...\nThe post Entrevista con Germán Pascual | “Nunca Me Vi Como Un Músico Limitado A Un Solo Estilo” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Apertura blog",
-    "link": "https://labaudric.net/blog/rererestreno1000",
-    "fecha": "12/06/2026",
-    "contenido": "Re re re estreno\nAl igual que Feditubo, me esta costando llevar la cuenta de cuantas veces estoy re estableciendo la web / blog.\nPero... (Y me repito, como cada vez), ¡Esta vez es distinto!\nPara empezar: esto no es un WordPress, no es un Bluedit, ¡no es ningún CMS! Es algo que he montado, junto con "
   }
 ]
