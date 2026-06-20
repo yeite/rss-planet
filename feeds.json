@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Si dios te da limones",
+    "titulo": "Así perdimos la guerra de los auriculares",
+    "link": "https://sidiostedalimones.com/blog/2026/asi-perdimos-la-guerra-de-los-auriculares/",
+    "fecha": "20/06/2026",
+    "contenido": ""
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Publicado Agama 22",
     "link": "https://victorhckinthefreeworld.com/2026/06/19/publicado-agama-22/",
@@ -21,6 +28,13 @@
     "contenido": "Puede que estas declaraciones te parezcan extrañas, pero ha sido una larga lucha por alcanzar la estabilidad de este pequeño blog. Ten en cuenta que administro casi todo de forma personal, es un VPS, asi que si hay algun problema, sin duda alguna es culpa mia, pero si hay una solucion, esta en mis m"
   },
   {
+    "blog": "NeoSite Blog",
+    "titulo": "Cómo centralicé 11 servidores Docker con Dockpeek",
+    "link": "http://blog.neosite.com.ar/post/c-mo-centralic-11-servidores-docker-con-dockpeek",
+    "fecha": "19/06/2026",
+    "contenido": ""
+  },
+  {
     "blog": "matizeta",
     "titulo": "Esto es lo que uso para guardar mis links favoritos",
     "link": "https://matizeta.com/2026/06/19/esto-es-lo-que-uso-para-guardar-mis-links-favoritos/",
@@ -33,6 +47,13 @@
     "link": "https://impermanente.es/2026/06/19/el-ltimo-deseo.html",
     "fecha": "19/06/2026",
     "contenido": "Cualquiera que haya leído a Sapkowski o jugado lo suficiente a Dungeons &amp; Dragons conoce el chiste, y conoce el miedo que hay debajo del chiste. El hechizo más poderoso del juego se llama &ldquo;Wish&rdquo; y con él puedes pedir literalmente cualquier cosa. Y es precisamente por eso que todo DM "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "NotesNook: guarda tus notas en forma segura",
+    "link": "https://voidnull.es/notesnook-guarda-tus-notas-en-forma-segura/",
+    "fecha": "19/06/2026",
+    "contenido": "App de notas cifradas con privacidad total, sincronización segura y sin rastreo como alternativa libre a servicios privativos."
   },
   {
     "blog": "_ voidNull",
@@ -70,11 +91,11 @@
     "contenido": "     Un poco de descanso mental con los Links de Viernes\nEs viernes, aunque no lo creas, pas&oacute; toda una semana sin que te dieras cuenta, apostaste aun sin haber apostado, ese PRODE/Quiniela de tu trabajo, entre tus amigos, provoca el mismo efecto que si hubieses apostado una fortuna en \"Culead"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Delotroladometal – Versión Año 2002",
-    "link": "https://www.delotroladometal.com.ar/2026/06/19/delotroladometal-version-ano-2002/",
+    "blog": "Un blog",
+    "titulo": "Android nos tiene de rehenes",
+    "link": "https://nachof.blog/posts/2026/android-nos-tiene-de-rehenes/",
     "fecha": "19/06/2026",
-    "contenido": "Ok, no es ni fue estrictamente lo que se dice un fanzine ni mucho menos,...\nThe post Delotroladometal – Versión Año 2002 first appeared on Del Otro Lado Metal."
+    "contenido": "\n ¿Qué vas a hacer, usar iPhone?\n \n\n\nAndroid es una cagada. Claro, sí, al lado de iOS es genial, mucho más abierto (aunque ya no tanto, pero al final sigue siendo más o menos lo mismo: un sistema operativo ultra limitado, en el cual no tenés acceso a tus propios datos si la aplicación no quiere.\nLo "
   },
   {
     "blog": "Chancli.dev",
@@ -133,6 +154,13 @@
     "contenido": "Tercera versión menor de la versión 3.3 del reproductor de música Amarok creado por la comunidad de KDE"
   },
   {
+    "blog": "pedrolr blog",
+    "titulo": "¿Qué pasaría si durante los próximos 10 años publicásemos, revisásemos y trabajásemos solo para revistas Open Access Diamante?",
+    "link": "https://pedrolr.es/blog/que-pasaria-si-durante-los-proximos-10-anos-publicasemos-revisasemos-y-trabajasemos-solo-para-revistas-open-access-diamante/",
+    "fecha": "18/06/2026",
+    "contenido": "Me pregunto eso mismo en el contexto de la publicación, la comunicación y la información científicas: ¿Qué pasaría si durante los próximos 10 años publicásemos, revisásemos y trabajásemos solo para revistas Open Access Diamante? La he planteado en inglés en este toot; a ver si alguien responde: http"
+  },
+  {
     "blog": "NeoSite Blog",
     "titulo": "CachyOS, una distro muy especial para equipos viejos",
     "link": "http://blog.neosite.com.ar/post/cachyos-una-distro-muy-especial-para-equipos-viejos",
@@ -182,18 +210,11 @@
     "contenido": "Recientemente mi computadora personal con KDE Neon tuvo una actualización grande y \"se rompió\". Llevaba 21 días sin reiniciarla o apagarla, así que después de una última apt-get update y apt-get upgrade, la reinicié. Al volver el sistema, me encontré con el familiar login de la línea de comando, y n"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Metatrone: Sangueacqua | Apretando El Paso",
-    "link": "https://www.delotroladometal.com.ar/2026/06/18/apretando-el-paso/",
-    "fecha": "18/06/2026",
-    "contenido": "(2026 &#8211; Rockshots Records) Llega a nuestras manos el nuevo álbum de los italianos Metatrone,...\nThe post Metatrone: Sangueacqua | Apretando El Paso first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (fecha 1)",
     "link": "https://javiersam.uy/2026/06/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-fecha-1.html",
     "fecha": "18/06/2026",
-    "contenido": "Ayer se completó al primera fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 3 rivales de África, 2 de Asia y 1 de la Concacaf. Paraguay 1 &#8211; Estados Unidos 4 La primera en jugar, el viernes"
+    "contenido": "Ayer se completó la primera fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 3 rivales de África, 2 de Asia y 1 de la Concacaf. Paraguay 1 &#8211; Estados Unidos 4 La primera en jugar, el viernes"
   },
   {
     "blog": "--el Profe Juan--",
@@ -266,13 +287,6 @@
     "contenido": "    \nUn detalle no menor de la guerra de Ucrania es c&oacute;mo se ha ido cambiando el foco del combate, hasta hace un par de a&ntilde;os era sobre las tropas blindadas, luego sobre la infanter&iacute;a y ahora, por fin, hace unos meses que el alto mando ucraniano entendi&oacute; c&oacute;mo era: lo"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"Between Blood And Silence\" Es Lo Nuevo de Mangled Carpenter | Que El Grindcore Nos Abrace",
-    "link": "https://www.delotroladometal.com.ar/2026/06/17/que-el-grindcore-nos-abrace/",
-    "fecha": "17/06/2026",
-    "contenido": "Hacía tiempo que no pasaba por el género del Grindcore, y la verdad es que...\nThe post \"Between Blood And Silence\" Es Lo Nuevo de Mangled Carpenter | Que El Grindcore Nos Abrace first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "PanicError",
     "titulo": "Herederos del recuerdo",
     "link": "http://panicerror.org/blog/herederos-recuerdo.md.html",
@@ -285,13 +299,6 @@
     "link": "https://thecheis.com/2026/06/16/como-solucionar-la-ventana-azul-de-spotify/",
     "fecha": "16/06/2026",
     "contenido": "Desde hace meses los usuarios de Spotify en Linux sufrimos un problema estético: el marco de la ventana se muestra en color azul, sin respetar la decoración del escritorio. Esto está ampliamente reportado en entornos con Wayland y GNOME, donde se juntan varias inconveniencias. Durante mucho tiempo i"
-  },
-  {
-    "blog": "Ikkaro",
-    "titulo": "20º Aniversario de Ikkaro y una reflexión",
-    "link": "https://www.ikkaro.com/20-aniversario-de-ikkaro/",
-    "fecha": "16/06/2026",
-    "contenido": "Hoy este blog cumple 20 años. Eso es mucho, muchísimo. Y como cantó Carlos Gardel Volver con la frente marchitaLas ... Sigue leyendo\nEl artículo 20º Aniversario de Ikkaro y una reflexión se publicó primero en Ikkaro."
   },
   {
     "blog": "Luis Carlos Pando",
@@ -350,13 +357,6 @@
     "contenido": "    \nEntre todas las ma&ntilde;as que se le han pegado a los j&oacute;venes hay una de la herencia post-woke que los hace quedar como los m&aacute;s flojos de todas las generaciones: la ofensa preventiva.\n&iquest;De qu&eacute; se trata? Pues bien, hay dos modalidades, una es cuando no entienden algo"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Repasamos El Álbum \"Mons Sacratus\" | Desde Chile Y Con El Metal En Alto…Esto Es Balmung",
-    "link": "https://www.delotroladometal.com.ar/2026/06/16/desde-chile-y-con-el-metal-en-altoesto-es-balmung/",
-    "fecha": "16/06/2026",
-    "contenido": "Puerto Montt es una ciudad donde el Metal resuena en cada rincón. No hay caso....\nThe post Repasamos El Álbum \"Mons Sacratus\" | Desde Chile Y Con El Metal En Alto…Esto Es Balmung first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Writing it down",
     "link": "https://guillermolatorre.com/citas-en-tinta/writing-it-down",
@@ -376,13 +376,6 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/guapa-de-cara/",
     "fecha": "15/06/2026",
     "contenido": "Aviso de contenido: imagen corporal, peso, ideales de belleza, TCA y dismorfia corporal\n\nLlevo unos cuantos días con el guapo subido. Los paseos de ida y vuelta al trabajo, a pesar de la protección solar, me han dorado un poco la piel de la cara, lo cual ha provocado un efecto en cadena maravilloso:"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "2FA en 2026",
-    "link": "https://alt43.es/2fa-en-2026/",
-    "fecha": "15/06/2026",
-    "contenido": "El SMS sigue siendo el 2FA más usado, pero también el más fácil de comprometer. Un atacante no necesita hackear tu teléfono: le basta con llamar a tu operador. Analizamos alternativas disponibles hoy para tratar de elegir con criterio."
   },
   {
     "blog": "Feed de SL1200",
@@ -455,13 +448,6 @@
     "contenido": "Algunos smartphones llevan internamente un receptor de radio pero no todos. Hace años se estilaba eso y lo que hoy llamamos «zapatofonos» suelen tener radio. En este post voy a comentar como podemos convertir un smartphone con Android en un receptor de radio y lo añado a la sección «hacking» simplem"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Since The Death: Entangled | Cuando Las Etiquetas No Alcanzan",
-    "link": "https://www.delotroladometal.com.ar/2026/06/15/cuando-las-etiquetas-no-alcanzan/",
-    "fecha": "15/06/2026",
-    "contenido": "(2026 &#8211; Nordic Mission) La mayoría de las veces se buscan etiquetas, no con el...\nThe post Since The Death: Entangled | Cuando Las Etiquetas No Alcanzan first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "El blog de Lázaro",
     "titulo": "Instalación de ntfy en Unraid",
     "link": "https://elblogdelazaro.org/instalacion-ntfy-unraid/",
@@ -488,6 +474,13 @@
     "link": "https://escritura.social/mcallus/analisis-life-is-strange-double-exposure-y-reunion",
     "fecha": "14/06/2026",
     "contenido": ""
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Del guerrero de Robe y del guardián entre el centeno de Salinger",
+    "link": "https://pedrolr.es/blog/del-guerrero-de-robe-y-del-guardian-entre-el-centeno-de-salinger/",
+    "fecha": "14/06/2026",
+    "contenido": "Releí hace unos meses \"El guardián entre el centeno\" de Salinger y una de las canciones que más escucho de Robe es la de \"Guerrero\". Cuando en la canción suena eso de \"del desfiladero no os voy a dejar pasar; como buen guerrero, aquí me pienso plantar...\" (Iniesta, 2015), me recuerda a la parte del "
   },
   {
     "blog": "impermanente",
@@ -525,20 +518,6 @@
     "contenido": "\n  Antes de ver Spider-Noir (Amazon, una temporada de ocho episodios) dije que este invento podr&#237;a ir o muy bien o muy mal, pero nunca regular. Los antecedentes de las \"pelis relacionadas con Spider-Man de Sony\" no son buenos: las pelis de Venom, Morbius, Madame Web y Kraven han sido m&#225;s d"
   },
   {
-    "blog": "La Loica",
-    "titulo": "Labores Septiembre 1957",
-    "link": "https://laloica.noblogs.org/labores-septiembre-1957/",
-    "fecha": "13/06/2026",
-    "contenido": "En este frío viernes de invierno, después de 6 meses de inactividad, por fin vuelve la Biblioteca Doméstica. En esta oportunidad les traigo otra edición de Labores, suplemento mensual que se adjuntaba a la Revista Argentina Vosotras; esta edición es la de septiembre de 1957. Esta era publicada por l"
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "\"¿Qué tiene que ver esta gente con nada de eso?\"",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/que-tiene-que-ver-esta-gente-con-nada-de-eso/",
-    "fecha": "13/06/2026",
-    "contenido": "El día 14 de junio se celebra en Andalucía el día de la Memoria Histórica y Democrática, conmemorando el inicio de la exhumación de la primera fosa común de la Guerra Civil, el 14 de junio de 2003. Por si a alguien le bailan las fechas, Francisco Franco murió en 1975 y la Constitución Española que e"
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "Cómo ajustar el tiempo de espera de sudo tras una contraseña incorrecta en CachyOS",
     "link": "https://tecnoysoft.com/2026/06/13/como-ajustar-el-tiempo-de-espera-de-sudo-tras-una-contrasena-incorrecta-en-cachyos/",
@@ -574,13 +553,6 @@
     "contenido": "    \nLa historia de este juego tiene m&aacute;s de 30 a&ntilde;os, es algo que quer&iacute;a hacer hace mucho, mucho tiempo, cuando apenas sab&iacute;a programar en BASIC.\nEl problema que ten&iacute;a en esa &eacute;poca pre-internet es que no ten&iacute;a forma de entender ni aprender mucho m&aacut"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Horde: Hellig Usvart | Invirtiendo Al Black Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/06/13/invirtiendo-al-black-metal/",
-    "fecha": "13/06/2026",
-    "contenido": "(1994 Nuclear Blast &#8211; Rowe Productions /2019 Soundmass) El Black Metal con letras cristianas no...\nThe post Horde: Hellig Usvart | Invirtiendo Al Black Metal first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Sin nombre",
     "titulo": "Alma rompe un plato y se pone a llorar",
     "link": "https://martinvukovic.com/posts/2026/06-13-plato.html",
@@ -595,45 +567,10 @@
     "contenido": "Antes de que Google termine por matar las APK (si es que lo hace, lo dudo) hay que aprovechar lo mejor que se pueda la libertad de este posterior al \"apocalipsis\"\nDebo decir que me gusta evitar siempre que pueda alguna conexión con Google, se que no es lo ideal porque YouTube Music en cuanto a conte"
   },
   {
-    "blog": "JavierSam",
-    "titulo": "Full Circle #227 (marzo 2026)",
-    "link": "https://javiersam.uy/2026/06/full-circle-227-marzo-2026.html",
-    "fecha": "13/06/2026",
-    "contenido": "Aquí va mi reseña de la edición #227 de Full Circle magazine. Se trata del número correspondiente a marzo de 2026 y está disponible para su descarga desde el 27 de ese mes. Consiste en un PDF de 67 páginas y de 5,8 MB. De la extensa sección de Noticias (páginas 4 a 27) lo que me resultó más destacad"
-  },
-  {
     "blog": "labaudric",
     "titulo": "Crónica Elfen Lied",
     "link": "https://labaudric.net/blog/cronica_elfen_lied",
     "fecha": "13/06/2026",
     "contenido": "Opinión Elfen Lied\nAcabo de terminar de leer Elfen lied. Antes de meterme en el mundo del manga (hecho bastante reciente), lo tenía visto. Recomendado por colegas que ya estaban metidos en el mundo del manga, me lo vendían que me iba a gustar por que es muy violento y eso.\nLa verdad; de tanto habérm"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Home Assistant: gestiona tu hogar de forma sencilla",
-    "link": "https://voidnull.es/home-assistant-gestiona-tu-hogar-de-forma-sencilla/",
-    "fecha": "12/06/2026",
-    "contenido": "Plataforma de domótica open source para controlar y automatizar dispositivos en local sin depender de la nube."
-  },
-  {
-    "blog": "Neptuno en tierra",
-    "titulo": "Morin sin Morin",
-    "link": "https://calleneptuno.wordpress.com/2026/06/12/morin-sin-morin/",
-    "fecha": "12/06/2026",
-    "contenido": "Mentiría si dijera que recuerdo con claridad el contenido de aquel seminario que tomé con Edgar Morin en mayo de 1997. “Morin por Morin. La aventura intelectual del pensamiento complejo”, se titulaba y había sido convocado por dos instituciones que probablemente no se han vuelto a hablar desde enton"
-  },
-  {
-    "blog": "56K",
-    "titulo": "El smartphone de papel – Desconexión digital – Vol 1",
-    "link": "https://56k.es/fanta/el-smartphone-de-papel-desconexion-digital-vol-1/",
-    "fecha": "12/06/2026",
-    "contenido": "Esta historia es posible que le guste si anda interesada/a/e en desconectar de lo digital.  En 2019 (ha llovido desde entonces) el estudio «Special Projects» realizó una app para Android llamada «Paper phone» que para sorpresa de nadie actualmente no se puede encontrar en el market de google (google"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "FreshRSS \"avanzado\"",
-    "link": "https://nachof.blog/posts/2026/freshrss-avanzado/",
-    "fecha": "12/06/2026",
-    "contenido": "Hace tiempo que vengo usando FreshRSS y la verdad es que no podría estar más contento. Como lector RSS básico ya anda re bien, pero tiene unas cuantas cosas que te pueden hacer la vida más fácil y cómoda.\nSi no encontrás el RSS de una web\nPila de veces la web no tiene un link al RSS visible, pero sí"
   }
 ]
