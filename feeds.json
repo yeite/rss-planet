@@ -7,6 +7,27 @@
     "contenido": ""
   },
   {
+    "blog": "zona de confort",
+    "titulo": "El diagnóstico",
+    "link": "https://sopadeletras.club/efmorell/el-diagnostico",
+    "fecha": "20/06/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "56K",
+    "titulo": "Arturo y el algoritmo",
+    "link": "https://56k.es/fanta/arturo-y-el-algoritmo/",
+    "fecha": "20/06/2026",
+    "contenido": "Arturo y el algoritmo es el nombre con el que se conoce la película en España pero has de saber que el título original es «E noi come stronzi rimanemmo a guardare» (Y nosotros, como gilipollas, nos quedamos mirando). A alguien le pareció mal no poner en España el título traducido y decidió que tenía"
+  },
+  {
+    "blog": "56K",
+    "titulo": "KolibriOS – Sistema Operativo en ensamblador",
+    "link": "https://56k.es/fanta/kolibrios-sistema-operativo-en-ensamblador/",
+    "fecha": "20/06/2026",
+    "contenido": "KolibriOS es un fork del sistema operativo MenuetOS desarrollado principalmente por gente de países pertenecientes a la antigua Unión Soviética. La última versión disponible es de mediados del 2023. Lo que es maravilloso es que se trata de un sistema operativo escrito en ensamblador que en cuestión "
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Publicado Agama 22",
     "link": "https://victorhckinthefreeworld.com/2026/06/19/publicado-agama-22/",
@@ -161,6 +182,13 @@
     "contenido": "Me pregunto eso mismo en el contexto de la publicación, la comunicación y la información científicas: ¿Qué pasaría si durante los próximos 10 años publicásemos, revisásemos y trabajásemos solo para revistas Open Access Diamante? La he planteado en inglés en este toot; a ver si alguien responde: http"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Empezando en Codere",
+    "link": "https://mareosdeungeek.es/empezando-en-codere/",
+    "fecha": "18/06/2026",
+    "contenido": "Hoy se cumple un mes desde que empecé a trabajar para Codere, una empresa de apuestas española. Con esta incorporación se cierra un ciclo y vuelvo a trabajar para una empresa española. Además, sin saberlo se cierra un círculo bastante extraño, mi nuevo mánager, Sergi, lo fue de la gente con la que t"
+  },
+  {
     "blog": "NeoSite Blog",
     "titulo": "CachyOS, una distro muy especial para equipos viejos",
     "link": "http://blog.neosite.com.ar/post/cachyos-una-distro-muy-especial-para-equipos-viejos",
@@ -229,6 +257,20 @@
     "link": "https://victorhckinthefreeworld.com/2026/06/17/thunderbird-hara-mas-sencillo-poder-colaborar-en-su-aplicacion-para-android/",
     "fecha": "17/06/2026",
     "contenido": "Si quieres colaborar con Thunderbird, puede ser difícil saber por dónde empezar o cómo hacerlo. Pronto dar ese primer paso en el desarrollo de la aplicación Thunderbird para Android será más fácil que nunca"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Colombia decide",
+    "link": "https://gatooscuro.xyz/colombia-decide/",
+    "fecha": "17/06/2026",
+    "contenido": "Qué un escritor sobre tecnología, internet y algo de filosofía decida escribir sobre política es porque la cosa escaló a otro nivel, y sí, este es mi caso. De antemano\nSeguir leyendo  Colombia decide\nEl cargo Colombia decide apareció primero en El cuarto de GatoOscuro."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Sorda (película)",
+    "link": "https://mareosdeungeek.es/sorda-pelicula/",
+    "fecha": "17/06/2026",
+    "contenido": "Sorda es una película española dirigida por Eva Libertad. Cuenta la historia de su propia hermana, con el añadido de estar protagonizada por ella misma (su hermana) Miriam Garlo se erige en la protagonista, acompañada de Álvaro Cervantes. La historia de Sorda nos lleva al drama que sufren las person"
   },
   {
     "blog": "matizeta",
@@ -306,6 +348,13 @@
     "link": "https://blog.luiscarlospando.com/personal/2026/06/mi-bateria-social-esta-pidiendo-vacaciones/",
     "fecha": "16/06/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "The Spectrum Azpiri Limited Edition",
+    "link": "https://mareosdeungeek.es/the-spectrum-azpiri-limited-edition/",
+    "fecha": "16/06/2026",
+    "contenido": "The Spectrum Azpiri Limited Edition es la edición especial de la videoconsola The Spectrum, que simula a la perfección el ordenador de 8 bits ZX Spectrum. En este caso, nos encontramos con un dispositivo que recrea a la perfección el ZX Spectrum. Retro games es de nuevo la empresa encargada de publi"
   },
   {
     "blog": "Manu Mateos",
@@ -462,6 +511,13 @@
     "contenido": "      +563 más"
   },
   {
+    "blog": "labaudric",
+    "titulo": "Protocolo Gemini",
+    "link": "https://labaudric.net/blog/intro-gemini",
+    "fecha": "15/06/2026",
+    "contenido": "Protocolo Gemini (no Google Gemini AI) porque, cuando, como y otras preguntas\n(¡¡IMPORTANTE!!: Esta entrada de blog, es de mi anterior blog. Los enlaces a la capsula y el proxy de la capsula no van.\nEstoy en el lento y largo proceso de restablecerlo. Igualmente la información del resto del blog me p"
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "Películas de la temporada #9",
     "link": "https://thecheis.com/2026/06/14/peliculas-de-la-temporada-9/",
@@ -481,6 +537,13 @@
     "link": "https://pedrolr.es/blog/del-guerrero-de-robe-y-del-guardian-entre-el-centeno-de-salinger/",
     "fecha": "14/06/2026",
     "contenido": "Releí hace unos meses \"El guardián entre el centeno\" de Salinger y una de las canciones que más escucho de Robe es la de \"Guerrero\". Cuando en la canción suena eso de \"del desfiladero no os voy a dejar pasar; como buen guerrero, aquí me pienso plantar...\" (Iniesta, 2015), me recuerda a la parte del "
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Oposición de Sara Mesa",
+    "link": "https://mareosdeungeek.es/oposicion-de-sara-mesa/",
+    "fecha": "14/06/2026",
+    "contenido": "El último libro que he leído es Oposición de la escritora Sara Mesa. Ya comenté cuando hice el examen de oposición que quería cerrar el círculo leyendo este libro. Me ha gustado bastante, no sé si por comprobar que ese choque cultural no lo tengo yo solo, o porque somos muchos los que vemos el [&#82"
   },
   {
     "blog": "impermanente",
@@ -523,20 +586,6 @@
     "link": "https://tecnoysoft.com/2026/06/13/como-ajustar-el-tiempo-de-espera-de-sudo-tras-una-contrasena-incorrecta-en-cachyos/",
     "fecha": "13/06/2026",
     "contenido": "Hace unos días me encontré con una situación bastante común: escribir mal la contraseña al usar sudo. Nada grave, salvo por un detalle que seguramente muchos usuarios de Linux conocen bien: el sistema obliga a esperar unos segundos antes de permitir un nuevo intento. Normalmente no le damos importan"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Cómo evitar errores en AUR con paru en CachyOS",
-    "link": "https://tecnoysoft.com/2026/06/13/como-evitar-errores-en-aur-con-paru-en-cachyos/",
-    "fecha": "13/06/2026",
-    "contenido": "En distribuciones basadas en Arch Linux como CachyOS, el uso del AUR (Arch User Repository) es una parte fundamental del sistema. Permite instalar software adicional que no está en los repos oficiales, pero también puede generar confusión si no se conoce su funcionamiento. En este artículo a modo de"
-  },
-  {
-    "blog": "zona de confort",
-    "titulo": "Mis obsesiones (1)",
-    "link": "https://sopadeletras.club/efmorell/mis-obsesiones-1",
-    "fecha": "13/06/2026",
-    "contenido": ""
   },
   {
     "blog": "",
