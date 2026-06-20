@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 20 Jun 2026 13:25:36 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 19:07:59 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -24,6 +24,30 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
 <category>Si dios te da limones</category>
 <description><![CDATA[<br><br><strong>Fuente:</strong> Si dios te da limones]]></description>
+</item>
+<item>
+<title>El diagnóstico</title>
+<link>https://sopadeletras.club/efmorell/el-diagnostico</link>
+<guid isPermaLink="true">https://sopadeletras.club/efmorell/el-diagnostico</guid>
+<pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
+<category>zona de confort</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> zona de confort]]></description>
+</item>
+<item>
+<title>Arturo y el algoritmo</title>
+<link>https://56k.es/fanta/arturo-y-el-algoritmo/</link>
+<guid isPermaLink="true">https://56k.es/fanta/arturo-y-el-algoritmo/</guid>
+<pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Arturo y el algoritmo es el nombre con el que se conoce la película en España pero has de saber que el título original es «E noi come stronzi rimanemmo a guardare» (Y nosotros, como gilipollas, nos quedamos mirando). A alguien le pareció mal no poner en España el título traducido y decidió que tenía<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>KolibriOS – Sistema Operativo en ensamblador</title>
+<link>https://56k.es/fanta/kolibrios-sistema-operativo-en-ensamblador/</link>
+<guid isPermaLink="true">https://56k.es/fanta/kolibrios-sistema-operativo-en-ensamblador/</guid>
+<pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[KolibriOS es un fork del sistema operativo MenuetOS desarrollado principalmente por gente de países pertenecientes a la antigua Unión Soviética. La última versión disponible es de mediados del 2023. Lo que es maravilloso es que se trata de un sistema operativo escrito en ensamblador que en cuestión<br><br><strong>Fuente:</strong> 56K]]></description>
 </item>
 <item>
 <title>Publicado Agama 22</title>
@@ -192,30 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
 <category>Victorhck in the free world</category>
 <description><![CDATA[Tercera versión menor de la versión 3.3 del reproductor de música Amarok creado por la comunidad de KDE<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>¿Qué pasaría si durante los próximos 10 años publicásemos, revisásemos y trabajásemos solo para revistas Open Access Diamante?</title>
-<link>https://pedrolr.es/blog/que-pasaria-si-durante-los-proximos-10-anos-publicasemos-revisasemos-y-trabajasemos-solo-para-revistas-open-access-diamante/</link>
-<guid isPermaLink="true">https://pedrolr.es/blog/que-pasaria-si-durante-los-proximos-10-anos-publicasemos-revisasemos-y-trabajasemos-solo-para-revistas-open-access-diamante/</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-<category>pedrolr blog</category>
-<description><![CDATA[Me pregunto eso mismo en el contexto de la publicación, la comunicación y la información científicas: ¿Qué pasaría si durante los próximos 10 años publicásemos, revisásemos y trabajásemos solo para revistas Open Access Diamante? La he planteado en inglés en este toot; a ver si alguien responde: http<br><br><strong>Fuente:</strong> pedrolr blog]]></description>
-</item>
-<item>
-<title>CachyOS, una distro muy especial para equipos viejos</title>
-<link>http://blog.neosite.com.ar/post/cachyos-una-distro-muy-especial-para-equipos-viejos</link>
-<guid isPermaLink="true">http://blog.neosite.com.ar/post/cachyos-una-distro-muy-especial-para-equipos-viejos</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-<category>NeoSite Blog</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> NeoSite Blog]]></description>
-</item>
-<item>
-<title>WriterDeck: dispositivos dedicados para escribir</title>
-<link>https://matizeta.com/2026/06/18/writerdeck-dispositivos-dedicados-para-escribir/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/06/18/writerdeck-dispositivos-dedicados-para-escribir/</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Vivimos en la era de la distracción. Para muchos sentarse a escribir sin caer en ellas es todo un reto: estamos solo a una notificación de distancia de perder el foco. Es por eso nacieron los WriterDeck, dispositivos con una única función: la de escribir. Si, exactamente la misma función que una m<br><br><strong>Fuente:</strong> matizeta]]></description>
 </item>
 
 </channel>
