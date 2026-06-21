@@ -11,6 +11,16 @@
     "Sponsor": "si"
   },
   {
+    "Nombre": "Labaudric",
+    "Url": "https://labaudric.net",
+    "Feed": "https://labaudric.net/atom.xml",
+    "Descripción": "Blog personal, auto alojamiento, Linux, software, programación.",
+    "Categoría": "Tecnología",
+    "País": "España",
+    "Aliado": "si"
+
+  },
+  {
     "Nombre": "Jorge Sanz",
     "Url": "https://jorgesanz.net",
     "Feed": "https://jorgesanz.net/languages/spanish/index.xml",
@@ -368,14 +378,6 @@
     "Categoría": "Tecnología, Sociedad y Economía",
     "País": "Colombia",
     "Sponsor": "si"
-  },
-  {
-    "Nombre": "Labaudric",
-    "Url": "https://labaudric.net",
-    "Feed": "https://labaudric.net/atom.xml",
-    "Descripción": "Blog personal, auto alojamiento, Linux, software, programación.",
-    "Categoría": "Tecnología",
-    "País": "España"
   },
   {
     "Nombre": "Kernel Picnic!",
