@@ -1,5 +1,19 @@
 [
   {
+    "blog": "Salva Más De Cerca",
+    "titulo": "links",
+    "link": "https://salvamir.github.io/links",
+    "fecha": "22/06/2026",
+    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "El ángulo del horror",
+    "link": "https://guillermolatorre.com/libros/el-angulo-del-horror",
+    "fecha": "21/06/2026",
+    "contenido": "Fecha de lectura: 22/06/2026.Autor/a: Cristina Fern&aacute;ndez Cubas.Categoría: Ficción.Número de páginas: 168.Mi valoración: ★★★★☆Me ha sorprendido la lectura de este libro, son cuatro cuentos de terror, digamos, cotidiano. Más que terror transmiten incomodidad, sensaciones extrañas respecto a lo "
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "The Cross of Changes (1993), de Enigma",
     "link": "https://thecheis.com/2026/06/21/the-cross-of-changes-1993-de-enigma/",
@@ -7,18 +21,18 @@
     "contenido": "«We came out from the deep» Mi adolescencia tardía fue un auténtico hervidero de música electrónica y descubrimiento personal. En mi reproductor nunca faltaba Enigma, uno de los mayores referentes en la música new age y el worldbeat de los 90, al que estuve muy viciado. Su éxito dio el pistoletazo d"
   },
   {
-    "blog": "Jinversor",
-    "titulo": "Sábado pensando",
-    "link": "https://jinversor.co/2026/06/sabado-pensando/",
-    "fecha": "21/06/2026",
-    "contenido": "Sábado 20 de junio de 2026. 9:01 pm. Estoy en mi estudio escuchando Sacrifice de London After Midnight y pensando en qué sigue, qué viene, para dónde vamos. ¿Será socialismo [&#8230;]\nLa entrada Sábado pensando se publicó primero en Jinversor."
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "Celeste (Serie)",
     "link": "https://mareosdeungeek.es/celeste-serie/",
     "fecha": "21/06/2026",
     "contenido": "Celeste es una serie que puede verse en Movistar Plus+ y esta protagonizada por la actriz Carmen Machi. Seguramente, vuelva a estar en boca de todos estos días porque hace unas semanas se publicó que la cantante Shakira había ganado su juicio a Hacienda. Esta serie, Celeste, va de esa investigación "
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "Semana 25/2026",
+    "link": "https://www.macram.es/posts/2026/06/semana-25-2026/",
+    "fecha": "21/06/2026",
+    "contenido": "El primer domingo en el que dedico un rato a sentarme delante del ordenador y poner algunas cosas digitales en orden. El primer domingo desde hace mucho tiempo en el que escribo esta retrospectiva semanal en la semana que toca, y no con retraso.\nHoy salí en el periódico. Han escrito un reportaje sob"
   },
   {
     "blog": "Erica Fustero",
@@ -35,6 +49,13 @@
     "contenido": "\n  \n    \n  \nHoy entra oficialmente el verano, y lo de oficialmente lo digo porque el verano meteorológico empezó el 1 de junio y, en cuanto a temperaturas altas, llevamos ya unas cuantas semanas de bastante calor en las horas centrales del día y de unas cuantas noches tropicales. Creo que tres son l"
   },
   {
+    "blog": "La Frikoteca",
+    "titulo": "Reseña de Imperio de Rueda",
+    "link": "http://frikoteca.blogspot.com/2026/06/resena-de-imperio-de-rueda.html",
+    "fecha": "21/06/2026",
+    "contenido": "Imperio de Rueda es un entorno de campaña completo para el juego Mythras, publicado por la editorial Con Pluma y Píxel en 2022, a través de una campaña de mecenazgo en Verkami. El autor del libro es Juan Miguel Sueiro, y el ilustrador de la portada y de todas las ilustraciones interiores es Huargo, "
+  },
+  {
     "blog": "56K",
     "titulo": "Toy Story 5 – La generación de niños pantalla",
     "link": "https://56k.es/fanta/toy-story-5-la-generacion-de-ninos-pantalla/",
@@ -47,6 +68,34 @@
     "link": "https://56k.es/fanta/fltube-ver-youtube-en-equipos-con-pocos-recursos/",
     "fecha": "21/06/2026",
     "contenido": "En realidad lo ideal es no usar youtube pero si por lo que sea has de hacerlo y no quieres entrar desde navegador FLTube es una maravilla. Funciona por debajo con yt-dl pero en si misma la interface es bastante sencilla y permite visualizar los vídeos a diferentes calidades si dispones de mplayer.  "
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Hoy este blog cumple 19 años en línea",
+    "link": "https://picandocodigo.net/2026/hoy-este-blog-cumple-19-anos-en-linea/",
+    "fecha": "21/06/2026",
+    "contenido": "Hoy hace 19 años que nació este blog \"Picando Código\". Para quienes siguen el blog de hace tiempo, seguramente se hayan encontrado algún año con uno de estos posts celebrando el aniversario. Para gente que lee hace poco o por primera vez, acá hay un poco más de historia de cómo surgió este blog: Ace"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Ícaro Junto A Barbarie, Torre Firme Y Santy Pogonza En El Amparo Bar - 20/06/2026 | Una Noche Cargada De Simbolismo",
+    "link": "https://www.delotroladometal.com.ar/2026/06/21/una-noche-cargada-de-simbolismo/",
+    "fecha": "21/06/2026",
+    "contenido": "Día de la bandera en Argentina, día del padre, cumpleaños de Heredia, final (casi) de...\nThe post Ícaro Junto A Barbarie, Torre Firme Y Santy Pogonza En El Amparo Bar - 20/06/2026 | Una Noche Cargada De Simbolismo first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Una etapa borrosa.",
+    "link": "https://salvamir.github.io/Notas/Una-etapa-borrosa.",
+    "fecha": "21/06/2026",
+    "contenido": "Este cuatrimestre está siendo para mi un tiempo borroso. No me acuerdo de nada, no distingo nada realmente."
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió 163 imágenes en Uncharted, Tomb Raider",
+    "link": "https://labaudric.net/gallery/uncharted",
+    "fecha": "21/06/2026",
+    "contenido": "      +157 más"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -119,25 +168,11 @@
     "contenido": "¡Novedades!\nEs como ilusión que informo que me uno a un webring de una bonita iniciativa. El compañero matizeta ha creado un webring &quot;¡Blog!¡Blog!&quot;\nY a día de hoy, me hace ilusión como comentaba.\nEstoy cometido con la causa. Como relataba en una entrada anterior, la del  re estreno, quiero"
   },
   {
-    "blog": "labaudric",
-    "titulo": "audric subió 80 imágenes en Tomb Raider",
-    "link": "https://labaudric.net/gallery/tomb-raider",
-    "fecha": "20/06/2026",
-    "contenido": "      +74 más"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Publicado Agama 22",
     "link": "https://victorhckinthefreeworld.com/2026/06/19/publicado-agama-22/",
     "fecha": "19/06/2026",
     "contenido": "En esta versión 22 de Agama, el nuevo instalador de openSUSE/SUSE, las novedades se han centrado en pulir la interfaz de usuario, aunque también se ha trabajado en otras áreas."
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "El fútbol me importa un culo",
-    "link": "https://jinversor.co/2026/06/el-futbol-me-importa-un-culo/",
-    "fecha": "19/06/2026",
-    "contenido": "Así es, el fútbol me importa un culo. Nada. Cero. Un orto sucio de indigente. O incluso menos. Es el vacío absoluto, el vació perfecto: 0 mbar. ¿Quién ganó? ¿Quién [&#8230;]\nLa entrada El fútbol me importa un culo se publicó primero en Jinversor."
   },
   {
     "blog": "Interlan",
@@ -222,6 +257,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/06/19/delotroladometal-version-ano-2002/",
     "fecha": "19/06/2026",
     "contenido": "Ok, no es ni fue estrictamente lo que se dice un fanzine ni mucho menos,...\nThe post Delotroladometal – Versión Año 2002 first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Noruega frena la IA en primaria (y tiene su lógica)",
+    "link": "https://dani.torresburriel.com/noruega-veto-ia-primaria/",
+    "fecha": "19/06/2026",
+    "contenido": "Si lees esto ya sabes que me dedico, entre otras cosas, a ayudar a organizaciones a incorporar IA a su forma de trabajar, y antes que eso he estado muchos años trabajando en diseño de experiencia de usuario. Así que cuando he leído que&#160;Noruega acaba de imponer un veto casi total a la IA generat"
   },
   {
     "blog": "CozyKis",
@@ -532,6 +574,13 @@
     "contenido": "Antes de empezar a hablar de Bronca 2, no puedo ser objetivo ante el regalo que supone el retorno de una de las mejores series de Netflix. La primera me fascinó por su capacidad de hablar de la frustración de toda una generación desde un prisma horizontal, allanando las clases sociales y construyend"
   },
   {
+    "blog": "La Frikoteca",
+    "titulo": "Los chavales caen en la tentación (partida de Sombras Urbanas)",
+    "link": "http://frikoteca.blogspot.com/2026/06/los-chavales-caen-en-la-tentacion.html",
+    "fecha": "16/06/2026",
+    "contenido": "Por primera vez en décadas (quizá en toda la vida), estoy jugando con dos grupos distintos de rol. Uno está formado por mis incombustibles roleros cuarentones/cincuentones, con los que estoy jugando a Mythras y probando mi partida de La Serpiente Coristos. Están avanzando y ya se han enfrentado a se"
+  },
+  {
     "blog": "56K",
     "titulo": "Dial-a-Poem – Poemas llamando a un teléfono",
     "link": "https://56k.es/fanta/dial-a-poem-poemas-gratis-llamando-a-un-telefono/",
@@ -574,32 +623,11 @@
     "contenido": "El cliente de correo Thunderbird tiene la opción de recordarnos que tenemos que adjuntar un archivo cuando en el cuerpo del correo aparece cierta palabra clave. Veamos cómo añadir una nueva"
   },
   {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Guapa de cara",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/guapa-de-cara/",
-    "fecha": "15/06/2026",
-    "contenido": "Aviso de contenido: imagen corporal, peso, ideales de belleza, TCA y dismorfia corporal\n\nLlevo unos cuantos días con el guapo subido. Los paseos de ida y vuelta al trabajo, a pesar de la protección solar, me han dorado un poco la piel de la cara, lo cual ha provocado un efecto en cadena maravilloso:"
-  },
-  {
     "blog": "alt43",
     "titulo": "2FA en 2026",
     "link": "https://alt43.es/2fa-en-2026/",
     "fecha": "15/06/2026",
     "contenido": "El SMS sigue siendo el 2FA más usado, pero también el más fácil de comprometer. Un atacante no necesita hackear tu teléfono: le basta con llamar a tu operador. Analizamos alternativas disponibles hoy para tratar de elegir con criterio."
-  },
-  {
-    "blog": "Feed de SL1200",
-    "titulo": "- Monta tu propio servidor GEMINI Agate con un simple comando Docker run",
-    "link": "https://proxy.dystopic.world/art/agate.gmi",
-    "fecha": "15/06/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "End3r.es",
-    "titulo": "Newsboat, un cliente RSS para la terminal",
-    "link": "https://www.end3r.es/posts/021-newsboat-un-lector-de-rss-para-la-terminal/",
-    "fecha": "15/06/2026",
-    "contenido": "Newsboat es un lector de RSS y Atom de código abierto pensado\npara usarse desde la terminal. \nNació como un fork de Newsbeuter optimizado y mantenido activamente por la comunidad, lo que lo convierte en una alternativa\nsólida para usuarios de Linux, FreeBSD y OpenBSD.\nNewsboat es una aplicación para"
   },
   {
     "blog": "Manu Mateos",
@@ -665,13 +693,6 @@
     "contenido": "(2026 &#8211; Nordic Mission) La mayoría de las veces se buscan etiquetas, no con el...\nThe post Since The Death: Entangled | Cuando Las Etiquetas No Alcanzan first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "El blog de Lázaro",
-    "titulo": "Instalación de ntfy en Unraid",
-    "link": "https://elblogdelazaro.org/instalacion-ntfy-unraid/",
-    "fecha": "15/06/2026",
-    "contenido": "Por: Carlos M.Publicado el 15 de junio de 2026Cómo instalé ntfy en Unraid, qué valores puse en la plantilla.Continuar leyendo →#Homelab #Asus #Arr #Unraid #Docker "
-  },
-  {
     "blog": "labaudric",
     "titulo": "audric subió 569 imágenes en Phantasy Star Online 2, Aphelion, Cyberpunk 2077, Phantasy Star Online 2 New Genesis, Anthem, Detroit: Become Human, The Last Of Us, Forza, Shenmue, DC Universe Online, Phantasy Star Online Blue Burst, Heavy Rain",
     "link": "https://labaudric.net/gallery/phantasy-star-online-2",
@@ -691,26 +712,5 @@
     "link": "https://cozykis.kisworld.es/analisis-de-duppy-detective-tashia/",
     "fecha": "15/06/2026",
     "contenido": "Un asesinato por resolver mientras intentamos recuperar nuestra vida pasada nos llevará a dar con un lugar muy especial\nLa entrada Análisis de Duppy Detective Tashia se publicó primero en CozyKis."
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Hablando de Life is Strange Double Exposure y Reunion.",
-    "link": "https://escritura.social/mcallus/analisis-life-is-strange-double-exposure-y-reunion",
-    "fecha": "14/06/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "El veterano de la empresa",
-    "link": "https://impermanente.es/2026/06/14/el-veterano-de-la-empresa.html",
-    "fecha": "14/06/2026",
-    "contenido": "El día de hoy Satya Nadella, CEO de Microsoft, publicó un texto en su blog que titula \"A frontier without an ecosystem is not stable\" y ahí habla sobre cómo imagina a su empresa en una economía movida por la IA. Lo que dice, en resumen, es que no se trata de qué modelo es más listo, sino de quién es"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Catalina y Las Bordonas de Oro: Boleros, cumbias y otros clásicos",
-    "link": "https://altgr.xyz/2026/06/14/catalina-y-las-bordonas-de-oro-boleros-cumbias-y-otros-clasicos/",
-    "fecha": "14/06/2026",
-    "contenido": "El sábado por la noche el escenario del Club Chocolate recibió a Catalina y Las Bordonas de Oro. Una agrupación que homenajea a los clásicos del bolero, la canción romántica y la música latinoamericana en general. La voz preciosa de Catalina y el acompañamiento musical de la banda, dirigida por el t"
   }
 ]
