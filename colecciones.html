@@ -3,109 +3,80 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colección de Mastodon</title>
+    <title>Blogs en Español - Colección Mastodon</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background-color: #f9f9f9; padding: 20px; color: #333; }
-        #mastodon-collection { max-width: 600px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+            background-color: #f9f9f9; 
+            padding: 20px; 
+            color: #333; 
+        }
+        #mastodon-collection { 
+            max-width: 600px; 
+            margin: 0 auto; 
+            background: white; 
+            padding: 20px; 
+            border-radius: 8px; 
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+        }
         h3 { margin-top: 0; color: #6364ff; }
-        ul { list-style: none; padding: 0; }
-        li { display: flex; align-items: center; padding: 10px 0; border-bottom: 1px solid #eee; }
+        p { color: #666; font-size: 0.95em; }
+        ul { list-style: none; padding: 0; margin: 0; }
+        li { display: flex; align-items: center; padding: 12px 0; border-bottom: 1px solid #eee; }
         li:last-child { border-bottom: none; }
         img { width: 45px; height: 45px; border-radius: 50%; margin-right: 15px; object-fit: cover; background: #eee; }
         a { text-decoration: none; color: #111; }
         a:hover { color: #6364ff; text-decoration: underline; }
-        .username { color: #666; font-size: 0.9em; display: block; }
+        .username { color: #888; font-size: 0.85em; display: block; }
     </style>
 </head>
 <body>
 
-<div id="mastodon-collection">Cargando colección de Mastodon...</div>
+<div id="mastodon-collection">
+    <h3>Blogs en Español</h3>
+    <p>Una selección de cuentas que escriben blogs en español en el Fediverso.</p>
+    <ul id="accounts-list"></ul>
+</div>
 
 <script>
-  const collectionUrl = "https://masto.es/collections/116771427317007236";
-  // Usamos allorigins para saltarnos el bloqueo de CORS y leer el HTML público
-  const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(collectionUrl)}`;
+  // Datos locales de la colección (puedes añadir o quitar elementos manualmente aquí)
+  const coleccion = [
+    {
+      name: "Fanta",
+      handle: "@fanta@masto.es",
+      url: "https://masto.es/@fanta",
+      avatar: "https://files.masto.es/accounts/avatars/000/000/005/original/avatar.png"
+    },
+    {
+      name: "Eduardo",
+      handle: "@eduardo@masto.es",
+      url: "https://masto.es/@eduardo",
+      avatar: "https://files.masto.es/accounts/avatars/000/001/102/original/avatar.jpg"
+    },
+    {
+      name: "Blogosfera",
+      handle: "@blogosfera@masto.es",
+      url: "https://masto.es/@blogosfera",
+      avatar: "https://files.masto.es/accounts/avatars/000/109/420/original/logo.png"
+    }
+  ];
 
-  fetch(proxyUrl)
-    .then(response => {
-      if (!response.ok) throw new Error("Error en la red");
-      return response.json();
-    })
-    .then(data => {
-      // Parseamos el HTML recibido
-      const parser = new DOMParser();
-      const doc = parser.parseFromString(data.contents, "text/html");
-      
-      const container = document.getElementById('mastodon-collection');
-      
-      // Intentar obtener el título de la colección (suele estar en el h1 o title)
-      const titleText = doc.querySelector('h1')?.innerText || "Colección de Mastodon";
-      
-      container.innerHTML = `
-        <h3>${titleText}</h3>
-        <p>Cuentas incluidas en esta selección:</p>
-        <ul id="accounts-list"></ul>
-      `;
-      
-      const list = document.getElementById('accounts-list');
-      
-      // Buscamos las tarjetas de cuenta en el HTML de Mastodon
-      // Mastodon usa clases como .account-card o estructuras similares para listar usuarios
-      const cards = doc.querySelectorAll('.account-card, .directory__tag, .card');
-      
-      if (cards.length > 0) {
-        cards.forEach(card => {
-          // Extraemos los datos de cada tarjeta
-          const name = card.querySelector('.display-name strong')?.innerText || "Usuario";
-          const handle = card.querySelector('.display-name span')?.innerText || "";
-          const avatarSrc = card.querySelector('.avatar img')?.src || card.querySelector('img')?.src;
-          const profileLink = card.querySelector('a')?.href;
-          
-          // Corregimos URLs relativas si el proxy las rompió
-          const fullAvatar = avatarSrc?.startsWith('http') ? avatarSrc : `https://masto.es${avatarSrc}`;
-          const fullLink = profileLink?.startsWith('http') ? profileLink : `https://masto.es${profileLink}`;
+  const list = document.getElementById('accounts-list');
 
-          const li = document.createElement('li');
-          li.innerHTML = `
-            <img src="${fullAvatar}" alt="${name}">
-            <div>
-              <a href="${fullLink}" target="_blank">
-                <strong>${name}</strong>
-              </a>
-              <span class="username">${handle}</span>
-            </div>
-          `;
-          list.appendChild(li);
-        });
-      } else {
-        // Alternativa si el diseño cambia: buscar enlaces con estructura de usuario
-        const links = doc.querySelectorAll('a[href*="/@"]');
-        const uniqueLinks = Array.from(links).filter((v, i, a) => a.findIndex(t => t.href === v.href) === i);
-        
-        if (uniqueLinks.length > 0) {
-          uniqueLinks.forEach(link => {
-            const name = link.innerText.trim();
-            if(!name) return;
-            
-            const li = document.createElement('li');
-            li.innerHTML = `
-              <div>
-                <a href="${link.href}" target="_blank">
-                  <strong>${name}</strong>
-                </a>
-              </div>
-            `;
-            list.appendChild(li);
-          });
-        } else {
-          list.innerHTML = "<li>No se pudieron extraer las cuentas automáticamente del HTML público.</li>";
-        }
-      }
-    })
-    .catch(error => {
-      console.error("Error:", error);
-      document.getElementById('mastodon-collection').innerText = "Error al conectar con la colección.";
-    });
+  // Renderizar la lista al cargar la página
+  coleccion.forEach(account => {
+    const li = document.createElement('li');
+    li.innerHTML = `
+      <img src="${account.avatar}" alt="${account.name}" onerror="this.src='https://files.masto.es/accounts/avatars/original/missing.png';">
+      <div>
+        <a href="${account.url}" target="_blank">
+          <strong>${account.name}</strong>
+        </a>
+        <span class="username">${account.handle}</span>
+      </div>
+    `;
+    list.appendChild(li);
+  });
 </script>
 
 </body>
