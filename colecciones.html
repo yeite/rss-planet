@@ -1,32 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colección de Mastodon</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background-color: #f9f9f9; padding: 20px; color: #333; }
+        #mastodon-collection { max-width: 600px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        h3 { margin-top: 0; color: #6364ff; }
+        ul { list-style: none; padding: 0; }
+        li { display: flex; align-items: center; padding: 10px 0; border-bottom: 1px solid #eee; }
+        li:last-child { border-bottom: none; }
+        img { width: 45px; height: 45px; border-radius: 50%; margin-right: 15px; object-fit: cover; }
+        a { text-decoration: none; color: #111; }
+        a:hover { color: #6364ff; text-decoration: underline; }
+        .username { color: #666; font-size: 0.9em; display: block; }
+    </style>
+</head>
+<body>
+
 <div id="mastodon-collection">Cargando colección de Mastodon...</div>
 
 <script>
-  // ID de la colección extraído de tu URL
   const instance = "masto.es";
   const collectionId = "116771427317007236"; 
   const apiUrl = `https://${instance}/api/v1/collections/${collectionId}`;
 
   fetch(apiUrl)
-    .then(response => response.json())
+    .then(response => {
+      if (!response.ok) throw new Error("No se pudo obtener la colección");
+      return response.json();
+    })
     .then(data => {
       const container = document.getElementById('mastodon-collection');
-      container.innerHTML = `<h3>${data.name}</h3><p>${data.description || ''}</p><ul id="accounts-list"></ul>`;
+      
+      // Estructura base del contenedor con los datos de la colección
+      container.innerHTML = `
+        <h3>${data.name}</h3>
+        <p>${data.description || 'Colección recomendada de cuentas.'}</p>
+        <ul id="accounts-list"></ul>
+      `;
       
       const list = document.getElementById('accounts-list');
-      // Iterar por las cuentas dentro de la colección
-      data.items.forEach(item => {
-        // Dependiendo de la estructura exacta del JSON de Mastodon para items:
-        const account = item.account || item; 
-        const li = document.createElement('li');
-        li.innerHTML = `
-          <img src="${account.avatar}" alt="${account.display_name}" style="width:40px; border-radius:50%; vertical-align:middle; margin-right:10px;">
-          <a href="${account.url}" target="_blank"><strong>${account.display_name}</strong> (@${account.acct})</a>
-        `;
-        list.appendChild(li);
-      });
+      
+      // En la API de Mastodon, data.items contiene directamente el array de cuentas
+      if (data.items && data.items.length > 0) {
+        data.items.forEach(account => {
+          const li = document.createElement('li');
+          li.innerHTML = `
+            <img src="${account.avatar}" alt="${account.display_name}">
+            <div>
+              <a href="${account.url}" target="_blank">
+                <strong>${account.display_name || account.username}</strong>
+              </a>
+              <span class="username">@${account.acct}</span>
+            </div>
+          `;
+          list.appendChild(li);
+        });
+      } else {
+        list.innerHTML = "<li>No hay cuentas en esta colección o es privada.</li>";
+      }
     })
     .catch(error => {
-      console.error("Error cargando la colección:", error);
-      document.getElementById('mastodon-collection').innerText = "No se pudo cargar la colección.";
+      console.error("Error:", error);
+      document.getElementById('mastodon-collection').innerText = "Error al cargar la colección de Mastodon.";
     });
 </script>
+
+</body>
+</html>
