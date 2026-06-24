@@ -11,7 +11,7 @@
         ul { list-style: none; padding: 0; }
         li { display: flex; align-items: center; padding: 10px 0; border-bottom: 1px solid #eee; }
         li:last-child { border-bottom: none; }
-        img { width: 45px; height: 45px; border-radius: 50%; margin-right: 15px; object-fit: cover; }
+        img { width: 45px; height: 45px; border-radius: 50%; margin-right: 15px; object-fit: cover; background: #eee; }
         a { text-decoration: none; color: #111; }
         a:hover { color: #6364ff; text-decoration: underline; }
         .username { color: #666; font-size: 0.9em; display: block; }
@@ -22,49 +22,89 @@
 <div id="mastodon-collection">Cargando colección de Mastodon...</div>
 
 <script>
-  const instance = "masto.es";
-  const collectionId = "116771427317007236"; 
-  const apiUrl = `https://${instance}/api/v1/collections/${collectionId}`;
+  const collectionUrl = "https://masto.es/collections/116771427317007236";
+  // Usamos allorigins para saltarnos el bloqueo de CORS y leer el HTML público
+  const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(collectionUrl)}`;
 
-  fetch(apiUrl)
+  fetch(proxyUrl)
     .then(response => {
-      if (!response.ok) throw new Error("No se pudo obtener la colección");
+      if (!response.ok) throw new Error("Error en la red");
       return response.json();
     })
     .then(data => {
+      // Parseamos el HTML recibido
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(data.contents, "text/html");
+      
       const container = document.getElementById('mastodon-collection');
       
-      // Estructura base del contenedor con los datos de la colección
+      // Intentar obtener el título de la colección (suele estar en el h1 o title)
+      const titleText = doc.querySelector('h1')?.innerText || "Colección de Mastodon";
+      
       container.innerHTML = `
-        <h3>${data.name}</h3>
-        <p>${data.description || 'Colección recomendada de cuentas.'}</p>
+        <h3>${titleText}</h3>
+        <p>Cuentas incluidas en esta selección:</p>
         <ul id="accounts-list"></ul>
       `;
       
       const list = document.getElementById('accounts-list');
       
-      // En la API de Mastodon, data.items contiene directamente el array de cuentas
-      if (data.items && data.items.length > 0) {
-        data.items.forEach(account => {
+      // Buscamos las tarjetas de cuenta en el HTML de Mastodon
+      // Mastodon usa clases como .account-card o estructuras similares para listar usuarios
+      const cards = doc.querySelectorAll('.account-card, .directory__tag, .card');
+      
+      if (cards.length > 0) {
+        cards.forEach(card => {
+          // Extraemos los datos de cada tarjeta
+          const name = card.querySelector('.display-name strong')?.innerText || "Usuario";
+          const handle = card.querySelector('.display-name span')?.innerText || "";
+          const avatarSrc = card.querySelector('.avatar img')?.src || card.querySelector('img')?.src;
+          const profileLink = card.querySelector('a')?.href;
+          
+          // Corregimos URLs relativas si el proxy las rompió
+          const fullAvatar = avatarSrc?.startsWith('http') ? avatarSrc : `https://masto.es${avatarSrc}`;
+          const fullLink = profileLink?.startsWith('http') ? profileLink : `https://masto.es${profileLink}`;
+
           const li = document.createElement('li');
           li.innerHTML = `
-            <img src="${account.avatar}" alt="${account.display_name}">
+            <img src="${fullAvatar}" alt="${name}">
             <div>
-              <a href="${account.url}" target="_blank">
-                <strong>${account.display_name || account.username}</strong>
+              <a href="${fullLink}" target="_blank">
+                <strong>${name}</strong>
               </a>
-              <span class="username">@${account.acct}</span>
+              <span class="username">${handle}</span>
             </div>
           `;
           list.appendChild(li);
         });
       } else {
-        list.innerHTML = "<li>No hay cuentas en esta colección o es privada.</li>";
+        // Alternativa si el diseño cambia: buscar enlaces con estructura de usuario
+        const links = doc.querySelectorAll('a[href*="/@"]');
+        const uniqueLinks = Array.from(links).filter((v, i, a) => a.findIndex(t => t.href === v.href) === i);
+        
+        if (uniqueLinks.length > 0) {
+          uniqueLinks.forEach(link => {
+            const name = link.innerText.trim();
+            if(!name) return;
+            
+            const li = document.createElement('li');
+            li.innerHTML = `
+              <div>
+                <a href="${link.href}" target="_blank">
+                  <strong>${name}</strong>
+                </a>
+              </div>
+            `;
+            list.appendChild(li);
+          });
+        } else {
+          list.innerHTML = "<li>No se pudieron extraer las cuentas automáticamente del HTML público.</li>";
+        }
       }
     })
     .catch(error => {
       console.error("Error:", error);
-      document.getElementById('mastodon-collection').innerText = "Error al cargar la colección de Mastodon.";
+      document.getElementById('mastodon-collection').innerText = "Error al conectar con la colección.";
     });
 </script>
 
