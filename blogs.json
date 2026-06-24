@@ -1283,11 +1283,11 @@
     "País": "España"
   },
   {
-    "Nombre": "El quiróptero amanuense",
+    "Nombre": "quiroptero.blog",
     "Url": "https://quiroptero.blog",
     "Webring": "https://quiroptero.blog",
-    "Feed": "https://quiroptero.blog",
-    "Descripción": "Es un blog personal, principalmente publico sobre cosas que pienso o que hago, pero también me sirve para llevar un registro de los libros que leo (y los que tengo), las pelis que veo, lo que estoy haciendo actualmente...",
+    "Feed": "https://quiroptero.blog/index.xml",
+    "Descripción": "Cueva digital de un chilango autoexiliado.",
     "Categoría": "Literario, Fotografía, Viajes, Vida Diaria",
     "País": "México"
   },
