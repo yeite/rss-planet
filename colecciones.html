@@ -1,0 +1,32 @@
+<div id="mastodon-collection">Cargando colección de Mastodon...</div>
+
+<script>
+  // ID de la colección extraído de tu URL
+  const instance = "masto.es";
+  const collectionId = "116771427317007236"; 
+  const apiUrl = `https://${instance}/api/v1/collections/${collectionId}`;
+
+  fetch(apiUrl)
+    .then(response => response.json())
+    .then(data => {
+      const container = document.getElementById('mastodon-collection');
+      container.innerHTML = `<h3>${data.name}</h3><p>${data.description || ''}</p><ul id="accounts-list"></ul>`;
+      
+      const list = document.getElementById('accounts-list');
+      // Iterar por las cuentas dentro de la colección
+      data.items.forEach(item => {
+        // Dependiendo de la estructura exacta del JSON de Mastodon para items:
+        const account = item.account || item; 
+        const li = document.createElement('li');
+        li.innerHTML = `
+          <img src="${account.avatar}" alt="${account.display_name}" style="width:40px; border-radius:50%; vertical-align:middle; margin-right:10px;">
+          <a href="${account.url}" target="_blank"><strong>${account.display_name}</strong> (@${account.acct})</a>
+        `;
+        list.appendChild(li);
+      });
+    })
+    .catch(error => {
+      console.error("Error cargando la colección:", error);
+      document.getElementById('mastodon-collection').innerText = "No se pudo cargar la colección.";
+    });
+</script>
