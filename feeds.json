@@ -1,10 +1,94 @@
 [
   {
+    "blog": "Diego Cano",
+    "titulo": "El sabor de lo artesano",
+    "link": "https://blep.org/El-sabor-de-lo-artesano",
+    "fecha": "25/06/2026",
+    "contenido": "Vaya título, parece un anuncio de quesos.\n\nHace poco, una amiga me comentó que estaba teniendo algunos problemas con su web (concretamente, que la agencia que la gestiona le prestaba tan poca atención que estuvo caída una o dos semanas sin que hiciesen nada), y que estaba pensando en cambiarla. Dado"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "La adultez está siendo mi mejor etapa",
+    "link": "https://adrianperales.com/2026/06/la-adultez-esta-siendo-mi-mejor-etapa/",
+    "fecha": "25/06/2026",
+    "contenido": "Aunque la juventud sea un tesoro divino y muchos digan que cualquier tiempo pasado fue mejor, estoy muy contento con la etapa vital en la que me encuentro. Siempre he sido una persona introvertida. Me costaba mucho iniciar el contacto con otra persona y me veía muy alejado de los intereses típicos d"
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Lo libre llama a lo libre (de nuevo): DSpace, Invenio (software de repositorios institucionales) y RSS",
+    "link": "https://pedrolr.es/blog/lo-libre-llama-a-lo-libre-de-nuevo-dspace-invenio-software-de-repositorios-institucionales-y-rss/",
+    "fecha": "25/06/2026",
+    "contenido": "En el contexto de la información académica y científica, diría que todas las universidades tienen o tienden a tener un repositorio institucional. En este, se van depositando Trabajos Fin de Grado, de Máster, Documentos del personal de las universidades, preprints, papers, etc. De hecho, la políticas"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Listed",
+    "link": "https://matizeta.com/2026/06/25/listed/",
+    "fecha": "25/06/2026",
+    "contenido": "Listed es una plataforma gratuita para tener tu blog. Este funciona con el bloc de notas gratuito Standard Notes (que pertenece a la compañía Proton). Lo que publicas ahí fácilmente, mediante un botón, lo puedes subir a tu blog en Listed.&#160; Permite crear secciones en tu blog, libro de visitas, r"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Novedades fanzineras",
+    "link": "https://www.ericafustero.com/2026-06-novedades-fanzineras",
+    "fecha": "25/06/2026",
+    "contenido": "Este sábado 27 de junio estaré participando en el VIII Festival de fanzines de Zaragoza, un evento organizado por la librería El Armadillo Ilustrado y la revista Adoquín con un montón de actividades (y aire acondicionado, importante) que este año se celebra en el Centro Cívico Delicias. Me encontrar"
+  },
+  {
+    "blog": "56K",
+    "titulo": "humans.txt",
+    "link": "https://56k.es/fanta/humans-txt/",
+    "fecha": "25/06/2026",
+    "contenido": "Tengo un robots.txt en mi website que los robots toman «por el pito del sereno» y ahora he decidido hacer también un humans.txt para que los humanos hagan lo mismo. Aquí dejo mi humans.txt con art ASCII para que no se entienda mucho por parte de los IA Crawlers: 56k.es/humans.txt Digamos que en el h"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Dillo – Un navegador web diseñado para ser rápido",
+    "link": "https://56k.es/fanta/dillo-un-navegador-web-disenado-para-ser-rapido/",
+    "fecha": "25/06/2026",
+    "contenido": "Dillo es un navegador web que no te servirá en principio para ver Netflix ni HBO Max. Dillo es un navegador web diseñado para ser rápido. Permite sin plugins cargar archivos vía HTTP, HTTPS y FTP. Ya con plugins soporta protocolos como Gemini, Gopher, IPFS, &#8230; Con este navegador no vas a poder "
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #882",
+    "link": "https://www.fabio.com.ar/9971-ruleta-rusa-882",
+    "fecha": "25/06/2026",
+    "contenido": "     Tenemos fr&iacute;o, pero hay ruleta!\nHemos llegado al jueves, los PRODEs fracasan, el trabajo agobia sin terminarse todav&iacute;a, pero tenemos lo que nos hac&iacute;a falta: balas, muchas balas! As&iacute; que a disfrutar de una buena balacera como todos los jueves!\nAhora s&iacute;, Ruleta R"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Silence The Echo: Liberation | Entre El Silencio, El Eco Y La Liberación",
+    "link": "https://www.delotroladometal.com.ar/2026/06/25/entre-el-silencio-el-eco-y-la-liberacion-2/",
+    "fecha": "25/06/2026",
+    "contenido": "(2026 &#8211; Sandwool Records) Entre los discos nuevos de este 2026, posiblemente haya sido uno...\nThe post Silence The Echo: Liberation | Entre El Silencio, El Eco Y La Liberación first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "La Loica",
+    "titulo": "Taller de Fanzine I",
+    "link": "https://laloica.noblogs.org/taller-de-fanzine-i/",
+    "fecha": "24/06/2026",
+    "contenido": "Hoy comencé este taller donde muestro el proceso creativo que realizó cuando diseño un fanzine, en este primer directo mostré como es que realizo moldes para distintas estructuras de fanzine con una sola hoja. Si no viste el directo en mi canal de twitch o peertube, aquí te dejo los dos links de la "
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Gladiator II",
+    "link": "https://mareosdeungeek.es/gladiator-ii/",
+    "fecha": "24/06/2026",
+    "contenido": "Gladiator II llegó rodeada de polémica y críticas. Está claro que Gladiator es una de las mejores películas dirigidas por Ridley Scott y su secuela tenía que estar a la altura. Como ya pasa en la primera parte nos encontramos una película donde prima la acción frente a cualquier exactitud histórica."
+  },
+  {
     "blog": "matizeta",
     "titulo": "Bolucompras: compras innecesarias",
     "link": "https://matizeta.com/2026/06/24/bolucompras-compras-innecesarias/",
     "fecha": "24/06/2026",
     "contenido": "En Argentina las llamamos “bolucompras”, que sería “compras boludas”. Boludo es algo así como estúpido, aunque si lo buscas en la RAE significa otra cosa, pero en mi país tiene múltiples significados, y se usa para variedad de ocaciones. Son de esa compras innecesarias de objetos que no necesitamos "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Convertir ficheros de audio en lote con FFmpeg",
+    "link": "https://voidnull.es/convertir-ficheros-de-audio-en-lote-con-ffmpeg/",
+    "fecha": "24/06/2026",
+    "contenido": "Convierte audios FLAC a MP3 en lote con FFmpeg, conservando etiquetas y carátulas."
   },
   {
     "blog": "_ voidNull",
@@ -42,6 +126,13 @@
     "contenido": "    \nCada tanto encuentro alg&uacute;n artista copado o que me gusta algo de su trabajo, hace un tiempo di con uno que combina horror con humor en un estilo muy simple y directo que me encanta.\nKarl Kwasny (Monaux) estuvo haciendo estos comics de cuatro cuadros donde todo siempre se va al cuerno, la"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Un Recorrido Histórico Sobre Su Material En Vivo | Mortification En Vivo",
+    "link": "https://www.delotroladometal.com.ar/2026/06/24/mortification-en-vivo/",
+    "fecha": "24/06/2026",
+    "contenido": "&#8220;Let Me Hear Some Noise!&#8221; es el grito de guerra con el que Steve Rowe...\nThe post Un Recorrido Histórico Sobre Su Material En Vivo | Mortification En Vivo first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "AsturGeek V3",
     "titulo": "Me he comprado un Active 2 NFC Premium",
     "link": "https://asturgeek.eu/2026/06/24/me-he-comprado-un-active-2-nfc-premium/",
@@ -54,6 +145,13 @@
     "link": "https://javiersam.uy/2026/06/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-fecha-2.html",
     "fecha": "24/06/2026",
     "contenido": "Ayer se completó la segunda fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 2 rivales de Europa, 2 de la Concacaf y 2 de África. Brasil 3 &#8211; Haití 0 El viernes Brasil se enfrentó a Haití po"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Zoominoes",
+    "link": "https://cozykis.kisworld.es/analisis-de-zoominoes/",
+    "fecha": "24/06/2026",
+    "contenido": "Un tablero, una estrella y millones (no tantos) de animales por combinar para conseguir combos imposibles mientras intentamos ganar\nLa entrada Análisis de Zoominoes se publicó primero en CozyKis."
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -119,6 +217,13 @@
     "contenido": "Durante unos años he ido anotando algunas frases que consideraba que podrían servir para ligar con una persona linuxera. Ahora esa recopilación es para usted, se la entrego para que pueda usarla. Algunas seguro las conoce pero otras lo mismo no y no fallan. Es decirle esto a una persona y caen en tu"
   },
   {
+    "blog": "Estás Interfiriendo con mi Zen.",
+    "titulo": "Episodio 97",
+    "link": "https://edgarmtoro.wordpress.com/2026/06/23/episodio-97/",
+    "fecha": "23/06/2026",
+    "contenido": "Yo soy de izquierda, porque un Gobierno de izquierda te apoya todos los días, pero soy de derecha en caso de un apocalipsis zombie. Carlos Ballarta Ataques de Infrasonido a Asistentes de IA Basicamente pasarle instrucciones de frecuencia inaudibles a los asistentes de inteligencia artificial en todo"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Todos los gobiernos de \"Extrema Derecha\"",
     "link": "https://www.fabio.com.ar/9969-todos-los-gobiernos-de-extrema-derecha",
@@ -131,6 +236,20 @@
     "link": "https://picandocodigo.net/2026/felices-30-anos-nintendo-64/",
     "fecha": "23/06/2026",
     "contenido": "Hoy hace 30 años del lanzamiento del Nintendo 64 en Japón. También se celebran 10 años desde que celebré sus 20 años en este blog. Aprovecho la ocasión para volver a festejar esta consola que todavía me sigue dando entretenimiento. Mi forma de jugar al Nintendo 64 cambió mucho desde 2016. Para empez"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Mi puzzle en Pathologic",
+    "link": "https://nachof.blog/posts/2026/mi-puzzle-en-pathologic/",
+    "fecha": "23/06/2026",
+    "contenido": "En el canal de YouTube Pathologic, Jonathan Chaffer resuelve un puzzle por día. En general saca los puzzles de la serie &ldquo;GAPP&rdquo; (genuinely approachable pencil puzzles) del Discord de Cracking The Cryptic, pero a veces hace puzzles enviados por la gente que sigue el canal.\nEn el video de h"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "\"Illusion Of Faith\" Es Lo Nuevo Con La Participación de Sean Peck y Luke Renno | Death Protocol Lanza Nuevo Single",
+    "link": "https://www.delotroladometal.com.ar/2026/06/23/death-protocol-lanza-nuevo-single/",
+    "fecha": "23/06/2026",
+    "contenido": "Es probable que ya los hayas escuchado. Si no es así, déjanos contarte que Death...\nThe post \"Illusion Of Faith\" Es Lo Nuevo Con La Participación de Sean Peck y Luke Renno | Death Protocol Lanza Nuevo Single first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "JDRM",
@@ -161,11 +280,25 @@
     "contenido": "Además de ser sumamente precioso nos dará la oportunidad de crear la ciudad de fantasía en la que nos gustaría jugar\nLa entrada Análisis de Glimvale : My Mini Overworld se publicó primero en CozyKis."
   },
   {
+    "blog": "brucknerite",
+    "titulo": "Lo bastante bueno",
+    "link": "https://brucknerite.net/2026/06/lo-bastante-bueno.html",
+    "fecha": "22/06/2026",
+    "contenido": "Las imágenes generadas con inteligencia artificial son una plaga que nos invade, insidiosa. Aquellas creadas para un contexto técnico nos ofrecen, sin embargo, una enseñanza respecto de los límites de esta tecnología que no deberíamos ignorar."
+  },
+  {
     "blog": "El Sueño del Artista Blog",
     "titulo": "La figura del padre en el arte .",
     "link": "https://polotman.wordpress.com/2026/06/22/la-figura-del-padre-en-el-arte/",
     "fecha": "22/06/2026",
     "contenido": "“ Padre no es el que fecunda , sino el que cría “ . Es una de las tantas frases relacionadas con la responsabilidad paternal , aunque la frase o el refrán en si mismo, describe una de las características en las que la figura masculina tristemente se ha caracterizado, en no hacerse responsable de [&#"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "La característica más importante de una aplicación de mensajería es la que casi nadie lee",
+    "link": "https://gatooscuro.xyz/la-caracteristica-mas-importante-de-una-aplicacion-de-mensajeria-es-la-que-casi-nadie-lee/",
+    "fecha": "22/06/2026",
+    "contenido": "Dentro de las comunidades de privacidad existe una discusión que parece repetirse cada pocos meses. Aparece una nueva aplicación de mensajería, algún usuario influyente la recomienda, se analizan sus protocolos\nSeguir leyendo  La característica más importante de una aplicación de mensajería es la qu"
   },
   {
     "blog": "Galerías Preciados",
@@ -217,6 +350,13 @@
     "contenido": "    \nEl otro d&iacute;a notaba que milagrosamente est&aacute;bamos todos pendientes de partidos de f&uacute;tbol totalmente irrelevantes, no porque nos interesara el deporte, no por la copa del mundo... por el PRODE (Quiniela) de la empresa.\nComo casi todos los mundiales lleg&oacute; el momento en q"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Pucará IA-58: Matando En El Nombre De Dios | Thrash Metal Directo Al Mentón",
+    "link": "https://www.delotroladometal.com.ar/2026/06/22/thrash-metal-directo-al-menton/",
+    "fecha": "22/06/2026",
+    "contenido": "(2026 &#8211; Alteración Mental Records) El Thrash Metal de la vieja escuela tiene un capítulo...\nThe post Pucará IA-58: Matando En El Nombre De Dios | Thrash Metal Directo Al Mentón first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Un Diario",
     "titulo": "Privacy Tips",
     "link": "https://thejnx.bearblog.dev/tips-privacy/",
@@ -257,6 +397,13 @@
     "link": "https://thecheis.com/2026/06/21/the-cross-of-changes-1993-de-enigma/",
     "fecha": "21/06/2026",
     "contenido": "«We came out from the deep» Mi adolescencia tardía fue un auténtico hervidero de música electrónica y descubrimiento personal. En mi reproductor nunca faltaba Enigma, uno de los mayores referentes en la música new age y el worldbeat de los 90, al que estuve muy viciado. Su éxito dio el pistoletazo d"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Celeste (Serie)",
+    "link": "https://mareosdeungeek.es/celeste-serie/",
+    "fecha": "21/06/2026",
+    "contenido": "Celeste es una serie que puede verse en Movistar Plus+ y esta protagonizada por la actriz Carmen Machi. Seguramente, vuelva a estar en boca de todos estos días porque hace unas semanas se publicó que la cantante Shakira había ganado su juicio a Hacienda. Esta serie, Celeste, va de esa investigación "
   },
   {
     "blog": "Manu Mateos",
@@ -306,6 +453,13 @@
     "link": "https://picandocodigo.net/2026/hoy-este-blog-cumple-19-anos-en-linea/",
     "fecha": "21/06/2026",
     "contenido": "Hoy hace 19 años que nació este blog \"Picando Código\". Para quienes siguen el blog de hace tiempo, seguramente se hayan encontrado algún año con uno de estos posts celebrando el aniversario. Para gente que lee hace poco o por primera vez, acá hay un poco más de historia de cómo surgió este blog: Ace"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Ícaro Junto A Barbarie, Torre Firme Y Santy Pogonza En El Amparo Bar - 20/06/2026 | Una Noche Cargada De Simbolismo",
+    "link": "https://www.delotroladometal.com.ar/2026/06/21/una-noche-cargada-de-simbolismo/",
+    "fecha": "21/06/2026",
+    "contenido": "Día de la bandera en Argentina, día del padre, cumpleaños de Heredia, final (casi) de...\nThe post Ícaro Junto A Barbarie, Torre Firme Y Santy Pogonza En El Amparo Bar - 20/06/2026 | Una Noche Cargada De Simbolismo first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -364,11 +518,11 @@
     "contenido": "Arturo y el algoritmo es el nombre con el que se conoce la película en España pero has de saber que el título original es «E noi come stronzi rimanemmo a guardare» (Y nosotros, como gilipollas, nos quedamos mirando). A alguien le pareció mal no poner en España el título traducido y decidió que tenía"
   },
   {
-    "blog": "56K",
-    "titulo": "KolibriOS – Sistema Operativo en ensamblador",
-    "link": "https://56k.es/fanta/kolibrios-sistema-operativo-en-ensamblador/",
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Celso Alves Nos Revela Detalles De La Banda Y También Sobre Su Nuevo Proyecto | Allos Lanza Nueva Versión De “Millennium Kingdom”",
+    "link": "https://www.delotroladometal.com.ar/2026/06/20/allos-lanza-nueva-version-de-millennium-kingdom/",
     "fecha": "20/06/2026",
-    "contenido": "KolibriOS es un fork del sistema operativo MenuetOS desarrollado principalmente por gente de países pertenecientes a la antigua Unión Soviética. La última versión disponible es de mediados del 2023. Lo que es maravilloso es que se trata de un sistema operativo escrito en ensamblador que en cuestión "
+    "contenido": "Conocimos a Allos por sus excelentes discos. Tanto &#8220;Spiritual Battle&#8221; de 2012 y &#8220;Strong Delusion&#8221;...\nThe post Celso Alves Nos Revela Detalles De La Banda Y También Sobre Su Nuevo Proyecto | Allos Lanza Nueva Versión De “Millennium Kingdom” first appeared on Del Otro Lado Meta"
   },
   {
     "blog": "labaudric",
@@ -441,13 +595,6 @@
     "contenido": "The Dubliners."
   },
   {
-    "blog": "56K",
-    "titulo": "Netscape en 2026 sobre Linux",
-    "link": "https://56k.es/fanta/netscape-en-2026-sobre-linux/",
-    "fecha": "19/06/2026",
-    "contenido": "He realizado una prueba que consiste en ver cuanta RAM consume Firefox actualmente abriendo solamente la web: www.frogfind.com (un buscador para usar en equipos con pocos recursos que va por http no por https). Lo he comparado con lo que consume actualmente Netscape 3.04. Firefox &#8211; Año 2026 Ne"
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "Links de Viernes - #946",
     "link": "https://www.fabio.com.ar/9967-links-de-viernes---946",
@@ -455,18 +602,25 @@
     "contenido": "     Un poco de descanso mental con los Links de Viernes\nEs viernes, aunque no lo creas, pas&oacute; toda una semana sin que te dieras cuenta, apostaste aun sin haber apostado, ese PRODE/Quiniela de tu trabajo, entre tus amigos, provoca el mismo efecto que si hubieses apostado una fortuna en \"Culead"
   },
   {
+    "blog": "Un blog",
+    "titulo": "Android nos tiene de rehenes",
+    "link": "https://nachof.blog/posts/2026/android-nos-tiene-de-rehenes/",
+    "fecha": "19/06/2026",
+    "contenido": "\n ¿Qué vas a hacer, usar iPhone?\n \n\n\nAndroid es una cagada. Claro, sí, al lado de iOS es genial, mucho más abierto (aunque ya no tanto, pero al final sigue siendo más o menos lo mismo: un sistema operativo ultra limitado, en el cual no tenés acceso a tus propios datos si la aplicación no quiere.\nLo "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Delotroladometal – Versión Año 2002",
+    "link": "https://www.delotroladometal.com.ar/2026/06/19/delotroladometal-version-ano-2002/",
+    "fecha": "19/06/2026",
+    "contenido": "Ok, no es ni fue estrictamente lo que se dice un fanzine ni mucho menos,...\nThe post Delotroladometal – Versión Año 2002 first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Blog de Daniel Torres Burriel",
     "titulo": "Noruega frena la IA en primaria (y tiene su lógica)",
     "link": "https://dani.torresburriel.com/noruega-veto-ia-primaria/",
     "fecha": "19/06/2026",
     "contenido": "Si lees esto ya sabes que me dedico, entre otras cosas, a ayudar a organizaciones a incorporar IA a su forma de trabajar, y antes que eso he estado muchos años trabajando en diseño de experiencia de usuario. Así que cuando he leído que&#160;Noruega acaba de imponer un veto casi total a la IA generat"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Nintendo me ha creado una necesidad que no tenía",
-    "link": "https://chancli.dev/blog/nintendo-me-crea-necesidad-que-no-tenia.html",
-    "fecha": "19/06/2026",
-    "contenido": ""
   },
   {
     "blog": "CozyKis",
@@ -504,60 +658,11 @@
     "contenido": "En el directo que de hoy he inaugurado esta sección de links de ñoñerias. Estos links los he guardado durante años siempre con la etiqueta de ñoñerias, pero hoy que los vuelvo a revisar solo me doy cuenta de mi autismo guardando sitios para hacer feliz mi sistema sensorial. Bueno aquí los links: htt"
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Privilegiado por tener lo mínimo",
-    "link": "https://adrianperales.com/2026/06/privilegiado-por-tener-lo-minimo/",
+    "blog": "Mareos de un geek",
+    "titulo": "Empezando en Codere",
+    "link": "https://mareosdeungeek.es/empezando-en-codere/",
     "fecha": "18/06/2026",
-    "contenido": "Tengo casa, y el trabajo muy cerca. A veces me siento mal por decirlo. ¿Cómo de fastidiado está nuestro sistema que se considera privilegio el tener algo tan básico? Después de seis años (puede que mucho, puede que poco) tirando dinero al bolsillo de un propietario tengo una casa a la que puedo llam"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Publicado Amarok 3.3.3",
-    "link": "https://victorhckinthefreeworld.com/2026/06/18/publicado-amarok-3-3-3/",
-    "fecha": "18/06/2026",
-    "contenido": "Tercera versión menor de la versión 3.3 del reproductor de música Amarok creado por la comunidad de KDE"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "¿Qué pasaría si durante los próximos 10 años publicásemos, revisásemos y trabajásemos solo para revistas Open Access Diamante?",
-    "link": "https://pedrolr.es/blog/que-pasaria-si-durante-los-proximos-10-anos-publicasemos-revisasemos-y-trabajasemos-solo-para-revistas-open-access-diamante/",
-    "fecha": "18/06/2026",
-    "contenido": "Me pregunto eso mismo en el contexto de la publicación, la comunicación y la información científicas: ¿Qué pasaría si durante los próximos 10 años publicásemos, revisásemos y trabajásemos solo para revistas Open Access Diamante? La he planteado en inglés en este toot; a ver si alguien responde: http"
-  },
-  {
-    "blog": "NeoSite Blog",
-    "titulo": "CachyOS, una distro muy especial para equipos viejos",
-    "link": "http://blog.neosite.com.ar/post/cachyos-una-distro-muy-especial-para-equipos-viejos",
-    "fecha": "18/06/2026",
-    "contenido": ""
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "WriterDeck: dispositivos dedicados para escribir",
-    "link": "https://matizeta.com/2026/06/18/writerdeck-dispositivos-dedicados-para-escribir/",
-    "fecha": "18/06/2026",
-    "contenido": "Vivimos en la era de la distracción. Para muchos sentarse a escribir sin caer en ellas es todo un reto: estamos solo a una notificación de distancia de perder el foco.  Es por eso  nacieron los WriterDeck, dispositivos con una única función: la de escribir. Si, exactamente la misma función que una m"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "El \"hongo trufa\" que estalla en la boca (เห็ดเผาะ)",
-    "link": "https://blog.danielaragay.net/el-hongo-trufa-que-estalla-en-la-boca-ehdephaaa/",
-    "fecha": "18/06/2026",
-    "contenido": "\nLoading the Elevenlabs Text to Speech AudioNative Player...\n\nLa cena empez&#xf3; con un misterio. En el plato, junto al arroz, hab&#xed;a unas bolitas oscuras del tama&#xf1;o de una aceituna, redondas y firmes. Las prepar&#xf3; Chat, mi marido y cocinero tailand&#xe9;s profesional, y"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Estos días de junio",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/estos-dias-de-junio.html",
-    "fecha": "18/06/2026",
-    "contenido": "\n  \n    \n  \nMe encantan estos días de junio en los que, por muy temprano que me vaya a trabajar, ya está amaneciendo. Y, aunque el calor me acabe cansando con el paso de los días y de las semanas (40. °C ayer a la sombra y con aviso de ola de calor para la próxima semana), me encantan estos días tan"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #881",
-    "link": "https://www.fabio.com.ar/9966-ruleta-rusa-881",
-    "fecha": "18/06/2026",
-    "contenido": "     La ruleta Overlord te ordena disparar las balas\nOh si &iquest;Existe la vida durante el mundial? Para muchos s&iacute;, o al menos en lapsos de una o dos horas entre partidos 🤪 donde tienen que comprimir todo lo que antes hac&iacute;an en tiempos normales, pero con esas pausitas de 90 minutos e"
+    "contenido": "Hoy se cumple un mes desde que empecé a trabajar para Codere, una empresa de apuestas española. Con esta incorporación se cierra un ciclo y vuelvo a trabajar para una empresa española. Además, sin saberlo se cierra un círculo bastante extraño, mi nuevo mánager, Sergi, lo fue de la gente con la que t"
   },
   {
     "blog": "Picando Código",
@@ -565,47 +670,5 @@
     "link": "https://picandocodigo.net/2026/arreglando-actualizacion-de-kde-neon-a-plasma-6-7-0-sddm/",
     "fecha": "18/06/2026",
     "contenido": "Recientemente mi computadora personal con KDE Neon tuvo una actualización grande y \"se rompió\". Llevaba 21 días sin reiniciarla o apagarla, así que después de una última apt-get update y apt-get upgrade, la reinicié. Al volver el sistema, me encontré con el familiar login de la línea de comando, y n"
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "Travesía por el desierto",
-    "link": "https://asturgeek.eu/2026/06/18/travesia-por-el-desierto/",
-    "fecha": "18/06/2026",
-    "contenido": "Tres meses sin postear y tres semanas con el blog «roto». La verdad es que me pasa siempre. Hay épocas en las que no me apetece postear e incluso pienso en dejar el blog. Pero no sólo es el blog, sino también el podcast. Normalmente me duran poco tiempo, pero ésta vez ha sido demasiado...."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (fecha 1)",
-    "link": "https://javiersam.uy/2026/06/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-fecha-1.html",
-    "fecha": "18/06/2026",
-    "contenido": "Ayer se completó la primera fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 3 rivales de África, 2 de Asia y 1 de la Concacaf. Paraguay 1 &#8211; Estados Unidos 4 La primera en jugar, el viernes"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Primeras impresiones de Cutout Village",
-    "link": "https://cozykis.kisworld.es/primeras-impresiones-de-cutout-village/",
-    "fecha": "18/06/2026",
-    "contenido": "Un bonito juego de construcción de ciudades que nos permitirá relajarnos mientras montamos el pueblo de nuestros sueños\nLa entrada Primeras impresiones de Cutout Village se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Thunderbird hará más sencillo poder colaborar en su aplicación para Android",
-    "link": "https://victorhckinthefreeworld.com/2026/06/17/thunderbird-hara-mas-sencillo-poder-colaborar-en-su-aplicacion-para-android/",
-    "fecha": "17/06/2026",
-    "contenido": "Si quieres colaborar con Thunderbird, puede ser difícil saber por dónde empezar o cómo hacerlo. Pronto dar ese primer paso en el desarrollo de la aplicación Thunderbird para Android será más fácil que nunca"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Salud, adiós como empleado y preparativos para ser autónomo",
-    "link": "https://blog.danielaragay.net/salud-adios-como-empleado-y-preparativos-para-ser-autonomo/",
-    "fecha": "17/06/2026",
-    "contenido": "Hablamos sobre el resultado de la radiograf&#xed;a, mis planes de salud, mis &#xfa;ltimos d&#xed;as en la empresa y como ser aut&#xf3;nomo en Suecia.Formas de patrocinio. Blog danielaragay.net Todos los podcasts: https://aragay.net &#xb7; Mastodon: https://masto.es/@proteusbcn &#xb7; Telegram:"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "nohup: ejecuta procesos persistentes en segundo plano",
-    "link": "https://voidnull.es/nohup-ejecuta-procesos-persistentes-en-segundo-plano/",
-    "fecha": "17/06/2026",
-    "contenido": "Aprende a utilizar el comando nohup en GNU/Linux para ejecutar procesos persistentes en segundo plano aunque cierres la terminal o la sesión SSH."
   }
 ]
