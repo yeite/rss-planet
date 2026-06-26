@@ -1,0 +1,144 @@
+<!doctype html>
+
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>¡Blog!¡Blog!</title>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="css/estilos.css" />
+        <link rel="stylesheet" href="css/estilos-acerca.css" />
+        <link
+            rel="alternate"
+            type="application/rss+xml"
+            title="RSS BlogBlog"
+            href="https://blogblog.es/rss.xml"
+        />
+    </head>
+    <body>
+        <!-- header externo -->
+        <div id="header-placeholder"></div>
+
+        <script>
+            // Cargar header desde un archivo externo
+            fetch("header.html")
+                .then((response) => response.text())
+                .then((data) => {
+                    document.getElementById("header-placeholder").innerHTML =
+                        data;
+                })
+                .catch((err) =>
+                    console.error("Error al cargar header.html:", err),
+                );
+        </script>
+
+
+
+
+
+   <main>
+
+
+
+        <div class="container">
+            <header>
+                <h1>Comunidad ¡Blog!¡Blog!</h1>
+
+ <h2>Conocé a  los autores de los blogs que forman parte de directorio de blogs en español ¡Blog!¡Blog!</h2>
+
+
+            </header>
+
+            <div class="faq-answer">
+                <p>
+                    Muchos de quienes escribimos blogs estamos en la red social Mastodon. Podés encontrarnos allí para seguir la conversación  y mantenernos en contacto.
+                    <br><br>
+                    Si aún no estas en Mastodon, quizás sea  un buen momento para sumarte.
+                    <br><br>
+                </p>
+            </div>
+
+
+
+
+<div class="table-of-contents">
+        <div id="mi-lista-mastodon">Cargando lista...</div>
+
+
+        <script>
+            // ID de tu colección e instancia
+            const urlAPI =
+                "https://masto.es/api/v1/collections/116771427317007236";
+
+            async function cargarColeccion() {
+                try {
+                    const respuesta = await fetch(urlAPI);
+                    if (!respuesta.ok)
+                        throw new Error("No se pudo obtener la colección");
+
+                    const datos = await respuesta.json();
+
+                    // La API devuelve un objeto con un array de cuentas (accounts)
+                    const cuentas = datos.accounts;
+
+                    let htmloculto = `<h3>${datos.title || "Comunidad ¡Blog!¡Blog! en Mastodon"}</h3><ul>`;
+
+                    cuentas.forEach((cuenta) => {
+                        htmloculto += `
+          <li style="list-style-type:none;";>
+            <img src="${cuenta.avatar}" alt="${cuenta.display_name}" style="width:32px; height:32px; border-radius:50%; vertical-align:middle; margin-right:8px;">
+            <a href="${cuenta.url}" target="_blank" rel="noopener noreferrer">
+              <strong>${cuenta.display_name}</strong> (${cuenta.acct})
+            </a>
+          </li>
+        `;
+                    });
+
+                    htmloculto += "</ul>";
+                    document.getElementById("mi-lista-mastodon").innerHTML =
+                        htmloculto;
+                } catch (error) {
+                    console.error(error);
+                    document.getElementById("mi-lista-mastodon").innerText =
+                        "Error al cargar la lista.";
+                }
+            }
+
+            cargarColeccion();
+        </script>
+
+</div>
+
+<div>
+
+
+
+    <p>Si estas en el directorio de blogs y  querés aparecer en el listado <a href="mailto:hola@matizeta.com"  target="_blank">envíame un mail</a> o <a href="https://masto.es/@matizeta"> escríbeme por Mastodon.</a></p>
+    <p>Visualizar <a href="https://masto.es/collections/116771427317007236"  target="_blank">colección en Mastodon</a>.</p>
+</div>
+
+
+        <!-- Footer externo -->
+           <div id="footer-placeholder"></div>
+
+           <script>
+               // Cargar footer desde un archivo externo
+               fetch("footer.html")
+                   .then((response) => response.text())
+                   .then((data) => {
+                       document.getElementById("footer-placeholder").innerHTML =
+                           data;
+                   })
+                   .catch((err) =>
+                       console.error("Error al cargar footer.html:", err),
+                   );
+           </script>
+
+
+
+        </div>
+
+
+
+    </body>
+</html>
