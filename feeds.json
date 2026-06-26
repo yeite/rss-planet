@@ -1,5 +1,89 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "AMSpiT lite, el emulador de Amstrad CPC ahora también para GNU/Linux y macOS",
+    "link": "https://malagaoriginal.blogspot.com/2026/07/amspit-lite-el-emulador-de-amstrad-cpc.html",
+    "fecha": "26/06/2026",
+    "contenido": "AMSpiriT es un emulador para sistemas Windows, pero su creador ha lanzado estos días una versión especial para GNU/Linux y MacOS llamada AMSpiriT lite.&nbsp;Este emulador incluye herramientas para el desarrollo, extracción e incrustación de programas hechos en Locomotive Basic, el potente intérprete"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Articulo: Ellos tienen tanto miedo de morir como tu",
+    "link": "https://interlan.ec/blog/2026/06/26/articulo-ellos-tienen-tanto-miedo-de-morir-como-tu/",
+    "fecha": "26/06/2026",
+    "contenido": "Del trueque de piedras al Software como Servicio (SaaS). Un análisis pragmático sobre cómo el miedo a la quiebra obliga a las empresas a inventar formas de cobrarnos para siempre."
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Foqos",
+    "link": "https://matizeta.com/2026/06/26/foqos/",
+    "fecha": "26/06/2026",
+    "contenido": "Foqos es una aplicación 100% gratuita y de código abierto para iPhone que permite limitar tu adicción al móvil. ¿Cómo funciona? A través de la app y con etiquetas NFC (o códigos QR) que activan o desactivan las apps que quieres utilizar. Por ejemplo podés crear un modo de «concentración» que bloquea"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Fedora 44 #ViernesDeDistros",
+    "link": "https://voidnull.es/instalacion-de-fedora-44-viernesdedistros/",
+    "fecha": "26/06/2026",
+    "contenido": "Hoy, nos enfocaremos en la instalación de Fedora 44, una de las distribuciones más populares y estables dentro del ecosistema GNU/Linux."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Anotación #1",
+    "link": "https://www.xn--jmuoz-qta.es/2026/06/anotacion-1.html",
+    "fecha": "26/06/2026",
+    "contenido": "No hay nada más aburrido que el último claustro de un centro en el que no vas a estar el curso que viene."
+  },
+  {
+    "blog": "",
+    "titulo": "Tutorial de mandolina (afinación)",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/06/26/tutorial-de-mandolina-afinacion/",
+    "fecha": "26/06/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "56K",
+    "titulo": "Por favor disparen al Community Manager",
+    "link": "https://56k.es/fanta/por-favor-disparen-al-community-manager/",
+    "fecha": "26/06/2026",
+    "contenido": "NOTA: Entiéndase de forma irónica lo de disparar a un CM. NO lo hagas en la vida real por favor. Dicen que la obesidad es un problema y así está siendo desde hace años pero en la web. Lo que llamamos «webs» tienen un problema de sobrepeso del que nadie quiere hacerse cargo porque hasta..."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Yo juego Offline – Videojuegos no tragaperras",
+    "link": "https://56k.es/fanta/yo-juego-offline-videojuegos-no-tragaperras/",
+    "fecha": "26/06/2026",
+    "contenido": "Lo de que «yo juego offline» no es del todo cierto pero es 99% cierto. Cada varios años juego al 0AD y al minetest (ahora llamado Luanti) en mis propios servidores pero &#8230; en general yo juego offline. Podría decirte que lo hago porque es más ecológico pero es que realmente lo hago porque a..."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #947",
+    "link": "https://www.fabio.com.ar/9972-links-de-viernes---947",
+    "fecha": "26/06/2026",
+    "contenido": "     Es viernes, listo para descansar?\nLlegamos al viernes vivos, eso es una buena se&ntilde;al (?) o al menos suficiente para que dejen todo de lado por un rato y se vean unos buenos links! Este finde sigue el futbol mundialista, hay F1, F2, F3, qu&eacute; se yo, no existo. Y si te parecen pocos su"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Banda Argentina Estrena Un Nuevo EP | “Renacer Y Ser Libre” Es Lo Nuevo De Torre Firme",
+    "link": "https://www.delotroladometal.com.ar/2026/06/26/renacer-y-ser-libre-es-lo-nuevo-de-torre-firme/",
+    "fecha": "26/06/2026",
+    "contenido": "Ya habíamos tenido la oportunidad de hablar de ellos, pero de todas maneras, volvemos a...\nThe post La Banda Argentina Estrena Un Nuevo EP | “Renacer Y Ser Libre” Es Lo Nuevo De Torre Firme first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Limpiando el VScode de IA y demás basura",
+    "link": "https://chancli.dev/blog/quitando-ia-de-vscode.html",
+    "fecha": "26/06/2026",
+    "contenido": ""
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Grids of Thermometers",
+    "link": "https://cozykis.kisworld.es/analisis-de-grids-of-thermometers/",
+    "fecha": "26/06/2026",
+    "contenido": "No resulta especialmente complejo, pero tiene el nivel de desafío justo para hacerlo interesante. Además, de mucho contenido\nLa entrada Análisis de Grids of Thermometers se publicó primero en CozyKis."
+  },
+  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo emulo el SAIL WAITS en Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2026/06/como-emular-sail-waits-en-ubuntu.html",
@@ -84,6 +168,27 @@
     "contenido": "     Tenemos fr&iacute;o, pero hay ruleta!\nHemos llegado al jueves, los PRODEs fracasan, el trabajo agobia sin terminarse todav&iacute;a, pero tenemos lo que nos hac&iacute;a falta: balas, muchas balas! As&iacute; que a disfrutar de una buena balacera como todos los jueves!\nAhora s&iacute;, Ruleta R"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Silence The Echo: Liberation | Entre El Silencio, El Eco Y La Liberación",
+    "link": "https://www.delotroladometal.com.ar/2026/06/25/entre-el-silencio-el-eco-y-la-liberacion-2/",
+    "fecha": "25/06/2026",
+    "contenido": "(2026 &#8211; Sandwool Records) Entre los discos nuevos de este 2026, posiblemente haya sido uno...\nThe post Silence The Echo: Liberation | Entre El Silencio, El Eco Y La Liberación first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Ética en los negocios, vista desde la dirección de una agencia pequeña",
+    "link": "https://dani.torresburriel.com/etica-en-los-negocios-vista-desde-la-direccion-de-una-agencia-pequena/",
+    "fecha": "25/06/2026",
+    "contenido": "Como he contado alguna vez por aquí, me he puesto a estudiar. En ese camino, me he encontrado con una asignatura de ética empresarial. Y aquí estoy, fascinado con el despliegue teórico-práctico del asunto. De ética en los negocios se habla un montón, pero casi siempre desde dos sitios que a mí no me"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "De jueguitos y juegazos. Por una industria más sostenible",
+    "link": "https://cozykis.kisworld.es/de-jueguitos-y-juegazos-por-una-industria-mas-sostenible/",
+    "fecha": "25/06/2026",
+    "contenido": "Un repaso al estado de la industria y una invitación a abrazar juegos más pequeños\nLa entrada De jueguitos y juegazos. Por una industria más sostenible se publicó primero en CozyKis."
+  },
+  {
     "blog": "La Loica",
     "titulo": "Taller de Fanzine I",
     "link": "https://laloica.noblogs.org/taller-de-fanzine-i/",
@@ -147,6 +252,13 @@
     "contenido": "    \nCada tanto encuentro alg&uacute;n artista copado o que me gusta algo de su trabajo, hace un tiempo di con uno que combina horror con humor en un estilo muy simple y directo que me encanta.\nKarl Kwasny (Monaux) estuvo haciendo estos comics de cuatro cuadros donde todo siempre se va al cuerno, la"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Un Recorrido Histórico Sobre Su Material En Vivo | Mortification En Vivo",
+    "link": "https://www.delotroladometal.com.ar/2026/06/24/mortification-en-vivo/",
+    "fecha": "24/06/2026",
+    "contenido": "&#8220;Let Me Hear Some Noise!&#8221; es el grito de guerra con el que Steve Rowe...\nThe post Un Recorrido Histórico Sobre Su Material En Vivo | Mortification En Vivo first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "AsturGeek V3",
     "titulo": "Me he comprado un Active 2 NFC Premium",
     "link": "https://asturgeek.eu/2026/06/24/me-he-comprado-un-active-2-nfc-premium/",
@@ -159,6 +271,20 @@
     "link": "https://javiersam.uy/2026/06/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-fecha-2.html",
     "fecha": "24/06/2026",
     "contenido": "Ayer se completó la segunda fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 2 rivales de Europa, 2 de la Concacaf y 2 de África. Brasil 3 &#8211; Haití 0 El viernes Brasil se enfrentó a Haití po"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Zoominoes",
+    "link": "https://cozykis.kisworld.es/analisis-de-zoominoes/",
+    "fecha": "24/06/2026",
+    "contenido": "Un tablero, una estrella y millones (no tantos) de animales por combinar para conseguir combos imposibles mientras intentamos ganar\nLa entrada Análisis de Zoominoes se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Cambiando Matrix por Ntfy",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-06-24-usando-ntfy-1/",
+    "fecha": "23/06/2026",
+    "contenido": "Siempre había pensado que los mandatos divinos de Lorenzo eran sagrados, pero parece ser que hay más santos en este humilde planeta e igual de famosos. Y uno de estos santos famosos no es otro que Lázaro, al que sigo desde hace mucho tiempo.\n\nNota\nAhora que lo pienso, hará ya unos 7 años que sigo a "
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -252,6 +378,13 @@
     "contenido": "En el canal de YouTube Pathologic, Jonathan Chaffer resuelve un puzzle por día. En general saca los puzzles de la serie &ldquo;GAPP&rdquo; (genuinely approachable pencil puzzles) del Discord de Cracking The Cryptic, pero a veces hace puzzles enviados por la gente que sigue el canal.\nEn el video de h"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "\"Illusion Of Faith\" Es Lo Nuevo Con La Participación de Sean Peck y Luke Renno | Death Protocol Lanza Nuevo Single",
+    "link": "https://www.delotroladometal.com.ar/2026/06/23/death-protocol-lanza-nuevo-single/",
+    "fecha": "23/06/2026",
+    "contenido": "Es probable que ya los hayas escuchado. Si no es así, déjanos contarte que Death...\nThe post \"Illusion Of Faith\" Es Lo Nuevo Con La Participación de Sean Peck y Luke Renno | Death Protocol Lanza Nuevo Single first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "JDRM",
     "titulo": "Creando páginas estáticas gracias a Codeberg",
     "link": "https://jdrm.info/creando-paginas-estaticas-gracias-a-codeberg.html",
@@ -271,6 +404,20 @@
     "link": "https://empiezaen2023.wordpress.com/2026/06/23/95-madrid/",
     "fecha": "23/06/2026",
     "contenido": "Otra entrada sobre Madrid&#8230; y ya van&#8230; pero me resulta inevitable. Madrid es parte de mi vida, por no decir que es mi vida y gran parte de mi identidad. Soy madrileño convencido, de origen y raza, de esas raras avis que tienen ocho apellidos madrileños y cuyo árbol genealógico se pierde en"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Glimvale : My Mini Overworld",
+    "link": "https://cozykis.kisworld.es/analisis-de-glimvale-my-mini-overworld/",
+    "fecha": "23/06/2026",
+    "contenido": "Además de ser sumamente precioso nos dará la oportunidad de crear la ciudad de fantasía en la que nos gustaría jugar\nLa entrada Análisis de Glimvale : My Mini Overworld se publicó primero en CozyKis."
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Lo bastante bueno",
+    "link": "https://brucknerite.net/2026/06/lo-bastante-bueno.html",
+    "fecha": "22/06/2026",
+    "contenido": "Las imágenes generadas con inteligencia artificial son una plaga que nos invade, insidiosa. Aquellas creadas para un contexto técnico nos ofrecen, sin embargo, una enseñanza respecto de los límites de esta tecnología que no deberíamos ignorar."
   },
   {
     "blog": "El Sueño del Artista Blog",
@@ -336,6 +483,13 @@
     "contenido": "    \nEl otro d&iacute;a notaba que milagrosamente est&aacute;bamos todos pendientes de partidos de f&uacute;tbol totalmente irrelevantes, no porque nos interesara el deporte, no por la copa del mundo... por el PRODE (Quiniela) de la empresa.\nComo casi todos los mundiales lleg&oacute; el momento en q"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Pucará IA-58: Matando En El Nombre De Dios | Thrash Metal Directo Al Mentón",
+    "link": "https://www.delotroladometal.com.ar/2026/06/22/thrash-metal-directo-al-menton/",
+    "fecha": "22/06/2026",
+    "contenido": "(2026 &#8211; Alteración Mental Records) El Thrash Metal de la vieja escuela tiene un capítulo...\nThe post Pucará IA-58: Matando En El Nombre De Dios | Thrash Metal Directo Al Mentón first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Un Diario",
     "titulo": "Privacy Tips",
     "link": "https://thejnx.bearblog.dev/tips-privacy/",
@@ -355,6 +509,13 @@
     "link": "https://labaudric.net/gallery/uncharted",
     "fecha": "22/06/2026",
     "contenido": "      +253 más"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Second Stellar",
+    "link": "https://cozykis.kisworld.es/analisis-de-second-stellar/",
+    "fecha": "22/06/2026",
+    "contenido": "Viaja a través del cosmos en este roguelike de acción que nos invitará a probar combos imposibles para derrotar a malvados jefes\nLa entrada Análisis de Second Stellar se publicó primero en CozyKis."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -413,18 +574,18 @@
     "contenido": "Ayer pasé junto a mi pareja por el cine para ver «Toy Story 5» y efectivamente la película gira alrededor de lo que se llama socialmente «los niños pantalla». Fui a la última sesión de las 22:15 pero no pude evitar lo que viene siendo ya para mi un problema. Hace unos meses lo pasé..."
   },
   {
-    "blog": "56K",
-    "titulo": "FLTube – Youtube en equipos con pocos recursos",
-    "link": "https://56k.es/fanta/fltube-ver-youtube-en-equipos-con-pocos-recursos/",
-    "fecha": "21/06/2026",
-    "contenido": "En realidad lo ideal es no usar youtube pero si por lo que sea has de hacerlo y no quieres entrar desde navegador FLTube es una maravilla. Funciona por debajo con yt-dl pero en si misma la interface es bastante sencilla y permite visualizar los vídeos a diferentes calidades si dispones de mplayer.  "
-  },
-  {
     "blog": "Picando Código",
     "titulo": "Hoy este blog cumple 19 años en línea",
     "link": "https://picandocodigo.net/2026/hoy-este-blog-cumple-19-anos-en-linea/",
     "fecha": "21/06/2026",
     "contenido": "Hoy hace 19 años que nació este blog \"Picando Código\". Para quienes siguen el blog de hace tiempo, seguramente se hayan encontrado algún año con uno de estos posts celebrando el aniversario. Para gente que lee hace poco o por primera vez, acá hay un poco más de historia de cómo surgió este blog: Ace"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Ícaro Junto A Barbarie, Torre Firme Y Santy Pogonza En El Amparo Bar - 20/06/2026 | Una Noche Cargada De Simbolismo",
+    "link": "https://www.delotroladometal.com.ar/2026/06/21/una-noche-cargada-de-simbolismo/",
+    "fecha": "21/06/2026",
+    "contenido": "Día de la bandera en Argentina, día del padre, cumpleaños de Heredia, final (casi) de...\nThe post Ícaro Junto A Barbarie, Torre Firme Y Santy Pogonza En El Amparo Bar - 20/06/2026 | Una Noche Cargada De Simbolismo first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -476,11 +637,11 @@
     "contenido": "Aquí les dejo una nota periodística sobre Luar Na Lubre, muy interesante. https://www.lavozdegalicia.es/noticia/coruna/2026/06/18/luar-na-lubre-celebra-40-anos-publicando-disco-libro/0003_202606H18C5994.htm?fbclid=Iwb21leASi9wRjbGNrBKL2_mV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHop0QDteGYX_"
   },
   {
-    "blog": "56K",
-    "titulo": "Arturo y el algoritmo",
-    "link": "https://56k.es/fanta/arturo-y-el-algoritmo/",
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Celso Alves Nos Revela Detalles De La Banda Y También Sobre Su Nuevo Proyecto | Allos Lanza Nueva Versión De “Millennium Kingdom”",
+    "link": "https://www.delotroladometal.com.ar/2026/06/20/allos-lanza-nueva-version-de-millennium-kingdom/",
     "fecha": "20/06/2026",
-    "contenido": "Arturo y el algoritmo es el nombre con el que se conoce la película en España pero has de saber que el título original es «E noi come stronzi rimanemmo a guardare» (Y nosotros, como gilipollas, nos quedamos mirando). A alguien le pareció mal no poner en España el título traducido y decidió que tenía"
+    "contenido": "Conocimos a Allos por sus excelentes discos. Tanto &#8220;Spiritual Battle&#8221; de 2012 y &#8220;Strong Delusion&#8221;...\nThe post Celso Alves Nos Revela Detalles De La Banda Y También Sobre Su Nuevo Proyecto | Allos Lanza Nueva Versión De “Millennium Kingdom” first appeared on Del Otro Lado Meta"
   },
   {
     "blog": "labaudric",
@@ -490,34 +651,6 @@
     "contenido": "¡Novedades!\nEs como ilusión que informo que me uno a un webring de una bonita iniciativa. El compañero matizeta ha creado un webring &quot;¡Blog!¡Blog!&quot;\nY a día de hoy, me hace ilusión como comentaba.\nEstoy cometido con la causa. Como relataba en una entrada anterior, la del  re estreno, quiero"
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "Publicado Agama 22",
-    "link": "https://victorhckinthefreeworld.com/2026/06/19/publicado-agama-22/",
-    "fecha": "19/06/2026",
-    "contenido": "En esta versión 22 de Agama, el nuevo instalador de openSUSE/SUSE, las novedades se han centrado en pulir la interfaz de usuario, aunque también se ha trabajado en otras áreas."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Pensamientos: Al fin mi blog carga rápido",
-    "link": "https://interlan.ec/blog/2026/06/19/pensamientos-al-fin-mi-blog-carga-rapido/",
-    "fecha": "19/06/2026",
-    "contenido": "Puede que estas declaraciones te parezcan extrañas, pero ha sido una larga lucha por alcanzar la estabilidad de este pequeño blog. Ten en cuenta que administro casi todo de forma personal, es un VPS, asi que si hay algun problema, sin duda alguna es culpa mia, pero si hay una solucion, esta en mis m"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Esto es lo que uso para guardar mis links favoritos",
-    "link": "https://matizeta.com/2026/06/19/esto-es-lo-que-uso-para-guardar-mis-links-favoritos/",
-    "fecha": "19/06/2026",
-    "contenido": "A raíz de la publicación que leí en el blog de Chancli sobre como&#160;gestiona sus links favoritos, me puse a buscar si había escrito yo sobre ello y no encontré nada. Así que hablemos de la herramienta que creé para guardar esos links que deseo conservar, que puede que te sirva a vos también. La ["
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "El último deseo",
-    "link": "https://impermanente.es/2026/06/19/el-ltimo-deseo.html",
-    "fecha": "19/06/2026",
-    "contenido": "Cualquiera que haya leído a Sapkowski o jugado lo suficiente a Dungeons &amp; Dragons conoce el chiste, y conoce el miedo que hay debajo del chiste. El hechizo más poderoso del juego se llama &ldquo;Wish&rdquo; y con él puedes pedir literalmente cualquier cosa. Y es precisamente por eso que todo DM "
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "NotesNook: guarda tus notas en forma segura",
     "link": "https://voidnull.es/notesnook-guarda-tus-notas-en-forma-segura/",
@@ -525,38 +658,17 @@
     "contenido": "App de notas cifradas con privacidad total, sincronización segura y sin rastreo como alternativa libre a servicios privativos."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "¿Qué es y para que sirve Proxmox? [Proxmox #0]",
-    "link": "https://voidnull.es/que-es-y-para-que-sirve-proxmox/",
-    "fecha": "19/06/2026",
-    "contenido": "Proxmox VE, es una plataforma de virtualización de software libre basada en Debian que permite gestionar diferentes tipos de virtualización desde un mismo entorno."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Completamente viernes",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/completamente-viernes.html",
-    "fecha": "19/06/2026",
-    "contenido": "\n  \n    \n  \nHoy me siento casi pletórico: es mi último viernes lectivo. Este curso, que empezó como todos hace nueve meses teniendo que ir cada día más lejos de casa, empieza a acabarse. Y por eso, aunque lleve desde las cinco de la mañana corrigiendo exámenes para acabar cuando antes y dejar las úl"
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendacion de Viernes.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/06/19/recomendacion-de-viernes/",
-    "fecha": "19/06/2026",
-    "contenido": "The Dubliners."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #946",
-    "link": "https://www.fabio.com.ar/9967-links-de-viernes---946",
-    "fecha": "19/06/2026",
-    "contenido": "     Un poco de descanso mental con los Links de Viernes\nEs viernes, aunque no lo creas, pas&oacute; toda una semana sin que te dieras cuenta, apostaste aun sin haber apostado, ese PRODE/Quiniela de tu trabajo, entre tus amigos, provoca el mismo efecto que si hubieses apostado una fortuna en \"Culead"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Android nos tiene de rehenes",
     "link": "https://nachof.blog/posts/2026/android-nos-tiene-de-rehenes/",
     "fecha": "19/06/2026",
     "contenido": "\n ¿Qué vas a hacer, usar iPhone?\n \n\n\nAndroid es una cagada. Claro, sí, al lado de iOS es genial, mucho más abierto (aunque ya no tanto, pero al final sigue siendo más o menos lo mismo: un sistema operativo ultra limitado, en el cual no tenés acceso a tus propios datos si la aplicación no quiere.\nLo "
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Noruega frena la IA en primaria (y tiene su lógica)",
+    "link": "https://dani.torresburriel.com/noruega-veto-ia-primaria/",
+    "fecha": "19/06/2026",
+    "contenido": "Si lees esto ya sabes que me dedico, entre otras cosas, a ayudar a organizaciones a incorporar IA a su forma de trabajar, y antes que eso he estado muchos años trabajando en diseño de experiencia de usuario. Así que cuando he leído que&#160;Noruega acaba de imponer un veto casi total a la IA generat"
   }
 ]
