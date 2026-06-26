@@ -66,45 +66,50 @@
 
 
         <script>
-            // ID de tu colección e instancia
-            const urlAPI =
-                "https://masto.es/api/v1/collections/116771427317007236";
+          const urlAPI = "https://masto.es/api/v1/collections/116771427317007236";
 
-            async function cargarColeccion() {
-                try {
-                    const respuesta = await fetch(urlAPI);
-                    if (!respuesta.ok)
-                        throw new Error("No se pudo obtener la colección");
+          async function cargarColeccion() {
+            try {
+              const respuesta = await fetch(urlAPI);
+              if (!respuesta.ok) throw new Error("No se pudo obtener la colección");
 
-                    const datos = await respuesta.json();
+              const datos = await respuesta.json();
+              const cuentas = datos.accounts;
 
-                    // La API devuelve un objeto con un array de cuentas (accounts)
-                    const cuentas = datos.accounts;
+              let htmloculto = `<h3>${datos.title || "Comunidad ¡Blog!¡Blog! en Mastodon"}</h3><ul>`;
 
-                    let htmloculto = `<h3>${datos.title || "Comunidad ¡Blog!¡Blog! en Mastodon"}</h3><ul>`;
-
-                    cuentas.forEach((cuenta) => {
-                        htmloculto += `
-          <li style="list-style-type:none;";>
-            <img src="${cuenta.avatar}" alt="${cuenta.display_name}" style="width:32px; height:32px; border-radius:50%; vertical-align:middle; margin-right:8px;">
-            <a href="${cuenta.url}" target="_blank" rel="noopener noreferrer">
-              <strong>${cuenta.display_name}</strong> (${cuenta.acct})
-            </a>
-          </li>
-        `;
-                    });
-
-                    htmloculto += "</ul>";
-                    document.getElementById("mi-lista-mastodon").innerHTML =
-                        htmloculto;
-                } catch (error) {
-                    console.error(error);
-                    document.getElementById("mi-lista-mastodon").innerText =
-                        "Error al cargar la lista.";
+              // Filtrar para evitar duplicados por la URL de la cuenta
+              const urlsVistas = new Set();
+              const cuentasUnicas = cuentas.filter(cuenta => {
+                if (urlsVistas.has(cuenta.url)) {
+                  return false; // Si ya existe, se descarta
                 }
-            }
+                urlsVistas.add(cuenta.url);
+                return true; // Si es nueva, se conserva
+              });
 
-            cargarColeccion();
+              // Iterar solo sobre las cuentas únicas
+              cuentasUnicas.forEach(cuenta => {
+                htmloculto += `
+                <li style="list-style-type:none;";>
+                    <img src="${cuenta.avatar}" alt="${cuenta.display_name}" style="width:32px; height:32px; border-radius:50%; vertical-align:middle; margin-right:8px;">
+                    <a href="${cuenta.url}" target="_blank" rel="noopener noreferrer">
+                      <strong>${cuenta.display_name}</strong> (${cuenta.acct})
+                    </a>
+                  </li>
+                `;
+              });
+
+              htmloculto += '</ul>';
+              document.getElementById("mi-lista-mastodon").innerHTML = htmloculto;
+
+            } catch (error) {
+              console.error(error);
+              document.getElementById("mi-lista-mastodon").innerText = "Error al cargar la lista.";
+            }
+          }
+
+          cargarColeccion();
         </script>
 
 </div>
@@ -133,6 +138,7 @@
                        console.error("Error al cargar footer.html:", err),
                    );
            </script>
+
 
 
 
