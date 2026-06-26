@@ -257,3 +257,22 @@ select {
     max-width: 600px; /* Ajusta según el ancho de tus filtros */
     text-align: left;
 }
+
+
+.novedades {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.novedades h3 {
+    font-size: 1.2rem;
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
