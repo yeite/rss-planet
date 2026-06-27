@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 27 Jun 2026 13:07:34 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 19:02:58 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Participando en el webring de blogblog.es sin JavaScript</title>
+<link>https://jorgesanz.net/posts/2026-06-27-participando-en-el-webring-de-blogblog.es-sin-javascript/</link>
+<guid isPermaLink="true">https://jorgesanz.net/posts/2026-06-27-participando-en-el-webring-de-blogblog.es-sin-javascript/</guid>
+<pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
+<category>Spanish on Jorge Sanz</category>
+<description><![CDATA[Tal y como ya comenté a principios de junio, blogblog.es es un directorio de blogs en español impulsado por matizeta. Entre sus características, desde hace unos días, tiene un webring: un anillo de blogs en el que cada miembro enlaza al anterior, al siguiente y a uno aleatorio de la lista. En los no<br><br><strong>Fuente:</strong> Spanish on Jorge Sanz]]></description>
+</item>
 <item>
 <title>AMSpiT lite, el emulador de Amstrad CPC ahora también para GNU/Linux y macOS</title>
 <link>https://malagaoriginal.blogspot.com/2026/07/amspit-lite-el-emulador-de-amstrad-cpc.html</link>
@@ -66,9 +74,9 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Hoy, nos enfocaremos en la instalación de Fedora 44, una de las distribuciones más populares y estables dentro del ecosistema GNU/Linux.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
 </item>
 <item>
-<title>Anotación #1</title>
-<link>https://www.xn--jmuoz-qta.es/2026/06/anotacion-1.html</link>
-<guid isPermaLink="true">https://www.xn--jmuoz-qta.es/2026/06/anotacion-1.html</guid>
+<title>Una de breves #2</title>
+<link>https://www.xn--jmuoz-qta.es/2026/06/una-de-breves-2.html</link>
+<guid isPermaLink="true">https://www.xn--jmuoz-qta.es/2026/06/una-de-breves-2.html</guid>
 <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
 <category>El cuaderno de J. Muñoz</category>
 <description><![CDATA[No hay nada más aburrido que el último claustro de un centro en el que no vas a estar el curso que viene.<br><br><strong>Fuente:</strong> El cuaderno de J. Muñoz]]></description>
@@ -122,28 +130,12 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Si hubiese escrito esto hace una semana, acá pondría que el de la foto es el golero de Cabo Verde Bueno, de alguna manera tenés que ganar partidos para avanzar, y ganar en la final. Pero asumiendo que contamos la definición por penales como algo separado, ¿sería posible ganar un mundial sin ha<br><br><strong>Fuente:</strong> Un blog]]></description>
 </item>
 <item>
-<title>La Banda Argentina Estrena Un Nuevo EP | “Renacer Y Ser Libre” Es Lo Nuevo De Torre Firme</title>
-<link>https://www.delotroladometal.com.ar/2026/06/26/renacer-y-ser-libre-es-lo-nuevo-de-torre-firme/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/06/26/renacer-y-ser-libre-es-lo-nuevo-de-torre-firme/</guid>
-<pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Ya habíamos tenido la oportunidad de hablar de ellos, pero de todas maneras, volvemos a... The post La Banda Argentina Estrena Un Nuevo EP | “Renacer Y Ser Libre” Es Lo Nuevo De Torre Firme first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
 <title>Limpiando el VScode de IA y demás basura</title>
 <link>https://chancli.dev/blog/quitando-ia-de-vscode.html</link>
 <guid isPermaLink="true">https://chancli.dev/blog/quitando-ia-de-vscode.html</guid>
 <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
 <category>Chancli.dev</category>
 <description><![CDATA[<br><br><strong>Fuente:</strong> Chancli.dev]]></description>
-</item>
-<item>
-<title>Análisis de Grids of Thermometers</title>
-<link>https://cozykis.kisworld.es/analisis-de-grids-of-thermometers/</link>
-<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-grids-of-thermometers/</guid>
-<pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-<category>CozyKis</category>
-<description><![CDATA[No resulta especialmente complejo, pero tiene el nivel de desafío justo para hacerlo interesante. Además, de mucho contenido La entrada Análisis de Grids of Thermometers se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
 </item>
 <item>
 <title>¿Cómo emulo el SAIL WAITS en Ubuntu?</title>
@@ -208,6 +200,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
 <category>La Madre Que Parió Al Pato Negro</category>
 <description><![CDATA[&amp;nbsp; &amp;nbsp; Se dice que la Noche de San Juan es un escenario propicio para cerrar ciclos, desprenderse de las energías negativas y afrontar nuevos comienzos. Sin embargo, el loco no es santo ni se llama Juan. De hecho, los amigos más cercanos desconocemos su nombre. Lo que sabemos es que es un pec<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
+</item>
+<item>
+<title>Novedades fanzineras</title>
+<link>https://www.ericafustero.com/2026-06-novedades-fanzineras</link>
+<guid isPermaLink="true">https://www.ericafustero.com/2026-06-novedades-fanzineras</guid>
+<pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+<category>Erica Fustero</category>
+<description><![CDATA[Este sábado 27 de junio estaré participando en el VIII Festival de fanzines de Zaragoza, un evento organizado por la librería El Armadillo Ilustrado y la revista Adoquín con un montón de actividades (y aire acondicionado, importante) que este año se celebra en el Centro Cívico Delicias. Me encontrar<br><br><strong>Fuente:</strong> Erica Fustero]]></description>
 </item>
 <item>
 <title>humans.txt</title>
