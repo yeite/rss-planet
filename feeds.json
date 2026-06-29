@@ -1,10 +1,17 @@
 [
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "¿Es posible actualmente tener un blog anónimo? Si",
-    "link": "https://gatooscuro.xyz/es-posible-actualmente-tener-un-blog-anonimo-si/",
+    "blog": "Manu Mateos",
+    "titulo": "Semana 26/2026",
+    "link": "https://www.macram.es/posts/2026/06/semana-26-2026/",
     "fecha": "28/06/2026",
-    "contenido": "En este espacio siempre se ha escrito de forma existencialista respecto al futuro de Internet. Quizás algunos puedan pensar que roza un poco el fatalismo o, por el contrario, otros\nSeguir leyendo  ¿Es posible actualmente tener un blog anónimo? Si\nEl cargo ¿Es posible actualmente tener un blog anónim"
+    "contenido": "Está siendo un domingo bastante relajado para dar fin a una semana que, en general, ha sido también bastante relajada. Estoy teniendo la posibilidad de cerrar algunos de los frentes que tenía abiertos y esto me está haciendo bastante bien a nivel mental.\nTengo de fondo el primer episodio de una seri"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Fuera de la caja... hay otra caja",
+    "link": "https://impermanente.es/2026/06/28/fuera-de-la-caja-hay.html",
+    "fecha": "28/06/2026",
+    "contenido": "Leor Zmigrod, que ha escrito un libro titulado The Ideological Brain, lleva años midiendo algo que en apariencia no tiene nada que ver con la política: la rigidez cognitiva. La mide con experimentos de laboratorio como el pedirle a personas que clasifiquen cartas según ciertas reglas&hellip; y luego"
   },
   {
     "blog": "JavierSam",
@@ -12,13 +19,6 @@
     "link": "https://javiersam.uy/2026/06/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-fecha-3.html",
     "fecha": "28/06/2026",
     "contenido": "Ayer se completó la tercera y última fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 4 rivales de Europa y 2 de Asia (porque Australia participa de la eliminatoria asiática). Brasil 3 &#8211; Es"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Blast Head",
-    "link": "https://cozykis.kisworld.es/analisis-de-blast-head/",
-    "fecha": "28/06/2026",
-    "contenido": "Blast Head es un survivorlike lleno de humor que resulta muy divertido de jugar. Empezamos con un diseño de personaje bastante característico, y es que tiene la cabeza totalmente cuadrada. Al principio solo tendremos esta skin, pero según avancemos en nuestras partidas, desbloquearemos más y podremo"
   },
   {
     "blog": "Victorhck in the free world",
@@ -133,13 +133,6 @@
     "contenido": ""
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Grids of Thermometers",
-    "link": "https://cozykis.kisworld.es/analisis-de-grids-of-thermometers/",
-    "fecha": "26/06/2026",
-    "contenido": "No resulta especialmente complejo, pero tiene el nivel de desafío justo para hacerlo interesante. Además, de mucho contenido\nLa entrada Análisis de Grids of Thermometers se publicó primero en CozyKis."
-  },
-  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo emulo el SAIL WAITS en Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2026/06/como-emular-sail-waits-en-ubuntu.html",
@@ -173,13 +166,6 @@
     "link": "https://pedrolr.es/blog/lo-libre-llama-a-lo-libre-de-nuevo-dspace-invenio-software-de-repositorios-institucionales-y-rss/",
     "fecha": "25/06/2026",
     "contenido": "En el contexto de la información académica y científica, diría que todas las universidades tienen o tienden a tener un repositorio institucional. En este, se van depositando Trabajos Fin de Grado, de Máster, Documentos del personal de las universidades, preprints, papers, etc. De hecho, la políticas"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Verano 2026",
-    "link": "https://mareosdeungeek.es/verano-2026/",
-    "fecha": "25/06/2026",
-    "contenido": "El pasado domingo empezó el verano boreal, disfrutando del día más largo del año. La verdad es que estuve descansando porque ha sido un mes de junio bastante intenso. Lamentablemente, al empezar a trabajar he tenido que aparcar parte de los proyectos que tenía en marcha. Además he tenido varios even"
   },
   {
     "blog": "matizeta",
@@ -224,13 +210,6 @@
     "contenido": "     Tenemos fr&iacute;o, pero hay ruleta!\nHemos llegado al jueves, los PRODEs fracasan, el trabajo agobia sin terminarse todav&iacute;a, pero tenemos lo que nos hac&iacute;a falta: balas, muchas balas! As&iacute; que a disfrutar de una buena balacera como todos los jueves!\nAhora s&iacute;, Ruleta R"
   },
   {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Ética en los negocios, vista desde la dirección de una agencia pequeña",
-    "link": "https://dani.torresburriel.com/etica-en-los-negocios-vista-desde-la-direccion-de-una-agencia-pequena/",
-    "fecha": "25/06/2026",
-    "contenido": "Como he contado alguna vez por aquí, me he puesto a estudiar. En ese camino, me he encontrado con una asignatura de ética empresarial. Y aquí estoy, fascinado con el despliegue teórico-práctico del asunto. De ética en los negocios se habla un montón, pero casi siempre desde dos sitios que a mí no me"
-  },
-  {
     "blog": "labaudric",
     "titulo": "Batman Lobo",
     "link": "https://labaudric.net/blog/lobobatman",
@@ -238,25 +217,11 @@
     "contenido": "Soy fan de lobo desde hace muchos años. Aún recuerdo estar en el liceo con mis compis intercambiando números. Que la paga semanal no nos daba para todos los fascículos. Pero entre tres o cuatro personas, teníamos prácticamente todos los números de la época. En aquel día, los llevaba las ediciones Zi"
   },
   {
-    "blog": "CozyKis",
-    "titulo": "De jueguitos y juegazos. Por una industria más sostenible",
-    "link": "https://cozykis.kisworld.es/de-jueguitos-y-juegazos-por-una-industria-mas-sostenible/",
-    "fecha": "25/06/2026",
-    "contenido": "Un repaso al estado de la industria y una invitación a abrazar juegos más pequeños\nLa entrada De jueguitos y juegazos. Por una industria más sostenible se publicó primero en CozyKis."
-  },
-  {
     "blog": "La Loica",
     "titulo": "Taller de Fanzine I",
     "link": "https://laloica.noblogs.org/taller-de-fanzine-i/",
     "fecha": "24/06/2026",
     "contenido": "Hoy comencé este taller donde muestro el proceso creativo que realizó cuando diseño un fanzine, en este primer directo mostré como es que realizo moldes para distintas estructuras de fanzine con una sola hoja. Si no viste el directo en mi canal de twitch o peertube, aquí te dejo los dos links de la "
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Gladiator II",
-    "link": "https://mareosdeungeek.es/gladiator-ii/",
-    "fecha": "24/06/2026",
-    "contenido": "Gladiator II llegó rodeada de polémica y críticas. Está claro que Gladiator es una de las mejores películas dirigidas por Ridley Scott y su secuela tenía que estar a la altura. Como ya pasa en la primera parte nos encontramos una película donde prima la acción frente a cualquier exactitud histórica."
   },
   {
     "blog": "matizeta",
@@ -320,13 +285,6 @@
     "link": "https://javiersam.uy/2026/06/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-fecha-2.html",
     "fecha": "24/06/2026",
     "contenido": "Ayer se completó la segunda fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 2 rivales de Europa, 2 de la Concacaf y 2 de África. Brasil 3 &#8211; Haití 0 El viernes Brasil se enfrentó a Haití po"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Zoominoes",
-    "link": "https://cozykis.kisworld.es/analisis-de-zoominoes/",
-    "fecha": "24/06/2026",
-    "contenido": "Un tablero, una estrella y millones (no tantos) de animales por combinar para conseguir combos imposibles mientras intentamos ganar\nLa entrada Análisis de Zoominoes se publicó primero en CozyKis."
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -448,25 +406,11 @@
     "contenido": "Otra entrada sobre Madrid&#8230; y ya van&#8230; pero me resulta inevitable. Madrid es parte de mi vida, por no decir que es mi vida y gran parte de mi identidad. Soy madrileño convencido, de origen y raza, de esas raras avis que tienen ocho apellidos madrileños y cuyo árbol genealógico se pierde en"
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Glimvale : My Mini Overworld",
-    "link": "https://cozykis.kisworld.es/analisis-de-glimvale-my-mini-overworld/",
-    "fecha": "23/06/2026",
-    "contenido": "Además de ser sumamente precioso nos dará la oportunidad de crear la ciudad de fantasía en la que nos gustaría jugar\nLa entrada Análisis de Glimvale : My Mini Overworld se publicó primero en CozyKis."
-  },
-  {
     "blog": "El Sueño del Artista Blog",
     "titulo": "La figura del padre en el arte .",
     "link": "https://polotman.wordpress.com/2026/06/22/la-figura-del-padre-en-el-arte/",
     "fecha": "22/06/2026",
     "contenido": "“ Padre no es el que fecunda , sino el que cría “ . Es una de las tantas frases relacionadas con la responsabilidad paternal , aunque la frase o el refrán en si mismo, describe una de las características en las que la figura masculina tristemente se ha caracterizado, en no hacerse responsable de [&#"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "La característica más importante de una aplicación de mensajería es la que casi nadie lee",
-    "link": "https://gatooscuro.xyz/la-caracteristica-mas-importante-de-una-aplicacion-de-mensajeria-es-la-que-casi-nadie-lee/",
-    "fecha": "22/06/2026",
-    "contenido": "Dentro de las comunidades de privacidad existe una discusión que parece repetirse cada pocos meses. Aparece una nueva aplicación de mensajería, algún usuario influyente la recomienda, se analizan sus protocolos\nSeguir leyendo  La característica más importante de una aplicación de mensajería es la qu"
   },
   {
     "blog": "Galerías Preciados",
@@ -525,45 +469,10 @@
     "contenido": "Spanish\n\nWhenever possible, use operating systems with little or no bloatware—those junk apps added by manufacturers that only serve to track you and drain your device’s resources. For PCs, there’s Linux (it depends on the distro; I recommend doing some research before installing) and for Android, I"
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "links",
-    "link": "https://salvamir.github.io/links",
-    "fecha": "22/06/2026",
-    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
-  },
-  {
     "blog": "labaudric",
     "titulo": "audric subió 259 imágenes en Uncharted, Tomb Raider",
     "link": "https://labaudric.net/gallery/uncharted",
     "fecha": "22/06/2026",
     "contenido": "      +253 más"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Second Stellar",
-    "link": "https://cozykis.kisworld.es/analisis-de-second-stellar/",
-    "fecha": "22/06/2026",
-    "contenido": "Viaja a través del cosmos en este roguelike de acción que nos invitará a probar combos imposibles para derrotar a malvados jefes\nLa entrada Análisis de Second Stellar se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "El ángulo del horror",
-    "link": "https://guillermolatorre.com/libros/el-angulo-del-horror",
-    "fecha": "21/06/2026",
-    "contenido": "Fecha de lectura: 22/06/2026.Autor/a: Cristina Fern&aacute;ndez Cubas.Categoría: Ficción.Número de páginas: 168.Mi valoración: ★★★★☆Me ha sorprendido la lectura de este libro, son cuatro cuentos de terror, digamos, cotidiano. Más que terror transmiten incomodidad, sensaciones extrañas respecto a lo "
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Reseña de Imperio de Rueda",
-    "link": "http://frikoteca.blogspot.com/2026/06/resena-de-imperio-de-rueda.html",
-    "fecha": "21/06/2026",
-    "contenido": "Imperio de Rueda es un entorno de campaña completo para el juego Mythras, publicado por la editorial Con Pluma y Píxel en 2022, a través de una campaña de mecenazgo en Verkami. El autor del libro es Juan Miguel Sueiro, y el ilustrador de la portada y de todas las ilustraciones interiores es Huargo, "
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Hoy este blog cumple 19 años en línea",
-    "link": "https://picandocodigo.net/2026/hoy-este-blog-cumple-19-anos-en-linea/",
-    "fecha": "21/06/2026",
-    "contenido": "Hoy hace 19 años que nació este blog \"Picando Código\". Para quienes siguen el blog de hace tiempo, seguramente se hayan encontrado algún año con uno de estos posts celebrando el aniversario. Para gente que lee hace poco o por primera vez, acá hay un poco más de historia de cómo surgió este blog: Ace"
   }
 ]
