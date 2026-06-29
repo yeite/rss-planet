@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 29 Jun 2026 02:29:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 10:20:03 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,20 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
-<title>¿Es posible actualmente tener un blog anónimo? Si</title>
-<link>https://gatooscuro.xyz/es-posible-actualmente-tener-un-blog-anonimo-si/</link>
-<guid isPermaLink="true">https://gatooscuro.xyz/es-posible-actualmente-tener-un-blog-anonimo-si/</guid>
+<title>Semana 26/2026</title>
+<link>https://www.macram.es/posts/2026/06/semana-26-2026/</link>
+<guid isPermaLink="true">https://www.macram.es/posts/2026/06/semana-26-2026/</guid>
 <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
-<category>El cuarto de GatoOscuro</category>
-<description><![CDATA[En este espacio siempre se ha escrito de forma existencialista respecto al futuro de Internet. Quizás algunos puedan pensar que roza un poco el fatalismo o, por el contrario, otros Seguir leyendo ¿Es posible actualmente tener un blog anónimo? Si El cargo ¿Es posible actualmente tener un blog anónim<br><br><strong>Fuente:</strong> El cuarto de GatoOscuro]]></description>
+<category>Manu Mateos</category>
+<description><![CDATA[Está siendo un domingo bastante relajado para dar fin a una semana que, en general, ha sido también bastante relajada. Estoy teniendo la posibilidad de cerrar algunos de los frentes que tenía abiertos y esto me está haciendo bastante bien a nivel mental. Tengo de fondo el primer episodio de una seri<br><br><strong>Fuente:</strong> Manu Mateos]]></description>
+</item>
+<item>
+<title>Fuera de la caja... hay otra caja</title>
+<link>https://impermanente.es/2026/06/28/fuera-de-la-caja-hay.html</link>
+<guid isPermaLink="true">https://impermanente.es/2026/06/28/fuera-de-la-caja-hay.html</guid>
+<pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
+<category>impermanente</category>
+<description><![CDATA[Leor Zmigrod, que ha escrito un libro titulado The Ideological Brain, lleva años midiendo algo que en apariencia no tiene nada que ver con la política: la rigidez cognitiva. La mide con experimentos de laboratorio como el pedirle a personas que clasifiquen cartas según ciertas reglas&amp;hellip; y luego<br><br><strong>Fuente:</strong> impermanente]]></description>
 </item>
 <item>
 <title>Los sudamericanos en el mundial de fútbol de Norteamérica (fecha 3)</title>
@@ -32,14 +40,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
 <category>JavierSam</category>
 <description><![CDATA[Ayer se completó la tercera y última fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 4 rivales de Europa y 2 de Asia (porque Australia participa de la eliminatoria asiática). Brasil 3 &amp;#8211; Es<br><br><strong>Fuente:</strong> JavierSam]]></description>
-</item>
-<item>
-<title>Análisis de Blast Head</title>
-<link>https://cozykis.kisworld.es/analisis-de-blast-head/</link>
-<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-blast-head/</guid>
-<pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
-<category>CozyKis</category>
-<description><![CDATA[Blast Head es un survivorlike lleno de humor que resulta muy divertido de jugar. Empezamos con un diseño de personaje bastante característico, y es que tiene la cabeza totalmente cuadrada. Al principio solo tendremos esta skin, pero según avancemos en nuestras partidas, desbloquearemos más y podremo<br><br><strong>Fuente:</strong> CozyKis]]></description>
 </item>
 <item>
 <title>#openSUSE Tumbleweed revisión de las semanas 25 y 26 de 2026</title>
@@ -170,14 +170,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[<br><br><strong>Fuente:</strong> Chancli.dev]]></description>
 </item>
 <item>
-<title>Análisis de Grids of Thermometers</title>
-<link>https://cozykis.kisworld.es/analisis-de-grids-of-thermometers/</link>
-<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-grids-of-thermometers/</guid>
-<pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-<category>CozyKis</category>
-<description><![CDATA[No resulta especialmente complejo, pero tiene el nivel de desafío justo para hacerlo interesante. Además, de mucho contenido La entrada Análisis de Grids of Thermometers se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
-</item>
-<item>
 <title>¿Cómo emulo el SAIL WAITS en Ubuntu?</title>
 <link>https://ubuntuperonista.blogspot.com/2026/06/como-emular-sail-waits-en-ubuntu.html</link>
 <guid isPermaLink="true">https://ubuntuperonista.blogspot.com/2026/06/como-emular-sail-waits-en-ubuntu.html</guid>
@@ -216,6 +208,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
 <category>pedrolr blog</category>
 <description><![CDATA[En el contexto de la información académica y científica, diría que todas las universidades tienen o tienden a tener un repositorio institucional. En este, se van depositando Trabajos Fin de Grado, de Máster, Documentos del personal de las universidades, preprints, papers, etc. De hecho, la políticas<br><br><strong>Fuente:</strong> pedrolr blog]]></description>
+</item>
+<item>
+<title>Listed</title>
+<link>https://matizeta.com/2026/06/25/listed/</link>
+<guid isPermaLink="true">https://matizeta.com/2026/06/25/listed/</guid>
+<pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+<category>matizeta</category>
+<description><![CDATA[Listed es una plataforma gratuita para tener tu blog. Este funciona con el bloc de notas gratuito Standard Notes (que pertenece a la compañía Proton). Lo que publicas ahí fácilmente, mediante un botón, lo puedes subir a tu blog en Listed.&amp;#160; Permite crear secciones en tu blog, libro de visitas, r<br><br><strong>Fuente:</strong> matizeta]]></description>
 </item>
 
 </channel>
