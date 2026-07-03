@@ -1,5 +1,89 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "RetroMultiInstaller + github: número de la última versión para tu script de instalación",
+    "link": "https://malagaoriginal.blogspot.com/2026/07/retromultiinstaller-github-averiguar-el.html",
+    "fecha": "03/07/2026",
+    "contenido": "Un problema recurrente que me he encontrado con github es que cada vez que sale una nueva versión en un programa que usa el sistema de repositorios de github cambia la URL y por tanto deja de funcionar el script.Durante algún tiempo he hecho la ñapa de definir una variable \"version\" para solo tener "
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "La joven de las naranjas",
+    "link": "https://guillermolatorre.com/libros/la-joven-de-las-naranjas",
+    "fecha": "03/07/2026",
+    "contenido": "Fecha de lectura: 29/06/2026.Autor/a: Jostein Gaarder.Categoría: Ficción.Número de páginas: 168.Mi valoración: ★★★★★Escuché la recomendación de este libro en la entrevista a Javier D&iacute;az-Gim&eacute;nez en Kapital. Me ha gustado mucho y ya lo estoy recomendando en mi círculo, especialmente a am"
+  },
+  {
+    "blog": "productor de sostenibilidad",
+    "titulo": "El mundial de fútbol más insostenible",
+    "link": "https://productordesostenibilidad.es/2026/07/el-mundial-de-futbol-mas-insostenible/",
+    "fecha": "03/07/2026",
+    "contenido": "El de fútbol de 2026 ha conseguido por méritos propios coronarse como el mundial más contaminante de la historia. Centrándonos en las emisiones de gases de efecto invernadero, el informe “FIFA’s Climate Blind Spot: The Men’s World Cup in a Warming World” estima que el campeonato celebrado en Norte A"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Conduir a Suècia: tot el que m'hauria agradat saber abans de rebre tres multes",
+    "link": "https://blog.danielaragay.net/conduir-a-suecia-tot-el-que-mhauria-agradat-saber-abans-de-rebre-tres-multes/",
+    "fecha": "03/07/2026",
+    "contenido": "He viscut 16 anys a Su&#xe8;cia. He rebut tres multes de tr&#xe0;nsit. Cap de les tres &#xe9;s per conduir malament.Enlla&#xe7; de podcast: https://podcast.danielaragay.net/@fentelsuec/episodes/conduir-a-suecia-les-tres-multes-que-em-van-costar-mes-que-un-curs-de-"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de PegaProx en Proxmox",
+    "link": "https://voidnull.es/instalacion-de-pegaprox-en-proxmox/",
+    "fecha": "03/07/2026",
+    "contenido": "En esta guía veremos cómo desplegarlo, configurarlo y dejarlo listo para gestionar y publicar servicios dentro de tu entorno virtualizado."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Cactus (III)",
+    "link": "https://www.xn--jmuoz-qta.es/2026/07/cactus-iii.html",
+    "fecha": "03/07/2026",
+    "contenido": "\n  \n    \n  \nMi cactus favorito ha estrenado el mes de julio con esta asombrosa floración. Seis flores, teniendo en cuenta su pequeño tamaño, me parece una pasada.Por cierto, la variedad de cactus es echinopsis."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Calafou – Viaje a una colonia postcapitalista",
+    "link": "https://56k.es/fanta/calafou-viaje-a-una-colonia-ecoindustrial-postcapitalista/",
+    "fecha": "03/07/2026",
+    "contenido": "Pude asistir al HT 11 en Calafou (un día) y quería compartir con usted querido lector/a/e lo fascinante que encontré aquello. Me hubiera gustado quedarme más y ver/escuchar a otra gente pero no me quedó otra que hacer el viaje relámpago. Aún así el poco tiempo que pasé creo que me cundió porque nos "
+  },
+  {
+    "blog": "56K",
+    "titulo": "Stamps Back – La demoscene en Hungría",
+    "link": "https://56k.es/fanta/stamps-back/",
+    "fecha": "03/07/2026",
+    "contenido": "El pueblo manda, la máquina obedece :). En este caso «eso es asín» porque vengo a hablar de los años dorados de la demoscene en &#8230;. Hungría. En este documental llamado «Stamps Back» se narra la historia del nacimiento de la scene de los ordenadores domésticos húngaros en los años 80 tras el Tel"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #948",
+    "link": "https://www.fabio.com.ar/9977-links-de-viernes---948",
+    "fecha": "03/07/2026",
+    "contenido": "     Necesit&aacute;s un poco de calor y descanso, hay links!\n\nHemos llegado al viernes, d&iacute;a de partido as&iacute; que para las siete de la tarde nadie va a existir, despu&eacute;s veremos 😅 y sabiendo eso, porque no puedo predecir el futuro, me preparo con una buena dosis de enlaces que te p"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Nuevo comando Git: git history fixup",
+    "link": "https://picandocodigo.net/2026/nuevo-comando-git-history-fixup/",
+    "fecha": "03/07/2026",
+    "contenido": "En git v2.54 se agregó el comando experimental git history, con la posibilidad de cambiar el mensaje de un commit y separar commits. En la versión 2.55 se agregó otro comando a git history, fixup. Esto es algo que vengo queriendo en git desde hace años. De hecho pregunté una vez en lo que solía ser "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Se Devela También La Lista De Temas Y El Nuevo Video Clip | El Nuevo Álbum De Stryper Se Llama “Throne Of Thorns”",
+    "link": "https://www.delotroladometal.com.ar/2026/07/03/el-nuevo-album-de-stryper-se-llama-throne-of-thorns/",
+    "fecha": "03/07/2026",
+    "contenido": "Hoy, los legendarios pioneros del Metal Cristiano Stryper regresan con un nuevo y imponente capítulo...\nThe post Se Devela También La Lista De Temas Y El Nuevo Video Clip | El Nuevo Álbum De Stryper Se Llama “Throne Of Thorns” first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Fortune Fragments",
+    "link": "https://cozykis.kisworld.es/analisis-de-fortune-fragments/",
+    "fecha": "03/07/2026",
+    "contenido": "Una novela visual en la que se mezcla una historia interesante con puzles que cambiarán el curso de la historia\nLa entrada Análisis de Fortune Fragments se publicó primero en CozyKis."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "Texto a voz y GNU/Linux en 2026",
     "link": "https://adrianperales.com/2026/07/texto-a-voz-y-gnu-linux-en-2026/",
@@ -33,6 +117,13 @@
     "link": "https://blog.luiscarlospando.com/gaming/2026/07/sobre-el-anuncio-de-sony-y-la-muerte-del-formato-fisico/",
     "fecha": "02/07/2026",
     "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "Supergirl",
+    "link": "https://www.macram.es/peliculas/supergirl/",
+    "fecha": "02/07/2026",
+    "contenido": "Voy poco al cine. Pero cuando voy, la verdad es que creo que termino siempre en películas que me gustan. Y Supergirl ha sido una de ellas. Sin ser yo una persona muy de superhéroes, nada conocedora del universo DC, he disfrutado esta película.\nUn universo del que quiero saber más, una muchacha dando"
   },
   {
     "blog": "Manu Mateos",
@@ -117,13 +208,6 @@
     "link": "https://blog.thalskarth.ar/cambie-de-teclado/",
     "fecha": "01/07/2026",
     "contenido": "Sí, se que parece algo mundano que seguro a otros les trae sin cuidado. Pero desde 2013 solo he usado 2 teclados. El MK520 en mi PC de escritorio y el MK345 en la PC del trabajo, ambos de Logitech. Es más de una década, lo cual por un lado habla de la buena calidad de esos aparatos y por el otro, ma"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "En dos meses John Ternus será el nuevo CEO de Apple",
-    "link": "https://mareosdeungeek.es/en-dos-meses-john-ternus-sera-el-nuevo-ceo-de-apple/",
-    "fecha": "01/07/2026",
-    "contenido": "El próximo 1 de septiembre John Ternus asumirá el cargo de CEO en Apple. La compañía de Cupertino es una de las más rentables del mundo, pero tiene un futuro repleto de retos. El anuncio de este cambio se hizo en abril, cuando la compañía de la manzana celebraba sus 50 años. Con el ascenso [&#8230;]"
   },
   {
     "blog": "Manu Mateos",
@@ -329,13 +413,6 @@
     "contenido": "¿Qué es la riqueza? Si le hiciéramos esa pregunta a personas del común con seguridad recibiríamos respuestas muy vagas del tipo: «es tener mucha plata», o respuestas muy específicas del [&#8230;]\nLa entrada La riqueza es lo que queda se publicó primero en Jinversor."
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Dame soluciones, no problemas",
-    "link": "https://gatooscuro.xyz/dame-soluciones-no-problemas/",
-    "fecha": "29/06/2026",
-    "contenido": "Nota: No tengo la respuesta a todo; por ende, me puse creativo con este artículo basado en mi experiencia. Todo lo que lees acá fue hecho de forma local (sin\nSeguir leyendo  Dame soluciones, no problemas\nEl cargo Dame soluciones, no problemas apareció primero en El cuarto de GatoOscuro."
-  },
-  {
     "blog": "alt43",
     "titulo": "Bizum Pay: arquitectura, seguridad y privacidad",
     "link": "https://alt43.es/bizum-pay-arquitectura-seguridad-y-privacidad/",
@@ -427,18 +504,18 @@
     "contenido": ""
   },
   {
+    "blog": "El blog de Lázaro",
+    "titulo": "Plantillas y metadatos en Trilium",
+    "link": "https://elblogdelazaro.org/trilium-plantillas-metadatos-notas-reutilizables/",
+    "fecha": "29/06/2026",
+    "contenido": "Por: Carlos M.Publicado el 29 de junio de 2026Cómo usar plantillas y metadatos en Trilium para que cada nota nazca con la estructura adecuada y no tengas que empezar desde cero.Continuar leyendo →#Homelab #Trilium "
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Análisis de Moldwasher",
     "link": "https://cozykis.kisworld.es/analisis-de-moldwasher/",
     "fecha": "29/06/2026",
     "contenido": "Acompaña a este simpático trozo de sushi en su aventura contra el moho en una gran variedad de escenarios y sorpresas\nLa entrada Análisis de Moldwasher se publicó primero en CozyKis."
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "¿Es posible actualmente tener un blog anónimo? Si",
-    "link": "https://gatooscuro.xyz/es-posible-actualmente-tener-un-blog-anonimo-si/",
-    "fecha": "28/06/2026",
-    "contenido": "En este espacio siempre se ha escrito de forma existencialista respecto al futuro de Internet. Quizás algunos puedan pensar que roza un poco el fatalismo o, por el contrario, otros\nSeguir leyendo  ¿Es posible actualmente tener un blog anónimo? Si\nEl cargo ¿Es posible actualmente tener un blog anónim"
   },
   {
     "blog": "Manu Mateos",
@@ -504,25 +581,11 @@
     "contenido": ""
   },
   {
-    "blog": "Malagueños originales y libres",
-    "titulo": "AMSpiT lite, el emulador de Amstrad CPC ahora también para GNU/Linux y macOS",
-    "link": "https://malagaoriginal.blogspot.com/2026/07/amspit-lite-el-emulador-de-amstrad-cpc.html",
-    "fecha": "26/06/2026",
-    "contenido": "AMSpiriT es un emulador para sistemas Windows, pero su creador ha lanzado estos días una versión especial para GNU/Linux y MacOS llamada AMSpiriT lite.&nbsp;Este emulador incluye herramientas para el desarrollo, extracción e incrustación de programas hechos en Locomotive Basic, el potente intérprete"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Articulo: Ellos tienen tanto miedo de morir como tu",
     "link": "https://interlan.ec/blog/2026/06/26/articulo-ellos-tienen-tanto-miedo-de-morir-como-tu/",
     "fecha": "26/06/2026",
     "contenido": "Del trueque de piedras al Software como Servicio (SaaS). Un análisis pragmático sobre cómo el miedo a la quiebra obliga a las empresas a inventar formas de cobrarnos para siempre."
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Foqos",
-    "link": "https://matizeta.com/2026/06/26/foqos/",
-    "fecha": "26/06/2026",
-    "contenido": "Foqos es una aplicación 100% gratuita y de código abierto para iPhone que permite limitar tu adicción al móvil. ¿Cómo funciona? A través de la app y con etiquetas NFC (o códigos QR) que activan o desactivan las apps que quieres utilizar. Por ejemplo podés crear un modo de «concentración» que bloquea"
   },
   {
     "blog": "_ voidNull",
@@ -532,27 +595,6 @@
     "contenido": "App para buscar, guardar y compartir letras de canciones en Android con una interfaz moderna y soporte para letras sincronizadas."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Fedora 44 #ViernesDeDistros",
-    "link": "https://voidnull.es/instalacion-de-fedora-44-viernesdedistros/",
-    "fecha": "26/06/2026",
-    "contenido": "Hoy, nos enfocaremos en la instalación de Fedora 44, una de las distribuciones más populares y estables dentro del ecosistema GNU/Linux."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Una de breves #2",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/una-de-breves-2.html",
-    "fecha": "26/06/2026",
-    "contenido": "No hay nada más aburrido que el último claustro de un centro en el que no vas a estar el curso que viene."
-  },
-  {
-    "blog": "",
-    "titulo": "Tutorial de mandolina (afinación)",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/06/26/tutorial-de-mandolina-afinacion/",
-    "fecha": "26/06/2026",
-    "contenido": ""
-  },
-  {
     "blog": "La Frikoteca",
     "titulo": "Mi visita anual a la Feria del Libro",
     "link": "http://frikoteca.blogspot.com/2026/06/mi-visita-anual-la-feria-del-libro.html",
@@ -560,45 +602,10 @@
     "contenido": "Me he fijado en que este año no he escrito una crónica sobre mi visita a la Feria del Libro de Madrid. Lo cierto es que ha sido una feria atípica para mí, porque en el fin de semana que me habría venido mejor ir hemos tenido la visita del Papa, y decidimos como familia evitar visitar el centro. Y en"
   },
   {
-    "blog": "56K",
-    "titulo": "Por favor disparen al Community Manager",
-    "link": "https://56k.es/fanta/por-favor-disparen-al-community-manager/",
-    "fecha": "26/06/2026",
-    "contenido": "NOTA: Entiéndase de forma irónica lo de disparar a un CM. NO lo hagas en la vida real por favor. Dicen que la obesidad es un problema y así está siendo desde hace años pero en la web. Lo que llamamos «webs» tienen un problema de sobrepeso del que nadie quiere hacerse cargo porque hasta..."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Yo juego Offline – Videojuegos no tragaperras",
-    "link": "https://56k.es/fanta/yo-juego-offline-videojuegos-no-tragaperras/",
-    "fecha": "26/06/2026",
-    "contenido": "Lo de que «yo juego offline» no es del todo cierto pero es 99% cierto. Cada varios años juego al 0AD y al minetest (ahora llamado Luanti) en mis propios servidores pero &#8230; en general yo juego offline. Podría decirte que lo hago porque es más ecológico pero es que realmente lo hago porque a..."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #947",
-    "link": "https://www.fabio.com.ar/9972-links-de-viernes---947",
-    "fecha": "26/06/2026",
-    "contenido": "     Es viernes, listo para descansar?\nLlegamos al viernes vivos, eso es una buena se&ntilde;al (?) o al menos suficiente para que dejen todo de lado por un rato y se vean unos buenos links! Este finde sigue el futbol mundialista, hay F1, F2, F3, qu&eacute; se yo, no existo. Y si te parecen pocos su"
-  },
-  {
     "blog": "Un blog",
     "titulo": "¿Se puede ganar un mundial sin hacer goles?",
     "link": "https://nachof.blog/posts/2026/se-puede-ganar-un-mundial-sin-hacer-goles/",
     "fecha": "26/06/2026",
     "contenido": "\n Si hubiese escrito esto hace una semana, acá pondría que el de la foto es el golero de Cabo Verde\n \n\n\nBueno, de alguna manera tenés que ganar partidos para avanzar, y ganar en la final. Pero asumiendo que contamos la definición por penales como algo separado, ¿sería posible ganar un mundial sin ha"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Banda Argentina Estrena Un Nuevo EP | “Renacer Y Ser Libre” Es Lo Nuevo De Torre Firme",
-    "link": "https://www.delotroladometal.com.ar/2026/06/26/renacer-y-ser-libre-es-lo-nuevo-de-torre-firme/",
-    "fecha": "26/06/2026",
-    "contenido": "Ya habíamos tenido la oportunidad de hablar de ellos, pero de todas maneras, volvemos a...\nThe post La Banda Argentina Estrena Un Nuevo EP | “Renacer Y Ser Libre” Es Lo Nuevo De Torre Firme first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Grids of Thermometers",
-    "link": "https://cozykis.kisworld.es/analisis-de-grids-of-thermometers/",
-    "fecha": "26/06/2026",
-    "contenido": "No resulta especialmente complejo, pero tiene el nivel de desafío justo para hacerlo interesante. Además, de mucho contenido\nLa entrada Análisis de Grids of Thermometers se publicó primero en CozyKis."
   }
 ]
