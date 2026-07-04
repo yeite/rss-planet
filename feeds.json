@@ -1,5 +1,33 @@
 [
   {
+    "blog": "impermanente",
+    "titulo": "El espejo tiene acento",
+    "link": "https://impermanente.es/2026/07/04/el-espejo-tiene-acento.html",
+    "fecha": "04/07/2026",
+    "contenido": "Hace un par de meses escribí que un chatbot era un espejo sin centro y que cuando uno busca al que mira detrás de los ojos, no lo encuentra, ya que el espejo no te devuelve una imagen sino tu propio yo.\nLo sigo pensando, pero resulta que me quedé corto en una cosa: El espejo no está vacío del todo. "
+  },
+  {
+    "blog": "56K",
+    "titulo": "Youtubers que no me caen mal – Vol.1",
+    "link": "https://56k.es/fanta/youtubers-que-no-me-caen-mal/",
+    "fecha": "04/07/2026",
+    "contenido": "Dejo por aquí una serie de eso que llaman «Creadores de contenido» y &#8230;.bueno digo «youtubers» porque los links que voy a poner son de sus canales en youtube. Eso no quiere decir que tengas que consumir su contenido, que tengas que verlo directamente visitando youtube, etc &#8230; Esto simpleme"
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (dieciseisavos de final)",
+    "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-dieciseisavos-de-final.html",
+    "fecha": "04/07/2026",
+    "contenido": "Ayer se completaron los dieciseisavos de final (la primera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 5 selecciones sudamericanas enfrentaron a 2 rivales de África, 1 de Europa, 1 de la CONCACAF y 1 de Asia. Brasil 2 &#82"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió 229 videos en Phantasy Star Online, Forza, Titanfall 2, Gears Of War, Call Of Duty, Anthem, Detroit Become Human (PC), grid legends",
+    "link": "https://labaudric.net/videos/phantasy-star-online",
+    "fecha": "04/07/2026",
+    "contenido": "      +223 más"
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "RetroMultiInstaller + github: número de la última versión para tu script de instalación",
     "link": "https://malagaoriginal.blogspot.com/2026/07/retromultiinstaller-github-averiguar-el.html",
@@ -40,13 +68,6 @@
     "link": "https://matizeta.com/2026/07/03/lecturas-recomendadas-7/",
     "fecha": "03/07/2026",
     "contenido": "10 lecturas publicadas en blogs que me gustaron y quiero compartir. Para más lecturas recordá que podés visitar ¡Blog!¡Blog! “Técnicamente cualquiera puede proteger parte de su información, utilizar herramientas alternativas o reducir rastreo digital, pero en la práctica hacerlo requiere tiempo, est"
-  },
-  {
-    "blog": "productor de sostenibilidad",
-    "titulo": "El mundial de fútbol más insostenible",
-    "link": "https://productordesostenibilidad.es/2026/07/el-mundial-de-futbol-mas-insostenible/",
-    "fecha": "03/07/2026",
-    "contenido": "El de fútbol de 2026 ha conseguido por méritos propios coronarse como el mundial más contaminante de la historia. Centrándonos en las emisiones de gases de efecto invernadero, el informe “FIFA’s Climate Blind Spot: The Men’s World Cup in a Warming World” estima que el campeonato celebrado en Norte A"
   },
   {
     "blog": "danielaragay.net",
@@ -117,13 +138,6 @@
     "link": "https://nachof.blog/posts/2026/cosas-aprendidas-junio/",
     "fecha": "03/07/2026",
     "contenido": "Sigo con la lista de cosas aprendidas, igual que el mes pasado\nOrcas cazadoras\nLas orcas son animales re interesantes. Tienen tendencias culturales como ponerse salmones de sombrero, o hundir yates de lujo. También son famosas por ser cazadoras, con el sobrenombre de &ldquo;ballenas asesinas&rdquo; "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Se Devela También La Lista De Temas Y El Nuevo Video Clip | El Nuevo Álbum De Stryper Se Llama “Throne Of Thorns”",
-    "link": "https://www.delotroladometal.com.ar/2026/07/03/el-nuevo-album-de-stryper-se-llama-throne-of-thorns/",
-    "fecha": "03/07/2026",
-    "contenido": "Hoy, los legendarios pioneros del Metal Cristiano Stryper regresan con un nuevo y imponente capítulo...\nThe post Se Devela También La Lista De Temas Y El Nuevo Video Clip | El Nuevo Álbum De Stryper Se Llama “Throne Of Thorns” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "El Cajón de la Tecnología",
@@ -217,13 +231,6 @@
     "contenido": "Con mi resto visual, una de las opciones de accesibilidad que más uso es la lectura de texto en voz alta («Texto a voz», «Text to speech» o TTS). En los sistemas de Apple viene VoiceOver integrado y hay apps como VoiceDream que lo convierten en una característica cómoda y deseable, con voces que sue"
   },
   {
-    "blog": "brucknerite",
-    "titulo": "¡Guardad algunas diésel!",
-    "link": "https://brucknerite.net/2026/07/guardad-algunas-diesel.html",
-    "fecha": "02/07/2026",
-    "contenido": "La sostenibilidad del sector del transporte requiere reducir a un mínimo las emisiones de CO₂, pero hay una circunstancia en la que disponer de una flota activa de locomotoras diésel es no ya aconsejable, sino necesario."
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – julio de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/07/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-julio-de-2026/",
@@ -288,7 +295,7 @@
   },
   {
     "blog": "56K",
-    "titulo": "Informática decolonial – Placas base de cerámica",
+    "titulo": "Informática decolonial – PCBs de cerámica",
     "link": "https://56k.es/fanta/informatica-decolonial-placas-base-de-ceramica/",
     "fecha": "02/07/2026",
     "contenido": "En una entrevista le preguntaron a Stefanie Wuschitz aquello de «¿Cómo describirías o definirías la informática decolonial?» La respuesta es más extensa pero comienza así: «Es la abolición del hardware tal y como lo conocemos hoy». La entrevista sigue y llega un momento en el que Stefanie dice que e"
@@ -299,20 +306,6 @@
     "link": "https://www.fabio.com.ar/9976-ruleta-rusa-883",
     "fecha": "02/07/2026",
     "contenido": "     No hay nada que levante el jueves mejor que una Ruleta!\nSe que ni me van a dar pelota entre tanto f&uacute;tbol, prodes, quilombos, desfalcos estatales, terremotos y cosas, pero la yapa de hoy es digna de las mejores ruletas, no los voy a defraudar, s&iacute;ganme!\nAhora s&iacute;, Ruleta Rusa!"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Doom Of Death: Valley Of Shadows | Sin Miedo A Las Sombras",
-    "link": "https://www.delotroladometal.com.ar/2026/07/02/sin-miedo-a-las-sombras/",
-    "fecha": "02/07/2026",
-    "contenido": "(2026 &#8211; Kongsblod Records) El Doom debe ser uno de los subgéneros del Metal mas...\nThe post Doom Of Death: Valley Of Shadows | Sin Miedo A Las Sombras first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 196 videos en Phantasy Star Online, Forza, Titanfall 2, Gears Of War, Call Of Duty, Anthem, Detroit Become Human (PC), grid legends",
-    "link": "https://labaudric.net/videos/phantasy-star-online",
-    "fecha": "02/07/2026",
-    "contenido": "      +190 más"
   },
   {
     "blog": "CozyKis",
@@ -425,13 +418,6 @@
     "link": "https://nachof.blog/posts/2026/slow-gods/",
     "fecha": "01/07/2026",
     "contenido": "\n\n\nUff, este libro se me hizo eterno. La peor parte es que tiene sentido, por la forma en la que está escrito, y es intencional.\nEl libro es sobre Maw, un trabajador de una cultura interplanetaria que es esencialmente la extrapolación de nuestra distopía actual. Un día, mientras Maw pilota una nave "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Unión Hace La Fuerza….",
-    "link": "https://www.delotroladometal.com.ar/2026/07/01/la-union-hace-la-fuerza/",
-    "fecha": "01/07/2026",
-    "contenido": "&#8220;Porque el que se enaltece será humillado, y el que se humilla será enaltecido&#8221;, una...\nThe post La Unión Hace La Fuerza…. first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "AsturGeek V3",
@@ -553,13 +539,6 @@
     "contenido": "Nota: No tengo la respuesta a todo; por ende, me puse creativo con este artículo basado en mi experiencia. Todo lo que lees acá fue hecho de forma local (sin\nSeguir leyendo  Dame soluciones, no problemas\nEl cargo Dame soluciones, no problemas apareció primero en El cuarto de GatoOscuro."
   },
   {
-    "blog": "alt43",
-    "titulo": "Bizum Pay: arquitectura, seguridad y privacidad",
-    "link": "https://alt43.es/bizum-pay-arquitectura-seguridad-y-privacidad/",
-    "fecha": "29/06/2026",
-    "contenido": "Análisis técnico de la arquitectura, seguridad y las implicaciones de privacidad de Bizum Pay. Comparativa con los medios de pago que actualmente dominan el mercado: Apple Pay y Google Pay. Tres modelos radicalmente distintos. Mención especial a GNU Taler, único proyecto actual de código abierto."
-  },
-  {
     "blog": "matizeta",
     "titulo": "¿Qué haces con los libros que ya leiste?",
     "link": "https://matizeta.com/2026/06/29/que-haces-con-los-libros-que-ya-leiste/",
@@ -630,13 +609,6 @@
     "contenido": "    \nHace m&aacute;s de una d&eacute;cada dej&eacute; instrucciones claras para que los alien&iacute;genas dejaran de cometer errores a la hora de invadir el planeta, al parecer no me hicieron caso.\nEl otro d&iacute;a vi una pel&iacute;cula muy mala, era de Netflix, as&iacute; que sab&iacute;a que i"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Fear Not: The Blind Leading The Blind | Volviendo Sobre Los Mismos Pasos",
-    "link": "https://www.delotroladometal.com.ar/2026/06/29/volviendo-sobre-los-mismos-pasos/",
-    "fecha": "29/06/2026",
-    "contenido": "(2026 &#8211; Roxx Records) Si su anterior trabajo, &#8220;Weight Of The World&#8221;, había sido una...\nThe post Fear Not: The Blind Leading The Blind | Volviendo Sobre Los Mismos Pasos first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Chancli.dev",
     "titulo": "Unir dos imagenes en mac o linux",
     "link": "https://chancli.dev/blog/unir-dos-imagenes-mac-linux.html",
@@ -679,13 +651,6 @@
     "contenido": "Leor Zmigrod, que ha escrito un libro titulado The Ideological Brain, lleva años midiendo algo que en apariencia no tiene nada que ver con la política: la rigidez cognitiva. La mide con experimentos de laboratorio como el pedirle a personas que clasifiquen cartas según ciertas reglas&hellip; y luego"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Asoma El Nuevo Proyecto De Jonathan Johnson, Ex Sacred Warrior | Glory Of Kings Estrena “The Mistery”",
-    "link": "https://www.delotroladometal.com.ar/2026/06/28/glory-of-kings-estrena-the-mistery/",
-    "fecha": "28/06/2026",
-    "contenido": "Jonathan Johnson es conocido en la escena, por haber sido guitarrista de la legendaria banda...\nThe post Asoma El Nuevo Proyecto De Jonathan Johnson, Ex Sacred Warrior | Glory Of Kings Estrena “The Mistery” first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (fecha 3)",
     "link": "https://javiersam.uy/2026/06/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-fecha-3.html",
@@ -705,13 +670,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/06/27/opensuse-tumbleweed-revision-de-las-semanas-25-y-26-de-2026/",
     "fecha": "27/06/2026",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Vaakevandring Tendrá Nuevo Álbum | Vuelve La Leyenda Noruega",
-    "link": "https://www.delotroladometal.com.ar/2026/06/27/vuelve-la-leyenda-noruega/",
-    "fecha": "27/06/2026",
-    "contenido": "Sin dudas Vaakevandring es una de las mayores leyendas del Black Metal noruego, y uno...\nThe post Vaakevandring Tendrá Nuevo Álbum | Vuelve La Leyenda Noruega first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "labaudric",
