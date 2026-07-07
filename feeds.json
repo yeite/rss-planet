@@ -28,6 +28,13 @@
     "contenido": "Tengo que decir que el servicio por cable llegó muy tarde a mi familia, mientras todos mis compañeros hablaban de lo que veían en Nickelodeon, Cartoon Network, yo miraba en la TV de la familia (que dicho sea de paso no tenía control remoto) al Inspector Gadget, Los Pitufos, los Tres Chiflados y el Z"
   },
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "565. Misiones clandestinas",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/07/565-misiones-clandestinas.html",
+    "fecha": "06/07/2026",
+    "contenido": "&nbsp; &nbsp;&nbsp;Un verano cualquiera en algún punto turístico de las costas españolas.&nbsp;&nbsp; &nbsp; La familia nuclear Parahoy, tal como tenía planeado, ha despertado a las 5:30 AM de un sueño tranquilo. Las alarmas de los móviles de cada uno de sus integrantes estaban sincronizadas. Tienen"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Newsletter #50 - Comenzamos con nuestro curso de Proxmox",
     "link": "https://voidnull.es/newsletter/newsletter-50/",
@@ -49,6 +56,13 @@
     "contenido": "    \nGanarle a los espartanos en batalla no era cosa sencilla, ten&iacute;an fama de invencibles, pero nadie lo es, y los dioses no los protegieron contra Tebas un d&iacute;a como hoy del 371 AC.\n&iquest;C&oacute;mo vencer a los \"invencibles\"? Pues rompiendo las tradiciones, as&iacute; es, la comodi"
   },
   {
+    "blog": "Un blog",
+    "titulo": "Amazon Prime y la estafa de los free trials",
+    "link": "https://nachof.blog/posts/2026/amazon-prime-y-la-estafa-de-los-free-trials/",
+    "fecha": "06/07/2026",
+    "contenido": "Todos sabemos que los free trials que te empiezan a cobrar automáticamente son una estafa. No hay novedad. Pero quiero quejarme un poco.\nResulta que estoy de viaje, y quería aprovechar para comprar unas cosas que en Uruguay no se consiguen. Amazon es horrible, y debería dejar de existir, pero es el "
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Majestic Vanguard: Beyond The Moon | Un Legado Imborrable",
     "link": "https://www.delotroladometal.com.ar/2026/07/06/un-legado-imborrable/",
@@ -61,13 +75,6 @@
     "link": "https://javiersam.uy/2026/07/para-tener-a-mano-lv-2.html",
     "fecha": "06/07/2026",
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Mis estadísticas de running en la web",
-    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
-    "fecha": "06/07/2026",
-    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
   },
   {
     "blog": "CozyKis",
@@ -194,13 +201,6 @@
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-dieciseisavos-de-final.html",
     "fecha": "04/07/2026",
     "contenido": "Ayer se completaron los dieciseisavos de final (la primera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 5 selecciones sudamericanas enfrentaron a 2 rivales de África, 1 de Europa, 1 de la CONCACAF y 1 de Asia. Brasil 2 &#82"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Los Perseguidos, ficción sonora fantástica",
-    "link": "https://chancli.dev/blog/los-perseguidos-audio-ficcion.html",
-    "fecha": "04/07/2026",
-    "contenido": "Soy un gran aficionado a los podcasts, sobre todo sigo podcasts de tecnología y algunos de misterio.\nPero hoy no vengo a recomendaros un podcast normal, es una ficción sonora de una calidad de producción increíble.\nSe trata de Los Perseguidos, basado en la novela de Fernando Benzo.\nSe ve que Onda Ce"
   },
   {
     "blog": "labaudric",
@@ -740,33 +740,5 @@
     "link": "https://www.fabio.com.ar/9974-quien-le-roba-a-un-ladron-destila-el-control",
     "fecha": "30/06/2026",
     "contenido": "    \nEsta es una de esas paradojas modernas que me encantan, los chinos se pusieron a \"destilar\" modelos de AI como Claude y los de Anthropic lloran que les \"roban\".\nHasta aqu&iacute; no nos sorpender&iacute;a nada, empresas chinas fraguando cuentas para clonar algo hecho en occidente es b&aacute;si"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Configurando Ntfy",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-06-30-usando-ntfy-2/",
-    "fecha": "29/06/2026",
-    "contenido": "Tal como dije en el anterior artículo, en este explicaré la configuración y el uso que le estoy dando al servicio de NTFY, y que me está sorprendiendo mucho porque, valga la redundancia, me está dando la misma información que me daba Matrix, pero sin tantas complicaciones.\nDe nuevo, aunque suene rep"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "La riqueza es lo que queda",
-    "link": "https://jinversor.co/2026/06/la-riqueza-es-lo-que-queda/",
-    "fecha": "29/06/2026",
-    "contenido": "¿Qué es la riqueza? Si le hiciéramos esa pregunta a personas del común con seguridad recibiríamos respuestas muy vagas del tipo: «es tener mucha plata», o respuestas muy específicas del [&#8230;]\nLa entrada La riqueza es lo que queda se publicó primero en Jinversor."
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "¿Qué haces con los libros que ya leiste?",
-    "link": "https://matizeta.com/2026/06/29/que-haces-con-los-libros-que-ya-leiste/",
-    "fecha": "29/06/2026",
-    "contenido": "Puedes llenar tus estantes de libros o simplemente leerlos y luego regalarlos o venderlos. ¿Qué haces con ellos?"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "563. Por las bitácoras muertas 2",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/06/563-por-las-bitacoras-muertas-2.html",
-    "fecha": "29/06/2026",
-    "contenido": "&nbsp; &nbsp; Ascienden las temperaturas y desciende la actividad en los blogs. Es casi una ley natural. Le dais la espalda al teclado y el espacio en blanco deja de importar. Para muchos de vosotros supone tal liberación que ya nunca regresáis. El verano llega y se va con vuestra constancia y creat"
   }
 ]
