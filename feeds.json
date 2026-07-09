@@ -7,6 +7,20 @@
     "contenido": "(&#8230;) Vamos, señor Jones, debe usted aceptarlo. Permítase el lujo de no torturarse más. Usted, como otros de su época, heredaron un mundo que estaba lejos de su control. No ha fallado en la vida, no es que fuera menos valioso&#8230; sencillamente tuvo mala suerte, como muchos otros. Comprendo la"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Thunderbird escucha las opiniones de su comunidad para mejorar su aplicación de escritorio",
+    "link": "https://victorhckinthefreeworld.com/2026/07/08/thunderbird-escucha-a-las-personas-que-lo-usan-para-mejorar-su-aplicacion-de-escritorio/",
+    "fecha": "08/07/2026",
+    "contenido": "La mejora manera de mejorar Thunderbird es escuchando a las personas que lo utilizan y desarrollar el cliente de correo intentando condensar todas las opiniones para mejorar este gran cliente de correo electrónico"
+  },
+  {
+    "blog": "Posts on Mi blog",
+    "titulo": "Arcane: gestiona todos tus Docker y Podman desde una sola UI y sin abrir puertos",
+    "link": "https://blog.taller404.org/posts/arcane/",
+    "fecha": "08/07/2026",
+    "contenido": "Llevo años con el mismo ritual. Se cae algo, o quiero actualizar un servicio,\no simplemente me pregunto &ldquo;¿qué tal andan mis máquinas?&rdquo;, y la respuesta siempre es\nla misma: abrir una terminal, SSH a la máquina, cd docker/loquesea,\ndocker compose up -d, docker logs -f, mirar, salir, y a la"
+  },
+  {
     "blog": "Galerías Preciados",
     "titulo": "Superestrella. El pop como clave social. Las bodas.",
     "link": "https://galeriaspreciados.band/superestrella-el-pop-como-clave-social-las-bodas/",
@@ -26,6 +40,13 @@
     "link": "https://matizeta.com/2026/07/08/comunidad-blogblog-en-mastodon/",
     "fecha": "08/07/2026",
     "contenido": "Conoce y ponte en contacto con los autores de los blogs que forman parte de directorio de blogs personales en español ¡Blog!¡Blog!."
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "which: localiza la ruta de un comando",
+    "link": "https://voidnull.es/which-localiza-la-ruta-de-un-comando/",
+    "fecha": "08/07/2026",
+    "contenido": "Aprende a usar el comando which en GNU/Linux para localizar la ruta de un ejecutable y comprobar qué binario se ejecutará desde la terminal."
   },
   {
     "blog": "_ voidNull",
@@ -56,6 +77,13 @@
     "contenido": "    \nAnte un mundial siempre se comentan las mismas cosas, la corrupci&oacute;n de la FIFA, los favoritismos, los partidos arreglados y hasta el Mossad participando, porque, ya saben, la mejor forma de aceptar una derrota es culpando a un tercero.\nJusto habiendo ganado Argentina un partido, que pare"
   },
   {
+    "blog": "Un blog",
+    "titulo": "El café frío sigue siendo café frío",
+    "link": "https://nachof.blog/posts/2026/el-cafe-frio-sigue-siendo-cafe-frio/",
+    "fecha": "08/07/2026",
+    "contenido": "Voy a empezar diciendo que no me gusta el café. Tuve mi época de más joven donde tomaba café, pero era más por la cafeína que por el gusto, y siempre era con toneladas de azúcar. Pero la realidad es que no me gusta.\nHace un tiempo leí Homeland, el segundo libro de la serie de Little Brother, de Cory"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Ícaro: Siendo Libre | El Final De Una Historia Y El Nacimiento De Una Leyenda",
     "link": "https://www.delotroladometal.com.ar/2026/07/08/el-final-de-una-historia-y-el-nacimiento-de-una-leyenda/",
@@ -68,6 +96,76 @@
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-octavos-de-final.html",
     "fecha": "08/07/2026",
     "contenido": "Ayer se completaron los octavos de final (la segunda de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 4 selecciones sudamericanas enfrentaron a 3 rivales de Europa y 1 de África. Paraguay 0 &#8211; Francia 1 El sábado Paraguay "
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🪁 El Jardín Digital",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
+    "fecha": "08/07/2026",
+    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌱 Es hoy el tiempo...",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Es-hoy-el-tiempo...",
+    "fecha": "08/07/2026",
+    "contenido": "yuyo Los grandes ideales se forjan en la juventud y se realizan en la madurez “Los hombres aman el pasado y contra ese amor nada puedo, ni pueden mis verdugos, pero alguna vez habrá un hombre que sienta como yo, y ese destruirá mi muralla, como yo he destruido los libros, y ese borrara mi memoria y "
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "⛅️ hay que animarse a salir al aire libre más seguido",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%E2%9B%85%EF%B8%8F-hay-que-animarse-a-salir-al-aire-libre-m%C3%A1s-seguido",
+    "fecha": "08/07/2026",
+    "contenido": "yuyo ¡Sal al aire libre todo el tiempo que puedas! Debes ser un estudiante sano, jovial, rebosante de fuerzas, de corazón ardiente, generoso, de espíritu pronto, vivaracho, que sabe reírse de corazón, pero… que también tiene un sentido delicado de la dignidad de su alma."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌱 Lenguajes",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Lenguajes",
+    "fecha": "08/07/2026",
+    "contenido": "yuyo Me cuestiono mucho el intento de escribir en dos idiomas esta página, quizás debería aislarla al Español."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌱 No es tarde",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-No-es-tarde",
+    "fecha": "08/07/2026",
+    "contenido": "yuyo Regresan los pródigos, vuelven los desleales, retornan los descaminados, se arrepienten las mujeres de sus horas públicas, se levantan los tibios y perezosos, se enderezan los mediocres."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌱 Sobre el sentido de las cosas",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-el-sentido-de-las-cosas",
+    "fecha": "08/07/2026",
+    "contenido": "helecho Jesús, hace bastante tiempo que no sabemos nada del otro. Vengo viviendo solo mi vida, envuelto en mis propósitos y mis cosas."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌱 Sobre la libertad",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-la-libertad",
+    "fecha": "08/07/2026",
+    "contenido": "arbolito Escribo esto básicamente a oscuras. No consigo ver lo que escribo nítidamente, pero se que está ahí."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌱 Sobre la utilidad de mis pasatiempos",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-la-utilidad-de-mis-pasatiempos",
+    "fecha": "08/07/2026",
+    "contenido": "yuyo Me gustan cosas inservibles 🌷 Sobre la vida “real” Me doy cuenta que mis intereses parecen ser menos útiles o eficientes que los de los otros."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌱 ¿Cuánto tiempo tenemos?",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-%C2%BFCu%C3%A1nto-tiempo-tenemos",
+    "fecha": "08/07/2026",
+    "contenido": "Al parecer, Él quiere que algunos —pero sólo muy pocos— de los animales humanos con que está poblando el Cielo hayan tenido la experiencia de resistirnos a lo largo de una vida terrenal de sesenta o setenta años."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌱 ¿Dónde ves el Cielo vos?",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-%C2%BFD%C3%B3nde-ves-el-Cielo-vos",
+    "fecha": "08/07/2026",
+    "contenido": "Mientras son jóvenes, siempre les encontramos saliéndose por la tangente."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -231,6 +329,13 @@
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Mis estadísticas de running en la web",
+    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
+    "fecha": "06/07/2026",
+    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Análisis de Kitty Witchy",
     "link": "https://cozykis.kisworld.es/analisis-de-kitty-witchy/",
@@ -355,6 +460,13 @@
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-dieciseisavos-de-final.html",
     "fecha": "04/07/2026",
     "contenido": "Ayer se completaron los dieciseisavos de final (la primera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 5 selecciones sudamericanas enfrentaron a 2 rivales de África, 1 de Europa, 1 de la CONCACAF y 1 de Asia. Brasil 2 &#82"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Los Perseguidos, ficción sonora fantástica",
+    "link": "https://chancli.dev/blog/los-perseguidos-audio-ficcion.html",
+    "fecha": "04/07/2026",
+    "contenido": "Soy un gran aficionado a los podcasts, sobre todo sigo podcasts de tecnología y algunos de misterio.\nPero hoy no vengo a recomendaros un podcast normal, es una ficción sonora de una calidad de producción increíble.\nSe trata de Los Perseguidos, basado en la novela de Fernando Benzo.\nSe ve que Onda Ce"
   },
   {
     "blog": "labaudric",
@@ -504,76 +616,6 @@
     "contenido": "Hoy empezamos una serie de colaboraciones, en la que un bloguero nos va a recomendar un programa/herramienta/truco/página web o algo que se le ocurra que pueda ser interesante y nos va a explicar un poquito sobre ello. Abrimos esta serie con Diego. Todo lo que aparece en su sección son sus palabras "
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "mapa-principal",
-    "link": "https://salvamir.github.io/Proyectos/Excalidraw/mapa-principal",
-    "fecha": "03/07/2026",
-    "contenido": "⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salvamir.github.io/",
-    "fecha": "03/07/2026",
-    "contenido": "Acá me gusta coleccionar detalles de mi vida."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌳 Sobre el paso del tiempo...",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B3-Sobre-el-paso-del-tiempo...",
-    "fecha": "03/07/2026",
-    "contenido": "Ahora estoy en el colectivo yendo a una clase de física II y me puse a pensar en que algún día voy a ser viejito, y no voy a poder moverme tan rápidamente como lo hago ahora."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌷 Dejar que a los otros les vaya bien y alegrarse con ellos.",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B7-Dejar-que-a-los-otros-les-vaya-bien-y-alegrarse-con-ellos.",
-    "fecha": "03/07/2026",
-    "contenido": "A veces me cuesta un poco la envidia. Quizás porque soy muy autocompasivo y me enfoco demasiado en lo mucho que me cuestan las cosas."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌷 Sobre la vida \"real\"",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B7-Sobre-la-vida-%22real%22",
-    "fecha": "03/07/2026",
-    "contenido": "Me doy cuenta, Jesús, que vivo luchando por vivir realmente. Me apasiona la vida virtual casi tanto como la vida real."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌷 Una conversación con Dios",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B7-Una-conversaci%C3%B3n-con-Dios",
-    "fecha": "03/07/2026",
-    "contenido": "¿Cómo te llamas? Teresa de Jesús… ¿y Tú? Jesús… ¡De Teresa! Una conversación cortita que tuvo Santa Teresa con Dios."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🍁 Sobre el llamado a vivir para horizontes inmensos...",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8D%81-Sobre-el-llamado-a-vivir-para-horizontes-inmensos...",
-    "fecha": "03/07/2026",
-    "contenido": "¿Dónde están los horizontes inmensos? No es en el pecado ni en las responsabilidades cotidianas donde encontramos la diferencia que tenemos con los animales."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪨  Sobre las pantallas y la tecnología, en la vida de cada uno",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%AA%A8--Sobre-las-pantallas-y-la-tecnolog%C3%ADa,-en-la-vida-de-cada-uno",
-    "fecha": "03/07/2026",
-    "contenido": "¿Se puede vivir plenamente teniendo que estar todos los días delante de una pantalla, conectado a internet y rodeado de conexiones bluetooth? Supongo que sí… Debe ser cuestión de adaptarse."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪴 Sobre la inocencia y el sentido del humor.",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-la-inocencia-y-el-sentido-del-humor.",
-    "fecha": "03/07/2026",
-    "contenido": "Está sacado de contexto, pero esto lo escribió Nietzsche La última transformación es del león al niño. Un niño es inocencia y olvido."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪻 La resolución, el detalle...",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%AA%BB-La-resoluci%C3%B3n,-el-detalle...",
-    "fecha": "03/07/2026",
-    "contenido": "“Si imaginamos cómo viviríamos un solo día de nuestra vida, si solo fuese uno… Seguramente valoraríamos cada detalle.” 🪻 Sobre la vida plena 🌱 Sobre el sentido de las cosas."
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Análisis de Fortune Fragments",
     "link": "https://cozykis.kisworld.es/analisis-de-fortune-fragments/",
@@ -691,40 +733,5 @@
     "link": "https://www.quiroptero.blog/2026/07/cups/",
     "fecha": "02/07/2026",
     "contenido": "Quise leer un ensayo anarquista y mi impresora decidió no imprimirlo"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "En dos meses John Ternus será el nuevo CEO de Apple",
-    "link": "https://mareosdeungeek.es/en-dos-meses-john-ternus-sera-el-nuevo-ceo-de-apple/",
-    "fecha": "01/07/2026",
-    "contenido": "El próximo 1 de septiembre John Ternus asumirá el cargo de CEO en Apple. La compañía de Cupertino es una de las más rentables del mundo, pero tiene un futuro repleto de retos. El anuncio de este cambio se hizo en abril, cuando la compañía de la manzana celebraba sus 50 años. Con el ascenso [&#8230;]"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "El colombófilo de Flores y la cifra infinita (a la venta por necesidad difundir)",
-    "link": "https://docig.bearblog.dev/el-colombofilo-de-flores-y-la-cifra-infinita-a-la-venta-por-necesidad-difundir/",
-    "fecha": "01/07/2026",
-    "contenido": "A veces, la mejor manera de apoyar a un escritor es tan sencilla como leer una de sus historias.\nEl colombófilo de Flores y la cifra infinita es una novela para quienes disfrutan de los misterios, las coincidencias que parecen destino y las preguntas que siguen resonando mucho después de la última p"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Slow Gods - Claire North",
-    "link": "https://nachof.blog/posts/2026/slow-gods/",
-    "fecha": "01/07/2026",
-    "contenido": "\n\n\nUff, este libro se me hizo eterno. La peor parte es que tiene sentido, por la forma en la que está escrito, y es intencional.\nEl libro es sobre Maw, un trabajador de una cultura interplanetaria que es esencialmente la extrapolación de nuestra distopía actual. Un día, mientras Maw pilota una nave "
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Rebajas de Verano de Steam. Los mejores descuentos",
-    "link": "https://cozykis.kisworld.es/rebajas-de-verano-de-steam-los-mejores-descuentos/",
-    "fecha": "01/07/2026",
-    "contenido": "Una lista con más de diez juegos a precios muy baratos que podemos encontrar rebajados en Steam ahora mismo\nLa entrada Rebajas de Verano de Steam. Los mejores descuentos se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Región Cuatro",
-    "titulo": "Reclamando la Web, treinta años después",
-    "link": "https://regioncuatro.blog/reclamando-la-web-treinta-anos-despues/",
-    "fecha": "01/07/2026",
-    "contenido": "Esto de tener un sitio web personal, o un blog, puede confundirse fácilmente con nostalgia de quienes crecimos en los noventa. Y en una parte probablemente lo es, pero para muchos de nosotros es también una vuelta a los ideales de la web temprana. De personas enlazando a otras personas, y del conten"
   }
 ]
