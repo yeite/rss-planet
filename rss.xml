@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 09 Jul 2026 01:53:34 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 09:24:41 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -24,6 +24,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
 <category>THE_CHEI$</category>
 <description><![CDATA[(&amp;#8230;) Vamos, señor Jones, debe usted aceptarlo. Permítase el lujo de no torturarse más. Usted, como otros de su época, heredaron un mundo que estaba lejos de su control. No ha fallado en la vida, no es que fuera menos valioso&amp;#8230; sencillamente tuvo mala suerte, como muchos otros. Comprendo la<br><br><strong>Fuente:</strong> THE_CHEI$]]></description>
+</item>
+<item>
+<title>Thunderbird escucha las opiniones de su comunidad para mejorar su aplicación de escritorio</title>
+<link>https://victorhckinthefreeworld.com/2026/07/08/thunderbird-escucha-a-las-personas-que-lo-usan-para-mejorar-su-aplicacion-de-escritorio/</link>
+<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/07/08/thunderbird-escucha-a-las-personas-que-lo-usan-para-mejorar-su-aplicacion-de-escritorio/</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Victorhck in the free world</category>
+<description><![CDATA[La mejora manera de mejorar Thunderbird es escuchando a las personas que lo utilizan y desarrollar el cliente de correo intentando condensar todas las opiniones para mejorar este gran cliente de correo electrónico<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
+</item>
+<item>
+<title>Arcane: gestiona todos tus Docker y Podman desde una sola UI y sin abrir puertos</title>
+<link>https://blog.taller404.org/posts/arcane/</link>
+<guid isPermaLink="true">https://blog.taller404.org/posts/arcane/</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Posts on Mi blog</category>
+<description><![CDATA[Llevo años con el mismo ritual. Se cae algo, o quiero actualizar un servicio, o simplemente me pregunto &amp;ldquo;¿qué tal andan mis máquinas?&amp;rdquo;, y la respuesta siempre es la misma: abrir una terminal, SSH a la máquina, cd docker/loquesea, docker compose up -d, docker logs -f, mirar, salir, y a la<br><br><strong>Fuente:</strong> Posts on Mi blog]]></description>
 </item>
 <item>
 <title>Superestrella. El pop como clave social. Las bodas.</title>
@@ -48,6 +64,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
 <category>matizeta</category>
 <description><![CDATA[Conoce y ponte en contacto con los autores de los blogs que forman parte de directorio de blogs personales en español ¡Blog!¡Blog!.<br><br><strong>Fuente:</strong> matizeta]]></description>
+</item>
+<item>
+<title>which: localiza la ruta de un comando</title>
+<link>https://voidnull.es/which-localiza-la-ruta-de-un-comando/</link>
+<guid isPermaLink="true">https://voidnull.es/which-localiza-la-ruta-de-un-comando/</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Aprende a usar el comando which en GNU/Linux para localizar la ruta de un ejecutable y comprobar qué binario se ejecutará desde la terminal.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
 </item>
 <item>
 <title>Instalación de Ente: Alternativa libre a Google Photos</title>
@@ -82,6 +106,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Ante un mundial siempre se comentan las mismas cosas, la corrupci&amp;oacute;n de la FIFA, los favoritismos, los partidos arreglados y hasta el Mossad participando, porque, ya saben, la mejor forma de aceptar una derrota es culpando a un tercero. Justo habiendo ganado Argentina un partido, que pare<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
 </item>
 <item>
+<title>El café frío sigue siendo café frío</title>
+<link>https://nachof.blog/posts/2026/el-cafe-frio-sigue-siendo-cafe-frio/</link>
+<guid isPermaLink="true">https://nachof.blog/posts/2026/el-cafe-frio-sigue-siendo-cafe-frio/</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Un blog</category>
+<description><![CDATA[Voy a empezar diciendo que no me gusta el café. Tuve mi época de más joven donde tomaba café, pero era más por la cafeína que por el gusto, y siempre era con toneladas de azúcar. Pero la realidad es que no me gusta. Hace un tiempo leí Homeland, el segundo libro de la serie de Little Brother, de Cory<br><br><strong>Fuente:</strong> Un blog]]></description>
+</item>
+<item>
 <title>Ícaro: Siendo Libre | El Final De Una Historia Y El Nacimiento De Una Leyenda</title>
 <link>https://www.delotroladometal.com.ar/2026/07/08/el-final-de-una-historia-y-el-nacimiento-de-una-leyenda/</link>
 <guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/07/08/el-final-de-una-historia-y-el-nacimiento-de-una-leyenda/</guid>
@@ -98,124 +130,92 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Ayer se completaron los octavos de final (la segunda de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 4 selecciones sudamericanas enfrentaron a 3 rivales de Europa y 1 de África. Paraguay 0 &amp;#8211; Francia 1 El sábado Paraguay<br><br><strong>Fuente:</strong> JavierSam]]></description>
 </item>
 <item>
+<title>🪁 El Jardín Digital</title>
+<link>https://salvamir.github.io/El-Jard%C3%ADn/</link>
+<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌱 Es hoy el tiempo...</title>
+<link>https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Es-hoy-el-tiempo...</link>
+<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Es-hoy-el-tiempo...</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[yuyo Los grandes ideales se forjan en la juventud y se realizan en la madurez “Los hombres aman el pasado y contra ese amor nada puedo, ni pueden mis verdugos, pero alguna vez habrá un hombre que sienta como yo, y ese destruirá mi muralla, como yo he destruido los libros, y ese borrara mi memoria y<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>⛅️ hay que animarse a salir al aire libre más seguido</title>
+<link>https://salvamir.github.io/El-Jard%C3%ADn/%E2%9B%85%EF%B8%8F-hay-que-animarse-a-salir-al-aire-libre-m%C3%A1s-seguido</link>
+<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/%E2%9B%85%EF%B8%8F-hay-que-animarse-a-salir-al-aire-libre-m%C3%A1s-seguido</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[yuyo ¡Sal al aire libre todo el tiempo que puedas! Debes ser un estudiante sano, jovial, rebosante de fuerzas, de corazón ardiente, generoso, de espíritu pronto, vivaracho, que sabe reírse de corazón, pero… que también tiene un sentido delicado de la dignidad de su alma.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌱 Lenguajes</title>
+<link>https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Lenguajes</link>
+<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Lenguajes</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[yuyo Me cuestiono mucho el intento de escribir en dos idiomas esta página, quizás debería aislarla al Español.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌱 No es tarde</title>
+<link>https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-No-es-tarde</link>
+<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-No-es-tarde</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[yuyo Regresan los pródigos, vuelven los desleales, retornan los descaminados, se arrepienten las mujeres de sus horas públicas, se levantan los tibios y perezosos, se enderezan los mediocres.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌱 Sobre el sentido de las cosas</title>
+<link>https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-el-sentido-de-las-cosas</link>
+<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-el-sentido-de-las-cosas</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[helecho Jesús, hace bastante tiempo que no sabemos nada del otro. Vengo viviendo solo mi vida, envuelto en mis propósitos y mis cosas.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌱 Sobre la libertad</title>
+<link>https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-la-libertad</link>
+<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-la-libertad</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[arbolito Escribo esto básicamente a oscuras. No consigo ver lo que escribo nítidamente, pero se que está ahí.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌱 Sobre la utilidad de mis pasatiempos</title>
+<link>https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-la-utilidad-de-mis-pasatiempos</link>
+<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-la-utilidad-de-mis-pasatiempos</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[yuyo Me gustan cosas inservibles 🌷 Sobre la vida “real” Me doy cuenta que mis intereses parecen ser menos útiles o eficientes que los de los otros.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌱 ¿Cuánto tiempo tenemos?</title>
+<link>https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-%C2%BFCu%C3%A1nto-tiempo-tenemos</link>
+<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-%C2%BFCu%C3%A1nto-tiempo-tenemos</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[Al parecer, Él quiere que algunos —pero sólo muy pocos— de los animales humanos con que está poblando el Cielo hayan tenido la experiencia de resistirnos a lo largo de una vida terrenal de sesenta o setenta años.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌱 ¿Dónde ves el Cielo vos?</title>
+<link>https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-%C2%BFD%C3%B3nde-ves-el-Cielo-vos</link>
+<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-%C2%BFD%C3%B3nde-ves-el-Cielo-vos</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[Mientras son jóvenes, siempre les encontramos saliéndose por la tangente.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
 <title>Ataque de AInsiedad</title>
 <link>https://guillermolatorre.com/clips/ataque-de-ainsiedad</link>
 <guid isPermaLink="true">https://guillermolatorre.com/clips/ataque-de-ainsiedad</guid>
 <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
 <category>Guillermo Latorre | Feed RSS</category>
 <description><![CDATA[Esa mezcla entre ansiedad, FOMO y la sensación de que todo el mundo está haciendo cosas increíbles con la IA... menos tú.Ir al enlace<br><br><strong>Fuente:</strong> Guillermo Latorre | Feed RSS]]></description>
-</item>
-<item>
-<title>Plasmoide para mostrar la información de Meteoclimatic en el escritorio Plasma de #KDE</title>
-<link>https://victorhckinthefreeworld.com/2026/07/07/plasmoide-para-mostrar-la-informacion-de-meteoclimatic-en-el-escritorio-plasma-de-kde/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/07/07/plasmoide-para-mostrar-la-informacion-de-meteoclimatic-en-el-escritorio-plasma-de-kde/</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[He creado un plasmoide para el escritorio Plasma 6 de KDE en el que podremos añadir el feed de una estación metereológica de Meteoclimatic y mostrarla en nuestro escritorio<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>El bien que quiero hacer y no hago</title>
-<link>https://blog.luiscarlospando.com/personal/2026/07/el-bien-que-quiero-hacer-y-no-hago/</link>
-<guid isPermaLink="true">https://blog.luiscarlospando.com/personal/2026/07/el-bien-que-quiero-hacer-y-no-hago/</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>Luis Carlos Pando</category>
-<description><![CDATA[Haz scroll a la derecha dentro de esta lista de abajo (o arrastra si estás en móvil) para poder leerla completa. Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon<br><br><strong>Fuente:</strong> Luis Carlos Pando]]></description>
-</item>
-<item>
-<title>Carl el mazmorrero</title>
-<link>https://www.end3r.es/posts/022-carl-el-mazmorrero/</link>
-<guid isPermaLink="true">https://www.end3r.es/posts/022-carl-el-mazmorrero/</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>End3r.es</category>
-<description><![CDATA[¿Alguna vez has soñado con ser un héroe? ¿Salvar al mundo, derrotar dragones y ganarte el amor de una princesa? Carl también. El problema es que él preferiría hacer todo eso sin tener que levantarse del sofá. La Tierra es invadida por una civilización extraterrestre que transforma el planeta en una<br><br><strong>Fuente:</strong> End3r.es]]></description>
-</item>
-<item>
-<title>¿Por qué quieres ser dueño de algo?</title>
-<link>https://matizeta.com/2026/07/07/por-que-quieres-ser-dueno-de-algo/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/07/07/por-que-quieres-ser-dueno-de-algo/</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Mucho se está hablando del anuncio sobre Sony mata el formato físico para&amp;#160; los videojuegos&amp;#160;(previsto&amp;#160; para el 2028).&amp;#160; Esta entrada es mi opinión y también mi respuesta a la pregunta con la que termina el texto en el blog de eapl. A mi el formato físico y el digital me van bien po<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>Unas fotos para Comisura</title>
-<link>https://www.ericafustero.com/2026-07-unas-fotos-para-comisura</link>
-<guid isPermaLink="true">https://www.ericafustero.com/2026-07-unas-fotos-para-comisura</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>Erica Fustero</category>
-<description><![CDATA[Carlota y Laura hacen libros. Propios, porque ambas son autoras, y ajenos, ya que juntas están al frente de Comisura, una editorial que pone en diálogo escritura, fotografía y archivo, y por cuyo catálogo pasean autoras como Leanne Shapton, Sabina Urraca o Sophie Calle. Juntas, y también por separad<br><br><strong>Fuente:</strong> Erica Fustero]]></description>
-</item>
-<item>
-<title>Una consola sin juegos físicos es una oficina</title>
-<link>https://56k.es/fanta/un-mundo-sin-juegos-en-formato-fisico-es-una-oficina/</link>
-<guid isPermaLink="true">https://56k.es/fanta/un-mundo-sin-juegos-en-formato-fisico-es-una-oficina/</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>56K</category>
-<description><![CDATA[Hace unos días que saltó la noticia sobre que Sony Playstation dejará de producir discos físicos a principios de 2028 (eso es en un año y medio más o menos desde la fecha en la que escribo esto que es Julio del 2026). Cantaba Joaquín Sabina aquello de «Porque una casa sin ti es una...<br><br><strong>Fuente:</strong> 56K]]></description>
-</item>
-<item>
-<title>Fingerprinting para detectar bots en el blog</title>
-<link>https://www.fabio.com.ar/9979-fingerprinting-para-detectar-bots-en-el-blog</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/9979-fingerprinting-para-detectar-bots-en-el-blog</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[A mediados de la semana pasada el tr&amp;aacute;fico del blog, de pronto, subi&amp;oacute; varios &amp;oacute;rdenes de magnitud. No era tr&amp;aacute;fico leg&amp;iacute;timo, eran puros bots, pero estaban sorteando todos mis bloqueos previos. Como siempre, no es que me moleste que un spider de un buscador captur<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>&quot;Prone To Wander&quot; Es Un Despliegue De Puro Metalcore Progresivo | Altarheart Anuncia Su Nuevo Álbum</title>
-<link>https://www.delotroladometal.com.ar/2026/07/07/altarheart-anuncia-su-nuevo-album/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/07/07/altarheart-anuncia-su-nuevo-album/</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Un nuevo disco aparece en el radar, y se trata de la próxima edición de... The post &quot;Prone To Wander&quot; Es Un Despliegue De Puro Metalcore Progresivo | Altarheart Anuncia Su Nuevo Álbum first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Mis cosas en Junio 2026</title>
-<link>https://asturgeek.eu/2026/07/07/mis-cosas-en-junio-2026/</link>
-<guid isPermaLink="true">https://asturgeek.eu/2026/07/07/mis-cosas-en-junio-2026/</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>AsturGeek V3</category>
-<description><![CDATA[Vamos a recuperar una sección que hice varios meses y dejé de largo, desde Septiembre del año pasado. Es un resumen de los que veo y hago durante el mes que acaba. No sé si es interesante, pero es una manera de resumir los que pruebo, veo o escucho&amp;#8230; Vamos allá&amp;#8230; Juegos He empezado una...<br><br><strong>Fuente:</strong> AsturGeek V3]]></description>
-</item>
-<item>
-<title>Análisis de Cat Squeeze</title>
-<link>https://cozykis.kisworld.es/analisis-de-cat-squeeze/</link>
-<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-cat-squeeze/</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>CozyKis</category>
-<description><![CDATA[Un explosivo juego de puzles que nos hará pensar, protagonizado por el michi más fluffy que podemos imaginar La entrada Análisis de Cat Squeeze se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
-</item>
-<item>
-<title>El formato físico, las minorías y las verdades a medias</title>
-<link>https://www.gorkula.com/formato-fisico-minorias-verdades-a-medias</link>
-<guid isPermaLink="true">https://www.gorkula.com/formato-fisico-minorias-verdades-a-medias</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
-<category>gorkula.com</category>
-<description><![CDATA[Ahora que estoy tratando de implicarme un poco más en la blogosfera de habla hispana aprovecho para dar mi opinión sobre un melón abierto por Matizeta: ¿Por qué quieres ser dueño de algo? Matizeta se pregunta, ¿Cúando fue que ecuchaste el CD de tu artista favorito de principio a fin? Yo sigo escuch<br><br><strong>Fuente:</strong> gorkula.com]]></description>
-</item>
-<item>
-<title>Lispr - Dictado de voz para Mac con enfoque en la privacidad</title>
-<link>https://guillermolatorre.com/clips/lispr-dictado-de-voz-para-mac-con-enfoque-en-la-privacidad</link>
-<guid isPermaLink="true">https://guillermolatorre.com/clips/lispr-dictado-de-voz-para-mac-con-enfoque-en-la-privacidad</guid>
-<pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-<category>Guillermo Latorre | Feed RSS</category>
-<description><![CDATA[Hay muchas opciones de dictado de voz con IA que ayuda a interpretar el texto correctamente. Lispr me sorprendió mucho porque funciona como los mejores, pero está enfocado en la privacidad: no hay registro ni datos de usuario y todas las grabaciones se eliminan automáticamente. De momento es gratis<br><br><strong>Fuente:</strong> Guillermo Latorre | Feed RSS]]></description>
-</item>
-<item>
-<title>Los herederos de Stanley</title>
-<link>https://ccriss92.bearblog.dev/los-herederos-de-stanley/</link>
-<guid isPermaLink="true">https://ccriss92.bearblog.dev/los-herederos-de-stanley/</guid>
-<pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-<category>Cajón desastre</category>
-<description><![CDATA[Últimamente estoy participando bastante en iniciativas compartidas y sociales relacionadas con la literatura y los videojuegos. Ya solo en Mastodon podría enumerar varias, como la lectura conjunta de Yesteryear, el inminente FanCiClub, especializado en literatura de fantasía y ciencia ficción, o el<br><br><strong>Fuente:</strong> Cajón desastre]]></description>
-</item>
-<item>
-<title>Semana 27/2026</title>
-<link>https://www.macram.es/posts/2026/07/semana-27-2026/</link>
-<guid isPermaLink="true">https://www.macram.es/posts/2026/07/semana-27-2026/</guid>
-<pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-<category>Manu Mateos</category>
-<description><![CDATA[¿Os acordáis cuando hace unas semanas me quejaba de que llovía mucho? Me retracto, pido perdón, no lo volveré a hacer. Qué horror de calor. Y estamos a principios de julio. No me quiero imaginar lo que va a ser la primera quincena de agosto, que suele ser la horrorosa por aquí. Menos mal que tengo l<br><br><strong>Fuente:</strong> Manu Mateos]]></description>
 </item>
 
 </channel>
