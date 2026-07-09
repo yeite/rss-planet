@@ -1,5 +1,33 @@
 [
   {
+    "blog": "La línea doméstica",
+    "titulo": "Magic Sex Worker",
+    "link": "https://jmlro.codeberg.page/posts/2026/07-09-magic-sex-worker.html",
+    "fecha": "09/07/2026",
+    "contenido": "En el tercer episodio de la quinta temporada de Hacks, Ava conoce a Eli en una fiesta. Charlan y flirtean, se despiden e intercambian teléfonos. Él le advierte un dato que en general provoca problemas en sus relaciones: I'm a sex worker. A la comprometida y reivindicativa Ava Daniels le parece un de"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Algunos podcasts que no son una mierda – Vol.2",
+    "link": "https://56k.es/fanta/algunos-podcasts-que-no-son-una-mierda-vol-2/",
+    "fecha": "09/07/2026",
+    "contenido": "Seguimos con recomendaciones en la serie de posts llamado «Algunos podcasts que no son una mierda». &#160; # Meloni &#8211; Un Marqués en La Gomera Episodio 1: A 4000KM Episodio 2: A bordo del Caballo Loco Episodio 3: El Marqués de Oristano Episodio 4: La Discoteca Episodio 5: Fundar una familia Epi"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #884",
+    "link": "https://www.fabio.com.ar/9981-ruleta-rusa-884",
+    "fecha": "09/07/2026",
+    "contenido": "     &iquest;Para d&oacute;nde es la ruleta?\nFeliz d&iacute;a de la Independencia! As&iacute; es, para nosotros es el d&iacute;a que recuerda nuestra independencia del Imperio Espa&ntilde;ol, as&iacute; que hoy es feriado, casi nadie trabaja, pero eso tampoco es que lo hicieran mucho esta semana, es"
+  },
+  {
+    "blog": "AsturGeek V3",
+    "titulo": "Instalando WordPress con Docker",
+    "link": "https://asturgeek.eu/2026/07/09/instalando-wordpress-con-docker/",
+    "fecha": "09/07/2026",
+    "contenido": "Vamos a hacer una serie de artículos con los servicios que tengo integrados en el servidor casero. Vamos a empezar por éste blog, con WordPress.Supongo quer si te metes en éste lío, ya tendrás unas mínimas nociones. Mi servidor está en un minipc y en él he instalado Debian sin escritorio, y los paqu"
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "Futuraville",
     "link": "https://thecheis.com/2026/07/08/futuraville/",
@@ -284,7 +312,7 @@
     "titulo": "565. Misiones clandestinas",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/07/565-misiones-clandestinas.html",
     "fecha": "06/07/2026",
-    "contenido": "&nbsp; &nbsp;&nbsp;Un verano cualquiera en algún punto turístico de las costas españolas.&nbsp;&nbsp; &nbsp; La familia nuclear Parahoy, tal como tenía planeado, ha despertado a las 5:30 AM de un sueño tranquilo. Las alarmas de los móviles de cada uno de sus integrantes estaban sincronizadas. Tienen"
+    "contenido": "&nbsp; &nbsp; Un verano cualquiera en algún punto turístico de las costas españolas.&nbsp; &nbsp; La familia nuclear Parahoy, tal como tenía planeado, se ha despertado a las 5:30 a. m. de un sueño tranquilo. Las alarmas de los móviles de cada uno de sus integrantes estaban sincronizadas. Tienen una "
   },
   {
     "blog": "_ voidNull",
@@ -511,6 +539,13 @@
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
+    "blog": "Mi perra vida",
+    "titulo": "Mi perra vida | Temporada 2026, episodio 27.",
+    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-26-2/",
+    "fecha": "03/07/2026",
+    "contenido": "Relato – Doctor Nómada &#124; Bonus track\n\nDoctor Nómada (tercera parte)\nLeer la segunda parte\nEl tráfico de la ciudad era particularmente denso, hacia donde volteara las calles y avenidas eran un estacionamiento, pensé que, eso me tenía con una sensación atípica de cansancio y malestar general. Me "
+  },
+  {
     "blog": "Interlan",
     "titulo": "Tutorial: Encuentra que consume Espacio en tu Disco",
     "link": "https://interlan.ec/blog/2026/07/03/tutorial-encuentra-que-consume-espacio-en-tu-disco/",
@@ -623,34 +658,6 @@
     "contenido": "Una novela visual en la que se mezcla una historia interesante con puzles que cambiarán el curso de la historia\nLa entrada Análisis de Fortune Fragments se publicó primero en CozyKis."
   },
   {
-    "blog": "Adrián Perales",
-    "titulo": "Texto a voz y GNU/Linux en 2026",
-    "link": "https://adrianperales.com/2026/07/texto-a-voz-y-gnu-linux-en-2026/",
-    "fecha": "02/07/2026",
-    "contenido": "Con mi resto visual, una de las opciones de accesibilidad que más uso es la lectura de texto en voz alta («Texto a voz», «Text to speech» o TTS). En los sistemas de Apple viene VoiceOver integrado y hay apps como VoiceDream que lo convierten en una característica cómoda y deseable, con voces que sue"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "¡Guardad algunas diésel!",
-    "link": "https://brucknerite.net/2026/07/guardad-algunas-diesel.html",
-    "fecha": "02/07/2026",
-    "contenido": "La sostenibilidad del sector del transporte requiere reducir a un mínimo las emisiones de CO₂, pero hay una circunstancia en la que disponer de una flota activa de locomotoras diésel es no ya aconsejable, sino necesario."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – julio de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/07/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-julio-de-2026/",
-    "fecha": "02/07/2026",
-    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Mis lecturas en junio de 2026",
-    "link": "https://escritura.social/mcallus/mis-lecturas-en-junio-de-2026",
-    "fecha": "02/07/2026",
-    "contenido": ""
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "Sobre el anuncio de Sony y la muerte del formato físico",
     "link": "https://blog.luiscarlospando.com/gaming/2026/07/sobre-el-anuncio-de-sony-y-la-muerte-del-formato-fisico/",
@@ -665,73 +672,10 @@
     "contenido": "Voy poco al cine. Pero cuando voy, la verdad es que creo que termino siempre en películas que me gustan. Y Supergirl ha sido una de ellas. Sin ser yo una persona muy de superhéroes, nada conocedora del universo DC, he disfrutado esta película.\nUn universo del que quiero saber más, una muchacha dando"
   },
   {
-    "blog": "Manu Mateos",
-    "titulo": "Trece años de Google Reader",
-    "link": "https://www.macram.es/posts/2026/07/trece-anos-de-google-reader/",
-    "fecha": "02/07/2026",
-    "contenido": "No es una efeméride especialmente relevante para el mundo pero, lo reconozco, sí una de las más relevantes para mí (y aun así no recordé la fecha exacta, que hasta que no la he visto en un toot en Mastodon no me he acordado de ello). Ayer (o hoy, no lo tengo claro) se cumplieron trece años desde que"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Redes sociales despersonalizadas",
-    "link": "https://matizeta.com/2026/07/02/redes-sociales-despersonalizadas/",
-    "fecha": "02/07/2026",
-    "contenido": "Hace ya más de un año y medio que estoy en Mastodon. No sé bien la razón por la que entré.&#160; No soy de probar nuevas redes sociales, simplemente porque no me considero un usuario habitual que crea contenido en estas plataformas efímeras y con el paso de los años, utilizarlas me interesa cada vez"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "564. En el súper 2",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/07/564-en-el-super-2.html",
     "fecha": "02/07/2026",
     "contenido": "&nbsp; &nbsp; Detesto el desorden. Detesto que cualquier objeto inanimado que se precie esté fuera de su sitio después de su uso. Así que detesto a las personas que, por ejemplo, al finalizar la compra de productos, dejan el carro del supermercado en cualquier lugar menos donde corresponde.&nbsp;&nb"
-  },
-  {
-    "blog": "",
-    "titulo": "QEPD",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/07/02/qepd-2/",
-    "fecha": "02/07/2026",
-    "contenido": "Fallecio Daniel Melingo, una de las figuras del rock Argentino y el tango."
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendación.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/07/02/recomendacion-18/",
-    "fecha": "02/07/2026",
-    "contenido": "Les dejo como recomendación la web de Pamela Schweblin para que la visiten, Pamela es una de las grandes gaiteras de Argentina. &#62;&#62;&#62; Click Aqui &#60;&#60;&#60;"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Informática decolonial – PCBs de cerámica",
-    "link": "https://56k.es/fanta/informatica-decolonial-placas-base-de-ceramica/",
-    "fecha": "02/07/2026",
-    "contenido": "En una entrevista le preguntaron a Stefanie Wuschitz aquello de «¿Cómo describirías o definirías la informática decolonial?» La respuesta es más extensa pero comienza así: «Es la abolición del hardware tal y como lo conocemos hoy». La entrevista sigue y llega un momento en el que Stefanie dice que e"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #883",
-    "link": "https://www.fabio.com.ar/9976-ruleta-rusa-883",
-    "fecha": "02/07/2026",
-    "contenido": "     No hay nada que levante el jueves mejor que una Ruleta!\nSe que ni me van a dar pelota entre tanto f&uacute;tbol, prodes, quilombos, desfalcos estatales, terremotos y cosas, pero la yapa de hoy es digna de las mejores ruletas, no los voy a defraudar, s&iacute;ganme!\nAhora s&iacute;, Ruleta Rusa!"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Doom Of Death: Valley Of Shadows | Sin Miedo A Las Sombras",
-    "link": "https://www.delotroladometal.com.ar/2026/07/02/sin-miedo-a-las-sombras/",
-    "fecha": "02/07/2026",
-    "contenido": "(2026 &#8211; Kongsblod Records) El Doom debe ser uno de los subgéneros del Metal mas...\nThe post Doom Of Death: Valley Of Shadows | Sin Miedo A Las Sombras first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Dimhaven – The Lost Source",
-    "link": "https://cozykis.kisworld.es/analisis-de-dimhaven-the-lost-source/",
-    "fecha": "02/07/2026",
-    "contenido": "Llegaremos a una isla misteriosa buscando respuestas y encontraremos puzles por resolver que nos pondrán a prueba\nLa entrada Análisis de Dimhaven &#8211; The Lost Source se publicó primero en CozyKis."
-  },
-  {
-    "blog": "quiroptero.blog",
-    "titulo": "¿Qué tan difícil es imprimir un PDF?",
-    "link": "https://www.quiroptero.blog/2026/07/cups/",
-    "fecha": "02/07/2026",
-    "contenido": "Quise leer un ensayo anarquista y mi impresora decidió no imprimirlo"
   }
 ]
