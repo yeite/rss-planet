@@ -1,5 +1,12 @@
 [
   {
+    "blog": "matizeta",
+    "titulo": "Youtubers que sigo",
+    "link": "https://matizeta.com/2026/07/09/youtubers-que-sigo/",
+    "fecha": "09/07/2026",
+    "contenido": "Esta publicación esta inspirada por la entrada del blog de Fanta (me encanta el título que le puso). Hace tiempo quería mencionar algunos Youtubers que sigo (de los que miro casi todos sus videos) , que valen la pena recomendar. NewEsc (Domingo Gomes) Si bien miro muchos canales de tecnología, el ún"
+  },
+  {
     "blog": "La línea doméstica",
     "titulo": "Magic Sex Worker",
     "link": "https://jmlro.codeberg.page/posts/2026/07-09-magic-sex-worker.html",
@@ -21,11 +28,25 @@
     "contenido": "     &iquest;Para d&oacute;nde es la ruleta?\nFeliz d&iacute;a de la Independencia! As&iacute; es, para nosotros es el d&iacute;a que recuerda nuestra independencia del Imperio Espa&ntilde;ol, as&iacute; que hoy es feriado, casi nadie trabaja, pero eso tampoco es que lo hicieran mucho esta semana, es"
   },
   {
+    "blog": "Un blog",
+    "titulo": "Claude me miente abiertamente",
+    "link": "https://nachof.blog/posts/2026/claude-me-miente-abiertamente/",
+    "fecha": "09/07/2026",
+    "contenido": "No es la primera vez que me pasa, y me genera cero confianza. Así que otra vez toca una queja sobre el verme obligado a usar Claude.\nNo me gusta cuando las herramientas que uso cambian su comportamiento sin aviso. Incluso cuando es para mejor, espero por lo menos un mensaje. O haber hecho yo algo pa"
+  },
+  {
     "blog": "AsturGeek V3",
     "titulo": "Instalando WordPress con Docker",
     "link": "https://asturgeek.eu/2026/07/09/instalando-wordpress-con-docker/",
     "fecha": "09/07/2026",
     "contenido": "Vamos a hacer una serie de artículos con los servicios que tengo integrados en el servidor casero. Vamos a empezar por éste blog, con WordPress.Supongo quer si te metes en éste lío, ya tendrás unas mínimas nociones. Mi servidor está en un minipc y en él he instalado Debian sin escritorio, y los paqu"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "La industria del videojuego se va (un poco) a la mierda",
+    "link": "https://cozykis.kisworld.es/la-industria-del-videojuego-se-va-un-poco-a-la-mierda/",
+    "fecha": "09/07/2026",
+    "contenido": "La industria de los videojuegos lleva un tiempo tan confusa que se hiere a sí misma, pero estamos a tiempo de salvarla\nLa entrada La industria del videojuego se va (un poco) a la mierda se publicó primero en CozyKis."
   },
   {
     "blog": "THE_CHEI$",
@@ -47,13 +68,6 @@
     "link": "https://blog.taller404.org/posts/arcane/",
     "fecha": "08/07/2026",
     "contenido": "Llevo años con el mismo ritual. Se cae algo, o quiero actualizar un servicio,\no simplemente me pregunto &ldquo;¿qué tal andan mis máquinas?&rdquo;, y la respuesta siempre es\nla misma: abrir una terminal, SSH a la máquina, cd docker/loquesea,\ndocker compose up -d, docker logs -f, mirar, salir, y a la"
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "Superestrella. El pop como clave social. Las bodas.",
-    "link": "https://galeriaspreciados.band/superestrella-el-pop-como-clave-social-las-bodas/",
-    "fecha": "08/07/2026",
-    "contenido": "Hace un tiempo mi colega la Ani me preguntó que si el pop como concepto era un diminutivo de \"popular\" que sentido tenía la idea de \"pop independiente\" y el otro día me he acordado de esto escuchando Superestrella de  Aitana"
   },
   {
     "blog": "Manu Mateos",
@@ -110,13 +124,6 @@
     "link": "https://nachof.blog/posts/2026/el-cafe-frio-sigue-siendo-cafe-frio/",
     "fecha": "08/07/2026",
     "contenido": "Voy a empezar diciendo que no me gusta el café. Tuve mi época de más joven donde tomaba café, pero era más por la cafeína que por el gusto, y siempre era con toneladas de azúcar. Pero la realidad es que no me gusta.\nHace un tiempo leí Homeland, el segundo libro de la serie de Little Brother, de Cory"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Ícaro: Siendo Libre | El Final De Una Historia Y El Nacimiento De Una Leyenda",
-    "link": "https://www.delotroladometal.com.ar/2026/07/08/el-final-de-una-historia-y-el-nacimiento-de-una-leyenda/",
-    "fecha": "08/07/2026",
-    "contenido": "(2026 &#8211; Tharseo Music Records) Y finalmente llega a nuestras manos el último álbum de...\nThe post Ícaro: Siendo Libre | El Final De Una Historia Y El Nacimiento De Una Leyenda first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "JavierSam",
@@ -217,25 +224,11 @@
     "contenido": "Haz scroll a la derecha dentro de esta lista de abajo (o arrastra si estás en móvil) para poder leerla completa. Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon "
   },
   {
-    "blog": "End3r.es",
-    "titulo": "Carl el mazmorrero",
-    "link": "https://www.end3r.es/posts/022-carl-el-mazmorrero/",
-    "fecha": "07/07/2026",
-    "contenido": "¿Alguna vez has soñado con ser un héroe? ¿Salvar al mundo, derrotar dragones y ganarte el amor de una princesa? Carl también.\nEl problema es que él preferiría hacer todo eso sin tener que levantarse del sofá.\nLa Tierra es invadida por una civilización extraterrestre que transforma el planeta en una "
-  },
-  {
     "blog": "matizeta",
     "titulo": "¿Por qué quieres ser dueño de algo?",
     "link": "https://matizeta.com/2026/07/07/por-que-quieres-ser-dueno-de-algo/",
     "fecha": "07/07/2026",
     "contenido": "Mucho se está hablando del anuncio sobre Sony mata el formato físico para&#160; los videojuegos&#160;(previsto&#160; para el 2028).&#160; Esta entrada es mi opinión y también mi respuesta a la pregunta con la que termina el texto en el blog de eapl. A mi el formato físico y el digital me van bien po"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Unas fotos para Comisura",
-    "link": "https://www.ericafustero.com/2026-07-unas-fotos-para-comisura",
-    "fecha": "07/07/2026",
-    "contenido": "Carlota y Laura hacen libros. Propios, porque ambas son autoras, y ajenos, ya que juntas están al frente de Comisura, una editorial que pone en diálogo escritura, fotografía y archivo, y por cuyo catálogo pasean autoras como Leanne Shapton, Sabina Urraca o Sophie Calle. Juntas, y también por separad"
   },
   {
     "blog": "56K",
@@ -250,13 +243,6 @@
     "link": "https://www.fabio.com.ar/9979-fingerprinting-para-detectar-bots-en-el-blog",
     "fecha": "07/07/2026",
     "contenido": "    \nA mediados de la semana pasada el tr&aacute;fico del blog, de pronto, subi&oacute; varios &oacute;rdenes de magnitud. No era tr&aacute;fico leg&iacute;timo, eran puros bots, pero estaban sorteando todos mis bloqueos previos.\nComo siempre, no es que me moleste que un spider de un buscador captur"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"Prone To Wander\" Es Un Despliegue De Puro Metalcore Progresivo | Altarheart Anuncia Su Nuevo Álbum",
-    "link": "https://www.delotroladometal.com.ar/2026/07/07/altarheart-anuncia-su-nuevo-album/",
-    "fecha": "07/07/2026",
-    "contenido": "Un nuevo disco aparece en el radar, y se trata de la próxima edición de...\nThe post \"Prone To Wander\" Es Un Despliegue De Puro Metalcore Progresivo | Altarheart Anuncia Su Nuevo Álbum first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "AsturGeek V3",
@@ -343,25 +329,11 @@
     "contenido": "Todos sabemos que los free trials que te empiezan a cobrar automáticamente son una estafa. No hay novedad. Pero quiero quejarme un poco.\nResulta que estoy de viaje, y quería aprovechar para comprar unas cosas que en Uruguay no se consiguen. Amazon es horrible, y debería dejar de existir, pero es el "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Majestic Vanguard: Beyond The Moon | Un Legado Imborrable",
-    "link": "https://www.delotroladometal.com.ar/2026/07/06/un-legado-imborrable/",
-    "fecha": "06/07/2026",
-    "contenido": "(2005 &#8211; Rivel Records) Escuchar un buen disco es algo que los que se contentan...\nThe post Majestic Vanguard: Beyond The Moon | Un Legado Imborrable first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Para tener a mano (LV)",
     "link": "https://javiersam.uy/2026/07/para-tener-a-mano-lv-2.html",
     "fecha": "06/07/2026",
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Mis estadísticas de running en la web",
-    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
-    "fecha": "06/07/2026",
-    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
   },
   {
     "blog": "CozyKis",
@@ -413,13 +385,6 @@
     "contenido": "\n  \n    \n  \nCórdoba, a 5 de julio de 2026."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Velocidad 22: Culto Al Acero | Con El Heavy Metal En Alto",
-    "link": "https://www.delotroladometal.com.ar/2026/07/05/con-el-heavy-metal-en-alto/",
-    "fecha": "05/07/2026",
-    "contenido": "(2017/2025 &#8211; Pacheco Records) Sin dudas son una de las bandas mas intensas y que...\nThe post Velocidad 22: Culto Al Acero | Con El Heavy Metal En Alto first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Calculadora de costes de publicidad: CPC, CPM y CPA",
     "link": "https://guillermolatorre.com/clips/calculadora-de-costes-de-publicidad-cpc-cpm-y-cpa",
@@ -455,13 +420,6 @@
     "contenido": "Hace un par de meses escribí que un chatbot era un espejo sin centro y que cuando uno busca al que mira detrás de los ojos, no lo encuentra, ya que el espejo no te devuelve una imagen sino tu propio yo.\nLo sigo pensando, pero resulta que me quedé corto en una cosa: El espejo no está vacío del todo. "
   },
   {
-    "blog": "Erica Fustero",
-    "titulo": "Algunas fotos de mayo",
-    "link": "https://www.ericafustero.com/2026-07-algunas-fotos-de-mayo",
-    "fecha": "04/07/2026",
-    "contenido": "En mayo pasé tres semanas de viaje presentando mi libro en Valencia, Móstoles, Madrid y Zaragoza. Llevé cuatro cámaras, dos de carrete, dos digitales, y como de costumbre, lo fotografié todo. Algunas de las fotos que hice ya las compartí en los posts sobre las presentaciones, pero quedaron otras tan"
-  },
-  {
     "blog": "56K",
     "titulo": "Youtubers que no me caen mal – Vol.1",
     "link": "https://56k.es/fanta/youtubers-que-no-me-caen-mal/",
@@ -469,32 +427,11 @@
     "contenido": "Dejo por aquí una serie de eso que llaman «Creadores de contenido» y &#8230;.bueno digo «youtubers» porque los links que voy a poner son de sus canales en youtube. Eso no quiere decir que tengas que consumir su contenido, que tengas que verlo directamente visitando youtube, etc &#8230; Esto simpleme"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Thrash Metal En Formato Acústico | “Resonancias” Es El Nuevo Material De Methal Kyrios",
-    "link": "https://www.delotroladometal.com.ar/2026/07/04/resonancias-es-el-nuevo-material-de-methal-kyrios/",
-    "fecha": "04/07/2026",
-    "contenido": "Si, como están leyendo. Hacer Thrash Metal sin distorsión? Será posible? Bueno, los chicos de...\nThe post Thrash Metal En Formato Acústico | “Resonancias” Es El Nuevo Material De Methal Kyrios first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "DANOK: cuando el valor está en el avance y en las personas",
-    "link": "https://dani.torresburriel.com/danok-cuando-el-valor-esta-en-el-avance-y-en-las-personas/",
-    "fecha": "04/07/2026",
-    "contenido": "El viernes pasado estuve en Donosti en una de esas sesiones de trabajo que, he de reconocer, me dejan con más energía de la que llevo. No era una reunión cualquiera: era una de esas en las que, entre debates intensos y algún que otro «joder, ¿y esto cómo lo hacemos?«, se palpaba que algo &#8230; Sig"
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (dieciseisavos de final)",
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-dieciseisavos-de-final.html",
     "fecha": "04/07/2026",
     "contenido": "Ayer se completaron los dieciseisavos de final (la primera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 5 selecciones sudamericanas enfrentaron a 2 rivales de África, 1 de Europa, 1 de la CONCACAF y 1 de Asia. Brasil 2 &#82"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Los Perseguidos, ficción sonora fantástica",
-    "link": "https://chancli.dev/blog/los-perseguidos-audio-ficcion.html",
-    "fecha": "04/07/2026",
-    "contenido": "Soy un gran aficionado a los podcasts, sobre todo sigo podcasts de tecnología y algunos de misterio.\nPero hoy no vengo a recomendaros un podcast normal, es una ficción sonora de una calidad de producción increíble.\nSe trata de Los Perseguidos, basado en la novela de Fernando Benzo.\nSe ve que Onda Ce"
   },
   {
     "blog": "labaudric",
@@ -558,13 +495,6 @@
     "link": "https://matizeta.com/2026/07/03/lecturas-recomendadas-7/",
     "fecha": "03/07/2026",
     "contenido": "10 lecturas publicadas en blogs que me gustaron y quiero compartir. Para más lecturas recordá que podés visitar ¡Blog!¡Blog! “Técnicamente cualquiera puede proteger parte de su información, utilizar herramientas alternativas o reducir rastreo digital, pero en la práctica hacerlo requiere tiempo, est"
-  },
-  {
-    "blog": "productor de sostenibilidad",
-    "titulo": "El mundial de fútbol más insostenible",
-    "link": "https://productordesostenibilidad.es/2026/07/el-mundial-de-futbol-mas-insostenible/",
-    "fecha": "03/07/2026",
-    "contenido": "El de fútbol de 2026 ha conseguido por méritos propios coronarse como el mundial más contaminante de la historia. Centrándonos en las emisiones de gases de efecto invernadero, el informe “FIFA’s Climate Blind Spot: The Men’s World Cup in a Warming World” estima que el campeonato celebrado en Norte A"
   },
   {
     "blog": "danielaragay.net",
@@ -637,13 +567,6 @@
     "contenido": "Sigo con la lista de cosas aprendidas, igual que el mes pasado\nOrcas cazadoras\nLas orcas son animales re interesantes. Tienen tendencias culturales como ponerse salmones de sombrero, o hundir yates de lujo. También son famosas por ser cazadoras, con el sobrenombre de &ldquo;ballenas asesinas&rdquo; "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Se Devela También La Lista De Temas Y El Nuevo Video Clip | El Nuevo Álbum De Stryper Se Llama “Throne Of Thorns”",
-    "link": "https://www.delotroladometal.com.ar/2026/07/03/el-nuevo-album-de-stryper-se-llama-throne-of-thorns/",
-    "fecha": "03/07/2026",
-    "contenido": "Hoy, los legendarios pioneros del Metal Cristiano Stryper regresan con un nuevo y imponente capítulo...\nThe post Se Devela También La Lista De Temas Y El Nuevo Video Clip | El Nuevo Álbum De Stryper Se Llama “Throne Of Thorns” first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "El Cajón de la Tecnología",
     "titulo": "El diario de un Nerd – Diego",
     "link": "https://tecnocajon.wordpress.com/2026/07/03/479/",
@@ -656,26 +579,5 @@
     "link": "https://cozykis.kisworld.es/analisis-de-fortune-fragments/",
     "fecha": "03/07/2026",
     "contenido": "Una novela visual en la que se mezcla una historia interesante con puzles que cambiarán el curso de la historia\nLa entrada Análisis de Fortune Fragments se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Sobre el anuncio de Sony y la muerte del formato físico",
-    "link": "https://blog.luiscarlospando.com/gaming/2026/07/sobre-el-anuncio-de-sony-y-la-muerte-del-formato-fisico/",
-    "fecha": "02/07/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "Supergirl",
-    "link": "https://www.macram.es/peliculas/supergirl/",
-    "fecha": "02/07/2026",
-    "contenido": "Voy poco al cine. Pero cuando voy, la verdad es que creo que termino siempre en películas que me gustan. Y Supergirl ha sido una de ellas. Sin ser yo una persona muy de superhéroes, nada conocedora del universo DC, he disfrutado esta película.\nUn universo del que quiero saber más, una muchacha dando"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "564. En el súper 2",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/07/564-en-el-super-2.html",
-    "fecha": "02/07/2026",
-    "contenido": "&nbsp; &nbsp; Detesto el desorden. Detesto que cualquier objeto inanimado que se precie esté fuera de su sitio después de su uso. Así que detesto a las personas que, por ejemplo, al finalizar la compra de productos, dejan el carro del supermercado en cualquier lugar menos donde corresponde.&nbsp;&nb"
   }
 ]
