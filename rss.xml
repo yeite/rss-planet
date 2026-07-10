@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 10 Jul 2026 01:52:26 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 09:00:39 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Youtubers que sigo</title>
+<link>https://matizeta.com/2026/07/09/youtubers-que-sigo/</link>
+<guid isPermaLink="true">https://matizeta.com/2026/07/09/youtubers-que-sigo/</guid>
+<pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
+<category>matizeta</category>
+<description><![CDATA[Esta publicación esta inspirada por la entrada del blog de Fanta (me encanta el título que le puso). Hace tiempo quería mencionar algunos Youtubers que sigo (de los que miro casi todos sus videos) , que valen la pena recomendar. NewEsc (Domingo Gomes) Si bien miro muchos canales de tecnología, el ún<br><br><strong>Fuente:</strong> matizeta]]></description>
+</item>
 <item>
 <title>Magic Sex Worker</title>
 <link>https://jmlro.codeberg.page/posts/2026/07-09-magic-sex-worker.html</link>
@@ -42,12 +50,28 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[&amp;iquest;Para d&amp;oacute;nde es la ruleta? Feliz d&amp;iacute;a de la Independencia! As&amp;iacute; es, para nosotros es el d&amp;iacute;a que recuerda nuestra independencia del Imperio Espa&amp;ntilde;ol, as&amp;iacute; que hoy es feriado, casi nadie trabaja, pero eso tampoco es que lo hicieran mucho esta semana, es<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
 </item>
 <item>
+<title>Claude me miente abiertamente</title>
+<link>https://nachof.blog/posts/2026/claude-me-miente-abiertamente/</link>
+<guid isPermaLink="true">https://nachof.blog/posts/2026/claude-me-miente-abiertamente/</guid>
+<pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
+<category>Un blog</category>
+<description><![CDATA[No es la primera vez que me pasa, y me genera cero confianza. Así que otra vez toca una queja sobre el verme obligado a usar Claude. No me gusta cuando las herramientas que uso cambian su comportamiento sin aviso. Incluso cuando es para mejor, espero por lo menos un mensaje. O haber hecho yo algo pa<br><br><strong>Fuente:</strong> Un blog]]></description>
+</item>
+<item>
 <title>Instalando WordPress con Docker</title>
 <link>https://asturgeek.eu/2026/07/09/instalando-wordpress-con-docker/</link>
 <guid isPermaLink="true">https://asturgeek.eu/2026/07/09/instalando-wordpress-con-docker/</guid>
 <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
 <category>AsturGeek V3</category>
 <description><![CDATA[Vamos a hacer una serie de artículos con los servicios que tengo integrados en el servidor casero. Vamos a empezar por éste blog, con WordPress.Supongo quer si te metes en éste lío, ya tendrás unas mínimas nociones. Mi servidor está en un minipc y en él he instalado Debian sin escritorio, y los paqu<br><br><strong>Fuente:</strong> AsturGeek V3]]></description>
+</item>
+<item>
+<title>La industria del videojuego se va (un poco) a la mierda</title>
+<link>https://cozykis.kisworld.es/la-industria-del-videojuego-se-va-un-poco-a-la-mierda/</link>
+<guid isPermaLink="true">https://cozykis.kisworld.es/la-industria-del-videojuego-se-va-un-poco-a-la-mierda/</guid>
+<pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
+<category>CozyKis</category>
+<description><![CDATA[La industria de los videojuegos lleva un tiempo tan confusa que se hiere a sí misma, pero estamos a tiempo de salvarla La entrada La industria del videojuego se va (un poco) a la mierda se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
 </item>
 <item>
 <title>Futuraville</title>
@@ -72,14 +96,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
 <category>Posts on Mi blog</category>
 <description><![CDATA[Llevo años con el mismo ritual. Se cae algo, o quiero actualizar un servicio, o simplemente me pregunto &amp;ldquo;¿qué tal andan mis máquinas?&amp;rdquo;, y la respuesta siempre es la misma: abrir una terminal, SSH a la máquina, cd docker/loquesea, docker compose up -d, docker logs -f, mirar, salir, y a la<br><br><strong>Fuente:</strong> Posts on Mi blog]]></description>
-</item>
-<item>
-<title>Superestrella. El pop como clave social. Las bodas.</title>
-<link>https://galeriaspreciados.band/superestrella-el-pop-como-clave-social-las-bodas/</link>
-<guid isPermaLink="true">https://galeriaspreciados.band/superestrella-el-pop-como-clave-social-las-bodas/</guid>
-<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-<category>Galerías Preciados</category>
-<description><![CDATA[Hace un tiempo mi colega la Ani me preguntó que si el pop como concepto era un diminutivo de &quot;popular&quot; que sentido tenía la idea de &quot;pop independiente&quot; y el otro día me he acordado de esto escuchando Superestrella de Aitana<br><br><strong>Fuente:</strong> Galerías Preciados]]></description>
 </item>
 <item>
 <title>He salvado mis AirPods Pro 2</title>
@@ -146,14 +162,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Voy a empezar diciendo que no me gusta el café. Tuve mi época de más joven donde tomaba café, pero era más por la cafeína que por el gusto, y siempre era con toneladas de azúcar. Pero la realidad es que no me gusta. Hace un tiempo leí Homeland, el segundo libro de la serie de Little Brother, de Cory<br><br><strong>Fuente:</strong> Un blog]]></description>
 </item>
 <item>
-<title>Ícaro: Siendo Libre | El Final De Una Historia Y El Nacimiento De Una Leyenda</title>
-<link>https://www.delotroladometal.com.ar/2026/07/08/el-final-de-una-historia-y-el-nacimiento-de-una-leyenda/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/07/08/el-final-de-una-historia-y-el-nacimiento-de-una-leyenda/</guid>
-<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[(2026 &amp;#8211; Tharseo Music Records) Y finalmente llega a nuestras manos el último álbum de... The post Ícaro: Siendo Libre | El Final De Una Historia Y El Nacimiento De Una Leyenda first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
 <title>Los sudamericanos en el mundial de fútbol de Norteamérica (octavos de final)</title>
 <link>https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-octavos-de-final.html</link>
 <guid isPermaLink="true">https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-octavos-de-final.html</guid>
@@ -208,14 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
 <category>Salva Más De Cerca</category>
 <description><![CDATA[helecho Jesús, hace bastante tiempo que no sabemos nada del otro. Vengo viviendo solo mi vida, envuelto en mis propósitos y mis cosas.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>🌱 Sobre la libertad</title>
-<link>https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-la-libertad</link>
-<guid isPermaLink="true">https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-la-libertad</guid>
-<pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[arbolito Escribo esto básicamente a oscuras. No consigo ver lo que escribo nítidamente, pero se que está ahí.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
 </item>
 
 </channel>
