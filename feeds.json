@@ -1,5 +1,26 @@
 [
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Holos Social | cuando el servidor vuelve a pertenecer al usuario",
+    "link": "https://gatooscuro.xyz/holos-social-cuando-el-servidor-vuelve-a-pertenecer-al-usuario/",
+    "fecha": "11/07/2026",
+    "contenido": "Durante años hemos escuchado que el Fediverso es descentralizado. La afirmación no es falsa, pero tampoco cuenta toda la historia. Si bien plataformas como Mastodon distribuyen la infraestructura entre miles\nSeguir leyendo  Holos Social &#124; cuando el servidor vuelve a pertenecer al usuario\nEl car"
+  },
+  {
+    "blog": "56K",
+    "titulo": "RSS2Email – Feeds RSS como Emails",
+    "link": "https://56k.es/fanta/rss2email-feeds-rss-como-emails/",
+    "fecha": "11/07/2026",
+    "contenido": "Existe gente que utilizan actualmente gestores de correo electrónico (clientes). Google llegó a nuestras vidas con «cuentas de correo electrónico gratuitas» pero antes de Google estaba por allí Micro$oft con las cuentas hotmail que servían también para el Messenger. Lo importante es que mucha gente "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Theoptia: Horeb | La Genialidad Al Servicio Del Death Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/07/11/la-genialidad-al-servicio-del-death-metal/",
+    "fecha": "11/07/2026",
+    "contenido": "(2017 &#8211; Unblack) Nos ha tocado escuchar muchas cosas raras y extrañas, y de hecho...\nThe post Theoptia: Horeb | La Genialidad Al Servicio Del Death Metal first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Retropixel 2026 en el Palacio de Congresos de Málaga, visita e impresiones",
     "link": "https://malagaoriginal.blogspot.com/2026/07/retropixel-2026-en-el-palacio-de.html",
@@ -483,13 +504,6 @@
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Mis estadísticas de running en la web",
-    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
-    "fecha": "06/07/2026",
-    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Análisis de Kitty Witchy",
     "link": "https://cozykis.kisworld.es/analisis-de-kitty-witchy/",
@@ -574,32 +588,11 @@
     "contenido": "Tengo intención de apagar mi instancia de LinkAce como parte de mi plan de migración del vetusto hosting LAMP que mantengo desde 2007. No me aportaba tampoco tanto. He decidido migrar mi recopilación de enlaces a una instancia compartida de Linkding; en este caso later.place, disponible para los usu"
   },
   {
-    "blog": "impermanente",
-    "titulo": "El espejo tiene acento",
-    "link": "https://impermanente.es/2026/07/04/el-espejo-tiene-acento.html",
-    "fecha": "04/07/2026",
-    "contenido": "Hace un par de meses escribí que un chatbot era un espejo sin centro y que cuando uno busca al que mira detrás de los ojos, no lo encuentra, ya que el espejo no te devuelve una imagen sino tu propio yo.\nLo sigo pensando, pero resulta que me quedé corto en una cosa: El espejo no está vacío del todo. "
-  },
-  {
     "blog": "Erica Fustero",
     "titulo": "Algunas fotos de mayo",
     "link": "https://www.ericafustero.com/2026-07-algunas-fotos-de-mayo",
     "fecha": "04/07/2026",
     "contenido": "En mayo pasé tres semanas de viaje presentando mi libro en Valencia, Móstoles, Madrid y Zaragoza. Llevé cuatro cámaras, dos de carrete, dos digitales, y como de costumbre, lo fotografié todo. Algunas de las fotos que hice ya las compartí en los posts sobre las presentaciones, pero quedaron otras tan"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Youtubers que no me caen mal – Vol.1",
-    "link": "https://56k.es/fanta/youtubers-que-no-me-caen-mal/",
-    "fecha": "04/07/2026",
-    "contenido": "Dejo por aquí una serie de eso que llaman «Creadores de contenido» y &#8230;.bueno digo «youtubers» porque los links que voy a poner son de sus canales en youtube. Eso no quiere decir que tengas que consumir su contenido, que tengas que verlo directamente visitando youtube, etc &#8230; Esto simpleme"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Thrash Metal En Formato Acústico | “Resonancias” Es El Nuevo Material De Methal Kyrios",
-    "link": "https://www.delotroladometal.com.ar/2026/07/04/resonancias-es-el-nuevo-material-de-methal-kyrios/",
-    "fecha": "04/07/2026",
-    "contenido": "Si, como están leyendo. Hacer Thrash Metal sin distorsión? Será posible? Bueno, los chicos de...\nThe post Thrash Metal En Formato Acústico | “Resonancias” Es El Nuevo Material De Methal Kyrios first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Blog de Daniel Torres Burriel",
@@ -609,24 +602,10 @@
     "contenido": "El viernes pasado estuve en Donosti en una de esas sesiones de trabajo que, he de reconocer, me dejan con más energía de la que llevo. No era una reunión cualquiera: era una de esas en las que, entre debates intensos y algún que otro «joder, ¿y esto cómo lo hacemos?«, se palpaba que algo &#8230; Sig"
   },
   {
-    "blog": "JavierSam",
-    "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (dieciseisavos de final)",
-    "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-dieciseisavos-de-final.html",
-    "fecha": "04/07/2026",
-    "contenido": "Ayer se completaron los dieciseisavos de final (la primera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 5 selecciones sudamericanas enfrentaron a 2 rivales de África, 1 de Europa, 1 de la CONCACAF y 1 de Asia. Brasil 2 &#82"
-  },
-  {
     "blog": "labaudric",
     "titulo": "Actividades junio 2026",
     "link": "https://labaudric.net/blog/actividades-junio-2026",
     "fecha": "04/07/2026",
     "contenido": "YUJUU\nMi primer entrada de blog de actualizaciones en esta nueva versión de mi página.\nPues el mes pasado ha estado cargadito.\nDesde el día 12/06/2026, el día del re estreno... No he parado de mejorar el back de la web.\nTambién, he de admitir, que me he desviado bastante. Me pasa a menudo. Me pongo "
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 233 videos en Phantasy Star Online, Forza, Titanfall 2, Gears Of War, Call Of Duty, Anthem, Detroit Become Human (PC), grid legends",
-    "link": "https://labaudric.net/videos/phantasy-star-online",
-    "fecha": "04/07/2026",
-    "contenido": "      +227 más"
   }
 ]
