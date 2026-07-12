@@ -1,10 +1,52 @@
 [
   {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🪁 El Jardín Digital",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
+    "fecha": "12/07/2026",
+    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌾 Viviendo apasionadamente la rutina",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%BE-Viviendo-apasionadamente-la-rutina",
+    "fecha": "12/07/2026",
+    "contenido": "arbolito ¿Como santifico mi vida corriente? La esencia de la vocación cristiana consiste en santificar la vida corriente."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🪴 Sobre el tiempo y las virtudes",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-el-tiempo-y-las-virtudes",
+    "fecha": "12/07/2026",
+    "contenido": "yuyo Note Sí, por el contrario, es consciente de que le pueden esperar cosas horribles, y reza para pedir las virtudes necesarias para enfrentarse con tales horrores, y entretanto se ocupa del presente, porque en éste, y sólo en éste, residen todos los deberes, toda la gracia, toda la sabiduría y to"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🪴 Sobre la importancia de las cosas",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-la-importancia-de-las-cosas",
+    "fecha": "12/07/2026",
+    "contenido": "helecho Las cosas del mundo son intrascendentes."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Untitled",
+    "link": "https://salvamir.github.io/Untitled",
+    "fecha": "12/07/2026",
+    "contenido": ""
+  },
+  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "Holos Social | cuando el servidor vuelve a pertenecer al usuario",
     "link": "https://gatooscuro.xyz/holos-social-cuando-el-servidor-vuelve-a-pertenecer-al-usuario/",
     "fecha": "11/07/2026",
     "contenido": "Durante años hemos escuchado que el Fediverso es descentralizado. La afirmación no es falsa, pero tampoco cuenta toda la historia. Si bien plataformas como Mastodon distribuyen la infraestructura entre miles\nSeguir leyendo  Holos Social &#124; cuando el servidor vuelve a pertenecer al usuario\nEl car"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "No somos un bug",
+    "link": "https://tecnoysoft.com/2026/07/11/no-somos-un-bug/",
+    "fecha": "11/07/2026",
+    "contenido": "Ignoro si esto será un error, porque mi blog es de tecnología, no de filosofía. Aun así, detrás de cada línea de código, de cada artículo y de cada proyecto hay personas. Y las personas nos equivocamos. Lo que ocurre es que, cuando alguien comete un error, enseguida aparecen esos jueces que parecen "
   },
   {
     "blog": "56K",
@@ -33,13 +75,6 @@
     "link": "https://joselito.mataroa.blog/blog/adios-mullvad-hola-ivpn/",
     "fecha": "10/07/2026",
     "contenido": "Tras la polémica de financiar uno de los dueños de Mullvad a un partido de ultraderecha, del cual recibe la mayoría de sus fondos, decidí abandonar inmediatamente esta VPN que me ha acompañado durante años y buscar alternativa.\nHace tiempo estuve en iVPN, que opera desde Gibraltar (no está ni siquie"
-  },
-  {
-    "blog": "manje.net",
-    "titulo": "Rahasia Lancar Berbicara Bahasa Spanyol Tanpa Beban",
-    "link": "https://blog.manje.net/rahasia-lancar-berbicara-bahasa-spanyol-tanpa-beban/",
-    "fecha": "10/07/2026",
-    "contenido": "Menjadi lancar berbicara Bahasa Spanyol tanpa beban sebenarnya berakar dari kemauan untuk melepaskan perfeksionisme dan berani tampil apa adanya saat berkomunikasi dengan orang lain. Banyak orang gagal mencapai kefasihan karena terlalu khawatir akan kesalahan tata bahasa atau aksen yang kurang &#823"
   },
   {
     "blog": "Victorhck in the free world",
@@ -196,13 +231,6 @@
     "contenido": "La mejora manera de mejorar Thunderbird es escuchando a las personas que lo utilizan y desarrollar el cliente de correo intentando condensar todas las opiniones para mejorar este gran cliente de correo electrónico"
   },
   {
-    "blog": "Posts on Mi blog",
-    "titulo": "Arcane: gestiona todos tus Docker y Podman desde una sola UI y sin abrir puertos",
-    "link": "https://blog.taller404.org/posts/arcane/",
-    "fecha": "08/07/2026",
-    "contenido": "Llevo años con el mismo ritual. Se cae algo, o quiero actualizar un servicio,\no simplemente me pregunto &ldquo;¿qué tal andan mis máquinas?&rdquo;, y la respuesta siempre es\nla misma: abrir una terminal, SSH a la máquina, cd docker/loquesea,\ndocker compose up -d, docker logs -f, mirar, salir, y a la"
-  },
-  {
     "blog": "Galerías Preciados",
     "titulo": "Superestrella. El pop como clave social. Las bodas.",
     "link": "https://galeriaspreciados.band/superestrella-el-pop-como-clave-social-las-bodas/",
@@ -281,13 +309,6 @@
   },
   {
     "blog": "Salva Más De Cerca",
-    "titulo": "🪁 El Jardín Digital",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
-    "fecha": "08/07/2026",
-    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
-  },
-  {
-    "blog": "Salva Más De Cerca",
     "titulo": "🌱 Es hoy el tiempo...",
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Es-hoy-el-tiempo...",
     "fecha": "08/07/2026",
@@ -320,34 +341,6 @@
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-el-sentido-de-las-cosas",
     "fecha": "08/07/2026",
     "contenido": "helecho Jesús, hace bastante tiempo que no sabemos nada del otro. Vengo viviendo solo mi vida, envuelto en mis propósitos y mis cosas."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌱 Sobre la libertad",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-la-libertad",
-    "fecha": "08/07/2026",
-    "contenido": "arbolito Escribo esto básicamente a oscuras. No consigo ver lo que escribo nítidamente, pero se que está ahí."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌱 Sobre la utilidad de mis pasatiempos",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-la-utilidad-de-mis-pasatiempos",
-    "fecha": "08/07/2026",
-    "contenido": "yuyo Me gustan cosas inservibles 🌷 Sobre la vida “real” Me doy cuenta que mis intereses parecen ser menos útiles o eficientes que los de los otros."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌱 ¿Cuánto tiempo tenemos?",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-%C2%BFCu%C3%A1nto-tiempo-tenemos",
-    "fecha": "08/07/2026",
-    "contenido": "Al parecer, Él quiere que algunos —pero sólo muy pocos— de los animales humanos con que está poblando el Cielo hayan tenido la experiencia de resistirnos a lo largo de una vida terrenal de sesenta o setenta años."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌱 ¿Dónde ves el Cielo vos?",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-%C2%BFD%C3%B3nde-ves-el-Cielo-vos",
-    "fecha": "08/07/2026",
-    "contenido": "Mientras son jóvenes, siempre les encontramos saliéndose por la tangente."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -504,6 +497,13 @@
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Mis estadísticas de running en la web",
+    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
+    "fecha": "06/07/2026",
+    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Análisis de Kitty Witchy",
     "link": "https://cozykis.kisworld.es/analisis-de-kitty-witchy/",
@@ -558,54 +558,5 @@
     "link": "https://www.delotroladometal.com.ar/2026/07/05/con-el-heavy-metal-en-alto/",
     "fecha": "05/07/2026",
     "contenido": "(2017/2025 &#8211; Pacheco Records) Sin dudas son una de las bandas mas intensas y que...\nThe post Velocidad 22: Culto Al Acero | Con El Heavy Metal En Alto first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Calculadora de costes de publicidad: CPC, CPM y CPA",
-    "link": "https://guillermolatorre.com/clips/calculadora-de-costes-de-publicidad-cpc-cpm-y-cpa",
-    "fecha": "04/07/2026",
-    "contenido": "Una herramienta online de Plausible para ayudar a interpretar les tres métricas publicitarias esenciales: CPC (coste por clic), CPM (coste por cada mil impresiones) y CPA (coste por conversión).Ir al enlace"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Cazar moscas a cañonazos",
-    "link": "https://guillermolatorre.com/clips/cazar-moscas-a-canonazos",
-    "fecha": "04/07/2026",
-    "contenido": "La IA tiene algo magnético: promete resolver lo que no hemos sabido ordenar. Pero muchas tareas de un despacho no necesitan inteligencia, necesitan proceso. Y eso, precisamente, es lo que más cuesta sentarse a pensar.Ir al enlace"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Fusionar carpetas en Linux usando fstab y bind",
-    "link": "https://thecheis.com/2026/07/04/fusionar-carpetas-en-linux-usando-fstab-y-bind/",
-    "fecha": "04/07/2026",
-    "contenido": "En abril publiqué una guía de instalación de Fedora, donde proponía una estructura de particionado muy útil: crear dos subvolúmenes en Btrfs aparte de la raíz. Por un lado, el necesario /home para nuestro trabajo rutinario, y por otro, uno opcional llamado /datos. Este último se encargaría de almace"
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "#197: migrado a Linkding",
-    "link": "https://www.macram.es/posts/2026/07/linkace-linkding/",
-    "fecha": "04/07/2026",
-    "contenido": "Tengo intención de apagar mi instancia de LinkAce como parte de mi plan de migración del vetusto hosting LAMP que mantengo desde 2007. No me aportaba tampoco tanto. He decidido migrar mi recopilación de enlaces a una instancia compartida de Linkding; en este caso later.place, disponible para los usu"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Algunas fotos de mayo",
-    "link": "https://www.ericafustero.com/2026-07-algunas-fotos-de-mayo",
-    "fecha": "04/07/2026",
-    "contenido": "En mayo pasé tres semanas de viaje presentando mi libro en Valencia, Móstoles, Madrid y Zaragoza. Llevé cuatro cámaras, dos de carrete, dos digitales, y como de costumbre, lo fotografié todo. Algunas de las fotos que hice ya las compartí en los posts sobre las presentaciones, pero quedaron otras tan"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "DANOK: cuando el valor está en el avance y en las personas",
-    "link": "https://dani.torresburriel.com/danok-cuando-el-valor-esta-en-el-avance-y-en-las-personas/",
-    "fecha": "04/07/2026",
-    "contenido": "El viernes pasado estuve en Donosti en una de esas sesiones de trabajo que, he de reconocer, me dejan con más energía de la que llevo. No era una reunión cualquiera: era una de esas en las que, entre debates intensos y algún que otro «joder, ¿y esto cómo lo hacemos?«, se palpaba que algo &#8230; Sig"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Actividades junio 2026",
-    "link": "https://labaudric.net/blog/actividades-junio-2026",
-    "fecha": "04/07/2026",
-    "contenido": "YUJUU\nMi primer entrada de blog de actualizaciones en esta nueva versión de mi página.\nPues el mes pasado ha estado cargadito.\nDesde el día 12/06/2026, el día del re estreno... No he parado de mejorar el back de la web.\nTambién, he de admitir, que me he desviado bastante. Me pasa a menudo. Me pongo "
   }
 ]
