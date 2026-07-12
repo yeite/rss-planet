@@ -1,5 +1,26 @@
 [
   {
+    "blog": "56K",
+    "titulo": "Silbo Gomero – Fuera de las garras de la IA",
+    "link": "https://56k.es/fanta/silbo-gomero-fuera-de-las-garras-de-la-ia/",
+    "fecha": "12/07/2026",
+    "contenido": "Existe en España una pequeña isla llamada «La Gomera» (Una de las Islas de las Canarias) que tiene una peculiar forma de comunicación conocida como «El silbo Gomero». Durante muchos años a la isla de La Gomera no llegaban los barcos comerciales y era un paraíso para los hippies. Lo interesante es qu"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Varios Anuncios Importantes Para Lo Que Resta Del 2026 | Los Discos Que Se Vienen",
+    "link": "https://www.delotroladometal.com.ar/2026/07/12/los-discos-que-se-vienen/",
+    "fecha": "12/07/2026",
+    "contenido": "Varios de los anuncios que veniamos publicando sobre material nuevo y ediciones para este año...\nThe post Varios Anuncios Importantes Para Lo Que Resta Del 2026 | Los Discos Que Se Vienen first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (cuartos de final)",
+    "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-cuartos-de-final.html",
+    "fecha": "12/07/2026",
+    "contenido": "Ayer se completaron los cuartos de final (la tercera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Argentina, la única de las selecciones sudamericanas que llegó a esta instancia enfrentaba a Suiza, un rival europeo. Argentina 3"
+  },
+  {
     "blog": "Salva Más De Cerca",
     "titulo": "🪁 El Jardín Digital",
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/",
@@ -75,6 +96,13 @@
     "link": "https://joselito.mataroa.blog/blog/adios-mullvad-hola-ivpn/",
     "fecha": "10/07/2026",
     "contenido": "Tras la polémica de financiar uno de los dueños de Mullvad a un partido de ultraderecha, del cual recibe la mayoría de sus fondos, decidí abandonar inmediatamente esta VPN que me ha acompañado durante años y buscar alternativa.\nHace tiempo estuve en iVPN, que opera desde Gibraltar (no está ni siquie"
+  },
+  {
+    "blog": "manje.net",
+    "titulo": "Rahasia Lancar Berbicara Bahasa Spanyol Tanpa Beban",
+    "link": "https://blog.manje.net/rahasia-lancar-berbicara-bahasa-spanyol-tanpa-beban/",
+    "fecha": "10/07/2026",
+    "contenido": "Menjadi lancar berbicara Bahasa Spanyol tanpa beban sebenarnya berakar dari kemauan untuk melepaskan perfeksionisme dan berani tampil apa adanya saat berkomunikasi dengan orang lain. Banyak orang gagal mencapai kefasihan karena terlalu khawatir akan kesalahan tata bahasa atau aksen yang kurang &#823"
   },
   {
     "blog": "Victorhck in the free world",
@@ -229,6 +257,13 @@
     "link": "https://victorhckinthefreeworld.com/2026/07/08/thunderbird-escucha-a-las-personas-que-lo-usan-para-mejorar-su-aplicacion-de-escritorio/",
     "fecha": "08/07/2026",
     "contenido": "La mejora manera de mejorar Thunderbird es escuchando a las personas que lo utilizan y desarrollar el cliente de correo intentando condensar todas las opiniones para mejorar este gran cliente de correo electrónico"
+  },
+  {
+    "blog": "Posts on Mi blog",
+    "titulo": "Arcane: gestiona todos tus Docker y Podman desde una sola UI y sin abrir puertos",
+    "link": "https://blog.taller404.org/posts/arcane/",
+    "fecha": "08/07/2026",
+    "contenido": "Llevo años con el mismo ritual. Se cae algo, o quiero actualizar un servicio,\no simplemente me pregunto &ldquo;¿qué tal andan mis máquinas?&rdquo;, y la respuesta siempre es\nla misma: abrir una terminal, SSH a la máquina, cd docker/loquesea,\ndocker compose up -d, docker logs -f, mirar, salir, y a la"
   },
   {
     "blog": "Galerías Preciados",
@@ -530,33 +565,5 @@
     "link": "https://tecnoysoft.com/2026/07/05/diferentes-niveles-de-usuarios-de-linux/",
     "fecha": "05/07/2026",
     "contenido": "Linux ofrece un gran abanico de posibilidades, por lo que los usuarios suelen evolucionar a medida que adquieren experiencia. Aunque cada persona aprende a su ritmo, estos son algunos de los perfiles más habituales. Usuario básico Utiliza Linux para tareas cotidianas como navegar por Internet, ver c"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Sobre la polarización",
-    "link": "https://impermanente.es/2026/07/05/sobre-la-polarizacin.html",
-    "fecha": "05/07/2026",
-    "contenido": "Últimamente todas las conversaciones, en redes y en persona, se sienten algo así:\nSujeto 1: Ir muy lento en la autopista puede provocar accidentes, se debería ir lo mas rápido posible siempre.\nSujeto 2: Ir muy rápido en la autopista puede producir accidentes. Se debería ir lo más lento posible siemp"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Una de breves #4: Cocina y música",
-    "link": "https://www.xn--jmuoz-qta.es/2026/07/una-de-breves-4-cocina-y-musica.html",
-    "fecha": "05/07/2026",
-    "contenido": "\n  \n    \n  \nDomingos en la cocina y con buena música. No canciones sueltas, no listas de reproducción en modo aleatorio, no; álbumes completos, como debe ser, como se disfruta de verdad de la música."
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Retales de carnaval",
-    "link": "https://www.xn--jmuoz-qta.es/2026/07/retales-de-carnaval.html",
-    "fecha": "05/07/2026",
-    "contenido": "\n  \n    \n  \nCórdoba, a 5 de julio de 2026."
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Velocidad 22: Culto Al Acero | Con El Heavy Metal En Alto",
-    "link": "https://www.delotroladometal.com.ar/2026/07/05/con-el-heavy-metal-en-alto/",
-    "fecha": "05/07/2026",
-    "contenido": "(2017/2025 &#8211; Pacheco Records) Sin dudas son una de las bandas mas intensas y que...\nThe post Velocidad 22: Culto Al Acero | Con El Heavy Metal En Alto first appeared on Del Otro Lado Metal."
   }
 ]
