@@ -1,5 +1,68 @@
 [
   {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Trace: transcripciones de reuniones en local para Mac",
+    "link": "https://guillermolatorre.com/clips/trace-transcripciones-de-reunones-para-mac-en-local",
+    "fecha": "13/07/2026",
+    "contenido": "Este finde he descubierto esta app leyendo la newsletter de St&eacute;phanie Walter. Muy buena pinta: transcripciones de reuniones con IA pero sin enviar ningún dato a ningún tercero, todo en local y con una app nativa en Mac.Ir al enlace"
+  },
+  {
+    "blog": "La Loica",
+    "titulo": "Revista Ideas Septiembre de 1981",
+    "link": "https://laloica.noblogs.org/revista-ideas-septiembre-de-1981/",
+    "fecha": "13/07/2026",
+    "contenido": "Holita de mar, aquí les traigo (con un par de semanas de retraso) la revista que escaneamos en directo para la Biblioteca Domestica. En esta ocasión les traigo la revista «IDEAS para su hogar» de la editorial Andina, con casa central en Chile y distribución de la revista en Venezuela. Esta edición e"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "BTC & Defi: nuevos libros",
+    "link": "https://jinversor.co/2026/07/btc-defi-nuevos-libros/",
+    "fecha": "13/07/2026",
+    "contenido": "En el repositorio Mega del personaje misteriosísimo encontré nuevos libros de BTC &#38; Defi. Aclaro que no he leído estos libros y por tanto no es una recomendación. Apenas estoy [&#8230;]\nLa entrada BTC & Defi: nuevos libros se publicó primero en Jinversor."
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "La musica creada con IA como forma de evitar pagar impuestos",
+    "link": "https://matizeta.com/2026/07/13/la-musica-creada-con-ia-como-forma-de-evitar-pagar-impuestos/",
+    "fecha": "13/07/2026",
+    "contenido": "Soy algo lúdita al rechazar el uso de lA a la hora de hacer arte. Considero que escuchar música o leer un libro que fue escrito enteramente, parcialmente o ayudado por alguna herramientas artificial no vale la pena mi tiempo. ¿La razón? Pues porque no es 100% obra del autor. Aún así creo que&#160; a"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Garage S3: Instalación y configuración en tu NAS (Alternativa ligera a S3)",
+    "link": "https://voidnull.es/garage-s3-instalacion-y-configuracion-en-tu-nas-alternativa-ligera-a-s3/",
+    "fecha": "13/07/2026",
+    "contenido": "Aprende a instalar y configurar Garage en tu NAS para disponer de un almacenamiento de objetos compatible con S3."
+  },
+  {
+    "blog": "El cuaderno de J. Muñoz",
+    "titulo": "Porque me apetecía",
+    "link": "https://www.xn--jmuoz-qta.es/2026/07/porque-me-apetecia.html",
+    "fecha": "13/07/2026",
+    "contenido": "Llevo unos días en que he estado un poco -o bastante- desconectado de todo. Lo he hecho porque me apetecía, o porque me lo debía, o porque quería hacerlo. ¿Saben? Esa es la ventaja de escribir por el placer simplemente de escribir: que no debo cumplir con ninguna publicación, con ningún editor, con "
+  },
+  {
+    "blog": "56K",
+    "titulo": "Helix – Un editor que odiarán quienes usan vi/vim",
+    "link": "https://56k.es/fanta/helix-un-editor-que-odiaran-quienes-usan-vi-vim/",
+    "fecha": "13/07/2026",
+    "contenido": "Helix es un «post-modern» editor escrito en Rust. Digo que lo odiarán las personas fanáticas de vi/vim porque aunque su funcionamiento es similar no es vi y eso ya es suficiente sacrilegio. Fuera bromas este editor mola mucho. Yo uso como emulador de terminal «terminator» y a pantalla competa con F1"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Cuando todo un país debe ser nivelado para abajo y se niega",
+    "link": "https://www.fabio.com.ar/9985-cuando-todo-un-pais-debe-ser-nivelado-para-abajo-y-se-niega",
+    "fecha": "13/07/2026",
+    "contenido": "    \nDurante los &uacute;ltimos d&iacute;as una combinaci&oacute;n de \"grinding\" y odio real se mezcl&oacute; con envidia y frustraci&oacute;n y todo un pa&iacute;s fue se&ntilde;alado con el dedo injustamente, esta vez nos toc&oacute; a nosotros, pero le puede suceder a cualquiera.\n&iquest;Por qu&e"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "¿Cuánto pesa tu página web?",
+    "link": "https://elblogdelazaro.org/cuanto-pesa-tu-pagina-web/",
+    "fecha": "13/07/2026",
+    "contenido": "Por: Carlos M.Publicado el 13 de julio de 2026Reflexión personal sobre cuántos KB descarga tu sitio web.Continuar leyendo →#Cloudflare #Blog #Hugo "
+  },
+  {
     "blog": "Escritos en la nube",
     "titulo": "Sobreviviendo",
     "link": "https://nube.codeberg.page/blog/sobreviviendo/",
@@ -26,13 +89,6 @@
     "link": "https://www.fabio.com.ar/9983-pacific-warrior---nuevo-juego-gratis-artillero-antiaereo",
     "fecha": "12/07/2026",
     "contenido": "    \nEn unos pocos d&iacute;as me puse a programar un juego totalmente distinto, creo que merece su post aparte: Pacific Warrior, es un juego single o multi player cooperativo de la Segunda Guerra Mundial.\nSos el artillero de un destructor clase Fletcher y pod&eacute;s utilizar tres ca&ntilde;ones B"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Varios Anuncios Importantes Para Lo Que Resta Del 2026 | Los Discos Que Se Vienen",
-    "link": "https://www.delotroladometal.com.ar/2026/07/12/los-discos-que-se-vienen/",
-    "fecha": "12/07/2026",
-    "contenido": "Varios de los anuncios que veniamos publicando sobre material nuevo y ediciones para este año...\nThe post Varios Anuncios Importantes Para Lo Que Resta Del 2026 | Los Discos Que Se Vienen first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "JavierSam",
@@ -91,13 +147,6 @@
     "contenido": "\n\nPues me he leído hace poco esta obra, de 3 tomos, de 245 páginas.\nAviso: esta reseña tiene spoilers\n\nBueno pues he de decir, que no es exactamente lo que me esperaba. En ese género, en esta línea, anteriormente he leído Smiley y Gannibal. Thrillers mangas. De hecho, no muy lejos de mis expectativa"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Holos Social | cuando el servidor vuelve a pertenecer al usuario",
-    "link": "https://gatooscuro.xyz/holos-social-cuando-el-servidor-vuelve-a-pertenecer-al-usuario/",
-    "fecha": "11/07/2026",
-    "contenido": "Durante años hemos escuchado que el Fediverso es descentralizado. La afirmación no es falsa, pero tampoco cuenta toda la historia. Si bien plataformas como Mastodon distribuyen la infraestructura entre miles\nSeguir leyendo  Holos Social &#124; cuando el servidor vuelve a pertenecer al usuario\nEl car"
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "No somos un bug",
     "link": "https://tecnoysoft.com/2026/07/11/no-somos-un-bug/",
@@ -110,13 +159,6 @@
     "link": "https://56k.es/fanta/rss2email-feeds-rss-como-emails/",
     "fecha": "11/07/2026",
     "contenido": "Existe gente que utilizan actualmente gestores de correo electrónico (clientes). Google llegó a nuestras vidas con «cuentas de correo electrónico gratuitas» pero antes de Google estaba por allí Micro$oft con las cuentas hotmail que servían también para el Messenger. Lo importante es que mucha gente "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Theoptia: Horeb | La Genialidad Al Servicio Del Death Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/07/11/la-genialidad-al-servicio-del-death-metal/",
-    "fecha": "11/07/2026",
-    "contenido": "(2017 &#8211; Unblack) Nos ha tocado escuchar muchas cosas raras y extrañas, y de hecho...\nThe post Theoptia: Horeb | La Genialidad Al Servicio Del Death Metal first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -217,13 +259,6 @@
     "contenido": "Discord es una plaga horrible. Está por todos lados, y no entiendo por qué lo usan tanto. Si pudiese no volver a usarlo sería feliz. Bueno, menos infeliz, al menos. El tema es que, lamentablemente, hay cosas que están en Discord que son interesantes.\nUna de esas son los puzzles GAPP (&ldquo;genuinel"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Hernán Parafioriti Nos Cuenta Lo Que Se Viene | Lázaro Estrena Cover Y Anuncia Nueva Fecha",
-    "link": "https://www.delotroladometal.com.ar/2026/07/10/lazaro-estrena-cover-y-anuncia-nueva-fecha/",
-    "fecha": "10/07/2026",
-    "contenido": "Lázaro, la banda argentina autodenominada como de Metal Híbrido, como les gusta autodefinirse, rompe el...\nThe post Hernán Parafioriti Nos Cuenta Lo Que Se Viene | Lázaro Estrena Cover Y Anuncia Nueva Fecha first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Full Circle #228 (abril 2026)",
     "link": "https://javiersam.uy/2026/07/full-circle-228-abril-2026.html",
@@ -301,13 +336,6 @@
     "contenido": "Llevo años con el mismo ritual. Se cae algo, o quiero actualizar un servicio,\no simplemente me pregunto &ldquo;¿qué tal andan mis máquinas?&rdquo;, y la respuesta siempre es\nla misma: abrir una terminal, SSH a la máquina, cd docker/loquesea,\ndocker compose up -d, docker logs -f, mirar, salir, y a la"
   },
   {
-    "blog": "Galerías Preciados",
-    "titulo": "Superestrella. El pop como clave social. Las bodas.",
-    "link": "https://galeriaspreciados.band/superestrella-el-pop-como-clave-social-las-bodas/",
-    "fecha": "08/07/2026",
-    "contenido": "Hace un tiempo mi colega la Ani me preguntó que si el pop como concepto era un diminutivo de \"popular\" que sentido tenía la idea de \"pop independiente\" y el otro día me he acordado de esto escuchando Superestrella de  Aitana"
-  },
-  {
     "blog": "Manu Mateos",
     "titulo": "He salvado mis AirPods Pro 2",
     "link": "https://www.macram.es/posts/2026/07/he-salvado-mis-airpods/",
@@ -362,13 +390,6 @@
     "link": "https://nachof.blog/posts/2026/el-cafe-frio-sigue-siendo-cafe-frio/",
     "fecha": "08/07/2026",
     "contenido": "Voy a empezar diciendo que no me gusta el café. Tuve mi época de más joven donde tomaba café, pero era más por la cafeína que por el gusto, y siempre era con toneladas de azúcar. Pero la realidad es que no me gusta.\nHace un tiempo leí Homeland, el segundo libro de la serie de Little Brother, de Cory"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Ícaro: Siendo Libre | El Final De Una Historia Y El Nacimiento De Una Leyenda",
-    "link": "https://www.delotroladometal.com.ar/2026/07/08/el-final-de-una-historia-y-el-nacimiento-de-una-leyenda/",
-    "fecha": "08/07/2026",
-    "contenido": "(2026 &#8211; Tharseo Music Records) Y finalmente llega a nuestras manos el último álbum de...\nThe post Ícaro: Siendo Libre | El Final De Una Historia Y El Nacimiento De Una Leyenda first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "JavierSam",
@@ -441,13 +462,6 @@
     "contenido": "Mucho se está hablando del anuncio sobre Sony mata el formato físico para&#160; los videojuegos&#160;(previsto&#160; para el 2028).&#160; Esta entrada es mi opinión y también mi respuesta a la pregunta con la que termina el texto en el blog de eapl. A mi el formato físico y el digital me van bien po"
   },
   {
-    "blog": "Erica Fustero",
-    "titulo": "Unas fotos para Comisura",
-    "link": "https://www.ericafustero.com/2026-07-unas-fotos-para-comisura",
-    "fecha": "07/07/2026",
-    "contenido": "Carlota y Laura hacen libros. Propios, porque ambas son autoras, y ajenos, ya que juntas están al frente de Comisura, una editorial que pone en diálogo escritura, fotografía y archivo, y por cuyo catálogo pasean autoras como Leanne Shapton, Sabina Urraca o Sophie Calle. Juntas, y también por separad"
-  },
-  {
     "blog": "56K",
     "titulo": "Una consola sin juegos físicos es una oficina",
     "link": "https://56k.es/fanta/un-mundo-sin-juegos-en-formato-fisico-es-una-oficina/",
@@ -460,13 +474,6 @@
     "link": "https://www.fabio.com.ar/9979-fingerprinting-para-detectar-bots-en-el-blog",
     "fecha": "07/07/2026",
     "contenido": "    \nA mediados de la semana pasada el tr&aacute;fico del blog, de pronto, subi&oacute; varios &oacute;rdenes de magnitud. No era tr&aacute;fico leg&iacute;timo, eran puros bots, pero estaban sorteando todos mis bloqueos previos.\nComo siempre, no es que me moleste que un spider de un buscador captur"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"Prone To Wander\" Es Un Despliegue De Puro Metalcore Progresivo | Altarheart Anuncia Su Nuevo Álbum",
-    "link": "https://www.delotroladometal.com.ar/2026/07/07/altarheart-anuncia-su-nuevo-album/",
-    "fecha": "07/07/2026",
-    "contenido": "Un nuevo disco aparece en el radar, y se trata de la próxima edición de...\nThe post \"Prone To Wander\" Es Un Despliegue De Puro Metalcore Progresivo | Altarheart Anuncia Su Nuevo Álbum first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "AsturGeek V3",
@@ -490,34 +497,6 @@
     "contenido": "Ahora que estoy tratando de implicarme un poco más en la blogosfera de habla hispana aprovecho para dar mi opinión sobre un melón abierto por Matizeta: ¿Por qué quieres ser dueño de algo?\n\nMatizeta se pregunta, ¿Cúando fue que ecuchaste el CD de tu artista favorito de principio a fin? Yo sigo escuch"
   },
   {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Lispr - Dictado de voz para Mac con enfoque en la privacidad",
-    "link": "https://guillermolatorre.com/clips/lispr-dictado-de-voz-para-mac-con-enfoque-en-la-privacidad",
-    "fecha": "06/07/2026",
-    "contenido": "Hay muchas opciones de dictado de voz con IA que ayuda a interpretar el texto correctamente. Lispr me sorprendió mucho porque funciona como los mejores, pero está enfocado en la privacidad: no hay registro ni datos de usuario y todas las grabaciones se eliminan automáticamente. De momento es gratis "
-  },
-  {
-    "blog": "Cajón desastre",
-    "titulo": "Los herederos de Stanley",
-    "link": "https://ccriss92.bearblog.dev/los-herederos-de-stanley/",
-    "fecha": "06/07/2026",
-    "contenido": "Últimamente estoy participando bastante en iniciativas compartidas y sociales relacionadas con la literatura y los videojuegos. Ya solo en Mastodon podría enumerar varias, como la lectura conjunta de Yesteryear, el inminente FanCiClub, especializado en literatura de fantasía y ciencia ficción, o el "
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "Semana 27/2026",
-    "link": "https://www.macram.es/posts/2026/07/semana-27-2026/",
-    "fecha": "06/07/2026",
-    "contenido": "¿Os acordáis cuando hace unas semanas me quejaba de que llovía mucho? Me retracto, pido perdón, no lo volveré a hacer. Qué horror de calor. Y estamos a principios de julio. No me quiero imaginar lo que va a ser la primera quincena de agosto, que suele ser la horrorosa por aquí. Menos mal que tengo l"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "A revés del mundo, yo si miro la TV",
-    "link": "https://matizeta.com/2026/07/06/a-reves-del-mundo-yo-si-miro-la-tv/",
-    "fecha": "06/07/2026",
-    "contenido": "Tengo que decir que el servicio por cable llegó muy tarde a mi familia, mientras todos mis compañeros hablaban de lo que veían en Nickelodeon, Cartoon Network, yo miraba en la TV de la familia (que dicho sea de paso no tenía control remoto) al Inspector Gadget, Los Pitufos, los Tres Chiflados y el Z"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "565. Misiones clandestinas",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/07/565-misiones-clandestinas.html",
@@ -525,53 +504,11 @@
     "contenido": "&nbsp; &nbsp; Un verano cualquiera en algún punto turístico de las costas españolas.&nbsp; &nbsp; La familia nuclear Parahoy, tal como tenía planeado, se ha despertado a las 5:30 a. m. de un sueño tranquilo. Las alarmas de los móviles de cada uno de sus integrantes estaban sincronizadas. Tienen una "
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Newsletter #50 - Comenzamos con nuestro curso de Proxmox",
-    "link": "https://voidnull.es/newsletter/newsletter-50/",
-    "fecha": "06/07/2026",
-    "contenido": "Descubre en un solo vistazo lo más destacado del mes: artículos, noticias y recursos seleccionados para ti."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Ron Gilbert – La IA es un Cáncer",
-    "link": "https://56k.es/fanta/ron-gilbert-la-ia-es-un-cancer/",
-    "fecha": "06/07/2026",
-    "contenido": "Algunas veces la pregunta ofende. Me refiero a que se nos emplaza con preguntas a escenarios con los que quizás no nos encontramos cómodas/os/es. Por ejemplo en una reunión a la que asistí de repente formaron grupos de trabajo y nos plantearon la pregunta: «¿Qué podemos hacer para que la IAgen sea m"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "La Batalla de Leuctra: El día en que la fama de los Espartanos terminó",
-    "link": "https://www.fabio.com.ar/9978-la-batalla-de-leuctra-el-dia-en-que-la-fama-de-los-espartanos-termino",
-    "fecha": "06/07/2026",
-    "contenido": "    \nGanarle a los espartanos en batalla no era cosa sencilla, ten&iacute;an fama de invencibles, pero nadie lo es, y los dioses no los protegieron contra Tebas un d&iacute;a como hoy del 371 AC.\n&iquest;C&oacute;mo vencer a los \"invencibles\"? Pues rompiendo las tradiciones, as&iacute; es, la comodi"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Amazon Prime y la estafa de los free trials",
     "link": "https://nachof.blog/posts/2026/amazon-prime-y-la-estafa-de-los-free-trials/",
     "fecha": "06/07/2026",
     "contenido": "Todos sabemos que los free trials que te empiezan a cobrar automáticamente son una estafa. No hay novedad. Pero quiero quejarme un poco.\nResulta que estoy de viaje, y quería aprovechar para comprar unas cosas que en Uruguay no se consiguen. Amazon es horrible, y debería dejar de existir, pero es el "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Majestic Vanguard: Beyond The Moon | Un Legado Imborrable",
-    "link": "https://www.delotroladometal.com.ar/2026/07/06/un-legado-imborrable/",
-    "fecha": "06/07/2026",
-    "contenido": "(2005 &#8211; Rivel Records) Escuchar un buen disco es algo que los que se contentan...\nThe post Majestic Vanguard: Beyond The Moon | Un Legado Imborrable first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Para tener a mano (LV)",
-    "link": "https://javiersam.uy/2026/07/para-tener-a-mano-lv-2.html",
-    "fecha": "06/07/2026",
-    "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Kitty Witchy",
-    "link": "https://cozykis.kisworld.es/analisis-de-kitty-witchy/",
-    "fecha": "06/07/2026",
-    "contenido": "Un bonito y relajante juego de puzles, pero que tiene cosas por pulir\nLa entrada Análisis de Kitty Witchy se publicó primero en CozyKis."
   },
   {
     "blog": "gorkula.com",
