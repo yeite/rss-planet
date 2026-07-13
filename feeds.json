@@ -1,10 +1,31 @@
 [
   {
+    "blog": "Escritos en la nube",
+    "titulo": "Sobreviviendo",
+    "link": "https://nube.codeberg.page/blog/sobreviviendo/",
+    "fecha": "12/07/2026",
+    "contenido": "\nCon este post es como si estuviera volviendo a loa orígenes del blog, cuando lo alojaba en Bearblog y estaba temporalmente sin PC, escribía todos mis posts con un editor de texto llamado Markor, escribía en markdown, como siempre.\nSin embargo eran tiempos más simples, al final el blog no dependía t"
+  },
+  {
+    "blog": "Si dios te da limones",
+    "titulo": "Comandos de git que uso MUCHO",
+    "link": "https://sidiostedalimones.com/blog/2026/comandos-de-git-que-uso-mucho/",
+    "fecha": "12/07/2026",
+    "contenido": ""
+  },
+  {
     "blog": "56K",
     "titulo": "Silbo Gomero – Fuera de las garras de la IA",
     "link": "https://56k.es/fanta/silbo-gomero-fuera-de-las-garras-de-la-ia/",
     "fecha": "12/07/2026",
     "contenido": "Existe en España una pequeña isla llamada «La Gomera» (Una de las Islas de las Canarias) que tiene una peculiar forma de comunicación conocida como «El silbo Gomero». Durante muchos años a la isla de La Gomera no llegaban los barcos comerciales y era un paraíso para los hippies. Lo interesante es qu"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Pacific Warrior - Nuevo juego gratis, artillero antiaéreo",
+    "link": "https://www.fabio.com.ar/9983-pacific-warrior---nuevo-juego-gratis-artillero-antiaereo",
+    "fecha": "12/07/2026",
+    "contenido": "    \nEn unos pocos d&iacute;as me puse a programar un juego totalmente distinto, creo que merece su post aparte: Pacific Warrior, es un juego single o multi player cooperativo de la Segunda Guerra Mundial.\nSos el artillero de un destructor clase Fletcher y pod&eacute;s utilizar tres ca&ntilde;ones B"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -54,6 +75,20 @@
     "link": "https://salvamir.github.io/Untitled",
     "fecha": "12/07/2026",
     "contenido": ""
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió 1388 videos en Destiny, Phantasy Star Online, Forza, Titanfall 2, Split Second, Call Of Duty, The Division, Musica, Hazard Ops, Watch Dogs, DC Universe Online, Gears Of War, Nazi Zombie Army, The Crew, Blade &amp; Soul, Ghost in the Shell Global Assault, Killer Instinct, Anthem, Driveclub, Tomb Raider, Dead Space, Trials Fusion, Farenheit, Resident Evil, Balisong, Killzone, The Last Of Us, Detroit Become Human (PC), grid legends",
+    "link": "https://labaudric.net/videos/destiny",
+    "fecha": "12/07/2026",
+    "contenido": "      +1382 más"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Crítica Adabana",
+    "link": "https://labaudric.net/blog/adabana",
+    "fecha": "12/07/2026",
+    "contenido": "\n\nPues me he leído hace poco esta obra, de 3 tomos, de 245 páginas.\nAviso: esta reseña tiene spoilers\n\nBueno pues he de decir, que no es exactamente lo que me esperaba. En ese género, en esta línea, anteriormente he leído Smiley y Gannibal. Thrillers mangas. De hecho, no muy lejos de mis expectativa"
   },
   {
     "blog": "El cuarto de GatoOscuro",
@@ -532,13 +567,6 @@
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Mis estadísticas de running en la web",
-    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
-    "fecha": "06/07/2026",
-    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Análisis de Kitty Witchy",
     "link": "https://cozykis.kisworld.es/analisis-de-kitty-witchy/",
@@ -551,19 +579,5 @@
     "link": "https://www.gorkula.com/brujula-ia",
     "fecha": "06/07/2026",
     "contenido": "Copio éste meme del blog de Manuel Moreale.\n\nUn cuestionario sin mucho rigor (imagino) que te “ayuda” a describir cómo te sientes con respecto a la IA tras responder a 15 preguntas.\n\nPuedes no responder a alguna si no quieres o no sabes. Yo no respondí a una relacionada con la medicina porque no sé "
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "¿Por qué un blog y no un canal de YouTube?",
-    "link": "https://tecnoysoft.com/2026/07/05/por-que-un-blog-y-no-un-canal-de-youtube/",
-    "fecha": "05/07/2026",
-    "contenido": "Hace tiempo que queria hablar sobre esto, supongo que nada cambiará pero es una pregunta que me hacen con frecuencia: ¿por qué seguir escribiendo un blog en lugar de crear un canal de YouTube? Vivimos en una época en la que el contenido en vídeo domina Internet. Las redes sociales y plataformas como"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Diferentes niveles de usuarios de Linux",
-    "link": "https://tecnoysoft.com/2026/07/05/diferentes-niveles-de-usuarios-de-linux/",
-    "fecha": "05/07/2026",
-    "contenido": "Linux ofrece un gran abanico de posibilidades, por lo que los usuarios suelen evolucionar a medida que adquieren experiencia. Aunque cada persona aprende a su ritmo, estos son algunos de los perfiles más habituales. Usuario básico Utiliza Linux para tareas cotidianas como navegar por Internet, ver c"
   }
 ]
