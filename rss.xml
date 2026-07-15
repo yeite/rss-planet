@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 15 Jul 2026 01:19:47 GMT</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 07:48:58 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Blogs</title>
+<link>https://elprofejuan.com.ar/blogs</link>
+<guid isPermaLink="true">https://elprofejuan.com.ar/blogs</guid>
+<pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+<category>--el Profe Juan--</category>
+<description><![CDATA[Durante mi vida en línea he usado todo tipo de herramientas para publicar contenido, si bien algunos sólo fueron herramientas para probar, algunos tienen contenidos interesante, y otros solo son eso, contenido experimentando las distintas herramientas. Si bien he usado las que me en enterado e inclu<br><br><strong>Fuente:</strong> --el Profe Juan--]]></description>
+</item>
+<item>
+<title>Videos</title>
+<link>https://elprofejuan.com.ar/videos</link>
+<guid isPermaLink="true">https://elprofejuan.com.ar/videos</guid>
+<pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+<category>--el Profe Juan--</category>
+<description><![CDATA[En ésta Página encontrarán los distintos lugares que publico videos, también pondré los últimos publicados. Mi canal del Fediverso - PeerTube Mi canal de YouTube - si también estoy ahí<br><br><strong>Fuente:</strong> --el Profe Juan--]]></description>
+</item>
 <item>
 <title>Volver a pedalear</title>
 <link>https://blog.luiscarlospando.com/personal/2026/07/volver-a-pedalear/</link>
@@ -200,22 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
 <category>Un blog</category>
 <description><![CDATA[Imagen sacada de Mastodon La política británica tiene sus cosas divertidas. A diferencia de la política en la mayoría de los países, donde el procedimiento está dado por reglas hechas intencionalmente, en el Reino Unido los procedimientos son producto de siglos de tradiciones. Un ejemplo es el<br><br><strong>Fuente:</strong> Un blog]]></description>
-</item>
-<item>
-<title>Entrevista Con Juan Granado | “Jamás Me Sentí Un Bicho Raro”</title>
-<link>https://www.delotroladometal.com.ar/2026/07/13/jamas-me-senti-un-bicho-raro/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/07/13/jamas-me-senti-un-bicho-raro/</guid>
-<pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Hay tipos con los que podes estar hablando horas y horas, y que te dejan... The post Entrevista Con Juan Granado | “Jamás Me Sentí Un Bicho Raro” first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>¿Cuánto pesa tu página web?</title>
-<link>https://elblogdelazaro.org/cuanto-pesa-tu-pagina-web/</link>
-<guid isPermaLink="true">https://elblogdelazaro.org/cuanto-pesa-tu-pagina-web/</guid>
-<pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
-<category>El blog de Lázaro</category>
-<description><![CDATA[Por: Carlos M.Publicado el 13 de julio de 2026Reflexión personal sobre cuántos KB descarga tu sitio web.Continuar leyendo →#Cloudflare #Blog #Hugo<br><br><strong>Fuente:</strong> El blog de Lázaro]]></description>
 </item>
 
 </channel>
