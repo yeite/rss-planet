@@ -11,6 +11,16 @@
     "Sponsor": "si"
   },
   {
+    "Nombre": "Es un tipazo",
+    "Url": "https://www.esuntipazo.com/",
+    "Feed": "https://www.esuntipazo.com/feed.xml",
+    "Descripción": "Blog personal donde escribo sobre música, cine, la crisis de la mediana edad, literatura, poesía y algunas veces sobre tecnología.",
+    "Categoría": "Entretenimiento y Cultura, Literario, Tecnología, Vida Diaria",
+    "País": "España",
+    "Aliado": "si"
+
+  },
+  {
     "Nombre": "Labaudric",
     "Url": "https://labaudric.net",
     "Feed": "https://labaudric.net/atom.xml",
@@ -393,7 +403,7 @@
     "Url": "https://region4.axel.mx",
     "Feed": "http://region4.axel.mx/feed/feed.xml",
     "Descripción": "Un blog para Latinoamérica y el Caribe.",
-    "Categoría": "Ciencia y Humanidades, Comida y bebida, Tecnología, Vida Diaria",
+    "Categoría": "Ciencia y Humanidades, Comida y Bebida, Tecnología, Vida Diaria",
     "País": "México"
   },
   {
