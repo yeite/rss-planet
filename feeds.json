@@ -1,5 +1,19 @@
 [
   {
+    "blog": "--el Profe Juan--",
+    "titulo": "Blogs",
+    "link": "https://elprofejuan.com.ar/blogs",
+    "fecha": "15/07/2026",
+    "contenido": "Durante mi vida en línea he usado todo tipo de herramientas para publicar contenido, si bien algunos sólo fueron herramientas para probar, algunos tienen contenidos interesante, y otros solo son eso, contenido experimentando las distintas herramientas.\nSi bien he usado las que me en enterado e inclu"
+  },
+  {
+    "blog": "--el Profe Juan--",
+    "titulo": "Videos",
+    "link": "https://elprofejuan.com.ar/videos",
+    "fecha": "14/07/2026",
+    "contenido": "En ésta Página encontrarán los distintos lugares que publico videos, también pondré los últimos publicados.\nMi canal del Fediverso - PeerTube\n\nMi canal de YouTube   - si también estoy ahí"
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "Volver a pedalear",
     "link": "https://blog.luiscarlospando.com/personal/2026/07/volver-a-pedalear/",
@@ -196,13 +210,6 @@
     "contenido": "\nCon este post es como si estuviera volviendo a loa orígenes del blog, cuando lo alojaba en Bearblog y estaba temporalmente sin PC, escribía todos mis posts con un editor de texto llamado Markor, escribía en markdown, como siempre.\nSin embargo eran tiempos más simples, al final el blog no dependía t"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Coartadas (película)",
-    "link": "https://mareosdeungeek.es/coartadas-pelicula/",
-    "fecha": "12/07/2026",
-    "contenido": "Coartadas es una comedia romántica de risa fácil protagonizada por Jaime Lorente y Adriana Torrebejano. Es una adaptación de la película francesa Alibi.com. Esta película fue dirigida por Philippe Lacheau en el año 2016. La versión española ha sido dirigida por Martín Cuervo. Entre los actores secun"
-  },
-  {
     "blog": "Si dios te da limones",
     "titulo": "Comandos de git que uso MUCHO",
     "link": "https://sidiostedalimones.com/blog/2026/comandos-de-git-que-uso-mucho/",
@@ -285,13 +292,6 @@
     "link": "https://labaudric.net/blog/adabana",
     "fecha": "12/07/2026",
     "contenido": "\n\nPues me he leído hace poco esta obra, de 3 tomos, de 245 páginas.\nAviso: esta reseña tiene spoilers\n\nBueno pues he de decir, que no es exactamente lo que me esperaba. En ese género, en esta línea, anteriormente he leído Smiley y Gannibal. Thrillers mangas. De hecho, no muy lejos de mis expectativa"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Holos Social | cuando el servidor vuelve a pertenecer al usuario",
-    "link": "https://gatooscuro.xyz/holos-social-cuando-el-servidor-vuelve-a-pertenecer-al-usuario/",
-    "fecha": "11/07/2026",
-    "contenido": "Durante años hemos escuchado que el Fediverso es descentralizado. La afirmación no es falsa, pero tampoco cuenta toda la historia. Si bien plataformas como Mastodon distribuyen la infraestructura entre miles\nSeguir leyendo  Holos Social &#124; cuando el servidor vuelve a pertenecer al usuario\nEl car"
   },
   {
     "blog": "Tecno y Soft",
@@ -431,7 +431,7 @@
     "titulo": "Youtubers que sigo",
     "link": "https://matizeta.com/2026/07/09/youtubers-que-sigo/",
     "fecha": "09/07/2026",
-    "contenido": "Esta publicación esta inspirada por la entrada del blog de Fanta (me encanta el título que le puso). Hace tiempo quería mencionar algunos Youtubers que sigo (de los que miro casi todos sus videos) , que valen la pena recomendar. NewEsc (Domingo Gomes) Si bien miro muchos canales de tecnología, el ún"
+    "contenido": "Esta publicación esta inspirada por la entrada del blog de Fanta&#160;(me encanta el título que le puso). Hace tiempo quería mencionar algunos Youtubers que sigo (de los que miro casi todos sus videos) , que valen la pena recomendar. NewEsc (Domingo Gomes) Si bien miro muchos canales de tecnología, "
   },
   {
     "blog": "La línea doméstica",
@@ -488,13 +488,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/07/08/thunderbird-escucha-a-las-personas-que-lo-usan-para-mejorar-su-aplicacion-de-escritorio/",
     "fecha": "08/07/2026",
     "contenido": "La mejora manera de mejorar Thunderbird es escuchando a las personas que lo utilizan y desarrollar el cliente de correo intentando condensar todas las opiniones para mejorar este gran cliente de correo electrónico"
-  },
-  {
-    "blog": "Posts on Mi blog",
-    "titulo": "Arcane: gestiona todos tus Docker y Podman desde una sola UI y sin abrir puertos",
-    "link": "https://blog.taller404.org/posts/arcane/",
-    "fecha": "08/07/2026",
-    "contenido": "Llevo años con el mismo ritual. Se cae algo, o quiero actualizar un servicio,\no simplemente me pregunto &ldquo;¿qué tal andan mis máquinas?&rdquo;, y la respuesta siempre es\nla misma: abrir una terminal, SSH a la máquina, cd docker/loquesea,\ndocker compose up -d, docker logs -f, mirar, salir, y a la"
   },
   {
     "blog": "Galerías Preciados",
@@ -607,33 +600,5 @@
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Sobre-el-sentido-de-las-cosas",
     "fecha": "08/07/2026",
     "contenido": "helecho Jesús, hace bastante tiempo que no sabemos nada del otro. Vengo viviendo solo mi vida, envuelto en mis propósitos y mis cosas."
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Plasmoide para mostrar la información de Meteoclimatic en el escritorio Plasma de #KDE",
-    "link": "https://victorhckinthefreeworld.com/2026/07/07/plasmoide-para-mostrar-la-informacion-de-meteoclimatic-en-el-escritorio-plasma-de-kde/",
-    "fecha": "07/07/2026",
-    "contenido": "He creado un plasmoide para el escritorio Plasma 6 de KDE en el que podremos añadir el feed de una estación metereológica de Meteoclimatic y mostrarla en nuestro escritorio"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "El bien que quiero hacer y no hago",
-    "link": "https://blog.luiscarlospando.com/personal/2026/07/el-bien-que-quiero-hacer-y-no-hago/",
-    "fecha": "07/07/2026",
-    "contenido": "Haz scroll a la derecha dentro de esta lista de abajo (o arrastra si estás en móvil) para poder leerla completa. Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Unas fotos para Comisura",
-    "link": "https://www.ericafustero.com/2026-07-unas-fotos-para-comisura",
-    "fecha": "07/07/2026",
-    "contenido": "Carlota y Laura hacen libros. Propios, porque ambas son autoras, y ajenos, ya que juntas están al frente de Comisura, una editorial que pone en diálogo escritura, fotografía y archivo, y por cuyo catálogo pasean autoras como Leanne Shapton, Sabina Urraca o Sophie Calle. Juntas, y también por separad"
-  },
-  {
-    "blog": "gorkula.com",
-    "titulo": "El formato físico, las minorías y las verdades a medias",
-    "link": "https://www.gorkula.com/formato-fisico-minorias-verdades-a-medias",
-    "fecha": "07/07/2026",
-    "contenido": "Ahora que estoy tratando de implicarme un poco más en la blogosfera de habla hispana aprovecho para dar mi opinión sobre un melón abierto por Matizeta: ¿Por qué quieres ser dueño de algo?\n\nMatizeta se pregunta, ¿Cúando fue que ecuchaste el CD de tu artista favorito de principio a fin? Yo sigo escuch"
   }
 ]
