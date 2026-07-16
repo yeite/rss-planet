@@ -11,13 +11,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Clonar el repo
+      # 1️⃣ Clonar el repo (Actualizado a v4)
       - name: Chequear repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      # 2️⃣ Configurar Python
+      # 2️⃣ Configurar Python (Actualizado a v5)
       - name: Configurar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -31,7 +31,7 @@ jobs:
       - name: Ejecutar lector.py
         run: python lector.py
 
-      # 5️⃣ Subir feeds.json actualizado si hay cambios
+      # 5️⃣ Subir feeds.json actualizado si hay cambios (Corregido con git pull --rebase)
       - name: Subir feeds.json actualizado
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -39,11 +39,19 @@ jobs:
           set -e
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+
           # Configurar remote con token para poder hacer push
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+
           git add -f feeds.json
+
           if ! git diff --cached --quiet; then
             git commit -m "Actualización automática de feeds [ci skip]"
+
+            # --- LA SOLUCIÓN CLAVE ---
+            # Trae cualquier cambio remoto y posiciona tu commit encima de ellos limpiamente
+            git pull --rebase origin main
+
             git push origin main
           else
             echo "No hay cambios, no se hace commit"
