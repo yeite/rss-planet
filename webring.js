@@ -1,6 +1,6 @@
 const JSON_URL = "https://blogblog.es/blogs.json";
-// ⚠️ REEMPLAZA ESTO con la URL real de tu archivo CSS en internet
 const CSS_URL = "https://blogblog.es/css/webring.css";
+const LOGO_URL = "https://blogblog.es/img/frog-pixel-recortada.gif";
 
 function inicializarWebring() {
   // 1. Inyectamos dinámicamente el CSS externo en el <head> de la web del usuario
@@ -21,13 +21,13 @@ function inicializarWebring() {
     return;
   }
 
-  // 2. Inyectamos el HTML limpio (Las fuentes de Google se cargan dentro del archivo CSS)
+  // 2. Inyectamos el HTML del componente.
   contenedor.innerHTML = `
 <div id="my-webring">
     <div class="blogblog-nav">
         <div class="blogblog-brand-wrapper">
             <a href="https://blogblog.es" target="_blank" rel="noopener noreferrer" class="blogblog-brand-link">
-                <img src="https://raw.githubusercontent.com/yeite/rss-planet/main/img/frog-pixel-recortada.gif"
+                <img src="${LOGO_URL}"
                      alt="Logo de ¡Blog!¡Blog!"
                      class="blogblog-logo" />
                 <span>¡Blog!¡Blog!</span>

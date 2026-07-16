@@ -1,111 +1,50 @@
 <!doctype html>
-
 <html lang="es">
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-                <meta property="og:title" content="¡Blog!¡Blog!" />
-        <meta
-            property="og:description"
-            content="Directorio y webring de blogs personales en español."
-        />
-        <meta
-            property="og:image"
-            content="https://raw.githubusercontent.com/yeite/rss-planet/main/img/frog-pixel-recortada.gif"
-        />
+        <meta property="og:title" content="¡Blog!¡Blog!" />
+        <meta property="og:description" content="Directorio y webring de blogs personales en español." />
+        <meta property="og:image" content="https://blogblog.es/img/frog-pixel-recortada.gif" />
         <meta property="og:url" content="https://blogblog.es" />
         <meta property="og:type" content="website" />
-        <title>¡Blog!¡Blog!</title>
+        <title>Comunidad | ¡Blog!¡Blog!</title>
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <link rel="stylesheet" href="css/estilos.css" />
         <link rel="stylesheet" href="css/estilos-acerca.css" />
+        <link rel="alternate" type="application/rss+xml" title="RSS BlogBlog" href="https://blogblog.es/rss.xml" />
         <script defer src="js/layout.js"></script>
-        <link
-            rel="alternate"
-            type="application/rss+xml"
-            title="RSS BlogBlog"
-            href="https://blogblog.es/rss.xml"
-        />
+        <script defer src="js/comunidad.js"></script>
     </head>
     <body>
         <div id="header-placeholder"></div>
+
         <main>
             <div class="container">
-            <header>
-                <h1>Comunidad ¡Blog!¡Blog!</h1>
+                <header>
+                    <h1>Comunidad ¡Blog!¡Blog!</h1>
+                    <h2>Conocé a los autores de los blogs del directorio de ¡Blog!¡Blog!</h2>
+                </header>
 
-                <h2>Conocé a los autores de los blogs que forman parte del directorio de blogs en español ¡Blog!¡Blog!</h2>
-            </header>
+                <div class="faq-answer">
+                    <p>
+                        Muchos de quienes escribimos blogs estamos en Mastodon. Podés encontrarnos allí para seguir la conversación y mantenernos en contacto.
+                    </p>
+                    <p>Si aún no estás en Mastodon, quizás sea un buen momento para sumarte.</p>
+                </div>
 
-            <div class="faq-answer">
-                <p>
-                    Muchos de quienes escribimos blogs estamos en la red social Mastodon. Podés encontrarnos allí para seguir la conversación y mantenernos en contacto.
-                    <br><br>
-                    Si aún no estás en Mastodon, quizás sea un buen momento para sumarte.
-                    <br><br>
-                </p>
-            </div>
+                <section class="table-of-contents" aria-live="polite">
+                    <div id="mi-lista-mastodon">Cargando lista...</div>
+                </section>
 
-
-
-
-            <div class="table-of-contents">
-                <div id="mi-lista-mastodon">Cargando lista...</div>
-
-
-        <script>
-          const urlAPI = "https://masto.es/api/v1/collections/116771427317007236";
-
-          async function cargarColeccion() {
-            try {
-              const respuesta = await fetch(urlAPI);
-              if (!respuesta.ok) throw new Error("No se pudo obtener la colección");
-
-              const datos = await respuesta.json();
-              const cuentas = datos.accounts;
-
-              let htmloculto = `<h3>${datos.title || "Comunidad ¡Blog!¡Blog! en Mastodon"}</h3><ul class="community-list">`;
-
-              // Filtrar para evitar duplicados por la URL de la cuenta
-              const urlsVistas = new Set();
-              const cuentasUnicas = cuentas.filter(cuenta => {
-                if (urlsVistas.has(cuenta.url)) {
-                  return false; // Si ya existe, se descarta
-                }
-                urlsVistas.add(cuenta.url);
-                return true; // Si es nueva, se conserva
-              });
-
-              // Iterar solo sobre las cuentas únicas
-              cuentasUnicas.forEach(cuenta => {
-                htmloculto += `
-                <li class="community-list-item">
-                    <img class="community-avatar" src="${cuenta.avatar}" alt="${cuenta.display_name}">
-                    <a href="${cuenta.url}" target="_blank" rel="noopener noreferrer">
-                      <strong>${cuenta.display_name}</strong> (${cuenta.acct})
-                    </a>
-                  </li>
-                `;
-              });
-
-              htmloculto += '</ul>';
-              document.getElementById("mi-lista-mastodon").innerHTML = htmloculto;
-
-            } catch (error) {
-              console.error(error);
-              document.getElementById("mi-lista-mastodon").innerText = "Error al cargar la lista.";
-            }
-          }
-
-          cargarColeccion();
-        </script>
-
-            </div>
-
-            <div>
-                <p>Si estás en el directorio de blogs y querés aparecer en el listado, <a href="mailto:hola@matizeta.com" target="_blank" rel="noopener noreferrer">enviame un mail</a> o <a href="https://masto.es/@matizeta">escribime por Mastodon</a>.</p>
-                <p>Visualizá la <a href="https://masto.es/collections/116771427317007236" target="_blank" rel="noopener noreferrer">colección en Mastodon</a>.</p>
-            </div>
+                <div>
+                    <p>
+                        Si estás en el directorio de blogs y querés aparecer en el listado, <a href="mailto:hola@matizeta.com">enviame un mail</a> o <a href="https://masto.es/@matizeta">escribime por Mastodon</a>.
+                    </p>
+                    <p>
+                        Visualizá la <a href="https://masto.es/collections/116771427317007236" target="_blank" rel="noopener noreferrer">colección en Mastodon</a>.
+                    </p>
+                </div>
             </div>
         </main>
 

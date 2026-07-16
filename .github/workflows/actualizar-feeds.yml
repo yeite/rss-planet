@@ -21,11 +21,11 @@ jobs:
         with:
           python-version: '3.x'
 
-      # 3️⃣ Instalar feedparser
-      - name: Instalar feedparser
+      # 3️⃣ Instalar dependencias
+      - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser
+          python -m pip install -r requirements.txt
 
       # 4️⃣ Ejecutar lector.py
       - name: Ejecutar lector.py
