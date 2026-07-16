@@ -45,9 +45,26 @@
                       <p>Por favor, no me envíes ningún tipo de blog de SEO, marketing de afiliados, ni nada de eso porque lo descartaré. La idea es que el lector descubra contenido auténtico y real.</p>
 
                       <!-- Formulario alineado a la izquierda -->
-                      <form action="https://formspree.io/f/xjgngqzg" method="POST" class="form-directorio">
-                          <input type="hidden" name="_subject" value="¡Nuevo blog recibido!">
-                          <input type="hidden" name="_next" value="https://blogblog.es/acerca-de.html">
+
+                      <form action="https://api.web3forms.com/submit" method="POST" class="form-directorio">
+
+                        <!-- Tu clave de Web3Forms -->
+                        <input type="hidden" name="access_key" value="fdff9540-1266-43cb-a70d-f0c2368a5aa4">
+
+                        <!-- Tu redirección personalizada (¡Aquí sí funciona gratis!) -->
+                        <input type="hidden" name="redirect" value="https://matizeta.com/gracias/">
+
+                        <!-- El asunto del correo -->
+                        <input type="hidden" name="subject" value="¡Nuevo blog recibido!">
+
+                        <!-- El resto de tus campos (nombre, url, etc.) -->
+
+
+
+
+
+
+
                         <!-- 1. Nombre del blog -->
                         <div class="campo">
                           <label for="nombre_blog">Nombre del blog *</label>
