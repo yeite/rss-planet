@@ -26,7 +26,7 @@ function inicializarWebring() {
 <div id="my-webring">
     <div class="blogblog-nav">
         <div class="blogblog-brand-wrapper">
-            <a href="https://blogblog.es" target="_blank" class="blogblog-brand-link">
+            <a href="https://blogblog.es" target="_blank" rel="noopener noreferrer" class="blogblog-brand-link">
                 <img src="https://raw.githubusercontent.com/yeite/rss-planet/main/img/frog-pixel-recortada.gif"
                      alt="Logo de ¡Blog!¡Blog!"
                      class="blogblog-logo" />

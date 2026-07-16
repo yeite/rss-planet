@@ -187,7 +187,7 @@
 
                 // 1. Lógica para mostrar/ocultar el mensaje de la insignia
                 const textosInsignias = {
-                    Aliado: "🐸 Blogs que ayudan a difundir el proyecto poniendo un pequeño banner de ¡Blog!¡Blog en su blog",
+                    Aliado: "🐸 Blogs que ayudan a difundir el proyecto poniendo un pequeño banner de ¡Blog!¡Blog! en su blog.",
                     Sponsor:
                         "⭐ Blogs que aportaron económicamente al proyecto.",
                     Webring:
@@ -290,7 +290,7 @@
                     item.innerHTML = `
             <div class="blog">
                 <img src="${favicon}" alt="favicon" style="width:16px;height:16px;vertical-align:middle;margin-right:6px;">
-                <a href="${url}" target="_blank">${b.Nombre}</a>
+                <a href="${url}" target="_blank" rel="noopener noreferrer">${b.Nombre}</a>
                 ${etiquetaAliado}
                 ${etiquetaSponsor}
                 ${etiquetaWebring}
@@ -303,7 +303,7 @@
                 <strong>País:</strong> ${bandera} ${b.País || "-"}
             </p>
 
-            <a href="${b.Feed}" target="_blank">
+            <a href="${b.Feed}" target="_blank" rel="noopener noreferrer">
                 <img src="img/rss-16.png" alt="RSS">
             </a>
         `;
