@@ -19,6 +19,7 @@
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <link rel="stylesheet" href="css/estilos.css" />
         <link rel="stylesheet" href="css/estilos-acerca.css" />
+        <script defer src="js/layout.js"></script>
         <link
             rel="alternate"
             type="application/rss+xml"
@@ -27,37 +28,13 @@
         />
     </head>
     <body>
-        <!-- header externo -->
         <div id="header-placeholder"></div>
-
-        <script>
-            // Cargar header desde un archivo externo
-            fetch("header.html")
-                .then((response) => response.text())
-                .then((data) => {
-                    document.getElementById("header-placeholder").innerHTML =
-                        data;
-                })
-                .catch((err) =>
-                    console.error("Error al cargar header.html:", err),
-                );
-        </script>
-
-
-
-
-
-   <main>
-
-
-
-        <div class="container">
+        <main>
+            <div class="container">
             <header>
                 <h1>Comunidad ¡Blog!¡Blog!</h1>
 
- <h2>Conocé a los autores de los blogs que forman parte del directorio de blogs en español ¡Blog!¡Blog!</h2>
-
-
+                <h2>Conocé a los autores de los blogs que forman parte del directorio de blogs en español ¡Blog!¡Blog!</h2>
             </header>
 
             <div class="faq-answer">
@@ -72,8 +49,8 @@
 
 
 
-<div class="table-of-contents">
-        <div id="mi-lista-mastodon">Cargando lista...</div>
+            <div class="table-of-contents">
+                <div id="mi-lista-mastodon">Cargando lista...</div>
 
 
         <script>
@@ -87,7 +64,7 @@
               const datos = await respuesta.json();
               const cuentas = datos.accounts;
 
-              let htmloculto = `<h3>${datos.title || "Comunidad ¡Blog!¡Blog! en Mastodon"}</h3><ul>`;
+              let htmloculto = `<h3>${datos.title || "Comunidad ¡Blog!¡Blog! en Mastodon"}</h3><ul class="community-list">`;
 
               // Filtrar para evitar duplicados por la URL de la cuenta
               const urlsVistas = new Set();
@@ -102,8 +79,8 @@
               // Iterar solo sobre las cuentas únicas
               cuentasUnicas.forEach(cuenta => {
                 htmloculto += `
-                <li style="list-style-type:none;";>
-                    <img src="${cuenta.avatar}" alt="${cuenta.display_name}" style="width:32px; height:32px; border-radius:50%; vertical-align:middle; margin-right:8px;">
+                <li class="community-list-item">
+                    <img class="community-avatar" src="${cuenta.avatar}" alt="${cuenta.display_name}">
                     <a href="${cuenta.url}" target="_blank" rel="noopener noreferrer">
                       <strong>${cuenta.display_name}</strong> (${cuenta.acct})
                     </a>
@@ -123,43 +100,15 @@
           cargarColeccion();
         </script>
 
-</div>
+            </div>
 
-<div>
+            <div>
+                <p>Si estás en el directorio de blogs y querés aparecer en el listado, <a href="mailto:hola@matizeta.com" target="_blank" rel="noopener noreferrer">enviame un mail</a> o <a href="https://masto.es/@matizeta">escribime por Mastodon</a>.</p>
+                <p>Visualizá la <a href="https://masto.es/collections/116771427317007236" target="_blank" rel="noopener noreferrer">colección en Mastodon</a>.</p>
+            </div>
+            </div>
+        </main>
 
-
-
-    <p>Si estás en el directorio de blogs y querés aparecer en el listado, <a href="mailto:hola@matizeta.com" target="_blank" rel="noopener noreferrer">enviame un mail</a> o <a href="https://masto.es/@matizeta">escribime por Mastodon</a>.</p>
-    <p>Visualizá la <a href="https://masto.es/collections/116771427317007236" target="_blank" rel="noopener noreferrer">colección en Mastodon</a>.</p>
-</div>
-
-<div id="contenedor"></div>
-</main>
-
-<div id="footer-placeholder"></div>
-
-        <!-- Footer externo -->
-           <div id="footer-placeholder"></div>
-
-           <script>
-               // Cargar footer desde un archivo externo
-               fetch("footer.html")
-                   .then((response) => response.text())
-                   .then((data) => {
-                       document.getElementById("footer-placeholder").innerHTML =
-                           data;
-                   })
-                   .catch((err) =>
-                       console.error("Error al cargar footer.html:", err),
-                   );
-           </script>
-
-
-
-
-        </div>
-
-
-
+        <div id="footer-placeholder"></div>
     </body>
 </html>

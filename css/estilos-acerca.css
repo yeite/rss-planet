@@ -179,3 +179,40 @@ code {
     height: 50px;
     width: auto;
 }
+
+.badge-aliado {
+    color: #65b52f;
+}
+
+.badge-sponsor {
+    color: #ffac34;
+}
+
+.link-webring {
+    color: violet;
+}
+
+.info-box p,
+.contact-box p:last-child {
+    margin: 0;
+}
+
+.contact-box p:first-child {
+    margin: 0 0 10px;
+}
+
+.community-list {
+    padding: 0;
+}
+
+.community-list-item {
+    list-style: none;
+}
+
+.community-avatar {
+    width: 32px;
+    height: 32px;
+    margin-right: 8px;
+    vertical-align: middle;
+    border-radius: 50%;
+}

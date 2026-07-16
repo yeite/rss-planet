@@ -7,6 +7,7 @@
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <link rel="stylesheet" href="css/estilos.css" />
         <link rel="stylesheet" href="css/estilos-acerca.css" />
+        <script defer src="js/layout.js"></script>
         <link
             rel="alternate"
             type="application/rss+xml"
@@ -16,19 +17,6 @@
     </head>
     <body>
         <div id="header-placeholder"></div>
-
-        <script>
-            // Cargar header desde un archivo externo
-            fetch("header.html")
-                .then((response) => response.text())
-                .then((data) => {
-                    document.getElementById("header-placeholder").innerHTML =
-                        data;
-                })
-                .catch((err) =>
-                    console.error("Error al cargar header.html:", err),
-                );
-        </script>
 
         <main>
             <div class="container">
@@ -71,19 +59,14 @@
 
 
 
-                <p>  ¿Quieres colaborar con el descubrimiento de nuevos blogs? Sumáte al Webring de blogs en español:
-                </p>
+                <p>¿Quieres colaborar con el descubrimiento de nuevos blogs? Sumate al webring de blogs en español:</p>
 
 
-                <main class="faq-section">
+                <div class="faq-section">
 
                     <div class="webring-container">
                       <script defer="" src="https://blogblog.es/webring.js"></script>
                     </div>
-
-
-                    </div>
-
 
 
                     <div class="faq-item" id="webring">
@@ -92,7 +75,7 @@
                             <p>
                                 Un web ring funciona como un anillo de webs
                                 enlazadas por un mismo fin, como las de
-                                ¡Blog¡¡Blog!: blogs personales en español
+                                ¡Blog!¡Blog!: blogs personales en español
                                 <em
                                     >Libres de SEO, Inteligencia Artificial,
                                     algoritmos y sin fines comerciales</em
@@ -190,22 +173,10 @@
                                            </div>
                      </div>
 
-                                       <div id="contenedor"></div>
-                                   </main>
+                </div>
+            </div>
+        </main>
 
         <div id="footer-placeholder"></div>
-
-        <script>
-            // Cargar footer desde un archivo externo
-            fetch("footer.html")
-                .then((response) => response.text())
-                .then((data) => {
-                    document.getElementById("footer-placeholder").innerHTML =
-                        data;
-                })
-                .catch((err) =>
-                    console.error("Error al cargar footer.html:", err),
-                );
-        </script>
     </body>
 </html>

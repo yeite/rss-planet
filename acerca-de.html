@@ -8,24 +8,11 @@
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <link rel="stylesheet" href="css/estilos.css" />
         <link rel="stylesheet" href="css/estilos-acerca.css" />
+        <script defer src="js/layout.js"></script>
         <link rel="alternate" type="application/rss+xml" title="RSS BlogBlog" href="https://blogblog.es/rss.xml">
     </head>
     <body>
-        <!-- header externo -->
         <div id="header-placeholder"></div>
-
-        <script>
-            // Cargar header desde un archivo externo
-            fetch("header.html")
-                .then((response) => response.text())
-                .then((data) => {
-                    document.getElementById("header-placeholder").innerHTML =
-                        data;
-                })
-                .catch((err) =>
-                    console.error("Error al cargar header.html:", err),
-                );
-        </script>
 
 
 
@@ -85,7 +72,7 @@
                 </ul>
             </nav>
 
-            <main class="faq-section">
+            <div class="faq-section">
                 <div class="faq-item" id="que-es">
                     <h3 class="faq-question">¿Qué es ¡Blog!¡Blog!?</h3>
                     <div class="faq-answer">
@@ -278,29 +265,11 @@
                         </p>
                     </div>
                 </div>
-            </main>
-        </div>
+            </div>
+            </div>
+        </main>
 
-        <div id="contenedor"></div>
-    </main>
-
-<div id="footer-placeholder"></div>
-
-        <!-- Footer externo -->
-           <div id="footer-placeholder"></div>
-
-           <script>
-               // Cargar footer desde un archivo externo
-               fetch("footer.html")
-                   .then((response) => response.text())
-                   .then((data) => {
-                       document.getElementById("footer-placeholder").innerHTML =
-                           data;
-                   })
-                   .catch((err) =>
-                       console.error("Error al cargar footer.html:", err),
-                   );
-           </script>
+        <div id="footer-placeholder"></div>
 
     </body>
 </html>

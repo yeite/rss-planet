@@ -4,23 +4,11 @@
         <meta charset="UTF-8" />
         <title>¡Blog!¡Blog! RSS</title>
         <link rel="stylesheet" href="css/estilos.css" />
+        <script defer src="js/layout.js"></script>
+        <script defer src="js/feed-list.js"></script>
     </head>
     <body>
-        <!-- header externo -->
         <div id="header-placeholder"></div>
-
-        <script>
-            // Cargar footer desde un archivo externo
-            fetch("header.html")
-                .then((response) => response.text())
-                .then((data) => {
-                    document.getElementById("header-placeholder").innerHTML =
-                        data;
-                })
-                .catch((err) =>
-                    console.error("Error al cargar header.html:", err),
-                );
-        </script>
 
         <main>
             <p>
@@ -30,40 +18,9 @@
                 en la semana
             </p>
             <br />
-            <div id="contenedor"></div>
+            <div id="contenedor" data-feed-list></div>
         </main>
 
-        <!-- Footer externo -->
         <div id="footer-placeholder"></div>
-
-        <script>
-            // Cargar footer desde un archivo externo
-            fetch("footer.html")
-                .then((response) => response.text())
-                .then((data) => {
-                    document.getElementById("footer-placeholder").innerHTML =
-                        data;
-                })
-                .catch((err) =>
-                    console.error("Error al cargar footer.html:", err),
-                );
-        </script>
-
-        <script>
-            fetch("feeds.json")
-                .then((res) => res.json())
-                .then((data) => {
-                    const cont = document.getElementById("contenedor");
-                    data.forEach((item) => {
-                        cont.innerHTML += `
-            <div class="item">
-              <span class="blog">${item.blog}</span>
-              <span class="fecha">${item.fecha}</span>
-              <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.titulo}</a>
-              <p class="contenido">${item.contenido}...</p>
-            </div>`;
-                    });
-                });
-        </script>
     </body>
 </html>

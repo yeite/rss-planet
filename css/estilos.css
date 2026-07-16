@@ -71,6 +71,16 @@ header nav a:hover {
     text-decoration: underline;
 }
 
+.nav-badge {
+    vertical-align: middle;
+    width: 16px;
+    height: auto;
+}
+
+.nav-badge--large {
+    width: 18px;
+}
+
 header h2 {
     color: floralwhite;
     margin: 5px 0 0;
@@ -276,3 +286,43 @@ select {
     letter-spacing: 1px;
 }
 
+.footer-support {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.footer-support-link {
+    display: inline-block;
+}
+
+.footer-support-image {
+    display: block;
+    width: auto;
+    height: 36px;
+    object-fit: contain;
+}
+
+.footer-contact {
+    color: gainsboro;
+    font-size: 0.8em;
+}
+
+.footer-tagline {
+    font-size: 0.8em;
+}
+
+.footer-tagline-text {
+    color: #d82c0e;
+}
+
+.is-hidden {
+    display: none;
+}
+
+.favicon {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    margin-right: 6px;
+}

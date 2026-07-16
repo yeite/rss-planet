@@ -5,21 +5,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>¡Blog!¡Blog!</title>
         <link rel="stylesheet" href="css/estilos.css" />
+        <script defer src="js/layout.js"></script>
     </head>
 
     <body>
-        <!-- header -->
         <div id="header-placeholder"></div>
-
-        <script>
-            fetch("header.html")
-                .then((response) => response.text())
-                .then((data) => {
-                    document.getElementById("header-placeholder").innerHTML =
-                        data;
-                })
-                .catch((err) => console.error(err));
-        </script>
 
         <main>
             <div>
@@ -60,25 +50,13 @@
 
             <div
                 id="mensajeInsignia"
-                class="mensaje-recuadro"
-                style="display: none"
+                class="mensaje-recuadro is-hidden"
             ></div>
 
             <div id="contenedor"></div>
         </main>
 
-        <!-- footer -->
         <div id="footer-placeholder"></div>
-
-        <script>
-            fetch("footer.html")
-                .then((response) => response.text())
-                .then((data) => {
-                    document.getElementById("footer-placeholder").innerHTML =
-                        data;
-                })
-                .catch((err) => console.error(err));
-        </script>
 
         <script>
             const contenedor = document.getElementById("contenedor");
@@ -196,10 +174,10 @@
 
                 if (textosInsignias[insigniaSel]) {
                     mensajeInsignia.textContent = textosInsignias[insigniaSel];
-                    mensajeInsignia.style.display = "block"; // Muestra el recuadro
+                    mensajeInsignia.classList.remove("is-hidden");
                 } else {
                     mensajeInsignia.textContent = "";
-                    mensajeInsignia.style.display = "none"; // Oculta si elige "Todas las insignias"
+                    mensajeInsignia.classList.add("is-hidden");
                 }
 
                 // 2. Lógica de filtrado original (se mantiene igual)
@@ -289,7 +267,7 @@
 
                     item.innerHTML = `
             <div class="blog">
-                <img src="${favicon}" alt="favicon" style="width:16px;height:16px;vertical-align:middle;margin-right:6px;">
+                <img class="favicon" src="${favicon}" alt="favicon">
                 <a href="${url}" target="_blank" rel="noopener noreferrer">${b.Nombre}</a>
                 ${etiquetaAliado}
                 ${etiquetaSponsor}
