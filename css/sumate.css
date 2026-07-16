@@ -1,0 +1,225 @@
+/* Asegurar alineación absoluta a la izquierda */
+.formulario-contenedor {
+  max-width: 650px;
+  margin: 0 auto;
+  text-align: left !important;
+  line-height: 1.6;
+}
+
+.formulario-contenedor p,
+.formulario-contenedor ul,
+.formulario-contenedor li {
+  text-align: left !important;
+}
+
+.form-directorio {
+  margin-top: 2rem;
+  background: #1E1E1E;
+  padding: 1.5rem;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  text-align: left !important;
+}
+
+.form-directorio .campo {
+  margin-bottom: 1.5rem;
+  text-align: left !important;
+}
+
+.form-directorio label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  text-align: left !important;
+}
+
+/* Estilo para los textos aclaratorios en verde */
+.form-directorio .texto-verde {
+  color: #6abe30; /* Verde bosque */
+  font-size: 0.85rem;
+  margin-top: 0.4rem;
+  font-weight: 500;
+  text-align: left !important;
+}
+
+/* Inputs y Textareas */
+.form-directorio input[type="text"],
+.form-directorio input[type="email"],
+.form-directorio input[type="url"],
+.form-directorio textarea {
+  width: 100%;
+  padding: 0.6rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+/* Distribución de checkboxes en rejilla de 2 columnas */
+.contenedor-checkboxes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  border: 1px solid #e0e0e0;
+  padding: 1rem;
+  border-radius: 4px;
+  background-color: #1E1E1E;
+}
+
+/* Estilo interno de cada opción de checkbox de categoría */
+.opcion-checkbox {
+  display: flex !important;
+  align-items: center;
+  font-weight: normal !important;
+  font-size: 0.9rem;
+  cursor: pointer;
+  margin-bottom: 0 !important;
+}
+
+.opcion-checkbox input[type="checkbox"] {
+  margin-right: 0.6rem;
+  margin-top: 0;
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+}
+
+/* Mensaje de transición */
+.mensaje-transicion {
+  background-color: #c8e6c9;
+  border-left: 4px solid #5a982f;
+  color:#1E1E1E;
+  padding: 0.8rem 1rem;
+  margin: 2rem 0;
+  font-size: 0.95rem;
+  border-radius: 0 4px 4px 0;
+  text-align: left !important;
+}
+
+.mensaje-transicion p {
+  margin: 0;
+  text-align: left !important;
+}
+
+/* Checkbox obligatorio de requisitos */
+.form-directorio .campo-checkbox {
+  margin: 1.5rem 0;
+  text-align: left !important;
+}
+
+.form-directorio .campo-checkbox label {
+  display: flex !important;
+  align-items: flex-start;
+  font-weight: normal !important;
+  cursor: pointer;
+  font-size: 0.9rem;
+  text-align: left !important;
+}
+
+.form-directorio .campo-checkbox input {
+  margin-right: 0.5rem;
+  margin-top: 0.2rem;
+  flex-shrink: 0;
+}
+
+/* Botón de envío en verde */
+.form-directorio .boton-enviar {
+  background-color: #5a982f;
+  color: #fff;
+  padding: 0.9rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.1rem;
+  width: 100%;
+  text-align: center !important; /* El texto del botón sí queda centrado internamente */
+  transition: background-color 0.2s ease;
+}
+
+.form-directorio .boton-enviar:hover {
+  background-color: #5a982f;
+}
+
+/* Acordeón de ayuda redondeado en verde */
+.detalles-categorias {
+  margin-top: 2rem;
+  text-align: left !important;
+}
+
+.detalles-categorias details {
+  background-color: #e8f5e9;
+  border: 1px solid #c8e6c9;
+  border-radius: 8px; /* Bordes redondeados */
+  overflow: hidden;
+  text-align: left !important;
+}
+
+.detalles-categorias summary {
+  font-weight: bold;
+  cursor: pointer;
+  padding: 1rem;
+  color: #5a982f;
+  outline: none;
+  text-align: left !important;
+}
+
+.detalles-categorias .contenido-desplegable {
+  padding: 1rem;
+  background-color: #1E1E1E;
+  border-top: 1px solid #c8e6c9;
+  text-align: left !important;
+}
+
+.detalles-categorias ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.detalles-categorias li {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px dashed #e0e0e0;
+  text-align: left !important;
+}
+
+.detalles-categorias li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.regresar {
+  font-size: 0.85rem;
+  margin-top: 1rem;
+  text-align: left !important;
+}
+
+/* Reemplaza los puntos por checks estilizados */
+.lista-requisitos-check {
+  list-style: none; /* Quitamos los puntos por defecto */
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+  text-align: left !important;
+}
+
+.lista-requisitos-check li {
+  position: relative;
+  padding-left: 1.8rem;
+  margin-bottom: 0.5rem;
+  text-align: left !important;
+}
+
+.lista-requisitos-check li::before {
+  content: "✓"; /* Icono de casilla marcada */
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #5a982f; /* El mismo verde que tus botones y textos */
+  font-weight: bold;
+  font-size: 1.1rem;
+}

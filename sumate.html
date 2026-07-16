@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta property="og:title" content="¡Blog!¡Blog!" />
+        <meta property="og:description" content="Directorio y webring de blogs personales en español." />
+        <meta property="og:image" content="https://blogblog.es/img/frog-pixel-recortada.gif" />
+        <meta property="og:url" content="https://blogblog.es" />
+        <meta property="og:type" content="website" />
+        <title>¡Blog!¡Blog!</title>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="css/estilos.css" />
+        <link rel="stylesheet" href="css/estilos-acerca.css" />
+        <link rel="stylesheet" href="css/sumate.css" />
+        <link rel="alternate" type="application/rss+xml" title="RSS BlogBlog" href="https://blogblog.es/rss.xml" />
+        <script defer src="js/layout.js"></script>
+        <script defer src="js/comunidad.js"></script>
+    </head>
+    <body>
+        <div id="header-placeholder"></div>
+
+        <main>
+            <div class="container">
+                <header>
+                    <h1>Sumate a ¡Blog!¡Blog!</h1>
+
+
+
+
+                    <div class="formulario-contenedor">
+                      <h2><em><strong>Envíame tu blog para formar parte del directorio de blogs personales en español.</strong></em></h3>
+
+                      <p>Antes que nada, ten en cuenta lo siguiente:</p>
+                      <p>Enviarme tu blog personal si...</p>
+                      <ul class="lista-requisitos-check">
+                        <li>Está escrito en español (o al menos 50% o más),</li>
+                        <li>no tiene como finalidad vender algo,</li>
+                        <li>no tenga publicidad,</li>
+                        <li>no use IA para redactar los textos,</li>
+                        <li>se actualice periódicamente.</li>
+                      </ul>
+
+                      <p>La carga se hace de manera manual (por mí), en el tiempo que tengo libre y pasa por una pequeña verificación antes de subirlo al directorio.</p>
+                      <p>Por favor, no me envíes ningún tipo de blog de SEO, marketing de afiliados, ni nada de eso porque lo descartaré. La idea es que el lector descubra contenido auténtico y real.</p>
+
+                      <!-- Formulario alineado a la izquierda -->
+                      <form action="https://formspree.io/f/xjgngqzg" method="POST" class="form-directorio">
+                          <input type="hidden" name="_subject" value="¡Nuevo blog recibido!">
+                          <input type="hidden" name="_next" value="https://blogblog.es/acerca-de.html">
+                        <!-- 1. Nombre del blog -->
+                        <div class="campo">
+                          <label for="nombre_blog">Nombre del blog *</label>
+                          <input type="text" id="nombre_blog" name="nombre_blog" required placeholder="Ej: Mi rincón en la web">
+                        </div>
+
+                        <!-- 2. URL del blog -->
+                        <div class="campo">
+                          <label for="url_blog">URL del blog *</label>
+                          <input type="url" id="url_blog" name="url_blog" required placeholder="https://ejemplo.com">
+                        </div>
+
+                        <!-- 3. Feed RSS -->
+                        <div class="campo">
+                          <label for="rss">Feed RSS de tu sitio</label>
+                          <input type="url" id="rss" name="feed_rss" placeholder="https://ejemplo.com/feed.xml">
+                          <p class="texto-verde">😵‍💫 Si no sabes qué es o no lo encuentras, puedo ayudarte con ello.</p>
+
+                        </div>
+
+                        <!-- 4. Pequeña descripción -->
+                        <div class="campo">
+                          <label for="descripcion">Una pequeña descripción del blog *</label>
+                          <textarea id="descripcion" name="descripcion" maxlength="160" rows="3" required placeholder="Cuéntame de qué escribes de forma resumida..."></textarea>
+                        </div>
+
+                        <!-- 5. Categorías mediante Checkboxes -->
+                        <div class="campo" id="categoria-selector">
+                          <label class="titulo-categoria">Categoría de tu blog (puedes elegir varias) *</label>
+
+                          <div class="contenedor-checkboxes">
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Aire libre"> <span>Aire libre 🍃</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Arte y Diseño"> <span>Arte y Diseño 🎨</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Ciencia y Humanidades"> <span>Ciencia y Humanidades 🧪</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Comida y bebida"> <span>Comida y bebida 🍽️</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Entretenimiento y Cultura"> <span>Entretenimiento y Cultura 📺</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Fotografía"> <span>Fotografía 📸</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Newsletter"> <span>Newsletter 🗞️</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Literario"> <span>Literario 📚</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Manualidades / Hobbies"> <span>Manualidades / Hobbies ✂️</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Podcast"> <span>Podcast 🎙️</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Sociedad y Economía"> <span>Sociedad y Economía 💸</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Tecnología"> <span>Tecnología 💻</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Viajes"> <span>Viajes ✈️</span></label>
+                            <label class="opcion-checkbox"><input type="checkbox" name="categorias[]" value="Vida Diaria"> <span>Vida Diaria 🏠</span></label>
+
+                          </div>
+   <p>🤔 Si no estas seguro que categoría elegir, <a href="#categoria-listado">esta pequeña guía</a> puede ayudarte.</p>
+
+                        </div>
+
+
+
+                        <!-- Mensaje de transición -->
+                        <div class="mensaje-transicion">
+                          <p>¡Listo! Con estos datos son suficientes para darte de alta en ¡Blog!¡Blog! Puedes ir hasta abajo y darle «Enviar»… pero quizás te interese contarme un poco sobre ti.</p>
+                        </div>
+
+
+                        <!-- 6. País -->
+                        <div class="campo">
+                          <label for="pais">¿De qué país eres?</label>
+                          <input type="text" id="pais" name="pais" placeholder="Ej: Argentina, España, México...">
+                        </div>
+
+                        <!-- 7. Correo -->
+                        <div class="campo">
+                          <label for="email">Correo electrónico</label>
+                          <input type="email" id="email" name="email" placeholder="tu@email.com">
+                          <p class="texto-verde">Tu email no será publicado. Es para ponerme en contacto contigo por cualquier cosa.</p>
+                        </div>
+
+                        <!-- 8. Mastodon -->
+                        <div class="campo">
+                          <label for="mastodon">Mastodon… ¿tienes?</label>
+                          <input type="text" id="mastodon" name="mastodon" placeholder="@usuario@instancia.social">
+                          <p class="texto-verde"><strong>🐘 Comunidad ¡Blog!¡Blog! en Mastodon.</strong> Muchos de los que escribimos en blogs estamos en esa red social. Si querés sumarte a este largo listado donde  <a href="comunidad.html">cada vez somos más</a>, dejame tu usuario para así poder sumarte.</p>
+                        </div>
+
+                        <!-- 9. Comentarios -->
+                        <div class="campo">
+                          <label for="comentario">¿Algún comentario?</label>
+                          <textarea id="comentario" name="comentario" rows="4" placeholder="Cualquier otra cosa que me quieras decir..."></textarea>
+                        </div>
+
+                        <!-- Checkbox obligatorio de requisitos -->
+                        <div class="campo-checkbox">
+                          <label>
+                            <input type="checkbox" name="cumple_requisitos" value="Sí" required>
+                            <span>Confirmo que mi blog cumple con los requisitos (sin IA, sin fines comerciales, sin publicidad y en español). *</span>
+                          </label>
+                        </div>
+
+                        <input type="text" name="_gotcha" style="display:none">
+
+                        <!-- Botón de envío modificado en verde -->
+                        <button type="submit" class="boton-enviar">¡Te envío mi blog!</button>
+                      </form>
+
+                      <hr>
+
+                      <!-- Detalle de categorías con fondo verde redondeado -->
+                      <div class="detalles-categorias" id="categoria-listado">
+                        <details open>
+                          <summary>No estoy seguro de la categoría de mi blog</summary>
+                          <div class="contenido-desplegable">
+                            <ul>
+                              <li><strong>Aire libre</strong> 🍃<br>Deportes al aire libre o el mundo del outdoor en general.</li>
+                              <li><strong>Arte y Diseño</strong> 🎨<br>Arte en todas sus formas gráficas. Desde diseño web, gráfico, hasta arquitectura o diseño industrial.</li>
+                              <li><strong>Ciencia y Humanidades</strong> 🧪<br>Si hablas de investigación, pensamiento humano, ciencias naturales y exactas, filosofía, historia.</li>
+                              <li><strong>Comida y bebida</strong> 🍽️<br>Los placeres de la vida. Recetas, visitas a restaurantes o reseñas gastronómicas.</li>
+                              <li><strong>Entretenimiento y Cultura</strong> 📺<br>Películas, series, historia del cine, música, moda y tendencias.</li>
+                              <li><strong>Fotografía</strong> 📸<br>Todo lo relacionado a la fotografía o blogs donde predomina la imagen sobre el texto.</li>
+                              <li><strong>Newsletter</strong> 🗞️<br>Boletines periódicos (que no utilicen plataformas cerradas como Substack o Medium).</li>
+                              <li><strong>Literario</strong> 📚<br>Poemas, novelas, ensayos, reseñas de libros o el proceso de escribir.</li>
+                              <li><strong>Manualidades / Hobbies</strong> ✂️<br>Proyectos hechos a mano, coleccionismo o pasiones muy específicas.</li>
+                              <li><strong>Podcast</strong> 🎙️<br>Si tu blog aloja un podcast autogestionado y fuera de plataformas cerradas.</li>
+                              <li><strong>Sociedad y Economía</strong> 💸<br>Dinámicas sociales, política, cultura, economía, mercados y finanzas.</li>
+                              <li><strong>Tecnología</strong> 💻<br>Gadgets, desarrollo de software, Internet, apps y cacharreo.</li>
+                              <li><strong>Viajes</strong> ✈️<br>Crónicas de viajes, bitácoras por el mundo y guías personales.</li>
+                              <li><strong>Vida Diaria</strong> 🏠<br>El clásico blog personal. Tu día a día, pensamientos y temas existenciales de forma abierta.</li>
+                            </ul>
+                          </div>
+                        </details>
+                        <p class="regresar"><a href="#categoria-selector">▲ Regresar para seleccionar la categoría</a></p>
+                      </div>
+                    </div>
+
+</main>
+
+<div id="footer-placeholder"></div>
+</body>
+</html>
