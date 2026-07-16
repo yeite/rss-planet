@@ -159,8 +159,14 @@ a:hover {
 /* ...INDEX RSS */
 
 .fecha {
+    display: block;
     color: #aaa;
     font-size: 0.9em;
+    margin-bottom: 5px;
+}
+
+.feed-title {
+    display: block;
     margin-bottom: 5px;
 }
 

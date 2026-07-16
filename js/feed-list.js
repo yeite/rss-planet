@@ -11,6 +11,7 @@ function createFeedItem(item) {
     date.textContent = item.fecha || "";
 
     const link = document.createElement("a");
+    link.className = "feed-title";
     link.href = item.link || "#";
     link.target = "_blank";
     link.rel = "noopener noreferrer";
@@ -20,7 +21,7 @@ function createFeedItem(item) {
     content.className = "contenido";
     content.textContent = item.contenido ? `${item.contenido}...` : "";
 
-    article.append(blog, date, link, content);
+    article.append(link, blog, date, content);
     return article;
 }
 
