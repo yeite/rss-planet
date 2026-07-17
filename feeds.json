@@ -1,5 +1,61 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Solucionar error shebang en múltiples scripts bash linux",
+    "link": "https://malagaoriginal.blogspot.com/2026/11/solucionar-error-shebang-en-script-bash.html",
+    "fecha": "17/07/2026",
+    "contenido": "¿Qué es eso del error \"shebang\"?Un error shebang, es un error en el que no se encuentra el intérprete especificado en la primera línea del script&nbsp;En el caso de un script bash linux lo podemos comenter con un error tan aparentemente inocente como empezar los scripts con la línea:#/bin/bash&nbsp;"
+  },
+  {
+    "blog": "Mi perra vida",
+    "titulo": "Mi perra vida | Temporada 2026, episodio 29.",
+    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-29/",
+    "fecha": "17/07/2026",
+    "contenido": "Relato – Doctor Nómada (quinta parte) &#124; Bonus track\n\nDoctor Nómada (quinta parte)\nLeer la cuarta parte\nEn menos de treinta días mi castillo de naipes se había derrumbado. Nada de lo ocurrido era injustificado, pero eso no lo hacía deseable, ni tolerable. Lo primero que se agotó, aunque se había"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Find My Device: Instalación de un servidor propio",
+    "link": "https://voidnull.es/find-my-device-instalacion-de-un-servidor-propio/",
+    "fecha": "17/07/2026",
+    "contenido": "FMD (Find My Device), una alternativa open source y descentralizada para localizar y controlar tu móvil Android de forma remota"
+  },
+  {
+    "blog": "",
+    "titulo": "Santiago Molina.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/07/17/santiago-molina-2/",
+    "fecha": "17/07/2026",
+    "contenido": "Sin dudas es un hito, Santiago Molina ha agotado nuevamente todas las entradas de su concierto en Cafe Berlín, sin dudas uno de los mas convocantes en este lugar."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Gafas de pervertidos – Fuera de las garras de la IA",
+    "link": "https://56k.es/fanta/gafas-de-pervertidos-fuera-de-las-garras-de-la-ia/",
+    "fecha": "17/07/2026",
+    "contenido": "Buenos días insectos. El otro día añadí a marcadores el artículo de futurism.com que tenía de titular «The Backlash Is So Strong That People With “Pervert Glasses” Are Afraid to Use Them in Public». Eso en castellano significa «La reacción es tan fuerte que las personas que llevan “gafas de perverti"
+  },
+  {
+    "blog": "56K",
+    "titulo": "El fin de la web con visitantes humanos",
+    "link": "https://56k.es/fanta/el-fin-de-la-web-con-visitantes-humanos/",
+    "fecha": "17/07/2026",
+    "contenido": "Posiblemente el «escribiendo para los crawlers IA» sea el nuevo «trabajando para el algoritmo» solamente que algo ha cambiado y quizás es que ya no obtienes visitas a cambio. Las visitas en las webs han caído a limites históricos y para mucha gente ha empezado a no tener sentido seguir compartiendo "
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #950",
+    "link": "https://www.fabio.com.ar/9989-links-de-viernes---950",
+    "fecha": "17/07/2026",
+    "contenido": "     Solitarios como este caballo estar&aacute;n los Links\nSe que nadie va a estar para leer nada este finde, al menos no el domingo, qu&eacute; se yo, tal vez estos links les sirvan para bajar el nivel de ansiedad, llevarlos sin estr&eacute;s hasta el momento cr&iacute;tico, por ah&iacute; los leer"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Angel Clicker",
+    "link": "https://cozykis.kisworld.es/analisis-de-angel-clicker/",
+    "fecha": "17/07/2026",
+    "contenido": "Entre click y click nos irá descubriendo una historia tierna y divertida entre un ángel y una demonia\nLa entrada Análisis de Angel Clicker se publicó primero en CozyKis."
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Muestra los datos de Meteoclimatic en tu escritorio con este Plasmoide para Plasma 6 de #KDE",
     "link": "https://victorhckinthefreeworld.com/2026/07/16/muestra-los-datos-de-meteoclimatic-en-tu-escritorio-con-este-plasmoide-para-plasma-6-de-kde/",
@@ -77,11 +133,11 @@
     "contenido": "     Estamos doblados, pero con ruleta!\nNo s&eacute; ustedes, pero mis niveles de cortizol y estr&eacute;s han llegado a su m&aacute;ximo, necesito relajarme y tomarme todo con mucha m&aacute;s calma 🤪 as&iacute; que empecemos por una buena y bombardeada ruleta, porque nada mejor que un balazo para "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "AHPE Apunta A Quienes Crecen Pisando A Los Demás | Los Brasileños AHPE Estrenan “Karma”",
-    "link": "https://www.delotroladometal.com.ar/2026/07/16/los-brasilenos-ahpe-estrenan-karma/",
+    "blog": "Salva Más De Cerca",
+    "titulo": "We live in a huge \"human fair\".  Trust others that they're being transparent.",
+    "link": "https://salva.thedev.id/Notas/We-live-in-a-huge-%22human-fair%22.--Trust-others-that-they're-being-transparent.",
     "fecha": "16/07/2026",
-    "contenido": "AHPE es un buen descubrimiento dentro de lo que es la escena brasileña, más precisamente...\nThe post AHPE Apunta A Quienes Crecen Pisando A Los Demás | Los Brasileños AHPE Estrenan “Karma” first appeared on Del Otro Lado Metal."
+    "contenido": "This post is a reply to this Sebastian’s entry."
   },
   {
     "blog": "labaudric",
@@ -96,6 +152,13 @@
     "link": "https://cozykis.kisworld.es/analis-de-sorry-were-closed/",
     "fecha": "16/07/2026",
     "contenido": "La mezcla perfecta entre acción y una buena historia que nos tendrá pegades a la pantalla hasta conocer el desenlace\nLa entrada Anális de Sorry We&#8217;re Closed se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Región Cuatro",
+    "titulo": "Escribir",
+    "link": "https://regioncuatro.blog/escribir/",
+    "fecha": "16/07/2026",
+    "contenido": "He estado escribiendo blog posts de manera más o menos constante desde hace unos cuatro meses. En 2025 publiqué diez. Este año ya van veinticuatro.\nMis motivos para escribir son varios, pero el principal viene de algo que ya sabía desde hace mucho y que, por alguna razón, había dejado de aprovechar:"
   },
   {
     "blog": "--el Profe Juan--",
@@ -189,20 +252,6 @@
     "contenido": "    \nNo tengo PC de la empresa en este momento, pero la tuve y tambi&eacute;n sobreviv&iacute; al ambente \"Corpo\" y de todas las estupideces que hace una gran empresa a sus empleados una de las m&aacute;s curiosas es cuando los de RRHH se meten en la computadora.\nLos de RRHH son espec&iacute;menes m"
   },
   {
-    "blog": "Picando Código",
-    "titulo": "Reseña: Denshattack! - Nintendo Switch 2 y Steam",
-    "link": "https://picandocodigo.net/2026/resena-denshattack-nintendo-switch-2-y-steam/",
-    "fecha": "15/07/2026",
-    "contenido": "Denshattack! es un juego que combina manejar un tren con Tony Hawk's Pro Skater y aspectos de juegos de plataforma 3D. El estilo gráfico está inspirado por animé y juegos de la época del Sega Dreamcast. Puede sonar complejo, pero quédense conmigo que esto vale la pena. El juego es impresionante, es "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "MetalBreed Magazine Nro. 6 – Año 2018",
-    "link": "https://www.delotroladometal.com.ar/2026/07/15/metalbreed-magazine-nro-6-ano-2018/",
-    "fecha": "15/07/2026",
-    "contenido": "Posiblemente haya sido una de las mejores cosas que se hicieron en Argentina respecto a...\nThe post MetalBreed Magazine Nro. 6 – Año 2018 first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "AsturGeek V3",
     "titulo": "Ver la TDT con FredTV",
     "link": "https://asturgeek.eu/2026/07/15/ver-la-tdt-con-fredtv/",
@@ -273,13 +322,6 @@
     "contenido": "    \nHay una forma de eludir impuestos y vivir como rico y pobre al mismo tiempo, esto obviamente depende de cada pa&iacute;s, pero en donde m&aacute;s ricos hay, las reglas est&aacute;n bien establecidas.\nNo tengo nada en contra de la gente que gana mucho dinero, el problema nunca es ese, el proble"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Narnia: X | Recuperando El Terreno Perdido",
-    "link": "https://www.delotroladometal.com.ar/2026/07/14/recuperando-el-terreno-perdido/",
-    "fecha": "14/07/2026",
-    "contenido": "(2026 &#8211; Narnia) Ya habíamos tenido la oportunidad de escuchar el álbum entero gracias a...\nThe post Narnia: X | Recuperando El Terreno Perdido first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Análisis de The Unlife of Gorlak",
     "link": "https://cozykis.kisworld.es/analisis-de-the-unlife-of-gorlak/",
@@ -327,13 +369,6 @@
     "link": "https://jinversor.co/2026/07/btc-defi-nuevos-libros/",
     "fecha": "13/07/2026",
     "contenido": "En el repositorio Mega del personaje misteriosísimo encontré nuevos libros de BTC &#38; Defi. Aclaro que no he leído estos libros y por tanto no es una recomendación. Apenas estoy [&#8230;]\nLa entrada BTC & Defi: nuevos libros se publicó primero en Jinversor."
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Movistar y el bloqueo de ONT no homologadas",
-    "link": "https://alt43.es/movistar-y-el-bloqueo-de-ont-no-homologadas/",
-    "fecha": "13/07/2026",
-    "contenido": "Movistar ha notificado que bloqueará el acceso a ONT no homologadas a partir del 15 de septiembre de 2026, alegando caídas de puertos en sus OLT provocadas por equipos de terceros. Analizamos cómo funciona una red GPON, por qué una ONT mal configurada puede afectar a otros clientes del mismo divisor"
   },
   {
     "blog": "matizeta",
@@ -399,13 +434,6 @@
     "contenido": "\n Imagen sacada de Mastodon\n \n\n\nLa política británica tiene sus cosas divertidas. A diferencia de la política en la mayoría de los países, donde el procedimiento está dado por reglas hechas intencionalmente, en el Reino Unido los procedimientos son producto de siglos de tradiciones. Un ejemplo es el"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista Con Juan Granado | “Jamás Me Sentí Un Bicho Raro”",
-    "link": "https://www.delotroladometal.com.ar/2026/07/13/jamas-me-senti-un-bicho-raro/",
-    "fecha": "13/07/2026",
-    "contenido": "Hay tipos con los que podes estar hablando horas y horas, y que te dejan...\nThe post Entrevista Con Juan Granado | “Jamás Me Sentí Un Bicho Raro” first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "El blog de Lázaro",
     "titulo": "¿Cuánto pesa tu página web?",
     "link": "https://elblogdelazaro.org/cuanto-pesa-tu-pagina-web/",
@@ -462,18 +490,39 @@
     "contenido": "    \nEn unos pocos d&iacute;as me puse a programar un juego totalmente distinto, creo que merece su post aparte: Pacific Warrior, es un juego single o multi player cooperativo de la Segunda Guerra Mundial.\nSos el artillero de un destructor clase Fletcher y pod&eacute;s utilizar tres ca&ntilde;ones B"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Varios Anuncios Importantes Para Lo Que Resta Del 2026 | Los Discos Que Se Vienen",
-    "link": "https://www.delotroladometal.com.ar/2026/07/12/los-discos-que-se-vienen/",
-    "fecha": "12/07/2026",
-    "contenido": "Varios de los anuncios que veniamos publicando sobre material nuevo y ediciones para este año...\nThe post Varios Anuncios Importantes Para Lo Que Resta Del 2026 | Los Discos Que Se Vienen first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (cuartos de final)",
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-cuartos-de-final.html",
     "fecha": "12/07/2026",
     "contenido": "Ayer se completaron los cuartos de final (la tercera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Argentina, la única de las selecciones sudamericanas que llegó a esta instancia enfrentaba a Suiza, un rival europeo. Argentina 3"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🪁 El Jardín Digital",
+    "link": "https://salva.thedev.id/El-Jard%C3%ADn/",
+    "fecha": "12/07/2026",
+    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🌾 Viviendo apasionadamente la rutina",
+    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%BE-Viviendo-apasionadamente-la-rutina",
+    "fecha": "12/07/2026",
+    "contenido": "arbolito ¿Como santifico mi vida corriente? La esencia de la vocación cristiana consiste en santificar la vida corriente."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🪴 Sobre el tiempo y las virtudes",
+    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-el-tiempo-y-las-virtudes",
+    "fecha": "12/07/2026",
+    "contenido": "yuyo Note Sí, por el contrario, es consciente de que le pueden esperar cosas horribles, y reza para pedir las virtudes necesarias para enfrentarse con tales horrores, y entretanto se ocupa del presente, porque en éste, y sólo en éste, residen todos los deberes, toda la gracia, toda la sabiduría y to"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🪴 Sobre la importancia de las cosas",
+    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-la-importancia-de-las-cosas",
+    "fecha": "12/07/2026",
+    "contenido": "helecho Las cosas del mundo son intrascendentes."
   },
   {
     "blog": "labaudric",
@@ -504,39 +553,11 @@
     "contenido": "Existe gente que utilizan actualmente gestores de correo electrónico (clientes). Google llegó a nuestras vidas con «cuentas de correo electrónico gratuitas» pero antes de Google estaba por allí Micro$oft con las cuentas hotmail que servían también para el Messenger. Lo importante es que mucha gente "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Theoptia: Horeb | La Genialidad Al Servicio Del Death Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/07/11/la-genialidad-al-servicio-del-death-metal/",
-    "fecha": "11/07/2026",
-    "contenido": "(2017 &#8211; Unblack) Nos ha tocado escuchar muchas cosas raras y extrañas, y de hecho...\nThe post Theoptia: Horeb | La Genialidad Al Servicio Del Death Metal first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Retropixel 2026 en el Palacio de Congresos de Málaga, visita e impresiones",
-    "link": "https://malagaoriginal.blogspot.com/2026/07/retropixel-2026-en-el-palacio-de.html",
-    "fecha": "10/07/2026",
-    "contenido": "El fin de semana pasado estuvieron las cosas complicadas para visitar Retropixel 26.&nbsp;Tenía gran curiosidad por ver el evento con el nuevo formato y nueva ubicación después de tantas ediciones celebrándose en el gran hall de la Facultad de Derecho de la Universidad de Málaga.&nbsp;A pesar de viv"
-  },
-  {
-    "blog": "manje.net",
-    "titulo": "Rahasia Lancar Berbicara Bahasa Spanyol Tanpa Beban",
-    "link": "https://blog.manje.net/rahasia-lancar-berbicara-bahasa-spanyol-tanpa-beban/",
-    "fecha": "10/07/2026",
-    "contenido": "Menjadi lancar berbicara Bahasa Spanyol tanpa beban sebenarnya berakar dari kemauan untuk melepaskan perfeksionisme dan berani tampil apa adanya saat berkomunikasi dengan orang lain. Banyak orang gagal mencapai kefasihan karena terlalu khawatir akan kesalahan tata bahasa atau aksen yang kurang &#823"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 28 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/07/10/opensuse-tumbleweed-revision-de-la-semana-28-de-2026/",
     "fecha": "10/07/2026",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 28.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-27/",
-    "fecha": "10/07/2026",
-    "contenido": "Relato – Doctor Nómada &#124; Bonus track\n\nDoctor Nómada (cuarta parte)\nLeer la tercera parte\nLa reunión fue sucinta y con un foro exiguo. El director de recursos humanos, el de finanzas y un par de sus mandos medios, todos con pésimas dotes de actuación. Me transmitieron las disculpas del cuerpo di"
   },
   {
     "blog": "Interlan",
@@ -546,32 +567,11 @@
     "contenido": "Probablemente te hayas encontrado con este problema. Tienes preparado tu sistema y esta todo bien hasta que el swap entra en escena. Todo empieza a ir mas lento hasta que en un descuido en el que el consumo de la RAM llega hasta el extremo, se cuelga y toca reiniciar forzosamente. ¿No te ha pasado? "
   },
   {
-    "blog": "matizeta",
-    "titulo": "Lecturas recomendadas #8",
-    "link": "https://matizeta.com/2026/07/10/lecturas-recomendadas-8/",
-    "fecha": "10/07/2026",
-    "contenido": "10 lecturas publicadas en blogs que me gustaron y quiero compartir. Para más lecturas recordá que podés visitar&#160;¡Blog!¡Blog! Ya no necesitas comprar libros. Una reflexión d e como la Ia está acabando con la lectura y con la creación de contenido original. Aprovechando el aniversario del blog y "
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "566. Viento",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/07/566-viento.html",
-    "fecha": "10/07/2026",
-    "contenido": "&nbsp; &nbsp; Estaba yo tumbado sobre una hamaca, cobijado bajo una sombra bendita. Tan solo respiraba y reajustaba la postura cada vez que mis músculos se resentían de la inactividad. Aun así, era este un letargo&nbsp;placentero y sedante, que me desconectaba de todo cuanto me rodeaba. El tiempo fl"
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "DNS Hero: haz consultas DNS de dominios para diagnóstico",
     "link": "https://voidnull.es/dns-hero-haz-consultas-dns-de-dominios-para-diagnostico/",
     "fecha": "10/07/2026",
     "contenido": "Herramienta open source para inspeccionar registros DNS de cualquier dominio, analizar su configuración y diagnosticar posibles errores."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Cómo configurar sudo para que funcione con SoloKey",
-    "link": "https://voidnull.es/como-configurar-sudo-para-que-funcione-con-solokey/",
-    "fecha": "10/07/2026",
-    "contenido": "Aprende a reforzar la seguridad de sudo en GNU/Linux usando SoloKey como segundo factor de autenticación mediante FIDO2 y PAM."
   },
   {
     "blog": "",
@@ -581,38 +581,10 @@
     "contenido": "Les dejo como recomendación un video del gran musico Nicolas Sokolic, en este caso uno de sus tutoriales de Mandolina."
   },
   {
-    "blog": "56K",
-    "titulo": "Block para Crawlers – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/bloqueo-para-crawlers-fuera-de-las-garras-de-la-ia/",
-    "fecha": "10/07/2026",
-    "contenido": "Esto no es algo 100% pero tendría que ayudar a paliar un poco el scrapeo de IA Crawlers en un website que se sirva con Nginx (un servidor web). Vimos en otro post como se puede aparte de bloquear (que es lo que vamos a ver aquí) redirecionar los bots para que consuman un contenido..."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #949",
-    "link": "https://www.fabio.com.ar/9982-links-de-viernes---949",
-    "fecha": "10/07/2026",
-    "contenido": "     El tiempo pasa y seguimos teniendo links\nOh si, es viernes, aunque vivan en una burbuja y el feriado los aisle, aunque el mundial les anule la am&iacute;gdala, aqu&iacute; tenemos los mejores enlaces de la semana, esos que en tu momento de mayor lucidez racional vas a querer leer en vez de tant"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Discord a FreshRSS",
     "link": "https://nachof.blog/posts/2026/discord-a-freshrss/",
     "fecha": "10/07/2026",
     "contenido": "Discord es una plaga horrible. Está por todos lados, y no entiendo por qué lo usan tanto. Si pudiese no volver a usarlo sería feliz. Bueno, menos infeliz, al menos. El tema es que, lamentablemente, hay cosas que están en Discord que son interesantes.\nUna de esas son los puzzles GAPP (&ldquo;genuinel"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Hernán Parafioriti Nos Cuenta Lo Que Se Viene | Lázaro Estrena Cover Y Anuncia Nueva Fecha",
-    "link": "https://www.delotroladometal.com.ar/2026/07/10/lazaro-estrena-cover-y-anuncia-nueva-fecha/",
-    "fecha": "10/07/2026",
-    "contenido": "Lázaro, la banda argentina autodenominada como de Metal Híbrido, como les gusta autodefinirse, rompe el...\nThe post Hernán Parafioriti Nos Cuenta Lo Que Se Viene | Lázaro Estrena Cover Y Anuncia Nueva Fecha first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Full Circle #228 (abril 2026)",
-    "link": "https://javiersam.uy/2026/07/full-circle-228-abril-2026.html",
-    "fecha": "10/07/2026",
-    "contenido": "Aquí va mi reseña de la edición #228 de Full Circle magazine. Se trata del número correspondiente a abril de 2026 y está disponible para su descarga desde el 24 de ese mes. Consiste en un PDF de 53 páginas y de 4,3 MB. De la sección de Noticias (páginas 4 a 14) lo que me resultó más destacado fue:&#"
   }
 ]
