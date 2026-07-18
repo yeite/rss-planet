@@ -1,5 +1,40 @@
 [
   {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Mostrando mi Pastebin en mi sitio",
+    "link": "https://blog.luiscarlospando.com/coding/2026/07/mostrando-mi-pastebin-en-mi-sitio/",
+    "fecha": "18/07/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Ejercitando la paciencia con Manic Miner en verano",
+    "link": "https://56k.es/fanta/ejercitando-la-paciencia-con-manic-miner-en-verano/",
+    "fecha": "18/07/2026",
+    "contenido": "1983, Madrid DC, Spain. Suena «En la gruta del rey de la montaña» de fondo en el juego que Boby ha cargado desde una cinta de cassette en un ZX Spectrum 128 +2. En la cinta pone escrito con rotulador: «Manic Miner». Pone Manic Miner pero en realidad la cinta contiene en la cara A..."
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "La anomalía",
+    "link": "https://alex.corcoles.net/2026/07/la-anomalía",
+    "fecha": "18/07/2026",
+    "contenido": "\n  (Llevo varios d&#237;as con esta entrada en la cabeza, pero curiosamente hace unas horas un banco me ha notificado que no podr&#233; operar por Internet sin Android o iOS.)\n  \n    En 2013 escrib&#237; sobre aquello de teclear y que aparezca lo que escribas en la tele, y c&#243;mo cada vez hay men"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "\"Under Bright Sadness\" Será Su Nuevo Álbum | Unteachers Y Una Extraña Propuesta",
+    "link": "https://www.delotroladometal.com.ar/2026/07/18/unteachers-y-una-extrana-propuesta/",
+    "fecha": "18/07/2026",
+    "contenido": "Hay cosas que no dejan de sorprender. Combinaciones que parecen imposibles y propuestas que de...\nThe post \"Under Bright Sadness\" Será Su Nuevo Álbum | Unteachers Y Una Extraña Propuesta first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Full Circle #229 (mayo 2026)",
+    "link": "https://javiersam.uy/2026/07/full-circle-229-mayo-2026.html",
+    "fecha": "18/07/2026",
+    "contenido": "Aquí va mi reseña de la edición #229 de Full Circle magazine. Se trata del número correspondiente a mayo de 2026 y está disponible para su descarga desde el 29 de ese mes. Consiste en un PDF de 59 páginas y de 4,2 MB. De la sección de Noticias (páginas 4 a 17) lo que me resultó más destacado fue&#46"
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Solucionar error shebang en múltiples scripts bash linux",
     "link": "https://malagaoriginal.blogspot.com/2026/11/solucionar-error-shebang-en-script-bash.html",
@@ -40,6 +75,13 @@
     "link": "https://matizeta.com/2026/07/17/blogblog-100-migrado/",
     "fecha": "17/07/2026",
     "contenido": "El sitio estaba hasta el momento funcionando en un 99% sobre Jekyll pero me faltaba migrar uno uno de los apartados más importantes: el formulario en donde recibo los blogs, el cual hasta ahora dependía de WordPress. Para hacerlo utilice el servicio de web3forms. Así que ahora tenemos un nuevo formu"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "568. Tribu",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/07/568.html",
+    "fecha": "17/07/2026",
+    "contenido": "&nbsp; &nbsp; La gente se pone de mal humor con los veranos espléndidos. A mí me pasa todo lo contrario: me lo paso muy bien con las olas de calor que me empujan de bar en bar a cumplir con mis rigurosas pausas de hidratación cervecera. De paso, observo y escucho a la clientela.&nbsp; &nbsp; No recu"
   },
   {
     "blog": "danielaragay.net",
@@ -110,6 +152,13 @@
     "link": "https://cozykis.kisworld.es/analisis-de-angel-clicker/",
     "fecha": "17/07/2026",
     "contenido": "Entre click y click nos irá descubriendo una historia tierna y divertida entre un ángel y una demonia\nLa entrada Análisis de Angel Clicker se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Región Cuatro",
+    "titulo": "¿Quién te dio permiso?",
+    "link": "https://regioncuatro.blog/quien-te-dio-permiso/",
+    "fecha": "17/07/2026",
+    "contenido": "Hace unos años leí el libro Lose Well, de Chris Gethard. El capítulo llamado &quot;Punk&quot; tiene un pasaje que no he podido sacarme de la cabeza.\n\nChris cuenta que, siendo adolescente, fue a un toquín punk y le compró un cassette a una banda. Al verlo, preguntó algo que hoy suena absurdo:\n—¿Quién"
   },
   {
     "blog": "Victorhck in the free world",
@@ -368,7 +417,7 @@
     "titulo": "Volver a pedalear",
     "link": "https://blog.luiscarlospando.com/personal/2026/07/volver-a-pedalear/",
     "fecha": "14/07/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "matizeta",
@@ -637,31 +686,10 @@
     "contenido": "\n\nPues me he leído hace poco esta obra, de 3 tomos, de 245 páginas.\nAviso: esta reseña tiene spoilers\n\nBueno pues he de decir, que no es exactamente lo que me esperaba. En ese género, en esta línea, anteriormente he leído Smiley y Gannibal. Thrillers mangas. De hecho, no muy lejos de mis expectativa"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Holos Social | cuando el servidor vuelve a pertenecer al usuario",
-    "link": "https://gatooscuro.xyz/holos-social-cuando-el-servidor-vuelve-a-pertenecer-al-usuario/",
-    "fecha": "11/07/2026",
-    "contenido": "Durante años hemos escuchado que el Fediverso es descentralizado. La afirmación no es falsa, pero tampoco cuenta toda la historia. Si bien plataformas como Mastodon distribuyen la infraestructura entre miles\nSeguir leyendo  Holos Social &#124; cuando el servidor vuelve a pertenecer al usuario\nEl car"
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "No somos un bug",
     "link": "https://tecnoysoft.com/2026/07/11/no-somos-un-bug/",
     "fecha": "11/07/2026",
     "contenido": "Ignoro si esto será un error, porque mi blog es de tecnología, no de filosofía. Aun así, detrás de cada línea de código, de cada artículo y de cada proyecto hay personas. Y las personas nos equivocamos. Lo que ocurre es que, cuando alguien comete un error, enseguida aparecen esos jueces que parecen "
-  },
-  {
-    "blog": "56K",
-    "titulo": "RSS2Email – Feeds RSS como Emails",
-    "link": "https://56k.es/fanta/rss2email-feeds-rss-como-emails/",
-    "fecha": "11/07/2026",
-    "contenido": "Existe gente que utilizan actualmente gestores de correo electrónico (clientes). Google llegó a nuestras vidas con «cuentas de correo electrónico gratuitas» pero antes de Google estaba por allí Micro$oft con las cuentas hotmail que servían también para el Messenger. Lo importante es que mucha gente "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Theoptia: Horeb | La Genialidad Al Servicio Del Death Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/07/11/la-genialidad-al-servicio-del-death-metal/",
-    "fecha": "11/07/2026",
-    "contenido": "(2017 &#8211; Unblack) Nos ha tocado escuchar muchas cosas raras y extrañas, y de hecho...\nThe post Theoptia: Horeb | La Genialidad Al Servicio Del Death Metal first appeared on Del Otro Lado Metal."
   }
 ]
