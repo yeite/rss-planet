@@ -7,11 +7,53 @@
     "contenido": "¿Qué es eso del error \"shebang\"?Un error shebang, es un error en el que no se encuentra el intérprete especificado en la primera línea del script&nbsp;En el caso de un script bash linux lo podemos comenter con un error tan aparentemente inocente como empezar los scripts con la línea:#/bin/bash&nbsp;"
   },
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 29 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/07/17/opensuse-tumbleweed-revision-de-la-semana-29-de-2026/",
+    "fecha": "17/07/2026",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
     "blog": "Mi perra vida",
     "titulo": "Mi perra vida | Temporada 2026, episodio 29.",
     "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-29/",
     "fecha": "17/07/2026",
     "contenido": "Relato – Doctor Nómada (quinta parte) &#124; Bonus track\n\nDoctor Nómada (quinta parte)\nLeer la cuarta parte\nEn menos de treinta días mi castillo de naipes se había derrumbado. Nada de lo ocurrido era injustificado, pero eso no lo hacía deseable, ni tolerable. Lo primero que se agotó, aunque se había"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Tutorial: ZRAM en Droplet de Digital Ocean",
+    "link": "https://interlan.ec/blog/2026/07/17/tutorial-zram-en-droplet-de-digital-ocean/",
+    "fecha": "17/07/2026",
+    "contenido": "en un droplet limitado de recursos, swap puede ayudar con la estabilidad del sistema, pero zram te garantiza que no afectaras al tiempo de vida de tus discos"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "¿Existiría Linux sin GNU? La historia que muchos olvidan",
+    "link": "https://tecnoysoft.com/2026/07/17/existiria-linux-sin-gnu-la-historia-que-muchos-olvidan/",
+    "fecha": "17/07/2026",
+    "contenido": "Cuando se habla de Linux, la mayoría de personas piensa inmediatamente en Linus Torvalds y en el kernel que publicó en 1991. Sin embargo, pocas veces se cuenta la historia completa. El éxito de Linux no puede entenderse sin el trabajo que el proyecto GNU llevaba desarrollando desde casi una década a"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "¡Blog!¡Blog! 100% migrado",
+    "link": "https://matizeta.com/2026/07/17/blogblog-100-migrado/",
+    "fecha": "17/07/2026",
+    "contenido": "El sitio estaba hasta el momento funcionando en un 99% sobre Jekyll pero me faltaba migrar uno uno de los apartados más importantes: el formulario en donde recibo los blogs, el cual hasta ahora dependía de WordPress. Para hacerlo utilice el servicio de web3forms. Así que ahora tenemos un nuevo formu"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Grabar con dron en Suecia: lo que nadie te cuenta (comparado con España)",
+    "link": "https://blog.danielaragay.net/grabar-con-dron-en-suecia/",
+    "fecha": "17/07/2026",
+    "contenido": "Si vas a grabar con dron en Suecia pensando que las normas son las mismas que en Espa&#xf1;a porque los dos pa&#xed;ses est&#xe1;n en la Uni&#xf3;n Europea, tengo una sorpresa para ti: el marco de base s&#xed; es el mismo, pero"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Termux: mucho más que una terminal",
+    "link": "https://voidnull.es/termux-mucho-mas-que-una-terminal/",
+    "fecha": "17/07/2026",
+    "contenido": "Convierte tu Android en un entorno GNU/Linux completo con terminal, gestor de paquetes y cientos de herramientas de desarrollo."
   },
   {
     "blog": "_ voidNull",
@@ -47,6 +89,20 @@
     "link": "https://www.fabio.com.ar/9989-links-de-viernes---950",
     "fecha": "17/07/2026",
     "contenido": "     Solitarios como este caballo estar&aacute;n los Links\nSe que nadie va a estar para leer nada este finde, al menos no el domingo, qu&eacute; se yo, tal vez estos links les sirvan para bajar el nivel de ansiedad, llevarlos sin estr&eacute;s hasta el momento cr&iacute;tico, por ah&iacute; los leer"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Livesuit - James S.A. Corey",
+    "link": "https://nachof.blog/posts/2026/livesuit/",
+    "fecha": "17/07/2026",
+    "contenido": "\n\n\nNormalmente, cuando hablás de ciencia ficción militar, es difícil no comparar con Starship Troopers. En este caso, la comparación más apta sería tal vez con The Forever War.\nLivesuit es una historia de ciencia ficción militar puesta en el universo de The Captives War (la serie de la cual el prime"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Parakletos; Opera Ab Aeterno | La Grandiosidad De Lo Extremo",
+    "link": "https://www.delotroladometal.com.ar/2026/07/17/la-grandiosidad-de-lo-extremo/",
+    "fecha": "17/07/2026",
+    "contenido": "(2025 &#8211; Soundmass) Ya habíamos hablado de Parakletos en ocasión de la reseña de la...\nThe post Parakletos; Opera Ab Aeterno | La Grandiosidad De Lo Extremo first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "CozyKis",
@@ -131,6 +187,13 @@
     "link": "https://www.fabio.com.ar/9988-ruleta-rusa-885",
     "fecha": "16/07/2026",
     "contenido": "     Estamos doblados, pero con ruleta!\nNo s&eacute; ustedes, pero mis niveles de cortizol y estr&eacute;s han llegado a su m&aacute;ximo, necesito relajarme y tomarme todo con mucha m&aacute;s calma 🤪 as&iacute; que empecemos por una buena y bombardeada ruleta, porque nada mejor que un balazo para "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "AHPE Apunta A Quienes Crecen Pisando A Los Demás | Los Brasileños AHPE Estrenan “Karma”",
+    "link": "https://www.delotroladometal.com.ar/2026/07/16/los-brasilenos-ahpe-estrenan-karma/",
+    "fecha": "16/07/2026",
+    "contenido": "AHPE es un buen descubrimiento dentro de lo que es la escena brasileña, más precisamente...\nThe post AHPE Apunta A Quienes Crecen Pisando A Los Demás | Los Brasileños AHPE Estrenan “Karma” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -252,6 +315,20 @@
     "contenido": "    \nNo tengo PC de la empresa en este momento, pero la tuve y tambi&eacute;n sobreviv&iacute; al ambente \"Corpo\" y de todas las estupideces que hace una gran empresa a sus empleados una de las m&aacute;s curiosas es cuando los de RRHH se meten en la computadora.\nLos de RRHH son espec&iacute;menes m"
   },
   {
+    "blog": "Picando Código",
+    "titulo": "Reseña: Denshattack! - Nintendo Switch 2 y Steam",
+    "link": "https://picandocodigo.net/2026/resena-denshattack-nintendo-switch-2-y-steam/",
+    "fecha": "15/07/2026",
+    "contenido": "Denshattack! es un juego que combina manejar un tren con Tony Hawk's Pro Skater y aspectos de juegos de plataforma 3D. El estilo gráfico está inspirado por animé y juegos de la época del Sega Dreamcast. Puede sonar complejo, pero quédense conmigo que esto vale la pena. El juego es impresionante, es "
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "MetalBreed Magazine Nro. 6 – Año 2018",
+    "link": "https://www.delotroladometal.com.ar/2026/07/15/metalbreed-magazine-nro-6-ano-2018/",
+    "fecha": "15/07/2026",
+    "contenido": "Posiblemente haya sido una de las mejores cosas que se hicieron en Argentina respecto a...\nThe post MetalBreed Magazine Nro. 6 – Año 2018 first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "AsturGeek V3",
     "titulo": "Ver la TDT con FredTV",
     "link": "https://asturgeek.eu/2026/07/15/ver-la-tdt-con-fredtv/",
@@ -322,6 +399,13 @@
     "contenido": "    \nHay una forma de eludir impuestos y vivir como rico y pobre al mismo tiempo, esto obviamente depende de cada pa&iacute;s, pero en donde m&aacute;s ricos hay, las reglas est&aacute;n bien establecidas.\nNo tengo nada en contra de la gente que gana mucho dinero, el problema nunca es ese, el proble"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Narnia: X | Recuperando El Terreno Perdido",
+    "link": "https://www.delotroladometal.com.ar/2026/07/14/recuperando-el-terreno-perdido/",
+    "fecha": "14/07/2026",
+    "contenido": "(2026 &#8211; Narnia) Ya habíamos tenido la oportunidad de escuchar el álbum entero gracias a...\nThe post Narnia: X | Recuperando El Terreno Perdido first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Análisis de The Unlife of Gorlak",
     "link": "https://cozykis.kisworld.es/analisis-de-the-unlife-of-gorlak/",
@@ -369,6 +453,13 @@
     "link": "https://jinversor.co/2026/07/btc-defi-nuevos-libros/",
     "fecha": "13/07/2026",
     "contenido": "En el repositorio Mega del personaje misteriosísimo encontré nuevos libros de BTC &#38; Defi. Aclaro que no he leído estos libros y por tanto no es una recomendación. Apenas estoy [&#8230;]\nLa entrada BTC & Defi: nuevos libros se publicó primero en Jinversor."
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Movistar y el bloqueo de ONT no homologadas",
+    "link": "https://alt43.es/movistar-y-el-bloqueo-de-ont-no-homologadas/",
+    "fecha": "13/07/2026",
+    "contenido": "Movistar ha notificado que bloqueará el acceso a ONT no homologadas a partir del 15 de septiembre de 2026, alegando caídas de puertos en sus OLT provocadas por equipos de terceros. Analizamos cómo funciona una red GPON, por qué una ONT mal configurada puede afectar a otros clientes del mismo divisor"
   },
   {
     "blog": "matizeta",
@@ -434,6 +525,13 @@
     "contenido": "\n Imagen sacada de Mastodon\n \n\n\nLa política británica tiene sus cosas divertidas. A diferencia de la política en la mayoría de los países, donde el procedimiento está dado por reglas hechas intencionalmente, en el Reino Unido los procedimientos son producto de siglos de tradiciones. Un ejemplo es el"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Entrevista Con Juan Granado | “Jamás Me Sentí Un Bicho Raro”",
+    "link": "https://www.delotroladometal.com.ar/2026/07/13/jamas-me-senti-un-bicho-raro/",
+    "fecha": "13/07/2026",
+    "contenido": "Hay tipos con los que podes estar hablando horas y horas, y que te dejan...\nThe post Entrevista Con Juan Granado | “Jamás Me Sentí Un Bicho Raro” first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "El blog de Lázaro",
     "titulo": "¿Cuánto pesa tu página web?",
     "link": "https://elblogdelazaro.org/cuanto-pesa-tu-pagina-web/",
@@ -488,6 +586,13 @@
     "link": "https://www.fabio.com.ar/9983-pacific-warrior---nuevo-juego-gratis-artillero-antiaereo",
     "fecha": "12/07/2026",
     "contenido": "    \nEn unos pocos d&iacute;as me puse a programar un juego totalmente distinto, creo que merece su post aparte: Pacific Warrior, es un juego single o multi player cooperativo de la Segunda Guerra Mundial.\nSos el artillero de un destructor clase Fletcher y pod&eacute;s utilizar tres ca&ntilde;ones B"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Varios Anuncios Importantes Para Lo Que Resta Del 2026 | Los Discos Que Se Vienen",
+    "link": "https://www.delotroladometal.com.ar/2026/07/12/los-discos-que-se-vienen/",
+    "fecha": "12/07/2026",
+    "contenido": "Varios de los anuncios que veniamos publicando sobre material nuevo y ediciones para este año...\nThe post Varios Anuncios Importantes Para Lo Que Resta Del 2026 | Los Discos Que Se Vienen first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "JavierSam",
@@ -553,38 +658,10 @@
     "contenido": "Existe gente que utilizan actualmente gestores de correo electrónico (clientes). Google llegó a nuestras vidas con «cuentas de correo electrónico gratuitas» pero antes de Google estaba por allí Micro$oft con las cuentas hotmail que servían también para el Messenger. Lo importante es que mucha gente "
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 28 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/07/10/opensuse-tumbleweed-revision-de-la-semana-28-de-2026/",
-    "fecha": "10/07/2026",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Tutorial: Aprende a Lidiar con los Limites de la RAM en Linux",
-    "link": "https://interlan.ec/blog/2026/07/10/como-rescatar-memoria-ram/",
-    "fecha": "10/07/2026",
-    "contenido": "Probablemente te hayas encontrado con este problema. Tienes preparado tu sistema y esta todo bien hasta que el swap entra en escena. Todo empieza a ir mas lento hasta que en un descuido en el que el consumo de la RAM llega hasta el extremo, se cuelga y toca reiniciar forzosamente. ¿No te ha pasado? "
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "DNS Hero: haz consultas DNS de dominios para diagnóstico",
-    "link": "https://voidnull.es/dns-hero-haz-consultas-dns-de-dominios-para-diagnostico/",
-    "fecha": "10/07/2026",
-    "contenido": "Herramienta open source para inspeccionar registros DNS de cualquier dominio, analizar su configuración y diagnosticar posibles errores."
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendación.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/07/10/recomendacion-19/",
-    "fecha": "10/07/2026",
-    "contenido": "Les dejo como recomendación un video del gran musico Nicolas Sokolic, en este caso uno de sus tutoriales de Mandolina."
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Discord a FreshRSS",
-    "link": "https://nachof.blog/posts/2026/discord-a-freshrss/",
-    "fecha": "10/07/2026",
-    "contenido": "Discord es una plaga horrible. Está por todos lados, y no entiendo por qué lo usan tanto. Si pudiese no volver a usarlo sería feliz. Bueno, menos infeliz, al menos. El tema es que, lamentablemente, hay cosas que están en Discord que son interesantes.\nUna de esas son los puzzles GAPP (&ldquo;genuinel"
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Theoptia: Horeb | La Genialidad Al Servicio Del Death Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/07/11/la-genialidad-al-servicio-del-death-metal/",
+    "fecha": "11/07/2026",
+    "contenido": "(2017 &#8211; Unblack) Nos ha tocado escuchar muchas cosas raras y extrañas, y de hecho...\nThe post Theoptia: Horeb | La Genialidad Al Servicio Del Death Metal first appeared on Del Otro Lado Metal."
   }
 ]
