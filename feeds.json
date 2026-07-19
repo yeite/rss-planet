@@ -1,10 +1,24 @@
 [
   {
     "blog": "Luis Carlos Pando",
+    "titulo": "Tu blog necesita un \"Respondiendo a\"",
+    "link": "https://blog.luiscarlospando.com/diseno/2026/07/tu-blog-necesita-un-respondiendo-a/",
+    "fecha": "18/07/2026",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Luis Carlos Pando",
     "titulo": "Mostrando mi Pastebin en mi sitio",
     "link": "https://blog.luiscarlospando.com/coding/2026/07/mostrando-mi-pastebin-en-mi-sitio/",
     "fecha": "18/07/2026",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "\"La vieja memoria\": las voces que vivieron el 18 de julio",
+    "link": "https://blog.danielaragay.net/la-vieja-memoria-las-voces-que-vivieron-el-18-de-julio/",
+    "fecha": "18/07/2026",
+    "contenido": "Hoy, 18 de julio, se cumplen noventa a&#xf1;os de la sublevaci&#xf3;n militar de 1936 contra la Segunda Rep&#xfa;blica espa&#xf1;ola, el acontecimiento que en cuesti&#xf3;n de d&#xed;as dej&#xf3; de ser un golpe de Estado fallido para convertirse en"
   },
   {
     "blog": "56K",
@@ -469,21 +483,21 @@
     "contenido": "Este finde he descubierto esta app leyendo la newsletter de St&eacute;phanie Walter. Muy buena pinta: transcripciones de reuniones con IA pero sin enviar ningún dato a ningún tercero, todo en local y con una app nativa en Mac.Ir al enlace"
   },
   {
-    "blog": "La Loica",
+    "blog": "Lloyka",
     "titulo": "Taller de Fanzine III",
     "link": "https://laloica.noblogs.org/taller-de-fanzine-iii/",
     "fecha": "13/07/2026",
     "contenido": "Si vengo atrasada pero mas vale tarde que nunca, y la obrera aquí es solo una humana con una maquina. Ji ji ji. Aquí el material del taller numero III de fanzine. Primero partiré por dejarte mi canal de Twich si aun no sabes donde poder verme en directo con seguridad (por mientras estoy intentando ."
   },
   {
-    "blog": "La Loica",
+    "blog": "Lloyka",
     "titulo": "Taller de Fanzine II",
     "link": "https://laloica.noblogs.org/taller-de-fanzine-ii/",
     "fecha": "13/07/2026",
     "contenido": "Holita de mar, aquí un poco atrasada pero concretando. En el taller numero II empezamos ya a poner manos a la obra haciendo un fanzine análogo, para este ejercicio definí hacer un mini fanzine tipo acordeón sobre Flora Sanhueza Rebolledo, mujer Chilena Anarquista, que resistió en la guerra civil esp"
   },
   {
-    "blog": "La Loica",
+    "blog": "Lloyka",
     "titulo": "Revista Ideas Septiembre de 1981",
     "link": "https://laloica.noblogs.org/revista-ideas-septiembre-de-1981/",
     "fecha": "13/07/2026",
@@ -616,13 +630,6 @@
     "contenido": "Coartadas es una comedia romántica de risa fácil protagonizada por Jaime Lorente y Adriana Torrebejano. Es una adaptación de la película francesa Alibi.com. Esta película fue dirigida por Philippe Lacheau en el año 2016. La versión española ha sido dirigida por Martín Cuervo. Entre los actores secun"
   },
   {
-    "blog": "Si dios te da limones",
-    "titulo": "Comandos de git que uso MUCHO",
-    "link": "https://sidiostedalimones.com/blog/2026/comandos-de-git-que-uso-mucho/",
-    "fecha": "12/07/2026",
-    "contenido": ""
-  },
-  {
     "blog": "56K",
     "titulo": "Silbo Gomero – Fuera de las garras de la IA",
     "link": "https://56k.es/fanta/silbo-gomero-fuera-de-las-garras-de-la-ia/",
@@ -651,45 +658,10 @@
     "contenido": "Ayer se completaron los cuartos de final (la tercera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Argentina, la única de las selecciones sudamericanas que llegó a esta instancia enfrentaba a Suiza, un rival europeo. Argentina 3"
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪁 El Jardín Digital",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/",
-    "fecha": "12/07/2026",
-    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌾 Viviendo apasionadamente la rutina",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%BE-Viviendo-apasionadamente-la-rutina",
-    "fecha": "12/07/2026",
-    "contenido": "arbolito ¿Como santifico mi vida corriente? La esencia de la vocación cristiana consiste en santificar la vida corriente."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪴 Sobre el tiempo y las virtudes",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-el-tiempo-y-las-virtudes",
-    "fecha": "12/07/2026",
-    "contenido": "yuyo Note Sí, por el contrario, es consciente de que le pueden esperar cosas horribles, y reza para pedir las virtudes necesarias para enfrentarse con tales horrores, y entretanto se ocupa del presente, porque en éste, y sólo en éste, residen todos los deberes, toda la gracia, toda la sabiduría y to"
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪴 Sobre la importancia de las cosas",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-la-importancia-de-las-cosas",
-    "fecha": "12/07/2026",
-    "contenido": "helecho Las cosas del mundo son intrascendentes."
-  },
-  {
     "blog": "labaudric",
     "titulo": "Crítica Adabana",
     "link": "https://labaudric.net/blog/adabana",
     "fecha": "12/07/2026",
     "contenido": "\n\nPues me he leído hace poco esta obra, de 3 tomos, de 245 páginas.\nAviso: esta reseña tiene spoilers\n\nBueno pues he de decir, que no es exactamente lo que me esperaba. En ese género, en esta línea, anteriormente he leído Smiley y Gannibal. Thrillers mangas. De hecho, no muy lejos de mis expectativa"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "No somos un bug",
-    "link": "https://tecnoysoft.com/2026/07/11/no-somos-un-bug/",
-    "fecha": "11/07/2026",
-    "contenido": "Ignoro si esto será un error, porque mi blog es de tecnología, no de filosofía. Aun así, detrás de cada línea de código, de cada artículo y de cada proyecto hay personas. Y las personas nos equivocamos. Lo que ocurre es que, cuando alguien comete un error, enseguida aparecen esos jueces que parecen "
   }
 ]
