@@ -1,10 +1,24 @@
 [
   {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Visualización de una vida en semanas",
+    "link": "https://guillermolatorre.com/clips/visualizacion-de-una-vida-en-semanas",
+    "fecha": "20/07/2026",
+    "contenido": "Cada cierto tiempo hay que entrar aquí. Es un calendario para visualizar la cantidad de tiempo que llevas consumido y el que podría quedarte por vivir, basado en el libro \"Wait but why\" de Tim Urban.Ir al enlace"
+  },
+  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "El mejor reloj que puedes conseguir – Huawei Watch GT 6",
     "link": "https://gatooscuro.xyz/el-mejor-reloj-que-puedes-conseguir-huawei-watch-gt-6/",
     "fecha": "20/07/2026",
     "contenido": "NOTA: Nadie pago por este artículo, solo quiero dar una buena recomendación de tecnología. Bueno, nuevamente nos leemos en esta sesión de tecnología, en donde suelo recomendar algún gadget o\nSeguir leyendo  El mejor reloj que puedes conseguir &#8211; Huawei Watch GT 6\nEl cargo El mejor reloj que pue"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Colaboraciones entre blogs",
+    "link": "https://matizeta.com/2026/07/20/colaboraciones-entre-blogs/",
+    "fecha": "20/07/2026",
+    "contenido": "Recientemente fui invitado a colaborar en el blog de tecnología “El refugio de un Nerd” (anteriormente “El cajón de Tecnología”). Esta es mi primera colaboración con otro blog. Me gustan estas ideas de colaboración exista. ¿De que trata esta colaboración? Un blog es invitado a escribir sobre una rec"
   },
   {
     "blog": "matizeta",
@@ -15,10 +29,38 @@
   },
   {
     "blog": "_ voidNull",
+    "titulo": "Configurar repetidor TP-Link N300 en tu señal WiFi",
+    "link": "https://voidnull.es/configurar-repetidor-tp-link-n300-en-tu-senal-wifi/",
+    "fecha": "20/07/2026",
+    "contenido": "Amplía tu red WiFi fácilmente configurando un repetidor TP-Link N300 y mejora la cobertura en toda tu casa."
+  },
+  {
+    "blog": "_ voidNull",
     "titulo": "Instalación de Find My Device en Proxmox",
     "link": "https://voidnull.es/instalacion-de-find-my-device-en-proxmox/",
     "fecha": "20/07/2026",
     "contenido": "FMD (Find My Device), una alternativa open source y descentralizada para localizar y controlar tu móvil Android de forma remota"
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "Bots ¿con o contra bots?",
+    "link": "https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/",
+    "fecha": "20/07/2026",
+    "contenido": "\n\nLeía hace un rato un titular que venía a decir que se está graduando estos días la primera cohorte de estudiantes-chatGPT. Si recordamos, ChatGPT fue lanzado en noviembre del 2022 (ChatGPT en Wikipedia) así que es un buen título: los estudiantes que comenzaron en el 2022 ahora se estarán graduando"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "¿Seguridad o prestaciones? Compromisos",
+    "link": "https://fernand0.github.io//seguridad-prestaciones/",
+    "fecha": "20/07/2026",
+    "contenido": "No estoy muy seguro sobre en qué habrá terminado esto pero me parece interesante por varios motivos: Ubuntu disables Intel GPU security mitigations, promises 20% performance boost. Por un lado, está claro que añadir controles de seguridad hace que el código sea más lento (en este caso parece que muc"
+  },
+  {
+    "blog": "La línea doméstica",
+    "titulo": "El Interior",
+    "link": "https://jmlro.codeberg.page/posts/2026/07-20-el-interior.html",
+    "fecha": "20/07/2026",
+    "contenido": "Leyendo Las Llanuras, de Gerald Murnane, pienso en la obra de mi abuelo. Durante varias décadas se levantó temprano antes de que se despertara el resto de la casa para escribir un formato específico. Veinte líneas sobre un tema. A lo largo de los años el impulso lo podía dar un refrán o una frase de"
   },
   {
     "blog": "Erica Fustero",
@@ -56,11 +98,67 @@
     "contenido": "Ayer terminó la 23ª Copa Mundial de la FIFA, que se disputó en Canadá, Estados Unidos y México. El martes de la semana pasada se jugó la primera de las semifinales. En ella España agarró la pelota y no se la prestó a Francia. Los hábiles españoles movieron la pelota de un lado a otro y fueron enloqu"
   },
   {
+    "blog": "Salva Más De Cerca",
+    "titulo": "🪁 El Jardín Digital",
+    "link": "https://salva.thedev.id/El-Jard%C3%ADn/",
+    "fecha": "20/07/2026",
+    "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Explore The World!",
+    "link": "https://salva.thedev.id/Proyectos/Explore-The-World!",
+    "fecha": "20/07/2026",
+    "contenido": "This is a solo project I’ve decided to start because I almost don’t know anything about any country around the globe (probed by losing everyday on GeoGuesser)."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salva.thedev.id/",
+    "fecha": "20/07/2026",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida."
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Análisis de What Surrounds Us",
     "link": "https://cozykis.kisworld.es/analisis-de-what-surrounds-us/",
     "fecha": "20/07/2026",
     "contenido": "What Surrounds Us es un juego de puzles bastante original. Cuando lo descubrí por primera vez, no me quedó muy claro qué era, ni entendí muy bien el concepto, pero después de probarlo, me ha parecido una idea muy chula. Seremos un pequeño circulito en un mundo lleno también de estos. Y es que lo [&#"
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "El Diario de un Nerd – Matizeta",
+    "link": "https://elrefugiodeunnerd.es/2026/07/20/el-diario-de-un-nerd-matizeta/",
+    "fecha": "20/07/2026",
+    "contenido": "Sigo con la serie que tenía en mi antigua web, solo que a partir de ahora sin un día fijo. Hoy la recomendación nos la trae Matizeta, un bloguero conocido en la comunidad. Como siempre recuerdo que todo lo que aparece aquí son sus palabras tal cual ellos me las enviaron. Nombre del bloguero: matizet"
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "Por qué siempre blanco o negro…",
+    "link": "https://elrefugiodeunnerd.es/2026/07/20/por-que-siempre-blanco-o-negro/",
+    "fecha": "20/07/2026",
+    "contenido": "Estamos obsesionados en ver la tecnología, o la vida en general, a dos colores, eres de Apple o de Android, de Mac o de Windows (o Linux), de Adobe o de código abierto… Son muchos los ejemplos, pero pocos los que se deberían aplicar. A veces utilizar las dos cosas (o tres, o las que [&#8230;]"
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "BlogBlog!",
+    "link": "https://elrefugiodeunnerd.es/2026/07/20/blogblog/",
+    "fecha": "20/07/2026",
+    "contenido": "Hacer crecer un blog es complicado a día de hoy. Las redes sociales han matado este contenido. Puede ser por el hecho de que hay que leer y no ver un vídeo de 30 segundos, porque les da pereza, o por el simple hecho de que han pasado de moda. Es por ello por lo [&#8230;]"
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "La idea de descentralizar las cosas",
+    "link": "https://elrefugiodeunnerd.es/2026/07/20/la-idea-de-descentralizar-las-cosas/",
+    "fecha": "20/07/2026",
+    "contenido": "Bueno… Llevo muchos años siendo un friki de la tecnología, de hecho, meapasiona. Me gustan todas las novedades de los dispositivos móviles perotambién soy de la opinión de que llevar todo en un bolsillo puede seraterrador. A día de hoy, llevamos todo en nuestro teléfono móvil, y, no lo voya negar, e"
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "El Diario de un Nerd – Diego",
+    "link": "https://elrefugiodeunnerd.es/2026/07/20/el-diario-de-un-nerd-diego/",
+    "fecha": "20/07/2026",
+    "contenido": "Hoy empezamos una serie de colaboraciones, en la que un bloguero nos va a recomendar un programa/herramienta/truco/página web o algo que se le ocurra que pueda ser interesante y nos va a explicar un poquito sobre ello. Abrimos esta serie con Diego. Todo lo que aparece en su sección son sus palabras "
   },
   {
     "blog": "El Sueño del Artista Blog",
@@ -245,13 +343,6 @@
     "contenido": "     Solitarios como este caballo estar&aacute;n los Links\nSe que nadie va a estar para leer nada este finde, al menos no el domingo, qu&eacute; se yo, tal vez estos links les sirvan para bajar el nivel de ansiedad, llevarlos sin estr&eacute;s hasta el momento cr&iacute;tico, por ah&iacute; los leer"
   },
   {
-    "blog": "Un blog",
-    "titulo": "Livesuit - James S.A. Corey",
-    "link": "https://nachof.blog/posts/2026/livesuit/",
-    "fecha": "17/07/2026",
-    "contenido": "\n\n\nNormalmente, cuando hablás de ciencia ficción militar, es difícil no comparar con Starship Troopers. En este caso, la comparación más apta sería tal vez con The Forever War.\nLivesuit es una historia de ciencia ficción militar puesta en el universo de The Captives War (la serie de la cual el prime"
-  },
-  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Parakletos; Opera Ab Aeterno | La Grandiosidad De Lo Extremo",
     "link": "https://www.delotroladometal.com.ar/2026/07/17/la-grandiosidad-de-lo-extremo/",
@@ -271,6 +362,13 @@
     "link": "https://regioncuatro.blog/quien-te-dio-permiso/",
     "fecha": "17/07/2026",
     "contenido": "Hace unos años leí el libro Lose Well, de Chris Gethard. El capítulo llamado &quot;Punk&quot; tiene un pasaje que no he podido sacarme de la cabeza.\n\nChris cuenta que, siendo adolescente, fue a un toquín punk y le compró un cassette a una banda. Al verlo, preguntó algo que hoy suena absurdo:\n—¿Quién"
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "El Refugio de un Nerd",
+    "link": "https://elrefugiodeunnerd.es/2026/07/17/el-refugio-de-un-nerd/",
+    "fecha": "17/07/2026",
+    "contenido": "Una pequeña presentación de este rincón de internet. Bienvenido. El Refugio de un Nerd es un blog de tecnología, Linux, Open Soruce, o lo que quiera escribir. Es más bien un rincón en lo que digo lo que quiero y lo lee quien quiere. Esto anteriormente era El Cajón de la Tecnología pero fue una [&#82"
   },
   {
     "blog": "Victorhck in the free world",
@@ -572,82 +670,5 @@
     "link": "https://cozykis.kisworld.es/analisis-de-the-unlife-of-gorlak/",
     "fecha": "14/07/2026",
     "contenido": "Un JRPG en el que tendremos que enfrentarnos a temibles enemigos mientras descubrimos la historia detrás de nuestro protagonista\nLa entrada Análisis de The Unlife of Gorlak se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Lloyka",
-    "titulo": "Taller de Fanzine III",
-    "link": "https://laloica.noblogs.org/taller-de-fanzine-iii/",
-    "fecha": "13/07/2026",
-    "contenido": "Si vengo atrasada pero mas vale tarde que nunca, y la obrera aquí es solo una humana con una maquina. Ji ji ji. Aquí el material del taller numero III de fanzine. Primero partiré por dejarte mi canal de Twich si aun no sabes donde poder verme en directo con seguridad (por mientras estoy intentando ."
-  },
-  {
-    "blog": "Lloyka",
-    "titulo": "Taller de Fanzine II",
-    "link": "https://laloica.noblogs.org/taller-de-fanzine-ii/",
-    "fecha": "13/07/2026",
-    "contenido": "Holita de mar, aquí un poco atrasada pero concretando. En el taller numero II empezamos ya a poner manos a la obra haciendo un fanzine análogo, para este ejercicio definí hacer un mini fanzine tipo acordeón sobre Flora Sanhueza Rebolledo, mujer Chilena Anarquista, que resistió en la guerra civil esp"
-  },
-  {
-    "blog": "Lloyka",
-    "titulo": "Revista Ideas Septiembre de 1981",
-    "link": "https://laloica.noblogs.org/revista-ideas-septiembre-de-1981/",
-    "fecha": "13/07/2026",
-    "contenido": "Holita de mar, aquí les traigo (con un par de semanas de retraso) la revista que escaneamos en directo para la Biblioteca Domestica. En esta ocasión les traigo la revista «IDEAS para su hogar» de la editorial Andina, con casa central en Chile y distribución de la revista en Venezuela. Esta edición e"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Script en Bash (y Fish) para mostrar los datos de una estación metereológica de Meteoclimatic",
-    "link": "https://victorhckinthefreeworld.com/2026/07/13/script-en-bash-y-fish-para-mostrar-los-datos-de-una-estacion-metereologica-de-meteoclimatic/",
-    "fecha": "13/07/2026",
-    "contenido": "Este script para Bash (y otro para la shell Fish) muestra los datos metereológicos de una estación de Meteoclimatic"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Cómo instalar Java con APT en Ubuntu 26.04",
-    "link": "https://voidnull.es/como-instalar-java-con-apt-en-ubuntu-26-04/",
-    "fecha": "13/07/2026",
-    "contenido": "En este tutorial, instalaremos varias versiones de Java Runtime Environment (JRE) y Java Developer Kit (JDK) usando APT."
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Duelo de compactas",
-    "link": "https://www.ericafustero.com/2026-07-duelo-de-compactas",
-    "fecha": "13/07/2026",
-    "contenido": "Un domingo de junio fui a pasar el día a Muel y Mozota con mis cámaras más compactas: la Ricoh GR IIIx, la Olympus XA2 + Ultramax 400 y la Pentax 17 + Portra 400. Habitualmente uso la Olympus con carretes en blanco y negro, pero me apetecía volver a probarla en color. También tenía [&#8230;]"
-  },
-  {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Cambio de trabajo",
-    "link": "https://blog.zurdala.es/blog/cambio-de-trabajo/",
-    "fecha": "13/07/2026",
-    "contenido": "Aviso para navegantes: se viene queja sobre queja. Mierda de economía capitalista\nNo tengo mucho que decir aquí, salvo que he cambiado de trabajo. Es una historia complicada: la empresa en la que estaba antes (A) fue comprada por otra (C). Yo me fui de A en su momento a otra en Alemania (B) por vari"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Cuando todo un país debe ser nivelado para abajo y se niega",
-    "link": "https://www.fabio.com.ar/9985-cuando-todo-un-pais-debe-ser-nivelado-para-abajo-y-se-niega",
-    "fecha": "13/07/2026",
-    "contenido": "    \nDurante los &uacute;ltimos d&iacute;as una combinaci&oacute;n de \"grinding\" y odio real se mezcl&oacute; con envidia y frustraci&oacute;n y todo un pa&iacute;s fue se&ntilde;alado con el dedo injustamente, esta vez nos toc&oacute; a nosotros, pero le puede suceder a cualquiera.\n&iquest;Por qu&e"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Clacton 2026",
-    "link": "https://nachof.blog/posts/2026/clacton-2026/",
-    "fecha": "13/07/2026",
-    "contenido": "\n Imagen sacada de Mastodon\n \n\n\nLa política británica tiene sus cosas divertidas. A diferencia de la política en la mayoría de los países, donde el procedimiento está dado por reglas hechas intencionalmente, en el Reino Unido los procedimientos son producto de siglos de tradiciones. Un ejemplo es el"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Juegos de Nonbinary Coded Games",
-    "link": "https://cozykis.kisworld.es/juegos-de-nonbinary-coded-games/",
-    "fecha": "13/07/2026",
-    "contenido": "Acaba de empezar en Steam el evento Nonbinary Coded Games, que junta un montón de juegos hechos por devs no bienaries o juegos donde aparecen representades. Como cuenta con hasta 150 títulos, todos con una pinta chulísima, os dejo una lista de algunos que he podido probar y me han parecido una marav"
-  },
-  {
-    "blog": "Región Cuatro",
-    "titulo": "Shhh",
-    "link": "https://regioncuatro.blog/shhh/",
-    "fecha": "13/07/2026",
-    "contenido": "Hace unas dos semanas me topé con The Last Quiet Thing, de Terry Godier, y me hizo ver mis dispositivos de una forma distinta.\nSiempre estoy hablando de mi constante búsqueda de calma, pero aun así, nunca había visto el asunto de los dispositivos desde ese ángulo: aparatos que nos hacen trabajar.\n\nE"
   }
 ]
