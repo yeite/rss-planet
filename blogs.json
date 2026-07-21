@@ -12,8 +12,9 @@
   },
   {
     "Nombre": "El refugio de un Nerd",
-    "Url": "https://elrefugiodeunnerd.es/",
-    "Feed": "https://elrefugiodeunnerd.es/feed/",
+    "Url": "https://elrefugiodeunnerd.es",
+    "Webring": "https://elrefugiodeunnerd.es",
+    "Feed": "https://elrefugiodeunnerd.es/feed",
     "Descripción": "Un pequeño refugio en el que comparto mis ideas, pensamientos y opiniones sobre temas tecnológicos y de más cosas.",
     "Categoría": "Tecnología",
     "País": "España",
