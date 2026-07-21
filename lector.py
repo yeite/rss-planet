@@ -1,17 +1,19 @@
-import feedparser
+import calendar
 from datetime import datetime, timedelta
 import json
+import os
+import re
 import time
 from concurrent.futures import ThreadPoolExecutor
-import re
-import os
+
+import feedparser
 
 # Leer feeds
 with open("feeds.txt", "r") as f:
     feeds = [line.strip() for line in f if line.strip()]
 
 one_week_ago = datetime.utcnow() - timedelta(days=7)
-items = []
+
 
 def procesar_feed(url):
     feed_items = []
@@ -23,32 +25,44 @@ def procesar_feed(url):
             return []
 
         for e in d.entries[:10]:
-            fecha_parsed = getattr(e, 'published_parsed', None) or getattr(e, 'updated_parsed', None)
+            fecha_parsed = getattr(e, "published_parsed", None) or getattr(
+                e, "updated_parsed", None
+            )
             if not fecha_parsed:
                 continue
-            fecha = datetime.fromtimestamp(time.mktime(fecha_parsed))
+
+            # calendar.timegm interpreta la tupla como UTC de forma precisa
+            timestamp = calendar.timegm(fecha_parsed)
+            fecha = datetime.utcfromtimestamp(timestamp)
 
             if fecha >= one_week_ago:
                 contenido = e.get("summary", "")
-                contenido = re.sub('<[^<]+?>', '', contenido)
+                contenido = re.sub("<[^<]+?>", "", contenido)
                 contenido = contenido[:300]
 
-                feed_items.append({
-                    "blog": blog_name,
-                    "titulo": e.title,
-                    "link": e.link,
-                    "fecha": fecha.strftime("%d/%m/%Y"),
-                    "contenido": contenido
-                })
+                feed_items.append(
+                    {
+                        "blog": blog_name,
+                        "titulo": e.title,
+                        "link": e.link,
+                        # Guardamos objeto datetime o ISO para preservar precisión en ordenamiento
+                        "fecha_obj": fecha,
+                        "fecha": fecha.strftime("%d/%m/%Y %H:%M"),  # Muestra día y hora exacta
+                        "contenido": contenido,
+                    }
+                )
     except Exception as ex:
         print(f"[❌] Error procesando {url}: {ex}")
-    return feed_items
+        return feed_items
+
 
 def ejecutar_con_progreso(feeds):
     results = []
     total = len(feeds)
     with ThreadPoolExecutor(max_workers=10) as executor:
-        future_to_url = {executor.submit(procesar_feed, url): url for url in feeds}
+        future_to_url = {
+            executor.submit(procesar_feed, url): url for url in feeds
+        }
         for i, future in enumerate(future_to_url):
             url = future_to_url[future]
             try:
@@ -59,9 +73,14 @@ def ejecutar_con_progreso(feeds):
                 print(f"[❌] Error en {url}: {e}")
     return results
 
-# Ejecutar y ordenar
+
+# Ejecutar y ordenar usando la precisión del objeto datetime completo
 items = ejecutar_con_progreso(feeds)
-items = sorted(items, key=lambda x: datetime.strptime(x["fecha"], "%d/%m/%Y"), reverse=True)
+items = sorted(items, key=lambda x: x["fecha_obj"], reverse=True)
+
+# Limpiamos 'fecha_obj' antes de exportar a JSON (JSON no serializa datetime directamente)
+for item in items:
+    del item["fecha_obj"]
 
 # Comparar con el JSON existente
 existing_data = []
