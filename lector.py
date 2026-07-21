@@ -1,18 +1,19 @@
 import calendar
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import json
 import os
 import re
-import time
 from concurrent.futures import ThreadPoolExecutor
 
 import feedparser
 
 # Leer feeds
-with open("feeds.txt", "r") as f:
+with open("feeds.txt", "r", encoding="utf-8") as f:
     feeds = [line.strip() for line in f if line.strip()]
 
-one_week_ago = datetime.utcnow() - timedelta(days=7)
+# Rango de tiempo (ampliado a 30 días para evitar JSONs vacíos en blogs con poca actividad)
+ahora_utc = datetime.now(timezone.utc)
+hace_un_mes = ahora_utc - timedelta(days=30)
 
 
 def procesar_feed(url):
@@ -21,39 +22,41 @@ def procesar_feed(url):
         d = feedparser.parse(url)
         blog_name = d.feed.get("title", "Sin nombre")
         if not d.entries:
-            print(f"[⚠] No se encontraron posts en: {url}")
             return []
 
         for e in d.entries[:10]:
             fecha_parsed = getattr(e, "published_parsed", None) or getattr(
                 e, "updated_parsed", None
             )
-            if not fecha_parsed:
-                continue
 
-            # calendar.timegm interpreta la tupla como UTC de forma precisa
-            timestamp = calendar.timegm(fecha_parsed)
-            fecha = datetime.utcfromtimestamp(timestamp)
+            # Fallback: Si el feed no provee fecha parseable, usar la fecha actual
+            if fecha_parsed:
+                timestamp = calendar.timegm(fecha_parsed)
+                fecha_utc = datetime.fromtimestamp(timestamp, tz=timezone.utc)
+            else:
+                fecha_utc = ahora_utc
+                timestamp = ahora_utc.timestamp()
 
-            if fecha >= one_week_ago:
-                contenido = e.get("summary", "")
-                contenido = re.sub("<[^<]+?>", "", contenido)
-                contenido = contenido[:300]
+            # Filtrar si entra en el rango deseado
+            if fecha_utc >= hace_un_mes:
+                contenido = e.get("summary", "") or e.get("description", "")
+                contenido = re.sub("<[^<]+?>", "", contenido)[:300]
 
                 feed_items.append(
                     {
                         "blog": blog_name,
-                        "titulo": e.title,
-                        "link": e.link,
-                        # Guardamos objeto datetime o ISO para preservar precisión en ordenamiento
-                        "fecha_obj": fecha,
-                        "fecha": fecha.strftime("%d/%m/%Y %H:%M"),  # Muestra día y hora exacta
+                        "titulo": getattr(e, "title", "Sin título"),
+                        "link": getattr(e, "link", "#"),
+                        "timestamp": timestamp,
+                        "fecha": fecha_utc.strftime("%d/%m/%Y %H:%M"),
                         "contenido": contenido,
                     }
                 )
     except Exception as ex:
         print(f"[❌] Error procesando {url}: {ex}")
         return feed_items
+
+    return feed_items
 
 
 def ejecutar_con_progreso(feeds):
@@ -74,27 +77,23 @@ def ejecutar_con_progreso(feeds):
     return results
 
 
-# Ejecutar y ordenar usando la precisión del objeto datetime completo
 items = ejecutar_con_progreso(feeds)
-items = sorted(items, key=lambda x: x["fecha_obj"], reverse=True)
 
-# Limpiamos 'fecha_obj' antes de exportar a JSON (JSON no serializa datetime directamente)
-for item in items:
-    del item["fecha_obj"]
+if items:
+    # Ordenar de más reciente a más antiguo
+    items.sort(key=lambda x: x["timestamp"], reverse=True)
 
-# Comparar con el JSON existente
-existing_data = []
-if os.path.exists("feeds.json"):
-    with open("feeds.json", "r", encoding="utf-8") as f:
-        try:
-            existing_data = json.load(f)
-        except json.JSONDecodeError:
-            existing_data = []
+    # Limpiar campo auxiliar de ordenamiento
+    for item in items:
+        item.pop("timestamp", None)
 
-# Guardar solo si hay cambios
-if items != existing_data:
     with open("feeds.json", "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
-    print(f"\n✅ Se actualizaron {len(items)} posts en feeds.json")
+
+    print(
+        f"\n✅ Éxito: Se guardaron {len(items)} publicaciones en feeds.json"
+    )
 else:
-    print("\nℹ️ No hubo cambios en los feeds, no se sobrescribió feeds.json")
+    print(
+        "\n⚠️ Advertencia: Ningún post cumplió el filtro de fecha. Se conservará el archivo existente o revisa los logs arriba."
+    )
