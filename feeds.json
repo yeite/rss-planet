@@ -1,5 +1,68 @@
 [
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "569. Durante el partido",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/07/569-durante-el-partido.html",
+    "fecha": "21/07/2026 12:34",
+    "contenido": "&nbsp; &nbsp; Como era de esperar, las calles se vaciaron. Ocurre siempre que se disputa la final del Mundial de fútbol y uno de los dos equipos representa al país donde vives. Así que, tan pronto como empezó a rodar el balón por el césped reglamentario estadounidense, yo empecé a caminar por adoqui"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "MiniAI - Cliente para correr una AI en una computadora vieja",
+    "link": "https://www.fabio.com.ar/9991-miniai---cliente-para-correr-una-ai-en-una-computadora-vieja",
+    "fecha": "21/07/2026 12:00",
+    "contenido": "    \nEl otro d&iacute;a reviv&iacute; mi vieja Asus EEE PC 701 como hago una vez al a&ntilde;o, esta vez le saqu&eacute; Haiku y quise instalarle un Linux que pudiera conectarse al mundo actual, luego de varios intentos con Void y AntiX decid&iacute; por un cl&aacute;sico Debian que hasta la versi&o"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Una de memes sobre Linux #14",
+    "link": "https://thecheis.com/2026/07/21/una-de-memes-sobre-linux-14/",
+    "fecha": "21/07/2026 10:51",
+    "contenido": ""
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Hell Maiden",
+    "link": "https://cozykis.kisworld.es/analisis-de-hell-maiden/",
+    "fecha": "21/07/2026 10:38",
+    "contenido": "Aunque todavía le faltan cosas por añadir de momento podemos disfrutar de una historia interesante y personajes chulísimos\nLa entrada Análisis de Hell Maiden se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Motivik: Renouncement | Un Lavado De Cara Para El Thrash Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/07/21/un-lavado-de-cara-para-el-thrash-metal/",
+    "fecha": "21/07/2026 10:35",
+    "contenido": "(2024 &#8211; Roxx Records) Puedo asegurar que vengo buscando este cd desde hace más de...\nThe post Motivik: Renouncement | Un Lavado De Cara Para El Thrash Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "¿Qué va a pasar con mi blog?",
+    "link": "https://matizeta.com/2026/07/21/que-va-a-pasar-con-mi-blog/",
+    "fecha": "21/07/2026 08:11",
+    "contenido": "Como comenté anteriormente volveré a la presencialidad en el trabajo. Mucho del tiempo que tenía para escribir va a verse afectado. No tendré el espacio que tengo ahora para escribir sin que nadie venga a interrumpirme con la historia del almacenero o la tía que se quedó soltera, o lo bien que le qu"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Entrevista a Àngel Beltran - Productor y Gameplay Programmer de Denshattack!",
+    "link": "https://picandocodigo.net/2026/entrevista-a-angel-beltran-productor-y-gameplay-programmer-de-denshattack/",
+    "fecha": "21/07/2026 08:00",
+    "contenido": "La semana pasada se publicó Denshattack!, un juego muy innovador y divertido, candidato a mejor juego del año. Con motivo de su publicación, después de jugar y reseñar Denshattack! entrevisté a Àngel Beltran de Undercoders.\nEl post Entrevista a Àngel Beltran - Productor y Gameplay Programmer de Dens"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Sid Meier’s Memoir!",
+    "link": "https://mareosdeungeek.es/sid-meiers-memoir/",
+    "fecha": "21/07/2026 08:00",
+    "contenido": "Sid Meier&#8217;s Memoir! A life in Computer Games By the Creator of Civilization! con ese título se presenta el libro autobiográfico de Sid Meier, uno de los creadores de videojuegos más reconocidos. Sid Meier&#8217;s Civilization es una de las sagas de videojuegos de estrategia más populares del m"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Suenan campanas  – Fuera de las garras de la IA",
+    "link": "https://56k.es/fanta/suenan-campanas-fuera-de-las-garras-de-la-ia/",
+    "fecha": "21/07/2026 04:55",
+    "contenido": "En Europa una de las primeras redes de comunicación en la edad media fueron los campanarios (pero no solamente en la edad media claro). Si querías que la gente trabajase al mismo tiempo, es decir, teniendo unos horarios tenías que avisarles de alguna forma. Aunque en algunas películas ambientadas en"
+  },
+  {
     "blog": "matizeta",
     "titulo": "Colaboraciones entre blogs",
     "link": "https://matizeta.com/2026/07/20/colaboraciones-entre-blogs/",
@@ -791,13 +854,6 @@
     "contenido": "Movistar ha notificado que bloqueará el acceso a ONT no homologadas a partir del 15 de septiembre de 2026, alegando caídas de puertos en sus OLT provocadas por equipos de terceros. Analizamos cómo funciona una red GPON, por qué una ONT mal configurada puede afectar a otros clientes del mismo divisor"
   },
   {
-    "blog": "56K",
-    "titulo": "Helix – Un editor que odiarán quienes usan vi/vim",
-    "link": "https://56k.es/fanta/helix-un-editor-que-odiaran-quienes-usan-vi-vim/",
-    "fecha": "13/07/2026 04:19",
-    "contenido": "Helix es un «post-modern» editor escrito en Rust. Digo que lo odiarán las personas fanáticas de vi/vim porque aunque su funcionamiento es similar no es vi y eso ya es suficiente sacrilegio. Fuera bromas este editor mola mucho. Yo uso como emulador de terminal «terminator» y a pantalla competa con F1"
-  },
-  {
     "blog": "El blog de Lázaro",
     "titulo": "¿Cuánto pesa tu página web?",
     "link": "https://elblogdelazaro.org/cuanto-pesa-tu-pagina-web/",
@@ -945,25 +1001,11 @@
     "contenido": "Relato – Doctor Nómada &#124; Bonus track\n\nDoctor Nómada (cuarta parte)\nLeer la tercera parte\nLa reunión fue sucinta y con un foro exiguo. El director de recursos humanos, el de finanzas y un par de sus mandos medios, todos con pésimas dotes de actuación. Me transmitieron las disculpas del cuerpo di"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Hernán Parafioriti Nos Cuenta Lo Que Se Viene | Lázaro Estrena Cover Y Anuncia Nueva Fecha",
-    "link": "https://www.delotroladometal.com.ar/2026/07/10/lazaro-estrena-cover-y-anuncia-nueva-fecha/",
-    "fecha": "10/07/2026 10:35",
-    "contenido": "Lázaro, la banda argentina autodenominada como de Metal Híbrido, como les gusta autodefinirse, rompe el...\nThe post Hernán Parafioriti Nos Cuenta Lo Que Se Viene | Lázaro Estrena Cover Y Anuncia Nueva Fecha first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "matizeta",
     "titulo": "Lecturas recomendadas #8",
     "link": "https://matizeta.com/2026/07/10/lecturas-recomendadas-8/",
     "fecha": "10/07/2026 08:11",
     "contenido": "10 lecturas publicadas en blogs que me gustaron y quiero compartir. Para más lecturas recordá que podés visitar&#160;¡Blog!¡Blog! Ya no necesitas comprar libros. Una reflexión d e como la Ia está acabando con la lectura y con la creación de contenido original. Aprovechando el aniversario del blog y "
-  },
-  {
-    "blog": "manje.net",
-    "titulo": "Rahasia Lancar Berbicara Bahasa Spanyol Tanpa Beban",
-    "link": "https://blog.manje.net/rahasia-lancar-berbicara-bahasa-spanyol-tanpa-beban/",
-    "fecha": "10/07/2026 08:10",
-    "contenido": "Menjadi lancar berbicara Bahasa Spanyol tanpa beban sebenarnya berakar dari kemauan untuk melepaskan perfeksionisme dan berani tampil apa adanya saat berkomunikasi dengan orang lain. Banyak orang gagal mencapai kefasihan karena terlalu khawatir akan kesalahan tata bahasa atau aksen yang kurang &#823"
   },
   {
     "blog": "Malagueños originales y libres",
@@ -992,13 +1034,6 @@
     "link": "https://cozykis.kisworld.es/la-industria-del-videojuego-se-va-un-poco-a-la-mierda/",
     "fecha": "09/07/2026 19:25",
     "contenido": "La industria de los videojuegos lleva un tiempo tan confusa que se hiere a sí misma, pero estamos a tiempo de salvarla\nLa entrada La industria del videojuego se va (un poco) a la mierda se publicó primero en CozyKis."
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Youtubers que sigo",
-    "link": "https://matizeta.com/2026/07/09/youtubers-que-sigo/",
-    "fecha": "09/07/2026 15:05",
-    "contenido": "Esta publicación esta inspirada por la entrada del blog de Fanta&#160;(me encanta el título que le puso). Hace tiempo quería mencionar algunos Youtubers que sigo (de los que miro casi todos sus videos) , que valen la pena recomendar. NewEsc (Domingo Gomes) Si bien miro muchos canales de tecnología, "
   },
   {
     "blog": "La línea doméstica",
@@ -1048,13 +1083,6 @@
     "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B1-Lenguajes",
     "fecha": "08/07/2026 14:27",
     "contenido": "yuyo Me cuestiono mucho el intento de escribir en dos idiomas esta página, quizás debería aislarla al Español."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Todo es escándalo, todo es robo",
-    "link": "https://www.fabio.com.ar/9980-todo-es-escandalo-todo-es-robo",
-    "fecha": "08/07/2026 12:00",
-    "contenido": "    \nAnte un mundial siempre se comentan las mismas cosas, la corrupci&oacute;n de la FIFA, los favoritismos, los partidos arreglados y hasta el Mossad participando, porque, ya saben, la mejor forma de aceptar una derrota es culpando a un tercero.\nJusto habiendo ganado Argentina un partido, que pare"
   },
   {
     "blog": "Galerías Preciados",
@@ -1342,13 +1370,6 @@
     "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-26-2/",
     "fecha": "03/07/2026 10:26",
     "contenido": "Relato – Doctor Nómada &#124; Bonus track\n\nDoctor Nómada (tercera parte)\nLeer la segunda parte\nEl tráfico de la ciudad era particularmente denso, hacia donde volteara las calles y avenidas eran un estacionamiento, pensé que, eso me tenía con una sensación atípica de cansancio y malestar general. Me "
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Fortune Fragments",
-    "link": "https://cozykis.kisworld.es/analisis-de-fortune-fragments/",
-    "fecha": "03/07/2026 10:24",
-    "contenido": "Una novela visual en la que se mezcla una historia interesante con puzles que cambiarán el curso de la historia\nLa entrada Análisis de Fortune Fragments se publicó primero en CozyKis."
   },
   {
     "blog": "Picando Código",
@@ -2007,19 +2028,5 @@
     "link": "https://picandocodigo.net/2026/hoy-este-blog-cumple-19-anos-en-linea/",
     "fecha": "21/06/2026 14:32",
     "contenido": "Hoy hace 19 años que nació este blog \"Picando Código\". Para quienes siguen el blog de hace tiempo, seguramente se hayan encontrado algún año con uno de estos posts celebrando el aniversario. Para gente que lee hace poco o por primera vez, acá hay un poco más de historia de cómo surgió este blog: Ace"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Celeste (Serie)",
-    "link": "https://mareosdeungeek.es/celeste-serie/",
-    "fecha": "21/06/2026 12:00",
-    "contenido": "Celeste es una serie que puede verse en Movistar Plus+ y esta protagonizada por la actriz Carmen Machi. Seguramente, vuelva a estar en boca de todos estos días porque hace unas semanas se publicó que la cantante Shakira había ganado su juicio a Hacienda. Esta serie, Celeste, va de esa investigación "
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "The Cross of Changes (1993), de Enigma",
-    "link": "https://thecheis.com/2026/06/21/the-cross-of-changes-1993-de-enigma/",
-    "fecha": "21/06/2026 11:10",
-    "contenido": "«We came out from the deep» Mi adolescencia tardía fue un auténtico hervidero de música electrónica y descubrimiento personal. En mi reproductor nunca faltaba Enigma, uno de los mayores referentes en la música new age y el worldbeat de los 90, al que estuve muy viciado. Su éxito dio el pistoletazo d"
   }
 ]
