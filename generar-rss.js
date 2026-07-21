@@ -11,8 +11,18 @@ const IMAGE_URL = `${SITE_URL}/favicon.ico`; // cambia si luego usas logo mejor
 const raw = JSON.parse(fs.readFileSync("feeds.json", "utf8"));
 
 function parseDate(str) {
-  const [d, m, y] = str.split("/");
-  const dt = new Date(`${y}-${m}-${d}T12:00:00Z`);
+  if (!str) return new Date();
+
+  // Separa la fecha y la hora (ej: "15/07/2026 18:30" -> datePart: "15/07/2026", timePart: "18:30")
+  const [datePart, timePart = "12:00"] = str.trim().split(/\s+/);
+  const [d, m, y] = datePart.split("/");
+  
+  // Extrae horas y minutos (si faltan los segundos, asigna 00)
+  const [hh = "12", mm = "00", ss = "00"] = timePart.split(":");
+
+  // Formatea a la estructura ISO: YYYY-MM-DDTHH:mm:ssZ
+  const dt = new Date(`${y}-${m.padStart(2, "0")}-${d.padStart(2, "0")}T${hh.padStart(2, "0")}:${mm.padStart(2, "0")}:${ss.padStart(2, "0")}Z`);
+
   return isNaN(dt) ? new Date() : dt;
 }
 
