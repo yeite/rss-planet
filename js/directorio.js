@@ -129,25 +129,40 @@ function createBlogCard(blog) {
     const heading = document.createElement("div");
     heading.className = "blog";
 
+    // 1. EXTRAEMOS LA URL Y OBTENEMOS EL FAVICON CORRESPONDIENTE
+    const url = safeUrl(blog.Url);
     const favicon = document.createElement("img");
     favicon.className = "favicon";
-    favicon.src = "favicon.ico";
+
+    if (url) {
+        // Extrae el dominio (ej: "luiscarlospando.com")
+        const domain = new URL(url).hostname;
+        // Pide el favicon exacto de ese sitio a Google
+        favicon.src = `https://www.google.com/s2/favicons?domain=${domain}&sz=32`;
+    } else {
+        // Respaldos si no hay URL válida
+        favicon.src = "favicon.ico";
+    }
+
     favicon.alt = "";
     favicon.setAttribute("aria-hidden", "true");
     heading.append(favicon);
 
-    const url = safeUrl(blog.Url);
+    // 2. AGREGAMOS EL NOMBRE CON SU ENLACE
     if (url) {
         heading.append(createExternalLink(url, blog.Nombre || "Sin nombre"));
     } else {
         heading.append(blog.Nombre || "Sin nombre");
     }
+    
     addBadge(heading, blog);
 
+    // 3. DESCRIPCIÓN
     const description = document.createElement("p");
     description.className = "descripcion";
     description.textContent = blog.Descripción || "";
 
+    // 4. DETALLES (Categoría y País)
     const details = document.createElement("p");
     const categoryLabel = document.createElement("strong");
     categoryLabel.textContent = "Categoría: ";
@@ -163,6 +178,7 @@ function createBlogCard(blog) {
 
     card.append(heading, description, details);
 
+    // 5. ENLACE AL FEED RSS
     const feedUrl = safeUrl(blog.Feed);
     if (feedUrl) {
         const feedLink = createExternalLink(feedUrl, "");
@@ -175,7 +191,6 @@ function createBlogCard(blog) {
 
     return card;
 }
-
 function renderBlogs(list) {
     if (!list.length) {
         container.textContent = "No hay blogs con esos filtros 😢";
