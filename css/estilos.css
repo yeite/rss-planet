@@ -141,9 +141,9 @@ footer a:visited {
 
 .blog {
     color: #ffa500;
-    font-size: 1em;
+    font-size: 0.8em;
     margin-bottom: 5px;
-    font-weight: bold;
+    font-weight: regular;
     display: block;
 }
 
@@ -161,7 +161,7 @@ a:hover {
 .fecha {
     display: block;
     color: #aaa;
-    font-size: 0.9em;
+    font-size: 0.8em;
     margin-bottom: 5px;
 }
 
@@ -243,11 +243,11 @@ select {
     }
 
     .blog {
-        font-size: 1.1em;
+        font-size: 0.8em;
     }
 
     .fecha {
-        font-size: 1em;
+        font-size: 0.8em;
     }
 
     .contenido,
