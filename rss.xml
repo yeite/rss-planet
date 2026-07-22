@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 22 Jul 2026 13:19:54 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 18:56:02 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,6 +18,46 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Mostrar el programa en foco en la barra de i3</title>
+<link>https://blog.gorix.xyz/mostrar-el-programa-en-foco-en-la-barra-de-i3.html</link>
+<guid isPermaLink="true">https://blog.gorix.xyz/mostrar-el-programa-en-foco-en-la-barra-de-i3.html</guid>
+<pubDate>Wed, 22 Jul 2026 12:56:00 GMT</pubDate>
+<category>GoRiX blog</category>
+<description><![CDATA[Hace banda que uso i3 y una de esas cosas que nunca me puse a pensar que sería útil, hasta que leí el comentario en un grupo, es que la barra me mostrara sobre qué ventana estoy parado. Es útil cuando en un TWM tenés muchas consolas abiertas y no sabés en cual estás parado. Todo lo puedo<br><br><strong>Fuente:</strong> GoRiX blog]]></description>
+</item>
+<item>
+<title>La Leyenda Negra y cómo el mundo sancionó a Argentina como antes hizo con España: con el relato</title>
+<link>https://www.fabio.com.ar/9992-la-leyenda-negra-y-como-el-mundo-sanciono-a-argentina-como-antes-hizo-con--espana-con-el-relato</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/9992-la-leyenda-negra-y-como-el-mundo-sanciono-a-argentina-como-antes-hizo-con--espana-con-el-relato</guid>
+<pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[El relato es muy poderoso, especialmente en &amp;eacute;pocas de post-modernidad donde los hechos importan cada vez menos, pero no es nuevo que se utilice una ficci&amp;oacute;n para dibujar a una naci&amp;oacute;n entera como un gran demonio, lo sufri&amp;oacute; justamente la misma naci&amp;oacute;n que ahora lo<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Análisis de Desktop Explore</title>
+<link>https://cozykis.kisworld.es/analisis-de-desktop-explore/</link>
+<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-desktop-explore/</guid>
+<pubDate>Wed, 22 Jul 2026 10:36:00 GMT</pubDate>
+<category>CozyKis</category>
+<description><![CDATA[Puede que entremos por su historia oscura y retorcida, pero sin duda nos quedaremos por lo bien hechos que están los puzles La entrada Análisis de Desktop Explore se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
+</item>
+<item>
+<title>Pasco 637 Presenta &quot;Habemus Pasco&quot; | Metal De Película</title>
+<link>https://www.delotroladometal.com.ar/2026/07/22/metal-de-pelicula/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/07/22/metal-de-pelicula/</guid>
+<pubDate>Wed, 22 Jul 2026 10:35:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[Cuando nos referimos a lo cinematográfico no nos referimos a ningún experimento extraño relacionado al... The post Pasco 637 Presenta &quot;Habemus Pasco&quot; | Metal De Película first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Eliminando fricciones</title>
+<link>https://matizeta.com/2026/07/22/eliminando-fricciones/</link>
+<guid isPermaLink="true">https://matizeta.com/2026/07/22/eliminando-fricciones/</guid>
+<pubDate>Wed, 22 Jul 2026 08:11:00 GMT</pubDate>
+<category>matizeta</category>
+<description><![CDATA[Hay pequeñas cosas en todos los aspectos de la vida que nos generan cierta incomodidad, que no terminan de ser del todo fluidas. Se llega al objetivo pero con cierta incomodidad de saber que debe haber una mejor manera, más optima, de hacerlo. Esta entrada no se trata sobre filosofía ni mucho menos,<br><br><strong>Fuente:</strong> matizeta]]></description>
+</item>
+<item>
 <title>Feeds como rios de lectura, en lugar de flujos que se estancan</title>
 <link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/07/22/20260722-feeds-como-rios-de-lectura/</link>
 <guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/07/22/20260722-feeds-como-rios-de-lectura/</guid>
@@ -26,12 +66,124 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[¿Qué sucede si eliminamos la &quot;obligación fantasma&quot; en los RSS, pues nadie espera respuesta de forma activa?<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
 </item>
 <item>
+<title>Instalación de Psono en Ubuntu 26.04</title>
+<link>https://voidnull.es/instalacion-de-psono-en-ubuntu-26-04/</link>
+<guid isPermaLink="true">https://voidnull.es/instalacion-de-psono-en-ubuntu-26-04/</guid>
+<pubDate>Wed, 22 Jul 2026 07:11:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Instala Psono en Ubuntu 26.04 con Docker y crea tu gestor de contraseñas propio y seguro<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Me compré un Echo Dot 5 de Amazon y ahora lo tengo de pisapapeles</title>
+<link>https://gatooscuro.xyz/me-compre-un-echo-dot-5-de-amazon-y-ahora-lo-tengo-de-pisapapeles/</link>
+<guid isPermaLink="true">https://gatooscuro.xyz/me-compre-un-echo-dot-5-de-amazon-y-ahora-lo-tengo-de-pisapapeles/</guid>
+<pubDate>Wed, 22 Jul 2026 05:39:00 GMT</pubDate>
+<category>El cuarto de GatoOscuro</category>
+<description><![CDATA[Ya lo sé, varias personas me lo dijeron. Me acuerdo de Itan, de Joselito y de algún otro referente a no comprar nada proveniente de Amazon, y lo hice; pues Seguir leyendo Me compré un Echo Dot 5 de Amazon y ahora lo tengo de pisapapeles El cargo Me compré un Echo Dot 5 de Amazon y ahora lo tengo de<br><br><strong>Fuente:</strong> El cuarto de GatoOscuro]]></description>
+</item>
+<item>
+<title>Tipografías anti-IA – Fuera de las garras de la IA</title>
+<link>https://56k.es/fanta/tipografias-anti-ia-fuera-de-las-garras-de-la-ia/</link>
+<guid isPermaLink="true">https://56k.es/fanta/tipografias-anti-ia-fuera-de-las-garras-de-la-ia/</guid>
+<pubDate>Wed, 22 Jul 2026 04:17:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[La forma en la que vestimos la letra es importante. Podemos vestirla para un cartel en una tarberna en Esukalerria o para por ejemplo indicar que se trata de retro-informática. La cosa es que existen algunas tipografías experimentales que tratan de codificar dos mensajes en una misma imagen, es deci<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>🌷 Dejar que a los otros les vaya bien y alegrarse con ellos.</title>
+<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B7-Dejar-que-a-los-otros-les-vaya-bien-y-alegrarse-con-ellos.</link>
+<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B7-Dejar-que-a-los-otros-les-vaya-bien-y-alegrarse-con-ellos.</guid>
+<pubDate>Wed, 22 Jul 2026 02:46:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[arbolito A veces me cuesta un poco la envidia. Quizás porque soy muy autocompasivo y me enfoco demasiado en lo mucho que me cuestan las cosas.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌷 Dios es amigo mío.</title>
+<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B7-Dios-es-amigo-m%C3%ADo.</link>
+<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B7-Dios-es-amigo-m%C3%ADo.</guid>
+<pubDate>Wed, 22 Jul 2026 02:46:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[helecho Estuve pensando mucho en esto últimamente… ¿Qué significa? ¿Influye en mi vida cotidiana? Dios es amigo mío y es infinitamente grande también.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌾 Viviendo apasionadamente la rutina</title>
+<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%BE-Viviendo-apasionadamente-la-rutina</link>
+<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%BE-Viviendo-apasionadamente-la-rutina</guid>
+<pubDate>Wed, 22 Jul 2026 02:46:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[arbolito ¿Como santifico mi vida corriente? La esencia de la vocación cristiana consiste en santificar la vida corriente.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🪨 Sobre las pantallas y la tecnología, en la vida de cada uno</title>
+<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%A8--Sobre-las-pantallas-y-la-tecnolog%C3%ADa,-en-la-vida-de-cada-uno</link>
+<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%A8--Sobre-las-pantallas-y-la-tecnolog%C3%ADa,-en-la-vida-de-cada-uno</guid>
+<pubDate>Wed, 22 Jul 2026 02:46:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[arbolito ¿Se puede vivir plenamente teniendo que estar todos los días delante de una pantalla, conectado a internet y rodeado de conexiones bluetooth? Supongo que sí… Debe ser cuestión de adaptarse.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🪴 Sobre la importancia de las cosas</title>
+<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-la-importancia-de-las-cosas</link>
+<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-la-importancia-de-las-cosas</guid>
+<pubDate>Wed, 22 Jul 2026 02:46:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[helecho Las cosas del mundo son intrascendentes.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🪻 ¿Dónde encuentra la paz mi corazón?</title>
+<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%BB-%C2%BFD%C3%B3nde-encuentra-la-paz-mi-coraz%C3%B3n</link>
+<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%BB-%C2%BFD%C3%B3nde-encuentra-la-paz-mi-coraz%C3%B3n</guid>
+<pubDate>Wed, 22 Jul 2026 02:46:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[helecho De algún libro..<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌸 Que es ser puro</title>
+<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B8-Que-es-ser-puro</link>
+<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B8-Que-es-ser-puro</guid>
+<pubDate>Wed, 22 Jul 2026 02:17:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[yuyo Los que tienen la sabiduría que viene de Dios son puros, ante todo.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🪴 Sobre la inocencia y el sentido del humor.</title>
+<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-la-inocencia-y-el-sentido-del-humor.</link>
+<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-la-inocencia-y-el-sentido-del-humor.</guid>
+<pubDate>Wed, 22 Jul 2026 02:17:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[helecho Está sacado de contexto, pero esto lo escribió Nietzsche La última transformación es del león al niño. Un niño es inocencia y olvido.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🪻 Sobre la vida plena</title>
+<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%BB-Sobre-la-vida-plena</link>
+<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%BB-Sobre-la-vida-plena</guid>
+<pubDate>Wed, 22 Jul 2026 02:17:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[arbolito Dicen que los santos tuvieron una vida plena. Yo creo que el abuelo es santo, asi que seguro tuvo una vida plena.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>🌳 Sobre el paso del tiempo...</title>
+<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B3-Sobre-el-paso-del-tiempo...</link>
+<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B3-Sobre-el-paso-del-tiempo...</guid>
+<pubDate>Wed, 22 Jul 2026 02:03:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[arbolito Ahora estoy en el colectivo yendo a una clase de física II y me puse a pensar en que algún día voy a ser viejito, y no voy a poder moverme tan rápidamente como lo hago ahora.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
 <title>Recordatorio: es importante respaldar el hardware también</title>
 <link>https://nachof.blog/posts/2026/recordatorio-es-importante-respaldar-el-hardware-tambien/</link>
 <guid isPermaLink="true">https://nachof.blog/posts/2026/recordatorio-es-importante-respaldar-el-hardware-tambien/</guid>
 <pubDate>Wed, 22 Jul 2026 01:35:00 GMT</pubDate>
 <category>Un blog</category>
 <description><![CDATA[Resulta que mi servidor principal se murió. No es grave, tengo respaldos de todo. Y en realidad, ni siquiera tuve que echar mano a los respaldos, porque los datos están bien, entró a fallar la memoria. La cuestión es que está todo bien con tener todos los datos respaldados, pero si no tenés dónde le<br><br><strong>Fuente:</strong> Un blog]]></description>
+</item>
+<item>
+<title>Llevo un mes durmiendo en el sofá</title>
+<link>https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html</link>
+<guid isPermaLink="true">https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html</guid>
+<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+<category>Chancli.dev</category>
+<description><![CDATA[Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado. A sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,<br><br><strong>Fuente:</strong> Chancli.dev]]></description>
 </item>
 <item>
 <title>Recomendación de navegadores para Android (2026)</title>
@@ -47,39 +199,15 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <guid isPermaLink="true">https://blog.luiscarlospando.com/personal/2026/07/todavia-valdra-la-pena-tener-un-sitio-blog-personal/</guid>
 <pubDate>Tue, 21 Jul 2026 19:21:00 GMT</pubDate>
 <category>Luis Carlos Pando</category>
-<description><![CDATA[Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋<br><br><strong>Fuente:</strong> Luis Carlos Pando]]></description>
+<description><![CDATA[Estos días he estado pensando mucho en esto. Cada vez que le dedico tiempo a mi sitio personal, me pregunto si esto es algo que dentro de unos años seguirá teniendo sentido o si simplemente me gana la nostalgia y me estoy aferrando a una idea vieja de internet. No nos hagamos tontos… internet cambió<br><br><strong>Fuente:</strong> Luis Carlos Pando]]></description>
 </item>
 <item>
-<title>¿Algo más?</title>
-<link>https://salva.thedev.id/algo-mas</link>
-<guid isPermaLink="true">https://salva.thedev.id/algo-mas</guid>
-<pubDate>Tue, 21 Jul 2026 19:04:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[Últimas actualizaciones Estoy dejando de añadir plantas al jardín, para dedicarme a hacerlas crecer un poco.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>Sin título</title>
+<title>Arreglando mi NUC</title>
 <link>https://elrefugiodeunnerd.es/2026/07/21/157/</link>
 <guid isPermaLink="true">https://elrefugiodeunnerd.es/2026/07/21/157/</guid>
 <pubDate>Tue, 21 Jul 2026 17:39:00 GMT</pubDate>
 <category>El Refugio de un Nerd</category>
 <description><![CDATA[Antes de tener mi ordenador actual tenía un Intel NUC con un i3 de 8ªgen, 16GB de RAM (actualmente 8, no sé bien por qué si están los dos módulos de 8 conectados falla, y si está uno solo no, entonces creo que el culpable es la ranura, pero es raro… En fin que está [&amp;#8230;]<br><br><strong>Fuente:</strong> El Refugio de un Nerd]]></description>
-</item>
-<item>
-<title>Explore The World!</title>
-<link>https://salva.thedev.id/Explore-The-World!</link>
-<guid isPermaLink="true">https://salva.thedev.id/Explore-The-World!</guid>
-<pubDate>Tue, 21 Jul 2026 15:10:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[This is a solo project I’ve decided to start because I almost don’t know anything about any country around the globe (probed by losing everyday on GeoGuesser).<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>Salva Más De Cerca</title>
-<link>https://salva.thedev.id/</link>
-<guid isPermaLink="true">https://salva.thedev.id/</guid>
-<pubDate>Tue, 21 Jul 2026 15:10:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[Acá me gusta coleccionar detalles de mi vida.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
 </item>
 <item>
 <title>569. Durante el partido</title>
@@ -88,134 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 21 Jul 2026 12:34:00 GMT</pubDate>
 <category>La Madre Que Parió Al Pato Negro</category>
 <description><![CDATA[&amp;nbsp; &amp;nbsp; Como era de esperar, las calles se vaciaron. Ocurre siempre que se disputa la final del Mundial de fútbol y uno de los dos equipos representa al país donde vives. Así que, tan pronto como empezó a rodar el balón por el césped reglamentario estadounidense, yo empecé a caminar por adoqui<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
-</item>
-<item>
-<title>MiniAI - Cliente para correr una AI en una computadora vieja</title>
-<link>https://www.fabio.com.ar/9991-miniai---cliente-para-correr-una-ai-en-una-computadora-vieja</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/9991-miniai---cliente-para-correr-una-ai-en-una-computadora-vieja</guid>
-<pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[El otro d&amp;iacute;a reviv&amp;iacute; mi vieja Asus EEE PC 701 como hago una vez al a&amp;ntilde;o, esta vez le saqu&amp;eacute; Haiku y quise instalarle un Linux que pudiera conectarse al mundo actual, luego de varios intentos con Void y AntiX decid&amp;iacute; por un cl&amp;aacute;sico Debian que hasta la versi&amp;o<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Una de memes sobre Linux #14</title>
-<link>https://thecheis.com/2026/07/21/una-de-memes-sobre-linux-14/</link>
-<guid isPermaLink="true">https://thecheis.com/2026/07/21/una-de-memes-sobre-linux-14/</guid>
-<pubDate>Tue, 21 Jul 2026 10:51:00 GMT</pubDate>
-<category>THE_CHEI$</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> THE_CHEI$]]></description>
-</item>
-<item>
-<title>Análisis de Hell Maiden</title>
-<link>https://cozykis.kisworld.es/analisis-de-hell-maiden/</link>
-<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-hell-maiden/</guid>
-<pubDate>Tue, 21 Jul 2026 10:38:00 GMT</pubDate>
-<category>CozyKis</category>
-<description><![CDATA[Aunque todavía le faltan cosas por añadir de momento podemos disfrutar de una historia interesante y personajes chulísimos La entrada Análisis de Hell Maiden se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
-</item>
-<item>
-<title>Motivik: Renouncement | Un Lavado De Cara Para El Thrash Metal</title>
-<link>https://www.delotroladometal.com.ar/2026/07/21/un-lavado-de-cara-para-el-thrash-metal/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/07/21/un-lavado-de-cara-para-el-thrash-metal/</guid>
-<pubDate>Tue, 21 Jul 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[(2024 &amp;#8211; Roxx Records) Puedo asegurar que vengo buscando este cd desde hace más de... The post Motivik: Renouncement | Un Lavado De Cara Para El Thrash Metal first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>¿Qué va a pasar con mi blog?</title>
-<link>https://matizeta.com/2026/07/21/que-va-a-pasar-con-mi-blog/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/07/21/que-va-a-pasar-con-mi-blog/</guid>
-<pubDate>Tue, 21 Jul 2026 08:11:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Como comenté anteriormente volveré a la presencialidad en el trabajo. Mucho del tiempo que tenía para escribir va a verse afectado. No tendré el espacio que tengo ahora para escribir sin que nadie venga a interrumpirme con la historia del almacenero o la tía que se quedó soltera, o lo bien que le qu<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>Entrevista a Àngel Beltran - Productor y Gameplay Programmer de Denshattack!</title>
-<link>https://picandocodigo.net/2026/entrevista-a-angel-beltran-productor-y-gameplay-programmer-de-denshattack/</link>
-<guid isPermaLink="true">https://picandocodigo.net/2026/entrevista-a-angel-beltran-productor-y-gameplay-programmer-de-denshattack/</guid>
-<pubDate>Tue, 21 Jul 2026 08:00:00 GMT</pubDate>
-<category>Picando Código</category>
-<description><![CDATA[La semana pasada se publicó Denshattack!, un juego muy innovador y divertido, candidato a mejor juego del año. Con motivo de su publicación, después de jugar y reseñar Denshattack! entrevisté a Àngel Beltran de Undercoders. El post Entrevista a Àngel Beltran - Productor y Gameplay Programmer de Dens<br><br><strong>Fuente:</strong> Picando Código]]></description>
-</item>
-<item>
-<title>Sid Meier’s Memoir!</title>
-<link>https://mareosdeungeek.es/sid-meiers-memoir/</link>
-<guid isPermaLink="true">https://mareosdeungeek.es/sid-meiers-memoir/</guid>
-<pubDate>Tue, 21 Jul 2026 08:00:00 GMT</pubDate>
-<category>Mareos de un geek</category>
-<description><![CDATA[Sid Meier&amp;#8217;s Memoir! A life in Computer Games By the Creator of Civilization! con ese título se presenta el libro autobiográfico de Sid Meier, uno de los creadores de videojuegos más reconocidos. Sid Meier&amp;#8217;s Civilization es una de las sagas de videojuegos de estrategia más populares del m<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
-</item>
-<item>
-<title>Celular nuevo</title>
-<link>https://yejokjanan.xyz/blog/2026-07-21.html</link>
-<guid isPermaLink="true">https://yejokjanan.xyz/blog/2026-07-21.html</guid>
-<pubDate>Tue, 21 Jul 2026 05:00:00 GMT</pubDate>
-<category>yejokjanan</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> yejokjanan]]></description>
-</item>
-<item>
-<title>Colaboraciones entre blogs</title>
-<link>https://matizeta.com/2026/07/20/colaboraciones-entre-blogs/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/07/20/colaboraciones-entre-blogs/</guid>
-<pubDate>Mon, 20 Jul 2026 19:39:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Recientemente fui invitado a colaborar en el blog de tecnología “El refugio de un Nerd” (anteriormente “El cajón de Tecnología”). Esta es mi primera colaboración con otro blog. Me gustan estas ideas de colaboración exista. ¿De que trata esta colaboración? Un blog es invitado a escribir sobre una rec<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>🪁 El Jardín Digital</title>
-<link>https://salva.thedev.id/El-Jard%C3%ADn/</link>
-<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/</guid>
-<pubDate>Mon, 20 Jul 2026 18:05:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>El Diario de un Nerd – Matizeta</title>
-<link>https://elrefugiodeunnerd.es/2026/07/20/el-diario-de-un-nerd-matizeta/</link>
-<guid isPermaLink="true">https://elrefugiodeunnerd.es/2026/07/20/el-diario-de-un-nerd-matizeta/</guid>
-<pubDate>Mon, 20 Jul 2026 16:07:00 GMT</pubDate>
-<category>El Refugio de un Nerd</category>
-<description><![CDATA[Sigo con la serie que tenía en mi antigua web, solo que a partir de ahora sin un día fijo. Hoy la recomendación nos la trae Matizeta, un bloguero conocido en la comunidad. Como siempre recuerdo que todo lo que aparece aquí son sus palabras tal cual ellos me las enviaron. Nombre del bloguero: matizet<br><br><strong>Fuente:</strong> El Refugio de un Nerd]]></description>
-</item>
-<item>
-<title>Configurar repetidor TP-Link N300 en tu señal WiFi</title>
-<link>https://voidnull.es/configurar-repetidor-tp-link-n300-en-tu-senal-wifi/</link>
-<guid isPermaLink="true">https://voidnull.es/configurar-repetidor-tp-link-n300-en-tu-senal-wifi/</guid>
-<pubDate>Mon, 20 Jul 2026 15:30:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[Amplía tu red WiFi fácilmente configurando un repetidor TP-Link N300 y mejora la cobertura en toda tu casa.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Bots ¿con o contra bots?</title>
-<link>https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/</link>
-<guid isPermaLink="true">https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/</guid>
-<pubDate>Mon, 20 Jul 2026 15:00:00 GMT</pubDate>
-<category>Bitácora de fernand0</category>
-<description><![CDATA[Leía hace un rato un titular que venía a decir que se está graduando estos días la primera cohorte de estudiantes-chatGPT. Si recordamos, ChatGPT fue lanzado en noviembre del 2022 (ChatGPT en Wikipedia) así que es un buen título: los estudiantes que comenzaron en el 2022 ahora se estarán graduando<br><br><strong>Fuente:</strong> Bitácora de fernand0]]></description>
-</item>
-<item>
-<title>Visualización de una vida en semanas</title>
-<link>https://guillermolatorre.com/clips/visualizacion-de-una-vida-en-semanas</link>
-<guid isPermaLink="true">https://guillermolatorre.com/clips/visualizacion-de-una-vida-en-semanas</guid>
-<pubDate>Mon, 20 Jul 2026 14:45:00 GMT</pubDate>
-<category>Guillermo Latorre | Feed RSS</category>
-<description><![CDATA[Cada cierto tiempo hay que entrar aquí. Es un calendario para visualizar la cantidad de tiempo que llevas consumido y el que podría quedarte por vivir, basado en el libro &quot;Wait but why&quot; de Tim Urban.Ir al enlace<br><br><strong>Fuente:</strong> Guillermo Latorre | Feed RSS]]></description>
-</item>
-<item>
-<title>¿Seguridad o prestaciones? Compromisos</title>
-<link>https://fernand0.github.io//seguridad-prestaciones/</link>
-<guid isPermaLink="true">https://fernand0.github.io//seguridad-prestaciones/</guid>
-<pubDate>Mon, 20 Jul 2026 14:00:00 GMT</pubDate>
-<category>fernand0 @ GitHub.io</category>
-<description><![CDATA[No estoy muy seguro sobre en qué habrá terminado esto pero me parece interesante por varios motivos: Ubuntu disables Intel GPU security mitigations, promises 20% performance boost. Por un lado, está claro que añadir controles de seguridad hace que el código sea más lento (en este caso parece que muc<br><br><strong>Fuente:</strong> fernand0 @ GitHub.io]]></description>
-</item>
-<item>
-<title>Por qué siempre blanco o negro…</title>
-<link>https://elrefugiodeunnerd.es/2026/07/20/por-que-siempre-blanco-o-negro/</link>
-<guid isPermaLink="true">https://elrefugiodeunnerd.es/2026/07/20/por-que-siempre-blanco-o-negro/</guid>
-<pubDate>Mon, 20 Jul 2026 13:20:00 GMT</pubDate>
-<category>El Refugio de un Nerd</category>
-<description><![CDATA[Estamos obsesionados en ver la tecnología, o la vida en general, a dos colores, eres de Apple o de Android, de Mac o de Windows (o Linux), de Adobe o de código abierto… Son muchos los ejemplos, pero pocos los que se deberían aplicar. A veces utilizar las dos cosas (o tres, o las que [&amp;#8230;]<br><br><strong>Fuente:</strong> El Refugio de un Nerd]]></description>
 </item>
 
 </channel>
