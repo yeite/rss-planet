@@ -1,5 +1,61 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Feeds como rios de lectura, en lugar de flujos que se estancan",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/07/22/20260722-feeds-como-rios-de-lectura/",
+    "fecha": "22/07/2026 08:00",
+    "contenido": "¿Qué sucede si eliminamos la \"obligación fantasma\" en los RSS, pues nadie espera respuesta de forma activa?"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Recordatorio: es importante respaldar el hardware también",
+    "link": "https://nachof.blog/posts/2026/recordatorio-es-importante-respaldar-el-hardware-tambien/",
+    "fecha": "22/07/2026 01:35",
+    "contenido": "Resulta que mi servidor principal se murió. No es grave, tengo respaldos de todo. Y en realidad, ni siquiera tuve que echar mano a los respaldos, porque los datos están bien, entró a fallar la memoria.\nLa cuestión es que está todo bien con tener todos los datos respaldados, pero si no tenés dónde le"
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "Recomendación de navegadores para Android (2026)",
+    "link": "https://thejnx.bearblog.dev/navegadores-android-2026/",
+    "fecha": "21/07/2026 23:06",
+    "contenido": "⤶ English\nEstas son solo recomendaciones de información que he obtenido estando en grupos enfocados tanto a privacidad como seguridad, espero no se lo tomen tan enserio, obviamente y no hacia falta decirlo: son libres de usar el \"veneno\" que ustedes quieran\nSi no te molesta la telemetría de Chrome s"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "¿Todavía valdrá la pena tener un sitio/blog personal?",
+    "link": "https://blog.luiscarlospando.com/personal/2026/07/todavia-valdra-la-pena-tener-un-sitio-blog-personal/",
+    "fecha": "21/07/2026 19:21",
+    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salva.thedev.id/algo-mas",
+    "fecha": "21/07/2026 19:04",
+    "contenido": "Últimas actualizaciones Estoy dejando de añadir plantas al jardín, para dedicarme a hacerlas crecer un poco."
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "",
+    "link": "https://elrefugiodeunnerd.es/2026/07/21/157/",
+    "fecha": "21/07/2026 17:39",
+    "contenido": "Antes de tener mi ordenador actual tenía un Intel NUC con un i3 de 8ªgen, 16GB de RAM (actualmente 8, no sé bien por qué si están los dos módulos de 8 conectados falla, y si está uno solo no, entonces creo que el culpable es la ranura, pero es raro… En fin que está [&#8230;]"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Explore The World!",
+    "link": "https://salva.thedev.id/Explore-The-World!",
+    "fecha": "21/07/2026 15:10",
+    "contenido": "This is a solo project I’ve decided to start because I almost don’t know anything about any country around the globe (probed by losing everyday on GeoGuesser)."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salva.thedev.id/",
+    "fecha": "21/07/2026 15:10",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida."
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "569. Durante el partido",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/07/569-durante-el-partido.html",
@@ -56,11 +112,11 @@
     "contenido": "Sid Meier&#8217;s Memoir! A life in Computer Games By the Creator of Civilization! con ese título se presenta el libro autobiográfico de Sid Meier, uno de los creadores de videojuegos más reconocidos. Sid Meier&#8217;s Civilization es una de las sagas de videojuegos de estrategia más populares del m"
   },
   {
-    "blog": "56K",
-    "titulo": "Suenan campanas  – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/suenan-campanas-fuera-de-las-garras-de-la-ia/",
-    "fecha": "21/07/2026 04:55",
-    "contenido": "En Europa una de las primeras redes de comunicación en la edad media fueron los campanarios (pero no solamente en la edad media claro). Si querías que la gente trabajase al mismo tiempo, es decir, teniendo unos horarios tenías que avisarles de alguna forma. Aunque en algunas películas ambientadas en"
+    "blog": "yejokjanan",
+    "titulo": "Celular nuevo",
+    "link": "https://yejokjanan.xyz/blog/2026-07-21.html",
+    "fecha": "21/07/2026 05:00",
+    "contenido": ""
   },
   {
     "blog": "matizeta",
@@ -75,20 +131,6 @@
     "link": "https://salva.thedev.id/El-Jard%C3%ADn/",
     "fecha": "20/07/2026 18:05",
     "contenido": "Esto viene a ser un lugar dónde hago públicos mis pensamientos/oraciones/ideas, y todo su proceso evolutivo."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Explore The World!",
-    "link": "https://salva.thedev.id/Proyectos/Explore-The-World!",
-    "fecha": "20/07/2026 18:05",
-    "contenido": "This is a solo project I’ve decided to start because I almost don’t know anything about any country around the globe (probed by losing everyday on GeoGuesser)."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salva.thedev.id/",
-    "fecha": "20/07/2026 18:05",
-    "contenido": "Acá me gusta coleccionar detalles de mi vida."
   },
   {
     "blog": "El Refugio de un Nerd",
@@ -161,13 +203,6 @@
     "contenido": "NOTA: Nadie pago por este artículo, solo quiero dar una buena recomendación de tecnología. Bueno, nuevamente nos leemos en esta sesión de tecnología, en donde suelo recomendar algún gadget o\nSeguir leyendo  El mejor reloj que puedes conseguir &#8211; Huawei Watch GT 6\nEl cargo El mejor reloj que pue"
   },
   {
-    "blog": "La línea doméstica",
-    "titulo": "El Interior",
-    "link": "https://jmlro.codeberg.page/posts/2026/07-20-el-interior.html",
-    "fecha": "20/07/2026 12:00",
-    "contenido": "Leyendo Las Llanuras, de Gerald Murnane, pienso en la obra de mi abuelo. Durante varias décadas se levantó temprano antes de que se despertara el resto de la casa para escribir un formato específico. Veinte líneas sobre un tema. A lo largo de los años el impulso lo podía dar un refrán o una frase de"
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "La bandera de conveniencia, esos países que tienen más barcos que habitantes",
     "link": "https://www.fabio.com.ar/9990-la-bandera-de-conveniencia-esos-paises-que-tienen-mas-barcos-que-habitantes",
@@ -210,13 +245,6 @@
     "contenido": "FMD (Find My Device), una alternativa open source y descentralizada para localizar y controlar tu móvil Android de forma remota"
   },
   {
-    "blog": "56K",
-    "titulo": "Música de Spotify en un ZX Spectrum",
-    "link": "https://56k.es/fanta/musica-de-spotify-en-un-zx-spectrum/",
-    "fecha": "20/07/2026 04:51",
-    "contenido": "Es posible «escuchar» música de spotify en un ZX Spectrum sin necesidad de tener conexión a internet. Mira esto va a ser sencillo y directo. Necesitas un player que permita reproducir un archivo «.tap». Por ejemplo este web: zxtape.net/ Pero antes de eso necesitas tener un archivo .tap . Eso se cons"
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (semifinales y finales)",
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-semifinales-y-finales.html",
@@ -252,13 +280,6 @@
     "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
   },
   {
-    "blog": "56K",
-    "titulo": "Aventuras gráficas no tan típicas – Vol 7",
-    "link": "https://56k.es/fanta/aventuras-graficas-no-tan-tipicas-vol-7/",
-    "fecha": "19/07/2026 04:47",
-    "contenido": "Buenos días amigo/a/e. De nuevo otro post más de la serie «Aventuras gráficas no tan típicas» que podrían llamarse simplemente «Aventuras gráficas que no son Monkey Island». Vamos con ello y dejemos la chachará para otro momento. The Whispered World 2 (Silence) Tequila and Boom Boom UFOs Gobliiins 1"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "\"La vieja memoria\": las voces que vivieron el 18 de julio",
     "link": "https://blog.danielaragay.net/la-vieja-memoria-las-voces-que-vivieron-el-18-de-julio/",
@@ -270,7 +291,7 @@
     "titulo": "Tu blog necesita un \"Respondiendo a\"",
     "link": "https://blog.luiscarlospando.com/diseno/2026/07/tu-blog-necesita-un-respondiendo-a/",
     "fecha": "18/07/2026 19:16",
-    "contenido": "Gracias por leer mi blog y ser un suscriptor.Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky.¡Hasta la próxima, cuidate! 👋"
+    "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -278,13 +299,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/07/18/unteachers-y-una-extrana-propuesta/",
     "fecha": "18/07/2026 12:00",
     "contenido": "Hay cosas que no dejan de sorprender. Combinaciones que parecen imposibles y propuestas que de...\nThe post \"Under Bright Sadness\" Será Su Nuevo Álbum | Unteachers Y Una Extraña Propuesta first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Ejercitando la paciencia con Manic Miner en verano",
-    "link": "https://56k.es/fanta/ejercitando-la-paciencia-con-manic-miner-en-verano/",
-    "fecha": "18/07/2026 04:34",
-    "contenido": "1983, Madrid DC, Spain. Suena «En la gruta del rey de la montaña» de fondo en el juego que Boby ha cargado desde una cinta de cassette en un ZX Spectrum 128 +2. En la cinta pone escrito con rotulador: «Manic Miner». Pone Manic Miner pero en realidad la cinta contiene en la cara A..."
   },
   {
     "blog": "Luis Carlos Pando",
@@ -306,6 +320,13 @@
     "link": "https://alex.corcoles.net/2026/07/la-anomalía",
     "fecha": "18/07/2026 00:00",
     "contenido": "\n  (Llevo varios d&#237;as con esta entrada en la cabeza, pero curiosamente hace unas horas un banco me ha notificado que no podr&#233; operar por Internet sin Android o iOS.)\n  \n    En 2013 escrib&#237; sobre aquello de teclear y que aparezca lo que escribas en la tele, y c&#243;mo cada vez hay men"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Livesuit - James S.A. Corey",
+    "link": "https://nachof.blog/posts/2026/livesuit/",
+    "fecha": "17/07/2026 23:12",
+    "contenido": "\n\n\nNormalmente, cuando hablás de ciencia ficción militar, es difícil no comparar con Starship Troopers. En este caso, la comparación más apta sería tal vez con The Forever War.\nLivesuit es una historia de ciencia ficción militar puesta en el universo de The Captives War (la serie de la cual el prime"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -406,13 +427,6 @@
     "contenido": "Entre click y click nos irá descubriendo una historia tierna y divertida entre un ángel y una demonia\nLa entrada Análisis de Angel Clicker se publicó primero en CozyKis."
   },
   {
-    "blog": "56K",
-    "titulo": "Gafas de pervertidos – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/gafas-de-pervertidos-fuera-de-las-garras-de-la-ia/",
-    "fecha": "17/07/2026 08:05",
-    "contenido": "Buenos días insectos. El otro día añadí a marcadores el artículo de futurism.com que tenía de titular «The Backlash Is So Strong That People With “Pervert Glasses” Are Afraid to Use Them in Public». Eso en castellano significa «La reacción es tan fuerte que las personas que llevan “gafas de perverti"
-  },
-  {
     "blog": "Malagueños originales y libres",
     "titulo": "Solucionar error shebang en múltiples scripts bash linux",
     "link": "https://malagaoriginal.blogspot.com/2026/11/solucionar-error-shebang-en-script-bash.html",
@@ -425,13 +439,6 @@
     "link": "https://voidnull.es/find-my-device-instalacion-de-un-servidor-propio/",
     "fecha": "17/07/2026 07:11",
     "contenido": "FMD (Find My Device), una alternativa open source y descentralizada para localizar y controlar tu móvil Android de forma remota"
-  },
-  {
-    "blog": "56K",
-    "titulo": "El fin de la web con visitantes humanos",
-    "link": "https://56k.es/fanta/el-fin-de-la-web-con-visitantes-humanos/",
-    "fecha": "17/07/2026 04:37",
-    "contenido": "Posiblemente el «escribiendo para los crawlers IA» sea el nuevo «trabajando para el algoritmo» solamente que algo ha cambiado y quizás es que ya no obtienes visitas a cambio. Las visitas en las webs han caído a limites históricos y para mucha gente ha empezado a no tener sentido seguir compartiendo "
   },
   {
     "blog": "danielaragay.net",
@@ -518,25 +525,11 @@
     "contenido": "Me gusta la simplicidad de los blogs de la plataforma Pika. Aprovechando la versatilidad de WordPress quise imitar el diseño de este en mi blog. Este a sido el resultado: Antes se veía así: Ahora se ve así: Lo que hice es ordenar un poco los elementos, darle otro estilo y agregar la caja de [&#8230;"
   },
   {
-    "blog": "56K",
-    "titulo": "Aventuras gráficas no tan típicas – Vol 6",
-    "link": "https://56k.es/fanta/aventuras-graficas-no-tan-tipicas-vol-6/",
-    "fecha": "16/07/2026 05:50",
-    "contenido": "Hola, esto es un nuevo post de la serie «Aventuras gráficas no tan típicas». Por resumir diré que la serie de posts va de juegos que no son Monkey Island básicamente. Los anteriores posts andan aquí: 🛠️ Aventuras gráficas no tan típicas – Vol 5 🛠️ Aventuras gráficas no tan típicas – Vol 4 🛠️..."
-  },
-  {
     "blog": "labaudric",
     "titulo": "audric subió 2249 videos en Destiny, Phantasy Star Online, Balisong, Diablo, Split Second, Forza, Titanfall 2, Tomb Raider, Call Of Duty, Musica, The Division, Hazard Ops, Gears Of War, Halo, Watch Dogs, DC Universe Online, TERA, Anthem, Guild Wars 2, Ridge Racer, Nazi Zombie Army, SEGA All Star Racing, The Crew, Darkness 2, Blade &amp; Soul, Ghost in the Shell Global Assault, Driveclub, Killer Instinct, Killzone, Need For Speed, RWBY, Resident Evil, VLOG, Burnout, Dead Space, Left4Dead, SEGA Rally, Trials Fusion, Vindictus, Warhammer, Farenheit, Sleeping Dogs, Torchlight, Warframe, Deux Ex, Global Agenda, Goldeneye, Haunted Hells Reach, Sonic, The Last Of Us, Uncharted, Detroit Become Human (PC), Gotham City Impostors, Looney Tunes Space Race, Motorstorm Apocalypse, Neverwinter, Overwatch, Painkiller, SkyForge, World Of Warcraft, Black Desert Online, Counter Strike, FEAR, GTA, Heavenly Sword, Kingdom Under Fire 2, Mass Effect, Quantum Break, Speed Devils, Unreal Tournament, grid legends, Mafia, Payday",
     "link": "https://labaudric.net/videos/destiny",
     "fecha": "16/07/2026 05:21",
     "contenido": "      +2243 más"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Viviendo con pájaros en casa – Living a Celebration",
-    "link": "https://56k.es/fanta/viviendo-con-pajaros-en-casa-living-a-celebration/",
-    "fecha": "16/07/2026 04:07",
-    "contenido": "Estoy «living a celebration» porque un año más las golondrinas han anidado en casa. 4 nuevas golondrinas han nacido y tengo fotos que compartiré con usted en este post si tiene algo de paciencia. La cosa es que llevo un mes sin encender la luz para no afectar a unas gaviotas golondrinas que entraron"
   },
   {
     "blog": "Salva Más De Cerca",
@@ -658,13 +651,6 @@
     "contenido": "Alternativas self-hosted a Google Analytics para analizar visitas con más privacidad y control sobre tus datos."
   },
   {
-    "blog": "56K",
-    "titulo": "Navegando por el fingerverso en 2026",
-    "link": "https://56k.es/fanta/navegando-por-el-fingerverso-en-2026/",
-    "fecha": "15/07/2026 04:55",
-    "contenido": "Existe una app para Android llamada «FingerList» que permite navegar por el fingerverso en 2026 desde el smartphone. Otra forma es simplemente instalando finger e ir navegando por los diferentes servidores que tengan finger habilitado y contenido. Y si amigo/a existen en la actualidad servidores en "
-  },
-  {
     "blog": "JavierSam",
     "titulo": "¡Salió Blender 5.2!",
     "link": "https://javiersam.uy/2026/07/salio-blender-5-2.html",
@@ -721,18 +707,18 @@
     "contenido": "Dibujé estas páginas el verano pasado, tras una semana en Berlín durante la cual tuve demasiados enfrentamientos relacionados con la fotografía. La gente suele decir que «la actitud es muy importante», pero, en mi experiencia, ni la sonrisa más amplia puede impedir que algunas personas intenten deci"
   },
   {
-    "blog": "56K",
-    "titulo": "Ese shooter de fantasía oscura llamado Heretic",
-    "link": "https://56k.es/fanta/chocolate-doom-heretic/",
-    "fecha": "14/07/2026 04:04",
-    "contenido": "Heretic es una obra maestra creada con el motor de Doom (de ID software) y producida por el mismísimo John Romero. Desarrollado por Raven Software, publicado por ID software y Distribuido por GT Interactive en 1994 esta joya se comercializó en 4 disquetes para MS-DOS. Se habla mucho de que es un jue"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "Volver a pedalear",
     "link": "https://blog.luiscarlospando.com/personal/2026/07/volver-a-pedalear/",
     "fecha": "14/07/2026 02:15",
     "contenido": "Gracias por leer mi blog y ser un suscriptor. Si disfrutas mi contenido, puedes comprarme un café, que aunque no es necesario, se agradece bastante. 🙏 También me puedes seguir en Mastodon y/o en Bluesky. ¡Hasta la próxima, cuidate! 👋"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Clacton 2026",
+    "link": "https://nachof.blog/posts/2026/clacton-2026/",
+    "fecha": "13/07/2026 23:08",
+    "contenido": "\n Imagen sacada de Mastodon\n \n\n\nLa política británica tiene sus cosas divertidas. A diferencia de la política en la mayoría de los países, donde el procedimiento está dado por reglas hechas intencionalmente, en el Reino Unido los procedimientos son producto de siglos de tradiciones. Un ejemplo es el"
   },
   {
     "blog": "Bitácora baldía on zurdeando",
@@ -861,13 +847,6 @@
     "contenido": "Por: Carlos M.Publicado el 13 de julio de 2026Reflexión personal sobre cuántos KB descarga tu sitio web.Continuar leyendo →#Cloudflare #Blog #Hugo "
   },
   {
-    "blog": "Escritos en la nube",
-    "titulo": "Sobreviviendo",
-    "link": "https://nube.codeberg.page/blog/sobreviviendo/",
-    "fecha": "12/07/2026 20:11",
-    "contenido": "\nCon este post es como si estuviera volviendo a loa orígenes del blog, cuando lo alojaba en Bearblog y estaba temporalmente sin PC, escribía todos mis posts con un editor de texto llamado Markor, escribía en markdown, como siempre.\nSin embargo eran tiempos más simples, al final el blog no dependía t"
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "Pacific Warrior - Nuevo juego gratis, artillero antiaéreo",
     "link": "https://www.fabio.com.ar/9983-pacific-warrior---nuevo-juego-gratis-artillero-antiaereo",
@@ -952,6 +931,13 @@
     "contenido": "Durante años hemos escuchado que el Fediverso es descentralizado. La afirmación no es falsa, pero tampoco cuenta toda la historia. Si bien plataformas como Mastodon distribuyen la infraestructura entre miles\nSeguir leyendo  Holos Social &#124; cuando el servidor vuelve a pertenecer al usuario\nEl car"
   },
   {
+    "blog": "Un blog",
+    "titulo": "Discord a FreshRSS",
+    "link": "https://nachof.blog/posts/2026/discord-a-freshrss/",
+    "fecha": "10/07/2026 23:10",
+    "contenido": "Discord es una plaga horrible. Está por todos lados, y no entiendo por qué lo usan tanto. Si pudiese no volver a usarlo sería feliz. Bueno, menos infeliz, al menos. El tema es que, lamentablemente, hay cosas que están en Discord que son interesantes.\nUna de esas son los puzzles GAPP (&ldquo;genuinel"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "DNS Hero: haz consultas DNS de dominios para diagnóstico",
     "link": "https://voidnull.es/dns-hero-haz-consultas-dns-de-dominios-para-diagnostico/",
@@ -1029,18 +1015,18 @@
     "contenido": "Tras la polémica de financiar uno de los dueños de Mullvad a un partido de ultraderecha, del cual recibe la mayoría de sus fondos, decidí abandonar inmediatamente esta VPN que me ha acompañado durante años y buscar alternativa.\nHace tiempo estuve en iVPN, que opera desde Gibraltar (no está ni siquie"
   },
   {
+    "blog": "Un blog",
+    "titulo": "Claude me miente abiertamente",
+    "link": "https://nachof.blog/posts/2026/claude-me-miente-abiertamente/",
+    "fecha": "09/07/2026 21:45",
+    "contenido": "No es la primera vez que me pasa, y me genera cero confianza. Así que otra vez toca una queja sobre el verme obligado a usar Claude.\nNo me gusta cuando las herramientas que uso cambian su comportamiento sin aviso. Incluso cuando es para mejor, espero por lo menos un mensaje. O haber hecho yo algo pa"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "La industria del videojuego se va (un poco) a la mierda",
     "link": "https://cozykis.kisworld.es/la-industria-del-videojuego-se-va-un-poco-a-la-mierda/",
     "fecha": "09/07/2026 19:25",
     "contenido": "La industria de los videojuegos lleva un tiempo tan confusa que se hiere a sí misma, pero estamos a tiempo de salvarla\nLa entrada La industria del videojuego se va (un poco) a la mierda se publicó primero en CozyKis."
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "Magic Sex Worker",
-    "link": "https://jmlro.codeberg.page/posts/2026/07-09-magic-sex-worker.html",
-    "fecha": "09/07/2026 12:00",
-    "contenido": "En el tercer episodio de la quinta temporada de Hacks, Ava conoce a Eli en una fiesta. Charlan y flirtean, se despiden e intercambian teléfonos. Él le advierte un dato que en general provoca problemas en sus relaciones: I'm a sex worker. A la comprometida y reivindicativa Ava Daniels le parece un de"
   },
   {
     "blog": "Fabio.com.ar",
@@ -1055,6 +1041,13 @@
     "link": "https://asturgeek.eu/2026/07/09/instalando-wordpress-con-docker/",
     "fecha": "09/07/2026 07:33",
     "contenido": "Vamos a hacer una serie de artículos con los servicios que tengo integrados en el servidor casero. Vamos a empezar por éste blog, con WordPress.Supongo quer si te metes en éste lío, ya tendrás unas mínimas nociones. Mi servidor está en un minipc y en él he instalado Debian sin escritorio, y los paqu"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "El café frío sigue siendo café frío",
+    "link": "https://nachof.blog/posts/2026/el-cafe-frio-sigue-siendo-cafe-frio/",
+    "fecha": "08/07/2026 20:32",
+    "contenido": "Voy a empezar diciendo que no me gusta el café. Tuve mi época de más joven donde tomaba café, pero era más por la cafeína que por el gusto, y siempre era con toneladas de azúcar. Pero la realidad es que no me gusta.\nHace un tiempo leí Homeland, el segundo libro de la serie de Little Brother, de Cory"
   },
   {
     "blog": "Salva Más De Cerca",
@@ -1076,13 +1069,6 @@
     "link": "https://salva.thedev.id/El-Jard%C3%ADn/%E2%9B%85%EF%B8%8F-hay-que-animarse-a-salir-al-aire-libre-m%C3%A1s-seguido",
     "fecha": "08/07/2026 14:27",
     "contenido": "yuyo ¡Sal al aire libre todo el tiempo que puedas! Debes ser un estudiante sano, jovial, rebosante de fuerzas, de corazón ardiente, generoso, de espíritu pronto, vivaracho, que sabe reírse de corazón, pero… que también tiene un sentido delicado de la dignidad de su alma."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌱 Lenguajes",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B1-Lenguajes",
-    "fecha": "08/07/2026 14:27",
-    "contenido": "yuyo Me cuestiono mucho el intento de escribir en dos idiomas esta página, quizás debería aislarla al Español."
   },
   {
     "blog": "Galerías Preciados",
@@ -1176,6 +1162,13 @@
     "contenido": "Vamos a recuperar una sección que hice varios meses y dejé de largo, desde Septiembre del año pasado. Es un resumen de los que veo y hago durante el mes que acaba. No sé si es interesante, pero es una manera de resumir los que pruebo, veo o escucho&#8230; Vamos allá&#8230; Juegos He empezado una..."
   },
   {
+    "blog": "Un blog",
+    "titulo": "Amazon Prime y la estafa de los free trials",
+    "link": "https://nachof.blog/posts/2026/amazon-prime-y-la-estafa-de-los-free-trials/",
+    "fecha": "06/07/2026 22:10",
+    "contenido": "Todos sabemos que los free trials que te empiezan a cobrar automáticamente son una estafa. No hay novedad. Pero quiero quejarme un poco.\nResulta que estoy de viaje, y quería aprovechar para comprar unas cosas que en Uruguay no se consiguen. Amazon es horrible, y debería dejar de existir, pero es el "
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "565. Misiones clandestinas",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/07/565-misiones-clandestinas.html",
@@ -1230,6 +1223,13 @@
     "link": "https://javiersam.uy/2026/07/para-tener-a-mano-lv-2.html",
     "fecha": "06/07/2026 03:00",
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Mis estadísticas de running en la web",
+    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
+    "fecha": "06/07/2026 00:00",
+    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
   },
   {
     "blog": "Tecno y Soft",
@@ -1321,6 +1321,20 @@
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-dieciseisavos-de-final.html",
     "fecha": "04/07/2026 03:50",
     "contenido": "Ayer se completaron los dieciseisavos de final (la primera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 5 selecciones sudamericanas enfrentaron a 2 rivales de África, 1 de Europa, 1 de la CONCACAF y 1 de Asia. Brasil 2 &#82"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Los Perseguidos, ficción sonora fantástica",
+    "link": "https://chancli.dev/blog/los-perseguidos-audio-ficcion.html",
+    "fecha": "04/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los podcasts, sobre todo sigo podcasts de tecnología y algunos de misterio.\nPero hoy no vengo a recomendaros un podcast normal, es una ficción sonora de una calidad de producción increíble.\nSe trata de Los Perseguidos, basado en la novela de Fernando Benzo.\nSe ve que Onda Ce"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Cosas aprendidas en junio",
+    "link": "https://nachof.blog/posts/2026/cosas-aprendidas-junio/",
+    "fecha": "03/07/2026 23:30",
+    "contenido": "Sigo con la lista de cosas aprendidas, igual que el mes pasado\nOrcas cazadoras\nLas orcas son animales re interesantes. Tienen tendencias culturales como ponerse salmones de sombrero, o hundir yates de lujo. También son famosas por ser cazadoras, con el sobrenombre de &ldquo;ballenas asesinas&rdquo; "
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1484,6 +1498,13 @@
     "contenido": "La desconfianza de los seres humanos hacia la realidad no es semilla de este periodo agrícola. De Calderón de la barca a Baudrillard, nos hemos preguntado si..."
   },
   {
+    "blog": "Un blog",
+    "titulo": "Slow Gods - Claire North",
+    "link": "https://nachof.blog/posts/2026/slow-gods/",
+    "fecha": "01/07/2026 23:14",
+    "contenido": "\n\n\nUff, este libro se me hizo eterno. La peor parte es que tiene sentido, por la forma en la que está escrito, y es intencional.\nEl libro es sobre Maw, un trabajador de una cultura interplanetaria que es esencialmente la extrapolación de nuestra distopía actual. Un día, mientras Maw pilota una nave "
+  },
+  {
     "blog": "La Paradoja del Cero y el Uno",
     "titulo": "El colombófilo de Flores y la cifra infinita (a la venta por necesidad difundir)",
     "link": "https://docig.bearblog.dev/el-colombofilo-de-flores-y-la-cifra-infinita-a-la-venta-por-necesidad-difundir/",
@@ -1610,13 +1631,6 @@
     "contenido": "Contaba por aquí hace unos días que había empezado a probar Deezer como alternativa a la plataforma musical que todo el mundo usa, Spotify; como anotaba en esa entraba, de Spotify me di de baja en octubre del año pasado, tras más de doce años siendo usuario de pago y parte de ellos administrando un "
   },
   {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Configurando Ntfy",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-06-30-usando-ntfy-2/",
-    "fecha": "29/06/2026 22:00",
-    "contenido": "Tal como dije en el anterior artículo, en este explicaré la configuración y el uso que le estoy dando al servicio de NTFY, y que me está sorprendiendo mucho porque, valga la redundancia, me está dando la misma información que me daba Matrix, pero sin tantas complicaciones.\nDe nuevo, aunque suene rep"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "563. Por las bitácoras muertas 2",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/06/563-por-las-bitacoras-muertas-2.html",
@@ -1680,6 +1694,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Unir dos imagenes en mac o linux",
+    "link": "https://chancli.dev/blog/unir-dos-imagenes-mac-linux.html",
+    "fecha": "29/06/2026 00:00",
+    "contenido": "Hoy estaba en el Mac y tenía dos imágenes que quería unir.\nEstaba buscando la mejor forma de hacerlo y no encontré nada que no fueran apaños.\nFinalmente di con la solución, usando el clásico Imagemagick\nNo lo tenía instalado en Mac, así que usando Homebrew:\nbrew install imagemagick\n\nCon Imagemagick "
+  },
+  {
     "blog": "impermanente",
     "titulo": "Fuera de la caja... hay otra caja",
     "link": "https://impermanente.es/2026/06/28/fuera-de-la-caja-hay.html",
@@ -1736,6 +1757,13 @@
     "contenido": "Me he fijado en que este año no he escrito una crónica sobre mi visita a la Feria del Libro de Madrid. Lo cierto es que ha sido una feria atípica para mí, porque en el fin de semana que me habría venido mejor ir hemos tenido la visita del Papa, y decidimos como familia evitar visitar el centro. Y en"
   },
   {
+    "blog": "Un blog",
+    "titulo": "¿Se puede ganar un mundial sin hacer goles?",
+    "link": "https://nachof.blog/posts/2026/se-puede-ganar-un-mundial-sin-hacer-goles/",
+    "fecha": "26/06/2026 17:05",
+    "contenido": "\n Si hubiese escrito esto hace una semana, acá pondría que el de la foto es el golero de Cabo Verde\n \n\n\nBueno, de alguna manera tenés que ganar partidos para avanzar, y ganar en la final. Pero asumiendo que contamos la definición por penales como algo separado, ¿sería posible ganar un mundial sin ha"
+  },
+  {
     "blog": "Interlan",
     "titulo": "Articulo: Ellos tienen tanto miedo de morir como tu",
     "link": "https://interlan.ec/blog/2026/06/26/articulo-ellos-tienen-tanto-miedo-de-morir-como-tu/",
@@ -1771,18 +1799,11 @@
     "contenido": ""
   },
   {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Mi blog visto por una IA",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-06-26-blog-ia/",
-    "fecha": "25/06/2026 22:00",
-    "contenido": "Siguiendo la estela de blogs que preguntan a la IA qué es lo que ve de su blog, como ha hecho Lazaro, me he preguntado qué ve la IA con respecto a mi blog. Y tengo que decir que, en algunos momentos, me han dado ganas de saltar de alegría 😀 y en otros, de saltar al vacío 😭.\nOs pondré un resumen de l"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "uses",
-    "link": "https://vctrsnts.codeberg.page/uses/",
-    "fecha": "25/06/2026 22:00",
-    "contenido": "Esta es la configuración y las herramientas que utilizo actualmente en mi día a día.\nLa página está inspirada en la idea de /uses, habitual en la IndieWeb y la smol web:\ncompartir el hardware, software y entorno con el que uno trabaja y escribe.\nNada especialmente exótico.\nSolo herramientas con las "
+    "blog": "Chancli.dev",
+    "titulo": "Limpiando el VScode de IA y demás basura",
+    "link": "https://chancli.dev/blog/quitando-ia-de-vscode.html",
+    "fecha": "26/06/2026 00:00",
+    "contenido": "VScode siempre ha sido mi editor de código favorito pero desde que empezó a tener tantos usuarios y con el auge de la IA se ha vuelto en una especie cajón de sastre donde todo vale.\nChats de IA por todos lados, autocompletados, extensiones, extensiones, extensiones... si echamos un vistazo a las set"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -1890,13 +1911,6 @@
     "contenido": "Ayer se completó la segunda fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 2 rivales de Europa, 2 de la Concacaf y 2 de África. Brasil 3 &#8211; Haití 0 El viernes Brasil se enfrentó a Haití po"
   },
   {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Cambiando Matrix por Ntfy",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-06-24-usando-ntfy-1/",
-    "fecha": "23/06/2026 22:00",
-    "contenido": "Siempre había pensado que los mandatos divinos de Lorenzo eran sagrados, pero parece ser que hay más santos en este humilde planeta e igual de famosos. Y uno de estos santos famosos no es otro que Lázaro, al que sigo desde hace mucho tiempo.\n\nNota\nAhora que lo pienso, hará ya unos 7 años que sigo a "
-  },
-  {
     "blog": "Estás Interfiriendo con mi Zen.",
     "titulo": "Episodio 97",
     "link": "https://edgarmtoro.wordpress.com/2026/06/23/episodio-97/",
@@ -1961,10 +1975,10 @@
   },
   {
     "blog": "Un Diario",
-    "titulo": "Privacy Tips",
-    "link": "https://thejnx.bearblog.dev/tips-privacy/",
+    "titulo": "Tips de privacidad",
+    "link": "https://thejnx.bearblog.dev/tips-privacidad/",
     "fecha": "22/06/2026 22:32",
-    "contenido": "Spanish\n\nWhenever possible, use operating systems with little or no bloatware—those junk apps added by manufacturers that only serve to track you and drain your device’s resources. For PCs, there’s Linux (it depends on the distro; I recommend doing some research before installing) and for Android, I"
+    "contenido": "⤶ English\n\nSiempre que puedas utiliza sistemas operativos con nivel bajo o nulo de bloatware, apps basura que agregan las marcas que solo sirven para rastrear y consumir recursos en el equipo, para PC existe Linux (depende de la distro, recomiendo investigar antes de instalar) y para Android recomie"
   },
   {
     "blog": "labaudric",
@@ -2007,26 +2021,5 @@
     "link": "https://gatooscuro.xyz/la-caracteristica-mas-importante-de-una-aplicacion-de-mensajeria-es-la-que-casi-nadie-lee/",
     "fecha": "22/06/2026 06:32",
     "contenido": "Dentro de las comunidades de privacidad existe una discusión que parece repetirse cada pocos meses. Aparece una nueva aplicación de mensajería, algún usuario influyente la recomienda, se analizan sus protocolos\nSeguir leyendo  La característica más importante de una aplicación de mensajería es la qu"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "El ángulo del horror",
-    "link": "https://guillermolatorre.com/libros/el-angulo-del-horror",
-    "fecha": "21/06/2026 22:00",
-    "contenido": "Fecha de lectura: 22/06/2026.Autor/a: Cristina Fern&aacute;ndez Cubas.Categoría: Ficción.Número de páginas: 168.Mi valoración: ★★★★☆Me ha sorprendido la lectura de este libro, son cuatro cuentos de terror, digamos, cotidiano. Más que terror transmiten incomodidad, sensaciones extrañas respecto a lo "
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Reseña de Imperio de Rueda",
-    "link": "http://frikoteca.blogspot.com/2026/06/resena-de-imperio-de-rueda.html",
-    "fecha": "21/06/2026 21:58",
-    "contenido": "Imperio de Rueda es un entorno de campaña completo para el juego Mythras, publicado por la editorial Con Pluma y Píxel en 2022, a través de una campaña de mecenazgo en Verkami. El autor del libro es Juan Miguel Sueiro, y el ilustrador de la portada y de todas las ilustraciones interiores es Huargo, "
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Hoy este blog cumple 19 años en línea",
-    "link": "https://picandocodigo.net/2026/hoy-este-blog-cumple-19-anos-en-linea/",
-    "fecha": "21/06/2026 14:32",
-    "contenido": "Hoy hace 19 años que nació este blog \"Picando Código\". Para quienes siguen el blog de hace tiempo, seguramente se hayan encontrado algún año con uno de estos posts celebrando el aniversario. Para gente que lee hace poco o por primera vez, acá hay un poco más de historia de cómo surgió este blog: Ace"
   }
 ]
