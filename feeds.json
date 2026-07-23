@@ -1,5 +1,54 @@
 [
   {
+    "blog": "Un blog",
+    "titulo": "The Last Murder at the End of the World - Stuart Turton",
+    "link": "https://nachof.blog/posts/2026/the-last-murder-at-the-end-of-the-world/",
+    "fecha": "22/07/2026 22:51",
+    "contenido": "\n\n\nHay una cierta sensación que provocan los libros de ciencia ficción escritos por autores que no están tan familiarizados con las convenciones del género. The Last Murder me provocó un poco eso. Stuart Turton es claramente un buen escritor, escribe bonito, y todo. Como libro, The Last Murder está "
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Claude, ¿qué estás haciendo, Claude?",
+    "link": "https://nachof.blog/posts/2026/claude-que-estas-haciendo-claude/",
+    "fecha": "22/07/2026 21:26",
+    "contenido": "Siguen mis aventuras con el uso forzado de Claude.\n\n\n Esto se supone que es el futuro\n \n"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "links",
+    "link": "https://salva.thedev.id/links",
+    "fecha": "22/07/2026 18:29",
+    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salva.thedev.id/",
+    "fecha": "22/07/2026 17:54",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida."
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Odio a los Argentinos (los más racistas del mundo)",
+    "link": "https://matizeta.com/2026/07/22/odio-a-los-argentinos-los-mas-racistas-del-mundo/",
+    "fecha": "22/07/2026 16:54",
+    "contenido": "Estos días estuve observando un creciente movimiento en las redes y también en los medios de cierto odio hacia a los argentinos. El tema me llegó. Si bien últimamente casi no entro a las redes (fuera de Mastodon),&#160; las empecé a ver en los diarios online, con un artículo de ello en cada uno. Así"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "du: analizar el uso de espacio en disco",
+    "link": "https://voidnull.es/du-analizar-el-uso-de-espacio-en-disco/",
+    "fecha": "22/07/2026 15:30",
+    "contenido": "Aprende a usar el comando du en GNU/Linux para comprobar cuánto espacio ocupan ficheros y directorios desde la terminal."
+  },
+  {
+    "blog": "quiroptero.blog",
+    "titulo": "Una mínima diatriba contra el cine contemporáneo, o: fui a ver La Odisea y salí sin haberla visto",
+    "link": "https://www.quiroptero.blog/2026/07/odisea/",
+    "fecha": "22/07/2026 14:18",
+    "contenido": "«¡A ver al cine!» Es lo que se suele decir, y lo que intenté hacer el otro día. Fui al cine a ver La Odisea de Christopher Nolan y me quedé con la sensación de que, en realidad, no la vi."
+  },
+  {
     "blog": "GoRiX blog",
     "titulo": "Mostrar el programa en foco en la barra de i3",
     "link": "https://blog.gorix.xyz/mostrar-el-programa-en-foco-en-la-barra-de-i3.html",
@@ -54,13 +103,6 @@
     "link": "https://gatooscuro.xyz/me-compre-un-echo-dot-5-de-amazon-y-ahora-lo-tengo-de-pisapapeles/",
     "fecha": "22/07/2026 05:39",
     "contenido": "Ya lo sé, varias personas me lo dijeron. Me acuerdo de Itan, de Joselito y de algún otro referente a no comprar nada proveniente de Amazon, y lo hice; pues\nSeguir leyendo  Me compré un Echo Dot 5 de Amazon y ahora lo tengo de pisapapeles\nEl cargo Me compré un Echo Dot 5 de Amazon y ahora lo tengo de"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Tipografías anti-IA  – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/tipografias-anti-ia-fuera-de-las-garras-de-la-ia/",
-    "fecha": "22/07/2026 04:17",
-    "contenido": "La forma en la que vestimos la letra es importante. Podemos vestirla para un cartel en una tarberna en Esukalerria o para por ejemplo indicar que se trata de retro-informática. La cosa es que existen algunas tipografías experimentales que tratan de codificar dos mensajes en una misma imagen, es deci"
   },
   {
     "blog": "Salva Más De Cerca",
@@ -119,20 +161,6 @@
     "contenido": "helecho Está sacado de contexto, pero esto lo escribió Nietzsche La última transformación es del león al niño. Un niño es inocencia y olvido."
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪻 Sobre la vida plena",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%BB-Sobre-la-vida-plena",
-    "fecha": "22/07/2026 02:17",
-    "contenido": "arbolito Dicen que los santos tuvieron una vida plena. Yo creo que el abuelo es santo, asi que seguro tuvo una vida plena."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌳 Sobre el paso del tiempo...",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B3-Sobre-el-paso-del-tiempo...",
-    "fecha": "22/07/2026 02:03",
-    "contenido": "arbolito Ahora estoy en el colectivo yendo a una clase de física II y me puse a pensar en que algún día voy a ser viejito, y no voy a poder moverme tan rápidamente como lo hago ahora."
-  },
-  {
     "blog": "Un blog",
     "titulo": "Recordatorio: es importante respaldar el hardware también",
     "link": "https://nachof.blog/posts/2026/recordatorio-es-importante-respaldar-el-hardware-tambien/",
@@ -140,11 +168,11 @@
     "contenido": "Resulta que mi servidor principal se murió. No es grave, tengo respaldos de todo. Y en realidad, ni siquiera tuve que echar mano a los respaldos, porque los datos están bien, entró a fallar la memoria.\nLa cuestión es que está todo bien con tener todos los datos respaldados, pero si no tenés dónde le"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Llevo un mes durmiendo en el sofá",
-    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
+    "blog": "esencial",
+    "titulo": "Ikigai",
+    "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
-    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
+    "contenido": ""
   },
   {
     "blog": "Un Diario",
@@ -229,13 +257,6 @@
     "link": "https://yejokjanan.xyz/blog/2026-07-21.html",
     "fecha": "21/07/2026 05:00",
     "contenido": ""
-  },
-  {
-    "blog": "56K",
-    "titulo": "Suenan campanas  – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/suenan-campanas-fuera-de-las-garras-de-la-ia/",
-    "fecha": "21/07/2026 04:55",
-    "contenido": "En Europa una de las primeras redes de comunicación en la edad media fueron los campanarios (pero no solamente en la edad media claro). Si querías que la gente trabajase al mismo tiempo, es decir, teniendo unos horarios tenías que avisarles de alguna forma. Aunque en algunas películas ambientadas en"
   },
   {
     "blog": "matizeta",
@@ -364,13 +385,6 @@
     "contenido": "FMD (Find My Device), una alternativa open source y descentralizada para localizar y controlar tu móvil Android de forma remota"
   },
   {
-    "blog": "56K",
-    "titulo": "Música de Spotify en un ZX Spectrum",
-    "link": "https://56k.es/fanta/musica-de-spotify-en-un-zx-spectrum/",
-    "fecha": "20/07/2026 04:51",
-    "contenido": "Es posible «escuchar» música de spotify en un ZX Spectrum sin necesidad de tener conexión a internet. Mira esto va a ser sencillo y directo. Necesitas un player que permita reproducir un archivo «.tap». Por ejemplo este web: zxtape.net/ Pero antes de eso necesitas tener un archivo .tap . Eso se cons"
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (semifinales y finales)",
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-semifinales-y-finales.html",
@@ -406,13 +420,6 @@
     "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
   },
   {
-    "blog": "56K",
-    "titulo": "Aventuras gráficas no tan típicas – Vol 7",
-    "link": "https://56k.es/fanta/aventuras-graficas-no-tan-tipicas-vol-7/",
-    "fecha": "19/07/2026 04:47",
-    "contenido": "Buenos días amigo/a/e. De nuevo otro post más de la serie «Aventuras gráficas no tan típicas» que podrían llamarse simplemente «Aventuras gráficas que no son Monkey Island». Vamos con ello y dejemos la chachará para otro momento. The Whispered World 2 (Silence) Tequila and Boom Boom UFOs Gobliiins 1"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "\"La vieja memoria\": las voces que vivieron el 18 de julio",
     "link": "https://blog.danielaragay.net/la-vieja-memoria-las-voces-que-vivieron-el-18-de-julio/",
@@ -432,13 +439,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/07/18/unteachers-y-una-extrana-propuesta/",
     "fecha": "18/07/2026 12:00",
     "contenido": "Hay cosas que no dejan de sorprender. Combinaciones que parecen imposibles y propuestas que de...\nThe post \"Under Bright Sadness\" Será Su Nuevo Álbum | Unteachers Y Una Extraña Propuesta first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Ejercitando la paciencia con Manic Miner en verano",
-    "link": "https://56k.es/fanta/ejercitando-la-paciencia-con-manic-miner-en-verano/",
-    "fecha": "18/07/2026 04:34",
-    "contenido": "1983, Madrid DC, Spain. Suena «En la gruta del rey de la montaña» de fondo en el juego que Boby ha cargado desde una cinta de cassette en un ZX Spectrum 128 +2. En la cinta pone escrito con rotulador: «Manic Miner». Pone Manic Miner pero en realidad la cinta contiene en la cara A..."
   },
   {
     "blog": "Luis Carlos Pando",
@@ -567,13 +567,6 @@
     "contenido": "Entre click y click nos irá descubriendo una historia tierna y divertida entre un ángel y una demonia\nLa entrada Análisis de Angel Clicker se publicó primero en CozyKis."
   },
   {
-    "blog": "56K",
-    "titulo": "Gafas de pervertidos – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/gafas-de-pervertidos-fuera-de-las-garras-de-la-ia/",
-    "fecha": "17/07/2026 08:05",
-    "contenido": "Buenos días insectos. El otro día añadí a marcadores el artículo de futurism.com que tenía de titular «The Backlash Is So Strong That People With “Pervert Glasses” Are Afraid to Use Them in Public». Eso en castellano significa «La reacción es tan fuerte que las personas que llevan “gafas de perverti"
-  },
-  {
     "blog": "Malagueños originales y libres",
     "titulo": "Solucionar error shebang en múltiples scripts bash linux",
     "link": "https://malagaoriginal.blogspot.com/2026/11/solucionar-error-shebang-en-script-bash.html",
@@ -586,13 +579,6 @@
     "link": "https://voidnull.es/find-my-device-instalacion-de-un-servidor-propio/",
     "fecha": "17/07/2026 07:11",
     "contenido": "FMD (Find My Device), una alternativa open source y descentralizada para localizar y controlar tu móvil Android de forma remota"
-  },
-  {
-    "blog": "56K",
-    "titulo": "El fin de la web con visitantes humanos",
-    "link": "https://56k.es/fanta/el-fin-de-la-web-con-visitantes-humanos/",
-    "fecha": "17/07/2026 04:37",
-    "contenido": "Posiblemente el «escribiendo para los crawlers IA» sea el nuevo «trabajando para el algoritmo» solamente que algo ha cambiado y quizás es que ya no obtienes visitas a cambio. Las visitas en las webs han caído a limites históricos y para mucha gente ha empezado a no tener sentido seguir compartiendo "
   },
   {
     "blog": "danielaragay.net",
@@ -679,25 +665,11 @@
     "contenido": "Me gusta la simplicidad de los blogs de la plataforma Pika. Aprovechando la versatilidad de WordPress quise imitar el diseño de este en mi blog. Este a sido el resultado: Antes se veía así: Ahora se ve así: Lo que hice es ordenar un poco los elementos, darle otro estilo y agregar la caja de [&#8230;"
   },
   {
-    "blog": "56K",
-    "titulo": "Aventuras gráficas no tan típicas – Vol 6",
-    "link": "https://56k.es/fanta/aventuras-graficas-no-tan-tipicas-vol-6/",
-    "fecha": "16/07/2026 05:50",
-    "contenido": "Hola, esto es un nuevo post de la serie «Aventuras gráficas no tan típicas». Por resumir diré que la serie de posts va de juegos que no son Monkey Island básicamente. Los anteriores posts andan aquí: 🛠️ Aventuras gráficas no tan típicas – Vol 5 🛠️ Aventuras gráficas no tan típicas – Vol 4 🛠️..."
-  },
-  {
     "blog": "labaudric",
     "titulo": "audric subió 2249 videos en Destiny, Phantasy Star Online, Balisong, Diablo, Split Second, Forza, Titanfall 2, Tomb Raider, Call Of Duty, Musica, The Division, Hazard Ops, Gears Of War, Halo, Watch Dogs, DC Universe Online, TERA, Anthem, Guild Wars 2, Ridge Racer, Nazi Zombie Army, SEGA All Star Racing, The Crew, Darkness 2, Blade &amp; Soul, Ghost in the Shell Global Assault, Driveclub, Killer Instinct, Killzone, Need For Speed, RWBY, Resident Evil, VLOG, Burnout, Dead Space, Left4Dead, SEGA Rally, Trials Fusion, Vindictus, Warhammer, Farenheit, Sleeping Dogs, Torchlight, Warframe, Deux Ex, Global Agenda, Goldeneye, Haunted Hells Reach, Sonic, The Last Of Us, Uncharted, Detroit Become Human (PC), Gotham City Impostors, Looney Tunes Space Race, Motorstorm Apocalypse, Neverwinter, Overwatch, Painkiller, SkyForge, World Of Warcraft, Black Desert Online, Counter Strike, FEAR, GTA, Heavenly Sword, Kingdom Under Fire 2, Mass Effect, Quantum Break, Speed Devils, Unreal Tournament, grid legends, Mafia, Payday",
     "link": "https://labaudric.net/videos/destiny",
     "fecha": "16/07/2026 05:21",
     "contenido": "      +2243 más"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Viviendo con pájaros en casa – Living a Celebration",
-    "link": "https://56k.es/fanta/viviendo-con-pajaros-en-casa-living-a-celebration/",
-    "fecha": "16/07/2026 04:07",
-    "contenido": "Estoy «living a celebration» porque un año más las golondrinas han anidado en casa. 4 nuevas golondrinas han nacido y tengo fotos que compartiré con usted en este post si tiene algo de paciencia. La cosa es que llevo un mes sin encender la luz para no afectar a unas gaviotas golondrinas que entraron"
   },
   {
     "blog": "Mareos de un geek",
@@ -810,13 +782,6 @@
     "link": "https://voidnull.es/mejores-alternativas-self-hosted-a-google-analytics/",
     "fecha": "15/07/2026 07:10",
     "contenido": "Alternativas self-hosted a Google Analytics para analizar visitas con más privacidad y control sobre tus datos."
-  },
-  {
-    "blog": "56K",
-    "titulo": "Navegando por el fingerverso en 2026",
-    "link": "https://56k.es/fanta/navegando-por-el-fingerverso-en-2026/",
-    "fecha": "15/07/2026 04:55",
-    "contenido": "Existe una app para Android llamada «FingerList» que permite navegar por el fingerverso en 2026 desde el smartphone. Otra forma es simplemente instalando finger e ir navegando por los diferentes servidores que tengan finger habilitado y contenido. Y si amigo/a existen en la actualidad servidores en "
   },
   {
     "blog": "JavierSam",
@@ -985,20 +950,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/07/13/jamas-me-senti-un-bicho-raro/",
     "fecha": "13/07/2026 10:35",
     "contenido": "Hay tipos con los que podes estar hablando horas y horas, y que te dejan...\nThe post Entrevista Con Juan Granado | “Jamás Me Sentí Un Bicho Raro” first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "La musica creada con IA como forma de evitar pagar impuestos",
-    "link": "https://matizeta.com/2026/07/13/la-musica-creada-con-ia-como-forma-de-evitar-pagar-impuestos/",
-    "fecha": "13/07/2026 08:11",
-    "contenido": "Soy algo lúdita al rechazar el uso de lA a la hora de hacer arte. Considero que escuchar música o leer un libro que fue escrito enteramente, parcialmente o ayudado por alguna herramientas artificial no vale la pena mi tiempo. ¿La razón? Pues porque no es 100% obra del autor. Aún así creo que&#160; a"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Garage S3: Instalación y configuración en tu NAS (Alternativa ligera a S3)",
-    "link": "https://voidnull.es/garage-s3-instalacion-y-configuracion-en-tu-nas-alternativa-ligera-a-s3/",
-    "fecha": "13/07/2026 07:11",
-    "contenido": "Aprende a instalar y configurar Garage en tu NAS para disponer de un almacenamiento de objetos compatible con S3."
   },
   {
     "blog": "alt43",
@@ -1337,13 +1288,6 @@
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Mis estadísticas de running en la web",
-    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
-    "fecha": "06/07/2026 00:00",
-    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "¿Por qué un blog y no un canal de YouTube?",
     "link": "https://tecnoysoft.com/2026/07/05/por-que-un-blog-y-no-un-canal-de-youtube/",
@@ -1433,13 +1377,6 @@
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-dieciseisavos-de-final.html",
     "fecha": "04/07/2026 03:50",
     "contenido": "Ayer se completaron los dieciseisavos de final (la primera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 5 selecciones sudamericanas enfrentaron a 2 rivales de África, 1 de Europa, 1 de la CONCACAF y 1 de Asia. Brasil 2 &#82"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Los Perseguidos, ficción sonora fantástica",
-    "link": "https://chancli.dev/blog/los-perseguidos-audio-ficcion.html",
-    "fecha": "04/07/2026 00:00",
-    "contenido": "Soy un gran aficionado a los podcasts, sobre todo sigo podcasts de tecnología y algunos de misterio.\nPero hoy no vengo a recomendaros un podcast normal, es una ficción sonora de una calidad de producción increíble.\nSe trata de Los Perseguidos, basado en la novela de Fernando Benzo.\nSe ve que Onda Ce"
   },
   {
     "blog": "Un blog",
@@ -1608,13 +1545,6 @@
     "link": "http://www.esuntipazo.com/post/ingenuidad-informada",
     "fecha": "02/07/2026 04:56",
     "contenido": "La desconfianza de los seres humanos hacia la realidad no es semilla de este periodo agrícola. De Calderón de la barca a Baudrillard, nos hemos preguntado si..."
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Slow Gods - Claire North",
-    "link": "https://nachof.blog/posts/2026/slow-gods/",
-    "fecha": "01/07/2026 23:14",
-    "contenido": "\n\n\nUff, este libro se me hizo eterno. La peor parte es que tiene sentido, por la forma en la que está escrito, y es intencional.\nEl libro es sobre Maw, un trabajador de una cultura interplanetaria que es esencialmente la extrapolación de nuestra distopía actual. Un día, mientras Maw pilota una nave "
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
@@ -1813,13 +1743,6 @@
     "contenido": ""
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Unir dos imagenes en mac o linux",
-    "link": "https://chancli.dev/blog/unir-dos-imagenes-mac-linux.html",
-    "fecha": "29/06/2026 00:00",
-    "contenido": "Hoy estaba en el Mac y tenía dos imágenes que quería unir.\nEstaba buscando la mejor forma de hacerlo y no encontré nada que no fueran apaños.\nFinalmente di con la solución, usando el clásico Imagemagick\nNo lo tenía instalado en Mac, así que usando Homebrew:\nbrew install imagemagick\n\nCon Imagemagick "
-  },
-  {
     "blog": "impermanente",
     "titulo": "Fuera de la caja... hay otra caja",
     "link": "https://impermanente.es/2026/06/28/fuera-de-la-caja-hay.html",
@@ -1876,13 +1799,6 @@
     "contenido": "Me he fijado en que este año no he escrito una crónica sobre mi visita a la Feria del Libro de Madrid. Lo cierto es que ha sido una feria atípica para mí, porque en el fin de semana que me habría venido mejor ir hemos tenido la visita del Papa, y decidimos como familia evitar visitar el centro. Y en"
   },
   {
-    "blog": "Un blog",
-    "titulo": "¿Se puede ganar un mundial sin hacer goles?",
-    "link": "https://nachof.blog/posts/2026/se-puede-ganar-un-mundial-sin-hacer-goles/",
-    "fecha": "26/06/2026 17:05",
-    "contenido": "\n Si hubiese escrito esto hace una semana, acá pondría que el de la foto es el golero de Cabo Verde\n \n\n\nBueno, de alguna manera tenés que ganar partidos para avanzar, y ganar en la final. Pero asumiendo que contamos la definición por penales como algo separado, ¿sería posible ganar un mundial sin ha"
-  },
-  {
     "blog": "Interlan",
     "titulo": "Articulo: Ellos tienen tanto miedo de morir como tu",
     "link": "https://interlan.ec/blog/2026/06/26/articulo-ellos-tienen-tanto-miedo-de-morir-como-tu/",
@@ -1916,13 +1832,6 @@
     "link": "https://proxy.dystopic.world/art/music.gmi",
     "fecha": "26/06/2026 00:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Limpiando el VScode de IA y demás basura",
-    "link": "https://chancli.dev/blog/quitando-ia-de-vscode.html",
-    "fecha": "26/06/2026 00:00",
-    "contenido": "VScode siempre ha sido mi editor de código favorito pero desde que empezó a tener tantos usuarios y con el auge de la IA se ha vuelto en una especie cajón de sastre donde todo vale.\nChats de IA por todos lados, autocompletados, extensiones, extensiones, extensiones... si echamos un vistazo a las set"
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -2105,26 +2014,5 @@
     "link": "https://www.macram.es/series/historias-corrientes/",
     "fecha": "23/06/2026 07:03",
     "contenido": "Historias Corrientes es una de las series que llevaba teniendo pendiente desde, bueno, desde su época. Entre 2010 y 2017, es una de las series de la última &ldquo;era de oro&rdquo; de Cartoon Network, y de todas ellas quizá sea la más adulta.\nEntre sus temporadas 7 y 8 da un giro bastante fuerte: de"
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "«Por 500 euros yo...",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/por-500-euros-yo/",
-    "fecha": "23/06/2026 00:00",
-    "contenido": "... ni me levanto de la cama». \nEso fue lo que soltó un alumno en voz alta y en tono de cachondeo mientras les explicaba cómo iba la movida de los permios extraordinarios de bachillerato. Levanté la ceja derecha hasta el cielo al mismo tiempo que el alma se me caía a los pies. Pero claro, suerte par"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Tips de privacidad",
-    "link": "https://thejnx.bearblog.dev/tips-privacidad/",
-    "fecha": "22/06/2026 22:32",
-    "contenido": "⤶ English\n\nSiempre que puedas utiliza sistemas operativos con nivel bajo o nulo de bloatware, apps basura que agregan las marcas que solo sirven para rastrear y consumir recursos en el equipo, para PC existe Linux (depende de la distro, recomiendo investigar antes de instalar) y para Android recomie"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 259 imágenes en Uncharted, Tomb Raider",
-    "link": "https://labaudric.net/gallery/uncharted",
-    "fecha": "22/06/2026 19:18",
-    "contenido": "      +253 más"
   }
 ]
