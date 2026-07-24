@@ -1,10 +1,73 @@
 [
   {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #951",
+    "link": "https://www.fabio.com.ar/9994-links-de-viernes---951",
+    "fecha": "24/07/2026 12:00",
+    "contenido": "     Robemos unos links\nEs viernes, semana de purificaci&oacute;n para muchos, de reorganizaci&oacute;n mental, estabilizaci&oacute;n nerviosa y, por ende, links! nada mejor que unos enlaces para completar la tarea espiritual! Y si te parecen pocos sumate a LinksDV para compartir m&aacute;s y m&aacu"
+  },
+  {
+    "blog": "56K",
+    "titulo": "The Legend of Zelda en una calculadora",
+    "link": "https://56k.es/fanta/the-legend-of-zelda-en-una-calculadora/",
+    "fecha": "24/07/2026 09:38",
+    "contenido": "Hola bro ! Me he encontrado con algo que quería compartir por estos lares abandonados de la mano de dios. Se trata ni más ni menos que el código fuente de «The Legend of Zelda: Link&#8217;s Awakening» para funcionar sobre una calculadora. Concretamente sobre la calculadora TI-89 (Texas Instruments) "
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Por fín saqué mi sitio personal de GitHub",
+    "link": "https://picandocodigo.net/2026/por-fin-saque-mi-sitio-personal-de-github/",
+    "fecha": "24/07/2026 09:37",
+    "contenido": "Finalmente saqué mi web personal, fernandobriano.com, de GitHub. Lo migré a mi servidor personal, y volví a generarlo en local y subir los archivos estáticos html, css y js a un servidor por FTP.\nEl post Por fín saqué mi sitio personal de GitHub fue publicado originalmente en Picando Código."
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Webs que descubrí #6",
+    "link": "https://matizeta.com/2026/07/24/webs-que-descubri-6/",
+    "fecha": "24/07/2026 08:11",
+    "contenido": "Una nueva entrega con 10 webs que descubrí y quiero compartir. Negativo&#160;/&#160;Lab Subes el negativo de una fotografía y la procesa. Tiene varios parámetros de ajuste. Taken Te sorprenderá saber todo lo que sabe y comparte de tí, tu navegador mientras navegas por Internet. Tiny World Builder Es"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "¿Qué es la virtualización? [Proxmox #1]",
+    "link": "https://voidnull.es/que-es-la-virtualizacion-proxmox-1/",
+    "fecha": "24/07/2026 07:15",
+    "contenido": "Proxmox VE, es una plataforma de virtualización de software libre basada en Debian que permite gestionar diferentes tipos de virtualización desde un mismo entorno."
+  },
+  {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Tracear imágenes a SVG monocromáticos para moodle, otras web u otros proyectos con Inkscape",
+    "link": "https://malagaoriginal.blogspot.com/2027/09/tracear-imagenes-svg-monocromaticos.html",
+    "fecha": "24/07/2026 06:55",
+    "contenido": "En moodle 5 para los iconos de los módulos de actividad se utiliza un fichero monologo.svg cuya imagen, con un tamaño y formato concreto, se colorea en función del propósito del módulo. El propósito del módulo debe estar definido en una función&nbsp;&lt;modulo&gt;_supports()&nbsp;en el fichero lib.p"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Cámaras instantáneas – Fuera de las garras de la IA",
+    "link": "https://56k.es/fanta/camaras-instantaneas-fuera-de-las-garras-de-la-ia/",
+    "fecha": "24/07/2026 04:13",
+    "contenido": "Encontré estas cámaras el otro día y parece que funcionan. Son cámaras instantáneas que pertenecieron a mi padre y tienen que tener medio siglo más o menos fácilmente. Las fotografías instantáneas no se inventaron ayer amigo/a/e. Pregunté en el fediverso el otro día y me recomendaron en base a los m"
+  },
+  {
+    "blog": "χσℓ.αя",
+    "titulo": "desvarío proyectual con sueño",
+    "link": "https://xol.ar/desviario-proyectual-con-sueño/",
+    "fecha": "24/07/2026 02:20",
+    "contenido": "TL;DR · me senté a escuchar música y a escribir pensamientos mientras lucho contra el sueño."
+  },
+  {
     "blog": "Un Diario",
     "titulo": "Actualizando entrada",
     "link": "https://thejnx.bearblog.dev/actualizando-entrada/",
     "fecha": "24/07/2026 00:11",
     "contenido": "Esta es una pequeña actualización de que estaré haciendo una nueva version de la entrada/guía que hice sobre instalar apps en TV's Samsung con Tizen, ya que recién salio un nuevo método para instalarlas con el teléfono, lo cual obviamente lo considero mas cómodo ya que no cuento (y no se hasta cuand"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "El colombófilo de Flores y la cifra infinita (https://tiendaebook.com.ar/producto/el-colombofilo-de-flores-y-la-cifra-infinita/  )",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/el-colombofilo-de-flores-y-la-cifra-infinita-httpstiendaebookcomarproductoel-colombofilo-de-flores-y-la-cifra-infinita/",
+    "fecha": "24/07/2026 00:00",
+    "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
     "blog": "Victorhck in the free world",
@@ -124,13 +187,6 @@
     "link": "https://voidnull.es/instalacion-de-psono-en-ubuntu-26-04/",
     "fecha": "22/07/2026 07:11",
     "contenido": "Instala Psono en Ubuntu 26.04 con Docker y crea tu gestor de contraseñas propio y seguro"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Me compré un Echo Dot 5 de Amazon y ahora lo tengo de pisapapeles",
-    "link": "https://gatooscuro.xyz/me-compre-un-echo-dot-5-de-amazon-y-ahora-lo-tengo-de-pisapapeles/",
-    "fecha": "22/07/2026 05:39",
-    "contenido": "Ya lo sé, varias personas me lo dijeron. Me acuerdo de Itan, de Joselito y de algún otro referente a no comprar nada proveniente de Amazon, y lo hice; pues\nSeguir leyendo  Me compré un Echo Dot 5 de Amazon y ahora lo tengo de pisapapeles\nEl cargo Me compré un Echo Dot 5 de Amazon y ahora lo tengo de"
   },
   {
     "blog": "56K",
@@ -259,13 +315,6 @@
     "contenido": "La semana pasada se publicó Denshattack!, un juego muy innovador y divertido, candidato a mejor juego del año. Con motivo de su publicación, después de jugar y reseñar Denshattack! entrevisté a Àngel Beltran de Undercoders.\nEl post Entrevista a Àngel Beltran - Productor y Gameplay Programmer de Dens"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Sid Meier’s Memoir!",
-    "link": "https://mareosdeungeek.es/sid-meiers-memoir/",
-    "fecha": "21/07/2026 08:00",
-    "contenido": "Sid Meier&#8217;s Memoir! A life in Computer Games By the Creator of Civilization! con ese título se presenta el libro autobiográfico de Sid Meier, uno de los creadores de videojuegos más reconocidos. Sid Meier&#8217;s Civilization es una de las sagas de videojuegos de estrategia más populares del m"
-  },
-  {
     "blog": "yejokjanan",
     "titulo": "Celular nuevo",
     "link": "https://yejokjanan.xyz/blog/2026-07-21.html",
@@ -278,6 +327,13 @@
     "link": "https://56k.es/fanta/suenan-campanas-fuera-de-las-garras-de-la-ia/",
     "fecha": "21/07/2026 04:55",
     "contenido": "En Europa una de las primeras redes de comunicación en la edad media fueron los campanarios (pero no solamente en la edad media claro). Si querías que la gente trabajase al mismo tiempo, es decir, teniendo unos horarios tenías que avisarles de alguna forma. Aunque en algunas películas ambientadas en"
+  },
+  {
+    "blog": "gorkula.com",
+    "titulo": "El formato físico, las minorías y las verdades a medias (II)",
+    "link": "https://www.gorkula.com/formato-fisico-minorias-verdades-a-medias-ii",
+    "fecha": "20/07/2026 20:12",
+    "contenido": "Antes de empezar con la segunda parte de este post que no debería haber escrito (porque me está dando una pereza tremenda escribir la segunda parte), aprovecho para dejar una foto que tomé el otro día en Rolling Stone Records.\n\n\n\nEn el post anterior hablábamos sobre nuevos lanzamientos y discos en f"
   },
   {
     "blog": "matizeta",
@@ -315,13 +371,6 @@
     "contenido": "No estoy muy seguro sobre en qué habrá terminado esto pero me parece interesante por varios motivos: Ubuntu disables Intel GPU security mitigations, promises 20% performance boost. Por un lado, está claro que añadir controles de seguridad hace que el código sea más lento (en este caso parece que muc"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "El mejor reloj que puedes conseguir – Huawei Watch GT 6",
-    "link": "https://gatooscuro.xyz/el-mejor-reloj-que-puedes-conseguir-huawei-watch-gt-6/",
-    "fecha": "20/07/2026 12:45",
-    "contenido": "NOTA: Nadie pago por este artículo, solo quiero dar una buena recomendación de tecnología. Bueno, nuevamente nos leemos en esta sesión de tecnología, en donde suelo recomendar algún gadget o\nSeguir leyendo  El mejor reloj que puedes conseguir &#8211; Huawei Watch GT 6\nEl cargo El mejor reloj que pue"
-  },
-  {
     "blog": "La línea doméstica",
     "titulo": "El Interior",
     "link": "https://jmlro.codeberg.page/posts/2026/07-20-el-interior.html",
@@ -341,13 +390,6 @@
     "link": "https://matizeta.com/2026/07/20/volver-a-la-presencialidad/",
     "fecha": "20/07/2026 08:11",
     "contenido": "En poco tiempo mi vida laboral va a dar un giro: lamentablemente volveré a la presencialidad. Debo decir que fue lindo mientras duró. Vivi en otro país, visité por tiempos prolongados otros, y tuve tiempo para mis proyectos.&#160; Es de calentar sillas a mi no me gusta. Al fin y al cabo, al menos en"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "A secret illustration project",
-    "link": "https://www.ericafustero.com/2026-07-a-secret-illustration-project",
-    "fecha": "20/07/2026 08:08",
-    "contenido": "En mayo de 2025 recibí un mensaje de Harry proponiéndome participar en \"un proyecto de ilustración secreto\". Harry es uno de los fundadores de Village One, un estudio cooperativo especializado en diseño y tecnología ética. Llevaba tiempo siguiendo su trabajo y me apetecía colaborar con el estudio en"
   },
   {
     "blog": "_ voidNull",
@@ -376,13 +418,6 @@
     "link": "https://polotman.wordpress.com/2026/07/19/el-19-de-julio-un-gran-dia-en-la-historia/",
     "fecha": "19/07/2026 23:53",
     "contenido": "En mi opinión no sería descabellado decir que el 19 de Julio a sido testigo de no pocos momentos de la humanidad que han contribuido al desarrollo de esta , y no me refiero únicamente al mundial de fútbol que casualmente coincide su último juego con esta fecha . El 19 de julio es, sin [&#8230;]"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Intentaron borrarme",
-    "link": "https://gatooscuro.xyz/intentaron-borrarme/",
-    "fecha": "19/07/2026 21:34",
-    "contenido": "Siento como si cada noche intentaran borrar mi mente y así perder toda la información que conozco. Es como si conociera algo que ellos no quisieran que escribiera. Las sensaciones\nSeguir leyendo  Intentaron borrarme\nEl cargo Intentaron borrarme apareció primero en El cuarto de GatoOscuro."
   },
   {
     "blog": "danielaragay.net",
@@ -630,32 +665,11 @@
     "contenido": "Me gusta la simplicidad de los blogs de la plataforma Pika. Aprovechando la versatilidad de WordPress quise imitar el diseño de este en mi blog. Este a sido el resultado: Antes se veía así: Ahora se ve así: Lo que hice es ordenar un poco los elementos, darle otro estilo y agregar la caja de [&#8230;"
   },
   {
-    "blog": "56K",
-    "titulo": "Aventuras gráficas no tan típicas – Vol 6",
-    "link": "https://56k.es/fanta/aventuras-graficas-no-tan-tipicas-vol-6/",
-    "fecha": "16/07/2026 05:50",
-    "contenido": "Hola, esto es un nuevo post de la serie «Aventuras gráficas no tan típicas». Por resumir diré que la serie de posts va de juegos que no son Monkey Island básicamente. Los anteriores posts andan aquí: 🛠️ Aventuras gráficas no tan típicas – Vol 5 🛠️ Aventuras gráficas no tan típicas – Vol 4 🛠️..."
-  },
-  {
     "blog": "labaudric",
     "titulo": "audric subió 2249 videos en Destiny, Phantasy Star Online, Balisong, Diablo, Split Second, Forza, Titanfall 2, Tomb Raider, Call Of Duty, Musica, The Division, Hazard Ops, Gears Of War, Halo, Watch Dogs, DC Universe Online, TERA, Anthem, Guild Wars 2, Ridge Racer, Nazi Zombie Army, SEGA All Star Racing, The Crew, Darkness 2, Blade &amp; Soul, Ghost in the Shell Global Assault, Driveclub, Killer Instinct, Killzone, Need For Speed, RWBY, Resident Evil, VLOG, Burnout, Dead Space, Left4Dead, SEGA Rally, Trials Fusion, Vindictus, Warhammer, Farenheit, Sleeping Dogs, Torchlight, Warframe, Deux Ex, Global Agenda, Goldeneye, Haunted Hells Reach, Sonic, The Last Of Us, Uncharted, Detroit Become Human (PC), Gotham City Impostors, Looney Tunes Space Race, Motorstorm Apocalypse, Neverwinter, Overwatch, Painkiller, SkyForge, World Of Warcraft, Black Desert Online, Counter Strike, FEAR, GTA, Heavenly Sword, Kingdom Under Fire 2, Mass Effect, Quantum Break, Speed Devils, Unreal Tournament, grid legends, Mafia, Payday",
     "link": "https://labaudric.net/videos/destiny",
     "fecha": "16/07/2026 05:21",
     "contenido": "      +2243 más"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Viviendo con pájaros en casa – Living a Celebration",
-    "link": "https://56k.es/fanta/viviendo-con-pajaros-en-casa-living-a-celebration/",
-    "fecha": "16/07/2026 04:07",
-    "contenido": "Estoy «living a celebration» porque un año más las golondrinas han anidado en casa. 4 nuevas golondrinas han nacido y tengo fotos que compartiré con usted en este post si tiene algo de paciencia. La cosa es que llevo un mes sin encender la luz para no afectar a unas gaviotas golondrinas que entraron"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "20 años del Love Parade",
-    "link": "https://mareosdeungeek.es/20-anos-del-love-parade/",
-    "fecha": "15/07/2026 21:07",
-    "contenido": "El 15 de julio de 2006 estaba en Berlín con mi amigo David dispuesto a disfrutar de una de las mayores fiestas que se celebraban en esos momentos, el Love Parade. Era el primer viaje fuera de España que hacía porque durante mis años de instituto no fui al viaje fin de curso de BUP. [&#8230;]"
   },
   {
     "blog": "labaudric",
@@ -686,13 +700,6 @@
     "contenido": "Denshattack! es un juego que combina manejar un tren con Tony Hawk's Pro Skater y aspectos de juegos de plataforma 3D. El estilo gráfico está inspirado por animé y juegos de la época del Sega Dreamcast. Puede sonar complejo, pero quédense conmigo que esto vale la pena. El juego es impresionante, es "
   },
   {
-    "blog": "matizeta",
-    "titulo": "¿Usas reloj?",
-    "link": "https://matizeta.com/2026/07/15/usas-reloj/",
-    "fecha": "15/07/2026 14:34",
-    "contenido": "Me gustan los relojes de toda la vida. Muchos dejaron de usarlo pero aparecieron los smartwatch y se volvió a ver relojes en las muñecas. Sin embargo, algunos cansado de las notificaciones volvieron al reloj tradicional. ¿Vos cual usas? Si es que usas.."
-  },
-  {
     "blog": "La bitácora de Locutus",
     "titulo": "Todas las conclusiones",
     "link": "http://locutusbit.blogspot.com/2026/07/todas-las-conclusiones.html",
@@ -705,13 +712,6 @@
     "link": "https://www.fabio.com.ar/9987-esa-cosa-que-tienen-los-de-rrhh-con-el-wallpaper-corpo",
     "fecha": "15/07/2026 12:00",
     "contenido": "    \nNo tengo PC de la empresa en este momento, pero la tuve y tambi&eacute;n sobreviv&iacute; al ambente \"Corpo\" y de todas las estupideces que hace una gran empresa a sus empleados una de las m&aacute;s curiosas es cuando los de RRHH se meten en la computadora.\nLos de RRHH son espec&iacute;menes m"
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "Crónica del Santander Music 2026",
-    "link": "https://galeriaspreciados.band/cronica-del-santander-music-2026/",
-    "fecha": "15/07/2026 08:24",
-    "contenido": "Hoy tengo el día juguetón y me apetece escribir una crónica del Santander Music 2026... y me dirás \"pero... si el Santander Music todavía no ha sido\" y bueno, ¡pues ahí está la gracia colegui! A ver que pasa"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -770,13 +770,6 @@
     "contenido": "    \nHay una forma de eludir impuestos y vivir como rico y pobre al mismo tiempo, esto obviamente depende de cada pa&iacute;s, pero en donde m&aacute;s ricos hay, las reglas est&aacute;n bien establecidas.\nNo tengo nada en contra de la gente que gana mucho dinero, el problema nunca es ese, el proble"
   },
   {
-    "blog": "Erica Fustero",
-    "titulo": "Keine fotos",
-    "link": "https://www.ericafustero.com/2026-07-keine-fotos",
-    "fecha": "14/07/2026 09:11",
-    "contenido": "Dibujé estas páginas el verano pasado, tras una semana en Berlín durante la cual tuve demasiados enfrentamientos relacionados con la fotografía. La gente suele decir que «la actitud es muy importante», pero, en mi experiencia, ni la sonrisa más amplia puede impedir que algunas personas intenten deci"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "Volver a pedalear",
     "link": "https://blog.luiscarlospando.com/personal/2026/07/volver-a-pedalear/",
@@ -812,13 +805,6 @@
     "contenido": "Si vengo atrasada pero mas vale tarde que nunca, y la obrera aquí es solo una humana con una maquina. Ji ji ji. Aquí el material del taller numero III de fanzine. Primero partiré por dejarte mi canal de Twich si aun no sabes donde poder verme en directo con seguridad (por mientras estoy intentando ."
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Cómo instalar Java con APT en Ubuntu 26.04",
-    "link": "https://voidnull.es/como-instalar-java-con-apt-en-ubuntu-26-04/",
-    "fecha": "13/07/2026 15:30",
-    "contenido": "En este tutorial, instalaremos varias versiones de Java Runtime Environment (JRE) y Java Developer Kit (JDK) usando APT."
-  },
-  {
     "blog": "Lloyka",
     "titulo": "Taller de Fanzine II",
     "link": "https://laloica.noblogs.org/taller-de-fanzine-ii/",
@@ -831,13 +817,6 @@
     "link": "https://regioncuatro.blog/shhh/",
     "fecha": "13/07/2026 15:00",
     "contenido": "Hace unas dos semanas me topé con The Last Quiet Thing, de Terry Godier, y me hizo ver mis dispositivos de una forma distinta.\nSiempre estoy hablando de mi constante búsqueda de calma, pero aun así, nunca había visto el asunto de los dispositivos desde ese ángulo: aparatos que nos hacen trabajar.\n\nE"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Duelo de compactas",
-    "link": "https://www.ericafustero.com/2026-07-duelo-de-compactas",
-    "fecha": "13/07/2026 14:57",
-    "contenido": "Un domingo de junio fui a pasar el día a Muel y Mozota con mis cámaras más compactas: la Ricoh GR IIIx, la Olympus XA2 + Ultramax 400 y la Pentax 17 + Portra 400. Habitualmente uso la Olympus con carretes en blanco y negro, pero me apetecía volver a probarla en color. También tenía [&#8230;]"
   },
   {
     "blog": "Lloyka",
@@ -889,25 +868,11 @@
     "contenido": "\nCon este post es como si estuviera volviendo a loa orígenes del blog, cuando lo alojaba en Bearblog y estaba temporalmente sin PC, escribía todos mis posts con un editor de texto llamado Markor, escribía en markdown, como siempre.\nSin embargo eran tiempos más simples, al final el blog no dependía t"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Pacific Warrior - Nuevo juego gratis, artillero antiaéreo",
-    "link": "https://www.fabio.com.ar/9983-pacific-warrior---nuevo-juego-gratis-artillero-antiaereo",
-    "fecha": "12/07/2026 18:57",
-    "contenido": "    \nEn unos pocos d&iacute;as me puse a programar un juego totalmente distinto, creo que merece su post aparte: Pacific Warrior, es un juego single o multi player cooperativo de la Segunda Guerra Mundial.\nSos el artillero de un destructor clase Fletcher y pod&eacute;s utilizar tres ca&ntilde;ones B"
-  },
-  {
     "blog": "labaudric",
     "titulo": "Crítica Adabana",
     "link": "https://labaudric.net/blog/adabana",
     "fecha": "12/07/2026 16:10",
     "contenido": "\n\nPues me he leído hace poco esta obra, de 3 tomos, de 245 páginas.\nAviso: esta reseña tiene spoilers\n\nBueno pues he de decir, que no es exactamente lo que me esperaba. En ese género, en esta línea, anteriormente he leído Smiley y Gannibal. Thrillers mangas. De hecho, no muy lejos de mis expectativa"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Coartadas (película)",
-    "link": "https://mareosdeungeek.es/coartadas-pelicula/",
-    "fecha": "12/07/2026 12:00",
-    "contenido": "Coartadas es una comedia romántica de risa fácil protagonizada por Jaime Lorente y Adriana Torrebejano. Es una adaptación de la película francesa Alibi.com. Esta película fue dirigida por Philippe Lacheau en el año 2016. La versión española ha sido dirigida por Martín Cuervo. Entre los actores secun"
   },
   {
     "blog": "JavierSam",
@@ -929,13 +894,6 @@
     "link": "https://tecnoysoft.com/2026/07/11/no-somos-un-bug/",
     "fecha": "11/07/2026 19:51",
     "contenido": "Ignoro si esto será un error, porque mi blog es de tecnología, no de filosofía. Aun así, detrás de cada línea de código, de cada artículo y de cada proyecto hay personas. Y las personas nos equivocamos. Lo que ocurre es que, cuando alguien comete un error, enseguida aparecen esos jueces que parecen "
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Holos Social | cuando el servidor vuelve a pertenecer al usuario",
-    "link": "https://gatooscuro.xyz/holos-social-cuando-el-servidor-vuelve-a-pertenecer-al-usuario/",
-    "fecha": "11/07/2026 07:56",
-    "contenido": "Durante años hemos escuchado que el Fediverso es descentralizado. La afirmación no es falsa, pero tampoco cuenta toda la historia. Si bien plataformas como Mastodon distribuyen la infraestructura entre miles\nSeguir leyendo  Holos Social &#124; cuando el servidor vuelve a pertenecer al usuario\nEl car"
   },
   {
     "blog": "Un blog",
@@ -1036,13 +994,6 @@
     "contenido": "La mejora manera de mejorar Thunderbird es escuchando a las personas que lo utilizan y desarrollar el cliente de correo intentando condensar todas las opiniones para mejorar este gran cliente de correo electrónico"
   },
   {
-    "blog": "Galerías Preciados",
-    "titulo": "Superestrella. El pop como clave social. Las bodas.",
-    "link": "https://galeriaspreciados.band/superestrella-el-pop-como-clave-social-las-bodas/",
-    "fecha": "08/07/2026 09:19",
-    "contenido": "Hace un tiempo mi colega la Ani me preguntó que si el pop como concepto era un diminutivo de \"popular\" que sentido tenía la idea de \"pop independiente\" y el otro día me he acordado de esto escuchando Superestrella de  Aitana"
-  },
-  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Metal Hellsinger: balas y ritmo",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/07/08/20260708-metal-hellsinger/",
@@ -1083,6 +1034,13 @@
     "link": "https://blog.taller404.org/posts/arcane/",
     "fecha": "08/07/2026 00:00",
     "contenido": "Llevo años con el mismo ritual. Se cae algo, o quiero actualizar un servicio,\no simplemente me pregunto &ldquo;¿qué tal andan mis máquinas?&rdquo;, y la respuesta siempre es\nla misma: abrir una terminal, SSH a la máquina, cd docker/loquesea,\ndocker compose up -d, docker logs -f, mirar, salir, y a la"
+  },
+  {
+    "blog": "gorkula.com",
+    "titulo": "El formato físico, las minorías y las verdades a medias",
+    "link": "https://www.gorkula.com/formato-fisico-minorias-verdades-a-medias",
+    "fecha": "07/07/2026 20:07",
+    "contenido": "Ahora que estoy tratando de implicarme un poco más en la blogosfera de habla hispana aprovecho para dar mi opinión sobre un melón abierto por Matizeta: ¿Por qué quieres ser dueño de algo?\n\nMatizeta se pregunta, ¿Cúando fue que ecuchaste el CD de tu artista favorito de principio a fin? Yo sigo escuch"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -1132,6 +1090,13 @@
     "link": "https://blog.elmundoesimperfecto.com/2026/07/06/en-seLIA/",
     "fecha": "06/07/2026 15:00",
     "contenido": "\n\nDesde la URJC se ha organizado la I Jornada sobre Software Libre e Inteligencia Artificial Abierta (seLIA), subtitulada ‘Una jornada para compartir conocimientos, experiencias, herramientas e ideas en torno a la intersección entre software libre e IA abierta’ y pensé que podría ser un buen foro pa"
+  },
+  {
+    "blog": "gorkula.com",
+    "titulo": "La brújula de la IA",
+    "link": "https://www.gorkula.com/brujula-ia",
+    "fecha": "06/07/2026 14:44",
+    "contenido": "Copio éste meme del blog de Manuel Moreale.\n\nUn cuestionario sin mucho rigor (imagino) que te “ayuda” a describir cómo te sientes con respecto a la IA tras responder a 15 preguntas.\n\nPuedes no responder a alguna si no quieres o no sabes. Yo no respondí a una relacionada con la medicina porque no sé "
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1195,13 +1160,6 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/07/retales-de-carnaval.html",
     "fecha": "05/07/2026 06:38",
     "contenido": "\n  \n    \n  \nCórdoba, a 5 de julio de 2026."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "DANOK: cuando el valor está en el avance y en las personas",
-    "link": "https://dani.torresburriel.com/danok-cuando-el-valor-esta-en-el-avance-y-en-las-personas/",
-    "fecha": "04/07/2026 22:23",
-    "contenido": "El viernes pasado estuve en Donosti en una de esas sesiones de trabajo que, he de reconocer, me dejan con más energía de la que llevo. No era una reunión cualquiera: era una de esas en las que, entre debates intensos y algún que otro «joder, ¿y esto cómo lo hacemos?«, se palpaba que algo &#8230; Sig"
   },
   {
     "blog": "THE_CHEI$",
@@ -1316,13 +1274,6 @@
     "contenido": "En git v2.54 se agregó el comando experimental git history, con la posibilidad de cambiar el mensaje de un commit y separar commits. En la versión 2.55 se agregó otro comando a git history, fixup. Esto es algo que vengo queriendo en git desde hace años. De hecho pregunté una vez en lo que solía ser "
   },
   {
-    "blog": "productor de sostenibilidad",
-    "titulo": "El mundial de fútbol más insostenible",
-    "link": "https://productordesostenibilidad.es/2026/07/el-mundial-de-futbol-mas-insostenible/",
-    "fecha": "03/07/2026 09:30",
-    "contenido": "El de fútbol de 2026 ha conseguido por méritos propios coronarse como el mundial más contaminante de la historia. Centrándonos en las emisiones de gases de efecto invernadero, el informe “FIFA’s Climate Blind Spot: The Men’s World Cup in a Warming World” estima que el campeonato celebrado en Norte A"
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Cactus (III)",
     "link": "https://www.xn--jmuoz-qta.es/2026/07/cactus-iii.html",
@@ -1419,13 +1370,6 @@
     "link": "https://docig.bearblog.dev/el-colombofilo-de-flores-y-la-cifra-infinita-a-la-venta-por-necesidad-difundir/",
     "fecha": "01/07/2026 19:57",
     "contenido": "A veces, la mejor manera de apoyar a un escritor es tan sencilla como leer una de sus historias.\nEl colombófilo de Flores y la cifra infinita es una novela para quienes disfrutan de los misterios, las coincidencias que parecen destino y las preguntas que siguen resonando mucho después de la última p"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "En dos meses John Ternus será el nuevo CEO de Apple",
-    "link": "https://mareosdeungeek.es/en-dos-meses-john-ternus-sera-el-nuevo-ceo-de-apple/",
-    "fecha": "01/07/2026 18:40",
-    "contenido": "El próximo 1 de septiembre John Ternus asumirá el cargo de CEO en Apple. La compañía de Cupertino es una de las más rentables del mundo, pero tiene un futuro repleto de retos. El anuncio de este cambio se hizo en abril, cuando la compañía de la manzana celebraba sus 50 años. Con el ascenso [&#8230;]"
   },
   {
     "blog": "Región Cuatro",
@@ -1526,13 +1470,6 @@
     "contenido": "Ayer descubrí un detalle muy agradable en mi PC secundario. Sabéis que tengo un miniPC con una distribución de Linux, que en este momento es Manjaro, rama unstable, ejecutando Plasma 6.7.1 como entorno de escritorio. Pues me fijé que el color de retroiluminación del teclado que tengo en este ordenad"
   },
   {
-    "blog": "pedrolr blog",
-    "titulo": "Cómo gestiono los metadatos con LibreOffice y los PDFs",
-    "link": "https://pedrolr.es/blog/como-gestiono-los-metadatos-con-libreoffice-y-los-pdfs/",
-    "fecha": "30/06/2026 07:31",
-    "contenido": "Hoy en un consejo de Facultad levanté la mano para decir que los metadatos de los horarios del curso 2026-2027 figuraban con el título en los metadatos: \"Grado en Información y Documentación - Primero - Curso 2021 – 2022 - Horario de Clases\". En un Grado en Información y Documentación me parece esen"
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "No todo es suscripción",
     "link": "https://www.xn--jmuoz-qta.es/2026/06/no-todo-es-suscripcion.html",
@@ -1582,13 +1519,6 @@
     "contenido": "Último día en este centro y, como casi toda la semana anterior, con poco o nada que hacer. Más horas de trayecto conduciendo que realmente con algo productivo que hacer. Menos mal que ya se termina."
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Dame soluciones, no problemas",
-    "link": "https://gatooscuro.xyz/dame-soluciones-no-problemas/",
-    "fecha": "29/06/2026 06:44",
-    "contenido": "Nota: No tengo la respuesta a todo; por ende, me puse creativo con este artículo basado en mi experiencia. Todo lo que lees acá fue hecho de forma local (sin\nSeguir leyendo  Dame soluciones, no problemas\nEl cargo Dame soluciones, no problemas apareció primero en El cuarto de GatoOscuro."
-  },
-  {
     "blog": "El blog de Lázaro",
     "titulo": "Plantillas y metadatos en Trilium",
     "link": "https://elblogdelazaro.org/trilium-plantillas-metadatos-notas-reutilizables/",
@@ -1615,13 +1545,6 @@
     "link": "https://www.macram.es/posts/2026/06/semana-26-2026/",
     "fecha": "28/06/2026 17:06",
     "contenido": "Está siendo un domingo bastante relajado para dar fin a una semana que, en general, ha sido también bastante relajada. Estoy teniendo la posibilidad de cerrar algunos de los frentes que tenía abiertos y esto me está haciendo bastante bien a nivel mental.\nTengo de fondo el primer episodio de una seri"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "¿Es posible actualmente tener un blog anónimo? Si",
-    "link": "https://gatooscuro.xyz/es-posible-actualmente-tener-un-blog-anonimo-si/",
-    "fecha": "28/06/2026 09:11",
-    "contenido": "En este espacio siempre se ha escrito de forma existencialista respecto al futuro de Internet. Quizás algunos puedan pensar que roza un poco el fatalismo o, por el contrario, otros\nSeguir leyendo  ¿Es posible actualmente tener un blog anónimo? Si\nEl cargo ¿Es posible actualmente tener un blog anónim"
   },
   {
     "blog": "JavierSam",
@@ -1715,20 +1638,6 @@
     "contenido": "&nbsp; &nbsp; Se dice que la Noche de San Juan es un escenario propicio para cerrar ciclos, desprenderse de las energías negativas y afrontar nuevos comienzos. Sin embargo, el loco no es santo ni se llama Juan. Incluso sus amigos más cercanos desconocen su nombre; solo saben que es un pecador, un al"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Verano 2026",
-    "link": "https://mareosdeungeek.es/verano-2026/",
-    "fecha": "25/06/2026 21:00",
-    "contenido": "El pasado domingo empezó el verano boreal, disfrutando del día más largo del año. La verdad es que estuve descansando porque ha sido un mes de junio bastante intenso. Lamentablemente, al empezar a trabajar he tenido que aparcar parte de los proyectos que tenía en marcha. Además he tenido varios even"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Ética en los negocios, vista desde la dirección de una agencia pequeña",
-    "link": "https://dani.torresburriel.com/etica-en-los-negocios-vista-desde-la-direccion-de-una-agencia-pequena/",
-    "fecha": "25/06/2026 20:57",
-    "contenido": "Como he contado alguna vez por aquí, me he puesto a estudiar. En ese camino, me he encontrado con una asignatura de ética empresarial. Y aquí estoy, fascinado con el despliegue teórico-práctico del asunto. De ética en los negocios se habla un montón, pero casi siempre desde dos sitios que a mí no me"
-  },
-  {
     "blog": "Fausto César — Escritos",
     "titulo": "No me hables por Whatsapp",
     "link": "http://www.esuntipazo.com/post/no-me-hables-por-whatsapp",
@@ -1764,13 +1673,6 @@
     "contenido": "Aunque la juventud sea un tesoro divino y muchos digan que cualquier tiempo pasado fue mejor, estoy muy contento con la etapa vital en la que me encuentro. Siempre he sido una persona introvertida. Me costaba mucho iniciar el contacto con otra persona y me veía muy alejado de los intereses típicos d"
   },
   {
-    "blog": "pedrolr blog",
-    "titulo": "Lo libre llama a lo libre (de nuevo): DSpace, Invenio (software de repositorios institucionales) y RSS",
-    "link": "https://pedrolr.es/blog/lo-libre-llama-a-lo-libre-de-nuevo-dspace-invenio-software-de-repositorios-institucionales-y-rss/",
-    "fecha": "25/06/2026 04:59",
-    "contenido": "En el contexto de la información académica y científica, diría que todas las universidades tienen o tienden a tener un repositorio institucional. En este, se van depositando Trabajos Fin de Grado, de Máster, Documentos del personal de las universidades, preprints, papers, etc. De hecho, la políticas"
-  },
-  {
     "blog": "Diego Cano",
     "titulo": "El sabor de lo artesano",
     "link": "https://blep.org/El-sabor-de-lo-artesano",
@@ -1783,33 +1685,5 @@
     "link": "https://www.ardi.monster/blog/sea-of-stars",
     "fecha": "24/06/2026 15:30",
     "contenido": "Un juego de combate por turnos con unos graficos a los Super Nintendo"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Gladiator II",
-    "link": "https://mareosdeungeek.es/gladiator-ii/",
-    "fecha": "24/06/2026 10:15",
-    "contenido": "Gladiator II llegó rodeada de polémica y críticas. Está claro que Gladiator es una de las mejores películas dirigidas por Ridley Scott y su secuela tenía que estar a la altura. Como ya pasa en la primera parte nos encontramos una película donde prima la acción frente a cualquier exactitud histórica."
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "Me he comprado un Active 2 NFC Premium",
-    "link": "https://asturgeek.eu/2026/06/24/me-he-comprado-un-active-2-nfc-premium/",
-    "fecha": "24/06/2026 08:08",
-    "contenido": "He actualizado mi reloj «inteligente»&#8230;En 2022, a raíz de mi lumbociática severa, que me mantuvo casi un mes en la cama, me propuse caminar al trabajo siempre que pudiera. Junto a mi hermano empezamos esa aventura diaria. Unos 5-6Km cada trayecto, 10-12km casi a diario. Para monitorizar un poco"
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Commodore Callback como dispositivo sin doomscrolling",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/06/24/20260624-movil-commodore/",
-    "fecha": "24/06/2026 08:00",
-    "contenido": "Un teléfono basado en Linux que ofrece capacidad de elección siempre capta mi interés"
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (fecha 2)",
-    "link": "https://javiersam.uy/2026/06/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-fecha-2.html",
-    "fecha": "24/06/2026 04:09",
-    "contenido": "Ayer se completó la segunda fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 2 rivales de Europa, 2 de la Concacaf y 2 de África. Brasil 3 &#8211; Haití 0 El viernes Brasil se enfrentó a Haití po"
   }
 ]
