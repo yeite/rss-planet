@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 25 Jul 2026 01:44:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 07:49:45 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,108 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Software migrations and setup</title>
+<link>https://blog.zurdala.es/blog/software-migrations-and-setup/</link>
+<guid isPermaLink="true">https://blog.zurdala.es/blog/software-migrations-and-setup/</guid>
+<pubDate>Sat, 25 Jul 2026 00:14:00 GMT</pubDate>
+<category>Bitácora baldía on zurdeando</category>
+<description><![CDATA[Hallo, Since I posted an update on what I use, I thought it would be good to dump my current thoughts on some of the tools here. Around a year and a half I finally decided to buy a domain and slow de-google my digital life. This is when I got zurdala.es. The thing is that I am not fully satisfied wi<br><br><strong>Fuente:</strong> Bitácora baldía on zurdeando]]></description>
+</item>
+<item>
+<title>Tools as of July 2026</title>
+<link>https://blog.zurdala.es/blog/tools-as-of-july-2026/</link>
+<guid isPermaLink="true">https://blog.zurdala.es/blog/tools-as-of-july-2026/</guid>
+<pubDate>Fri, 24 Jul 2026 23:59:00 GMT</pubDate>
+<category>Bitácora baldía on zurdeando</category>
+<description><![CDATA[New year, new update of the used programmes, applications and tools. Previous version here In bold, I have marked the updates: 📨 eMail Service: Fastmail (checking out Infomaniak) 📮 eMail Client: Fastmail and Thunderbird 📝 Notes: back to Google Keep :( 📆 Calendar: Fastmail (checking out Infomaniak)<br><br><strong>Fuente:</strong> Bitácora baldía on zurdeando]]></description>
+</item>
+<item>
+<title>Fox en Linux, via Android</title>
+<link>https://nachof.blog/posts/2026/fox-en-linux-via-android/</link>
+<guid isPermaLink="true">https://nachof.blog/posts/2026/fox-en-linux-via-android/</guid>
+<pubDate>Fri, 24 Jul 2026 23:15:00 GMT</pubDate>
+<category>Un blog</category>
+<description><![CDATA[Este post resulta que al final es casi irrelevante. Dejé una nota al final, pero igual lo publico. Como contexto, FoxWQ es un servidor de go chino, que tiene montones de personas conectas en esencialmente cualquier momento, por lo que siempre se puede conseguir un partido bastante rápido. El proble<br><br><strong>Fuente:</strong> Un blog]]></description>
+</item>
+<item>
+<title>570. Días de playa</title>
+<link>https://lamadredelpatonegro.blogspot.com/2026/07/570-dias-de-playa.html</link>
+<guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/07/570-dias-de-playa.html</guid>
+<pubDate>Fri, 24 Jul 2026 19:01:00 GMT</pubDate>
+<category>La Madre Que Parió Al Pato Negro</category>
+<description><![CDATA[&amp;nbsp; &amp;nbsp; El chófer nunca tenía que buscar aparcamiento para que el rico veranease en la costa que fuera, pues el rico tenía más de una plaza comprada donde dejar el vehículo de gama alta. Desde su embarcación de lujo, el rico se divertía tanto como se relajaba observando con unos prismáticos a<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
+</item>
+<item>
+<title>Aulik y Pulsar - Tablas voladoras</title>
+<link>https://plutoidemarcianadas.blogspot.com/2026/07/aulik-y-pulsar-tablas-voladoras.html</link>
+<guid isPermaLink="true">https://plutoidemarcianadas.blogspot.com/2026/07/aulik-y-pulsar-tablas-voladoras.html</guid>
+<pubDate>Fri, 24 Jul 2026 18:55:00 GMT</pubDate>
+<category>Plutoide Marcianadas</category>
+<description><![CDATA[Finalizado: 2026-07-24Aulik y Pulsar paseando con sus tablas voladoras en uno de los caminos de Ciudad Aer... › Ver más »¡Patina todo el día!<br><br><strong>Fuente:</strong> Plutoide Marcianadas]]></description>
+</item>
+<item>
+<title>Mi perra vida | Temporada 2026, episodio 30.</title>
+<link>https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-30/</link>
+<guid isPermaLink="true">https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-30/</guid>
+<pubDate>Fri, 24 Jul 2026 17:56:00 GMT</pubDate>
+<category>Mi perra vida</category>
+<description><![CDATA[Relato – Doctor Nómada (sexta) &amp;#124; Bonus track Doctor Nómada (sexta parte) Leer la quinta parte Pasaron varios minutos, más largos de lo deseado, que sirvieron para que los viajantes comenzaran a barajar hipótesis sobre lo ocurrido. Nadie se animaba a abrir la puerta del compartimento para entra<br><br><strong>Fuente:</strong> Mi perra vida]]></description>
+</item>
+<item>
+<title>#openSUSE Tumbleweed revisión de la semana 30 de 2026</title>
+<link>https://victorhckinthefreeworld.com/2026/07/24/opensuse-tumbleweed-revision-de-la-semana-30-de-2026/</link>
+<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/07/24/opensuse-tumbleweed-revision-de-la-semana-30-de-2026/</guid>
+<pubDate>Fri, 24 Jul 2026 15:42:00 GMT</pubDate>
+<category>Victorhck in the free world</category>
+<description><![CDATA[Tumbleweed es una distribución de GNU/Linux &quot;Rolling Release&quot; o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
+</item>
+<item>
+<title>Haven SSH Client: un cliente SSH avanzado</title>
+<link>https://voidnull.es/haven-ssh-client-un-cliente-ssh-avanzado/</link>
+<guid isPermaLink="true">https://voidnull.es/haven-ssh-client-un-cliente-ssh-avanzado/</guid>
+<pubDate>Fri, 24 Jul 2026 15:30:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Cliente SSH avanzado para Android con soporte VNC, RDP y SFTP, ideal para administrar servidores y escritorios remotos desde el móvil.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Artículo: Conociendo y extendiendo la vida de tu SSD</title>
+<link>https://interlan.ec/blog/2026/07/24/articulo-conociendo-y-extendiendo-la-vida-de-tu-ssd/</link>
+<guid isPermaLink="true">https://interlan.ec/blog/2026/07/24/articulo-conociendo-y-extendiendo-la-vida-de-tu-ssd/</guid>
+<pubDate>Fri, 24 Jul 2026 14:00:00 GMT</pubDate>
+<category>Interlan</category>
+<description><![CDATA[Los discos SSD han pasado de ser un componente prohibitivo a ser sumamente accesible y de vuelta a ser prohibitivo. Sin una solución a la crisis provocada por la locura de la inteligencia artificial, ahora es buena idea tomar pasos necesarios para evitar que los componentes se dañen. Así que eso har<br><br><strong>Fuente:</strong> Interlan]]></description>
+</item>
+<item>
+<title>Nuevo Disco de Mago de Oz.</title>
+<link>https://mundoceltamedieval.wordpress.com/2026/07/24/nuevo-disco-de-mago-de-oz/</link>
+<guid isPermaLink="true">https://mundoceltamedieval.wordpress.com/2026/07/24/nuevo-disco-de-mago-de-oz/</guid>
+<pubDate>Fri, 24 Jul 2026 13:35:00 GMT</pubDate>
+<category></category>
+<description><![CDATA[Ye se Anuncio la salida del nuevo disco de Mago de Oz. El mismo esta anunciado para el invierno de 2026 (Invierno España). Pronto tendremos novedades.<br><br><strong>Fuente:</strong> ]]></description>
+</item>
+<item>
 <title>Links de Viernes - #951</title>
 <link>https://www.fabio.com.ar/9994-links-de-viernes---951</link>
 <guid isPermaLink="true">https://www.fabio.com.ar/9994-links-de-viernes---951</guid>
 <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
 <category>Fabio.com.ar</category>
 <description><![CDATA[Robemos unos links Es viernes, semana de purificaci&amp;oacute;n para muchos, de reorganizaci&amp;oacute;n mental, estabilizaci&amp;oacute;n nerviosa y, por ende, links! nada mejor que unos enlaces para completar la tarea espiritual! Y si te parecen pocos sumate a LinksDV para compartir m&amp;aacute;s y m&amp;aacu<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Majesty: Exaltation I - IV | Frío y Crudo Black Metal</title>
+<link>https://www.delotroladometal.com.ar/2026/07/24/frio-y-crudo-black-metal/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/07/24/frio-y-crudo-black-metal/</guid>
+<pubDate>Fri, 24 Jul 2026 10:35:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[(2024 &amp;#8211; Independiente) Se imaginan un álbum con un solo tema? O mejor dicho, un... The post Majesty: Exaltation I - IV | Frío y Crudo Black Metal first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Análisis de Lured In</title>
+<link>https://cozykis.kisworld.es/analisis-de-lured-in/</link>
+<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-lured-in/</guid>
+<pubDate>Fri, 24 Jul 2026 10:26:00 GMT</pubDate>
+<category>CozyKis</category>
+<description><![CDATA[Coge tu caña, tu gorro y tu silla de pescar y disfruta de paisajes relajantes mientras tus peces generan dinero de forma pasiva La entrada Análisis de Lured In se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
 </item>
 <item>
 <title>The Legend of Zelda en una calculadora</title>
@@ -90,6 +186,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Esta es una pequeña actualización de que estaré haciendo una nueva version de la entrada/guía que hice sobre instalar apps en TV&apos;s Samsung con Tizen, ya que recién salio un nuevo método para instalarlas con el teléfono, lo cual obviamente lo considero mas cómodo ya que no cuento (y no se hasta cuand<br><br><strong>Fuente:</strong> Un Diario]]></description>
 </item>
 <item>
+<title>(Demasiado) (Poco) Política</title>
+<link>https://jodidaperonosorprendida.mataroa.blog/blog/demasiado-poco-politica/</link>
+<guid isPermaLink="true">https://jodidaperonosorprendida.mataroa.blog/blog/demasiado-poco-politica/</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+<category>Jodida, pero no sorprendida</category>
+<description><![CDATA[En los últimos tiempos estoy leyendo Calibán y la bruja de Silvia Federici. No paro de repetirlo y alguien podría pensar que lo hago para darme pisto, para ganar puntos de intelectual o algo así. Nada más lejos de la realidad: lo hago porque me está volando la cabeza. No puedo evitar citarlo porque<br><br><strong>Fuente:</strong> Jodida, pero no sorprendida]]></description>
+</item>
+<item>
+<title>Richard Stallman y las 4 libertades: El pilar ético del Software Libre</title>
+<link>http://blog.neosite.com.ar/post/richard-stallman-y-las-4-libertades-el-pilar-tico-del-software-libre</link>
+<guid isPermaLink="true">http://blog.neosite.com.ar/post/richard-stallman-y-las-4-libertades-el-pilar-tico-del-software-libre</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+<category>NeoSite Blog</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> NeoSite Blog]]></description>
+</item>
+<item>
 <title>El colombófilo de Flores y la cifra infinita (https://tiendaebook.com.ar/producto/el-colombofilo-de-flores-y-la-cifra-infinita/ )</title>
 <link>https://danielomarcignacco.mataroa.blog/blog/el-colombofilo-de-flores-y-la-cifra-infinita-httpstiendaebookcomarproductoel-colombofilo-de-flores-y-la-cifra-infinita/</link>
 <guid isPermaLink="true">https://danielomarcignacco.mataroa.blog/blog/el-colombofilo-de-flores-y-la-cifra-infinita-httpstiendaebookcomarproductoel-colombofilo-de-flores-y-la-cifra-infinita/</guid>
@@ -98,124 +210,12 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones: Te invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat<br><br><strong>Fuente:</strong> La cosa infinita (Daniel Omar Cignacco)]]></description>
 </item>
 <item>
-<title>Publicado Thunderbird 153. La nueva versión de soporte extendido de este cliente de correo de software libre</title>
-<link>https://victorhckinthefreeworld.com/2026/07/23/publicado-thunderbird-153-la-nueva-version-de-soporte-extendido-de-este-cliente-de-correo-de-software-libre/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/07/23/publicado-thunderbird-153-la-nueva-version-de-soporte-extendido-de-este-cliente-de-correo-de-software-libre/</guid>
-<pubDate>Thu, 23 Jul 2026 14:39:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[La comunidad que desarrolla el cliente de correo de software libre Thunderbird acaba de publicar la versión 153 de Thunderbird. Que será la nueva versión ESR.<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>Colecciones</title>
-<link>https://matizeta.com/2026/07/23/colecciones/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/07/23/colecciones/</guid>
-<pubDate>Thu, 23 Jul 2026 13:16:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Si me leen periódicamente quizás habrán visto que hay publicaciones que repito tanto tiempo como ser «Lecturas recomendadas» o «webs interesantes», o publicaciones que persiguen una misma temática como «Libros que leí», entre otros. Es por eso que creé Colecciones. Una página para agrupar cada una d<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>Ruleta Rusa #886</title>
-<link>https://www.fabio.com.ar/9993-ruleta-rusa-886</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/9993-ruleta-rusa-886</guid>
-<pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[La ruleta ayuda a pasar el invierno Vueltos a la normalidad, odiados, pero sobrevividos, aqu&amp;iacute; estamos para ruletear como es debido, a puro plomo, gatos, perritos, imprudentes, caballos y tetas! Ahora s&amp;iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio Baccaglioni [Ruleta Rusa]<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>La hora de internet</title>
-<link>https://matizeta.com/2026/07/23/la-hora-de-internet/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/07/23/la-hora-de-internet/</guid>
-<pubDate>Thu, 23 Jul 2026 08:11:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Está es una historia curiosa, alguien alguna vez pensó en que Internet se rija por un único horario.&amp;#160; Quizás conozcan a Charly Alberti, uno de los integrantes de la banda Soda Stereo (no digo ex porque ahora están sonando de vuelta en forma de holograma). Resulta que allá por el año 1998 presen<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>No compres Acuarius – Hazte uno casero</title>
-<link>https://56k.es/fanta/no-compres-acuarius-hazte-uno-casero/</link>
-<guid isPermaLink="true">https://56k.es/fanta/no-compres-acuarius-hazte-uno-casero/</guid>
-<pubDate>Thu, 23 Jul 2026 04:12:00 GMT</pubDate>
-<category>56K</category>
-<description><![CDATA[Acuarius es una bebida que pertenece a Coca-Cola Company. Eso ya es suficiente motivo como para NO consumir ese producto pero al mismo tiempo es que es carisimo. Más de 2€ una botella de esas en supermercados. El tema es que realmente no necesitamos a Coca-Cola para sentirnos vivos (aquello de «Coca<br><br><strong>Fuente:</strong> 56K]]></description>
-</item>
-<item>
-<title>The Last Murder at the End of the World - Stuart Turton</title>
-<link>https://nachof.blog/posts/2026/the-last-murder-at-the-end-of-the-world/</link>
-<guid isPermaLink="true">https://nachof.blog/posts/2026/the-last-murder-at-the-end-of-the-world/</guid>
-<pubDate>Wed, 22 Jul 2026 22:51:00 GMT</pubDate>
-<category>Un blog</category>
-<description><![CDATA[Hay una cierta sensación que provocan los libros de ciencia ficción escritos por autores que no están tan familiarizados con las convenciones del género. The Last Murder me provocó un poco eso. Stuart Turton es claramente un buen escritor, escribe bonito, y todo. Como libro, The Last Murder está<br><br><strong>Fuente:</strong> Un blog]]></description>
-</item>
-<item>
-<title>Claude, ¿qué estás haciendo, Claude?</title>
-<link>https://nachof.blog/posts/2026/claude-que-estas-haciendo-claude/</link>
-<guid isPermaLink="true">https://nachof.blog/posts/2026/claude-que-estas-haciendo-claude/</guid>
-<pubDate>Wed, 22 Jul 2026 21:26:00 GMT</pubDate>
-<category>Un blog</category>
-<description><![CDATA[Siguen mis aventuras con el uso forzado de Claude. Esto se supone que es el futuro<br><br><strong>Fuente:</strong> Un blog]]></description>
-</item>
-<item>
-<title>links</title>
-<link>https://salva.thedev.id/links</link>
-<guid isPermaLink="true">https://salva.thedev.id/links</guid>
-<pubDate>Wed, 22 Jul 2026 18:29:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>Salva Más De Cerca</title>
-<link>https://salva.thedev.id/</link>
-<guid isPermaLink="true">https://salva.thedev.id/</guid>
-<pubDate>Wed, 22 Jul 2026 17:54:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[Acá me gusta coleccionar detalles de mi vida.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>Odio a los Argentinos (los más racistas del mundo)</title>
-<link>https://matizeta.com/2026/07/22/odio-a-los-argentinos-los-mas-racistas-del-mundo/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/07/22/odio-a-los-argentinos-los-mas-racistas-del-mundo/</guid>
-<pubDate>Wed, 22 Jul 2026 16:54:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Estos días estuve observando un creciente movimiento en las redes y también en los medios de cierto odio hacia a los argentinos. El tema me llegó. Si bien últimamente casi no entro a las redes (fuera de Mastodon),&amp;#160; las empecé a ver en los diarios online, con un artículo de ello en cada uno. Así<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>du: analizar el uso de espacio en disco</title>
-<link>https://voidnull.es/du-analizar-el-uso-de-espacio-en-disco/</link>
-<guid isPermaLink="true">https://voidnull.es/du-analizar-el-uso-de-espacio-en-disco/</guid>
-<pubDate>Wed, 22 Jul 2026 15:30:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[Aprende a usar el comando du en GNU/Linux para comprobar cuánto espacio ocupan ficheros y directorios desde la terminal.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Una mínima diatriba contra el cine contemporáneo, o: fui a ver La Odisea y salí sin haberla visto</title>
-<link>https://www.quiroptero.blog/2026/07/odisea/</link>
-<guid isPermaLink="true">https://www.quiroptero.blog/2026/07/odisea/</guid>
-<pubDate>Wed, 22 Jul 2026 14:18:00 GMT</pubDate>
-<category>quiroptero.blog</category>
-<description><![CDATA[«¡A ver al cine!» Es lo que se suele decir, y lo que intenté hacer el otro día. Fui al cine a ver La Odisea de Christopher Nolan y me quedé con la sensación de que, en realidad, no la vi.<br><br><strong>Fuente:</strong> quiroptero.blog]]></description>
-</item>
-<item>
-<title>Mostrar el programa en foco en la barra de i3</title>
-<link>https://blog.gorix.xyz/mostrar-el-programa-en-foco-en-la-barra-de-i3.html</link>
-<guid isPermaLink="true">https://blog.gorix.xyz/mostrar-el-programa-en-foco-en-la-barra-de-i3.html</guid>
-<pubDate>Wed, 22 Jul 2026 12:56:00 GMT</pubDate>
-<category>GoRiX blog</category>
-<description><![CDATA[Hace banda que uso i3 y una de esas cosas que nunca me puse a pensar que sería útil, hasta que leí el comentario en un grupo, es que la barra me mostrara sobre qué ventana estoy parado. Es útil cuando en un TWM tenés muchas consolas abiertas y no sabés en cual estás parado. Todo lo puedo<br><br><strong>Fuente:</strong> GoRiX blog]]></description>
-</item>
-<item>
-<title>La Leyenda Negra y cómo el mundo sancionó a Argentina como antes hizo con España: con el relato</title>
-<link>https://www.fabio.com.ar/9992-la-leyenda-negra-y-como-el-mundo-sanciono-a-argentina-como-antes-hizo-con--espana-con-el-relato</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/9992-la-leyenda-negra-y-como-el-mundo-sanciono-a-argentina-como-antes-hizo-con--espana-con-el-relato</guid>
-<pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[El relato es muy poderoso, especialmente en &amp;eacute;pocas de post-modernidad donde los hechos importan cada vez menos, pero no es nuevo que se utilice una ficci&amp;oacute;n para dibujar a una naci&amp;oacute;n entera como un gran demonio, lo sufri&amp;oacute; justamente la misma naci&amp;oacute;n que ahora lo<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Eliminando fricciones</title>
-<link>https://matizeta.com/2026/07/22/eliminando-fricciones/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/07/22/eliminando-fricciones/</guid>
-<pubDate>Wed, 22 Jul 2026 08:11:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Hay pequeñas cosas en todos los aspectos de la vida que nos generan cierta incomodidad, que no terminan de ser del todo fluidas. Se llega al objetivo pero con cierta incomodidad de saber que debe haber una mejor manera, más optima, de hacerlo. Esta entrada no se trata sobre filosofía ni mucho menos,<br><br><strong>Fuente:</strong> matizeta]]></description>
+<title>Es que este videojuego me hace feliz</title>
+<link>https://cozykis.kisworld.es/es-que-este-videojuego-me-hace-feliz/</link>
+<guid isPermaLink="true">https://cozykis.kisworld.es/es-que-este-videojuego-me-hace-feliz/</guid>
+<pubDate>Thu, 23 Jul 2026 19:29:00 GMT</pubDate>
+<category>CozyKis</category>
+<description><![CDATA[Creo firmemente que la cultura tendría que ser gratuita y accesible para todes. Todo el mundo debería tener derecho y posibilidades de acceder a aquellos contenidos creados por el resto. Y si estáis pensando que entonces de qué iban a vivir artistas, escritores… Pues es sencillo, nadie debería tener<br><br><strong>Fuente:</strong> CozyKis]]></description>
 </item>
 
 </channel>
