@@ -1,10 +1,66 @@
 [
   {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salva.thedev.id/",
+    "fecha": "26/07/2026 00:51",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "links",
+    "link": "https://salva.thedev.id/links",
+    "fecha": "25/07/2026 23:07",
+    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "La falsa guerra entre la terminal y la interfaz gráfica en GNU/Linux",
+    "link": "https://tecnoysoft.com/2026/07/25/la-falsa-guerra-entre-la-terminal-y-la-interfaz-grafica-en-gnu-linux/",
+    "fecha": "25/07/2026 18:55",
+    "contenido": "Uno de los debates más recurrentes dentro de la comunidad GNU/Linux gira en torno al uso de la terminal. Es una discusión que reaparece una y otra vez, especialmente cuando se habla de usuarios noveles o de quienes llegan desde Windows o macOS. Mientras unos consideran que la terminal es un vestigio"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "No quiero tener un Dumbphone",
+    "link": "https://jinversor.co/2026/07/no-quiero-tener-un-dumbphone/",
+    "fecha": "25/07/2026 17:31",
+    "contenido": "Así como no quiero cambiar mi auto por un caballo, tampoco quiero tener un Dumbphone. También prefiero ir al supermercado a comprar el queso que tener una vaca en mi [&#8230;]\nLa entrada No quiero tener un Dumbphone se publicó primero en Jinversor."
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "¿Por qué en España un 12% de los votos puede valer cero escaños?",
+    "link": "https://blog.danielaragay.net/sistema-electoral-sueco-vs-espana/",
+    "fecha": "25/07/2026 15:09",
+    "contenido": "El 23 de julio de 2023, un partido sacó el 12,31% de los votos en España y se quedó sin representación en decenas de provincias. Otro consiguió siete escaños con menos del 2%. No fue un fallo del sistema — es exactamente cómo está diseñado. Te explico el mecanismo, comparado con Suecia."
+  },
+  {
+    "blog": "Región Cuatro",
+    "titulo": "Vacaciones",
+    "link": "https://regioncuatro.blog/vacaciones/",
+    "fecha": "25/07/2026 15:00",
+    "contenido": "Al viajar para escapar de la rutina siempre hay que recordar que lo estamos haciendo por placer. Porque es muy fácil que entre los apuros, el conducir, los horarios, y las reservaciones, el trámite del placer se parezca mucho a las obligaciones del día a día. Es por eso que a veces la cosa cansa y e"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Actividades Julio 2026",
+    "link": "https://labaudric.net/blog/noticias/actividades-julio-2026",
+    "fecha": "25/07/2026 12:31",
+    "contenido": "Otro mes cargadito de mis mierdas, bastante contento.\nEn lo que respeta esta web, sigo la misma dinámica, para bien o para mal, que la del mes pasado: estoy pasando del apartado cápsula Gemini, y poniendole features y contenido a esta web http.\n\nDestaca sobre todo, ¡migración completa de mis canales"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Martin Simson Nos Cuenta Novedades Y Lo Que Viene | “Trinity” Con Annette Olzon, Es Lo Nuevo De Destroyer Of Death",
     "link": "https://www.delotroladometal.com.ar/2026/07/25/trinity-con-annette-olzon-es-lo-nuevo-de-destroyer-of-death/",
     "fecha": "25/07/2026 12:00",
     "contenido": "En su momento ya hemos hablado y contado sobre el proyecto Martin Simson´s Destroyer Of...\nThe post Martin Simson Nos Cuenta Novedades Y Lo Que Viene | “Trinity” Con Annette Olzon, Es Lo Nuevo De Destroyer Of Death first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "Semana 30/2026",
+    "link": "https://www.macram.es/posts/2026/07/semana-30-2026/",
+    "fecha": "25/07/2026 09:06",
+    "contenido": "Estos días han sido una locura en muchos aspectos y literalmente no he tenido tiempo para estar sentado para escribir nada. Estas líneas, de hecho, van a salir del tirón, porque aunque acabo de empezar mi periodo vacacional estoy suficientemente liado como para no poder dedicar mucho más tiempo a es"
   },
   {
     "blog": "56K",
@@ -19,6 +75,13 @@
     "link": "https://blog.zurdala.es/blog/software-migrations-and-setup/",
     "fecha": "25/07/2026 00:14",
     "contenido": "Hallo,\nSince I posted an update on what I use, I thought it would be good to dump my current thoughts on some of the tools here.\nAround a year and a half I finally decided to buy a domain and slow de-google my digital life. This is when I got zurdala.es.\nThe thing is that I am not fully satisfied wi"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "El enemigo en casa (segunda parte)",
+    "link": "https://alex.corcoles.net/2026/07/el-enemigo-en-casa-segunda-parte",
+    "fecha": "25/07/2026 00:00",
+    "contenido": "\n  \n    Escrib&#237; hace unos meses sobre los peligros de ciertos dispositivos tipo c&#225;maras dom&#233;sticas y dem&#225;s.\n  \n  El siguiente art&#237;culo comienza a darnos datos nuevos y preocupantes:\n  \n    FBI Seizes NetNut Proxy Platform, Popa Botnet - Krebs on Security\n  \n  ... found 42 pe"
   },
   {
     "blog": "Jorge Aguilera",
@@ -189,6 +252,13 @@
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Hectáreas quemadas vistas con perspectiva real",
+    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
+    "fecha": "24/07/2026 00:00",
+    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Es que este videojuego me hace feliz",
     "link": "https://cozykis.kisworld.es/es-que-este-videojuego-me-hace-feliz/",
@@ -245,6 +315,13 @@
     "contenido": "Acuarius es una bebida que pertenece a Coca-Cola Company. Eso ya es suficiente motivo como para NO consumir ese producto pero al mismo tiempo es que es carisimo. Más de 2€ una botella de esas en supermercados. El tema es que realmente no necesitamos a Coca-Cola para sentirnos vivos (aquello de «Coca"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Enlaces para ver el tiempo en Algeciras",
+    "link": "https://chancli.dev/blog/enlaces-meteo-algeciras.html",
+    "fecha": "23/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los datos en general y desde hace un tiempo con todo el asunto del cambio climático, borrascas enlazadas y olas de calor empecé a buscar fuentes de información lo más fiables posibles.\nLo primero que encontré fueron varias estaciones meteorológicas como:\n\nmeteoclimatic\naweka"
+  },
+  {
     "blog": "Un blog",
     "titulo": "The Last Murder at the End of the World - Stuart Turton",
     "link": "https://nachof.blog/posts/2026/the-last-murder-at-the-end-of-the-world/",
@@ -257,20 +334,6 @@
     "link": "https://nachof.blog/posts/2026/claude-que-estas-haciendo-claude/",
     "fecha": "22/07/2026 21:26",
     "contenido": "Siguen mis aventuras con el uso forzado de Claude.\n\n\n Esto se supone que es el futuro\n \n"
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "links",
-    "link": "https://salva.thedev.id/links",
-    "fecha": "22/07/2026 18:29",
-    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salva.thedev.id/",
-    "fecha": "22/07/2026 17:54",
-    "contenido": "Acá me gusta coleccionar detalles de mi vida."
   },
   {
     "blog": "matizeta",
@@ -425,6 +488,13 @@
     "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
     "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Llevo un mes durmiendo en el sofá",
+    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
+    "fecha": "22/07/2026 00:00",
+    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
   },
   {
     "blog": "Un Diario",
@@ -791,6 +861,13 @@
     "contenido": "Si vas a grabar con dron en Suecia pensando que las normas son las mismas que en Espa&#xf1;a porque los dos pa&#xed;ses est&#xe1;n en la Uni&#xf3;n Europea, tengo una sorpresa para ti: el marco de base s&#xed; es el mismo, pero"
   },
   {
+    "blog": "labaudric",
+    "titulo": "audric subió 2518 videos en Destiny, Phantasy Star Online, Balisong, Diablo, Split Second, Forza, Tomb Raider, Titanfall 2, Gears Of War, Call Of Duty, Musica, The Division, Hazard Ops, TERA, Halo, Watch Dogs, DC Universe Online, Darkness 2, Sleeping Dogs, Uncharted, Anthem, Guild Wars 2, Killzone, Ridge Racer, SEGA All Star Racing, Nazi Zombie Army, The Crew, VLOG, Wolfenstein, Resident Evil, Sonic, Warhammer, Blade &amp; Soul, Ghost in the Shell Global Assault, Shenmue, Devil May Cry, L.A. Noire, Binary Domain, Driveclub, Killer Instinct, Dead Space, Haunted Hells Reach, Need For Speed, Painkiller, RWBY, Trials Fusion, Vindictus, Alice, Battlefield Bad Company, Burnout, Left4Dead, SEGA Rally, Vanquish, Farenheit, Mass Effect, Torchlight, Warframe, Deux Ex, Global Agenda, Goldeneye, The Last Of Us, Army Of Two, Detroit Become Human (PC), Gotham City Impostors, Gunslinger, Looney Tunes Space Race, Metal Slug, Motorstorm Apocalypse, Neverwinter, Overwatch, Saint Row, SkyForge, World Of Warcraft, Black Desert Online, Counter Strike, FEAR, GTA, Heavenly Sword, Kingdom Under Fire 2, Mafia, Quantum Break, Speed Devils, Unreal Tournament, grid legends, Black Light Retribution, Dead Island, Dungeons Defenders, Gantlet Legends, Payday, Pool Nation, Raise Of Nightmares, Trine",
+    "link": "https://labaudric.net/videos/destiny",
+    "fecha": "17/07/2026 16:11",
+    "contenido": "      +2512 más"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Termux: mucho más que una terminal",
     "link": "https://voidnull.es/termux-mucho-mas-que-una-terminal/",
@@ -957,13 +1034,6 @@
     "link": "https://matizeta.com/2026/07/16/rediseno-del-pie-de-las-entradas-del-blog/",
     "fecha": "16/07/2026 08:11",
     "contenido": "Me gusta la simplicidad de los blogs de la plataforma Pika. Aprovechando la versatilidad de WordPress quise imitar el diseño de este en mi blog. Este a sido el resultado: Antes se veía así: Ahora se ve así: Lo que hice es ordenar un poco los elementos, darle otro estilo y agregar la caja de [&#8230;"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 2249 videos en Destiny, Phantasy Star Online, Balisong, Diablo, Split Second, Forza, Titanfall 2, Tomb Raider, Call Of Duty, Musica, The Division, Hazard Ops, Gears Of War, Halo, Watch Dogs, DC Universe Online, TERA, Anthem, Guild Wars 2, Ridge Racer, Nazi Zombie Army, SEGA All Star Racing, The Crew, Darkness 2, Blade &amp; Soul, Ghost in the Shell Global Assault, Driveclub, Killer Instinct, Killzone, Need For Speed, RWBY, Resident Evil, VLOG, Burnout, Dead Space, Left4Dead, SEGA Rally, Trials Fusion, Vindictus, Warhammer, Farenheit, Sleeping Dogs, Torchlight, Warframe, Deux Ex, Global Agenda, Goldeneye, Haunted Hells Reach, Sonic, The Last Of Us, Uncharted, Detroit Become Human (PC), Gotham City Impostors, Looney Tunes Space Race, Motorstorm Apocalypse, Neverwinter, Overwatch, Painkiller, SkyForge, World Of Warcraft, Black Desert Online, Counter Strike, FEAR, GTA, Heavenly Sword, Kingdom Under Fire 2, Mass Effect, Quantum Break, Speed Devils, Unreal Tournament, grid legends, Mafia, Payday",
-    "link": "https://labaudric.net/videos/destiny",
-    "fecha": "16/07/2026 05:21",
-    "contenido": "      +2243 más"
   },
   {
     "blog": "Mareos de un geek",
@@ -1220,7 +1290,7 @@
   {
     "blog": "labaudric",
     "titulo": "Crítica Adabana",
-    "link": "https://labaudric.net/blog/adabana",
+    "link": "https://labaudric.net/blog/manga/adabana",
     "fecha": "12/07/2026 16:10",
     "contenido": "\n\nPues me he leído hace poco esta obra, de 3 tomos, de 245 páginas.\nAviso: esta reseña tiene spoilers\n\nBueno pues he de decir, que no es exactamente lo que me esperaba. En ese género, en esta línea, anteriormente he leído Smiley y Gannibal. Thrillers mangas. De hecho, no muy lejos de mis expectativa"
   },
@@ -1498,6 +1568,13 @@
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Mis estadísticas de running en la web",
+    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
+    "fecha": "06/07/2026 00:00",
+    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "¿Por qué un blog y no un canal de YouTube?",
     "link": "https://tecnoysoft.com/2026/07/05/por-que-un-blog-y-no-un-canal-de-youtube/",
@@ -1570,7 +1647,7 @@
   {
     "blog": "labaudric",
     "titulo": "Actividades junio 2026",
-    "link": "https://labaudric.net/blog/actividades-junio-2026",
+    "link": "https://labaudric.net/blog/noticias/actividades-junio-2026",
     "fecha": "04/07/2026 14:13",
     "contenido": "YUJUU\nMi primer entrada de blog de actualizaciones en esta nueva versión de mi página.\nPues el mes pasado ha estado cargadito.\nDesde el día 12/06/2026, el día del re estreno... No he parado de mejorar el back de la web.\nTambién, he de admitir, que me he desviado bastante. Me pasa a menudo. Me pongo "
   },
@@ -1587,6 +1664,20 @@
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-dieciseisavos-de-final.html",
     "fecha": "04/07/2026 03:50",
     "contenido": "Ayer se completaron los dieciseisavos de final (la primera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 5 selecciones sudamericanas enfrentaron a 2 rivales de África, 1 de Europa, 1 de la CONCACAF y 1 de Asia. Brasil 2 &#82"
+  },
+  {
+    "blog": "El Sitio de Manieflo",
+    "titulo": "Acerca de",
+    "link": "https://elprofejuan.com.ar/acerca-de",
+    "fecha": "04/07/2026 02:03",
+    "contenido": "El Profe Juan\nBlog de Juan Agustín Flores (aka)(significa \"Also Know As\" que es, también conocido como, en castellano) Manieflo\n\nSoy Docente de Informática Jubilado y amante del Software Libre. Formo parte del Club del software Libre de argentina y difundo el Software Libre. \nAhora tengo un blog de "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Los Perseguidos, ficción sonora fantástica",
+    "link": "https://chancli.dev/blog/los-perseguidos-audio-ficcion.html",
+    "fecha": "04/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los podcasts, sobre todo sigo podcasts de tecnología y algunos de misterio.\nPero hoy no vengo a recomendaros un podcast normal, es una ficción sonora de una calidad de producción increíble.\nSe trata de Los Perseguidos, basado en la novela de Fernando Benzo.\nSe ve que Onda Ce"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1946,6 +2037,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Unir dos imagenes en mac o linux",
+    "link": "https://chancli.dev/blog/unir-dos-imagenes-mac-linux.html",
+    "fecha": "29/06/2026 00:00",
+    "contenido": "Hoy estaba en el Mac y tenía dos imágenes que quería unir.\nEstaba buscando la mejor forma de hacerlo y no encontré nada que no fueran apaños.\nFinalmente di con la solución, usando el clásico Imagemagick\nNo lo tenía instalado en Mac, así que usando Homebrew:\nbrew install imagemagick\n\nCon Imagemagick "
+  },
+  {
     "blog": "impermanente",
     "titulo": "Fuera de la caja... hay otra caja",
     "link": "https://impermanente.es/2026/06/28/fuera-de-la-caja-hay.html",
@@ -2021,75 +2119,5 @@
     "link": "https://malagaoriginal.blogspot.com/2026/07/amspit-lite-el-emulador-de-amstrad-cpc.html",
     "fecha": "26/06/2026 05:51",
     "contenido": "AMSpiriT es un emulador para sistemas Windows, pero su creador ha lanzado estos días una versión especial para GNU/Linux y MacOS llamada AMSpiriT lite.&nbsp;Este emulador incluye herramientas para el desarrollo, extracción e incrustación de programas hechos en Locomotive Basic, el potente intérprete"
-  },
-  {
-    "blog": "Feed de SL1200",
-    "titulo": "- Cómo descargo y gestiono música en mi servidor",
-    "link": "https://proxy.dystopic.world/art/music.gmi",
-    "fecha": "26/06/2026 00:00",
-    "contenido": ""
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Mi blog visto por una IA",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-06-26-blog-ia/",
-    "fecha": "25/06/2026 22:00",
-    "contenido": "Siguiendo la estela de blogs que preguntan a la IA qué es lo que ve de su blog, como ha hecho Lazaro, me he preguntado qué ve la IA con respecto a mi blog. Y tengo que decir que, en algunos momentos, me han dado ganas de saltar de alegría 😀 y en otros, de saltar al vacío 😭.\nOs pondré un resumen de l"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "uses",
-    "link": "https://vctrsnts.codeberg.page/uses/",
-    "fecha": "25/06/2026 22:00",
-    "contenido": "Esta es la configuración y las herramientas que utilizo actualmente en mi día a día.\nLa página está inspirada en la idea de /uses, habitual en la IndieWeb y la smol web:\ncompartir el hardware, software y entorno con el que uno trabaja y escribe.\nNada especialmente exótico.\nSolo herramientas con las "
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "562. Magia y fuego 3",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/06/562-magia-y-fuego-3.html",
-    "fecha": "25/06/2026 22:00",
-    "contenido": "&nbsp; &nbsp; Se dice que la Noche de San Juan es un escenario propicio para cerrar ciclos, desprenderse de las energías negativas y afrontar nuevos comienzos. Sin embargo, el loco no es santo ni se llama Juan. Incluso sus amigos más cercanos desconocen su nombre; solo saben que es un pecador, un al"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Verano 2026",
-    "link": "https://mareosdeungeek.es/verano-2026/",
-    "fecha": "25/06/2026 21:00",
-    "contenido": "El pasado domingo empezó el verano boreal, disfrutando del día más largo del año. La verdad es que estuve descansando porque ha sido un mes de junio bastante intenso. Lamentablemente, al empezar a trabajar he tenido que aparcar parte de los proyectos que tenía en marcha. Además he tenido varios even"
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Ética en los negocios, vista desde la dirección de una agencia pequeña",
-    "link": "https://dani.torresburriel.com/etica-en-los-negocios-vista-desde-la-direccion-de-una-agencia-pequena/",
-    "fecha": "25/06/2026 20:57",
-    "contenido": "Como he contado alguna vez por aquí, me he puesto a estudiar. En ese camino, me he encontrado con una asignatura de ética empresarial. Y aquí estoy, fascinado con el despliegue teórico-práctico del asunto. De ética en los negocios se habla un montón, pero casi siempre desde dos sitios que a mí no me"
-  },
-  {
-    "blog": "Fausto César — Escritos",
-    "titulo": "No me hables por Whatsapp",
-    "link": "http://www.esuntipazo.com/post/no-me-hables-por-whatsapp",
-    "fecha": "25/06/2026 19:15",
-    "contenido": "He estado explorando muchos sitios estos días. Varios blogs y sitios de noticias redactadas por periodistas, profesionales en su materia. Navegando (surfeando en la red como decíamos antes) me encontré con..."
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Batman Lobo",
-    "link": "https://labaudric.net/blog/lobobatman",
-    "fecha": "25/06/2026 18:26",
-    "contenido": "Soy fan de lobo desde hace muchos años. Aún recuerdo estar en el liceo con mis compis intercambiando números. Que la paga semanal no nos daba para todos los fascículos. Pero entre tres o cuatro personas, teníamos prácticamente todos los números de la época. En aquel día, los llevaba las ediciones Zi"
-  },
-  {
-    "blog": "Ubuntu Peronista",
-    "titulo": "¿Cómo emulo el SAIL WAITS en Ubuntu?",
-    "link": "https://ubuntuperonista.blogspot.com/2026/06/como-emular-sail-waits-en-ubuntu.html",
-    "fecha": "25/06/2026 17:54",
-    "contenido": "Interrogado por el director Pino Solanas en Puerta de Hierro, Juan Perón expone cómo instalar y emular el mítico sistema operativo de tiempo de cómputo compartido WAITS, del Laboratorio de Inteligencia Artificial de Stanford en Ubuntu.(...)&nbsp;¡Trabajadores!Los movimiento revolucionarios suelen se"
-  },
-  {
-    "blog": "Región Cuatro",
-    "titulo": "Quisiera que todo el mundo tuviera un blog",
-    "link": "https://regioncuatro.blog/quisiera-que-todo-el-mundo-tuviera-un-blog/",
-    "fecha": "25/06/2026 15:00",
-    "contenido": "Quisiera que todo mundo tuviera un blog. O bueno, quisiera que todos mis amigos tuvieran un blog. No porque quiera que escriban mejor, sino porque creo que los conocería mas.\n\nSiento que, si todos hiciéramos eso en lugar de entretenernos momentáneamente con las redes sociales, tendríamos relaciones "
   }
 ]
