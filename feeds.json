@@ -1,5 +1,26 @@
 [
   {
+    "blog": "impermanente",
+    "titulo": "Cómo Enki llegó a la península por la esquina del mapa",
+    "link": "https://impermanente.es/2026/07/26/cmo-enki-lleg-a-la.html",
+    "fecha": "26/07/2026 18:57",
+    "contenido": "Imaginen esto: los dioses han decidido acabar con la humanidad porque hacen demasiado ruido (literalmente, no dejan dormir a Enlil). Se acuerda entonces que habrá diluvio para matarlos a todos y se toma un juramento: nadie avisará a los hombres de lo que se viene. Enki, señor de las aguas dulces sub"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Veinte años de bloguero",
+    "link": "https://adrianperales.com/2026/07/veinte-anos-de-bloguero/",
+    "fecha": "26/07/2026 18:04",
+    "contenido": "El pasado 21 de julio se cumplieron 20 años desde que empecé con esto de los blogs. Yo he cambiado y el blog ha cambiado conmigo, hay meses en los que no hay una sola entrada nueva, pero mi manera de entender internet es, aún hoy y en buena parte, la misma que en 2006. [&#8230;]"
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "– Si, uso Linux, ¿Y que?",
+    "link": "https://elrefugiodeunnerd.es/2026/07/26/si-uso-linux-y-que/",
+    "fecha": "26/07/2026 17:08",
+    "contenido": "Uso Linux desde hace más de 4 años. Totalmente desde hace 1 año y medio, y digo, totalmente me refiero en mi día a día. Yo tengo Windows instalado y aunque, a día de hoy lo uso poco, lo conservo. Supongo que Windows hace cosas bien… Soy un defensor de Linux, y me gusta convencer [&#8230;]"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "La Banda Black Metal De Suiza Se Pone En Movimiento | Demoniciduth Anuncia Un Nuevo EP",
     "link": "https://www.delotroladometal.com.ar/2026/07/26/demoniciduth-anuncia-un-nuevo-ep/",
@@ -19,20 +40,6 @@
     "link": "https://56k.es/fanta/la-nintendo-dsi-que-no-querian-por-vieja-y-rosa/",
     "fecha": "26/07/2026 04:44",
     "contenido": "Charlando un día con unos compañeros de trabajo uno de ellos dijo que estaba pensando en regalarle a su hijo una videoconsola. Buscaba teniendo en cuenta 3 cosas: &#8211; Que no fuese una consola cara. &#8211; Que fuese portátil. &#8211; Que tuviese juegos educativos. El motivo de regalarle una cons"
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salva.thedev.id/",
-    "fecha": "26/07/2026 00:51",
-    "contenido": "Acá me gusta coleccionar detalles de mi vida."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "links",
-    "link": "https://salva.thedev.id/links",
-    "fecha": "25/07/2026 23:07",
-    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
   },
   {
     "blog": "Tecno y Soft",
@@ -425,62 +432,6 @@
     "link": "https://56k.es/fanta/tipografias-anti-ia-fuera-de-las-garras-de-la-ia/",
     "fecha": "22/07/2026 04:17",
     "contenido": "La forma en la que vestimos la letra es importante. Podemos vestirla para un cartel en una tarberna en Esukalerria o para por ejemplo indicar que se trata de retro-informática. La cosa es que existen algunas tipografías experimentales que tratan de codificar dos mensajes en una misma imagen, es deci"
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌷 Dejar que a los otros les vaya bien y alegrarse con ellos.",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B7-Dejar-que-a-los-otros-les-vaya-bien-y-alegrarse-con-ellos.",
-    "fecha": "22/07/2026 02:46",
-    "contenido": "arbolito A veces me cuesta un poco la envidia. Quizás porque soy muy autocompasivo y me enfoco demasiado en lo mucho que me cuestan las cosas."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌷 Dios es amigo mío.",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B7-Dios-es-amigo-m%C3%ADo.",
-    "fecha": "22/07/2026 02:46",
-    "contenido": "helecho Estuve pensando mucho en esto últimamente… ¿Qué significa? ¿Influye en mi vida cotidiana? Dios es amigo mío y es infinitamente grande también."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌾 Viviendo apasionadamente la rutina",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%BE-Viviendo-apasionadamente-la-rutina",
-    "fecha": "22/07/2026 02:46",
-    "contenido": "arbolito ¿Como santifico mi vida corriente? La esencia de la vocación cristiana consiste en santificar la vida corriente."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪨  Sobre las pantallas y la tecnología, en la vida de cada uno",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%A8--Sobre-las-pantallas-y-la-tecnolog%C3%ADa,-en-la-vida-de-cada-uno",
-    "fecha": "22/07/2026 02:46",
-    "contenido": "arbolito ¿Se puede vivir plenamente teniendo que estar todos los días delante de una pantalla, conectado a internet y rodeado de conexiones bluetooth? Supongo que sí… Debe ser cuestión de adaptarse."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪴 Sobre la importancia de las cosas",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-la-importancia-de-las-cosas",
-    "fecha": "22/07/2026 02:46",
-    "contenido": "helecho Las cosas del mundo son intrascendentes."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪻 ¿Dónde encuentra la paz mi corazón?",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%BB-%C2%BFD%C3%B3nde-encuentra-la-paz-mi-coraz%C3%B3n",
-    "fecha": "22/07/2026 02:46",
-    "contenido": "helecho De algún libro.."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌸 Que es ser puro",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B8-Que-es-ser-puro",
-    "fecha": "22/07/2026 02:17",
-    "contenido": "yuyo Los que tienen la sabiduría que viene de Dios son puros, ante todo."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪴 Sobre la inocencia y el sentido del humor.",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%B4-Sobre-la-inocencia-y-el-sentido-del-humor.",
-    "fecha": "22/07/2026 02:17",
-    "contenido": "helecho Está sacado de contexto, pero esto lo escribió Nietzsche La última transformación es del león al niño. Un niño es inocencia y olvido."
   },
   {
     "blog": "Un blog",
@@ -2062,34 +2013,6 @@
     "titulo": "audric subió primera partida - beta en empulse",
     "link": "https://labaudric.net/videos/empulse/1586",
     "fecha": "27/06/2026 16:13",
-    "contenido": ""
-  },
-  {
-    "blog": "Spanish on Jorge Sanz",
-    "titulo": "Participando en el webring de blogblog.es sin JavaScript",
-    "link": "https://jorgesanz.net/posts/2026-06-27-participando-en-el-webring-de-blogblog.es-sin-javascript/",
-    "fecha": "27/06/2026 00:00",
-    "contenido": "Tal y como ya comenté a principios de junio, blogblog.es es un directorio de blogs en español impulsado por matizeta. Entre sus características, desde hace unos días, tiene un webring: un anillo de blogs en el que cada miembro enlaza al anterior, al siguiente y a uno aleatorio de la lista. En los no"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Mi visita anual a la Feria del Libro",
-    "link": "http://frikoteca.blogspot.com/2026/06/mi-visita-anual-la-feria-del-libro.html",
-    "fecha": "26/06/2026 23:46",
-    "contenido": "Me he fijado en que este año no he escrito una crónica sobre mi visita a la Feria del Libro de Madrid. Lo cierto es que ha sido una feria atípica para mí, porque en el fin de semana que me habría venido mejor ir hemos tenido la visita del Papa, y decidimos como familia evitar visitar el centro. Y en"
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Articulo: Ellos tienen tanto miedo de morir como tu",
-    "link": "https://interlan.ec/blog/2026/06/26/articulo-ellos-tienen-tanto-miedo-de-morir-como-tu/",
-    "fecha": "26/06/2026 14:00",
-    "contenido": "Del trueque de piedras al Software como Servicio (SaaS). Un análisis pragmático sobre cómo el miedo a la quiebra obliga a las empresas a inventar formas de cobrarnos para siempre."
-  },
-  {
-    "blog": "",
-    "titulo": "Tutorial de mandolina (afinación)",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/06/26/tutorial-de-mandolina-afinacion/",
-    "fecha": "26/06/2026 13:18",
     "contenido": ""
   }
 ]
