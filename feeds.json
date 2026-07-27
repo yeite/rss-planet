@@ -1,5 +1,110 @@
 [
   {
+    "blog": "Interlan",
+    "titulo": "",
+    "link": "https://interlan.ec/blog/2026/07/27/138375/",
+    "fecha": "27/07/2026 13:37",
+    "contenido": "actualizacion de activity pub para wordpress version 9.1.0 corrige lo siguiente: Fix repeated deliveries of a like or repost creating new comments after the original was marked as spam or moved to the trash."
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "Hello world!",
+    "link": "https://elrefugiodeunnerd.es/2026/07/27/hello-world/",
+    "fecha": "27/07/2026 12:57",
+    "contenido": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!"
+  },
+  {
+    "blog": "",
+    "titulo": "Vincere.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/07/27/vincere/",
+    "fecha": "27/07/2026 12:54",
+    "contenido": "Vincere esta lanzando sus cursos de esgrima medieval, la academia Vincere cuenta tanto con cursos en formato online como presencial. Abajo les dejo el enlace de la pagina de Vincere para mas información. &#62;&#62;&#62; Click Aqui &#60;&#60;&#60;"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Nadie habla de suicidios porque, al parecer, genera más suicidios",
+    "link": "https://www.fabio.com.ar/9995-nadie-habla-de-suicidios-porque-al-parecer-genera-mas-suicidios",
+    "fecha": "27/07/2026 12:00",
+    "contenido": "    \nHace unas semanas un instructor de vuelo volaba en C&oacute;rdoba con su alumna, en un momento le dice &ldquo;Vos sab&eacute;s lo que ten&eacute;s que hacer&rdquo;, se sac&oacute; el cintur&oacute;n de seguridad, abri&oacute; la puerta y salt&oacute; al vac&iacute;o.\nAs&iacute; como sucedi&oacu"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Zebulon: Come Day Of Reckoning | Ha Llegado El Día Del Doom Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/07/27/ha-llegado-el-dia-del-doom-metal/",
+    "fecha": "27/07/2026 10:35",
+    "contenido": "(2025 &#8211; Apollon Records) Ah! Los antiguos tiempos donde los discos tenían una soberbia producción,...\nThe post Zebulon: Come Day Of Reckoning | Ha Llegado El Día Del Doom Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de High Times",
+    "link": "https://cozykis.kisworld.es/analisis-de-high-times/",
+    "fecha": "27/07/2026 10:28",
+    "contenido": "Un trozito de donuts, una cucharada de personajes carismáticos y mucho amor hacen de esta novela visual el juego perfecto\nLa entrada Análisis de High Times se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "#198: algunas sensaciones vacacionales",
+    "link": "https://www.macram.es/posts/2026/07/algunas-sensaciones-vacacionales/",
+    "fecha": "27/07/2026 09:45",
+    "contenido": "Estas palabras las estoy escribiendo al vuelo, casi en una especie de ejercicio de escritura automática, en el porche del bungalow en el que me estoy alojando unos días. Hace sol. El paisaje está ligeramente turbio y huele raro, quizá por el humo de los incendios de Ávila, que aunque no están cerca "
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Programando y depurando tareas con Cron",
+    "link": "https://picandocodigo.net/2026/programando-y-depurando-tareas-con-cron/",
+    "fecha": "27/07/2026 08:00",
+    "contenido": "cron es una de las tantas herramientas geniales de sistemas Unix. Nos permite programar tareas para que se ejecuten automáticamente en momentos determinados. Podemos programar comandos que se ejecuten a una hora determinada en el día, un día específico del mes, etcétera. Tiene reputación por ser \"co"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de aaPanel en RockyLinux 10",
+    "link": "https://voidnull.es/instalacion-de-aapanel-en-rockylinux-10/",
+    "fecha": "27/07/2026 07:11",
+    "contenido": "Su interfaz gráfica intuitiva permite a los usuarios gestionar sitios web, bases de datos, servicios de correo, cortafuegos y mucho más, sin necesidad de usar la terminal constantemente."
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Inteligencia Artificial de código abierto 2026",
+    "link": "https://alt43.es/inteligencia-artificial-de-codigo-abierto-2026/",
+    "fecha": "27/07/2026 07:00",
+    "contenido": "En 2026, el código abierto en IA ya no es liderado por Meta u OpenAI: son los desarrollos chinos (DeepSeek, Qwen, GLM) quienes publican los mejores modelos, con más frecuencia y licencias más permisivas. Comentamos todo ésto de la forma más sencilla posible, con ejemplos concretos y las combinacione"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Youtubers que no me caen mal – Vol.2",
+    "link": "https://56k.es/fanta/youtubers-que-no-me-caen-mal-vol-2/",
+    "fecha": "27/07/2026 04:16",
+    "contenido": "Esto ya se ha convertido en una serie de posts en los que indico un listado de Youtubers que no me caen mal del todo al día de hoy. Es posible que mañana me caigan mal porque de repente empiezan a parecerse al Xokas / Dalas Review / Ricky Edit / &#8230; y demás basura..."
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Tres alternativas a las plataformas tradicionales: Kloak, Zerion y Cryptgeon",
+    "link": "https://gatooscuro.xyz/tres-alternativas-a-las-plataformas-tradicionales-kloak-zerion-y-cryptgeon/",
+    "fecha": "27/07/2026 04:04",
+    "contenido": "He estado verificando mi repositorio con enlaces sobre los &#8220;posibles&#8221; artículos y vaya, tengo muy buen material, aunque… muy poco espacio para poder desarrollarlo. Además, me desanima un poco no\nSeguir leyendo  Tres alternativas a las plataformas tradicionales: Kloak, Zerion y Cryptgeon\n"
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Full Circle #230 (junio 2026)",
+    "link": "https://javiersam.uy/2026/07/full-circle-230-junio-2026.html",
+    "fecha": "27/07/2026 03:00",
+    "contenido": "Aquí va mi reseña de la edición #230 de Full Circle magazine. Se trata del número correspondiente a junio de 2026 y está disponible para su descarga desde el 26 de ese mes. Consiste en un PDF de 65 páginas y de 5,8 MB. De la sección de Noticias (páginas 4 a 23) lo que me resultó más destacado fue:&#"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Trilium: automatiza tus tareas",
+    "link": "https://elblogdelazaro.org/trilium-automatizacion-tareas-scripts/",
+    "fecha": "27/07/2026 02:00",
+    "contenido": "Por: Carlos M.Publicado el 27 de julio de 2026Cómo dejo que Trilium mueva mis tareas, genere la siguiente recurrente y monte pequeños dashboards para el homelab.Continuar leyendo →#Unraid #Homelab #Trilium #Selfhosted "
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Algunas fotos de junio",
+    "link": "https://www.ericafustero.com/2026-07-algunas-fotos-de-junio",
+    "fecha": "26/07/2026 21:14",
+    "contenido": "En junio no tuve mucho tiempo para hacer fotos personales y, quizá por eso, acabé disparando dos carretes con la Pentax 17. En esos carretes hay un batiburrillo de fotos que probablemente no habría hecho con la réflex (puede que tampoco hiciera falta hacerlas), pero me viene bien tener una cámara co"
+  },
+  {
     "blog": "impermanente",
     "titulo": "Cómo Enki llegó a la península por la esquina del mapa",
     "link": "https://impermanente.es/2026/07/26/cmo-enki-lleg-a-la.html",
@@ -103,13 +208,6 @@
     "link": "https://alex.corcoles.net/2026/07/el-enemigo-en-casa-segunda-parte",
     "fecha": "25/07/2026 00:00",
     "contenido": "\n  \n    Escrib&#237; hace unos meses sobre los peligros de ciertos dispositivos tipo c&#225;maras dom&#233;sticas y dem&#225;s.\n  \n  El siguiente art&#237;culo comienza a darnos datos nuevos y preocupantes:\n  \n    FBI Seizes NetNut Proxy Platform, Popa Botnet - Krebs on Security\n  \n  ... found 42 pe"
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "Las 3 Ps al escribir blog",
-    "link": "https://blog.jagedn.dev/blog/2026/blog.html",
-    "fecha": "25/07/2026 00:00",
-    "contenido": "Las 3 P al escribir son"
   },
   {
     "blog": "Un blog",
@@ -266,13 +364,6 @@
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Hectáreas quemadas vistas con perspectiva real",
-    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
-    "fecha": "24/07/2026 00:00",
-    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Es que este videojuego me hace feliz",
     "link": "https://cozykis.kisworld.es/es-que-este-videojuego-me-hace-feliz/",
@@ -327,13 +418,6 @@
     "link": "https://56k.es/fanta/no-compres-acuarius-hazte-uno-casero/",
     "fecha": "23/07/2026 04:12",
     "contenido": "Acuarius es una bebida que pertenece a Coca-Cola Company. Eso ya es suficiente motivo como para NO consumir ese producto pero al mismo tiempo es que es carisimo. Más de 2€ una botella de esas en supermercados. El tema es que realmente no necesitamos a Coca-Cola para sentirnos vivos (aquello de «Coca"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Enlaces para ver el tiempo en Algeciras",
-    "link": "https://chancli.dev/blog/enlaces-meteo-algeciras.html",
-    "fecha": "23/07/2026 00:00",
-    "contenido": "Soy un gran aficionado a los datos en general y desde hace un tiempo con todo el asunto del cambio climático, borrascas enlazadas y olas de calor empecé a buscar fuentes de información lo más fiables posibles.\nLo primero que encontré fueron varias estaciones meteorológicas como:\n\nmeteoclimatic\naweka"
   },
   {
     "blog": "Un blog",
@@ -446,13 +530,6 @@
     "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Llevo un mes durmiendo en el sofá",
-    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
-    "fecha": "22/07/2026 00:00",
-    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
   },
   {
     "blog": "Un Diario",
@@ -749,13 +826,6 @@
     "contenido": "Hay cosas que no dejan de sorprender. Combinaciones que parecen imposibles y propuestas que de...\nThe post \"Under Bright Sadness\" Será Su Nuevo Álbum | Unteachers Y Una Extraña Propuesta first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "56K",
-    "titulo": "Ejercitando la paciencia con Manic Miner en verano",
-    "link": "https://56k.es/fanta/ejercitando-la-paciencia-con-manic-miner-en-verano/",
-    "fecha": "18/07/2026 04:34",
-    "contenido": "1983, Madrid DC, Spain. Suena «En la gruta del rey de la montaña» de fondo en el juego que Boby ha cargado desde una cinta de cassette en un ZX Spectrum 128 +2. En la cinta pone escrito con rotulador: «Manic Miner». Pone Manic Miner pero en realidad la cinta contiene en la cara A..."
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "Mostrando mi Pastebin en mi sitio",
     "link": "https://blog.luiscarlospando.com/coding/2026/07/mostrando-mi-pastebin-en-mi-sitio/",
@@ -959,13 +1029,6 @@
     "contenido": "Tuli Márquez y Guillem Caballero publican la ópera rock sobre el famoso anarquista en forma de disco doble y lo llevan al escenario en octubre. Durruti, t&#8217;estimo.\nContinuar leyendo Durruti, t&#8217;estimo en Papel Continuo."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "AHPE Apunta A Quienes Crecen Pisando A Los Demás | Los Brasileños AHPE Estrenan “Karma”",
-    "link": "https://www.delotroladometal.com.ar/2026/07/16/los-brasilenos-ahpe-estrenan-karma/",
-    "fecha": "16/07/2026 10:35",
-    "contenido": "AHPE es un buen descubrimiento dentro de lo que es la escena brasileña, más precisamente...\nThe post AHPE Apunta A Quienes Crecen Pisando A Los Demás | Los Brasileños AHPE Estrenan “Karma” first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Anális de Sorry We’re Closed",
     "link": "https://cozykis.kisworld.es/analis-de-sorry-were-closed/",
@@ -1006,13 +1069,6 @@
     "link": "https://polotman.wordpress.com/2026/07/15/reviviendo-el-robo-del-gardner/",
     "fecha": "15/07/2026 16:34",
     "contenido": "El robo de arte más caro de la historia cumple 35 años sin resolverse» Estamos de vuelta con un nuevo episodio del Sueño del Artista Podcast . Después de un modesto éxito de nuestra serie Afrofuturismo: Imaginarios del Porvenir con Keren Turmo, retomamos nuestra esencia con un tema que promete mante"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de LinkStack en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-linkstack-en-debian-13/",
-    "fecha": "15/07/2026 15:30",
-    "contenido": "Una página sencilla para centralizar nuestros enlaces y compartir perfiles, proyectos o documentación desde una sola URL."
   },
   {
     "blog": "Picando Código",
@@ -1127,13 +1183,6 @@
     "contenido": "\n Imagen sacada de Mastodon\n \n\n\nLa política británica tiene sus cosas divertidas. A diferencia de la política en la mayoría de los países, donde el procedimiento está dado por reglas hechas intencionalmente, en el Reino Unido los procedimientos son producto de siglos de tradiciones. Un ejemplo es el"
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Juegos de Nonbinary Coded Games",
-    "link": "https://cozykis.kisworld.es/juegos-de-nonbinary-coded-games/",
-    "fecha": "13/07/2026 19:46",
-    "contenido": "Acaba de empezar en Steam el evento Nonbinary Coded Games, que junta un montón de juegos hechos por devs no bienaries o juegos donde aparecen representades. Como cuenta con hasta 150 títulos, todos con una pinta chulísima, os dejo una lista de algunos que he podido probar y me han parecido una marav"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Script en Bash (y Fish) para mostrar los datos de una estación metereológica de Meteoclimatic",
     "link": "https://victorhckinthefreeworld.com/2026/07/13/script-en-bash-y-fish-para-mostrar-los-datos-de-una-estacion-metereologica-de-meteoclimatic/",
@@ -1162,25 +1211,11 @@
     "contenido": "Hace unas dos semanas me topé con The Last Quiet Thing, de Terry Godier, y me hizo ver mis dispositivos de una forma distinta.\nSiempre estoy hablando de mi constante búsqueda de calma, pero aun así, nunca había visto el asunto de los dispositivos desde ese ángulo: aparatos que nos hacen trabajar.\n\nE"
   },
   {
-    "blog": "Erica Fustero",
-    "titulo": "Duelo de compactas",
-    "link": "https://www.ericafustero.com/2026-07-duelo-de-compactas",
-    "fecha": "13/07/2026 14:57",
-    "contenido": "Un domingo de junio fui a pasar el día a Muel y Mozota con mis cámaras más compactas: la Ricoh GR IIIx, la Olympus XA2 + Ultramax 400 y la Pentax 17 + Portra 400. Habitualmente uso la Olympus con carretes en blanco y negro, pero me apetecía volver a probarla en color. También tenía [&#8230;]"
-  },
-  {
     "blog": "Lloyka",
     "titulo": "Revista Ideas Septiembre de 1981",
     "link": "https://laloica.noblogs.org/revista-ideas-septiembre-de-1981/",
     "fecha": "13/07/2026 14:12",
     "contenido": "Holita de mar, aquí les traigo (con un par de semanas de retraso) la revista que escaneamos en directo para la Biblioteca Domestica. En esta ocasión les traigo la revista «IDEAS para su hogar» de la editorial Andina, con casa central en Chile y distribución de la revista en Venezuela. Esta edición e"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Cuando todo un país debe ser nivelado para abajo y se niega",
-    "link": "https://www.fabio.com.ar/9985-cuando-todo-un-pais-debe-ser-nivelado-para-abajo-y-se-niega",
-    "fecha": "13/07/2026 14:00",
-    "contenido": "    \nDurante los &uacute;ltimos d&iacute;as una combinaci&oacute;n de \"grinding\" y odio real se mezcl&oacute; con envidia y frustraci&oacute;n y todo un pa&iacute;s fue se&ntilde;alado con el dedo injustamente, esta vez nos toc&oacute; a nosotros, pero le puede suceder a cualquiera.\n&iquest;Por qu&e"
   },
   {
     "blog": "Jinversor",
@@ -1505,13 +1540,6 @@
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Mis estadísticas de running en la web",
-    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
-    "fecha": "06/07/2026 00:00",
-    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "¿Por qué un blog y no un canal de YouTube?",
     "link": "https://tecnoysoft.com/2026/07/05/por-que-un-blog-y-no-un-canal-de-youtube/",
@@ -1608,13 +1636,6 @@
     "link": "https://elprofejuan.com.ar/acerca-de",
     "fecha": "04/07/2026 02:03",
     "contenido": "El Profe Juan\nBlog de Juan Agustín Flores (aka)(significa \"Also Know As\" que es, también conocido como, en castellano) Manieflo\n\nSoy Docente de Informática Jubilado y amante del Software Libre. Formo parte del Club del software Libre de argentina y difundo el Software Libre. \nAhora tengo un blog de "
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Los Perseguidos, ficción sonora fantástica",
-    "link": "https://chancli.dev/blog/los-perseguidos-audio-ficcion.html",
-    "fecha": "04/07/2026 00:00",
-    "contenido": "Soy un gran aficionado a los podcasts, sobre todo sigo podcasts de tecnología y algunos de misterio.\nPero hoy no vengo a recomendaros un podcast normal, es una ficción sonora de una calidad de producción increíble.\nSe trata de Los Perseguidos, basado en la novela de Fernando Benzo.\nSe ve que Onda Ce"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1972,13 +1993,6 @@
     "link": "https://sidiostedalimones.com/blog/2026/corazon-en-pausa/",
     "fecha": "29/06/2026 00:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Unir dos imagenes en mac o linux",
-    "link": "https://chancli.dev/blog/unir-dos-imagenes-mac-linux.html",
-    "fecha": "29/06/2026 00:00",
-    "contenido": "Hoy estaba en el Mac y tenía dos imágenes que quería unir.\nEstaba buscando la mejor forma de hacerlo y no encontré nada que no fueran apaños.\nFinalmente di con la solución, usando el clásico Imagemagick\nNo lo tenía instalado en Mac, así que usando Homebrew:\nbrew install imagemagick\n\nCon Imagemagick "
   },
   {
     "blog": "impermanente",
