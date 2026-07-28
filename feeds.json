@@ -1,17 +1,31 @@
 [
   {
-    "blog": "Interlan",
-    "titulo": "",
-    "link": "https://interlan.ec/blog/2026/07/27/138375/",
-    "fecha": "27/07/2026 13:37",
-    "contenido": "actualizacion de activity pub para wordpress version 9.1.0 corrige lo siguiente: Fix repeated deliveries of a like or repost creating new comments after the original was marked as spam or moved to the trash."
+    "blog": "Fausto César — Escritos",
+    "titulo": "I may be paranoid, but not an android",
+    "link": "http://www.esuntipazo.com/post/i-may-be-paranoid-but-not-an-android",
+    "fecha": "27/07/2026 21:29",
+    "contenido": "Tengo un cráneo en mi escritorio. Cuando lo muestro, no falta quien me dice: ¿Es como un memento mori? No, respondo, con una mirada cínica, esperando su reacción.   No soy especialmente fanático de estas modas ideológicas que se dan en las redes sociales, por algo las dejé. Pero el hecho de haberlas"
   },
   {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "Hello world!",
-    "link": "https://elrefugiodeunnerd.es/2026/07/27/hello-world/",
-    "fecha": "27/07/2026 12:57",
-    "contenido": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!"
+    "blog": "Bitácora de fernand0",
+    "titulo": "La soledad y los robots charlatanes",
+    "link": "https://blog.elmundoesimperfecto.com/2026/07/27/soledad-IAs/",
+    "fecha": "27/07/2026 15:00",
+    "contenido": "\n\nLas inteligencias artificiales tienen muchos usos y algunos de los que se van descubriendo pueden ser hasta preocupantes (como todo, dependerá el uso o abuso que se haga, supongo).\n\nEn When A.I. Is a Member of the Family se hablaba de la soledad y las IAs (está accesible solo para suscriptores, pe"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Un Netflix propio",
+    "link": "https://matizeta.com/2026/07/27/un-netflix-propio/",
+    "fecha": "27/07/2026 14:50",
+    "contenido": "Hace de unos meses que estoy sin pagar ningún servicio de streaming de películas (lease Netflix, HBO, etc.), una razón es la de reducir costos debido a la reciente mudanza que llevó una considerable cantidad de dinero, la otra es que las últimas veces que tuve me la pasaba más eligiendo que ver, que"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "Las inteligencias artificiales y sus recomendaciones",
+    "link": "https://fernand0.github.io//recomendaciones-seguridad/",
+    "fecha": "27/07/2026 14:00",
+    "contenido": "Cualquiera que haya jugado un rato con una IA sabe que pueden convertirse en algo adictivo: nos aligera las tareas repetitivas, nos ayuda a resolver algunos problemas técnicos sin necesidad de leerse unos cuantos foros para ver cuál es la buena…. casi siempre. En Large Language Models (LLMs) Are Fal"
   },
   {
     "blog": "",
@@ -84,6 +98,13 @@
     "contenido": "He estado verificando mi repositorio con enlaces sobre los &#8220;posibles&#8221; artículos y vaya, tengo muy buen material, aunque… muy poco espacio para poder desarrollarlo. Además, me desanima un poco no\nSeguir leyendo  Tres alternativas a las plataformas tradicionales: Kloak, Zerion y Cryptgeon\n"
   },
   {
+    "blog": "Eterno aprendiz",
+    "titulo": "Conversatorio Musical con Angelo Pierattini en La Tienda Nacional",
+    "link": "https://altgr.xyz/2026/07/27/conversatorio-musical-con-angelo-pierattini-en-la-tienda-nacional/",
+    "fecha": "27/07/2026 03:52",
+    "contenido": "Quienes compramos en preventa el vinilo del Disco Rojo de Weichafe tuvimos el privilegio de ser invitados a una sesión íntima junto a Angelo Pierattini en La Tienda Nacional, la tarde miércoles 22 de julio, para escuchar algunas de sus canciones y conseguir unas rayitas en los discos. Lo que iba a s"
+  },
+  {
     "blog": "JavierSam",
     "titulo": "Full Circle #230 (junio 2026)",
     "link": "https://javiersam.uy/2026/07/full-circle-230-junio-2026.html",
@@ -96,6 +117,13 @@
     "link": "https://elblogdelazaro.org/trilium-automatizacion-tareas-scripts/",
     "fecha": "27/07/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 27 de julio de 2026Cómo dejo que Trilium mueva mis tareas, genere la siguiente recurrente y monte pequeños dashboards para el homelab.Continuar leyendo →#Unraid #Homelab #Trilium #Selfhosted "
+  },
+  {
+    "blog": "Feed de SL1200",
+    "titulo": "- Cómo ripeo, descargo y gestiono música en mi servidor",
+    "link": "https://proxy.dystopic.world/art/music.gmi",
+    "fecha": "27/07/2026 00:00",
+    "contenido": ""
   },
   {
     "blog": "Erica Fustero",
@@ -215,6 +243,13 @@
     "link": "https://nachof.blog/posts/2026/fox-en-linux-via-android/",
     "fecha": "24/07/2026 23:15",
     "contenido": "Este post resulta que al final es casi irrelevante. Dejé una nota al final, pero igual lo publico.\n\nComo contexto, FoxWQ es un servidor de go chino, que tiene montones de personas conectas en esencialmente cualquier momento, por lo que siempre se puede conseguir un partido bastante rápido.\nEl proble"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Immich - Prueba de migración de V2 a V3",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-07-25-migracion-immich-1/",
+    "fecha": "24/07/2026 22:00",
+    "contenido": "Llega un momento en la vida de todo informático en el que te toca actualizar un servicio local que, solo de pensarlo, te provoca pesadillas 😱. En mi caso, ese servicio ha sido Immich.\nPor ese motivo he preparado este artículo, en el que he recopilado todo el proceso que he seguido para realizar la m"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -364,6 +399,13 @@
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Hectáreas quemadas vistas con perspectiva real",
+    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
+    "fecha": "24/07/2026 00:00",
+    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Es que este videojuego me hace feliz",
     "link": "https://cozykis.kisworld.es/es-que-este-videojuego-me-hace-feliz/",
@@ -399,6 +441,13 @@
     "contenido": "(1989 &#8211; Star Song) Los años ´80 serán, y son, recordados por la excelencia y...\nThe post Whitecross: Triumphant Return | Un Triunfo De Los ´80 first appeared on Del Otro Lado Metal."
   },
   {
+    "blog": "gorkula.com",
+    "titulo": "El formato físico, las minorías y las verdades a medias (II)",
+    "link": "https://www.gorkula.com/formato-fisico-minorias-verdades-a-medias-ii",
+    "fecha": "23/07/2026 10:33",
+    "contenido": "Antes de empezar con la segunda parte de este post que no debería haber escrito (porque me está dando una pereza tremenda escribir la segunda parte), aprovecho para dejar una foto que tomé el otro día en Rolling Stone Records.\n\n\n\nEn el post anterior hablábamos sobre nuevos lanzamientos y discos en f"
+  },
+  {
     "blog": "matizeta",
     "titulo": "La hora de internet",
     "link": "https://matizeta.com/2026/07/23/la-hora-de-internet/",
@@ -418,6 +467,13 @@
     "link": "https://56k.es/fanta/no-compres-acuarius-hazte-uno-casero/",
     "fecha": "23/07/2026 04:12",
     "contenido": "Acuarius es una bebida que pertenece a Coca-Cola Company. Eso ya es suficiente motivo como para NO consumir ese producto pero al mismo tiempo es que es carisimo. Más de 2€ una botella de esas en supermercados. El tema es que realmente no necesitamos a Coca-Cola para sentirnos vivos (aquello de «Coca"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Enlaces para ver el tiempo en Algeciras",
+    "link": "https://chancli.dev/blog/enlaces-meteo-algeciras.html",
+    "fecha": "23/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los datos en general y desde hace un tiempo con todo el asunto del cambio climático, borrascas enlazadas y olas de calor empecé a buscar fuentes de información lo más fiables posibles.\nLo primero que encontré fueron varias estaciones meteorológicas como:\n\nmeteoclimatic\naweka"
   },
   {
     "blog": "Un blog",
@@ -532,6 +588,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Llevo un mes durmiendo en el sofá",
+    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
+    "fecha": "22/07/2026 00:00",
+    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
+  },
+  {
     "blog": "Un Diario",
     "titulo": "Recomendación de navegadores para Android (2026)",
     "link": "https://thejnx.bearblog.dev/navegadores-android-2026/",
@@ -621,13 +684,6 @@
     "link": "https://56k.es/fanta/suenan-campanas-fuera-de-las-garras-de-la-ia/",
     "fecha": "21/07/2026 04:55",
     "contenido": "En Europa una de las primeras redes de comunicación en la edad media fueron los campanarios (pero no solamente en la edad media claro). Si querías que la gente trabajase al mismo tiempo, es decir, teniendo unos horarios tenías que avisarles de alguna forma. Aunque en algunas películas ambientadas en"
-  },
-  {
-    "blog": "gorkula.com",
-    "titulo": "El formato físico, las minorías y las verdades a medias (II)",
-    "link": "https://www.gorkula.com/formato-fisico-minorias-verdades-a-medias-ii",
-    "fecha": "20/07/2026 20:12",
-    "contenido": "Antes de empezar con la segunda parte de este post que no debería haber escrito (porque me está dando una pereza tremenda escribir la segunda parte), aprovecho para dejar una foto que tomé el otro día en Rolling Stone Records.\n\n\n\nEn el post anterior hablábamos sobre nuevos lanzamientos y discos en f"
   },
   {
     "blog": "matizeta",
@@ -1043,13 +1099,6 @@
     "contenido": "JD Ware Advance es una colección de minijuegos inspirada en WarioWare que parodia la política actual de Estados Unidos. En sus rapidísimos minijuegos tendremos que pasar pruebas como: besar culos, evitar los papeles de Epstein, hacer como que no vemos pruebas, buscar Groenlandia en un mapa o navegar"
   },
   {
-    "blog": "matizeta",
-    "titulo": "Rediseño del pie de las entradas del blog",
-    "link": "https://matizeta.com/2026/07/16/rediseno-del-pie-de-las-entradas-del-blog/",
-    "fecha": "16/07/2026 08:11",
-    "contenido": "Me gusta la simplicidad de los blogs de la plataforma Pika. Aprovechando la versatilidad de WordPress quise imitar el diseño de este en mi blog. Este a sido el resultado: Antes se veía así: Ahora se ve así: Lo que hice es ordenar un poco los elementos, darle otro estilo y agregar la caja de [&#8230;"
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "20 años del Love Parade",
     "link": "https://mareosdeungeek.es/20-anos-del-love-parade/",
@@ -1449,18 +1498,18 @@
     "contenido": "Llevo años con el mismo ritual. Se cae algo, o quiero actualizar un servicio,\no simplemente me pregunto &ldquo;¿qué tal andan mis máquinas?&rdquo;, y la respuesta siempre es\nla misma: abrir una terminal, SSH a la máquina, cd docker/loquesea,\ndocker compose up -d, docker logs -f, mirar, salir, y a la"
   },
   {
-    "blog": "gorkula.com",
-    "titulo": "El formato físico, las minorías y las verdades a medias",
-    "link": "https://www.gorkula.com/formato-fisico-minorias-verdades-a-medias",
-    "fecha": "07/07/2026 20:07",
-    "contenido": "Ahora que estoy tratando de implicarme un poco más en la blogosfera de habla hispana aprovecho para dar mi opinión sobre un melón abierto por Matizeta: ¿Por qué quieres ser dueño de algo?\n\nMatizeta se pregunta, ¿Cúando fue que ecuchaste el CD de tu artista favorito de principio a fin? Yo sigo escuch"
-  },
-  {
     "blog": "Luis Carlos Pando",
     "titulo": "El bien que quiero hacer y no hago",
     "link": "https://blog.luiscarlospando.com/personal/2026/07/el-bien-que-quiero-hacer-y-no-hago/",
     "fecha": "07/07/2026 16:55",
     "contenido": "Haz scroll a la derecha dentro de esta lista de abajo (o arrastra si estás en móvil) para poder leerla completa. - Predico sobre Dios los domingos y el lunes ya ando de mal humor con quien menos se lo merece. - Le digo a la gente que hay que soltar el pasado, y yo"
+  },
+  {
+    "blog": "gorkula.com",
+    "titulo": "El formato físico, las minorías y las verdades a medias",
+    "link": "https://www.gorkula.com/formato-fisico-minorias-verdades-a-medias",
+    "fecha": "07/07/2026 15:41",
+    "contenido": "Ahora que estoy tratando de implicarme un poco más en la blogosfera de habla hispana aprovecho para dar mi opinión sobre un melón abierto por Matizeta: ¿Por qué quieres ser dueño de algo?\n\nMatizeta se pregunta, ¿Cúando fue que ecuchaste el CD de tu artista favorito de principio a fin? Yo sigo escuch"
   },
   {
     "blog": "Victorhck in the free world",
@@ -1505,18 +1554,18 @@
     "contenido": "\n\nDesde la URJC se ha organizado la I Jornada sobre Software Libre e Inteligencia Artificial Abierta (seLIA), subtitulada ‘Una jornada para compartir conocimientos, experiencias, herramientas e ideas en torno a la intersección entre software libre e IA abierta’ y pensé que podría ser un buen foro pa"
   },
   {
-    "blog": "gorkula.com",
-    "titulo": "La brújula de la IA",
-    "link": "https://www.gorkula.com/brujula-ia",
-    "fecha": "06/07/2026 14:44",
-    "contenido": "Copio éste meme del blog de Manuel Moreale.\n\nUn cuestionario sin mucho rigor (imagino) que te “ayuda” a describir cómo te sientes con respecto a la IA tras responder a 15 preguntas.\n\nPuedes no responder a alguna si no quieres o no sabes. Yo no respondí a una relacionada con la medicina porque no sé "
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Lispr - Dictado de voz para Mac con enfoque en la privacidad",
     "link": "https://guillermolatorre.com/clips/lispr-dictado-de-voz-para-mac-con-enfoque-en-la-privacidad",
     "fecha": "06/07/2026 13:00",
     "contenido": "Hay muchas opciones de dictado de voz con IA que ayuda a interpretar el texto correctamente. Lispr me sorprendió mucho porque funciona como los mejores, pero está enfocado en la privacidad: no hay registro ni datos de usuario y todas las grabaciones se eliminan automáticamente. De momento es gratis "
+  },
+  {
+    "blog": "gorkula.com",
+    "titulo": "La brújula de la IA",
+    "link": "https://www.gorkula.com/brujula-ia",
+    "fecha": "06/07/2026 09:44",
+    "contenido": "Copio éste meme del blog de Manuel Moreale.\n\nUn cuestionario sin mucho rigor (imagino) que te “ayuda” a describir cómo te sientes con respecto a la IA tras responder a 15 preguntas.\n\nPuedes no responder a alguna si no quieres o no sabes. Yo no respondí a una relacionada con la medicina porque no sé "
   },
   {
     "blog": "Manu Mateos",
@@ -1538,6 +1587,13 @@
     "link": "https://javiersam.uy/2026/07/para-tener-a-mano-lv-2.html",
     "fecha": "06/07/2026 03:00",
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Mis estadísticas de running en la web",
+    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
+    "fecha": "06/07/2026 00:00",
+    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
   },
   {
     "blog": "Tecno y Soft",
@@ -1636,6 +1692,13 @@
     "link": "https://elprofejuan.com.ar/acerca-de",
     "fecha": "04/07/2026 02:03",
     "contenido": "El Profe Juan\nBlog de Juan Agustín Flores (aka)(significa \"Also Know As\" que es, también conocido como, en castellano) Manieflo\n\nSoy Docente de Informática Jubilado y amante del Software Libre. Formo parte del Club del software Libre de argentina y difundo el Software Libre. \nAhora tengo un blog de "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Los Perseguidos, ficción sonora fantástica",
+    "link": "https://chancli.dev/blog/los-perseguidos-audio-ficcion.html",
+    "fecha": "04/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los podcasts, sobre todo sigo podcasts de tecnología y algunos de misterio.\nPero hoy no vengo a recomendaros un podcast normal, es una ficción sonora de una calidad de producción increíble.\nSe trata de Los Perseguidos, basado en la novela de Fernando Benzo.\nSe ve que Onda Ce"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1939,6 +2002,13 @@
     "contenido": "&nbsp; &nbsp; Ascienden las temperaturas y desciende la actividad en los blogs. Es casi una ley natural. Le dais la espalda al teclado y el espacio en blanco deja de importar. Para muchos de vosotros supone tal liberación que ya nunca regresáis. El verano llega y se va con vuestra constancia y creat"
   },
   {
+    "blog": "gorkula.com",
+    "titulo": "Animal Crossing, de Kelsey Lewin",
+    "link": "https://www.gorkula.com/animal-crossing-kelsey-lewin",
+    "fecha": "29/06/2026 20:08",
+    "contenido": "Boss Fight Books es una editorial especializada en libros sobre videojuegos. Tienen unas cuantas decenas de títulos publicados. Éste es el primero que leo.\n\n\n\nLa primera vez que escuché sobre Animal Crossing fue en la escuela. Me cambié de escuela para segundo de bachillerato y trataba de encajar. M"
+  },
+  {
     "blog": "Jinversor",
     "titulo": "La riqueza es lo que queda",
     "link": "https://jinversor.co/2026/06/la-riqueza-es-lo-que-queda/",
@@ -1995,6 +2065,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Unir dos imagenes en mac o linux",
+    "link": "https://chancli.dev/blog/unir-dos-imagenes-mac-linux.html",
+    "fecha": "29/06/2026 00:00",
+    "contenido": "Hoy estaba en el Mac y tenía dos imágenes que quería unir.\nEstaba buscando la mejor forma de hacerlo y no encontré nada que no fueran apaños.\nFinalmente di con la solución, usando el clásico Imagemagick\nNo lo tenía instalado en Mac, así que usando Homebrew:\nbrew install imagemagick\n\nCon Imagemagick "
+  },
+  {
     "blog": "impermanente",
     "titulo": "Fuera de la caja... hay otra caja",
     "link": "https://impermanente.es/2026/06/28/fuera-de-la-caja-hay.html",
@@ -2021,12 +2098,5 @@
     "link": "https://javiersam.uy/2026/06/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-fecha-3.html",
     "fecha": "28/06/2026 04:37",
     "contenido": "Ayer se completó la tercera y última fecha de la fase de grupos del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Las 6 selecciones sudamericanas enfrentaron a 4 rivales de Europa y 2 de Asia (porque Australia participa de la eliminatoria asiática). Brasil 3 &#8211; Es"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió primera partida - beta en empulse",
-    "link": "https://labaudric.net/videos/empulse/1586",
-    "fecha": "27/06/2026 16:13",
-    "contenido": ""
   }
 ]
