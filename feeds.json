@@ -1,10 +1,66 @@
 [
   {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "SEO Japonés",
+    "link": "https://elrefugiodeunnerd.es/2026/07/29/seo-japones/",
+    "fecha": "29/07/2026 12:47",
+    "contenido": "Bueno, cómo comenté recientemente en mi microblog mi web fue atacada por un famoso spam de SEO japonés. Afortunadamente no fue nada grave, de hecho indexaron pocas páginas (relativamente, han llegado a tener millones y millones, yo unas 45 mil más o menos, después pongo imágenes). Consiguieron explo"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Cómo encontrar los campos guardados en el autofill de Chrome",
+    "link": "https://www.fabio.com.ar/9997-como-encontrar-los-campos-guardados-en-el-autofill-de-chrome",
+    "fecha": "29/07/2026 12:00",
+    "contenido": "    \n&iquest;Muy espec&iacute;fico? La cosa es as&iacute;, ten&iacute;a un dato en un autoguardado de un formulario, el formulario cambi&oacute; el nombre de ese campo y nunca m&aacute;s pude encontrar el texto autoguardado, pero &iquest;Estaba todav&iacute;a en mi browser?\nEntonces me puse a buscar"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Zamarbide Inicia Gira En Septiembre Por Argentina, Uruguay, México, Ecuador Y Colombia | Tour 40th Aniversario De El Fin De Los Inicuos",
+    "link": "https://www.delotroladometal.com.ar/2026/07/29/tour-40th-aniversario-de-el-fin-de-los-inicuos/",
+    "fecha": "29/07/2026 10:35",
+    "contenido": "&#8220;El Fin De Los Inicuos&#8221; fue el tercer y último disco de V8. Lanzado en...\nThe post Zamarbide Inicia Gira En Septiembre Por Argentina, Uruguay, México, Ecuador Y Colombia | Tour 40th Aniversario De El Fin De Los Inicuos first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Convierte cualquier dispositivo en un WriterDeck usando un pendrive",
+    "link": "https://matizeta.com/2026/07/29/convierte-cualquier-dispositivo-en-un-writerdeck-usando-un-pendrive/",
+    "fecha": "29/07/2026 08:11",
+    "contenido": "Si lo tuyo son los procesadores de texto minimalistas, o quieres tener un dispositivo para la escritura, Micro Journal&#160;lo podés hacer andar bajo cualquier cosa (Raspberry o Linux). Te permite arrancarlo desde una unidad USB,&#160; así que podés convertir temporalmente cualquier ordenador en un "
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Skynet no se despertó, se trata de marketing para evadir responsabilidades",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/07/29/20260729-skynet-no-se-deperto/",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/07/29/20260729-skynet-no-se-desperto/",
     "fecha": "29/07/2026 08:00",
     "contenido": "HuggingFace se encontró un puñado de bots de OpenAI intentando explotar vulnerabilidades en sus sistemas"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Integrar Proxmox en Home Assistant",
+    "link": "https://voidnull.es/integrar-proxmox-en-home-assistant/",
+    "fecha": "29/07/2026 07:10",
+    "contenido": "Descubre cómo integrar Proxmox con Home Assistant y monitoriza tus VMs y contenedores LXC fácilmente."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Donald Trump en juegos de los años 90",
+    "link": "https://56k.es/fanta/donald-trump-en-juegos-de-principios-de-los-anos-90/",
+    "fecha": "29/07/2026 04:17",
+    "contenido": "En el juego «Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work» (a partir de ahora Larry 5) te mueves en avión y en taxi/limusina. Tanto cuando manejas a Larry como cuando manejas a Patti. Pasarás en la aventura gráfica por diferentes ciudades (Nueva York, Atlantic city, Miami, &#"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Rosalía en Movistar Arena",
+    "link": "https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/",
+    "fecha": "29/07/2026 02:30",
+    "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Quitando un avispero en casa",
+    "link": "https://chancli.dev/blog/quitar-avispero.html",
+    "fecha": "29/07/2026 00:00",
+    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
   },
   {
     "blog": "Picando Código",
@@ -301,6 +357,13 @@
     "contenido": "Uno de los debates más recurrentes dentro de la comunidad GNU/Linux gira en torno al uso de la terminal. Es una discusión que reaparece una y otra vez, especialmente cuando se habla de usuarios noveles o de quienes llegan desde Windows o macOS. Mientras unos consideran que la terminal es un vestigio"
   },
   {
+    "blog": "Jinversor",
+    "titulo": "No quiero tener un Dumbphone",
+    "link": "https://jinversor.co/2026/07/no-quiero-tener-un-dumbphone/",
+    "fecha": "25/07/2026 17:31",
+    "contenido": "Así como no quiero cambiar mi auto por un caballo, tampoco quiero tener un Dumbphone. También prefiero ir al supermercado a comprar el queso que tener una vaca en mi [&#8230;]\nLa entrada No quiero tener un Dumbphone se publicó primero en Jinversor."
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "¿Por qué en España un 12% de los votos puede valer cero escaños?",
     "link": "https://blog.danielaragay.net/sistema-electoral-sueco-vs-espana/",
@@ -343,13 +406,6 @@
     "contenido": "A jobs le gustaban los viajes a la India y también los de LSD. En esta entrada voy a comentar algunos falsos mitos sobre Steve Jobs y de paso algunas anécdotas que podrían apuntar a que era un poco gilipollas. &#160; 1. Steve Jobs no creó el juego Breakout 2. Steve Jobs aparcaba en las..."
   },
   {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Software migrations and setup",
-    "link": "https://blog.zurdala.es/blog/software-migrations-and-setup/",
-    "fecha": "25/07/2026 00:14",
-    "contenido": "Hallo,\nSince I posted an update on what I use, I thought it would be good to dump my current thoughts on some of the tools here.\nAround a year and a half I finally decided to buy a domain and slow de-google my digital life. This is when I got zurdala.es.\nThe thing is that I am not fully satisfied wi"
-  },
-  {
     "blog": "El blog es mío",
     "titulo": "El enemigo en casa (segunda parte)",
     "link": "https://alex.corcoles.net/2026/07/el-enemigo-en-casa-segunda-parte",
@@ -362,13 +418,6 @@
     "link": "https://blog.jagedn.dev/blog/2026/blog.html",
     "fecha": "25/07/2026 00:00",
     "contenido": "Las 3 P al escribir son"
-  },
-  {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Tools as of July 2026",
-    "link": "https://blog.zurdala.es/blog/tools-as-of-july-2026/",
-    "fecha": "24/07/2026 23:59",
-    "contenido": "New year, new update of the used programmes, applications and tools.\n\nPrevious version here\nIn bold, I have marked the updates:\n\n📨 eMail Service: Fastmail (checking out Infomaniak)\n📮 eMail Client: Fastmail and Thunderbird\n📝 Notes: back to Google Keep :(\n📆 Calendar: Fastmail (checking out Infomaniak)"
   },
   {
     "blog": "Un blog",
@@ -812,13 +861,6 @@
     "contenido": ""
   },
   {
-    "blog": "56K",
-    "titulo": "Suenan campanas  – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/suenan-campanas-fuera-de-las-garras-de-la-ia/",
-    "fecha": "21/07/2026 04:55",
-    "contenido": "En Europa una de las primeras redes de comunicación en la edad media fueron los campanarios (pero no solamente en la edad media claro). Si querías que la gente trabajase al mismo tiempo, es decir, teniendo unos horarios tenías que avisarles de alguna forma. Aunque en algunas películas ambientadas en"
-  },
-  {
     "blog": "matizeta",
     "titulo": "Colaboraciones entre blogs",
     "link": "https://matizeta.com/2026/07/20/colaboraciones-entre-blogs/",
@@ -924,13 +966,6 @@
     "contenido": "What Surrounds Us es un juego de puzles bastante original. Cuando lo descubrí por primera vez, no me quedó muy claro qué era, ni entendí muy bien el concepto, pero después de probarlo, me ha parecido una idea muy chula. Seremos un pequeño circulito en un mundo lleno también de estos. Y es que lo [&#"
   },
   {
-    "blog": "matizeta",
-    "titulo": "Volver a la presencialidad",
-    "link": "https://matizeta.com/2026/07/20/volver-a-la-presencialidad/",
-    "fecha": "20/07/2026 08:11",
-    "contenido": "En poco tiempo mi vida laboral va a dar un giro: lamentablemente volveré a la presencialidad. Debo decir que fue lindo mientras duró. Vivi en otro país, visité por tiempos prolongados otros, y tuve tiempo para mis proyectos.&#160; Es de calentar sillas a mi no me gusta. Al fin y al cabo, al menos en"
-  },
-  {
     "blog": "Erica Fustero",
     "titulo": "A secret illustration project",
     "link": "https://www.ericafustero.com/2026-07-a-secret-illustration-project",
@@ -992,13 +1027,6 @@
     "link": "https://blog.luiscarlospando.com/diseno/2026/07/tu-blog-necesita-un-respondiendo-a/",
     "fecha": "18/07/2026 19:16",
     "contenido": "Acabo de implementar algo nuevo en mi blog. Un pequeño indicador que dice “Respondiendo a” cuando un post mío es en respuesta a otro post, ya sea de alguien más o uno propio. En algún momento pienso platicar los detalles técnicos de cómo lo armé, pero este post es más bien para hablar de la"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"Under Bright Sadness\" Será Su Nuevo Álbum | Unteachers Y Una Extraña Propuesta",
-    "link": "https://www.delotroladometal.com.ar/2026/07/18/unteachers-y-una-extrana-propuesta/",
-    "fecha": "18/07/2026 12:00",
-    "contenido": "Hay cosas que no dejan de sorprender. Combinaciones que parecen imposibles y propuestas que de...\nThe post \"Under Bright Sadness\" Será Su Nuevo Álbum | Unteachers Y Una Extraña Propuesta first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Luis Carlos Pando",
@@ -1127,13 +1155,6 @@
     "contenido": "¿Qué es eso del error \"shebang\"?Un error shebang, es un error en el que no se encuentra el intérprete especificado en la primera línea del script&nbsp;En el caso de un script bash linux lo podemos comenter con un error tan aparentemente inocente como empezar los scripts con la línea:#/bin/bash&nbsp;"
   },
   {
-    "blog": "_ voidNull",
-    "titulo": "Find My Device: Instalación de un servidor propio",
-    "link": "https://voidnull.es/find-my-device-instalacion-de-un-servidor-propio/",
-    "fecha": "17/07/2026 07:11",
-    "contenido": "FMD (Find My Device), una alternativa open source y descentralizada para localizar y controlar tu móvil Android de forma remota"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Cómo hago mi kéfir casero (y qué hago con el requesón que sobra)",
     "link": "https://blog.danielaragay.net/kefir-casero-paso-a-paso/",
@@ -1153,6 +1174,13 @@
     "link": "https://victorhckinthefreeworld.com/2026/07/16/muestra-los-datos-de-meteoclimatic-en-tu-escritorio-con-este-plasmoide-para-plasma-6-de-kde/",
     "fecha": "16/07/2026 16:26",
     "contenido": "Este plasmoide que he realizado muestra de una manera muy gráfica los valores ofrecidos por las estaciones de aficionados que se recogen en Meteoclimatic"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "La tumba olvidada",
+    "link": "https://jinversor.co/2026/07/la-tumba-olvidada/",
+    "fecha": "16/07/2026 15:39",
+    "contenido": "Estuve en una ciudad donde acostumbraba pasar tiempo en mis periodos vacacionales. De tanto ir, año tras año, me hice amigo de los otros jóvenes de la cuadra. Con el [&#8230;]\nLa entrada La tumba olvidada se publicó primero en Jinversor."
   },
   {
     "blog": "Región Cuatro",
@@ -1232,13 +1260,6 @@
     "contenido": "&nbsp;Ya sin red ni frío, con toda el hambre;degollado en la sombra,pobre en el verano desbordado,pobre en el deshielo a golpe de espada,inconcebible en la dimensión de la penuria,desdibujado en las imprecisiones del primer paso,de la primera mirada y de la primera palabra,que abarca todas las premi"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Esa cosa que tienen los de RRHH con el wallpaper corpo",
-    "link": "https://www.fabio.com.ar/9987-esa-cosa-que-tienen-los-de-rrhh-con-el-wallpaper-corpo",
-    "fecha": "15/07/2026 12:00",
-    "contenido": "    \nNo tengo PC de la empresa en este momento, pero la tuve y tambi&eacute;n sobreviv&iacute; al ambente \"Corpo\" y de todas las estupideces que hace una gran empresa a sus empleados una de las m&aacute;s curiosas es cuando los de RRHH se meten en la computadora.\nLos de RRHH son espec&iacute;menes m"
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Las mejores demos de Nonbinary Coded Games",
     "link": "https://cozykis.kisworld.es/las-mejores-demos-de-nonbinary-coded-games/",
@@ -1316,13 +1337,6 @@
     "contenido": "\n Imagen sacada de Mastodon\n \n\n\nLa política británica tiene sus cosas divertidas. A diferencia de la política en la mayoría de los países, donde el procedimiento está dado por reglas hechas intencionalmente, en el Reino Unido los procedimientos son producto de siglos de tradiciones. Un ejemplo es el"
   },
   {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Cambio de trabajo",
-    "link": "https://blog.zurdala.es/blog/cambio-de-trabajo/",
-    "fecha": "13/07/2026 20:07",
-    "contenido": "Aviso para navegantes: se viene queja sobre queja. Mierda de economía capitalista\nNo tengo mucho que decir aquí, salvo que he cambiado de trabajo. Es una historia complicada: la empresa en la que estaba antes (A) fue comprada por otra (C). Yo me fui de A en su momento a otra en Alemania (B) por vari"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Script en Bash (y Fish) para mostrar los datos de una estación metereológica de Meteoclimatic",
     "link": "https://victorhckinthefreeworld.com/2026/07/13/script-en-bash-y-fish-para-mostrar-los-datos-de-una-estacion-metereologica-de-meteoclimatic/",
@@ -1356,6 +1370,13 @@
     "link": "https://laloica.noblogs.org/revista-ideas-septiembre-de-1981/",
     "fecha": "13/07/2026 14:12",
     "contenido": "Holita de mar, aquí les traigo (con un par de semanas de retraso) la revista que escaneamos en directo para la Biblioteca Domestica. En esta ocasión les traigo la revista «IDEAS para su hogar» de la editorial Andina, con casa central en Chile y distribución de la revista en Venezuela. Esta edición e"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "BTC & Defi: nuevos libros",
+    "link": "https://jinversor.co/2026/07/btc-defi-nuevos-libros/",
+    "fecha": "13/07/2026 13:33",
+    "contenido": "En el repositorio Mega del personaje misteriosísimo encontré nuevos libros de BTC &#38; Defi. Aclaro que no he leído estos libros y por tanto no es una recomendación. Apenas estoy [&#8230;]\nLa entrada BTC & Defi: nuevos libros se publicó primero en Jinversor."
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -2086,45 +2107,10 @@
     "contenido": "Boss Fight Books es una editorial especializada en libros sobre videojuegos. Tienen unas cuantas decenas de títulos publicados. Éste es el primero que leo.\n\n\n\nLa primera vez que escuché sobre Animal Crossing fue en la escuela. Me cambié de escuela para segundo de bachillerato y trataba de encajar. M"
   },
   {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Vacaciones",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/vacaciones.html",
-    "fecha": "29/06/2026 13:39",
-    "contenido": "Tres y media de la tarde y aquí estoy echado, dispuesto a reposar un poco la comida. Se puede decir que estoy oficialmente de VACACIONES.Se acabaron los madrugones y los kilómetros y kilómetros de carretera de lunes a viernes. Aunque parecía que no llegaría, el día ha llegado."
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Bizum Pay: arquitectura, seguridad y privacidad",
-    "link": "https://alt43.es/bizum-pay-arquitectura-seguridad-y-privacidad/",
-    "fecha": "29/06/2026 11:32",
-    "contenido": "Análisis técnico de la arquitectura, seguridad y las implicaciones de privacidad de Bizum Pay. Comparativa con los medios de pago que actualmente dominan el mercado: Apple Pay y Google Pay. Tres modelos radicalmente distintos. Mención especial a GNU Taler, único proyecto actual de código abierto."
-  },
-  {
-    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
-    "titulo": "The Gold, una ambición alentada por el sistema",
-    "link": "https://seyker.eu/the-gold-una-ambicion-alentada-por-el-sistema/",
-    "fecha": "29/06/2026 10:48",
-    "contenido": "The Gold no es en realidad mi primera serie de 2026, pero sí la primera que terminé de principio a fin sus dos temporadas completas. Se trata de una historia bastante conocida y en una estructura tan consistente como estandarizada. Sin embargo, como ocurre con todas estas historias, hay algo más que"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Una de breves #3: Último día",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/una-de-breves-3-ultimo-dia.html",
-    "fecha": "29/06/2026 08:57",
-    "contenido": "Último día en este centro y, como casi toda la semana anterior, con poco o nada que hacer. Más horas de trayecto conduciendo que realmente con algo productivo que hacer. Menos mal que ya se termina."
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Dame soluciones, no problemas",
-    "link": "https://gatooscuro.xyz/dame-soluciones-no-problemas/",
-    "fecha": "29/06/2026 06:44",
-    "contenido": "Nota: No tengo la respuesta a todo; por ende, me puse creativo con este artículo basado en mi experiencia. Todo lo que lees acá fue hecho de forma local (sin\nSeguir leyendo  Dame soluciones, no problemas\nEl cargo Dame soluciones, no problemas apareció primero en El cuarto de GatoOscuro."
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Plantillas y metadatos en Trilium",
-    "link": "https://elblogdelazaro.org/trilium-plantillas-metadatos-notas-reutilizables/",
-    "fecha": "29/06/2026 02:00",
-    "contenido": "Por: Carlos M.Publicado el 29 de junio de 2026Cómo usar plantillas y metadatos en Trilium para que cada nota nazca con la estructura adecuada y no tengas que empezar desde cero.Continuar leyendo →#Homelab #Trilium "
+    "blog": "Jinversor",
+    "titulo": "La riqueza es lo que queda",
+    "link": "https://jinversor.co/2026/06/la-riqueza-es-lo-que-queda/",
+    "fecha": "29/06/2026 16:30",
+    "contenido": "¿Qué es la riqueza? Si le hiciéramos esa pregunta a personas del común con seguridad recibiríamos respuestas muy vagas del tipo: «es tener mucha plata», o respuestas muy específicas del [&#8230;]\nLa entrada La riqueza es lo que queda se publicó primero en Jinversor."
   }
 ]
