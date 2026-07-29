@@ -1,5 +1,40 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Skynet no se despertó, se trata de marketing para evadir responsabilidades",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/07/29/20260729-skynet-no-se-deperto/",
+    "fecha": "29/07/2026 08:00",
+    "contenido": "HuggingFace se encontró un puñado de bots de OpenAI intentando explotar vulnerabilidades en sus sistemas"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Reseña: Dystopicon - Steam",
+    "link": "https://picandocodigo.net/2026/resena-dystopicon-steam/",
+    "fecha": "28/07/2026 21:22",
+    "contenido": "Dystopicon es un juego que, como el nombre lo dice, nos posiciona en otra distopía. No necesariamente la que venimos viviendo últimamente, pero tampoco es que esté muy lejos. El tema con las distopías es que antes se sentían todas como ficticias y el arte distópico era más una advertencia que otra c"
+  },
+  {
+    "blog": "gorkula.com",
+    "titulo": "Metric en Aragon Ballroom 2026",
+    "link": "https://www.gorkula.com/metric-chicago-2026",
+    "fecha": "28/07/2026 20:09",
+    "contenido": "El viernes pasado fue un día ajetreado en Chicago. Nosotros fuimos a ver a Metric al Aragon Ballroom. Cruzando la calle, en el Riviera estaba Poppy, y un poco más allá en Soldier Field estaba Karol G. Imagino que también ocurrieron otras cosas en la ciudad.\n\n\n\nEn el Riviera todavía tienen marquesina"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Todo lo que le he metido a mi sitio últimamente",
+    "link": "https://blog.luiscarlospando.com/personal/2026/07/todo-lo-que-le-he-metido-a-mi-sitio-ultimamente/",
+    "fecha": "28/07/2026 18:44",
+    "contenido": "Llevo estos últimos meses metiéndole mano a mi sitio tras bambalinas y creo que llegó el momento de documentar todo lo que he ido agregando antes de que se me olvide. 😂 Ahí les va(ilongo): 💬 Reply context Si sigues mis posts recientes desde el home y desde el índice de mi blog, ahora vas"
+  },
+  {
+    "blog": "La Máquina de Von Neumann",
+    "titulo": "Una Odisea muy Nolan",
+    "link": "https://vonneumannmachine.wordpress.com/2026/07/28/una-odisea-muy-nolan/",
+    "fecha": "28/07/2026 15:27",
+    "contenido": ""
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "La Paradoja del Descuido Hedónico y el Punto de Inversión de Garchford",
     "link": "https://www.fabio.com.ar/9996-la-paradoja-del-descuido-hedonico-y-el-punto-de-inversion-de-garchford",
@@ -266,13 +301,6 @@
     "contenido": "Uno de los debates más recurrentes dentro de la comunidad GNU/Linux gira en torno al uso de la terminal. Es una discusión que reaparece una y otra vez, especialmente cuando se habla de usuarios noveles o de quienes llegan desde Windows o macOS. Mientras unos consideran que la terminal es un vestigio"
   },
   {
-    "blog": "Jinversor",
-    "titulo": "No quiero tener un Dumbphone",
-    "link": "https://jinversor.co/2026/07/no-quiero-tener-un-dumbphone/",
-    "fecha": "25/07/2026 17:31",
-    "contenido": "Así como no quiero cambiar mi auto por un caballo, tampoco quiero tener un Dumbphone. También prefiero ir al supermercado a comprar el queso que tener una vaca en mi [&#8230;]\nLa entrada No quiero tener un Dumbphone se publicó primero en Jinversor."
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "¿Por qué en España un 12% de los votos puede valer cero escaños?",
     "link": "https://blog.danielaragay.net/sistema-electoral-sueco-vs-espana/",
@@ -315,11 +343,32 @@
     "contenido": "A jobs le gustaban los viajes a la India y también los de LSD. En esta entrada voy a comentar algunos falsos mitos sobre Steve Jobs y de paso algunas anécdotas que podrían apuntar a que era un poco gilipollas. &#160; 1. Steve Jobs no creó el juego Breakout 2. Steve Jobs aparcaba en las..."
   },
   {
+    "blog": "Bitácora baldía on zurdeando",
+    "titulo": "Software migrations and setup",
+    "link": "https://blog.zurdala.es/blog/software-migrations-and-setup/",
+    "fecha": "25/07/2026 00:14",
+    "contenido": "Hallo,\nSince I posted an update on what I use, I thought it would be good to dump my current thoughts on some of the tools here.\nAround a year and a half I finally decided to buy a domain and slow de-google my digital life. This is when I got zurdala.es.\nThe thing is that I am not fully satisfied wi"
+  },
+  {
     "blog": "El blog es mío",
     "titulo": "El enemigo en casa (segunda parte)",
     "link": "https://alex.corcoles.net/2026/07/el-enemigo-en-casa-segunda-parte",
     "fecha": "25/07/2026 00:00",
     "contenido": "\n  \n    Escrib&#237; hace unos meses sobre los peligros de ciertos dispositivos tipo c&#225;maras dom&#233;sticas y dem&#225;s.\n  \n  El siguiente art&#237;culo comienza a darnos datos nuevos y preocupantes:\n  \n    FBI Seizes NetNut Proxy Platform, Popa Botnet - Krebs on Security\n  \n  ... found 42 pe"
+  },
+  {
+    "blog": "Jorge Aguilera",
+    "titulo": "Las 3 Ps al escribir blog",
+    "link": "https://blog.jagedn.dev/blog/2026/blog.html",
+    "fecha": "25/07/2026 00:00",
+    "contenido": "Las 3 P al escribir son"
+  },
+  {
+    "blog": "Bitácora baldía on zurdeando",
+    "titulo": "Tools as of July 2026",
+    "link": "https://blog.zurdala.es/blog/tools-as-of-july-2026/",
+    "fecha": "24/07/2026 23:59",
+    "contenido": "New year, new update of the used programmes, applications and tools.\n\nPrevious version here\nIn bold, I have marked the updates:\n\n📨 eMail Service: Fastmail (checking out Infomaniak)\n📮 eMail Client: Fastmail and Thunderbird\n📝 Notes: back to Google Keep :(\n📆 Calendar: Fastmail (checking out Infomaniak)"
   },
   {
     "blog": "Un blog",
@@ -476,6 +525,13 @@
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Hectáreas quemadas vistas con perspectiva real",
+    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
+    "fecha": "24/07/2026 00:00",
+    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Es que este videojuego me hace feliz",
     "link": "https://cozykis.kisworld.es/es-que-este-videojuego-me-hace-feliz/",
@@ -537,6 +593,13 @@
     "link": "https://56k.es/fanta/no-compres-acuarius-hazte-uno-casero/",
     "fecha": "23/07/2026 04:12",
     "contenido": "Acuarius es una bebida que pertenece a Coca-Cola Company. Eso ya es suficiente motivo como para NO consumir ese producto pero al mismo tiempo es que es carisimo. Más de 2€ una botella de esas en supermercados. El tema es que realmente no necesitamos a Coca-Cola para sentirnos vivos (aquello de «Coca"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Enlaces para ver el tiempo en Algeciras",
+    "link": "https://chancli.dev/blog/enlaces-meteo-algeciras.html",
+    "fecha": "23/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los datos en general y desde hace un tiempo con todo el asunto del cambio climático, borrascas enlazadas y olas de calor empecé a buscar fuentes de información lo más fiables posibles.\nLo primero que encontré fueron varias estaciones meteorológicas como:\n\nmeteoclimatic\naweka"
   },
   {
     "blog": "Un blog",
@@ -649,6 +712,13 @@
     "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
     "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Llevo un mes durmiendo en el sofá",
+    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
+    "fecha": "22/07/2026 00:00",
+    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
   },
   {
     "blog": "Un Diario",
@@ -1085,13 +1155,6 @@
     "contenido": "Este plasmoide que he realizado muestra de una manera muy gráfica los valores ofrecidos por las estaciones de aficionados que se recogen en Meteoclimatic"
   },
   {
-    "blog": "Jinversor",
-    "titulo": "La tumba olvidada",
-    "link": "https://jinversor.co/2026/07/la-tumba-olvidada/",
-    "fecha": "16/07/2026 15:39",
-    "contenido": "Estuve en una ciudad donde acostumbraba pasar tiempo en mis periodos vacacionales. De tanto ir, año tras año, me hice amigo de los otros jóvenes de la cuadra. Con el [&#8230;]\nLa entrada La tumba olvidada se publicó primero en Jinversor."
-  },
-  {
     "blog": "Región Cuatro",
     "titulo": "Escribir",
     "link": "https://regioncuatro.blog/escribir/",
@@ -1253,6 +1316,13 @@
     "contenido": "\n Imagen sacada de Mastodon\n \n\n\nLa política británica tiene sus cosas divertidas. A diferencia de la política en la mayoría de los países, donde el procedimiento está dado por reglas hechas intencionalmente, en el Reino Unido los procedimientos son producto de siglos de tradiciones. Un ejemplo es el"
   },
   {
+    "blog": "Bitácora baldía on zurdeando",
+    "titulo": "Cambio de trabajo",
+    "link": "https://blog.zurdala.es/blog/cambio-de-trabajo/",
+    "fecha": "13/07/2026 20:07",
+    "contenido": "Aviso para navegantes: se viene queja sobre queja. Mierda de economía capitalista\nNo tengo mucho que decir aquí, salvo que he cambiado de trabajo. Es una historia complicada: la empresa en la que estaba antes (A) fue comprada por otra (C). Yo me fui de A en su momento a otra en Alemania (B) por vari"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Script en Bash (y Fish) para mostrar los datos de una estación metereológica de Meteoclimatic",
     "link": "https://victorhckinthefreeworld.com/2026/07/13/script-en-bash-y-fish-para-mostrar-los-datos-de-una-estacion-metereologica-de-meteoclimatic/",
@@ -1286,13 +1356,6 @@
     "link": "https://laloica.noblogs.org/revista-ideas-septiembre-de-1981/",
     "fecha": "13/07/2026 14:12",
     "contenido": "Holita de mar, aquí les traigo (con un par de semanas de retraso) la revista que escaneamos en directo para la Biblioteca Domestica. En esta ocasión les traigo la revista «IDEAS para su hogar» de la editorial Andina, con casa central en Chile y distribución de la revista en Venezuela. Esta edición e"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "BTC & Defi: nuevos libros",
-    "link": "https://jinversor.co/2026/07/btc-defi-nuevos-libros/",
-    "fecha": "13/07/2026 13:33",
-    "contenido": "En el repositorio Mega del personaje misteriosísimo encontré nuevos libros de BTC &#38; Defi. Aclaro que no he leído estos libros y por tanto no es una recomendación. Apenas estoy [&#8230;]\nLa entrada BTC & Defi: nuevos libros se publicó primero en Jinversor."
   },
   {
     "blog": "El cuaderno de J. Muñoz",
@@ -1610,6 +1673,13 @@
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Mis estadísticas de running en la web",
+    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
+    "fecha": "06/07/2026 00:00",
+    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "¿Por qué un blog y no un canal de YouTube?",
     "link": "https://tecnoysoft.com/2026/07/05/por-que-un-blog-y-no-un-canal-de-youtube/",
@@ -1708,6 +1778,13 @@
     "contenido": "El Profe Juan\nBlog de Juan Agustín Flores (aka)(significa \"Also Know As\" que es, también conocido como, en castellano) Manieflo\n\nSoy Docente de Informática Jubilado y amante del Software Libre. Formo parte del Club del software Libre de argentina y difundo el Software Libre. \nAhora tengo un blog de "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Los Perseguidos, ficción sonora fantástica",
+    "link": "https://chancli.dev/blog/los-perseguidos-audio-ficcion.html",
+    "fecha": "04/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los podcasts, sobre todo sigo podcasts de tecnología y algunos de misterio.\nPero hoy no vengo a recomendaros un podcast normal, es una ficción sonora de una calidad de producción increíble.\nSe trata de Los Perseguidos, basado en la novela de Fernando Benzo.\nSe ve que Onda Ce"
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "La joven de las naranjas",
     "link": "https://guillermolatorre.com/libros/la-joven-de-las-naranjas",
@@ -1755,13 +1832,6 @@
     "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-26-2/",
     "fecha": "03/07/2026 10:26",
     "contenido": "Relato – Doctor Nómada &#124; Bonus track\n\nDoctor Nómada (tercera parte)\nLeer la segunda parte\nEl tráfico de la ciudad era particularmente denso, hacia donde volteara las calles y avenidas eran un estacionamiento, pensé que, eso me tenía con una sensación atípica de cansancio y malestar general. Me "
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Nuevo comando Git: git history fixup",
-    "link": "https://picandocodigo.net/2026/nuevo-comando-git-history-fixup/",
-    "fecha": "03/07/2026 10:10",
-    "contenido": "En git v2.54 se agregó el comando experimental git history, con la posibilidad de cambiar el mensaje de un commit y separar commits. En la versión 2.55 se agregó otro comando a git history, fixup. Esto es algo que vengo queriendo en git desde hace años. De hecho pregunté una vez en lo que solía ser "
   },
   {
     "blog": "productor de sostenibilidad",
@@ -2016,13 +2086,6 @@
     "contenido": "Boss Fight Books es una editorial especializada en libros sobre videojuegos. Tienen unas cuantas decenas de títulos publicados. Éste es el primero que leo.\n\n\n\nLa primera vez que escuché sobre Animal Crossing fue en la escuela. Me cambié de escuela para segundo de bachillerato y trataba de encajar. M"
   },
   {
-    "blog": "Jinversor",
-    "titulo": "La riqueza es lo que queda",
-    "link": "https://jinversor.co/2026/06/la-riqueza-es-lo-que-queda/",
-    "fecha": "29/06/2026 16:30",
-    "contenido": "¿Qué es la riqueza? Si le hiciéramos esa pregunta a personas del común con seguridad recibiríamos respuestas muy vagas del tipo: «es tener mucha plata», o respuestas muy específicas del [&#8230;]\nLa entrada La riqueza es lo que queda se publicó primero en Jinversor."
-  },
-  {
     "blog": "El cuaderno de J. Muñoz",
     "titulo": "Vacaciones",
     "link": "https://www.xn--jmuoz-qta.es/2026/06/vacaciones.html",
@@ -2063,26 +2126,5 @@
     "link": "https://elblogdelazaro.org/trilium-plantillas-metadatos-notas-reutilizables/",
     "fecha": "29/06/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 29 de junio de 2026Cómo usar plantillas y metadatos en Trilium para que cada nota nazca con la estructura adecuada y no tengas que empezar desde cero.Continuar leyendo →#Homelab #Trilium "
-  },
-  {
-    "blog": "Si dios te da limones",
-    "titulo": "Corazón en pausa",
-    "link": "https://sidiostedalimones.com/blog/2026/corazon-en-pausa/",
-    "fecha": "29/06/2026 00:00",
-    "contenido": ""
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Fuera de la caja... hay otra caja",
-    "link": "https://impermanente.es/2026/06/28/fuera-de-la-caja-hay.html",
-    "fecha": "28/06/2026 17:18",
-    "contenido": "Leor Zmigrod, que ha escrito un libro titulado The Ideological Brain, lleva años midiendo algo que en apariencia no tiene nada que ver con la política: la rigidez cognitiva. La mide con experimentos de laboratorio como el pedirle a personas que clasifiquen cartas según ciertas reglas&hellip; y luego"
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "Semana 26/2026",
-    "link": "https://www.macram.es/posts/2026/06/semana-26-2026/",
-    "fecha": "28/06/2026 17:06",
-    "contenido": "Está siendo un domingo bastante relajado para dar fin a una semana que, en general, ha sido también bastante relajada. Estoy teniendo la posibilidad de cerrar algunos de los frentes que tenía abiertos y esto me está haciendo bastante bien a nivel mental.\nTengo de fondo el primer episodio de una seri"
   }
 ]
