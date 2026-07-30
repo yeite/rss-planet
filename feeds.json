@@ -1,10 +1,150 @@
 [
   {
+    "blog": "NevatBlog",
+    "titulo": "Transition un sencillo conversor de audio para Gnome",
+    "link": "https://nevat.neocities.org/transition_30072026.html",
+    "fecha": "30/07/2026 13:42",
+    "contenido": "Hace poco hablaba sobre Freac, un ripeador y conversor con muchas opciones. Ahora es el turno de lo contrario, algo mucho más sencillo y directo: Transition."
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Adiós reloj inteligente, hola reloj tonto",
+    "link": "https://nevat.neocities.org/casiocalc_22072026.html",
+    "fecha": "30/07/2026 13:42",
+    "contenido": "La batería del Pinetime dijo \"se acabó\" y me quedé sin reloj. Sin nada en la muñeca hasta que haciendo limpieza de cajones encontré a un antiguo conocido que podría resolver este problema: un reloj Casio calculadora."
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Battle for Wesnoth",
+    "link": "https://nevat.neocities.org/bwesnoth_30062026.html",
+    "fecha": "30/07/2026 13:42",
+    "contenido": "Iniciando una nueva sección para hablar de una de mis aficiones: los videojuegos. Y qué mejor manera de comenzar que con uno de código libre."
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Recuperando un Mac Mini G4 de 2005",
+    "link": "https://nevat.neocities.org/minig4_18062026.html",
+    "fecha": "30/07/2026 13:42",
+    "contenido": "Intentando dar una segunda vida a un ordenador obsoleto."
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Fre:ac conversor de audio y ripeador de CDs",
+    "link": "https://nevat.neocities.org/freac_11062026.html",
+    "fecha": "30/07/2026 13:42",
+    "contenido": "Para aquellos que todavía tienen sus archivos de audio en local, esta es una opción potente, gratuita y multiplataforma."
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Dell Optiplex 3050 SFF",
+    "link": "https://nevat.neocities.org/optiplex3050_02062026.html",
+    "fecha": "30/07/2026 13:42",
+    "contenido": "Muchos ordenadores han pasado por mis manos. Diferentes arquitecturas, prestaciones, tamaño, etc. Y muy pocos me han parecido un ordenador perfecto: el Optiplex 3050 SFF es uno de ellos."
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Curioseando el código fuente de Linux",
+    "link": "https://nevat.neocities.org/greplinux_18052026.html",
+    "fecha": "30/07/2026 13:42",
+    "contenido": "Los comentarios en el código fuente suele dar información del desarrollo de ese programa: desde gente que explica que hace el código hasta otros que dejan constancia de su frustración/sorpresa/enfado. Voy a pegar un rápido vistazo al kernel Linux."
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Luanti",
+    "link": "https://nevat.neocities.org/luanti_12052026.html",
+    "fecha": "30/07/2026 13:42",
+    "contenido": "Un clon abierto y gratuito de Minecraft."
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Fedora 44",
+    "link": "https://nevat.neocities.org/f44_30042026.html",
+    "fecha": "30/07/2026 13:42",
+    "contenido": "Con un par de semanas de retraso (lo habitual) ya tenemos disponible la última versión estable de la veterana distribución de la F infinita."
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Libro: \"Ready Player One\", Ernest Cline (2011)",
+    "link": "https://nevat.neocities.org/rplayerone_27042026.html",
+    "fecha": "30/07/2026 13:42",
+    "contenido": "En 2017 una de las películas que más disfrute en el cine fue \"Ready Player One\", todo un homenaje a los videojuegos y la cultura pop. Sabía que esa película se basaba en un libro, y hasta ahora no he podido leerlo."
+  },
+  {
+    "blog": "",
+    "titulo": "Hasta siempre Glen.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/07/30/hasta-siempre-glen/",
+    "fecha": "30/07/2026 13:32",
+    "contenido": "Se nos fue Glen Hansard que tristeza."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #887",
+    "link": "https://www.fabio.com.ar/9998-ruleta-rusa-887",
+    "fecha": "30/07/2026 12:00",
+    "contenido": "     Mirate! una ruleta!\nOh si, es jueves &iquest;No se hab&iacute;an enterado? Es el d&iacute;a m&aacute;s importante de la semana para las balaceras porque es cuando aparece LA RULETA! y aqu&iacute; estamos, es jueves, hay balas, es hora de volarse las pelucas!\nAhora s&iacute;, Ruleta Rusa!Creativ"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Dice Carnival",
+    "link": "https://cozykis.kisworld.es/analisis-de-dice-carnival/",
+    "fecha": "30/07/2026 10:41",
+    "contenido": "Un roguelike de dados con una estática muy bonita que nos tendrá haciendo malabares para ganar a adorables bosses\nLa entrada Análisis de Dice Carnival se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Pandemia: Advenimiento | La Confirmación De Una Leyenda",
+    "link": "https://www.delotroladometal.com.ar/2026/07/30/la-confirmacion-de-una-leyenda/",
+    "fecha": "30/07/2026 10:35",
+    "contenido": "(2025 &#8211; Disembodied Records) Pioneros absolutos en el género del Doom Death Metal en Argentina,...\nThe post Pandemia: Advenimiento | La Confirmación De Una Leyenda first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Películas en Dominio público de estos últimos años",
+    "link": "https://56k.es/fanta/contenido-dominio-publico-de-estos-ultimos-anos/",
+    "fecha": "30/07/2026 08:25",
+    "contenido": "Los primeros días de Enero de cada año suele salir el tipico articulo que reseña algunas peliculas, libros, música, &#8230; que pasa a dominio publico. Yo tenía desde hace tiempo algún post a medias que al final he decidido terminar y publicar. Evidentemente no están todas las películas en dominio p"
+  },
+  {
+    "blog": "AsturGeek V3",
+    "titulo": "Instalando Transmission con Docker",
+    "link": "https://asturgeek.eu/2026/07/30/instalando-transmission-con-docker/",
+    "fecha": "30/07/2026 07:04",
+    "contenido": "Sigo con mi serie de servicios que tengo instalados en el servidor. Ésta vez le toca a Transmission, un cliente muy liviano y simple para torrents que viene de serie en muchas distros de linux.El programa, de código abierto, se ha vuelto tan popular que ha sacado versiones para Windows y macOS, apar"
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "DuckStation dejo de ser un buen emulador?",
+    "link": "https://thejnx.bearblog.dev/emulador-duckstation/",
+    "fecha": "30/07/2026 03:04",
+    "contenido": "Esta es solo una pequeña nota del estado actual del emulador DuckStation el cual parece que se ha ido un poco mal de camino, pero hasta cierto punto compresible...\nAntes que nada para quienes no lo conozcan, es un emulador enfocado a PlayStation 1, el cual en mi experiencia en Android ha sido uno de"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salvamir.github.io/",
+    "fecha": "30/07/2026 02:53",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida. Es mi cuaderno infinito."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Mapa",
+    "link": "https://salvamir.github.io/Mapa",
+    "fecha": "30/07/2026 01:51",
+    "contenido": "El mapa de toda mi página web Bueno, infinito puntualmente no es. Este es el gran mapa."
+  },
+  {
     "blog": "Un blog",
     "titulo": "Cuando Strange New Worlds hizo un genocidio (pero no lo pienses mucho)",
     "link": "https://nachof.blog/posts/2026/cuando-strange-new-worlds-hizo-un-genocidio-pero-no-lo-pienses-mucho/",
     "fecha": "29/07/2026 22:40",
     "contenido": "\n\n\nEsto va a tener spoilers para el primer episodio de la cuarta temporada de Star Trek: Strange New Worlds. Si querés evitar esos spoilers, dejá de leer ahora.\nStrange New Worlds es posiblemente, de las series de Star Trek modernas, la que más &ldquo;se siente&rdquo; como las series viejas. Es una "
+  },
+  {
+    "blog": "webnauta",
+    "titulo": "Clic + Minimizar, Win + ↓, Ctrl + F4, Alt + Tab y, para emergencias, Alt + F4: superpoderes secretos de oficina para desaparecer ventanas antes de que el jefe o el compañero curioso se acerque.",
+    "link": "https://webnauta.blog/post/6a6a78635c252ae32e954932",
+    "fecha": "29/07/2026 22:02",
+    "contenido": "Clic + Minimizar, Win + ↓, Ctrl + F4, Alt + Tab y, para emergencias, Alt + F4: superpoderes secretos de oficina para desaparecer ventanas antes de que el jefe o el compañero curioso se acerque.\n\n#nota"
   },
   {
     "blog": "Ubuntu Peronista",
@@ -70,6 +210,13 @@
     "contenido": "Descubre cómo integrar Proxmox con Home Assistant y monitoriza tus VMs y contenedores LXC fácilmente."
   },
   {
+    "blog": "quiroptero.blog",
+    "titulo": "Oye, lees muy rápido",
+    "link": "https://www.quiroptero.blog/2026/07/leer-r%C3%A1pido/",
+    "fecha": "29/07/2026 06:00",
+    "contenido": "Que leo rápido me dicen. No estoy de acuerdo."
+  },
+  {
     "blog": "56K",
     "titulo": "Donald Trump en juegos de los años 90",
     "link": "https://56k.es/fanta/donald-trump-en-juegos-de-principios-de-los-anos-90/",
@@ -85,36 +232,29 @@
   },
   {
     "blog": "Salva Más De Cerca",
-    "titulo": "Mapa",
-    "link": "https://salva.thedev.id/Mapa",
-    "fecha": "29/07/2026 01:57",
-    "contenido": "El mapa de toda mi página web Bueno, infinito puntualmente no es. Este es el gran mapa."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salva.thedev.id/",
-    "fecha": "29/07/2026 01:37",
-    "contenido": "Acá me gusta coleccionar detalles de mi vida. Es mi cuaderno infinito."
+    "titulo": "Updates on living the seasons",
+    "link": "https://salvamir.github.io/Notas/Updates-on-living-the-seasons",
+    "fecha": "29/07/2026 00:00",
+    "contenido": "Yesterday night some insects entered my room. That’s the sign I have that spring in some way is coming. Wind and the air are getting warmer."
   },
   {
     "blog": "Salva Más De Cerca",
     "titulo": "🌱 Lenguajes",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B1-Lenguajes",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Lenguajes",
     "fecha": "28/07/2026 22:19",
     "contenido": "yuyo Me cuestiono mucho el intento de escribir en dos idiomas esta página, quizás debería aislarla al Español."
   },
   {
     "blog": "Salva Más De Cerca",
     "titulo": "¿Algo más?",
-    "link": "https://salva.thedev.id/algo-mas",
+    "link": "https://salvamir.github.io/algo-mas",
     "fecha": "28/07/2026 22:19",
     "contenido": "Últimas actualizaciones Estoy dejando de añadir plantas al jardín, para dedicarme a hacerlas crecer un poco. Escape Room Game."
   },
   {
     "blog": "Salva Más De Cerca",
     "titulo": "📚 Librería",
-    "link": "https://salva.thedev.id/librer%C3%ADa",
+    "link": "https://salvamir.github.io/librer%C3%ADa",
     "fecha": "28/07/2026 22:19",
     "contenido": "Acá van a encontrarse con los libros que más me marcaron y algún comentario."
   },
@@ -133,11 +273,32 @@
     "contenido": "El viernes pasado fue un día ajetreado en Chicago. Nosotros fuimos a ver a Metric al Aragon Ballroom. Cruzando la calle, en el Riviera estaba Poppy, y un poco más allá en Soldier Field estaba Karol G. Imagino que también ocurrieron otras cosas en la ciudad.\n\n\n\nEn el Riviera todavía tienen marquesina"
   },
   {
+    "blog": "Un Diario",
+    "titulo": "GameNative: un paso mas hacia la emulación de PC",
+    "link": "https://thejnx.bearblog.dev/emulador-gamenative/",
+    "fecha": "28/07/2026 19:10",
+    "contenido": "⤶ Regresar\nEsta entrada será un poco breve ya que no es algo nuevo, solo el como la emulación de PC esta avanzando en Android a un ritmo increíble y el emulador GameNative es una prueba de ello\nLlevo días probando emuladores de PC en mi teléfono (y mas que recientemente me compré el Dead Cells), un "
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "Todo lo que le he metido a mi sitio últimamente",
     "link": "https://blog.luiscarlospando.com/personal/2026/07/todo-lo-que-le-he-metido-a-mi-sitio-ultimamente/",
     "fecha": "28/07/2026 18:44",
     "contenido": "Llevo estos últimos meses metiéndole mano a mi sitio tras bambalinas y creo que llegó el momento de documentar todo lo que he ido agregando antes de que se me olvide. 😂 Ahí les va(ilongo): 💬 Reply context Si sigues mis posts recientes desde el home y desde el índice de mi blog, ahora vas"
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "Recommended Web Browsers for Android (2026)",
+    "link": "https://thejnx.bearblog.dev/recommended-web-browsers-for-android-2026/",
+    "fecha": "28/07/2026 18:00",
+    "contenido": "⤶ Spanish\nThese are just recommendations based on information I’ve gathered from groups focused on both privacy and security. I hope you don’t take them too seriously—obviously, and it goes without saying: you’re free to use whatever “poison” you want\nIf Chrome’s telemetry doesn’t bother you, it’s d"
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "Recomendación de navegadores para Android (2026)",
+    "link": "https://thejnx.bearblog.dev/navegadores-android-2026/",
+    "fecha": "28/07/2026 17:00",
+    "contenido": "⤶ English\nEstas son solo recomendaciones de información que he obtenido estando en grupos enfocados tanto a privacidad como seguridad, espero no se lo tomen tan enserio, obviamente y no hacia falta decirlo: son libres de usar el \"veneno\" que ustedes quieran\nSi no te molesta la telemetría de Chrome s"
   },
   {
     "blog": "La Máquina de Von Neumann",
@@ -236,6 +397,13 @@
     "link": "http://www.esuntipazo.com/post/i-may-be-paranoid-but-not-an-android",
     "fecha": "27/07/2026 21:29",
     "contenido": "Tengo un cráneo en mi escritorio. Cuando lo muestro, no falta quien me dice: ¿Es como un memento mori? No, respondo, con una mirada cínica, esperando su reacción.   No soy especialmente fanático de estas modas ideológicas que se dan en las redes sociales, por algo las dejé. Pero el hecho de haberlas"
+  },
+  {
+    "blog": "webnauta",
+    "titulo": "Qué importante es la portabilidad como una característica esencial de las plataformas blog. Justamente, es lo que las diferencia de las redes sociales, esos bien llamados \"jardines amurallados\" o \"silos\".",
+    "link": "https://webnauta.blog/post/6a67b7702b51a3a7974eba02",
+    "fecha": "27/07/2026 19:54",
+    "contenido": "Qué importante es la portabilidad como una característica esencial de las plataformas blog. Justamente, es lo que las diferencia de las redes sociales, esos bien llamados \"jardines amurallados\" o \"silos\".\n\nDesde el año pasado he migrado de Pagecord a Mataroa y, ahora, a Veenew. Esta experiencia me h"
   },
   {
     "blog": "Bitácora de fernand0",
@@ -408,7 +576,7 @@
   {
     "blog": "Salva Más De Cerca",
     "titulo": "links",
-    "link": "https://salva.thedev.id/links",
+    "link": "https://salvamir.github.io/links",
     "fecha": "25/07/2026 23:07",
     "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
   },
@@ -469,13 +637,6 @@
     "contenido": "A jobs le gustaban los viajes a la India y también los de LSD. En esta entrada voy a comentar algunos falsos mitos sobre Steve Jobs y de paso algunas anécdotas que podrían apuntar a que era un poco gilipollas. &#160; 1. Steve Jobs no creó el juego Breakout 2. Steve Jobs aparcaba en las..."
   },
   {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Software migrations and setup",
-    "link": "https://blog.zurdala.es/blog/software-migrations-and-setup/",
-    "fecha": "25/07/2026 00:14",
-    "contenido": "Hallo,\nSince I posted an update on what I use, I thought it would be good to dump my current thoughts on some of the tools here.\nAround a year and a half I finally decided to buy a domain and slow de-google my digital life. This is when I got zurdala.es.\nThe thing is that I am not fully satisfied wi"
-  },
-  {
     "blog": "El blog es mío",
     "titulo": "El enemigo en casa (segunda parte)",
     "link": "https://alex.corcoles.net/2026/07/el-enemigo-en-casa-segunda-parte",
@@ -490,18 +651,18 @@
     "contenido": "Las 3 P al escribir son"
   },
   {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Tools as of July 2026",
-    "link": "https://blog.zurdala.es/blog/tools-as-of-july-2026/",
-    "fecha": "24/07/2026 23:59",
-    "contenido": "New year, new update of the used programmes, applications and tools.\n\nPrevious version here\nIn bold, I have marked the updates:\n\n📨 eMail Service: Fastmail (checking out Infomaniak)\n📮 eMail Client: Fastmail and Thunderbird\n📝 Notes: back to Google Keep :(\n📆 Calendar: Fastmail (checking out Infomaniak)"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Fox en Linux, via Android",
     "link": "https://nachof.blog/posts/2026/fox-en-linux-via-android/",
     "fecha": "24/07/2026 23:15",
     "contenido": "Este post resulta que al final es casi irrelevante. Dejé una nota al final, pero igual lo publico.\n\nComo contexto, FoxWQ es un servidor de go chino, que tiene montones de personas conectas en esencialmente cualquier momento, por lo que siempre se puede conseguir un partido bastante rápido.\nEl proble"
+  },
+  {
+    "blog": "webnauta",
+    "titulo": "El valor del docente contemporáneo",
+    "link": "https://webnauta.blog/post/6a63e18cfa435d6814bc8fff",
+    "fecha": "24/07/2026 22:05",
+    "contenido": "# El valor del docente contemporáneo\n## Elucubración III\n\nVivimos en la época de mayor abundancia de información de la historia. Nunca había sido tan sencillo acceder a ideas, datos, investigaciones y explicaciones sobre casi cualquier tema. Hoy basta con formular una pregunta para obtener una respu"
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -642,13 +803,6 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/demasiado-poco-politica/",
     "fecha": "24/07/2026 00:00",
     "contenido": "En los últimos tiempos estoy leyendo Calibán y la bruja de Silvia Federici. No paro de repetirlo y alguien podría pensar que lo hago para darme pisto, para ganar puntos de intelectual o algo así. Nada más lejos de la realidad: lo hago porque me está volando la cabeza. No puedo evitar citarlo porque "
-  },
-  {
-    "blog": "NeoSite Blog",
-    "titulo": "Richard Stallman y las 4 libertades: El pilar ético del Software Libre",
-    "link": "http://blog.neosite.com.ar/post/richard-stallman-y-las-4-libertades-el-pilar-tico-del-software-libre",
-    "fecha": "24/07/2026 00:00",
-    "contenido": ""
   },
   {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
@@ -812,39 +966,25 @@
     "contenido": "Ya lo sé, varias personas me lo dijeron. Me acuerdo de Itan, de Joselito y de algún otro referente a no comprar nada proveniente de Amazon, y lo hice; pues\nSeguir leyendo  Me compré un Echo Dot 5 de Amazon y ahora lo tengo de pisapapeles\nEl cargo Me compré un Echo Dot 5 de Amazon y ahora lo tengo de"
   },
   {
-    "blog": "56K",
-    "titulo": "Tipografías anti-IA  – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/tipografias-anti-ia-fuera-de-las-garras-de-la-ia/",
-    "fecha": "22/07/2026 04:17",
-    "contenido": "La forma en la que vestimos la letra es importante. Podemos vestirla para un cartel en una tarberna en Esukalerria o para por ejemplo indicar que se trata de retro-informática. La cosa es que existen algunas tipografías experimentales que tratan de codificar dos mensajes en una misma imagen, es deci"
-  },
-  {
     "blog": "Salva Más De Cerca",
     "titulo": "🌷 Dejar que a los otros les vaya bien y alegrarse con ellos.",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B7-Dejar-que-a-los-otros-les-vaya-bien-y-alegrarse-con-ellos.",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B7-Dejar-que-a-los-otros-les-vaya-bien-y-alegrarse-con-ellos.",
     "fecha": "22/07/2026 02:46",
     "contenido": "arbolito A veces me cuesta un poco la envidia. Quizás porque soy muy autocompasivo y me enfoco demasiado en lo mucho que me cuestan las cosas."
   },
   {
     "blog": "Salva Más De Cerca",
     "titulo": "🌷 Dios es amigo mío.",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B7-Dios-es-amigo-m%C3%ADo.",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B7-Dios-es-amigo-m%C3%ADo.",
     "fecha": "22/07/2026 02:46",
     "contenido": "helecho Estuve pensando mucho en esto últimamente… ¿Qué significa? ¿Influye en mi vida cotidiana? Dios es amigo mío y es infinitamente grande también."
   },
   {
     "blog": "Salva Más De Cerca",
     "titulo": "🌾 Viviendo apasionadamente la rutina",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%BE-Viviendo-apasionadamente-la-rutina",
+    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%BE-Viviendo-apasionadamente-la-rutina",
     "fecha": "22/07/2026 02:46",
     "contenido": "arbolito ¿Como santifico mi vida corriente? La esencia de la vocación cristiana consiste en santificar la vida corriente."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🪨  Sobre las pantallas y la tecnología, en la vida de cada uno",
-    "link": "https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%AA%A8--Sobre-las-pantallas-y-la-tecnolog%C3%ADa,-en-la-vida-de-cada-uno",
-    "fecha": "22/07/2026 02:46",
-    "contenido": "arbolito ¿Se puede vivir plenamente teniendo que estar todos los días delante de una pantalla, conectado a internet y rodeado de conexiones bluetooth? Supongo que sí… Debe ser cuestión de adaptarse."
   },
   {
     "blog": "Un blog",
@@ -859,20 +999,6 @@
     "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
     "contenido": ""
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Recommended Web Browsers for Android (2026)",
-    "link": "https://thejnx.bearblog.dev/recommended-web-browsers-for-android-2026/",
-    "fecha": "21/07/2026 23:30",
-    "contenido": "⤶ Spanish\nThese are just recommendations based on information I’ve gathered from groups focused on both privacy and security. I hope you don’t take them too seriously—obviously, and it goes without saying: you’re free to use whatever “poison” you want\nIf Chrome’s telemetry doesn’t bother you, it’s d"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Recomendación de navegadores para Android (2026)",
-    "link": "https://thejnx.bearblog.dev/navegadores-android-2026/",
-    "fecha": "21/07/2026 23:06",
-    "contenido": "⤶ English\nEstas son solo recomendaciones de información que he obtenido estando en grupos enfocados tanto a privacidad como seguridad, espero no se lo tomen tan enserio, obviamente y no hacia falta decirlo: son libres de usar el \"veneno\" que ustedes quieran\nSi no te molesta la telemetría de Chrome s"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -1034,13 +1160,6 @@
     "link": "https://www.fabio.com.ar/9990-la-bandera-de-conveniencia-esos-paises-que-tienen-mas-barcos-que-habitantes",
     "fecha": "20/07/2026 12:00",
     "contenido": "    \nEl comercio mar&iacute;timo existe desde que el hombre se aventur&oacute; a las aguas, el Mediterr&aacute;neo fue la columna vertebral del comercio de las primeras civilizaciones, no es nada raro que hoy en d&iacute;a sea tambi&eacute;n la columna del comercio actual.\nPero hay algo interesante "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista A Gito Minore | “El Hecho De Leer Un Libro En Papel, Sigue Siendo Una Experiencia Sensorial Irremplazable”",
-    "link": "https://www.delotroladometal.com.ar/2026/07/20/el-hecho-de-leer-un-libro-de-papel-sigue-siendo-una-experiencia-sensorial-irremplazable/",
-    "fecha": "20/07/2026 10:35",
-    "contenido": "Gito Minore es un conocido escritor, editor y pensador argentino. Posee una larga trayectoria en...\nThe post Entrevista A Gito Minore | “El Hecho De Leer Un Libro En Papel, Sigue Siendo Una Experiencia Sensorial Irremplazable” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "CozyKis",
@@ -1281,13 +1400,6 @@
     "contenido": ""
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #885",
-    "link": "https://www.fabio.com.ar/9988-ruleta-rusa-885",
-    "fecha": "16/07/2026 12:00",
-    "contenido": "     Estamos doblados, pero con ruleta!\nNo s&eacute; ustedes, pero mis niveles de cortizol y estr&eacute;s han llegado a su m&aacute;ximo, necesito relajarme y tomarme todo con mucha m&aacute;s calma 🤪 as&iacute; que empecemos por una buena y bombardeada ruleta, porque nada mejor que un balazo para "
-  },
-  {
     "blog": "Papel Continuo",
     "titulo": "Durruti, t’estimo",
     "link": "https://papelcontinuo.net/3542/durruti-testimo/",
@@ -1342,13 +1454,6 @@
     "link": "http://locutusbit.blogspot.com/2026/07/todas-las-conclusiones.html",
     "fecha": "15/07/2026 12:00",
     "contenido": "&nbsp;Ya sin red ni frío, con toda el hambre;degollado en la sombra,pobre en el verano desbordado,pobre en el deshielo a golpe de espada,inconcebible en la dimensión de la penuria,desdibujado en las imprecisiones del primer paso,de la primera mirada y de la primera palabra,que abarca todas las premi"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Las mejores demos de Nonbinary Coded Games",
-    "link": "https://cozykis.kisworld.es/las-mejores-demos-de-nonbinary-coded-games/",
-    "fecha": "15/07/2026 10:31",
-    "contenido": "Un post que pretende recopilar las mejores demos de los juegos presentados en el evento Nonbinary Coded Games\nLa entrada Las mejores demos de Nonbinary Coded Games se publicó primero en CozyKis."
   },
   {
     "blog": "Galerías Preciados",
@@ -1419,13 +1524,6 @@
     "link": "https://nachof.blog/posts/2026/clacton-2026/",
     "fecha": "13/07/2026 23:08",
     "contenido": "\n Imagen sacada de Mastodon\n \n\n\nLa política británica tiene sus cosas divertidas. A diferencia de la política en la mayoría de los países, donde el procedimiento está dado por reglas hechas intencionalmente, en el Reino Unido los procedimientos son producto de siglos de tradiciones. Un ejemplo es el"
-  },
-  {
-    "blog": "Bitácora baldía on zurdeando",
-    "titulo": "Cambio de trabajo",
-    "link": "https://blog.zurdala.es/blog/cambio-de-trabajo/",
-    "fecha": "13/07/2026 20:07",
-    "contenido": "Aviso para navegantes: se viene queja sobre queja. Mierda de economía capitalista\nNo tengo mucho que decir aquí, salvo que he cambiado de trabajo. Es una historia complicada: la empresa en la que estaba antes (A) fue comprada por otra (C). Yo me fui de A en su momento a otra en Alemania (B) por vari"
   },
   {
     "blog": "Victorhck in the free world",
@@ -2119,40 +2217,5 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/06/30-de-junio.html",
     "fecha": "30/06/2026 18:26",
     "contenido": "He releído en varias ocasiones las entradas que escribí los últimos días del último verano, con la incertidumbre que tenía en ese momento por verme obligado a ocupar mi plaza en el centro donde la tengo. Hablaba el último día de agosto de la tristeza que sentía ese último día porque era el fin de un"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "El EGM de junio de 2026",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/el-egm-de-junio-de-2026.html",
-    "fecha": "30/06/2026 12:02",
-    "contenido": "Ya está aquí el EGM de junio de 2026. Si nos fiamos de lo que han dicho esta mañana los matinales de las distintas emisoras, todas ganan, todas están siempre mejor que la anterior oleada, o que hace un año, o que la competencia. El dato real, sin maquillaje, siempre pueden encontrarlo en la web de N"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Que lo imprevisto se torne necesario",
-    "link": "https://guillermolatorre.com/citas-en-tinta/que-lo-imprevisto-se-torne-necesario",
-    "fecha": "30/06/2026 11:30",
-    "contenido": "\nEsta es la última página de este maravilloso cuaderno Alpha Series de Stillman and Birn que tanto me gusta y he elegido una cita de Jesús Terrés, que ya tiene unas cuantas frases en esta sección (como esta o esta o esta otra). Es de un post que escribi&oacute; en 2024 pero la tenía guardada para qu"
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "#195: Plasma sincroniza el color del teclado con el del tema de escritorio",
-    "link": "https://www.macram.es/posts/2026/06/plasma-sincroniza-el-color-del-teclado-con-el-del-tema/",
-    "fecha": "30/06/2026 10:10",
-    "contenido": "Ayer descubrí un detalle muy agradable en mi PC secundario. Sabéis que tengo un miniPC con una distribución de Linux, que en este momento es Manjaro, rama unstable, ejecutando Plasma 6.7.1 como entorno de escritorio. Pues me fijé que el color de retroiluminación del teclado que tengo en este ordenad"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Cómo gestiono los metadatos con LibreOffice y los PDFs",
-    "link": "https://pedrolr.es/blog/como-gestiono-los-metadatos-con-libreoffice-y-los-pdfs/",
-    "fecha": "30/06/2026 07:31",
-    "contenido": "Hoy en un consejo de Facultad levanté la mano para decir que los metadatos de los horarios del curso 2026-2027 figuraban con el título en los metadatos: \"Grado en Información y Documentación - Primero - Curso 2021 – 2022 - Horario de Clases\". En un Grado en Información y Documentación me parece esen"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "No todo es suscripción",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/no-todo-es-suscripcion.html",
-    "fecha": "30/06/2026 05:33",
-    "contenido": "Contaba por aquí hace unos días que había empezado a probar Deezer como alternativa a la plataforma musical que todo el mundo usa, Spotify; como anotaba en esa entraba, de Spotify me di de baja en octubre del año pasado, tras más de doce años siendo usuario de pago y parte de ellos administrando un "
   }
 ]
