@@ -265,7 +265,7 @@
   {
     "Nombre": "Webnauta",
     "Url": "https://webnauta.blog/",
-    "Feed": "https://webnauta.blog/rss",
+    "Feed": "https://webnauta.blog/feed/rss",
     "Descripción": "Ensayos y pequeños relatos",
     "Categoría": "Tecnología, Vida Diaria",
     "País": "México",
@@ -1115,8 +1115,8 @@
   },
   {
     "Nombre": "Nevat Blog",
-    "Url": "https://nevatblog.duckdns.org",
-    "Feed": "https://nevatblog.duckdns.org/feed.xml",
+    "Url": "https://nevat.neocities.org",
+    "Feed": "https://nevat.neocities.org/feed.xml",
     "Descripción": "Blog personal donde hablo de software libre, retro y lo que se me vaya ocurriendo.",
     "Categoría": "Tecnología",
     "País": "España"
