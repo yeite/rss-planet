@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 30 Jul 2026 13:24:51 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 19:07:32 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,172 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Transition un sencillo conversor de audio para Gnome</title>
+<link>https://nevat.neocities.org/transition_30072026.html</link>
+<guid isPermaLink="true">https://nevat.neocities.org/transition_30072026.html</guid>
+<pubDate>Thu, 30 Jul 2026 13:42:00 GMT</pubDate>
+<category>NevatBlog</category>
+<description><![CDATA[Hace poco hablaba sobre Freac, un ripeador y conversor con muchas opciones. Ahora es el turno de lo contrario, algo mucho más sencillo y directo: Transition.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
+</item>
+<item>
+<title>Adiós reloj inteligente, hola reloj tonto</title>
+<link>https://nevat.neocities.org/casiocalc_22072026.html</link>
+<guid isPermaLink="true">https://nevat.neocities.org/casiocalc_22072026.html</guid>
+<pubDate>Thu, 30 Jul 2026 13:42:00 GMT</pubDate>
+<category>NevatBlog</category>
+<description><![CDATA[La batería del Pinetime dijo &quot;se acabó&quot; y me quedé sin reloj. Sin nada en la muñeca hasta que haciendo limpieza de cajones encontré a un antiguo conocido que podría resolver este problema: un reloj Casio calculadora.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
+</item>
+<item>
+<title>Battle for Wesnoth</title>
+<link>https://nevat.neocities.org/bwesnoth_30062026.html</link>
+<guid isPermaLink="true">https://nevat.neocities.org/bwesnoth_30062026.html</guid>
+<pubDate>Thu, 30 Jul 2026 13:42:00 GMT</pubDate>
+<category>NevatBlog</category>
+<description><![CDATA[Iniciando una nueva sección para hablar de una de mis aficiones: los videojuegos. Y qué mejor manera de comenzar que con uno de código libre.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
+</item>
+<item>
+<title>Recuperando un Mac Mini G4 de 2005</title>
+<link>https://nevat.neocities.org/minig4_18062026.html</link>
+<guid isPermaLink="true">https://nevat.neocities.org/minig4_18062026.html</guid>
+<pubDate>Thu, 30 Jul 2026 13:42:00 GMT</pubDate>
+<category>NevatBlog</category>
+<description><![CDATA[Intentando dar una segunda vida a un ordenador obsoleto.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
+</item>
+<item>
+<title>Fre:ac conversor de audio y ripeador de CDs</title>
+<link>https://nevat.neocities.org/freac_11062026.html</link>
+<guid isPermaLink="true">https://nevat.neocities.org/freac_11062026.html</guid>
+<pubDate>Thu, 30 Jul 2026 13:42:00 GMT</pubDate>
+<category>NevatBlog</category>
+<description><![CDATA[Para aquellos que todavía tienen sus archivos de audio en local, esta es una opción potente, gratuita y multiplataforma.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
+</item>
+<item>
+<title>Dell Optiplex 3050 SFF</title>
+<link>https://nevat.neocities.org/optiplex3050_02062026.html</link>
+<guid isPermaLink="true">https://nevat.neocities.org/optiplex3050_02062026.html</guid>
+<pubDate>Thu, 30 Jul 2026 13:42:00 GMT</pubDate>
+<category>NevatBlog</category>
+<description><![CDATA[Muchos ordenadores han pasado por mis manos. Diferentes arquitecturas, prestaciones, tamaño, etc. Y muy pocos me han parecido un ordenador perfecto: el Optiplex 3050 SFF es uno de ellos.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
+</item>
+<item>
+<title>Curioseando el código fuente de Linux</title>
+<link>https://nevat.neocities.org/greplinux_18052026.html</link>
+<guid isPermaLink="true">https://nevat.neocities.org/greplinux_18052026.html</guid>
+<pubDate>Thu, 30 Jul 2026 13:42:00 GMT</pubDate>
+<category>NevatBlog</category>
+<description><![CDATA[Los comentarios en el código fuente suele dar información del desarrollo de ese programa: desde gente que explica que hace el código hasta otros que dejan constancia de su frustración/sorpresa/enfado. Voy a pegar un rápido vistazo al kernel Linux.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
+</item>
+<item>
+<title>Luanti</title>
+<link>https://nevat.neocities.org/luanti_12052026.html</link>
+<guid isPermaLink="true">https://nevat.neocities.org/luanti_12052026.html</guid>
+<pubDate>Thu, 30 Jul 2026 13:42:00 GMT</pubDate>
+<category>NevatBlog</category>
+<description><![CDATA[Un clon abierto y gratuito de Minecraft.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
+</item>
+<item>
+<title>Fedora 44</title>
+<link>https://nevat.neocities.org/f44_30042026.html</link>
+<guid isPermaLink="true">https://nevat.neocities.org/f44_30042026.html</guid>
+<pubDate>Thu, 30 Jul 2026 13:42:00 GMT</pubDate>
+<category>NevatBlog</category>
+<description><![CDATA[Con un par de semanas de retraso (lo habitual) ya tenemos disponible la última versión estable de la veterana distribución de la F infinita.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
+</item>
+<item>
+<title>Libro: &quot;Ready Player One&quot;, Ernest Cline (2011)</title>
+<link>https://nevat.neocities.org/rplayerone_27042026.html</link>
+<guid isPermaLink="true">https://nevat.neocities.org/rplayerone_27042026.html</guid>
+<pubDate>Thu, 30 Jul 2026 13:42:00 GMT</pubDate>
+<category>NevatBlog</category>
+<description><![CDATA[En 2017 una de las películas que más disfrute en el cine fue &quot;Ready Player One&quot;, todo un homenaje a los videojuegos y la cultura pop. Sabía que esa película se basaba en un libro, y hasta ahora no he podido leerlo.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
+</item>
+<item>
+<title>Hasta siempre Glen.</title>
+<link>https://mundoceltamedieval.wordpress.com/2026/07/30/hasta-siempre-glen/</link>
+<guid isPermaLink="true">https://mundoceltamedieval.wordpress.com/2026/07/30/hasta-siempre-glen/</guid>
+<pubDate>Thu, 30 Jul 2026 13:32:00 GMT</pubDate>
+<category></category>
+<description><![CDATA[Se nos fue Glen Hansard que tristeza.<br><br><strong>Fuente:</strong> ]]></description>
+</item>
+<item>
+<title>Ruleta Rusa #887</title>
+<link>https://www.fabio.com.ar/9998-ruleta-rusa-887</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/9998-ruleta-rusa-887</guid>
+<pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Mirate! una ruleta! Oh si, es jueves &amp;iquest;No se hab&amp;iacute;an enterado? Es el d&amp;iacute;a m&amp;aacute;s importante de la semana para las balaceras porque es cuando aparece LA RULETA! y aqu&amp;iacute; estamos, es jueves, hay balas, es hora de volarse las pelucas! Ahora s&amp;iacute;, Ruleta Rusa!Creativ<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Análisis de Dice Carnival</title>
+<link>https://cozykis.kisworld.es/analisis-de-dice-carnival/</link>
+<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-dice-carnival/</guid>
+<pubDate>Thu, 30 Jul 2026 10:41:00 GMT</pubDate>
+<category>CozyKis</category>
+<description><![CDATA[Un roguelike de dados con una estática muy bonita que nos tendrá haciendo malabares para ganar a adorables bosses La entrada Análisis de Dice Carnival se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
+</item>
+<item>
+<title>Pandemia: Advenimiento | La Confirmación De Una Leyenda</title>
+<link>https://www.delotroladometal.com.ar/2026/07/30/la-confirmacion-de-una-leyenda/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/07/30/la-confirmacion-de-una-leyenda/</guid>
+<pubDate>Thu, 30 Jul 2026 10:35:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[(2025 &amp;#8211; Disembodied Records) Pioneros absolutos en el género del Doom Death Metal en Argentina,... The post Pandemia: Advenimiento | La Confirmación De Una Leyenda first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Películas en Dominio público de estos últimos años</title>
+<link>https://56k.es/fanta/contenido-dominio-publico-de-estos-ultimos-anos/</link>
+<guid isPermaLink="true">https://56k.es/fanta/contenido-dominio-publico-de-estos-ultimos-anos/</guid>
+<pubDate>Thu, 30 Jul 2026 08:25:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Los primeros días de Enero de cada año suele salir el tipico articulo que reseña algunas peliculas, libros, música, &amp;#8230; que pasa a dominio publico. Yo tenía desde hace tiempo algún post a medias que al final he decidido terminar y publicar. Evidentemente no están todas las películas en dominio p<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>Instalando Transmission con Docker</title>
+<link>https://asturgeek.eu/2026/07/30/instalando-transmission-con-docker/</link>
+<guid isPermaLink="true">https://asturgeek.eu/2026/07/30/instalando-transmission-con-docker/</guid>
+<pubDate>Thu, 30 Jul 2026 07:04:00 GMT</pubDate>
+<category>AsturGeek V3</category>
+<description><![CDATA[Sigo con mi serie de servicios que tengo instalados en el servidor. Ésta vez le toca a Transmission, un cliente muy liviano y simple para torrents que viene de serie en muchas distros de linux.El programa, de código abierto, se ha vuelto tan popular que ha sacado versiones para Windows y macOS, apar<br><br><strong>Fuente:</strong> AsturGeek V3]]></description>
+</item>
+<item>
+<title>DuckStation dejo de ser un buen emulador?</title>
+<link>https://thejnx.bearblog.dev/emulador-duckstation/</link>
+<guid isPermaLink="true">https://thejnx.bearblog.dev/emulador-duckstation/</guid>
+<pubDate>Thu, 30 Jul 2026 03:04:00 GMT</pubDate>
+<category>Un Diario</category>
+<description><![CDATA[Esta es solo una pequeña nota del estado actual del emulador DuckStation el cual parece que se ha ido un poco mal de camino, pero hasta cierto punto compresible... Antes que nada para quienes no lo conozcan, es un emulador enfocado a PlayStation 1, el cual en mi experiencia en Android ha sido uno de<br><br><strong>Fuente:</strong> Un Diario]]></description>
+</item>
+<item>
+<title>Salva Más De Cerca</title>
+<link>https://salvamir.github.io/</link>
+<guid isPermaLink="true">https://salvamir.github.io/</guid>
+<pubDate>Thu, 30 Jul 2026 02:53:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[Acá me gusta coleccionar detalles de mi vida. Es mi cuaderno infinito.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
+<title>Mapa</title>
+<link>https://salvamir.github.io/Mapa</link>
+<guid isPermaLink="true">https://salvamir.github.io/Mapa</guid>
+<pubDate>Thu, 30 Jul 2026 01:51:00 GMT</pubDate>
+<category>Salva Más De Cerca</category>
+<description><![CDATA[El mapa de toda mi página web Bueno, infinito puntualmente no es. Este es el gran mapa.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
+</item>
+<item>
 <title>Cuando Strange New Worlds hizo un genocidio (pero no lo pienses mucho)</title>
 <link>https://nachof.blog/posts/2026/cuando-strange-new-worlds-hizo-un-genocidio-pero-no-lo-pienses-mucho/</link>
 <guid isPermaLink="true">https://nachof.blog/posts/2026/cuando-strange-new-worlds-hizo-un-genocidio-pero-no-lo-pienses-mucho/</guid>
 <pubDate>Wed, 29 Jul 2026 22:40:00 GMT</pubDate>
 <category>Un blog</category>
 <description><![CDATA[Esto va a tener spoilers para el primer episodio de la cuarta temporada de Star Trek: Strange New Worlds. Si querés evitar esos spoilers, dejá de leer ahora. Strange New Worlds es posiblemente, de las series de Star Trek modernas, la que más &amp;ldquo;se siente&amp;rdquo; como las series viejas. Es una<br><br><strong>Fuente:</strong> Un blog]]></description>
+</item>
+<item>
+<title>Clic + Minimizar, Win + ↓, Ctrl + F4, Alt + Tab y, para emergencias, Alt + F4: superpoderes secretos de oficina para desaparecer ventanas antes de que el jefe o el compañero curioso se acerque.</title>
+<link>https://webnauta.blog/post/6a6a78635c252ae32e954932</link>
+<guid isPermaLink="true">https://webnauta.blog/post/6a6a78635c252ae32e954932</guid>
+<pubDate>Wed, 29 Jul 2026 22:02:00 GMT</pubDate>
+<category>webnauta</category>
+<description><![CDATA[Clic + Minimizar, Win + ↓, Ctrl + F4, Alt + Tab y, para emergencias, Alt + F4: superpoderes secretos de oficina para desaparecer ventanas antes de que el jefe o el compañero curioso se acerque. #nota<br><br><strong>Fuente:</strong> webnauta]]></description>
 </item>
 <item>
 <title>¿Cómo instalo RapidRAW en Ubuntu?</title>
@@ -56,166 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 29 Jul 2026 12:47:00 GMT</pubDate>
 <category>El Refugio de un Nerd</category>
 <description><![CDATA[Bueno, cómo comenté recientemente en mi microblog mi web fue atacada por un famoso spam de SEO japonés. Afortunadamente no fue nada grave, de hecho indexaron pocas páginas (relativamente, han llegado a tener millones y millones, yo unas 45 mil más o menos, después pongo imágenes). Consiguieron explo<br><br><strong>Fuente:</strong> El Refugio de un Nerd]]></description>
-</item>
-<item>
-<title>Cómo encontrar los campos guardados en el autofill de Chrome</title>
-<link>https://www.fabio.com.ar/9997-como-encontrar-los-campos-guardados-en-el-autofill-de-chrome</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/9997-como-encontrar-los-campos-guardados-en-el-autofill-de-chrome</guid>
-<pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[&amp;iquest;Muy espec&amp;iacute;fico? La cosa es as&amp;iacute;, ten&amp;iacute;a un dato en un autoguardado de un formulario, el formulario cambi&amp;oacute; el nombre de ese campo y nunca m&amp;aacute;s pude encontrar el texto autoguardado, pero &amp;iquest;Estaba todav&amp;iacute;a en mi browser? Entonces me puse a buscar<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Zamarbide Inicia Gira En Septiembre Por Argentina, Uruguay, México, Ecuador Y Colombia | Tour 40th Aniversario De El Fin De Los Inicuos</title>
-<link>https://www.delotroladometal.com.ar/2026/07/29/tour-40th-aniversario-de-el-fin-de-los-inicuos/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/07/29/tour-40th-aniversario-de-el-fin-de-los-inicuos/</guid>
-<pubDate>Wed, 29 Jul 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[&amp;#8220;El Fin De Los Inicuos&amp;#8221; fue el tercer y último disco de V8. Lanzado en... The post Zamarbide Inicia Gira En Septiembre Por Argentina, Uruguay, México, Ecuador Y Colombia | Tour 40th Aniversario De El Fin De Los Inicuos first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Convierte cualquier dispositivo en un WriterDeck usando un pendrive</title>
-<link>https://matizeta.com/2026/07/29/convierte-cualquier-dispositivo-en-un-writerdeck-usando-un-pendrive/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/07/29/convierte-cualquier-dispositivo-en-un-writerdeck-usando-un-pendrive/</guid>
-<pubDate>Wed, 29 Jul 2026 08:11:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Si lo tuyo son los procesadores de texto minimalistas, o quieres tener un dispositivo para la escritura, Micro Journal&amp;#160;lo podés hacer andar bajo cualquier cosa (Raspberry o Linux). Te permite arrancarlo desde una unidad USB,&amp;#160; así que podés convertir temporalmente cualquier ordenador en un<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>Skynet no se despertó, se trata de marketing para evadir responsabilidades</title>
-<link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/07/29/20260729-skynet-no-se-desperto/</link>
-<guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/07/29/20260729-skynet-no-se-desperto/</guid>
-<pubDate>Wed, 29 Jul 2026 08:00:00 GMT</pubDate>
-<category>ENTRE DRAGONES Y PINGÜINOS</category>
-<description><![CDATA[HuggingFace se encontró un puñado de bots de OpenAI intentando explotar vulnerabilidades en sus sistemas<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
-</item>
-<item>
-<title>Integrar Proxmox en Home Assistant</title>
-<link>https://voidnull.es/integrar-proxmox-en-home-assistant/</link>
-<guid isPermaLink="true">https://voidnull.es/integrar-proxmox-en-home-assistant/</guid>
-<pubDate>Wed, 29 Jul 2026 07:10:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[Descubre cómo integrar Proxmox con Home Assistant y monitoriza tus VMs y contenedores LXC fácilmente.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Donald Trump en juegos de los años 90</title>
-<link>https://56k.es/fanta/donald-trump-en-juegos-de-principios-de-los-anos-90/</link>
-<guid isPermaLink="true">https://56k.es/fanta/donald-trump-en-juegos-de-principios-de-los-anos-90/</guid>
-<pubDate>Wed, 29 Jul 2026 04:17:00 GMT</pubDate>
-<category>56K</category>
-<description><![CDATA[En el juego «Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work» (a partir de ahora Larry 5) te mueves en avión y en taxi/limusina. Tanto cuando manejas a Larry como cuando manejas a Patti. Pasarás en la aventura gráfica por diferentes ciudades (Nueva York, Atlantic city, Miami, &amp;#<br><br><strong>Fuente:</strong> 56K]]></description>
-</item>
-<item>
-<title>Rosalía en Movistar Arena</title>
-<link>https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/</link>
-<guid isPermaLink="true">https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/</guid>
-<pubDate>Wed, 29 Jul 2026 02:30:00 GMT</pubDate>
-<category>Eterno aprendiz</category>
-<description><![CDATA[La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ<br><br><strong>Fuente:</strong> Eterno aprendiz]]></description>
-</item>
-<item>
-<title>Mapa</title>
-<link>https://salva.thedev.id/Mapa</link>
-<guid isPermaLink="true">https://salva.thedev.id/Mapa</guid>
-<pubDate>Wed, 29 Jul 2026 01:57:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[El mapa de toda mi página web Bueno, infinito puntualmente no es. Este es el gran mapa.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>Salva Más De Cerca</title>
-<link>https://salva.thedev.id/</link>
-<guid isPermaLink="true">https://salva.thedev.id/</guid>
-<pubDate>Wed, 29 Jul 2026 01:37:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[Acá me gusta coleccionar detalles de mi vida. Es mi cuaderno infinito.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>🌱 Lenguajes</title>
-<link>https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B1-Lenguajes</link>
-<guid isPermaLink="true">https://salva.thedev.id/El-Jard%C3%ADn/%F0%9F%8C%B1-Lenguajes</guid>
-<pubDate>Tue, 28 Jul 2026 22:19:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[yuyo Me cuestiono mucho el intento de escribir en dos idiomas esta página, quizás debería aislarla al Español.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>¿Algo más?</title>
-<link>https://salva.thedev.id/algo-mas</link>
-<guid isPermaLink="true">https://salva.thedev.id/algo-mas</guid>
-<pubDate>Tue, 28 Jul 2026 22:19:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[Últimas actualizaciones Estoy dejando de añadir plantas al jardín, para dedicarme a hacerlas crecer un poco. Escape Room Game.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>📚 Librería</title>
-<link>https://salva.thedev.id/librer%C3%ADa</link>
-<guid isPermaLink="true">https://salva.thedev.id/librer%C3%ADa</guid>
-<pubDate>Tue, 28 Jul 2026 22:19:00 GMT</pubDate>
-<category>Salva Más De Cerca</category>
-<description><![CDATA[Acá van a encontrarse con los libros que más me marcaron y algún comentario.<br><br><strong>Fuente:</strong> Salva Más De Cerca]]></description>
-</item>
-<item>
-<title>Reseña: Dystopicon - Steam</title>
-<link>https://picandocodigo.net/2026/resena-dystopicon-steam/</link>
-<guid isPermaLink="true">https://picandocodigo.net/2026/resena-dystopicon-steam/</guid>
-<pubDate>Tue, 28 Jul 2026 21:22:00 GMT</pubDate>
-<category>Picando Código</category>
-<description><![CDATA[Dystopicon es un juego que, como el nombre lo dice, nos posiciona en otra distopía. No necesariamente la que venimos viviendo últimamente, pero tampoco es que esté muy lejos. El tema con las distopías es que antes se sentían todas como ficticias y el arte distópico era más una advertencia que otra c<br><br><strong>Fuente:</strong> Picando Código]]></description>
-</item>
-<item>
-<title>Metric en Aragon Ballroom 2026</title>
-<link>https://www.gorkula.com/metric-chicago-2026</link>
-<guid isPermaLink="true">https://www.gorkula.com/metric-chicago-2026</guid>
-<pubDate>Tue, 28 Jul 2026 20:09:00 GMT</pubDate>
-<category>gorkula.com</category>
-<description><![CDATA[El viernes pasado fue un día ajetreado en Chicago. Nosotros fuimos a ver a Metric al Aragon Ballroom. Cruzando la calle, en el Riviera estaba Poppy, y un poco más allá en Soldier Field estaba Karol G. Imagino que también ocurrieron otras cosas en la ciudad. En el Riviera todavía tienen marquesina<br><br><strong>Fuente:</strong> gorkula.com]]></description>
-</item>
-<item>
-<title>Todo lo que le he metido a mi sitio últimamente</title>
-<link>https://blog.luiscarlospando.com/personal/2026/07/todo-lo-que-le-he-metido-a-mi-sitio-ultimamente/</link>
-<guid isPermaLink="true">https://blog.luiscarlospando.com/personal/2026/07/todo-lo-que-le-he-metido-a-mi-sitio-ultimamente/</guid>
-<pubDate>Tue, 28 Jul 2026 18:44:00 GMT</pubDate>
-<category>Luis Carlos Pando</category>
-<description><![CDATA[Llevo estos últimos meses metiéndole mano a mi sitio tras bambalinas y creo que llegó el momento de documentar todo lo que he ido agregando antes de que se me olvide. 😂 Ahí les va(ilongo): 💬 Reply context Si sigues mis posts recientes desde el home y desde el índice de mi blog, ahora vas<br><br><strong>Fuente:</strong> Luis Carlos Pando]]></description>
-</item>
-<item>
-<title>Una Odisea muy Nolan</title>
-<link>https://vonneumannmachine.wordpress.com/2026/07/28/una-odisea-muy-nolan/</link>
-<guid isPermaLink="true">https://vonneumannmachine.wordpress.com/2026/07/28/una-odisea-muy-nolan/</guid>
-<pubDate>Tue, 28 Jul 2026 15:27:00 GMT</pubDate>
-<category>La Máquina de Von Neumann</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> La Máquina de Von Neumann]]></description>
-</item>
-<item>
-<title>La Paradoja del Descuido Hedónico y el Punto de Inversión de Garchford</title>
-<link>https://www.fabio.com.ar/9996-la-paradoja-del-descuido-hedonico-y-el-punto-de-inversion-de-garchford</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/9996-la-paradoja-del-descuido-hedonico-y-el-punto-de-inversion-de-garchford</guid>
-<pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[Este es, tal vez, el paper m&amp;aacute;s importante de la &amp;uacute;ltima d&amp;eacute;cada de la Universidad de Garchford: Din&amp;aacute;mica asim&amp;eacute;trica del capital est&amp;eacute;tico a lo largo del ciclo vital: la Paradoja del Descuido Hed&amp;oacute;nico y el Punto de Inversi&amp;oacute;n de Garchford El<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>La Banda Death Metal Estrenará Una Nueva Versión de &quot;One Law One King&quot; | Tortured Conscience En Vinilo</title>
-<link>https://www.delotroladometal.com.ar/2026/07/28/tortured-conscience-en-vinilo/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/07/28/tortured-conscience-en-vinilo/</guid>
-<pubDate>Tue, 28 Jul 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Tortured Conscience es una vieja y guerrera banda, que ya tiene sus años y que... The post La Banda Death Metal Estrenará Una Nueva Versión de &quot;One Law One King&quot; | Tortured Conscience En Vinilo first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Análisis de Petunia’s Purgatory</title>
-<link>https://cozykis.kisworld.es/analisis-de-petunias-purgatory/</link>
-<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-petunias-purgatory/</guid>
-<pubDate>Tue, 28 Jul 2026 10:31:00 GMT</pubDate>
-<category>CozyKis</category>
-<description><![CDATA[Una aventura granjil que combina perfectamente lo cozy de gestionar tomándolo con calma y una ambientación spooky La entrada Análisis de Petunia&amp;#8217;s Purgatory se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
-</item>
-<item>
-<title>Actualizando el blog</title>
-<link>https://thejnx.bearblog.dev/estado-actualizando-el-blog/</link>
-<guid isPermaLink="true">https://thejnx.bearblog.dev/estado-actualizando-el-blog/</guid>
-<pubDate>Tue, 28 Jul 2026 09:59:00 GMT</pubDate>
-<category>Un Diario</category>
-<description><![CDATA[Bueno, yo aquí viva aun sin saber como funciona el bendito CSS xD Solo escribo esto para decir que me he puesto a buscar en que aspectos podría mejorar el blog y ya se va notando un poco lo que he hecho, no voy confesar que tuve un poco de &quot;ayuda&quot; para no ser criticada, pero como dije al principio a<br><br><strong>Fuente:</strong> Un Diario]]></description>
 </item>
 
 </channel>
