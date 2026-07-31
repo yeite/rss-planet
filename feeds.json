@@ -3,71 +3,78 @@
     "blog": "NevatBlog",
     "titulo": "Transition un sencillo conversor de audio para Gnome",
     "link": "https://nevat.neocities.org/transition_30072026.html",
-    "fecha": "30/07/2026 13:42",
+    "fecha": "31/07/2026 02:04",
     "contenido": "Hace poco hablaba sobre Freac, un ripeador y conversor con muchas opciones. Ahora es el turno de lo contrario, algo mucho más sencillo y directo: Transition."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Adiós reloj inteligente, hola reloj tonto",
     "link": "https://nevat.neocities.org/casiocalc_22072026.html",
-    "fecha": "30/07/2026 13:42",
+    "fecha": "31/07/2026 02:04",
     "contenido": "La batería del Pinetime dijo \"se acabó\" y me quedé sin reloj. Sin nada en la muñeca hasta que haciendo limpieza de cajones encontré a un antiguo conocido que podría resolver este problema: un reloj Casio calculadora."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Battle for Wesnoth",
     "link": "https://nevat.neocities.org/bwesnoth_30062026.html",
-    "fecha": "30/07/2026 13:42",
+    "fecha": "31/07/2026 02:04",
     "contenido": "Iniciando una nueva sección para hablar de una de mis aficiones: los videojuegos. Y qué mejor manera de comenzar que con uno de código libre."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Recuperando un Mac Mini G4 de 2005",
     "link": "https://nevat.neocities.org/minig4_18062026.html",
-    "fecha": "30/07/2026 13:42",
+    "fecha": "31/07/2026 02:04",
     "contenido": "Intentando dar una segunda vida a un ordenador obsoleto."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Fre:ac conversor de audio y ripeador de CDs",
     "link": "https://nevat.neocities.org/freac_11062026.html",
-    "fecha": "30/07/2026 13:42",
+    "fecha": "31/07/2026 02:04",
     "contenido": "Para aquellos que todavía tienen sus archivos de audio en local, esta es una opción potente, gratuita y multiplataforma."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Dell Optiplex 3050 SFF",
     "link": "https://nevat.neocities.org/optiplex3050_02062026.html",
-    "fecha": "30/07/2026 13:42",
+    "fecha": "31/07/2026 02:04",
     "contenido": "Muchos ordenadores han pasado por mis manos. Diferentes arquitecturas, prestaciones, tamaño, etc. Y muy pocos me han parecido un ordenador perfecto: el Optiplex 3050 SFF es uno de ellos."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Curioseando el código fuente de Linux",
     "link": "https://nevat.neocities.org/greplinux_18052026.html",
-    "fecha": "30/07/2026 13:42",
+    "fecha": "31/07/2026 02:04",
     "contenido": "Los comentarios en el código fuente suele dar información del desarrollo de ese programa: desde gente que explica que hace el código hasta otros que dejan constancia de su frustración/sorpresa/enfado. Voy a pegar un rápido vistazo al kernel Linux."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Luanti",
     "link": "https://nevat.neocities.org/luanti_12052026.html",
-    "fecha": "30/07/2026 13:42",
+    "fecha": "31/07/2026 02:04",
     "contenido": "Un clon abierto y gratuito de Minecraft."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Fedora 44",
     "link": "https://nevat.neocities.org/f44_30042026.html",
-    "fecha": "30/07/2026 13:42",
+    "fecha": "31/07/2026 02:04",
     "contenido": "Con un par de semanas de retraso (lo habitual) ya tenemos disponible la última versión estable de la veterana distribución de la F infinita."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Libro: \"Ready Player One\", Ernest Cline (2011)",
     "link": "https://nevat.neocities.org/rplayerone_27042026.html",
-    "fecha": "30/07/2026 13:42",
+    "fecha": "31/07/2026 02:04",
     "contenido": "En 2017 una de las películas que más disfrute en el cine fue \"Ready Player One\", todo un homenaje a los videojuegos y la cultura pop. Sabía que esa película se basaba en un libro, y hasta ahora no he podido leerlo."
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Lo hacemos por tu bien, cariño",
+    "link": "https://thecheis.com/2026/07/30/lo-hacemos-por-tu-bien-carino/",
+    "fecha": "30/07/2026 20:08",
+    "contenido": "Hace tiempo que le doy vueltas a una serie de temas que, para mí, apuntan en la misma dirección y se mezclan de alguna forma. Nunca antes estuvimos tan rodeados de cámaras de seguridad, de seguimiento y de identificación. La lógica diría que, gracias a eso, deberíamos sentirnos más seguros que nunca"
   },
   {
     "blog": "",
@@ -110,6 +117,13 @@
     "link": "https://asturgeek.eu/2026/07/30/instalando-transmission-con-docker/",
     "fecha": "30/07/2026 07:04",
     "contenido": "Sigo con mi serie de servicios que tengo instalados en el servidor. Ésta vez le toca a Transmission, un cliente muy liviano y simple para torrents que viene de serie en muchas distros de linux.El programa, de código abierto, se ha vuelto tan popular que ha sacado versiones para Windows y macOS, apar"
+  },
+  {
+    "blog": "quiroptero.blog",
+    "titulo": "Así nació mi gusto por el horror",
+    "link": "https://www.quiroptero.blog/2026/07/horror/",
+    "fecha": "30/07/2026 06:00",
+    "contenido": ""
   },
   {
     "blog": "Un Diario",
@@ -229,6 +243,13 @@
     "link": "https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/",
     "fecha": "29/07/2026 02:30",
     "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Quitando un avispero en casa",
+    "link": "https://chancli.dev/blog/quitar-avispero.html",
+    "fecha": "29/07/2026 00:00",
+    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
   },
   {
     "blog": "Salva Más De Cerca",
@@ -805,11 +826,25 @@
     "contenido": "En los últimos tiempos estoy leyendo Calibán y la bruja de Silvia Federici. No paro de repetirlo y alguien podría pensar que lo hago para darme pisto, para ganar puntos de intelectual o algo así. Nada más lejos de la realidad: lo hago porque me está volando la cabeza. No puedo evitar citarlo porque "
   },
   {
+    "blog": "NeoSite Blog",
+    "titulo": "Richard Stallman y las 4 libertades: El pilar ético del Software Libre",
+    "link": "http://blog.neosite.com.ar/post/richard-stallman-y-las-4-libertades-el-pilar-tico-del-software-libre",
+    "fecha": "24/07/2026 00:00",
+    "contenido": ""
+  },
+  {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
     "titulo": "El colombófilo de Flores y la cifra infinita (https://tiendaebook.com.ar/producto/el-colombofilo-de-flores-y-la-cifra-infinita/  )",
     "link": "https://danielomarcignacco.mataroa.blog/blog/el-colombofilo-de-flores-y-la-cifra-infinita-httpstiendaebookcomarproductoel-colombofilo-de-flores-y-la-cifra-infinita/",
     "fecha": "24/07/2026 00:00",
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Hectáreas quemadas vistas con perspectiva real",
+    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
+    "fecha": "24/07/2026 00:00",
+    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
   },
   {
     "blog": "CozyKis",
@@ -873,6 +908,13 @@
     "link": "https://56k.es/fanta/no-compres-acuarius-hazte-uno-casero/",
     "fecha": "23/07/2026 04:12",
     "contenido": "Acuarius es una bebida que pertenece a Coca-Cola Company. Eso ya es suficiente motivo como para NO consumir ese producto pero al mismo tiempo es que es carisimo. Más de 2€ una botella de esas en supermercados. El tema es que realmente no necesitamos a Coca-Cola para sentirnos vivos (aquello de «Coca"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Enlaces para ver el tiempo en Algeciras",
+    "link": "https://chancli.dev/blog/enlaces-meteo-algeciras.html",
+    "fecha": "23/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los datos en general y desde hace un tiempo con todo el asunto del cambio climático, borrascas enlazadas y olas de calor empecé a buscar fuentes de información lo más fiables posibles.\nLo primero que encontré fueron varias estaciones meteorológicas como:\n\nmeteoclimatic\naweka"
   },
   {
     "blog": "Un blog",
@@ -999,6 +1041,13 @@
     "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
     "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Llevo un mes durmiendo en el sofá",
+    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
+    "fecha": "22/07/2026 00:00",
+    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -1876,6 +1925,13 @@
     "contenido": "Entender las operaciones con vectores para trabajar con Blender Para trabajar con Blender, especialmente con los Geometry Nodes, es recomendable saber qué son, cómo funcionan y como interactúan los vectores. Si no tiene una base al respecto puede ser muy confuso e intimidante. En el siguiente video "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Mis estadísticas de running en la web",
+    "link": "https://chancli.dev/blog/mis-estadisticas-running-disponibles.html",
+    "fecha": "06/07/2026 00:00",
+    "contenido": "Llevo ya bastante tiempo tomándome en serio el volver a meter la carrera en mi rutina de ejercicio. Como ya comenté hace algún tiempo, este año conseguí realizar el reto de los 101 km de Ronda.\nPara conseguirlo nos tuvimos que plantear muy en serio la rutina de entrenamientos de caminatas/carreras e"
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "¿Por qué un blog y no un canal de YouTube?",
     "link": "https://tecnoysoft.com/2026/07/05/por-que-un-blog-y-no-un-canal-de-youtube/",
@@ -1972,6 +2028,13 @@
     "link": "https://elprofejuan.com.ar/acerca-de",
     "fecha": "04/07/2026 02:03",
     "contenido": "El Profe Juan\nBlog de Juan Agustín Flores (aka)(significa \"Also Know As\" que es, también conocido como, en castellano) Manieflo\n\nSoy Docente de Informática Jubilado y amante del Software Libre. Formo parte del Club del software Libre de argentina y difundo el Software Libre. \nAhora tengo un blog de "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Los Perseguidos, ficción sonora fantástica",
+    "link": "https://chancli.dev/blog/los-perseguidos-audio-ficcion.html",
+    "fecha": "04/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los podcasts, sobre todo sigo podcasts de tecnología y algunos de misterio.\nPero hoy no vengo a recomendaros un podcast normal, es una ficción sonora de una calidad de producción increíble.\nSe trata de Los Perseguidos, basado en la novela de Fernando Benzo.\nSe ve que Onda Ce"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -2182,40 +2245,5 @@
     "link": "https://www.xn--jmuoz-qta.es/2026/07/julio.html",
     "fecha": "01/07/2026 07:14",
     "contenido": "\n  \n    \n  \nEmpiezo este julio estival con un paseo matutino por la ciudad. Cómo he echado de menos poder disfrutar de un buen paseo."
-  },
-  {
-    "blog": "Blog de Thalskarth",
-    "titulo": "Cambié de teclado",
-    "link": "https://blog.thalskarth.ar/cambie-de-teclado/",
-    "fecha": "01/07/2026 00:00",
-    "contenido": "Sí, se que parece algo mundano que seguro a otros les trae sin cuidado. Pero desde 2013 solo he usado 2 teclados. El MK520 en mi PC de escritorio y el MK345 en la PC del trabajo, ambos de Logitech. Es más de una década, lo cual por un lado habla de la buena calidad de esos aparatos y por el otro, ma"
-  },
-  {
-    "blog": "Si dios te da limones",
-    "titulo": "Mis segundos exlibris",
-    "link": "https://sidiostedalimones.com/blog/2026/mis-segundos-exlibris/",
-    "fecha": "01/07/2026 00:00",
-    "contenido": ""
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "El colombófilo de Flores y la cifra infinita (venta por necesidad difundir)",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/el-colombofilo-de-flores-y-la-cifra-infinita-venta-por-necesidad-difundir/",
-    "fecha": "01/07/2026 00:00",
-    "contenido": "A veces, la mejor manera de apoyar a un escritor es tan sencilla como leer una de sus historias.\nEl colombófilo de Flores y la cifra infinita es una novela para quienes disfrutan de los misterios, las coincidencias que parecen destino y las preguntas que siguen resonando mucho después de la última p"
-  },
-  {
-    "blog": "Redes nuestras",
-    "titulo": "¿Cuáles son las redes donde caben los feminismos?",
-    "link": "https://redesnuestras.net/2026/06/30/cuales-son-las-redes-donde-caben-los-feminismos/",
-    "fecha": "30/06/2026 21:10",
-    "contenido": "Una se abre una newsletter para escribir en ella, pero después empiezan a invitarla a que escriba o hable en sitios y entonces no consigue encontrar tiempo para la newsletter&#8230; No obstante, hay un crossover posible: enviar por aquí textos que he publicado en otros sitios. Eso estoy haciendo. De"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "30 de junio",
-    "link": "https://www.xn--jmuoz-qta.es/2026/06/30-de-junio.html",
-    "fecha": "30/06/2026 18:26",
-    "contenido": "He releído en varias ocasiones las entradas que escribí los últimos días del último verano, con la incertidumbre que tenía en ese momento por verme obligado a ocupar mi plaza en el centro donde la tengo. Hablaba el último día de agosto de la tristeza que sentía ese último día porque era el fin de un"
   }
 ]
