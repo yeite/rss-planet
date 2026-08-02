@@ -3,71 +3,92 @@
     "blog": "NevatBlog",
     "titulo": "Transition un sencillo conversor de audio para Gnome",
     "link": "https://nevat.neocities.org/transition_30072026.html",
-    "fecha": "02/08/2026 02:02",
+    "fecha": "02/08/2026 13:04",
     "contenido": "Hace poco hablaba sobre Freac, un ripeador y conversor con muchas opciones. Ahora es el turno de lo contrario, algo mucho más sencillo y directo: Transition."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Adiós reloj inteligente, hola reloj tonto",
     "link": "https://nevat.neocities.org/casiocalc_22072026.html",
-    "fecha": "02/08/2026 02:02",
+    "fecha": "02/08/2026 13:04",
     "contenido": "La batería del Pinetime dijo \"se acabó\" y me quedé sin reloj. Sin nada en la muñeca hasta que haciendo limpieza de cajones encontré a un antiguo conocido que podría resolver este problema: un reloj Casio calculadora."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Battle for Wesnoth",
     "link": "https://nevat.neocities.org/bwesnoth_30062026.html",
-    "fecha": "02/08/2026 02:02",
+    "fecha": "02/08/2026 13:04",
     "contenido": "Iniciando una nueva sección para hablar de una de mis aficiones: los videojuegos. Y qué mejor manera de comenzar que con uno de código libre."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Recuperando un Mac Mini G4 de 2005",
     "link": "https://nevat.neocities.org/minig4_18062026.html",
-    "fecha": "02/08/2026 02:02",
+    "fecha": "02/08/2026 13:04",
     "contenido": "Intentando dar una segunda vida a un ordenador obsoleto."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Fre:ac conversor de audio y ripeador de CDs",
     "link": "https://nevat.neocities.org/freac_11062026.html",
-    "fecha": "02/08/2026 02:02",
+    "fecha": "02/08/2026 13:04",
     "contenido": "Para aquellos que todavía tienen sus archivos de audio en local, esta es una opción potente, gratuita y multiplataforma."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Dell Optiplex 3050 SFF",
     "link": "https://nevat.neocities.org/optiplex3050_02062026.html",
-    "fecha": "02/08/2026 02:02",
+    "fecha": "02/08/2026 13:04",
     "contenido": "Muchos ordenadores han pasado por mis manos. Diferentes arquitecturas, prestaciones, tamaño, etc. Y muy pocos me han parecido un ordenador perfecto: el Optiplex 3050 SFF es uno de ellos."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Curioseando el código fuente de Linux",
     "link": "https://nevat.neocities.org/greplinux_18052026.html",
-    "fecha": "02/08/2026 02:02",
+    "fecha": "02/08/2026 13:04",
     "contenido": "Los comentarios en el código fuente suele dar información del desarrollo de ese programa: desde gente que explica que hace el código hasta otros que dejan constancia de su frustración/sorpresa/enfado. Voy a pegar un rápido vistazo al kernel Linux."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Luanti",
     "link": "https://nevat.neocities.org/luanti_12052026.html",
-    "fecha": "02/08/2026 02:02",
+    "fecha": "02/08/2026 13:04",
     "contenido": "Un clon abierto y gratuito de Minecraft."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Fedora 44",
     "link": "https://nevat.neocities.org/f44_30042026.html",
-    "fecha": "02/08/2026 02:02",
+    "fecha": "02/08/2026 13:04",
     "contenido": "Con un par de semanas de retraso (lo habitual) ya tenemos disponible la última versión estable de la veterana distribución de la F infinita."
   },
   {
     "blog": "NevatBlog",
     "titulo": "Libro: \"Ready Player One\", Ernest Cline (2011)",
     "link": "https://nevat.neocities.org/rplayerone_27042026.html",
-    "fecha": "02/08/2026 02:02",
+    "fecha": "02/08/2026 13:04",
     "contenido": "En 2017 una de las películas que más disfrute en el cine fue \"Ready Player One\", todo un homenaje a los videojuegos y la cultura pop. Sabía que esa película se basaba en un libro, y hasta ahora no he podido leerlo."
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Cómo solucionar el error «Error reading fd» al limpiar la caché de Pacman en Arch Linux y derivadas",
+    "link": "https://tecnoysoft.com/2026/08/02/como-solucionar-el-error-error-reading-fd-al-limpiar-la-cache-de-pacman-en-arch-linux-y-derivadas/",
+    "fecha": "02/08/2026 11:05",
+    "contenido": "Si al ejecutar sudo pacman -Scc, pacman -Sc o incluso paccache aparecen mensajes similares a los siguientes: Es probable que el problema no sea Pacman ni Paccache, sino la existencia de directorios temporales que han quedado en la caché del sistema. ¿Qué provoca este error? Durante la descarga de pa"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Bloqueando mierda con Squid en local",
+    "link": "https://56k.es/fanta/usar-squid-en-local-para-bloquear-dominios/",
+    "fecha": "02/08/2026 05:10",
+    "contenido": "Hola mi amol vengo a dejar por aquí unas pequeñas instrucciones de como instalar y configurar squid para conseguir 2 cosas: &#8211; Cachear contenido http &#8211; Bloquear dominios de mierda como por ejemplo facebook.com &#160; Como bien sabes si no naciste ayer squid se usa mucho en el mundo empres"
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Mejoras en el blog: vista tipo lista o grid, categorías junto a títulos en el index y summary y details para los años",
+    "link": "https://pedrolr.es/blog/mejoras-en-el-blog-vista-tipo-lista-o-grid-categorias-junto-a-titulos-en-el-index-y-summary-y-details-para-los-anos/",
+    "fecha": "02/08/2026 04:42",
+    "contenido": "He implementado algunas mejoras en el blog, sobre todo en el index donde se ven los títulos de todos los posts. Espero que no quede muy sobrecargado y que mejore la experiencia de lectura. El index ahora tiene dos opciones de vista: tipo lista/archivo, que es la que ya tenía; y tipo grid/cuadrícula."
   },
   {
     "blog": "El Sitio de Manieflo",
@@ -91,18 +112,11 @@
     "contenido": "&nbsp;En el artillero de acrílicos desordenados,un estante repleto de materia y olvido,asume, con petulancia,una red de condicionamientos recíprocos,un asalto a la soledad, la lucidez y la torpeza.Pascual Herrera"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Cristiano, Metálico Y Extremo…",
-    "link": "https://www.delotroladometal.com.ar/2026/08/01/cristiano-metalico-y-extremo/",
-    "fecha": "01/08/2026 11:15",
-    "contenido": "Los sustantivos tienen ese don innegable de etiquetar a las personas, y dotarlas de una...\nThe post Cristiano, Metálico Y Extremo… first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Plum Road Tea Dream",
-    "link": "https://cozykis.kisworld.es/analisis-de-plum-road-tea-dream/",
-    "fecha": "01/08/2026 09:53",
-    "contenido": "Una aventura narrativa que no nos dejará indiferentes y que sabe transmitir muy bien los duros pensamientos del autor\nLa entrada Análisis de Plum Road Tea Dream se publicó primero en CozyKis."
+    "blog": "Alexis Alzate",
+    "titulo": "Alejarse, volver, y volver a alejarse",
+    "link": "https://alexisalzate.com/blog/2026-08-01/",
+    "fecha": "01/08/2026 00:00",
+    "contenido": "Póngale palabras a sus sueños e intente asociar.\nMe interesa saber más sobre las monstruosidades que hay en en el\ntrasfondo de mi propia vida. Me llama la atención la cotidianidad de\nlos horrores y el enmudecimiento general de quienes lo vivimos. En\nconfrontar la sensación de que algo no se cuenta, "
   },
   {
     "blog": "El blog es mío",
@@ -166,13 +180,6 @@
     "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-31/",
     "fecha": "31/07/2026 10:47",
     "contenido": "Relato – Doctor Nómada (séptima parte) &#124; Bonus track\n\nLeer la sexta parte\nDoctor Nomada (séptima parte)\nCuando ví unos faros a lo lejos de la carretera comenzarse a acercar, pensé que por fin venían por nosotros, pero al tenerla casi enfrente, una camioneta algo maltrecha y enlodada, me hizo pe"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Ecthirion Presenta \"King Of Wormwood\" | El Metal Y Su Costado Orquestal",
-    "link": "https://www.delotroladometal.com.ar/2026/07/31/el-metal-y-su-costado-orquestal/",
-    "fecha": "31/07/2026 10:35",
-    "contenido": "El encuentro entre lo sinfónico/orquestal, y el Metal, no es algo que sorprenda a esta...\nThe post Ecthirion Presenta \"King Of Wormwood\" | El Metal Y Su Costado Orquestal first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "56K",
@@ -245,20 +252,6 @@
     "contenido": "     Mirate! una ruleta!\nOh si, es jueves &iquest;No se hab&iacute;an enterado? Es el d&iacute;a m&aacute;s importante de la semana para las balaceras porque es cuando aparece LA RULETA! y aqu&iacute; estamos, es jueves, hay balas, es hora de volarse las pelucas!\nAhora s&iacute;, Ruleta Rusa!Creativ"
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Dice Carnival",
-    "link": "https://cozykis.kisworld.es/analisis-de-dice-carnival/",
-    "fecha": "30/07/2026 10:41",
-    "contenido": "Un roguelike de dados con una estática muy bonita que nos tendrá haciendo malabares para ganar a adorables bosses\nLa entrada Análisis de Dice Carnival se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Pandemia: Advenimiento | La Confirmación De Una Leyenda",
-    "link": "https://www.delotroladometal.com.ar/2026/07/30/la-confirmacion-de-una-leyenda/",
-    "fecha": "30/07/2026 10:35",
-    "contenido": "(2025 &#8211; Disembodied Records) Pioneros absolutos en el género del Doom Death Metal en Argentina,...\nThe post Pandemia: Advenimiento | La Confirmación De Una Leyenda first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "56K",
     "titulo": "Películas en Dominio público de estos últimos años",
     "link": "https://56k.es/fanta/contenido-dominio-publico-de-estos-ultimos-anos/",
@@ -329,25 +322,11 @@
     "contenido": "Hoy en día hay muchos tipos de auriculares para elegir, en mi caso prefiero algunos sobre otros depende el uso que le vaya a dar. ¿Vos cual preferís? Si querés también podes dejarme el modelo en los comentarios."
   },
   {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "SEO Japonés",
-    "link": "https://elrefugiodeunnerd.es/2026/07/29/seo-japones/",
-    "fecha": "29/07/2026 12:47",
-    "contenido": "Bueno, cómo comenté recientemente en mi microblog mi web fue atacada por un famoso spam de SEO japonés. Afortunadamente no fue nada grave, de hecho indexaron pocas páginas (relativamente, han llegado a tener millones y millones, yo unas 45 mil más o menos, después pongo imágenes). Consiguieron explo"
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "Cómo encontrar los campos guardados en el autofill de Chrome",
     "link": "https://www.fabio.com.ar/9997-como-encontrar-los-campos-guardados-en-el-autofill-de-chrome",
     "fecha": "29/07/2026 12:00",
     "contenido": "    \n&iquest;Muy espec&iacute;fico? La cosa es as&iacute;, ten&iacute;a un dato en un autoguardado de un formulario, el formulario cambi&oacute; el nombre de ese campo y nunca m&aacute;s pude encontrar el texto autoguardado, pero &iquest;Estaba todav&iacute;a en mi browser?\nEntonces me puse a buscar"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Zamarbide Inicia Gira En Septiembre Por Argentina, Uruguay, México, Ecuador Y Colombia | Tour 40th Aniversario De El Fin De Los Inicuos",
-    "link": "https://www.delotroladometal.com.ar/2026/07/29/tour-40th-aniversario-de-el-fin-de-los-inicuos/",
-    "fecha": "29/07/2026 10:35",
-    "contenido": "&#8220;El Fin De Los Inicuos&#8221; fue el tercer y último disco de V8. Lanzado en...\nThe post Zamarbide Inicia Gira En Septiembre Por Argentina, Uruguay, México, Ecuador Y Colombia | Tour 40th Aniversario De El Fin De Los Inicuos first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "matizeta",
@@ -383,6 +362,13 @@
     "link": "https://56k.es/fanta/donald-trump-en-juegos-de-principios-de-los-anos-90/",
     "fecha": "29/07/2026 04:17",
     "contenido": "En el juego «Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work» (a partir de ahora Larry 5) te mueves en avión y en taxi/limusina. Tanto cuando manejas a Larry como cuando manejas a Patti. Pasarás en la aventura gráfica por diferentes ciudades (Nueva York, Atlantic city, Miami, &#"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Rosalía en Movistar Arena",
+    "link": "https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/",
+    "fecha": "29/07/2026 02:30",
+    "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
   },
   {
     "blog": "Salva Más De Cerca",
@@ -467,20 +453,6 @@
     "link": "https://www.fabio.com.ar/9996-la-paradoja-del-descuido-hedonico-y-el-punto-de-inversion-de-garchford",
     "fecha": "28/07/2026 12:00",
     "contenido": "    \nEste es, tal vez, el paper m&aacute;s importante de la &uacute;ltima d&eacute;cada de la Universidad de Garchford:\n\nDin&aacute;mica asim&eacute;trica del capital est&eacute;tico a lo largo del ciclo vital: la Paradoja del Descuido Hed&oacute;nico y el Punto de Inversi&oacute;n de Garchford\n\nEl "
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Banda Death Metal Estrenará Una Nueva Versión de \"One Law One King\" | Tortured Conscience En Vinilo",
-    "link": "https://www.delotroladometal.com.ar/2026/07/28/tortured-conscience-en-vinilo/",
-    "fecha": "28/07/2026 10:35",
-    "contenido": "Tortured Conscience es una vieja y guerrera banda, que ya tiene sus años y que...\nThe post La Banda Death Metal Estrenará Una Nueva Versión de \"One Law One King\" | Tortured Conscience En Vinilo first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Petunia’s Purgatory",
-    "link": "https://cozykis.kisworld.es/analisis-de-petunias-purgatory/",
-    "fecha": "28/07/2026 10:31",
-    "contenido": "Una aventura granjil que combina perfectamente lo cozy de gestionar tomándolo con calma y una ambientación spooky\nLa entrada Análisis de Petunia&#8217;s Purgatory se publicó primero en CozyKis."
   },
   {
     "blog": "Un Diario",
@@ -588,20 +560,6 @@
     "contenido": "    \nHace unas semanas un instructor de vuelo volaba en C&oacute;rdoba con su alumna, en un momento le dice &ldquo;Vos sab&eacute;s lo que ten&eacute;s que hacer&rdquo;, se sac&oacute; el cintur&oacute;n de seguridad, abri&oacute; la puerta y salt&oacute; al vac&iacute;o.\nAs&iacute; como sucedi&oacu"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Zebulon: Come Day Of Reckoning | Ha Llegado El Día Del Doom Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/07/27/ha-llegado-el-dia-del-doom-metal/",
-    "fecha": "27/07/2026 10:35",
-    "contenido": "(2025 &#8211; Apollon Records) Ah! Los antiguos tiempos donde los discos tenían una soberbia producción,...\nThe post Zebulon: Come Day Of Reckoning | Ha Llegado El Día Del Doom Metal first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de High Times",
-    "link": "https://cozykis.kisworld.es/analisis-de-high-times/",
-    "fecha": "27/07/2026 10:28",
-    "contenido": "Un trozito de donuts, una cucharada de personajes carismáticos y mucho amor hacen de esta novela visual el juego perfecto\nLa entrada Análisis de High Times se publicó primero en CozyKis."
-  },
-  {
     "blog": "Manu Mateos",
     "titulo": "#198: algunas sensaciones vacacionales",
     "link": "https://www.macram.es/posts/2026/07/algunas-sensaciones-vacacionales/",
@@ -623,13 +581,6 @@
     "contenido": "Su interfaz gráfica intuitiva permite a los usuarios gestionar sitios web, bases de datos, servicios de correo, cortafuegos y mucho más, sin necesidad de usar la terminal constantemente."
   },
   {
-    "blog": "alt43",
-    "titulo": "Inteligencia Artificial de código abierto 2026",
-    "link": "https://alt43.es/inteligencia-artificial-de-codigo-abierto-2026/",
-    "fecha": "27/07/2026 07:00",
-    "contenido": "En 2026, el código abierto en IA ya no es liderado por Meta u OpenAI: son los desarrollos chinos (DeepSeek, Qwen, GLM) quienes publican los mejores modelos, con más frecuencia y licencias más permisivas. Comentamos todo ésto de la forma más sencilla posible, con ejemplos concretos y las combinacione"
-  },
-  {
     "blog": "56K",
     "titulo": "Youtubers que no me caen mal – Vol.2",
     "link": "https://56k.es/fanta/youtubers-que-no-me-caen-mal-vol-2/",
@@ -642,6 +593,13 @@
     "link": "https://gatooscuro.xyz/tres-alternativas-a-las-plataformas-tradicionales-kloak-zerion-y-cryptgeon/",
     "fecha": "27/07/2026 04:04",
     "contenido": "He estado verificando mi repositorio con enlaces sobre los &#8220;posibles&#8221; artículos y vaya, tengo muy buen material, aunque… muy poco espacio para poder desarrollarlo. Además, me desanima un poco no\nSeguir leyendo  Tres alternativas a las plataformas tradicionales: Kloak, Zerion y Cryptgeon\n"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Conversatorio Musical con Angelo Pierattini en La Tienda Nacional",
+    "link": "https://altgr.xyz/2026/07/27/conversatorio-musical-con-angelo-pierattini-en-la-tienda-nacional/",
+    "fecha": "27/07/2026 03:52",
+    "contenido": "Quienes compramos en preventa el vinilo del Disco Rojo de Weichafe tuvimos el privilegio de ser invitados a una sesión íntima junto a Angelo Pierattini en La Tienda Nacional, la tarde miércoles 22 de julio, para escuchar algunas de sus canciones y conseguir unas rayitas en los discos. Lo que iba a s"
   },
   {
     "blog": "JavierSam",
@@ -684,20 +642,6 @@
     "link": "https://adrianperales.com/2026/07/veinte-anos-de-bloguero/",
     "fecha": "26/07/2026 18:04",
     "contenido": "El pasado 21 de julio se cumplieron 20 años desde que empecé con esto de los blogs. Yo he cambiado y el blog ha cambiado conmigo, hay meses en los que no hay una sola entrada nueva, pero mi manera de entender internet es, aún hoy y en buena parte, la misma que en 2006. [&#8230;]"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "– Si, uso Linux, ¿Y que?",
-    "link": "https://elrefugiodeunnerd.es/2026/07/26/si-uso-linux-y-que/",
-    "fecha": "26/07/2026 17:08",
-    "contenido": "Uso Linux desde hace más de 4 años. Totalmente desde hace 1 año y medio, y digo, totalmente me refiero en mi día a día. Yo tengo Windows instalado y aunque, a día de hoy lo uso poco, lo conservo. Supongo que Windows hace cosas bien… Soy un defensor de Linux, y me gusta convencer [&#8230;]"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Banda Black Metal De Suiza Se Pone En Movimiento | Demoniciduth Anuncia Un Nuevo EP",
-    "link": "https://www.delotroladometal.com.ar/2026/07/26/demoniciduth-anuncia-un-nuevo-ep/",
-    "fecha": "26/07/2026 11:10",
-    "contenido": "Quizá algunos recuerden la existencia de Demoniciduth, una vieja y querida banda Black Metal, proveniente...\nThe post La Banda Black Metal De Suiza Se Pone En Movimiento | Demoniciduth Anuncia Un Nuevo EP first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "impermanente",
@@ -754,13 +698,6 @@
     "link": "https://labaudric.net/blog/noticias/actividades-julio-2026",
     "fecha": "25/07/2026 12:31",
     "contenido": "Otro mes cargadito de mis mierdas, bastante contento.\nEn lo que respeta esta web, sigo la misma dinámica, para bien o para mal, que la del mes pasado: estoy pasando del apartado cápsula Gemini, y poniendole features y contenido a esta web http.\n\nDestaca sobre todo, ¡migración completa de mis canales"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Martin Simson Nos Cuenta Novedades Y Lo Que Viene | “Trinity” Con Annette Olzon, Es Lo Nuevo De Destroyer Of Death",
-    "link": "https://www.delotroladometal.com.ar/2026/07/25/trinity-con-annette-olzon-es-lo-nuevo-de-destroyer-of-death/",
-    "fecha": "25/07/2026 12:00",
-    "contenido": "En su momento ya hemos hablado y contado sobre el proyecto Martin Simson´s Destroyer Of...\nThe post Martin Simson Nos Cuenta Novedades Y Lo Que Viene | “Trinity” Con Annette Olzon, Es Lo Nuevo De Destroyer Of Death first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Manu Mateos",
@@ -861,20 +798,6 @@
     "contenido": "     Robemos unos links\nEs viernes, semana de purificaci&oacute;n para muchos, de reorganizaci&oacute;n mental, estabilizaci&oacute;n nerviosa y, por ende, links! nada mejor que unos enlaces para completar la tarea espiritual! Y si te parecen pocos sumate a LinksDV para compartir m&aacute;s y m&aacu"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Majesty: Exaltation I - IV | Frío y Crudo Black Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/07/24/frio-y-crudo-black-metal/",
-    "fecha": "24/07/2026 10:35",
-    "contenido": "(2024 &#8211; Independiente) Se imaginan un álbum con un solo tema? O mejor dicho, un...\nThe post Majesty: Exaltation I - IV | Frío y Crudo Black Metal first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Lured In",
-    "link": "https://cozykis.kisworld.es/analisis-de-lured-in/",
-    "fecha": "24/07/2026 10:26",
-    "contenido": "Coge tu caña, tu gorro y tu silla de pescar y disfruta de paisajes relajantes mientras tus peces generan dinero de forma pasiva\nLa entrada Análisis de Lured In se publicó primero en CozyKis."
-  },
-  {
     "blog": "56K",
     "titulo": "The Legend of Zelda en una calculadora",
     "link": "https://56k.es/fanta/the-legend-of-zelda-en-una-calculadora/",
@@ -910,13 +833,6 @@
     "contenido": "En moodle 5 para los iconos de los módulos de actividad se utiliza un fichero monologo.svg cuya imagen, con un tamaño y formato concreto, se colorea en función del propósito del módulo. El propósito del módulo debe estar definido en una función&nbsp;&lt;modulo&gt;_supports()&nbsp;en el fichero lib.p"
   },
   {
-    "blog": "56K",
-    "titulo": "Cámaras instantáneas – Fuera de las garras de la IA",
-    "link": "https://56k.es/fanta/camaras-instantaneas-fuera-de-las-garras-de-la-ia/",
-    "fecha": "24/07/2026 04:13",
-    "contenido": "Encontré estas cámaras el otro día y parece que funcionan. Son cámaras instantáneas que pertenecieron a mi padre y tienen que tener medio siglo más o menos fácilmente. Las fotografías instantáneas no se inventaron ayer amigo/a/e. Pregunté en el fediverso el otro día y me recomendaron en base a los m"
-  },
-  {
     "blog": "χσℓ.αя",
     "titulo": "desvarío proyectual con sueño",
     "link": "https://xol.ar/desviario-proyectual-con-sueño/",
@@ -928,7 +844,7 @@
     "titulo": "Inicio",
     "link": "https://elprofejuan.com.ar/inicio",
     "fecha": "24/07/2026 01:18",
-    "contenido": "\n\n \n\n\n\n\n"
+    "contenido": "\n\n\n \n\n\n\n\n"
   },
   {
     "blog": "Jodida, pero no sorprendida",
@@ -952,13 +868,6 @@
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Es que este videojuego me hace feliz",
-    "link": "https://cozykis.kisworld.es/es-que-este-videojuego-me-hace-feliz/",
-    "fecha": "23/07/2026 19:29",
-    "contenido": "Creo firmemente que la cultura tendría que ser gratuita y accesible para todes. Todo el mundo debería tener derecho y posibilidades de acceder a aquellos contenidos creados por el resto. Y si estáis pensando que entonces de qué iban a vivir artistas, escritores… Pues es sencillo, nadie debería tener"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Publicado Thunderbird 153. La nueva versión de soporte extendido de este cliente de correo de software libre",
     "link": "https://victorhckinthefreeworld.com/2026/07/23/publicado-thunderbird-153-la-nueva-version-de-soporte-extendido-de-este-cliente-de-correo-de-software-libre/",
@@ -980,13 +889,6 @@
     "contenido": "     La ruleta ayuda a pasar el invierno\nVueltos a la normalidad, odiados, pero sobrevividos, aqu&iacute; estamos para ruletear como es debido, a puro plomo, gatos, perritos, imprudentes, caballos y tetas!\nAhora s&iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio Baccaglioni [Ruleta Rusa]"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Whitecross: Triumphant Return | Un Triunfo De Los ´80",
-    "link": "https://www.delotroladometal.com.ar/2026/07/23/un-triunfo-de-los-80/",
-    "fecha": "23/07/2026 10:35",
-    "contenido": "(1989 &#8211; Star Song) Los años ´80 serán, y son, recordados por la excelencia y...\nThe post Whitecross: Triumphant Return | Un Triunfo De Los ´80 first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "gorkula.com",
     "titulo": "El formato físico, las minorías y las verdades a medias (II)",
     "link": "https://www.gorkula.com/formato-fisico-minorias-verdades-a-medias-ii",
@@ -999,13 +901,6 @@
     "link": "https://matizeta.com/2026/07/23/la-hora-de-internet/",
     "fecha": "23/07/2026 08:11",
     "contenido": "Está es una historia curiosa, alguien alguna vez pensó en que Internet se rija por un único horario.&#160; Quizás conozcan a Charly Alberti, uno de los integrantes de la banda Soda Stereo (no digo ex porque ahora están sonando de vuelta en forma de holograma). Resulta que allá por el año 1998 presen"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "Yo quise escribir un libro",
-    "link": "https://brucknerite.net/2026/07/yo-quise-escribir-un-libro.html",
-    "fecha": "23/07/2026 08:00",
-    "contenido": "De cómo estuve tres años escribiendo texto para un proyecto de libro como escarabajo pelotero que recoge bosta para crear una bola más grande que él mismo. Y de cómo fracasé con el debido estrépito, que fue flojo."
   },
   {
     "blog": "Un blog",
@@ -1055,13 +950,6 @@
     "link": "https://www.fabio.com.ar/9992-la-leyenda-negra-y-como-el-mundo-sanciono-a-argentina-como-antes-hizo-con--espana-con-el-relato",
     "fecha": "22/07/2026 12:00",
     "contenido": "    \nEl relato es muy poderoso, especialmente en &eacute;pocas de post-modernidad donde los hechos importan cada vez menos, pero no es nuevo que se utilice una ficci&oacute;n para dibujar a una naci&oacute;n entera como un gran demonio, lo sufri&oacute; justamente la misma naci&oacute;n que ahora lo"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Desktop Explore",
-    "link": "https://cozykis.kisworld.es/analisis-de-desktop-explore/",
-    "fecha": "22/07/2026 10:36",
-    "contenido": "Puede que entremos por su historia oscura y retorcida, pero sin duda nos quedaremos por lo bien hechos que están los puzles\nLa entrada Análisis de Desktop Explore se publicó primero en CozyKis."
   },
   {
     "blog": "matizeta",
@@ -1134,13 +1022,6 @@
     "contenido": "Estos días he estado pensando mucho en esto. Cada vez que le dedico tiempo a mi sitio personal, me pregunto si esto es algo que dentro de unos años seguirá teniendo sentido o si simplemente me gana la nostalgia y me estoy aferrando a una idea vieja de internet. No nos hagamos tontos… internet cambió"
   },
   {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "Arreglando mi NUC",
-    "link": "https://elrefugiodeunnerd.es/2026/07/21/157/",
-    "fecha": "21/07/2026 17:39",
-    "contenido": "Antes de tener mi ordenador actual tenía un Intel NUC con un i3 de 8ªgen, 16GB de RAM (actualmente 8, no sé bien por qué si están los dos módulos de 8 conectados falla, y si está uno solo no, entonces creo que el culpable es la ranura, pero es raro… En fin que está [&#8230;]"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "569. Durante el partido",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/07/569-durante-el-partido.html",
@@ -1162,13 +1043,6 @@
     "contenido": ""
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Hell Maiden",
-    "link": "https://cozykis.kisworld.es/analisis-de-hell-maiden/",
-    "fecha": "21/07/2026 10:38",
-    "contenido": "Aunque todavía le faltan cosas por añadir de momento podemos disfrutar de una historia interesante y personajes chulísimos\nLa entrada Análisis de Hell Maiden se publicó primero en CozyKis."
-  },
-  {
     "blog": "Picando Código",
     "titulo": "Entrevista a Àngel Beltran - Productor y Gameplay Programmer de Denshattack!",
     "link": "https://picandocodigo.net/2026/entrevista-a-angel-beltran-productor-y-gameplay-programmer-de-denshattack/",
@@ -1188,13 +1062,6 @@
     "link": "https://yejokjanan.xyz/blog/2026-07-21.html",
     "fecha": "21/07/2026 05:00",
     "contenido": ""
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "El Diario de un Nerd – Matizeta",
-    "link": "https://elrefugiodeunnerd.es/2026/07/20/el-diario-de-un-nerd-matizeta/",
-    "fecha": "20/07/2026 16:07",
-    "contenido": "Sigo con la serie que tenía en mi antigua web, solo que a partir de ahora sin un día fijo. Hoy la recomendación nos la trae Matizeta, un bloguero conocido en la comunidad. Como siempre recuerdo que todo lo que aparece aquí son sus palabras tal cual ellos me las enviaron. Nombre del bloguero: matizet"
   },
   {
     "blog": "_ voidNull",
@@ -1225,34 +1092,6 @@
     "contenido": "No estoy muy seguro sobre en qué habrá terminado esto pero me parece interesante por varios motivos: Ubuntu disables Intel GPU security mitigations, promises 20% performance boost. Por un lado, está claro que añadir controles de seguridad hace que el código sea más lento (en este caso parece que muc"
   },
   {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "Por qué siempre blanco o negro…",
-    "link": "https://elrefugiodeunnerd.es/2026/07/20/por-que-siempre-blanco-o-negro/",
-    "fecha": "20/07/2026 13:20",
-    "contenido": "Estamos obsesionados en ver la tecnología, o la vida en general, a dos colores, eres de Apple o de Android, de Mac o de Windows (o Linux), de Adobe o de código abierto… Son muchos los ejemplos, pero pocos los que se deberían aplicar. A veces utilizar las dos cosas (o tres, o las que [&#8230;]"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "BlogBlog!",
-    "link": "https://elrefugiodeunnerd.es/2026/07/20/blogblog/",
-    "fecha": "20/07/2026 13:19",
-    "contenido": "Hacer crecer un blog es complicado a día de hoy. Las redes sociales han matado este contenido. Puede ser por el hecho de que hay que leer y no ver un vídeo de 30 segundos, porque les da pereza, o por el simple hecho de que han pasado de moda. Es por ello por lo [&#8230;]"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "La idea de descentralizar las cosas",
-    "link": "https://elrefugiodeunnerd.es/2026/07/20/la-idea-de-descentralizar-las-cosas/",
-    "fecha": "20/07/2026 13:18",
-    "contenido": "Bueno… Llevo muchos años siendo un friki de la tecnología, de hecho, meapasiona. Me gustan todas las novedades de los dispositivos móviles perotambién soy de la opinión de que llevar todo en un bolsillo puede seraterrador. A día de hoy, llevamos todo en nuestro teléfono móvil, y, no lo voya negar, e"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "El Diario de un Nerd – Diego",
-    "link": "https://elrefugiodeunnerd.es/2026/07/20/el-diario-de-un-nerd-diego/",
-    "fecha": "20/07/2026 13:15",
-    "contenido": "Hoy empezamos una serie de colaboraciones, en la que un bloguero nos va a recomendar un programa/herramienta/truco/página web o algo que se le ocurra que pueda ser interesante y nos va a explicar un poquito sobre ello. Abrimos esta serie con Diego. Todo lo que aparece en su sección son sus palabras "
-  },
-  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "El mejor reloj que puedes conseguir – Huawei Watch GT 6",
     "link": "https://gatooscuro.xyz/el-mejor-reloj-que-puedes-conseguir-huawei-watch-gt-6/",
@@ -1272,13 +1111,6 @@
     "link": "https://www.fabio.com.ar/9990-la-bandera-de-conveniencia-esos-paises-que-tienen-mas-barcos-que-habitantes",
     "fecha": "20/07/2026 12:00",
     "contenido": "    \nEl comercio mar&iacute;timo existe desde que el hombre se aventur&oacute; a las aguas, el Mediterr&aacute;neo fue la columna vertebral del comercio de las primeras civilizaciones, no es nada raro que hoy en d&iacute;a sea tambi&eacute;n la columna del comercio actual.\nPero hay algo interesante "
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de What Surrounds Us",
-    "link": "https://cozykis.kisworld.es/analisis-de-what-surrounds-us/",
-    "fecha": "20/07/2026 10:02",
-    "contenido": "What Surrounds Us es un juego de puzles bastante original. Cuando lo descubrí por primera vez, no me quedó muy claro qué era, ni entendí muy bien el concepto, pero después de probarlo, me ha parecido una idea muy chula. Seremos un pequeño circulito en un mundo lleno también de estos. Y es que lo [&#"
   },
   {
     "blog": "Erica Fustero",
@@ -1421,25 +1253,11 @@
     "contenido": "Sin dudas es un hito, Santiago Molina ha agotado nuevamente todas las entradas de su concierto en Cafe Berlín, sin dudas uno de los mas convocantes en este lugar."
   },
   {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "El Refugio de un Nerd",
-    "link": "https://elrefugiodeunnerd.es/2026/07/17/el-refugio-de-un-nerd/",
-    "fecha": "17/07/2026 11:24",
-    "contenido": "Una pequeña presentación de este rincón de internet. Bienvenido. El Refugio de un Nerd es un blog de tecnología, Linux, Open Soruce, o lo que quiera escribir. Es más bien un rincón en lo que digo lo que quiero y lo lee quien quiere. Esto anteriormente era El Cajón de la Tecnología pero fue una [&#82"
-  },
-  {
     "blog": "Mi perra vida",
     "titulo": "Mi perra vida | Temporada 2026, episodio 29.",
     "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-29/",
     "fecha": "17/07/2026 10:57",
     "contenido": "Relato – Doctor Nómada (quinta parte) &#124; Bonus track\n\nDoctor Nómada (quinta parte)\nLeer la cuarta parte\nEn menos de treinta días mi castillo de naipes se había derrumbado. Nada de lo ocurrido era injustificado, pero eso no lo hacía deseable, ni tolerable. Lo primero que se agotó, aunque se había"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Angel Clicker",
-    "link": "https://cozykis.kisworld.es/analisis-de-angel-clicker/",
-    "fecha": "17/07/2026 10:33",
-    "contenido": "Entre click y click nos irá descubriendo una historia tierna y divertida entre un ángel y una demonia\nLa entrada Análisis de Angel Clicker se publicó primero en CozyKis."
   },
   {
     "blog": "Malagueños originales y libres",
@@ -1664,13 +1482,6 @@
     "link": "https://guillermolatorre.com/clips/trace-transcripciones-de-reunones-para-mac-en-local",
     "fecha": "13/07/2026 11:20",
     "contenido": "Este finde he descubierto esta app leyendo la newsletter de St&eacute;phanie Walter. Muy buena pinta: transcripciones de reuniones con IA pero sin enviar ningún dato a ningún tercero, todo en local y con una app nativa en Mac.Ir al enlace"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Movistar y el bloqueo de ONT no homologadas",
-    "link": "https://alt43.es/movistar-y-el-bloqueo-de-ont-no-homologadas/",
-    "fecha": "13/07/2026 07:00",
-    "contenido": "Movistar ha notificado que bloqueará el acceso a ONT no homologadas a partir del 15 de septiembre de 2026, alegando caídas de puertos en sus OLT provocadas por equipos de terceros. Analizamos cómo funciona una red GPON, por qué una ONT mal configurada puede afectar a otros clientes del mismo divisor"
   },
   {
     "blog": "El blog de Lázaro",
@@ -2091,40 +1902,5 @@
     "link": "https://interlan.ec/blog/2026/07/03/tutorial-encuentra-que-consume-espacio-en-tu-disco/",
     "fecha": "03/07/2026 14:00",
     "contenido": "Uno de los problemas mas molestos de administrar un droplet minimo es que el espacio de 25GB se sienten limitados en poco tiempo, por lo que no que mas que administrarlo de tal manera que no se desperdicie nada. Introduccion Este es un problema que se resuelve facil en entornos de escritorio o inclu"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Conduir a Suècia: tot el que m'hauria agradat saber abans de rebre tres multes",
-    "link": "https://blog.danielaragay.net/conduir-a-suecia-tot-el-que-mhauria-agradat-saber-abans-de-rebre-tres-multes/",
-    "fecha": "03/07/2026 11:33",
-    "contenido": "He viscut 16 anys a Su&#xe8;cia. He rebut tres multes de tr&#xe0;nsit. Cap de les tres &#xe9;s per conduir malament.Enlla&#xe7; de podcast: https://podcast.danielaragay.net/@fentelsuec/episodes/conduir-a-suecia-les-tres-multes-que-em-van-costar-mes-que-un-curs-de-"
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 27.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-26-2/",
-    "fecha": "03/07/2026 10:26",
-    "contenido": "Relato – Doctor Nómada &#124; Bonus track\n\nDoctor Nómada (tercera parte)\nLeer la segunda parte\nEl tráfico de la ciudad era particularmente denso, hacia donde volteara las calles y avenidas eran un estacionamiento, pensé que, eso me tenía con una sensación atípica de cansancio y malestar general. Me "
-  },
-  {
-    "blog": "productor de sostenibilidad",
-    "titulo": "El mundial de fútbol más insostenible",
-    "link": "https://productordesostenibilidad.es/2026/07/el-mundial-de-futbol-mas-insostenible/",
-    "fecha": "03/07/2026 09:30",
-    "contenido": "El de fútbol de 2026 ha conseguido por méritos propios coronarse como el mundial más contaminante de la historia. Centrándonos en las emisiones de gases de efecto invernadero, el informe “FIFA’s Climate Blind Spot: The Men’s World Cup in a Warming World” estima que el campeonato celebrado en Norte A"
-  },
-  {
-    "blog": "El cuaderno de J. Muñoz",
-    "titulo": "Cactus (III)",
-    "link": "https://www.xn--jmuoz-qta.es/2026/07/cactus-iii.html",
-    "fecha": "03/07/2026 07:16",
-    "contenido": "\n  \n    \n  \nMi cactus favorito ha estrenado el mes de julio con esta asombrosa floración. Seis flores, teniendo en cuenta su pequeño tamaño, me parece una pasada.Por cierto, la variedad de cactus es echinopsis."
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "RetroMultiInstaller + github: número de la última versión para tu script de instalación",
-    "link": "https://malagaoriginal.blogspot.com/2026/07/retromultiinstaller-github-averiguar-el.html",
-    "fecha": "03/07/2026 06:55",
-    "contenido": "Un problema recurrente que me he encontrado con github es que cada vez que sale una nueva versión en un programa que usa el sistema de repositorios de github cambia la URL y por tanto deja de funcionar el script.Durante algún tiempo he hecho la ñapa de definir una variable \"version\" para solo tener "
   }
 ]
