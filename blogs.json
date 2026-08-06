@@ -401,6 +401,15 @@
     "Sponsor": "si"
   },
   {
+    "Nombre": "Blep Blog",
+    "Url": "https://blep.org",
+    "Webring": "https://blep.org",
+    "Feed": "https://blep.org/atom.xml",
+    "Descripción": "Sobre nada en particular, escribo según me da.",
+    "Categoría": "Entretenimiento y Cultura, Tecnología, Vida Diaria",
+    "País": "España"
+  },
+  {
     "Nombre": "Hablando del mundo",
     "Url": "https://dabi.bearblog.dev/",
     "Feed": "https://dabi.bearblog.dev/feed/?q=esp",
@@ -760,14 +769,6 @@
     "Feed": "https://bitsdeocio.wordpress.com/feed/",
     "Descripción": "Blog personal de ocio (series, cine, videojuegos...)",
     "Categoría": "Entretenimiento y Cultura",
-    "País": "España"
-  },
-  {
-    "Nombre": "Blep Blog",
-    "Url": "https://blep.org",
-    "Feed": "https://blep.org/atom.xml",
-    "Descripción": "Sobre nada en particular, escribo según me da.",
-    "Categoría": "Vida Diaria",
     "País": "España"
   },
   {
