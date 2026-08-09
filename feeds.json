@@ -1,5 +1,12 @@
 [
   {
+    "blog": "La Frikoteca",
+    "titulo": "Cursed Ink publicará Pendragón",
+    "link": "http://frikoteca.blogspot.com/2026/08/cursed-ink-publicara-pendragon.html",
+    "fecha": "08/08/2026 20:27",
+    "contenido": "Lo confieso, esta no me la esperaba xD. Y eso que había gente que me estaba diciendo que había oído rumores de que había una editorial interesada en conseguir los derechos para publicar de nuevo Pendragón en nuestro país. Pero claro, una cosa son los rumores, y otra muy distinta que la editorial pon"
+  },
+  {
     "blog": "Manu Mateos",
     "titulo": "¿Qué uso?",
     "link": "https://www.macram.es/uses/",
@@ -96,6 +103,13 @@
     "link": "https://javiersam.uy/2026/08/deshabilitar-el-acceso-de-la-ia-a-su-cuenta-de-gmail.html",
     "fecha": "07/08/2026 12:00",
     "contenido": "El sábado pasado vi en Mastodon un hilo de @dbattistella@mstdn.ca (impulsado por Santiago). En él se explican los pasos para desactivar la inteligencia artificial de su cuenta de Gmail que desde fines de noviembre del año pasado se activó automáticamente en todas las cuentas. Me pareció muy interesa"
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtidos variados para muffaletta (o el bocadillo que quieras)",
+    "link": "https://puedellevarqueso.es/2026/08/encurtidos-variados-para-muffaletta-o-el-bocadillo-que-quieras/",
+    "fecha": "07/08/2026 11:17",
+    "contenido": "La muffaletta es un bocadillo italoamericano, que lleva capas y capas de todos los fiambres que te atrevas y al menos dos tipos de queso. Es difícil de imitar en casa porque se hace en un tipo de pan muy difícil de encontrar fuera de Nueva Orléans y tal vez otros puntos de EEUU como [&#8230;]"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -369,6 +383,13 @@
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
     "fecha": "03/08/2026 17:52",
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacines estilo japonés",
+    "link": "https://puedellevarqueso.es/2026/08/encurtido-de-calabacines-estilo-japones/",
+    "fecha": "03/08/2026 16:25",
+    "contenido": "Inventé esta receta cuando me apetecía comer calabacines crudos. Llamarlo encurtido puede llevar a error, porque no es una conserva, pero necesita un tiempo de reposo (mínimo dos horas) y aguanta varios días en el frigorífico. Es fácil encontrar recetas de ensaladas y encurtidos de pepino en páginas"
   },
   {
     "blog": "",
@@ -921,7 +942,7 @@
     "titulo": "571. Síndrome postvacacional",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/07/571-sindrome-postvacacional.html",
     "fecha": "28/07/2026 09:32",
-    "contenido": "&nbsp; &nbsp; Está escrito en un libro sagrado que Lázaro regresó de la muerte. Una voz le ordenó que saliera, y salió. Eric Draven también regresó de su tumba con un cuervo sobre el hombro y el deseo de venganza ardiéndole en la mirada. Pues a mí me pasa algo parecido, pero a la inversa: regreso de"
+    "contenido": "&nbsp; &nbsp; Está escrito en un libro sagrado que Lázaro regresó de la muerte. Una voz le ordenó que saliera, y salió. Eric Draven también regresó de su tumba, con un cuervo sobre el hombro y el deseo de venganza ardiéndole en la mirada. Pues a mí me pasa algo parecido, pero a la inversa: regreso d"
   },
   {
     "blog": "Un Diario",
@@ -1810,7 +1831,7 @@
     "titulo": "567. Catalibán",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/07/567-cataliban.html",
     "fecha": "15/07/2026 08:02",
-    "contenido": "&nbsp; &nbsp; El catalibán dice: «Pese a mi marcado independentismo, estoy muy contento de que la selección de fútbol del país vecino, con orientación sur, haya llegado a la final del Mundial de 2026»."
+    "contenido": "&nbsp; &nbsp; El catalibán dice:&nbsp; &nbsp; «Pese a mi marcado independentismo, estoy muy contento de que la selección de fútbol del país vecino, con orientación sur, haya llegado a la final del Mundial de 2026»."
   },
   {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
@@ -2006,7 +2027,7 @@
     "titulo": "566. Viento",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/07/566-viento.html",
     "fecha": "10/07/2026 11:17",
-    "contenido": "&nbsp; &nbsp; Estaba yo tumbado sobre una hamaca, cobijado bajo una sombra bendita. Tan solo respiraba y reajustaba la postura cada vez que mis músculos se resentían de la inactividad. Aun así, era este un letargo&nbsp;placentero y sedante, que me desconectaba de todo cuanto me rodeaba. El tiempo fl"
+    "contenido": "&nbsp; &nbsp; Estaba yo tumbado sobre una hamaca, cobijado bajo una sombra bendita. Tan solo respiraba y reajustaba la postura cada vez que mis músculos se resentían de la inactividad. Aun así, era este un letargo placentero y sedante que me desconectaba de todo cuanto me rodeaba. El tiempo fluía co"
   },
   {
     "blog": "Mi perra vida",
@@ -2028,12 +2049,5 @@
     "link": "https://javiersam.uy/2026/07/full-circle-228-abril-2026.html",
     "fecha": "10/07/2026 03:00",
     "contenido": "Aquí va mi reseña de la edición #228 de Full Circle magazine. Se trata del número correspondiente a abril de 2026 y está disponible para su descarga desde el 24 de ese mes. Consiste en un PDF de 53 páginas y de 4,3 MB. De la sección de Noticias (páginas 4 a 14) lo que me resultó más destacado fue:&#"
-  },
-  {
-    "blog": "Blog de Joselito",
-    "titulo": "Adiós Mullvad, hola iVPN",
-    "link": "https://joselito.mataroa.blog/blog/adios-mullvad-hola-ivpn/",
-    "fecha": "10/07/2026 00:00",
-    "contenido": "Tras la polémica de financiar uno de los dueños de Mullvad a un partido de ultraderecha, del cual recibe la mayoría de sus fondos, decidí abandonar inmediatamente esta VPN que me ha acompañado durante años y buscar alternativa.\nHace tiempo estuve en iVPN, que opera desde Gibraltar (no está ni siquie"
   }
 ]
