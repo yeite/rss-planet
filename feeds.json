@@ -1,5 +1,40 @@
 [
   {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "No volverás a consumir contenido después de leer esto",
+    "link": "https://guillermolatorre.com/clips/no-volveras-a-consumir-contenido-despues-de-leer-esto",
+    "fecha": "09/08/2026 17:30",
+    "contenido": "La fluidez es la trampa que te hace sentir inteligente mientras dejas de pensar.Ir al enlace"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Tengo un blog, no escribo para el algoritmo",
+    "link": "https://tecnoysoft.com/2026/08/09/tengo-un-blog-no-escribo-para-el-algoritmo/",
+    "fecha": "09/08/2026 16:59",
+    "contenido": "Le pedí a la IA que me haga una entrevista. Seleccioné sus preguntas y ahí mis respuestas, espero que les guste. ¿Qué significa para ti ser bloguero en un mundo dominado por vídeos cortos, redes sociales y podcasts? Significa creer en mi trabajo, no dejarme llevar por modas o intereses económicos. N"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "GNOME Music, el reproductor que se negó a cambiar",
+    "link": "https://thecheis.com/2026/08/09/gnome-music-el-reproductor-que-se-nego-a-cambiar/",
+    "fecha": "09/08/2026 16:24",
+    "contenido": "A lo largo de mi trayectoria usando Linux me he encontrado con aplicaciones que, de alguna forma, cambiaron mi manera de ver las cosas. A veces fueron herramientas muy avanzadas, pero otras parecían todo lo contrario. Hace 15 años, el escritorio GNOME comenzó una nueva etapa donde el diseño simple —"
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "Bálsamo",
+    "link": "https://www.macram.es/musica/balsamo-caloncho/",
+    "fecha": "09/08/2026 16:00",
+    "contenido": "Caloncho es de esos artistas que, para mí, son estacionales y temporales, y asociado a contextos más o menos concretos. Hace música que me pongo en casa para estar tranquilo y de buen humor. Ya os enseñé otro disco en el que participó: el (para mi gusto) excelente &ldquo;Tiempo Compartido&rdquo; que"
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "Semana 32/2026",
+    "link": "https://www.macram.es/posts/2026/08/semana-32-2026/",
+    "fecha": "09/08/2026 14:35",
+    "contenido": "Mañana se terminan mis vacaciones. Vuelvo al trabajo con una ligera idea de lo que me voy a encontrar, con un poco de vértigo, y en realidad con muchas ganas. Seguro que todo va de maravilla. Tengo que decir que esta semana se me ha hecho larga: como no he hecho nada, ni siquiera las cosas que tenía"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "574. El cuarto ángel",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/08/574-el-cuarto-angel.html",
@@ -19,6 +54,27 @@
     "link": "https://pedrolr.es/blog/conectando-una-mi-smart-band-6-a-gadgebridge-en-lineageos/",
     "fecha": "09/08/2026 06:18",
     "contenido": "Tengo una Mi Band 3 con la pantalla muy tocada de arañazos. El otro día analicé y las Mi Band más actuales (la 9 y la 10) vi que aún no eran compatibles con Gadgebridge (app en F-Droid). Me acerqué a una tienda de electrónica de segunda mano y me pillé una Mi Smart Band [&#8230;]"
+  },
+  {
+    "blog": "quiroptero.blog",
+    "titulo": "Me uno al webring de ¡Blog!¡Blog!",
+    "link": "https://www.quiroptero.blog/2026/08/webring/",
+    "fecha": "09/08/2026 06:00",
+    "contenido": "¡Blog!¡Blog! es un directorio de sitios web en español"
+  },
+  {
+    "blog": "Jodida, pero no sorprendida",
+    "titulo": "Hoy me ha lavado el pelo",
+    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/hoy-me-ha-lavado-el-pelo/",
+    "fecha": "09/08/2026 00:00",
+    "contenido": "Tengo el pelo rizado. Lo mismo esto dicho así no te da mucha información, pero el pelo rizado es: delicao. De lavar, de \"arreglar\", de mantener \"arreglao\"... Durante mucho tiempo yo me he apañado sola con él incluso para cortarlo: imagina los desastres que me habrán hecho que prefería cortarlo yo, q"
+  },
+  {
+    "blog": "Si dios te da limones",
+    "titulo": "GyeongSeong Creature",
+    "link": "https://sidiostedalimones.com/blog/2026/gyeongseong-creature/",
+    "fecha": "09/08/2026 00:00",
+    "contenido": ""
   },
   {
     "blog": "La Frikoteca",
@@ -47,6 +103,13 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quien-pierde-las-formas/",
     "fecha": "08/08/2026 00:00",
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Web component para mostrar spoilers en tu blog",
+    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
+    "fecha": "08/08/2026 00:00",
+    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
   },
   {
     "blog": "Un blog",
@@ -126,13 +189,6 @@
     "contenido": "El sábado pasado vi en Mastodon un hilo de @dbattistella@mstdn.ca (impulsado por Santiago). En él se explican los pasos para desactivar la inteligencia artificial de su cuenta de Gmail que desde fines de noviembre del año pasado se activó automáticamente en todas las cuentas. Me pareció muy interesa"
   },
   {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtidos variados para muffaletta (o el bocadillo que quieras)",
-    "link": "https://puedellevarqueso.es/2026/08/encurtidos-variados-para-muffaletta-o-el-bocadillo-que-quieras/",
-    "fecha": "07/08/2026 11:17",
-    "contenido": "La muffaletta es un bocadillo italoamericano, que lleva capas y capas de todos los fiambres que te atrevas y al menos dos tipos de queso. Es difícil de imitar en casa porque se hace en un tipo de pan muy difícil de encontrar fuera de Nueva Orléans y tal vez otros puntos de EEUU como [&#8230;]"
-  },
-  {
     "blog": "Del Otro Lado Metal",
     "titulo": "La Banda Eslovaca Prepara Nuevo Disco | Se Viene La Cuarta Para Within Silence",
     "link": "https://www.delotroladometal.com.ar/2026/08/07/se-viene-la-cuarta-para-within-silence/",
@@ -166,6 +222,13 @@
     "link": "https://www.quiroptero.blog/2026/08/chafalario/",
     "fecha": "07/08/2026 06:00",
     "contenido": ""
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Datos de uso de Linux y navegadores, Julio 2026",
+    "link": "https://nevat.neocities.org/datosago_07082026.html",
+    "fecha": "07/08/2026 00:00",
+    "contenido": "Han pasado 9 meses desde la última revisión de datos de StartCounter. Merece la pena pegar un vistazo para ver que ha ocurrido en este tiempo por un cambio importante: \"Desconocido\" ha desaparecido."
   },
   {
     "blog": "Un blog",
@@ -385,6 +448,13 @@
     "contenido": "    \nSe que a nadie le interesa, pero yo me divert&iacute; creando cosas mientras tanto y de la primera versi&oacute;n que les publiqu&eacute; hace unas semanas a la &uacute;ltima mejor&eacute; casi todo!\nCrear un juego no es una tarea sencilla, de hecho, lo que m&aacute;s dif&iacute;cil encontr&eac"
   },
   {
+    "blog": "NevatBlog",
+    "titulo": "Libro: \"Ready Player Two\", Ernest Cline (2020)",
+    "link": "https://nevat.neocities.org/rplayertwo_04082026.html",
+    "fecha": "04/08/2026 12:00",
+    "contenido": "Continuación de las aventuras de Wade Watts y compañía. Nuevos personajes, el retorno de viejos conocidos, un dispositivo revolucionario y una nueva cacería a contrareloj."
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "\"Human Cult\" Es Su Primer Canción Publicada | Celso Alves Presenta Su Proyecto Solista",
     "link": "https://www.delotroladometal.com.ar/2026/08/04/celso-alves-presenta-su-proyecto-solista/",
@@ -427,18 +497,18 @@
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Ayer fue uno de los días más duros en el veterinario",
+    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
+    "fecha": "04/08/2026 00:00",
+    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
     "fecha": "03/08/2026 17:52",
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacines estilo japonés",
-    "link": "https://puedellevarqueso.es/2026/08/encurtido-de-calabacines-estilo-japones/",
-    "fecha": "03/08/2026 16:25",
-    "contenido": "Inventé esta receta cuando me apetecía comer calabacines crudos. Llamarlo encurtido puede llevar a error, porque no es una conserva, pero necesita un tiempo de reposo (mínimo dos horas) y aguanta varios días en el frigorífico. Es fácil encontrar recetas de ensaladas y encurtidos de pepino en páginas"
   },
   {
     "blog": "",
@@ -763,6 +833,13 @@
     "contenido": "     Mirate! una ruleta!\nOh si, es jueves &iquest;No se hab&iacute;an enterado? Es el d&iacute;a m&aacute;s importante de la semana para las balaceras porque es cuando aparece LA RULETA! y aqu&iacute; estamos, es jueves, hay balas, es hora de volarse las pelucas!\nAhora s&iacute;, Ruleta Rusa!Creativ"
   },
   {
+    "blog": "NevatBlog",
+    "titulo": "Transition un sencillo conversor de audio para Gnome",
+    "link": "https://nevat.neocities.org/transition_30072026.html",
+    "fecha": "30/07/2026 12:00",
+    "contenido": "Hace poco hablaba sobre Freac, un ripeador y conversor con muchas opciones. Ahora es el turno de lo contrario, algo mucho más sencillo y directo: Transition."
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Análisis de Dice Carnival",
     "link": "https://cozykis.kisworld.es/analisis-de-dice-carnival/",
@@ -908,6 +985,13 @@
     "link": "https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/",
     "fecha": "29/07/2026 02:30",
     "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Quitando un avispero en casa",
+    "link": "https://chancli.dev/blog/quitar-avispero.html",
+    "fecha": "29/07/2026 00:00",
+    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
   },
   {
     "blog": "Salva Más De Cerca",
@@ -1407,6 +1491,13 @@
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Hectáreas quemadas vistas con perspectiva real",
+    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
+    "fecha": "24/07/2026 00:00",
+    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Es que este videojuego me hace feliz",
     "link": "https://cozykis.kisworld.es/es-que-este-videojuego-me-hace-feliz/",
@@ -1449,6 +1540,13 @@
     "contenido": "De cómo estuve tres años escribiendo texto para un proyecto de libro como escarabajo pelotero que recoge bosta para crear una bola más grande que él mismo. Y de cómo fracasé con el debido estrépito, que fue flojo."
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Enlaces para ver el tiempo en Algeciras",
+    "link": "https://chancli.dev/blog/enlaces-meteo-algeciras.html",
+    "fecha": "23/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los datos en general y desde hace un tiempo con todo el asunto del cambio climático, borrascas enlazadas y olas de calor empecé a buscar fuentes de información lo más fiables posibles.\nLo primero que encontré fueron varias estaciones meteorológicas como:\n\nmeteoclimatic\naweka"
+  },
+  {
     "blog": "Un blog",
     "titulo": "The Last Murder at the End of the World - Stuart Turton",
     "link": "https://nachof.blog/posts/2026/the-last-murder-at-the-end-of-the-world/",
@@ -1482,6 +1580,13 @@
     "link": "https://blog.gorix.xyz/mostrar-el-programa-en-foco-en-la-barra-de-i3.html",
     "fecha": "22/07/2026 12:56",
     "contenido": "\n    Hace banda que uso i3 y una de esas cosas que nunca me puse a pensar que sería útil, hasta que leí el comentario en un grupo, es que la barra me mostrara sobre qué ventana estoy parado. Es útil cuando en un TWM tenés muchas consolas abiertas y no sabés en cual estás parado.\n\n\n    Todo lo puedo "
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Adiós reloj inteligente, hola reloj tonto",
+    "link": "https://nevat.neocities.org/casiocalc_22072026.html",
+    "fecha": "22/07/2026 12:00",
+    "contenido": "La batería del Pinetime dijo \"se acabó\" y me quedé sin reloj. Sin nada en la muñeca hasta que haciendo limpieza de cajones encontré a un antiguo conocido que podría resolver este problema: un reloj Casio calculadora."
   },
   {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
@@ -1538,6 +1643,13 @@
     "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
     "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Llevo un mes durmiendo en el sofá",
+    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
+    "fecha": "22/07/2026 00:00",
+    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -2091,26 +2203,5 @@
     "link": "https://gatooscuro.xyz/holos-social-cuando-el-servidor-vuelve-a-pertenecer-al-usuario/",
     "fecha": "11/07/2026 07:56",
     "contenido": "Durante años hemos escuchado que el Fediverso es descentralizado. La afirmación no es falsa, pero tampoco cuenta toda la historia. Si bien plataformas como Mastodon distribuyen la infraestructura entre miles\nSeguir leyendo  Holos Social &#124; cuando el servidor vuelve a pertenecer al usuario\nEl car"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 28 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/07/10/opensuse-tumbleweed-revision-de-la-semana-28-de-2026/",
-    "fecha": "10/07/2026 15:23",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Tutorial: Aprende a Lidiar con los Limites de la RAM en Linux",
-    "link": "https://interlan.ec/blog/2026/07/10/como-rescatar-memoria-ram/",
-    "fecha": "10/07/2026 14:00",
-    "contenido": "Probablemente te hayas encontrado con este problema. Tienes preparado tu sistema y esta todo bien hasta que el swap entra en escena. Todo empieza a ir mas lento hasta que en un descuido en el que el consumo de la RAM llega hasta el extremo, se cuelga y toca reiniciar forzosamente. ¿No te ha pasado? "
-  },
-  {
-    "blog": "",
-    "titulo": "Recomendación.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/07/10/recomendacion-19/",
-    "fecha": "10/07/2026 13:36",
-    "contenido": "Les dejo como recomendación un video del gran musico Nicolas Sokolic, en este caso uno de sus tutoriales de Mandolina."
   }
 ]
