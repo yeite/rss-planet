@@ -1,5 +1,68 @@
 [
   {
+    "blog": "Fabio.com.ar",
+    "titulo": "Siete días hasta el Rin",
+    "link": "https://www.fabio.com.ar/10019-siete-dias-hasta-el-rin",
+    "fecha": "10/08/2026 12:00",
+    "contenido": "    \nDurante la Guerra Fr&iacute;a las fuerzas de los distintos pa&iacute;ses del Pacto de Varsovia ten&iacute;an un plan secreto, era m&aacute;s bien un ejercicio militar, una simulaci&oacute;n, pero una con consecuencias muy serias: conquistar Alemania en siete d&iacute;as.\nRecuerden, Alemania est"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Latter Days Exploits: Within Consumed | Un Viaje Por Lo Experimental",
+    "link": "https://www.delotroladometal.com.ar/2026/08/10/un-viaje-por-lo-experimental/",
+    "fecha": "10/08/2026 10:35",
+    "contenido": "(2025 &#8211; The Charon Collective/Nordic Mission) no está acostumbrado en líneas generales a que el...\nThe post Latter Days Exploits: Within Consumed | Un Viaje Por Lo Experimental first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Cozy Grove: Camp Spirit",
+    "link": "https://cozykis.kisworld.es/analisis-de-cozy-grove-camp-spirit/",
+    "fecha": "10/08/2026 10:23",
+    "contenido": "Es increíble como un juego que trata temas tan serios como la muerte y seguir adelante puede ser tan cozy y relajante\nLa entrada Análisis de Cozy Grove: Camp Spirit se publicó primero en CozyKis."
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Por qué los virus no son el verdadero problema en Android",
+    "link": "https://alt43.es/por-que-los-virus-no-son-el-verdadero-problema-en-android/",
+    "fecha": "10/08/2026 07:30",
+    "contenido": "Los antivirus para Android ofrecen soluciones a un problema muy minoritario. El malware que afecta a dispositivos en 2026 llega por ingeniería social, firmware ya comprometido de fábrica o permisos mal concedidos; no por los vectores de infección propios de un virus. Entender cómo funciona el modelo"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Ya!",
+    "link": "https://salvamir.github.io/Ya!",
+    "fecha": "10/08/2026 03:04",
+    "contenido": ".timeline-container { font-family: var(--sans); margin-top: 2rem; } .intro-text { margin-bottom: 2.5rem; font-size: 1.1rem; line-height: 1.6; color: var(--text-main); } .events { display: flex; flex-direction: column; padding: 0; list-style: none; margin: 0; } .event { display: grid; grid-template-."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "ahora",
+    "link": "https://salvamir.github.io/ahora",
+    "fecha": "10/08/2026 03:04",
+    "contenido": ".book-collection { background-color: var(--surface, transparent); border-radius: 8px; } .book { background-color: var(--light, rgba(255, 255, 255, 0.05)); border-radius: 8px; margin: 1.5em 0; padding: 1.5em; border: 1px solid rgba(183, 150, 108, 0.15); } .book:last-child { margin-bottom: 0; } .book."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salvamir.github.io/algo-mas",
+    "fecha": "10/08/2026 03:04",
+    "contenido": "Últimas actualizaciones Estoy dejando de añadir plantas al jardín, para dedicarme a hacerlas crecer un poco. Escape Room Game."
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Cloudflare Analytics activado en el blog",
+    "link": "https://elblogdelazaro.org/cloudflare-analytics-activado-automaticamente/",
+    "fecha": "10/08/2026 02:00",
+    "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "links",
+    "link": "https://salvamir.github.io/links",
+    "fecha": "10/08/2026 01:19",
+    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "No volverás a consumir contenido después de leer esto",
     "link": "https://guillermolatorre.com/clips/no-volveras-a-consumir-contenido-despues-de-leer-esto",
@@ -105,13 +168,6 @@
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Web component para mostrar spoilers en tu blog",
-    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
-    "fecha": "08/08/2026 00:00",
-    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
-  },
-  {
     "blog": "Un blog",
     "titulo": "Cosas aprendidas en julio",
     "link": "https://nachof.blog/posts/2026/cosas-aprendidas-en-julio/",
@@ -187,6 +243,13 @@
     "link": "https://javiersam.uy/2026/08/deshabilitar-el-acceso-de-la-ia-a-su-cuenta-de-gmail.html",
     "fecha": "07/08/2026 12:00",
     "contenido": "El sábado pasado vi en Mastodon un hilo de @dbattistella@mstdn.ca (impulsado por Santiago). En él se explican los pasos para desactivar la inteligencia artificial de su cuenta de Gmail que desde fines de noviembre del año pasado se activó automáticamente en todas las cuentas. Me pareció muy interesa"
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtidos variados para muffaletta (o el bocadillo que quieras)",
+    "link": "https://puedellevarqueso.es/2026/08/encurtidos-variados-para-muffaletta-o-el-bocadillo-que-quieras/",
+    "fecha": "07/08/2026 11:17",
+    "contenido": "La muffaletta es un bocadillo italoamericano, que lleva capas y capas de todos los fiambres que te atrevas y al menos dos tipos de queso. Es difícil de imitar en casa porque se hace en un tipo de pan muy difícil de encontrar fuera de Nueva Orléans y tal vez otros puntos de EEUU como [&#8230;]"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -497,18 +560,18 @@
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Ayer fue uno de los días más duros en el veterinario",
-    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
-    "fecha": "04/08/2026 00:00",
-    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
     "fecha": "03/08/2026 17:52",
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacines estilo japonés",
+    "link": "https://puedellevarqueso.es/2026/08/encurtido-de-calabacines-estilo-japones/",
+    "fecha": "03/08/2026 16:25",
+    "contenido": "Inventé esta receta cuando me apetecía comer calabacines crudos. Llamarlo encurtido puede llevar a error, porque no es una conserva, pero necesita un tiempo de reposo (mínimo dos horas) y aguanta varios días en el frigorífico. Es fácil encontrar recetas de ensaladas y encurtidos de pepino en páginas"
   },
   {
     "blog": "",
@@ -847,13 +910,6 @@
     "contenido": "Un roguelike de dados con una estática muy bonita que nos tendrá haciendo malabares para ganar a adorables bosses\nLa entrada Análisis de Dice Carnival se publicó primero en CozyKis."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Pandemia: Advenimiento | La Confirmación De Una Leyenda",
-    "link": "https://www.delotroladometal.com.ar/2026/07/30/la-confirmacion-de-una-leyenda/",
-    "fecha": "30/07/2026 10:35",
-    "contenido": "(2025 &#8211; Disembodied Records) Pioneros absolutos en el género del Doom Death Metal en Argentina,...\nThe post Pandemia: Advenimiento | La Confirmación De Una Leyenda first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "56K",
     "titulo": "Películas en Dominio público de estos últimos años",
     "link": "https://56k.es/fanta/contenido-dominio-publico-de-estos-ultimos-anos/",
@@ -987,13 +1043,6 @@
     "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Quitando un avispero en casa",
-    "link": "https://chancli.dev/blog/quitar-avispero.html",
-    "fecha": "29/07/2026 00:00",
-    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
-  },
-  {
     "blog": "Salva Más De Cerca",
     "titulo": "Updates on living the seasons",
     "link": "https://salvamir.github.io/Notas/Updates-on-living-the-seasons",
@@ -1006,13 +1055,6 @@
     "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B1-Lenguajes",
     "fecha": "28/07/2026 22:19",
     "contenido": "yuyo Me cuestiono mucho el intento de escribir en dos idiomas esta página, quizás debería aislarla al Español."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "¿Algo más?",
-    "link": "https://salvamir.github.io/algo-mas",
-    "fecha": "28/07/2026 22:19",
-    "contenido": "Últimas actualizaciones Estoy dejando de añadir plantas al jardín, para dedicarme a hacerlas crecer un poco. Escape Room Game."
   },
   {
     "blog": "Salva Más De Cerca",
@@ -1176,13 +1218,6 @@
     "contenido": "Vincere esta lanzando sus cursos de esgrima medieval, la academia Vincere cuenta tanto con cursos en formato online como presencial. Abajo les dejo el enlace de la pagina de Vincere para mas información. &#62;&#62;&#62; Click Aqui &#60;&#60;&#60;"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Nadie habla de suicidios porque, al parecer, genera más suicidios",
-    "link": "https://www.fabio.com.ar/9995-nadie-habla-de-suicidios-porque-al-parecer-genera-mas-suicidios",
-    "fecha": "27/07/2026 12:00",
-    "contenido": "    \nHace unas semanas un instructor de vuelo volaba en C&oacute;rdoba con su alumna, en un momento le dice &ldquo;Vos sab&eacute;s lo que ten&eacute;s que hacer&rdquo;, se sac&oacute; el cintur&oacute;n de seguridad, abri&oacute; la puerta y salt&oacute; al vac&iacute;o.\nAs&iacute; como sucedi&oacu"
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Análisis de High Times",
     "link": "https://cozykis.kisworld.es/analisis-de-high-times/",
@@ -1293,13 +1328,6 @@
     "link": "https://impermanente.es/2026/07/26/incendios-forestales.html",
     "fecha": "26/07/2026 10:08",
     "contenido": "Este blog no suele ir de estos temas, pero cada verano vuelve la misma conversación y casi siempre con las mismas ideas equivocadas. Así que he reunido lo que hoy se sabe con datos, explicado lo más llano que he podido.\nCasi todos los incendios los provoca alguien\n\n81% de los incendios en España tie"
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "links",
-    "link": "https://salvamir.github.io/links",
-    "fecha": "25/07/2026 23:07",
-    "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
   },
   {
     "blog": "Tecno y Soft",
@@ -1491,20 +1519,6 @@
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Hectáreas quemadas vistas con perspectiva real",
-    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
-    "fecha": "24/07/2026 00:00",
-    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Es que este videojuego me hace feliz",
-    "link": "https://cozykis.kisworld.es/es-que-este-videojuego-me-hace-feliz/",
-    "fecha": "23/07/2026 19:29",
-    "contenido": "Creo firmemente que la cultura tendría que ser gratuita y accesible para todes. Todo el mundo debería tener derecho y posibilidades de acceder a aquellos contenidos creados por el resto. Y si estáis pensando que entonces de qué iban a vivir artistas, escritores… Pues es sencillo, nadie debería tener"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Publicado Thunderbird 153. La nueva versión de soporte extendido de este cliente de correo de software libre",
     "link": "https://victorhckinthefreeworld.com/2026/07/23/publicado-thunderbird-153-la-nueva-version-de-soporte-extendido-de-este-cliente-de-correo-de-software-libre/",
@@ -1538,13 +1552,6 @@
     "link": "https://brucknerite.net/2026/07/yo-quise-escribir-un-libro.html",
     "fecha": "23/07/2026 08:00",
     "contenido": "De cómo estuve tres años escribiendo texto para un proyecto de libro como escarabajo pelotero que recoge bosta para crear una bola más grande que él mismo. Y de cómo fracasé con el debido estrépito, que fue flojo."
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Enlaces para ver el tiempo en Algeciras",
-    "link": "https://chancli.dev/blog/enlaces-meteo-algeciras.html",
-    "fecha": "23/07/2026 00:00",
-    "contenido": "Soy un gran aficionado a los datos en general y desde hace un tiempo con todo el asunto del cambio climático, borrascas enlazadas y olas de calor empecé a buscar fuentes de información lo más fiables posibles.\nLo primero que encontré fueron varias estaciones meteorológicas como:\n\nmeteoclimatic\naweka"
   },
   {
     "blog": "Un blog",
@@ -1617,20 +1624,6 @@
     "contenido": "arbolito A veces me cuesta un poco la envidia. Quizás porque soy muy autocompasivo y me enfoco demasiado en lo mucho que me cuestan las cosas."
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌷 Dios es amigo mío.",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%B7-Dios-es-amigo-m%C3%ADo.",
-    "fecha": "22/07/2026 02:46",
-    "contenido": "helecho Estuve pensando mucho en esto últimamente… ¿Qué significa? ¿Influye en mi vida cotidiana? Dios es amigo mío y es infinitamente grande también."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "🌾 Viviendo apasionadamente la rutina",
-    "link": "https://salvamir.github.io/El-Jard%C3%ADn/%F0%9F%8C%BE-Viviendo-apasionadamente-la-rutina",
-    "fecha": "22/07/2026 02:46",
-    "contenido": "arbolito ¿Como santifico mi vida corriente? La esencia de la vocación cristiana consiste en santificar la vida corriente."
-  },
-  {
     "blog": "Un blog",
     "titulo": "Recordatorio: es importante respaldar el hardware también",
     "link": "https://nachof.blog/posts/2026/recordatorio-es-importante-respaldar-el-hardware-tambien/",
@@ -1643,13 +1636,6 @@
     "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Llevo un mes durmiendo en el sofá",
-    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
-    "fecha": "22/07/2026 00:00",
-    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -1692,13 +1678,6 @@
     "link": "https://mareosdeungeek.es/sid-meiers-memoir/",
     "fecha": "21/07/2026 08:00",
     "contenido": "Sid Meier&#8217;s Memoir! A life in Computer Games By the Creator of Civilization! con ese título se presenta el libro autobiográfico de Sid Meier, uno de los creadores de videojuegos más reconocidos. Sid Meier&#8217;s Civilization es una de las sagas de videojuegos de estrategia más populares del m"
-  },
-  {
-    "blog": "yejokjanan",
-    "titulo": "Celular nuevo",
-    "link": "https://yejokjanan.xyz/blog/2026-07-21.html",
-    "fecha": "21/07/2026 05:00",
-    "contenido": ""
   },
   {
     "blog": "El Refugio de un Nerd",
@@ -2196,12 +2175,5 @@
     "link": "https://tecnoysoft.com/2026/07/11/no-somos-un-bug/",
     "fecha": "11/07/2026 19:51",
     "contenido": "Ignoro si esto será un error, porque mi blog es de tecnología, no de filosofía. Aun así, detrás de cada línea de código, de cada artículo y de cada proyecto hay personas. Y las personas nos equivocamos. Lo que ocurre es que, cuando alguien comete un error, enseguida aparecen esos jueces que parecen "
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Holos Social | cuando el servidor vuelve a pertenecer al usuario",
-    "link": "https://gatooscuro.xyz/holos-social-cuando-el-servidor-vuelve-a-pertenecer-al-usuario/",
-    "fecha": "11/07/2026 07:56",
-    "contenido": "Durante años hemos escuchado que el Fediverso es descentralizado. La afirmación no es falsa, pero tampoco cuenta toda la historia. Si bien plataformas como Mastodon distribuyen la infraestructura entre miles\nSeguir leyendo  Holos Social &#124; cuando el servidor vuelve a pertenecer al usuario\nEl car"
   }
 ]
