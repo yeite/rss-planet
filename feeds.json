@@ -1,5 +1,68 @@
 [
   {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Etapas",
+    "link": "https://salvamir.github.io/Etapas",
+    "fecha": "10/08/2026 17:35",
+    "contenido": "Acá se encuentran actualizaciones de las etapas que estoy viviendo. Sirve como un almacenamiento más específicos de las etapas que me tocan."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Salva Más De Cerca",
+    "link": "https://salvamir.github.io/",
+    "fecha": "10/08/2026 17:35",
+    "contenido": "Acá me gusta coleccionar detalles de mi vida. Es mi cuaderno infinito."
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Chicles Bazooka",
+    "link": "https://picandocodigo.net/2026/chicles-bazooka/",
+    "fecha": "10/08/2026 17:00",
+    "contenido": "¿Te acuerdas de los chicle Bazooka? ¡Volvieron! En forma de... Bueno, no, nunca se fueron. Siguen estando, y recientemente compré una bolsa de chicles Bazooka.\nEl post Chicles Bazooka fue publicado originalmente en Picando Código."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Mapa",
+    "link": "https://salvamir.github.io/Mapa",
+    "fecha": "10/08/2026 16:33",
+    "contenido": "Bueno, infinito puntualmente no es. Este es el gran mapa. Mi página tiene muchos lugares, y para no abrumar a nadie existe esto."
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "¿Algo más?",
+    "link": "https://salvamir.github.io/algo-mas",
+    "fecha": "10/08/2026 16:26",
+    "contenido": "Últimas actualizaciones Estoy dejando de añadir plantas al jardín, para dedicarme a hacerlas crecer un poco. Escape Room Game."
+  },
+  {
+    "blog": "Bitácora de fernand0",
+    "titulo": "Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas",
+    "link": "https://blog.elmundoesimperfecto.com/2026/08/10/ia-asistente-sustituto/",
+    "fecha": "10/08/2026 15:00",
+    "contenido": "\n\nLas inteligencias artificiales pueden hacer muchas cosas y ser de gran ayuda. Pero en Enough AI copilots! We need AI HUDs se comenta cómo pueden existir otras posibilidades para usarlas.\n\nSi nos referimos al copiloto agéntico (agentic copilot) estaremos hablando con algo que nos ayuda a desarrolla"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Godot: Mi primer intento serio de un juego de terror (Devlog 01)",
+    "link": "https://interlan.ec/blog/2026/08/10/godot-mi-primer-intento-serio-de-un-juego-de-terror-devlog-01/",
+    "fecha": "10/08/2026 14:00",
+    "contenido": "Es cierto que debí empezar este log desde mucho antes, pero la verdad, no le tenia mucha fe a lo que hacía. Así que ahora ya no se exactamente cuando empecé. Puede que haya sido en algún momento de la segunda o tercera semana, pero hacer un juego es una pica que tengo de hace [&#8230;]"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "La IA genera más fallos de seguridad y a más velocidad",
+    "link": "https://fernand0.github.io//ai-codigo-vulnerable/",
+    "fecha": "10/08/2026 14:00",
+    "contenido": "Cualquiera que venga por aquí de vez en cuando imaginará que esto es así. En AI Coding Tools Are Creating a Security Gap We Must Close Immediately (que leí a través de AI code generators are writing vulnerable software nearly half the time pero ahora parece no estar disponible) nos dicen que a los d"
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "Uses",
+    "link": "https://elrefugiodeunnerd.es/2026/08/10/uses/",
+    "fecha": "10/08/2026 13:10",
+    "contenido": "Comenté hace poco en mi microblog que tenía ganas de hacer una página de «Uses» en la que explico lo que uso en mi día a día, tanto hardware como software, así que, aquí está. Hardware Portátil: Asus TUF Gaming F16 (i7, 32GB RAM, 5060) Mini PC: Intel NUC (NUC8i3BEH) (i3 8ª gen, 16GB RAM, [&#8230;]"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Siete días hasta el Rin",
     "link": "https://www.fabio.com.ar/10019-siete-dias-hasta-el-rin",
@@ -28,27 +91,6 @@
     "contenido": "Los antivirus para Android ofrecen soluciones a un problema muy minoritario. El malware que afecta a dispositivos en 2026 llega por ingeniería social, firmware ya comprometido de fábrica o permisos mal concedidos; no por los vectores de infección propios de un virus. Entender cómo funciona el modelo"
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Ya!",
-    "link": "https://salvamir.github.io/Ya!",
-    "fecha": "10/08/2026 03:04",
-    "contenido": ".timeline-container { font-family: var(--sans); margin-top: 2rem; } .intro-text { margin-bottom: 2.5rem; font-size: 1.1rem; line-height: 1.6; color: var(--text-main); } .events { display: flex; flex-direction: column; padding: 0; list-style: none; margin: 0; } .event { display: grid; grid-template-."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "ahora",
-    "link": "https://salvamir.github.io/ahora",
-    "fecha": "10/08/2026 03:04",
-    "contenido": ".book-collection { background-color: var(--surface, transparent); border-radius: 8px; } .book { background-color: var(--light, rgba(255, 255, 255, 0.05)); border-radius: 8px; margin: 1.5em 0; padding: 1.5em; border: 1px solid rgba(183, 150, 108, 0.15); } .book:last-child { margin-bottom: 0; } .book."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "¿Algo más?",
-    "link": "https://salvamir.github.io/algo-mas",
-    "fecha": "10/08/2026 03:04",
-    "contenido": "Últimas actualizaciones Estoy dejando de añadir plantas al jardín, para dedicarme a hacerlas crecer un poco. Escape Room Game."
-  },
-  {
     "blog": "El blog de Lázaro",
     "titulo": "Cloudflare Analytics activado en el blog",
     "link": "https://elblogdelazaro.org/cloudflare-analytics-activado-automaticamente/",
@@ -61,6 +103,20 @@
     "link": "https://salvamir.github.io/links",
     "fecha": "10/08/2026 01:19",
     "contenido": "🌐 Links Te dejo otros lugares interesantes para ver. Podés encontrar nuevas páginas por acá. Esta es mi gran lista de páginas web que me gustan."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "TuLotero ha sido hackeada",
+    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
+    "fecha": "10/08/2026 00:00",
+    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
+  },
+  {
+    "blog": "Salva Más De Cerca",
+    "titulo": "Doing things and finishing projects.",
+    "link": "https://salvamir.github.io/Doing-things-and-finishing-projects.",
+    "fecha": "10/08/2026 00:00",
+    "contenido": "Today I wanna talk about planning less and doing more. And how many circumstances (like seasonal changes) affect us in this matter."
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -168,11 +224,25 @@
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Web component para mostrar spoilers en tu blog",
+    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
+    "fecha": "08/08/2026 00:00",
+    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
+  },
+  {
     "blog": "Un blog",
     "titulo": "Cosas aprendidas en julio",
     "link": "https://nachof.blog/posts/2026/cosas-aprendidas-en-julio/",
     "fecha": "07/08/2026 23:28",
     "contenido": "Popurrí de tortugas marinas\n\n \n\n\n\n\n\n\n\nAprendí varias cosas sobre tortugas marinas:\n\nLas tortugas marinas perciben el campo magnético de la Tierra, así\ncomo también campos magnéticos característicos de distintas regiones, y usan esto para navegar.\nUsando esa navegación viajan distancias enormes, entr"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Primeras impresiones Electric Callboy - Tanzneid",
+    "link": "https://labaudric.net/blog/musica/primeras-impresiones-electric-callboy-tanzneid",
+    "fecha": "07/08/2026 22:53",
+    "contenido": "\n\nWow.\nEstrenando la sección musical por todo lo alto.\nElectric Callboy ha publicado en yutuf una vista previa de Tanzneid. Es un disco de 46 minutos pero llevo dos horas escuchándolo. He parado de jugar al Forza Horizon 6 para poner a redactar esto mientras... Sigo escuchándolo.\nCapítulo 1: Context"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -560,6 +630,13 @@
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Ayer fue uno de los días más duros en el veterinario",
+    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
+    "fecha": "04/08/2026 00:00",
+    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
@@ -938,20 +1015,6 @@
     "contenido": "Esta es solo una pequeña nota del estado actual del emulador DuckStation el cual parece que se ha ido un poco mal de camino, pero hasta cierto punto compresible...\nAntes que nada para quienes no lo conozcan, es un emulador enfocado a PlayStation 1, el cual en mi experiencia en Android ha sido uno de"
   },
   {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Salva Más De Cerca",
-    "link": "https://salvamir.github.io/",
-    "fecha": "30/07/2026 02:53",
-    "contenido": "Acá me gusta coleccionar detalles de mi vida. Es mi cuaderno infinito."
-  },
-  {
-    "blog": "Salva Más De Cerca",
-    "titulo": "Mapa",
-    "link": "https://salvamir.github.io/Mapa",
-    "fecha": "30/07/2026 01:51",
-    "contenido": "El mapa de toda mi página web Bueno, infinito puntualmente no es. Este es el gran mapa."
-  },
-  {
     "blog": "Un blog",
     "titulo": "Cuando Strange New Worlds hizo un genocidio (pero no lo pienses mucho)",
     "link": "https://nachof.blog/posts/2026/cuando-strange-new-worlds-hizo-un-genocidio-pero-no-lo-pienses-mucho/",
@@ -1041,6 +1104,13 @@
     "link": "https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/",
     "fecha": "29/07/2026 02:30",
     "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Quitando un avispero en casa",
+    "link": "https://chancli.dev/blog/quitar-avispero.html",
+    "fecha": "29/07/2026 00:00",
+    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
   },
   {
     "blog": "Salva Más De Cerca",
@@ -1519,6 +1589,13 @@
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Hectáreas quemadas vistas con perspectiva real",
+    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
+    "fecha": "24/07/2026 00:00",
+    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Publicado Thunderbird 153. La nueva versión de soporte extendido de este cliente de correo de software libre",
     "link": "https://victorhckinthefreeworld.com/2026/07/23/publicado-thunderbird-153-la-nueva-version-de-soporte-extendido-de-este-cliente-de-correo-de-software-libre/",
@@ -1552,6 +1629,13 @@
     "link": "https://brucknerite.net/2026/07/yo-quise-escribir-un-libro.html",
     "fecha": "23/07/2026 08:00",
     "contenido": "De cómo estuve tres años escribiendo texto para un proyecto de libro como escarabajo pelotero que recoge bosta para crear una bola más grande que él mismo. Y de cómo fracasé con el debido estrépito, que fue flojo."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Enlaces para ver el tiempo en Algeciras",
+    "link": "https://chancli.dev/blog/enlaces-meteo-algeciras.html",
+    "fecha": "23/07/2026 00:00",
+    "contenido": "Soy un gran aficionado a los datos en general y desde hace un tiempo con todo el asunto del cambio climático, borrascas enlazadas y olas de calor empecé a buscar fuentes de información lo más fiables posibles.\nLo primero que encontré fueron varias estaciones meteorológicas como:\n\nmeteoclimatic\naweka"
   },
   {
     "blog": "Un blog",
@@ -1636,6 +1720,13 @@
     "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
     "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Llevo un mes durmiendo en el sofá",
+    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
+    "fecha": "22/07/2026 00:00",
+    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -1976,7 +2067,7 @@
   {
     "blog": "labaudric",
     "titulo": "audric subió 23 imágenes en Star Wars Outlaws",
-    "link": "https://labaudric.net/gallery/star-wars-outlaws",
+    "link": "https://labaudric.net/galeria/star-wars-outlaws",
     "fecha": "15/07/2026 18:38",
     "contenido": "      +17 más"
   },
@@ -1986,13 +2077,6 @@
     "link": "https://polotman.wordpress.com/2026/07/15/reviviendo-el-robo-del-gardner/",
     "fecha": "15/07/2026 16:34",
     "contenido": "El robo de arte más caro de la historia cumple 35 años sin resolverse» Estamos de vuelta con un nuevo episodio del Sueño del Artista Podcast . Después de un modesto éxito de nuestra serie Afrofuturismo: Imaginarios del Porvenir con Keren Turmo, retomamos nuestra esencia con un tema que promete mante"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Reseña: Denshattack! - Nintendo Switch 2 y Steam",
-    "link": "https://picandocodigo.net/2026/resena-denshattack-nintendo-switch-2-y-steam/",
-    "fecha": "15/07/2026 15:00",
-    "contenido": "Denshattack! es un juego que combina manejar un tren con Tony Hawk's Pro Skater y aspectos de juegos de plataforma 3D. El estilo gráfico está inspirado por animé y juegos de la época del Sega Dreamcast. Puede sonar complejo, pero quédense conmigo que esto vale la pena. El juego es impresionante, es "
   },
   {
     "blog": "La bitácora de Locutus",
@@ -2161,19 +2245,5 @@
     "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-cuartos-de-final.html",
     "fecha": "12/07/2026 04:09",
     "contenido": "Ayer se completaron los cuartos de final (la tercera de las fases de eliminación directa) del mundial de fútbol que se está disputando en Canadá, Estados Unidos y México. Argentina, la única de las selecciones sudamericanas que llegó a esta instancia enfrentaba a Suiza, un rival europeo. Argentina 3"
-  },
-  {
-    "blog": "Si dios te da limones",
-    "titulo": "Comandos de git que uso MUCHO",
-    "link": "https://sidiostedalimones.com/blog/2026/comandos-de-git-que-uso-mucho/",
-    "fecha": "12/07/2026 00:00",
-    "contenido": ""
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "No somos un bug",
-    "link": "https://tecnoysoft.com/2026/07/11/no-somos-un-bug/",
-    "fecha": "11/07/2026 19:51",
-    "contenido": "Ignoro si esto será un error, porque mi blog es de tecnología, no de filosofía. Aun así, detrás de cada línea de código, de cada artículo y de cada proyecto hay personas. Y las personas nos equivocamos. Lo que ocurre es que, cuando alguien comete un error, enseguida aparecen esos jueces que parecen "
   }
 ]
