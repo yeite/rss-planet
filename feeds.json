@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Un blog",
+    "titulo": "Nitrokey (o cualquier otra llave de hardware) para bloquear o desbloquear la computadora",
+    "link": "https://nachof.blog/posts/2026/nitrokey-o-cualquier-otra-llave-de-hardware-para-bloquear-o-desbloquear-la-computadora/",
+    "fecha": "14/08/2026 23:45",
+    "contenido": "Hace un tiempo comenté que tengo una llave USB Nitrokey, y la estaba usando para guardar claves SSH. La verdad que viene re bien para eso. También la estoy usando para un par de TOTP que quiero tener más seguros que en Keepass, o en el teléfono (y además es más cómodo si ya lo voy a tener enchufado "
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 33 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/08/14/opensuse-tumbleweed-revision-de-la-semana-33-de-2026/",
+    "fecha": "14/08/2026 19:16",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "quiroptero.blog",
+    "titulo": "IA (estoy harto)",
+    "link": "https://www.quiroptero.blog/2026/08/ia/",
+    "fecha": "14/08/2026 17:37",
+    "contenido": "Mi relación reciente con la IA"
+  },
+  {
+    "blog": "",
+    "titulo": "Nueva Canción de Germán Harper & Bard.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/08/14/nueva-cancion-de-german-harper-bard/",
+    "fecha": "14/08/2026 13:06",
+    "contenido": ""
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Links de Viernes - #954",
     "link": "https://www.fabio.com.ar/10022-links-de-viernes---954",
@@ -364,13 +392,6 @@
     "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "TuLotero ha sido hackeada",
-    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
-    "fecha": "10/08/2026 00:00",
-    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "No volverás a consumir contenido después de leer esto",
     "link": "https://guillermolatorre.com/clips/no-volveras-a-consumir-contenido-despues-de-leer-esto",
@@ -476,11 +497,11 @@
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Web component para mostrar spoilers en tu blog",
-    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
+    "blog": "Maverick HQ",
+    "titulo": "weeknotes 26.2",
+    "link": "https://maverick-hq.org/blog/weeknotes-26-2/",
     "fecha": "08/08/2026 00:00",
-    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
+    "contenido": "Esta semana ha sido muy complicada por temas personales, así que me ha costado ponerme a escribir.\nEstado actual: Después de la cena me he tomado un helado y he visto el episodio 3x05 de Silo.\nEn cuanto al cine, fuimos en plan familiar a ver Spider-Man: Brand New Day y, bueno, quizá esta vez sí que "
   },
   {
     "blog": "Un blog",
@@ -868,13 +889,6 @@
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Ayer fue uno de los días más duros en el veterinario",
-    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
-    "fecha": "04/08/2026 00:00",
-    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
@@ -950,6 +964,13 @@
     "link": "https://blep.org/El-templo-de-Arnaz",
     "fecha": "03/08/2026 00:00",
     "contenido": "Este texto fue escrito para el Reto Mastorol de Agosto-Septiembre 2026. No es que esté particularmente orgulloso de él, pero llevo tiempo sin publicar nada así que aprovecho.\n\nEn alguna parte de la ciudad de Labri, existe un templo que los lugareños llaman Arnaz. El templo es, en realidad, más antig"
+  },
+  {
+    "blog": "Maverick HQ",
+    "titulo": "Jugando a The Legend of Zelda - Twilight princess en Dusklight",
+    "link": "https://maverick-hq.org/blog/jugando-a-zelda-twilight-princess/",
+    "fecha": "03/08/2026 00:00",
+    "contenido": "Hace unos meses me empezó a picar de nuevo el gusanillo de retomar los antiguos juegos de la saga The Legend of Zelda y como nunca había jugado a Twilight Princess pues me entró la curiosidad de ver si por un casual la comunidad había sacado por fin algún engine pare ejecutar alguna de las versiones"
   },
   {
     "blog": "Un Diario",
@@ -1281,13 +1302,6 @@
     "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Quitando un avispero en casa",
-    "link": "https://chancli.dev/blog/quitar-avispero.html",
-    "fecha": "29/07/2026 00:00",
-    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
-  },
-  {
     "blog": "Picando Código",
     "titulo": "Reseña: Dystopicon - Steam",
     "link": "https://picandocodigo.net/2026/resena-dystopicon-steam/",
@@ -1391,6 +1405,13 @@
     "link": "https://56k.es/fanta/googletificacion-del-dont-be-evil-a-skynet/",
     "fecha": "28/07/2026 04:01",
     "contenido": "Vamos a viajar un poco por la historia de Google y desmontar un par de mitos de esos románticos que te pueden hacer pensar que también puedes hacer esto. 1. La historia del garaje siempre es mentira 2. Un rápido crecimiento 3. El proceso de Googletización de la sociedad &#160; 1. La historia del gar"
+  },
+  {
+    "blog": "Maverick HQ",
+    "titulo": "weeknotes 26.1",
+    "link": "https://maverick-hq.org/blog/weeknotes-26-1/",
+    "fecha": "28/07/2026 00:00",
+    "contenido": "Como empecé esto del blogging para dar una salida a mis temas y nunca encuentro nada interesante o bueno que contar, creo que voy a voy a cambiar el formato de publicaciones al de publicaciones semanales o weeknotes porque al final escribo sobre todo para mí y ya, si acaso, para quién tenga ganas de"
   },
   {
     "blog": "Esuntipazo - blog",
@@ -1708,13 +1729,6 @@
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Hectáreas quemadas vistas con perspectiva real",
-    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
-    "fecha": "24/07/2026 00:00",
-    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Publicado Thunderbird 153. La nueva versión de soporte extendido de este cliente de correo de software libre",
     "link": "https://victorhckinthefreeworld.com/2026/07/23/publicado-thunderbird-153-la-nueva-version-de-soporte-extendido-de-este-cliente-de-correo-de-software-libre/",
@@ -1734,13 +1748,6 @@
     "link": "https://brucknerite.net/2026/07/yo-quise-escribir-un-libro.html",
     "fecha": "23/07/2026 08:00",
     "contenido": "De cómo estuve tres años escribiendo texto para un proyecto de libro como escarabajo pelotero que recoge bosta para crear una bola más grande que él mismo. Y de cómo fracasé con el debido estrépito, que fue flojo."
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Enlaces para ver el tiempo en Algeciras",
-    "link": "https://chancli.dev/blog/enlaces-meteo-algeciras.html",
-    "fecha": "23/07/2026 00:00",
-    "contenido": "Soy un gran aficionado a los datos en general y desde hace un tiempo con todo el asunto del cambio climático, borrascas enlazadas y olas de calor empecé a buscar fuentes de información lo más fiables posibles.\nLo primero que encontré fueron varias estaciones meteorológicas como:\n\nmeteoclimatic\naweka"
   },
   {
     "blog": "Un blog",
@@ -1818,13 +1825,6 @@
     "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Llevo un mes durmiendo en el sofá",
-    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
-    "fecha": "22/07/2026 00:00",
-    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -2147,26 +2147,5 @@
     "link": "https://papelcontinuo.net/3539/jd-ware-advance/",
     "fecha": "16/07/2026 09:00",
     "contenido": "JD Ware Advance es una colección de minijuegos inspirada en WarioWare que parodia la política actual de Estados Unidos. En sus rapidísimos minijuegos tendremos que pasar pruebas como: besar culos, evitar los papeles de Epstein, hacer como que no vemos pruebas, buscar Groenlandia en un mapa o navegar"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "20 años del Love Parade",
-    "link": "https://mareosdeungeek.es/20-anos-del-love-parade/",
-    "fecha": "15/07/2026 21:07",
-    "contenido": "El 15 de julio de 2006 estaba en Berlín con mi amigo David dispuesto a disfrutar de una de las mayores fiestas que se celebraban en esos momentos, el Love Parade. Era el primer viaje fuera de España que hacía porque durante mis años de instituto no fui al viaje fin de curso de BUP. [&#8230;]"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 23 imágenes en Star Wars Outlaws",
-    "link": "https://labaudric.net/galeria/star-wars-outlaws",
-    "fecha": "15/07/2026 18:38",
-    "contenido": "      +17 más"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Reviviendo el Robo del Gardner",
-    "link": "https://polotman.wordpress.com/2026/07/15/reviviendo-el-robo-del-gardner/",
-    "fecha": "15/07/2026 16:34",
-    "contenido": "El robo de arte más caro de la historia cumple 35 años sin resolverse» Estamos de vuelta con un nuevo episodio del Sueño del Artista Podcast . Después de un modesto éxito de nuestra serie Afrofuturismo: Imaginarios del Porvenir con Keren Turmo, retomamos nuestra esencia con un tema que promete mante"
   }
 ]
