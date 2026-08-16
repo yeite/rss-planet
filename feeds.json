@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Erica Fustero",
+    "titulo": "El eclipse",
+    "link": "https://www.ericafustero.com/2026-08-eclipse",
+    "fecha": "15/08/2026 20:50",
+    "contenido": "Lo reconozco: yo asumí que me iba a perder el eclipse. Ni se me había pasado por la cabeza mirar si se iba a ver desde Berlín. Por suerte, Coral sí se había enterado (fue un eclipse parcial, alcanzó una cobertura del 85%), y el 12 de agosto quedamos para verlo. I admit it: I [&#8230;]"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Reducir tamaño unidad disco duro virtual en Proxmox LXC",
+    "link": "https://labaudric.net/blog/auto-alojamiento/reducir-disco-duro-lxc-proxmox",
+    "fecha": "15/08/2026 18:39",
+    "contenido": "\nUna de las pocas cosas que no permite Proxmox, al menos de versión 9 incluida para abajo, es reducir el tamaño de un disco duro virtual en un LXC.\nY la verdad es que es una putada, por que por mucho que planifiques bien de ante mano, esta necesidad puede surgir en cualquier momento. Desde la termin"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Crítica \"It Follows\" (2014)",
+    "link": "https://labaudric.net/blog/peliculas/it-follows",
+    "fecha": "15/08/2026 18:03",
+    "contenido": "\nPues he visto It Follows. Vengo a quejarme de ello.\nPelícula del 2014, una hora y cuarenta minutos (se agradece que no sean de esas de inútilmente dos horas). Director: un pavo que no me suena, y los actores, más de lo mismo. Bien. Vamos allá:\nLa película empieza claramente por un flash forward de "
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "Nocturno entre las masas",
+    "link": "http://locutusbit.blogspot.com/2026/08/nocturno-entre-las-masas.html",
+    "fecha": "15/08/2026 12:00",
+    "contenido": "&nbsp;Es una corriente que va donde va,cazando la lluvia cautivadentro de la misma tormenta,silenciosa, impopular, integrada.Contra todo, pero dentro de todo,apuñalando, ciegamente,las victorias y las derrotas,&nbsp;dando vueltas y vueltas a vacío.Regalando la sensación&nbsp;de expresión autónoma pr"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Buwan Ng Wika: Lingua Narrative Celebration 2026",
     "link": "https://cozykis.kisworld.es/buwan-ng-wika-lingua-narrative-celebration-2026/",
@@ -420,13 +448,6 @@
     "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "TuLotero ha sido hackeada",
-    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
-    "fecha": "10/08/2026 00:00",
-    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "No volverás a consumir contenido después de leer esto",
     "link": "https://guillermolatorre.com/clips/no-volveras-a-consumir-contenido-despues-de-leer-esto",
@@ -530,13 +551,6 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quien-pierde-las-formas/",
     "fecha": "08/08/2026 00:00",
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Web component para mostrar spoilers en tu blog",
-    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
-    "fecha": "08/08/2026 00:00",
-    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
   },
   {
     "blog": "Maverick HQ",
@@ -649,13 +663,6 @@
     "link": "https://malagaoriginal.blogspot.com/2026/07/wine-no-es-un-emulador.html",
     "fecha": "07/08/2026 09:28",
     "contenido": "Hace poco un chico de un foro me ha preguntado porqué pongo WINE en la categoría de emuladores en el Wiki de Emuladores para GNU/Linux o en el archivo README.md de RetroMultiInstaller, no he podido olvidarme de la tira de las aventuras del Capitán Literal de Fantasmistas, pero voy a intentar aclarar"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "A day with: Tenko",
-    "link": "https://www.ericafustero.com/2026-08-a-day-with-tenko",
-    "fecha": "07/08/2026 07:08",
-    "contenido": "Una tarde de verano, mientras cenaba en Smartdeli, uno de mis locales favoritos de Berlín, vi un flyer que me llamó la atención. En él, una ilustración de una niña y un gato haciendo cerámica servía para anunciar los talleres de una artista llamada Tenko. Había algo en ese dibujo que me recordaba a "
   },
   {
     "blog": "quiroptero.blog",
@@ -922,13 +929,6 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quienes-se-marchan-de-omelas/",
     "fecha": "04/08/2026 00:00",
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Ayer fue uno de los días más duros en el veterinario",
-    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
-    "fecha": "04/08/2026 00:00",
-    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
   },
   {
     "blog": "Victorhck in the free world",
@@ -1335,13 +1335,6 @@
     "link": "https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/",
     "fecha": "29/07/2026 02:30",
     "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Quitando un avispero en casa",
-    "link": "https://chancli.dev/blog/quitar-avispero.html",
-    "fecha": "29/07/2026 00:00",
-    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
   },
   {
     "blog": "Picando Código",
@@ -1771,13 +1764,6 @@
     "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Hectáreas quemadas vistas con perspectiva real",
-    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
-    "fecha": "24/07/2026 00:00",
-    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Publicado Thunderbird 153. La nueva versión de soporte extendido de este cliente de correo de software libre",
     "link": "https://victorhckinthefreeworld.com/2026/07/23/publicado-thunderbird-153-la-nueva-version-de-soporte-extendido-de-este-cliente-de-correo-de-software-libre/",
@@ -1797,13 +1783,6 @@
     "link": "https://brucknerite.net/2026/07/yo-quise-escribir-un-libro.html",
     "fecha": "23/07/2026 08:00",
     "contenido": "De cómo estuve tres años escribiendo texto para un proyecto de libro como escarabajo pelotero que recoge bosta para crear una bola más grande que él mismo. Y de cómo fracasé con el debido estrépito, que fue flojo."
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Enlaces para ver el tiempo en Algeciras",
-    "link": "https://chancli.dev/blog/enlaces-meteo-algeciras.html",
-    "fecha": "23/07/2026 00:00",
-    "contenido": "Soy un gran aficionado a los datos en general y desde hace un tiempo con todo el asunto del cambio climático, borrascas enlazadas y olas de calor empecé a buscar fuentes de información lo más fiables posibles.\nLo primero que encontré fueron varias estaciones meteorológicas como:\n\nmeteoclimatic\naweka"
   },
   {
     "blog": "Un blog",
@@ -1881,13 +1860,6 @@
     "link": "https://yeite.github.io/esencial/ikigai",
     "fecha": "22/07/2026 00:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Llevo un mes durmiendo en el sofá",
-    "link": "https://chancli.dev/blog/llevo-1mes-durmiendo-salon.html",
-    "fecha": "22/07/2026 00:00",
-    "contenido": "Pues sí, desde que más o menos empezó esta dichosa ola de calor llevo durmiendo en el salón. ¿Por qué? pues porque Chancla es donde mejor pasa la noche con el aire acondicionado.\nA sus 13 años ya, se nota que cada año gestiona peor el calor y aunque tengo aire acondicionado en el dormitorio también,"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -2161,47 +2133,5 @@
     "link": "https://malagaoriginal.blogspot.com/2026/11/solucionar-error-shebang-en-script-bash.html",
     "fecha": "17/07/2026 07:55",
     "contenido": "¿Qué es eso del error \"shebang\"?Un error shebang, es un error en el que no se encuentra el intérprete especificado en la primera línea del script&nbsp;En el caso de un script bash linux lo podemos comenter con un error tan aparentemente inocente como empezar los scripts con la línea:#/bin/bash&nbsp;"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Cómo hago mi kéfir casero (y qué hago con el requesón que sobra)",
-    "link": "https://blog.danielaragay.net/kefir-casero-paso-a-paso/",
-    "fecha": "16/07/2026 22:52",
-    "contenido": "Llevo un tiempo enganchado al kéfir casero. Te cuento cómo lo preparo paso a paso, cuánto me cuesta comparado con comprarlo hecho, y una receta rápida con el requesón que sobra: tomate, pimienta negra y tomillo sobre pan tostado."
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Las doce impresiones , más allá del grupo  Batignolles . Parte I",
-    "link": "https://polotman.wordpress.com/2026/07/16/las-doce-impresiones-mas-alla-del-grupo-batignolles-parte-i/",
-    "fecha": "16/07/2026 22:34",
-    "contenido": "#impresionismo #Arte #pintura #HistoriadelArte #ElSueñodelArtista Impression fue el nombre del cuadro pintado por Monet que casualmente daría nombre a una de las vanguardias artísticas más conocidas por el público en general y que , posteriormente una gran generación de pintores beberían de las agua"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Muestra los datos de Meteoclimatic en tu escritorio con este Plasmoide para Plasma 6 de #KDE",
-    "link": "https://victorhckinthefreeworld.com/2026/07/16/muestra-los-datos-de-meteoclimatic-en-tu-escritorio-con-este-plasmoide-para-plasma-6-de-kde/",
-    "fecha": "16/07/2026 16:26",
-    "contenido": "Este plasmoide que he realizado muestra de una manera muy gráfica los valores ofrecidos por las estaciones de aficionados que se recogen en Meteoclimatic"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "La tumba olvidada",
-    "link": "https://jinversor.co/2026/07/la-tumba-olvidada/",
-    "fecha": "16/07/2026 15:39",
-    "contenido": "Estuve en una ciudad donde acostumbraba pasar tiempo en mis periodos vacacionales. De tanto ir, año tras año, me hice amigo de los otros jóvenes de la cuadra. Con el [&#8230;]\nLa entrada La tumba olvidada se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Región Cuatro",
-    "titulo": "Escribir",
-    "link": "https://regioncuatro.blog/escribir/",
-    "fecha": "16/07/2026 15:00",
-    "contenido": "He estado escribiendo blog posts de manera más o menos constante desde hace unos cuatro meses. En 2025 publiqué diez. Este año ya van veinticuatro.\nMis motivos para escribir son varios, pero el principal viene de algo que ya sabía desde hace mucho y que, por alguna razón, había dejado de aprovechar:"
-  },
-  {
-    "blog": "",
-    "titulo": "Vamos Argentina.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/07/16/vamos-argentina/",
-    "fecha": "16/07/2026 13:27",
-    "contenido": ""
   }
 ]
