@@ -1,6 +1,62 @@
 [
   {
     "blog": "Fabio.com.ar",
+    "titulo": "Lego Batman y el easter egg para Commodore 64",
+    "link": "https://www.fabio.com.ar/10003-lego-batman-y-el-easter-egg-para-commodore-64",
+    "fecha": "19/08/2026 12:00",
+    "contenido": "    \nMinipost retro-nardo de una boludez que alguien pispe&oacute; en en el juego Lego Batman la computadora del h&eacute;roe y se ve un c&oacute;digo fuente en BASIC.\nPues bien, es un lindo easter egg, o \"huevo de pascua\" para los curiosos porque es, efectivamente, c&oacute;digo que funciona y espe"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Finding Polka",
+    "link": "https://cozykis.kisworld.es/analisis-de-finding-polka/",
+    "fecha": "19/08/2026 10:41",
+    "contenido": "Con sus puzles diversos, sus escenarios llenos de vida hace que buscar a nuestro perro sea una verdadera aventura\nLa entrada Análisis de Finding Polka se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Veni Domine: Fall Babylon Fall | Volver A Un Clásico",
+    "link": "https://www.delotroladometal.com.ar/2026/08/19/volver-a-un-clasico/",
+    "fecha": "19/08/2026 10:35",
+    "contenido": "(2024 &#8211; Melodic Passion Records) Los clásicos nunca mueren. Pueden dejarse de escuchar durante algún...\nThe post Veni Domine: Fall Babylon Fall | Volver A Un Clásico first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Datos demográficos medievales fáciles",
+    "link": "https://escritura.social/mcallus/datos-demograficos-medievales-faciles",
+    "fecha": "19/08/2026 10:23",
+    "contenido": ""
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Tal como se sirven las webs en 2026, son superficie de ataque",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/08/19/20260819-como-sirven-webs-2026/",
+    "fecha": "19/08/2026 08:00",
+    "contenido": "Cómo los guardaraíles de los sistemas de contenido sintético no funcionan, éstas pueden inyectar instrucciones maliciosas"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Piques Git - Cambiar el origen de submódulos",
+    "link": "https://picandocodigo.net/2026/piques-git-cambiar-el-origen-de-submodulos/",
+    "fecha": "18/08/2026 20:43",
+    "contenido": "Estoy empezando de a poco a actualizar mi configuración inicial de Emacs. Al ponerla a funcionar de cero después de mucho tiempo, vi que tenía un submódulo Git. Los submódulos en Git nos permiten traer otro repositorio dentro del repositorio que estamos usando. Tratar dos proyectos como cosas distin"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Lobo / Mask",
+    "link": "https://labaudric.net/blog/comics/lobo-mask",
+    "fecha": "18/08/2026 18:28",
+    "contenido": "\nBRUTAL. Me recuerda mucho a otro especial que he comentado antes, Lobo Batman. Es igual de descabellado y gracioso. ¡Vamos allá con la crítica!\nLobo / Mask. Una historia en dos tomos de 1997, 3 años después de la famosa película del mismo nombre (The Mask. No Lobo / Mask...) del gran Jim Carrey. Es"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Aprende inglés con ficción interactiva de los años 80",
+    "link": "https://56k.es/fanta/aprende-ingles-con-ficcion-interactiva-de-los-anos-80/",
+    "fecha": "18/08/2026 13:27",
+    "contenido": "Las aventuras conversacionales dicen que son buena cosa pero no aptas para todo el mundo. Lo primero es que requieren paciencia como todo lo que merece la pena en esta vida. Hoy vamos a comentar los juegos que realizaron en la empresa de Anita Sinclair y que al día de hoy siguen siendo historias int"
+  },
+  {
+    "blog": "Fabio.com.ar",
     "titulo": "Tanques en paz - 19",
     "link": "https://www.fabio.com.ar/10002-tanques-en-paz---19",
     "fecha": "18/08/2026 12:00",
@@ -47,6 +103,13 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/08/577-la-radio_01570706712.html",
     "fecha": "18/08/2026 04:38",
     "contenido": "&nbsp; &nbsp; La radio es un gran invento. La pongo siempre que almuerzo, como y ceno. Normalmente escucho Catalunya Ràdio y RAC1, aunque otras veces sintonizo la Cadena SER y RNE.&nbsp; &nbsp; Pensaréis que exagero, pero escuchar según qué emisoras mientras se come entraña un serio peligro: la comi"
+  },
+  {
+    "blog": "Maverick HQ",
+    "titulo": "weeknotes 26.3",
+    "link": "https://maverick-hq.org/blog/weeknotes-26-3/",
+    "fecha": "18/08/2026 00:00",
+    "contenido": "Vale, llego 3 días tarde, pero quiero recordar que esto lo hago pagando yo, así que menos lobos.\nEstado actual: tirado en mi cama con una coca cola al lado y tratando de escapar del calor que entra por la ventana del salón. Bueno, en realidad ya me la he acabado.\nDespués de dos semanas de vacaciones"
   },
   {
     "blog": "fernand0 @ GitHub.io",
@@ -735,13 +798,6 @@
     "contenido": "Actualizada el 8 de agosto de 2026.\nInspirado por la iniciativa /uses, comparto aquí algunas de las herramientas que utilizo ahora mismo.\nViéndolas redactadas utilizo pocas cosas que se salgan de lo común, pero estoy contento con cómo utilizo mis herramientas ahora mismo.\n\n\nAplicaciones\n\n\n\n\n\n\n\n\nVida"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Aceldama Zine Nro. 6 – Año 2005",
-    "link": "https://www.delotroladometal.com.ar/2026/08/08/aceldama-zine-nro-6-ano-2005/",
-    "fecha": "08/08/2026 11:30",
-    "contenido": "Volvemos nuevamente sobre el Fanzine Aceldama, del recordado Ruben Dominguez (q.e.p.d.), quien recordemos, siempre estuvo...\nThe post Aceldama Zine Nro. 6 – Año 2005 first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "Quien pierde las formas",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quien-pierde-las-formas/",
@@ -840,6 +896,13 @@
     "contenido": "El sábado pasado vi en Mastodon un hilo de @dbattistella@mstdn.ca (impulsado por Santiago). En él se explican los pasos para desactivar la inteligencia artificial de su cuenta de Gmail que desde fines de noviembre del año pasado se activó automáticamente en todas las cuentas. Me pareció muy interesa"
   },
   {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtidos variados para muffaletta (o el bocadillo que quieras)",
+    "link": "https://puedellevarqueso.es/2026/08/encurtidos-variados-para-muffaletta-o-el-bocadillo-que-quieras/",
+    "fecha": "07/08/2026 11:17",
+    "contenido": "La muffaletta es un bocadillo italoamericano, que lleva capas y capas de todos los fiambres que te atrevas y al menos dos tipos de queso. Es difícil de imitar en casa porque se hace en un tipo de pan muy difícil de encontrar fuera de Nueva Orléans y tal vez otros puntos de EEUU como [&#8230;]"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Análisis de Capy Castaway",
     "link": "https://cozykis.kisworld.es/analisis-de-capy-castaway/",
@@ -873,13 +936,6 @@
     "link": "https://nachof.blog/posts/2026/pequea-actualizacion-sobre-strange-new-worlds/",
     "fecha": "06/08/2026 20:08",
     "contenido": "El otro día comenté sobre la complicidad de Pike en un genocidio en el primer episodio de Strange New Worlds temporada 4. Una de las pequeñas cosas que me quedó fue la posibilidad de que estuviesen preparando algo sobre esto:\n\nCapaz que todo esto es para iniciar un arco en el cual Pike lidia con la "
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Lo mejor de Tiny Teams 2026",
-    "link": "https://cozykis.kisworld.es/lo-mejor-de-tiny-teams-2026/",
-    "fecha": "06/08/2026 19:22",
-    "contenido": "El evento Tiny Teams, por si alguien aún no lo conoce, se celebra todos los años y el objetivo es dar a conocer grandes ideas llevadas a cabo por equipos pequeñitos. Así que si tenéis curiosidad por las cosas chulas que han traído esta vez, os dejo un post recopilando algunos juegos a los que [&#823"
   },
   {
     "blog": "quiroptero.blog",
@@ -964,13 +1020,6 @@
     "link": "https://regioncuatro.blog/quien-te-dio-permiso-en-version-audio/",
     "fecha": "05/08/2026 15:00",
     "contenido": "Hace tiempo tenía ganas de grabar versiones de audio de algunos posts, y hoy decidí experimentar con el primero.\n\n¿Quién te dio permiso? tiene ahora una versión que puedes ir a escuchar haciendo click en el enlace.\n¿Qué opinan?"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ludopatía: hemos perdido ante las apuestas",
-    "link": "https://www.fabio.com.ar/10007-ludopatia-hemos-perdido-ante-las-apuestas",
-    "fecha": "05/08/2026 12:00",
-    "contenido": "    \nEl otro d&iacute;a recibo un mensaje de Google Adsense, ya no lo uso para publicidad en el blog, saqu&eacute; los banners hace unos a&ntilde;os, pero aun as&iacute; recibo la noticia: Google actualizaba sus condiciones para aceptar anuncios de casinos en su red de anunciantes.\nEn este blog no a"
   },
   {
     "blog": "56K",
@@ -1090,6 +1139,13 @@
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
     "fecha": "03/08/2026 17:52",
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacines estilo japonés",
+    "link": "https://puedellevarqueso.es/2026/08/encurtido-de-calabacines-estilo-japones/",
+    "fecha": "03/08/2026 16:25",
+    "contenido": "Inventé esta receta cuando me apetecía comer calabacines crudos. Llamarlo encurtido puede llevar a error, porque no es una conserva, pero necesita un tiempo de reposo (mínimo dos horas) y aguanta varios días en el frigorífico. Es fácil encontrar recetas de ensaladas y encurtidos de pepino en páginas"
   },
   {
     "blog": "",
@@ -1372,13 +1428,6 @@
     "contenido": "Hace poco hablaba sobre Freac, un ripeador y conversor con muchas opciones. Ahora es el turno de lo contrario, algo mucho más sencillo y directo: Transition."
   },
   {
-    "blog": "56K",
-    "titulo": "Películas en Dominio público de estos últimos años",
-    "link": "https://56k.es/fanta/contenido-dominio-publico-de-estos-ultimos-anos/",
-    "fecha": "30/07/2026 08:25",
-    "contenido": "Los primeros días de Enero de cada año suele salir el tipico articulo que reseña algunas peliculas, libros, música, &#8230; que pasa a dominio publico. Yo tenía desde hace tiempo algún post a medias que al final he decidido terminar y publicar. Evidentemente no están todas las películas en dominio p"
-  },
-  {
     "blog": "AsturGeek V3",
     "titulo": "Instalando Transmission con Docker",
     "link": "https://asturgeek.eu/2026/07/30/instalando-transmission-con-docker/",
@@ -1622,13 +1671,6 @@
     "link": "https://www.macram.es/posts/2026/07/algunas-sensaciones-vacacionales/",
     "fecha": "27/07/2026 09:45",
     "contenido": "Estas palabras las estoy escribiendo al vuelo, casi en una especie de ejercicio de escritura automática, en el porche del bungalow en el que me estoy alojando unos días. Hace sol. El paisaje está ligeramente turbio y huele raro, quizá por el humo de los incendios de Ávila, que aunque no están cerca "
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Programando y depurando tareas con Cron",
-    "link": "https://picandocodigo.net/2026/programando-y-depurando-tareas-con-cron/",
-    "fecha": "27/07/2026 08:00",
-    "contenido": "cron es una de las tantas herramientas geniales de sistemas Unix. Nos permite programar tareas para que se ejecuten automáticamente en momentos determinados. Podemos programar comandos que se ejecuten a una hora determinada en el día, un día específico del mes, etcétera. Tiene reputación por ser \"co"
   },
   {
     "blog": "_ voidNull",
@@ -2091,40 +2133,5 @@
     "link": "https://gatooscuro.xyz/el-mejor-reloj-que-puedes-conseguir-huawei-watch-gt-6/",
     "fecha": "20/07/2026 12:45",
     "contenido": "NOTA: Nadie pago por este artículo, solo quiero dar una buena recomendación de tecnología. Bueno, nuevamente nos leemos en esta sesión de tecnología, en donde suelo recomendar algún gadget o\nSeguir leyendo  El mejor reloj que puedes conseguir &#8211; Huawei Watch GT 6\nEl cargo El mejor reloj que pue"
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "El Interior",
-    "link": "https://jmlro.codeberg.page/posts/2026/07-20-el-interior.html",
-    "fecha": "20/07/2026 12:00",
-    "contenido": "Leyendo Las Llanuras, de Gerald Murnane, pienso en la obra de mi abuelo. Durante varias décadas se levantó temprano antes de que se despertara el resto de la casa para escribir un formato específico. Veinte líneas sobre un tema. A lo largo de los años el impulso lo podía dar un refrán o una frase de"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Find My Device en Proxmox",
-    "link": "https://voidnull.es/instalacion-de-find-my-device-en-proxmox/",
-    "fecha": "20/07/2026 07:11",
-    "contenido": "FMD (Find My Device), una alternativa open source y descentralizada para localizar y controlar tu móvil Android de forma remota"
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Los sudamericanos en el mundial de fútbol de Norteamérica (semifinales y finales)",
-    "link": "https://javiersam.uy/2026/07/los-sudamericanos-en-el-mundial-de-futbol-de-norteamerica-semifinales-y-finales.html",
-    "fecha": "20/07/2026 03:00",
-    "contenido": "Ayer terminó la 23ª Copa Mundial de la fifa, que se disputó en Canadá, Estados Unidos y México. El martes de la semana pasada se jugó la primera de las semifinales. En ella España agarró la pelota y no se la prestó a Francia. Los hábiles españoles movieron la pelota de un lado a otro y fueron enloqu"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "El 19 de Julio un gran día  en la historia .",
-    "link": "https://polotman.wordpress.com/2026/07/19/el-19-de-julio-un-gran-dia-en-la-historia/",
-    "fecha": "19/07/2026 23:53",
-    "contenido": "En mi opinión no sería descabellado decir que el 19 de Julio a sido testigo de no pocos momentos de la humanidad que han contribuido al desarrollo de esta , y no me refiero únicamente al mundial de fútbol que casualmente coincide su último juego con esta fecha . El 19 de julio es, sin [&#8230;]"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Intentaron borrarme",
-    "link": "https://gatooscuro.xyz/intentaron-borrarme/",
-    "fecha": "19/07/2026 21:34",
-    "contenido": "Siento como si cada noche intentaran borrar mi mente y así perder toda la información que conozco. Es como si conociera algo que ellos no quisieran que escribiera. Las sensaciones\nSeguir leyendo  Intentaron borrarme\nEl cargo Intentaron borrarme apareció primero en El cuarto de GatoOscuro."
   }
 ]
