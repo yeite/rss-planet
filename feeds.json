@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "Reciclando una entrevista. ¿Merece la pena ser bloguero?",
+    "link": "https://victorhckinthefreeworld.com/2026/08/19/reciclando-una-entrevista-merece-la-pena-ser-bloguero/",
+    "fecha": "19/08/2026 13:54",
+    "contenido": "En el blog Tecnoysoft publicaron el pasado 9 de agosto de 2026 una entrevista ficticia realizada por una IA. A raíz de ese artículo, me pareció interesante \"reciclar\" la entrevista y publicar en mi blog mis propias respuestas."
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Lego Batman y el easter egg para Commodore 64",
     "link": "https://www.fabio.com.ar/10003-lego-batman-y-el-easter-egg-para-commodore-64",
@@ -33,6 +40,20 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/08/19/20260819-como-sirven-webs-2026/",
     "fecha": "19/08/2026 08:00",
     "contenido": "Cómo los guardaraíles de los sistemas de contenido sintético no funcionan, éstas pueden inyectar instrucciones maliciosas"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Microrrelato en Axxon",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/microrrelato-en-axxon/",
+    "fecha": "19/08/2026 00:00",
+    "contenido": "Pasen y lean\nhttps://axxon.com.ar/rev/2026/08/ficcion-breve-ochenta-tres-varios/\nDaniel Omar Cignacco"
+  },
+  {
+    "blog": "Jorge Aguilera",
+    "titulo": "ApiFirst en Leanpub",
+    "link": "https://blog.jagedn.dev/blog/2026/leanpub-apifirst.html",
+    "fecha": "19/08/2026 00:00",
+    "contenido": "Acabo de publicar el libro \"ApiFirst con Micronaut\" en LeanPub"
   },
   {
     "blog": "Picando Código",
@@ -2063,75 +2084,5 @@
     "link": "https://yejokjanan.xyz/blog/2026-07-21.html",
     "fecha": "21/07/2026 05:00",
     "contenido": ""
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "El Diario de un Nerd – Matizeta",
-    "link": "https://elrefugiodeunnerd.es/2026/07/20/el-diario-de-un-nerd-matizeta/",
-    "fecha": "20/07/2026 16:07",
-    "contenido": "Sigo con la serie que tenía en mi antigua web, solo que a partir de ahora sin un día fijo. Hoy la recomendación nos la trae Matizeta, un bloguero conocido en la comunidad. Como siempre recuerdo que todo lo que aparece aquí son sus palabras tal cual ellos me las enviaron. Nombre del bloguero: matizet"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Configurar repetidor TP-Link N300 en tu señal WiFi",
-    "link": "https://voidnull.es/configurar-repetidor-tp-link-n300-en-tu-senal-wifi/",
-    "fecha": "20/07/2026 15:30",
-    "contenido": "Amplía tu red WiFi fácilmente configurando un repetidor TP-Link N300 y mejora la cobertura en toda tu casa."
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "Bots ¿con o contra bots?",
-    "link": "https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/",
-    "fecha": "20/07/2026 15:00",
-    "contenido": "\n\nLeía hace un rato un titular que venía a decir que se está graduando estos días la primera cohorte de estudiantes-chatGPT. Si recordamos, ChatGPT fue lanzado en noviembre del 2022 (ChatGPT en Wikipedia) así que es un buen título: los estudiantes que comenzaron en el 2022 ahora se estarán graduando"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Visualización de una vida en semanas",
-    "link": "https://guillermolatorre.com/clips/visualizacion-de-una-vida-en-semanas",
-    "fecha": "20/07/2026 14:45",
-    "contenido": "Cada cierto tiempo hay que entrar aquí. Es un calendario para visualizar la cantidad de tiempo que llevas consumido y el que podría quedarte por vivir, basado en el libro \"Wait but why\" de Tim Urban.Ir al enlace"
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "¿Seguridad o prestaciones? Compromisos",
-    "link": "https://fernand0.github.io//seguridad-prestaciones/",
-    "fecha": "20/07/2026 14:00",
-    "contenido": "No estoy muy seguro sobre en qué habrá terminado esto pero me parece interesante por varios motivos: Ubuntu disables Intel GPU security mitigations, promises 20% performance boost. Por un lado, está claro que añadir controles de seguridad hace que el código sea más lento (en este caso parece que muc"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "Por qué siempre blanco o negro…",
-    "link": "https://elrefugiodeunnerd.es/2026/07/20/por-que-siempre-blanco-o-negro/",
-    "fecha": "20/07/2026 13:20",
-    "contenido": "Estamos obsesionados en ver la tecnología, o la vida en general, a dos colores, eres de Apple o de Android, de Mac o de Windows (o Linux), de Adobe o de código abierto… Son muchos los ejemplos, pero pocos los que se deberían aplicar. A veces utilizar las dos cosas (o tres, o las que [&#8230;]"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "BlogBlog!",
-    "link": "https://elrefugiodeunnerd.es/2026/07/20/blogblog/",
-    "fecha": "20/07/2026 13:19",
-    "contenido": "Hacer crecer un blog es complicado a día de hoy. Las redes sociales han matado este contenido. Puede ser por el hecho de que hay que leer y no ver un vídeo de 30 segundos, porque les da pereza, o por el simple hecho de que han pasado de moda. Es por ello por lo [&#8230;]"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "La idea de descentralizar las cosas",
-    "link": "https://elrefugiodeunnerd.es/2026/07/20/la-idea-de-descentralizar-las-cosas/",
-    "fecha": "20/07/2026 13:18",
-    "contenido": "Bueno… Llevo muchos años siendo un friki de la tecnología, de hecho, meapasiona. Me gustan todas las novedades de los dispositivos móviles perotambién soy de la opinión de que llevar todo en un bolsillo puede seraterrador. A día de hoy, llevamos todo en nuestro teléfono móvil, y, no lo voya negar, e"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "El Diario de un Nerd – Diego",
-    "link": "https://elrefugiodeunnerd.es/2026/07/20/el-diario-de-un-nerd-diego/",
-    "fecha": "20/07/2026 13:15",
-    "contenido": "Hoy empezamos una serie de colaboraciones, en la que un bloguero nos va a recomendar un programa/herramienta/truco/página web o algo que se le ocurra que pueda ser interesante y nos va a explicar un poquito sobre ello. Abrimos esta serie con Diego. Todo lo que aparece en su sección son sus palabras "
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "El mejor reloj que puedes conseguir – Huawei Watch GT 6",
-    "link": "https://gatooscuro.xyz/el-mejor-reloj-que-puedes-conseguir-huawei-watch-gt-6/",
-    "fecha": "20/07/2026 12:45",
-    "contenido": "NOTA: Nadie pago por este artículo, solo quiero dar una buena recomendación de tecnología. Bueno, nuevamente nos leemos en esta sesión de tecnología, en donde suelo recomendar algún gadget o\nSeguir leyendo  El mejor reloj que puedes conseguir &#8211; Huawei Watch GT 6\nEl cargo El mejor reloj que pue"
   }
 ]
