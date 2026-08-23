@@ -1,5 +1,19 @@
 [
   {
+    "blog": "La Frikoteca",
+    "titulo": "Mi colección de rol en números e idiomas",
+    "link": "http://frikoteca.blogspot.com/2026/08/mi-coleccion-de-rol-en-numeros-e-idiomas.html",
+    "fecha": "22/08/2026 19:12",
+    "contenido": "\nEsta entrada es una respuesta a una del mismo nombre, escrita por mi hermano el mes pasado: Mi colección de rol en números e idiomas en El Rincón del Maestro Terrax. La entrada tenía como objetivo determinar de una vez por todas si en su colección rolera había más libros en inglés o más libros en e"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Cómo evitar las desconexiones esporádicas de la WiFi en Linux",
+    "link": "https://tecnoysoft.com/2026/08/22/como-evitar-las-desconexiones-esporadicas-de-la-wifi-en-linux/",
+    "fecha": "22/08/2026 15:21",
+    "contenido": "Llevo mucho tiempo con este problema. La solución es sencilla; lo difícil ha sido identificar la causa. En algunos portátiles con Linux, especialmente cuando la señal Wi-Fi es débil, el ahorro de energía del adaptador inalámbrico puede afectar a la estabilidad de la conexión. En mi caso, la solución"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "La Banda Extrema Anuncia El Lanzamiento de \"The Ballad Of Nicolaus Farel\" | Symphony Of Heaven Va Por Más",
     "link": "https://www.delotroladometal.com.ar/2026/08/22/symphony-of-heaven-va-por-mas/",
@@ -404,13 +418,6 @@
     "link": "https://www.quiroptero.blog/2026/08/anuncios/",
     "fecha": "17/08/2026 06:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "La psicologa sin empatía",
-    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
-    "fecha": "17/08/2026 00:00",
-    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
   },
   {
     "blog": "JDRM",
@@ -903,27 +910,6 @@
     "contenido": "Los antivirus para Android ofrecen soluciones a un problema muy minoritario. El malware que afecta a dispositivos en 2026 llega por ingeniería social, firmware ya comprometido de fábrica o permisos mal concedidos; no por los vectores de infección propios de un virus. Entender cómo funciona el modelo"
   },
   {
-    "blog": "El blog de Lázaro",
-    "titulo": "Cloudflare Analytics activado en el blog",
-    "link": "https://elblogdelazaro.org/cloudflare-analytics-activado-automaticamente/",
-    "fecha": "10/08/2026 02:00",
-    "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "TuLotero ha sido hackeada",
-    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
-    "fecha": "10/08/2026 00:00",
-    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "No volverás a consumir contenido después de leer esto",
-    "link": "https://guillermolatorre.com/clips/no-volveras-a-consumir-contenido-despues-de-leer-esto",
-    "fecha": "09/08/2026 17:30",
-    "contenido": "La fluidez es la trampa que te hace sentir inteligente mientras dejas de pensar.Ir al enlace"
-  },
-  {
     "blog": "Tecno y Soft",
     "titulo": "Tengo un blog, no escribo para el algoritmo",
     "link": "https://tecnoysoft.com/2026/08/09/tengo-un-blog-no-escribo-para-el-algoritmo/",
@@ -1015,13 +1001,6 @@
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Web component para mostrar spoilers en tu blog",
-    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
-    "fecha": "08/08/2026 00:00",
-    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
-  },
-  {
     "blog": "Maverick HQ",
     "titulo": "weeknotes 26.2",
     "link": "https://maverick-hq.org/blog/weeknotes-26-2/",
@@ -1041,34 +1020,6 @@
     "link": "https://labaudric.net/blog/musica/primeras-impresiones-electric-callboy-tanzneid",
     "fecha": "07/08/2026 22:53",
     "contenido": "\n\nWow.\nEstrenando la sección musical por todo lo alto.\nElectric Callboy ha publicado en yutuf una vista previa de Tanzneid. Es un disco de 46 minutos pero llevo dos horas escuchándolo. He parado de jugar al Forza Horizon 6 para poner a redactar esto mientras... Sigo escuchándolo.\nCapítulo 1: Context"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "taken.",
-    "link": "https://guillermolatorre.com/clips/taken",
-    "fecha": "07/08/2026 22:40",
-    "contenido": "Demostración de todos los datos que pueden obtenerse de ti solo por entrar a una página web.Ir al enlace"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Neat Calendar",
-    "link": "https://guillermolatorre.com/clips/neat-calendar",
-    "fecha": "07/08/2026 22:35",
-    "contenido": "Un calendario del año completo, a pantalla completa y también imprimible. Permite configurarlo mediante parámetros en la URL: idioma, fines de semana alineados, color del resaltado...Ir al enlace"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Tella | All-in-One Screen Recorder for Mac, Windows & Chrome",
-    "link": "https://guillermolatorre.com/clips/tella-all-in-one-screen-recorder-for-mac-windows-chrome",
-    "fecha": "07/08/2026 22:35",
-    "contenido": "Grabación y edición de videos multilataforma. No lo he probado, pero tiene muy buena pinta.Ir al enlace"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "Paz veraniega",
-    "link": "https://guillermolatorre.com/fotolog/paz-veraniega",
-    "fecha": "07/08/2026 16:50",
-    "contenido": "Responder por email."
   },
   {
     "blog": "Mi perra vida",
@@ -1330,13 +1281,6 @@
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Ayer fue uno de los días más duros en el veterinario",
-    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
-    "fecha": "04/08/2026 00:00",
-    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
@@ -1398,13 +1342,6 @@
     "link": "https://56k.es/fanta/bloqueando-llamadas-no-deseadas-en-android/",
     "fecha": "03/08/2026 04:42",
     "contenido": "Tengo a lo largo del día diferentes modos. Uno de ellos es el modo «dormir» en el que NO tengo notificaciones de nada salvo llamadas/sms de x números de la agenda Jugando con los modos puedes evitar llamadas indeseadas. Pero siempre quedan esas horas del día en las que permites que te llamen sin ten"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "",
-    "link": "https://altgr.xyz/2026/08/02/2777/",
-    "fecha": "03/08/2026 02:56",
-    "contenido": "Querido diario bitácora: Hoy hice mi primer pesto y hallo que no me quedó nada de mal. Mis comensalas opinaron lo mismo, lo que me hace sentir orgulloso de mis pocas habilidades en la cocina. Hoy fue un lindo día."
   },
   {
     "blog": "Diego Cano",
@@ -1708,20 +1645,6 @@
     "contenido": "Que leo rápido me dicen. No estoy de acuerdo."
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Rosalía en Movistar Arena",
-    "link": "https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/",
-    "fecha": "29/07/2026 02:30",
-    "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Quitando un avispero en casa",
-    "link": "https://chancli.dev/blog/quitar-avispero.html",
-    "fecha": "29/07/2026 00:00",
-    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
-  },
-  {
     "blog": "gorkula.com",
     "titulo": "Metric en Aragon Ballroom 2026",
     "link": "https://www.gorkula.com/metric-chicago-2026",
@@ -1876,25 +1799,11 @@
     "contenido": "He estado verificando mi repositorio con enlaces sobre los &#8220;posibles&#8221; artículos y vaya, tengo muy buen material, aunque… muy poco espacio para poder desarrollarlo. Además, me desanima un poco no\nSeguir leyendo  Tres alternativas a las plataformas tradicionales: Kloak, Zerion y Cryptgeon\n"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Conversatorio Musical con Angelo Pierattini en La Tienda Nacional",
-    "link": "https://altgr.xyz/2026/07/27/conversatorio-musical-con-angelo-pierattini-en-la-tienda-nacional/",
-    "fecha": "27/07/2026 03:52",
-    "contenido": "Quienes compramos en preventa el vinilo del Disco Rojo de Weichafe tuvimos el privilegio de ser invitados a una sesión íntima junto a Angelo Pierattini en La Tienda Nacional, la tarde miércoles 22 de julio, para escuchar algunas de sus canciones y conseguir unas rayitas en los discos. Lo que iba a s"
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Full Circle #230 (junio 2026)",
     "link": "https://javiersam.uy/2026/07/full-circle-230-junio-2026.html",
     "fecha": "27/07/2026 03:00",
     "contenido": "Aquí va mi reseña de la edición #230 de Full Circle magazine. Se trata del número correspondiente a junio de 2026 y está disponible para su descarga desde el 26 de ese mes. Consiste en un PDF de 65 páginas y de 5,8 MB. De la sección de Noticias (páginas 4 a 23) lo que me resultó más destacado fue:&#"
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Trilium: automatiza tus tareas",
-    "link": "https://elblogdelazaro.org/trilium-automatizacion-tareas-scripts/",
-    "fecha": "27/07/2026 02:00",
-    "contenido": "Por: Carlos M.Publicado el 27 de julio de 2026Cómo dejo que Trilium mueva mis tareas, genere la siguiente recurrente y monte pequeños dashboards para el homelab.Continuar leyendo →#Unraid #Homelab #Trilium #Selfhosted "
   },
   {
     "blog": "Feed de SL1200",
@@ -1981,6 +1890,13 @@
     "contenido": "Estos días han sido una locura en muchos aspectos y literalmente no he tenido tiempo para estar sentado para escribir nada. Estas líneas, de hecho, van a salir del tirón, porque aunque acabo de empezar mi periodo vacacional estoy suficientemente liado como para no poder dedicar mucho más tiempo a es"
   },
   {
+    "blog": "Blog on zurdeando",
+    "titulo": "Software migrations and setup",
+    "link": "https://blog.zurdala.es/blog/software-migrations-and-setup/",
+    "fecha": "25/07/2026 00:14",
+    "contenido": "Hallo,\nSince I posted an update on what I use, I thought it would be good to dump my current thoughts on some of the tools here.\nAround a year and a half I finally decided to buy a domain and slowly de-google my digital life. This is when I got zurdala.es.\nThe thing is that I am not fully satisfied "
+  },
+  {
     "blog": "El blog es mío",
     "titulo": "El enemigo en casa (segunda parte)",
     "link": "https://alex.corcoles.net/2026/07/el-enemigo-en-casa-segunda-parte",
@@ -1993,6 +1909,13 @@
     "link": "https://blog.jagedn.dev/blog/2026/blog.html",
     "fecha": "25/07/2026 00:00",
     "contenido": "Las 3 P al escribir son"
+  },
+  {
+    "blog": "Blog on zurdeando",
+    "titulo": "Tools as of July 2026",
+    "link": "https://blog.zurdala.es/blog/tools-as-of-july-2026/",
+    "fecha": "24/07/2026 23:59",
+    "contenido": "New year, new update of the used programmes, applications, and tools.\n\nPrevious version here\n\nIn bold, I have marked the updates:\n\n📨 eMail Service: Fastmail (checking out Infomaniak)\n📮 eMail Client: Fastmail and Thunderbird\n📝 Notes: back to Google Keep :(\n📆 Calendar: Fastmail (checking out Infomania"
   },
   {
     "blog": "Un blog",
@@ -2084,40 +2007,5 @@
     "link": "https://elprofejuan.com.ar/inicio",
     "fecha": "24/07/2026 01:18",
     "contenido": "\n\n\n\n \n\n\n\n\n\n"
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "(Demasiado) (Poco) Política",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/demasiado-poco-politica/",
-    "fecha": "24/07/2026 00:00",
-    "contenido": "En los últimos tiempos estoy leyendo Calibán y la bruja de Silvia Federici. No paro de repetirlo y alguien podría pensar que lo hago para darme pisto, para ganar puntos de intelectual o algo así. Nada más lejos de la realidad: lo hago porque me está volando la cabeza. No puedo evitar citarlo porque "
-  },
-  {
-    "blog": "NeoSite Blog",
-    "titulo": "Richard Stallman y las 4 libertades: El pilar ético del Software Libre",
-    "link": "http://blog.neosite.com.ar/post/richard-stallman-y-las-4-libertades-el-pilar-tico-del-software-libre",
-    "fecha": "24/07/2026 00:00",
-    "contenido": ""
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "El colombófilo de Flores y la cifra infinita (https://tiendaebook.com.ar/producto/el-colombofilo-de-flores-y-la-cifra-infinita/  )",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/el-colombofilo-de-flores-y-la-cifra-infinita-httpstiendaebookcomarproductoel-colombofilo-de-flores-y-la-cifra-infinita/",
-    "fecha": "24/07/2026 00:00",
-    "contenido": "Para el lector que no busca una distracción, sino un abismo; para quien entiende que la literatura no es un espejo plano, sino un prisma que refracta la realidad en infinitas dimensiones:\nTe invito a asomarte a la cornisa de una de las propuestas metafísicas y narrativas más singulares de la literat"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Hectáreas quemadas vistas con perspectiva real",
-    "link": "https://chancli.dev/blog/hectareas-quemadas-con-perspectiva.html",
-    "fecha": "24/07/2026 00:00",
-    "contenido": "Para no perder la mala costumbre de cada verano, los incendios están siendo protagonistas en España.\nEs raro no despertarte un día poner la radio y no escuchar ninguna noticia sobre nuevos incendios. Es una auténtica catástrofe natural, económica y muchas veces personal también.\nUno de los problemas"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Publicado Thunderbird 153. La nueva versión de soporte extendido de este cliente de correo de software libre",
-    "link": "https://victorhckinthefreeworld.com/2026/07/23/publicado-thunderbird-153-la-nueva-version-de-soporte-extendido-de-este-cliente-de-correo-de-software-libre/",
-    "fecha": "23/07/2026 14:39",
-    "contenido": "La comunidad que desarrolla el cliente de correo de software libre Thunderbird acaba de publicar la versión 153 de Thunderbird. Que será la nueva versión ESR."
   }
 ]
