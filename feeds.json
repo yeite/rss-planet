@@ -1,10 +1,73 @@
 [
   {
+    "blog": "Fabio.com.ar",
+    "titulo": "Irritante #20",
+    "link": "https://www.fabio.com.ar/10004-irritante-20",
+    "fecha": "24/08/2026 12:00",
+    "contenido": "     No me pod&eacute;s cagar as&iacute;\nQuiero dejarlos irritables, inquietos, inc&oacute;modos, odiando al mundo y con raz&oacute;n, as&iacute; que no pod&iacute;a faltar un buen posteo de \"Irritante\", la colecci&oacute;n m&aacute;s odiable de fotos que he conseguido, ya en su 20ma edici&oacute;n!"
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Regreso a mi querida Rokugan",
+    "link": "https://escritura.social/mcallus/regreso-a-mi-querida-rokugan",
+    "fecha": "24/08/2026 11:24",
+    "contenido": ""
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Los Brasileños Estrenan \"Eclipse Of The Rising Sun\" | Sunroad Va Por Un Nuevo Álbum",
+    "link": "https://www.delotroladometal.com.ar/2026/08/24/sunroad-va-por-un-nuevo-album/",
+    "fecha": "24/08/2026 10:35",
+    "contenido": "La banda brasileña Sunroad tiene su reputación bien ganada. Gracias a una extensa trayectoria, tanto...\nThe post Los Brasileños Estrenan \"Eclipse Of The Rising Sun\" | Sunroad Va Por Un Nuevo Álbum first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "El directorio ¡Blog!¡Blog!",
+    "link": "https://adrianperales.com/2026/08/el-directorio-blogblog/",
+    "fecha": "24/08/2026 08:49",
+    "contenido": "En 2023 pedía un movimiento de pequeña web hispanohablante, y ha llovido mucho desde entonces. Poco tiempo después nacía la denominación «web sencilla», que se trata en resumidas cuentas del mismo concepto, junto con la recopilación de recursos de Editora con carrito. Y en 2025 llegó el directorio. "
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Dos años escribiendo este blog",
+    "link": "https://matizeta.com/2026/08/24/dos-anos-escribiendo-este-blog/",
+    "fecha": "24/08/2026 08:11",
+    "contenido": "Un nuevo aniversario de esta web."
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Al final terminé viendo Star City, y…",
+    "link": "https://brucknerite.net/2026/08/al-final-termine-viendo-star-city-y.html",
+    "fecha": "24/08/2026 08:00",
+    "contenido": "For All Mankind es una serie donde nos muestran lo malos que son los soviéticos, pero  Star City, su spin-off, nos lleva al otro lado del Telón de Acero para que veamos… lo malos que son los soviéticos (gracias, Héctor, excelente resumen). Habrá spoilers, advertidos estáis."
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Alternativas a uBlock Origin funcionando en Manifest V3",
+    "link": "https://alt43.es/alternativas-a-ublock-origin-funcionando-en-manifest-v3/",
+    "fecha": "24/08/2026 07:30",
+    "contenido": "El 31 de agosto de 2026, Chrome retira definitivamente las extensiones bajo Manifest V2. Repasamos qué se pierde en privacidad con el cambio a Manifest V3, qué navegadores mantienen soporte todavía y cómo sustituir a uBlock Origin en escritorio y Android sin perder capacidad real de bloqueo."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Full Circle #231 (julio 2026)",
+    "link": "https://javiersam.uy/2026/08/full-circle-231-julio-2026.html",
+    "fecha": "24/08/2026 03:00",
+    "contenido": "Aquí va mi reseña de la edición #231 de Full Circle magazine. Se trata del número correspondiente a julio de 2026 y está disponible para su descarga desde el último día de ese mes. Consiste en un pdf de 56 páginas y de 4,6 mb. De la sección de Noticias (páginas 4 a 17) lo que me resultó más destacad"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Trilium: mi flujo de publicación con Hugo",
+    "link": "https://elblogdelazaro.org/trilium-flujo-publicacion-hugo/",
+    "fecha": "24/08/2026 02:00",
+    "contenido": "Por: Carlos M.Publicado el 24 de agosto de 2026Por qué dejé de escribir directamente en archivos Markdown sueltos y monté todo mi sistema de blog dentro de Trilium.Continuar leyendo →#Trilium #Hugo #Blog "
+  },
+  {
     "blog": "labaudric",
     "titulo": "DaVinci Resolve en Arch Linux",
     "link": "https://labaudric.net/blog/informatica-general/da-vinci-resolve-arch",
     "fecha": "23/08/2026 18:32",
-    "contenido": "\nDaVinci Resolve es un programa muy interesante que cubre la falta de Adobe Premiere. Si. Existen muchos programas con KDEnlive, Shotcut, Pitivi, Pitivi... ¿Pero desde mi modesto punto de vista, como lamentable editor de vídeos de mierda? Esa selección se queda muy corta frente a la alternativa come"
+    "contenido": "\nDaVinci Resolve es un programa muy interesante que cubre la falta de Adobe Premiere. Si. Existen muchos programas con KDEnlive, Shotcut, Pitivi... ¿Pero desde mi modesto punto de vista, como lamentable editor de vídeos de mierda? Esa selección se queda muy corta frente a la alternativa comercial. S"
   },
   {
     "blog": "El Blog de un informático que sueña con mejorar el mundo",
@@ -462,13 +525,6 @@
     "contenido": ""
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "La psicologa sin empatía",
-    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
-    "fecha": "17/08/2026 00:00",
-    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
-  },
-  {
     "blog": "JDRM",
     "titulo": "Eclipse Total, otro microrrelato",
     "link": "https://jdrm.info/eclipse-total-otro-microrrelato.html",
@@ -649,13 +705,6 @@
     "link": "https://cozykis.kisworld.es/analisis-de-jurnal-risa-dark-destiny/",
     "fecha": "14/08/2026 10:46",
     "contenido": " Una historia de terror sobrenatural en el que nuestras decisiones dictarán el destino de nuestres protagonistas\nLa entrada Análisis de Jurnal Risa: Dark Destiny se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista Con Jonatan \"Jono\" Samuelsson De Narnia | “X” Es Probablemente Uno De Los Albumes Más Amplios Y Variados Que Hemos Hecho”",
-    "link": "https://www.delotroladometal.com.ar/2026/08/14/x-es-probablemente-uno-de-los-albumes-mas-amplios-y-variados-que-hemos-hecho/",
-    "fecha": "14/08/2026 10:35",
-    "contenido": "Finalmente, y luego de algún tiempo, en el momento indicado llegó &#8220;X&#8221;, el décimo álbum...\nThe post Entrevista Con Jonatan \"Jono\" Samuelsson De Narnia | “X” Es Probablemente Uno De Los Albumes Más Amplios Y Variados Que Hemos Hecho” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Erica Fustero",
@@ -938,13 +987,6 @@
     "contenido": "Comenté hace poco en mi microblog que tenía ganas de hacer una página de «Uses» en la que explico lo que uso en mi día a día, tanto hardware como software, así que, aquí está. Hardware Portátil: Asus TUF Gaming F16 (i7, 32GB RAM, 5060) Mini PC: Intel NUC (NUC8i3BEH) (i3 8ª gen, 16GB RAM, [&#8230;]"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Siete días hasta el Rin",
-    "link": "https://www.fabio.com.ar/10019-siete-dias-hasta-el-rin",
-    "fecha": "10/08/2026 12:00",
-    "contenido": "    \nDurante la Guerra Fr&iacute;a las fuerzas de los distintos pa&iacute;ses del Pacto de Varsovia ten&iacute;an un plan secreto, era m&aacute;s bien un ejercicio militar, una simulaci&oacute;n, pero una con consecuencias muy serias: conquistar Alemania en siete d&iacute;as.\nRecuerden, Alemania est"
-  },
-  {
     "blog": "alt43",
     "titulo": "Por qué los virus no son el verdadero problema en Android",
     "link": "https://alt43.es/por-que-los-virus-no-son-el-verdadero-problema-en-android/",
@@ -957,13 +999,6 @@
     "link": "https://elblogdelazaro.org/cloudflare-analytics-activado-automaticamente/",
     "fecha": "10/08/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "TuLotero ha sido hackeada",
-    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
-    "fecha": "10/08/2026 00:00",
-    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1057,13 +1092,6 @@
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Web component para mostrar spoilers en tu blog",
-    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
-    "fecha": "08/08/2026 00:00",
-    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
-  },
-  {
     "blog": "Maverick HQ",
     "titulo": "weeknotes 26.2",
     "link": "https://maverick-hq.org/blog/weeknotes-26-2/",
@@ -1146,13 +1174,6 @@
     "link": "https://javiersam.uy/2026/08/deshabilitar-el-acceso-de-la-ia-a-su-cuenta-de-gmail.html",
     "fecha": "07/08/2026 12:00",
     "contenido": "El sábado pasado vi en Mastodon un hilo de @dbattistella@mstdn.ca (impulsado por Santiago). En él se explican los pasos para desactivar la inteligencia artificial de su cuenta de Gmail que desde fines de noviembre del año pasado se activó automáticamente en todas las cuentas. Me pareció muy interesa"
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtidos variados para muffaletta (o el bocadillo que quieras)",
-    "link": "https://puedellevarqueso.es/2026/08/encurtidos-variados-para-muffaletta-o-el-bocadillo-que-quieras/",
-    "fecha": "07/08/2026 11:17",
-    "contenido": "La muffaletta es un bocadillo italoamericano, que lleva capas y capas de todos los fiambres que te atrevas y al menos dos tipos de queso. Es difícil de imitar en casa porque se hace en un tipo de pan muy difícil de encontrar fuera de Nueva Orléans y tal vez otros puntos de EEUU como [&#8230;]"
   },
   {
     "blog": "Malagueños originales y libres",
@@ -1372,25 +1393,11 @@
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Ayer fue uno de los días más duros en el veterinario",
-    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
-    "fecha": "04/08/2026 00:00",
-    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
     "fecha": "03/08/2026 17:52",
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacines estilo japonés",
-    "link": "https://puedellevarqueso.es/2026/08/encurtido-de-calabacines-estilo-japones/",
-    "fecha": "03/08/2026 16:25",
-    "contenido": "Inventé esta receta cuando me apetecía comer calabacines crudos. Llamarlo encurtido puede llevar a error, porque no es una conserva, pero necesita un tiempo de reposo (mínimo dos horas) y aguanta varios días en el frigorífico. Es fácil encontrar recetas de ensaladas y encurtidos de pepino en páginas"
   },
   {
     "blog": "",
@@ -1750,13 +1757,6 @@
     "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Quitando un avispero en casa",
-    "link": "https://chancli.dev/blog/quitar-avispero.html",
-    "fecha": "29/07/2026 00:00",
-    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
-  },
-  {
     "blog": "gorkula.com",
     "titulo": "Metric en Aragon Ballroom 2026",
     "link": "https://www.gorkula.com/metric-chicago-2026",
@@ -1832,13 +1832,6 @@
     "link": "https://thejnx.bearblog.dev/simple-title/",
     "fecha": "28/07/2026 08:29",
     "contenido": "Pagina sobre RSS recomendada por Onlykievv - RSS BridgeEsta web obtiene el RSS de prácticamente cualquier pagina: Reddit, Telegram, Twitter, etc. Compatible con cualquier lector RSS, se recomienda darle un vistazo a las instancias publicas por si algún servicio no funciona en la principal\nCodigo Fue"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Mi lugar de trabajo y ocio",
-    "link": "https://matizeta.com/2026/07/28/mi-lugar-de-trabajo-y-ocio/",
-    "fecha": "28/07/2026 08:11",
-    "contenido": "Te muestro mi espacio de trabajo."
   },
   {
     "blog": "AsturGeek V3",
@@ -2000,19 +1993,5 @@
     "link": "https://regioncuatro.blog/vacaciones/",
     "fecha": "25/07/2026 15:00",
     "contenido": "Al viajar para escapar de la rutina siempre hay que recordar que lo estamos haciendo por placer. Porque es muy fácil que entre los apuros, el conducir, los horarios, y las reservaciones, el trámite del placer se parezca mucho a las obligaciones del día a día. Es por eso que a veces la cosa cansa y e"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Actividades Julio 2026",
-    "link": "https://labaudric.net/blog/noticias/actividades-julio-2026",
-    "fecha": "25/07/2026 12:31",
-    "contenido": "Otro mes cargadito de mis mierdas, bastante contento.\nEn lo que respeta esta web, sigo la misma dinámica, para bien o para mal, que la del mes pasado: estoy pasando del apartado cápsula Gemini, y poniendole features y contenido a esta web http.\n\nDestaca sobre todo, ¡migración completa de mis canales"
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "Semana 30/2026",
-    "link": "https://www.macram.es/posts/2026/07/semana-30-2026/",
-    "fecha": "25/07/2026 09:06",
-    "contenido": "Estos días han sido una locura en muchos aspectos y literalmente no he tenido tiempo para estar sentado para escribir nada. Estas líneas, de hecho, van a salir del tirón, porque aunque acabo de empezar mi periodo vacacional estoy suficientemente liado como para no poder dedicar mucho más tiempo a es"
   }
 ]
