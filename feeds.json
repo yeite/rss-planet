@@ -1,5 +1,19 @@
 [
   {
+    "blog": "labaudric",
+    "titulo": "DaVinci Resolve en Arch Linux",
+    "link": "https://labaudric.net/blog/informatica-general/da-vinci-resolve-arch",
+    "fecha": "23/08/2026 18:32",
+    "contenido": "\nDaVinci Resolve es un programa muy interesante que cubre la falta de Adobe Premiere. Si. Existen muchos programas con KDEnlive, Shotcut, Pitivi, Pitivi... ¿Pero desde mi modesto punto de vista, como lamentable editor de vídeos de mierda? Esa selección se queda muy corta frente a la alternativa come"
+  },
+  {
+    "blog": "El Blog de un informático que sueña con mejorar el mundo",
+    "titulo": "Cómo saltar los bloqueos de la liga",
+    "link": "https://jesuspavonabian.es/post/saltar_bloqueos_liga/",
+    "fecha": "23/08/2026 15:38",
+    "contenido": "Un post rápido y sencillito, de esos que me gustan a mi.\nA riesgo de ser poco patriota, he de decir que vivimos en un país de pandereta; cada vez que se juega a la pelotita de los cojones, servicios legítimos que no tienen nada que ver con dicha pelotita dejan de funcionar. Y todo porque un señor, q"
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Bardoma: En La Zona Letal | En La Zona Correcta Del Metal",
     "link": "https://www.delotroladometal.com.ar/2026/08/23/en-la-zona-correcta-del-metal/",
@@ -446,6 +460,13 @@
     "link": "https://www.quiroptero.blog/2026/08/anuncios/",
     "fecha": "17/08/2026 06:00",
     "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "La psicologa sin empatía",
+    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
+    "fecha": "17/08/2026 00:00",
+    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
   },
   {
     "blog": "JDRM",
@@ -938,6 +959,20 @@
     "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "TuLotero ha sido hackeada",
+    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
+    "fecha": "10/08/2026 00:00",
+    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "No volverás a consumir contenido después de leer esto",
+    "link": "https://guillermolatorre.com/clips/no-volveras-a-consumir-contenido-despues-de-leer-esto",
+    "fecha": "09/08/2026 17:30",
+    "contenido": "La fluidez es la trampa que te hace sentir inteligente mientras dejas de pensar.Ir al enlace"
+  },
+  {
     "blog": "Tecno y Soft",
     "titulo": "Tengo un blog, no escribo para el algoritmo",
     "link": "https://tecnoysoft.com/2026/08/09/tengo-un-blog-no-escribo-para-el-algoritmo/",
@@ -1022,6 +1057,13 @@
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Web component para mostrar spoilers en tu blog",
+    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
+    "fecha": "08/08/2026 00:00",
+    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
+  },
+  {
     "blog": "Maverick HQ",
     "titulo": "weeknotes 26.2",
     "link": "https://maverick-hq.org/blog/weeknotes-26-2/",
@@ -1041,6 +1083,34 @@
     "link": "https://labaudric.net/blog/musica/primeras-impresiones-electric-callboy-tanzneid",
     "fecha": "07/08/2026 22:53",
     "contenido": "\n\nWow.\nEstrenando la sección musical por todo lo alto.\nElectric Callboy ha publicado en yutuf una vista previa de Tanzneid. Es un disco de 46 minutos pero llevo dos horas escuchándolo. He parado de jugar al Forza Horizon 6 para poner a redactar esto mientras... Sigo escuchándolo.\nCapítulo 1: Context"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "taken.",
+    "link": "https://guillermolatorre.com/clips/taken",
+    "fecha": "07/08/2026 22:40",
+    "contenido": "Demostración de todos los datos que pueden obtenerse de ti solo por entrar a una página web.Ir al enlace"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Neat Calendar",
+    "link": "https://guillermolatorre.com/clips/neat-calendar",
+    "fecha": "07/08/2026 22:35",
+    "contenido": "Un calendario del año completo, a pantalla completa y también imprimible. Permite configurarlo mediante parámetros en la URL: idioma, fines de semana alineados, color del resaltado...Ir al enlace"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Tella | All-in-One Screen Recorder for Mac, Windows & Chrome",
+    "link": "https://guillermolatorre.com/clips/tella-all-in-one-screen-recorder-for-mac-windows-chrome",
+    "fecha": "07/08/2026 22:35",
+    "contenido": "Grabación y edición de videos multilataforma. No lo he probado, pero tiene muy buena pinta.Ir al enlace"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Paz veraniega",
+    "link": "https://guillermolatorre.com/fotolog/paz-veraniega",
+    "fecha": "07/08/2026 16:50",
+    "contenido": "Responder por email."
   },
   {
     "blog": "Mi perra vida",
@@ -1300,6 +1370,13 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quienes-se-marchan-de-omelas/",
     "fecha": "04/08/2026 00:00",
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Ayer fue uno de los días más duros en el veterinario",
+    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
+    "fecha": "04/08/2026 00:00",
+    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
   },
   {
     "blog": "Victorhck in the free world",
@@ -1673,6 +1750,13 @@
     "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Quitando un avispero en casa",
+    "link": "https://chancli.dev/blog/quitar-avispero.html",
+    "fecha": "29/07/2026 00:00",
+    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
+  },
+  {
     "blog": "gorkula.com",
     "titulo": "Metric en Aragon Ballroom 2026",
     "link": "https://www.gorkula.com/metric-chicago-2026",
@@ -1930,96 +2014,5 @@
     "link": "https://www.macram.es/posts/2026/07/semana-30-2026/",
     "fecha": "25/07/2026 09:06",
     "contenido": "Estos días han sido una locura en muchos aspectos y literalmente no he tenido tiempo para estar sentado para escribir nada. Estas líneas, de hecho, van a salir del tirón, porque aunque acabo de empezar mi periodo vacacional estoy suficientemente liado como para no poder dedicar mucho más tiempo a es"
-  },
-  {
-    "blog": "Blog on zurdeando",
-    "titulo": "Software migrations and setup",
-    "link": "https://blog.zurdala.es/blog/software-migrations-and-setup/",
-    "fecha": "25/07/2026 00:14",
-    "contenido": "Hallo,\nSince I posted an update on what I use, I thought it would be good to dump my current thoughts on some of the tools here.\nAround a year and a half I finally decided to buy a domain and slowly de-google my digital life. This is when I got zurdala.es.\nThe thing is that I am not fully satisfied "
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "El enemigo en casa (segunda parte)",
-    "link": "https://alex.corcoles.net/2026/07/el-enemigo-en-casa-segunda-parte",
-    "fecha": "25/07/2026 00:00",
-    "contenido": "\n  \n    Escrib&#237; hace unos meses sobre los peligros de ciertos dispositivos tipo c&#225;maras dom&#233;sticas y dem&#225;s.\n  \n  El siguiente art&#237;culo comienza a darnos datos nuevos y preocupantes:\n  \n    FBI Seizes NetNut Proxy Platform, Popa Botnet - Krebs on Security\n  \n  ... found 42 pe"
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "Las 3 Ps al escribir blog",
-    "link": "https://blog.jagedn.dev/blog/2026/blog.html",
-    "fecha": "25/07/2026 00:00",
-    "contenido": "Las 3 P al escribir son"
-  },
-  {
-    "blog": "Blog on zurdeando",
-    "titulo": "Tools as of July 2026",
-    "link": "https://blog.zurdala.es/blog/tools-as-of-july-2026/",
-    "fecha": "24/07/2026 23:59",
-    "contenido": "New year, new update of the used programmes, applications, and tools.\n\nPrevious version here\n\nIn bold, I have marked the updates:\n\n📨 eMail Service: Fastmail (checking out Infomaniak)\n📮 eMail Client: Fastmail and Thunderbird\n📝 Notes: back to Google Keep :(\n📆 Calendar: Fastmail (checking out Infomania"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Fox en Linux, via Android",
-    "link": "https://nachof.blog/posts/2026/fox-en-linux-via-android/",
-    "fecha": "24/07/2026 23:15",
-    "contenido": "Este post resulta que al final es casi irrelevante. Dejé una nota al final, pero igual lo publico.\n\nComo contexto, FoxWQ es un servidor de go chino, que tiene montones de personas conectas en esencialmente cualquier momento, por lo que siempre se puede conseguir un partido bastante rápido.\nEl proble"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Immich - Prueba de migración de V2 a V3",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-07-25-migracion-immich-1/",
-    "fecha": "24/07/2026 22:00",
-    "contenido": "Llega un momento en la vida de todo informático en el que te toca actualizar un servicio local que, solo de pensarlo, te provoca pesadillas 😱. En mi caso, ese servicio ha sido Immich.\nPor ese motivo he preparado este artículo, en el que he recopilado todo el proceso que he seguido para realizar la m"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "570. Días de playa",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/07/570-dias-de-playa.html",
-    "fecha": "24/07/2026 19:01",
-    "contenido": "&nbsp; &nbsp; El chófer nunca tenía que buscar aparcamiento para que el rico veranease en cualquier rincón de la costa. Siempre había alguna plaza de su propiedad donde dejar el vehículo de alta gama.&nbsp; &nbsp; Desde su embarcación de lujo, el rico se divertía tanto como se relajaba observando co"
-  },
-  {
-    "blog": "Plutoide Marcianadas",
-    "titulo": "Aulik y Pulsar - Tablas voladoras",
-    "link": "https://plutoidemarcianadas.blogspot.com/2026/07/aulik-y-pulsar-tablas-voladoras.html",
-    "fecha": "24/07/2026 18:55",
-    "contenido": "Finalizado: 2026-07-24Aulik y Pulsar paseando con sus tablas voladoras en uno de los caminos de Ciudad Aer...  › Ver más »¡Patina todo el día!"
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 30.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-30/",
-    "fecha": "24/07/2026 17:56",
-    "contenido": "Relato – Doctor Nómada (sexta) &#124; Bonus track\n\nDoctor Nómada (sexta parte)\nLeer la quinta parte\nPasaron varios minutos, más largos de lo deseado, que sirvieron para que los viajantes comenzaran a barajar hipótesis sobre lo ocurrido. Nadie se animaba a abrir la puerta del compartimento para entra"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 30 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/07/24/opensuse-tumbleweed-revision-de-la-semana-30-de-2026/",
-    "fecha": "24/07/2026 15:42",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Haven SSH Client: un cliente SSH avanzado",
-    "link": "https://voidnull.es/haven-ssh-client-un-cliente-ssh-avanzado/",
-    "fecha": "24/07/2026 15:30",
-    "contenido": "Cliente SSH avanzado para Android con soporte VNC, RDP y SFTP, ideal para administrar servidores y escritorios remotos desde el móvil."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Artículo: Conociendo y extendiendo la vida de tu SSD",
-    "link": "https://interlan.ec/blog/2026/07/24/articulo-conociendo-y-extendiendo-la-vida-de-tu-ssd/",
-    "fecha": "24/07/2026 14:00",
-    "contenido": "Los discos SSD han pasado de ser un componente prohibitivo a ser sumamente accesible y de vuelta a ser prohibitivo. Sin una solución a la crisis provocada por la locura de la inteligencia artificial, ahora es buena idea tomar pasos necesarios para evitar que los componentes se dañen. Así que eso har"
-  },
-  {
-    "blog": "",
-    "titulo": "Nuevo Disco de Mago de Oz.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/07/24/nuevo-disco-de-mago-de-oz/",
-    "fecha": "24/07/2026 13:35",
-    "contenido": "Ye se Anuncio la salida del nuevo disco de Mago de Oz. El mismo esta anunciado para el invierno de 2026 (Invierno España). Pronto tendremos novedades."
   }
 ]
