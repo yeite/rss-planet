@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 24 Aug 2026 00:38:16 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 06:34:31 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>DaVinci Resolve en Arch Linux</title>
+<link>https://labaudric.net/blog/informatica-general/da-vinci-resolve-arch</link>
+<guid isPermaLink="true">https://labaudric.net/blog/informatica-general/da-vinci-resolve-arch</guid>
+<pubDate>Sun, 23 Aug 2026 18:32:00 GMT</pubDate>
+<category>labaudric</category>
+<description><![CDATA[DaVinci Resolve es un programa muy interesante que cubre la falta de Adobe Premiere. Si. Existen muchos programas con KDEnlive, Shotcut, Pitivi, Pitivi... ¿Pero desde mi modesto punto de vista, como lamentable editor de vídeos de mierda? Esa selección se queda muy corta frente a la alternativa come<br><br><strong>Fuente:</strong> labaudric]]></description>
+</item>
+<item>
+<title>Cómo saltar los bloqueos de la liga</title>
+<link>https://jesuspavonabian.es/post/saltar_bloqueos_liga/</link>
+<guid isPermaLink="true">https://jesuspavonabian.es/post/saltar_bloqueos_liga/</guid>
+<pubDate>Sun, 23 Aug 2026 15:38:00 GMT</pubDate>
+<category>El Blog de un informático que sueña con mejorar el mundo</category>
+<description><![CDATA[Un post rápido y sencillito, de esos que me gustan a mi. A riesgo de ser poco patriota, he de decir que vivimos en un país de pandereta; cada vez que se juega a la pelotita de los cojones, servicios legítimos que no tienen nada que ver con dicha pelotita dejan de funcionar. Y todo porque un señor, q<br><br><strong>Fuente:</strong> El Blog de un informático que sueña con mejorar el mundo]]></description>
+</item>
 <item>
 <title>Bardoma: En La Zona Letal | En La Zona Correcta Del Metal</title>
 <link>https://www.delotroladometal.com.ar/2026/08/23/en-la-zona-correcta-del-metal/</link>
@@ -200,22 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Fri, 21 Aug 2026 00:25:00 GMT</pubDate>
 <category>La Madre Que Parió Al Pato Negro</category>
 <description><![CDATA[&amp;nbsp; &amp;nbsp; Solano no es viento ni está caliente. Lo cual no significa que pueda estarlo en alguna otra ocasión. Solano tan solo es un nombre desafortunado, impreso en su DNI y escrito a mano en su partida de nacimiento.&amp;nbsp; &amp;nbsp; Un número más en la base de datos. Otro desconocido entre descon<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
-</item>
-<item>
-<title>Kup: copias de seguridad en Plasma</title>
-<link>https://nevat.neocities.org/kup_21082026.html</link>
-<guid isPermaLink="true">https://nevat.neocities.org/kup_21082026.html</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-<category>NevatBlog</category>
-<description><![CDATA[Las copias de seguridad, algo que a todos nos da pereza hacer pero son necesarias (y algunos se dan cuenta cuando tienes una pérdida de datos). Kup simplifica y automatiza este tedioso proceso.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
-</item>
-<item>
-<title>Mejorando el servidor (Seguridad)</title>
-<link>https://elprofejuan.com.ar/mejorando-el-servidor-seguridad</link>
-<guid isPermaLink="true">https://elprofejuan.com.ar/mejorando-el-servidor-seguridad</guid>
-<pubDate>Thu, 20 Aug 2026 23:55:00 GMT</pubDate>
-<category>El Sitio de Manieflo</category>
-<description><![CDATA[Usando el comando sudo ss -npltu, puede ver que tenía escucha en puertos y direcciones que exponían mi servidor.<br><br><strong>Fuente:</strong> El Sitio de Manieflo]]></description>
 </item>
 
 </channel>
