@@ -1,5 +1,40 @@
 [
   {
+    "blog": "Fabio.com.ar",
+    "titulo": "Soluciones libres para tiempos modernos: Salir de TeamViewer",
+    "link": "https://www.fabio.com.ar/10005-soluciones-libres-para-tiempos-modernos-salir-de-teamviewer",
+    "fecha": "25/08/2026 12:00",
+    "contenido": "    \nHace un tiempo le instal&eacute; una nueva PC a mi viejo y le dej&eacute; instalado un TeamViewer para conectarme en caso de necesitar adminstrar su computadora, pero he aqu&iacute; el tema a resolver.\nTeamViewer es un producto cerrado, privativo y, si bien tiene una versi&oacute;n gratuita m&a"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Banda Griega Anuncia Nuevo Disco | Royal Altar Se Prepara Para Otra Batalla",
+    "link": "https://www.delotroladometal.com.ar/2026/08/25/royal-altar-se-prepara-para-otra-batalla/",
+    "fecha": "25/08/2026 12:00",
+    "contenido": "El Heavy Metal tradicional, épico y combativo no parece ser uno de subgéneros más buscados...\nThe post La Banda Griega Anuncia Nuevo Disco | Royal Altar Se Prepara Para Otra Batalla first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Ultrapool",
+    "link": "https://cozykis.kisworld.es/analisis-de-ultrapool/",
+    "fecha": "25/08/2026 09:27",
+    "contenido": "Ultrapool es un roguelike inspirado en el billar con unas reglas y bolas de lo más curiosas. El objetivo está claro y es que nos aparecerá en todo el medio de la mesa. No hace falta meter todas las bolas; de igual manera, quedarnos sin ninguna esfera sobre el tablero hará que ganemos la partida. [&#"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Tengo un pódcast nuevo",
+    "link": "https://adrianperales.com/2026/08/tengo-un-podcast-nuevo/",
+    "fecha": "25/08/2026 08:49",
+    "contenido": "Ya lo avisé hace unos días en Divagaciones, pero lo dejo también por aquí para quienes gustan del formato texto. Ahora que hemos publicado el programa número 60 de Radio Al compás, que será el último en una temporada para descansar de unos niveles de guion y edición muy exigentes, me embarco con mis"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Cosmos47",
+    "link": "https://matizeta.com/2026/08/25/cosmos47/",
+    "fecha": "25/08/2026 08:11",
+    "contenido": "Una red social creada por un programador cansado de las redes sociales."
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "579. Siempre les pasa a otros",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/08/579-siempre-les-pasa-otros.html",
@@ -103,6 +138,13 @@
     "link": "https://javiersam.uy/2026/08/full-circle-231-julio-2026.html",
     "fecha": "24/08/2026 03:00",
     "contenido": "Aquí va mi reseña de la edición #231 de Full Circle magazine. Se trata del número correspondiente a julio de 2026 y está disponible para su descarga desde el último día de ese mes. Consiste en un pdf de 56 páginas y de 4,6 mb. De la sección de Noticias (páginas 4 a 17) lo que me resultó más destacad"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Trilium: mi flujo de publicación con Hugo",
+    "link": "https://elblogdelazaro.org/trilium-flujo-publicacion-hugo/",
+    "fecha": "24/08/2026 02:00",
+    "contenido": "Por: Carlos M.Publicado el 24 de agosto de 2026Por qué dejé de escribir directamente en archivos Markdown sueltos y monté todo mi sistema de blog dentro de Trilium.Continuar leyendo →#Trilium #Hugo #Blog "
   },
   {
     "blog": "labaudric",
@@ -686,13 +728,6 @@
     "contenido": "Buwan Ng Wika es un festival que se ha organizado en Steam con el fin de dar visibilidad a juegos narrativos hechos en Filipinas, y como persona a la que le encantan este tipo de juegos, no me he podido resistir a probar y recomendar unos pocos. When I&#8217;m Not Drawing Un RPG en el [&#8230;]\nLa e"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Un Repaso Por Tres Discos Legendarios | Los Compilados Del White Metal En Argentina",
-    "link": "https://www.delotroladometal.com.ar/2026/08/15/los-compilados-del-white-metal-en-argentina/",
-    "fecha": "15/08/2026 10:35",
-    "contenido": "La escena del denominado White Metal en Argentina siempre fue emergente, totalmente underground y generalmente...\nThe post Un Repaso Por Tres Discos Legendarios | Los Compilados Del White Metal En Argentina first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "Palantir en Colombia – ¡Hola, amigo!",
     "link": "https://gatooscuro.xyz/palantir-en-colombia-hola-amigo/",
@@ -966,20 +1001,6 @@
     "contenido": "Hace más de un año les mostré la forma de comprar Bitcoin sin KYC a través de Telegram usando el bot lnp2pbot. Esa, para mí, era la forma más cómoda [&#8230;]"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "TinyFileManager y Adminer, las herramientas de todo hack-webmaster",
-    "link": "https://www.fabio.com.ar/10020-tinyfilemanager-y-adminer-las-herramientas-de-todo-hack-webmaster",
-    "fecha": "11/08/2026 12:00",
-    "contenido": "    \nMuchas veces ten&eacute;s que resolver un quilombo en el servidor de un cliente, y muchas veces el tipo no tiene acceso a su propio servidor, el proveedor lo tiene de los cojones para poder cobrarle de m&aacute;s, se niega a darle un backup aunque el sitio sea del cliente, se niega a darle acce"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Gemporium",
-    "link": "https://cozykis.kisworld.es/analisis-de-gemporium/",
-    "fecha": "11/08/2026 10:44",
-    "contenido": "Con un bucle tan sencillo como adictivo nos tendrá horas a pico y pala en la mina para pagar la deuda millonaria\nLa entrada Análisis de Gemporium se publicó primero en CozyKis."
-  },
-  {
     "blog": "Erica Fustero",
     "titulo": "Sobre escanear",
     "link": "https://www.ericafustero.com/2026-08-sobre-escanear",
@@ -1041,6 +1062,13 @@
     "link": "https://alt43.es/por-que-los-virus-no-son-el-verdadero-problema-en-android/",
     "fecha": "10/08/2026 07:30",
     "contenido": "Los antivirus para Android ofrecen soluciones a un problema muy minoritario. El malware que afecta a dispositivos en 2026 llega por ingeniería social, firmware ya comprometido de fábrica o permisos mal concedidos; no por los vectores de infección propios de un virus. Entender cómo funciona el modelo"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Cloudflare Analytics activado en el blog",
+    "link": "https://elblogdelazaro.org/cloudflare-analytics-activado-automaticamente/",
+    "fecha": "10/08/2026 02:00",
+    "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
   },
   {
     "blog": "Chancli.dev",
@@ -1526,6 +1554,13 @@
     "contenido": "Tengo a lo largo del día diferentes modos. Uno de ellos es el modo «dormir» en el que NO tengo notificaciones de nada salvo llamadas/sms de x números de la agenda Jugando con los modos puedes evitar llamadas indeseadas. Pero siempre quedan esas horas del día en las que permites que te llamen sin ten"
   },
   {
+    "blog": "Eterno aprendiz",
+    "titulo": "",
+    "link": "https://altgr.xyz/2026/08/02/2777/",
+    "fecha": "03/08/2026 02:56",
+    "contenido": "Querido diario bitácora: Hoy hice mi primer pesto y hallo que no me quedó nada de mal. Mis comensalas opinaron lo mismo, lo que me hace sentir orgulloso de mis pocas habilidades en la cocina. Hoy fue un lindo día."
+  },
+  {
     "blog": "Diego Cano",
     "titulo": "El templo de Arnaz",
     "link": "https://blep.org/El-templo-de-Arnaz",
@@ -1792,13 +1827,6 @@
     "contenido": "Volvo El Departamento de Comercio de los Estados Unidos saca a Polestar (Volvo / Geely) del mercado Americano, por ser fabricado en China.&#160; No se puede vender ningún modelo 2027, y tiene que agotar el stock existente. https://arstechnica.com/cars/2026/03/polestar-3-production-consolidated-to-th"
   },
   {
-    "blog": "matizeta",
-    "titulo": "Convierte cualquier dispositivo en un WriterDeck usando un pendrive",
-    "link": "https://matizeta.com/2026/07/29/convierte-cualquier-dispositivo-en-un-writerdeck-usando-un-pendrive/",
-    "fecha": "29/07/2026 08:11",
-    "contenido": "Dispositivos de escritura dedicados."
-  },
-  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Skynet no se despertó, se trata de marketing para evadir responsabilidades",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/07/29/20260729-skynet-no-se-desperto/",
@@ -1818,6 +1846,13 @@
     "link": "https://www.quiroptero.blog/2026/07/leer-r%C3%A1pido/",
     "fecha": "29/07/2026 06:00",
     "contenido": "Que leo rápido me dicen. No estoy de acuerdo."
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Rosalía en Movistar Arena",
+    "link": "https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/",
+    "fecha": "29/07/2026 02:30",
+    "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
   },
   {
     "blog": "Chancli.dev",
@@ -1974,11 +2009,25 @@
     "contenido": "He estado verificando mi repositorio con enlaces sobre los &#8220;posibles&#8221; artículos y vaya, tengo muy buen material, aunque… muy poco espacio para poder desarrollarlo. Además, me desanima un poco no\nSeguir leyendo  Tres alternativas a las plataformas tradicionales: Kloak, Zerion y Cryptgeon\n"
   },
   {
+    "blog": "Eterno aprendiz",
+    "titulo": "Conversatorio Musical con Angelo Pierattini en La Tienda Nacional",
+    "link": "https://altgr.xyz/2026/07/27/conversatorio-musical-con-angelo-pierattini-en-la-tienda-nacional/",
+    "fecha": "27/07/2026 03:52",
+    "contenido": "Quienes compramos en preventa el vinilo del Disco Rojo de Weichafe tuvimos el privilegio de ser invitados a una sesión íntima junto a Angelo Pierattini en La Tienda Nacional, la tarde miércoles 22 de julio, para escuchar algunas de sus canciones y conseguir unas rayitas en los discos. Lo que iba a s"
+  },
+  {
     "blog": "JavierSam",
     "titulo": "Full Circle #230 (junio 2026)",
     "link": "https://javiersam.uy/2026/07/full-circle-230-junio-2026.html",
     "fecha": "27/07/2026 03:00",
     "contenido": "Aquí va mi reseña de la edición #230 de Full Circle magazine. Se trata del número correspondiente a junio de 2026 y está disponible para su descarga desde el 26 de ese mes. Consiste en un PDF de 65 páginas y de 5,8 MB. De la sección de Noticias (páginas 4 a 23) lo que me resultó más destacado fue:&#"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Trilium: automatiza tus tareas",
+    "link": "https://elblogdelazaro.org/trilium-automatizacion-tareas-scripts/",
+    "fecha": "27/07/2026 02:00",
+    "contenido": "Por: Carlos M.Publicado el 27 de julio de 2026Cómo dejo que Trilium mueva mis tareas, genere la siguiente recurrente y monte pequeños dashboards para el homelab.Continuar leyendo →#Unraid #Homelab #Trilium #Selfhosted "
   },
   {
     "blog": "Feed de SL1200",
@@ -2014,12 +2063,5 @@
     "link": "https://elrefugiodeunnerd.es/2026/07/26/si-uso-linux-y-que/",
     "fecha": "26/07/2026 17:08",
     "contenido": "Uso Linux desde hace más de 4 años. Totalmente desde hace 1 año y medio, y digo, totalmente me refiero en mi día a día. Yo tengo Windows instalado y aunque, a día de hoy lo uso poco, lo conservo. Supongo que Windows hace cosas bien… Soy un defensor de Linux, y me gusta convencer [&#8230;]"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Incendios forestales",
-    "link": "https://blog.impermanente.es/2026/07/26/incendios-forestales.html",
-    "fecha": "26/07/2026 10:08",
-    "contenido": "Este blog no suele ir de estos temas, pero cada verano vuelve la misma conversación y casi siempre con las mismas ideas equivocadas. Así que he reunido lo que hoy se sabe con datos, explicado lo más llano que he podido.\nCasi todos los incendios los provoca alguien\n\n81% de los incendios en España tie"
   }
 ]
