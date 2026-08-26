@@ -1,5 +1,26 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "La belleza de lo efímero en \"The Centennial Case\"",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/08/26/20260826-centennial-case-shijima/",
+    "fecha": "26/08/2026 08:00",
+    "contenido": "¿Y si alguien en el entorno de los Shijima lograse descubrir una fórmula de la eterna juventud?"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Primer trailer con gameplay de Mega Man Dual Override",
+    "link": "https://picandocodigo.net/2026/trailer-gameplay-mega-man-dual-override/",
+    "fecha": "25/08/2026 22:22",
+    "contenido": "Esta noche se transmitió en vivo la Gamescom Opening Night Live. Capcom presentó un nuevo trailer de Mega Man Dual Override, la duodécima entrega de la serie, que celebrará el 40° aniversario. En el tráiler podemos ver un avance de las mecánicas nuevas, jefes y personajes.\nEl post Primer trailer con"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Podcasts que no son una mierda",
+    "link": "https://56k.es/fanta/podcasts-que-no-son-una-mierda/",
+    "fecha": "25/08/2026 15:14",
+    "contenido": "Voy a ir recopilando contenido de podcasts que no sea una mierda en este post. 💾 Tamayazo el podcast &#8211; Juanjo Cubero y Aitor Sánchez &#8211; RTVE 💾 Meloni – Un Marqués en La Gomera &#8211; Aldara Dieguez &#8211; Subterfuge Radio 💾 El rap no se toca: contra los raperos fachas &#8211; Youssef M."
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Soluciones libres para tiempos modernos: Salir de TeamViewer",
     "link": "https://www.fabio.com.ar/10005-soluciones-libres-para-tiempos-modernos-salir-de-teamviewer",
@@ -138,13 +159,6 @@
     "link": "https://javiersam.uy/2026/08/full-circle-231-julio-2026.html",
     "fecha": "24/08/2026 03:00",
     "contenido": "Aquí va mi reseña de la edición #231 de Full Circle magazine. Se trata del número correspondiente a julio de 2026 y está disponible para su descarga desde el último día de ese mes. Consiste en un pdf de 56 páginas y de 4,6 mb. De la sección de Noticias (páginas 4 a 17) lo que me resultó más destacad"
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Trilium: mi flujo de publicación con Hugo",
-    "link": "https://elblogdelazaro.org/trilium-flujo-publicacion-hugo/",
-    "fecha": "24/08/2026 02:00",
-    "contenido": "Por: Carlos M.Publicado el 24 de agosto de 2026Por qué dejé de escribir directamente en archivos Markdown sueltos y monté todo mi sistema de blog dentro de Trilium.Continuar leyendo →#Trilium #Hugo #Blog "
   },
   {
     "blog": "labaudric",
@@ -609,13 +623,6 @@
     "contenido": ""
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "La psicologa sin empatía",
-    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
-    "fecha": "17/08/2026 00:00",
-    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
-  },
-  {
     "blog": "JDRM",
     "titulo": "Eclipse Total, otro microrrelato",
     "link": "https://jdrm.info/eclipse-total-otro-microrrelato.html",
@@ -1022,13 +1029,6 @@
     "contenido": "Estoy cansando del boludo proactivo y que no respeten el “si funciona, no lo toques”. Me pasa en el ámbito laboral, pero lo veo en otros lados también. Hasta en la moda de meterle IA hasta a la tostadora."
   },
   {
-    "blog": "Picando Código",
-    "titulo": "Chicles Bazooka",
-    "link": "https://picandocodigo.net/2026/chicles-bazooka/",
-    "fecha": "10/08/2026 17:00",
-    "contenido": "¿Te acuerdas de los chicle Bazooka? ¡Volvieron! En forma de... Bueno, no, nunca se fueron. Siguen estando, y recientemente compré una bolsa de chicles Bazooka.\nEl post Chicles Bazooka fue publicado originalmente en Picando Código."
-  },
-  {
     "blog": "Bitácora de fernand0",
     "titulo": "Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas",
     "link": "https://blog.elmundoesimperfecto.com/2026/08/10/ia-asistente-sustituto/",
@@ -1062,20 +1062,6 @@
     "link": "https://alt43.es/por-que-los-virus-no-son-el-verdadero-problema-en-android/",
     "fecha": "10/08/2026 07:30",
     "contenido": "Los antivirus para Android ofrecen soluciones a un problema muy minoritario. El malware que afecta a dispositivos en 2026 llega por ingeniería social, firmware ya comprometido de fábrica o permisos mal concedidos; no por los vectores de infección propios de un virus. Entender cómo funciona el modelo"
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Cloudflare Analytics activado en el blog",
-    "link": "https://elblogdelazaro.org/cloudflare-analytics-activado-automaticamente/",
-    "fecha": "10/08/2026 02:00",
-    "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "TuLotero ha sido hackeada",
-    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
-    "fecha": "10/08/2026 00:00",
-    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1167,13 +1153,6 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quien-pierde-las-formas/",
     "fecha": "08/08/2026 00:00",
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Web component para mostrar spoilers en tu blog",
-    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
-    "fecha": "08/08/2026 00:00",
-    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
   },
   {
     "blog": "Maverick HQ",
@@ -1484,13 +1463,6 @@
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Ayer fue uno de los días más duros en el veterinario",
-    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
-    "fecha": "04/08/2026 00:00",
-    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
@@ -1545,20 +1517,6 @@
     "link": "https://alt43.es/utiq-la-supercookie-de-las-operadoras/",
     "fecha": "03/08/2026 07:30",
     "contenido": "Utiq es el identificador publicitario que Movistar, Orange, Vodafone y sus marcas asociadas generan a nivel de tu línea móvil o de fibra, capaz de reconocerte durante 90 días aunque cambies de navegador o de dispositivo. Comentamos su funcionamiento y qué medidas podemos implementar para reducir nue"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Bloqueando llamadas de mierda en Android",
-    "link": "https://56k.es/fanta/bloqueando-llamadas-no-deseadas-en-android/",
-    "fecha": "03/08/2026 04:42",
-    "contenido": "Tengo a lo largo del día diferentes modos. Uno de ellos es el modo «dormir» en el que NO tengo notificaciones de nada salvo llamadas/sms de x números de la agenda Jugando con los modos puedes evitar llamadas indeseadas. Pero siempre quedan esas horas del día en las que permites que te llamen sin ten"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "",
-    "link": "https://altgr.xyz/2026/08/02/2777/",
-    "fecha": "03/08/2026 02:56",
-    "contenido": "Querido diario bitácora: Hoy hice mi primer pesto y hallo que no me quedó nada de mal. Mis comensalas opinaron lo mismo, lo que me hace sentir orgulloso de mis pocas habilidades en la cocina. Hoy fue un lindo día."
   },
   {
     "blog": "Diego Cano",
@@ -1848,20 +1806,6 @@
     "contenido": "Que leo rápido me dicen. No estoy de acuerdo."
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Rosalía en Movistar Arena",
-    "link": "https://altgr.xyz/2026/07/28/rosalia-en-movistar-arena/",
-    "fecha": "29/07/2026 02:30",
-    "contenido": "La noche del sábado volvimos a las andanzas en el concierto de Rosalía en el Movistar Arena. Era la segunda de cuatro presentaciones agendadas en Santiago como parte del LUX TOUR 2026, la gira promocional de su más reciente disco. El show fue principalmente eso: la presentación del disco LUX acompañ"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Quitando un avispero en casa",
-    "link": "https://chancli.dev/blog/quitar-avispero.html",
-    "fecha": "29/07/2026 00:00",
-    "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
-  },
-  {
     "blog": "gorkula.com",
     "titulo": "Metric en Aragon Ballroom 2026",
     "link": "https://www.gorkula.com/metric-chicago-2026",
@@ -2009,59 +1953,10 @@
     "contenido": "He estado verificando mi repositorio con enlaces sobre los &#8220;posibles&#8221; artículos y vaya, tengo muy buen material, aunque… muy poco espacio para poder desarrollarlo. Además, me desanima un poco no\nSeguir leyendo  Tres alternativas a las plataformas tradicionales: Kloak, Zerion y Cryptgeon\n"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Conversatorio Musical con Angelo Pierattini en La Tienda Nacional",
-    "link": "https://altgr.xyz/2026/07/27/conversatorio-musical-con-angelo-pierattini-en-la-tienda-nacional/",
-    "fecha": "27/07/2026 03:52",
-    "contenido": "Quienes compramos en preventa el vinilo del Disco Rojo de Weichafe tuvimos el privilegio de ser invitados a una sesión íntima junto a Angelo Pierattini en La Tienda Nacional, la tarde miércoles 22 de julio, para escuchar algunas de sus canciones y conseguir unas rayitas en los discos. Lo que iba a s"
-  },
-  {
     "blog": "JavierSam",
     "titulo": "Full Circle #230 (junio 2026)",
     "link": "https://javiersam.uy/2026/07/full-circle-230-junio-2026.html",
     "fecha": "27/07/2026 03:00",
     "contenido": "Aquí va mi reseña de la edición #230 de Full Circle magazine. Se trata del número correspondiente a junio de 2026 y está disponible para su descarga desde el 26 de ese mes. Consiste en un PDF de 65 páginas y de 5,8 MB. De la sección de Noticias (páginas 4 a 23) lo que me resultó más destacado fue:&#"
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Trilium: automatiza tus tareas",
-    "link": "https://elblogdelazaro.org/trilium-automatizacion-tareas-scripts/",
-    "fecha": "27/07/2026 02:00",
-    "contenido": "Por: Carlos M.Publicado el 27 de julio de 2026Cómo dejo que Trilium mueva mis tareas, genere la siguiente recurrente y monte pequeños dashboards para el homelab.Continuar leyendo →#Unraid #Homelab #Trilium #Selfhosted "
-  },
-  {
-    "blog": "Feed de SL1200",
-    "titulo": "- Cómo ripeo, descargo y gestiono música en mi servidor",
-    "link": "https://proxy.dystopic.world/art/music.gmi",
-    "fecha": "27/07/2026 00:00",
-    "contenido": ""
-  },
-  {
-    "blog": "Estás Interfiriendo con mi Zen.",
-    "titulo": "Italia – 2026",
-    "link": "https://edgarmtoro.wordpress.com/2026/07/26/italia-2026/",
-    "fecha": "26/07/2026 22:47",
-    "contenido": "AC888&#160; A330 C-GEGP YOW &#8211; LHR 17.2 años, ex Singapore Airlines (2009), ex TAP (2017), Air Canada (2019) La situación está tan dura, que ahora Air Canada incluye dos comerciales despues del vídeo de seguridad. En Heathrow, la &#8220;familia influencer norteamericana&#8221;, uniformados con "
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "Cómo Enki llegó a la península por la esquina del mapa",
-    "link": "https://blog.impermanente.es/2026/07/26/cmo-enki-lleg-a-la.html",
-    "fecha": "26/07/2026 18:57",
-    "contenido": "Imaginen esto: los dioses han decidido acabar con la humanidad porque hacen demasiado ruido (literalmente, no dejan dormir a Enlil). Se acuerda entonces que habrá diluvio para matarlos a todos y se toma un juramento: nadie avisará a los hombres de lo que se viene. Enki, señor de las aguas dulces sub"
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "Veinte años de bloguero",
-    "link": "https://adrianperales.com/2026/07/veinte-anos-de-bloguero/",
-    "fecha": "26/07/2026 18:04",
-    "contenido": "El pasado 21 de julio se cumplieron 20 años desde que empecé con esto de los blogs. Yo he cambiado y el blog ha cambiado conmigo, hay meses en los que no hay una sola entrada nueva, pero mi manera de entender internet es, aún hoy y en buena parte, la misma que en 2006. [&#8230;]"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "– Si, uso Linux, ¿Y que?",
-    "link": "https://elrefugiodeunnerd.es/2026/07/26/si-uso-linux-y-que/",
-    "fecha": "26/07/2026 17:08",
-    "contenido": "Uso Linux desde hace más de 4 años. Totalmente desde hace 1 año y medio, y digo, totalmente me refiero en mi día a día. Yo tengo Windows instalado y aunque, a día de hoy lo uso poco, lo conservo. Supongo que Windows hace cosas bien… Soy un defensor de Linux, y me gusta convencer [&#8230;]"
   }
 ]
