@@ -1,10 +1,52 @@
 [
   {
+    "blog": "Fabio.com.ar",
+    "titulo": "El 9 de Noviembre Alemán",
+    "link": "https://www.fabio.com.ar/10009-el-9-de-noviembre-aleman",
+    "fecha": "26/08/2026 12:00",
+    "contenido": "    \nHay una fecha muy particular para los alemanes, es que se han dado coincidencias hist&oacute;ricas el 9 de Noviembre, no es que las fechas sean importantes o que la gente haga algo en particular ese d&iacute;a, es que justo el 9 se dieron unas cuantas.\nAlgunos periodistas e historiadores aleman"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Fit For A King: Lonely God | La Era De La Madurez",
+    "link": "https://www.delotroladometal.com.ar/2026/08/26/la-era-de-la-madurez/",
+    "fecha": "26/08/2026 12:00",
+    "contenido": "(2025 &#8211; Solid State Records) Fit For A King se anota con un nuevo disco,...\nThe post Fit For A King: Lonely God | La Era De La Madurez first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "The Message from Deep Space",
+    "link": "https://nachof.blog/posts/2026/the-message-from-deep-space/",
+    "fecha": "26/08/2026 11:30",
+    "contenido": "\n\n\nDejá de leer esto y andá a jugar a The Message from Deep Space. En serio, vale la pena. Y la verdad es que tampoco quiero spoilear mucho, vale la pena entrar al juego a ciegas.\nThe Message from Deep Space es un juego de puzzles/programación. Es, posiblemente, el juego más nerd que jugué en mi vid"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "La perfección se devaluó",
+    "link": "https://blog.impermanente.es/2026/08/26/la-perfeccion-se-devaluo.html",
+    "fecha": "26/08/2026 10:48",
+    "contenido": "Me he dado cuenta de que cuando escribo sobre fotografía casi siempre es para quejarme&hellip; pero es que tengo razón&hellip; jajajaja.\nEn diciembre escribí el post Basta con lo cinematográfico, donde me quejaba del abuso de los filtros dramáticos, los encuadres cerrados y ese bokeh tan profundo qu"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "El porque este blog fue bloqueado en mi trabajo",
+    "link": "https://matizeta.com/2026/08/26/el-porque-este-blog-fue-bloqueado-en-mi-trabajo/",
+    "fecha": "26/08/2026 08:11",
+    "contenido": "Desde hace unas semanas, en mi vuelta al trabajo presencial, en mi oficina no podía acceder a mi blog. Era raro: podía ver otros blogs tanto en WordPress como en otras plataformas sin problemas. Comencé a pensar si había escrito algo que no haya gustado a las directrices del área IT. Sin embargo la "
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "La belleza de lo efímero en \"The Centennial Case\"",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/08/26/20260826-centennial-case-shijima/",
     "fecha": "26/08/2026 08:00",
     "contenido": "¿Y si alguien en el entorno de los Shijima lograse descubrir una fórmula de la eterna juventud?"
+  },
+  {
+    "blog": "Plutoide Marcianadas",
+    "titulo": "Shotadroides",
+    "link": "https://plutoidemarcianadas.blogspot.com/2026/08/shotadroides.html",
+    "fecha": "26/08/2026 01:29",
+    "contenido": "Finalizado: 2026-08-23Pequeños androides que exploran y juegan por el mundo.  › Ver más »¡Patina todo el día!"
   },
   {
     "blog": "Picando Código",
@@ -18,7 +60,7 @@
     "titulo": "Podcasts que no son una mierda",
     "link": "https://56k.es/fanta/podcasts-que-no-son-una-mierda/",
     "fecha": "25/08/2026 15:14",
-    "contenido": "Voy a ir recopilando contenido de podcasts que no sea una mierda en este post. 💾 Tamayazo el podcast &#8211; Juanjo Cubero y Aitor Sánchez &#8211; RTVE 💾 Meloni – Un Marqués en La Gomera &#8211; Aldara Dieguez &#8211; Subterfuge Radio 💾 El rap no se toca: contra los raperos fachas &#8211; Youssef M."
+    "contenido": "Voy a ir recopilando contenido de podcasts que no sea una mierda en este post. &#160; 💾 Tamayazo el podcast &#8211; Juanjo Cubero y Aitor Sánchez &#8211; RTVE 💾 Meloni – Un Marqués en La Gomera &#8211; Aldara Dieguez &#8211; Subterfuge Radio 💾 El rap no se toca: contra los raperos fachas &#8211; You"
   },
   {
     "blog": "Fabio.com.ar",
@@ -159,6 +201,13 @@
     "link": "https://javiersam.uy/2026/08/full-circle-231-julio-2026.html",
     "fecha": "24/08/2026 03:00",
     "contenido": "Aquí va mi reseña de la edición #231 de Full Circle magazine. Se trata del número correspondiente a julio de 2026 y está disponible para su descarga desde el último día de ese mes. Consiste en un pdf de 56 páginas y de 4,6 mb. De la sección de Noticias (páginas 4 a 17) lo que me resultó más destacad"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Trilium: mi flujo de publicación con Hugo",
+    "link": "https://elblogdelazaro.org/trilium-flujo-publicacion-hugo/",
+    "fecha": "24/08/2026 02:00",
+    "contenido": "Por: Carlos M.Publicado el 24 de agosto de 2026Por qué dejé de escribir directamente en archivos Markdown sueltos y monté todo mi sistema de blog dentro de Trilium.Continuar leyendo →#Trilium #Hugo #Blog "
   },
   {
     "blog": "labaudric",
@@ -651,13 +700,6 @@
     "contenido": "Un microrrelato"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Apostle: White Metal | Descubriendo Mas Heavy Metal De Los ´80",
-    "link": "https://www.delotroladometal.com.ar/2026/08/16/descubriendo-mas-heavy-metal-de-los-80/",
-    "fecha": "16/08/2026 12:00",
-    "contenido": "(2026 &#8211; Retroactive Records) Como parte de la serie &#8220;Metal Icon Series&#8221;, nos llega una...\nThe post Apostle: White Metal | Descubriendo Mas Heavy Metal De Los ´80 first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "La sobredeterminación de Jaegwon Kim",
     "link": "https://vonneumannmachine.wordpress.com/2026/08/16/la-sobredeterminacion-de-jaegwon-kim/",
@@ -931,13 +973,6 @@
     "contenido": "Denominación de Origen es un documental que puede verse en RTVE Play que sirve como preámbulo a la consecución del segundo Campeonato Mundial de Fútbol por parte de la selección española. Sin lugar a dudas, ha sido una de las alegrías de este verano de 2026. Honestamente, tampoco ha sido una sorpres"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "La cadena digital que te persigue a todos lados",
-    "link": "https://www.fabio.com.ar/10021-la-cadena-digital-que-te-persigue-a-todos-lados",
-    "fecha": "12/08/2026 12:00",
-    "contenido": "    \n&iquest;Notaron que en un punto todo requiere un registro, un feedback, una respuesta, una confirmaci&oacute;n, una app, un m&eacute;todo de pago y todo eso para interacciones que normalmente no deber&iacute;an llevar m&aacute;s de 30 segundos?\nRecuerdo, hace no mucho, estaba en otro pa&iacute;"
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Análisis de Dogpile",
     "link": "https://cozykis.kisworld.es/analisis-de-dogpile/",
@@ -1062,6 +1097,13 @@
     "link": "https://alt43.es/por-que-los-virus-no-son-el-verdadero-problema-en-android/",
     "fecha": "10/08/2026 07:30",
     "contenido": "Los antivirus para Android ofrecen soluciones a un problema muy minoritario. El malware que afecta a dispositivos en 2026 llega por ingeniería social, firmware ya comprometido de fábrica o permisos mal concedidos; no por los vectores de infección propios de un virus. Entender cómo funciona el modelo"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Cloudflare Analytics activado en el blog",
+    "link": "https://elblogdelazaro.org/cloudflare-analytics-activado-automaticamente/",
+    "fecha": "10/08/2026 02:00",
+    "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1764,13 +1806,6 @@
     "contenido": "Desde el año 2020 soy cliente de Lowi a nivel de telefonía móvil. En 2024 es cuando también pasé a contratar la fibra óptica con ellos. Además, mi mujer, también tenía el teléfono con ellos desde antes. El caso es que en mayo, dejaron papeles en los buzones (aún se hace buzoneo) con la nueva [&#8230"
   },
   {
-    "blog": "matizeta",
-    "titulo": "¿Qué tipo de audífonos prefieres?",
-    "link": "https://matizeta.com/2026/07/29/tipo-de-audifonos-prefieres/",
-    "fecha": "29/07/2026 14:01",
-    "contenido": "Hoy en día hay muchos tipos de auriculares para elegir, en mi caso prefiero algunos sobre otros depende el uso que le vaya a dar. ¿Vos cual preferís? Si querés también podes dejarme el modelo en los comentarios."
-  },
-  {
     "blog": "El Refugio de un Nerd",
     "titulo": "SEO Japonés",
     "link": "https://elrefugiodeunnerd.es/2026/07/29/seo-japones/",
@@ -1923,40 +1958,5 @@
     "link": "https://mundoceltamedieval.wordpress.com/2026/07/27/vincere/",
     "fecha": "27/07/2026 12:54",
     "contenido": "Vincere esta lanzando sus cursos de esgrima medieval, la academia Vincere cuenta tanto con cursos en formato online como presencial. Abajo les dejo el enlace de la pagina de Vincere para mas información. &#62;&#62;&#62; Click Aqui &#60;&#60;&#60;"
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "#198: algunas sensaciones vacacionales",
-    "link": "https://www.macram.es/posts/2026/07/algunas-sensaciones-vacacionales/",
-    "fecha": "27/07/2026 09:45",
-    "contenido": "Estas palabras las estoy escribiendo al vuelo, casi en una especie de ejercicio de escritura automática, en el porche del bungalow en el que me estoy alojando unos días. Hace sol. El paisaje está ligeramente turbio y huele raro, quizá por el humo de los incendios de Ávila, que aunque no están cerca "
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de aaPanel en RockyLinux 10",
-    "link": "https://voidnull.es/instalacion-de-aapanel-en-rockylinux-10/",
-    "fecha": "27/07/2026 07:11",
-    "contenido": "Su interfaz gráfica intuitiva permite a los usuarios gestionar sitios web, bases de datos, servicios de correo, cortafuegos y mucho más, sin necesidad de usar la terminal constantemente."
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Inteligencia Artificial de código abierto 2026",
-    "link": "https://alt43.es/inteligencia-artificial-de-codigo-abierto-2026/",
-    "fecha": "27/07/2026 07:00",
-    "contenido": "En 2026, el código abierto en IA ya no es liderado por Meta u OpenAI: son los desarrollos chinos (DeepSeek, Qwen, GLM) quienes publican los mejores modelos, con más frecuencia y licencias más permisivas. Comentamos todo ésto de la forma más sencilla posible, con ejemplos concretos y las combinacione"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Tres alternativas a las plataformas tradicionales: Kloak, Zerion y Cryptgeon",
-    "link": "https://gatooscuro.xyz/tres-alternativas-a-las-plataformas-tradicionales-kloak-zerion-y-cryptgeon/",
-    "fecha": "27/07/2026 04:04",
-    "contenido": "He estado verificando mi repositorio con enlaces sobre los &#8220;posibles&#8221; artículos y vaya, tengo muy buen material, aunque… muy poco espacio para poder desarrollarlo. Además, me desanima un poco no\nSeguir leyendo  Tres alternativas a las plataformas tradicionales: Kloak, Zerion y Cryptgeon\n"
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Full Circle #230 (junio 2026)",
-    "link": "https://javiersam.uy/2026/07/full-circle-230-junio-2026.html",
-    "fecha": "27/07/2026 03:00",
-    "contenido": "Aquí va mi reseña de la edición #230 de Full Circle magazine. Se trata del número correspondiente a junio de 2026 y está disponible para su descarga desde el 26 de ese mes. Consiste en un PDF de 65 páginas y de 5,8 MB. De la sección de Noticias (páginas 4 a 23) lo que me resultó más destacado fue:&#"
   }
 ]
