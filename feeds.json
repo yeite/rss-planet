@@ -1,10 +1,108 @@
 [
   {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Feliz 35 aniversario GNU/Linux",
+    "link": "https://malagaoriginal.blogspot.com/2026/08/feliz-35-aniversario-gnulinux.html",
+    "fecha": "27/08/2026 19:20",
+    "contenido": "¿Sabéis que día es hoy? 27 de agosto y hace 35 años del famoso correo que mandó Linus Torvards pidiendo ayuda para un nuevo sistema operativo que estaba haciendo y que se considera la fecha de nacimiento de GNU/Linux.Como regalo de cumpleaños para todos los linuxeros, en especial para los novatos, o"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Script para monitorizar la potencia de la señal WIFI en la terminal",
+    "link": "https://victorhckinthefreeworld.com/2026/08/27/script-para-monitorizar-la-potencia-de-la-senal-wifi-en-la-terminal/",
+    "fecha": "27/08/2026 16:15",
+    "contenido": "Este script para sistemas GNU/Linux muestra una monitorización de la potencia de la señal WIFI en nuestra terminal"
+  },
+  {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Agrégale un human.json a tu blog",
+    "link": "https://blog.luiscarlospando.com/coding/2026/08/agregale-un-human-json-a-tu-blog/",
+    "fecha": "27/08/2026 15:07",
+    "contenido": "Ayer leí este post de Nick Simson y me recordó de que yo ya le había agregado soporte de human.json a mi blog. Traduzco directamente del post de Nick: Uno de los grandes problemas del internet hoy en día es que muchísimo contenido es generado con IA. No hay manera consistente de determinar si un"
+  },
+  {
+    "blog": "Región Cuatro",
+    "titulo": "La Constante de Wadsworth",
+    "link": "https://regioncuatro.blog/la-constante-de-wadsworth/",
+    "fecha": "27/08/2026 15:00",
+    "contenido": "Una de las cosas que hago constantemente es consumir YouTube. Desde La Pandemia™ YouTube se volvió básicamente mi sistema de televisión. Y algo que he aplicado cada vez más y con mayor seguridad es algo que se llama la constante de Wadsworth.\nLa constante de Wadsworth es un axioma que dice:\n\nEl prim"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #891",
+    "link": "https://www.fabio.com.ar/10016-ruleta-rusa-891",
+    "fecha": "27/08/2026 12:00",
+    "contenido": "     Toda la semana esperando\nVamos superjeropas! Es momento de pegarse balazos con cargador completo! Tenemos ruleta y vamos a hacer uso indiscriminado de ella!\nAhora s&iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio Baccaglioni [Ruleta Rusa]"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Believer: Dimensions | La Filarmónica Del Thrash Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/08/27/la-filarmonica-del-thrash-metal/",
+    "fecha": "27/08/2026 12:00",
+    "contenido": "(1993 &#8211; R.E.X. Music/Roadrunner Records) No, no estamos refiriendo a esa &#8220;filarmónica&#8221; tan conocida en...\nThe post Believer: Dimensions | La Filarmónica Del Thrash Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "El Rode AI-Micro no aguanta mis micrófonos binaurales (y por qué cambio de estrategia en YouTube)",
+    "link": "https://blog.danielaragay.net/el-rode-ai-micro-no-aguanta-mis-microfonos-binaurales-y-por-que-cambio-de-estrategia-en-youtube/",
+    "fecha": "27/08/2026 11:21",
+    "contenido": "Nuevo episodio del podcast: El Rode AI-Micro no aguanta mis micr&#xf3;fonos binaurales (y por qu&#xe9; cambio de estrategia en YouTube)Esc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@nordicsmedia/episodes/el-rode-ai-micro-no-aguanta-mis-microfonos-binaurales-y-por-que-cambio-de-estrategi"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Void Pachinko",
+    "link": "https://cozykis.kisworld.es/analisis-de-void-pachinko/",
+    "fecha": "27/08/2026 10:42",
+    "contenido": "Con varios escenarios a superar, muchas pelotas distintas para desbloquear y una historia curiosa será difícil soltarlo\nLa entrada Análisis de Void Pachinko se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La clase de griego",
+    "link": "https://mareosdeungeek.es/la-clase-de-griego/",
+    "fecha": "27/08/2026 10:00",
+    "contenido": "La clase de griego es el primer libro que leo de la autora surcoreana Han Kang, quién acabaría recibiendo el Premio Nobel de Literatura en el año 2024. Esta obra se publicó en 2011 y aunque es posterior a su éxito La vegetariana mantiene el nivel de una prosa profunda, muy detallista y dramática par"
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Coyote Vs. Acme",
+    "link": "https://picandocodigo.net/2026/coyote-vs-acme/",
+    "fecha": "27/08/2026 09:25",
+    "contenido": "Ayer fui al cine a ver Coyote Vs. Acme.&#160;La película es una historia original basada en un artículo publicado en 1990 en la revista The New Yorker. Wile E. Coyote de \"El Coyote y el Correcaminos\" consigue un abogado (Will Forte) para demandar a la corporación ACME tras décadas de venderle produc"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "La IA y, o, para, contra el Arte",
+    "link": "https://brucknerite.net/2026/08/la-ia-y-o-para-contra-el-arte.html",
+    "fecha": "27/08/2026 08:00",
+    "contenido": "Una consulta de la Comisión Europea está recogiendo opiniones sobre el papel de la inteligencia artificial en la cultura. Es el momento de quejarse contra un futuro justo al revés del que nos prometieron, en el que nosotros haremos los trabajos tediosos y mal remunerados mientras las máquinas contem"
+  },
+  {
+    "blog": "quiroptero.blog",
+    "titulo": "Por quién doblan las campanas: Craig Maloney",
+    "link": "https://www.quiroptero.blog/2026/08/craig/",
+    "fecha": "27/08/2026 06:00",
+    "contenido": ""
+  },
+  {
     "blog": "El Sueño del Artista Blog",
     "titulo": "El Boston Globe tras las pistas del misterioso robo en el museo Gardner.",
     "link": "https://polotman.wordpress.com/2026/08/27/el-boston-globe-tras-las-pistas-del-misterioso-robo-en-el-museo-gardner/",
     "fecha": "27/08/2026 05:54",
     "contenido": "Entre los episodios más recientes del Sueño del Artista se encuentra el caso del robo del Museo Isabella Stewart Gardner, ocurrido la madrugada del 18 de marzo de 1990, no solo es considerado el mayor robo de arte de la historia, sino también uno de los misterios sin resolver más fascinantes de Bost"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "El dispositivo de obediencia",
+    "link": "https://alex.corcoles.net/2026/08/el-dispositivo-de-obediencia",
+    "fecha": "27/08/2026 00:00",
+    "contenido": "\n  Tengo una teor&#237;a nueva dual que discurre por mi mente desde hace unos meses.\n  Por supuesto, son elucubraciones sobre ideas que he discutido aqu&#237; hasta la saciedad:\n  \n    El lento adi&#243;s a la magia de los ordenadores o c&#243;mo los m&#243;viles son una versi&#243;n mal&#233;volame"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "Se supone que todo debería ser más fácil",
+    "link": "https://alex.corcoles.net/2026/08/se-supone-que-todo-debería-ser-más-fácil",
+    "fecha": "27/08/2026 00:00",
+    "contenido": "\n  \n    Hace unos a&#241;os mencion&#233; de pasada el art&#237;culo \"Kids can't use computers... and this is why it should worry you\".\n  \n  Estoy bastante de acuerdo en que los ordenadores son una parte importante de nuestras vidas y vale la pena hacer un esfuerzo para aprender c&#243;mo funcionan,"
   },
   {
     "blog": "danielaragay.net",
@@ -81,7 +179,7 @@
     "titulo": "El porque este blog fue bloqueado en mi trabajo",
     "link": "https://matizeta.com/2026/08/26/el-porque-este-blog-fue-bloqueado-en-mi-trabajo/",
     "fecha": "26/08/2026 08:11",
-    "contenido": "Desde hace unas semanas, en mi vuelta al trabajo presencial, en mi oficina no podía acceder a mi blog. Era raro: podía ver otros blogs tanto en WordPress como en otras plataformas sin problemas. Comencé a pensar si había escrito algo que no haya gustado a las directrices del área IT. Sin embargo la "
+    "contenido": "No hizo falta hablar con el área de IT."
   },
   {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
@@ -686,13 +784,6 @@
     "contenido": "    \nLa historia del Black Joke es m&aacute;s que interesante y tiene un remate genial, es que naci&oacute; como un barco negrero, los barcos que transportaban esclavos bajo el nombre de Henriquetta y bandera del imperio de Brasil.\nPero no se qued&oacute; en manos esclavistas sino que en un momento "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Sacrificium Prepara Nuevo Disco...Y Vienen A Argentina? | “Hay Algo En Argentina Que Siempre Me Fascinó…”",
-    "link": "https://www.delotroladometal.com.ar/2026/08/17/hay-algo-en-argentina-que-siempre-me-fascino/",
-    "fecha": "17/08/2026 12:00",
-    "contenido": "Ya hace algún tiempo traíamos como novedad que Sacrificium tenía pensado grabar nuevo material. Su...\nThe post Sacrificium Prepara Nuevo Disco...Y Vienen A Argentina? | “Hay Algo En Argentina Que Siempre Me Fascinó…” first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Manu Mateos",
     "titulo": "Semana 33/2026",
     "link": "https://www.macram.es/posts/2026/08/semana-33-2026/",
@@ -959,20 +1050,6 @@
     "contenido": "\n\nFuah.\nEs el primer manga que leo de Junji Ito. He de precisar: al contrario que quizás da la imagen del contenido que estoy subiendo aquí, casi de forma exclusiva: soy bastante nuevo en el tema del manga. \"Cuando era joven\" me leí Akira y... Ya esta. Es hace apenas cosa de un año, que por casualid"
   },
   {
-    "blog": "Picando Código",
-    "titulo": "Reseña: Duskfade - Nintendo Switch 2",
-    "link": "https://picandocodigo.net/2026/resena-duskfade-nintendo-switch-2/",
-    "fecha": "13/08/2026 13:00",
-    "contenido": "Duskfade es otra grata sorpresa de un estudio independiente de Barcelona. Un juego de plataformas, acción y aventura en 3D inspirado en títulos de la era del PlayStation 2. Encontré influencias también de clásicos como La Leyenda de Zelda y Mario. Es un juego moderno que captura el encanto de clásic"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #889",
-    "link": "https://www.fabio.com.ar/10014-ruleta-rusa-889",
-    "fecha": "13/08/2026 12:00",
-    "contenido": "     Wiiiii, vamos por los balazos!\nDejen todo de lado, es momento de ruletear como en las viejas &eacute;pocas!\nAhora s&iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio Baccaglioni [Ruleta Rusa]"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Postureo",
     "link": "https://jinversor.co/2026/08/postureo/",
@@ -1034,13 +1111,6 @@
     "link": "https://mareosdeungeek.es/denominacion-de-origen/",
     "fecha": "12/08/2026 15:55",
     "contenido": "Denominación de Origen es un documental que puede verse en RTVE Play que sirve como preámbulo a la consecución del segundo Campeonato Mundial de Fútbol por parte de la selección española. Sin lugar a dudas, ha sido una de las alegrías de este verano de 2026. Honestamente, tampoco ha sido una sorpres"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Dogpile",
-    "link": "https://cozykis.kisworld.es/analisis-de-dogpile/",
-    "fecha": "12/08/2026 10:45",
-    "contenido": "Un simpático roguelike de juntar perritos que nos tendrá ladrándole a la pantalla durante horas con sus muchos modos de juego\nLa entrada Análisis de Dogpile se publicó primero en CozyKis."
   },
   {
     "blog": "danielaragay.net",
@@ -1351,6 +1421,13 @@
     "contenido": "El sábado pasado vi en Mastodon un hilo de @dbattistella@mstdn.ca (impulsado por Santiago). En él se explican los pasos para desactivar la inteligencia artificial de su cuenta de Gmail que desde fines de noviembre del año pasado se activó automáticamente en todas las cuentas. Me pareció muy interesa"
   },
   {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtidos variados para muffaletta (o el bocadillo que quieras)",
+    "link": "https://puedellevarqueso.es/2026/08/encurtidos-variados-para-muffaletta-o-el-bocadillo-que-quieras/",
+    "fecha": "07/08/2026 11:17",
+    "contenido": "La muffaletta es un bocadillo italoamericano, que lleva capas y capas de todos los fiambres que te atrevas y al menos dos tipos de queso. Es difícil de imitar en casa porque se hace en un tipo de pan muy difícil de encontrar fuera de Nueva Orléans y tal vez otros puntos de EEUU como [&#8230;]"
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "¿WINE no es un emulador?",
     "link": "https://malagaoriginal.blogspot.com/2026/07/wine-no-es-un-emulador.html",
@@ -1580,6 +1657,13 @@
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
     "fecha": "03/08/2026 17:52",
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacines estilo japonés",
+    "link": "https://puedellevarqueso.es/2026/08/encurtido-de-calabacines-estilo-japones/",
+    "fecha": "03/08/2026 16:25",
+    "contenido": "Inventé esta receta cuando me apetecía comer calabacines crudos. Llamarlo encurtido puede llevar a error, porque no es una conserva, pero necesita un tiempo de reposo (mínimo dos horas) y aguanta varios días en el frigorífico. Es fácil encontrar recetas de ensaladas y encurtidos de pepino en páginas"
   },
   {
     "blog": "",
@@ -1923,89 +2007,5 @@
     "link": "https://chancli.dev/blog/quitar-avispero.html",
     "fecha": "29/07/2026 00:00",
     "contenido": "Vivo en un ático con una terraza algo particular. Tiene una pérgola de hormigón y entre la pérgola y la azotea del edificio hay una pared vertical de 1,50m aprox.\nEl otro día observé un par de avispas en la terraza y se dirigieron al mismo sitio, cogí la escalera y conseguí ver qué pasaba. Me habían"
-  },
-  {
-    "blog": "gorkula.com",
-    "titulo": "Metric en Aragon Ballroom 2026",
-    "link": "https://www.gorkula.com/metric-chicago-2026",
-    "fecha": "28/07/2026 20:09",
-    "contenido": "El viernes pasado fue un día ajetreado en Chicago. Nosotros fuimos a ver a Metric al Aragon Ballroom. Cruzando la calle, en el Riviera estaba Poppy, y un poco más allá en Soldier Field estaba Karol G. Imagino que también ocurrieron otras cosas en la ciudad.\n\n\n\nEn el Riviera todavía tienen marquesina"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "GameNative: un paso mas hacia la emulación de PC",
-    "link": "https://thejnx.bearblog.dev/emulador-gamenative/",
-    "fecha": "28/07/2026 19:10",
-    "contenido": "⤶ Regresar\nEsta entrada será un poco breve ya que no es algo nuevo, solo el como la emulación de PC esta avanzando en Android a un ritmo increíble y el emulador GameNative es una prueba de ello\nLlevo días probando emuladores de PC en mi teléfono (y mas que recientemente me compré el Dead Cells), un "
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Todo lo que le he metido a mi sitio últimamente",
-    "link": "https://blog.luiscarlospando.com/personal/2026/07/todo-lo-que-le-he-metido-a-mi-sitio-ultimamente/",
-    "fecha": "28/07/2026 18:44",
-    "contenido": "Llevo estos últimos meses metiéndole mano a mi sitio tras bambalinas y creo que llegó el momento de documentar todo lo que he ido agregando antes de que se me olvide. 😂 Ahí les va(ilongo): 💬 Reply context Si sigues mis posts recientes desde el home y desde el índice de mi blog, ahora vas"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Recommended Web Browsers for Android (2026)",
-    "link": "https://thejnx.bearblog.dev/recommended-web-browsers-for-android-2026/",
-    "fecha": "28/07/2026 18:00",
-    "contenido": "⤶ Spanish\nThese are just recommendations based on information I’ve gathered from groups focused on both privacy and security. I hope you don’t take them too seriously—obviously, and it goes without saying: you’re free to use whatever “poison” you want\nIf Chrome’s telemetry doesn’t bother you, it’s d"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Recomendación de navegadores para Android (2026)",
-    "link": "https://thejnx.bearblog.dev/navegadores-android-2026/",
-    "fecha": "28/07/2026 17:00",
-    "contenido": "⤶ English\nEstas son solo recomendaciones de información que he obtenido estando en grupos enfocados tanto a privacidad como seguridad, espero no se lo tomen tan enserio, obviamente y no hacia falta decirlo: son libres de usar el \"veneno\" que ustedes quieran\nSi no te molesta la telemetría de Chrome s"
-  },
-  {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "Una Odisea muy Nolan",
-    "link": "https://vonneumannmachine.wordpress.com/2026/07/28/una-odisea-muy-nolan/",
-    "fecha": "28/07/2026 15:27",
-    "contenido": ""
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Actualizando el blog",
-    "link": "https://thejnx.bearblog.dev/estado-actualizando-el-blog/",
-    "fecha": "28/07/2026 09:59",
-    "contenido": "Bueno, yo aquí viva aun sin saber como funciona el bendito CSS xD\nSolo escribo esto para decir que me he puesto a buscar en que aspectos podría mejorar el blog y ya se va notando un poco lo que he hecho, no voy confesar que tuve un poco de \"ayuda\" para no ser criticada, pero como dije al principio a"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "571. Síndrome postvacacional",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/07/571-sindrome-postvacacional.html",
-    "fecha": "28/07/2026 09:32",
-    "contenido": "&nbsp; &nbsp; Está escrito en un libro sagrado que Lázaro regresó de la muerte. Una voz le ordenó que saliera, y salió. Eric Draven también regresó de su tumba, con un cuervo sobre el hombro y el deseo de venganza ardiéndole en la mirada. Pues a mí me pasa algo parecido, pero a la inversa: regreso d"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Configuraciones de Disroot",
-    "link": "https://thejnx.bearblog.dev/configuraciones-de-disroot/",
-    "fecha": "28/07/2026 08:42",
-    "contenido": "rclone (Termux)Proximamente...\nNota: Para las siguientes apps recomiendo siempre que sea posible descargar las versiones de Github, ya que esas no cuentan con rastreadores\nThunderbird (anteriormente K-9 Mail en Android)Github - Play Store\nNota: Thunderbird y K-9 Mail aun existen entre si, solo que p"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Adguard Home & uBlock Origin",
-    "link": "https://thejnx.bearblog.dev/adguard-home-ublock-origin/",
-    "fecha": "28/07/2026 08:40",
-    "contenido": "⤶ Regresar\nConfiguración recomendada para uBlock Origin y Adguard Home en un teléfono\nFuentes (Github)\n\nuBlock Origin\nAdguard Home for Root\n\nIndependientemente del navegador para Android que soporte extensiones MV2 o cualquiera basado en Gecko (no recomendado por seguridad) recomiendo instalar la ve"
-  },
-  {
-    "blog": "Un Diario",
-    "titulo": "Cosas realmente útiles!",
-    "link": "https://thejnx.bearblog.dev/simple-title/",
-    "fecha": "28/07/2026 08:29",
-    "contenido": "Pagina sobre RSS recomendada por Onlykievv - RSS BridgeEsta web obtiene el RSS de prácticamente cualquier pagina: Reddit, Telegram, Twitter, etc. Compatible con cualquier lector RSS, se recomienda darle un vistazo a las instancias publicas por si algún servicio no funciona en la principal\nCodigo Fue"
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "MOC player, música desde la terminal",
-    "link": "https://asturgeek.eu/2026/07/28/moc-player-musica-desde-la-terminal/",
-    "fecha": "28/07/2026 07:28",
-    "contenido": "Últimamente estoy volviendo a disfrutar de la música. Nunca la he dejado, pero es cierto que a veces pasan semanas sin escuchar casi nada. Con la instalación del cliente Soulseek en el servidor, he vuelto a esa gran red y tiene sus consecuencias. 🙂 Pero también he tenido algún problema y es que much"
   }
 ]
