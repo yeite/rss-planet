@@ -1,5 +1,40 @@
 [
   {
+    "blog": "Tecno y Soft",
+    "titulo": "Todos los derechos reservados, una decisión meditada",
+    "link": "https://tecnoysoft.com/2026/08/29/todos-los-derechos-reservados-una-decision-meditada/",
+    "fecha": "29/08/2026 11:48",
+    "contenido": "Cuando crear te lleva días y copiar unos minutos Publicas un artículo en el blog y, antes incluso de que llegue la primera visita, ya puedes encontrarte con publicaciones derivadas de lo que acabas de escribir. Y entonces surge una pregunta bastante incómoda: ¿dónde queda la justa recompensa al esfu"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Hilastherion: Signs Of The End | Con Los Signos Vitales Estables",
+    "link": "https://www.delotroladometal.com.ar/2026/08/29/con-los-signos-vitales-estables/",
+    "fecha": "29/08/2026 11:35",
+    "contenido": "(2014 &#8211; Die And Gain Records) Gracias a la gentileza de Niclas Buss, ya habíamos...\nThe post Hilastherion: Signs Of The End | Con Los Signos Vitales Estables first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Probando WinBoat",
+    "link": "https://labaudric.net/blog/informatica-general/probando-winboat",
+    "fecha": "29/08/2026 10:02",
+    "contenido": "\nEstoy probando winboat (versión 0.9.0), no solo por curiosidad, sino por \"necesidad\". De la misma forma que estoy últimamente creando artículos, me ha entrado el antojo de volver a hacer algún que otro vídeo. Pues, el trabajazo que me ha costado importar mis canales de youtube aquí, quiero como seg"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "Esfuerzos",
+    "link": "https://alex.corcoles.net/2026/08/esfuerzos",
+    "fecha": "29/08/2026 00:00",
+    "contenido": "\n  Hace unos treinta a&#241;os aprend&#237;a a programar m&#225;s o menos en serio. Gracias al Blitz Basic del Amiga comenc&#233; a poder crear juegos sencillos, pero con cara y ojos, tras igual unos diez a&#241;os de intentos y de lentos progresos.\n  Poco despu&#233;s, con m&#225;s casualidad de lo"
+  },
+  {
+    "blog": "Jorge Aguilera",
+    "titulo": "GitOps en AWS ECS con Github y Terraform",
+    "link": "https://blog.jagedn.dev/blog/2026/gitops-aws-tf.html",
+    "fecha": "29/08/2026 00:00",
+    "contenido": "Desplegando servicio en AWS ECS con Terraform y GitHub actions"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 35 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/08/28/opensuse-tumbleweed-revision-de-la-semana-35-de-2026/",
@@ -40,13 +75,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/08/28/primal-llega-a-su-fin-y-glenn-rogers-da-sus-razones/",
     "fecha": "28/08/2026 12:00",
     "contenido": "&#8220;Como algunos de ustedes ya saben, la formación actual de Primal ya no existe. Todos...\nThe post La Verdad Detrás De La Ruptura | Primal Llega A Su Fin Y Glenn Rogers Da Sus Razones first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Montreal, pero en verano",
-    "link": "https://nachof.blog/posts/2026/montreal-pero-en-verano/",
-    "fecha": "28/08/2026 11:32",
-    "contenido": "Resulta que tuve la oportunidad de viajar a Montreal de nuevo, pero esta vez en verano. De allá, que es invierno de acá. El cambio de temperatura cambia de dirección, pero no lo esquivás tan fácil.\nTodas las ciudades cambian mucho dependiendo de la temporada. Por ejemplo, Montevideo en invierno es u"
   },
   {
     "blog": "Picando Código",
@@ -271,13 +299,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/08/26/la-era-de-la-madurez/",
     "fecha": "26/08/2026 12:00",
     "contenido": "(2025 &#8211; Solid State Records) Fit For A King se anota con un nuevo disco,...\nThe post Fit For A King: Lonely God | La Era De La Madurez first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "The Message from Deep Space",
-    "link": "https://nachof.blog/posts/2026/the-message-from-deep-space/",
-    "fecha": "26/08/2026 11:30",
-    "contenido": "\n\n\nDejá de leer esto y andá a jugar a The Message from Deep Space. En serio, vale la pena. Y la verdad es que tampoco quiero spoilear mucho, vale la pena entrar al juego a ciegas.\nThe Message from Deep Space es un juego de puzzles/programación. Es, posiblemente, el juego más nerd que jugué en mi vid"
   },
   {
     "blog": "impermanente",
@@ -546,13 +567,6 @@
     "contenido": "Hoy es de esas madrugadas en que quiero hundirme en mis letras, más allá de mis pensamientos e introspección, que normalmente logro durante esas largas jornadas laborales. En donde no\nSeguir leyendo  Escribiendo un poco sobre lo que se mueve actualmente en la red\nEl cargo Escribiendo un poco sobre l"
   },
   {
-    "blog": "Un blog",
-    "titulo": "Historial de navegación en Yacy",
-    "link": "https://nachof.blog/posts/2026/historial-de-navegacion-en-yacy/",
-    "fecha": "21/08/2026 23:05",
-    "contenido": "Hace un tiempo vengo usando SearXNG. Es un &ldquo;metabuscador&rdquo;: no tiene su propia base de datos, sino que delega la búsqueda a distintos buscadores, compila los resultados, y te arma la lista. La principal ventaja que tiene es que te sacás de arriba todos los resúmenes de &ldquo;IA&rdquo; de"
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Publicado Thunderbird 154.0",
     "link": "https://victorhckinthefreeworld.com/2026/08/21/publicado-thunderbird-154-0/",
@@ -749,13 +763,6 @@
     "contenido": "Con sus puzles diversos, sus escenarios llenos de vida hace que buscar a nuestro perro sea una verdadera aventura\nLa entrada Análisis de Finding Polka se publicó primero en CozyKis."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Veni Domine: Fall Babylon Fall | Volver A Un Clásico",
-    "link": "https://www.delotroladometal.com.ar/2026/08/19/volver-a-un-clasico/",
-    "fecha": "19/08/2026 10:35",
-    "contenido": "(2024 &#8211; Melodic Passion Records) Los clásicos nunca mueren. Pueden dejarse de escuchar durante algún...\nThe post Veni Domine: Fall Babylon Fall | Volver A Un Clásico first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "El escritorio de McAllus",
     "titulo": "Datos demográficos medievales fáciles",
     "link": "https://escritura.social/mcallus/datos-demograficos-medievales-faciles",
@@ -917,13 +924,6 @@
     "contenido": ""
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "La psicologa sin empatía",
-    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
-    "fecha": "17/08/2026 00:00",
-    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
-  },
-  {
     "blog": "JDRM",
     "titulo": "Eclipse Total, otro microrrelato",
     "link": "https://jdrm.info/eclipse-total-otro-microrrelato.html",
@@ -1041,13 +1041,6 @@
     "link": "https://jorgesanz.net/cuentos/la-pequena-flor/",
     "fecha": "15/08/2026 00:00",
     "contenido": "La semilla no cayó. Se posó.\nBajó bailando en el aire, ligera como una pluma, acunada por un vientecito fresco que la dejó en el suelo con mucho cuidado.\nRodó una vuelta&hellip; luego otra&hellip; y encontró descanso en una grieta finita del asfalto. Era una calle tranquila donde los árboles, muy al"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Nitrokey (o cualquier otra llave de hardware) para bloquear o desbloquear la computadora",
-    "link": "https://nachof.blog/posts/2026/nitrokey-o-cualquier-otra-llave-de-hardware-para-bloquear-o-desbloquear-la-computadora/",
-    "fecha": "14/08/2026 23:45",
-    "contenido": "Hace un tiempo comenté que tengo una llave USB Nitrokey, y la estaba usando para guardar claves SSH. La verdad que viene re bien para eso. También la estoy usando para un par de TOTP que quiero tener más seguros que en Keepass, o en el teléfono (y además es más cómodo si ya lo voy a tener enchufado "
   },
   {
     "blog": "Victorhck in the free world",
@@ -1323,13 +1316,6 @@
     "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "TuLotero ha sido hackeada",
-    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
-    "fecha": "10/08/2026 00:00",
-    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "No volverás a consumir contenido después de leer esto",
     "link": "https://guillermolatorre.com/clips/no-volveras-a-consumir-contenido-despues-de-leer-esto",
@@ -1421,25 +1407,11 @@
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Web component para mostrar spoilers en tu blog",
-    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
-    "fecha": "08/08/2026 00:00",
-    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
-  },
-  {
     "blog": "Maverick HQ",
     "titulo": "weeknotes 26.2",
     "link": "https://maverick-hq.org/blog/weeknotes-26-2/",
     "fecha": "08/08/2026 00:00",
     "contenido": "Esta semana ha sido muy complicada por temas personales, así que me ha costado ponerme a escribir.\nEstado actual: Después de la cena me he tomado un helado y he visto el episodio 3x05 de Silo.\nEn cuanto al cine, fuimos en plan familiar a ver Spider-Man: Brand New Day y, bueno, quizá esta vez sí que "
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Cosas aprendidas en julio",
-    "link": "https://nachof.blog/posts/2026/cosas-aprendidas-en-julio/",
-    "fecha": "07/08/2026 23:28",
-    "contenido": "Popurrí de tortugas marinas\n\n \n\n\n\n\n\n\n\nAprendí varias cosas sobre tortugas marinas:\n\nLas tortugas marinas perciben el campo magnético de la Tierra, así\ncomo también campos magnéticos característicos de distintas regiones, y usan esto para navegar.\nUsando esa navegación viajan distancias enormes, entr"
   },
   {
     "blog": "labaudric",
@@ -1540,13 +1512,6 @@
     "contenido": "Han pasado 9 meses desde la última revisión de datos de StartCounter. Merece la pena pegar un vistazo para ver que ha ocurrido en este tiempo por un cambio importante: \"Desconocido\" ha desaparecido."
   },
   {
-    "blog": "Un blog",
-    "titulo": "Pequeña actualización sobre Strange New Worlds",
-    "link": "https://nachof.blog/posts/2026/pequea-actualizacion-sobre-strange-new-worlds/",
-    "fecha": "06/08/2026 20:08",
-    "contenido": "El otro día comenté sobre la complicidad de Pike en un genocidio en el primer episodio de Strange New Worlds temporada 4. Una de las pequeñas cosas que me quedó fue la posibilidad de que estuviesen preparando algo sobre esto:\n\nCapaz que todo esto es para iniciar un arco en el cual Pike lidia con la "
-  },
-  {
     "blog": "quiroptero.blog",
     "titulo": "Si tienes un problema, alguien más ya lo tuvo (y lo resolvió)",
     "link": "https://www.quiroptero.blog/2026/08/problemas/",
@@ -1645,13 +1610,6 @@
     "contenido": "En la entrada anterior , que lleva el mismo nombre que la presente redacción, conocimos cómo la historia del impresionismo es tan apasionante como observar un cuadro de sus representantes. No fue un estilo que surgiera de forma espontánea, sino el fruto de la amistad, el debate y la rebeldía compart"
   },
   {
-    "blog": "Un blog",
-    "titulo": "Rose/House - Arkady Martine",
-    "link": "https://nachof.blog/posts/2026/rosehouse/",
-    "fecha": "04/08/2026 22:17",
-    "contenido": "\n\n\nArkady Martine es la escritora atrás de la serie de Teixcalaan (A Memory Called Empire, A Desolation Called Peace). A Memory Called Empire es un libro que me gustó pila, la verdad. A Desolation Called Peace no tanto, pero igual me gustó bastante. Así que cuando agarré Rose/House tenía expectativa"
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "573. El Loco pasa el verano",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/08/573-el-loco-pasa-el-verano.html",
@@ -1734,13 +1692,6 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quienes-se-marchan-de-omelas/",
     "fecha": "04/08/2026 00:00",
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Ayer fue uno de los días más duros en el veterinario",
-    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
-    "fecha": "04/08/2026 00:00",
-    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
   },
   {
     "blog": "Victorhck in the free world",
@@ -1986,33 +1937,5 @@
     "link": "https://thecheis.com/2026/07/30/lo-hacemos-por-tu-bien-carino/",
     "fecha": "30/07/2026 20:08",
     "contenido": "Hace tiempo que le doy vueltas a una serie de temas que, para mí, apuntan en la misma dirección y se mezclan de alguna forma. Nunca antes estuvimos tan rodeados de cámaras de seguridad, de seguimiento y de identificación. La lógica diría que, gracias a eso, deberíamos sentirnos más seguros que nunca"
-  },
-  {
-    "blog": "",
-    "titulo": "Hasta siempre Glen.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/07/30/hasta-siempre-glen/",
-    "fecha": "30/07/2026 13:32",
-    "contenido": "Se nos fue Glen Hansard que tristeza."
-  },
-  {
-    "blog": "NevatBlog",
-    "titulo": "Transition un sencillo conversor de audio para Gnome",
-    "link": "https://nevat.neocities.org/transition_30072026.html",
-    "fecha": "30/07/2026 12:00",
-    "contenido": "Hace poco hablaba sobre Freac, un ripeador y conversor con muchas opciones. Ahora es el turno de lo contrario, algo mucho más sencillo y directo: Transition."
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "Instalando Transmission con Docker",
-    "link": "https://asturgeek.eu/2026/07/30/instalando-transmission-con-docker/",
-    "fecha": "30/07/2026 07:04",
-    "contenido": "Sigo con mi serie de servicios que tengo instalados en el servidor. Ésta vez le toca a Transmission, un cliente muy liviano y simple para torrents que viene de serie en muchas distros de linux.El programa, de código abierto, se ha vuelto tan popular que ha sacado versiones para Windows y macOS, apar"
-  },
-  {
-    "blog": "quiroptero.blog",
-    "titulo": "Así nació mi gusto por el horror",
-    "link": "https://www.quiroptero.blog/2026/07/horror/",
-    "fecha": "30/07/2026 06:00",
-    "contenido": ""
   }
 ]
