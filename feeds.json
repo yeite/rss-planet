@@ -1,10 +1,52 @@
 [
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Se hizo historia en el Carlos Vieco por una buen causa",
+    "link": "https://gatooscuro.xyz/se-hizo-historia-en-el-carlos-vieco-por-una-buen-causa/",
+    "fecha": "30/08/2026 15:28",
+    "contenido": "NOTA: Este artículo tenía que haber salido un día después del evento, pero como me ocurre de todo entonces salió tarde, varios días tarde. Hoy les vengo a escribir sobre\nSeguir leyendo  Se hizo historia en el Carlos Vieco por una buen causa\nEl cargo Se hizo historia en el Carlos Vieco por una buen c"
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "La oportunidad perdida de GNU/Linux en el escritorio",
+    "link": "https://tecnoysoft.com/2026/08/30/la-oportunidad-perdida-de-gnu-linux-en-el-escritorio/",
+    "fecha": "30/08/2026 12:49",
+    "contenido": "GNU/Linux perdió la batalla del escritorio GNU/Linux conquistó servidores, supercomputación, dispositivos integrados y, con el tiempo, buena parte de la infraestructura de Internet. Sin embargo, hay un terreno en el que nunca consiguió convertirse en una alternativa mayoritaria: el ordenador persona"
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Mis lecturas en agosto de 2026",
+    "link": "https://escritura.social/mcallus/mis-lecturas-en-agosto-de-2026",
+    "fecha": "30/08/2026 11:10",
+    "contenido": ""
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Actividades Agosto 2026",
+    "link": "https://labaudric.net/blog/noticias/actividades-agosto-2026",
+    "fecha": "30/08/2026 09:39",
+    "contenido": "Otro mes, otra entrada.\nEn nivel de la web, he hecho muchos menos cambios, menos mejoras. Me estoy concentrado en añadir contenido, y no tanto en el software de la web. Creo que he llegado a un punto bastante estable. Sigue quedando la cápsula Gemini por hacer... Pero la web, http, la veo bastante c"
+  },
+  {
+    "blog": "impermanente",
+    "titulo": "Mi primera receta Fujifilm",
+    "link": "https://blog.impermanente.es/2026/08/30/valeria-blue.html",
+    "fecha": "30/08/2026 08:56",
+    "contenido": "Valeria Blue es la primera receta Fujifilm que hago desde cero y también la primera que comparto. Los tonos cálidos van algo apagados y los fríos resaltan, pero oscuros. Color Chrome Effect les da profundidad sin devolverles el brillo naranja.\n\nEl ajuste que termina de definir la receta es Color Chr"
+  },
+  {
     "blog": "El Sueño del Artista Blog",
     "titulo": "Yayoi Kusama: Lunares, Calabazas y una Vida Convertida en Obra",
     "link": "https://polotman.wordpress.com/2026/08/29/yayoi-kusama-lunares-calabazas-y-una-vida-convertida-en-obra/",
     "fecha": "30/08/2026 00:34",
     "contenido": "#YayoiKusama #Arte #mujeresArtistas #Japon #ArteContemporaneo “Mi arte es una confesión. Es mi forma de luchar contra el miedo, contra la soledad, contra el vacío.” — Yayoi Kusama Pocas figuras en el arte contemporáneo condensan con tanta intensidad la contradicción humana como Yayoi Kusama (松本 瑤子, "
+  },
+  {
+    "blog": "Si dios te da limones",
+    "titulo": "El lápiz de debajo",
+    "link": "https://sidiostedalimones.com/blog/2026/el-lapiz-de-debajo/",
+    "fecha": "30/08/2026 00:00",
+    "contenido": ""
   },
   {
     "blog": "danielaragay.net",
@@ -278,6 +320,13 @@
     "link": "https://blog.danielaragay.net/de-novelas-secuestradas-alarmas-suecas-y-un-nuevo-rumbo/",
     "fecha": "26/08/2026 22:39",
     "contenido": "&#x1f3a7; Escucha el episodio completo aqu&#xed;: Episodio: Decepcionado y cabreadoMuy buenas. Hoy es jueves 27 de agosto de 2026 y te escribo bastante enfadado, para qu&#xe9; te voy a enga&#xf1;ar.Si sigues mi contenido desde hace tiempo, recordar&#xe1;s que a finales de febrero"
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Flyleaf festival",
+    "link": "https://www.ericafustero.com/2026-08-flyleaf-festival-2",
+    "fecha": "26/08/2026 21:08",
+    "contenido": "El 21 y 22 de agosto participé junto a Javier en Flyleaf festival, un evento de autoedición organizado por WIRWIR y Falschrum books que se celebra en el barrio de Neukölln, Berlín. La muestra se reparte en varias ubicaciones: Apartment, Falschrum y WIRWIR, y es en esta última donde se ubicó nuestra "
   },
   {
     "blog": "Tecno y Soft",
@@ -1029,6 +1078,13 @@
     "contenido": ""
   },
   {
+    "blog": "Erica Fustero",
+    "titulo": "El eclipse",
+    "link": "https://www.ericafustero.com/2026-08-eclipse",
+    "fecha": "15/08/2026 20:50",
+    "contenido": "Lo reconozco: yo asumí que me iba a perder el eclipse. Ni se me había pasado por la cabeza mirar si se iba a ver desde Berlín. Por suerte, Coral sí se había enterado (fue un eclipse parcial, alcanzó una cobertura del 85%), y el 12 de agosto quedamos para verlo. I admit it: I [&#8230;]"
+  },
+  {
     "blog": "labaudric",
     "titulo": "Reducir tamaño unidad disco duro virtual en Proxmox LXC",
     "link": "https://labaudric.net/blog/auto-alojamiento/reducir-disco-duro-lxc-proxmox",
@@ -1111,6 +1167,13 @@
     "link": "https://cozykis.kisworld.es/analisis-de-jurnal-risa-dark-destiny/",
     "fecha": "14/08/2026 10:46",
     "contenido": " Una historia de terror sobrenatural en el que nuestras decisiones dictarán el destino de nuestres protagonistas\nLa entrada Análisis de Jurnal Risa: Dark Destiny se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Flyleaf festival",
+    "link": "https://www.ericafustero.com/2026-08-flyleaf-festival",
+    "fecha": "14/08/2026 10:23",
+    "contenido": "Como anuncié en mi último boletín, el próximo 21 y 22 de agosto Javier y yo participaremos en Flyleaf, un festivalito de autoedición que se celebra en el barrio de Neukölln en Berlín. En nuestra mesa encontrarás ejemplares de Erica a diario, copias de nuestros últimos fanzines, postales, láminas y p"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -1519,6 +1582,13 @@
     "contenido": "El sábado pasado vi en Mastodon un hilo de @dbattistella@mstdn.ca (impulsado por Santiago). En él se explican los pasos para desactivar la inteligencia artificial de su cuenta de Gmail que desde fines de noviembre del año pasado se activó automáticamente en todas las cuentas. Me pareció muy interesa"
   },
   {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtidos variados para muffaletta (o el bocadillo que quieras)",
+    "link": "https://puedellevarqueso.es/2026/08/encurtidos-variados-para-muffaletta-o-el-bocadillo-que-quieras/",
+    "fecha": "07/08/2026 11:17",
+    "contenido": "La muffaletta es un bocadillo italoamericano, que lleva capas y capas de todos los fiambres que te atrevas y al menos dos tipos de queso. Es difícil de imitar en casa porque se hace en un tipo de pan muy difícil de encontrar fuera de Nueva Orléans y tal vez otros puntos de EEUU como [&#8230;]"
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "¿WINE no es un emulador?",
     "link": "https://malagaoriginal.blogspot.com/2026/07/wine-no-es-un-emulador.html",
@@ -1743,6 +1813,13 @@
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
   },
   {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacines estilo japonés",
+    "link": "https://puedellevarqueso.es/2026/08/encurtido-de-calabacines-estilo-japones/",
+    "fecha": "03/08/2026 16:25",
+    "contenido": "Inventé esta receta cuando me apetecía comer calabacines crudos. Llamarlo encurtido puede llevar a error, porque no es una conserva, pero necesita un tiempo de reposo (mínimo dos horas) y aguanta varios días en el frigorífico. Es fácil encontrar recetas de ensaladas y encurtidos de pepino en páginas"
+  },
+  {
     "blog": "",
     "titulo": "Luar Na Lubre.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/08/03/luar-na-lubre-2/",
@@ -1895,61 +1972,5 @@
     "link": "https://nube.codeberg.page/blog/devuelta/",
     "fecha": "31/07/2026 17:17",
     "contenido": "\nEn el post anterior las cosas parecían ser muy oscuras, no era bait, lo eran.\nAunque intenté decir algo optimista, positivo, yo realmente no esperaba volver a tener una PC este año&hellip; pero bueno, la vida da sorpresas, y a veces las conexiones genuinas que podemos hacer online pueden cambiar un"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Breezy Weather: consulta el tiempo de tu ciudad",
-    "link": "https://voidnull.es/breezy-weather-consulta-el-tiempo-de-tu-ciudad/",
-    "fecha": "31/07/2026 15:29",
-    "contenido": "Aplicación meteorológica libre y avanzada para Android, con múltiples proveedores, alertas, calidad del aire y una interfaz moderna basada en Material 3."
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Artículo: Diagnosticando Perdida de paquetes en Internet",
-    "link": "https://interlan.ec/blog/2026/07/31/articulo-saturacion-de-redes-ipv4/",
-    "fecha": "31/07/2026 14:00",
-    "contenido": "Mientras investigaba si podía mejorar la latencia de mi servidor de WireGuard, encontré muchas cositas interesantes. Por ejemplo, no es raro que los ISP contraten la ruta más barata para llegar del punto A al punto B. Pero también que las rutas por IPv4 pueden estar saturadas y producir lentitud. In"
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "La materia de las sombras (poesía)",
-    "link": "https://docig.bearblog.dev/new-post/",
-    "fecha": "31/07/2026 13:23",
-    "contenido": "Descubre La materia de las sombras, el nuevo poemario de Daniel Omar Cignacco publicado por Halley Ediciones. Una obra íntima e intensa que indaga en el silencio, la memoria y todo aquello que la luz no alcanza a iluminar.\nAtención: se trata de una edición exclusiva e ilustrada por el propio autor, "
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 31.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-31/",
-    "fecha": "31/07/2026 10:47",
-    "contenido": "Relato – Doctor Nómada (séptima parte) &#124; Bonus track\n\nLeer la sexta parte\nDoctor Nomada (séptima parte)\nCuando ví unos faros a lo lejos de la carretera comenzarse a acercar, pensé que por fin venían por nosotros, pero al tenerla casi enfrente, una camioneta algo maltrecha y enlodada, me hizo pe"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Lecturas recomendadas #9",
-    "link": "https://matizeta.com/2026/07/31/lecturas-recomendadas-9/",
-    "fecha": "31/07/2026 08:11",
-    "contenido": "Una selección de 10 publicaciones que recomiendo leer."
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de ElementaryOS 8.1 #ViernesDeDistros",
-    "link": "https://voidnull.es/instalacion-de-elementaryos-8-1/",
-    "fecha": "31/07/2026 07:11",
-    "contenido": "Hoy, nos enfocaremos en la instalación de ElementaryOS 8.1, una de las distribuciones más populares y estables dentro del ecosistema GNU/Linux."
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Amstrad CPC vs CPC+",
-    "link": "https://malagaoriginal.blogspot.com/2026/07/amstrad-cpc-vs-cpc.html",
-    "fecha": "31/07/2026 06:50",
-    "contenido": "En la época actual lo tenemos más o menos claro, un CPC+ tiene más posibilidades que un CPC normal en especial:Mejores gráficos.Scroll lateral por hardware.Cartuchos.Joysticks analógicos.&nbsp;Puertos centronics más profesionales.Sonido estéreo en el monitor.La disquetera NO requerirá 12V para nada,"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Sobre autismo/TEA y la biblioteca en la serie \"A Kind of Spark\"",
-    "link": "https://pedrolr.es/blog/sobre-autismo-tea-y-la-biblioteca-en-la-serie-a-kind-of-spark/",
-    "fecha": "31/07/2026 05:29",
-    "contenido": "Hace unos días vi por Mastodon que alguien recomendaba la serie \"A Kind of Spark\" (toot). Voy por el capítulo 4 de la primera temporada. Dando un poco de contexto a la serie, es de Anna McCleery y está basada en la novela de Elle McNicoll. Como se puede leer en una noticia de Cathy [&#8230;]"
   }
 ]
