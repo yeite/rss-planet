@@ -1,5 +1,40 @@
 [
   {
+    "blog": "La Frikoteca",
+    "titulo": "Nephilim y los amos ocultos del mundo",
+    "link": "http://frikoteca.blogspot.com/2026/08/nephilim-y-los-amos-ocultos-del-mundo.html",
+    "fecha": "30/08/2026 20:01",
+    "contenido": "En mi mundo de Aelios existen una serie de seres sobrenaturales a mitad de camino entre un espíritu y un dios, llamados daemones. Están divididos en tres facciones o naturalezas:\n\n  Primordiales. Son los que organizan las grandes energías del inframundo y el caos primordial del que surge la materia "
+  },
+  {
+    "blog": "eaplmx",
+    "titulo": "Un año de vivir \"anónimo\"",
+    "link": "https://text.eapl.mx/un-anio-de-vivir-anonimo",
+    "fecha": "30/08/2026 19:13",
+    "contenido": ""
+  },
+  {
+    "blog": "Tecno y Soft",
+    "titulo": "Más rendimiento y fluidez con el kernel de CachyOS",
+    "link": "https://tecnoysoft.com/2026/08/30/mas-rendimiento-y-fluidez-con-el-kernel-de-cachyos/",
+    "fecha": "30/08/2026 18:19",
+    "contenido": "¿Qué es el kernel de CachyOS? El kernel de CachyOS es una versión del núcleo de Linux optimizada para buscar un mejor rendimiento y una mayor fluidez. Incluye ajustes pensados especialmente para aprovechar mejor el hardware moderno. ¿Qué significan x86-64-v2, v3 y v4? CachyOS utiliza diferentes nive"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "ApocalypseMania",
+    "link": "https://labaudric.net/blog/comics/apocalypsemania",
+    "fecha": "30/08/2026 16:12",
+    "contenido": "\n¡Mi primera reseña de manga occidental!\nUn poco de contexto antes de entrar en la materia.\nCuando yo era muy joven, de crío viviendo con mis padres; mi padre coleccionaba tebeos, \"bande dessiné\" que se dice en franchute. Que al fin al cabo, es un \"comic\" francés / belga, o un \"manga\" francés / belg"
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Vorssaint app: herramientas útiles de sistema para Mac",
+    "link": "https://guillermolatorre.com/clips/vorssaint-app-herramientas-utiles-de-sistema-para-mac",
+    "fecha": "30/08/2026 16:10",
+    "contenido": "Se trata de una \"pequeña\" app que vive en la barra superior del sistema y que integra un montón de pequeñas utilidades de las que te hacen la vida más fácil. Y es software libre.Ir al enlace"
+  },
+  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "Se hizo historia en el Carlos Vieco por una buen causa",
     "link": "https://gatooscuro.xyz/se-hizo-historia-en-el-carlos-vieco-por-una-buen-causa/",
@@ -47,6 +82,13 @@
     "link": "https://sidiostedalimones.com/blog/2026/el-lapiz-de-debajo/",
     "fecha": "30/08/2026 00:00",
     "contenido": ""
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Mi nuevo fastfetch",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-08-30-new-fastfech/",
+    "fecha": "29/08/2026 22:00",
+    "contenido": "Pequeño artículo sobre mi nueva configuración de fastfetch. Ya sabéis, esa aplicación que puedes usar en tu consola por defecto en GNU/Linux y que te muestra información del sistema cuando accedes a ella.\nDesde la instalación de Arch Linux había estado usando la configuración por defecto de fastfetc"
   },
   {
     "blog": "danielaragay.net",
@@ -389,7 +431,7 @@
     "titulo": "El porque este blog fue bloqueado en mi trabajo",
     "link": "https://matizeta.com/2026/08/26/el-porque-este-blog-fue-bloqueado-en-mi-trabajo/",
     "fecha": "26/08/2026 08:11",
-    "contenido": "No hizo falta hablar con el área de IT."
+    "contenido": "No hizo falta hablar con el área de IT.Entradas relacionadas:Cosas a tener en cuenta antes de abrir tu blogLa decadencia de la webImposible escaparEl tipo de cafetera que juré nunca comprar (y&hellip;Mi experiencia montando una nube privada"
   },
   {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
@@ -459,7 +501,7 @@
     "titulo": "Cosmos47",
     "link": "https://matizeta.com/2026/08/25/cosmos47/",
     "fecha": "25/08/2026 08:11",
-    "contenido": "Una red social creada por un programador cansado de las redes sociales."
+    "contenido": "Una red social creada por un programador cansado de las redes sociales.Entradas relacionadas:Kodak CharmerawriterdeckOSListedDaft SocialKolibriOS"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -543,7 +585,7 @@
     "titulo": "Dos años escribiendo este blog",
     "link": "https://matizeta.com/2026/08/24/dos-anos-escribiendo-este-blog/",
     "fecha": "24/08/2026 08:11",
-    "contenido": "Un nuevo aniversario de esta web."
+    "contenido": "Un nuevo aniversario de esta web.Entradas relacionadas:Poniendo un límite a mi uso de redes socialesPegué el salto a un iPhone Pro y estas son las&hellip;El iPad es un juguete caroPlataformas para tener tu blog (algunas bastante&hellip;Un año escribiendo"
   },
   {
     "blog": "brucknerite",
@@ -774,7 +816,7 @@
     "titulo": "Un directorio de blogs para personas que aman el RSS",
     "link": "https://matizeta.com/2026/08/20/un-directorio-de-blogs-para-personas-que-aman-el-rss/",
     "fecha": "20/08/2026 13:43",
-    "contenido": "Además tiene un feed público para leer el contenido de los blogs asociados."
+    "contenido": "Además tiene un feed público para leer el contenido de los blogs asociados.Entradas relacionadas:Post-itBuscadores de blogs personalesLos blogs que me motivaron a tener el míoPor favor, habilita la caja de comentariosPlataformas para tener tu blog (algunas bastante&hellip;"
   },
   {
     "blog": "Fabio.com.ar",
@@ -991,7 +1033,7 @@
     "titulo": "Tu correo electrónico es el mejor álbum de recuerdos que puedas tener",
     "link": "https://matizeta.com/2026/08/17/tu-correo-electronico-es-el-mejor-album-de-recuerdos-que-puedas-tener/",
     "fecha": "17/08/2026 08:11",
-    "contenido": "Te sorprenderá volver a descubrir a tu yo de hace diez años atrás."
+    "contenido": "Te sorprenderá volver a descubrir a tu yo de hace diez años atrás.Entradas relacionadas:CambiosLecturas recomendadas #9Resumen del mes (enero 2026)Una vuelta de tuerca a la sección ¡Now!Lecturas recomendadas #7"
   },
   {
     "blog": "La Frikoteca",
@@ -1006,6 +1048,13 @@
     "link": "https://www.quiroptero.blog/2026/08/anuncios/",
     "fecha": "17/08/2026 06:00",
     "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "La psicologa sin empatía",
+    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
+    "fecha": "17/08/2026 00:00",
+    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
   },
   {
     "blog": "JDRM",
@@ -1215,7 +1264,7 @@
     "titulo": "Es mejor optimizar el software que sumar más hardware",
     "link": "https://matizeta.com/2026/08/13/es-mejor-optimizar-el-software-que-sumar-mas-hardware/",
     "fecha": "13/08/2026 15:52",
-    "contenido": "Y eso es lo que Google aprendió a la fuerza con sus nuevos teléfonos Pixel."
+    "contenido": "Y eso es lo que Google aprendió a la fuerza con sus nuevos teléfonos Pixel.Entradas relacionadas:Todo lo que me quedó en el tintero sobre el Apple Event Mi experiencia montando una nube privadaPegué el salto a un iPhone Pro y estas son las&hellip;Esta es la mejor app de notas que puedo recomendarteT"
   },
   {
     "blog": "labaudric",
@@ -1341,7 +1390,7 @@
     "titulo": "Cambios",
     "link": "https://matizeta.com/2026/08/11/cambios/",
     "fecha": "11/08/2026 14:20",
-    "contenido": "Más cambios en vísperas de un nuevo aniversario del blog."
+    "contenido": "Más cambios en vísperas de un nuevo aniversario del blog.Entradas relacionadas:Comprar lo que NO necesitasPequeños cambios en mi blog¿Qué va a pasar con mi blog?Lecturas recomendadas #9Lecturas recomendadas #4"
   },
   {
     "blog": "Jinversor",
@@ -1405,6 +1454,13 @@
     "link": "https://elblogdelazaro.org/cloudflare-analytics-activado-automaticamente/",
     "fecha": "10/08/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "TuLotero ha sido hackeada",
+    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
+    "fecha": "10/08/2026 00:00",
+    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1496,6 +1552,13 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quien-pierde-las-formas/",
     "fecha": "08/08/2026 00:00",
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Web component para mostrar spoilers en tu blog",
+    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
+    "fecha": "08/08/2026 00:00",
+    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
   },
   {
     "blog": "Maverick HQ",
@@ -1628,7 +1691,7 @@
     "titulo": "¡Blog!¡Blog! cumple su primer año",
     "link": "https://matizeta.com/2026/08/06/blogblog-cumple-su-primer-ano/",
     "fecha": "06/08/2026 12:21",
-    "contenido": "Un carta de agradecimiento a todos los que forman parte."
+    "contenido": "Un carta de agradecimiento a todos los que forman parte.Entradas relacionadas:Resumen del mes (enero 2026)CambiosLecturas recomendadas #7La \"antiambición\" o cómo encontrar la felicidad en&hellip;Los blogs en español y su escasa existencia"
   },
   {
     "blog": "Mareos de un geek",
@@ -1670,7 +1733,7 @@
     "titulo": "Cambios en mi blog (nuevamente)",
     "link": "https://matizeta.com/2026/08/05/cambios-en-mi-blog-nuevamente/",
     "fecha": "05/08/2026 16:41",
-    "contenido": "Nuevas funcionalidades, rediseño de plantillas y algunas cosas más."
+    "contenido": "Nuevas funcionalidades, rediseño de plantillas y algunas cosas más.Entradas relacionadas:Pequeños cambios en mi blogMis blogs-categoríasRediseño del pie de las entradas del blogLa \"antiambición\" o cómo encontrar la felicidad en&hellip;Cambio de nombre: /blog ahora se llama POV"
   },
   {
     "blog": "THE_CHEI$",
@@ -1806,6 +1869,13 @@
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Ayer fue uno de los días más duros en el veterinario",
+    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
+    "fecha": "04/08/2026 00:00",
+    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
@@ -1860,6 +1930,13 @@
     "link": "https://alt43.es/utiq-la-supercookie-de-las-operadoras/",
     "fecha": "03/08/2026 07:30",
     "contenido": "Utiq es el identificador publicitario que Movistar, Orange, Vodafone y sus marcas asociadas generan a nivel de tu línea móvil o de fibra, capaz de reconocerte durante 90 días aunque cambies de navegador o de dispositivo. Comentamos su funcionamiento y qué medidas podemos implementar para reducir nue"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "",
+    "link": "https://altgr.xyz/2026/08/02/2777/",
+    "fecha": "03/08/2026 02:56",
+    "contenido": "Querido diario bitácora: Hoy hice mi primer pesto y hallo que no me quedó nada de mal. Mis comensalas opinaron lo mismo, lo que me hace sentir orgulloso de mis pocas habilidades en la cocina. Hoy fue un lindo día."
   },
   {
     "blog": "Diego Cano",
@@ -1937,40 +2014,5 @@
     "link": "http://locutusbit.blogspot.com/2026/08/soberania.html",
     "fecha": "01/08/2026 12:00",
     "contenido": "&nbsp;En el artillero de acrílicos desordenados,un estante repleto de materia y olvido,asume, con petulancia,una red de condicionamientos recíprocos,un asalto a la soledad, la lucidez y la torpeza.Pascual Herrera"
-  },
-  {
-    "blog": "Alexis Alzate",
-    "titulo": "Alejarse, volver, y volver a alejarse",
-    "link": "https://alexisalzate.com/blog/2026-08-01/",
-    "fecha": "01/08/2026 00:00",
-    "contenido": "Póngale palabras a sus sueños e intente asociar.\nMe interesa saber más sobre las monstruosidades que hay en en el\ntrasfondo de mi propia vida. Me llama la atención la cotidianidad de\nlos horrores y el enmudecimiento general de quienes lo vivimos. En\nconfrontar la sensación de que algo no se cuenta, "
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "Bastante de mi software quiere ser libre",
-    "link": "https://alex.corcoles.net/2026/08/bastante-de-mi-software-quiere-ser-libre",
-    "fecha": "01/08/2026 00:00",
-    "contenido": "\n  \n    El otro d&#237;a en una conversaci&#243;n de Mastodon repar&#233; en que hay un aspecto de mis monotemas del que es posible que todav&#237;a no haya soltado ning&#250;n ladrillo.\n  \n  \n    (La anterior entrega de mis monotemas, por si quer&#233;is poneros un poco en contexto.)\n  \n  Llevo apr"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 31 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/07/31/opensuse-tumbleweed-revision-de-la-semana-31-de-2026/",
-    "fecha": "31/07/2026 21:18",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "572. Diez dedos o veintisiete teclas",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/07/572-diez-dedos-o-veintisiete-teclas.html",
-    "fecha": "31/07/2026 18:33",
-    "contenido": "&nbsp; &nbsp; Tengo diez dedos con los que poder acariciarte si estuvieras aquí. Pero, como siempre estás lejos, lo intento con veintisiete teclas. Ahora mismo son las dieciocho y cincuenta y tres. Pese a la ola de calor, tengo la ventana abierta. Ráfagas de aire caliente me visitan de vez en cuando"
-  },
-  {
-    "blog": "Escritos en la nube",
-    "titulo": "De vuelta a Linux",
-    "link": "https://nube.codeberg.page/blog/devuelta/",
-    "fecha": "31/07/2026 17:17",
-    "contenido": "\nEn el post anterior las cosas parecían ser muy oscuras, no era bait, lo eran.\nAunque intenté decir algo optimista, positivo, yo realmente no esperaba volver a tener una PC este año&hellip; pero bueno, la vida da sorpresas, y a veces las conexiones genuinas que podemos hacer online pueden cambiar un"
   }
 ]
