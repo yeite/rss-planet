@@ -1,5 +1,68 @@
 [
   {
+    "blog": "Escritos en la nube",
+    "titulo": "Cambiar servicios en la nube por software sin conexión",
+    "link": "https://nube.codeberg.page/blog/offline/",
+    "fecha": "01/09/2026 13:58",
+    "contenido": "\nQuisiera empezar este post con algunas preguntas: ¿que tanto dependes de internet? ¿si te quedas sin internet en este momento, a cuantas cosas perderías acceso?, ¿todas tus cosas son realmente tuyas?\nYo me he hecho esas preguntas desde que tengo una conexión a internet propia, porque en mi contexto"
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "El pico de la reminiscencia",
+    "link": "http://locutusbit.blogspot.com/2026/09/el-pico-de-la-reminiscencia.html",
+    "fecha": "01/09/2026 12:00",
+    "contenido": "&nbsp;La memoria exige,los momentos persisten;esos momentos sin finalidad,donde la tentación invitaa caer en el libre albedrío,en la red de mandíbulasque atrapa los sentidosvulnerables al aire, al agua,a cualquier elementoatrapado en paquetes&nbsp;de instruccionesenvueltos en una cápsulaque encierra"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El para-avalanchas de Flateyri",
+    "link": "https://www.fabio.com.ar/10011-el-para-avalanchas-de-flateyri",
+    "fecha": "01/09/2026 12:00",
+    "contenido": "    \nA las 4 de la ma&ntilde;ana del 26 de Octubre de 1995 una avalancha asol&oacute; el peque&ntilde;o pueblito island&eacute;s de Flateryi, 20 muertos y 25 heridos, 17 casas destruidas, nueve meses antes otras 14 personas hab&iacute;an muerto en un evento similar en S&uacute;&eth;av&iacute;k.\nEl g"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Voz De Los Que No Tienen Voz…",
+    "link": "https://www.delotroladometal.com.ar/2026/09/01/la-voz-de-los-que-no-tienen-voz/",
+    "fecha": "01/09/2026 10:30",
+    "contenido": "Primero de mes, y como siempre, nos gusta compartir alguna que otra reflexión. Algo para...\nThe post La Voz De Los Que No Tienen Voz… first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "56K",
+    "titulo": "Videos a 1 Frame Por Minuto: La nueva moda",
+    "link": "https://56k.es/fanta/video-podcasts-a-1-frame-por-minuto-la-nueva-moda/",
+    "fecha": "01/09/2026 10:09",
+    "contenido": "Tengo un problema con los video-podcasts y creo que la mayoría de la gente también. Te lo voy a tratar de contar en este post no sin antes darte la brasa un poco y finalmente darte el contenido tan preciado por el que has venido aquí. Odio los video-podcasts que son de llevar a gente y..."
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "La banda Babasónicos y un show sorpresa en una terraza (hay video)",
+    "link": "https://matizeta.com/2026/09/01/babasonicos-dio-un-show-sorpresa-en-una-terraza-hay-video/",
+    "fecha": "01/09/2026 08:11",
+    "contenido": "Con motivo de aniversario de una radio.Entradas relacionadas:Mi bicicleta ideal para andar por la ciudadEl momento como protagonistaOdio a los Argentinos (los más racistas del mundo)Cómo escribir «páginas matutinas» y no morir en el intentoAviso importante"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Cinco sabores, un equilibrio",
+    "link": "https://blog.danielaragay.net/cinco-sabores-un-equilibrio/",
+    "fecha": "01/09/2026 07:09",
+    "contenido": "Después de meses hablando de Tailandia en vídeo, hoy estrenamos algo nuevo: ThaiZapZap, el podcast. No sustituye al canal de YouTube, lo complementa — un espacio sin prisas para hablar de todo lo que no cabe en un guión de ocho minutos."
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Un Año de La Bitácora y El Día Mundial del Blog",
+    "link": "https://altgr.xyz/2026/09/01/un-ano-de-la-bitacora-y-el-dia-mundial-del-blog/",
+    "fecha": "01/09/2026 03:06",
+    "contenido": "Esta mañana me enteré de que existe el World Blog Day, o sea, el Día Mundial del Blog y es justo hoy 31 de Agosto. Eso se suma a que por estos días &#8212;hace una semana exactamente&#8212; se cumple un año desde que retomé la aventura de escribir en este espacio que he llamado La Bitácora de un Ete"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "581. Las niñas buenas salen a jugar",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/09/581-las-ninas-buenas-salen-jugar.html",
+    "fecha": "31/08/2026 22:00",
+    "contenido": "&nbsp; &nbsp; Las temperaturas habían descendido y la sociedad seguía cayéndose a pedazos. Cada día teníamos nuevas muestras de ello. Además de la gilipollez global ciudadana, el asesinato y la violencia continuaban siendo compañeros fieles de nuestro día a día.&nbsp; &nbsp; Era duro ser madre y des"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Traducción de la entrevista a Richard Stallman en la web FOSS Force",
     "link": "https://victorhckinthefreeworld.com/2026/08/31/traduccion-de-la-entrevista-a-richard-stallman-en-la-web-foss-force/",
@@ -96,6 +159,13 @@
     "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
     "fecha": "31/08/2026 00:00",
     "contenido": "Autoalojar proyectos Git al estilo de GitHub"
+  },
+  {
+    "blog": "Maverick HQ",
+    "titulo": "weeknotes 26.4",
+    "link": "https://maverick-hq.org/blog/weeknotes-26-4/",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Estado actual: escuchando un gameplay de Anggelos 2 porque mientras escribo no puedo mirar. Es un metroidvania de estilo 16 bits que parece bastante difícil.\nCreo que esta vez llego un par de semanas tarde. Vaaaaale. Lo sieeeento. Pero es que no he tenido muchos ánimos para escribir y realmente no e"
   },
   {
     "blog": "La Frikoteca",
@@ -826,13 +896,6 @@
     "contenido": "En esta tercera edición volvemos con THE_CHEI$, como siempre, con 2 recomendaciones. Nombre del bloguero: THE_CHEI$ Links: thecheis.com https://mstdn.social/@the_cheis Presentación: (Extracto de su web) Fabricado en Galicia a finales de los años 80. Mi nombre es Christian y me encanta la tecnología,"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"Dayspring\" Será Su Nuevo Álbum | The Light Superior Lleva El Metalcore A Otro Nivel",
-    "link": "https://www.delotroladometal.com.ar/2026/08/21/the-light-superior-lleva-el-metalcore-a-otro-nivel/",
-    "fecha": "21/08/2026 10:35",
-    "contenido": "Actualmente hay cientos de propuestas que se basan en el subgénero del Metalcore, un estilo...\nThe post \"Dayspring\" Será Su Nuevo Álbum | The Light Superior Lleva El Metalcore A Otro Nivel first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Mi perra vida",
     "titulo": "Mi perra vida | Temporada 2026, episodio 34.",
     "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-34/",
@@ -1027,13 +1090,6 @@
     "link": "https://56k.es/fanta/aprende-ingles-con-ficcion-interactiva-de-los-anos-80/",
     "fecha": "18/08/2026 13:27",
     "contenido": "Las aventuras conversacionales dicen que son buena cosa pero no aptas para todo el mundo. Lo primero es que requieren paciencia como todo lo que merece la pena en esta vida. Hoy vamos a comentar los juegos que realizaron en la empresa de Anita Sinclair y que al día de hoy siguen siendo historias int"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Tanques en paz - 19",
-    "link": "https://www.fabio.com.ar/10002-tanques-en-paz---19",
-    "fecha": "18/08/2026 12:00",
-    "contenido": "    \nSiguen apareciendo fotos de tanques en estado paup&eacute;rrimo, abandonados, oxidados, vencidos, descabezados. Y a mi me gusta ese contraste entre la m&aacute;quina furiosa asesina y su costado d&eacute;bil, el abandono en el campo de batalla, el verde que se le sube y lo va conquistando todo."
   },
   {
     "blog": "56K",
@@ -1799,13 +1855,6 @@
     "contenido": "Lanzamiento Ubuntu Touch 24.04-2.0 y 24.04-1.4\nNavegador actualizado, función para evitar la muesca, editor de capturas de pantalla y compatibilidad para imprimir"
   },
   {
-    "blog": "matizeta",
-    "titulo": "Cambios en mi blog (nuevamente)",
-    "link": "https://matizeta.com/2026/08/05/cambios-en-mi-blog-nuevamente/",
-    "fecha": "05/08/2026 16:41",
-    "contenido": "Nuevas funcionalidades, rediseño de plantillas y algunas cosas más.Entradas relacionadas:Pequeños cambios en mi blogMis blogs-categoríasRediseño del pie de las entradas del blogLa \"antiambición\" o cómo encontrar la felicidad en&hellip;Cambio de nombre: /blog ahora se llama POV"
-  },
-  {
     "blog": "THE_CHEI$",
     "titulo": "Películas de la temporada #10",
     "link": "https://thecheis.com/2026/08/05/peliculas-de-la-temporada-10/",
@@ -1981,13 +2030,6 @@
     "contenido": "Hay una maniobra retórica que lamentablemente ya veo en uso todos los días y cuyo nombre en inglés no se traduce bien, así que le voy a poner yo uno: el reencuadre manipulativo. Consiste en decir muy fuerte que estás peleando por un principio casi filosófico cuando en realidad estás peleando por otr"
   },
   {
-    "blog": "56K",
-    "titulo": "Ayuso VS Una lechuga",
-    "link": "https://56k.es/fanta/ayuso-vs-una-lechuga/",
-    "fecha": "03/08/2026 10:40",
-    "contenido": "¿Quien aguantará más?, ¿Ayuso la Presidenta de la comunidad de Madrid (Spain) o una lechuga? Hoy día 3 de Agosto del 2026 hemos puesto a Ayuso-Lechuga en el patio para ver como se descompone, para comprobar quien dura más y lo hemos anunciado en redes sociales. Ayuso supuestamente vivía de alquiler "
-  },
-  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "La maldición de la equivalencia funcional",
     "link": "https://vonneumannmachine.wordpress.com/2026/08/03/la-maldicion-de-la-equivalencia-funcional/",
@@ -2000,6 +2042,13 @@
     "link": "https://alt43.es/utiq-la-supercookie-de-las-operadoras/",
     "fecha": "03/08/2026 07:30",
     "contenido": "Utiq es el identificador publicitario que Movistar, Orange, Vodafone y sus marcas asociadas generan a nivel de tu línea móvil o de fibra, capaz de reconocerte durante 90 días aunque cambies de navegador o de dispositivo. Comentamos su funcionamiento y qué medidas podemos implementar para reducir nue"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "",
+    "link": "https://altgr.xyz/2026/08/02/2777/",
+    "fecha": "03/08/2026 02:56",
+    "contenido": "Querido diario bitácora: Hoy hice mi primer pesto y hallo que no me quedó nada de mal. Mis comensalas opinaron lo mismo, lo que me hace sentir orgulloso de mis pocas habilidades en la cocina. Hoy fue un lindo día."
   },
   {
     "blog": "Diego Cano",
@@ -2042,26 +2091,5 @@
     "link": "https://jinversor.co/2026/08/embelecos/",
     "fecha": "02/08/2026 16:00",
     "contenido": "Me aburren los embelecos y me irritan las razones que, supuestamente, los justifican. Razones que, en la mayoría de los casos, no aguantan una revisión seria de cinco minutos. Ni [&#8230;]"
-  },
-  {
-    "blog": "Tecno y Soft",
-    "titulo": "Cómo solucionar el error «Error reading fd» al limpiar la caché de Pacman en Arch Linux y derivadas",
-    "link": "https://tecnoysoft.com/2026/08/02/como-solucionar-el-error-error-reading-fd-al-limpiar-la-cache-de-pacman-en-arch-linux-y-derivadas/",
-    "fecha": "02/08/2026 11:05",
-    "contenido": "Si al ejecutar sudo pacman -Scc, pacman -Sc o incluso paccache aparecen mensajes similares a los siguientes: Es probable que el problema no sea Pacman ni Paccache, sino la existencia de directorios temporales que han quedado en la caché del sistema. ¿Qué provoca este error? Durante la descarga de pa"
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "Semana 31/2026",
-    "link": "https://www.macram.es/posts/2026/08/semana-31-2026/",
-    "fecha": "02/08/2026 09:06",
-    "contenido": "Se me hace muy raro llevar una semana de vacaciones. Me queda otra por delante hasta encontrarme… no tengo muy claro qué. He sucumbido a la tentación de mirar el correo corporativo para hacerme una idea. Todo está bien y creo que puedo pasar la semana tranquilo.\nAyer estuve tentado de irme a pasar t"
-  },
-  {
-    "blog": "El Sitio de Manieflo",
-    "titulo": "Estamos haciendo cambios en la parte interna del Sitio.",
-    "link": "https://elprofejuan.com.ar/estamos-haciendo-cambios-en-la-parte-interna-del-sitio",
-    "fecha": "01/08/2026 23:14",
-    "contenido": "\nHace tiempo no postéo nada en mi blog, estamos haciendo cambios en el mismo y además tratando de centralizar toda la información en este medio.\n"
   }
 ]
