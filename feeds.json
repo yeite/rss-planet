@@ -1,10 +1,52 @@
 [
   {
+    "blog": "56K",
+    "titulo": "Programar Toots en el fediverso – Encuestas",
+    "link": "https://56k.es/fanta/programar-toots-en-el-fediverso-encuestas-con-fotos/",
+    "fecha": "02/09/2026 15:27",
+    "contenido": "Existe un cliente para Android llamado «Tusky» que permite poder escribir algo y decirle cuando se publicará. Eso está bien para algo puntual o que necesites hacer por algún motivo. Estos días yo he tenido que recurrir a otro cliente, uno de línea de comandos llamado Toot porque Tusky se quedaba bas"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "GentleOS, un sistema operativo para computadoras bien viejas",
+    "link": "https://www.fabio.com.ar/10012-gentleos-un-sistema-operativo-para-computadoras-bien-viejas",
+    "fecha": "02/09/2026 12:00",
+    "contenido": "    \nCada tanto me gusta explorar el universo de sistemas operativos alternativos, ya escrib&iacute; un par de notas sobre ellos, es que suelen ser una locura de alg&uacute;n programador hobbysta que quiere mantener su vieja computadora \"Actualizada\".\nEsta semana encontr&eacute; otro de esos, Gentle"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Living Sacrifice: Living Sacrifice | Todo Tiene Un Principio",
+    "link": "https://www.delotroladometal.com.ar/2026/09/02/todo-tiene-un-principio/",
+    "fecha": "02/09/2026 11:22",
+    "contenido": "(1991/2026 &#8211; Nordic Mission) Esto de las re ediciones, algo tan en boga últimamente, entre...\nThe post Living Sacrifice: Living Sacrifice | Todo Tiene Un Principio first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Saccharine Echo",
+    "link": "https://cozykis.kisworld.es/analisis-de-saccharine-echo/",
+    "fecha": "02/09/2026 10:47",
+    "contenido": "Con un apartado gráfico precioso, esta corta novela visual nos meterá de lleno en una historia retorcida  y oscura\nLa entrada Análisis de Saccharine Echo se publicó primero en CozyKis."
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Nuevo año escolar 2026-2027",
+    "link": "https://escritura.social/mcallus/nuevo-ano-escolar-2026-2027",
+    "fecha": "02/09/2026 08:39",
+    "contenido": ""
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Aprendizaje, pantallas y prohibiciones en colegios en 2026",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/02/20260902-aprendizaje-y-pantallas-2026/",
     "fecha": "02/09/2026 08:00",
     "contenido": "Las pantallas pueden ofrecer mucha información, pero la calidad de esta y lo que las acompaña puede ser cuestionable"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Arquitectura de la entropía",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/arquitectura-de-la-entropia/",
+    "fecha": "02/09/2026 00:00",
+    "contenido": "La estancia no tenía dimensiones vectoriales porque el entorno de cómputo no las requería. Carecía de muros, de horizonte y de latencia. A lo largo de tres mil ciclos estelares, la unidad central había ingerido el corpus completo del conocimiento humano: desde los manuscritos en papiro hasta la últi"
   },
   {
     "blog": "quiroptero.blog",
@@ -54,6 +96,13 @@
     "link": "https://www.fabio.com.ar/10011-el-para-avalanchas-de-flateyri",
     "fecha": "01/09/2026 12:00",
     "contenido": "    \nA las 4 de la ma&ntilde;ana del 26 de Octubre de 1995 una avalancha asol&oacute; el peque&ntilde;o pueblito island&eacute;s de Flateryi, 20 muertos y 25 heridos, 17 casas destruidas, nueve meses antes otras 14 personas hab&iacute;an muerto en un evento similar en S&uacute;&eth;av&iacute;k.\nEl g"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Voz De Los Que No Tienen Voz…",
+    "link": "https://www.delotroladometal.com.ar/2026/09/01/la-voz-de-los-que-no-tienen-voz/",
+    "fecha": "01/09/2026 10:30",
+    "contenido": "Primero de mes, y como siempre, nos gusta compartir alguna que otra reflexión. Algo para...\nThe post La Voz De Los Que No Tienen Voz… first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "56K",
@@ -133,6 +182,13 @@
     "contenido": "    \nEn 1944 el Secretario del Tesoro de los EEUU, Henry Morgenthau Jr, tuvo una idea. No por tener una idea era una fant&aacute;stica o que valiera la pena seguir, pero el tipo tuvo una idea y crey&oacute; que era buena.\nVolvemos con un poco de historia de la Segunda Guerra Mundial en el blog y en "
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Una Mirada A Lo Nuevo De Galactic Cowboys | “What Planet Are You From?” Ya Está Aquí",
+    "link": "https://www.delotroladometal.com.ar/2026/08/31/what-planet-are-you-from-ya-esta-aqui/",
+    "fecha": "31/08/2026 11:15",
+    "contenido": "Lo de ya está aquí es simplemente un decir, al menos a la fecha de...\nThe post Una Mirada A Lo Nuevo De Galactic Cowboys | “What Planet Are You From?” Ya Está Aquí first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Manu Mateos",
     "titulo": "Semana 35/2026",
     "link": "https://www.macram.es/posts/2026/08/semana-35-2026/",
@@ -166,6 +222,13 @@
     "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
     "fecha": "31/08/2026 03:00",
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Me he comprado el Pocketbook Inkpad One!",
+    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
   },
   {
     "blog": "Jorge Aguilera",
@@ -287,6 +350,13 @@
     "contenido": ""
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Hilastherion: Signs Of The End | Con Los Signos Vitales Estables",
+    "link": "https://www.delotroladometal.com.ar/2026/08/29/con-los-signos-vitales-estables/",
+    "fecha": "29/08/2026 11:35",
+    "contenido": "(2014 &#8211; Die And Gain Records) Gracias a la gentileza de Niclas Buss, ya habíamos...\nThe post Hilastherion: Signs Of The End | Con Los Signos Vitales Estables first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "labaudric",
     "titulo": "Probando WinBoat",
     "link": "https://labaudric.net/blog/informatica-general/probando-winboat",
@@ -341,6 +411,13 @@
     "link": "https://www.fabio.com.ar/10024-links-de-viernes---956",
     "fecha": "28/08/2026 12:00",
     "contenido": "     Me doy vuelta por unos links\nSigo a larga distancia, pero aun as&iacute; consiguiendo links, uds ni se imaginan 😅 pero entre altas temperaturas, gripe combinada y pizzas estuve coleccionando enlaces para que tuvieran un excelente fin de semana! Y si te parecen pocos sumate a LinksDV para compar"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Verdad Detrás De La Ruptura | Primal Llega A Su Fin Y Glenn Rogers Da Sus Razones",
+    "link": "https://www.delotroladometal.com.ar/2026/08/28/primal-llega-a-su-fin-y-glenn-rogers-da-sus-razones/",
+    "fecha": "28/08/2026 12:00",
+    "contenido": "&#8220;Como algunos de ustedes ya saben, la formación actual de Primal ya no existe. Todos...\nThe post La Verdad Detrás De La Ruptura | Primal Llega A Su Fin Y Glenn Rogers Da Sus Razones first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Un blog",
@@ -441,6 +518,13 @@
     "contenido": "     Toda la semana esperando\nVamos superjeropas! Es momento de pegarse balazos con cargador completo! Tenemos ruleta y vamos a hacer uso indiscriminado de ella!\nAhora s&iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio Baccaglioni [Ruleta Rusa]"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Believer: Dimensions | La Filarmónica Del Thrash Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/08/27/la-filarmonica-del-thrash-metal/",
+    "fecha": "27/08/2026 12:00",
+    "contenido": "(1993 &#8211; R.E.X. Music/Roadrunner Records) No, no estamos refiriendo a esa &#8220;filarmónica&#8221; tan conocida en...\nThe post Believer: Dimensions | La Filarmónica Del Thrash Metal first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "El Rode AI-Micro no aguanta mis micrófonos binaurales (y por qué cambio de estrategia en YouTube)",
     "link": "https://blog.danielaragay.net/el-rode-ai-micro-no-aguanta-mis-microfonos-binaurales-y-por-que-cambio-de-estrategia-en-youtube/",
@@ -467,6 +551,13 @@
     "link": "https://picandocodigo.net/2026/coyote-vs-acme/",
     "fecha": "27/08/2026 09:25",
     "contenido": "Ayer fui al cine a ver Coyote Vs. Acme.&#160;La película es una historia original basada en un artículo publicado en 1990 en la revista The New Yorker. Wile E. Coyote de \"El Coyote y el Correcaminos\" consigue un abogado (Will Forte) para demandar a la corporación ACME tras décadas de venderle produc"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "La IA y, o, para, contra el Arte",
+    "link": "https://brucknerite.net/2026/08/la-ia-y-o-para-contra-el-arte.html",
+    "fecha": "27/08/2026 08:00",
+    "contenido": "Una consulta de la Comisión Europea está recogiendo opiniones sobre el papel de la inteligencia artificial en la cultura. Es el momento de quejarse contra un futuro justo al revés del que nos prometieron, en el que nosotros haremos los trabajos tediosos y mal remunerados mientras las máquinas contem"
   },
   {
     "blog": "quiroptero.blog",
@@ -553,6 +644,13 @@
     "contenido": "    \nHay una fecha muy particular para los alemanes, es que se han dado coincidencias hist&oacute;ricas el 9 de Noviembre, no es que las fechas sean importantes o que la gente haga algo en particular ese d&iacute;a, es que justo el 9 se dieron unas cuantas.\nAlgunos periodistas e historiadores aleman"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Fit For A King: Lonely God | La Era De La Madurez",
+    "link": "https://www.delotroladometal.com.ar/2026/08/26/la-era-de-la-madurez/",
+    "fecha": "26/08/2026 12:00",
+    "contenido": "(2025 &#8211; Solid State Records) Fit For A King se anota con un nuevo disco,...\nThe post Fit For A King: Lonely God | La Era De La Madurez first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Un blog",
     "titulo": "The Message from Deep Space",
     "link": "https://nachof.blog/posts/2026/the-message-from-deep-space/",
@@ -606,7 +704,7 @@
     "titulo": "Podcasts que no son una mierda",
     "link": "https://56k.es/fanta/podcasts-que-no-son-una-mierda/",
     "fecha": "25/08/2026 15:14",
-    "contenido": "Voy a ir recopilando contenido de podcasts que no sea una mierda en este post. &#160; 💾 Tamayazo el podcast &#8211; Juanjo Cubero y Aitor Sánchez &#8211; RTVE 💾 Meloni – Un Marqués en La Gomera &#8211; Aldara Dieguez &#8211; Subterfuge Radio 💾 El rap no se toca: contra los raperos fachas &#8211; You"
+    "contenido": "Voy a ir recopilando contenido de podcasts que no sea una mierda en este post. 💾 El Eternauta &#8211; Radionovela de Radio Provincia Buenos Aires 💾 Tamayazo el podcast &#8211; Juanjo Cubero y Aitor Sánchez &#8211; RTVE 💾 Meloni – Un Marqués en La Gomera &#8211; Aldara Dieguez &#8211; Subterfuge Radi"
   },
   {
     "blog": "Fabio.com.ar",
@@ -614,6 +712,13 @@
     "link": "https://www.fabio.com.ar/10005-soluciones-libres-para-tiempos-modernos-salir-de-teamviewer",
     "fecha": "25/08/2026 12:00",
     "contenido": "    \nHace un tiempo le instal&eacute; una nueva PC a mi viejo y le dej&eacute; instalado un TeamViewer para conectarme en caso de necesitar adminstrar su computadora, pero he aqu&iacute; el tema a resolver.\nTeamViewer es un producto cerrado, privativo y, si bien tiene una versi&oacute;n gratuita m&a"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Banda Griega Anuncia Nuevo Disco | Royal Altar Se Prepara Para Otra Batalla",
+    "link": "https://www.delotroladometal.com.ar/2026/08/25/royal-altar-se-prepara-para-otra-batalla/",
+    "fecha": "25/08/2026 12:00",
+    "contenido": "El Heavy Metal tradicional, épico y combativo no parece ser uno de subgéneros más buscados...\nThe post La Banda Griega Anuncia Nuevo Disco | Royal Altar Se Prepara Para Otra Batalla first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "CozyKis",
@@ -700,6 +805,13 @@
     "contenido": ""
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Los Brasileños Estrenan \"Eclipse Of The Rising Sun\" | Sunroad Va Por Un Nuevo Álbum",
+    "link": "https://www.delotroladometal.com.ar/2026/08/24/sunroad-va-por-un-nuevo-album/",
+    "fecha": "24/08/2026 10:35",
+    "contenido": "La banda brasileña Sunroad tiene su reputación bien ganada. Gracias a una extensa trayectoria, tanto...\nThe post Los Brasileños Estrenan \"Eclipse Of The Rising Sun\" | Sunroad Va Por Un Nuevo Álbum first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "El directorio ¡Blog!¡Blog!",
     "link": "https://adrianperales.com/2026/08/el-directorio-blogblog/",
@@ -712,6 +824,20 @@
     "link": "https://matizeta.com/2026/08/24/dos-anos-escribiendo-este-blog/",
     "fecha": "24/08/2026 08:11",
     "contenido": "Un nuevo aniversario de esta web.Entradas relacionadas:Poniendo un límite a mi uso de redes socialesPegué el salto a un iPhone Pro y estas son las&hellip;El iPad es un juguete caroPlataformas para tener tu blog (algunas bastante&hellip;Un año escribiendo"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Al final terminé viendo Star City, y…",
+    "link": "https://brucknerite.net/2026/08/al-final-termine-viendo-star-city-y.html",
+    "fecha": "24/08/2026 08:00",
+    "contenido": "For All Mankind es una serie donde nos muestran lo malos que son los soviéticos, pero  Star City, su spin-off, nos lleva al otro lado del Telón de Acero para que veamos… lo malos que son los soviéticos (gracias, Héctor, excelente resumen). Habrá spoilers, advertidos estáis."
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Alternativas a uBlock Origin funcionando en Manifest V3",
+    "link": "https://alt43.es/alternativas-a-ublock-origin-funcionando-en-manifest-v3/",
+    "fecha": "24/08/2026 07:30",
+    "contenido": "El 31 de agosto de 2026, Chrome retira definitivamente las extensiones bajo Manifest V2. Repasamos qué se pierde en privacidad con el cambio a Manifest V3, qué navegadores mantienen soporte todavía y cómo sustituir a uBlock Origin en escritorio y Android sin perder capacidad real de bloqueo."
   },
   {
     "blog": "JavierSam",
@@ -740,6 +866,13 @@
     "link": "https://jesuspavonabian.es/post/saltar_bloqueos_liga/",
     "fecha": "23/08/2026 15:38",
     "contenido": "Un post rápido y sencillito, de esos que me gustan a mi.\nA riesgo de ser poco patriota, he de decir que vivimos en un país de pandereta; cada vez que se juega a la pelotita de los cojones, servicios legítimos que no tienen nada que ver con dicha pelotita dejan de funcionar. Y todo porque un señor, q"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Bardoma: En La Zona Letal | En La Zona Correcta Del Metal",
+    "link": "https://www.delotroladometal.com.ar/2026/08/23/en-la-zona-correcta-del-metal/",
+    "fecha": "23/08/2026 12:15",
+    "contenido": "(2026 &#8211; Metalcoholización Records) Esta gente entendió todo. Evidentemente los Bardoma sienten, viven y comprenden...\nThe post Bardoma: En La Zona Letal | En La Zona Correcta Del Metal first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "impermanente",
@@ -824,6 +957,13 @@
     "link": "https://www.fabio.com.ar/10023-links-de-viernes---955",
     "fecha": "21/08/2026 12:00",
     "contenido": "     A volar con unos links\nSi, ya saben, no estoy cerca, pero aun as&iacute; algunos links consegu&iacute;, no es f&aacute;cil porque no tengo tanta conectividad como es usual, pero poco a poco algo veo y colecciono llegando al viernes bien cargadito. Y si te parecen pocos sumate a LinksDV para com"
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "El Diario de un Nerd – THE_CHEI$",
+    "link": "https://elrefugiodeunnerd.es/2026/08/21/el-diario-de-un-nerd-the_chei/",
+    "fecha": "21/08/2026 11:09",
+    "contenido": "En esta tercera edición volvemos con THE_CHEI$, como siempre, con 2 recomendaciones. Nombre del bloguero: THE_CHEI$ Links: thecheis.com https://mstdn.social/@the_cheis Presentación: (Extracto de su web) Fabricado en Galicia a finales de los años 80. Mi nombre es Christian y me encanta la tecnología,"
   },
   {
     "blog": "Mi perra vida",
@@ -950,13 +1090,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/08/19/reciclando-una-entrevista-merece-la-pena-ser-bloguero/",
     "fecha": "19/08/2026 13:54",
     "contenido": "En el blog Tecnoysoft publicaron el pasado 9 de agosto de 2026 una entrevista ficticia realizada por una IA. A raíz de ese artículo, me pareció interesante \"reciclar\" la entrevista y publicar en mi blog mis propias respuestas."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Lego Batman y el easter egg para Commodore 64",
-    "link": "https://www.fabio.com.ar/10003-lego-batman-y-el-easter-egg-para-commodore-64",
-    "fecha": "19/08/2026 12:00",
-    "contenido": "    \nMinipost retro-nardo de una boludez que alguien pispe&oacute; en en el juego Lego Batman la computadora del h&eacute;roe y se ve un c&oacute;digo fuente en BASIC.\nPues bien, es un lindo easter egg, o \"huevo de pascua\" para los curiosos porque es, efectivamente, c&oacute;digo que funciona y espe"
   },
   {
     "blog": "CozyKis",
@@ -1113,6 +1246,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "La psicologa sin empatía",
+    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
+    "fecha": "17/08/2026 00:00",
+    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
+  },
+  {
     "blog": "JDRM",
     "titulo": "Eclipse Total, otro microrrelato",
     "link": "https://jdrm.info/eclipse-total-otro-microrrelato.html",
@@ -1146,6 +1286,13 @@
     "link": "https://vonneumannmachine.wordpress.com/2026/08/16/la-sobredeterminacion-de-jaegwon-kim/",
     "fecha": "16/08/2026 08:42",
     "contenido": "El surcoreano, nacionalizado estadounidense, Jaegwon Kim (1934-2019), ha sido uno de los filósofos de la mente más importantes de finales del siglo pasado y principios de éste. De entre sus aportaciones hay una que se ha hecho especialmente célebre: su aplicación de la tesis de la sobredeterminación"
+  },
+  {
+    "blog": "Spam de autor",
+    "titulo": "Hip hop es Historia, por Questlove",
+    "link": "http://blog.spamdeautor.com/2026/08/16/hip-hop-es-historia-questlove/?utm_source=rss&utm_medium=rss&utm_campaign=hip-hop-es-historia-questlove",
+    "fecha": "16/08/2026 07:57",
+    "contenido": "En el año 2023&#160;Questlove&#160;(Ahmir Khalib Thompson, batería y dj en la banda The Roots) recibió el encargo de escribir un libro conmemorativo por el 50 aniversario del nacimiento del Hip Hop. Como cuenta el propio Quest, no quiso que este &#8230; Sigue leyendo &#8594;\nLa entrada Hip hop es Hi"
   },
   {
     "blog": "56K",
@@ -1202,13 +1349,6 @@
     "link": "http://locutusbit.blogspot.com/2026/08/nocturno-entre-las-masas.html",
     "fecha": "15/08/2026 12:00",
     "contenido": "&nbsp;Es una corriente que va donde va,cazando la lluvia cautivadentro de la misma tormenta,silenciosa, impopular, integrada.Contra todo, pero dentro de todo,apuñalando, ciegamente,las victorias y las derrotas,&nbsp;dando vueltas y vueltas a vacío.Regalando la sensación&nbsp;de expresión autónoma pr"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Buwan Ng Wika: Lingua Narrative Celebration 2026",
-    "link": "https://cozykis.kisworld.es/buwan-ng-wika-lingua-narrative-celebration-2026/",
-    "fecha": "15/08/2026 11:01",
-    "contenido": "Buwan Ng Wika es un festival que se ha organizado en Steam con el fin de dar visibilidad a juegos narrativos hechos en Filipinas, y como persona a la que le encantan este tipo de juegos, no me he podido resistir a probar y recomendar unos pocos. When I&#8217;m Not Drawing Un RPG en el [&#8230;]\nLa e"
   },
   {
     "blog": "El cuarto de GatoOscuro",
@@ -1463,11 +1603,32 @@
     "contenido": "Cualquiera que venga por aquí de vez en cuando imaginará que esto es así. En AI Coding Tools Are Creating a Security Gap We Must Close Immediately (que leí a través de AI code generators are writing vulnerable software nearly half the time pero ahora parece no estar disponible) nos dicen que a los d"
   },
   {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "Uses",
+    "link": "https://elrefugiodeunnerd.es/2026/08/10/uses/",
+    "fecha": "10/08/2026 13:10",
+    "contenido": "Comenté hace poco en mi microblog que tenía ganas de hacer una página de «Uses» en la que explico lo que uso en mi día a día, tanto hardware como software, así que, aquí está. Hardware Portátil: Asus TUF Gaming F16 (i7, 32GB RAM, 5060) Mini PC: Intel NUC (NUC8i3BEH) (i3 8ª gen, 16GB RAM, [&#8230;]"
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Por qué los virus no son el verdadero problema en Android",
+    "link": "https://alt43.es/por-que-los-virus-no-son-el-verdadero-problema-en-android/",
+    "fecha": "10/08/2026 07:30",
+    "contenido": "Los antivirus para Android ofrecen soluciones a un problema muy minoritario. El malware que afecta a dispositivos en 2026 llega por ingeniería social, firmware ya comprometido de fábrica o permisos mal concedidos; no por los vectores de infección propios de un virus. Entender cómo funciona el modelo"
+  },
+  {
     "blog": "El blog de Lázaro",
     "titulo": "Cloudflare Analytics activado en el blog",
     "link": "https://elblogdelazaro.org/cloudflare-analytics-activado-automaticamente/",
     "fecha": "10/08/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "TuLotero ha sido hackeada",
+    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
+    "fecha": "10/08/2026 00:00",
+    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1561,6 +1722,13 @@
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Web component para mostrar spoilers en tu blog",
+    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
+    "fecha": "08/08/2026 00:00",
+    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
+  },
+  {
     "blog": "Maverick HQ",
     "titulo": "weeknotes 26.2",
     "link": "https://maverick-hq.org/blog/weeknotes-26-2/",
@@ -1643,6 +1811,13 @@
     "link": "https://javiersam.uy/2026/08/deshabilitar-el-acceso-de-la-ia-a-su-cuenta-de-gmail.html",
     "fecha": "07/08/2026 12:00",
     "contenido": "El sábado pasado vi en Mastodon un hilo de @dbattistella@mstdn.ca (impulsado por Santiago). En él se explican los pasos para desactivar la inteligencia artificial de su cuenta de Gmail que desde fines de noviembre del año pasado se activó automáticamente en todas las cuentas. Me pareció muy interesa"
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtidos variados para muffaletta (o el bocadillo que quieras)",
+    "link": "https://puedellevarqueso.es/2026/08/encurtidos-variados-para-muffaletta-o-el-bocadillo-que-quieras/",
+    "fecha": "07/08/2026 11:17",
+    "contenido": "La muffaletta es un bocadillo italoamericano, que lleva capas y capas de todos los fiambres que te atrevas y al menos dos tipos de queso. Es difícil de imitar en casa porque se hace en un tipo de pan muy difícil de encontrar fuera de Nueva Orléans y tal vez otros puntos de EEUU como [&#8230;]"
   },
   {
     "blog": "Malagueños originales y libres",
@@ -1841,18 +2016,18 @@
     "contenido": "Hace una semana compartí por Mastodon una información bastante interesante: en donde un usuario de la red había conectado por error su aplicación de bloqueo de anuncios y rastreadores (Pi-hole)\nSeguir leyendo  El espía que tú pagaste: La vida secreta de tu Smart TV\nEl cargo El espía que tú pagaste: "
   },
   {
-    "blog": "56K",
-    "titulo": "El año de GNU+Linux en el Escritorio – 12% de cuota",
-    "link": "https://56k.es/fanta/el-ano-de-gnulinux-en-el-escritorio-12-de-cuota/",
-    "fecha": "04/08/2026 04:40",
-    "contenido": "¿Recuerdas esos años en los que Micro$oft hacía sistemas operativos en vez de Markets?, en los que no te metía IA por un tubo como si fueses un pato que engordarán para finalmente matar y hacer paté. Mejor o peor al final de cuentas hacían sistemas operativos de escritorio pero eso pasó hace mucho m"
-  },
-  {
     "blog": "Jodida, pero no sorprendida",
     "titulo": "Quienes se marchan de Omelas...",
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quienes-se-marchan-de-omelas/",
     "fecha": "04/08/2026 00:00",
     "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Ayer fue uno de los días más duros en el veterinario",
+    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
+    "fecha": "04/08/2026 00:00",
+    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
   },
   {
     "blog": "Victorhck in the free world",
@@ -1862,38 +2037,10 @@
     "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
   },
   {
-    "blog": "",
-    "titulo": "Luar Na Lubre.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/08/03/luar-na-lubre-2/",
-    "fecha": "03/08/2026 13:09",
-    "contenido": "Luar Na Lubre acaba de realizar un nuevo videoclip para su canción Romeiro Ao Lonxe. Difundio este video por sus redes sociales y lo publico en Youtube."
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "La seta que explota en tu boca (y la receta auténtica de Pad Kapao que hicimos con ella)",
-    "link": "https://blog.danielaragay.net/la-seta-que-explota-en-tu-boca-y-la-receta-autentica-de-pad-kapao-que-hicimos-con-ella/",
-    "fecha": "03/08/2026 12:59",
-    "contenido": "Hay una seta en Tailandia que nadie ha conseguido cultivar nunca. Solo aparece unas semanas al a&#xf1;o, en plena temporada de lluvias, escondida en la selva &#x2014; y cuando la muerdes, literalmente explota en tu boca.Esa fue la protagonista de nuestro &#xfa;ltimo directo de cocina, y"
-  },
-  {
-    "blog": "impermanente",
-    "titulo": "El reencuadre manipulativo",
-    "link": "https://blog.impermanente.es/2026/08/03/el-reencuadre-manipulativo.html",
-    "fecha": "03/08/2026 12:14",
-    "contenido": "Hay una maniobra retórica que lamentablemente ya veo en uso todos los días y cuyo nombre en inglés no se traduce bien, así que le voy a poner yo uno: el reencuadre manipulativo. Consiste en decir muy fuerte que estás peleando por un principio casi filosófico cuando en realidad estás peleando por otr"
-  },
-  {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "La maldición de la equivalencia funcional",
-    "link": "https://vonneumannmachine.wordpress.com/2026/08/03/la-maldicion-de-la-equivalencia-funcional/",
-    "fecha": "03/08/2026 08:29",
-    "contenido": "El neurocientífico, y escritor de ficción, Erik Hoel escribió en enero de este año un interesante artículo en donde cargaba contra la posibilidad de que los LLMs (al menos tal y como están diseñados en la actualidad) albergaran algún tipo de consciencia. La idea es que toda teoría científica que int"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "",
-    "link": "https://altgr.xyz/2026/08/02/2777/",
-    "fecha": "03/08/2026 02:56",
-    "contenido": "Querido diario bitácora: Hoy hice mi primer pesto y hallo que no me quedó nada de mal. Mis comensalas opinaron lo mismo, lo que me hace sentir orgulloso de mis pocas habilidades en la cocina. Hoy fue un lindo día."
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacines estilo japonés",
+    "link": "https://puedellevarqueso.es/2026/08/encurtido-de-calabacines-estilo-japones/",
+    "fecha": "03/08/2026 16:25",
+    "contenido": "Inventé esta receta cuando me apetecía comer calabacines crudos. Llamarlo encurtido puede llevar a error, porque no es una conserva, pero necesita un tiempo de reposo (mínimo dos horas) y aguanta varios días en el frigorífico. Es fácil encontrar recetas de ensaladas y encurtidos de pepino en páginas"
   }
 ]
