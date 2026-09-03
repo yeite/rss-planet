@@ -1,5 +1,33 @@
 [
   {
+    "blog": "Eterno aprendiz",
+    "titulo": "Álex Anwandter, 20 años de carrera artística",
+    "link": "https://altgr.xyz/2026/09/02/alex-anwandter-20-anos-de-carrera-artistica/",
+    "fecha": "03/09/2026 02:14",
+    "contenido": "Conozco pocas canciones de Álex Anwandter, pero se de su trayectoria e importancia en la escena pop de la música chilena de este siglo. Por eso quise ir a su concierto del Movistar Arena la noche del sábado. La celebración de sus 20 años de carrera musical que resultó ser un conciertazo. Muy entrete"
+  },
+  {
+    "blog": "El Sitio de Manieflo",
+    "titulo": "Cambio de estilo",
+    "link": "https://elprofejuan.com.ar/cambio-de-estilo",
+    "fecha": "02/09/2026 23:05",
+    "contenido": "Bueno, después de varios meses de intentar modificar, el sitio va quedando, igual no creo sea el definitivo, pero es lo que mas o menos pude acercar a lo que quiero.\n\n"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Defiende al colectivo Autistici/Inventati y el derecho a construir una comunicación resistente",
+    "link": "https://victorhckinthefreeworld.com/2026/09/02/defiende-al-colectivo-autistici-inventati-y-el-derecho-a-construir-una-comunicacion-resistente/",
+    "fecha": "02/09/2026 18:57",
+    "contenido": "El 26 de agosto de 2026, Estados Unidos designó como terroristas al colectivo italiano que da soporte e infraestructuras digitales (blogs, correo electrónico, etc) a colectivos de activistas desde 2001"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Linux cumple 35 años",
+    "link": "https://thecheis.com/2026/09/02/linux-cumple-35-anos/",
+    "fecha": "02/09/2026 18:15",
+    "contenido": "El mundo de la tecnología está de enhorabuena. Concretamente Linux, que por estas fechas cumple 35 añazos, consolidándose junto a GNU como el proyecto de software libre más exitoso de la historia hasta el momento. De hecho, ambos casi no tendrían sentido el uno sin el otro, dando lugar a una simbios"
+  },
+  {
     "blog": "56K",
     "titulo": "Programar Toots en el fediverso – Encuestas",
     "link": "https://56k.es/fanta/programar-toots-en-el-fediverso-encuestas-con-fotos/",
@@ -57,10 +85,10 @@
   },
   {
     "blog": "danielaragay.net",
-    "titulo": "Laab de pato: el plato que casi nadie prepara bien fuera de Tailandia 🦆",
+    "titulo": "MECENAS: Laab de pato: el plato que casi nadie prepara bien fuera de Tailandia 🦆",
     "link": "https://blog.danielaragay.net/laab-de-pato-el-plato-que-casi-nadie-prepara-bien-fuera-de-tailandia/",
     "fecha": "01/09/2026 20:39",
-    "contenido": "Hay platos tailandeses que todo el mundo conoce. Y luego está este Laab de pato: piel crujiente aparte, cocinado en su propia grasa, y con un ingrediente que casi nadie fuera de Tailandia ha probado. Adelanto exclusivo para mecenas antes de su estreno en YouTube."
+    "contenido": "Hay platos tailandeses que todo el mundo conoce. Y luego está este Laab de pato: piel crujiente aparte, cocinado en su propia grasa, y con un ingrediente que casi nadie fuera de Tailandia ha probado."
   },
   {
     "blog": "CozyKis",
@@ -154,13 +182,6 @@
     "contenido": "Una aclaración importante para aquellos que me envían sus blogs para formar parte de ¡Blog!¡Blog!Entradas relacionadas:El sistema operativo de BarbieLa delgada línea entre curaduría y censuraPost-itLos blogs que me motivaron a tener el míoUn año escribiendo"
   },
   {
-    "blog": "pedrolr blog",
-    "titulo": "Mis lecturas en agosto de 2026",
-    "link": "https://pedrolr.es/blog/mis-lecturas-en-agosto-de-2026/",
-    "fecha": "31/08/2026 13:49",
-    "contenido": "Vi por uno o varios blogs que sigo gracias al RSS de \"¡Blog!¡Blog! - Directorio de blogs en español\" de Matizeta (enlace) que varias personas publican sus lecturas de cada mes o trimestre. Por ejemplo: Mis lecturas de 2026 - Segundo trimestre (de Kabosu - Creando cosas) Mis lecturas en agosto de 202"
-  },
-  {
     "blog": "",
     "titulo": "Luar Na Lubre.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/08/31/luar-na-lubre-3/",
@@ -231,13 +252,6 @@
     "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
   },
   {
-    "blog": "Jorge Aguilera",
-    "titulo": "Self-hosting Forgejo (lightweight software forge)",
-    "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Autoalojar proyectos Git al estilo de GitHub"
-  },
-  {
     "blog": "Maverick HQ",
     "titulo": "weeknotes 26.4",
     "link": "https://maverick-hq.org/blog/weeknotes-26-4/",
@@ -278,13 +292,6 @@
     "link": "https://guillermolatorre.com/clips/vorssaint-app-herramientas-utiles-de-sistema-para-mac",
     "fecha": "30/08/2026 16:10",
     "contenido": "Se trata de una \"pequeña\" app que vive en la barra superior del sistema y que integra un montón de pequeñas utilidades de las que te hacen la vida más fácil. Y es software libre.Ir al enlace"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Se hizo historia en el Carlos Vieco por una buen causa",
-    "link": "https://gatooscuro.xyz/se-hizo-historia-en-el-carlos-vieco-por-una-buen-causa/",
-    "fecha": "30/08/2026 15:28",
-    "contenido": "NOTA: Este artículo tenía que haber salido un día después del evento, pero como me ocurre de todo entonces salió tarde, varios días tarde. Hoy les vengo a escribir sobre\nSeguir leyendo  Se hizo historia en el Carlos Vieco por una buen causa\nEl cargo Se hizo historia en el Carlos Vieco por una buen c"
   },
   {
     "blog": "Tecno y Soft",
@@ -369,13 +376,6 @@
     "link": "https://alex.corcoles.net/2026/08/esfuerzos",
     "fecha": "29/08/2026 00:00",
     "contenido": "\n  Hace unos treinta a&#241;os aprend&#237;a a programar m&#225;s o menos en serio. Gracias al Blitz Basic del Amiga comenc&#233; a poder crear juegos sencillos, pero con cara y ojos, tras igual unos diez a&#241;os de intentos y de lentos progresos.\n  Poco despu&#233;s, con m&#225;s casualidad de lo"
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "GitOps en AWS ECS con Github y Terraform",
-    "link": "https://blog.jagedn.dev/blog/2026/gitops-aws-tf.html",
-    "fecha": "29/08/2026 00:00",
-    "contenido": "Desplegando servicio en AWS ECS con Terraform y GitHub actions"
   },
   {
     "blog": "Victorhck in the free world",
@@ -537,13 +537,6 @@
     "link": "https://cozykis.kisworld.es/analisis-de-void-pachinko/",
     "fecha": "27/08/2026 10:42",
     "contenido": "Con varios escenarios a superar, muchas pelotas distintas para desbloquear y una historia curiosa será difícil soltarlo\nLa entrada Análisis de Void Pachinko se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "La clase de griego",
-    "link": "https://mareosdeungeek.es/la-clase-de-griego/",
-    "fecha": "27/08/2026 10:00",
-    "contenido": "La clase de griego es el primer libro que leo de la autora surcoreana Han Kang, quién acabaría recibiendo el Premio Nobel de Literatura en el año 2024. Esta obra se publicó en 2011 y aunque es posterior a su éxito La vegetariana mantiene el nivel de una prosa profunda, muy detallista y dramática par"
   },
   {
     "blog": "Picando Código",
@@ -749,13 +742,6 @@
     "contenido": "&nbsp; &nbsp; El tipo tenía cincuenta años. A esa edad, quizá creía que ya lo sabía todo. Puede que fuera de los que piensan que ciertas advertencias son exageradas y que algunas prohibiciones coartan la libertad individual. Es posible que gozara de buena salud y esperara llegar a los ochenta años p"
   },
   {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "La belleza del dolor en The Crow de James O’Barr",
-    "link": "https://unpinguino.com/la-belleza-del-dolor-en-the-crow-de-james-obarr/",
-    "fecha": "24/08/2026 16:23",
-    "contenido": "Hace mucho que tenía ganas de leer The Crow, pero lo estuve posponiendo por mucho&#8230;"
-  },
-  {
     "blog": "THE_CHEI$",
     "titulo": "Nerdos en cadena",
     "link": "https://thecheis.com/2026/08/24/nerdos-en-cadena/",
@@ -882,13 +868,6 @@
     "contenido": "Escribir Hispania Obscura me tomó dos años, pero las ideas que terminaron dentro me tomaron más de diez. Hay cosas en ese libro que aparecieron mucho antes de que supiera que estaba escribiendo un libro: notas sobre mitología peninsular, lugares de Madrid que parecían esconder otra ciudad debajo, pe"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Alarcón",
-    "link": "https://mareosdeungeek.es/alarcon/",
-    "fecha": "23/08/2026 08:00",
-    "contenido": "Como todos los veranos he estado visitando La Manchuela que no deja de ser la zona de mis raíces. Este año he aprovechado para visitar La Mancha de Cuenca y de camino, aprovechado para parar en Alarcón. Alarcón se encuentra en La Manchuela, la comarca que hay entre Cuenca y Albacete. Este pueblo, ba"
-  },
-  {
     "blog": "56K",
     "titulo": "Juegos que me he pasado",
     "link": "https://56k.es/fanta/juegos-que-me-he-pasado/",
@@ -908,13 +887,6 @@
     "link": "https://tecnoysoft.com/2026/08/22/como-evitar-las-desconexiones-esporadicas-de-la-wifi-en-linux/",
     "fecha": "22/08/2026 15:21",
     "contenido": "Llevo mucho tiempo con este problema. La solución es sencilla; lo difícil ha sido identificar la causa. En algunos portátiles con Linux, especialmente cuando la señal Wi-Fi es débil, el ahorro de energía del adaptador inalámbrico puede afectar a la estabilidad de la conexión. En mi caso, la solución"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Escribiendo un poco sobre lo que se mueve actualmente en la red",
-    "link": "https://gatooscuro.xyz/escribiendo-un-poco-sobre-lo-que-se-mueve-actualmente-en-la-red/",
-    "fecha": "22/08/2026 08:14",
-    "contenido": "Hoy es de esas madrugadas en que quiero hundirme en mis letras, más allá de mis pensamientos e introspección, que normalmente logro durante esas largas jornadas laborales. En donde no\nSeguir leyendo  Escribiendo un poco sobre lo que se mueve actualmente en la red\nEl cargo Escribiendo un poco sobre l"
   },
   {
     "blog": "Un blog",
@@ -992,13 +964,6 @@
     "link": "https://vonneumannmachine.wordpress.com/2026/08/21/la-consciencia-mas-alla-del-representacionismo-una-conversacion-con-michael-tye/",
     "fecha": "21/08/2026 07:14",
     "contenido": "¿Es posible explicar la consciencia fenoménica (sentir el aroma a azahar o el sonido del laúd) sin apelar a entidades no físicas o a “misterios” insondables? ¿Cómo ese kilo y medio de materia gelatinosa que está dentro de nuestro cráneo, puede hacer que yo piense en mi abuela? ¿Cómo esas “mariposas "
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Montañas y refugios: Cueva Valiente y \"Las Esquinillas\"",
-    "link": "https://pedrolr.es/blog/montanas-y-refugios-cueva-valiente-y-las-esquinillas/",
-    "fecha": "21/08/2026 05:47",
-    "contenido": "Esta semana he tratado de hacer algunas rutas por refugios de montaña. He estado en varios y hablo aquí de dos. Cueva Valiente está a 1.903 metros de altitud, en la sierra de Guadarrama. Desde arriba se ve el Puerto de los Leones y El Espinar y San Rafael. El pico es una cosa y [&#8230;]"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -1127,13 +1092,6 @@
     "contenido": "Pasen y lean\nhttps://axxon.com.ar/rev/2026/08/ficcion-breve-ochenta-tres-varios/\nDaniel Omar Cignacco"
   },
   {
-    "blog": "Jorge Aguilera",
-    "titulo": "ApiFirst en Leanpub",
-    "link": "https://blog.jagedn.dev/blog/2026/leanpub-apifirst.html",
-    "fecha": "19/08/2026 00:00",
-    "contenido": "Acabo de publicar el libro \"ApiFirst con Micronaut\" en LeanPub"
-  },
-  {
     "blog": "Picando Código",
     "titulo": "Piques Git - Cambiar el origen de submódulos",
     "link": "https://picandocodigo.net/2026/piques-git-cambiar-el-origen-de-submodulos/",
@@ -1174,13 +1132,6 @@
     "link": "https://cozykis.kisworld.es/analisis-de-tukoni-cuidadores-del-bosque/",
     "fecha": "18/08/2026 09:27",
     "contenido": "Explora un mundo dibujado a mano precioso, conoce animales lindos, resuelve puzles y prepara té en esta tierna aventura\nLa entrada Análisis de Tukoni: Cuidadores del Bosque se publicó primero en CozyKis."
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Psicodélicos, ficción y no ficción",
-    "link": "https://pedrolr.es/blog/psicodelicos-ficcion-y-no-ficcion/",
-    "fecha": "18/08/2026 06:53",
-    "contenido": "En la primera semana de agosto de 2026 leí el libro “El viajero mental: una historia de la psicodelia” de Juan Arnau. Tengo interés por los psicodélicos, lo psiquedélico, lo que se suele llamar los estados alterados de conciencia, los estados expandidos de la mente, las parálisis del sueño, etc. Tra"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -1351,13 +1302,6 @@
     "contenido": "&nbsp;Es una corriente que va donde va,cazando la lluvia cautivadentro de la misma tormenta,silenciosa, impopular, integrada.Contra todo, pero dentro de todo,apuñalando, ciegamente,las victorias y las derrotas,&nbsp;dando vueltas y vueltas a vacío.Regalando la sensación&nbsp;de expresión autónoma pr"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Palantir en Colombia – ¡Hola, amigo!",
-    "link": "https://gatooscuro.xyz/palantir-en-colombia-hola-amigo/",
-    "fecha": "15/08/2026 08:40",
-    "contenido": "“Hola, amigo. Hola, ¿amigo? Es aburrido.&#160; Tal vez deba darte un nombre, pero es una pendiente resbaladiza.&#160; Solo estás en mi cabeza.&#160; Tenemos que recordar eso.&#160; Mierda. En verdad sucedió,\nSeguir leyendo  Palantir en Colombia – ¡Hola, amigo!\nEl cargo Palantir en Colombia – ¡Hola, "
-  },
-  {
     "blog": "Spanish on Jorge Sanz",
     "titulo": "La pequeña flor",
     "link": "https://jorgesanz.net/cuentos/la-pequena-flor/",
@@ -1405,13 +1349,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/08/576-fecundacion-total.html",
     "fecha": "14/08/2026 05:59",
     "contenido": "&nbsp; &nbsp; Fueron muchas las personas que no se desplazaron para presenciar el eclipse. Por ejemplo, hubo varias parejas heterosexuales que, en pecado o en matrimonio, eligieron el día del evento astronómico para copular sin protección. Ya fuera por creencias o por estúpidas tradiciones ancestral"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Hace 20 años me fracturé la tibia y el peroné en un accidente de trabajo",
-    "link": "https://pedrolr.es/blog/hace-20-anos-me-fracture-la-tibia-y-el-perone-en-un-accidente-de-trabajo/",
-    "fecha": "14/08/2026 05:42",
-    "contenido": "Tenía casi 20 años y estaba en el verano de 2º de carrera de filosofía en Madrid. Ese verano había estado en Valencia durante el mes de julio trabajando en una empresa de materiales de electricidad. Era un trabajo muy físico, de 12 horas al día y preparando pedidos. Recuerdo especialmente cuando ten"
   },
   {
     "blog": "Diego Cano",
@@ -1498,13 +1435,6 @@
     "contenido": "Estos últimos días hemos estado dándole forma al nuevo Hitz. Refinando, proponiendo ideas, descartando otras, viendo qué podemos hacer para que sea un lugar acogedor donde la gente pueda caerle a conversar, ver qué pasa en la escena y compartir música. La escena musical siempre ha existido pero de f"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Denominación de Origen",
-    "link": "https://mareosdeungeek.es/denominacion-de-origen/",
-    "fecha": "12/08/2026 15:55",
-    "contenido": "Denominación de Origen es un documental que puede verse en RTVE Play que sirve como preámbulo a la consecución del segundo Campeonato Mundial de Fútbol por parte de la selección española. Sin lugar a dudas, ha sido una de las alegrías de este verano de 2026. Honestamente, tampoco ha sido una sorpres"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Eclipse total de Sol: cómo grabarlo (sin freír tu cámara)",
     "link": "https://blog.danielaragay.net/eclipse-total-de-sol-como-grabarlo-sin-freir-tu-camara/",
@@ -1566,13 +1496,6 @@
     "link": "https://jinversor.co/2026/08/adios-lnp2pbot/",
     "fecha": "11/08/2026 12:03",
     "contenido": "Hace más de un año les mostré la forma de comprar Bitcoin sin KYC a través de Telegram usando el bot lnp2pbot. Esa, para mí, era la forma más cómoda [&#8230;]"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Añadir keywords a los XML JATS que no están presentes en las versiones en PDF, ¿se puede considerar una manipulación de los metadatos o solo un error?",
-    "link": "https://pedrolr.es/blog/anadir-keywords-a-los-xml-jats-que-no-estan-presentes-en-las-versiones-en-pdf-se-puede-considerar-una-manipulacion-de-los-metadatos-o-solo-un-error/",
-    "fecha": "11/08/2026 07:59",
-    "contenido": "He llegado a un trabajo de 2025 titulado “Detection of metadata manipulations: Finding sneaked references in the scholarly literature” (Besançon et al., 2025). Comentan que han detectado citas ocultas en los metadatos de las publicaciones o papers que no aparecen en el texto de las mismas. Me ha hec"
   },
   {
     "blog": "Blog de Thalskarth",
@@ -1671,13 +1594,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/08/574-el-cuarto-angel.html",
     "fecha": "09/08/2026 10:17",
     "contenido": "&nbsp; &nbsp; Te veo. Desvío los ojos hacia los tuyos y sé lo que estás pensando. No pronuncias palabra, pero tu cara habla con claridad. Deseas con todas tus fuerzas que este verano infernal se convierta en un recuerdo que olvidar con la llegada de noviembre.&nbsp;&nbsp; &nbsp;&nbsp;Odias el calor "
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Analizando el documento de los Testigos Digitales 2026: ¿Hubo fraude electoral en Colombia?",
-    "link": "https://gatooscuro.xyz/analizando-el-documento-de-los-testigos-digitales-2026-hubo-fraude-electoral-en-colombia/",
-    "fecha": "09/08/2026 10:14",
-    "contenido": "Imagino que, si entraste a este artículo, es porque estás enterado de la actualidad política colombiana, de que ahora tenemos un nuevo presidente llamado Abelardo de la Espriella, quien no\nSeguir leyendo  Analizando el documento de los Testigos Digitales 2026: ¿Hubo fraude electoral en Colombia?\nEl "
   },
   {
     "blog": "quiroptero.blog",
@@ -1862,13 +1778,6 @@
     "contenido": "Un carta de agradecimiento a todos los que forman parte.Entradas relacionadas:Resumen del mes (enero 2026)CambiosLecturas recomendadas #7La \"antiambición\" o cómo encontrar la felicidad en&hellip;Los blogs en español y su escasa existencia"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "v4.7",
-    "link": "https://mareosdeungeek.es/v4-7/",
-    "fecha": "06/08/2026 07:00",
-    "contenido": "Seguimos incrementando versiones, pasando los días, meses y años. En este caso, repetimos un poco el patrón del año pasado. Estoy en tierras manchegas, disfrutando de la familia y teletrabajando. Hemos dejado atrás la saturación de la Costa del Sol, porque tengo que reconocer que entre el 15 de juli"
-  },
-  {
     "blog": "56K",
     "titulo": "Televisión vía satélite con una parabólica portátil",
     "link": "https://56k.es/fanta/television-via-satelite-con-una-parabolica-portatil/",
@@ -2007,40 +1916,5 @@
     "link": "https://asturgeek.eu/2026/08/04/mis-cosas-de-julio-2026/",
     "fecha": "04/08/2026 07:30",
     "contenido": "Seguimos con ésta sección, que me da bastante juego para recordar qué hago y qué no hago&#8230; La verdad es que el verano es siempre igual, se para todo un poco, hay pocas novedades en todo, pocas interacciones por redes&#8230; Es verano. Juegos Sigo con Snowrunner, porque hacer misiones a través d"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "El espía que tú pagaste: La vida secreta de tu Smart TV",
-    "link": "https://gatooscuro.xyz/el-espia-que-tu-pagaste-la-vida-secreta-de-tu-smart-tv/",
-    "fecha": "04/08/2026 06:01",
-    "contenido": "Hace una semana compartí por Mastodon una información bastante interesante: en donde un usuario de la red había conectado por error su aplicación de bloqueo de anuncios y rastreadores (Pi-hole)\nSeguir leyendo  El espía que tú pagaste: La vida secreta de tu Smart TV\nEl cargo El espía que tú pagaste: "
-  },
-  {
-    "blog": "Jodida, pero no sorprendida",
-    "titulo": "Quienes se marchan de Omelas...",
-    "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quienes-se-marchan-de-omelas/",
-    "fecha": "04/08/2026 00:00",
-    "contenido": "Supongo que habré entendido mil cosas mal del relato, queda pendiente una (o varias) relecturas. Dadme cancha: esto no es un comentario crítico del texto de Le Guin, sino una reflexión personal sobre la felicidad que lo usa como excusa\n\n«El problema es que tenemos la mala costumbre, alentada por gen"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Ayer fue uno de los días más duros en el veterinario",
-    "link": "https://chancli.dev/blog/dia-duro-veterinario.html",
-    "fecha": "04/08/2026 00:00",
-    "contenido": "Todo empezó el domingo por la noche. Como tantas otras veces, dejamos a Chancla cenando y salimos nosotros a cenar.\nCuando llegamos, estuvimos fuera unas dos horas solamente, tuvimos cuidado cuando abrimos la puerta, pues ya no oye bien y como su sitio favorito es dormir en el suelo junto a la puert"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/",
-    "fecha": "03/08/2026 17:52",
-    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation."
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacines estilo japonés",
-    "link": "https://puedellevarqueso.es/2026/08/encurtido-de-calabacines-estilo-japones/",
-    "fecha": "03/08/2026 16:25",
-    "contenido": "Inventé esta receta cuando me apetecía comer calabacines crudos. Llamarlo encurtido puede llevar a error, porque no es una conserva, pero necesita un tiempo de reposo (mínimo dos horas) y aguanta varios días en el frigorífico. Es fácil encontrar recetas de ensaladas y encurtidos de pepino en páginas"
   }
 ]
