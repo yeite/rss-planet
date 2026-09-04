@@ -1,5 +1,12 @@
 [
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "582. Las fuerzas superiores",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
+    "fecha": "03/09/2026 22:00",
+    "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Eufemismos",
     "link": "https://jinversor.co/2026/09/eufemismos/",
@@ -47,6 +54,13 @@
     "link": "https://56k.es/fanta/jugar-a-comandos-behind-the-enemy-lines-en-linux/",
     "fecha": "03/09/2026 07:30",
     "contenido": "Actualmente la forma sencilla de jugar a Commandos Behind the enemy lines es obtenerlo en GoG para windows y luego usar el laucher Heroic en Linux para jugarlo. El launcher lo ejecutará con GE-Proton y cierta confiruación que permite jugarlo sin problemas. Commandos: Behind The Enemy Lines es un jue"
+  },
+  {
+    "blog": "NeoSite Blog",
+    "titulo": "Más allá del algoritmo: Mastodon, ActivityPub y la revolución de las redes sociales libres",
+    "link": "https://blog.neosite.com.ar/post/la-revolucion-de-las-redes-sociales-libres",
+    "fecha": "03/09/2026 00:00",
+    "contenido": ""
   },
   {
     "blog": "El Sitio de Manieflo",
@@ -308,11 +322,25 @@
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Me he comprado el Pocketbook Inkpad One!",
+    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
+  },
+  {
     "blog": "Jorge Aguilera",
     "titulo": "Self-hosting Forgejo (lightweight software forge)",
     "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
     "fecha": "31/08/2026 00:00",
     "contenido": "Autoalojar proyectos Git al estilo de GitHub"
+  },
+  {
+    "blog": "Maverick HQ",
+    "titulo": "weeknotes 26.4",
+    "link": "https://maverick-hq.org/blog/weeknotes-26-4/",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Estado actual: escuchando un gameplay de Anggelos 2 porque mientras escribo no puedo mirar. Es un metroidvania de estilo 16 bits que parece bastante difícil.\nCreo que esta vez llego un par de semanas tarde. Vaaaaale. Lo sieeeento. Pero es que no he tenido muchos ánimos para escribir y realmente no e"
   },
   {
     "blog": "La Frikoteca",
@@ -1246,6 +1274,13 @@
     "contenido": "&nbsp; &nbsp; La radio es un gran invento. La pongo siempre que almuerzo, como y ceno. Normalmente escucho Catalunya Ràdio y RAC1, aunque otras veces sintonizo la Cadena SER y RNE.&nbsp; &nbsp; Pensaréis que exagero, pero escuchar según qué emisoras mientras se come entraña un serio peligro: la comi"
   },
   {
+    "blog": "Maverick HQ",
+    "titulo": "weeknotes 26.3",
+    "link": "https://maverick-hq.org/blog/weeknotes-26-3/",
+    "fecha": "18/08/2026 00:00",
+    "contenido": "Vale, llego 3 días tarde, pero quiero recordar que esto lo hago pagando yo, así que menos lobos.\nEstado actual: tirado en mi cama con una coca cola al lado y tratando de escapar del calor que entra por la ventana del salón. Bueno, en realidad ya me la he acabado.\nDespués de dos semanas de vacaciones"
+  },
+  {
     "blog": "fernand0 @ GitHub.io",
     "titulo": "La venganza del empleado y las consecuencias",
     "link": "https://fernand0.github.io//venganza-consecuencias/",
@@ -1286,6 +1321,13 @@
     "link": "https://www.quiroptero.blog/2026/08/anuncios/",
     "fecha": "17/08/2026 06:00",
     "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "La psicologa sin empatía",
+    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
+    "fecha": "17/08/2026 00:00",
+    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
   },
   {
     "blog": "JDRM",
@@ -1659,6 +1701,13 @@
     "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "TuLotero ha sido hackeada",
+    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
+    "fecha": "10/08/2026 00:00",
+    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "No volverás a consumir contenido después de leer esto",
     "link": "https://guillermolatorre.com/clips/no-volveras-a-consumir-contenido-despues-de-leer-esto",
@@ -1748,6 +1797,20 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quien-pierde-las-formas/",
     "fecha": "08/08/2026 00:00",
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Web component para mostrar spoilers en tu blog",
+    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
+    "fecha": "08/08/2026 00:00",
+    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
+  },
+  {
+    "blog": "Maverick HQ",
+    "titulo": "weeknotes 26.2",
+    "link": "https://maverick-hq.org/blog/weeknotes-26-2/",
+    "fecha": "08/08/2026 00:00",
+    "contenido": "Esta semana ha sido muy complicada por temas personales, así que me ha costado ponerme a escribir.\nEstado actual: Después de la cena me he tomado un helado y he visto el episodio 3x05 de Silo.\nEn cuanto al cine, fuimos en plan familiar a ver Spider-Man: Brand New Day y, bueno, quizá esta vez sí que "
   },
   {
     "blog": "Un blog",
@@ -1930,47 +1993,5 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/08/05/20260805-malys-hellblazer-en-cartas/",
     "fecha": "05/08/2026 08:00",
     "contenido": "Los juegos de cartas coleccionables con temática de terror no son extraños, pero en ordenador y con narrativa en ramas si que lo son"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Las doce impresiones, más allá del grupo de Batignolles. Parte II (Final)",
-    "link": "https://polotman.wordpress.com/2026/08/04/las-doce-impresiones-mas-alla-del-grupo-de-batignolles-parte-ii-final/",
-    "fecha": "04/08/2026 23:22",
-    "contenido": "En la entrada anterior , que lleva el mismo nombre que la presente redacción, conocimos cómo la historia del impresionismo es tan apasionante como observar un cuadro de sus representantes. No fue un estilo que surgiera de forma espontánea, sino el fruto de la amistad, el debate y la rebeldía compart"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Rose/House - Arkady Martine",
-    "link": "https://nachof.blog/posts/2026/rosehouse/",
-    "fecha": "04/08/2026 22:17",
-    "contenido": "\n\n\nArkady Martine es la escritora atrás de la serie de Teixcalaan (A Memory Called Empire, A Desolation Called Peace). A Memory Called Empire es un libro que me gustó pila, la verdad. A Desolation Called Peace no tanto, pero igual me gustó bastante. Así que cuando agarré Rose/House tenía expectativa"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "573. El Loco pasa el verano",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/08/573-el-loco-pasa-el-verano.html",
-    "fecha": "04/08/2026 19:11",
-    "contenido": "&nbsp; &nbsp; Como es bien sabido, los incendios proliferan en verano. Lo que nadie ha advertido es que, durante esos mismos meses, también cesan los homicidios y las desapariciones en la ciudad.&nbsp; &nbsp; El Loco considera que hace demasiado calor para salir a buscar a alguien con quien divertir"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "El Hitz vuelve",
-    "link": "https://blog.luiscarlospando.com/personal/2026/08/el-hitz-vuelve/",
-    "fecha": "04/08/2026 19:01",
-    "contenido": "Para quien no lo haya conocido, el Hitz (o Hitz-Musik.net), fue un sitio web y una promotora de bandas que nació en Chihuahua a inicios de los 2000. Organizábamos tocadas y cubríamos la escena musical local como medio. Hacíamos entrevistas, fotografía, difusión de bandas, guerras de bandas… básicame"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "La Odisea de Nolan (que no de Homero)",
-    "link": "http://frikoteca.blogspot.com/2026/08/la-odisea-de-nolan-que-no-de-homero.html",
-    "fecha": "04/08/2026 18:34",
-    "contenido": "Ayer fui con la familia a ver La Odisea, dirigida por Nolan y protagonizada por Matt Damon en el papel de Odiseo. Lo primero que tengo que confesar es que yo soy muy fan de Odiseo, el héroe de multiforme ingenio que era tan astuto que podía expresar con su rostro algo distinto a lo que pensaba (reír"
-  },
-  {
-    "blog": "El Sitio de Manieflo",
-    "titulo": "404",
-    "link": "https://elprofejuan.com.ar/404-html",
-    "fecha": "04/08/2026 18:04",
-    "contenido": "\n\n\n\n404 | Not found\nEsta página no existe!!!.Perdón por el inconveniente.\n\n(espero les guste la imagen)\n\nno es culpa tuya, el admin es un principiante..\n\n"
   }
 ]
