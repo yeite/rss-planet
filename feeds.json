@@ -1,5 +1,47 @@
 [
   {
+    "blog": "",
+    "titulo": "Convocatoria.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/09/04/convocatoria-9/",
+    "fecha": "04/09/2026 12:20",
+    "contenido": ""
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #957",
+    "link": "https://www.fabio.com.ar/10025-links-de-viernes---957",
+    "fecha": "04/09/2026 12:00",
+    "contenido": "     Hay links al final del t&uacute;nel\nBueno, consegu&iacute; lo que pude :P que no es poco, che! Llegamos a Septiembre y eso indica que el a&ntilde;o est&aacute; menguando m&aacute;s r&aacute;pido de lo esperado o que el espacio tiempo se curv&oacute; justo en mi billetera. Y si te parecen pocos "
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Cosas aprendidas en agosto",
+    "link": "https://nachof.blog/posts/2026/cosas-aprendidas-en-agosto/",
+    "fecha": "04/09/2026 11:45",
+    "contenido": "Otro mes, otra lista de boludeces que aprendo.\nIt&rsquo;s the end of the world as we know it\nLa escena de Gremlins 2 en la que muestran un video grabado específicamente para emitir en caso de fin del mundo no es sólo un chiste de la película, referencia lo que en ese momento era una leyenda urbana: "
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Los diarios de Shosuro Otagi Parte 2",
+    "link": "https://escritura.social/mcallus/los-diarios-de-shosuro-otagi-parte-2",
+    "fecha": "04/09/2026 11:05",
+    "contenido": ""
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Novedades Sobre La Banda De Metal Industrial | Poltinmerkki Resiste Y Prepara Nuevo Material",
+    "link": "https://www.delotroladometal.com.ar/2026/09/04/poltinmerkki-resiste-y-prepara-nuevo-material/",
+    "fecha": "04/09/2026 10:45",
+    "contenido": "Poltinmerkki nos sorprendió con su particular veta de Metal Industrial con su álbum de 2023...\nThe post Novedades Sobre La Banda De Metal Industrial | Poltinmerkki Resiste Y Prepara Nuevo Material first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Málaga MSX Meeting 26",
+    "link": "https://malagaoriginal.blogspot.com/2026/09/malaga-msx-meeting-26.html",
+    "fecha": "04/09/2026 06:55",
+    "contenido": "Málaga MSX Meeting 2026 es el evento de los usuarios de MSX que se celebra en nuestra ciudad todos los años por estas fechas.En esta ocasión se celebra en el Polo Nacional de Contenidos Digital en la Avda Sor Teresa Prat, 15, el antiguo edificio de la Tabacalera.Se celebra durante todo día de mañana"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "582. Las fuerzas superiores",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
@@ -35,13 +77,6 @@
     "contenido": "No More Death es el proyecto personal de Tiago Torres, quien para quien no lo...\nThe post \"Last Caesar\" Está Al Caer | Finalmente Lo Nuevo De No More Death Ya Está En El Horizonte first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Dissolution of the Silent Union",
-    "link": "https://cozykis.kisworld.es/analisis-de-dissolution-of-the-silent-union/",
-    "fecha": "03/09/2026 10:17",
-    "contenido": " Con una ambientación increíble consigue meternos en la trama desde el principio y que queramos descubrir más \nLa entrada Análisis de Dissolution of the Silent Union se publicó primero en CozyKis."
-  },
-  {
     "blog": "El Refugio de un Nerd",
     "titulo": "Por qué deberías comprar una consola de la familia 3DS en 2026",
     "link": "https://elrefugiodeunnerd.es/2026/09/03/por-que-deberias-comprar-una-consola-de-la-familia-3ds-en-2026/",
@@ -54,6 +89,13 @@
     "link": "https://56k.es/fanta/jugar-a-comandos-behind-the-enemy-lines-en-linux/",
     "fecha": "03/09/2026 07:30",
     "contenido": "Actualmente la forma sencilla de jugar a Commandos Behind the enemy lines es obtenerlo en GoG para windows y luego usar el laucher Heroic en Linux para jugarlo. El launcher lo ejecutará con GE-Proton y cierta confiruación que permite jugarlo sin problemas. Commandos: Behind The Enemy Lines es un jue"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Álex Anwandter, 20 años de carrera artística",
+    "link": "https://altgr.xyz/2026/09/02/alex-anwandter-20-anos-de-carrera-artistica/",
+    "fecha": "03/09/2026 02:14",
+    "contenido": "Conozco pocas canciones de Álex Anwandter, pero se de su trayectoria e importancia en la escena pop de la música chilena de este siglo. Por eso quise ir a su concierto del Movistar Arena la noche del sábado. La celebración de sus 20 años de carrera musical que resultó ser un conciertazo. Muy entrete"
   },
   {
     "blog": "NeoSite Blog",
@@ -72,7 +114,7 @@
   {
     "blog": "Diego's Island",
     "titulo": "Creando algo funcional.",
-    "link": "#",
+    "link": "https://diegoaep.codeberg.page/creando-algo-funcional/",
     "fecha": "02/09/2026 19:35",
     "contenido": "Sobre un proyecto sencillo pero funcional que estoy creando."
   },
@@ -89,13 +131,6 @@
     "link": "https://thecheis.com/2026/09/02/linux-cumple-35-anos/",
     "fecha": "02/09/2026 18:15",
     "contenido": "El mundo de la tecnología está de enhorabuena. Concretamente Linux, que por estas fechas cumple 35 añazos, consolidándose junto a GNU como el proyecto de software libre más exitoso de la historia hasta el momento. De hecho, ambos casi no tendrían sentido el uno sin el otro, dando lugar a una simbios"
-  },
-  {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "De la soledad espacial al viaje compartido – No Man’s Sky",
-    "link": "https://unpinguino.com/de-la-soledad-espacial-al-viaje-compartido-no-mans-sky/",
-    "fecha": "02/09/2026 16:00",
-    "contenido": "¿Quién no ha oído hablar de este juego? Ya sea por su polémico lanzamiento o&#8230;"
   },
   {
     "blog": "56K",
@@ -117,13 +152,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/09/02/todo-tiene-un-principio/",
     "fecha": "02/09/2026 11:22",
     "contenido": "(1991/2026 &#8211; Nordic Mission) Esto de las re ediciones, algo tan en boga últimamente, entre...\nThe post Living Sacrifice: Living Sacrifice | Todo Tiene Un Principio first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Saccharine Echo",
-    "link": "https://cozykis.kisworld.es/analisis-de-saccharine-echo/",
-    "fecha": "02/09/2026 10:47",
-    "contenido": "Con un apartado gráfico precioso, esta corta novela visual nos meterá de lleno en una historia retorcida  y oscura\nLa entrada Análisis de Saccharine Echo se publicó primero en CozyKis."
   },
   {
     "blog": "El escritorio de McAllus",
@@ -166,13 +194,6 @@
     "link": "https://blog.danielaragay.net/laab-de-pato-el-plato-que-casi-nadie-prepara-bien-fuera-de-tailandia/",
     "fecha": "01/09/2026 20:39",
     "contenido": "Hay platos tailandeses que todo el mundo conoce. Y luego está este Laab de pato: piel crujiente aparte, cocinado en su propia grasa, y con un ingrediente que casi nadie fuera de Tailandia ha probado."
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de A Tithe in Blood",
-    "link": "https://cozykis.kisworld.es/analisis-de-a-tithe-in-blood/",
-    "fecha": "01/09/2026 19:12",
-    "contenido": "Una historia oscura y llena de giros donde los personajes no son lo que parecen, pero aun así nos vamos a enamorar igual\nLa entrada Análisis de A Tithe in Blood se publicó primero en CozyKis."
   },
   {
     "blog": "Erica Fustero",
@@ -231,6 +252,13 @@
     "contenido": "Después de meses hablando de Tailandia en vídeo, hoy estrenamos algo nuevo: ThaiZapZap, el podcast. No sustituye al canal de YouTube, lo complementa — un espacio sin prisas para hablar de todo lo que no cabe en un guión de ocho minutos."
   },
   {
+    "blog": "Eterno aprendiz",
+    "titulo": "Un Año de La Bitácora y El Día Mundial del Blog",
+    "link": "https://altgr.xyz/2026/09/01/un-ano-de-la-bitacora-y-el-dia-mundial-del-blog/",
+    "fecha": "01/09/2026 03:06",
+    "contenido": "Esta mañana me enteré de que existe el World Blog Day, o sea, el Día Mundial del Blog y es justo hoy 31 de Agosto. Eso se suma a que por estos días &#8212;hace una semana exactamente&#8212; se cumple un año desde que retomé la aventura de escribir en este espacio que he llamado La Bitácora de un Ete"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "581. Las niñas buenas salen a jugar",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/581-las-ninas-buenas-salen-jugar.html",
@@ -250,13 +278,6 @@
     "link": "https://matizeta.com/2026/08/31/la-efimera-emocion-de-escribir-la-primer-entrada-de-tu-blog/",
     "fecha": "31/08/2026 14:46",
     "contenido": "Una aclaración importante para aquellos que me envían sus blogs para formar parte de ¡Blog!¡Blog!Entradas relacionadas:El sistema operativo de BarbieLa delgada línea entre curaduría y censuraPost-itLos blogs que me motivaron a tener el míoUn año escribiendo"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Mis lecturas en agosto de 2026",
-    "link": "https://pedrolr.es/blog/mis-lecturas-en-agosto-de-2026/",
-    "fecha": "31/08/2026 13:49",
-    "contenido": "Vi por uno o varios blogs que sigo gracias al RSS de \"¡Blog!¡Blog! - Directorio de blogs en español\" de Matizeta (enlace) que varias personas publican sus lecturas de cada mes o trimestre. Por ejemplo: Mis lecturas de 2026 - Segundo trimestre (de Kabosu - Creando cosas) Mis lecturas en agosto de 202"
   },
   {
     "blog": "",
@@ -294,13 +315,6 @@
     "contenido": "Lo dije hace dos semanas. Ya no estoy en verano. Pronto termina la jornada intensiva y entro en septiembre, que es un mes que tradicionalmente en mi caso tiene muchos compromisos con muchas cosas a la vez. La vida me ha atropellado en muchos sentidos pero por suerte ninguno de ellos es triste. Solo "
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Lou’s Lagoon",
-    "link": "https://cozykis.kisworld.es/analisis-de-lous-lagoon/",
-    "fecha": "31/08/2026 10:22",
-    "contenido": "Una aventura que nos permitirá descubrir distintas islas mientras resolvemos la desaparición de nuestro tío\nLa entrada Análisis de Lou&#8217;s Lagoon se publicó primero en CozyKis."
-  },
-  {
     "blog": "Galerías Preciados",
     "titulo": "Hola Madrid!! Nos vemos en el No Sandrapalooza",
     "link": "https://galeriaspreciados.band/hola-madrid-nos-vemos-en-el-no-sandrapalooza/",
@@ -320,20 +334,6 @@
     "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
     "fecha": "31/08/2026 03:00",
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Me he comprado el Pocketbook Inkpad One!",
-    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "Self-hosting Forgejo (lightweight software forge)",
-    "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Autoalojar proyectos Git al estilo de GitHub"
   },
   {
     "blog": "Maverick HQ",
@@ -376,13 +376,6 @@
     "link": "https://guillermolatorre.com/clips/vorssaint-app-herramientas-utiles-de-sistema-para-mac",
     "fecha": "30/08/2026 16:10",
     "contenido": "Se trata de una \"pequeña\" app que vive en la barra superior del sistema y que integra un montón de pequeñas utilidades de las que te hacen la vida más fácil. Y es software libre.Ir al enlace"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Se hizo historia en el Carlos Vieco por una buen causa",
-    "link": "https://gatooscuro.xyz/se-hizo-historia-en-el-carlos-vieco-por-una-buen-causa/",
-    "fecha": "30/08/2026 15:28",
-    "contenido": "NOTA: Este artículo tenía que haber salido un día después del evento, pero como me ocurre de todo entonces salió tarde, varios días tarde. Hoy les vengo a escribir sobre\nSeguir leyendo  Se hizo historia en el Carlos Vieco por una buen causa\nEl cargo Se hizo historia en el Carlos Vieco por una buen c"
   },
   {
     "blog": "Tecno y Soft",
@@ -467,13 +460,6 @@
     "link": "https://alex.corcoles.net/2026/08/esfuerzos",
     "fecha": "29/08/2026 00:00",
     "contenido": "\n  Hace unos treinta a&#241;os aprend&#237;a a programar m&#225;s o menos en serio. Gracias al Blitz Basic del Amiga comenc&#233; a poder crear juegos sencillos, pero con cara y ojos, tras igual unos diez a&#241;os de intentos y de lentos progresos.\n  Poco despu&#233;s, con m&#225;s casualidad de lo"
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "GitOps en AWS ECS con Github y Terraform",
-    "link": "https://blog.jagedn.dev/blog/2026/gitops-aws-tf.html",
-    "fecha": "29/08/2026 00:00",
-    "contenido": "Desplegando servicio en AWS ECS con Terraform y GitHub actions"
   },
   {
     "blog": "Victorhck in the free world",
@@ -628,20 +614,6 @@
     "link": "https://blog.danielaragay.net/el-rode-ai-micro-no-aguanta-mis-microfonos-binaurales-y-por-que-cambio-de-estrategia-en-youtube/",
     "fecha": "27/08/2026 11:21",
     "contenido": "Nuevo episodio del podcast: El Rode AI-Micro no aguanta mis micr&#xf3;fonos binaurales (y por qu&#xe9; cambio de estrategia en YouTube)Esc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@nordicsmedia/episodes/el-rode-ai-micro-no-aguanta-mis-microfonos-binaurales-y-por-que-cambio-de-estrategi"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Void Pachinko",
-    "link": "https://cozykis.kisworld.es/analisis-de-void-pachinko/",
-    "fecha": "27/08/2026 10:42",
-    "contenido": "Con varios escenarios a superar, muchas pelotas distintas para desbloquear y una historia curiosa será difícil soltarlo\nLa entrada Análisis de Void Pachinko se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "La clase de griego",
-    "link": "https://mareosdeungeek.es/la-clase-de-griego/",
-    "fecha": "27/08/2026 10:00",
-    "contenido": "La clase de griego es el primer libro que leo de la autora surcoreana Han Kang, quién acabaría recibiendo el Premio Nobel de Literatura en el año 2024. Esta obra se publicó en 2011 y aunque es posterior a su éxito La vegetariana mantiene el nivel de una prosa profunda, muy detallista y dramática par"
   },
   {
     "blog": "Picando Código",
@@ -819,13 +791,6 @@
     "contenido": "El Heavy Metal tradicional, épico y combativo no parece ser uno de subgéneros más buscados...\nThe post La Banda Griega Anuncia Nuevo Disco | Royal Altar Se Prepara Para Otra Batalla first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Ultrapool",
-    "link": "https://cozykis.kisworld.es/analisis-de-ultrapool/",
-    "fecha": "25/08/2026 09:27",
-    "contenido": "Ultrapool es un roguelike inspirado en el billar con unas reglas y bolas de lo más curiosas. El objetivo está claro y es que nos aparecerá en todo el medio de la mesa. No hace falta meter todas las bolas; de igual manera, quedarnos sin ninguna esfera sobre el tablero hará que ganemos la partida. [&#"
-  },
-  {
     "blog": "Adrián Perales",
     "titulo": "Tengo un pódcast nuevo",
     "link": "https://adrianperales.com/2026/08/tengo-un-podcast-nuevo/",
@@ -845,13 +810,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/08/579-siempre-les-pasa-otros.html",
     "fecha": "24/08/2026 22:00",
     "contenido": "&nbsp; &nbsp; El tipo tenía cincuenta años. A esa edad, quizá creía que ya lo sabía todo. Puede que fuera de los que piensan que ciertas advertencias son exageradas y que algunas prohibiciones coartan la libertad individual. Es posible que gozara de buena salud y esperara llegar a los ochenta años p"
-  },
-  {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "La belleza del dolor en The Crow de James O’Barr",
-    "link": "https://unpinguino.com/la-belleza-del-dolor-en-the-crow-de-james-obarr/",
-    "fecha": "24/08/2026 16:23",
-    "contenido": "Hace mucho que tenía ganas de leer The Crow, pero lo estuve posponiendo por mucho&#8230;"
   },
   {
     "blog": "THE_CHEI$",
@@ -901,13 +859,6 @@
     "link": "https://escritura.social/mcallus/regreso-a-mi-querida-rokugan",
     "fecha": "24/08/2026 11:24",
     "contenido": ""
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Los Brasileños Estrenan \"Eclipse Of The Rising Sun\" | Sunroad Va Por Un Nuevo Álbum",
-    "link": "https://www.delotroladometal.com.ar/2026/08/24/sunroad-va-por-un-nuevo-album/",
-    "fecha": "24/08/2026 10:35",
-    "contenido": "La banda brasileña Sunroad tiene su reputación bien ganada. Gracias a una extensa trayectoria, tanto...\nThe post Los Brasileños Estrenan \"Eclipse Of The Rising Sun\" | Sunroad Va Por Un Nuevo Álbum first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Adrián Perales",
@@ -973,13 +924,6 @@
     "contenido": "Escribir Hispania Obscura me tomó dos años, pero las ideas que terminaron dentro me tomaron más de diez. Hay cosas en ese libro que aparecieron mucho antes de que supiera que estaba escribiendo un libro: notas sobre mitología peninsular, lugares de Madrid que parecían esconder otra ciudad debajo, pe"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Alarcón",
-    "link": "https://mareosdeungeek.es/alarcon/",
-    "fecha": "23/08/2026 08:00",
-    "contenido": "Como todos los veranos he estado visitando La Manchuela que no deja de ser la zona de mis raíces. Este año he aprovechado para visitar La Mancha de Cuenca y de camino, aprovechado para parar en Alarcón. Alarcón se encuentra en La Manchuela, la comarca que hay entre Cuenca y Albacete. Este pueblo, ba"
-  },
-  {
     "blog": "56K",
     "titulo": "Juegos que me he pasado",
     "link": "https://56k.es/fanta/juegos-que-me-he-pasado/",
@@ -999,13 +943,6 @@
     "link": "https://tecnoysoft.com/2026/08/22/como-evitar-las-desconexiones-esporadicas-de-la-wifi-en-linux/",
     "fecha": "22/08/2026 15:21",
     "contenido": "Llevo mucho tiempo con este problema. La solución es sencilla; lo difícil ha sido identificar la causa. En algunos portátiles con Linux, especialmente cuando la señal Wi-Fi es débil, el ahorro de energía del adaptador inalámbrico puede afectar a la estabilidad de la conexión. En mi caso, la solución"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Escribiendo un poco sobre lo que se mueve actualmente en la red",
-    "link": "https://gatooscuro.xyz/escribiendo-un-poco-sobre-lo-que-se-mueve-actualmente-en-la-red/",
-    "fecha": "22/08/2026 08:14",
-    "contenido": "Hoy es de esas madrugadas en que quiero hundirme en mis letras, más allá de mis pensamientos e introspección, que normalmente logro durante esas largas jornadas laborales. En donde no\nSeguir leyendo  Escribiendo un poco sobre lo que se mueve actualmente en la red\nEl cargo Escribiendo un poco sobre l"
   },
   {
     "blog": "Un blog",
@@ -1043,13 +980,6 @@
     "contenido": "https://www.youtube.com/@danielomar4657"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #955",
-    "link": "https://www.fabio.com.ar/10023-links-de-viernes---955",
-    "fecha": "21/08/2026 12:00",
-    "contenido": "     A volar con unos links\nSi, ya saben, no estoy cerca, pero aun as&iacute; algunos links consegu&iacute;, no es f&aacute;cil porque no tengo tanta conectividad como es usual, pero poco a poco algo veo y colecciono llegando al viernes bien cargadito. Y si te parecen pocos sumate a LinksDV para com"
-  },
-  {
     "blog": "El Refugio de un Nerd",
     "titulo": "El Diario de un Nerd – THE_CHEI$",
     "link": "https://elrefugiodeunnerd.es/2026/08/21/el-diario-de-un-nerd-the_chei/",
@@ -1071,25 +1001,11 @@
     "contenido": "Por razones de organización llevo tiempo usando el ratón de mi raspberry pi 400 en mi PC principal, hasta ahora ha ido muy bien pero al usar la rueda del ratón se me atrancaba como si el mecanismo tuviera algún contacto mal.&nbsp;Así que he ido a abrirlo y veo que no hay tornillo para abrirlo, así q"
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Verde",
-    "link": "https://cozykis.kisworld.es/analisis-de-verde/",
-    "fecha": "21/08/2026 07:14",
-    "contenido": "Un bonito juego de construcción de ciudades en el que podemos relajarnos mientras hacemos misiones a nuestro ritmo\nLa entrada Análisis de Verde se publicó primero en CozyKis."
-  },
-  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "La consciencia más allá del representacionismo: una conversación con Michael Tye",
     "link": "https://vonneumannmachine.wordpress.com/2026/08/21/la-consciencia-mas-alla-del-representacionismo-una-conversacion-con-michael-tye/",
     "fecha": "21/08/2026 07:14",
     "contenido": "¿Es posible explicar la consciencia fenoménica (sentir el aroma a azahar o el sonido del laúd) sin apelar a entidades no físicas o a “misterios” insondables? ¿Cómo ese kilo y medio de materia gelatinosa que está dentro de nuestro cráneo, puede hacer que yo piense en mi abuela? ¿Cómo esas “mariposas "
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Montañas y refugios: Cueva Valiente y \"Las Esquinillas\"",
-    "link": "https://pedrolr.es/blog/montanas-y-refugios-cueva-valiente-y-las-esquinillas/",
-    "fecha": "21/08/2026 05:47",
-    "contenido": "Esta semana he tratado de hacer algunas rutas por refugios de montaña. He estado en varios y hablo aquí de dos. Cueva Valiente está a 1.903 metros de altitud, en la sierra de Guadarrama. Desde arriba se ve el Puerto de los Leones y El Espinar y San Rafael. El pico es una cosa y [&#8230;]"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -1148,13 +1064,6 @@
     "contenido": "Poco que comentar por aquí que no se diga aquí: 56k.es/fediabanicos-concurso-de-abanicos-2026/ En esa página he dejado la información del concurso de abanicos de este 2026. El año pasado se hizo el de ventiladores de techo y este año tocaba algo más inclusivo (que no todo el mundo tiene dinero para "
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Mind Inc",
-    "link": "https://cozykis.kisworld.es/analisis-de-mind-inc/",
-    "fecha": "20/08/2026 09:11",
-    "contenido": "Un viaje a la mente de diversos personajes para reconstruir sus recuerdos y conocer sus historias Mind Inc es un juego de puzles que tiene lugar dentro de la mente de varias personas de una familia, las cuales vamos a visitar para revivir algunos de sus recuerdos. Empezamos con un escenario sencilli"
-  },
-  {
     "blog": "Picando Código",
     "titulo": "Reseña: Grim Trials - Nintendo Switch 2",
     "link": "https://picandocodigo.net/2026/resena-grim-trials-nintendo-switch-2/",
@@ -1174,13 +1083,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/08/19/reciclando-una-entrevista-merece-la-pena-ser-bloguero/",
     "fecha": "19/08/2026 13:54",
     "contenido": "En el blog Tecnoysoft publicaron el pasado 9 de agosto de 2026 una entrevista ficticia realizada por una IA. A raíz de ese artículo, me pareció interesante \"reciclar\" la entrevista y publicar en mi blog mis propias respuestas."
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Finding Polka",
-    "link": "https://cozykis.kisworld.es/analisis-de-finding-polka/",
-    "fecha": "19/08/2026 10:41",
-    "contenido": "Con sus puzles diversos, sus escenarios llenos de vida hace que buscar a nuestro perro sea una verdadera aventura\nLa entrada Análisis de Finding Polka se publicó primero en CozyKis."
   },
   {
     "blog": "El escritorio de McAllus",
@@ -1209,13 +1111,6 @@
     "link": "https://danielomarcignacco.mataroa.blog/blog/microrrelato-en-axxon/",
     "fecha": "19/08/2026 00:00",
     "contenido": "Pasen y lean\nhttps://axxon.com.ar/rev/2026/08/ficcion-breve-ochenta-tres-varios/\nDaniel Omar Cignacco"
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "ApiFirst en Leanpub",
-    "link": "https://blog.jagedn.dev/blog/2026/leanpub-apifirst.html",
-    "fecha": "19/08/2026 00:00",
-    "contenido": "Acabo de publicar el libro \"ApiFirst con Micronaut\" en LeanPub"
   },
   {
     "blog": "Picando Código",
@@ -1251,20 +1146,6 @@
     "link": "https://bitsdeocio.wordpress.com/2026/08/18/por-que-no-publico/",
     "fecha": "18/08/2026 09:46",
     "contenido": "Se viene una pequeña turra&#8230; No es un texto de queja, aunque pueda parecerlo; es más bien una especie de auto-terapia. Siento llegar y soltar mis movidas al mundo, pero necesito aclararlas, sobre todo a mí mismo. Llevo un tiempo sin publicar con regularidad, y no solo en el blog. También he ido"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Tukoni: Cuidadores del Bosque",
-    "link": "https://cozykis.kisworld.es/analisis-de-tukoni-cuidadores-del-bosque/",
-    "fecha": "18/08/2026 09:27",
-    "contenido": "Explora un mundo dibujado a mano precioso, conoce animales lindos, resuelve puzles y prepara té en esta tierna aventura\nLa entrada Análisis de Tukoni: Cuidadores del Bosque se publicó primero en CozyKis."
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Psicodélicos, ficción y no ficción",
-    "link": "https://pedrolr.es/blog/psicodelicos-ficcion-y-no-ficcion/",
-    "fecha": "18/08/2026 06:53",
-    "contenido": "En la primera semana de agosto de 2026 leí el libro “El viajero mental: una historia de la psicodelia” de Juan Arnau. Tengo interés por los psicodélicos, lo psiquedélico, lo que se suele llamar los estados alterados de conciencia, los estados expandidos de la mente, las parálisis del sueño, etc. Tra"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -1321,13 +1202,6 @@
     "link": "https://www.quiroptero.blog/2026/08/anuncios/",
     "fecha": "17/08/2026 06:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "La psicologa sin empatía",
-    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
-    "fecha": "17/08/2026 00:00",
-    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
   },
   {
     "blog": "JDRM",
@@ -1428,13 +1302,6 @@
     "contenido": "&nbsp;Es una corriente que va donde va,cazando la lluvia cautivadentro de la misma tormenta,silenciosa, impopular, integrada.Contra todo, pero dentro de todo,apuñalando, ciegamente,las victorias y las derrotas,&nbsp;dando vueltas y vueltas a vacío.Regalando la sensación&nbsp;de expresión autónoma pr"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Palantir en Colombia – ¡Hola, amigo!",
-    "link": "https://gatooscuro.xyz/palantir-en-colombia-hola-amigo/",
-    "fecha": "15/08/2026 08:40",
-    "contenido": "“Hola, amigo. Hola, ¿amigo? Es aburrido.&#160; Tal vez deba darte un nombre, pero es una pendiente resbaladiza.&#160; Solo estás en mi cabeza.&#160; Tenemos que recordar eso.&#160; Mierda. En verdad sucedió,\nSeguir leyendo  Palantir en Colombia – ¡Hola, amigo!\nEl cargo Palantir en Colombia – ¡Hola, "
-  },
-  {
     "blog": "Spanish on Jorge Sanz",
     "titulo": "La pequeña flor",
     "link": "https://jorgesanz.net/cuentos/la-pequena-flor/",
@@ -1482,13 +1349,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/08/576-fecundacion-total.html",
     "fecha": "14/08/2026 05:59",
     "contenido": "&nbsp; &nbsp; Fueron muchas las personas que no se desplazaron para presenciar el eclipse. Por ejemplo, hubo varias parejas heterosexuales que, en pecado o en matrimonio, eligieron el día del evento astronómico para copular sin protección. Ya fuera por creencias o por estúpidas tradiciones ancestral"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Hace 20 años me fracturé la tibia y el peroné en un accidente de trabajo",
-    "link": "https://pedrolr.es/blog/hace-20-anos-me-fracture-la-tibia-y-el-perone-en-un-accidente-de-trabajo/",
-    "fecha": "14/08/2026 05:42",
-    "contenido": "Tenía casi 20 años y estaba en el verano de 2º de carrera de filosofía en Madrid. Ese verano había estado en Valencia durante el mes de julio trabajando en una empresa de materiales de electricidad. Era un trabajo muy físico, de 12 horas al día y preparando pedidos. Recuerdo especialmente cuando ten"
   },
   {
     "blog": "Diego Cano",
@@ -1575,13 +1435,6 @@
     "contenido": "Estos últimos días hemos estado dándole forma al nuevo Hitz. Refinando, proponiendo ideas, descartando otras, viendo qué podemos hacer para que sea un lugar acogedor donde la gente pueda caerle a conversar, ver qué pasa en la escena y compartir música. La escena musical siempre ha existido pero de f"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Denominación de Origen",
-    "link": "https://mareosdeungeek.es/denominacion-de-origen/",
-    "fecha": "12/08/2026 15:55",
-    "contenido": "Denominación de Origen es un documental que puede verse en RTVE Play que sirve como preámbulo a la consecución del segundo Campeonato Mundial de Fútbol por parte de la selección española. Sin lugar a dudas, ha sido una de las alegrías de este verano de 2026. Honestamente, tampoco ha sido una sorpres"
-  },
-  {
     "blog": "danielaragay.net",
     "titulo": "Eclipse total de Sol: cómo grabarlo (sin freír tu cámara)",
     "link": "https://blog.danielaragay.net/eclipse-total-de-sol-como-grabarlo-sin-freir-tu-camara/",
@@ -1645,13 +1498,6 @@
     "contenido": "Hace más de un año les mostré la forma de comprar Bitcoin sin KYC a través de Telegram usando el bot lnp2pbot. Esa, para mí, era la forma más cómoda [&#8230;]\nLa entrada Adiós lnp2pbot se publicó primero en Jinversor."
   },
   {
-    "blog": "pedrolr blog",
-    "titulo": "Añadir keywords a los XML JATS que no están presentes en las versiones en PDF, ¿se puede considerar una manipulación de los metadatos o solo un error?",
-    "link": "https://pedrolr.es/blog/anadir-keywords-a-los-xml-jats-que-no-estan-presentes-en-las-versiones-en-pdf-se-puede-considerar-una-manipulacion-de-los-metadatos-o-solo-un-error/",
-    "fecha": "11/08/2026 07:59",
-    "contenido": "He llegado a un trabajo de 2025 titulado “Detection of metadata manipulations: Finding sneaked references in the scholarly literature” (Besançon et al., 2025). Comentan que han detectado citas ocultas en los metadatos de las publicaciones o papers que no aparecen en el texto de las mismas. Me ha hec"
-  },
-  {
     "blog": "Blog de Thalskarth",
     "titulo": "Cansando del boludo proactivo",
     "link": "https://blog.thalskarth.ar/cansado-boludo-proactivo/",
@@ -1701,13 +1547,6 @@
     "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "TuLotero ha sido hackeada",
-    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
-    "fecha": "10/08/2026 00:00",
-    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "No volverás a consumir contenido después de leer esto",
     "link": "https://guillermolatorre.com/clips/no-volveras-a-consumir-contenido-despues-de-leer-esto",
@@ -1750,13 +1589,6 @@
     "contenido": "&nbsp; &nbsp; Te veo. Desvío los ojos hacia los tuyos y sé lo que estás pensando. No pronuncias palabra, pero tu cara habla con claridad. Deseas con todas tus fuerzas que este verano infernal se convierta en un recuerdo que olvidar con la llegada de noviembre.&nbsp;&nbsp; &nbsp;&nbsp;Odias el calor "
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Analizando el documento de los Testigos Digitales 2026: ¿Hubo fraude electoral en Colombia?",
-    "link": "https://gatooscuro.xyz/analizando-el-documento-de-los-testigos-digitales-2026-hubo-fraude-electoral-en-colombia/",
-    "fecha": "09/08/2026 10:14",
-    "contenido": "Imagino que, si entraste a este artículo, es porque estás enterado de la actualidad política colombiana, de que ahora tenemos un nuevo presidente llamado Abelardo de la Espriella, quien no\nSeguir leyendo  Analizando el documento de los Testigos Digitales 2026: ¿Hubo fraude electoral en Colombia?\nEl "
-  },
-  {
     "blog": "quiroptero.blog",
     "titulo": "Me uno al webring de ¡Blog!¡Blog!",
     "link": "https://www.quiroptero.blog/2026/08/webring/",
@@ -1797,13 +1629,6 @@
     "link": "https://jodidaperonosorprendida.mataroa.blog/blog/quien-pierde-las-formas/",
     "fecha": "08/08/2026 00:00",
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Web component para mostrar spoilers en tu blog",
-    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
-    "fecha": "08/08/2026 00:00",
-    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
   },
   {
     "blog": "Maverick HQ",
@@ -1890,13 +1715,6 @@
     "contenido": "El sábado pasado vi en Mastodon un hilo de @dbattistella@mstdn.ca (impulsado por Santiago). En él se explican los pasos para desactivar la inteligencia artificial de su cuenta de Gmail que desde fines de noviembre del año pasado se activó automáticamente en todas las cuentas. Me pareció muy interesa"
   },
   {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtidos variados para muffaletta (o el bocadillo que quieras)",
-    "link": "https://puedellevarqueso.es/2026/08/encurtidos-variados-para-muffaletta-o-el-bocadillo-que-quieras/",
-    "fecha": "07/08/2026 11:17",
-    "contenido": "La muffaletta es un bocadillo italoamericano, que lleva capas y capas de todos los fiambres que te atrevas y al menos dos tipos de queso. Es difícil de imitar en casa porque se hace en un tipo de pan muy difícil de encontrar fuera de Nueva Orléans y tal vez otros puntos de EEUU como [&#8230;]"
-  },
-  {
     "blog": "Malagueños originales y libres",
     "titulo": "¿WINE no es un emulador?",
     "link": "https://malagaoriginal.blogspot.com/2026/07/wine-no-es-un-emulador.html",
@@ -1939,13 +1757,6 @@
     "contenido": "Un carta de agradecimiento a todos los que forman parte.Entradas relacionadas:Resumen del mes (enero 2026)CambiosLecturas recomendadas #7La \"antiambición\" o cómo encontrar la felicidad en&hellip;Los blogs en español y su escasa existencia"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "v4.7",
-    "link": "https://mareosdeungeek.es/v4-7/",
-    "fecha": "06/08/2026 07:00",
-    "contenido": "Seguimos incrementando versiones, pasando los días, meses y años. En este caso, repetimos un poco el patrón del año pasado. Estoy en tierras manchegas, disfrutando de la familia y teletrabajando. Hemos dejado atrás la saturación de la Costa del Sol, porque tengo que reconocer que entre el 15 de juli"
-  },
-  {
     "blog": "Diego Cano",
     "titulo": "¡Blog! ¡Blog!, el agregador de blogs personales en castellano",
     "link": "https://blep.org/BlogBlog-el-agregador-de-blogs-personales-en-castellano",
@@ -1965,33 +1776,5 @@
     "link": "https://elcondonrotodegnu.wordpress.com/2026/08/05/lanzamiento-ubuntu-touch-24-04-2-0-y-24-04-1-4/",
     "fecha": "05/08/2026 20:03",
     "contenido": "Lanzamiento Ubuntu Touch 24.04-2.0 y 24.04-1.4\nNavegador actualizado, función para evitar la muesca, editor de capturas de pantalla y compatibilidad para imprimir"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Películas de la temporada #10",
-    "link": "https://thecheis.com/2026/08/05/peliculas-de-la-temporada-10/",
-    "fecha": "05/08/2026 15:25",
-    "contenido": "Vuelvo al corazón del cine, a la mitad del siglo XX. Sé que es muy snob decirlo, pero hay tal cantidad de buenas pelis en aquellos años que lo nuevo no consigue sorprenderme, por eso prefiero dedicar mi tiempo a desempolvar antigüedades. Esta temporada la disfruté con un buen puñado de títulos. 1. L"
-  },
-  {
-    "blog": "GoRiX blog",
-    "titulo": "Autómatas finitos: lo que me voló la cabeza en la facu",
-    "link": "https://blog.gorix.xyz/autmatas-finitos-lo-que-me-vol-la-cabeza-en-la-facu.html",
-    "fecha": "05/08/2026 15:05",
-    "contenido": "\n    Hay temas que te los enseñan, aprobás el parcial y los olvidás; y hay otros que te vuelan la cabeza para siempre.\n\n\n    Fue hace muuuuuchos años, en la UTN, en una materia llamada \"Sintaxis y Semántica de los Lenguajes\". La daba Jorge Muchnik (quien lamentablemente falleció en 2015), tenía ese "
-  },
-  {
-    "blog": "Región Cuatro",
-    "titulo": "¿Quién te dio permiso? En versión audio",
-    "link": "https://regioncuatro.blog/quien-te-dio-permiso-en-version-audio/",
-    "fecha": "05/08/2026 15:00",
-    "contenido": "Hace tiempo tenía ganas de grabar versiones de audio de algunos posts, y hoy decidí experimentar con el primero.\n\n¿Quién te dio permiso? tiene ahora una versión que puedes ir a escuchar haciendo click en el enlace.\n¿Qué opinan?"
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Malys podría ser un juego de cartas de Hellblazer",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/08/05/20260805-malys-hellblazer-en-cartas/",
-    "fecha": "05/08/2026 08:00",
-    "contenido": "Los juegos de cartas coleccionables con temática de terror no son extraños, pero en ordenador y con narrativa en ramas si que lo son"
   }
 ]
