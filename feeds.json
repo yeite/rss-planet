@@ -1,10 +1,10 @@
 [
   {
     "blog": "56K",
-    "titulo": "NetBSD dice no a la IA",
+    "titulo": "NetBSD dijo también no a la IA",
     "link": "https://56k.es/fanta/netbsd-dice-no-a-la-ia/",
     "fecha": "05/09/2026 12:39",
-    "contenido": "Hace tiempo que se pronunció Gentoo y lo comentamos por aquí: «Gentoo dice NO a la IA en sus políticas». Ahora NetBSD se ha pronunciado también para «excluir el código generado por IA». El motivo resumido: «Problemas de licencia». Así lo han anunciado en el Fediverso desde su cuenta oficial @netbsd@"
+    "contenido": "Hace tiempo que se pronunció Gentoo y lo comentamos por aquí: «Gentoo dice NO a la IA en sus políticas». La cosa es que NetBSD también se había pronunciado  para «excluir el código generado por IA». El motivo resumido: «Problemas de licencia». Así lo anunciaron en el Fediverso en 2024 desde su cuent"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -110,13 +110,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacín",
-    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
-    "fecha": "03/09/2026 17:28",
-    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -446,6 +439,13 @@
     "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
     "fecha": "31/08/2026 03:00",
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Me he comprado el Pocketbook Inkpad One!",
+    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
   },
   {
     "blog": "Jorge Aguilera",
@@ -886,7 +886,7 @@
     "titulo": "El porque este blog fue bloqueado en mi trabajo",
     "link": "https://matizeta.com/2026/08/26/el-porque-este-blog-fue-bloqueado-en-mi-trabajo/",
     "fecha": "26/08/2026 08:11",
-    "contenido": "No hizo falta hablar con el área de IT.Entradas relacionadas:Cosas a tener en cuenta antes de abrir tu blogLa decadencia de la webImposible escaparEl tipo de cafetera que juré nunca comprar (y&hellip;Mi experiencia montando una nube privada"
+    "contenido": "No hizo falta hablar con el área de IT.Entradas relacionadas:Por favor, habilita la caja de comentariosCosas a tener en cuenta antes de abrir tu blogEl iPad es un juguete caroPost-itPegué el salto a un iPhone Pro y estas son las&hellip;"
   },
   {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
@@ -949,7 +949,7 @@
     "titulo": "Cosmos47",
     "link": "https://matizeta.com/2026/08/25/cosmos47/",
     "fecha": "25/08/2026 08:11",
-    "contenido": "Una red social creada por un programador cansado de las redes sociales.Entradas relacionadas:Kodak CharmerawriterdeckOSListedDaft SocialKolibriOS"
+    "contenido": "Una red social creada por un programador cansado de las redes sociales.Entradas relacionadas:NichelessShutter DeclutterListedLight 16Daft Social"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -1026,7 +1026,7 @@
     "titulo": "Dos años escribiendo este blog",
     "link": "https://matizeta.com/2026/08/24/dos-anos-escribiendo-este-blog/",
     "fecha": "24/08/2026 08:11",
-    "contenido": "Un nuevo aniversario de esta web.Entradas relacionadas:Poniendo un límite a mi uso de redes socialesPegué el salto a un iPhone Pro y estas son las&hellip;El iPad es un juguete caroPlataformas para tener tu blog (algunas bastante&hellip;Un año escribiendo"
+    "contenido": "Un nuevo aniversario de esta web.Entradas relacionadas:Cosas a tener en cuenta antes de abrir tu blogPegué el salto a un iPhone Pro y estas son las&hellip;Por favor, habilita la caja de comentariosUna pequeña reflexión sobre los blogs olvidadosEl Newsletter vino a salvar Internet"
   },
   {
     "blog": "brucknerite",
@@ -1229,7 +1229,7 @@
     "titulo": "Un directorio de blogs para personas que aman el RSS",
     "link": "https://matizeta.com/2026/08/20/un-directorio-de-blogs-para-personas-que-aman-el-rss/",
     "fecha": "20/08/2026 13:43",
-    "contenido": "Además tiene un feed público para leer el contenido de los blogs asociados.Entradas relacionadas:Post-itBuscadores de blogs personalesLos blogs que me motivaron a tener el míoPor favor, habilita la caja de comentariosPlataformas para tener tu blog (algunas bastante&hellip;"
+    "contenido": "Además tiene un feed público para leer el contenido de los blogs asociados.Entradas relacionadas:Buscadores de blogs personalesPor favor, habilita la caja de comentariosWebs que descubrí #4¿Sabes quienes y desde donde leen tu blog?Los blogs que me motivaron a tener el mío"
   },
   {
     "blog": "ochobitshacenunbyte",
@@ -1397,7 +1397,7 @@
     "titulo": "Tu correo electrónico es el mejor álbum de recuerdos que puedas tener",
     "link": "https://matizeta.com/2026/08/17/tu-correo-electronico-es-el-mejor-album-de-recuerdos-que-puedas-tener/",
     "fecha": "17/08/2026 08:11",
-    "contenido": "Te sorprenderá volver a descubrir a tu yo de hace diez años atrás.Entradas relacionadas:CambiosLecturas recomendadas #9Resumen del mes (enero 2026)Una vuelta de tuerca a la sección ¡Now!Lecturas recomendadas #7"
+    "contenido": "Te sorprenderá volver a descubrir a tu yo de hace diez años atrás.Entradas relacionadas:¿Qué va a pasar con mi blog?Lecturas recomendadas #6Comprar lo que NO necesitasVideos interesantes #1Una vuelta de tuerca a la sección ¡Now!"
   },
   {
     "blog": "La Frikoteca",
@@ -1412,6 +1412,13 @@
     "link": "https://www.quiroptero.blog/2026/08/anuncios/",
     "fecha": "17/08/2026 06:00",
     "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "La psicologa sin empatía",
+    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
+    "fecha": "17/08/2026 00:00",
+    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
   },
   {
     "blog": "JDRM",
@@ -1586,7 +1593,7 @@
     "titulo": "Es mejor optimizar el software que sumar más hardware",
     "link": "https://matizeta.com/2026/08/13/es-mejor-optimizar-el-software-que-sumar-mas-hardware/",
     "fecha": "13/08/2026 15:52",
-    "contenido": "Y eso es lo que Google aprendió a la fuerza con sus nuevos teléfonos Pixel.Entradas relacionadas:Todo lo que me quedó en el tintero sobre el Apple Event Mi experiencia montando una nube privadaPegué el salto a un iPhone Pro y estas son las&hellip;Esta es la mejor app de notas que puedo recomendarteT"
+    "contenido": "Y eso es lo que Google aprendió a la fuerza con sus nuevos teléfonos Pixel.Entradas relacionadas:Pegué el salto a un iPhone Pro y estas son las&hellip;El iPad es un juguete caroEs hora de dejar de festejarle los lanzamientos a AppleMi experiencia montando una nube privada¿Realmente necesitamos tanto"
   },
   {
     "blog": "labaudric",
@@ -1705,7 +1712,7 @@
     "titulo": "Cambios",
     "link": "https://matizeta.com/2026/08/11/cambios/",
     "fecha": "11/08/2026 14:20",
-    "contenido": "Más cambios en vísperas de un nuevo aniversario del blog.Entradas relacionadas:Comprar lo que NO necesitasPequeños cambios en mi blog¿Qué va a pasar con mi blog?Lecturas recomendadas #9Lecturas recomendadas #4"
+    "contenido": "Más cambios en vísperas de un nuevo aniversario del blog.Entradas relacionadas:Comprar lo que NO necesitasCambios en mi blog (nuevamente)Resumen del mes (enero 2026)Lecturas recomendadas #9Lecturas recomendadas #5"
   },
   {
     "blog": "Jinversor",
@@ -1769,6 +1776,13 @@
     "link": "https://elblogdelazaro.org/cloudflare-analytics-activado-automaticamente/",
     "fecha": "10/08/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 10 de agosto de 2026Un día revisando el blog encontré un script que yo no había puesto. Era de Cloudflare, y llevaba tiempo ahí.Continuar leyendo →#Cloudflare #Selfhosted "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "TuLotero ha sido hackeada",
+    "link": "https://chancli.dev/blog/hackeo-tulotero.html",
+    "fecha": "10/08/2026 00:00",
+    "contenido": "Este fin de semana ha sido bastante complicado en temas de ansiedad.\nDesde 2022 soy usuario de la app para loterías TuLotero. Quizás la app más importante y más usada en la gestión de loterías en España.\nEl 14 de Julio, TuLotero identificó un acceso no autorizado a su sistema de verificación de usua"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1862,6 +1876,13 @@
     "contenido": "«Quien pierde las formas pierde la razón». ¿Te suena? Yo lo habré escuchado enecientas veces y, lo que es peor: me lo he creído. Me ha hecho sentir mejor moralmente no perder las formas mientras otros me pisaban. Me ha consolado que mis «verdugos» vencieran pero no convencieran, porque, ¿quién puede"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Web component para mostrar spoilers en tu blog",
+    "link": "https://chancli.dev/blog/web-component-para-mostrar-spoilers.html",
+    "fecha": "08/08/2026 00:00",
+    "contenido": "Si en tu blog comentas series o películas quizás pueda interesarte la opción de mostrar spoilers ocultos para no fastidiarle el capítulo a nadie y aún así ofrecer la posibilidad a gente que lo haya visto de comentarte la reseña.\nSin complicarte mucho una buena forma es la de usar web components.\nCre"
+  },
+  {
     "blog": "Maverick HQ",
     "titulo": "weeknotes 26.2",
     "link": "https://maverick-hq.org/blog/weeknotes-26-2/",
@@ -1939,13 +1960,6 @@
     "contenido": "El sábado pasado vi en Mastodon un hilo de @dbattistella@mstdn.ca (impulsado por Santiago). En él se explican los pasos para desactivar la inteligencia artificial de su cuenta de Gmail que desde fines de noviembre del año pasado se activó automáticamente en todas las cuentas. Me pareció muy interesa"
   },
   {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtidos variados para muffaletta (o el bocadillo que quieras)",
-    "link": "https://puedellevarqueso.es/2026/08/encurtidos-variados-para-muffaletta-o-el-bocadillo-que-quieras/",
-    "fecha": "07/08/2026 11:17",
-    "contenido": "La muffaletta es un bocadillo italoamericano, que lleva capas y capas de todos los fiambres que te atrevas y al menos dos tipos de queso. Es difícil de imitar en casa porque se hace en un tipo de pan muy difícil de encontrar fuera de Nueva Orléans y tal vez otros puntos de EEUU como [&#8230;]"
-  },
-  {
     "blog": "Malagueños originales y libres",
     "titulo": "¿WINE no es un emulador?",
     "link": "https://malagaoriginal.blogspot.com/2026/07/wine-no-es-un-emulador.html",
@@ -1958,26 +1972,5 @@
     "link": "https://www.quiroptero.blog/2026/08/chafalario/",
     "fecha": "07/08/2026 06:00",
     "contenido": ""
-  },
-  {
-    "blog": "NevatBlog",
-    "titulo": "Datos de uso de Linux y navegadores, Julio 2026",
-    "link": "https://nevat.neocities.org/datosago_07082026.html",
-    "fecha": "07/08/2026 00:00",
-    "contenido": "Han pasado 9 meses desde la última revisión de datos de StartCounter. Merece la pena pegar un vistazo para ver que ha ocurrido en este tiempo por un cambio importante: \"Desconocido\" ha desaparecido."
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Pequeña actualización sobre Strange New Worlds",
-    "link": "https://nachof.blog/posts/2026/pequea-actualizacion-sobre-strange-new-worlds/",
-    "fecha": "06/08/2026 20:08",
-    "contenido": "El otro día comenté sobre la complicidad de Pike en un genocidio en el primer episodio de Strange New Worlds temporada 4. Una de las pequeñas cosas que me quedó fue la posibilidad de que estuviesen preparando algo sobre esto:\n\nCapaz que todo esto es para iniciar un arco en el cual Pike lidia con la "
-  },
-  {
-    "blog": "quiroptero.blog",
-    "titulo": "Si tienes un problema, alguien más ya lo tuvo (y lo resolvió)",
-    "link": "https://www.quiroptero.blog/2026/08/problemas/",
-    "fecha": "06/08/2026 15:11",
-    "contenido": "No, no eres la primera persona en tener ese problema. Busca la solución. Alguien ya la publicó en Internet."
   }
 ]
