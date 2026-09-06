@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 322 367" class="logo-animado">
     <style>
         @keyframes cambiarColorLogo {
-            0%   { fill: #ffffff; }
+            0%   { fill: #1a1a1a; }
             33%  { fill: #2ecc71; }
             66%  { fill: #e74c3c; }
             100% { fill: #3498db; }
