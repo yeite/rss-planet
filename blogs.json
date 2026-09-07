@@ -1,5 +1,38 @@
 [
   {
+    "Nombre": "Fixionauta",
+    "Url": "https://fixionauta.net/",
+    "Feed": "https://fixionauta.net/feed/",
+    "Descripción": "Portafolio y sitio personal de Renato Quiroga, artista gráfico. Ilustraciones, dibujos, textos, además de notas sobre música, libros y películas.",
+    "Categoría": "Arte y Diseño, Entretenimiento y Cultura, Newsletter",
+    "País": "México"
+  },
+  {
+    "Nombre": "David Lozano Lucas",
+    "Url": "https://blog.davidlozanolucas.com",
+    "Feed": "https://feeds.feedburner.com/DavidLozanoLucas",
+    "Descripción": "Blog personal de David Lozano: notas sobre tecnología, música y el día a día.",
+    "Categoría": "Entretenimiento y Cultura, Tecnología, Vida Diaria",
+    "País": "España"
+  },
+  {
+    "Nombre": "Pablo González Troyano",
+    "Url": "https://blog.gonzaleztroyano.es",
+    "Webring": "https://blog.gonzaleztroyano.es",
+    "Feed": "https://blog.gonzaleztroyano.es/rss/",
+    "Descripción": "Blog de personas para personas. Aprendiz constante. Metido de lleno en la informática, el cacharreo y las administraciones públicas.",
+    "Categoría": "Sociedad y Economía, Tecnología, Vida Diaria",
+    "País": "España"
+  },
+  {
+    "Nombre": "Daniel Omar Cignacco",
+    "Url": "https://danielomarcignacco.blogspot.com",
+    "Feed": "https://danielomarcignacco.blogspot.com/feeds/posts/default?alt=rss",
+    "Descripción": "El blog de Daniel Omar Cignacco es un espacio literario y personal enfocado en la poesía, la narrativa contemporánea y la memoria urbana de Buenos Aires.",
+    "Categoría": "Liteario",
+    "País": "Argentina"
+  },
+  {
     "Nombre": "Luis Carlos Pando",
     "Url": "https://luiscarlospando.com",
     "Webring": "https://luiscarlospando.com",
