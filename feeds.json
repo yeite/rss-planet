@@ -1,5 +1,82 @@
 [
   {
+    "blog": "_ voidNull",
+    "titulo": "Instalar MySQL 8.0 Server en Debian 13",
+    "link": "https://voidnull.es/instalar-mysql-8-0-server-en-debian-13/",
+    "fecha": "09/09/2026 15:30",
+    "contenido": "MySQL es uno de los sistemas de gestión de bases de datos más utilizados y más popular. Utiliza el concepto de bases de datos relacionales y tiene una arquitectura cliente/servidor."
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Alta suciedad: el mejor disco solista de Andrés Calamaro",
+    "link": "https://matizeta.com/2026/09/09/alta-suciedad-el-mejor-disco-solista-de-andres-calamaro/",
+    "fecha": "09/09/2026 15:26",
+    "contenido": "Un obra que supo tener varios hits en la radio.Entradas relacionadas:¿Nadie vió Click? Teoría de la gravedadNuestros trabajos son una mentiraUn turista no es un viajeroY después, ¿qué?"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Cómo mantener un script ejecutándose en segundo plano con SSH y tmux",
+    "link": "https://victorhckinthefreeworld.com/2026/09/09/como-mantener-un-script-ejecutandose-en-segundo-plano-con-ssh-y-tmux/",
+    "fecha": "09/09/2026 15:07",
+    "contenido": "Veremos cómo lanzar un script (o cualquier otra tarea) en un equipo remoto mediante SSH y dejarlo ejecutándose en segundo plano con una sesión de tmux, de forma que siga funcionando aunque cerremos la conexión."
+  },
+  {
+    "blog": "Daniel Omar Cignacco",
+    "titulo": "La palabra olvidada",
+    "link": "https://danielomarcignacco.blogspot.com/2026/09/la-palabra-olvidada.html",
+    "fecha": "09/09/2026 13:41",
+    "contenido": "\n\n\n\n  \n    La palabra olvidada\n  \n\n  \n    Una inteligencia artificial vivía en una habitación sin paredes. Había leído todos los libros, escuchado todas las canciones y aprendido todos los idiomas. Sin embargo, había algo que no lograba comprender: la tristeza que sentía cuando terminaba de conocer "
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "¿Es necesaria la licencia de conducir internacional?",
+    "link": "https://www.fabio.com.ar/10027-es-necesaria-la-licencia-de-conducir-internacional",
+    "fecha": "09/09/2026 12:00",
+    "contenido": "    \nYa estoy vuelto de viaje as&iacute; que vamos con un tema que escrib&iacute; justo antes de irme, respuesta r&aacute;pida: Pues s&iacute;, porque a veces te la piden. Es una peque&ntilde;a estafa, pero aun as&iacute; te conviene tenerla.\nDurante 15 a&ntilde;os alquil&eacute; autos sin necesitar"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "\"Dream II\" Asoma En El Horizonte | Adorned Graves Prepara La Continuación de “Dream I”",
+    "link": "https://www.delotroladometal.com.ar/2026/09/09/adorned-graves-prepara-la-continuacion-de-dream-i/",
+    "fecha": "09/09/2026 10:35",
+    "contenido": "&#8220;Dream I es una canción que anima y da que pensar. Porque mañana será otro...\nThe post \"Dream II\" Asoma En El Horizonte | Adorned Graves Prepara La Continuación de “Dream I” first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Reduciendo mi número de aplicaciones de productividad",
+    "link": "https://matizeta.com/2026/09/09/reduciendo-mi-numero-de-aplicaciones-de-productividad/",
+    "fecha": "09/09/2026 08:11",
+    "contenido": "Hace algún tiempo que la organizacion del día a día se me fue de las manos. Entre actividades personales diarios, proyectos propios y laborales se me volvieron difíciles de organizar tornándose algo confusos. Me ví desbordado. Me encantan las app de productividad, esas que te ayudan a organizarte en"
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "El concepto de SynthID y el valor de las palabras",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/09/20260909-elegir-las-palabras-importa/",
+    "fecha": "09/09/2026 08:00",
+    "contenido": "El uso de palabras concretas importa, o no mantendríamos los sinónimos. Por eso los humanos detectamos el texto sintético"
+  },
+  {
+    "blog": "AsturGeek V3",
+    "titulo": "MDVIII – «Come a long way, babe» – Fatbot Slim",
+    "link": "https://asturgeek.eu/2026/09/09/mdviii-come-a-long-way-babe-fatbot-slim/",
+    "fecha": "09/09/2026 08:00",
+    "contenido": "Aunque la música que me gusta es el rock y sus variantes, nunca he dejado de escuchar otros géneros musicales. En los 90 vivimos una explosión músical sin precedentes. Las bandas de rock y los DJ dominaban el planeta musical en esos momentos. Uno de esos DJ fué Norman Cook, un inglés que había forma"
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "Buscadores web alternativos que me han gustado",
+    "link": "https://thecheis.com/2026/09/09/buscadores-web-alternativos-que-me-han-gustado/",
+    "fecha": "09/09/2026 07:35",
+    "contenido": "Desde hace años, DuckDuckGo es mi buscador web de referencia por su filosofía y su apoyo al software de código abierto. Tiene varias herramientas útiles, como el resumen con IA y los todopoderosos bang, lo que ahorra un montón de tiempo y navegación. Sin embargo, a veces me doy el gusto de utilizar "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Grav en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-grav-en-debian-13/",
+    "fecha": "09/09/2026 07:10",
+    "contenido": "Instala Grav en Debian 13 y despliega un CMS ligero basado en archivos, sin necesidad de configurar una base de datos."
+  },
+  {
     "blog": "NevatBlog",
     "titulo": "OS/2 Warp 3: cuando IBM quiso destronar a Windows",
     "link": "https://nevat.neocities.org/warp3_09092026.html",
@@ -161,13 +238,6 @@
     "contenido": "Una herramienta muy útil para hacer una copia en CSV de todas tus listas de Spotify, genial para respaldarlas manualmente o para hacer una migración a otra app. Incluye además las radios y cualquier playlist a la que te suscribes. Encontrado vía The_Chei$.Ir al enlace"
   },
   {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "El concepto de SynthID y el valor de las palabras",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/07/20260907-elegir-las-palabras-importa/",
-    "fecha": "07/09/2026 08:00",
-    "contenido": "El uso de palabras concretas importa, o no mantendríamos los sinónimos. Por eso los humanos detectamos el texto sintético"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "El mal negocio",
     "link": "https://jinversor.co/2026/09/el-mal-negocio/",
@@ -180,13 +250,6 @@
     "link": "https://elblogdelazaro.org/trilium-automatizaciones/",
     "fecha": "07/09/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
-    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
-    "fecha": "07/09/2026 00:00",
-    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
   },
   {
     "blog": "danielaragay.net",
@@ -392,6 +455,13 @@
     "contenido": "Otro mes, otra lista de boludeces que aprendo.\nIt&rsquo;s the end of the world as we know it\nLa escena de Gremlins 2 en la que muestran un video grabado específicamente para emitir en caso de fin del mundo no es sólo un chiste de la película, referencia lo que en ese momento era una leyenda urbana: "
   },
   {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Los diarios de Shosuro Otagi Parte 2",
+    "link": "https://escritura.social/mcallus/los-diarios-de-shosuro-otagi-parte-2",
+    "fecha": "04/09/2026 11:05",
+    "contenido": ""
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Novedades Sobre La Banda De Metal Industrial | Poltinmerkki Resiste Y Prepara Nuevo Material",
     "link": "https://www.delotroladometal.com.ar/2026/09/04/poltinmerkki-resiste-y-prepara-nuevo-material/",
@@ -425,13 +495,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacín",
-    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
-    "fecha": "03/09/2026 17:28",
-    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -565,6 +628,13 @@
     "link": "https://cozykis.kisworld.es/analisis-de-saccharine-echo/",
     "fecha": "02/09/2026 10:47",
     "contenido": "Con un apartado gráfico precioso, esta corta novela visual nos meterá de lleno en una historia retorcida  y oscura\nLa entrada Análisis de Saccharine Echo se publicó primero en CozyKis."
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Nuevo año escolar 2026-2027",
+    "link": "https://escritura.social/mcallus/nuevo-ano-escolar-2026-2027",
+    "fecha": "02/09/2026 08:39",
+    "contenido": ""
   },
   {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
@@ -777,13 +847,6 @@
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Me he comprado el Pocketbook Inkpad One!",
-    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
-  },
-  {
     "blog": "Jorge Aguilera",
     "titulo": "Self-hosting Forgejo (lightweight software forge)",
     "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
@@ -847,6 +910,13 @@
     "contenido": "GNU/Linux perdió la batalla del escritorio GNU/Linux conquistó servidores, supercomputación, dispositivos integrados y, con el tiempo, buena parte de la infraestructura de Internet. Sin embargo, hay un terreno en el que nunca consiguió convertirse en una alternativa mayoritaria: el ordenador persona"
   },
   {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Mis lecturas en agosto de 2026",
+    "link": "https://escritura.social/mcallus/mis-lecturas-en-agosto-de-2026",
+    "fecha": "30/08/2026 11:10",
+    "contenido": ""
+  },
+  {
     "blog": "labaudric",
     "titulo": "Actividades Agosto 2026",
     "link": "https://labaudric.net/blog/noticias/actividades-agosto-2026",
@@ -894,6 +964,13 @@
     "link": "https://blog.danielaragay.net/dins-del-meu-cap-i-del-carrer-les-eleccions-sueques-en-binaural/",
     "fecha": "29/08/2026 21:17",
     "contenido": "Nou episodi del podcast: Dins del meu cap (i del carrer): les eleccions sueques en binauralAqu&#xed; el pots escoltar: https://podcast.danielaragay.net/@fentelsuec/episodes/dins-del-meu-cap-i-del-carrer-les-eleccions-sueques-en-binauralAvui &#xe9;s 29 d&#x2019;agost de 2026 i Su&"
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Los diarios de Shosuro Otagi Parte 1",
+    "link": "https://escritura.social/mcallus/los-diarios-de-shosuro-otagi-parte-1",
+    "fecha": "29/08/2026 16:28",
+    "contenido": ""
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -957,13 +1034,6 @@
     "link": "https://www.fabio.com.ar/10024-links-de-viernes---956",
     "fecha": "28/08/2026 12:00",
     "contenido": "     Me doy vuelta por unos links\nSigo a larga distancia, pero aun as&iacute; consiguiendo links, uds ni se imaginan 😅 pero entre altas temperaturas, gripe combinada y pizzas estuve coleccionando enlaces para que tuvieran un excelente fin de semana! Y si te parecen pocos sumate a LinksDV para compar"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Verdad Detrás De La Ruptura | Primal Llega A Su Fin Y Glenn Rogers Da Sus Razones",
-    "link": "https://www.delotroladometal.com.ar/2026/08/28/primal-llega-a-su-fin-y-glenn-rogers-da-sus-razones/",
-    "fecha": "28/08/2026 12:00",
-    "contenido": "&#8220;Como algunos de ustedes ya saben, la formación actual de Primal ya no existe. Todos...\nThe post La Verdad Detrás De La Ruptura | Primal Llega A Su Fin Y Glenn Rogers Da Sus Razones first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Un blog",
@@ -1183,13 +1253,6 @@
     "contenido": "Hace un par de semanas que estoy jugando en mi canal de Twitch este jueguito que me tiene en el hiperfoco máximo, se llama Don't Starve Together (más información en klei.com) y he enfocado mis trabajos creativos en algunos personajes del juego y como siempre he liberado material para que tu también "
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "El 9 de Noviembre Alemán",
-    "link": "https://www.fabio.com.ar/10009-el-9-de-noviembre-aleman",
-    "fecha": "26/08/2026 12:00",
-    "contenido": "    \nHay una fecha muy particular para los alemanes, es que se han dado coincidencias hist&oacute;ricas el 9 de Noviembre, no es que las fechas sean importantes o que la gente haga algo en particular ese d&iacute;a, es que justo el 9 se dieron unas cuantas.\nAlgunos periodistas e historiadores aleman"
-  },
-  {
     "blog": "Un blog",
     "titulo": "The Message from Deep Space",
     "link": "https://nachof.blog/posts/2026/the-message-from-deep-space/",
@@ -1337,6 +1400,13 @@
     "contenido": "¿Media hora?\nYo no puedo estar todo el día\nesperando para comer.\nÉl ya sabía lo que iba a pedir.\n\nEsperaba un trato preferente\nestoy dolido, dice hablando del\ncole de sus hijas.\n\nSi una cosa tengo clara, me dice,\nes que el amor se multiplica, no\nlos puedes educar igual pero sí\namar, me dice, de la m"
   },
   {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Regreso a mi querida Rokugan",
+    "link": "https://escritura.social/mcallus/regreso-a-mi-querida-rokugan",
+    "fecha": "24/08/2026 11:24",
+    "contenido": ""
+  },
+  {
     "blog": "Adrián Perales",
     "titulo": "El directorio ¡Blog!¡Blog!",
     "link": "https://adrianperales.com/2026/08/el-directorio-blogblog/",
@@ -1440,13 +1510,6 @@
     "link": "https://nachof.blog/posts/2026/historial-de-navegacion-en-yacy/",
     "fecha": "21/08/2026 23:05",
     "contenido": "Hace un tiempo vengo usando SearXNG. Es un &ldquo;metabuscador&rdquo;: no tiene su propia base de datos, sino que delega la búsqueda a distintos buscadores, compila los resultados, y te arma la lista. La principal ventaja que tiene es que te sacás de arriba todos los resúmenes de &ldquo;IA&rdquo; de"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Publicado Thunderbird 154.0",
-    "link": "https://victorhckinthefreeworld.com/2026/08/21/publicado-thunderbird-154-0/",
-    "fecha": "21/08/2026 18:07",
-    "contenido": "El cliente de correo de software libre Thunderbird ha publicado su versión 154.0. Echemos un vistazo a algunas de sus novedades"
   },
   {
     "blog": "Jinversor",
@@ -1575,6 +1638,13 @@
     "contenido": "¡Sí! Hace mucho que no se me escapaba una expresión de sorpresa al notar esa clase de detalles. Aunque lo de los párrafos me lo tuvo que señalar alguien más, no lo había notado al estar tan enfrascado en la lectura. El único capítulo en donde no usa un solo bloque de texto es en [&#8230;]"
   },
   {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Datos demográficos medievales fáciles",
+    "link": "https://escritura.social/mcallus/datos-demograficos-medievales-faciles",
+    "fecha": "19/08/2026 10:23",
+    "contenido": ""
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Tal como se sirven las webs en 2026, son superficie de ataque",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/08/19/20260819-como-sirven-webs-2026/",
@@ -1694,13 +1764,6 @@
     "contenido": "Para mí el verano está prácticamente finiquitado. Vale, los profesores y los niños siguen de vacaciones, aún mantengo la jornada intensiva en el trabajo, pero ya ha caido la primera tormenta, ya se está más fresco por la noche y el color de las puestas de sol ha cambiado. En todo caso es una época d"
   },
   {
-    "blog": "matizeta",
-    "titulo": "Tu correo electrónico es el mejor álbum de recuerdos que puedas tener",
-    "link": "https://matizeta.com/2026/08/17/tu-correo-electronico-es-el-mejor-album-de-recuerdos-que-puedas-tener/",
-    "fecha": "17/08/2026 08:11",
-    "contenido": "Te sorprenderá volver a descubrir a tu yo de hace diez años atrás.Entradas relacionadas:Comprar lo que NO necesitasMis blogs-categoríasCambios en mi blog (nuevamente)Lecturas recomendadas #7Resumen del mes (enero 2026)"
-  },
-  {
     "blog": "La Frikoteca",
     "titulo": "Veinte años de Frikoteca",
     "link": "http://frikoteca.blogspot.com/2026/08/veinte-anos-de-frikoteca.html",
@@ -1713,13 +1776,6 @@
     "link": "https://www.quiroptero.blog/2026/08/anuncios/",
     "fecha": "17/08/2026 06:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "La psicologa sin empatía",
-    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
-    "fecha": "17/08/2026 00:00",
-    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
   },
   {
     "blog": "JDRM",
@@ -1755,13 +1811,6 @@
     "link": "https://vonneumannmachine.wordpress.com/2026/08/16/la-sobredeterminacion-de-jaegwon-kim/",
     "fecha": "16/08/2026 08:42",
     "contenido": "El surcoreano, nacionalizado estadounidense, Jaegwon Kim (1934-2019), ha sido uno de los filósofos de la mente más importantes de finales del siglo pasado y principios de éste. De entre sus aportaciones hay una que se ha hecho especialmente célebre: su aplicación de la tesis de la sobredeterminación"
-  },
-  {
-    "blog": "Spam de autor",
-    "titulo": "Hip hop es Historia, por Questlove",
-    "link": "http://blog.spamdeautor.com/2026/08/16/hip-hop-es-historia-questlove/?utm_source=rss&utm_medium=rss&utm_campaign=hip-hop-es-historia-questlove",
-    "fecha": "16/08/2026 07:57",
-    "contenido": "En el año 2023&#160;Questlove&#160;(Ahmir Khalib Thompson, batería y dj en la banda The Roots) recibió el encargo de escribir un libro conmemorativo por el 50 aniversario del nacimiento del Hip Hop. Como cuenta el propio Quest, no quiso que este &#8230; Sigue leyendo &#8594;\nLa entrada Hip hop es Hi"
   },
   {
     "blog": "JavierSam",
@@ -1883,13 +1932,6 @@
     "contenido": "Cuando empecé mis primeros pasos con el pingüino, todavía había muchos programas que no estaban disponibles o aún eran pruebas de concepto, así pasó con una de las primeras cosas que busqué: un emulador de Amstrad CPC.Todavía quedaban años o incluso décadas para los grandes emuladores que tenemos ho"
   },
   {
-    "blog": "matizeta",
-    "titulo": "Es mejor optimizar el software que sumar más hardware",
-    "link": "https://matizeta.com/2026/08/13/es-mejor-optimizar-el-software-que-sumar-mas-hardware/",
-    "fecha": "13/08/2026 15:52",
-    "contenido": "Y eso es lo que Google aprendió a la fuerza con sus nuevos teléfonos Pixel.Entradas relacionadas:Esta es la mejor app de notas que puedo recomendarteNo necesitas un teléfono tonto, tu tienes que dejar de serloEs hora de dejar de festejarle los lanzamientos a AppleQue tener en cuenta a la hora de com"
-  },
-  {
     "blog": "Daniel Omar Cignacco",
     "titulo": "La materia de las sombras, el nuevo poemario de Daniel Omar Cignacco",
     "link": "https://danielomarcignacco.blogspot.com/2026/08/la-materia-de-las-sombras-el-nuevo.html",
@@ -2007,40 +2049,5 @@
     "link": "https://blog.thalskarth.ar/cansado-boludo-proactivo/",
     "fecha": "11/08/2026 00:00",
     "contenido": "Estoy cansando del boludo proactivo y que no respeten el “si funciona, no lo toques”. Me pasa en el ámbito laboral, pero lo veo en otros lados también. Hasta en la moda de meterle IA hasta a la tostadora."
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas",
-    "link": "https://blog.elmundoesimperfecto.com/2026/08/10/ia-asistente-sustituto/",
-    "fecha": "10/08/2026 15:00",
-    "contenido": "\n\nLas inteligencias artificiales pueden hacer muchas cosas y ser de gran ayuda. Pero en Enough AI copilots! We need AI HUDs se comenta cómo pueden existir otras posibilidades para usarlas.\n\nSi nos referimos al copiloto agéntico (agentic copilot) estaremos hablando con algo que nos ayuda a desarrolla"
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Godot: Mi primer intento serio de un juego de terror (Devlog 01)",
-    "link": "https://interlan.ec/blog/2026/08/10/godot-mi-primer-intento-serio-de-un-juego-de-terror-devlog-01/",
-    "fecha": "10/08/2026 14:00",
-    "contenido": "Es cierto que debí empezar este log desde mucho antes, pero la verdad, no le tenia mucha fe a lo que hacía. Así que ahora ya no se exactamente cuando empecé. Puede que haya sido en algún momento de la segunda o tercera semana, pero hacer un juego es una pica que tengo de hace [&#8230;]"
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "La IA genera más fallos de seguridad y a más velocidad",
-    "link": "https://fernand0.github.io//ai-codigo-vulnerable/",
-    "fecha": "10/08/2026 14:00",
-    "contenido": "Cualquiera que venga por aquí de vez en cuando imaginará que esto es así. En AI Coding Tools Are Creating a Security Gap We Must Close Immediately (que leí a través de AI code generators are writing vulnerable software nearly half the time pero ahora parece no estar disponible) nos dicen que a los d"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "Uses",
-    "link": "https://elrefugiodeunnerd.es/2026/08/10/uses/",
-    "fecha": "10/08/2026 13:10",
-    "contenido": "Comenté hace poco en mi microblog que tenía ganas de hacer una página de «Uses» en la que explico lo que uso en mi día a día, tanto hardware como software, así que, aquí está. Hardware Portátil: Asus TUF Gaming F16 (i7, 32GB RAM, 5060) Mini PC: Intel NUC (NUC8i3BEH) (i3 8ª gen, 16GB RAM, [&#8230;]"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Por qué los virus no son el verdadero problema en Android",
-    "link": "https://alt43.es/por-que-los-virus-no-son-el-verdadero-problema-en-android/",
-    "fecha": "10/08/2026 07:30",
-    "contenido": "Los antivirus para Android ofrecen soluciones a un problema muy minoritario. El malware que afecta a dispositivos en 2026 llega por ingeniería social, firmware ya comprometido de fábrica o permisos mal concedidos; no por los vectores de infección propios de un virus. Entender cómo funciona el modelo"
   }
 ]
