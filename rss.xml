@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 10 Sep 2026 01:59:50 GMT</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 10:13:10 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>583. Se llama Abundio</title>
+<link>https://lamadredelpatonegro.blogspot.com/2026/09/583-se-llama-abundio.html</link>
+<guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/09/583-se-llama-abundio.html</guid>
+<pubDate>Wed, 09 Sep 2026 16:38:00 GMT</pubDate>
+<category>La Madre Que Parió Al Pato Negro</category>
+<description><![CDATA[&amp;nbsp; &amp;nbsp; Abundio es de esa clase de enfermos que se creen sanos. Es decir: es un taurófilo. Su afición empezó a forjarse de niño, cuando su padre se lo llevaba a las corridas de toros. Tantas presenció durante su infancia que, ya de adolescente, se convirtió en un acérrimo defensor de las misma<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
+</item>
 <item>
 <title>Instalar MySQL 8.0 Server en Debian 13</title>
 <link>https://voidnull.es/instalar-mysql-8-0-server-en-debian-13/</link>
@@ -56,6 +64,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate>
 <category>Fabio.com.ar</category>
 <description><![CDATA[Ya estoy vuelto de viaje as&amp;iacute; que vamos con un tema que escrib&amp;iacute; justo antes de irme, respuesta r&amp;aacute;pida: Pues s&amp;iacute;, porque a veces te la piden. Es una peque&amp;ntilde;a estafa, pero aun as&amp;iacute; te conviene tenerla. Durante 15 a&amp;ntilde;os alquil&amp;eacute; autos sin necesitar<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Cuándo utilizar install-grub en Manjaro</title>
+<link>https://tecnoysoft.com/2026/09/09/cuando-utilizar-install-grub-en-manjaro/</link>
+<guid isPermaLink="true">https://tecnoysoft.com/2026/09/09/cuando-utilizar-install-grub-en-manjaro/</guid>
+<pubDate>Wed, 09 Sep 2026 11:18:00 GMT</pubDate>
+<category>Tecno y Soft - Tecno y Soft</category>
+<description><![CDATA[Introducción Manjaro es otro mundo, nada que ver con cualquier otra derivada de Arch Linux, ponen el foco en herramientas propias que faciliten el uso y administración del sistema. Haciendo que todo sea más fácil, rápido y productivo. En Manjaro, el comando install-grub es una herramienta específica<br><br><strong>Fuente:</strong> Tecno y Soft - Tecno y Soft]]></description>
 </item>
 <item>
 <title>&quot;Dream II&quot; Asoma En El Horizonte | Adorned Graves Prepara La Continuación de “Dream I”</title>
@@ -104,6 +120,30 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 09 Sep 2026 07:10:00 GMT</pubDate>
 <category>_ voidNull</category>
 <description><![CDATA[Instala Grav en Debian 13 y despliega un CMS ligero basado en archivos, sin necesidad de configurar una base de datos.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Vecinos</title>
+<link>https://www.quiroptero.blog/2026/09/vecinos/</link>
+<guid isPermaLink="true">https://www.quiroptero.blog/2026/09/vecinos/</guid>
+<pubDate>Wed, 09 Sep 2026 06:00:00 GMT</pubDate>
+<category>quiroptero.blog</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> quiroptero.blog]]></description>
+</item>
+<item>
+<title>NeoSite Podcast #14 - Omarchy no me convenció</title>
+<link>https://blog.neosite.com.ar/post/neosite-podcast-14-omarchy-no-me-convencio</link>
+<guid isPermaLink="true">https://blog.neosite.com.ar/post/neosite-podcast-14-omarchy-no-me-convencio</guid>
+<pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+<category>NeoSite Blog</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> NeoSite Blog]]></description>
+</item>
+<item>
+<title>Me decido a opositar, agotadísimo del mercado tecnológico</title>
+<link>https://chancli.dev/blog/me-decido-a-opositar.html</link>
+<guid isPermaLink="true">https://chancli.dev/blog/me-decido-a-opositar.html</guid>
+<pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+<category>Chancli.dev</category>
+<description><![CDATA[Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática. Ya hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se<br><br><strong>Fuente:</strong> Chancli.dev]]></description>
 </item>
 <item>
 <title>OS/2 Warp 3: cuando IBM quiso destronar a Windows</title>
@@ -176,46 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 08 Sep 2026 10:35:00 GMT</pubDate>
 <category>Del Otro Lado Metal</category>
 <description><![CDATA[(2026 &amp;#8211; Independiente) La escena extrema argentina debe ser de lo más underground que existe,... The post V.I.L.: Opresor | Un Demoledor Grito De Guerra first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Yo pensaba que estábamos de acuerdo</title>
-<link>https://blog.impermanente.es/2026/09/08/yo-pensaba-que-estabamos-de-acuerdo.html</link>
-<guid isPermaLink="true">https://blog.impermanente.es/2026/09/08/yo-pensaba-que-estabamos-de-acuerdo.html</guid>
-<pubDate>Tue, 08 Sep 2026 09:39:00 GMT</pubDate>
-<category>impermanente</category>
-<description><![CDATA[Cuando era joven me consideraba de derecha, pues la verdad es que el capitalismo me parecía un modelo real, que funcionaba, mientras que la izquierda que me llegaba hablaba de propiedad colectiva, de salarios, de cosas que yo asociaba a una utopía que requería que los seres humanos fueran bastante d<br><br><strong>Fuente:</strong> impermanente]]></description>
-</item>
-<item>
-<title>Por qué en Suecia vota casi todo el mundo (y qué esconde esa cifra)</title>
-<link>https://blog.danielaragay.net/por-que-en-suecia-vota-casi-todo-el-mundo-y-que-esconde-esa-cifra/</link>
-<guid isPermaLink="true">https://blog.danielaragay.net/por-que-en-suecia-vota-casi-todo-el-mundo-y-que-esconde-esa-cifra/</guid>
-<pubDate>Tue, 08 Sep 2026 09:25:00 GMT</pubDate>
-<category>danielaragay.net</category>
-<description><![CDATA[Suecia va camino de otra elección con una participación por encima del 80%, casi veinte puntos más que España. El sistema está diseñado para que votar sea fácil: casi tres semanas de voto anticipado, sin papeleta física, en cualquier punto del país.<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
-</item>
-<item>
-<title>Autistici/Inventati cierra, ¡pero la lucha continúa!</title>
-<link>https://gatooscuro.xyz/autistici-inventati-cierra-pero-la-lucha-continua/</link>
-<guid isPermaLink="true">https://gatooscuro.xyz/autistici-inventati-cierra-pero-la-lucha-continua/</guid>
-<pubDate>Tue, 08 Sep 2026 08:52:00 GMT</pubDate>
-<category>El cuarto de GatoOscuro</category>
-<description><![CDATA[Recientemente ha ocurrido una desgracia que tiene a todos los hacktivistas decepcionados y muy preocupados; un acto que parece cambiar las reglas del juego para mal. Y es que veníamos Seguir leyendo Autistici/Inventati cierra, ¡pero la lucha continúa! El cargo Autistici/Inventati cierra, ¡pero la l<br><br><strong>Fuente:</strong> El cuarto de GatoOscuro]]></description>
-</item>
-<item>
-<title>Es mentira: tu blog no tiene que tener una temática definida</title>
-<link>https://matizeta.com/2026/09/08/es-mentira-tu-blog-no-tiene-que-tener-una-tematica-definida/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/09/08/es-mentira-tu-blog-no-tiene-que-tener-una-tematica-definida/</guid>
-<pubDate>Tue, 08 Sep 2026 08:11:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Esta es quizás una de las tantas razones de porque ya no escribes.Entradas relacionadas:Tengo mi libro de visitasEstoy de regresoCambiosPequeños cambios en mi blogCuraduría de entradas<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>Northampton Arts Lab</title>
-<link>https://fixionauta.net/2026/09/07/northampton-arts-lab/</link>
-<guid isPermaLink="true">https://fixionauta.net/2026/09/07/northampton-arts-lab/</guid>
-<pubDate>Tue, 08 Sep 2026 03:30:00 GMT</pubDate>
-<category>Fixionauta</category>
-<description><![CDATA[[02] 09.26 Cuando decidí impulsar un poco la newsletter, no pensé en hacer mucho esfuerzo, más allá de ofrecer el sketchbook en físico y poca cosa más. Luego añadí el sketchbook en formato digital. Después rediseñé la página principal de la newsletter que pasó del minimalismo a algo más elaborado (c<br><br><strong>Fuente:</strong> Fixionauta]]></description>
 </item>
 
 </channel>
