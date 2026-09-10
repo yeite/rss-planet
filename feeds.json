@@ -1,5 +1,89 @@
 [
   {
+    "blog": "JDRM",
+    "titulo": "Un paseo por HaikuOS",
+    "link": "https://jdrm.info/un-paseo-por-haikuos.html",
+    "fecha": "10/09/2026 14:00",
+    "contenido": "Un artículo con información sobre HaikuOS"
+  },
+  {
+    "blog": "JDRM",
+    "titulo": "Un paseo por HaikuOS",
+    "link": "https://jdrm.info/un-paseo-por-haikuos.html",
+    "fecha": "10/09/2026 14:00",
+    "contenido": "Un artículo con información sobre HaikuOS"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #893",
+    "link": "https://www.fabio.com.ar/10028-ruleta-rusa-893",
+    "fecha": "10/09/2026 12:00",
+    "contenido": "     La patota ruletera ha llegado\nBueno, basta de piloto autom&aacute;tico, ac&aacute; estoy ruleteando para ustedes &iquest;C&oacute;mo est&aacute;n? &iquest;Vivos? Pues si la respuesta es ambigua prueben con una de estas balas, por ah&iacute; los revive o los termina liquidando 😅\nAhora s&iacute;,"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Fofumia",
+    "link": "https://cozykis.kisworld.es/analisis-de-fofumia/",
+    "fecha": "10/09/2026 10:36",
+    "contenido": "Tiene michis cíclopes que causarán el caos mientras nosotres nos relajamos intentando poner un poco de orden\nLa entrada Análisis de Fofumia se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Abel Gomez De Lament Nos Adelanta Su Próximo Álbum | “Queremos Regresar A Nuestras Raíces Del Primer Álbum”",
+    "link": "https://www.delotroladometal.com.ar/2026/09/10/queremos-regresar-a-nuestras-raices-del-primer-album/",
+    "fecha": "10/09/2026 10:35",
+    "contenido": "Hablar de Lament es hablar de historia, de un largo recorrido en la escena. Una...\nThe post Abel Gomez De Lament Nos Adelanta Su Próximo Álbum | “Queremos Regresar A Nuestras Raíces Del Primer Álbum” first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Galerías Preciados",
+    "titulo": "Arranca la temporada otoño-invierno",
+    "link": "https://galeriaspreciados.band/arranca-la-temporada-otono-invierno/",
+    "fecha": "10/09/2026 08:57",
+    "contenido": "Desde Galerías Preciados queremos informar a todos nuestros exclusivos clientes que iniciamos la temporada otoño-invierno, con predominio del color naranja y un montón de emocionantes cosas que están por suceder"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Una visita al verano que termina",
+    "link": "https://adrianperales.com/2026/09/una-visita-al-verano-que-termina/",
+    "fecha": "10/09/2026 05:43",
+    "contenido": "Este es un momento tan bueno como cualquier otro para echar la vista atrás y contar qué tal me ha ido el verano. Un julio muy atareado Aunque en julio estamos a disposición de la administración, este mes no me han llamado del trabajo y he podido dedicarlo a mí. Aunque el curso estuvo bien [&#8230;]"
+  },
+  {
+    "blog": "Fixionauta",
+    "titulo": "",
+    "link": "https://fixionauta.net/2026/09/09/216330/",
+    "fecha": "10/09/2026 04:30",
+    "contenido": "Me ha llamado la atención este taller sobre ocultismo digital que se llevará a cabo en dos sesiones el próximo 9 y 10 de octubre en el Medialab Matadero de Madrid, así que lo comparto por si alguien desea asistir: ¿Por qué lo esotérico, lo mágico, lo oculto parecen estar cada vez más entrelazados co"
+  },
+  {
+    "blog": "Diego's Island",
+    "titulo": "Mejorando en Programación.",
+    "link": "https://diegoaep.codeberg.page/mejorando-en-programacion/",
+    "fecha": "10/09/2026 04:00",
+    "contenido": "Hoy quiero hablar del camino que estoy siguiendo para mejorar mis habilidades en programación. Con suerte algo de lo que tengo que decir te puede ayudar."
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Un texto muy leído",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/un-texto-muy-leido/",
+    "fecha": "10/09/2026 00:00",
+    "contenido": "Me llama la atención que un microcuento tenga tantas visitas , no es normal y no se quien lo lee. Adjunto grafico. \n"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Mi flujo de trabajo con Memos y Android",
+    "link": "https://vctrsnts.codeberg.page/draft/2026-09-11-memos-android/",
+    "fecha": "09/09/2026 22:00",
+    "contenido": "\nNota\n\n\n\n\n\n◇ Referencia"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Mis notas en la web",
+    "link": "https://vctrsnts.codeberg.page/draft/2026-09-12-notas-web/",
+    "fecha": "09/09/2026 22:00",
+    "contenido": "\nNota\n\n\n\n\n\n◇ Referencia"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "583. Se llama Abundio",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/583-se-llama-abundio.html",
@@ -105,13 +189,6 @@
     "contenido": ""
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
-    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
-    "fecha": "09/09/2026 00:00",
-    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
-  },
-  {
     "blog": "NevatBlog",
     "titulo": "OS/2 Warp 3: cuando IBM quiso destronar a Windows",
     "link": "https://nevat.neocities.org/warp3_09092026.html",
@@ -203,6 +280,13 @@
     "contenido": "Esta es quizás una de las tantas razones de porque ya no escribes.Entradas relacionadas:Tengo mi libro de visitasEstoy de regresoCambiosPequeños cambios en mi blogCuraduría de entradas"
   },
   {
+    "blog": "Diego's Island",
+    "titulo": "Aprende en Público.",
+    "link": "https://diegoaep.codeberg.page/aprende-en-publico/",
+    "fecha": "08/09/2026 04:00",
+    "contenido": "Motivos para y formas de aprender en público."
+  },
+  {
     "blog": "Fixionauta",
     "titulo": "Northampton Arts Lab",
     "link": "https://fixionauta.net/2026/09/07/northampton-arts-lab/",
@@ -285,13 +369,6 @@
     "link": "https://elblogdelazaro.org/trilium-automatizaciones/",
     "fecha": "07/09/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
-    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
-    "fecha": "07/09/2026 00:00",
-    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -546,13 +623,6 @@
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
   },
   {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacín",
-    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
-    "fecha": "03/09/2026 17:28",
-    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Eufemismos",
     "link": "https://jinversor.co/2026/09/eufemismos/",
@@ -795,7 +865,7 @@
     "titulo": "",
     "link": "https://fixionauta.net/2026/08/31/211523/",
     "fecha": "01/09/2026 04:30",
-    "contenido": "Música en agosto. South Acid Mimi publicó un álbum nuevo, aunque en lugar de escucharlo volví a 圣代元音. Me había topado con algunos tracks sueltos de Sainte-Victoire de Clara Luciani, pero este mes escuché el álbum completo. Después del capítulo de un podcast dedicado a la música de This is Englad me "
+    "contenido": "Música en agosto. South Acid Mimi publicó un álbum nuevo, aunque en lugar de escucharlo volví a 圣代元音. Me había topado con algunos tracks sueltos de Sainte-Victoire de Clara Luciani, pero este mes escuché el álbum completo. Después del capítulo de un podcast dedicado a la música de This is England me"
   },
   {
     "blog": "Fixionauta",
@@ -901,13 +971,6 @@
     "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
     "fecha": "31/08/2026 03:00",
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Me he comprado el Pocketbook Inkpad One!",
-    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
   },
   {
     "blog": "Jorge Aguilera",
@@ -1034,13 +1097,6 @@
     "link": "https://escritura.social/mcallus/los-diarios-de-shosuro-otagi-parte-1",
     "fecha": "29/08/2026 16:28",
     "contenido": ""
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Hilastherion: Signs Of The End | Con Los Signos Vitales Estables",
-    "link": "https://www.delotroladometal.com.ar/2026/08/29/con-los-signos-vitales-estables/",
-    "fecha": "29/08/2026 11:35",
-    "contenido": "(2014 &#8211; Die And Gain Records) Gracias a la gentileza de Niclas Buss, ya habíamos...\nThe post Hilastherion: Signs Of The End | Con Los Signos Vitales Estables first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "labaudric",
@@ -1188,13 +1244,6 @@
     "link": "https://regioncuatro.blog/la-constante-de-wadsworth/",
     "fecha": "27/08/2026 15:00",
     "contenido": "Una de las cosas que hago constantemente es consumir YouTube. Desde La Pandemia™ YouTube se volvió básicamente mi sistema de televisión. Y algo que he aplicado cada vez más y con mayor seguridad es algo que se llama la constante de Wadsworth.\nLa constante de Wadsworth es un axioma que dice:\n\n\nEl pri"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #891",
-    "link": "https://www.fabio.com.ar/10016-ruleta-rusa-891",
-    "fecha": "27/08/2026 12:00",
-    "contenido": "     Toda la semana esperando\nVamos superjeropas! Es momento de pegarse balazos con cargador completo! Tenemos ruleta y vamos a hacer uso indiscriminado de ella!\nAhora s&iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio Baccaglioni [Ruleta Rusa]"
   },
   {
     "blog": "danielaragay.net",
@@ -1379,13 +1428,6 @@
     "contenido": "Voy a ir recopilando contenido de podcasts que no sea una mierda en este post. 💾 El Eternauta &#8211; Radionovela de Radio Provincia Buenos Aires 💾 Tamayazo el podcast &#8211; Juanjo Cubero y Aitor Sánchez &#8211; RTVE 💾 Meloni – Un Marqués en La Gomera &#8211; Aldara Dieguez &#8211; Subterfuge Radi"
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Ultrapool",
-    "link": "https://cozykis.kisworld.es/analisis-de-ultrapool/",
-    "fecha": "25/08/2026 09:27",
-    "contenido": "Ultrapool es un roguelike inspirado en el billar con unas reglas y bolas de lo más curiosas. El objetivo está claro y es que nos aparecerá en todo el medio de la mesa. No hace falta meter todas las bolas; de igual manera, quedarnos sin ninguna esfera sobre el tablero hará que ganemos la partida. [&#"
-  },
-  {
     "blog": "Adrián Perales",
     "titulo": "Tengo un pódcast nuevo",
     "link": "https://adrianperales.com/2026/08/tengo-un-podcast-nuevo/",
@@ -1547,6 +1589,13 @@
     "contenido": "2026 Giana Sisters DS &#8211; Nintendo DSi &#8211; Ago 2026 El profesor Layton y la villa misteriosa &#8211; Nintendo DSi &#8211; Ago 2026 Manic Miner &#8211; ZX Spectrum &#8211; Ago 2026 Castlevania: Portrait of Ruin &#8211; Nintendo DSi &#8211; Jul 2026 Super Mario Odyssey &#8211; Nintendo Switch "
   },
   {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Mejorando seguridad en VPS",
+    "link": "https://vctrsnts.codeberg.page/draft/2026-09-23-mejorando-seguridad/",
+    "fecha": "22/08/2026 22:00",
+    "contenido": "\nNota\n\n\n\n\n\n◇ Referencia\nhttps://atareao.es/tutorial/seguridad-esencial-en-self-hosted/blindaje-ssh-la-primera-linea-de-defensa/"
+  },
+  {
     "blog": "La Frikoteca",
     "titulo": "Mi colección de rol en números e idiomas",
     "link": "http://frikoteca.blogspot.com/2026/08/mi-coleccion-de-rol-en-numeros-e-idiomas.html",
@@ -1701,6 +1750,13 @@
     "contenido": "¡Sí! Hace mucho que no se me escapaba una expresión de sorpresa al notar esa clase de detalles. Aunque lo de los párrafos me lo tuvo que señalar alguien más, no lo había notado al estar tan enfrascado en la lectura. El único capítulo en donde no usa un solo bloque de texto es en [&#8230;]"
   },
   {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "",
+    "link": "https://vctrsnts.codeberg.page/draft/2026-09-20-traefik-cup-homepage/",
+    "fecha": "19/08/2026 22:00",
+    "contenido": "services:\ncup:\nimage: ghcr.io/sergi0g/cup:latest\ncontainer_name: cup # Optional\nrestart: unless-stopped\nnetworks:\n- proxy\ncommand: -c /config/cup.json serve\nvolumes:\n- /run/user/1002/podman/podman.sock:/var/run/docker.sock:ro\n- ${PODMAN_STORAGE_PATH}/.config/cup/cup.json:/config/cup.json\nhealthcheck"
+  },
+  {
     "blog": "El escritorio de McAllus",
     "titulo": "Datos demográficos medievales fáciles",
     "link": "https://escritura.social/mcallus/datos-demograficos-medievales-faciles",
@@ -1771,13 +1827,6 @@
     "contenido": "Cuando quieren señalar el inicio de esta caída —que ella y su entorno tratan de enderezar— casi todos señalan México como el lugar en el que empezó la mala racha. Alarma en el PP de Madrid: “Nos confiamos. En política no hay nada hecho” &#124; El País Pues&#8230; no es a lo que nos referimos [&#8230"
   },
   {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/08/18/205705/",
-    "fecha": "18/08/2026 12:30",
-    "contenido": "Un dibujo para la newsletter."
-  },
-  {
     "blog": "Bits de Ocio",
     "titulo": "Por qué no publico (y por qué está bien así)",
     "link": "https://bitsdeocio.wordpress.com/2026/08/18/por-que-no-publico/",
@@ -1839,13 +1888,6 @@
     "link": "https://www.quiroptero.blog/2026/08/anuncios/",
     "fecha": "17/08/2026 06:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "La psicologa sin empatía",
-    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
-    "fecha": "17/08/2026 00:00",
-    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
   },
   {
     "blog": "JDRM",
@@ -2105,19 +2147,5 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/08/575-piscina-y-zonas-verdes.html",
     "fecha": "11/08/2026 16:51",
     "contenido": "&nbsp; &nbsp; Es verano y la piscina está llena de niños que corren detrás de insectos y de otros niños. Sus madres retozan sobre las toallas extendidas, con el móvil entre las manos y un cigarro entre los dedos. Fuman como carreteros, hablan gilipolleces y sueltan tacos con una naturalidad que, den"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Adiós lnp2pbot",
-    "link": "https://jinversor.co/2026/08/adios-lnp2pbot/",
-    "fecha": "11/08/2026 12:03",
-    "contenido": "Hace más de un año les mostré la forma de comprar Bitcoin sin KYC a través de Telegram usando el bot lnp2pbot. Esa, para mí, era la forma más cómoda [&#8230;]\nLa entrada Adiós lnp2pbot se publicó primero en Jinversor."
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Añadir keywords a los XML JATS que no están presentes en las versiones en PDF, ¿se puede considerar una manipulación de los metadatos o solo un error?",
-    "link": "https://pedrolr.es/blog/anadir-keywords-a-los-xml-jats-que-no-estan-presentes-en-las-versiones-en-pdf-se-puede-considerar-una-manipulacion-de-los-metadatos-o-solo-un-error/",
-    "fecha": "11/08/2026 07:59",
-    "contenido": "He llegado a un trabajo de 2025 titulado “Detection of metadata manipulations: Finding sneaked references in the scholarly literature” (Besançon et al., 2025). Comentan que han detectado citas ocultas en los metadatos de las publicaciones o papers que no aparecen en el texto de las mismas. Me ha hec"
   }
 ]
