@@ -1,5 +1,12 @@
 [
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "583. Se llama Abundio",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/09/583-se-llama-abundio.html",
+    "fecha": "09/09/2026 16:38",
+    "contenido": "&nbsp; &nbsp; Abundio es de esa clase de enfermos que se creen sanos. Es decir: es un taurófilo. Su afición empezó a forjarse de niño, cuando su padre se lo llevaba a las corridas de toros. Tantas presenció durante su infancia que, ya de adolescente, se convirtió en un acérrimo defensor de las misma"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Instalar MySQL 8.0 Server en Debian 13",
     "link": "https://voidnull.es/instalar-mysql-8-0-server-en-debian-13/",
@@ -33,6 +40,13 @@
     "link": "https://www.fabio.com.ar/10027-es-necesaria-la-licencia-de-conducir-internacional",
     "fecha": "09/09/2026 12:00",
     "contenido": "    \nYa estoy vuelto de viaje as&iacute; que vamos con un tema que escrib&iacute; justo antes de irme, respuesta r&aacute;pida: Pues s&iacute;, porque a veces te la piden. Es una peque&ntilde;a estafa, pero aun as&iacute; te conviene tenerla.\nDurante 15 a&ntilde;os alquil&eacute; autos sin necesitar"
+  },
+  {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "Cuándo utilizar install-grub en Manjaro",
+    "link": "https://tecnoysoft.com/2026/09/09/cuando-utilizar-install-grub-en-manjaro/",
+    "fecha": "09/09/2026 11:18",
+    "contenido": "Introducción Manjaro es otro mundo, nada que ver con cualquier otra derivada de Arch Linux, ponen el foco en herramientas propias que faciliten el uso y administración del sistema. Haciendo que todo sea más fácil, rápido y productivo. En Manjaro, el comando install-grub es una herramienta específica"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -75,6 +89,27 @@
     "link": "https://voidnull.es/instalacion-de-grav-en-debian-13/",
     "fecha": "09/09/2026 07:10",
     "contenido": "Instala Grav en Debian 13 y despliega un CMS ligero basado en archivos, sin necesidad de configurar una base de datos."
+  },
+  {
+    "blog": "quiroptero.blog",
+    "titulo": "Vecinos",
+    "link": "https://www.quiroptero.blog/2026/09/vecinos/",
+    "fecha": "09/09/2026 06:00",
+    "contenido": ""
+  },
+  {
+    "blog": "NeoSite Blog",
+    "titulo": "NeoSite Podcast #14 - Omarchy no me convenció",
+    "link": "https://blog.neosite.com.ar/post/neosite-podcast-14-omarchy-no-me-convencio",
+    "fecha": "09/09/2026 00:00",
+    "contenido": ""
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
+    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
+    "fecha": "09/09/2026 00:00",
+    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
   },
   {
     "blog": "NevatBlog",
@@ -252,6 +287,20 @@
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
+    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
+    "fecha": "07/09/2026 00:00",
+    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Immich - Migración de V2 a V3 en producción",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-09-07-migracion-immich-2/",
+    "fecha": "06/09/2026 22:00",
+    "contenido": "Tal como había explicado en este artículo, explicaba el proceso de migración desde la versión v2 a la versión v3 de Immich en un entorno de pruebas. Ahora toca hacer lo mismo, pero en el contenedor de producción.\nComo recordaréis, el despliegue de Immich mediante Docker Compose estaba formado por:\n\n"
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "Paseand por Estocolmo con Ramón Corominas",
     "link": "https://blog.danielaragay.net/paseand-por-estocolmo-con-ramon-corominas-2/",
@@ -336,7 +385,7 @@
     "contenido": "      +57 más"
   },
   {
-    "blog": "Tecno y Soft",
+    "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "Otra forma de compartir contenido",
     "link": "https://tecnoysoft.com/2026/09/06/otra-forma-de-compartir-contenido/",
     "fecha": "06/09/2026 07:33",
@@ -495,6 +544,13 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacín",
+    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
+    "fecha": "03/09/2026 17:28",
+    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -847,6 +903,13 @@
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Me he comprado el Pocketbook Inkpad One!",
+    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
+  },
+  {
     "blog": "Jorge Aguilera",
     "titulo": "Self-hosting Forgejo (lightweight software forge)",
     "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
@@ -875,7 +938,7 @@
     "contenido": ""
   },
   {
-    "blog": "Tecno y Soft",
+    "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "Más rendimiento y fluidez con el kernel de CachyOS",
     "link": "https://tecnoysoft.com/2026/08/30/mas-rendimiento-y-fluidez-con-el-kernel-de-cachyos/",
     "fecha": "30/08/2026 18:19",
@@ -903,7 +966,7 @@
     "contenido": "NOTA: Este artículo tenía que haber salido un día después del evento, pero como me ocurre de todo entonces salió tarde, varios días tarde. Hoy les vengo a escribir sobre\nSeguir leyendo  Se hizo historia en el Carlos Vieco por una buen causa\nEl cargo Se hizo historia en el Carlos Vieco por una buen c"
   },
   {
-    "blog": "Tecno y Soft",
+    "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "La oportunidad perdida de GNU/Linux en el escritorio",
     "link": "https://tecnoysoft.com/2026/08/30/la-oportunidad-perdida-de-gnu-linux-en-el-escritorio/",
     "fecha": "30/08/2026 12:49",
@@ -1218,7 +1281,7 @@
     "contenido": "El 21 y 22 de agosto participé junto a Javier en Flyleaf festival, un evento de autoedición organizado por WIRWIR y Falschrum books que se celebra en el barrio de Neukölln, Berlín. La muestra se reparte en varias ubicaciones: Apartment, Falschrum y WIRWIR, y es en esta última donde se ubicó nuestra "
   },
   {
-    "blog": "Tecno y Soft",
+    "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "Monitorizar la Wi-Fi con un alias",
     "link": "https://tecnoysoft.com/2026/08/26/monitorizar-la-wi-fi-con-un-alias/",
     "fecha": "26/08/2026 19:21",
@@ -1348,7 +1411,7 @@
     "titulo": "",
     "link": "https://fixionauta.net/2026/08/24/208700/",
     "fecha": "25/08/2026 03:30",
-    "contenido": "Akmareul Boattda (Kim Ji-woon, 2010). Vi esta película porque sale Choi Min-sik (Oldboy) pero me llevé una grata sorpresa al descubrir que el protagonista es Lee Byung-hun (Eojjeolsoogaeobda). Historia de venganza en donde el plan es darle un castigo laaargo al villano, en ese aspecto hay un regusto"
+    "contenido": "Akmareul Boatda (Kim Ji-woon, 2010). Vi esta película porque sale Choi Min-sik (Oldboy) pero me llevé una grata sorpresa al descubrir que el protagonista es Lee Byung-hun (Eojjeolsoogaeobda). Historia de venganza en donde el plan es darle un castigo laaargo al villano, en ese aspecto hay un regusto "
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -1491,7 +1554,7 @@
     "contenido": "\nEsta entrada es una respuesta a una del mismo nombre, escrita por mi hermano el mes pasado: Mi colección de rol en números e idiomas en El Rincón del Maestro Terrax. La entrada tenía como objetivo determinar de una vez por todas si en su colección rolera había más libros en inglés o más libros en e"
   },
   {
-    "blog": "Tecno y Soft",
+    "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "Cómo evitar las desconexiones esporádicas de la WiFi en Linux",
     "link": "https://tecnoysoft.com/2026/08/22/como-evitar-las-desconexiones-esporadicas-de-la-wifi-en-linux/",
     "fecha": "22/08/2026 15:21",
@@ -1778,6 +1841,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "La psicologa sin empatía",
+    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
+    "fecha": "17/08/2026 00:00",
+    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
+  },
+  {
     "blog": "JDRM",
     "titulo": "Eclipse Total, otro microrrelato",
     "link": "https://jdrm.info/eclipse-total-otro-microrrelato.html",
@@ -1811,6 +1881,13 @@
     "link": "https://vonneumannmachine.wordpress.com/2026/08/16/la-sobredeterminacion-de-jaegwon-kim/",
     "fecha": "16/08/2026 08:42",
     "contenido": "El surcoreano, nacionalizado estadounidense, Jaegwon Kim (1934-2019), ha sido uno de los filósofos de la mente más importantes de finales del siglo pasado y principios de éste. De entre sus aportaciones hay una que se ha hecho especialmente célebre: su aplicación de la tesis de la sobredeterminación"
+  },
+  {
+    "blog": "Spam de autor",
+    "titulo": "Hip hop es Historia, por Questlove",
+    "link": "http://blog.spamdeautor.com/2026/08/16/hip-hop-es-historia-questlove/?utm_source=rss&utm_medium=rss&utm_campaign=hip-hop-es-historia-questlove",
+    "fecha": "16/08/2026 07:57",
+    "contenido": "En el año 2023&#160;Questlove&#160;(Ahmir Khalib Thompson, batería y dj en la banda The Roots) recibió el encargo de escribir un libro conmemorativo por el 50 aniversario del nacimiento del Hip Hop. Como cuenta el propio Quest, no quiso que este &#8230; Sigue leyendo &#8594;\nLa entrada Hip hop es Hi"
   },
   {
     "blog": "JavierSam",
@@ -2042,12 +2119,5 @@
     "link": "https://pedrolr.es/blog/anadir-keywords-a-los-xml-jats-que-no-estan-presentes-en-las-versiones-en-pdf-se-puede-considerar-una-manipulacion-de-los-metadatos-o-solo-un-error/",
     "fecha": "11/08/2026 07:59",
     "contenido": "He llegado a un trabajo de 2025 titulado “Detection of metadata manipulations: Finding sneaked references in the scholarly literature” (Besançon et al., 2025). Comentan que han detectado citas ocultas en los metadatos de las publicaciones o papers que no aparecen en el texto de las mismas. Me ha hec"
-  },
-  {
-    "blog": "Blog de Thalskarth",
-    "titulo": "Cansando del boludo proactivo",
-    "link": "https://blog.thalskarth.ar/cansado-boludo-proactivo/",
-    "fecha": "11/08/2026 00:00",
-    "contenido": "Estoy cansando del boludo proactivo y que no respeten el “si funciona, no lo toques”. Me pasa en el ámbito laboral, pero lo veo en otros lados también. Hasta en la moda de meterle IA hasta a la tostadora."
   }
 ]
