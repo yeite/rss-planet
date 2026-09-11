@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 11 Sep 2026 01:58:20 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 10:10:33 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>10 canciones perfectas (para mis exequias)</title>
+<link>https://jinversor.co/2026/09/10-canciones-perfectas-para-mis-exequias/</link>
+<guid isPermaLink="true">https://jinversor.co/2026/09/10-canciones-perfectas-para-mis-exequias/</guid>
+<pubDate>Thu, 10 Sep 2026 17:52:00 GMT</pubDate>
+<category>Jinversor</category>
+<description><![CDATA[Ayer estuve limpiando mis listas de reproducción musical y terminé haciendo una nueva lista con aquellas pistas que considero son las 10 canciones perfectas para mis exequias. Digo exequias porque [&amp;#8230;] La entrada 10 canciones perfectas (para mis exequias) se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
+</item>
 <item>
 <title>Un paseo por HaikuOS</title>
 <link>https://jdrm.info/un-paseo-por-haikuos.html</link>
@@ -208,14 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 09 Sep 2026 07:10:00 GMT</pubDate>
 <category>_ voidNull</category>
 <description><![CDATA[Instala Grav en Debian 13 y despliega un CMS ligero basado en archivos, sin necesidad de configurar una base de datos.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Vecinos</title>
-<link>https://www.quiroptero.blog/2026/09/vecinos/</link>
-<guid isPermaLink="true">https://www.quiroptero.blog/2026/09/vecinos/</guid>
-<pubDate>Wed, 09 Sep 2026 06:00:00 GMT</pubDate>
-<category>quiroptero.blog</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> quiroptero.blog]]></description>
 </item>
 
 </channel>
