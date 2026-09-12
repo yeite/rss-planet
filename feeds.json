@@ -1,5 +1,40 @@
 [
   {
+    "blog": "labaudric",
+    "titulo": "audric subió 11 imágenes en Nier",
+    "link": "https://labaudric.net/galeria/nier",
+    "fecha": "12/09/2026 12:03",
+    "contenido": "      +5 más"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió Nier Automata - Negociando con roboces alienses en Nier",
+    "link": "https://labaudric.net/videos/nier/6902",
+    "fecha": "12/09/2026 12:00",
+    "contenido": ""
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "Textos profundos #1",
+    "link": "https://elrefugiodeunnerd.es/2026/09/12/textos-profundos-1/",
+    "fecha": "12/09/2026 10:55",
+    "contenido": "He visto que muchos blogs hacen esto así que supongo que me he sumado, a lo largo de el tiempo que quiera recopilo hasta 10 links que me han parecido interesantes. A veces serán lecutras de otros blogs, posts de Mastodon, Reddit o incluso páginas webs/programas. 1. GNOME Music, el reproductor que se"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Jose Amurin, Ex Logos, Nos Cuenta Sobre Su Nuevo Proyecto | Salvaje Mantiene La Esencia Latente",
+    "link": "https://www.delotroladometal.com.ar/2026/09/12/salvaje-mantiene-la-esencia-latente/",
+    "fecha": "12/09/2026 10:35",
+    "contenido": "Jose Amurin es conocido dentro de la escena del Heavy Metal en Argentina, principalmente por...\nThe post Jose Amurin, Ex Logos, Nos Cuenta Sobre Su Nuevo Proyecto | Salvaje Mantiene La Esencia Latente first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "Como liberar memoria RAM en Linux",
+    "link": "https://tecnoysoft.com/2026/09/12/como-liberar-memoria-ram-en-linux/",
+    "fecha": "12/09/2026 07:51",
+    "contenido": "En general, no es necesario liberar la memoria RAM manualmente, ya que el sistema operativo gestiona automáticamente su uso. Sin embargo, hay algunas situaciones donde liberar la RAM puede ser útil: Cuando el sistema se vuelve lento o se congela Cuando cierras programas pero la RAM sigue ocupada Des"
+  },
+  {
     "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "Por qué mantengo cerrados los comentarios del blog",
     "link": "https://tecnoysoft.com/2026/09/11/por-que-mantengo-cerrados-los-comentarios-del-blog/",
@@ -54,6 +89,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/09/11/dandole-aire-al-black-metal/",
     "fecha": "11/09/2026 10:35",
     "contenido": "(2023 &#8211; Nordic Mission) A la espera de su nuevo álbum, que en cualquier momento...\nThe post Jernlov: Resurrection | Dándole Aire Al Black Metal first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Cozy Caravan",
+    "link": "https://cozykis.kisworld.es/analisis-de-cozy-caravan/",
+    "fecha": "11/09/2026 10:30",
+    "contenido": "Elige al animal más adorable, coge las riendas de tu carromato y explora este bonito mundo mientras repartes felicidad\nLa entrada Análisis de Cozy Caravan se publicó primero en CozyKis."
   },
   {
     "blog": "Mi perra vida",
@@ -119,6 +161,13 @@
     "contenido": "     La patota ruletera ha llegado\nBueno, basta de piloto autom&aacute;tico, ac&aacute; estoy ruleteando para ustedes &iquest;C&oacute;mo est&aacute;n? &iquest;Vivos? Pues si la respuesta es ambigua prueben con una de estas balas, por ah&iacute; los revive o los termina liquidando 😅\nAhora s&iacute;,"
   },
   {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Fofumia",
+    "link": "https://cozykis.kisworld.es/analisis-de-fofumia/",
+    "fecha": "10/09/2026 10:36",
+    "contenido": "Tiene michis cíclopes que causarán el caos mientras nosotres nos relajamos intentando poner un poco de orden\nLa entrada Análisis de Fofumia se publicó primero en CozyKis."
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "Abel Gomez De Lament Nos Adelanta Su Próximo Álbum | “Queremos Regresar A Nuestras Raíces Del Primer Álbum”",
     "link": "https://www.delotroladometal.com.ar/2026/09/10/queremos-regresar-a-nuestras-raices-del-primer-album/",
@@ -166,20 +215,6 @@
     "link": "https://vctrsnts.codeberg.page/posts/2026-09-10-instalar-memos/",
     "fecha": "09/09/2026 22:00",
     "contenido": "Tenemos nuevo artículo, y el culpable, como no podía ser otro, es atareao.\nEscuchando un podcast, no me acuerdo de cuál, Lorenzo explicaba que había instalado memos, un gestor de notas que últimamente está muy de moda, y que lo había enlazado con su móvil Android. 😱\nEso mismo pensé yo.\n\nNota\nDoctor,"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Mi flujo de trabajo con Memos y Android",
-    "link": "https://vctrsnts.codeberg.page/draft/2026-09-11-memos-android/",
-    "fecha": "09/09/2026 22:00",
-    "contenido": "\nNota\n\n\n\n\n\n◇ Referencia"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Mis notas en la web",
-    "link": "https://vctrsnts.codeberg.page/draft/2026-09-12-notas-web/",
-    "fecha": "09/09/2026 22:00",
-    "contenido": "\nNota\n\n\n\n\n\n◇ Referencia"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -294,6 +329,13 @@
     "contenido": "En 1994 IBM lanzó su apuesta más ambiciosa por la informática empresarial y, como novedad, la personal: OS/2 Warp 3."
   },
   {
+    "blog": "CozyKis",
+    "titulo": "Fall in Love 2026. Juegos, demos y más",
+    "link": "https://cozykis.kisworld.es/fall-in-love-2026-juegos-demos-y-mas/",
+    "fecha": "08/09/2026 19:09",
+    "contenido": "Un resumen del evento de Stea Fall in Love 2026 que reúne un montón ed novelas visuales que tratan sobre el amor y más\nLa entrada Fall in Love 2026. Juegos, demos y más se publicó primero en CozyKis."
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "#Trailer: The Legend of Zelda: Ocarina of Time (NSW 2)",
     "link": "https://blog.luiscarlospando.com/gaming/2026/09/trailer-the-legend-of-zelda-ocarina-of-time-nsw-2/",
@@ -327,6 +369,13 @@
     "link": "https://mareosdeungeek.es/videojuegos-novedades-y-noticias-de-verano-gamescom-y-state-of-play/",
     "fecha": "08/09/2026 11:30",
     "contenido": "El verano siempre ha sido uno de los grandes momentos para el mercado de los videojuegos. Las vacaciones escolares, cuando estaban enfocados a un público más infantil y juvenil, además de los anuncios para el final de año, marcaban la actividad. Personalmente, coincidía con mi cumpleaños, así que er"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de DEVIL’S LIMINAL",
+    "link": "https://cozykis.kisworld.es/analisis-de-devils-liminal/",
+    "fecha": "08/09/2026 10:37",
+    "contenido": "Consigue unir de manera magistral el terror por las cosas sobrenaturales con lo cotidiano para hacernos sufrir y disfrutar por igual\nLa entrada Análisis de DEVIL&#8217;S LIMINAL se publicó primero en CozyKis."
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -404,6 +453,13 @@
     "link": "https://www.fabio.com.ar/10013-shitty-mods---los-peores-mods-de-autos-del-mundo---parte-40",
     "fecha": "07/09/2026 12:00",
     "contenido": "    \nOh si, hace mucho que no tenemos en el blog una fabulosa selecci&oacute;n de los m&aacute;s audaces Shitty Mods, as&iacute; que hoy les traigo de lo mejorcito que van a ver, ideal para sacarse los ojos con un amortiguador vencido.&nbsp;Aqu&iacute; vamos y recuerden que tienen una gran colecci&o"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Lock & Key: A Magical Girl Mystery",
+    "link": "https://cozykis.kisworld.es/analisis-de-lock-key-a-magical-girl-mystery/",
+    "fecha": "07/09/2026 10:36",
+    "contenido": "La historia va más allá del poder de la amistad y como la relación de cuatro chicas puede ayudar (o no) a salvar el mundo\nLa entrada Análisis de Lock &amp; Key: A Magical Girl Mystery se publicó primero en CozyKis."
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -672,6 +728,13 @@
     "contenido": "Poltinmerkki nos sorprendió con su particular veta de Metal Industrial con su álbum de 2023...\nThe post Novedades Sobre La Banda De Metal Industrial | Poltinmerkki Resiste Y Prepara Nuevo Material first appeared on Del Otro Lado Metal."
   },
   {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Crimson Waves on the Emerald Sea: Amaranthine Moon",
+    "link": "https://cozykis.kisworld.es/analisis-de-crimson-waves-on-the-emerald-sea-amaranthine-moon/",
+    "fecha": "04/09/2026 10:23",
+    "contenido": "Tres señores muy guapos para ligar, un asesinato y nuestra decisión de convertirnos en vampiresa. Todo con una ambientación victoriana\nLa entrada Análisis de Crimson Waves on the Emerald Sea: Amaranthine Moon se publicó primero en CozyKis."
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Málaga MSX Meeting 2026",
     "link": "https://malagaoriginal.blogspot.com/2026/09/malaga-msx-meeting-26.html",
@@ -726,6 +789,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/09/03/finalmente-lo-nuevo-de-no-more-death-ya-esta-en-el-horizonte/",
     "fecha": "03/09/2026 11:48",
     "contenido": "No More Death es el proyecto personal de Tiago Torres, quien para quien no lo...\nThe post \"Last Caesar\" Está Al Caer | Finalmente Lo Nuevo De No More Death Ya Está En El Horizonte first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Dissolution of the Silent Union",
+    "link": "https://cozykis.kisworld.es/analisis-de-dissolution-of-the-silent-union/",
+    "fecha": "03/09/2026 10:17",
+    "contenido": " Con una ambientación increíble consigue meternos en la trama desde el principio y que queramos descubrir más \nLa entrada Análisis de Dissolution of the Silent Union se publicó primero en CozyKis."
   },
   {
     "blog": "El Refugio de un Nerd",
@@ -819,6 +889,13 @@
     "contenido": "(1991/2026 &#8211; Nordic Mission) Esto de las re ediciones, algo tan en boga últimamente, entre...\nThe post Living Sacrifice: Living Sacrifice | Todo Tiene Un Principio first appeared on Del Otro Lado Metal."
   },
   {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Saccharine Echo",
+    "link": "https://cozykis.kisworld.es/analisis-de-saccharine-echo/",
+    "fecha": "02/09/2026 10:47",
+    "contenido": "Con un apartado gráfico precioso, esta corta novela visual nos meterá de lleno en una historia retorcida  y oscura\nLa entrada Análisis de Saccharine Echo se publicó primero en CozyKis."
+  },
+  {
     "blog": "El escritorio de McAllus",
     "titulo": "Nuevo año escolar 2026-2027",
     "link": "https://escritura.social/mcallus/nuevo-ano-escolar-2026-2027",
@@ -861,6 +938,13 @@
     "contenido": "Hay platos tailandeses que todo el mundo conoce. Y luego está este Laab de pato: piel crujiente aparte, cocinado en su propia grasa, y con un ingrediente que casi nadie fuera de Tailandia ha probado."
   },
   {
+    "blog": "CozyKis",
+    "titulo": "Análisis de A Tithe in Blood",
+    "link": "https://cozykis.kisworld.es/analisis-de-a-tithe-in-blood/",
+    "fecha": "01/09/2026 19:12",
+    "contenido": "Una historia oscura y llena de giros donde los personajes no son lo que parecen, pero aun así nos vamos a enamorar igual\nLa entrada Análisis de A Tithe in Blood se publicó primero en CozyKis."
+  },
+  {
     "blog": "Erica Fustero",
     "titulo": "Camera stickers",
     "link": "https://www.ericafustero.com/2026-09-camera-stickers",
@@ -887,13 +971,6 @@
     "link": "https://www.fabio.com.ar/10011-el-para-avalanchas-de-flateyri",
     "fecha": "01/09/2026 12:00",
     "contenido": "    \nA las 4 de la ma&ntilde;ana del 26 de Octubre de 1995 una avalancha asol&oacute; el peque&ntilde;o pueblito island&eacute;s de Flateryi, 20 muertos y 25 heridos, 17 casas destruidas, nueve meses antes otras 14 personas hab&iacute;an muerto en un evento similar en S&uacute;&eth;av&iacute;k.\nEl g"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Voz De Los Que No Tienen Voz…",
-    "link": "https://www.delotroladometal.com.ar/2026/09/01/la-voz-de-los-que-no-tienen-voz/",
-    "fecha": "01/09/2026 10:30",
-    "contenido": "Primero de mes, y como siempre, nos gusta compartir alguna que otra reflexión. Algo para...\nThe post La Voz De Los Que No Tienen Voz… first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "56K",
@@ -992,6 +1069,13 @@
     "link": "https://www.macram.es/posts/2026/08/semana-35-2026/",
     "fecha": "31/08/2026 10:35",
     "contenido": "Lo dije hace dos semanas. Ya no estoy en verano. Pronto termina la jornada intensiva y entro en septiembre, que es un mes que tradicionalmente en mi caso tiene muchos compromisos con muchas cosas a la vez. La vida me ha atropellado en muchos sentidos pero por suerte ninguno de ellos es triste. Solo "
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Lou’s Lagoon",
+    "link": "https://cozykis.kisworld.es/analisis-de-lous-lagoon/",
+    "fecha": "31/08/2026 10:22",
+    "contenido": "Una aventura que nos permitirá descubrir distintas islas mientras resolvemos la desaparición de nuestro tío\nLa entrada Análisis de Lou&#8217;s Lagoon se publicó primero en CozyKis."
   },
   {
     "blog": "Galerías Preciados",
@@ -1610,13 +1694,6 @@
     "contenido": "2026 Giana Sisters DS &#8211; Nintendo DSi &#8211; Ago 2026 El profesor Layton y la villa misteriosa &#8211; Nintendo DSi &#8211; Ago 2026 Manic Miner &#8211; ZX Spectrum &#8211; Ago 2026 Castlevania: Portrait of Ruin &#8211; Nintendo DSi &#8211; Jul 2026 Super Mario Odyssey &#8211; Nintendo Switch "
   },
   {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Mejorando seguridad en VPS",
-    "link": "https://vctrsnts.codeberg.page/draft/2026-09-23-mejorando-seguridad/",
-    "fecha": "22/08/2026 22:00",
-    "contenido": "\nNota\n\n\n\n\n\n◇ Referencia\nhttps://atareao.es/tutorial/seguridad-esencial-en-self-hosted/blindaje-ssh-la-primera-linea-de-defensa/"
-  },
-  {
     "blog": "La Frikoteca",
     "titulo": "Mi colección de rol en números e idiomas",
     "link": "http://frikoteca.blogspot.com/2026/08/mi-coleccion-de-rol-en-numeros-e-idiomas.html",
@@ -1762,13 +1839,6 @@
     "link": "https://fixionauta.net/2026/08/19/206535/",
     "fecha": "20/08/2026 01:13",
     "contenido": "¡Sí! Hace mucho que no se me escapaba una expresión de sorpresa al notar esa clase de detalles. Aunque lo de los párrafos me lo tuvo que señalar alguien más, no lo había notado al estar tan enfrascado en la lectura. El único capítulo en donde no usa un solo bloque de texto es en [&#8230;]"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "",
-    "link": "https://vctrsnts.codeberg.page/draft/2026-09-20-traefik-cup-homepage/",
-    "fecha": "19/08/2026 22:00",
-    "contenido": "services:\ncup:\nimage: ghcr.io/sergi0g/cup:latest\ncontainer_name: cup # Optional\nrestart: unless-stopped\nnetworks:\n- proxy\ncommand: -c /config/cup.json serve\nvolumes:\n- /run/user/1002/podman/podman.sock:/var/run/docker.sock:ro\n- ${PODMAN_STORAGE_PATH}/.config/cup/cup.json:/config/cup.json\nhealthcheck"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -1939,6 +2009,13 @@
     "contenido": "El surcoreano, nacionalizado estadounidense, Jaegwon Kim (1934-2019), ha sido uno de los filósofos de la mente más importantes de finales del siglo pasado y principios de éste. De entre sus aportaciones hay una que se ha hecho especialmente célebre: su aplicación de la tesis de la sobredeterminación"
   },
   {
+    "blog": "Spam de autor",
+    "titulo": "Hip hop es Historia, por Questlove",
+    "link": "http://blog.spamdeautor.com/2026/08/16/hip-hop-es-historia-questlove/?utm_source=rss&utm_medium=rss&utm_campaign=hip-hop-es-historia-questlove",
+    "fecha": "16/08/2026 07:57",
+    "contenido": "En el año 2023&#160;Questlove&#160;(Ahmir Khalib Thompson, batería y dj en la banda The Roots) recibió el encargo de escribir un libro conmemorativo por el 50 aniversario del nacimiento del Hip Hop. Como cuenta el propio Quest, no quiso que este &#8230; Sigue leyendo &#8594;\nLa entrada Hip hop es Hi"
+  },
+  {
     "blog": "JavierSam",
     "titulo": "Noxious",
     "link": "https://javiersam.uy/2026/08/noxious.html",
@@ -1958,20 +2035,6 @@
     "link": "https://sidiostedalimones.com/blog/2026/human-vapor/",
     "fecha": "16/08/2026 00:00",
     "contenido": ""
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Reducir tamaño unidad disco duro virtual en Proxmox LXC",
-    "link": "https://labaudric.net/blog/auto-alojamiento/reducir-disco-duro-lxc-proxmox",
-    "fecha": "15/08/2026 18:39",
-    "contenido": "\nUna de las pocas cosas que no permite Proxmox, al menos de versión 9 incluida para abajo, es reducir el tamaño de un disco duro virtual en un LXC.\nY la verdad es que es una putada, por que por mucho que planifiques bien de ante mano, esta necesidad puede surgir en cualquier momento. Desde la termin"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Crítica \"It Follows\" (2014)",
-    "link": "https://labaudric.net/blog/peliculas/it-follows",
-    "fecha": "15/08/2026 18:03",
-    "contenido": "\nPues he visto It Follows. Vengo a quejarme de ello.\nPelícula del 2014, una hora y cuarenta minutos (se agradece que no sean de esas de inútilmente dos horas). Director: un pavo que no me suena, y los actores, más de lo mismo. Bien. Vamos allá:\nLa película empieza claramente por un flash forward de "
   },
   {
     "blog": "La bitácora de Locutus",
@@ -2063,26 +2126,5 @@
     "link": "https://danielomarcignacco.blogspot.com/2026/08/la-materia-de-las-sombras-el-nuevo.html",
     "fecha": "13/08/2026 14:59",
     "contenido": ""
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Postureo",
-    "link": "https://jinversor.co/2026/08/postureo/",
-    "fecha": "13/08/2026 11:51",
-    "contenido": "Acaba de ocurrir un terremoto en Colombia y, como era de esperarse, los bobalicones de siempre no perdieron la oportunidad de convertirse en el centro de atención. Una tragedia como [&#8230;]\nLa entrada Postureo se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "#199: ayer vi el eclipse (como todos)",
-    "link": "https://www.macram.es/posts/2026/08/total-eclipse-of-the-heart/",
-    "fecha": "13/08/2026 09:09",
-    "contenido": "Ayer, como medio país, estuve viendo el eclipse. Tenía unas gafas que me facilitó uno de mis cuponeros de confianza (sí, tengo más de uno) y me fui con un amigo a verlo al campo con un par de latas de refresco, una bolsa de palomitas y un par de sillas de camping. Fue un planazo, la verdad. La sensa"
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Vitaminas para Vim: Plugins, resaltado de color y autocompletado",
-    "link": "https://www.ochobitshacenunbyte.com/2026/08/13/vitaminas-para-vim-plugins-resaltado-de-color-y-autocompletado/",
-    "fecha": "13/08/2026 06:39",
-    "contenido": "Hace un tiempo os hablé de cómo instalar la última versión de Vim en Linux y de sus ventajas frente al clásico vi. Sin embargo, si usáis Vim recién instalado de serie para vuestros&#46;&#46;&#46;\nLa entrada Vitaminas para Vim: Plugins, resaltado de color y autocompletado se publicó primero en ochobi"
   }
 ]
