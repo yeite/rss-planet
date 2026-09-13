@@ -1,5 +1,40 @@
 [
   {
+    "blog": "impermanente",
+    "titulo": "Parecer que sabes",
+    "link": "https://blog.impermanente.es/2026/09/13/parecer-que-sabes.html",
+    "fecha": "13/09/2026 12:35",
+    "contenido": "Ayer un grupo de jóvenes me explicaron lo que es un LARP. Yo conocía el término como live action role-playing, un juego de rol en vivo, de esos donde uno se viste de un personaje y actúa como si lo fuera. Pero por lo visto ahora se usa “larpear” para hablar de gente que se hace pasar por algo que no"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "\"Grand Mosaic Tour 2027\" Recorrerá Europa Junto A Sunburst Y Signum Regis | Theocracy Anuncia Gira",
+    "link": "https://www.delotroladometal.com.ar/2026/09/13/theocracy-anuncia-gira/",
+    "fecha": "13/09/2026 12:00",
+    "contenido": "A lo largo de los años Theocracy ha demostrado ser una banda bastante particular, por...\nThe post \"Grand Mosaic Tour 2027\" Recorrerá Europa Junto A Sunburst Y Signum Regis | Theocracy Anuncia Gira first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Un Diario",
+    "titulo": "Actualización de mi vida (y algo pequeño en Github)",
+    "link": "https://thejnx.bearblog.dev/actualizacion-y-algo-en-github/",
+    "fecha": "13/09/2026 06:52",
+    "contenido": "Bueno, aquí sigo, otro día sin actualizar este blog jaja, para mantenerlo vivo solo contaré un par de cosas que me han mantenido ocupada...\nPues desde agosto empecé en la universidad una carrera que no va para nada conmigo pero la cual estoy obligada a hacer para mantener esta familia... Lo que no s"
+  },
+  {
+    "blog": "Si dios te da limones",
+    "titulo": "D&D · Combate /1",
+    "link": "https://sidiostedalimones.com/blog/2026/dnd-combate-1/",
+    "fecha": "13/09/2026 00:00",
+    "contenido": ""
+  },
+  {
+    "blog": "gorkula.com",
+    "titulo": "Cementerios, fantasmas y padres muertos",
+    "link": "https://www.gorkula.com/cementerios-fantasmas-padres-muertos",
+    "fecha": "12/09/2026 21:32",
+    "contenido": "He salido a dar un paseo con mi hija y hemos pasado por el cementerio de San Bonifacio. He decidido entrar. Lo he intentado en otras ocasiones pero mi mujer siempre había opuesto resistencia. Una vez me pidió (por que sabía que tarde o temprano iba a entrar) que no recogiese ningún objeto y lo traje"
+  },
+  {
     "blog": "labaudric",
     "titulo": "audric subió 11 imágenes en Nier",
     "link": "https://labaudric.net/galeria/nier",
@@ -32,7 +67,7 @@
     "titulo": "Como liberar memoria RAM en Linux",
     "link": "https://tecnoysoft.com/2026/09/12/como-liberar-memoria-ram-en-linux/",
     "fecha": "12/09/2026 07:51",
-    "contenido": "En general, no es necesario liberar la memoria RAM manualmente en Linux. El kernel gestiona automáticamente la memoria y utiliza parte de ella como caché para mejorar el rendimiento. Por eso, ver una cantidad elevada de RAM ocupada no significa necesariamente que la memoria se esté desperdiciando. L"
+    "contenido": "Si buscas cómo liberar memoria RAM en Linux, probablemente hayas visto comandos como free, sync o vm.drop_caches. Pero antes de ejecutar nada hay una cosa importante que entender: En Linux, normalmente no necesitas liberar la RAM manualmente. El sistema operativo libera automáticamente la memoria de"
   },
   {
     "blog": "Tecno y Soft - Tecno y Soft",
@@ -131,6 +166,13 @@
     "link": "https://malagaoriginal.blogspot.com/2026/09/tente-expo-2026-en-fuengirola.html",
     "fecha": "11/09/2026 05:05",
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga)Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Hac"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Cambiar metadata de PDF en Linux",
+    "link": "https://chancli.dev/blog/cambiar-metadata-pdf-linux.html",
+    "fecha": "11/09/2026 00:00",
+    "contenido": "Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF.\nNormalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock"
   },
   {
     "blog": "Jinversor",
@@ -322,6 +364,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
+    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
+    "fecha": "09/09/2026 00:00",
+    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
+  },
+  {
     "blog": "NevatBlog",
     "titulo": "OS/2 Warp 3: cuando IBM quiso destronar a Windows",
     "link": "https://nevat.neocities.org/warp3_09092026.html",
@@ -364,6 +413,13 @@
     "contenido": "    \nHace un par de a&ntilde;os les habl&eacute; de FreeTube, una excelente aplicaci&oacute;n que te permite ver videos de YouTube sin la violencia sistem&aacute;tica de la plataforma. Sin publicidad, sin insistencia para que pagues premium, sin violaci&oacute;n de privacidad permanente.\nTambi&eacut"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Videojuegos: novedades y noticias de verano, Gamescom y State of Play",
+    "link": "https://mareosdeungeek.es/videojuegos-novedades-y-noticias-de-verano-gamescom-y-state-of-play/",
+    "fecha": "08/09/2026 11:30",
+    "contenido": "El verano siempre ha sido uno de los grandes momentos para el mercado de los videojuegos. Las vacaciones escolares, cuando estaban enfocados a un público más infantil y juvenil, además de los anuncios para el final de año, marcaban la actividad. Personalmente, coincidía con mi cumpleaños, así que er"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Análisis de DEVIL’S LIMINAL",
     "link": "https://cozykis.kisworld.es/analisis-de-devils-liminal/",
@@ -390,6 +446,13 @@
     "link": "https://blog.danielaragay.net/por-que-en-suecia-vota-casi-todo-el-mundo-y-que-esconde-esa-cifra/",
     "fecha": "08/09/2026 09:25",
     "contenido": "Suecia va camino de otra elección con una participación por encima del 80%, casi veinte puntos más que España. El sistema está diseñado para que votar sea fácil: casi tres semanas de voto anticipado, sin papeleta física, en cualquier punto del país."
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Autistici/Inventati cierra, ¡pero la lucha continúa!",
+    "link": "https://gatooscuro.xyz/autistici-inventati-cierra-pero-la-lucha-continua/",
+    "fecha": "08/09/2026 08:52",
+    "contenido": "Recientemente ha ocurrido una desgracia que tiene a todos los hacktivistas decepcionados y muy preocupados; un acto que parece cambiar las reglas del juego para mal. Y es que veníamos\nSeguir leyendo  Autistici/Inventati cierra, ¡pero la lucha continúa!\nEl cargo Autistici/Inventati cierra, ¡pero la l"
   },
   {
     "blog": "matizeta",
@@ -490,6 +553,13 @@
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
+    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
+    "fecha": "07/09/2026 00:00",
+    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
+  },
+  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Immich - Migración de V2 a V3 en producción",
     "link": "https://vctrsnts.codeberg.page/posts/2026-09-07-migracion-immich-2/",
@@ -539,6 +609,13 @@
     "contenido": "Mis queridos amigos de Anthropic publicaron un artículo (Bueno, un technical report o un preprint. Una de las cosas a los que nos tenemos que acostumbrar los que estamos en el mundillo de la IA es a que todo lo que producen estas empresas es extra-académico, es decir, no pasa por ninguna revisión po"
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Lo peor de la traición es que nunca viene de un desconocido",
+    "link": "https://gatooscuro.xyz/lo-peor-de-la-traicion-es-que-nunca-viene-de-un-desconocido/",
+    "fecha": "06/09/2026 14:00",
+    "contenido": "Me tomó varios días decidir si publicaba o no este artículo y, pues, como pueden observar, la decisión está tomada. Tenía más pensamientos en contra que a favor. En la\nSeguir leyendo  Lo peor de la traición es que nunca viene de un desconocido\nEl cargo Lo peor de la traición es que nunca viene de un"
+  },
+  {
     "blog": "quiroptero.blog",
     "titulo": "La cámara no hace la foto",
     "link": "https://www.quiroptero.blog/2026/09/camara/",
@@ -579,6 +656,13 @@
     "link": "https://tecnoysoft.com/2026/09/06/otra-forma-de-compartir-contenido/",
     "fecha": "06/09/2026 07:33",
     "contenido": "Antes de comenzar, conviene realizar una aclaración: el presente contenido no se encuentra sujeto a ningún tipo de licencia, por lo que puede ser utilizado libremente por cualquier persona, sin necesidad de autorización previa. No considero necesario justificar ni defender la decisión que aquí se ex"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Un largo verano",
+    "link": "https://mareosdeungeek.es/un-largo-verano-2/",
+    "fecha": "06/09/2026 07:00",
+    "contenido": "Tengo que reconocer que el verano de 2026 está siendo demasiado largo. Necesito volver a una rutina que es rutina, básicamente, necesito que mis hijos empiecen el colegio. No hay nada peor que trabajar en verano, con los niños y con mucho calor. De nada me ha servido estar fuera de casa, bueno, tal "
   },
   {
     "blog": "JavierSam",
@@ -728,6 +812,13 @@
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
   },
   {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacín",
+    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
+    "fecha": "03/09/2026 17:28",
+    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Eufemismos",
     "link": "https://jinversor.co/2026/09/eufemismos/",
@@ -845,13 +936,6 @@
     "link": "https://www.fabio.com.ar/10012-gentleos-un-sistema-operativo-para-computadoras-bien-viejas",
     "fecha": "02/09/2026 12:00",
     "contenido": "    \nCada tanto me gusta explorar el universo de sistemas operativos alternativos, ya escrib&iacute; un par de notas sobre ellos, es que suelen ser una locura de alg&uacute;n programador hobbysta que quiere mantener su vieja computadora \"Actualizada\".\nEsta semana encontr&eacute; otro de esos, Gentle"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Living Sacrifice: Living Sacrifice | Todo Tiene Un Principio",
-    "link": "https://www.delotroladometal.com.ar/2026/09/02/todo-tiene-un-principio/",
-    "fecha": "02/09/2026 11:22",
-    "contenido": "(1991/2026 &#8211; Nordic Mission) Esto de las re ediciones, algo tan en boga últimamente, entre...\nThe post Living Sacrifice: Living Sacrifice | Todo Tiene Un Principio first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "CozyKis",
@@ -1064,6 +1148,13 @@
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Me he comprado el Pocketbook Inkpad One!",
+    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
+  },
+  {
     "blog": "Jorge Aguilera",
     "titulo": "Self-hosting Forgejo (lightweight software forge)",
     "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
@@ -1111,6 +1202,13 @@
     "link": "https://guillermolatorre.com/clips/vorssaint-app-herramientas-utiles-de-sistema-para-mac",
     "fecha": "30/08/2026 16:10",
     "contenido": "Se trata de una \"pequeña\" app que vive en la barra superior del sistema y que integra un montón de pequeñas utilidades de las que te hacen la vida más fácil. Y es software libre.Ir al enlace"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Se hizo historia en el Carlos Vieco por una buen causa",
+    "link": "https://gatooscuro.xyz/se-hizo-historia-en-el-carlos-vieco-por-una-buen-causa/",
+    "fecha": "30/08/2026 15:28",
+    "contenido": "NOTA: Este artículo tenía que haber salido un día después del evento, pero como me ocurre de todo entonces salió tarde, varios días tarde. Hoy les vengo a escribir sobre\nSeguir leyendo  Se hizo historia en el Carlos Vieco por una buen causa\nEl cargo Se hizo historia en el Carlos Vieco por una buen c"
   },
   {
     "blog": "Tecno y Soft - Tecno y Soft",
@@ -1321,6 +1419,13 @@
     "link": "https://blog.danielaragay.net/el-rode-ai-micro-no-aguanta-mis-microfonos-binaurales-y-por-que-cambio-de-estrategia-en-youtube/",
     "fecha": "27/08/2026 11:21",
     "contenido": "Nuevo episodio del podcast: El Rode AI-Micro no aguanta mis micr&#xf3;fonos binaurales (y por qu&#xe9; cambio de estrategia en YouTube)Esc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@nordicsmedia/episodes/el-rode-ai-micro-no-aguanta-mis-microfonos-binaurales-y-por-que-cambio-de-estrategi"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La clase de griego",
+    "link": "https://mareosdeungeek.es/la-clase-de-griego/",
+    "fecha": "27/08/2026 10:00",
+    "contenido": "La clase de griego es el primer libro que leo de la autora surcoreana Han Kang, quién acabaría recibiendo el Premio Nobel de Literatura en el año 2024. Esta obra se publicó en 2011 y aunque es posterior a su éxito La vegetariana mantiene el nivel de una prosa profunda, muy detallista y dramática par"
   },
   {
     "blog": "Picando Código",
@@ -1631,6 +1736,13 @@
     "contenido": "Escribir Hispania Obscura me tomó dos años, pero las ideas que terminaron dentro me tomaron más de diez. Hay cosas en ese libro que aparecieron mucho antes de que supiera que estaba escribiendo un libro: notas sobre mitología peninsular, lugares de Madrid que parecían esconder otra ciudad debajo, pe"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Alarcón",
+    "link": "https://mareosdeungeek.es/alarcon/",
+    "fecha": "23/08/2026 08:00",
+    "contenido": "Como todos los veranos he estado visitando La Manchuela que no deja de ser la zona de mis raíces. Este año he aprovechado para visitar La Mancha de Cuenca y de camino, aprovechado para parar en Alarcón. Alarcón se encuentra en La Manchuela, la comarca que hay entre Cuenca y Albacete. Este pueblo, ba"
+  },
+  {
     "blog": "56K",
     "titulo": "Juegos que me he pasado",
     "link": "https://56k.es/fanta/juegos-que-me-he-pasado/",
@@ -1650,6 +1762,13 @@
     "link": "https://tecnoysoft.com/2026/08/22/como-evitar-las-desconexiones-esporadicas-de-la-wifi-en-linux/",
     "fecha": "22/08/2026 15:21",
     "contenido": "Llevo mucho tiempo con este problema. La solución es sencilla; lo difícil ha sido identificar la causa. En algunos portátiles con Linux, especialmente cuando la señal Wi-Fi es débil, el ahorro de energía del adaptador inalámbrico puede afectar a la estabilidad de la conexión. En mi caso, la solución"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Escribiendo un poco sobre lo que se mueve actualmente en la red",
+    "link": "https://gatooscuro.xyz/escribiendo-un-poco-sobre-lo-que-se-mueve-actualmente-en-la-red/",
+    "fecha": "22/08/2026 08:14",
+    "contenido": "Hoy es de esas madrugadas en que quiero hundirme en mis letras, más allá de mis pensamientos e introspección, que normalmente logro durante esas largas jornadas laborales. En donde no\nSeguir leyendo  Escribiendo un poco sobre lo que se mueve actualmente en la red\nEl cargo Escribiendo un poco sobre l"
   },
   {
     "blog": "Un blog",
@@ -1911,6 +2030,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "La psicologa sin empatía",
+    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
+    "fecha": "17/08/2026 00:00",
+    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
+  },
+  {
     "blog": "JDRM",
     "titulo": "Eclipse Total, otro microrrelato",
     "link": "https://jdrm.info/eclipse-total-otro-microrrelato.html",
@@ -1981,6 +2107,13 @@
     "contenido": "&nbsp;Es una corriente que va donde va,cazando la lluvia cautivadentro de la misma tormenta,silenciosa, impopular, integrada.Contra todo, pero dentro de todo,apuñalando, ciegamente,las victorias y las derrotas,&nbsp;dando vueltas y vueltas a vacío.Regalando la sensación&nbsp;de expresión autónoma pr"
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Palantir en Colombia – ¡Hola, amigo!",
+    "link": "https://gatooscuro.xyz/palantir-en-colombia-hola-amigo/",
+    "fecha": "15/08/2026 08:40",
+    "contenido": "“Hola, amigo. Hola, ¿amigo? Es aburrido.&#160; Tal vez deba darte un nombre, pero es una pendiente resbaladiza.&#160; Solo estás en mi cabeza.&#160; Tenemos que recordar eso.&#160; Mierda. En verdad sucedió,\nSeguir leyendo  Palantir en Colombia – ¡Hola, amigo!\nEl cargo Palantir en Colombia – ¡Hola, "
+  },
+  {
     "blog": "Spanish on Jorge Sanz",
     "titulo": "La pequeña flor",
     "link": "https://jorgesanz.net/cuentos/la-pequena-flor/",
@@ -2000,33 +2133,5 @@
     "link": "https://www.quiroptero.blog/2026/08/ia/",
     "fecha": "14/08/2026 17:37",
     "contenido": "Mi relación reciente con la IA"
-  },
-  {
-    "blog": "",
-    "titulo": "Nueva Canción de Germán Harper & Bard.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/08/14/nueva-cancion-de-german-harper-bard/",
-    "fecha": "14/08/2026 13:06",
-    "contenido": ""
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 33.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-33/",
-    "fecha": "14/08/2026 10:47",
-    "contenido": "Relato – Doctor Nómada (novena parte) &#124; Bonus track\nDoctor Nómada (novena parte)\nLeer la octava parte\nLuz María, Luzma le decían todos en el pueblo, había tenido fiebre toda la noche. Para Leonila, su madre, no era sorprendente. Ya venía notándola decaída desde hacía algunas semanas, y cómo no "
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "576. Fecundación total",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/08/576-fecundacion-total.html",
-    "fecha": "14/08/2026 05:59",
-    "contenido": "&nbsp; &nbsp; Fueron muchas las personas que no se desplazaron para presenciar el eclipse. Por ejemplo, hubo varias parejas heterosexuales que, en pecado o en matrimonio, eligieron el día del evento astronómico para copular sin protección. Ya fuera por creencias o por estúpidas tradiciones ancestral"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Hace 20 años me fracturé la tibia y el peroné en un accidente de trabajo",
-    "link": "https://pedrolr.es/blog/hace-20-anos-me-fracture-la-tibia-y-el-perone-en-un-accidente-de-trabajo/",
-    "fecha": "14/08/2026 05:42",
-    "contenido": "Tenía casi 20 años y estaba en el verano de 2º de carrera de filosofía en Madrid. Ese verano había estado en Valencia durante el mes de julio trabajando en una empresa de materiales de electricidad. Era un trabajo muy físico, de 12 horas al día y preparando pedidos. Recuerdo especialmente cuando ten"
   }
 ]
