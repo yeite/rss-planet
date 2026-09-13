@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sun, 13 Sep 2026 15:15:31 GMT</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 19:58:50 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,46 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Parecer que sabes</title>
+<link>https://blog.impermanente.es/2026/09/13/parecer-que-sabes.html</link>
+<guid isPermaLink="true">https://blog.impermanente.es/2026/09/13/parecer-que-sabes.html</guid>
+<pubDate>Sun, 13 Sep 2026 12:35:00 GMT</pubDate>
+<category>impermanente</category>
+<description><![CDATA[Ayer un grupo de jóvenes me explicaron lo que es un LARP. Yo conocía el término como live action role-playing, un juego de rol en vivo, de esos donde uno se viste de un personaje y actúa como si lo fuera. Pero por lo visto ahora se usa “larpear” para hablar de gente que se hace pasar por algo que no<br><br><strong>Fuente:</strong> impermanente]]></description>
+</item>
+<item>
+<title>&quot;Grand Mosaic Tour 2027&quot; Recorrerá Europa Junto A Sunburst Y Signum Regis | Theocracy Anuncia Gira</title>
+<link>https://www.delotroladometal.com.ar/2026/09/13/theocracy-anuncia-gira/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/09/13/theocracy-anuncia-gira/</guid>
+<pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[A lo largo de los años Theocracy ha demostrado ser una banda bastante particular, por... The post &quot;Grand Mosaic Tour 2027&quot; Recorrerá Europa Junto A Sunburst Y Signum Regis | Theocracy Anuncia Gira first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Actualización de mi vida (y algo pequeño en Github)</title>
+<link>https://thejnx.bearblog.dev/actualizacion-y-algo-en-github/</link>
+<guid isPermaLink="true">https://thejnx.bearblog.dev/actualizacion-y-algo-en-github/</guid>
+<pubDate>Sun, 13 Sep 2026 06:52:00 GMT</pubDate>
+<category>Un Diario</category>
+<description><![CDATA[Bueno, aquí sigo, otro día sin actualizar este blog jaja, para mantenerlo vivo solo contaré un par de cosas que me han mantenido ocupada... Pues desde agosto empecé en la universidad una carrera que no va para nada conmigo pero la cual estoy obligada a hacer para mantener esta familia... Lo que no s<br><br><strong>Fuente:</strong> Un Diario]]></description>
+</item>
+<item>
+<title>D&amp;D · Combate /1</title>
+<link>https://sidiostedalimones.com/blog/2026/dnd-combate-1/</link>
+<guid isPermaLink="true">https://sidiostedalimones.com/blog/2026/dnd-combate-1/</guid>
+<pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+<category>Si dios te da limones</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> Si dios te da limones]]></description>
+</item>
+<item>
+<title>Cementerios, fantasmas y padres muertos</title>
+<link>https://www.gorkula.com/cementerios-fantasmas-padres-muertos</link>
+<guid isPermaLink="true">https://www.gorkula.com/cementerios-fantasmas-padres-muertos</guid>
+<pubDate>Sat, 12 Sep 2026 21:32:00 GMT</pubDate>
+<category>gorkula.com</category>
+<description><![CDATA[He salido a dar un paseo con mi hija y hemos pasado por el cementerio de San Bonifacio. He decidido entrar. Lo he intentado en otras ocasiones pero mi mujer siempre había opuesto resistencia. Una vez me pidió (por que sabía que tarde o temprano iba a entrar) que no recogiese ningún objeto y lo traje<br><br><strong>Fuente:</strong> gorkula.com]]></description>
+</item>
 <item>
 <title>audric subió 11 imágenes en Nier</title>
 <link>https://labaudric.net/galeria/nier</link>
@@ -55,7 +95,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <guid isPermaLink="true">https://tecnoysoft.com/2026/09/12/como-liberar-memoria-ram-en-linux/</guid>
 <pubDate>Sat, 12 Sep 2026 07:51:00 GMT</pubDate>
 <category>Tecno y Soft - Tecno y Soft</category>
-<description><![CDATA[En general, no es necesario liberar la memoria RAM manualmente en Linux. El kernel gestiona automáticamente la memoria y utiliza parte de ella como caché para mejorar el rendimiento. Por eso, ver una cantidad elevada de RAM ocupada no significa necesariamente que la memoria se esté desperdiciando. L<br><br><strong>Fuente:</strong> Tecno y Soft - Tecno y Soft]]></description>
+<description><![CDATA[Si buscas cómo liberar memoria RAM en Linux, probablemente hayas visto comandos como free, sync o vm.drop_caches. Pero antes de ejecutar nada hay una cosa importante que entender: En Linux, normalmente no necesitas liberar la RAM manualmente. El sistema operativo libera automáticamente la memoria de<br><br><strong>Fuente:</strong> Tecno y Soft - Tecno y Soft]]></description>
 </item>
 <item>
 <title>Por qué mantengo cerrados los comentarios del blog</title>
@@ -170,52 +210,12 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Este año se celebrará la&amp;nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga)Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&amp;nbsp;Hac<br><br><strong>Fuente:</strong> Malagueños originales y libres]]></description>
 </item>
 <item>
-<title>10 canciones perfectas (para mis exequias)</title>
-<link>https://jinversor.co/2026/09/10-canciones-perfectas-para-mis-exequias/</link>
-<guid isPermaLink="true">https://jinversor.co/2026/09/10-canciones-perfectas-para-mis-exequias/</guid>
-<pubDate>Thu, 10 Sep 2026 17:52:00 GMT</pubDate>
-<category>Jinversor</category>
-<description><![CDATA[Ayer estuve limpiando mis listas de reproducción musical y terminé haciendo una nueva lista con aquellas pistas que considero son las 10 canciones perfectas para mis exequias. Digo exequias porque [&amp;#8230;] La entrada 10 canciones perfectas (para mis exequias) se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
-</item>
-<item>
-<title>Un paseo por HaikuOS</title>
-<link>https://jdrm.info/un-paseo-por-haikuos.html</link>
-<guid isPermaLink="true">https://jdrm.info/un-paseo-por-haikuos.html</guid>
-<pubDate>Thu, 10 Sep 2026 14:00:00 GMT</pubDate>
-<category>JDRM</category>
-<description><![CDATA[Un artículo con información sobre HaikuOS<br><br><strong>Fuente:</strong> JDRM]]></description>
-</item>
-<item>
-<title>Ruleta Rusa #893</title>
-<link>https://www.fabio.com.ar/10028-ruleta-rusa-893</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/10028-ruleta-rusa-893</guid>
-<pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[La patota ruletera ha llegado Bueno, basta de piloto autom&amp;aacute;tico, ac&amp;aacute; estoy ruleteando para ustedes &amp;iquest;C&amp;oacute;mo est&amp;aacute;n? &amp;iquest;Vivos? Pues si la respuesta es ambigua prueben con una de estas balas, por ah&amp;iacute; los revive o los termina liquidando 😅 Ahora s&amp;iacute;,<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Análisis de Fofumia</title>
-<link>https://cozykis.kisworld.es/analisis-de-fofumia/</link>
-<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-fofumia/</guid>
-<pubDate>Thu, 10 Sep 2026 10:36:00 GMT</pubDate>
-<category>CozyKis</category>
-<description><![CDATA[Tiene michis cíclopes que causarán el caos mientras nosotres nos relajamos intentando poner un poco de orden La entrada Análisis de Fofumia se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
-</item>
-<item>
-<title>Abel Gomez De Lament Nos Adelanta Su Próximo Álbum | “Queremos Regresar A Nuestras Raíces Del Primer Álbum”</title>
-<link>https://www.delotroladometal.com.ar/2026/09/10/queremos-regresar-a-nuestras-raices-del-primer-album/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/09/10/queremos-regresar-a-nuestras-raices-del-primer-album/</guid>
-<pubDate>Thu, 10 Sep 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Hablar de Lament es hablar de historia, de un largo recorrido en la escena. Una... The post Abel Gomez De Lament Nos Adelanta Su Próximo Álbum | “Queremos Regresar A Nuestras Raíces Del Primer Álbum” first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Arranca la temporada otoño-invierno</title>
-<link>https://galeriaspreciados.band/arranca-la-temporada-otono-invierno/</link>
-<guid isPermaLink="true">https://galeriaspreciados.band/arranca-la-temporada-otono-invierno/</guid>
-<pubDate>Thu, 10 Sep 2026 08:57:00 GMT</pubDate>
-<category>Galerías Preciados</category>
-<description><![CDATA[Desde Galerías Preciados queremos informar a todos nuestros exclusivos clientes que iniciamos la temporada otoño-invierno, con predominio del color naranja y un montón de emocionantes cosas que están por suceder<br><br><strong>Fuente:</strong> Galerías Preciados]]></description>
+<title>Cambiar metadata de PDF en Linux</title>
+<link>https://chancli.dev/blog/cambiar-metadata-pdf-linux.html</link>
+<guid isPermaLink="true">https://chancli.dev/blog/cambiar-metadata-pdf-linux.html</guid>
+<pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+<category>Chancli.dev</category>
+<description><![CDATA[Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF. Normalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock<br><br><strong>Fuente:</strong> Chancli.dev]]></description>
 </item>
 
 </channel>
