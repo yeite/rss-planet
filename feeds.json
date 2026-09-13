@@ -32,7 +32,7 @@
     "titulo": "Como liberar memoria RAM en Linux",
     "link": "https://tecnoysoft.com/2026/09/12/como-liberar-memoria-ram-en-linux/",
     "fecha": "12/09/2026 07:51",
-    "contenido": "En general, no es necesario liberar la memoria RAM manualmente, ya que el sistema operativo gestiona automáticamente su uso. Sin embargo, hay algunas situaciones donde liberar la RAM puede ser útil: Cuando el sistema se vuelve lento o se congela Cuando cierras programas pero la RAM sigue ocupada Des"
+    "contenido": "En general, no es necesario liberar la memoria RAM manualmente en Linux. El kernel gestiona automáticamente la memoria y utiliza parte de ella como caché para mejorar el rendimiento. Por eso, ver una cantidad elevada de RAM ocupada no significa necesariamente que la memoria se esté desperdiciando. L"
   },
   {
     "blog": "Tecno y Soft - Tecno y Soft",
@@ -198,7 +198,7 @@
   {
     "blog": "Diego's Island",
     "titulo": "Mejorando en Programación.",
-    "link": "https://diegoaep.codeberg.page/mejorando-en-programacion/",
+    "link": "https://diegoaep.codeberg.page/blog/mejorando-en-programacion/",
     "fecha": "10/09/2026 04:00",
     "contenido": "Hoy quiero hablar del camino que estoy siguiendo para mejorar mis habilidades en programación. Con suerte algo de lo que tengo que decir te puede ayudar."
   },
@@ -364,13 +364,6 @@
     "contenido": "    \nHace un par de a&ntilde;os les habl&eacute; de FreeTube, una excelente aplicaci&oacute;n que te permite ver videos de YouTube sin la violencia sistem&aacute;tica de la plataforma. Sin publicidad, sin insistencia para que pagues premium, sin violaci&oacute;n de privacidad permanente.\nTambi&eacut"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Videojuegos: novedades y noticias de verano, Gamescom y State of Play",
-    "link": "https://mareosdeungeek.es/videojuegos-novedades-y-noticias-de-verano-gamescom-y-state-of-play/",
-    "fecha": "08/09/2026 11:30",
-    "contenido": "El verano siempre ha sido uno de los grandes momentos para el mercado de los videojuegos. Las vacaciones escolares, cuando estaban enfocados a un público más infantil y juvenil, además de los anuncios para el final de año, marcaban la actividad. Personalmente, coincidía con mi cumpleaños, así que er"
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Análisis de DEVIL’S LIMINAL",
     "link": "https://cozykis.kisworld.es/analisis-de-devils-liminal/",
@@ -399,13 +392,6 @@
     "contenido": "Suecia va camino de otra elección con una participación por encima del 80%, casi veinte puntos más que España. El sistema está diseñado para que votar sea fácil: casi tres semanas de voto anticipado, sin papeleta física, en cualquier punto del país."
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Autistici/Inventati cierra, ¡pero la lucha continúa!",
-    "link": "https://gatooscuro.xyz/autistici-inventati-cierra-pero-la-lucha-continua/",
-    "fecha": "08/09/2026 08:52",
-    "contenido": "Recientemente ha ocurrido una desgracia que tiene a todos los hacktivistas decepcionados y muy preocupados; un acto que parece cambiar las reglas del juego para mal. Y es que veníamos\nSeguir leyendo  Autistici/Inventati cierra, ¡pero la lucha continúa!\nEl cargo Autistici/Inventati cierra, ¡pero la l"
-  },
-  {
     "blog": "matizeta",
     "titulo": "Es mentira: tu blog no tiene que tener una temática definida",
     "link": "https://matizeta.com/2026/09/08/es-mentira-tu-blog-no-tiene-que-tener-una-tematica-definida/",
@@ -415,7 +401,7 @@
   {
     "blog": "Diego's Island",
     "titulo": "Aprende en Público.",
-    "link": "https://diegoaep.codeberg.page/aprende-en-publico/",
+    "link": "https://diegoaep.codeberg.page/blog/aprende-en-publico/",
     "fecha": "08/09/2026 04:00",
     "contenido": "Motivos para y formas de aprender en público."
   },
@@ -553,13 +539,6 @@
     "contenido": "Mis queridos amigos de Anthropic publicaron un artículo (Bueno, un technical report o un preprint. Una de las cosas a los que nos tenemos que acostumbrar los que estamos en el mundillo de la IA es a que todo lo que producen estas empresas es extra-académico, es decir, no pasa por ninguna revisión po"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Lo peor de la traición es que nunca viene de un desconocido",
-    "link": "https://gatooscuro.xyz/lo-peor-de-la-traicion-es-que-nunca-viene-de-un-desconocido/",
-    "fecha": "06/09/2026 14:00",
-    "contenido": "Me tomó varios días decidir si publicaba o no este artículo y, pues, como pueden observar, la decisión está tomada. Tenía más pensamientos en contra que a favor. En la\nSeguir leyendo  Lo peor de la traición es que nunca viene de un desconocido\nEl cargo Lo peor de la traición es que nunca viene de un"
-  },
-  {
     "blog": "quiroptero.blog",
     "titulo": "La cámara no hace la foto",
     "link": "https://www.quiroptero.blog/2026/09/camara/",
@@ -602,13 +581,6 @@
     "contenido": "Antes de comenzar, conviene realizar una aclaración: el presente contenido no se encuentra sujeto a ningún tipo de licencia, por lo que puede ser utilizado libremente por cualquier persona, sin necesidad de autorización previa. No considero necesario justificar ni defender la decisión que aquí se ex"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Un largo verano",
-    "link": "https://mareosdeungeek.es/un-largo-verano-2/",
-    "fecha": "06/09/2026 07:00",
-    "contenido": "Tengo que reconocer que el verano de 2026 está siendo demasiado largo. Necesito volver a una rutina que es rutina, básicamente, necesito que mis hijos empiecen el colegio. No hay nada peor que trabajar en verano, con los niños y con mucho calor. De nada me ha servido estar fuera de casa, bueno, tal "
-  },
-  {
     "blog": "JavierSam",
     "titulo": "¡Se vienen los Suzanne Awards 2026!",
     "link": "https://javiersam.uy/2026/09/se-vienen-los-suzanne-awards-2026.html",
@@ -625,7 +597,7 @@
   {
     "blog": "Diego's Island",
     "titulo": "Mes de Supervivencia.",
-    "link": "https://diegoaep.codeberg.page/mes-de-supervivencia/",
+    "link": "https://diegoaep.codeberg.page/blog/mes-de-supervivencia/",
     "fecha": "06/09/2026 02:08",
     "contenido": "Por fin podré ir a la universidad, pero...      Un post un poco deprimente para mi gusto XD"
   },
@@ -756,13 +728,6 @@
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
   },
   {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacín",
-    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
-    "fecha": "03/09/2026 17:28",
-    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Eufemismos",
     "link": "https://jinversor.co/2026/09/eufemismos/",
@@ -835,7 +800,7 @@
   {
     "blog": "Diego's Island",
     "titulo": "Creando algo funcional.",
-    "link": "https://diegoaep.codeberg.page/creando-algo-funcional/",
+    "link": "https://diegoaep.codeberg.page/blog/creando-algo-funcional/",
     "fecha": "02/09/2026 19:35",
     "contenido": "Sobre un proyecto sencillo pero funcional que estoy creando."
   },
@@ -1148,13 +1113,6 @@
     "contenido": "Se trata de una \"pequeña\" app que vive en la barra superior del sistema y que integra un montón de pequeñas utilidades de las que te hacen la vida más fácil. Y es software libre.Ir al enlace"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Se hizo historia en el Carlos Vieco por una buen causa",
-    "link": "https://gatooscuro.xyz/se-hizo-historia-en-el-carlos-vieco-por-una-buen-causa/",
-    "fecha": "30/08/2026 15:28",
-    "contenido": "NOTA: Este artículo tenía que haber salido un día después del evento, pero como me ocurre de todo entonces salió tarde, varios días tarde. Hoy les vengo a escribir sobre\nSeguir leyendo  Se hizo historia en el Carlos Vieco por una buen causa\nEl cargo Se hizo historia en el Carlos Vieco por una buen c"
-  },
-  {
     "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "La oportunidad perdida de GNU/Linux en el escritorio",
     "link": "https://tecnoysoft.com/2026/08/30/la-oportunidad-perdida-de-gnu-linux-en-el-escritorio/",
@@ -1363,13 +1321,6 @@
     "link": "https://blog.danielaragay.net/el-rode-ai-micro-no-aguanta-mis-microfonos-binaurales-y-por-que-cambio-de-estrategia-en-youtube/",
     "fecha": "27/08/2026 11:21",
     "contenido": "Nuevo episodio del podcast: El Rode AI-Micro no aguanta mis micr&#xf3;fonos binaurales (y por qu&#xe9; cambio de estrategia en YouTube)Esc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@nordicsmedia/episodes/el-rode-ai-micro-no-aguanta-mis-microfonos-binaurales-y-por-que-cambio-de-estrategi"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "La clase de griego",
-    "link": "https://mareosdeungeek.es/la-clase-de-griego/",
-    "fecha": "27/08/2026 10:00",
-    "contenido": "La clase de griego es el primer libro que leo de la autora surcoreana Han Kang, quién acabaría recibiendo el Premio Nobel de Literatura en el año 2024. Esta obra se publicó en 2011 y aunque es posterior a su éxito La vegetariana mantiene el nivel de una prosa profunda, muy detallista y dramática par"
   },
   {
     "blog": "Picando Código",
@@ -1680,13 +1631,6 @@
     "contenido": "Escribir Hispania Obscura me tomó dos años, pero las ideas que terminaron dentro me tomaron más de diez. Hay cosas en ese libro que aparecieron mucho antes de que supiera que estaba escribiendo un libro: notas sobre mitología peninsular, lugares de Madrid que parecían esconder otra ciudad debajo, pe"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Alarcón",
-    "link": "https://mareosdeungeek.es/alarcon/",
-    "fecha": "23/08/2026 08:00",
-    "contenido": "Como todos los veranos he estado visitando La Manchuela que no deja de ser la zona de mis raíces. Este año he aprovechado para visitar La Mancha de Cuenca y de camino, aprovechado para parar en Alarcón. Alarcón se encuentra en La Manchuela, la comarca que hay entre Cuenca y Albacete. Este pueblo, ba"
-  },
-  {
     "blog": "56K",
     "titulo": "Juegos que me he pasado",
     "link": "https://56k.es/fanta/juegos-que-me-he-pasado/",
@@ -1706,13 +1650,6 @@
     "link": "https://tecnoysoft.com/2026/08/22/como-evitar-las-desconexiones-esporadicas-de-la-wifi-en-linux/",
     "fecha": "22/08/2026 15:21",
     "contenido": "Llevo mucho tiempo con este problema. La solución es sencilla; lo difícil ha sido identificar la causa. En algunos portátiles con Linux, especialmente cuando la señal Wi-Fi es débil, el ahorro de energía del adaptador inalámbrico puede afectar a la estabilidad de la conexión. En mi caso, la solución"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Escribiendo un poco sobre lo que se mueve actualmente en la red",
-    "link": "https://gatooscuro.xyz/escribiendo-un-poco-sobre-lo-que-se-mueve-actualmente-en-la-red/",
-    "fecha": "22/08/2026 08:14",
-    "contenido": "Hoy es de esas madrugadas en que quiero hundirme en mis letras, más allá de mis pensamientos e introspección, que normalmente logro durante esas largas jornadas laborales. En donde no\nSeguir leyendo  Escribiendo un poco sobre lo que se mueve actualmente en la red\nEl cargo Escribiendo un poco sobre l"
   },
   {
     "blog": "Un blog",
@@ -2044,13 +1981,6 @@
     "contenido": "&nbsp;Es una corriente que va donde va,cazando la lluvia cautivadentro de la misma tormenta,silenciosa, impopular, integrada.Contra todo, pero dentro de todo,apuñalando, ciegamente,las victorias y las derrotas,&nbsp;dando vueltas y vueltas a vacío.Regalando la sensación&nbsp;de expresión autónoma pr"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Palantir en Colombia – ¡Hola, amigo!",
-    "link": "https://gatooscuro.xyz/palantir-en-colombia-hola-amigo/",
-    "fecha": "15/08/2026 08:40",
-    "contenido": "“Hola, amigo. Hola, ¿amigo? Es aburrido.&#160; Tal vez deba darte un nombre, pero es una pendiente resbaladiza.&#160; Solo estás en mi cabeza.&#160; Tenemos que recordar eso.&#160; Mierda. En verdad sucedió,\nSeguir leyendo  Palantir en Colombia – ¡Hola, amigo!\nEl cargo Palantir en Colombia – ¡Hola, "
-  },
-  {
     "blog": "Spanish on Jorge Sanz",
     "titulo": "La pequeña flor",
     "link": "https://jorgesanz.net/cuentos/la-pequena-flor/",
@@ -2098,33 +2028,5 @@
     "link": "https://pedrolr.es/blog/hace-20-anos-me-fracture-la-tibia-y-el-perone-en-un-accidente-de-trabajo/",
     "fecha": "14/08/2026 05:42",
     "contenido": "Tenía casi 20 años y estaba en el verano de 2º de carrera de filosofía en Madrid. Ese verano había estado en Valencia durante el mes de julio trabajando en una empresa de materiales de electricidad. Era un trabajo muy físico, de 12 horas al día y preparando pedidos. Recuerdo especialmente cuando ten"
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Introspección de mierda",
-    "link": "https://blep.org/introspeccion-de-mierda",
-    "fecha": "14/08/2026 00:00",
-    "contenido": "Alerta de contenido: depresión, comidas de tarro, nihilismo, estupidez suprema\nNota extra: esto es una reflexión personal tanto en origen como en temática. Me sirve para ordenar mis pensamientos, intentar darle un marco coherente a mis sentimientos y tal. Lo hago público por exibicionismo y porque e"
-  },
-  {
-    "blog": "NevatBlog",
-    "titulo": "Probando LineageOS 23.2",
-    "link": "https://nevat.neocities.org/lineageos_14082026.html",
-    "fecha": "14/08/2026 00:00",
-    "contenido": "Hasta ahora he utilizado e/OS en mi móvil (un Motorola 34 5G \"fogos\") sin muchos problemas. Es una ROM derivada de LineageOS con MicroG y otras modificaciones (sincronización con Murena.io, un lanzador propio, algunas apps personalizadas, etc.). Entonces penśe: ¿y si simplifico más el móvil quitando"
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "X-CPC emulator, vuelve el pionero en la emulación de Amstrad CPC para GNU/Linux",
-    "link": "https://malagaoriginal.blogspot.com/2026/08/xcpc-el-pionero-en-la-emulacion-de.html",
-    "fecha": "13/08/2026 22:13",
-    "contenido": "Cuando empecé mis primeros pasos con el pingüino, todavía había muchos programas que no estaban disponibles o aún eran pruebas de concepto, así pasó con una de las primeras cosas que busqué: un emulador de Amstrad CPC.Todavía quedaban años o incluso décadas para los grandes emuladores que tenemos ho"
-  },
-  {
-    "blog": "Daniel Omar Cignacco",
-    "titulo": "La materia de las sombras, el nuevo poemario de Daniel Omar Cignacco",
-    "link": "https://danielomarcignacco.blogspot.com/2026/08/la-materia-de-las-sombras-el-nuevo.html",
-    "fecha": "13/08/2026 14:59",
-    "contenido": ""
   }
 ]
