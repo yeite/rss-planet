@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 14 Sep 2026 02:15:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 11:11:36 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,44 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Pensando en regresar</title>
+<link>https://thejnx.bearblog.dev/pensando-en-regresar/</link>
+<guid isPermaLink="true">https://thejnx.bearblog.dev/pensando-en-regresar/</guid>
+<pubDate>Sun, 13 Sep 2026 22:59:00 GMT</pubDate>
+<category>Un Diario</category>
+<description><![CDATA[Edit: en bonito.cafe otra vez... https://bonito.cafe/@TheJnx_x Me estoy tomando en serio en lo de revivir el blog, ya dos notas seguidas &quot;y esta rosa?&quot; Okno Se que estaba medio presumiendo lo lindo que era estar en Anilist, pero parece que mi modo de expresarme no concuerda mucho con el tema princip<br><br><strong>Fuente:</strong> Un Diario]]></description>
+</item>
+<item>
+<title>Leyendas de los pueblos iroqueses</title>
+<link>http://frikoteca.blogspot.com/2026/09/leyendas-de-los-pueblos-iroqueses.html</link>
+<guid isPermaLink="true">http://frikoteca.blogspot.com/2026/09/leyendas-de-los-pueblos-iroqueses.html</guid>
+<pubDate>Sun, 13 Sep 2026 19:15:00 GMT</pubDate>
+<category>La Frikoteca</category>
+<description><![CDATA[Yo no sé vosotros, pero yo no hay mes que no me pase por el punto limpio de mi ciudad a dejar cosas para reciclar. Uno diría que después de diez años viviendo en la misma casa, ya habríamos tirado todo lo tirable que no se va en los típicos restos de comida, envases y cartones del día a día. Esto di<br><br><strong>Fuente:</strong> La Frikoteca]]></description>
+</item>
+<item>
+<title>Algunas fotos de agosto</title>
+<link>https://www.ericafustero.com/2026-09-algunas-fotos-de-agosto</link>
+<guid isPermaLink="true">https://www.ericafustero.com/2026-09-algunas-fotos-de-agosto</guid>
+<pubDate>Sun, 13 Sep 2026 18:26:00 GMT</pubDate>
+<category>Erica Fustero</category>
+<description><![CDATA[Como dije en mi último boletín, no hay nada como no pasar calor para no odiar el verano. Volvimos a Mataró el 28 de agosto y desde entonces voy arrastrándome por la vida, con cero energía para hacer nada. El post de fotos de septiembre va a ser más bien corto, porque estamos a día [&amp;#8230;]<br><br><strong>Fuente:</strong> Erica Fustero]]></description>
+</item>
+<item>
 <title>Parecer que sabes</title>
 <link>https://blog.impermanente.es/2026/09/13/parecer-que-sabes.html</link>
 <guid isPermaLink="true">https://blog.impermanente.es/2026/09/13/parecer-que-sabes.html</guid>
 <pubDate>Sun, 13 Sep 2026 12:35:00 GMT</pubDate>
 <category>impermanente</category>
 <description><![CDATA[Ayer un grupo de jóvenes me explicaron lo que es un LARP. Yo conocía el término como live action role-playing, un juego de rol en vivo, de esos donde uno se viste de un personaje y actúa como si lo fuera. Pero por lo visto ahora se usa “larpear” para hablar de gente que se hace pasar por algo que no<br><br><strong>Fuente:</strong> impermanente]]></description>
+</item>
+<item>
+<title>República Bananera de España: un verano larguísimo</title>
+<link>https://mareosdeungeek.es/republica-bananera-de-espana-un-verano-larguisimo/</link>
+<guid isPermaLink="true">https://mareosdeungeek.es/republica-bananera-de-espana-un-verano-larguisimo/</guid>
+<pubDate>Sun, 13 Sep 2026 12:30:00 GMT</pubDate>
+<category>Mareos de un geek</category>
+<description><![CDATA[El verano se acaba y ha sido largo para todos. No sé si habrá sido el calor o ver como, a pesar de los excelentes indicadores económicos, la situación para el ciudadano normal español, es cada vez peor. Por supuesto, aquellos exentos de sentido común o la más mínima capacidad crítica, me dirán que s<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
 </item>
 <item>
 <title>&quot;Grand Mosaic Tour 2027&quot; Recorrerá Europa Junto A Sunburst Y Signum Regis | Theocracy Anuncia Gira</title>
@@ -184,38 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Fri, 11 Sep 2026 08:11:00 GMT</pubDate>
 <category>matizeta</category>
 <description><![CDATA[Algunas publicaciones que leí y merecen la pena compartir.Entradas relacionadas:Lecturas recomendadas #9Los blogs en español y su escasa existenciaLecturas recomendadas #2Lecturas recomendadas #5Videos interesantes #1<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>Controla gasto de luz con Home Assistant</title>
-<link>https://voidnull.es/controla-gasto-de-luz-con-home-assistant/</link>
-<guid isPermaLink="true">https://voidnull.es/controla-gasto-de-luz-con-home-assistant/</guid>
-<pubDate>Fri, 11 Sep 2026 07:10:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[Consulta el precio horario de la luz con PVPC en Home Assistant y crea avisos o automatizaciones para ajustar tu consumo.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>¿Y tú qué hacías con tu tiempo libre antes de que existiera internet?</title>
-<link>https://pedrolr.es/blog/y-tu-que-hacias-con-tu-tiempo-libre-antes-de-que-existiera-internet/</link>
-<guid isPermaLink="true">https://pedrolr.es/blog/y-tu-que-hacias-con-tu-tiempo-libre-antes-de-que-existiera-internet/</guid>
-<pubDate>Fri, 11 Sep 2026 05:37:00 GMT</pubDate>
-<category>pedrolr blog</category>
-<description><![CDATA[Vi la pregunta del título por Mastodon y me hizo pensar. Al final he escrito este post. No recuerdo qué hice la primera vez que estuve conectado a internet ni cuándo fue exactamente. Quizá fue en el colegio, en casa... Sí recuerdo aquello de que al inicio de todo cuando te conectabas a internet se [<br><br><strong>Fuente:</strong> pedrolr blog]]></description>
-</item>
-<item>
-<title>Tente Expo 2026... En Fuengirola (Málaga)</title>
-<link>https://malagaoriginal.blogspot.com/2026/09/tente-expo-2026-en-fuengirola.html</link>
-<guid isPermaLink="true">https://malagaoriginal.blogspot.com/2026/09/tente-expo-2026-en-fuengirola.html</guid>
-<pubDate>Fri, 11 Sep 2026 05:05:00 GMT</pubDate>
-<category>Malagueños originales y libres</category>
-<description><![CDATA[Este año se celebrará la&amp;nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga)Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&amp;nbsp;Hac<br><br><strong>Fuente:</strong> Malagueños originales y libres]]></description>
-</item>
-<item>
-<title>Cambiar metadata de PDF en Linux</title>
-<link>https://chancli.dev/blog/cambiar-metadata-pdf-linux.html</link>
-<guid isPermaLink="true">https://chancli.dev/blog/cambiar-metadata-pdf-linux.html</guid>
-<pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-<category>Chancli.dev</category>
-<description><![CDATA[Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF. Normalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock<br><br><strong>Fuente:</strong> Chancli.dev]]></description>
 </item>
 
 </channel>
