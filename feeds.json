@@ -1,10 +1,59 @@
 [
   {
+    "blog": "La bitácora de Locutus",
+    "titulo": "XLI",
+    "link": "http://locutusbit.blogspot.com/2026/09/xli.html",
+    "fecha": "15/09/2026 12:00",
+    "contenido": "&nbsp;Gira sus bordes,oprime, insaciable.No es bastante.Pascual Herrera"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Las AI que nos matarán a todos",
+    "link": "https://www.fabio.com.ar/10031-las-ai-que-nos-mataran-a-todos",
+    "fecha": "15/09/2026 12:00",
+    "contenido": "    \nLa semana pasada el \"cuco\" era lanzado a los medios cual acci&oacute;n de psi-ops cl&aacute;sica, un tal Jacob Coxon, supuesto empleado de Anthropic y ex OpenAI, renunciaba a su puesto de apenas cuatro meses porque la empresa no hac&iacute;a nada para impedir que Claude nos matara a todos.\nEl m"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Nothing Strange Here",
+    "link": "https://cozykis.kisworld.es/analisis-de-nothing-strange-here/",
+    "fecha": "15/09/2026 10:54",
+    "contenido": "Cámara en mano nos tocará explorar y capturar todo los sucesos extraños que veamos en este pueblo tan acogedor\nLa entrada Análisis de Nothing Strange Here se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Entrevista Con Fabián De La Torre Del Fanzine Metalica | “El Heavy Metal Está En Contra Del Sistema, No A Favor”",
+    "link": "https://www.delotroladometal.com.ar/2026/09/15/el-heavy-metal-esta-en-contra-del-sistema-no-a-favor/",
+    "fecha": "15/09/2026 10:35",
+    "contenido": "Descubrí el fanzine Metalica a principios de siglo, creo que por el año 2000 o...\nThe post Entrevista Con Fabián De La Torre Del Fanzine Metalica | “El Heavy Metal Está En Contra Del Sistema, No A Favor” first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Guillermo Latorre | Feed RSS",
+    "titulo": "Iconic: personaliza iconos y colores de Obsidian",
+    "link": "https://guillermolatorre.com/clips/iconic-personaliza-iconos-y-colores-de-obsidian",
+    "fecha": "15/09/2026 09:20",
+    "contenido": "Un plugin que funciona de maravilla para añadir iconos personalizados a Obsidian: carpetas, notas,Ir al enlace"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Que la alternativa no sea peor que lo que reemplaza",
+    "link": "https://gatooscuro.xyz/que-la-alternativa-no-sea-peor-que-lo-que-reemplaza/",
+    "fecha": "15/09/2026 06:51",
+    "contenido": "Quien lleve tiempo leyéndome conoce que paso más tiempo en Internet que socializando con cualquier persona físicamente, y no, no es nada de orgullo; de hecho, hay carencias sociales, pero\nSeguir leyendo  Que la alternativa no sea peor que lo que reemplaza\nEl cargo Que la alternativa no sea peor que "
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "584. Cosas que explicar",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/584-cosas-que-explicar.html",
     "fecha": "15/09/2026 00:29",
     "contenido": "&nbsp; &nbsp; Demenciano se despertó resacoso, que era lo acostumbrado, pero sin las manos ensangrentadas. Eso no significaba que ayer no se hubiera entrometido algún ciudadano ejemplar en sus asuntos, o que no hubiera tenido que aleccionar a alguna mujer que lo hubiera seducido para luego no llegar"
+  },
+  {
+    "blog": "End3r.es",
+    "titulo": "Cierre de Autistici/Inventati, un paso más hacia el totalitarismo digital.",
+    "link": "https://www.end3r.es/posts/024-cierre-autistici-y-totalitarismo-online/",
+    "fecha": "15/09/2026 00:00",
+    "contenido": "El pasado 26 de agosto, los Departamentos de Estado y del Tesoro de EEUU anunciaban en sus webs la decisión de clasificar al colectivo\nAutistici/Inventati (A/I) como “organización terrorista global” o SDGT\n\u0013(Specially Designated Global Terrorist).\nComo consecuencia, once días después, el  6 de septi"
   },
   {
     "blog": "danielaragay.net",
@@ -308,6 +357,13 @@
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga)Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Hac"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Cambiar metadata de PDF en Linux",
+    "link": "https://chancli.dev/blog/cambiar-metadata-pdf-linux.html",
+    "fecha": "11/09/2026 00:00",
+    "contenido": "Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF.\nNormalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock"
+  },
+  {
     "blog": "Jinversor",
     "titulo": "10 canciones perfectas (para mis exequias)",
     "link": "https://jinversor.co/2026/09/10-canciones-perfectas-para-mis-exequias/",
@@ -497,6 +553,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
+    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
+    "fecha": "09/09/2026 00:00",
+    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
+  },
+  {
     "blog": "NevatBlog",
     "titulo": "OS/2 Warp 3: cuando IBM quiso destronar a Windows",
     "link": "https://nevat.neocities.org/warp3_09092026.html",
@@ -677,6 +740,13 @@
     "link": "https://elblogdelazaro.org/trilium-automatizaciones/",
     "fecha": "07/09/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
+    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
+    "fecha": "07/09/2026 00:00",
+    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -896,13 +966,6 @@
     "contenido": ""
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Novedades Sobre La Banda De Metal Industrial | Poltinmerkki Resiste Y Prepara Nuevo Material",
-    "link": "https://www.delotroladometal.com.ar/2026/09/04/poltinmerkki-resiste-y-prepara-nuevo-material/",
-    "fecha": "04/09/2026 10:45",
-    "contenido": "Poltinmerkki nos sorprendió con su particular veta de Metal Industrial con su álbum de 2023...\nThe post Novedades Sobre La Banda De Metal Industrial | Poltinmerkki Resiste Y Prepara Nuevo Material first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Análisis de Crimson Waves on the Emerald Sea: Amaranthine Moon",
     "link": "https://cozykis.kisworld.es/analisis-de-crimson-waves-on-the-emerald-sea-amaranthine-moon/",
@@ -929,13 +992,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacín",
-    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
-    "fecha": "03/09/2026 17:28",
-    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -1120,13 +1176,6 @@
     "contenido": "&nbsp;La memoria exige,los momentos persisten;esos momentos sin finalidad,donde la tentación invitaa caer en el libre albedrío,en la red de mandíbulasque atrapa los sentidosvulnerables al aire, al agua,a cualquier elementoatrapado en paquetes&nbsp;de instruccionesenvueltos en una cápsulaque encierra"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "El para-avalanchas de Flateyri",
-    "link": "https://www.fabio.com.ar/10011-el-para-avalanchas-de-flateyri",
-    "fecha": "01/09/2026 12:00",
-    "contenido": "    \nA las 4 de la ma&ntilde;ana del 26 de Octubre de 1995 una avalancha asol&oacute; el peque&ntilde;o pueblito island&eacute;s de Flateryi, 20 muertos y 25 heridos, 17 casas destruidas, nueve meses antes otras 14 personas hab&iacute;an muerto en un evento similar en S&uacute;&eth;av&iacute;k.\nEl g"
-  },
-  {
     "blog": "56K",
     "titulo": "Videos a 1 Frame Por Minuto: La nueva moda",
     "link": "https://56k.es/fanta/video-podcasts-a-1-frame-por-minuto-la-nueva-moda/",
@@ -1218,13 +1267,6 @@
     "contenido": "Lo dije hace dos semanas. Ya no estoy en verano. Pronto termina la jornada intensiva y entro en septiembre, que es un mes que tradicionalmente en mi caso tiene muchos compromisos con muchas cosas a la vez. La vida me ha atropellado en muchos sentidos pero por suerte ninguno de ellos es triste. Solo "
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Lou’s Lagoon",
-    "link": "https://cozykis.kisworld.es/analisis-de-lous-lagoon/",
-    "fecha": "31/08/2026 10:22",
-    "contenido": "Una aventura que nos permitirá descubrir distintas islas mientras resolvemos la desaparición de nuestro tío\nLa entrada Análisis de Lou&#8217;s Lagoon se publicó primero en CozyKis."
-  },
-  {
     "blog": "Galerías Preciados",
     "titulo": "Hola Madrid!! Nos vemos en el No Sandrapalooza",
     "link": "https://galeriaspreciados.band/hola-madrid-nos-vemos-en-el-no-sandrapalooza/",
@@ -1244,6 +1286,13 @@
     "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
     "fecha": "31/08/2026 03:00",
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Me he comprado el Pocketbook Inkpad One!",
+    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
   },
   {
     "blog": "Jorge Aguilera",
@@ -2093,52 +2142,10 @@
     "contenido": ""
   },
   {
-    "blog": "JDRM",
-    "titulo": "Eclipse Total, otro microrrelato",
-    "link": "https://jdrm.info/eclipse-total-otro-microrrelato.html",
-    "fecha": "16/08/2026 14:00",
-    "contenido": "Otro microrrelato sobre el eclipse solar"
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Eclipse Total, un microrrelato",
-    "link": "https://jdrm.info/eclipse-total-un-microrrelato.html",
-    "fecha": "16/08/2026 14:00",
-    "contenido": "Un microrrelato"
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Eclipse Total, otro microrrelato",
-    "link": "https://jdrm.info/eclipse-total-otro-microrrelato.html",
-    "fecha": "16/08/2026 14:00",
-    "contenido": "Otro microrrelato sobre el eclipse solar"
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Eclipse Total, un microrrelato",
-    "link": "https://jdrm.info/eclipse-total-un-microrrelato.html",
-    "fecha": "16/08/2026 14:00",
-    "contenido": "Un microrrelato"
-  },
-  {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "La sobredeterminación de Jaegwon Kim",
-    "link": "https://vonneumannmachine.wordpress.com/2026/08/16/la-sobredeterminacion-de-jaegwon-kim/",
-    "fecha": "16/08/2026 08:42",
-    "contenido": "El surcoreano, nacionalizado estadounidense, Jaegwon Kim (1934-2019), ha sido uno de los filósofos de la mente más importantes de finales del siglo pasado y principios de éste. De entre sus aportaciones hay una que se ha hecho especialmente célebre: su aplicación de la tesis de la sobredeterminación"
-  },
-  {
-    "blog": "Spam de autor",
-    "titulo": "Hip hop es Historia, por Questlove",
-    "link": "http://blog.spamdeautor.com/2026/08/16/hip-hop-es-historia-questlove/?utm_source=rss&utm_medium=rss&utm_campaign=hip-hop-es-historia-questlove",
-    "fecha": "16/08/2026 07:57",
-    "contenido": "En el año 2023&#160;Questlove&#160;(Ahmir Khalib Thompson, batería y dj en la banda The Roots) recibió el encargo de escribir un libro conmemorativo por el 50 aniversario del nacimiento del Hip Hop. Como cuenta el propio Quest, no quiso que este &#8230; Sigue leyendo &#8594;\nLa entrada Hip hop es Hi"
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Noxious",
-    "link": "https://javiersam.uy/2026/08/noxious.html",
-    "fecha": "16/08/2026 03:00",
-    "contenido": "Kay Hilman es un artista y animador digital, fundador del estudio dot4 (en Países Bajos). En 2024 obtuvo su Licenciatura en Animación en la hku (Universidad de las Artes, Ultrecht, Países Bajos) y este fue su proyecto de graduación: un corto llamado Noxious. Para este trabajo, con una hermosa estéti"
+    "blog": "Chancli.dev",
+    "titulo": "La psicologa sin empatía",
+    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
+    "fecha": "17/08/2026 00:00",
+    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
   }
 ]
