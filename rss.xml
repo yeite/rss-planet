@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 16 Sep 2026 15:44:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 20:36:03 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,84 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Obsoleto por decreto</title>
+<link>https://56k.es/fanta/obsoleto-por-decreto/</link>
+<guid isPermaLink="true">https://56k.es/fanta/obsoleto-por-decreto/</guid>
+<pubDate>Wed, 16 Sep 2026 15:37:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Las técnicas y la tecnología suelen medirse mal, es decir, para aceptarlas como algo «mejor» se tiende a da mayor peso a argumentos puramente productivistas y esto ocurre porque atribuimos a la tecnología la ilusión de progreso sin pararnos quizás a definirlo. &amp;#160; # 1. Lo viejo funciona, Juan # 2<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>mmv: renombrado masivo de archivos sin scripts</title>
+<link>https://voidnull.es/mmv-renombrado-masivo-de-archivos-sin-scripts/</link>
+<guid isPermaLink="true">https://voidnull.es/mmv-renombrado-masivo-de-archivos-sin-scripts/</guid>
+<pubDate>Wed, 16 Sep 2026 15:30:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Aplica una transformación basada en patrones a varios nombres de una sola vez y permite comprobar el resultado antes de modificar nada.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Filtrando ataques de inyección de SQL, la regla para Cloudflare</title>
+<link>https://www.fabio.com.ar/10032-filtrando-ataques-de-inyeccion-de-sql-la-regla-para-cloudflare</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/10032-filtrando-ataques-de-inyeccion-de-sql-la-regla-para-cloudflare</guid>
+<pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Cada tanto alguien se las ingenia para atacar el blog de alguna forma diferente, yo me divierto investigando qu&amp;eacute; hacen, c&amp;oacute;mo contraatacar y aprender en el proceso. El &amp;uacute;ltimo m&amp;eacute;todo de ataque &quot;molesto&quot; son los intentos de inyecci&amp;oacute;n de SQL en las p&amp;aacute;ginas<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Cinco Películas de… Liam Neeson</title>
+<link>https://bitsdeocio.wordpress.com/2026/09/16/cinco-peliculas-de-liam-neeson/</link>
+<guid isPermaLink="true">https://bitsdeocio.wordpress.com/2026/09/16/cinco-peliculas-de-liam-neeson/</guid>
+<pubDate>Wed, 16 Sep 2026 08:34:00 GMT</pubDate>
+<category>Bits de Ocio</category>
+<description><![CDATA[Llevaba mucho (muchísimo) tiempo con uno de mis proyectos aparcado, pero ya tenía ganas de retomarlo. ¡Vuelve Cinco Películas! El podcast en el que repaso la carrera de una actriz, un actor, un director, un estudio&amp;#8230; y comento mis cinco películas favoritas de este. En esta ocasión le ha tocado<br><br><strong>Fuente:</strong> Bits de Ocio]]></description>
+</item>
+<item>
 <title>OpenAI viola su propia política de privacidad para apropiarse del trabajo de terceros con fines publicitarios</title>
 <link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/16/20260916-buckmaster-navier-stokes/</link>
 <guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/16/20260916-buckmaster-navier-stokes/</guid>
 <pubDate>Wed, 16 Sep 2026 08:00:00 GMT</pubDate>
 <category>ENTRE DRAGONES Y PINGÜINOS</category>
 <description><![CDATA[Un LLM ha resuelto un problema matemático importante, OpenAI ha tomado las conversaciones de los matemáticos con el chatbot y las fusilaron<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+</item>
+<item>
+<title>Bienvenidos al teatro de la innovación</title>
+<link>https://brucknerite.net/2026/09/bienvenidos-al-teatro-de-la-innovacion.html</link>
+<guid isPermaLink="true">https://brucknerite.net/2026/09/bienvenidos-al-teatro-de-la-innovacion.html</guid>
+<pubDate>Wed, 16 Sep 2026 08:00:00 GMT</pubDate>
+<category>brucknerite</category>
+<description><![CDATA[La innovación, algo a cuya práctica me he dedicado personalmente muchos años, tiene «sus cosas». Podría contarlo en página tras página de seria prosa apta para LinkedIn, pero, ¿por qué no hacerlo sobre el escenario de un teatro?<br><br><strong>Fuente:</strong> brucknerite]]></description>
+</item>
+<item>
+<title>Instalación de Zabbix Agent 7.0 en RockyLinux 10</title>
+<link>https://voidnull.es/instalacion-de-zabbix-agent-7-0-en-rockylinux-10/</link>
+<guid isPermaLink="true">https://voidnull.es/instalacion-de-zabbix-agent-7-0-en-rockylinux-10/</guid>
+<pubDate>Wed, 16 Sep 2026 07:10:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Se utiliza para monitorear redes, servidores, aplicaciones, servicios y recursos en la nube. También permite el monitoreo de dispositivos de almacenamiento, bases de datos, máquinas virtuales, telefonía, recursos de seguridad y mucho más.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Cáscara y soberanía</title>
+<link>https://javiersam.uy/2026/09/cascara-y-soberania.html</link>
+<guid isPermaLink="true">https://javiersam.uy/2026/09/cascara-y-soberania.html</guid>
+<pubDate>Wed, 16 Sep 2026 03:00:00 GMT</pubDate>
+<category>JavierSam</category>
+<description><![CDATA[Vía Mastodon e impulsado por Santiago, di con el artículo Cáscara y soberanía, de Enrique Amestoy, publicado en Brecha y en el blog del autor. Se trata de una reflexión muy interesante sobre el Data Center de Antel que se va a constuir en Canelones.<br><br><strong>Fuente:</strong> JavierSam]]></description>
+</item>
+<item>
+<title>Siii estamos el un Webring</title>
+<link>https://elprofejuan.com.ar/siii-estamos-el-un-webring</link>
+<guid isPermaLink="true">https://elprofejuan.com.ar/siii-estamos-el-un-webring</guid>
+<pubDate>Wed, 16 Sep 2026 02:28:00 GMT</pubDate>
+<category>El Sitio de Manieflo</category>
+<description><![CDATA[Si bien estoy en el listado de blog en castellano que generó el gran Matizeta https://blogblog.es/ el mísmo creo un anillo de blogs que podes pasar como si fuera una calesita de blogs, tenes de forma secuencial o de forma aleatoria que está muy bien explicado por el autor https://blogblog.es/webrin<br><br><strong>Fuente:</strong> El Sitio de Manieflo]]></description>
+</item>
+<item>
+<title>Códigos de una tarde eterna</title>
+<link>https://danielomarcignacco.mataroa.blog/blog/codigos-de-una-tarde-eterna/</link>
+<guid isPermaLink="true">https://danielomarcignacco.mataroa.blog/blog/codigos-de-una-tarde-eterna/</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+<category>La cosa infinita (Daniel Omar Cignacco)</category>
+<description><![CDATA[El trazado tranquilo de Versalles dejó de pertenecer al asfalto cuando las casitas bajas y las veredas arboladas comenzaron a descompilarse en una trama de luz pulsante. No hubo temblor; solo un zumbido de baja frecuencia que reemplazó al rumor del tren Sarmiento. En un abrir y cerrar de ojos, la fi<br><br><strong>Fuente:</strong> La cosa infinita (Daniel Omar Cignacco)]]></description>
 </item>
 <item>
 <title>Déficit de Atención y Desinformación</title>
@@ -144,78 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Mon, 14 Sep 2026 12:44:00 GMT</pubDate>
 <category>fernand0 @ GitHub.io</category>
 <description><![CDATA[Ya hace unos cuantos años que se ofrecían inteligencias artificiales para la ciberseguridad: lo penúltimo era la detección de comportamientos anómalos a partir de la actividad de la red, los registros de actividad, etc. Pero, en los últimos años, las IAs se han ganado por derecho propio la entrada a<br><br><strong>Fuente:</strong> fernand0 @ GitHub.io]]></description>
-</item>
-<item>
-<title>Lo difícil que era conseguir una cita y encontrarse</title>
-<link>https://www.fabio.com.ar/10030-lo-dificil-que-era-conseguir-una-cita-y-encontrarse</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/10030-lo-dificil-que-era-conseguir-una-cita-y-encontrarse</guid>
-<pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[El otro d&amp;iacute;a rememor&amp;aacute;bamos nuestra primera cita convocada por... ICQ, as&amp;iacute; es, invit&amp;eacute; a Gime a salir usando esa extinta plataforma mucho antes de que MSN existiera, &amp;eacute;pocas en las que la conversaci&amp;oacute;n por redes no exist&amp;iacute;a porque las redes sociales no<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Paperman: app para hacer que la pantalla tenga textura de papel</title>
-<link>https://guillermolatorre.com/clips/paperman-app-para-hacer-que-la-pantalla-tenga-textura-de-papel</link>
-<guid isPermaLink="true">https://guillermolatorre.com/clips/paperman-app-para-hacer-que-la-pantalla-tenga-textura-de-papel</guid>
-<pubDate>Mon, 14 Sep 2026 11:25:00 GMT</pubDate>
-<category>Guillermo Latorre | Feed RSS</category>
-<description><![CDATA[Una app para Mac o Windows que altera los colores y la textura de la pantalla para simular algo más analógico, como si estuviera impresa en papel.Ir al enlace<br><br><strong>Fuente:</strong> Guillermo Latorre | Feed RSS]]></description>
-</item>
-<item>
-<title>Estater: Esquizofrenia Diabólica | Una Vuelta A Las Raíces De Lo Extremo</title>
-<link>https://www.delotroladometal.com.ar/2026/09/14/una-vuelta-a-las-raices-de-lo-extremo/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/09/14/una-vuelta-a-las-raices-de-lo-extremo/</guid>
-<pubDate>Mon, 14 Sep 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[(2026 &amp;#8211; Kongsblod Records) Muchas veces se confunde la nostalgia con el &amp;#8220;volver a las... The post Estater: Esquizofrenia Diabólica | Una Vuelta A Las Raíces De Lo Extremo first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Este blog no se va a actualizar más</title>
-<link>https://dani.torresburriel.com/este-blog-no-se-va-a-actualizar-mas/</link>
-<guid isPermaLink="true">https://dani.torresburriel.com/este-blog-no-se-va-a-actualizar-mas/</guid>
-<pubDate>Mon, 14 Sep 2026 08:30:00 GMT</pubDate>
-<category>Blog de Daniel Torres Burriel</category>
-<description><![CDATA[Aviso sin dramatismo: dani.torresburriel.com deja de actualizarse. No es un adiós a esto de escribir sino que es un cambio de sitio. Durante un tiempo he mantenido este espacio en paralelo a otras cosas, y ha llegado un momento en el que tener varios lugares para lo mismo no aporta nada, ni a mí ni<br><br><strong>Fuente:</strong> Blog de Daniel Torres Burriel]]></description>
-</item>
-<item>
-<title>Imprime tu diario personal</title>
-<link>https://matizeta.com/2026/09/14/imprime-tu-diario-personal/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/09/14/imprime-tu-diario-personal/</guid>
-<pubDate>Mon, 14 Sep 2026 08:11:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Tu vida en forma de novela.Entradas relacionadas:Lecturas recomendadas #4¡Blog!¡Blog! cumple su primer añoDescuento por ser del tercer mundoTengo mi libro de visitasColaboraciones entre blogs<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>Instalación de Loops en Debian 13</title>
-<link>https://voidnull.es/instalacion-de-loops-en-debian-13/</link>
-<guid isPermaLink="true">https://voidnull.es/instalacion-de-loops-en-debian-13/</guid>
-<pubDate>Mon, 14 Sep 2026 07:15:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[Loops es una plataforma de vídeos cortos similar a TikTok, pero basada en ActivityPub, lo que la hace parte del Fediverso.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Abrir cuenta en Mastodon en 1 paso – Easy Mode</title>
-<link>https://56k.es/fanta/abrir-cuenta-en-mastodon-en-1-solo-paso/</link>
-<guid isPermaLink="true">https://56k.es/fanta/abrir-cuenta-en-mastodon-en-1-solo-paso/</guid>
-<pubDate>Mon, 14 Sep 2026 07:03:00 GMT</pubDate>
-<category>56K</category>
-<description><![CDATA[Abrir una cuenta en Mastodon es muy sencillo. No voy a tratar de explicar que Mastodon pertenece a lo que se llama «el Fediverso» esta vez y voy a ir directo al grano si lo que buscas es abrir una cuenta en lo que llaman «Mastodon». Paso 1: Elige un Nodo de los que quieras....<br><br><strong>Fuente:</strong> 56K]]></description>
-</item>
-<item>
-<title>Curso 2026/27</title>
-<link>https://mareosdeungeek.es/curso-2026-27/</link>
-<guid isPermaLink="true">https://mareosdeungeek.es/curso-2026-27/</guid>
-<pubDate>Mon, 14 Sep 2026 07:00:00 GMT</pubDate>
-<category>Mareos de un geek</category>
-<description><![CDATA[Después del largo verano, hora de volver a la rutina. No será hoy, será mañana, cuando mi hijo empiece otra nueva etapa en su vida, Secundaria. Y por aquí, lamentablemente, no me puedo poner en huelga, así que Mareos de un geek seguirá siendo la vía de escape, el recopilatorio de mis aficiones y el<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
-</item>
-<item>
-<title>Cámaras de seguridad interior: Uso práctico, normativa y comparativa</title>
-<link>https://alt43.es/comparativa-camaras-de-interior-utilidad-legislacion-y-modelos/</link>
-<guid isPermaLink="true">https://alt43.es/comparativa-camaras-de-interior-utilidad-legislacion-y-modelos/</guid>
-<pubDate>Mon, 14 Sep 2026 07:00:00 GMT</pubDate>
-<category>alt43</category>
-<description><![CDATA[Utilidad, legislación, problemas de privacidad en cámaras de interior. Repaso a los modelos de entrada de Reolink, Tapo y Eufy.<br><br><strong>Fuente:</strong> alt43]]></description>
 </item>
 
 </channel>
