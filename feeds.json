@@ -1,5 +1,26 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "OpenAI viola su propia política de privacidad para apropiarse del trabajo de terceros con fines publicitarios",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/16/20260916-buckmaster-navier-stokes/",
+    "fecha": "16/09/2026 08:00",
+    "contenido": "Un LLM ha resuelto un problema matemático importante, OpenAI ha tomado las conversaciones de los matemáticos con el chatbot y las fusilaron"
+  },
+  {
+    "blog": "Región Cuatro",
+    "titulo": "Déficit de Atención y Desinformación",
+    "link": "https://regioncuatro.blog/deficit-de-atencion-y-desinformacion/",
+    "fecha": "15/09/2026 17:44",
+    "contenido": "Actualmente hay en las redes sociales una cantidad gigantesca de desinformación acerca del trastorno por déficit de atención e hiperactividad, o TDAH. Especialmente de este trastorno, que por alguna razón se puso &quot;de moda&quot;, igual que antes estuvo de moda la romantización del trastorno obse"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Descarga una tira aleatoria de Linux Hispano en la terminal",
+    "link": "https://victorhckinthefreeworld.com/2026/09/15/descarga-una-tira-aleatoria-de-linux-hispano-en-la-terminal/",
+    "fecha": "15/09/2026 16:36",
+    "contenido": "Con este script en Bash puedes descargar y volver a ver en tu equipo cualquiera de las 1144 tiras que su creador Danigm ha publicado desde 2004 hasta 2026 de manera aleatoria"
+  },
+  {
     "blog": "La bitácora de Locutus",
     "titulo": "XLI",
     "link": "http://locutusbit.blogspot.com/2026/09/xli.html",
@@ -54,6 +75,13 @@
     "link": "https://www.end3r.es/posts/024-cierre-autistici-y-totalitarismo-online/",
     "fecha": "15/09/2026 00:00",
     "contenido": "El pasado 26 de agosto, los Departamentos de Estado y del Tesoro de EEUU anunciaban en sus webs la decisión de clasificar al colectivo\nAutistici/Inventati (A/I) como “organización terrorista global” o SDGT\n\u0013(Specially Designated Global Terrorist).\nComo consecuencia, once días después, el  6 de septi"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "Windows sólo es fácil a veces",
+    "link": "https://alex.corcoles.net/2026/09/windows-sólo-es-fácil-a-veces",
+    "fecha": "15/09/2026 00:00",
+    "contenido": "\n  Por motivos curiosos, creo que necesitar&#233; un ordenador con Windows o macOS pronto. Perfecto, tengo aqu&#237; un flamante Lenovo ThinkPad X12 que estuve usando un par de a&#241;os para cosas del trabajo bastante satisfactoriamente, incluido un a&#241;o con Windows.\n  Pero un alma caritativa m"
   },
   {
     "blog": "danielaragay.net",
@@ -347,7 +375,7 @@
     "titulo": "¿Y tú qué hacías con tu tiempo libre antes de que existiera internet?",
     "link": "https://pedrolr.es/blog/y-tu-que-hacias-con-tu-tiempo-libre-antes-de-que-existiera-internet/",
     "fecha": "11/09/2026 05:37",
-    "contenido": "Vi la pregunta del título por Mastodon y me hizo pensar. Al final he escrito este post. No recuerdo qué hice la primera vez que estuve conectado a internet ni cuándo fue exactamente. Quizá fue en el colegio, en casa... Sí recuerdo aquello de que al inicio de todo cuando te conectabas a internet se ["
+    "contenido": "Vi la pregunta del título por Mastodon y me hizo pensar. Al final he escrito este post. No recuerdo qué hice la primera vez que estuve conectado a internet ni cuándo fue exactamente. Quizá fue en el colegio, o en casa... Sí recuerdo aquello de que al inicio de todo, cuando te conectabas a internet, "
   },
   {
     "blog": "Malagueños originales y libres",
@@ -648,7 +676,7 @@
     "titulo": "Es mentira: tu blog no tiene que tener una temática definida",
     "link": "https://matizeta.com/2026/09/08/es-mentira-tu-blog-no-tiene-que-tener-una-tematica-definida/",
     "fecha": "08/09/2026 08:11",
-    "contenido": "Esta es quizás una de las tantas razones de porque ya no escribes.Entradas relacionadas:Tengo mi libro de visitasEstoy de regresoCambiosPequeños cambios en mi blogCuraduría de entradas"
+    "contenido": "Esta es quizás una de las tantas razones de porque ya no escribes.Entradas relacionadas:Nueva versión de ¡Blog!¡Blog!Mis blogs-categoríasCuraduría de entradas¿Qué va a pasar con mi blog?Volver a la presencialidad"
   },
   {
     "blog": "Diego's Island",
@@ -992,6 +1020,13 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacín",
+    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
+    "fecha": "03/09/2026 17:28",
+    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -1440,13 +1475,6 @@
     "link": "https://blog.jagedn.dev/blog/2026/gitops-aws-tf.html",
     "fecha": "29/08/2026 00:00",
     "contenido": "Desplegando servicio en AWS ECS con Terraform y GitHub actions"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 35 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/08/28/opensuse-tumbleweed-revision-de-la-semana-35-de-2026/",
-    "fecha": "28/08/2026 18:07",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
     "blog": "El Blog de un informático que sueña con mejorar el mundo",
@@ -1943,7 +1971,7 @@
     "titulo": "Montañas y refugios: Cueva Valiente y \"Las Esquinillas\"",
     "link": "https://pedrolr.es/blog/montanas-y-refugios-cueva-valiente-y-las-esquinillas/",
     "fecha": "21/08/2026 05:47",
-    "contenido": "Esta semana he tratado de hacer algunas rutas por refugios de montaña. He estado en varios y hablo aquí de dos. Cueva Valiente está a 1.903 metros de altitud, en la sierra de Guadarrama. Desde arriba se ve el Puerto de los Leones y El Espinar y San Rafael. El pico es una cosa y [&#8230;]"
+    "contenido": "Esta semana he tratado de hacer algunas rutas por refugios de montaña. He estado en varios y hablo aquí de dos. Cueva Valiente está a 1.903 metros de altitud, en la sierra de Guadarrama. Desde arriba se ve el Puerto de los Leones y El Espinar y San Rafael. El alto es una cosa y [&#8230;]"
   },
   {
     "blog": "Luis Carlos Pando",
@@ -2140,12 +2168,5 @@
     "link": "https://www.quiroptero.blog/2026/08/anuncios/",
     "fecha": "17/08/2026 06:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "La psicologa sin empatía",
-    "link": "https://chancli.dev/blog/psicologa-sin-empatia.html",
-    "fecha": "17/08/2026 00:00",
-    "contenido": "No es la primera vez que visito un psicólogo/a por problemas de ansiedad. He tenido rachas mejores y peores en mi vida y desde que Chancla está empeorando su salud, decidí volver a pedir cita para obtener algo de ayuda.\nCreo que lo primero que una persona busca cuando acude a un psicólogo es la empa"
   }
 ]
