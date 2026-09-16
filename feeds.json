@@ -1,10 +1,73 @@
 [
   {
+    "blog": "56K",
+    "titulo": "Obsoleto por decreto",
+    "link": "https://56k.es/fanta/obsoleto-por-decreto/",
+    "fecha": "16/09/2026 15:37",
+    "contenido": "Las técnicas y la tecnología suelen medirse mal, es decir, para aceptarlas como algo «mejor» se tiende a da mayor peso a argumentos puramente productivistas y esto ocurre porque atribuimos a la tecnología la ilusión de progreso sin pararnos quizás a definirlo. &#160; # 1. Lo viejo funciona, Juan # 2"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "mmv: renombrado masivo de archivos sin scripts",
+    "link": "https://voidnull.es/mmv-renombrado-masivo-de-archivos-sin-scripts/",
+    "fecha": "16/09/2026 15:30",
+    "contenido": "Aplica una transformación basada en patrones a varios nombres de una sola vez y permite comprobar el resultado antes de modificar nada."
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Filtrando ataques de inyección de SQL, la regla para Cloudflare",
+    "link": "https://www.fabio.com.ar/10032-filtrando-ataques-de-inyeccion-de-sql-la-regla-para-cloudflare",
+    "fecha": "16/09/2026 12:00",
+    "contenido": "    \nCada tanto alguien se las ingenia para atacar el blog de alguna forma diferente, yo me divierto investigando qu&eacute; hacen, c&oacute;mo contraatacar y aprender en el proceso.\nEl &uacute;ltimo m&eacute;todo de ataque \"molesto\" son los intentos de inyecci&oacute;n de SQL en las p&aacute;ginas "
+  },
+  {
+    "blog": "Bits de Ocio",
+    "titulo": "Cinco Películas de… Liam Neeson",
+    "link": "https://bitsdeocio.wordpress.com/2026/09/16/cinco-peliculas-de-liam-neeson/",
+    "fecha": "16/09/2026 08:34",
+    "contenido": "Llevaba mucho (muchísimo) tiempo con uno de mis proyectos aparcado, pero ya tenía ganas de retomarlo. ¡Vuelve Cinco Películas! El podcast en el que repaso la carrera de una actriz, un actor, un director, un estudio&#8230; y comento mis cinco películas favoritas de este. En esta ocasión le ha tocado "
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "OpenAI viola su propia política de privacidad para apropiarse del trabajo de terceros con fines publicitarios",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/16/20260916-buckmaster-navier-stokes/",
     "fecha": "16/09/2026 08:00",
     "contenido": "Un LLM ha resuelto un problema matemático importante, OpenAI ha tomado las conversaciones de los matemáticos con el chatbot y las fusilaron"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Bienvenidos al teatro de la innovación",
+    "link": "https://brucknerite.net/2026/09/bienvenidos-al-teatro-de-la-innovacion.html",
+    "fecha": "16/09/2026 08:00",
+    "contenido": "La innovación, algo a cuya práctica me he dedicado personalmente muchos años, tiene «sus cosas». Podría contarlo en página tras página de seria prosa apta para LinkedIn, pero, ¿por qué no hacerlo sobre el escenario de un teatro?"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Zabbix Agent 7.0 en RockyLinux 10",
+    "link": "https://voidnull.es/instalacion-de-zabbix-agent-7-0-en-rockylinux-10/",
+    "fecha": "16/09/2026 07:10",
+    "contenido": "Se utiliza para monitorear redes, servidores, aplicaciones, servicios y recursos en la nube. También permite el monitoreo de dispositivos de almacenamiento, bases de datos, máquinas virtuales, telefonía, recursos de seguridad y mucho más."
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Cáscara y soberanía",
+    "link": "https://javiersam.uy/2026/09/cascara-y-soberania.html",
+    "fecha": "16/09/2026 03:00",
+    "contenido": "Vía Mastodon e impulsado por Santiago, di con el artículo Cáscara y soberanía, de Enrique Amestoy, publicado en Brecha y en el blog del autor. Se trata de una reflexión muy interesante sobre el Data Center de Antel que se va a constuir en Canelones."
+  },
+  {
+    "blog": "El Sitio de Manieflo",
+    "titulo": "Siii estamos el un Webring",
+    "link": "https://elprofejuan.com.ar/siii-estamos-el-un-webring",
+    "fecha": "16/09/2026 02:28",
+    "contenido": "Si bien estoy en el listado de blog en castellano que generó el gran Matizeta https://blogblog.es/ \nel mísmo creo un anillo de blogs que podes pasar como si fuera una calesita de blogs, tenes de forma secuencial o de forma aleatoria que está muy bien explicado por el autor https://blogblog.es/webrin"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Códigos de una tarde eterna",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/codigos-de-una-tarde-eterna/",
+    "fecha": "16/09/2026 00:00",
+    "contenido": "El trazado tranquilo de Versalles dejó de pertenecer al asfalto cuando las casitas bajas y las veredas arboladas comenzaron a descompilarse en una trama de luz pulsante. No hubo temblor; solo un zumbido de baja frecuencia que reemplazó al rumor del tren Sarmiento. En un abrir y cerrar de ojos, la fi"
   },
   {
     "blog": "Región Cuatro",
@@ -1127,13 +1190,6 @@
     "contenido": "\n\n\n\n\n\n\nVersalles: historia de un barrio porteño\n\n\n\nDe las quintas y los montes de duraznos a la memoria del barrio\n\n\n\n\nAntes de convertirse en uno de los barrios residenciales de la ciudad de Buenos Aires,\nVersalles fue un territorio de quintas, árboles frutales, caminos de tierra y grandes\npropieda"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "GentleOS, un sistema operativo para computadoras bien viejas",
-    "link": "https://www.fabio.com.ar/10012-gentleos-un-sistema-operativo-para-computadoras-bien-viejas",
-    "fecha": "02/09/2026 12:00",
-    "contenido": "    \nCada tanto me gusta explorar el universo de sistemas operativos alternativos, ya escrib&iacute; un par de notas sobre ellos, es que suelen ser una locura de alg&uacute;n programador hobbysta que quiere mantener su vieja computadora \"Actualizada\".\nEsta semana encontr&eacute; otro de esos, Gentle"
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Análisis de Saccharine Echo",
     "link": "https://cozykis.kisworld.es/analisis-de-saccharine-echo/",
@@ -2093,13 +2149,6 @@
     "contenido": "Estoy empezando de a poco a actualizar mi configuración inicial de Emacs. Al ponerla a funcionar de cero después de mucho tiempo, vi que tenía un submódulo Git. Los submódulos en Git nos permiten traer otro repositorio dentro del repositorio que estamos usando. Tratar dos proyectos como cosas distin"
   },
   {
-    "blog": "56K",
-    "titulo": "Aprende inglés con ficción interactiva de los años 80",
-    "link": "https://56k.es/fanta/aprende-ingles-con-ficcion-interactiva-de-los-anos-80/",
-    "fecha": "18/08/2026 13:27",
-    "contenido": "Las aventuras conversacionales dicen que son buena cosa pero no aptas para todo el mundo. Lo primero es que requieren paciencia como todo lo que merece la pena en esta vida. Hoy vamos a comentar los juegos que realizaron en la empresa de Anita Sinclair y que al día de hoy siguen siendo historias int"
-  },
-  {
     "blog": "Fixionauta",
     "titulo": "",
     "link": "https://fixionauta.net/2026/08/18/205779/",
@@ -2133,40 +2182,5 @@
     "link": "https://maverick-hq.org/blog/weeknotes-26-3/",
     "fecha": "18/08/2026 00:00",
     "contenido": "Vale, llego 3 días tarde, pero quiero recordar que esto lo hago pagando yo, así que menos lobos.\nEstado actual: tirado en mi cama con una coca cola al lado y tratando de escapar del calor que entra por la ventana del salón. Bueno, en realidad ya me la he acabado.\nDespués de dos semanas de vacaciones"
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "La venganza del empleado y las consecuencias",
-    "link": "https://fernand0.github.io//venganza-consecuencias/",
-    "fecha": "17/08/2026 15:44",
-    "contenido": "Forma parte del folclore cómo algunos empleados ‘previsores’ insertan código en las plataformas que gestionan ‘por si acaso’. En Dev gets 4 years for creating kill switch on ex-employer’s systems nos contaban uno de estos casos y cómo el empleado fue condenado a cuatro años de cárcel por hacerlo. A "
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "La ciberseguridad, las empresas y las consecuencias",
-    "link": "https://blog.elmundoesimperfecto.com/2026/08/17/claves-negocios/",
-    "fecha": "17/08/2026 14:00",
-    "contenido": "\n\nA menudo vemos cómo el enfoque que muchas empresas u organizaciones (incluso no tan pequeñas) le dan a la seguridad es prácticamente suicida. Lo decimos y lo repetimos, pero siguen pensando únicamente en prestar sus servicios y ganar dinero (o, en ocasiones, simplemente sobrevivir). No se dan cuen"
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "Semana 33/2026",
-    "link": "https://www.macram.es/posts/2026/08/semana-33-2026/",
-    "fecha": "17/08/2026 11:35",
-    "contenido": "Para mí el verano está prácticamente finiquitado. Vale, los profesores y los niños siguen de vacaciones, aún mantengo la jornada intensiva en el trabajo, pero ya ha caido la primera tormenta, ya se está más fresco por la noche y el color de las puestas de sol ha cambiado. En todo caso es una época d"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Veinte años de Frikoteca",
-    "link": "http://frikoteca.blogspot.com/2026/08/veinte-anos-de-frikoteca.html",
-    "fecha": "17/08/2026 06:00",
-    "contenido": "Hoy, 17 de agosto de 2026, hace veinte años que publiqué mi primera entrada en el blog, El nacimiento de la Frikoteca. Por aquel entonces (año 2006) tenía treinta años y acaba de ser padre en enero. Diez años después, el 17 de agosto de 2016, con cuarenta años y tres hijos, puse una entrada celebran"
-  },
-  {
-    "blog": "quiroptero.blog",
-    "titulo": "Bienvenido a internet. Ahora, un anuncio",
-    "link": "https://www.quiroptero.blog/2026/08/anuncios/",
-    "fecha": "17/08/2026 06:00",
-    "contenido": ""
   }
 ]
