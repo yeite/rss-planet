@@ -1,5 +1,54 @@
 [
   {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "Administración de CachyOS una guía práctica para el día a día",
+    "link": "https://tecnoysoft.com/2026/09/17/administracion-de-cachyos-una-guia-practica-para-el-dia-a-dia/",
+    "fecha": "17/09/2026 15:42",
+    "contenido": "CachyOS es una distribución GNU/Linux basada en Arch Linux que busca ofrecer un sistema rápido, optimizado y relativamente sencillo de mantener. Aunque muchas tareas de administración pueden hacerse desde herramientas gráficas, conocer algunos comandos básicos permite tener un mayor control sobre el"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Superado por las noticias sobre IA",
+    "link": "https://adrianperales.com/2026/09/superado-por-las-noticias-sobre-ia/",
+    "fecha": "17/09/2026 13:26",
+    "contenido": "A primeros de mes me tomé uno de mis descansos periódicos del fediverso, y una razón para ello fueron las constantes noticias sobre inteligencia artificial generativa. Como usuario me veo muy impotente e incluso perdido ante ellas porque no tengo el tiempo ni las ganas de valorar todo lo que implica"
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Una mirada al curso que empieza",
+    "link": "https://adrianperales.com/2026/09/una-mirada-al-curso-que-empieza/",
+    "fecha": "17/09/2026 13:05",
+    "contenido": "Al contrario que la gran mayoría de entradas de este blog, este texto se publica justo después de su escritura. Y es que hoy, tras dos días de clase habitual, es buen momento para alzar la mirada al curso que empieza. Lo cierto es que casi todo parecen buenas noticias. Instituto a diez minutos de [&"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #894",
+    "link": "https://www.fabio.com.ar/10033-ruleta-rusa-894",
+    "fecha": "17/09/2026 12:00",
+    "contenido": "     Pegu&eacute;monos una vueltita en la Ruleta\nBueno, se me vino el jueves encima, con tantas cosas por hacer casi no me doy cuenta, pero siempre hay un relojito que me avisa que es hora de preparar una ruleta y dejarles las balas servidas, aqu&iacute; est&aacute;.\nAhora s&iacute;, Ruleta Rusa!Cre"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Asgard’s Fall — Viking Survivors",
+    "link": "https://cozykis.kisworld.es/analisis-de-asgards-fall-viking-survivors/",
+    "fecha": "17/09/2026 10:54",
+    "contenido": "Adéntrate en un mundo vikingo acompañado de seres mitológicos para derrotar a malvados jefes y enemigos por un tubo\nLa entrada Análisis de Asgard&#8217;s Fall — Viking Survivors se publicó primero en CozyKis."
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Jacobs Dream: Jacobs Dream | Un Verdadero Disco De Culto",
+    "link": "https://www.delotroladometal.com.ar/2026/09/17/un-verdadero-disco-de-culto/",
+    "fecha": "17/09/2026 10:35",
+    "contenido": "(2000 &#8211; Metal Blade/Nems Enterprises) Revisar el pasado, buscar, indagar, no quedarse con lo que...\nThe post Jacobs Dream: Jacobs Dream | Un Verdadero Disco De Culto first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "56K",
+    "titulo": "FurorTV – El Netflix para gente de izquierdas",
+    "link": "https://56k.es/fanta/furor-tv-causa-furor-en-su-primer-dia-de-crowdfunding/",
+    "fecha": "17/09/2026 02:54",
+    "contenido": "Quería comentar un poco las primeras impresiones de un proyecto que se anunció ayer y que pretende ser «El Netflix para gente de izquierdas». Lleva en su primer día 12.000 euros recaudados. Lo he dividido en varias partes: # 1. Somos los primeros aunque no es verdad # 2. Un Netflix para el 99% &#821"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "Continuación",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/585-continuacion.html",
@@ -12,6 +61,13 @@
     "link": "https://nevat.neocities.org/fcore1_19072026.html",
     "fecha": "17/09/2026 00:00",
     "contenido": "Retrocediendo en el tiempo 23 años para ver como era el escritorio Linux y si ha cambiado para mejor (o para peor)."
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió Nier Automata - Goldzilla robótico en Nier",
+    "link": "https://labaudric.net/videos/nier/6916",
+    "fecha": "16/09/2026 23:00",
+    "contenido": ""
   },
   {
     "blog": "Mareos de un geek",
@@ -229,13 +285,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/09/14/una-vuelta-a-las-raices-de-lo-extremo/",
     "fecha": "14/09/2026 10:35",
     "contenido": "(2026 &#8211; Kongsblod Records) Muchas veces se confunde la nostalgia con el &#8220;volver a las...\nThe post Estater: Esquizofrenia Diabólica | Una Vuelta A Las Raíces De Lo Extremo first appeared on Del Otro Lado Metal."
-  },
-  {
-    "blog": "Blog de Daniel Torres Burriel",
-    "titulo": "Este blog no se va a actualizar más",
-    "link": "https://dani.torresburriel.com/este-blog-no-se-va-a-actualizar-mas/",
-    "fecha": "14/09/2026 08:30",
-    "contenido": "Aviso sin dramatismo: dani.torresburriel.com deja de actualizarse. No es un adiós a esto de escribir sino que es un cambio de sitio. Durante un tiempo he mantenido este espacio en paralelo a otras cosas, y ha llegado un momento en el que tener varios lugares para lo mismo no aporta nada, ni a mí ni "
   },
   {
     "blog": "matizeta",
@@ -483,11 +532,11 @@
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga)Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Hac"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Cambiar metadata de PDF en Linux",
-    "link": "https://chancli.dev/blog/cambiar-metadata-pdf-linux.html",
-    "fecha": "11/09/2026 00:00",
-    "contenido": "Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF.\nNormalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock"
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Integrando Memos con Android",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-09-11-memos-android/",
+    "fecha": "10/09/2026 22:00",
+    "contenido": "El anterior artículo explicaba cómo instalar y securizar Memos, pero claro, falta usarlo, que es donde podremos ver todo el potencial que tiene. Y eso es lo que vamos a hacer ahora, en este nuevo artículo, el segundo de la serie sobre Memos, integrándolo con Android, exactamente con mi móvil.\nHasta "
   },
   {
     "blog": "Jinversor",
@@ -592,7 +641,7 @@
     "titulo": "Alta suciedad: el mejor disco solista de Andrés Calamaro",
     "link": "https://matizeta.com/2026/09/09/alta-suciedad-el-mejor-disco-solista-de-andres-calamaro/",
     "fecha": "09/09/2026 15:26",
-    "contenido": "Un obra que supo tener varios hits en la radio.Entradas relacionadas:¿Nadie vió Click? Teoría de la gravedadNuestros trabajos son una mentiraUn turista no es un viajeroY después, ¿qué?"
+    "contenido": "Un obra que supo tener varios hits en la radio.Entradas relacionadas:Bienvenida a casaNuestros trabajos son una mentiraLas películas del añoMi bicicleta ideal para andar por la ciudadRedefiniendo mi forma de viajar"
   },
   {
     "blog": "Victorhck in the free world",
@@ -677,13 +726,6 @@
     "link": "https://blog.neosite.com.ar/post/neosite-podcast-14-omarchy-no-me-convencio",
     "fecha": "09/09/2026 00:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
-    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
-    "fecha": "09/09/2026 00:00",
-    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
   },
   {
     "blog": "NevatBlog",
@@ -868,13 +910,6 @@
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
-    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
-    "fecha": "07/09/2026 00:00",
-    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
-  },
-  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Immich - Migración de V2 a V3 en producción",
     "link": "https://vctrsnts.codeberg.page/posts/2026-09-07-migracion-immich-2/",
@@ -1008,13 +1043,6 @@
     "contenido": "Hace tiempo que se pronunció Gentoo y lo comentamos por aquí: «Gentoo dice NO a la IA en sus políticas». La cosa es que NetBSD también se había pronunciado  para «excluir el código generado por IA». El motivo resumido: «Problemas de licencia». Así lo anunciaron en el Fediverso en 2024 desde su cuent"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Becoming Sons: Refined By The Flames | Fuego Refinado",
-    "link": "https://www.delotroladometal.com.ar/2026/09/05/fuego-refinado/",
-    "fecha": "05/09/2026 11:10",
-    "contenido": "(2026 &#8211; Roxx Productions) Tal como lo habíamos prometido en su momento, aquí estamos para...\nThe post Becoming Sons: Refined By The Flames | Fuego Refinado first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "THE_CHEI$",
     "titulo": "Cómo tener tus listas de Spotify en un archivo .txt",
     "link": "https://thecheis.com/2026/09/05/como-tener-tus-listas-de-spotify-en-un-archivo-txt/",
@@ -1132,13 +1160,6 @@
     "link": "https://jinversor.co/2026/09/eufemismos/",
     "fecha": "03/09/2026 13:17",
     "contenido": "Estoy hasta la coronilla de los eufemismos con que la progresía pretende embutirnos sus ridículos disparates infantiles. Si sus rebuznos fueran palatables no tendrían que edulcorarlos con distractores ni eufemismos. [&#8230;]\nLa entrada Eufemismos se publicó primero en Jinversor."
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #892",
-    "link": "https://www.fabio.com.ar/10017-ruleta-rusa-892",
-    "fecha": "03/09/2026 12:00",
-    "contenido": "     Ahh, paz y tranquilidad... y ruleta!\nBueno, esto no da para m&aacute;s, no s&eacute; qu&eacute; est&aacute; pasando, estoy en cualquiera, s&oacute;lo quiero ruleta para distraerme un poco, ruleteo luego existo.\nAhora s&iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio Baccaglioni [Rul"
   },
   {
     "blog": "CozyKis",
@@ -1274,13 +1295,6 @@
     "contenido": "Hay platos tailandeses que todo el mundo conoce. Y luego está este Laab de pato: piel crujiente aparte, cocinado en su propia grasa, y con un ingrediente que casi nadie fuera de Tailandia ha probado."
   },
   {
-    "blog": "CozyKis",
-    "titulo": "Análisis de A Tithe in Blood",
-    "link": "https://cozykis.kisworld.es/analisis-de-a-tithe-in-blood/",
-    "fecha": "01/09/2026 19:12",
-    "contenido": "Una historia oscura y llena de giros donde los personajes no son lo que parecen, pero aun así nos vamos a enamorar igual\nLa entrada Análisis de A Tithe in Blood se publicó primero en CozyKis."
-  },
-  {
     "blog": "Erica Fustero",
     "titulo": "Camera stickers",
     "link": "https://www.ericafustero.com/2026-09-camera-stickers",
@@ -1412,13 +1426,6 @@
     "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
     "fecha": "31/08/2026 03:00",
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Me he comprado el Pocketbook Inkpad One!",
-    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
   },
   {
     "blog": "Jorge Aguilera",
@@ -1953,13 +1960,6 @@
     "contenido": "Por: Carlos M.Publicado el 24 de agosto de 2026Por qué dejé de escribir directamente en archivos Markdown sueltos y monté todo mi sistema de blog dentro de Trilium.Continuar leyendo →#Trilium #Hugo #Blog "
   },
   {
-    "blog": "labaudric",
-    "titulo": "DaVinci Resolve en Arch Linux",
-    "link": "https://labaudric.net/blog/informatica-general/da-vinci-resolve-arch",
-    "fecha": "23/08/2026 18:32",
-    "contenido": "\nDaVinci Resolve es un programa muy interesante que cubre la falta de Adobe Premiere. Si. Existen muchos programas con KDEnlive, Shotcut, Pitivi... ¿Pero desde mi modesto punto de vista, como lamentable editor de vídeos de mierda? Esa selección se queda muy corta frente a la alternativa comercial. S"
-  },
-  {
     "blog": "El Blog de un informático que sueña con mejorar el mundo",
     "titulo": "Cómo saltar los bloqueos de la liga",
     "link": "https://jesuspavonabian.es/post/saltar_bloqueos_liga/",
@@ -2107,13 +2107,6 @@
     "contenido": "La verdad es que hacía tiempo que no escribía una entrada sobre un tema específico que no fuese de GNU/Linux o del área de sistemas. Ahora me ha surgido la oportunidad. A raíz de&#46;&#46;&#46;\nLa entrada Tengo un blog: una entrevista reciclada se publicó primero en ochobitshacenunbyte."
   },
   {
-    "blog": "56K",
-    "titulo": "Concurso de Abanicos en el Fediverso",
-    "link": "https://56k.es/fanta/concurso-de-abanicos-en-el-fediverso/",
-    "fecha": "20/08/2026 09:33",
-    "contenido": "Poco que comentar por aquí que no se diga aquí: 56k.es/fediabanicos-concurso-de-abanicos-2026/ En esa página he dejado la información del concurso de abanicos de este 2026. El año pasado se hizo el de ventiladores de techo y este año tocaba algo más inclusivo (que no todo el mundo tiene dinero para "
-  },
-  {
     "blog": "Picando Código",
     "titulo": "Reseña: Grim Trials - Nintendo Switch 2",
     "link": "https://picandocodigo.net/2026/resena-grim-trials-nintendo-switch-2/",
@@ -2182,33 +2175,5 @@
     "link": "https://picandocodigo.net/2026/piques-git-cambiar-el-origen-de-submodulos/",
     "fecha": "18/08/2026 20:43",
     "contenido": "Estoy empezando de a poco a actualizar mi configuración inicial de Emacs. Al ponerla a funcionar de cero después de mucho tiempo, vi que tenía un submódulo Git. Los submódulos en Git nos permiten traer otro repositorio dentro del repositorio que estamos usando. Tratar dos proyectos como cosas distin"
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/08/18/205779/",
-    "fecha": "18/08/2026 13:00",
-    "contenido": "Cuando quieren señalar el inicio de esta caída —que ella y su entorno tratan de enderezar— casi todos señalan México como el lugar en el que empezó la mala racha. Alarma en el PP de Madrid: “Nos confiamos. En política no hay nada hecho” &#124; El País Pues&#8230; no es a lo que nos referimos [&#8230"
-  },
-  {
-    "blog": "Bits de Ocio",
-    "titulo": "Por qué no publico (y por qué está bien así)",
-    "link": "https://bitsdeocio.wordpress.com/2026/08/18/por-que-no-publico/",
-    "fecha": "18/08/2026 09:46",
-    "contenido": "Se viene una pequeña turra&#8230; No es un texto de queja, aunque pueda parecerlo; es más bien una especie de auto-terapia. Siento llegar y soltar mis movidas al mundo, pero necesito aclararlas, sobre todo a mí mismo. Llevo un tiempo sin publicar con regularidad, y no solo en el blog. También he ido"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Psicodélicos, ficción y no ficción",
-    "link": "https://pedrolr.es/blog/psicodelicos-ficcion-y-no-ficcion/",
-    "fecha": "18/08/2026 06:53",
-    "contenido": "En la primera semana de agosto de 2026 leí el libro “El viajero mental: una historia de la psicodelia” de Juan Arnau. Tengo interés por los psicodélicos, lo psiquedélico, lo que se suele llamar los estados alterados de conciencia, los estados expandidos de la mente, las parálisis del sueño, etc. Tra"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "577. La radio",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/08/577-la-radio_01570706712.html",
-    "fecha": "18/08/2026 04:38",
-    "contenido": "&nbsp; &nbsp; La radio es un gran invento. La pongo siempre que almuerzo, como y ceno. Normalmente escucho Catalunya Ràdio y RAC1, aunque otras veces sintonizo la Cadena SER y RNE.&nbsp; &nbsp; Pensaréis que exagero, pero escuchar según qué emisoras mientras se come entraña un serio peligro: la comi"
   }
 ]
