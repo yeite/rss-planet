@@ -177,27 +177,184 @@ a:hover {
 
 /* ...DIRECTORIO  */
 
-.item.aliado {
-    border: 2px solid #6abe30;
-}
-
-.item.sponsor {
-  outline: 2px solid gold;           /* segundo borde */
-
-  outline-offset: 2px;
-
-}
-
-.blog img {
-    width: 18px;
-    height: 18px;
-    vertical-align: middle;
-    margin-right: 5px;
-}
-
 .descripcion {
     color: #ddd;
     font-size: 0.95em;
+    margin: 10px 0;
+}
+
+/* Tarjeta "destacada": tiene alguna insignia (Webring, Aliado o Sponsor) */
+
+.item--featured {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.blog-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.blog-identity {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-width: 0;
+}
+
+.blog-identity .favicon {
+    width: 34px;
+    height: 34px;
+    min-width: 34px;
+    border-radius: 50%;
+    background: #444;
+    object-fit: cover;
+    margin: 0;
+}
+
+.blog-name-country {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    row-gap: 2px;
+    column-gap: 10px;
+    min-width: 0;
+}
+
+.blog-name {
+    color: #8bc34a;
+    font-size: 1.05em;
+    font-weight: bold;
+}
+
+.blog-name a {
+    color: inherit;
+}
+
+.blog-country {
+    color: #9a9a9a;
+    font-size: 0.75em;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+}
+
+/* Insignias: Webring / Aliado / Sponsor */
+
+.badge-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.badge-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 16px 4px 10px;
+    font-size: 0.7em;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-decoration: none !important;
+    clip-path: polygon(0 0, calc(100% - 9px) 0, 100% 50%, calc(100% - 9px) 100%, 0 100%);
+    white-space: nowrap;
+}
+
+.badge-pill__star {
+    font-size: 0.9em;
+}
+
+.badge-pill--webring {
+    background: #b5a67d;
+    color: #2b2416;
+}
+
+.badge-pill--aliado {
+    background: #6abe30;
+    color: #17280a;
+}
+
+.badge-pill--sponsor {
+    background: #f0c419;
+    color: #2b2005;
+}
+
+.badge-pill--aliado,
+.badge-pill--sponsor,
+.badge-pill--webring {
+    cursor: default;
+}
+
+a.badge-pill--aliado,
+a.badge-pill--sponsor,
+a.badge-pill--webring {
+    cursor: pointer;
+}
+
+/* Categorías y feed RSS al pie de la tarjeta */
+
+.blog-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.tags-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.category-tag {
+    background: #1f1f1f;
+    color: #ccc;
+    font-size: 0.72em;
+    font-weight: 300;
+    letter-spacing: 0.03em;
+    padding: 4px 10px;
+    border-radius: 6px;
+    white-space: nowrap;
+}
+
+.feed-link {
+    display: inline-flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.feed-link img {
+    width: 18px;
+    height: 18px;
+}
+
+/* Tarjeta "simple": sin ninguna insignia -> solo título y descripción */
+
+.item--simple {
+    background: #141414;
+    border: 1px solid #333;
+}
+
+.blog-simple-title {
+    color: #e6e6e6;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0;
+}
+
+.blog-simple-title a {
+    color: inherit;
+}
+
+.item--simple .descripcion {
+    margin: 8px 0 0;
 }
 
 .filtros {
