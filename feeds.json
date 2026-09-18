@@ -1,5 +1,19 @@
 [
   {
+    "blog": "Mareos de un geek",
+    "titulo": "España partida en dos",
+    "link": "https://mareosdeungeek.es/espana-partida-en-dos/",
+    "fecha": "17/09/2026 18:23",
+    "contenido": "España partida en dos en su versión de novela gráfica es la adaptación de la versión ampliada y actualizada del libro que el historiador Julián Casanova presentó en el año 2022. El texto original se adapta por parte de Miguel Casanova (hijo de Julián) con las imágenes dibujadas por Carles Esquembre."
+  },
+  {
+    "blog": "THE_CHEI$",
+    "titulo": "El manifiesto que también fue publicidad",
+    "link": "https://thecheis.com/2026/09/17/el-manifiesto-que-tambien-fue-publicidad/",
+    "fecha": "17/09/2026 16:12",
+    "contenido": "La semana pasada estuve viendo un montón de anuncios antiguos de TV, gracias a diversos canales de YouTube que recuperan ese material a través de VHS de la época. No sé si podrían considerarse lost media, pero si no lo son estoy convencido de que no andan lejos de esa categoría. La publicidad y el&#"
+  },
+  {
     "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "Administración de CachyOS una guía práctica para el día a día",
     "link": "https://tecnoysoft.com/2026/09/17/administracion-de-cachyos-una-guia-practica-para-el-dia-a-dia/",
@@ -285,6 +299,13 @@
     "link": "https://www.delotroladometal.com.ar/2026/09/14/una-vuelta-a-las-raices-de-lo-extremo/",
     "fecha": "14/09/2026 10:35",
     "contenido": "(2026 &#8211; Kongsblod Records) Muchas veces se confunde la nostalgia con el &#8220;volver a las...\nThe post Estater: Esquizofrenia Diabólica | Una Vuelta A Las Raíces De Lo Extremo first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Blog de Daniel Torres Burriel",
+    "titulo": "Este blog no se va a actualizar más",
+    "link": "https://dani.torresburriel.com/este-blog-no-se-va-a-actualizar-mas/",
+    "fecha": "14/09/2026 08:30",
+    "contenido": "Aviso sin dramatismo: dani.torresburriel.com deja de actualizarse. No es un adiós a esto de escribir sino que es un cambio de sitio. Durante un tiempo he mantenido este espacio en paralelo a otras cosas, y ha llegado un momento en el que tener varios lugares para lo mismo no aporta nada, ni a mí ni "
   },
   {
     "blog": "matizeta",
@@ -2154,26 +2175,5 @@
     "link": "https://fixionauta.net/2026/08/18/una-habitacion-propia/",
     "fecha": "19/08/2026 03:00",
     "contenido": "[01] 08.26 Hay diez personas que se suscribieron a este espacio durante el bazar del LabNL del sábado 8 de agosto, diez personas que me leerán por primera vez en sus bandejas de entrada (si es que no soy enviado al spam). Diez personas con las que estoy agradecido, por eso mismo no quería demorar [&"
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Microrrelato en Axxon",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/microrrelato-en-axxon/",
-    "fecha": "19/08/2026 00:00",
-    "contenido": "Pasen y lean\nhttps://axxon.com.ar/rev/2026/08/ficcion-breve-ochenta-tres-varios/\nDaniel Omar Cignacco"
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "ApiFirst en Leanpub",
-    "link": "https://blog.jagedn.dev/blog/2026/leanpub-apifirst.html",
-    "fecha": "19/08/2026 00:00",
-    "contenido": "Acabo de publicar el libro \"ApiFirst con Micronaut\" en LeanPub"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Piques Git - Cambiar el origen de submódulos",
-    "link": "https://picandocodigo.net/2026/piques-git-cambiar-el-origen-de-submodulos/",
-    "fecha": "18/08/2026 20:43",
-    "contenido": "Estoy empezando de a poco a actualizar mi configuración inicial de Emacs. Al ponerla a funcionar de cero después de mucho tiempo, vi que tenía un submódulo Git. Los submódulos en Git nos permiten traer otro repositorio dentro del repositorio que estamos usando. Tratar dos proyectos como cosas distin"
   }
 ]
