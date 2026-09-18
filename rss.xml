@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 18 Sep 2026 02:04:56 GMT</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 10:12:44 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>España partida en dos</title>
+<link>https://mareosdeungeek.es/espana-partida-en-dos/</link>
+<guid isPermaLink="true">https://mareosdeungeek.es/espana-partida-en-dos/</guid>
+<pubDate>Thu, 17 Sep 2026 18:23:00 GMT</pubDate>
+<category>Mareos de un geek</category>
+<description><![CDATA[España partida en dos en su versión de novela gráfica es la adaptación de la versión ampliada y actualizada del libro que el historiador Julián Casanova presentó en el año 2022. El texto original se adapta por parte de Miguel Casanova (hijo de Julián) con las imágenes dibujadas por Carles Esquembre.<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
+</item>
+<item>
+<title>El manifiesto que también fue publicidad</title>
+<link>https://thecheis.com/2026/09/17/el-manifiesto-que-tambien-fue-publicidad/</link>
+<guid isPermaLink="true">https://thecheis.com/2026/09/17/el-manifiesto-que-tambien-fue-publicidad/</guid>
+<pubDate>Thu, 17 Sep 2026 16:12:00 GMT</pubDate>
+<category>THE_CHEI$</category>
+<description><![CDATA[La semana pasada estuve viendo un montón de anuncios antiguos de TV, gracias a diversos canales de YouTube que recuperan ese material a través de VHS de la época. No sé si podrían considerarse lost media, pero si no lo son estoy convencido de que no andan lejos de esa categoría. La publicidad y el&amp;#<br><br><strong>Fuente:</strong> THE_CHEI$]]></description>
+</item>
 <item>
 <title>Administración de CachyOS una guía práctica para el día a día</title>
 <link>https://tecnoysoft.com/2026/09/17/administracion-de-cachyos-una-guia-practica-para-el-dia-a-dia/</link>
@@ -200,22 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
 <category>La cosa infinita (Daniel Omar Cignacco)</category>
 <description><![CDATA[El trazado tranquilo de Versalles dejó de pertenecer al asfalto cuando las casitas bajas y las veredas arboladas comenzaron a descompilarse en una trama de luz pulsante. No hubo temblor; solo un zumbido de baja frecuencia que reemplazó al rumor del tren Sarmiento. En un abrir y cerrar de ojos, la fi<br><br><strong>Fuente:</strong> La cosa infinita (Daniel Omar Cignacco)]]></description>
-</item>
-<item>
-<title>Déficit de Atención y Desinformación</title>
-<link>https://regioncuatro.blog/deficit-de-atencion-y-desinformacion/</link>
-<guid isPermaLink="true">https://regioncuatro.blog/deficit-de-atencion-y-desinformacion/</guid>
-<pubDate>Tue, 15 Sep 2026 17:44:00 GMT</pubDate>
-<category>Región Cuatro</category>
-<description><![CDATA[Actualmente hay en las redes sociales una cantidad gigantesca de desinformación acerca del trastorno por déficit de atención e hiperactividad, o TDAH. Especialmente de este trastorno, que por alguna razón se puso &amp;quot;de moda&amp;quot;, igual que antes estuvo de moda la romantización del trastorno obse<br><br><strong>Fuente:</strong> Región Cuatro]]></description>
-</item>
-<item>
-<title>Descarga una tira aleatoria de Linux Hispano en la terminal</title>
-<link>https://victorhckinthefreeworld.com/2026/09/15/descarga-una-tira-aleatoria-de-linux-hispano-en-la-terminal/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/09/15/descarga-una-tira-aleatoria-de-linux-hispano-en-la-terminal/</guid>
-<pubDate>Tue, 15 Sep 2026 16:36:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[Con este script en Bash puedes descargar y volver a ver en tu equipo cualquiera de las 1144 tiras que su creador Danigm ha publicado desde 2004 hasta 2026 de manera aleatoria<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
 </item>
 
 </channel>
