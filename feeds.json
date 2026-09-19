@@ -1,5 +1,33 @@
 [
   {
+    "blog": "pedrolr blog",
+    "titulo": "Montañas, señales, nombres, fechas y atemporalidad",
+    "link": "https://pedrolr.es/blog/montanas-senales-nombres-fechas-y-atemporalidad/",
+    "fecha": "19/09/2026 12:27",
+    "contenido": "Me gusta la montaña. No hago ni mucho menos alta montaña, diría si acaso que media montaña, y no sé si las rutas que hago son grandes rutas. Charlando recientemente con una colega sobre escalada y montaña, me pasó la referencia del libro \"La virtud en la montaña: Vindicación de un alpinismo lento, i"
+  },
+  {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "Administración de Manjaro una guía práctica para el día a día",
+    "link": "https://tecnoysoft.com/2026/09/19/administracion-de-manjaro-una-guia-practica-para-el-dia-a-dia/",
+    "fecha": "19/09/2026 12:04",
+    "contenido": "Administración de Manjaro: paquetes, actualizaciones, Flatpak y AUR Manjaro es una distribución basada en Arch Linux que busca ofrecer una experiencia de escritorio accesible manteniendo buena parte de la flexibilidad de su sistema de paquetes. Para administrarlo correctamente conviene conocer sus p"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "El Líder De Lament Fallece Por Causas Naturales | Se Nos Fue Abel Gómez",
+    "link": "https://www.delotroladometal.com.ar/2026/09/19/queremos-regresar-a-nuestras-raices-del-primer-album/",
+    "fecha": "19/09/2026 11:35",
+    "contenido": "Otro guerrero más que se nos va. Según informó su familia hace unas horas, el...\nThe post El Líder De Lament Fallece Por Causas Naturales | Se Nos Fue Abel Gómez first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "La Netiqueta como guía de comportamiento en la red",
+    "link": "https://tecnoysoft.com/2026/09/19/la-netiqueta-como-guia-de-comportamiento-en-la-red/",
+    "fecha": "19/09/2026 06:38",
+    "contenido": "Hasta hace poco desconocía por completo la existencia de La Netiqueta. Fue en «El Blog de Lázaro» donde descubrí este concepto y, cuanto más leía sobre él, más interesante me parecía. Creo que son unas normas que merece la pena conocer y compartir, por eso he querido dedicarle este artículo. Interne"
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Los mentores",
     "link": "https://jinversor.co/2026/09/los-mentores/",
@@ -172,7 +200,7 @@
     "titulo": "FurorTV – El Netflix para gente de izquierdas",
     "link": "https://56k.es/fanta/furor-tv-causa-furor-en-su-primer-dia-de-crowdfunding/",
     "fecha": "17/09/2026 02:54",
-    "contenido": "Quería comentar un poco las primeras impresiones de un proyecto que se anunció ayer y que pretende ser «El Netflix para gente de izquierdas». Lleva en su primer día 12.000 euros recaudados. Lo he dividido en varias partes: # 1. Somos los primeros aunque no es verdad # 2. Un Netflix para el 99% &#821"
+    "contenido": "Quería comentar un poco las primeras impresiones de un proyecto que se anunció ayer y que pretende ser «El Netflix para gente de izquierdas». Lleva en su primer día 12.000 euros recaudados. Lo he dividido en varias partes: # 1. Somos los primeros # 2. Un Netflix para el 99% &#8211; El mismo eslogan "
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -665,13 +693,6 @@
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga)Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Hac"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Cambiar metadata de PDF en Linux",
-    "link": "https://chancli.dev/blog/cambiar-metadata-pdf-linux.html",
-    "fecha": "11/09/2026 00:00",
-    "contenido": "Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF.\nNormalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock"
-  },
-  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Integrando Memos con Android",
     "link": "https://vctrsnts.codeberg.page/posts/2026-09-11-memos-android/",
@@ -712,13 +733,6 @@
     "link": "https://cozykis.kisworld.es/analisis-de-fofumia/",
     "fecha": "10/09/2026 10:36",
     "contenido": "Tiene michis cíclopes que causarán el caos mientras nosotres nos relajamos intentando poner un poco de orden\nLa entrada Análisis de Fofumia se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Abel Gomez De Lament Nos Adelanta Su Próximo Álbum | “Queremos Regresar A Nuestras Raíces Del Primer Álbum”",
-    "link": "https://www.delotroladometal.com.ar/2026/09/10/queremos-regresar-a-nuestras-raices-del-primer-album/",
-    "fecha": "10/09/2026 10:35",
-    "contenido": "Hablar de Lament es hablar de historia, de un largo recorrido en la escena. Una...\nThe post Abel Gomez De Lament Nos Adelanta Su Próximo Álbum | “Queremos Regresar A Nuestras Raíces Del Primer Álbum” first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Galerías Preciados",
@@ -866,13 +880,6 @@
     "link": "https://blog.neosite.com.ar/post/neosite-podcast-14-omarchy-no-me-convencio",
     "fecha": "09/09/2026 00:00",
     "contenido": ""
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
-    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
-    "fecha": "09/09/2026 00:00",
-    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
   },
   {
     "blog": "NevatBlog",
@@ -1048,13 +1055,6 @@
     "link": "https://elblogdelazaro.org/trilium-automatizaciones/",
     "fecha": "07/09/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
-    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
-    "fecha": "07/09/2026 00:00",
-    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -1286,6 +1286,13 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacín",
+    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
+    "fecha": "03/09/2026 17:28",
+    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -1545,13 +1552,6 @@
     "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
     "fecha": "31/08/2026 03:00",
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Me he comprado el Pocketbook Inkpad One!",
-    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
   },
   {
     "blog": "Jorge Aguilera",
@@ -2107,13 +2107,6 @@
     "contenido": "\nEsta entrada es una respuesta a una del mismo nombre, escrita por mi hermano el mes pasado: Mi colección de rol en números e idiomas en El Rincón del Maestro Terrax. La entrada tenía como objetivo determinar de una vez por todas si en su colección rolera había más libros en inglés o más libros en e"
   },
   {
-    "blog": "Tecno y Soft - Tecno y Soft",
-    "titulo": "Cómo evitar las desconexiones esporádicas de la WiFi en Linux",
-    "link": "https://tecnoysoft.com/2026/08/22/como-evitar-las-desconexiones-esporadicas-de-la-wifi-en-linux/",
-    "fecha": "22/08/2026 15:21",
-    "contenido": "Llevo mucho tiempo con este problema. La solución es sencilla; lo difícil ha sido identificar la causa. En algunos portátiles con Linux, especialmente cuando la señal Wi-Fi es débil, el ahorro de energía del adaptador inalámbrico puede afectar a la estabilidad de la conexión. En mi caso, la solución"
-  },
-  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "Escribiendo un poco sobre lo que se mueve actualmente en la red",
     "link": "https://gatooscuro.xyz/escribiendo-un-poco-sobre-lo-que-se-mueve-actualmente-en-la-red/",
@@ -2203,33 +2196,5 @@
     "link": "https://elprofejuan.com.ar/mejorando-el-servidor-seguridad",
     "fecha": "20/08/2026 23:55",
     "contenido": "Usando el comando sudo ss -npltu, puede ver que tenía escucha en puertos y direcciones que exponían mi servidor. \n\n"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "El fin de mi blog",
-    "link": "https://jinversor.co/2026/08/el-fin-de-mi-blog/",
-    "fecha": "20/08/2026 13:48",
-    "contenido": "Mi blog ya tiene fecha de expiración y es el 12 de mayo de 2027. Ese día desaparecerá y no quedará ni rastro de él. La razón principal para dejar [&#8230;]\nLa entrada El fin de mi blog se publicó primero en Jinversor."
-  },
-  {
-    "blog": "ochobitshacenunbyte",
-    "titulo": "Tengo un blog: una entrevista reciclada",
-    "link": "https://www.ochobitshacenunbyte.com/2026/08/20/tengo-un-blog-una-entrevista-reciclada/",
-    "fecha": "20/08/2026 09:49",
-    "contenido": "La verdad es que hacía tiempo que no escribía una entrada sobre un tema específico que no fuese de GNU/Linux o del área de sistemas. Ahora me ha surgido la oportunidad. A raíz de&#46;&#46;&#46;\nLa entrada Tengo un blog: una entrevista reciclada se publicó primero en ochobitshacenunbyte."
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Reseña: Grim Trials - Nintendo Switch 2",
-    "link": "https://picandocodigo.net/2026/resena-grim-trials-nintendo-switch-2/",
-    "fecha": "20/08/2026 08:00",
-    "contenido": "Grim Trials es un roguelike hack and slash Heavy Metal donde controlamos a Avelin, una joven que tras una muerte prematura es reclutada para convertrise en una de las muchas Parcas de la muerte. \"Que en mis peores días nunca olvide: esto también pasará\" nos muestra una pantalla de introducción.\nEl p"
-  },
-  {
-    "blog": "quiroptero.blog",
-    "titulo": "Re: Reciclando una entrevista. ¿Merece la pena ser bloguero?",
-    "link": "https://www.quiroptero.blog/2026/08/entrevistia/",
-    "fecha": "20/08/2026 06:00",
-    "contenido": "Respuesta a la entrada en el blog de Victorhck."
   }
 ]
