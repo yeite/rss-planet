@@ -1,10 +1,24 @@
 [
   {
+    "blog": "labaudric",
+    "titulo": "Bleach - Sennen Kessen Hen (Saga dos, primera parte) (anime)",
+    "link": "https://labaudric.net/blog/anime/bleach-sennen_kessen_hen",
+    "fecha": "19/09/2026 13:31",
+    "contenido": "\nLlevo mucho tiempo esperando esta mierda. Empezó a salir hace un tiempo, concretamente en 2022. Pero yo soy muy impaciente para estas cosas, y sobre todo: mi memoria. Me tengo que ver las cosas del tirón. Si pasan meses, un año entre temporada y temporada, veo la nueva, y no me acuerdo de absolutam"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió Nier Automata - El &quot;tresoro&quot; del rey del bosque en Nier",
+    "link": "https://labaudric.net/videos/nier/6917",
+    "fecha": "19/09/2026 13:00",
+    "contenido": ""
+  },
+  {
     "blog": "pedrolr blog",
-    "titulo": "Montañas, señales, nombres, fechas y atemporalidad",
-    "link": "https://pedrolr.es/blog/montanas-senales-nombres-fechas-y-atemporalidad/",
+    "titulo": "Montañas y atemporalidad",
+    "link": "https://pedrolr.es/blog/montanas-y-atemporalidad/",
     "fecha": "19/09/2026 12:27",
-    "contenido": "Me gusta la montaña. No hago ni mucho menos alta montaña, diría si acaso que media montaña, y no sé si las rutas que hago son grandes rutas. Charlando recientemente con una colega sobre escalada y montaña, me pasó la referencia del libro \"La virtud en la montaña: Vindicación de un alpinismo lento, i"
+    "contenido": "Me gusta la montaña. No hago ni por asomo alta montaña, diría si acaso que media montaña, y no sé si las rutas que hago son grandes rutas. Charlando recientemente con una colega sobre escalada y montaña, me recomendó el libro \"La virtud en la montaña: Vindicación de un alpinismo lento, ilustrado y a"
   },
   {
     "blog": "Tecno y Soft - Tecno y Soft",
@@ -693,6 +707,13 @@
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga)Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Hac"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Cambiar metadata de PDF en Linux",
+    "link": "https://chancli.dev/blog/cambiar-metadata-pdf-linux.html",
+    "fecha": "11/09/2026 00:00",
+    "contenido": "Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF.\nNormalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock"
+  },
+  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Integrando Memos con Android",
     "link": "https://vctrsnts.codeberg.page/posts/2026-09-11-memos-android/",
@@ -882,6 +903,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
+    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
+    "fecha": "09/09/2026 00:00",
+    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
+  },
+  {
     "blog": "NevatBlog",
     "titulo": "OS/2 Warp 3: cuando IBM quiso destronar a Windows",
     "link": "https://nevat.neocities.org/warp3_09092026.html",
@@ -1055,6 +1083,13 @@
     "link": "https://elblogdelazaro.org/trilium-automatizaciones/",
     "fecha": "07/09/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
+    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
+    "fecha": "07/09/2026 00:00",
+    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -1286,13 +1321,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacín",
-    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
-    "fecha": "03/09/2026 17:28",
-    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -1554,18 +1582,18 @@
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Me he comprado el Pocketbook Inkpad One!",
+    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
+  },
+  {
     "blog": "Jorge Aguilera",
     "titulo": "Self-hosting Forgejo (lightweight software forge)",
     "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
     "fecha": "31/08/2026 00:00",
     "contenido": "Autoalojar proyectos Git al estilo de GitHub"
-  },
-  {
-    "blog": "Maverick HQ",
-    "titulo": "weeknotes 26.4",
-    "link": "https://maverick-hq.org/blog/weeknotes-26-4/",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Estado actual: escuchando un gameplay de Anggelos 2 porque mientras escribo no puedo mirar. Es un metroidvania de estilo 16 bits que parece bastante difícil.\nCreo que esta vez llego un par de semanas tarde. Vaaaaale. Lo sieeeento. Pero es que no he tenido muchos ánimos para escribir y realmente no e"
   },
   {
     "blog": "La Frikoteca",
@@ -1624,13 +1652,6 @@
     "contenido": ""
   },
   {
-    "blog": "labaudric",
-    "titulo": "Actividades Agosto 2026",
-    "link": "https://labaudric.net/blog/noticias/actividades-agosto-2026",
-    "fecha": "30/08/2026 09:39",
-    "contenido": "Otro mes, otra entrada.\nEn nivel de la web, he hecho muchos menos cambios, menos mejoras. Me estoy concentrado en añadir contenido, y no tanto en el software de la web. Creo que he llegado a un punto bastante estable. Sigue quedando la cápsula Gemini por hacer... Pero la web, http, la veo bastante c"
-  },
-  {
     "blog": "impermanente",
     "titulo": "Mi primera receta Fujifilm",
     "link": "https://blog.impermanente.es/2026/08/30/valeria-blue.html",
@@ -1678,13 +1699,6 @@
     "link": "https://escritura.social/mcallus/los-diarios-de-shosuro-otagi-parte-1",
     "fecha": "29/08/2026 16:28",
     "contenido": ""
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Probando WinBoat",
-    "link": "https://labaudric.net/blog/informatica-general/probando-winboat",
-    "fecha": "29/08/2026 10:02",
-    "contenido": "\nEstoy probando winboat (versión 0.9.0), no solo por curiosidad, sino por \"necesidad\". De la misma forma que estoy últimamente creando artículos, me ha entrado el antojo de volver a hacer algún que otro vídeo. Pues, el trabajazo que me ha costado importar mis canales de youtube aquí, quiero como seg"
   },
   {
     "blog": "El blog es mío",
@@ -2175,26 +2189,5 @@
     "link": "https://blog.luiscarlospando.com/personal/2026/08/estoy-jalando-en-algo-que-no-queria-construir/",
     "fecha": "21/08/2026 05:13",
     "contenido": "Últimamente he dedicado ya bastante de mi tiempo en refinar y dar los últimos detalles a Hitz-Musik.net, y todo este tiempo me he puesto a pensar bastante en una contradicción que nunca vi venir (al chilindrín). La neta, me siento muy feliz de revivir el proyecto. ¡De verdad! Después de tantos años,"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "578. Un número más",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/08/578-un-numero-mas.html",
-    "fecha": "21/08/2026 00:25",
-    "contenido": "&nbsp; &nbsp; Solano no es viento ni está caliente. Lo cual no significa que pueda estarlo en alguna otra ocasión. Solano tan solo es un nombre desafortunado, impreso en su DNI y escrito a mano en su partida de nacimiento.&nbsp; &nbsp; Un número más en la base de datos. Otro desconocido entre descon"
-  },
-  {
-    "blog": "NevatBlog",
-    "titulo": "Kup: copias de seguridad en Plasma",
-    "link": "https://nevat.neocities.org/kup_21082026.html",
-    "fecha": "21/08/2026 00:00",
-    "contenido": "Las copias de seguridad, algo que a todos nos da pereza hacer pero son necesarias (y algunos se dan cuenta cuando tienes una pérdida de datos). Kup simplifica y automatiza este tedioso proceso."
-  },
-  {
-    "blog": "El Sitio de Manieflo",
-    "titulo": "Mejorando el servidor (Seguridad)",
-    "link": "https://elprofejuan.com.ar/mejorando-el-servidor-seguridad",
-    "fecha": "20/08/2026 23:55",
-    "contenido": "Usando el comando sudo ss -npltu, puede ver que tenía escucha en puertos y direcciones que exponían mi servidor. \n\n"
   }
 ]
