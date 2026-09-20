@@ -1,6 +1,27 @@
 [
   {
     "blog": "labaudric",
+    "titulo": "Crítica manga Parasyte",
+    "link": "https://labaudric.net/blog/manga/cronica-parasyte",
+    "fecha": "20/09/2026 11:43",
+    "contenido": "\n  \nParasyte, de Hitoshi Iwaaki del 1989/1994, es una obra bastante fumada en 8 tomos.\nTomo 1\nEmpieza con una premisa, soltando preguntas al aire muy extrañas del tipo ¿Cuántos bosques se salvarían de ser quemados si la población humana quedara reducida a la mitad? Y de repente se ve como... Algo de"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Ping #28: Actualizaciones, novedades y ranking de distros",
+    "link": "https://voidnull.es/ping-28-2/",
+    "fecha": "20/09/2026 10:00",
+    "contenido": "Aquí encontrarás las distribuciones más recientes, paquetes actualizados y el ranking de las distros más descargadas. 🚀"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "Castores en el hiperespacio",
+    "link": "https://alex.corcoles.net/2026/09/castores-en-el-hiperespacio",
+    "fecha": "20/09/2026 00:00",
+    "contenido": "\n  Participando en una discusi&#243;n sobre si hay cosas que molan hoy en d&#237;a en el software, las dos cosas que he mencionado han sido monotemas, claro: Gemini y Delta Chat.\n  Lo gracioso es que he acabado conectando esos dos hilos separados.\n  En el hilo de Delta Chat, he mencionado como apart"
+  },
+  {
+    "blog": "labaudric",
     "titulo": "Bleach - Sennen Kessen Hen (Saga dos, primera parte) (anime)",
     "link": "https://labaudric.net/blog/anime/bleach-sennen_kessen_hen",
     "fecha": "19/09/2026 13:31",
@@ -707,13 +728,6 @@
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga)Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Hac"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Cambiar metadata de PDF en Linux",
-    "link": "https://chancli.dev/blog/cambiar-metadata-pdf-linux.html",
-    "fecha": "11/09/2026 00:00",
-    "contenido": "Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF.\nNormalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock"
-  },
-  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Integrando Memos con Android",
     "link": "https://vctrsnts.codeberg.page/posts/2026-09-11-memos-android/",
@@ -903,13 +917,6 @@
     "contenido": ""
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
-    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
-    "fecha": "09/09/2026 00:00",
-    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
-  },
-  {
     "blog": "NevatBlog",
     "titulo": "OS/2 Warp 3: cuando IBM quiso destronar a Windows",
     "link": "https://nevat.neocities.org/warp3_09092026.html",
@@ -1083,13 +1090,6 @@
     "link": "https://elblogdelazaro.org/trilium-automatizaciones/",
     "fecha": "07/09/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
-    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
-    "fecha": "07/09/2026 00:00",
-    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -1488,7 +1488,7 @@
     "titulo": "La banda Babasónicos y un show sorpresa en una terraza (hay video)",
     "link": "https://matizeta.com/2026/09/01/babasonicos-dio-un-show-sorpresa-en-una-terraza-hay-video/",
     "fecha": "01/09/2026 08:11",
-    "contenido": "Con motivo de aniversario de una radio.Entradas relacionadas:Mi bicicleta ideal para andar por la ciudadLos que se fueron a perseguir sus sueñosTeoría de la gravedadRedefiniendo mi forma de viajarLas plazas"
+    "contenido": "Con motivo de aniversario de una radio.Entradas relacionadas:Mi lugar en el mundoOdio a los Argentinos (los más racistas del mundo)Cómo escribir «páginas matutinas» y no morir en el intentoUn mundo de contradicción socialAviso importante"
   },
   {
     "blog": "danielaragay.net",
@@ -1530,7 +1530,7 @@
     "titulo": "La efímera emoción de escribir la primer entrada de tu blog",
     "link": "https://matizeta.com/2026/08/31/la-efimera-emocion-de-escribir-la-primer-entrada-de-tu-blog/",
     "fecha": "31/08/2026 14:46",
-    "contenido": "Una aclaración importante para aquellos que me envían sus blogs para formar parte de ¡Blog!¡Blog!Entradas relacionadas:Es hora de dejar de festejarle los lanzamientos a AppleLos caprichos de AppleLa decadencia de la webEl sistema operativo de BarbieWordPress eliminó mi blog"
+    "contenido": "Una aclaración importante para aquellos que me envían sus blogs para formar parte de ¡Blog!¡Blog!Entradas relacionadas:Los caprichos de ApplePlataformas para tener tu blog (algunas bastante&hellip;Un año escribiendoEl iPad es un juguete caroRedes sociales despersonalizadas "
   },
   {
     "blog": "pedrolr blog",
@@ -1582,13 +1582,6 @@
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Me he comprado el Pocketbook Inkpad One!",
-    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
-  },
-  {
     "blog": "Jorge Aguilera",
     "titulo": "Self-hosting Forgejo (lightweight software forge)",
     "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
@@ -1615,13 +1608,6 @@
     "link": "https://tecnoysoft.com/2026/08/30/mas-rendimiento-y-fluidez-con-el-kernel-de-cachyos/",
     "fecha": "30/08/2026 18:19",
     "contenido": "¿Qué es el kernel de CachyOS? El kernel de CachyOS es una versión del núcleo de Linux optimizada para buscar un mejor rendimiento y una mayor fluidez. Incluye ajustes pensados especialmente para aprovechar mejor el hardware moderno. ¿Qué significan x86-64-v2, v3 y v4? CachyOS utiliza diferentes nive"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "ApocalypseMania",
-    "link": "https://labaudric.net/blog/comics/apocalypsemania",
-    "fecha": "30/08/2026 16:12",
-    "contenido": "\n¡Mi primera reseña de manga occidental!\nUn poco de contexto antes de entrar en la materia.\nCuando yo era muy joven, de crío viviendo con mis padres; mi padre coleccionaba tebeos, \"bande dessiné\" que se dice en franchute. Que al fin al cabo, es un \"comic\" francés / belga, o un \"manga\" francés / belg"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1929,7 +1915,7 @@
     "titulo": "El porque este blog fue bloqueado en mi trabajo",
     "link": "https://matizeta.com/2026/08/26/el-porque-este-blog-fue-bloqueado-en-mi-trabajo/",
     "fecha": "26/08/2026 08:11",
-    "contenido": "No hizo falta hablar con el área de IT.Entradas relacionadas:Es hora de dejar de festejarle los lanzamientos a ApplePoniendo un límite a mi uso de redes socialesLos blogs que me motivaron a tener el míoEl tipo de cafetera que juré nunca comprar (y&hellip;La decadencia de la web"
+    "contenido": "No hizo falta hablar con el área de IT.Entradas relacionadas:Pegué el salto a un iPhone Pro y estas son las&hellip;Plataformas para tener tu blog (algunas bastante&hellip;Los blogs que me motivaron a tener el míoEl tipo de cafetera que juré nunca comprar (y&hellip;Tropiezos con Linux"
   },
   {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
@@ -2133,61 +2119,5 @@
     "link": "https://nachof.blog/posts/2026/historial-de-navegacion-en-yacy/",
     "fecha": "21/08/2026 23:05",
     "contenido": "Hace un tiempo vengo usando SearXNG. Es un &ldquo;metabuscador&rdquo;: no tiene su propia base de datos, sino que delega la búsqueda a distintos buscadores, compila los resultados, y te arma la lista. La principal ventaja que tiene es que te sacás de arriba todos los resúmenes de &ldquo;IA&rdquo; de"
-  },
-  {
-    "blog": "Jinversor",
-    "titulo": "Tengo un blog: una entrevista reciclada",
-    "link": "https://jinversor.co/2026/08/tengo-un-blog-una-entrevista-reciclada/",
-    "fecha": "21/08/2026 14:44",
-    "contenido": "En el directorio BlogBlog vi que muchos autores están respondiendo una entrevista sobre por qué tienen un blog. Como se me acabaron las ideas y no tengo nada nuevo por [&#8230;]\nLa entrada Tengo un blog: una entrevista reciclada se publicó primero en Jinversor."
-  },
-  {
-    "blog": "La Paradoja del Cero y el Uno",
-    "titulo": "Nada para ver",
-    "link": "https://docig.bearblog.dev/nada-para-ver/",
-    "fecha": "21/08/2026 14:13",
-    "contenido": "https://www.youtube.com/@danielomar4657"
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "El Diario de un Nerd – THE_CHEI$",
-    "link": "https://elrefugiodeunnerd.es/2026/08/21/el-diario-de-un-nerd-the_chei/",
-    "fecha": "21/08/2026 11:09",
-    "contenido": "En esta tercera edición volvemos con THE_CHEI$, como siempre, con 2 recomendaciones. Nombre del bloguero: THE_CHEI$ Links: thecheis.com https://mstdn.social/@the_cheis Presentación: (Extracto de su web) Fabricado en Galicia a finales de los años 80. Mi nombre es Christian y me encanta la tecnología,"
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 34.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-34/",
-    "fecha": "21/08/2026 10:22",
-    "contenido": "Doctor Nómada (décima parte)\n\nDoctor Nómada (décima parte)\nLeer la novena parte\nLe pedí a Leonila que me mostrara los resultados de los estudios, notas o resúmenes médicos, recetas, todo lo que me permitiera tener una mejor idea de lo que le había estado pasando a Luzma; también pedí que me trajera "
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "Ratón raspberry pi: abrirlo para limpiar la rueda",
-    "link": "https://malagaoriginal.blogspot.com/2026/08/raton-raspberry-pi-abrirlo-para-limpiar.html",
-    "fecha": "21/08/2026 07:20",
-    "contenido": "Por razones de organización llevo tiempo usando el ratón de mi raspberry pi 400 en mi PC principal, hasta ahora ha ido muy bien pero al usar la rueda del ratón se me atrancaba como si el mecanismo tuviera algún contacto mal.&nbsp;Así que he ido a abrirlo y veo que no hay tornillo para abrirlo, así q"
-  },
-  {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "La consciencia más allá del representacionismo: una conversación con Michael Tye",
-    "link": "https://vonneumannmachine.wordpress.com/2026/08/21/la-consciencia-mas-alla-del-representacionismo-una-conversacion-con-michael-tye/",
-    "fecha": "21/08/2026 07:14",
-    "contenido": "¿Es posible explicar la consciencia fenoménica (sentir el aroma a azahar o el sonido del laúd) sin apelar a entidades no físicas o a “misterios” insondables? ¿Cómo ese kilo y medio de materia gelatinosa que está dentro de nuestro cráneo, puede hacer que yo piense en mi abuela? ¿Cómo esas “mariposas "
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Montañas y refugios: Cueva Valiente y \"Las Esquinillas\"",
-    "link": "https://pedrolr.es/blog/montanas-y-refugios-cueva-valiente-y-las-esquinillas/",
-    "fecha": "21/08/2026 05:47",
-    "contenido": "Esta semana he tratado de hacer algunas rutas por refugios de montaña. He estado en varios y hablo aquí de dos. Cueva Valiente está a 1.903 metros de altitud, en la sierra de Guadarrama. Desde arriba se ve el Puerto de los Leones y El Espinar y San Rafael. El alto es una cosa y [&#8230;]"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Estoy jalando en algo \"que no quería construir\"",
-    "link": "https://blog.luiscarlospando.com/personal/2026/08/estoy-jalando-en-algo-que-no-queria-construir/",
-    "fecha": "21/08/2026 05:13",
-    "contenido": "Últimamente he dedicado ya bastante de mi tiempo en refinar y dar los últimos detalles a Hitz-Musik.net, y todo este tiempo me he puesto a pensar bastante en una contradicción que nunca vi venir (al chilindrín). La neta, me siento muy feliz de revivir el proyecto. ¡De verdad! Después de tantos años,"
   }
 ]
