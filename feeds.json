@@ -1,5 +1,40 @@
 [
   {
+    "blog": "Luis Carlos Pando",
+    "titulo": "Estoy en una etapa extrañísima en mi vida",
+    "link": "https://blog.luiscarlospando.com/personal/2026/09/estoy-en-una-etapa-extranisima-en-mi-vida/",
+    "fecha": "21/09/2026 01:42",
+    "contenido": "¿Qué onda? Oigan, pues aquí ando de nueva cuenta, después de un ratote de no sentarme a escribir. Pero ya era necesario sentarme y, pues, dar como que una pequeña actualización de lo que ha estado pasando en mi vida. Ya saben que este blog también es un espacio que uso como un diario, ¿no?"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Desde Oslo con Rico",
+    "link": "https://blog.danielaragay.net/desde-oslo-con-rico/",
+    "fecha": "20/09/2026 22:00",
+    "contenido": "Nuevo episodio del podcast: Desde Oslo con RicoEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/desde-oslo-con-rico"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Crítica manga Uzumaki (Junji Ito)",
+    "link": "https://labaudric.net/blog/manga/critica-uzumaki",
+    "fecha": "20/09/2026 20:36",
+    "contenido": "\nMi segunda lectura de este peculiar autor, Junji Ito, Uzumaki inicia en 1998 y termina al año siguiente, acumulando 658 páginas divididas en 3 tomos.\nAbramos el melón: es muy mal rollero. Cuando leí y critiqué Gyo me pregunté si el malrollismo era peculiar de esa obra en concreto, o si era el pecul"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La Mancha Conquense",
+    "link": "https://mareosdeungeek.es/la-mancha-conquense/",
+    "fecha": "20/09/2026 20:03",
+    "contenido": "Después de visitar Alarcón, la ruta por Cuenca continúo hasta La Mancha Conquense, el extremo suroccidental de la provincia e incluida en lo que sería La Mancha Alta. Allí estuve visitando Belmonte y Mota del Cuervo. Por añadir un poco de contexto antes de entrar en detalles. La comarca actual de La"
+  },
+  {
+    "blog": "zurdeando - Blog",
+    "titulo": "Manifiesto Offpunk",
+    "link": "https://zurdeando.daluar.net/blog/manifiesto-offpunk/",
+    "fecha": "20/09/2026 19:14",
+    "contenido": "Quería guardar aquí el Manifiesto Offpunk y algunos de los puntos que hace.\nEste manifiesto aboga por buscar la desconexión y la vuelta a lo analógico como acto de rebeldía\nfrente a la conexión permanente que la sociedad impone hoy en día.\nEsto es algo que resuena bastante conmigo: llevo con la idea"
+  },
+  {
     "blog": "labaudric",
     "titulo": "Crítica manga Parasyte",
     "link": "https://labaudric.net/blog/manga/cronica-parasyte",
@@ -39,7 +74,7 @@
     "titulo": "Montañas y atemporalidad",
     "link": "https://pedrolr.es/blog/montanas-y-atemporalidad/",
     "fecha": "19/09/2026 12:27",
-    "contenido": "Me gusta la montaña. No hago ni por asomo alta montaña, diría si acaso que media montaña, y no sé si las rutas que hago son grandes rutas. Charlando recientemente con una colega sobre escalada y montaña, me recomendó el libro \"La virtud en la montaña: Vindicación de un alpinismo lento, ilustrado y a"
+    "contenido": "Me gusta la montaña. No hago ni por asomo alta montaña, diría si acaso que media montaña, y no sé si las rutas que hago son grandes rutas. Charlando recientemente con una colega sobre escalada y montaña, me recomendó el libro \"La virtud en la montaña: vindicación de un alpinismo lento, ilustrado y a"
   },
   {
     "blog": "Tecno y Soft - Tecno y Soft",
@@ -728,6 +763,13 @@
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga)Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Hac"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Cambiar metadata de PDF en Linux",
+    "link": "https://chancli.dev/blog/cambiar-metadata-pdf-linux.html",
+    "fecha": "11/09/2026 00:00",
+    "contenido": "Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF.\nNormalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock"
+  },
+  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Integrando Memos con Android",
     "link": "https://vctrsnts.codeberg.page/posts/2026-09-11-memos-android/",
@@ -917,6 +959,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
+    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
+    "fecha": "09/09/2026 00:00",
+    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
+  },
+  {
     "blog": "NevatBlog",
     "titulo": "OS/2 Warp 3: cuando IBM quiso destronar a Windows",
     "link": "https://nevat.neocities.org/warp3_09092026.html",
@@ -1092,6 +1141,13 @@
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
+    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
+    "fecha": "07/09/2026 00:00",
+    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
+  },
+  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Immich - Migración de V2 a V3 en producción",
     "link": "https://vctrsnts.codeberg.page/posts/2026-09-07-migracion-immich-2/",
@@ -1174,13 +1230,6 @@
     "link": "http://frikoteca.blogspot.com/2026/09/clark-ashton-smith.html",
     "fecha": "06/09/2026 09:38",
     "contenido": "Durante muchos años, Clark Ashton Smith fue una especie de sagrado grial para mí. Sabía que era un contemporáneo de Lovecraft y Howard y que, de hecho, formaba una especie de tríada sagrada de la literatura pulp junto a esos dos mencionados autores. A Lovecraft, padre de los Mitos de Cthulhu, lo con"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 63 imágenes en Star Wars Outlaws, Nier",
-    "link": "https://labaudric.net/galeria/star-wars-outlaws",
-    "fecha": "06/09/2026 09:23",
-    "contenido": "      +57 más"
   },
   {
     "blog": "Tecno y Soft - Tecno y Soft",
@@ -1321,6 +1370,13 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacín",
+    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
+    "fecha": "03/09/2026 17:28",
+    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -1580,6 +1636,13 @@
     "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
     "fecha": "31/08/2026 03:00",
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Me he comprado el Pocketbook Inkpad One!",
+    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
   },
   {
     "blog": "Jorge Aguilera",
@@ -1869,13 +1932,6 @@
     "contenido": "\n  \n    Hace unos a&#241;os mencion&#233; de pasada el art&#237;culo \"Kids can't use computers... and this is why it should worry you\".\n  \n  Estoy bastante de acuerdo en que los ordenadores son una parte importante de nuestras vidas y vale la pena hacer un esfuerzo para aprender c&#243;mo funcionan,"
   },
   {
-    "blog": "danielaragay.net",
-    "titulo": "De novelas secuestradas, alarmas suecas y un nuevo rumbo",
-    "link": "https://blog.danielaragay.net/de-novelas-secuestradas-alarmas-suecas-y-un-nuevo-rumbo/",
-    "fecha": "26/08/2026 22:39",
-    "contenido": "&#x1f3a7; Escucha el episodio completo aqu&#xed;: Episodio: Decepcionado y cabreadoMuy buenas. Hoy es jueves 27 de agosto de 2026 y te escribo bastante enfadado, para qu&#xe9; te voy a enga&#xf1;ar.Si sigues mi contenido desde hace tiempo, recordar&#xe1;s que a finales de febrero"
-  },
-  {
     "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "Monitorizar la Wi-Fi con un alias",
     "link": "https://tecnoysoft.com/2026/08/26/monitorizar-la-wi-fi-con-un-alias/",
@@ -2112,12 +2168,5 @@
     "link": "https://gatooscuro.xyz/escribiendo-un-poco-sobre-lo-que-se-mueve-actualmente-en-la-red/",
     "fecha": "22/08/2026 08:14",
     "contenido": "Hoy es de esas madrugadas en que quiero hundirme en mis letras, más allá de mis pensamientos e introspección, que normalmente logro durante esas largas jornadas laborales. En donde no\nSeguir leyendo  Escribiendo un poco sobre lo que se mueve actualmente en la red\nEl cargo Escribiendo un poco sobre l"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Historial de navegación en Yacy",
-    "link": "https://nachof.blog/posts/2026/historial-de-navegacion-en-yacy/",
-    "fecha": "21/08/2026 23:05",
-    "contenido": "Hace un tiempo vengo usando SearXNG. Es un &ldquo;metabuscador&rdquo;: no tiene su propia base de datos, sino que delega la búsqueda a distintos buscadores, compila los resultados, y te arma la lista. La principal ventaja que tiene es que te sacás de arriba todos los resúmenes de &ldquo;IA&rdquo; de"
   }
 ]
