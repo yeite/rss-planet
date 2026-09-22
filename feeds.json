@@ -1,5 +1,19 @@
 [
   {
+    "blog": "NevatBlog",
+    "titulo": "Convey: un fork de Geary en GTK4",
+    "link": "https://nevat.neocities.org/convey_22092026.html",
+    "fecha": "22/09/2026 00:00",
+    "contenido": "Ante el lento desarrollo de Geary alguien ha hecho un fork, lo ha portado a GTK4 y ha corregido/mejorado varios aspectos de la aplicación."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Poquita fe",
+    "link": "https://mareosdeungeek.es/poquita-fe/",
+    "fecha": "21/09/2026 18:25",
+    "contenido": "Poquita fe es una comedia que puede verse en Movistar Plus+. Consta de dos temporadas, la primera con 12 episodios y la segunda con 8. La verdad es que se estrenaron en 2023 y 2025, así que desconozco si habrá una tercera. La serie es una creación de Pepón Montero y Juan Maidagán, protagonizada por "
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "AkademyES 2026. La reunión más social de #KDE España y simpatizantes del software libre",
     "link": "https://victorhckinthefreeworld.com/2026/09/21/akademyes-2026-la-reunion-mas-social-de-kde-espana-y-simpatizantes-del-software-libre/",
@@ -26,6 +40,13 @@
     "link": "https://www.fabio.com.ar/10035-paris-mon-amour-y-el-booking-enojado",
     "fecha": "21/09/2026 12:00",
     "contenido": "    \nCuando estabamos armando nuestras &uacute;ltimas vacaciones nos quedaba pendiente el &uacute;ltimo alojamiento, eran tres noches en Par&iacute;s y los pron&oacute;sticos de calor sofocante limitaban nuestras opciones (los franceses le tienen alergia al Aire Acondicionado), pero al fin dimos con"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Woodo",
+    "link": "https://cozykis.kisworld.es/analisis-de-woodo/",
+    "fecha": "21/09/2026 11:07",
+    "contenido": "No es solo un juego bonito, o las ganas de volver donde todo era más sencillo. También tiene unos puzles geniales\nLa entrada Análisis de Woodo se publicó primero en CozyKis."
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -82,6 +103,13 @@
     "link": "https://blog.luiscarlospando.com/personal/2026/09/estoy-en-una-etapa-extranisima-en-mi-vida/",
     "fecha": "21/09/2026 01:42",
     "contenido": "¿Qué onda? Oigan, pues aquí ando de nueva cuenta, después de un ratote de no sentarme a escribir. Pero ya era necesario sentarme y, pues, dar como que una pequeña actualización de lo que ha estado pasando en mi vida. Ya saben que este blog también es un espacio que uso como un diario, ¿no?"
+  },
+  {
+    "blog": "Maverick HQ",
+    "titulo": "weeknotes 26.5",
+    "link": "https://maverick-hq.org/blog/weeknotes-26-5/",
+    "fecha": "21/09/2026 00:00",
+    "contenido": "Estado actual: Viendo un gameplay de Silent Hill f en el canal de Peertube de Nico198x. Si no pone en el título que este juego es un Silent Hill, no me lo creo.\n¡Casi un mes de retraso!\nNo es culpa mía. Tan solo es que no tenía nada interesante/bueno que contar. Ha sido un mes de bajona. ¿Qué le vam"
   },
   {
     "blog": "danielaragay.net",
@@ -224,6 +252,13 @@
     "contenido": "\n\n\nEn general, no soy demasiado de escuchar audiolibros. Intenté alguna vez hace años, pero la verdad que no me enganchaba mucho. Pero hace un tiempo empezamos a escuchar audiolibros en familia, en viajes en auto. Al menos una vez por semana tenemos un viaje de media hora de ida y media hora de vuel"
   },
   {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Welcome To Mars 9",
+    "link": "https://cozykis.kisworld.es/analisis-de-welcome-to-mars-9/",
+    "fecha": "18/09/2026 11:04",
+    "contenido": "Explora una nave espacial y descubre que se esconde detrás de este mundo idilico\nLa entrada Análisis de Welcome To Mars 9 se publicó primero en CozyKis."
+  },
+  {
     "blog": "Del Otro Lado Metal",
     "titulo": "El Dragón: Combatiente | Manteniendo La Coherencia",
     "link": "https://www.delotroladometal.com.ar/2026/09/18/manteniendo-la-coherencia/",
@@ -320,6 +355,13 @@
     "link": "https://www.fabio.com.ar/10033-ruleta-rusa-894",
     "fecha": "17/09/2026 12:00",
     "contenido": "     Pegu&eacute;monos una vueltita en la Ruleta\nBueno, se me vino el jueves encima, con tantas cosas por hacer casi no me doy cuenta, pero siempre hay un relojito que me avisa que es hora de preparar una ruleta y dejarles las balas servidas, aqu&iacute; est&aacute;.\nAhora s&iacute;, Ruleta Rusa!Cre"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Asgard’s Fall — Viking Survivors",
+    "link": "https://cozykis.kisworld.es/analisis-de-asgards-fall-viking-survivors/",
+    "fecha": "17/09/2026 10:54",
+    "contenido": "Adéntrate en un mundo vikingo acompañado de seres mitológicos para derrotar a malvados jefes y enemigos por un tubo\nLa entrada Análisis de Asgard&#8217;s Fall — Viking Survivors se publicó primero en CozyKis."
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -474,6 +516,13 @@
     "link": "https://www.fabio.com.ar/10031-las-ai-que-nos-mataran-a-todos",
     "fecha": "15/09/2026 12:00",
     "contenido": "    \nLa semana pasada el \"cuco\" era lanzado a los medios cual acci&oacute;n de psi-ops cl&aacute;sica, un tal Jacob Coxon, supuesto empleado de Anthropic y ex OpenAI, renunciaba a su puesto de apenas cuatro meses porque la empresa no hac&iacute;a nada para impedir que Claude nos matara a todos.\nEl m"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Nothing Strange Here",
+    "link": "https://cozykis.kisworld.es/analisis-de-nothing-strange-here/",
+    "fecha": "15/09/2026 10:54",
+    "contenido": "Cámara en mano nos tocará explorar y capturar todo los sucesos extraños que veamos en este pueblo tan acogedor\nLa entrada Análisis de Nothing Strange Here se publicó primero en CozyKis."
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -777,6 +826,13 @@
     "contenido": "(2023 &#8211; Nordic Mission) A la espera de su nuevo álbum, que en cualquier momento...\nThe post Jernlov: Resurrection | Dándole Aire Al Black Metal first appeared on Del Otro Lado Metal."
   },
   {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Cozy Caravan",
+    "link": "https://cozykis.kisworld.es/analisis-de-cozy-caravan/",
+    "fecha": "11/09/2026 10:30",
+    "contenido": "Elige al animal más adorable, coge las riendas de tu carromato y explora este bonito mundo mientras repartes felicidad\nLa entrada Análisis de Cozy Caravan se publicó primero en CozyKis."
+  },
+  {
     "blog": "Mi perra vida",
     "titulo": "Mi perra vida | Temporada 2026, episodio 37.",
     "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-37/",
@@ -809,7 +865,7 @@
     "titulo": "Tente Expo 2026... En Fuengirola (Málaga)",
     "link": "https://malagaoriginal.blogspot.com/2026/09/tente-expo-2026-en-fuengirola.html",
     "fecha": "11/09/2026 05:05",
-    "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga)Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Hac"
+    "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga).Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Ha"
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -845,6 +901,13 @@
     "link": "https://www.fabio.com.ar/10028-ruleta-rusa-893",
     "fecha": "10/09/2026 12:00",
     "contenido": "     La patota ruletera ha llegado\nBueno, basta de piloto autom&aacute;tico, ac&aacute; estoy ruleteando para ustedes &iquest;C&oacute;mo est&aacute;n? &iquest;Vivos? Pues si la respuesta es ambigua prueben con una de estas balas, por ah&iacute; los revive o los termina liquidando 😅\nAhora s&iacute;,"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Fofumia",
+    "link": "https://cozykis.kisworld.es/analisis-de-fofumia/",
+    "fecha": "10/09/2026 10:36",
+    "contenido": "Tiene michis cíclopes que causarán el caos mientras nosotres nos relajamos intentando poner un poco de orden\nLa entrada Análisis de Fofumia se publicó primero en CozyKis."
   },
   {
     "blog": "Galerías Preciados",
@@ -1001,6 +1064,13 @@
     "contenido": "En 1994 IBM lanzó su apuesta más ambiciosa por la informática empresarial y, como novedad, la personal: OS/2 Warp 3."
   },
   {
+    "blog": "CozyKis",
+    "titulo": "Fall in Love 2026. Juegos, demos y más",
+    "link": "https://cozykis.kisworld.es/fall-in-love-2026-juegos-demos-y-mas/",
+    "fecha": "08/09/2026 19:09",
+    "contenido": "Un resumen del evento de Stea Fall in Love 2026 que reúne un montón ed novelas visuales que tratan sobre el amor y más\nLa entrada Fall in Love 2026. Juegos, demos y más se publicó primero en CozyKis."
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "#Trailer: The Legend of Zelda: Ocarina of Time (NSW 2)",
     "link": "https://blog.luiscarlospando.com/gaming/2026/09/trailer-the-legend-of-zelda-ocarina-of-time-nsw-2/",
@@ -1034,6 +1104,13 @@
     "link": "https://mareosdeungeek.es/videojuegos-novedades-y-noticias-de-verano-gamescom-y-state-of-play/",
     "fecha": "08/09/2026 11:30",
     "contenido": "El verano siempre ha sido uno de los grandes momentos para el mercado de los videojuegos. Las vacaciones escolares, cuando estaban enfocados a un público más infantil y juvenil, además de los anuncios para el final de año, marcaban la actividad. Personalmente, coincidía con mi cumpleaños, así que er"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de DEVIL’S LIMINAL",
+    "link": "https://cozykis.kisworld.es/analisis-de-devils-liminal/",
+    "fecha": "08/09/2026 10:37",
+    "contenido": "Consigue unir de manera magistral el terror por las cosas sobrenaturales con lo cotidiano para hacernos sufrir y disfrutar por igual\nLa entrada Análisis de DEVIL&#8217;S LIMINAL se publicó primero en CozyKis."
   },
   {
     "blog": "impermanente",
@@ -1099,11 +1176,18 @@
     "contenido": "El virtuosismo de Paul Gilbert en la guitarra. El ex guitarrista de Mr. Big se presentó en el Teatro Cariola con el tour de promoción de su más reciente disco solista: WROC. Un lujo de espectáculo. (Teatro Cariola, Santiago, viernes 4 de septiembre de 2026)"
   },
   {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Lock & Key: A Magical Girl Mystery",
+    "link": "https://cozykis.kisworld.es/analisis-de-lock-key-a-magical-girl-mystery/",
+    "fecha": "07/09/2026 10:36",
+    "contenido": "La historia va más allá del poder de la amistad y como la relación de cuatro chicas puede ayudar (o no) a salvar el mundo\nLa entrada Análisis de Lock &amp; Key: A Magical Girl Mystery se publicó primero en CozyKis."
+  },
+  {
     "blog": "matizeta",
     "titulo": "Curaduría de entradas",
     "link": "https://matizeta.com/2026/09/07/curaduria-de-entradas/",
     "fecha": "07/09/2026 08:11",
-    "contenido": "Para que cada una de ellas envejezcan de la mejor manera posible.Entradas relacionadas:Mis blogs-categoríasRediseño del pie de las entradas del blogLecturas recomendadas #5Lecturas recomendadas #8Apple lanzaría al mundo lo menos esperado: la Mac&hellip;"
+    "contenido": "Para que cada una de ellas envejezcan de la mejor manera posible.Entradas relacionadas:¿Qué debería hacer con estas fotos?Apple lanzaría al mundo lo menos esperado: la Mac&hellip;CambiosRediseño del pie de las entradas del blogLecturas recomendadas #5"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1323,6 +1407,13 @@
     "contenido": ""
   },
   {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Crimson Waves on the Emerald Sea: Amaranthine Moon",
+    "link": "https://cozykis.kisworld.es/analisis-de-crimson-waves-on-the-emerald-sea-amaranthine-moon/",
+    "fecha": "04/09/2026 10:23",
+    "contenido": "Tres señores muy guapos para ligar, un asesinato y nuestra decisión de convertirnos en vampiresa. Todo con una ambientación victoriana\nLa entrada Análisis de Crimson Waves on the Emerald Sea: Amaranthine Moon se publicó primero en CozyKis."
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Málaga MSX Meeting 2026",
     "link": "https://malagaoriginal.blogspot.com/2026/09/malaga-msx-meeting-26.html",
@@ -1342,6 +1433,13 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacín",
+    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
+    "fecha": "03/09/2026 17:28",
+    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -2098,12 +2196,5 @@
     "link": "https://56k.es/fanta/juegos-que-me-he-pasado/",
     "fecha": "23/08/2026 06:00",
     "contenido": "2026 Giana Sisters DS &#8211; Nintendo DSi &#8211; Ago 2026 El profesor Layton y la villa misteriosa &#8211; Nintendo DSi &#8211; Ago 2026 Manic Miner &#8211; ZX Spectrum &#8211; Ago 2026 Castlevania: Portrait of Ruin &#8211; Nintendo DSi &#8211; Jul 2026 Super Mario Odyssey &#8211; Nintendo Switch "
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Mi colección de rol en números e idiomas",
-    "link": "http://frikoteca.blogspot.com/2026/08/mi-coleccion-de-rol-en-numeros-e-idiomas.html",
-    "fecha": "22/08/2026 19:12",
-    "contenido": "\nEsta entrada es una respuesta a una del mismo nombre, escrita por mi hermano el mes pasado: Mi colección de rol en números e idiomas en El Rincón del Maestro Terrax. La entrada tenía como objetivo determinar de una vez por todas si en su colección rolera había más libros en inglés o más libros en e"
   }
 ]
