@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 24 Sep 2026 02:07:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 10:42:45 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,30 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Usando Haiku OS en 2026 en el portátil personal</title>
+<link>https://56k.es/fanta/usando-haiku-os-en-2026-en-el-portatil-personal/</link>
+<guid isPermaLink="true">https://56k.es/fanta/usando-haiku-os-en-2026-en-el-portatil-personal/</guid>
+<pubDate>Wed, 23 Sep 2026 21:04:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Haiku @haiku@mastodon.xyz es un sistema operativo libre que sigue en desarrollo (hace muy poco sacaron nueva release). Inspirado en BeOS actualmente te permite muchas cosas que voy a tratar de dejar por aquí descritas. Por ejemplo puedes usar Libreoffice, Keepassxc, Inkscape, Gimp, Scribus, Firefox,<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>Autoreverse – El retorno del cassette</title>
+<link>https://56k.es/fanta/autoreverse-el-retorno-del-cassette/</link>
+<guid isPermaLink="true">https://56k.es/fanta/autoreverse-el-retorno-del-cassette/</guid>
+<pubDate>Wed, 23 Sep 2026 19:41:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Oscar Sánchez Requena (artista conocido como OSR @osr@mastodon.art ) es un máquina. Dentro de su «maquinariedad» cabe destacar su faceta artística pero también su maravillosa obsesión por las cintas de cassete. No voy a ponerme a contar que vive en Portugal, que utiliza en su creación software libre<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>audric subió 3 imágenes en Nier</title>
+<link>https://labaudric.net/galeria/nier</link>
+<guid isPermaLink="true">https://labaudric.net/galeria/nier</guid>
+<pubDate>Wed, 23 Sep 2026 19:35:00 GMT</pubDate>
+<category>labaudric</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> labaudric]]></description>
+</item>
 <item>
 <title>No necesitas usar IA para todo</title>
 <link>https://matizeta.com/2026/09/23/no-necesitas-usar-ia-para-todo/</link>
@@ -66,14 +90,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Hace unos meses criticaba la pel&amp;iacute;cula &quot;War Machine&quot; por la cantidad de estupideces y lugares comunes del gui&amp;oacute;n, hoy har&amp;eacute; lo mismo con &quot;The End of Oak Street&quot; porque ya es inaguantable c&amp;oacute;mo el cine actual toma por est&amp;uacute;pido al espectador. No, no se trata de que<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
 </item>
 <item>
-<title>También Anuncian Gira Junto A Demon Hunter | Wolves At The Gate Estrena Single</title>
-<link>https://www.delotroladometal.com.ar/2026/09/23/wolves-at-the-gate-estrena-single/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/09/23/wolves-at-the-gate-estrena-single/</guid>
-<pubDate>Wed, 23 Sep 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Parece que entre cazadores de demonios y los lobos en la puerta se entienden, y... The post También Anuncian Gira Junto A Demon Hunter | Wolves At The Gate Estrena Single first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
 <title>¿Apocalispsis informático? No, se trata de evitar responsabilidad legal</title>
 <link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/23/20260923-no-apocalipsis-informatico-sino-evitar-rresponsabilidades/</link>
 <guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/23/20260923-no-apocalipsis-informatico-sino-evitar-rresponsabilidades/</guid>
@@ -106,12 +122,12 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[#Arte #falsificadoresdelArte #HanVanMeegeren #podcast #historiadelArte De falsificador a héroe local En el episodio de El Sueño del Artista dedicado a Han van Meegeren contamos la historia del pintor despreciado que, armado con pinceles y un rencor infinito, creó falsos Vermeer tan perfectos que eng<br><br><strong>Fuente:</strong> El Sueño del Artista Blog]]></description>
 </item>
 <item>
-<title>Una página de now que carga el contenido automáticamente</title>
-<link>https://pedrolr.es/blog/una-pagina-de-now-que-carga-el-contenido-automaticamente/</link>
-<guid isPermaLink="true">https://pedrolr.es/blog/una-pagina-de-now-que-carga-el-contenido-automaticamente/</guid>
-<pubDate>Wed, 23 Sep 2026 03:01:00 GMT</pubDate>
-<category>pedrolr blog</category>
-<description><![CDATA[He abierto una página de now (ahora): https://pedrolr.es/now/. Está hecha con PHP e incluye 4 secciones: útimos posts en el blog, lecturas, mis últimos papers, preprints, etc., y los últimos enlaces que me he guardado. Lo mejor de todo es que es automática con PHP. Pilla la información de los feeds<br><br><strong>Fuente:</strong> pedrolr blog]]></description>
+<title>El blog ahora tiene licencia</title>
+<link>https://blog.neosite.com.ar/post/el-blog-ahora-tiene-licencia</link>
+<guid isPermaLink="true">https://blog.neosite.com.ar/post/el-blog-ahora-tiene-licencia</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+<category>NeoSite Blog</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> NeoSite Blog]]></description>
 </item>
 <item>
 <title>La materia de las sombras</title>
@@ -136,14 +152,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 22 Sep 2026 14:00:00 GMT</pubDate>
 <category>Bitácora de fernand0</category>
 <description><![CDATA[Vivimos tiempos interesantes (¿cuándo hemos dejado de vivirlos?). Ahora, gracias a los distintos servicios de IA, se empieza a detectar una tendencia muy llamativa: los programas para uno solo o la informática verdaderamente «personal». Claro que esto tiene sus matices: aunque se suele decir que c<br><br><strong>Fuente:</strong> Bitácora de fernand0]]></description>
-</item>
-<item>
-<title>Presentación en León</title>
-<link>https://www.ericafustero.com/2026-09-presentacion-en-leon</link>
-<guid isPermaLink="true">https://www.ericafustero.com/2026-09-presentacion-en-leon</guid>
-<pubDate>Tue, 22 Sep 2026 12:58:00 GMT</pubDate>
-<category>Erica Fustero</category>
-<description><![CDATA[La semana que viene estaré en León presentando Erica a diario en la maravillosa librería Tula Varona acompañada de la periodista y escritora Eloísa Otero. Será el martes 29 a las 20h y, como siempre, hablaremos de cómo surgió el proyecto y de mi proceso de trabajo, responderé a las preguntas del púb<br><br><strong>Fuente:</strong> Erica Fustero]]></description>
 </item>
 <item>
 <title>Los atajos salen caros, también en defensa.</title>
@@ -176,14 +184,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 22 Sep 2026 11:06:00 GMT</pubDate>
 <category>CozyKis</category>
 <description><![CDATA[Un roguelike inspirado en el billar francés en el que tendremos que lograr puntuaciones imposibles a base de rebotes La entrada Análisis de Carnaval Marbles se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
-</item>
-<item>
-<title>Lo Escuchamos En Su Totalidad Y Te Adelantamos De Qué Se Trata | “Throne Of Thorns” De Stryper Está A La Vuelta De La Esquina</title>
-<link>https://www.delotroladometal.com.ar/2026/09/22/throne-of-thorns-de-stryper-esta-a-la-vuelta-de-la-esquina/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/09/22/throne-of-thorns-de-stryper-esta-a-la-vuelta-de-la-esquina/</guid>
-<pubDate>Tue, 22 Sep 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Los legendarios pioneros del Metal Cristiano Stryper regresan con un nuevo y imponente capítulo en... The post Lo Escuchamos En Su Totalidad Y Te Adelantamos De Qué Se Trata | “Throne Of Thorns” De Stryper Está A La Vuelta De La Esquina first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
 </item>
 <item>
 <title>Configurar mando en Steam</title>
