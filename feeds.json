@@ -1,5 +1,26 @@
 [
   {
+    "blog": "56K",
+    "titulo": "Usando Haiku OS en 2026 en el portátil personal",
+    "link": "https://56k.es/fanta/usando-haiku-os-en-2026-en-el-portatil-personal/",
+    "fecha": "23/09/2026 21:04",
+    "contenido": "Haiku @haiku@mastodon.xyz es un sistema operativo libre que sigue en desarrollo (hace muy poco sacaron nueva release). Inspirado en BeOS actualmente te permite muchas cosas que voy a tratar de dejar por aquí descritas. Por ejemplo puedes usar Libreoffice, Keepassxc, Inkscape, Gimp, Scribus, Firefox,"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Autoreverse – El retorno del cassette",
+    "link": "https://56k.es/fanta/autoreverse-el-retorno-del-cassette/",
+    "fecha": "23/09/2026 19:41",
+    "contenido": "Oscar Sánchez Requena (artista conocido como OSR @osr@mastodon.art ) es un máquina. Dentro de su «maquinariedad» cabe destacar su faceta artística pero también su maravillosa obsesión por las cintas de cassete. No voy a ponerme a contar que vive en Portugal, que utiliza en su creación software libre"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió 3 imágenes en Nier",
+    "link": "https://labaudric.net/galeria/nier",
+    "fecha": "23/09/2026 19:35",
+    "contenido": "  "
+  },
+  {
     "blog": "matizeta",
     "titulo": "No necesitas usar IA para todo",
     "link": "https://matizeta.com/2026/09/23/no-necesitas-usar-ia-para-todo/",
@@ -42,13 +63,6 @@
     "contenido": "    \nHace unos meses criticaba la pel&iacute;cula \"War Machine\" por la cantidad de estupideces y lugares comunes del gui&oacute;n, hoy har&eacute; lo mismo con \"The End of Oak Street\" porque ya es inaguantable c&oacute;mo el cine actual toma por est&uacute;pido al espectador.\nNo, no se trata de que "
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "También Anuncian Gira Junto A Demon Hunter | Wolves At The Gate Estrena Single",
-    "link": "https://www.delotroladometal.com.ar/2026/09/23/wolves-at-the-gate-estrena-single/",
-    "fecha": "23/09/2026 10:35",
-    "contenido": "Parece que entre cazadores de demonios y los lobos en la puerta se entienden, y...\nThe post También Anuncian Gira Junto A Demon Hunter | Wolves At The Gate Estrena Single first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "¿Apocalispsis informático? No, se trata de evitar responsabilidad legal",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/23/20260923-no-apocalipsis-informatico-sino-evitar-rresponsabilidades/",
@@ -77,11 +91,11 @@
     "contenido": "#Arte #falsificadoresdelArte #HanVanMeegeren #podcast #historiadelArte De falsificador a héroe local En el episodio de El Sueño del Artista dedicado a Han van Meegeren contamos la historia del pintor despreciado que, armado con pinceles y un rencor infinito, creó falsos Vermeer tan perfectos que eng"
   },
   {
-    "blog": "pedrolr blog",
-    "titulo": "Una página de now que carga el contenido automáticamente",
-    "link": "https://pedrolr.es/blog/una-pagina-de-now-que-carga-el-contenido-automaticamente/",
-    "fecha": "23/09/2026 03:01",
-    "contenido": "He abierto una página de now (ahora): https://pedrolr.es/now/. Está hecha con PHP e incluye 4 secciones: útimos posts en el blog, lecturas, mis últimos papers, preprints, etc., y los últimos enlaces que me he guardado. Lo mejor de todo es que es automática con PHP. Pilla la información de los feeds "
+    "blog": "NeoSite Blog",
+    "titulo": "El blog ahora tiene licencia",
+    "link": "https://blog.neosite.com.ar/post/el-blog-ahora-tiene-licencia",
+    "fecha": "23/09/2026 00:00",
+    "contenido": ""
   },
   {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
@@ -103,13 +117,6 @@
     "link": "https://blog.elmundoesimperfecto.com/2026/09/22/programas-personales/",
     "fecha": "22/09/2026 14:00",
     "contenido": "\n\nVivimos tiempos interesantes (¿cuándo hemos dejado de vivirlos?). Ahora, gracias a los distintos servicios de IA, se empieza a detectar una tendencia muy llamativa: los programas para uno solo o la informática verdaderamente «personal». Claro que esto tiene sus matices: aunque se suele decir que c"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Presentación en León",
-    "link": "https://www.ericafustero.com/2026-09-presentacion-en-leon",
-    "fecha": "22/09/2026 12:58",
-    "contenido": "La semana que viene estaré en León presentando Erica a diario en la maravillosa librería Tula Varona acompañada de la periodista y escritora Eloísa Otero. Será el martes 29 a las 20h y, como siempre, hablaremos de cómo surgió el proyecto y de mi proceso de trabajo, responderé a las preguntas del púb"
   },
   {
     "blog": "fernand0 @ GitHub.io",
@@ -138,13 +145,6 @@
     "link": "https://cozykis.kisworld.es/analisis-de-carnaval-marbles/",
     "fecha": "22/09/2026 11:06",
     "contenido": "Un roguelike inspirado en el billar francés en el que tendremos que lograr puntuaciones imposibles a base de rebotes\nLa entrada Análisis de Carnaval Marbles se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Lo Escuchamos En Su Totalidad Y Te Adelantamos De Qué Se Trata | “Throne Of Thorns” De Stryper Está A La Vuelta De La Esquina",
-    "link": "https://www.delotroladometal.com.ar/2026/09/22/throne-of-thorns-de-stryper-esta-a-la-vuelta-de-la-esquina/",
-    "fecha": "22/09/2026 10:35",
-    "contenido": "Los legendarios pioneros del Metal Cristiano Stryper regresan con un nuevo y imponente capítulo en...\nThe post Lo Escuchamos En Su Totalidad Y Te Adelantamos De Qué Se Trata | “Throne Of Thorns” De Stryper Está A La Vuelta De La Esquina first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "AsturGeek V3",
@@ -182,13 +182,6 @@
     "contenido": "Ante el lento desarrollo de Geary alguien ha hecho un fork, lo ha portado a GTK4 y ha corregido/mejorado varios aspectos de la aplicación."
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Poquita fe",
-    "link": "https://mareosdeungeek.es/poquita-fe/",
-    "fecha": "21/09/2026 18:25",
-    "contenido": "Poquita fe es una comedia que puede verse en Movistar Plus+. Consta de dos temporadas, la primera con 12 episodios y la segunda con 8. La verdad es que se estrenaron en 2023 y 2025, así que desconozco si habrá una tercera. La serie es una creación de Pepón Montero y Juan Maidagán, protagonizada por "
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "AkademyES 2026. La reunión más social de #KDE España y simpatizantes del software libre",
     "link": "https://victorhckinthefreeworld.com/2026/09/21/akademyes-2026-la-reunion-mas-social-de-kde-espana-y-simpatizantes-del-software-libre/",
@@ -224,25 +217,11 @@
     "contenido": "No es solo un juego bonito, o las ganas de volver donde todo era más sencillo. También tiene unos puzles geniales\nLa entrada Análisis de Woodo se publicó primero en CozyKis."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Rev Seven: Heavy Laden Volume I | Recordando Viejos Tiempos",
-    "link": "https://www.delotroladometal.com.ar/2026/09/21/recordando-viejos-tiempos/",
-    "fecha": "21/09/2026 10:40",
-    "contenido": "(2025 &#8211; Retroactive Records) Bill Menchen es un tipo no muy conocido por estas tierras,...\nThe post Rev Seven: Heavy Laden Volume I | Recordando Viejos Tiempos first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "manje.net",
     "titulo": "Astra Launches New Strategy Roadmap: Focus, Clarity, Discipline, Commitment",
     "link": "https://blog.manje.net/astra-launches-new-strategy-roadmap-focus-clarity-discipline-commitment/",
     "fecha": "21/09/2026 09:35",
     "contenido": "The corporate landscape continues to evolve at a rapid pace, requiring major industrial conglomerates to adapt their operational frameworks continuously. In response to emerging market trends and global economic shifts, Astra has announced the launch of its new strategic direction. &#8230; Sigue ley"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Reflexión acerca de la guerra entre Rusia y Ucrania",
-    "link": "https://gatooscuro.xyz/reflexion-acerca-de-la-guerra-entre-rusia-y-ucrania/",
-    "fecha": "21/09/2026 08:14",
-    "contenido": "Desde el principio quiero aclarar que no estoy a favor de ningún bando. Son dos naciones con una larga historia, cada una con sus razones y motivaciones que, desde mi\nSeguir leyendo  Reflexión acerca de la guerra entre Rusia y Ucrania\nEl cargo Reflexión acerca de la guerra entre Rusia y Ucrania apar"
   },
   {
     "blog": "matizeta",
@@ -301,13 +280,6 @@
     "contenido": "\nMi segunda lectura de este peculiar autor, Junji Ito, Uzumaki inicia en 1998 y termina al año siguiente, acumulando 658 páginas divididas en 3 tomos.\nAbramos el melón: es muy mal rollero. Cuando leí y critiqué Gyo me pregunté si el malrollismo era peculiar de esa obra en concreto, o si era el pecul"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "La Mancha Conquense",
-    "link": "https://mareosdeungeek.es/la-mancha-conquense/",
-    "fecha": "20/09/2026 20:03",
-    "contenido": "Después de visitar Alarcón, la ruta por Cuenca continúo hasta La Mancha Conquense, el extremo suroccidental de la provincia e incluida en lo que sería La Mancha Alta. Allí estuve visitando Belmonte y Mota del Cuervo. Por añadir un poco de contexto antes de entrar en detalles. La comarca actual de La"
-  },
-  {
     "blog": "zurdeando - Blog",
     "titulo": "Manifiesto Offpunk",
     "link": "https://zurdeando.daluar.net/blog/manifiesto-offpunk/",
@@ -350,25 +322,11 @@
     "contenido": ""
   },
   {
-    "blog": "pedrolr blog",
-    "titulo": "Montañas y atemporalidad",
-    "link": "https://pedrolr.es/blog/montanas-y-atemporalidad/",
-    "fecha": "19/09/2026 12:27",
-    "contenido": "Me gusta la montaña. No hago ni por asomo alta montaña, diría si acaso que media montaña, y no sé si las rutas que hago son grandes rutas. Charlando recientemente con una colega sobre escalada y montaña, me recomendó el libro \"La virtud en la montaña: vindicación de un alpinismo lento, ilustrado y a"
-  },
-  {
     "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "Administración de Manjaro una guía práctica para el día a día",
     "link": "https://tecnoysoft.com/2026/09/19/administracion-de-manjaro-una-guia-practica-para-el-dia-a-dia/",
     "fecha": "19/09/2026 12:04",
     "contenido": "Administración de Manjaro: paquetes, actualizaciones, Flatpak y AUR Manjaro es una distribución basada en Arch Linux que busca ofrecer una experiencia de escritorio accesible manteniendo buena parte de la flexibilidad de su sistema de paquetes. Para administrarlo correctamente conviene conocer sus p"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Líder De Lament Fallece Por Causas Naturales | Se Nos Fue Abel Gómez",
-    "link": "https://www.delotroladometal.com.ar/2026/09/19/queremos-regresar-a-nuestras-raices-del-primer-album/",
-    "fecha": "19/09/2026 11:35",
-    "contenido": "Otro guerrero más que se nos va. Según informó su familia hace unas horas, el...\nThe post El Líder De Lament Fallece Por Causas Naturales | Se Nos Fue Abel Gómez first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Tecno y Soft - Tecno y Soft",
@@ -434,13 +392,6 @@
     "contenido": "Explora una nave espacial y descubre que se esconde detrás de este mundo idilico\nLa entrada Análisis de Welcome To Mars 9 se publicó primero en CozyKis."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Dragón: Combatiente | Manteniendo La Coherencia",
-    "link": "https://www.delotroladometal.com.ar/2026/09/18/manteniendo-la-coherencia/",
-    "fecha": "18/09/2026 10:45",
-    "contenido": "(2026 &#8211; Metal Command) Si hay una banda que siempre mantuvo la coherencia, tanto desde...\nThe post El Dragón: Combatiente | Manteniendo La Coherencia first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Mi perra vida",
     "titulo": "Mi perra vida | Temporada 2026, episodio 38.",
     "link": "https://miperravida.anacronico.rocks/doctor-nomada-decimo-cuarta-parte/",
@@ -490,13 +441,6 @@
     "contenido": "En la época comercial de los 8 bits había muy poco software libre porque era un concepto bastante nuevo y la mayoría de la gente no sabía lo que era y lo que significaba, pero si había programas que desde el principio se habían declarado de dominio público como diversas utilidades para CP/M.Sin emba"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "España partida en dos",
-    "link": "https://mareosdeungeek.es/espana-partida-en-dos/",
-    "fecha": "17/09/2026 18:23",
-    "contenido": "España partida en dos en su versión de novela gráfica es la adaptación de la versión ampliada y actualizada del libro que el historiador Julián Casanova presentó en el año 2022. El texto original se adapta por parte de Miguel Casanova (hijo de Julián) con las imágenes dibujadas por Carles Esquembre."
-  },
-  {
     "blog": "THE_CHEI$",
     "titulo": "El manifiesto que también fue publicidad",
     "link": "https://thecheis.com/2026/09/17/el-manifiesto-que-tambien-fue-publicidad/",
@@ -539,13 +483,6 @@
     "contenido": "Adéntrate en un mundo vikingo acompañado de seres mitológicos para derrotar a malvados jefes y enemigos por un tubo\nLa entrada Análisis de Asgard&#8217;s Fall — Viking Survivors se publicó primero en CozyKis."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Jacobs Dream: Jacobs Dream | Un Verdadero Disco De Culto",
-    "link": "https://www.delotroladometal.com.ar/2026/09/17/un-verdadero-disco-de-culto/",
-    "fecha": "17/09/2026 10:35",
-    "contenido": "(2000 &#8211; Metal Blade/Nems Enterprises) Revisar el pasado, buscar, indagar, no quedarse con lo que...\nThe post Jacobs Dream: Jacobs Dream | Un Verdadero Disco De Culto first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "56K",
     "titulo": "FurorTV – El Netflix para gente de izquierdas",
     "link": "https://56k.es/fanta/furor-tv-causa-furor-en-su-primer-dia-de-crowdfunding/",
@@ -572,13 +509,6 @@
     "link": "https://labaudric.net/videos/nier/6916",
     "fecha": "16/09/2026 23:00",
     "contenido": ""
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "La vida de Chuck",
-    "link": "https://mareosdeungeek.es/la-vida-de-chuck/",
-    "fecha": "16/09/2026 19:22",
-    "contenido": "La vida de Chuck es una película de ciencia ficción con elementos de drama y cine fantástico. Bastante original, con un final curioso y con grandes nombres, sobre todo en su concepción. Porque La vida de Chuck está basada en el libro del mismo título de Stephen King, con guion y dirección de Mike Fl"
   },
   {
     "blog": "La Frikoteca",
@@ -621,13 +551,6 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/16/20260916-buckmaster-navier-stokes/",
     "fecha": "16/09/2026 08:00",
     "contenido": "Un LLM ha resuelto un problema matemático importante, OpenAI ha tomado las conversaciones de los matemáticos con el chatbot y las fusilaron"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "Bienvenidos al teatro de la innovación",
-    "link": "https://brucknerite.net/2026/09/bienvenidos-al-teatro-de-la-innovacion.html",
-    "fecha": "16/09/2026 08:00",
-    "contenido": "La innovación, algo a cuya práctica me he dedicado personalmente muchos años, tiene «sus cosas». Podría contarlo en página tras página de seria prosa apta para LinkedIn, pero, ¿por qué no hacerlo sobre el escenario de un teatro?"
   },
   {
     "blog": "_ voidNull",
@@ -700,25 +623,11 @@
     "contenido": "Cámara en mano nos tocará explorar y capturar todo los sucesos extraños que veamos en este pueblo tan acogedor\nLa entrada Análisis de Nothing Strange Here se publicó primero en CozyKis."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista Con Fabián De La Torre Del Fanzine Metalica | “El Heavy Metal Está En Contra Del Sistema, No A Favor”",
-    "link": "https://www.delotroladometal.com.ar/2026/09/15/el-heavy-metal-esta-en-contra-del-sistema-no-a-favor/",
-    "fecha": "15/09/2026 10:35",
-    "contenido": "Descubrí el fanzine Metalica a principios de siglo, creo que por el año 2000 o...\nThe post Entrevista Con Fabián De La Torre Del Fanzine Metalica | “El Heavy Metal Está En Contra Del Sistema, No A Favor” first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Iconic: personaliza iconos y colores de Obsidian",
     "link": "https://guillermolatorre.com/clips/iconic-personaliza-iconos-y-colores-de-obsidian",
     "fecha": "15/09/2026 09:20",
     "contenido": "Un plugin que funciona de maravilla para añadir iconos personalizados a Obsidian: carpetas, notas,Ir al enlace"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Que la alternativa no sea peor que lo que reemplaza",
-    "link": "https://gatooscuro.xyz/que-la-alternativa-no-sea-peor-que-lo-que-reemplaza/",
-    "fecha": "15/09/2026 06:51",
-    "contenido": "Quien lleve tiempo leyéndome conoce que paso más tiempo en Internet que socializando con cualquier persona físicamente, y no, no es nada de orgullo; de hecho, hay carencias sociales, pero\nSeguir leyendo  Que la alternativa no sea peor que lo que reemplaza\nEl cargo Que la alternativa no sea peor que "
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -784,13 +693,6 @@
     "contenido": "Una app para Mac o Windows que altera los colores y la textura de la pantalla para simular algo más analógico, como si estuviera impresa en papel.Ir al enlace"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Estater: Esquizofrenia Diabólica | Una Vuelta A Las Raíces De Lo Extremo",
-    "link": "https://www.delotroladometal.com.ar/2026/09/14/una-vuelta-a-las-raices-de-lo-extremo/",
-    "fecha": "14/09/2026 10:35",
-    "contenido": "(2026 &#8211; Kongsblod Records) Muchas veces se confunde la nostalgia con el &#8220;volver a las...\nThe post Estater: Esquizofrenia Diabólica | Una Vuelta A Las Raíces De Lo Extremo first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "matizeta",
     "titulo": "Imprime tu diario personal",
     "link": "https://matizeta.com/2026/09/14/imprime-tu-diario-personal/",
@@ -810,20 +712,6 @@
     "link": "https://56k.es/fanta/abrir-cuenta-en-mastodon-en-1-solo-paso/",
     "fecha": "14/09/2026 07:03",
     "contenido": "Abrir una cuenta en Mastodon es muy sencillo. No voy a tratar de explicar que Mastodon pertenece a lo que se llama «el Fediverso» esta vez y voy a ir directo al grano si lo que buscas es abrir una cuenta en lo que llaman «Mastodon». Paso 1: Elige un Nodo de los que quieras...."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Curso 2026/27",
-    "link": "https://mareosdeungeek.es/curso-2026-27/",
-    "fecha": "14/09/2026 07:00",
-    "contenido": "Después del largo verano, hora de volver a la rutina. No será hoy, será mañana, cuando mi hijo empiece otra nueva etapa en su vida, Secundaria. Y por aquí, lamentablemente, no me puedo poner en huelga, así que Mareos de un geek seguirá siendo la vía de escape, el recopilatorio de mis aficiones y el "
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Cámaras de seguridad interior: Uso práctico, normativa y comparativa",
-    "link": "https://alt43.es/comparativa-camaras-de-interior-utilidad-legislacion-y-modelos/",
-    "fecha": "14/09/2026 07:00",
-    "contenido": "Utilidad, legislación, problemas de privacidad en cámaras de interior. Repaso a los modelos de entrada de Reolink, Tapo y Eufy."
   },
   {
     "blog": "El blog de Lázaro",
@@ -854,13 +742,6 @@
     "contenido": "Yo no sé vosotros, pero yo no hay mes que no me pase por el punto limpio de mi ciudad a dejar cosas para reciclar. Uno diría que después de diez años viviendo en la misma casa, ya habríamos tirado todo lo tirable que no se va en los típicos restos de comida, envases y cartones del día a día. Esto di"
   },
   {
-    "blog": "Erica Fustero",
-    "titulo": "Algunas fotos de agosto",
-    "link": "https://www.ericafustero.com/2026-09-algunas-fotos-de-agosto",
-    "fecha": "13/09/2026 18:26",
-    "contenido": "Como dije en mi último boletín, no hay nada como no pasar calor para no odiar el verano. Volvimos a Mataró el 28 de agosto y desde entonces voy arrastrándome por la vida, con cero energía para hacer nada. El post de fotos de septiembre va a ser más bien corto, porque estamos a día [&#8230;]"
-  },
-  {
     "blog": "Mantalon",
     "titulo": "39ª Actualización — Reseñas, links y RSS",
     "link": "https://mantalon.neocities.org/logs?z=/logs/games",
@@ -873,20 +754,6 @@
     "link": "https://blog.impermanente.es/2026/09/13/parecer-que-sabes.html",
     "fecha": "13/09/2026 12:35",
     "contenido": "Ayer un grupo de jóvenes me explicaron lo que es un LARP. Yo conocía el término como live action role-playing, un juego de rol en vivo, de esos donde uno se viste de un personaje y actúa como si lo fuera. Pero por lo visto ahora se usa “larpear” para hablar de gente que se hace pasar por algo que no"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "República Bananera de España: un verano larguísimo",
-    "link": "https://mareosdeungeek.es/republica-bananera-de-espana-un-verano-larguisimo/",
-    "fecha": "13/09/2026 12:30",
-    "contenido": "El verano se acaba y ha sido largo para todos. No sé si habrá sido el calor o ver como, a pesar de los excelentes indicadores económicos, la situación para el ciudadano normal español, es cada vez peor. Por supuesto, aquellos exentos de sentido común o la más mínima capacidad crítica, me dirán que s"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"Grand Mosaic Tour 2027\" Recorrerá Europa Junto A Sunburst Y Signum Regis | Theocracy Anuncia Gira",
-    "link": "https://www.delotroladometal.com.ar/2026/09/13/theocracy-anuncia-gira/",
-    "fecha": "13/09/2026 12:00",
-    "contenido": "A lo largo de los años Theocracy ha demostrado ser una banda bastante particular, por...\nThe post \"Grand Mosaic Tour 2027\" Recorrerá Europa Junto A Sunburst Y Signum Regis | Theocracy Anuncia Gira first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Un Diario",
@@ -922,20 +789,6 @@
     "link": "https://labaudric.net/videos/nier/6902",
     "fecha": "12/09/2026 12:00",
     "contenido": ""
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "Textos profundos #1",
-    "link": "https://elrefugiodeunnerd.es/2026/09/12/textos-profundos-1/",
-    "fecha": "12/09/2026 10:55",
-    "contenido": "He visto que muchos blogs hacen esto así que supongo que me he sumado, a lo largo de el tiempo que quiera recopilo hasta 10 links que me han parecido interesantes. A veces serán lecutras de otros blogs, posts de Mastodon, Reddit o incluso páginas webs/programas. 1. GNOME Music, el reproductor que se"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Jose Amurin, Ex Logos, Nos Cuenta Sobre Su Nuevo Proyecto | Salvaje Mantiene La Esencia Latente",
-    "link": "https://www.delotroladometal.com.ar/2026/09/12/salvaje-mantiene-la-esencia-latente/",
-    "fecha": "12/09/2026 10:35",
-    "contenido": "Jose Amurin es conocido dentro de la escena del Heavy Metal en Argentina, principalmente por...\nThe post Jose Amurin, Ex Logos, Nos Cuenta Sobre Su Nuevo Proyecto | Salvaje Mantiene La Esencia Latente first appeared on Del Otro Lado Metal."
   },
   {
     "blog": "Tecno y Soft - Tecno y Soft",
@@ -1022,25 +875,11 @@
     "contenido": "Consulta el precio horario de la luz con PVPC en Home Assistant y crea avisos o automatizaciones para ajustar tu consumo."
   },
   {
-    "blog": "pedrolr blog",
-    "titulo": "¿Y tú qué hacías con tu tiempo libre antes de que existiera internet?",
-    "link": "https://pedrolr.es/blog/y-tu-que-hacias-con-tu-tiempo-libre-antes-de-que-existiera-internet/",
-    "fecha": "11/09/2026 05:37",
-    "contenido": "Vi la pregunta del título por Mastodon y me hizo pensar. Al final he escrito este post. No recuerdo qué hice la primera vez que estuve conectado a internet ni cuándo fue exactamente. Quizá fue en el colegio, o en casa... Sí recuerdo aquello de que al inicio de todo, cuando te conectabas a internet, "
-  },
-  {
     "blog": "Malagueños originales y libres",
     "titulo": "Tente Expo 2026... En Fuengirola (Málaga)",
     "link": "https://malagaoriginal.blogspot.com/2026/09/tente-expo-2026-en-fuengirola.html",
     "fecha": "11/09/2026 05:05",
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga).Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Ha"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Cambiar metadata de PDF en Linux",
-    "link": "https://chancli.dev/blog/cambiar-metadata-pdf-linux.html",
-    "fecha": "11/09/2026 00:00",
-    "contenido": "Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF.\nNormalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock"
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -1083,13 +922,6 @@
     "link": "https://cozykis.kisworld.es/analisis-de-fofumia/",
     "fecha": "10/09/2026 10:36",
     "contenido": "Tiene michis cíclopes que causarán el caos mientras nosotres nos relajamos intentando poner un poco de orden\nLa entrada Análisis de Fofumia se publicó primero en CozyKis."
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "Arranca la temporada otoño-invierno",
-    "link": "https://galeriaspreciados.band/arranca-la-temporada-otono-invierno/",
-    "fecha": "10/09/2026 08:57",
-    "contenido": "Desde Galerías Preciados queremos informar a todos nuestros exclusivos clientes que iniciamos la temporada otoño-invierno, con predominio del color naranja y un montón de emocionantes cosas que están por suceder"
   },
   {
     "blog": "Adrián Perales",
@@ -1211,13 +1043,6 @@
     "contenido": ""
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
-    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
-    "fecha": "09/09/2026 00:00",
-    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
-  },
-  {
     "blog": "NevatBlog",
     "titulo": "OS/2 Warp 3: cuando IBM quiso destronar a Windows",
     "link": "https://nevat.neocities.org/warp3_09092026.html",
@@ -1253,13 +1078,6 @@
     "contenido": "Después de 25 años, ha llegado el momento de pasar el relevo del proyecto Packman. Si no se encuentra a nadie que desee continuar con Packman, se suspenderá el proyecto el 31/12/2026."
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Videojuegos: novedades y noticias de verano, Gamescom y State of Play",
-    "link": "https://mareosdeungeek.es/videojuegos-novedades-y-noticias-de-verano-gamescom-y-state-of-play/",
-    "fecha": "08/09/2026 11:30",
-    "contenido": "El verano siempre ha sido uno de los grandes momentos para el mercado de los videojuegos. Las vacaciones escolares, cuando estaban enfocados a un público más infantil y juvenil, además de los anuncios para el final de año, marcaban la actividad. Personalmente, coincidía con mi cumpleaños, así que er"
-  },
-  {
     "blog": "CozyKis",
     "titulo": "Análisis de DEVIL’S LIMINAL",
     "link": "https://cozykis.kisworld.es/analisis-de-devils-liminal/",
@@ -1279,13 +1097,6 @@
     "link": "https://blog.danielaragay.net/por-que-en-suecia-vota-casi-todo-el-mundo-y-que-esconde-esa-cifra/",
     "fecha": "08/09/2026 09:25",
     "contenido": "Suecia va camino de otra elección con una participación por encima del 80%, casi veinte puntos más que España. El sistema está diseñado para que votar sea fácil: casi tres semanas de voto anticipado, sin papeleta física, en cualquier punto del país."
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Autistici/Inventati cierra, ¡pero la lucha continúa!",
-    "link": "https://gatooscuro.xyz/autistici-inventati-cierra-pero-la-lucha-continua/",
-    "fecha": "08/09/2026 08:52",
-    "contenido": "Recientemente ha ocurrido una desgracia que tiene a todos los hacktivistas decepcionados y muy preocupados; un acto que parece cambiar las reglas del juego para mal. Y es que veníamos\nSeguir leyendo  Autistici/Inventati cierra, ¡pero la lucha continúa!\nEl cargo Autistici/Inventati cierra, ¡pero la l"
   },
   {
     "blog": "matizeta",
@@ -1365,13 +1176,6 @@
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
-    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
-    "fecha": "07/09/2026 00:00",
-    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
-  },
-  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Immich - Migración de V2 a V3 en producción",
     "link": "https://vctrsnts.codeberg.page/posts/2026-09-07-migracion-immich-2/",
@@ -1393,13 +1197,6 @@
     "contenido": "Nuevo episodio del podcast: Paseand por Estocolmo con Ram&#xf3;n CorominasEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/paseand-por-estocolmo-con-ramon-corominas&#xbf;Te has preguntado alguna vez por qu&#xe9; en la misma calle de Estocolmo puedes aparcar gratis"
   },
   {
-    "blog": "labaudric",
-    "titulo": "Crítica Domu",
-    "link": "https://labaudric.net/blog/manga/domu",
-    "fecha": "06/09/2026 19:17",
-    "contenido": "\nEs la segunda vez que leo esta obra de Katsuhiro Otomo de 1980/1981.\nImposible no hacerle comparación directa con Akira, y no solo por lo que pone abajo a la izquierda de la portada.\nLas comparaciones estarán hechas hasta la saciedad, pero vengo a agregar otra más. Personalmente me \"afecta\"; en el "
-  },
-  {
     "blog": "Jinversor",
     "titulo": "La pesadilla de ser empresario",
     "link": "https://jinversor.co/2026/09/la-pesadilla-de-ser-empresario/",
@@ -1419,13 +1216,6 @@
     "link": "https://vonneumannmachine.wordpress.com/2026/09/06/j-space-mucho-ruido-para-no-tantas-nueces/",
     "fecha": "06/09/2026 16:45",
     "contenido": "Mis queridos amigos de Anthropic publicaron un artículo (Bueno, un technical report o un preprint. Una de las cosas a los que nos tenemos que acostumbrar los que estamos en el mundillo de la IA es a que todo lo que producen estas empresas es extra-académico, es decir, no pasa por ninguna revisión po"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Lo peor de la traición es que nunca viene de un desconocido",
-    "link": "https://gatooscuro.xyz/lo-peor-de-la-traicion-es-que-nunca-viene-de-un-desconocido/",
-    "fecha": "06/09/2026 14:00",
-    "contenido": "Me tomó varios días decidir si publicaba o no este artículo y, pues, como pueden observar, la decisión está tomada. Tenía más pensamientos en contra que a favor. En la\nSeguir leyendo  Lo peor de la traición es que nunca viene de un desconocido\nEl cargo Lo peor de la traición es que nunca viene de un"
   },
   {
     "blog": "quiroptero.blog",
@@ -1456,25 +1246,11 @@
     "contenido": "Antes de comenzar, conviene realizar una aclaración: el presente contenido no se encuentra sujeto a ningún tipo de licencia, por lo que puede ser utilizado libremente por cualquier persona, sin necesidad de autorización previa. No considero necesario justificar ni defender la decisión que aquí se ex"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Un largo verano",
-    "link": "https://mareosdeungeek.es/un-largo-verano-2/",
-    "fecha": "06/09/2026 07:00",
-    "contenido": "Tengo que reconocer que el verano de 2026 está siendo demasiado largo. Necesito volver a una rutina que es rutina, básicamente, necesito que mis hijos empiecen el colegio. No hay nada peor que trabajar en verano, con los niños y con mucho calor. De nada me ha servido estar fuera de casa, bueno, tal "
-  },
-  {
     "blog": "JavierSam",
     "titulo": "¡Se vienen los Suzanne Awards 2026!",
     "link": "https://javiersam.uy/2026/09/se-vienen-los-suzanne-awards-2026.html",
     "fecha": "06/09/2026 04:46",
     "contenido": "Son casi 80 las animaciones que fueron postuladas para los Suzanne Awards que se entregarán en la Blender Conference a realizarse entre el 23 y el 25 de este mes, como es habitual, en Ámsterdam. Mientras esté abierto el período de votaciones, los videos se pueden ver aquí. Eso sí, para poder votar, "
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Bibliotecas que visité en julio y agosto de 2026",
-    "link": "https://pedrolr.es/blog/bibliotecas-que-visite-en-julio-y-agosto-de-2026/",
-    "fecha": "06/09/2026 03:31",
-    "contenido": "Aprovechando el verano, me gusta visitar bibliotecas de lugares a los que voy. No salgo mucho de Madrid últimamente, aunque voy a una montaña de Ávila y Segovia a menudo. Estas son las bibliotecas que visité en los meses de julio y agosto de 2026 con algún detalle. Todas menos la última están en Mad"
   },
   {
     "blog": "Diego's Island",
@@ -1496,13 +1272,6 @@
     "link": "https://thecheis.com/2026/09/05/como-tener-tus-listas-de-spotify-en-un-archivo-txt/",
     "fecha": "05/09/2026 09:53",
     "contenido": "Una de las cosas malas de Spotify, y el streaming en general, es que apenas hay métodos oficiales para extraer una lista completa de toda tu música&#8230; pero hoy voy a compartir cómo lo conseguí yo. Tener esas listas es muy útil para cambiar de servicio, para buscarlas en el P2P o, sencillamente, "
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Flohmarktwelt",
-    "link": "https://www.ericafustero.com/2026-09-flohmarktwelt",
-    "fecha": "05/09/2026 08:12",
-    "contenido": "Siempre pienso que los mercados de segunda mano son como museos de la vida cotidiana. Al menos, ese es uno de los motivos por los que me interesan, porque me permiten asomarme a las vidas de los demás. Y seguro que no soy la única que piensa así: los mercados están llenos de personas que [&#8230;]"
   },
   {
     "blog": "Esuntipazo - blog",
@@ -1596,13 +1365,6 @@
     "contenido": "Estoy hasta la coronilla de los eufemismos con que la progresía pretende embutirnos sus ridículos disparates infantiles. Si sus rebuznos fueran palatables no tendrían que edulcorarlos con distractores ni eufemismos. [&#8230;]\nLa entrada Eufemismos se publicó primero en Jinversor."
   },
   {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "Por qué deberías comprar una consola de la familia 3DS en 2026",
-    "link": "https://elrefugiodeunnerd.es/2026/09/03/por-que-deberias-comprar-una-consola-de-la-familia-3ds-en-2026/",
-    "fecha": "03/09/2026 10:10",
-    "contenido": "Ya hablé en mi microblog y comenté en mi Mastodon que tengo una Nintendo 2DS desde hace unos meses. La compré por unos 15€ sin cargador ni lápiz y con algún desperfecto, pero fue un trato genial. He llegado a la conclusión de que llevo unos meses usándola y creo que era hora de dedicarle [&#8230;]"
-  },
-  {
     "blog": "56K",
     "titulo": "Jugar a Comandos Behind the enemy lines en Linux",
     "link": "https://56k.es/fanta/jugar-a-comandos-behind-the-enemy-lines-en-linux/",
@@ -1643,13 +1405,6 @@
     "link": "https://thecheis.com/2026/09/02/linux-cumple-35-anos/",
     "fecha": "02/09/2026 18:15",
     "contenido": "El mundo de la tecnología está de enhorabuena. Concretamente Linux, que por estas fechas cumple 35 añazos, consolidándose junto a GNU como el proyecto de software libre más exitoso de la historia hasta el momento. De hecho, ambos casi no tendrían sentido el uno sin el otro, dando lugar a una simbios"
-  },
-  {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "De la soledad espacial al viaje compartido – No Man’s Sky",
-    "link": "https://unpinguino.com/de-la-soledad-espacial-al-viaje-compartido-no-mans-sky/",
-    "fecha": "02/09/2026 16:00",
-    "contenido": "¿Quién no ha oído hablar de este juego? Ya sea por su polémico lanzamiento o&#8230;"
   },
   {
     "blog": "56K",
@@ -1771,13 +1526,6 @@
     "contenido": "&nbsp; &nbsp; Las temperaturas habían descendido y la sociedad seguía cayéndose a pedazos. Cada día teníamos nuevas muestras de ello. Además de la gilipollez global ciudadana, el asesinato y la violencia continuaban siendo compañeros fieles de nuestro día a día.&nbsp; &nbsp; Era duro ser madre y des"
   },
   {
-    "blog": "pedrolr blog",
-    "titulo": "Mis lecturas en agosto de 2026",
-    "link": "https://pedrolr.es/blog/mis-lecturas-en-agosto-de-2026/",
-    "fecha": "31/08/2026 13:49",
-    "contenido": "Vi por uno o varios blogs que sigo gracias al RSS de \"¡Blog!¡Blog! - Directorio de blogs en español\" de Matizeta (enlace) que varias personas publican sus lecturas de cada mes o trimestre. Por ejemplo: Mis lecturas de 2026 - Segundo trimestre (de Kabosu - Creando cosas) Mis lecturas en agosto de 202"
-  },
-  {
     "blog": "",
     "titulo": "Luar Na Lubre.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/08/31/luar-na-lubre-3/",
@@ -1799,13 +1547,6 @@
     "contenido": "Lo dije hace dos semanas. Ya no estoy en verano. Pronto termina la jornada intensiva y entro en septiembre, que es un mes que tradicionalmente en mi caso tiene muchos compromisos con muchas cosas a la vez. La vida me ha atropellado en muchos sentidos pero por suerte ninguno de ellos es triste. Solo "
   },
   {
-    "blog": "Galerías Preciados",
-    "titulo": "Hola Madrid!! Nos vemos en el No Sandrapalooza",
-    "link": "https://galeriaspreciados.band/hola-madrid-nos-vemos-en-el-no-sandrapalooza/",
-    "fecha": "31/08/2026 10:07",
-    "contenido": "Este fin de semana me bajo al No Sandrapalooza, que es un mini-festi que organiza mi colega la San en el Fotomatón que es un sitio que mola un montón y aquí te lo cuento"
-  },
-  {
     "blog": "DESDE UN BALCÓN DE MADRID",
     "titulo": "97 – La vida en minoría XIII: Hablemos de suicidio (Morkyr, 19/04/26)",
     "link": "https://empiezaen2023.wordpress.com/2026/08/31/97-la-vida-en-minoria-xiii-hablemos-de-suicidio-morkyr-19-04-26/",
@@ -1818,20 +1559,6 @@
     "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
     "fecha": "31/08/2026 03:00",
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Me he comprado el Pocketbook Inkpad One!",
-    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "Self-hosting Forgejo (lightweight software forge)",
-    "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Autoalojar proyectos Git al estilo de GitHub"
   },
   {
     "blog": "Maverick HQ",
@@ -1869,13 +1596,6 @@
     "contenido": "Se trata de una \"pequeña\" app que vive en la barra superior del sistema y que integra un montón de pequeñas utilidades de las que te hacen la vida más fácil. Y es software libre.Ir al enlace"
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Se hizo historia en el Carlos Vieco por una buen causa",
-    "link": "https://gatooscuro.xyz/se-hizo-historia-en-el-carlos-vieco-por-una-buen-causa/",
-    "fecha": "30/08/2026 15:28",
-    "contenido": "NOTA: Este artículo tenía que haber salido un día después del evento, pero como me ocurre de todo entonces salió tarde, varios días tarde. Hoy les vengo a escribir sobre\nSeguir leyendo  Se hizo historia en el Carlos Vieco por una buen causa\nEl cargo Se hizo historia en el Carlos Vieco por una buen c"
-  },
-  {
     "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "La oportunidad perdida de GNU/Linux en el escritorio",
     "link": "https://tecnoysoft.com/2026/08/30/la-oportunidad-perdida-de-gnu-linux-en-el-escritorio/",
@@ -1895,13 +1615,6 @@
     "link": "https://blog.impermanente.es/2026/08/30/valeria-blue.html",
     "fecha": "30/08/2026 08:56",
     "contenido": "Valeria Blue es la primera receta Fujifilm que hago desde cero y también la primera que comparto. Los tonos cálidos van algo apagados y los fríos resaltan, pero oscuros. Color Chrome Effect les da profundidad sin devolverles el brillo naranja.\n\nEl ajuste que termina de definir la receta es Color Chr"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Un soporte casero para mis guitarras",
-    "link": "https://pedrolr.es/blog/un-soporte-casero-para-mis-guitarras/",
-    "fecha": "30/08/2026 05:38",
-    "contenido": "Hace 2 años pasé unas semanas en casa de la familia cuidando a las perritas Luna y Dama y me dio por hacer un soporte de guitarras. Lo hice aprovechando una puerta de valla baja de madera y unas maderas que tenía mi familia en el trastero/desván. En casa tengo una guitarra eléctrica. Es una [&#8230;"
   },
   {
     "blog": "El Sueño del Artista Blog",
@@ -1944,13 +1657,6 @@
     "link": "https://alex.corcoles.net/2026/08/esfuerzos",
     "fecha": "29/08/2026 00:00",
     "contenido": "\n  Hace unos treinta a&#241;os aprend&#237;a a programar m&#225;s o menos en serio. Gracias al Blitz Basic del Amiga comenc&#233; a poder crear juegos sencillos, pero con cara y ojos, tras igual unos diez a&#241;os de intentos y de lentos progresos.\n  Poco despu&#233;s, con m&#225;s casualidad de lo"
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "GitOps en AWS ECS con Github y Terraform",
-    "link": "https://blog.jagedn.dev/blog/2026/gitops-aws-tf.html",
-    "fecha": "29/08/2026 00:00",
-    "contenido": "Desplegando servicio en AWS ECS con Terraform y GitHub actions"
   },
   {
     "blog": "El Blog de un informático que sueña con mejorar el mundo",
@@ -2058,25 +1764,11 @@
     "contenido": "Una de las cosas que hago constantemente es consumir YouTube. Desde La Pandemia™ YouTube se volvió básicamente mi sistema de televisión. Y algo que he aplicado cada vez más y con mayor seguridad es algo que se llama la constante de Wadsworth.\nLa constante de Wadsworth es un axioma que dice:\n\n\nEl pri"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "La clase de griego",
-    "link": "https://mareosdeungeek.es/la-clase-de-griego/",
-    "fecha": "27/08/2026 10:00",
-    "contenido": "La clase de griego es el primer libro que leo de la autora surcoreana Han Kang, quién acabaría recibiendo el Premio Nobel de Literatura en el año 2024. Esta obra se publicó en 2011 y aunque es posterior a su éxito La vegetariana mantiene el nivel de una prosa profunda, muy detallista y dramática par"
-  },
-  {
     "blog": "Picando Código",
     "titulo": "Coyote Vs. Acme",
     "link": "https://picandocodigo.net/2026/coyote-vs-acme/",
     "fecha": "27/08/2026 09:25",
     "contenido": "Ayer fui al cine a ver Coyote Vs. Acme.&#160;La película es una historia original basada en un artículo publicado en 1990 en la revista The New Yorker. Wile E. Coyote de \"El Coyote y el Correcaminos\" consigue un abogado (Will Forte) para demandar a la corporación ACME tras décadas de venderle produc"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "La IA y, o, para, contra el Arte",
-    "link": "https://brucknerite.net/2026/08/la-ia-y-o-para-contra-el-arte.html",
-    "fecha": "27/08/2026 08:00",
-    "contenido": "Una consulta de la Comisión Europea está recogiendo opiniones sobre el papel de la inteligencia artificial en la cultura. Es el momento de quejarse contra un futuro justo al revés del que nos prometieron, en el que nosotros haremos los trabajos tediosos y mal remunerados mientras las máquinas contem"
   },
   {
     "blog": "quiroptero.blog",
@@ -2184,13 +1876,6 @@
     "contenido": "Esta noche se transmitió en vivo la Gamescom Opening Night Live. Capcom presentó un nuevo trailer de Mega Man Dual Override, la duodécima entrega de la serie, que celebrará el 40° aniversario. En el tráiler podemos ver un avance de las mecánicas nuevas, jefes y personajes.\nEl post Primer trailer con"
   },
   {
-    "blog": "56K",
-    "titulo": "Podcasts que no son una mierda",
-    "link": "https://56k.es/fanta/podcasts-que-no-son-una-mierda/",
-    "fecha": "25/08/2026 15:14",
-    "contenido": "Voy a ir recopilando contenido de podcasts que no sea una mierda en este post. 💾 El Eternauta &#8211; Radionovela de Radio Provincia Buenos Aires 💾 Tamayazo el podcast &#8211; Juanjo Cubero y Aitor Sánchez &#8211; RTVE 💾 Meloni – Un Marqués en La Gomera &#8211; Aldara Dieguez &#8211; Subterfuge Radi"
-  },
-  {
     "blog": "Adrián Perales",
     "titulo": "Tengo un pódcast nuevo",
     "link": "https://adrianperales.com/2026/08/tengo-un-podcast-nuevo/",
@@ -2210,19 +1895,5 @@
     "link": "https://fixionauta.net/2026/08/24/208700/",
     "fecha": "25/08/2026 03:30",
     "contenido": "Akmareul Boatda (Kim Ji-woon, 2010). Vi esta película porque sale Choi Min-sik (Oldboy) pero me llevé una grata sorpresa al descubrir que el protagonista es Lee Byung-hun (Eojjeolsoogaeobda). Historia de venganza en donde el plan es darle un castigo laaargo al villano, en ese aspecto hay un regusto "
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "579. Siempre les pasa a otros",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/08/579-siempre-les-pasa-otros.html",
-    "fecha": "24/08/2026 22:00",
-    "contenido": "&nbsp; &nbsp; El tipo tenía cincuenta años. A esa edad, quizá creía que ya lo sabía todo. Puede que fuera de los que piensan que ciertas advertencias son exageradas y que algunas prohibiciones coartan la libertad individual. Es posible que gozara de buena salud y esperara llegar a los ochenta años p"
-  },
-  {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "La belleza del dolor en The Crow de James O’Barr",
-    "link": "https://unpinguino.com/la-belleza-del-dolor-en-the-crow-de-james-obarr/",
-    "fecha": "24/08/2026 16:23",
-    "contenido": "Hace mucho que tenía ganas de leer The Crow, pero lo estuve posponiendo por mucho&#8230;"
   }
 ]
