@@ -1,5 +1,33 @@
 [
   {
+    "blog": "56K",
+    "titulo": "Viviendo entre pantallas negras",
+    "link": "https://56k.es/fanta/pequenos-programas-para-tener-en-un-segundo-monitor/",
+    "fecha": "24/09/2026 22:54",
+    "contenido": "nom, s-tui, btop, htop, toot, aerc son ideales si utilizas un segundo monitor y tienes escritorios virtuales con los que ir cambiando rápidamente con control+alt+derecha/izquierda La verdad que si uno se acostumbra a estos programas lo cierto es que son una maravilla. Yo los uso con el emulador de t"
+  },
+  {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Fusionar o combinar varios modelos LDraw en uno solo",
+    "link": "https://malagaoriginal.blogspot.com/2026/09/fusionar-o-combinar-varios-modelos.html",
+    "fecha": "24/09/2026 22:00",
+    "contenido": "Ya hemos visto en artículos anteriores y vídeos como hacer un modelo de TENTE o LEGO con software LDraw, habitualmente el vetusto MLCad que, siendo un programa de Windows, sigue funcionando de maravilla en GNU/Linux con wine.En muchas ocasiones, nos puede interesar tener varios modelos en una misma "
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Small-town nostalgia in Terese",
+    "link": "https://www.ericafustero.com/2026-09-small-town-nostalgia-in-terese",
+    "fecha": "24/09/2026 19:53",
+    "contenido": "A apenas cinco minutos de la bulliciosa Schönhauser Allee se encuentra Terese, una tienda donde Martina ha creado un punto de encuentro para el vecindario. En la terraza, a menudo verás gente leyendo o amigos conversando animadamente, mientras Miles, el perro de Martina, duerme la siesta. En Terese "
+  },
+  {
+    "blog": "El Sitio de Manieflo",
+    "titulo": "Estrenamos Fuente Accesible",
+    "link": "https://elprofejuan.com.ar/estrenamos-fuente-accesible",
+    "fecha": "24/09/2026 19:36",
+    "contenido": "Objetivo:\nUna de las cosas que quería implementar en mi sitio, era usar una fuente accesible, ya sea para la lectura como también para mejorar la experiencia de lectura a personas con problemas de dislexia, como el autor de esta nota. Luego de varias pruebas, opté por la fuente que creo más acorde c"
+  },
+  {
     "blog": "Daniel Omar Cignacco",
     "titulo": "Tratado de las formas invisibles",
     "link": "https://danielomarcignacco.blogspot.com/2026/09/tratado-de-las-formas-invisibles.html",
@@ -46,7 +74,7 @@
     "titulo": "La nueva vieja Internet",
     "link": "https://alex.corcoles.net/2026/09/la-nueva-vieja-internet",
     "fecha": "24/09/2026 00:00",
-    "contenido": "\n  Yo no exist&#237;a cuando naci&#243; Internet. Pero s&#237; viv&#237; los &#250;ltimos coletazos de su formato original. Aunque Internet es una red compuesta de otras redes, la idea era que todos los dispositivos conectados a Internet parec&#237;an pertenecer a la red de la misma manera. Dos disp"
+    "contenido": "\n  \n    Actualizaci&#243;n: partes de esto est&#225;n incluiudos en \"mi historia de la programaci&#243;n\"\n  \n  Yo no exist&#237;a cuando naci&#243; Internet. Pero s&#237; viv&#237; los &#250;ltimos coletazos de su formato original. Aunque Internet es una red compuesta de otras redes, la idea era que"
   },
   {
     "blog": "56K",
@@ -410,7 +438,7 @@
     "titulo": "Castores en el hiperespacio",
     "link": "https://alex.corcoles.net/2026/09/castores-en-el-hiperespacio",
     "fecha": "20/09/2026 00:00",
-    "contenido": "\n  Participando en una discusi&#243;n sobre si hay cosas que molan hoy en d&#237;a en el software, las dos cosas que he mencionado han sido monotemas, claro: Gemini y Delta Chat.\n  Lo gracioso es que he acabado conectando esos dos hilos separados.\n  En el hilo de Delta Chat, he mencionado como apart"
+    "contenido": "\n  \n    Actualizaci&#243;n: partes de esto est&#225;n incluiudos en \"mi historia de la programaci&#243;n\"\n  \n  Participando en una discusi&#243;n sobre si hay cosas que molan hoy en d&#237;a en el software, las dos cosas que he mencionado han sido monotemas, claro: Gemini y Delta Chat.\n  Lo gracioso"
   },
   {
     "blog": "labaudric",
@@ -1526,13 +1554,6 @@
     "contenido": "Una de las cosas malas de Spotify, y el streaming en general, es que apenas hay métodos oficiales para extraer una lista completa de toda tu música&#8230; pero hoy voy a compartir cómo lo conseguí yo. Tener esas listas es muy útil para cambiar de servicio, para buscarlas en el P2P o, sencillamente, "
   },
   {
-    "blog": "Erica Fustero",
-    "titulo": "Flohmarktwelt",
-    "link": "https://www.ericafustero.com/2026-09-flohmarktwelt",
-    "fecha": "05/09/2026 08:12",
-    "contenido": "Siempre pienso que los mercados de segunda mano son como museos de la vida cotidiana. Al menos, ese es uno de los motivos por los que me interesan, porque me permiten asomarme a las vidas de los demás. Y seguro que no soy la única que piensa así: los mercados están llenos de personas que [&#8230;]"
-  },
-  {
     "blog": "Esuntipazo - blog",
     "titulo": "Rompiendo algunos huesos",
     "link": "http://www.esuntipazo.com/post/rompiendo-algunos-huesos",
@@ -1608,13 +1629,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacín",
-    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
-    "fecha": "03/09/2026 17:28",
-    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -1748,13 +1762,6 @@
     "link": "http://locutusbit.blogspot.com/2026/09/el-pico-de-la-reminiscencia.html",
     "fecha": "01/09/2026 12:00",
     "contenido": "&nbsp;La memoria exige,los momentos persisten;esos momentos sin finalidad,donde la tentación invitaa caer en el libre albedrío,en la red de mandíbulasque atrapa los sentidosvulnerables al aire, al agua,a cualquier elementoatrapado en paquetes&nbsp;de instruccionesenvueltos en una cápsulaque encierra"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Videos a 1 Frame Por Minuto: La nueva moda",
-    "link": "https://56k.es/fanta/video-podcasts-a-1-frame-por-minuto-la-nueva-moda/",
-    "fecha": "01/09/2026 10:09",
-    "contenido": "Tengo un problema con los video-podcasts y creo que la mayoría de la gente también. Te lo voy a tratar de contar en este post no sin antes darte la brasa un poco y finalmente darte el contenido tan preciado por el que has venido aquí. Odio los video-podcasts que son de llevar a gente y..."
   },
   {
     "blog": "matizeta",
@@ -2175,33 +2182,5 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/08/26/20260826-centennial-case-shijima/",
     "fecha": "26/08/2026 08:00",
     "contenido": "¿Y si alguien en el entorno de los Shijima lograse descubrir una fórmula de la eterna juventud?"
-  },
-  {
-    "blog": "Plutoide Marcianadas",
-    "titulo": "Shotadroides",
-    "link": "https://plutoidemarcianadas.blogspot.com/2026/08/shotadroides.html",
-    "fecha": "26/08/2026 01:29",
-    "contenido": "Finalizado: 2026-08-23Pequeños androides que exploran y juegan por el mundo.  › Ver más »¡Patina todo el día!"
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "El día de los presidentes muertos",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/el-dia-de-los-presidentes-muertos/",
-    "fecha": "26/08/2026 00:00",
-    "contenido": "A las nueve de la mañana murió el primer presidente.\nA las nueve y siete, el segundo.\nA las nueve y nueve, el tercero.\nA las diez, ya no quedaba ninguno.\nLas noticias hablaban de una misteriosa coincidencia: presidentes de países enemigos, aliados, democracias, monarquías, repúblicas y dictaduras ha"
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/08/25/209196/",
-    "fecha": "25/08/2026 23:00",
-    "contenido": "@HolosDiscover follow"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Primer trailer con gameplay de Mega Man Dual Override",
-    "link": "https://picandocodigo.net/2026/trailer-gameplay-mega-man-dual-override/",
-    "fecha": "25/08/2026 22:22",
-    "contenido": "Esta noche se transmitió en vivo la Gamescom Opening Night Live. Capcom presentó un nuevo trailer de Mega Man Dual Override, la duodécima entrega de la serie, que celebrará el 40° aniversario. En el tráiler podemos ver un avance de las mecánicas nuevas, jefes y personajes.\nEl post Primer trailer con"
   }
 ]
