@@ -1,5 +1,21 @@
 [
 
+{
+  "Nombre": "iforest",
+  "Url": "https://iforest.bearblog.dev",
+  "Feed": "https://iforest.bearblog.dev/feed",
+  "Descripción": "Un blog personal para hablar de mi día a día, reflexionar sobre varios temas de cultura popular y reseñas de películas, series, videojuegos.",
+  "Categoría": "Arte y Diseño,Entretenimiento y Cultura,Newsletter,Vida Diaria",
+  "País": "España"
+},
+{
+  "Nombre": "Pepógrafo",
+  "Url": "https://pepografo.com",
+  "Feed": "https://pepografo.com/feed",
+  "Descripción": "Pepógrafo es un blog personal de Julio Hidalgo Ardila donde caben el humor, las historias, los viajes y la fotografía. Textos con guasa y otra forma de mirar.",
+  "Categoría": "Entretenimiento y Cultura,Fotografía,Literario,Viajes",
+  "País": "España"
+},
   {
     "Nombre": "Mantalon",
     "Url": "https://mantalon.neocities.org",
