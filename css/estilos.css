@@ -241,6 +241,15 @@ a:hover {
     font-weight: 600;
     letter-spacing: 0.03em;
     white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.flag-icon {
+    display: inline-block;
+    border-radius: 2px;
+    vertical-align: middle;
 }
 
 /* Insignias: Webring / Aliado / Sponsor */

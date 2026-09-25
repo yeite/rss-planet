@@ -1,17 +1,21 @@
-const FLAGS = {
-    Argentina: "🇦🇷",
-    Bolivia: "🇧🇴",
-    Chile: "🇨🇱",
-    Colombia: "🇨🇴",
-    Cuba: "🇨🇺",
-    Ecuador: "🇪🇨",
-    España: "🇪🇸",
-    "Estados Unidos": "🇺🇸",
-    México: "🇲🇽",
-    Paraguay: "🇵🇾",
-    Perú: "🇵🇪",
-    Uruguay: "🇺🇾",
-    Venezuela: "🇻🇪",
+// Códigos ISO de cada país, usados para pedir la bandera como imagen
+// (flagcdn.com) en vez de depender del emoji de bandera del sistema
+// operativo: en Windows esos emojis muchas veces se ven como texto
+// ("AR") en lugar de la bandera, mientras que en macOS sí se ven bien.
+const COUNTRY_CODES = {
+    Argentina: "ar",
+    Bolivia: "bo",
+    Chile: "cl",
+    Colombia: "co",
+    Cuba: "cu",
+    Ecuador: "ec",
+    España: "es",
+    "Estados Unidos": "us",
+    México: "mx",
+    Paraguay: "py",
+    Perú: "pe",
+    Uruguay: "uy",
+    Venezuela: "ve",
 };
 
 const CATEGORY_ICONS = {
@@ -41,11 +45,13 @@ const BADGE_MESSAGES = {
 const BADGE_ORDER = ["Webring", "Aliado", "Sponsor"];
 
 const container = document.getElementById("contenedor");
+const orderFilter = document.getElementById("filtroOrden");
 const countryFilter = document.getElementById("filtroPais");
 const categoryFilter = document.getElementById("filtroCategoria");
 const badgeFilter = document.getElementById("filtroInsignia");
 const badgeMessage = document.getElementById("mensajeInsignia");
 let blogs = [];
+let shuffledBlogs = [];
 
 function safeUrl(value) {
     if (!value || typeof value !== "string") return null;
@@ -69,6 +75,53 @@ function createExternalLink(url, text) {
     return link;
 }
 
+// Bandera como imagen (no como emoji) para que se vea igual en todos los
+// sistemas operativos.
+function createFlagImg(country) {
+    const code = COUNTRY_CODES[country];
+    if (!code) return null;
+
+    const img = document.createElement("img");
+    img.className = "flag-icon";
+    img.src = `https://flagcdn.com/24x18/${code}.png`;
+    img.srcset = `https://flagcdn.com/48x36/${code}.png 2x`;
+    img.width = 20;
+    img.height = 15;
+    img.alt = country;
+    img.loading = "lazy";
+    return img;
+}
+
+// Mezcla el array sin modificar el original (Fisher-Yates).
+function shuffle(array) {
+    const result = [...array];
+    for (let i = result.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [result[i], result[j]] = [result[j], result[i]];
+    }
+    return result;
+}
+
+// Devuelve la lista base según el criterio de visualización elegido,
+// antes de aplicar los filtros de país/categoría/insignia.
+function getOrderedBlogs() {
+    switch (orderFilter.value) {
+        case "nombre":
+            return [...blogs].sort((a, b) =>
+                (a.Nombre || "").localeCompare(b.Nombre || "", "es", {
+                    numeric: true,
+                    sensitivity: "base",
+                }),
+            );
+        case "recientes":
+            // Tal cual aparecen en blogs.json, de arriba hacia abajo.
+            return blogs;
+        case "aleatorio":
+        default:
+            return shuffledBlogs;
+    }
+}
+
 function populateFilters() {
     const countries = [...new Set(blogs.map((blog) => blog.País).filter(Boolean))].sort();
     const categories = [
@@ -82,7 +135,7 @@ function populateFilters() {
     ].sort();
 
     countries.forEach((country) => {
-        const option = new Option(`${FLAGS[country] || ""} ${country}`, country);
+        const option = new Option(country, country);
         countryFilter.add(option);
     });
 
@@ -128,7 +181,7 @@ function createBadgePill(badgeName) {
         pill.target = "_blank";
         pill.rel = "noopener noreferrer";
     } else if (badgeName === "Aliado") {
-        pill.href = "http://localhost:8000/acerca-de.html#difundir";
+        pill.href = "acerca-de.html#difundir";
         pill.target = "_blank";
         pill.rel = "noopener noreferrer";
     }
@@ -197,7 +250,9 @@ function createFeaturedCard(blog, url, badges) {
     if (blog.País) {
         const countryEl = document.createElement("span");
         countryEl.className = "blog-country";
-        countryEl.textContent = `${FLAGS[blog.País] || "📍"} ${blog.País.toUpperCase()}`;
+        const flag = createFlagImg(blog.País);
+        if (flag) countryEl.append(flag);
+        countryEl.append(blog.País.toUpperCase());
         nameCountry.append(countryEl);
     }
 
@@ -278,7 +333,7 @@ function filterBlogs() {
     badgeMessage.classList.toggle("is-hidden", !message);
 
     renderBlogs(
-        blogs.filter((blog) => {
+        getOrderedBlogs().filter((blog) => {
             const countryMatches = !selectedCountry || blog.País === selectedCountry;
             const categoryMatches = !selectedCategory || blog.Categoría?.includes(selectedCategory);
             const badgeMatches =
@@ -297,8 +352,9 @@ async function loadDirectory() {
         if (!response.ok) throw new Error("No se pudo cargar blogs.json");
 
         blogs = await response.json();
+        shuffledBlogs = shuffle(blogs);
         populateFilters();
-        renderBlogs(blogs);
+        filterBlogs();
         document.getElementById("contador").textContent =
             `🎉 Ya hay ${blogs.length} blogs personales en español`;
     } catch (error) {
@@ -307,6 +363,7 @@ async function loadDirectory() {
     }
 }
 
+orderFilter.addEventListener("change", filterBlogs);
 countryFilter.addEventListener("change", filterBlogs);
 categoryFilter.addEventListener("change", filterBlogs);
 badgeFilter.addEventListener("change", filterBlogs);
