@@ -1,5 +1,26 @@
 [
   {
+    "blog": "56K",
+    "titulo": "Viviendo entre pantallas negras – Vol. 2",
+    "link": "https://56k.es/fanta/viviendo-entre-pantallas-negras-vol-2/",
+    "fecha": "26/09/2026 12:01",
+    "contenido": "Previamente hablamos en otro post sobre algunas herramientas que puedes usar para «vivir entre pantallas negras». Puedes consultar ese anterior post aquí: 56k.es/fanta/pequenos-programas-para-tener-en-un-segundo-monitor/ Allí comenté unos cuantos, eran estos: nom, s-tui, btop, htop, toot y aerc  Aho"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Los Hijos Del Trueno Anuncian Nuevas Fechas | Novedades De Boanerges",
+    "link": "https://www.delotroladometal.com.ar/2026/09/26/novedades-de-boanerges/",
+    "fecha": "26/09/2026 10:35",
+    "contenido": "La actividad de Boanerges entre 2025 y este año viene a ritmo lento y pausado,...\nThe post Los Hijos Del Trueno Anuncian Nuevas Fechas | Novedades De Boanerges first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Abro página de botones 88x31px en el blog",
+    "link": "https://pedrolr.es/blog/abro-pagina-de-botones-88x31px-en-el-blog/",
+    "fecha": "26/09/2026 06:33",
+    "contenido": "He abierto una página de botones 88x31px: https://pedrolr.es/blog/botones/. Reproduzco aquí gran parte de su contenido: Iba a haberlos puestos en el footer del blog, pero no me convencía cómo quedaba. A la vez, quería tener un espacio en el que se vean. Al final he puesto un enlace a la página en el"
+  },
+  {
     "blog": "iforest",
     "titulo": "el show de la monedas: otra vez",
     "link": "https://iforest.bearblog.dev/202609252018/",
@@ -82,6 +103,13 @@
     "link": "https://voidnull.es/como-recibir-alertas-de-accesos-ssh-con-zabbix/",
     "fecha": "25/09/2026 07:15",
     "contenido": "Detecta accesos SSH con Zabbix, recibe avisos con la IP de origen y excluye direcciones autorizadas fácilmente."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Canal de IRC para la blogosfera hispana",
+    "link": "https://chancli.dev/blog/canal-irc-blogosfera.html",
+    "fecha": "25/09/2026 00:00",
+    "contenido": "Llevo días dándole vueltas a que quizás estaría bien tener una posibilidad de punto de encuentro más directo entre los blogeros y blogeras de habla hispana.\nComo buena persona de más de 40, aún conservo fantásticos recuerdos de la época del IRC. Así que me decidí por probar este medio para ponernos "
   },
   {
     "blog": "56K",
@@ -1029,13 +1057,6 @@
     "contenido": "Una app para Mac o Windows que altera los colores y la textura de la pantalla para simular algo más analógico, como si estuviera impresa en papel.Ir al enlace"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Estater: Esquizofrenia Diabólica | Una Vuelta A Las Raíces De Lo Extremo",
-    "link": "https://www.delotroladometal.com.ar/2026/09/14/una-vuelta-a-las-raices-de-lo-extremo/",
-    "fecha": "14/09/2026 10:35",
-    "contenido": "(2026 &#8211; Kongsblod Records) Muchas veces se confunde la nostalgia con el &#8220;volver a las...\nThe post Estater: Esquizofrenia Diabólica | Una Vuelta A Las Raíces De Lo Extremo first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "matizeta",
     "titulo": "Imprime tu diario personal",
     "link": "https://matizeta.com/2026/09/14/imprime-tu-diario-personal/",
@@ -1267,6 +1288,13 @@
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga).Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Ha"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Cambiar metadata de PDF en Linux",
+    "link": "https://chancli.dev/blog/cambiar-metadata-pdf-linux.html",
+    "fecha": "11/09/2026 00:00",
+    "contenido": "Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF.\nNormalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock"
+  },
+  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Integrando Memos con Android",
     "link": "https://vctrsnts.codeberg.page/posts/2026-09-11-memos-android/",
@@ -1421,6 +1449,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
+    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
+    "fecha": "09/09/2026 00:00",
+    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
+  },
+  {
     "blog": "NevatBlog",
     "titulo": "OS/2 Warp 3: cuando IBM quiso destronar a Windows",
     "link": "https://nevat.neocities.org/warp3_09092026.html",
@@ -1566,6 +1601,13 @@
     "link": "https://elblogdelazaro.org/trilium-automatizaciones/",
     "fecha": "07/09/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
+    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
+    "fecha": "07/09/2026 00:00",
+    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -1834,13 +1876,6 @@
     "contenido": "¿Quién no ha oído hablar de este juego? Ya sea por su polémico lanzamiento o&#8230;"
   },
   {
-    "blog": "56K",
-    "titulo": "Programar Toots en el #fediverso – Encuestas",
-    "link": "https://56k.es/fanta/programar-toots-en-el-fediverso-encuestas-con-fotos/",
-    "fecha": "02/09/2026 15:27",
-    "contenido": "Existe un cliente para Android llamado «Tusky» que permite poder escribir algo y decirle cuando se publicará. Eso está bien para algo puntual o que necesites hacer por algún motivo. Estos días yo he tenido que recurrir a otro cliente, uno de línea de comandos llamado Toot porque Tusky se quedaba bas"
-  },
-  {
     "blog": "Daniel Omar Cignacco",
     "titulo": "Versalles: historia de un barrio porteño",
     "link": "https://danielomarcignacco.blogspot.com/2026/09/versalles-historia-de-un-barrio-porteno.html",
@@ -1986,6 +2021,13 @@
     "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
     "fecha": "31/08/2026 03:00",
     "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Me he comprado el Pocketbook Inkpad One!",
+    "link": "https://chancli.dev/blog/me-he-comprado-pocketbook-inkpad-one.html",
+    "fecha": "31/08/2026 00:00",
+    "contenido": "Llevo leyendo en el Kindle desde hace bastantes años y aunque sigue funcionando perfectamente, buscaba un dispositivo algo más abierto en el que pudiera hacer más cosas, además de una pantalla más grande.\nDespués de mucho mirar, centré el objetivo en el Inkpad One de Pocketbook.\nSu pantalla de 10,3 "
   },
   {
     "blog": "Jorge Aguilera",
@@ -2231,54 +2273,5 @@
     "link": "https://malagaoriginal.blogspot.com/2026/08/feliz-35-aniversario-gnulinux.html",
     "fecha": "27/08/2026 19:20",
     "contenido": "¿Sabéis que día es hoy? 27 de agosto y hace 35 años del famoso correo que mandó Linus Torvards pidiendo ayuda para un nuevo sistema operativo que estaba haciendo y que se considera la fecha de nacimiento de GNU/Linux.Como regalo de cumpleaños para todos los linuxeros, en especial para los novatos, o"
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Agrégale un human.json a tu blog",
-    "link": "https://blog.luiscarlospando.com/coding/2026/08/agregale-un-human-json-a-tu-blog/",
-    "fecha": "27/08/2026 15:07",
-    "contenido": "Ayer leí este post de Nick Simson y me recordó de que yo ya le había agregado soporte de human.json a mi blog. Traduzco directamente del post de Nick: Uno de los grandes problemas del internet hoy en día es que muchísimo contenido es generado con IA. No hay manera consistente de determinar si un"
-  },
-  {
-    "blog": "Región Cuatro",
-    "titulo": "La Constante de Wadsworth",
-    "link": "https://regioncuatro.blog/la-constante-de-wadsworth/",
-    "fecha": "27/08/2026 15:00",
-    "contenido": "Una de las cosas que hago constantemente es consumir YouTube. Desde La Pandemia™ YouTube se volvió básicamente mi sistema de televisión. Y algo que he aplicado cada vez más y con mayor seguridad es algo que se llama la constante de Wadsworth.\nLa constante de Wadsworth es un axioma que dice:\n\n\nEl pri"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "La clase de griego",
-    "link": "https://mareosdeungeek.es/la-clase-de-griego/",
-    "fecha": "27/08/2026 10:00",
-    "contenido": "La clase de griego es el primer libro que leo de la autora surcoreana Han Kang, quién acabaría recibiendo el Premio Nobel de Literatura en el año 2024. Esta obra se publicó en 2011 y aunque es posterior a su éxito La vegetariana mantiene el nivel de una prosa profunda, muy detallista y dramática par"
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Coyote Vs. Acme",
-    "link": "https://picandocodigo.net/2026/coyote-vs-acme/",
-    "fecha": "27/08/2026 09:25",
-    "contenido": "Ayer fui al cine a ver Coyote Vs. Acme.&#160;La película es una historia original basada en un artículo publicado en 1990 en la revista The New Yorker. Wile E. Coyote de \"El Coyote y el Correcaminos\" consigue un abogado (Will Forte) para demandar a la corporación ACME tras décadas de venderle produc"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "La IA y, o, para, contra el Arte",
-    "link": "https://brucknerite.net/2026/08/la-ia-y-o-para-contra-el-arte.html",
-    "fecha": "27/08/2026 08:00",
-    "contenido": "Una consulta de la Comisión Europea está recogiendo opiniones sobre el papel de la inteligencia artificial en la cultura. Es el momento de quejarse contra un futuro justo al revés del que nos prometieron, en el que nosotros haremos los trabajos tediosos y mal remunerados mientras las máquinas contem"
-  },
-  {
-    "blog": "quiroptero.blog",
-    "titulo": "Por quién doblan las campanas: Craig Maloney",
-    "link": "https://www.quiroptero.blog/2026/08/craig/",
-    "fecha": "27/08/2026 06:00",
-    "contenido": ""
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "El Boston Globe tras las pistas del misterioso robo en el museo Gardner.",
-    "link": "https://polotman.wordpress.com/2026/08/27/el-boston-globe-tras-las-pistas-del-misterioso-robo-en-el-museo-gardner/",
-    "fecha": "27/08/2026 05:54",
-    "contenido": "Entre los episodios más recientes del Sueño del Artista se encuentra el caso del robo del Museo Isabella Stewart Gardner, ocurrido la madrugada del 18 de marzo de 1990, no solo es considerado el mayor robo de arte de la historia, sino también uno de los misterios sin resolver más fascinantes de Bost"
   }
 ]
