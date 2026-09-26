@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 26 Sep 2026 02:28:48 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 10:28:24 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>el show de la monedas: otra vez</title>
+<link>https://iforest.bearblog.dev/202609252018/</link>
+<guid isPermaLink="true">https://iforest.bearblog.dev/202609252018/</guid>
+<pubDate>Fri, 25 Sep 2026 18:18:00 GMT</pubDate>
+<category>iforest</category>
+<description><![CDATA[no puedo soportar a taylor swift ni un segundo más esto lo digo desde la absolutamente perplejidad de que la gente siga escuchándola tanto cuando ni hace ya música decente ni es la única mujer blanca estadounidense que hace música similar es que de verdad que no entiendo la insistencia de seguirle<br><br><strong>Fuente:</strong> iforest]]></description>
+</item>
+<item>
+<title>Seguridad: Vulnerabilidad CVE-2026-87902 en WordPress</title>
+<link>https://interlan.ec/blog/2026/09/25/seguridad-vulnerabilidad-cve-2026-87902-en-wordpress/</link>
+<guid isPermaLink="true">https://interlan.ec/blog/2026/09/25/seguridad-vulnerabilidad-cve-2026-87902-en-wordpress/</guid>
+<pubDate>Fri, 25 Sep 2026 16:41:00 GMT</pubDate>
+<category>Interlan</category>
+<description><![CDATA[Si tienes wordpress, te estás tardando en actualizar. Llévalo a la versión 7.1.2, pues es una situación crítica de seguridad. Esto es un boletín informativo de SEGURIDAD Introducción &amp;#160; Aunque estamos 25 de septiembre de 2026, la actualización de seguridad, WordPress 7.1.2, salió hace tres días,<br><br><strong>Fuente:</strong> Interlan]]></description>
+</item>
 <item>
 <title>Internet Radio: una app para escuchar la radio online</title>
 <link>https://voidnull.es/internet-radio-una-app-para-escuchar-la-radio-online/</link>
@@ -98,7 +114,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Detecta accesos SSH con Zabbix, recibe avisos con la IP de origen y excluye direcciones autorizadas fácilmente.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
 </item>
 <item>
-<title>Viviendo entre pantallas negras</title>
+<title>Viviendo entre pantallas negras – Vol. 1</title>
 <link>https://56k.es/fanta/pequenos-programas-para-tener-en-un-segundo-monitor/</link>
 <guid isPermaLink="true">https://56k.es/fanta/pequenos-programas-para-tener-en-un-segundo-monitor/</guid>
 <pubDate>Thu, 24 Sep 2026 22:54:00 GMT</pubDate>
@@ -200,22 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 23 Sep 2026 21:04:00 GMT</pubDate>
 <category>56K</category>
 <description><![CDATA[Haiku @haiku@mastodon.xyz es un sistema operativo libre que sigue en desarrollo (hace muy poco sacaron nueva release). Inspirado en BeOS actualmente te permite muchas cosas que voy a tratar de dejar por aquí descritas. Por ejemplo puedes usar Libreoffice, Keepassxc, Inkscape, Gimp, Scribus, Firefox,<br><br><strong>Fuente:</strong> 56K]]></description>
-</item>
-<item>
-<title>Autoreverse – El retorno del cassette</title>
-<link>https://56k.es/fanta/autoreverse-el-retorno-del-cassette/</link>
-<guid isPermaLink="true">https://56k.es/fanta/autoreverse-el-retorno-del-cassette/</guid>
-<pubDate>Wed, 23 Sep 2026 19:41:00 GMT</pubDate>
-<category>56K</category>
-<description><![CDATA[Oscar Sánchez Requena (artista conocido como OSR @osr@mastodon.art ) es un máquina. Dentro de su «maquinariedad» cabe destacar su faceta artística pero también su maravillosa obsesión por las cintas de cassete. No voy a ponerme a contar que vive en Portugal, que utiliza en su creación software libre<br><br><strong>Fuente:</strong> 56K]]></description>
-</item>
-<item>
-<title>audric subió 3 imágenes en Nier</title>
-<link>https://labaudric.net/galeria/nier</link>
-<guid isPermaLink="true">https://labaudric.net/galeria/nier</guid>
-<pubDate>Wed, 23 Sep 2026 19:35:00 GMT</pubDate>
-<category>labaudric</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> labaudric]]></description>
 </item>
 
 </channel>
