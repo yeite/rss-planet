@@ -1,5 +1,19 @@
 [
   {
+    "blog": "iforest",
+    "titulo": "el show de la monedas: otra vez",
+    "link": "https://iforest.bearblog.dev/202609252018/",
+    "fecha": "25/09/2026 18:18",
+    "contenido": "\nno puedo soportar a taylor swift ni un segundo más esto lo digo desde la absolutamente perplejidad de que la gente siga escuchándola tanto cuando ni hace ya música decente ni es la única mujer blanca estadounidense que hace música similar es que de verdad que no entiendo la insistencia de seguirle "
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Seguridad: Vulnerabilidad CVE-2026-87902 en WordPress",
+    "link": "https://interlan.ec/blog/2026/09/25/seguridad-vulnerabilidad-cve-2026-87902-en-wordpress/",
+    "fecha": "25/09/2026 16:41",
+    "contenido": "Si tienes wordpress, te estás tardando en actualizar. Llévalo a la versión 7.1.2, pues es una situación crítica de seguridad. Esto es un boletín informativo de SEGURIDAD Introducción &#160; Aunque estamos 25 de septiembre de 2026, la actualización de seguridad, WordPress 7.1.2, salió hace tres días,"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Internet Radio: una app para escuchar la radio online",
     "link": "https://voidnull.es/internet-radio-una-app-para-escuchar-la-radio-online/",
@@ -71,7 +85,7 @@
   },
   {
     "blog": "56K",
-    "titulo": "Viviendo entre pantallas negras",
+    "titulo": "Viviendo entre pantallas negras – Vol. 1",
     "link": "https://56k.es/fanta/pequenos-programas-para-tener-en-un-segundo-monitor/",
     "fecha": "24/09/2026 22:54",
     "contenido": "nom, s-tui, btop, htop, toot, aerc son ideales si utilizas un segundo monitor y tienes escritorios virtuales con los que ir cambiando rápidamente con control+alt+derecha/izquierda La verdad que si uno se acostumbra a estos programas lo cierto es que son una maravilla. Yo los uso con el emulador de t"
@@ -1708,13 +1722,6 @@
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
   },
   {
-    "blog": "Interlan",
-    "titulo": "Seguridad: SpamAssasin y el correo no deseado",
-    "link": "https://interlan.ec/blog/2026/09/04/seguridad-spamassasin-y-el-correo-no-deseado/",
-    "fecha": "04/09/2026 14:00",
-    "contenido": "&#160; &#160; Hace poco instale spamassasin para entender su funcionamiento y me sorprende lo poco que necesita de atención humana, pero eso sí, hay cosillas que es mejor echarle un ojo para entender como funciona. Lo que vamos a analizar a continuación, usualmente está resuelto de manera transparen"
-  },
-  {
     "blog": "",
     "titulo": "Convocatoria.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/09/04/convocatoria-9/",
@@ -2273,40 +2280,5 @@
     "link": "https://polotman.wordpress.com/2026/08/27/el-boston-globe-tras-las-pistas-del-misterioso-robo-en-el-museo-gardner/",
     "fecha": "27/08/2026 05:54",
     "contenido": "Entre los episodios más recientes del Sueño del Artista se encuentra el caso del robo del Museo Isabella Stewart Gardner, ocurrido la madrugada del 18 de marzo de 1990, no solo es considerado el mayor robo de arte de la historia, sino también uno de los misterios sin resolver más fascinantes de Bost"
-  },
-  {
-    "blog": "Spanish on Jorge Sanz",
-    "titulo": "Probando el mini lector Xteink como tablero de datos",
-    "link": "https://jorgesanz.net/posts/2026-08-27-probando-el-mini-lector-xteink-como-tablero-de-datos/",
-    "fecha": "27/08/2026 00:00",
-    "contenido": "\nIba a escribir una nota sobre este asunto en Mastodon, pero casi vale la pena un formato un poco más extenso. Aunque hablo de marcas y tal, no hay enlaces patrocinados ni nada parecido.\n\nTengo una pantalla TRMNL de tinta electrónica desde hace más de un año con la que estoy bastante contento. Ahora"
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "El dispositivo de obediencia",
-    "link": "https://alex.corcoles.net/2026/08/el-dispositivo-de-obediencia",
-    "fecha": "27/08/2026 00:00",
-    "contenido": "\n  Tengo una teor&#237;a nueva dual que discurre por mi mente desde hace unos meses.\n  Por supuesto, son elucubraciones sobre ideas que he discutido aqu&#237; hasta la saciedad:\n  \n    El lento adi&#243;s a la magia de los ordenadores o c&#243;mo los m&#243;viles son una versi&#243;n mal&#233;volame"
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "Se supone que todo debería ser más fácil",
-    "link": "https://alex.corcoles.net/2026/08/se-supone-que-todo-debería-ser-más-fácil",
-    "fecha": "27/08/2026 00:00",
-    "contenido": "\n  \n    Hace unos a&#241;os mencion&#233; de pasada el art&#237;culo \"Kids can't use computers... and this is why it should worry you\".\n  \n  Estoy bastante de acuerdo en que los ordenadores son una parte importante de nuestras vidas y vale la pena hacer un esfuerzo para aprender c&#243;mo funcionan,"
-  },
-  {
-    "blog": "Tecno y Soft - Tecno y Soft",
-    "titulo": "Monitorizar la Wi-Fi con un alias",
-    "link": "https://tecnoysoft.com/2026/08/26/monitorizar-la-wi-fi-con-un-alias/",
-    "fecha": "26/08/2026 19:21",
-    "contenido": "Después de los problemas que tenía con desconexiones esporádicas de la Wi-Fi y de aplicar con éxito la solución que he publicado, opté por crear un alias que monitorizara la conexión. Sin embargo, ni de lejos fue tan fácil como pensaba. La idea inicial La intención era bastante sencilla: disponer de"
-  },
-  {
-    "blog": "",
-    "titulo": "El grupo de musica tradicional irlandesa An Dísh ya tiene su cuenta en Youtube.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/08/26/el-grupo-de-musica-tradicional-irlandesa-an-dish-ya-tiene-su-cuenta-en-youtube/",
-    "fecha": "26/08/2026 19:11",
-    "contenido": "El grupo de musica Celta An Dísh es un grupo reciente, este grupo recién va por su primer concierto y va por el segundo el cual se realizará en Córdoba Argentina próximamente, en fin, una de las novedades de este grupo es que ya tiene su cuenta en Youtube por donde van a poder difundir &#8230; Sigue"
   }
 ]
