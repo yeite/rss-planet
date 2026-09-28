@@ -1,10 +1,80 @@
 [
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Sierra de Gredos",
+    "link": "https://mareosdeungeek.es/sierra-de-gredos/",
+    "fecha": "28/09/2026 15:50",
+    "contenido": "La Sierra de Gredos fue nuestro destino vacacional este verano. Cada vez más al norte porque, la verdad, es que el calor ha apretado bastante. Nuestra base de operaciones fue la localidad de Candeleda, situada en el Valle del Tiétar, al sur de la provincia de Ávila. Es curioso porque se encuentra en"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Diario de Viaje - Escocia, Irlanda, Italia hacia el Adriático y París",
+    "link": "https://www.fabio.com.ar/10040-diario-de-viaje---escocia-irlanda-italia-hacia-el-adriatico-y-paris",
+    "fecha": "28/09/2026 12:00",
+    "contenido": "    \nNuevo a&ntilde;o, nuevo viaje, aunque esta vez fue mucho m&aacute;s temprano y me fui en el verano europeo para \"probar\" ese calorcito de cambio clim&aacute;tico que pega tan fuerte por el Viejo Continente.\nNuevos destinos este a&ntilde;o, no conoc&iacute;a nada m&aacute;s que Londres de las is"
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "Simplificando mis Notas",
+    "link": "https://matizeta.com/2026/09/28/simplificando-mis-notas/",
+    "fecha": "28/09/2026 10:57",
+    "contenido": "Hace unas semanas comentaba que me planteé reducir la cantidad de apps que usaba para la productividad abrumado por la cantidad de apps de productividad que utilizaba en el día a día. Eliminé TickTick, Minimalist y Folio (app de tipo guardar para leer más tarde), concentrando toda la información que"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "El Histórico \"Time´s End\" Cumple 40 Años | Se Anuncia Una Re Edición De Lujo Para Saint",
+    "link": "https://www.delotroladometal.com.ar/2026/09/28/se-anuncia-una-re-edicion-de-lujo-para-saint/",
+    "fecha": "28/09/2026 10:35",
+    "contenido": "Hacía tiempo que no sabíamos nada de Saint. La banda sigue en pie batallando, tocando...\nThe post El Histórico \"Time´s End\" Cumple 40 Años | Se Anuncia Una Re Edición De Lujo Para Saint first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "openSUSE Leap 16.1 tendrá un modo inmutable que tomará el relevo a openSUSE Micro",
+    "link": "https://victorhckinthefreeworld.com/2026/09/28/opensuse-leap-16-1-tendra-un-modo-inmutable-que-tomara-el-relevo-a-opensuse-micro/",
+    "fecha": "28/09/2026 09:59",
+    "contenido": "openSUSE Micro, la inmutable de openSUSE dejará de existir y openSUSE 16.1 tendrá un modo inmutable"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de HestiaCP en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-hestiacp-en-debian-13/",
+    "fecha": "28/09/2026 07:10",
+    "contenido": "HestiaCP es un panel de control de código abierto diseñado para simplificar la administración de servidores web."
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Ecosistema AdGuard: Home, VPN y DNS",
+    "link": "https://alt43.es/ecosistema-adguard-home-vpn-y-dns/",
+    "fecha": "28/09/2026 07:00",
+    "contenido": "AdGuard no es un único producto, sino un catálogo de varios: Home (servidor DNS autoalojado), VPN y DNS alojado son piezas independientes con arquitecturas, precios y limitaciones distintas. Repasamos cada una de ellas, su utilidad y comparativa con otras de similares."
+  },
+  {
     "blog": "El Sitio de Manieflo",
     "titulo": "Actualizar Un Servicio",
     "link": "https://elprofejuan.com.ar/actualizar-un-servicio",
     "fecha": "28/09/2026 02:20",
     "contenido": "Siempre dije, docker es muy sencillo y fácil de mantener, claro, si lo sabés actualizar y no dejás que ordenes de versiones mayores se interponen en el camino....\n\n"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Por qué hoy uso Fedora",
+    "link": "https://elblogdelazaro.org/por-que-hoy-uso-fedora/",
+    "fecha": "28/09/2026 02:00",
+    "contenido": "Por: Carlos M.Publicado el 28 de septiembre de 2026Reflexión personal sobre por qué, tras años de distrohopping y ver morir muchas distros, he acabado quedándome en Fedora.Continuar leyendo →#Arch #Linux #Fedora "
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "La nueva RENFE",
+    "link": "https://alex.corcoles.net/2026/09/la-nueva-renfe",
+    "fecha": "28/09/2026 00:00",
+    "contenido": "\n  \n    Web de \"la nueva Renfe\"\n  \n  Dice RENFE que van a arreglar su web. Ser&#237;a llamativo que RENFE arreglase algo que se ha convertido en una de las cosas que m&#225;s nos une en este pa&#237;s: el odio a comprar billetes de tren.\n  Mi primera queja es una paradoja. &#191;Ser&#225; eficaz des"
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Fedora 45 Beta",
+    "link": "https://nevat.neocities.org/f45beta_28092026.html",
+    "fecha": "28/09/2026 00:00",
+    "contenido": "Ya está disponible la versión preliminar de esta distribución, así que es hora de revisar que cambios trae para un usuario común."
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -21,6 +91,13 @@
     "contenido": "#Fahrenheit451 #InteligenciaArtificial #quemadeLibros #DestruciondeLibros #IA Si Ray Bradbury hubiera sabido que con sus libros estaría prediciendo&#160; uno de los tantos destinos que le depara a la humanidad por las consecuencias de sus propias y grandes acciones que ni los vaticinios de Michel de"
   },
   {
+    "blog": "labaudric",
+    "titulo": "audric subió GTA V - Preparando atraco en GTA",
+    "link": "https://labaudric.net/videos/gta/6935",
+    "fecha": "27/09/2026 18:29",
+    "contenido": ""
+  },
+  {
     "blog": "Eterno aprendiz",
     "titulo": "Extendiendo la vida útil de mi Samsung Galaxy Tab S6 Lite",
     "link": "https://altgr.xyz/2026/09/27/extendiendo-la-vida-util-de-mi-samsung-galaxy-tab-s6-lite/",
@@ -33,6 +110,13 @@
     "link": "http://frikoteca.blogspot.com/2026/09/ludo-ergo-sum-2026.html",
     "fecha": "27/09/2026 17:55",
     "contenido": "El fin de semana pasado me lo pasé entero en las jornadas Ludo Ergo Sum. No he podido escribir antes sobre ello porque ha sido una semana entretenida en muchos sentidos, pero aquí estamos para hacer una pequeña crónica. Supongo que ya habréis leído otras, como por ejemplo, la de mi hermano, pero eso"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Semana complicada",
+    "link": "https://mareosdeungeek.es/semana-complicada/",
+    "fecha": "27/09/2026 17:00",
+    "contenido": "La vuelta a la rutina está siendo complicada. Verdaderamente, a lo mejor, es por agotamiento o síndrome post-vacacional. En todo caso, es un ciclo extraño: comienza con incomodidad, dejarse llevar, indiferencia, preocupaciones externas y dejadez. Cómo no quiero llegar a ese último punto, estoy escri"
   },
   {
     "blog": "eaplmx",
@@ -92,7 +176,7 @@
   },
   {
     "blog": "Si dios te da limones",
-    "titulo": "Aquí me bajo yo",
+    "titulo": "Actualización: Pixelfed y la ia",
     "link": "https://sidiostedalimones.com/blog/2026/aqui-me-bajo-yo/",
     "fecha": "27/09/2026 00:00",
     "contenido": ""
@@ -127,7 +211,7 @@
   },
   {
     "blog": "labaudric",
-    "titulo": "Bleach - Sennen Kessen Hen Ketsubetsu Tan (Saga dos, 2/4 (anime)",
+    "titulo": "Bleach - Sennen Kessen Hen Ketsubetsu Tan (Saga dos, 2/4 anime)",
     "link": "https://labaudric.net/blog/anime/bleach-sennen-Kessen-hen-ketsubetsu-tan",
     "fecha": "26/09/2026 19:25",
     "contenido": "\nParte 2/4\n\nBueno, segunda parte de esta segunda saga. Empieza dejando claro algo que me perturbó en la escena post crédito (cabrones...) del último capítulo de la parte anterior: el malo no es el padre de Ishida, no como tal. Es el padre \"espiritualmente\" hablando de todos los Quincies. De hecho, e"
@@ -567,6 +651,13 @@
     "contenido": "Ante el lento desarrollo de Geary alguien ha hecho un fork, lo ha portado a GTK4 y ha corregido/mejorado varios aspectos de la aplicación."
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Poquita fe",
+    "link": "https://mareosdeungeek.es/poquita-fe/",
+    "fecha": "21/09/2026 18:25",
+    "contenido": "Poquita fe es una comedia que puede verse en Movistar Plus+. Consta de dos temporadas, la primera con 12 episodios y la segunda con 8. La verdad es que se estrenaron en 2023 y 2025, así que desconozco si habrá una tercera. La serie es una creación de Pepón Montero y Juan Maidagán, protagonizada por "
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "AkademyES 2026. La reunión más social de #KDE España y simpatizantes del software libre",
     "link": "https://victorhckinthefreeworld.com/2026/09/21/akademyes-2026-la-reunion-mas-social-de-kde-espana-y-simpatizantes-del-software-libre/",
@@ -623,11 +714,18 @@
     "contenido": "The corporate landscape continues to evolve at a rapid pace, requiring major industrial conglomerates to adapt their operational frameworks continuously. In response to emerging market trends and global economic shifts, Astra has announced the launch of its new strategic direction. &#8230; Sigue ley"
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Reflexión acerca de la guerra entre Rusia y Ucrania",
+    "link": "https://gatooscuro.xyz/reflexion-acerca-de-la-guerra-entre-rusia-y-ucrania/",
+    "fecha": "21/09/2026 08:14",
+    "contenido": "Desde el principio quiero aclarar que no estoy a favor de ningún bando. Son dos naciones con una larga historia, cada una con sus razones y motivaciones que, desde mi\nSeguir leyendo  Reflexión acerca de la guerra entre Rusia y Ucrania\nEl cargo Reflexión acerca de la guerra entre Rusia y Ucrania apar"
+  },
+  {
     "blog": "matizeta",
     "titulo": "Una visita al museo de autos antiguos",
     "link": "https://matizeta.com/2026/09/21/una-visita-al-museo-de-autos-antiguos/",
     "fecha": "21/09/2026 08:11",
-    "contenido": "El museo del Automóvil Club Argentino (ACA)Entradas relacionadas:Bienvenida a casaRedefiniendo mi forma de viajarUna sola ideología mundialLa pregunta que nunca nos hicimos (hasta ahora)Cómo escribir «páginas matutinas» y no morir en el intento"
+    "contenido": "El museo del Automóvil Club Argentino (ACA)Entradas relacionadas:Redefiniendo mi forma de viajar¿Nadie vió Click? Un turista no es un viajeroLa banda Babasónicos y un show sorpresa en una&hellip;El momento como protagonista"
   },
   {
     "blog": "_ voidNull",
@@ -677,6 +775,13 @@
     "link": "https://labaudric.net/blog/manga/critica-uzumaki",
     "fecha": "20/09/2026 20:36",
     "contenido": "\nMi segunda lectura de este peculiar autor, Junji Ito, Uzumaki inicia en 1998 y termina al año siguiente, acumulando 658 páginas divididas en 3 tomos.\nAbramos el melón: es muy mal rollero. Cuando leí y critiqué Gyo me pregunté si el malrollismo era peculiar de esa obra en concreto, o si era el pecul"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La Mancha Conquense",
+    "link": "https://mareosdeungeek.es/la-mancha-conquense/",
+    "fecha": "20/09/2026 20:03",
+    "contenido": "Después de visitar Alarcón, la ruta por Cuenca continúo hasta La Mancha Conquense, el extremo suroccidental de la provincia e incluida en lo que sería La Mancha Alta. Allí estuve visitando Belmonte y Mota del Cuervo. Por añadir un poco de contexto antes de entrar en detalles. La comarca actual de La"
   },
   {
     "blog": "zurdeando - Blog",
@@ -889,6 +994,13 @@
     "contenido": "a veces me hace falta pensar en las cosas buenas que vivo en el presente, no en lo que ya ha pasado ni en lo que puede pasar en el futuro. he hablado en otras ocasiones, aquí o en otros sitios sobre cómo me cuesta vivir el presente a veces. ayer leí a mi amiga en su publicación 'el futuro' sobre eso"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "España partida en dos",
+    "link": "https://mareosdeungeek.es/espana-partida-en-dos/",
+    "fecha": "17/09/2026 18:23",
+    "contenido": "España partida en dos en su versión de novela gráfica es la adaptación de la versión ampliada y actualizada del libro que el historiador Julián Casanova presentó en el año 2022. El texto original se adapta por parte de Miguel Casanova (hijo de Julián) con las imágenes dibujadas por Carles Esquembre."
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "El manifiesto que también fue publicidad",
     "link": "https://thecheis.com/2026/09/17/el-manifiesto-que-tambien-fue-publicidad/",
@@ -924,13 +1036,6 @@
     "contenido": "Adéntrate en un mundo vikingo acompañado de seres mitológicos para derrotar a malvados jefes y enemigos por un tubo\nLa entrada Análisis de Asgard&#8217;s Fall — Viking Survivors se publicó primero en CozyKis."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Jacobs Dream: Jacobs Dream | Un Verdadero Disco De Culto",
-    "link": "https://www.delotroladometal.com.ar/2026/09/17/un-verdadero-disco-de-culto/",
-    "fecha": "17/09/2026 10:35",
-    "contenido": "(2000 &#8211; Metal Blade/Nems Enterprises) Revisar el pasado, buscar, indagar, no quedarse con lo que...\nThe post Jacobs Dream: Jacobs Dream | Un Verdadero Disco De Culto first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "56K",
     "titulo": "FurorTV – El Netflix para gente de izquierdas",
     "link": "https://56k.es/fanta/furor-tv-causa-furor-en-su-primer-dia-de-crowdfunding/",
@@ -950,6 +1055,13 @@
     "link": "https://labaudric.net/videos/nier/6916",
     "fecha": "16/09/2026 23:00",
     "contenido": ""
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La vida de Chuck",
+    "link": "https://mareosdeungeek.es/la-vida-de-chuck/",
+    "fecha": "16/09/2026 19:22",
+    "contenido": "La vida de Chuck es una película de ciencia ficción con elementos de drama y cine fantástico. Bastante original, con un final curioso y con grandes nombres, sobre todo en su concepción. Porque La vida de Chuck está basada en el libro del mismo título de Stephen King, con guion y dirección de Mike Fl"
   },
   {
     "blog": "La Frikoteca",
@@ -1085,6 +1197,13 @@
     "contenido": "Un plugin que funciona de maravilla para añadir iconos personalizados a Obsidian: carpetas, notas,Ir al enlace"
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Que la alternativa no sea peor que lo que reemplaza",
+    "link": "https://gatooscuro.xyz/que-la-alternativa-no-sea-peor-que-lo-que-reemplaza/",
+    "fecha": "15/09/2026 06:51",
+    "contenido": "Quien lleve tiempo leyéndome conoce que paso más tiempo en Internet que socializando con cualquier persona físicamente, y no, no es nada de orgullo; de hecho, hay carencias sociales, pero\nSeguir leyendo  Que la alternativa no sea peor que lo que reemplaza\nEl cargo Que la alternativa no sea peor que "
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "584. Cosas que explicar",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/584-cosas-que-explicar.html",
@@ -1141,13 +1260,6 @@
     "contenido": "Ya hace unos cuantos años que se ofrecían inteligencias artificiales para la ciberseguridad: lo penúltimo era la detección de comportamientos anómalos a partir de la actividad de la red, los registros de actividad, etc. Pero, en los últimos años, las IAs se han ganado por derecho propio la entrada a"
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Lo difícil que era conseguir una cita y encontrarse",
-    "link": "https://www.fabio.com.ar/10030-lo-dificil-que-era-conseguir-una-cita-y-encontrarse",
-    "fecha": "14/09/2026 12:00",
-    "contenido": "    \nEl otro d&iacute;a rememor&aacute;bamos nuestra primera cita convocada por... ICQ, as&iacute; es, invit&eacute; a Gime a salir usando esa extinta plataforma mucho antes de que MSN existiera, &eacute;pocas en las que la conversaci&oacute;n por redes no exist&iacute;a porque las redes sociales no"
-  },
-  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Paperman: app para hacer que la pantalla tenga textura de papel",
     "link": "https://guillermolatorre.com/clips/paperman-app-para-hacer-que-la-pantalla-tenga-textura-de-papel",
@@ -1159,7 +1271,7 @@
     "titulo": "Imprime tu diario personal",
     "link": "https://matizeta.com/2026/09/14/imprime-tu-diario-personal/",
     "fecha": "14/09/2026 08:11",
-    "contenido": "Tu vida en forma de novela.Entradas relacionadas:Nueva versión de ¡Blog!¡Blog!CambiosComprar lo que NO necesitasLecturas recomendadas #6Descuento por ser del tercer mundo"
+    "contenido": "Tu vida en forma de novela.Entradas relacionadas:Lecturas recomendadas #4¡Blog!¡Blog! cumple su primer añoColaboraciones entre blogsNueva versión de ¡Blog!¡Blog!Cambios"
   },
   {
     "blog": "_ voidNull",
@@ -1174,6 +1286,13 @@
     "link": "https://56k.es/fanta/abrir-cuenta-en-mastodon-en-1-solo-paso/",
     "fecha": "14/09/2026 07:03",
     "contenido": "Abrir una cuenta en Mastodon es muy sencillo. No voy a tratar de explicar que Mastodon pertenece a lo que se llama «el Fediverso» esta vez y voy a ir directo al grano si lo que buscas es abrir una cuenta en lo que llaman «Mastodon». Paso 1: Elige un Nodo de los que quieras...."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Curso 2026/27",
+    "link": "https://mareosdeungeek.es/curso-2026-27/",
+    "fecha": "14/09/2026 07:00",
+    "contenido": "Después del largo verano, hora de volver a la rutina. No será hoy, será mañana, cuando mi hijo empiece otra nueva etapa en su vida, Secundaria. Y por aquí, lamentablemente, no me puedo poner en huelga, así que Mareos de un geek seguirá siendo la vía de escape, el recopilatorio de mis aficiones y el "
   },
   {
     "blog": "alt43",
@@ -1195,13 +1314,6 @@
     "link": "https://thejnx.bearblog.dev/pensando-en-regresar/",
     "fecha": "13/09/2026 22:59",
     "contenido": "Edit: en bonito.cafe otra vez...\nhttps://bonito.cafe/@TheJnx_x\nMe estoy tomando en serio en lo de revivir el blog, ya dos notas seguidas \"y esta rosa?\" Okno\nSe que estaba medio presumiendo lo lindo que era estar en Anilist, pero parece que mi modo de expresarme no concuerda mucho con el tema princip"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió Nier Automata - el castillo del bosque en Nier",
-    "link": "https://labaudric.net/videos/nier/6915",
-    "fecha": "13/09/2026 20:00",
-    "contenido": ""
   },
   {
     "blog": "La Frikoteca",
@@ -1230,6 +1342,13 @@
     "link": "https://blog.impermanente.es/2026/09/13/parecer-que-sabes.html",
     "fecha": "13/09/2026 12:35",
     "contenido": "Ayer un grupo de jóvenes me explicaron lo que es un LARP. Yo conocía el término como live action role-playing, un juego de rol en vivo, de esos donde uno se viste de un personaje y actúa como si lo fuera. Pero por lo visto ahora se usa “larpear” para hablar de gente que se hace pasar por algo que no"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "República Bananera de España: un verano larguísimo",
+    "link": "https://mareosdeungeek.es/republica-bananera-de-espana-un-verano-larguisimo/",
+    "fecha": "13/09/2026 12:30",
+    "contenido": "El verano se acaba y ha sido largo para todos. No sé si habrá sido el calor o ver como, a pesar de los excelentes indicadores económicos, la situación para el ciudadano normal español, es cada vez peor. Por supuesto, aquellos exentos de sentido común o la más mínima capacidad crítica, me dirán que s"
   },
   {
     "blog": "iforest",
@@ -1279,13 +1398,6 @@
     "link": "https://tecnoysoft.com/2026/09/11/por-que-mantengo-cerrados-los-comentarios-del-blog/",
     "fecha": "11/09/2026 22:02",
     "contenido": "Desde que abrí este blog, los comentarios han estado cerrados. No es una decisión tomada a la ligera ni algo que haya hecho porque piense que los comentarios no tienen utilidad. De hecho, mi experiencia con el blog anterior me demostró precisamente lo contrario. Un buen comentario puede aportar tant"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Chora: un reproductor de Navidrome para Android TV",
-    "link": "https://voidnull.es/chora-un-reproductor-de-navidrome-para-android-tv/",
-    "fecha": "11/09/2026 15:30",
-    "contenido": "Cliente libre para reproducir tu biblioteca de Navidrome o Subsonic desde Android, Android TV y Android Auto."
   },
   {
     "blog": "Victorhck in the free world",
@@ -1568,6 +1680,13 @@
     "contenido": "Después de 25 años, ha llegado el momento de pasar el relevo del proyecto Packman. Si no se encuentra a nadie que desee continuar con Packman, se suspenderá el proyecto el 31/12/2026."
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Videojuegos: novedades y noticias de verano, Gamescom y State of Play",
+    "link": "https://mareosdeungeek.es/videojuegos-novedades-y-noticias-de-verano-gamescom-y-state-of-play/",
+    "fecha": "08/09/2026 11:30",
+    "contenido": "El verano siempre ha sido uno de los grandes momentos para el mercado de los videojuegos. Las vacaciones escolares, cuando estaban enfocados a un público más infantil y juvenil, además de los anuncios para el final de año, marcaban la actividad. Personalmente, coincidía con mi cumpleaños, así que er"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Análisis de DEVIL’S LIMINAL",
     "link": "https://cozykis.kisworld.es/analisis-de-devils-liminal/",
@@ -1587,6 +1706,13 @@
     "link": "https://blog.danielaragay.net/por-que-en-suecia-vota-casi-todo-el-mundo-y-que-esconde-esa-cifra/",
     "fecha": "08/09/2026 09:25",
     "contenido": "Suecia va camino de otra elección con una participación por encima del 80%, casi veinte puntos más que España. El sistema está diseñado para que votar sea fácil: casi tres semanas de voto anticipado, sin papeleta física, en cualquier punto del país."
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Autistici/Inventati cierra, ¡pero la lucha continúa!",
+    "link": "https://gatooscuro.xyz/autistici-inventati-cierra-pero-la-lucha-continua/",
+    "fecha": "08/09/2026 08:52",
+    "contenido": "Recientemente ha ocurrido una desgracia que tiene a todos los hacktivistas decepcionados y muy preocupados; un acto que parece cambiar las reglas del juego para mal. Y es que veníamos\nSeguir leyendo  Autistici/Inventati cierra, ¡pero la lucha continúa!\nEl cargo Autistici/Inventati cierra, ¡pero la l"
   },
   {
     "blog": "matizeta",
@@ -1636,13 +1762,6 @@
     "link": "https://cozykis.kisworld.es/analisis-de-lock-key-a-magical-girl-mystery/",
     "fecha": "07/09/2026 10:36",
     "contenido": "La historia va más allá del poder de la amistad y como la relación de cuatro chicas puede ayudar (o no) a salvar el mundo\nLa entrada Análisis de Lock &amp; Key: A Magical Girl Mystery se publicó primero en CozyKis."
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Curaduría de entradas",
-    "link": "https://matizeta.com/2026/09/07/curaduria-de-entradas/",
-    "fecha": "07/09/2026 08:11",
-    "contenido": "Para que cada una de ellas envejezcan de la mejor manera posible.Entradas relacionadas:Mis blogs-categoríasRediseño del pie de las entradas del blogLecturas recomendadas #5Lecturas recomendadas #8Apple lanzaría al mundo lo menos esperado: la Mac&hellip;"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1701,18 +1820,18 @@
     "contenido": "Yo no quería ser empresario pero me tocó. Me tocó porque como persona natural me tienen molido a impuestos y mis férreos principios me dictan que mantener burócratas es el [&#8230;]\nLa entrada La pesadilla de ser empresario se publicó primero en Jinversor."
   },
   {
-    "blog": "Victorhck in the free world",
-    "titulo": "El colectivo hacktivista Autistici/Inventati cierra sus servicios",
-    "link": "https://victorhckinthefreeworld.com/2026/09/06/el-colectivo-hacktivista-autistici-inventati-cierra-sus-servicios/",
-    "fecha": "06/09/2026 17:52",
-    "contenido": "Después de 25 años dando soporte a servicios activistas. El colectivo Autistici/Inventati (A/I) no ha podido aguantar la presión por parte del gobierno filonazi de EE.UU."
-  },
-  {
     "blog": "La Máquina de Von Neumann",
     "titulo": "J-Space: mucho ruido para no tantas nueces",
     "link": "https://vonneumannmachine.wordpress.com/2026/09/06/j-space-mucho-ruido-para-no-tantas-nueces/",
     "fecha": "06/09/2026 16:45",
     "contenido": "Mis queridos amigos de Anthropic publicaron un artículo (Bueno, un technical report o un preprint. Una de las cosas a los que nos tenemos que acostumbrar los que estamos en el mundillo de la IA es a que todo lo que producen estas empresas es extra-académico, es decir, no pasa por ninguna revisión po"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Lo peor de la traición es que nunca viene de un desconocido",
+    "link": "https://gatooscuro.xyz/lo-peor-de-la-traicion-es-que-nunca-viene-de-un-desconocido/",
+    "fecha": "06/09/2026 14:00",
+    "contenido": "Me tomó varios días decidir si publicaba o no este artículo y, pues, como pueden observar, la decisión está tomada. Tenía más pensamientos en contra que a favor. En la\nSeguir leyendo  Lo peor de la traición es que nunca viene de un desconocido\nEl cargo Lo peor de la traición es que nunca viene de un"
   },
   {
     "blog": "quiroptero.blog",
@@ -1741,6 +1860,13 @@
     "link": "https://tecnoysoft.com/2026/09/06/otra-forma-de-compartir-contenido/",
     "fecha": "06/09/2026 07:33",
     "contenido": "Antes de comenzar, conviene realizar una aclaración: el presente contenido no se encuentra sujeto a ningún tipo de licencia, por lo que puede ser utilizado libremente por cualquier persona, sin necesidad de autorización previa. No considero necesario justificar ni defender la decisión que aquí se ex"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Un largo verano",
+    "link": "https://mareosdeungeek.es/un-largo-verano-2/",
+    "fecha": "06/09/2026 07:00",
+    "contenido": "Tengo que reconocer que el verano de 2026 está siendo demasiado largo. Necesito volver a una rutina que es rutina, básicamente, necesito que mis hijos empiecen el colegio. No hay nada peor que trabajar en verano, con los niños y con mucho calor. De nada me ha servido estar fuera de casa, bueno, tal "
   },
   {
     "blog": "JavierSam",
@@ -2121,6 +2247,13 @@
     "contenido": "Se trata de una \"pequeña\" app que vive en la barra superior del sistema y que integra un montón de pequeñas utilidades de las que te hacen la vida más fácil. Y es software libre.Ir al enlace"
   },
   {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Se hizo historia en el Carlos Vieco por una buen causa",
+    "link": "https://gatooscuro.xyz/se-hizo-historia-en-el-carlos-vieco-por-una-buen-causa/",
+    "fecha": "30/08/2026 15:28",
+    "contenido": "NOTA: Este artículo tenía que haber salido un día después del evento, pero como me ocurre de todo entonces salió tarde, varios días tarde. Hoy les vengo a escribir sobre\nSeguir leyendo  Se hizo historia en el Carlos Vieco por una buen causa\nEl cargo Se hizo historia en el Carlos Vieco por una buen c"
+  },
+  {
     "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "La oportunidad perdida de GNU/Linux en el escritorio",
     "link": "https://tecnoysoft.com/2026/08/30/la-oportunidad-perdida-de-gnu-linux-en-el-escritorio/",
@@ -2182,12 +2315,5 @@
     "link": "https://vctrsnts.codeberg.page/posts/2026-08-30-new-fastfech/",
     "fecha": "29/08/2026 22:00",
     "contenido": "Pequeño artículo sobre mi nueva configuración de fastfetch. Ya sabéis, esa aplicación que puedes usar en tu consola por defecto en GNU/Linux y que te muestra información del sistema cuando accedes a ella.\nDesde la instalación de Arch Linux había estado usando la configuración por defecto de fastfetc"
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Los diarios de Shosuro Otagi Parte 1",
-    "link": "https://escritura.social/mcallus/los-diarios-de-shosuro-otagi-parte-1",
-    "fecha": "29/08/2026 16:28",
-    "contenido": ""
   }
 ]
