@@ -1974,13 +1974,6 @@
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
   },
   {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacín",
-    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
-    "fecha": "03/09/2026 17:28",
-    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Eufemismos",
     "link": "https://jinversor.co/2026/09/eufemismos/",
@@ -2095,9 +2088,9 @@
   {
     "blog": "Escritos en la nube",
     "titulo": "Cambiar servicios en la nube por software sin conexión",
-    "link": "https://nube.codeberg.page/blog/offline/",
+    "link": "https://nube.codeberg.page/blog/offline.html",
     "fecha": "01/09/2026 13:58",
-    "contenido": "\nQuisiera empezar este post con algunas preguntas: ¿que tanto dependes de internet? ¿si te quedas sin internet en este momento, a cuantas cosas perderías acceso?, ¿todas tus cosas son realmente tuyas?\nYo me he hecho esas preguntas desde que tengo una conexión a internet propia, porque en mi contexto"
+    "contenido": "Cada quien hace lo que quiera, yo solo quería hablar de esto"
   },
   {
     "blog": "La bitácora de Locutus",
@@ -2287,33 +2280,5 @@
     "link": "https://pedrolr.es/blog/un-soporte-casero-para-mis-guitarras/",
     "fecha": "30/08/2026 05:38",
     "contenido": "Hace 2 años pasé unas semanas en casa de la familia cuidando a las perritas Luna y Dama y me dio por hacer un soporte de guitarras. Lo hice aprovechando una puerta de valla baja de madera y unas maderas que tenía mi familia en el trastero/desván. En casa tengo una guitarra eléctrica. Es una [&#8230;"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Yayoi Kusama: Lunares, Calabazas y una Vida Convertida en Obra",
-    "link": "https://polotman.wordpress.com/2026/08/29/yayoi-kusama-lunares-calabazas-y-una-vida-convertida-en-obra/",
-    "fecha": "30/08/2026 00:34",
-    "contenido": "#YayoiKusama #Arte #mujeresArtistas #Japon #ArteContemporaneo “Mi arte es una confesión. Es mi forma de luchar contra el miedo, contra la soledad, contra el vacío.” — Yayoi Kusama Pocas figuras en el arte contemporáneo condensan con tanta intensidad la contradicción humana como Yayoi Kusama (松本 瑤子, "
-  },
-  {
-    "blog": "Si dios te da limones",
-    "titulo": "El lápiz de debajo",
-    "link": "https://sidiostedalimones.com/blog/2026/el-lapiz-de-debajo/",
-    "fecha": "30/08/2026 00:00",
-    "contenido": ""
-  },
-  {
-    "blog": "iforest",
-    "titulo": "kpop bands",
-    "link": "https://iforest.bearblog.dev/202608300117/",
-    "fecha": "29/08/2026 23:17",
-    "contenido": "\nsomething about las bandas de kpop me arrasca siempre el cerebro mucho, menudas titles tan disfrutonas hacen siempre, es increible\n"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Mi nuevo fastfetch",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-08-30-new-fastfech/",
-    "fecha": "29/08/2026 22:00",
-    "contenido": "Pequeño artículo sobre mi nueva configuración de fastfetch. Ya sabéis, esa aplicación que puedes usar en tu consola por defecto en GNU/Linux y que te muestra información del sistema cuando accedes a ella.\nDesde la instalación de Arch Linux había estado usando la configuración por defecto de fastfetc"
   }
 ]
