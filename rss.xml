@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 30 Sep 2026 17:11:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 21:38:15 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,92 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
-<title>Pixelfed y lel episodio de bazofIA</title>
+<title>Botones 88x31px en el blog</title>
+<link>https://pedrolr.es/blog/botones-88x31px-en-el-blog/</link>
+<guid isPermaLink="true">https://pedrolr.es/blog/botones-88x31px-en-el-blog/</guid>
+<pubDate>Wed, 30 Sep 2026 16:03:00 GMT</pubDate>
+<category>pedrolr blog</category>
+<description><![CDATA[He abierto una página de botones 88x31px: pedrolr.es/blog/botones88x31px. Reproduzco aquí gran parte de su contenido: Iba a haberlos puestos en el footer del blog, pero no me convencía cómo quedaba. A la vez, quería tener un espacio en el que se vean. Al final he puesto un enlace a la página en el f<br><br><strong>Fuente:</strong> pedrolr blog]]></description>
+</item>
+<item>
+<title>timeout: limita el tiempo de ejecución de comandos</title>
+<link>https://voidnull.es/timeout-limita-el-tiempo-de-ejecucion-de-comandos/</link>
+<guid isPermaLink="true">https://voidnull.es/timeout-limita-el-tiempo-de-ejecucion-de-comandos/</guid>
+<pubDate>Wed, 30 Sep 2026 15:30:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Permite establecer un tiempo máximo de ejecución para otro comando<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Kew el reproductor de música minimalista e inmersivo para la terminal</title>
+<link>https://victorhckinthefreeworld.com/2026/09/30/kew-el-reproductor-de-musica-minimalista-e-inmersivo-para-la-terminal/</link>
+<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/09/30/kew-el-reproductor-de-musica-minimalista-e-inmersivo-para-la-terminal/</guid>
+<pubDate>Wed, 30 Sep 2026 15:15:00 GMT</pubDate>
+<category>Victorhck in the free world</category>
+<description><![CDATA[El reproductor Kew está pensado para quien desea una experiencia limpia y sin distracciones a la hora de escuchar música de tu colección propia desde la terminal<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
+</item>
+<item>
+<title>WP Secure, un plugin libre para proteger tu Wordpress</title>
+<link>https://www.fabio.com.ar/10042-wp-secure-un-plugin-libre-para-proteger-tu-wordpress</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/10042-wp-secure-un-plugin-libre-para-proteger-tu-wordpress</guid>
+<pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Ultimamente me he encontrado con numerosas ocasiones en las que un sitio con Wordpress es objetivo de un ataque sistem&amp;aacute;tico para tratar de vulnerarlo. Hay muchos plugins dando vueltas para contener esto, pero la mayor&amp;iacute;a deja algunas cosas para la versi&amp;oacute;n paga. As&amp;iacute; qu<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Formas de escapar a las garras de la IA</title>
+<link>https://56k.es/fanta/formas-de-escapar-a-las-garras-de-la-ia/</link>
+<guid isPermaLink="true">https://56k.es/fanta/formas-de-escapar-a-las-garras-de-la-ia/</guid>
+<pubDate>Wed, 30 Sep 2026 11:24:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Hace un año o puede que más me puse a investigar formas de compartir contenidos, comunicarnos, &amp;#8230; sin que esto terminase alimentando más a la bestia. He recopilado pues en este post algunas cosas que creo que pueden ayudar y otras simplemente servir de ejemplo de que otras tecnologías al margen<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>Inflamed Sword: Nox Fletus, Mane Gaudii | Huele A Espíritu Extremo</title>
+<link>https://www.delotroladometal.com.ar/2026/09/30/huele-a-espiritu-extremo/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/09/30/huele-a-espiritu-extremo/</guid>
+<pubDate>Wed, 30 Sep 2026 11:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[(2026 &amp;#8211; Independiente) Dentro de las expresiones del Black Metal, la faz correspondiente a la... The post Inflamed Sword: Nox Fletus, Mane Gaudii | Huele A Espíritu Extremo first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Pixelfed y el episodio de bazofIA</title>
 <link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/30/20260930-pixelfed-bazofia/</link>
 <guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/30/20260930-pixelfed-bazofia/</guid>
 <pubDate>Wed, 30 Sep 2026 08:00:00 GMT</pubDate>
 <category>ENTRE DRAGONES Y PINGÜINOS</category>
-<description><![CDATA[Dada el rumbo de decadencia que está siguiendo el proyecto, retiro mi apoyo a Pixelfed<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+<description><![CDATA[Dado el rumbo de decadencia que está siguiendo el proyecto, retiro mi apoyo a Pixelfed<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+</item>
+<item>
+<title>Nos vemos en Pamplona</title>
+<link>https://brucknerite.net/2026/09/nos-vemos-en-pamplona.html</link>
+<guid isPermaLink="true">https://brucknerite.net/2026/09/nos-vemos-en-pamplona.html</guid>
+<pubDate>Wed, 30 Sep 2026 08:00:00 GMT</pubDate>
+<category>brucknerite</category>
+<description><![CDATA[El próximo sábado 3 de octubre a las 10.30, en el Civivox Pompelo (Pamplona), comienza Naukas Navarra Más Planeta Next-Gen, un nuevo evento Naukas en el que podréis verme casi, casi al final de la sesión de tarde, a las 19.10. ¡Acercaos si no os pilla muy lejos!<br><br><strong>Fuente:</strong> brucknerite]]></description>
+</item>
+<item>
+<title>SearXNG: Mi propio buscador en Docker</title>
+<link>https://asturgeek.eu/2026/09/30/searxng-mi-propio-buscador-en-docker/</link>
+<guid isPermaLink="true">https://asturgeek.eu/2026/09/30/searxng-mi-propio-buscador-en-docker/</guid>
+<pubDate>Wed, 30 Sep 2026 07:36:00 GMT</pubDate>
+<category>AsturGeek V3</category>
+<description><![CDATA[Ya he comentado muchas veces que dejé de usar Google como buscador hace mucho tiempo, decantándome por DuckDuckGo por defecto.Tambien he probado Qwant y Startpage, por eso de la soberanía europea, pero los resultados no me gustaban. Siempre volvía al buscador del pato Sin embargo, descubrí, o mejor<br><br><strong>Fuente:</strong> AsturGeek V3]]></description>
+</item>
+<item>
+<title>Instalación de Ollama en Ubuntu 26.04</title>
+<link>https://voidnull.es/instalacion-de-ollama-en-ubuntu-26-04/</link>
+<guid isPermaLink="true">https://voidnull.es/instalacion-de-ollama-en-ubuntu-26-04/</guid>
+<pubDate>Wed, 30 Sep 2026 07:10:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Instala Ollama en Ubuntu 26.04, descarga un modelo local y empieza a usar IA desde la terminal o mediante su API.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>La furia (película)</title>
+<link>https://mareosdeungeek.es/la-furia-pelicula/</link>
+<guid isPermaLink="true">https://mareosdeungeek.es/la-furia-pelicula/</guid>
+<pubDate>Wed, 30 Sep 2026 07:00:00 GMT</pubDate>
+<category>Mareos de un geek</category>
+<description><![CDATA[La furia es una película dura, estrenada el año pasado y presente en los diferentes festivales y certámenes de España, teniendo una buena acogida. El largometraje, es el primero de Gemma Blasco, protagonizado por Ángela Cervantes y Àlex Monner. A Monner ya lo hemos visto en la serie de La Ruta y aqu<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
 </item>
 <item>
 <title>Se entregaron los Suzanne Awards 2026</title>
@@ -31,7 +111,15 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <guid isPermaLink="true">https://javiersam.uy/2026/09/se-entregaron-los-suzanne-awards-2026.html</guid>
 <pubDate>Wed, 30 Sep 2026 03:00:00 GMT</pubDate>
 <category>JavierSam</category>
-<description><![CDATA[El jueves 24 de setiembre, de las últimas actividades del día en la Blender Conference 2026, fueron los “Lightning talks” y la ceremonia de entrega de los Suzanne Awards. El anfitrión, Thomas Dinges, invitó a otras personas a presentar los nominados de cada categoría. Categoría “Mejor Animación”: Pr<br><br><strong>Fuente:</strong> JavierSam]]></description>
+<description><![CDATA[El jueves 24 de setiembre, de las últimas actividades del día en la Blender Conference 2026, fueron los “Lightning talks” y la ceremonia de entrega de los Suzanne Awards. El anfitrión, Thomas Dinges, invitó a otras personas a presentar los nominados y ganadores de cada categoría. Categoría “Mejor An<br><br><strong>Fuente:</strong> JavierSam]]></description>
+</item>
+<item>
+<title>Integrando Memos con Homepage</title>
+<link>https://vctrsnts.codeberg.page/posts/2026-09-30-memos-homepage/</link>
+<guid isPermaLink="true">https://vctrsnts.codeberg.page/posts/2026-09-30-memos-homepage/</guid>
+<pubDate>Tue, 29 Sep 2026 22:00:00 GMT</pubDate>
+<category>Si lo haces, hazlo bien!</category>
+<description><![CDATA[Otro artículo más con respecto a Memos, pero, en este caso, uno que no pensaba que iba a necesitar. Pero cuando te pones a investigar, el «hasta aquí» nunca acaba cumpliéndose y lo entenderéis al leer esta nueva entrada. Pero antes de continuar, tengo que hacer un pequeño inciso. Si recordáis, en el<br><br><strong>Fuente:</strong> Si lo haces, hazlo bien!]]></description>
 </item>
 <item>
 <title>587. La diatriba chorra</title>
@@ -128,94 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 29 Sep 2026 07:00:00 GMT</pubDate>
 <category>Adrián Perales</category>
 <description><![CDATA[Creo que el título es bastante descriptivo. Si no te interesan las batallitas tecnológicas puedes saltarte esta entrada, porque la dedico a dar muchos detalles totalmente innecesarios sobre un cambio de aparato que, al final, no me ha producido ningún tipo de satisfacción particular. Las tablets y y<br><br><strong>Fuente:</strong> Adrián Perales]]></description>
-</item>
-<item>
-<title>Las 5 distribuciones de GNU/Linux más infravaloradas por la comunidad</title>
-<link>https://blog.neosite.com.ar/post/las-5-distribuciones-de-gnu-linux-m-s-infravaloradas-por-la-comunidad</link>
-<guid isPermaLink="true">https://blog.neosite.com.ar/post/las-5-distribuciones-de-gnu-linux-m-s-infravaloradas-por-la-comunidad</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-<category>NeoSite Blog</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> NeoSite Blog]]></description>
-</item>
-<item>
-<title>Sierra de Gredos</title>
-<link>https://mareosdeungeek.es/sierra-de-gredos/</link>
-<guid isPermaLink="true">https://mareosdeungeek.es/sierra-de-gredos/</guid>
-<pubDate>Mon, 28 Sep 2026 15:50:00 GMT</pubDate>
-<category>Mareos de un geek</category>
-<description><![CDATA[La Sierra de Gredos fue nuestro destino vacacional este verano. Cada vez más al norte porque, la verdad, es que el calor ha apretado bastante. Nuestra base de operaciones fue la localidad de Candeleda, situada en el Valle del Tiétar, al sur de la provincia de Ávila. Es curioso porque se encuentra en<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
-</item>
-<item>
-<title>Knock at the cabin - Night Shyamalan (2023)</title>
-<link>https://labaudric.net/blog/peliculas/knock-at-the-cabin</link>
-<guid isPermaLink="true">https://labaudric.net/blog/peliculas/knock-at-the-cabin</guid>
-<pubDate>Mon, 28 Sep 2026 15:49:00 GMT</pubDate>
-<category>labaudric</category>
-<description><![CDATA[Knock at the cabin, película de Night Shyamalan del 2023. Voy a empezar diciendo algo importante: yo no saco conclusiones antes de tiempo por que es del director X o Y. Lo digo por que este hombre tiene una cierta reputación, y yo personalmente no me sumo a apoyarla. Yo veo las películas sin prejui<br><br><strong>Fuente:</strong> labaudric]]></description>
-</item>
-<item>
-<title>Diario de Viaje - Escocia, Irlanda, Italia hacia el Adriático y París</title>
-<link>https://www.fabio.com.ar/10040-diario-de-viaje---escocia-irlanda-italia-hacia-el-adriatico-y-paris</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/10040-diario-de-viaje---escocia-irlanda-italia-hacia-el-adriatico-y-paris</guid>
-<pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[Nuevo a&amp;ntilde;o, nuevo viaje, aunque esta vez fue mucho m&amp;aacute;s temprano y me fui en el verano europeo para &quot;probar&quot; ese calorcito de cambio clim&amp;aacute;tico que pega tan fuerte por el Viejo Continente. Nuevos destinos este a&amp;ntilde;o, no conoc&amp;iacute;a nada m&amp;aacute;s que Londres de las is<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Simplificando mis Notas</title>
-<link>https://matizeta.com/2026/09/28/simplificando-mis-notas/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/09/28/simplificando-mis-notas/</guid>
-<pubDate>Mon, 28 Sep 2026 10:57:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Hace unas semanas comentaba que me planteé reducir la cantidad de apps que usaba para la productividad abrumado por la cantidad de apps de productividad que utilizaba en el día a día. Eliminé TickTick, Minimalist y Folio (app de tipo guardar para leer más tarde), concentrando toda la información que<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>El Histórico &quot;Time´s End&quot; Cumple 40 Años | Se Anuncia Una Re Edición De Lujo Para Saint</title>
-<link>https://www.delotroladometal.com.ar/2026/09/28/se-anuncia-una-re-edicion-de-lujo-para-saint/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/09/28/se-anuncia-una-re-edicion-de-lujo-para-saint/</guid>
-<pubDate>Mon, 28 Sep 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Hacía tiempo que no sabíamos nada de Saint. La banda sigue en pie batallando, tocando... The post El Histórico &quot;Time´s End&quot; Cumple 40 Años | Se Anuncia Una Re Edición De Lujo Para Saint first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>openSUSE Leap 16.1 tendrá un modo inmutable que tomará el relevo a openSUSE Micro</title>
-<link>https://victorhckinthefreeworld.com/2026/09/28/opensuse-leap-16-1-tendra-un-modo-inmutable-que-tomara-el-relevo-a-opensuse-micro/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/09/28/opensuse-leap-16-1-tendra-un-modo-inmutable-que-tomara-el-relevo-a-opensuse-micro/</guid>
-<pubDate>Mon, 28 Sep 2026 09:59:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[openSUSE Micro, la inmutable de openSUSE dejará de existir y openSUSE 16.1 tendrá un modo inmutable<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>Instalación de HestiaCP en Debian 13</title>
-<link>https://voidnull.es/instalacion-de-hestiacp-en-debian-13/</link>
-<guid isPermaLink="true">https://voidnull.es/instalacion-de-hestiacp-en-debian-13/</guid>
-<pubDate>Mon, 28 Sep 2026 07:10:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[HestiaCP es un panel de control de código abierto diseñado para simplificar la administración de servidores web.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Ecosistema AdGuard: Home, VPN y DNS</title>
-<link>https://alt43.es/ecosistema-adguard-home-vpn-y-dns/</link>
-<guid isPermaLink="true">https://alt43.es/ecosistema-adguard-home-vpn-y-dns/</guid>
-<pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
-<category>alt43</category>
-<description><![CDATA[AdGuard no es un único producto, sino un catálogo de varios: Home (servidor DNS autoalojado), VPN y DNS alojado son piezas independientes con arquitecturas, precios y limitaciones distintas. Repasamos cada una de ellas, su utilidad y comparativa con otras de similares.<br><br><strong>Fuente:</strong> alt43]]></description>
-</item>
-<item>
-<title>Actualizar Un Servicio</title>
-<link>https://elprofejuan.com.ar/actualizar-un-servicio</link>
-<guid isPermaLink="true">https://elprofejuan.com.ar/actualizar-un-servicio</guid>
-<pubDate>Mon, 28 Sep 2026 02:20:00 GMT</pubDate>
-<category>El Sitio de Manieflo</category>
-<description><![CDATA[Siempre dije, docker es muy sencillo y fácil de mantener, claro, si lo sabés actualizar y no dejás que ordenes de versiones mayores se interponen en el camino....<br><br><strong>Fuente:</strong> El Sitio de Manieflo]]></description>
-</item>
-<item>
-<title>Por qué hoy uso Fedora</title>
-<link>https://elblogdelazaro.org/por-que-hoy-uso-fedora/</link>
-<guid isPermaLink="true">https://elblogdelazaro.org/por-que-hoy-uso-fedora/</guid>
-<pubDate>Mon, 28 Sep 2026 02:00:00 GMT</pubDate>
-<category>El blog de Lázaro</category>
-<description><![CDATA[Por: Carlos M.Publicado el 28 de septiembre de 2026Reflexión personal sobre por qué, tras años de distrohopping y ver morir muchas distros, he acabado quedándome en Fedora.Continuar leyendo →#Arch #Linux #Fedora<br><br><strong>Fuente:</strong> El blog de Lázaro]]></description>
 </item>
 
 </channel>
