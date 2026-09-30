@@ -1,5 +1,33 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Pixelfed y lel episodio de bazofIA",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/30/20260930-pixelfed-bazofia/",
+    "fecha": "30/09/2026 08:00",
+    "contenido": "Dada el rumbo de decadencia que está siguiendo el proyecto, retiro mi apoyo a Pixelfed"
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Se entregaron los Suzanne Awards 2026",
+    "link": "https://javiersam.uy/2026/09/se-entregaron-los-suzanne-awards-2026.html",
+    "fecha": "30/09/2026 03:00",
+    "contenido": "El jueves 24 de setiembre, de las últimas actividades del día en la Blender Conference 2026, fueron los “Lightning talks” y la ceremonia de entrega de los Suzanne Awards. El anfitrión, Thomas Dinges, invitó a otras personas a presentar los nominados de cada categoría. Categoría “Mejor Animación”: Pr"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "587. La diatriba chorra",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/09/587-la-diatriba-chorra.html",
+    "fecha": "29/09/2026 22:00",
+    "contenido": "&nbsp; &nbsp; Llovía a mares en la ciudad podrida. Ya había atardecido y la luz de las farolas iluminaba las calles y hacía brillar el asfalto.&nbsp; &nbsp; Eché un vistazo por la ventana. La gente se encogía bajo los paraguas y apresuraba el paso. Quienes no tenían nada con que resguardarse corrían"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Actividades Septiembre 2026",
+    "link": "https://labaudric.net/blog/noticias/actividades-septiembre-2026",
+    "fecha": "29/09/2026 19:18",
+    "contenido": "Otro mes, otra entrada.\nEste mes, me he centrado en mi homelab. De hecho, me ha dado mucho material para artículos incluso videos de mejoras de mucha calidad en mi entorno. Por resumir:\n\n\nSSO, estoy usando PocketID. Me vale para: Promox, Proxmox Backup Server, Technitium, Dockhand, Komga, Linkwarden"
+  },
+  {
     "blog": "THE_CHEI$",
     "titulo": "Comprobando la huella de nuestro navegador",
     "link": "https://thecheis.com/2026/09/29/comprobando-la-huella-de-nuestro-navegador/",
@@ -68,6 +96,13 @@
     "link": "https://adrianperales.com/2026/09/he-renovado-el-ipad-y-me-da-igual/",
     "fecha": "29/09/2026 07:00",
     "contenido": "Creo que el título es bastante descriptivo. Si no te interesan las batallitas tecnológicas puedes saltarte esta entrada, porque la dedico a dar muchos detalles totalmente innecesarios sobre un cambio de aparato que, al final, no me ha producido ningún tipo de satisfacción particular. Las tablets y y"
+  },
+  {
+    "blog": "NeoSite Blog",
+    "titulo": "Las 5 distribuciones de GNU/Linux más infravaloradas por la comunidad",
+    "link": "https://blog.neosite.com.ar/post/las-5-distribuciones-de-gnu-linux-m-s-infravaloradas-por-la-comunidad",
+    "fecha": "29/09/2026 00:00",
+    "contenido": ""
   },
   {
     "blog": "Mareos de un geek",
@@ -264,13 +299,6 @@
     "link": "https://blog.danielaragay.net/produccion-finalizada-con-exito/",
     "fecha": "26/09/2026 23:00",
     "contenido": "Nuevo episodio del podcast: Producci&#xf3;n finalizada con &#xe9;xitoEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/produccion-finalizada-con-exito"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Cambiamos la licencia de la web",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-09-27-cambio-licencia/",
-    "fecha": "26/09/2026 22:00",
-    "contenido": "Os preguntaréis a qué viene este artículo que habla sobre un cambio de licencia en mi web. Si os habéis fijado con anterioridad, la licencia de mi web estaba basada en esta licencia de Creative Commons - CC BY-NC 4.0, en base a la libre circulación de los artículos que voy creando, pero no permitía "
   },
   {
     "blog": "danielaragay.net",
@@ -551,13 +579,6 @@
     "link": "https://danielomarcignacco.blogspot.com/2026/09/la-materia-de-la-sombras.html",
     "fecha": "23/09/2026 12:40",
     "contenido": "\n\n\n    \n        \n            Nombrar la sombra: cuando la palabra se adentra en lo invisible\n        \n        \n            \"Escribo para acercarme a aquello que ni la luz consigue tocar...\"\n        \n    \n\n    \n        \n            Hay zonas de la experiencia humana que resisten la claridad encandila"
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "Crear La Casa De Tus Suenos",
-    "link": "https://jmlro.codeberg.page/posts/2026/09-23-crear-la-casa-de-tus-suenos.html",
-    "fecha": "23/09/2026 12:00",
-    "contenido": "En calle idioma esperanto,\nen el vibrante corazón de Madrid.\nPersonas que deciden dar un paso al frente,\nbuscan un espacio cómodo,\nsin preocupaciones de aparcamiento.\n¿Planeas ampliar la familia?\n\nSótano con estancias,\npatio, garaje y cueva,\nluz natural que inunda.\nRentabilidad desde el primer día,\n"
   },
   {
     "blog": "Fabio.com.ar",
@@ -865,7 +886,7 @@
     "titulo": "now",
     "link": "https://iforest.bearblog.dev/202609201920/",
     "fecha": "20/09/2026 17:20",
-    "contenido": "ahora mismo\nescuchando Tangerine de Agnes Obel\nto-dos\n\nver las películas de Now You See Me\nseguir con From (TV)\n"
+    "contenido": "ahora mismo\nescuchando Tangerine de Agnes Obel\nto-dos\n\nver las películas de Now You See Me\nseguir con From (TV)\nMultiple Modals with Navigation for a Gallery Website\n"
   },
   {
     "blog": "Pepógrafo",
@@ -901,13 +922,6 @@
     "link": "https://labaudric.net/blog/anime/bleach-sennen_kessen_hen",
     "fecha": "19/09/2026 13:31",
     "contenido": "\nLlevo mucho tiempo esperando esta mierda. Empezó a salir hace un tiempo, concretamente en 2022. Pero yo soy muy impaciente para estas cosas, y sobre todo: mi memoria. Me tengo que ver las cosas del tirón. Si pasan meses, un año entre temporada y temporada, veo la nueva, y no me acuerdo de absolutam"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió Nier Automata - El &quot;tresoro&quot; del rey del bosque en Nier",
-    "link": "https://labaudric.net/videos/nier/6917",
-    "fecha": "19/09/2026 13:00",
-    "contenido": ""
   },
   {
     "blog": "pedrolr blog",
@@ -1512,13 +1526,6 @@
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga).Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Ha"
   },
   {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Integrando Memos con Android",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-09-11-memos-android/",
-    "fecha": "10/09/2026 22:00",
-    "contenido": "El anterior artículo explicaba cómo instalar y securizar Memos, pero claro, falta usarlo, que es donde podremos ver todo el potencial que tiene. Y eso es lo que vamos a hacer ahora, en este nuevo artículo, el segundo de la serie sobre Memos, integrándolo con Android, exactamente con mi móvil.\nHasta "
-  },
-  {
     "blog": "Jinversor",
     "titulo": "10 canciones perfectas (para mis exequias)",
     "link": "https://jinversor.co/2026/09/10-canciones-perfectas-para-mis-exequias/",
@@ -1568,25 +1575,11 @@
     "contenido": "Me ha llamado la atención este taller sobre ocultismo digital que se llevará a cabo en dos sesiones el próximo 9 y 10 de octubre en el Medialab Matadero de Madrid, así que lo comparto por si alguien desea asistir: ¿Por qué lo esotérico, lo mágico, lo oculto parecen estar cada vez más entrelazados co"
   },
   {
-    "blog": "Diego's Island",
-    "titulo": "Mejorando en Programación.",
-    "link": "https://diegoaep.codeberg.page/blog/mejorando-en-programacion/",
-    "fecha": "10/09/2026 04:00",
-    "contenido": "Hoy quiero hablar del camino que estoy siguiendo para mejorar mis habilidades en programación. Con suerte algo de lo que tengo que decir te puede ayudar."
-  },
-  {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
     "titulo": "Un texto muy leído",
     "link": "https://danielomarcignacco.mataroa.blog/blog/un-texto-muy-leido/",
     "fecha": "10/09/2026 00:00",
     "contenido": "Me llama la atención que un microcuento tenga tantas visitas , no es normal y no se quien lo lee. Adjunto grafico. \n"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Instalar y proteger Memos",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-09-10-instalar-memos/",
-    "fecha": "09/09/2026 22:00",
-    "contenido": "Tenemos nuevo artículo, y el culpable, como no podía ser otro, es atareao.\nEscuchando un podcast, no me acuerdo de cuál, Lorenzo explicaba que había instalado memos, un gestor de notas que últimamente está muy de moda, y que lo había enlazado con su móvil Android. 😱\nEso mismo pensé yo.\n\nNota\nDoctor,"
   },
   {
     "blog": "Un bruto con Debian",
@@ -1743,13 +1736,6 @@
     "contenido": "Recientemente ha ocurrido una desgracia que tiene a todos los hacktivistas decepcionados y muy preocupados; un acto que parece cambiar las reglas del juego para mal. Y es que veníamos\nSeguir leyendo  Autistici/Inventati cierra, ¡pero la lucha continúa!\nEl cargo Autistici/Inventati cierra, ¡pero la l"
   },
   {
-    "blog": "Diego's Island",
-    "titulo": "Aprende en Público.",
-    "link": "https://diegoaep.codeberg.page/blog/aprende-en-publico/",
-    "fecha": "08/09/2026 04:00",
-    "contenido": "Motivos para y formas de aprender en público."
-  },
-  {
     "blog": "Fixionauta",
     "titulo": "Northampton Arts Lab",
     "link": "https://fixionauta.net/2026/09/07/northampton-arts-lab/",
@@ -1797,13 +1783,6 @@
     "link": "https://elblogdelazaro.org/trilium-automatizaciones/",
     "fecha": "07/09/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Immich - Migración de V2 a V3 en producción",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-09-07-migracion-immich-2/",
-    "fecha": "06/09/2026 22:00",
-    "contenido": "Tal como había explicado en este artículo, explicaba el proceso de migración desde la versión v2 a la versión v3 de Immich en un entorno de pruebas. Ahora toca hacer lo mismo, pero en el contenedor de producción.\nComo recordaréis, el despliegue de Immich mediante Docker Compose estaba formado por:\n\n"
   },
   {
     "blog": "danielaragay.net",
@@ -1888,13 +1867,6 @@
     "link": "https://pedrolr.es/blog/bibliotecas-que-visite-en-julio-y-agosto-de-2026/",
     "fecha": "06/09/2026 03:31",
     "contenido": "Aprovechando el verano, me gusta visitar bibliotecas de lugares a los que voy. No salgo mucho de Madrid últimamente, aunque voy a una montaña de Ávila y Segovia a menudo. Estas son las bibliotecas que visité en los meses de julio y agosto de 2026 con algún detalle. Todas menos la última están en Mad"
-  },
-  {
-    "blog": "Diego's Island",
-    "titulo": "Mes de Supervivencia.",
-    "link": "https://diegoaep.codeberg.page/blog/mes-de-supervivencia/",
-    "fecha": "06/09/2026 02:08",
-    "contenido": "Por fin podré ir a la universidad, pero...      Un post un poco deprimente para mi gusto XD"
   },
   {
     "blog": "56K",
@@ -2030,13 +2002,6 @@
     "contenido": "Bueno, después de varios meses de intentar modificar, el sitio va quedando, igual no creo sea el definitivo, pero es lo que mas o menos pude acercar a lo que quiero.\n\n"
   },
   {
-    "blog": "Diego's Island",
-    "titulo": "Creando algo funcional.",
-    "link": "https://diegoaep.codeberg.page/blog/creando-algo-funcional/",
-    "fecha": "02/09/2026 19:35",
-    "contenido": "Sobre un proyecto sencillo pero funcional que estoy creando."
-  },
-  {
     "blog": "THE_CHEI$",
     "titulo": "Linux cumple 35 años",
     "link": "https://thecheis.com/2026/09/02/linux-cumple-35-anos/",
@@ -2084,13 +2049,6 @@
     "link": "https://www.quiroptero.blog/2026/09/vacaciones/",
     "fecha": "01/09/2026 22:22",
     "contenido": "Estoy cansado, jefe."
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Borrando un pool en unRAID",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-09-02-delete-pool/",
-    "fecha": "01/09/2026 22:00",
-    "contenido": "Nuevo artículo sobre una de aquellas cosas que tendría que saber hacer, que seguramente sé hacer, pero cuando llega el momento no me acuerdo y empiezo a buscar información, a trastear con todo el sistema y lo único que puedo llegar a conseguir es cargármelo todo.\nPero ¿a qué viene todo esto? Muy fác"
   },
   {
     "blog": "danielaragay.net",
@@ -2189,54 +2147,5 @@
     "link": "https://empiezaen2023.wordpress.com/2026/08/31/97-la-vida-en-minoria-xiii-hablemos-de-suicidio-morkyr-19-04-26/",
     "fecha": "31/08/2026 05:00",
     "contenido": "Tras más de dos décadas de desaparición de las redes, regresa de forma fugaz Morkyr con una nueva columna&#8230; Como quizá alguien recuerde, cuando comencé a escribir en este blog, recuperé las doce columnas que escribió Morkyr en el año 2005 (están accesibles en este mismo espacio, en las entradas"
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "Novedades del desarrollo de Graphite",
-    "link": "https://javiersam.uy/2026/08/novedades-del-desarrollo-de-graphite.html",
-    "fecha": "31/08/2026 03:00",
-    "contenido": "El sábado se publicó este nuevo video en el canal de YouTube de Graphite. Allí Keavon Chambers, actualiza las novedades sobre el proyecto. La actualización anterior había sido hace tres meses. El proyecto avanza y, según su mapa de ruta, están trabajando en la versión de escritorio y está previsto e"
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "Self-hosting Forgejo (lightweight software forge)",
-    "link": "https://blog.jagedn.dev/blog/2026/forgejo.html",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Autoalojar proyectos Git al estilo de GitHub"
-  },
-  {
-    "blog": "Maverick HQ",
-    "titulo": "weeknotes 26.4",
-    "link": "https://maverick-hq.org/blog/weeknotes-26-4/",
-    "fecha": "31/08/2026 00:00",
-    "contenido": "Estado actual: escuchando un gameplay de Anggelos 2 porque mientras escribo no puedo mirar. Es un metroidvania de estilo 16 bits que parece bastante difícil.\nCreo que esta vez llego un par de semanas tarde. Vaaaaale. Lo sieeeento. Pero es que no he tenido muchos ánimos para escribir y realmente no e"
-  },
-  {
-    "blog": "iforest",
-    "titulo": "top escuchas en agosto 2026",
-    "link": "https://iforest.bearblog.dev/top-escuchas-en-agosto-2026/",
-    "fecha": "30/08/2026 22:00",
-    "contenido": "\n  \n\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⡀⢢⣄⠀⢰⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣶⠀⣤⠈⣁⣘⣛⠳⠄⠃⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⡀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⠰⣦⡀⣿⣿⠟⠳⣄⠀⠆⠄⡲⠿⢿⡿⠋⠀⠀⠀⠀⢀⡠⠶⠛⠉⠁⠀⠀⠈⢣\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⠘⣿⡇⢻⡇⠀⠀⠸⡆⠀⢀⡠⠖⠁⠀⠀⠀⠀⡠⠖⠉⠀⠀⠀⠀⠀⠀⠀⠀⢠\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⡢⢈⠳⢀⠻⣄⠀⠀⠁⠈⠀⠉⣿⡟⠃⡀⠐⠁⠀⠀⠀⠀⠀⢀⠖⠐⠀⠀⠀⡌\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⡋⠁⠀⢀⡀⠅⠈⢡⠀⠤⠶⠶"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Nephilim y los amos ocultos del mundo",
-    "link": "http://frikoteca.blogspot.com/2026/08/nephilim-y-los-amos-ocultos-del-mundo.html",
-    "fecha": "30/08/2026 20:01",
-    "contenido": "En mi mundo de Aelios existen una serie de seres sobrenaturales a mitad de camino entre un espíritu y un dios, llamados daemones. Están divididos en tres facciones o naturalezas:\n\n  Primordiales. Son los que organizan las grandes energías del inframundo y el caos primordial del que surge la materia "
-  },
-  {
-    "blog": "eaplmx",
-    "titulo": "Un año de vivir \"anónimo\"",
-    "link": "https://text.eapl.mx/un-anio-de-vivir-anonimo",
-    "fecha": "30/08/2026 19:13",
-    "contenido": ""
-  },
-  {
-    "blog": "Tecno y Soft - Tecno y Soft",
-    "titulo": "Más rendimiento y fluidez con el kernel de CachyOS",
-    "link": "https://tecnoysoft.com/2026/08/30/mas-rendimiento-y-fluidez-con-el-kernel-de-cachyos/",
-    "fecha": "30/08/2026 18:19",
-    "contenido": "¿Qué es el kernel de CachyOS? El kernel de CachyOS es una versión del núcleo de Linux optimizada para buscar un mejor rendimiento y una mayor fluidez. Incluye ajustes pensados especialmente para aprovechar mejor el hardware moderno. ¿Qué significan x86-64-v2, v3 y v4? CachyOS utiliza diferentes nive"
   }
 ]
