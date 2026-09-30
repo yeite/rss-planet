@@ -1,17 +1,94 @@
 [
   {
+    "blog": "pedrolr blog",
+    "titulo": "Botones 88x31px en el blog",
+    "link": "https://pedrolr.es/blog/botones-88x31px-en-el-blog/",
+    "fecha": "30/09/2026 16:03",
+    "contenido": "He abierto una página de botones 88x31px: pedrolr.es/blog/botones88x31px. Reproduzco aquí gran parte de su contenido: Iba a haberlos puestos en el footer del blog, pero no me convencía cómo quedaba. A la vez, quería tener un espacio en el que se vean. Al final he puesto un enlace a la página en el f"
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "timeout: limita el tiempo de ejecución de comandos",
+    "link": "https://voidnull.es/timeout-limita-el-tiempo-de-ejecucion-de-comandos/",
+    "fecha": "30/09/2026 15:30",
+    "contenido": "Permite establecer un tiempo máximo de ejecución para otro comando"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Kew el reproductor de música minimalista e inmersivo para la terminal",
+    "link": "https://victorhckinthefreeworld.com/2026/09/30/kew-el-reproductor-de-musica-minimalista-e-inmersivo-para-la-terminal/",
+    "fecha": "30/09/2026 15:15",
+    "contenido": "El reproductor Kew está pensado para quien desea una experiencia limpia y sin distracciones a la hora de escuchar música de tu colección propia desde la terminal"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "WP Secure, un plugin libre para proteger tu Wordpress",
+    "link": "https://www.fabio.com.ar/10042-wp-secure-un-plugin-libre-para-proteger-tu-wordpress",
+    "fecha": "30/09/2026 12:00",
+    "contenido": "    \nUltimamente me he encontrado con numerosas ocasiones en las que un sitio con Wordpress es objetivo de un ataque sistem&aacute;tico para tratar de vulnerarlo. Hay muchos plugins dando vueltas para contener esto, pero la mayor&iacute;a deja algunas cosas para la versi&oacute;n paga.\nAs&iacute; qu"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Formas de escapar a las garras de la IA",
+    "link": "https://56k.es/fanta/formas-de-escapar-a-las-garras-de-la-ia/",
+    "fecha": "30/09/2026 11:24",
+    "contenido": "Hace un año o puede que más me puse a investigar formas de compartir contenidos, comunicarnos, &#8230; sin que esto terminase alimentando más a la bestia. He recopilado pues en este post algunas cosas que creo que pueden ayudar y otras simplemente servir de ejemplo de que otras tecnologías al margen"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Inflamed Sword: Nox Fletus, Mane Gaudii | Huele A Espíritu Extremo",
+    "link": "https://www.delotroladometal.com.ar/2026/09/30/huele-a-espiritu-extremo/",
+    "fecha": "30/09/2026 11:00",
+    "contenido": "(2026 &#8211; Independiente) Dentro de las expresiones del Black Metal, la faz correspondiente a la...\nThe post Inflamed Sword: Nox Fletus, Mane Gaudii | Huele A Espíritu Extremo first appeared on Del Otro Lado Metal."
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Pixelfed y lel episodio de bazofIA",
+    "titulo": "Pixelfed y el episodio de bazofIA",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/30/20260930-pixelfed-bazofia/",
     "fecha": "30/09/2026 08:00",
-    "contenido": "Dada el rumbo de decadencia que está siguiendo el proyecto, retiro mi apoyo a Pixelfed"
+    "contenido": "Dado el rumbo de decadencia que está siguiendo el proyecto, retiro mi apoyo a Pixelfed"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Nos vemos en Pamplona",
+    "link": "https://brucknerite.net/2026/09/nos-vemos-en-pamplona.html",
+    "fecha": "30/09/2026 08:00",
+    "contenido": "El próximo sábado 3 de octubre a las 10.30, en el Civivox Pompelo (Pamplona), comienza Naukas Navarra Más Planeta Next-Gen, un nuevo evento Naukas en el que podréis verme casi, casi al final de la sesión de tarde, a las 19.10. ¡Acercaos si no os pilla muy lejos!"
+  },
+  {
+    "blog": "AsturGeek V3",
+    "titulo": "SearXNG:  Mi propio buscador en Docker",
+    "link": "https://asturgeek.eu/2026/09/30/searxng-mi-propio-buscador-en-docker/",
+    "fecha": "30/09/2026 07:36",
+    "contenido": "Ya he comentado muchas veces que dejé de usar Google como buscador hace mucho tiempo, decantándome por DuckDuckGo por defecto.Tambien he probado Qwant y Startpage, por eso de la soberanía europea, pero los resultados no me gustaban. Siempre volvía al buscador del pato Sin embargo, descubrí, o mejor "
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Ollama en Ubuntu 26.04",
+    "link": "https://voidnull.es/instalacion-de-ollama-en-ubuntu-26-04/",
+    "fecha": "30/09/2026 07:10",
+    "contenido": "Instala Ollama en Ubuntu 26.04, descarga un modelo local y empieza a usar IA desde la terminal o mediante su API."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La furia (película)",
+    "link": "https://mareosdeungeek.es/la-furia-pelicula/",
+    "fecha": "30/09/2026 07:00",
+    "contenido": "La furia es una película dura, estrenada el año pasado y presente en los diferentes festivales y certámenes de España, teniendo una buena acogida. El largometraje, es el primero de Gemma Blasco, protagonizado por Ángela Cervantes y Àlex Monner. A Monner ya lo hemos visto en la serie de La Ruta y aqu"
   },
   {
     "blog": "JavierSam",
     "titulo": "Se entregaron los Suzanne Awards 2026",
     "link": "https://javiersam.uy/2026/09/se-entregaron-los-suzanne-awards-2026.html",
     "fecha": "30/09/2026 03:00",
-    "contenido": "El jueves 24 de setiembre, de las últimas actividades del día en la Blender Conference 2026, fueron los “Lightning talks” y la ceremonia de entrega de los Suzanne Awards. El anfitrión, Thomas Dinges, invitó a otras personas a presentar los nominados de cada categoría. Categoría “Mejor Animación”: Pr"
+    "contenido": "El jueves 24 de setiembre, de las últimas actividades del día en la Blender Conference 2026, fueron los “Lightning talks” y la ceremonia de entrega de los Suzanne Awards. El anfitrión, Thomas Dinges, invitó a otras personas a presentar los nominados y ganadores de cada categoría. Categoría “Mejor An"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Integrando Memos con Homepage",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-09-30-memos-homepage/",
+    "fecha": "29/09/2026 22:00",
+    "contenido": "Otro artículo más con respecto a Memos, pero, en este caso, uno que no pensaba que iba a necesitar.\nPero cuando te pones a investigar, el «hasta aquí» nunca acaba cumpliéndose y lo entenderéis al leer esta nueva entrada. Pero antes de continuar, tengo que hacer un pequeño inciso.\nSi recordáis, en el"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -301,6 +378,13 @@
     "contenido": "Nuevo episodio del podcast: Producci&#xf3;n finalizada con &#xe9;xitoEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/produccion-finalizada-con-exito"
   },
   {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Cambiamos la licencia de la web",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-09-27-cambio-licencia/",
+    "fecha": "26/09/2026 22:00",
+    "contenido": "Os preguntaréis a qué viene este artículo que habla sobre un cambio de licencia en mi web. Si os habéis fijado con anterioridad, la licencia de mi web estaba basada en esta licencia de Creative Commons - CC BY-NC 4.0, en base a la libre circulación de los artículos que voy creando, pero no permitía "
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "¿Se podría haber evitado el desahucio de Maricarmen? Así protegen el hogar en Suecia y el resto de Europa",
     "link": "https://blog.danielaragay.net/se-podria-haber-evitado-el-desahucio-de-maricarmen-asi-protegen-el-hogar-en-suecia-y-el-resto-de-europa/",
@@ -399,6 +483,13 @@
     "contenido": "     Por Roma y por los Links!\nEs viernes, es un finde donde seguramente saldr&aacute;n al sol y disfrutar&aacute;n de la incipiente primavera, pero no todo es pasear y ser feliz, tambi&eacute;n hay un momento para la alergia, el estupor, el cansancio, la espalda rota y... leer links! Que para eso e"
   },
   {
+    "blog": "Fixionauta",
+    "titulo": "Temporada de Huracanes",
+    "link": "https://fixionauta.net/2026/09/25/temporada-de-huracanes/",
+    "fecha": "25/09/2026 13:30",
+    "contenido": "La primera edición de esta novela se publicó en 2017, pronto se volvió la lectura de cabecera de los círculos de lectores a mi alrededor, y un poquito por esnobismo y otro poquito por costumbre (ante los productos culturales que capturan la atención del público), le fui sacando la vuelta. Afortunada"
+  },
+  {
     "blog": "matizeta",
     "titulo": "Nuevo filtro en ¡Blog!¡Blog!",
     "link": "https://matizeta.com/2026/09/25/nuevo-filtro-en-blogblog/",
@@ -446,6 +537,13 @@
     "link": "https://voidnull.es/como-recibir-alertas-de-accesos-ssh-con-zabbix/",
     "fecha": "25/09/2026 07:15",
     "contenido": "Detecta accesos SSH con Zabbix, recibe avisos con la IP de origen y excluye direcciones autorizadas fácilmente."
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Canal de IRC para la blogosfera hispana",
+    "link": "https://chancli.dev/blog/canal-irc-blogosfera.html",
+    "fecha": "25/09/2026 00:00",
+    "contenido": "Llevo días dándole vueltas a que quizás estaría bien tener una posibilidad de punto de encuentro más directo entre los blogeros y blogeras de habla hispana.\nComo buena persona de más de 40, aún conservo fantásticos recuerdos de la época del IRC. Así que me decidí por probar este medio para ponernos "
   },
   {
     "blog": "56K",
@@ -557,7 +655,7 @@
     "titulo": "No necesitas usar IA para todo",
     "link": "https://matizeta.com/2026/09/23/no-necesitas-usar-ia-para-todo/",
     "fecha": "23/09/2026 13:47",
-    "contenido": "Evitando pensar lo menos posible.Entradas relacionadas:Imprime tu diario personalTu correo electrónico es el mejor álbum de recuerdos&hellip;Lecturas recomendadas #8Volver a la presencialidadLas cosas que callamos"
+    "contenido": "Evitando pensar lo menos posible.Entradas relacionadas:Comprar lo que NO necesitasRE: Me está dejando de gustar trabajar de&hellip;Nueva versión de ¡Blog!¡Blog!Cambios en mi blog (nuevamente)Imprime tu diario personal"
   },
   {
     "blog": "La Paradoja del Cero y el Uno",
@@ -579,6 +677,13 @@
     "link": "https://danielomarcignacco.blogspot.com/2026/09/la-materia-de-la-sombras.html",
     "fecha": "23/09/2026 12:40",
     "contenido": "\n\n\n    \n        \n            Nombrar la sombra: cuando la palabra se adentra en lo invisible\n        \n        \n            \"Escribo para acercarme a aquello que ni la luz consigue tocar...\"\n        \n    \n\n    \n        \n            Hay zonas de la experiencia humana que resisten la claridad encandila"
+  },
+  {
+    "blog": "La línea doméstica",
+    "titulo": "Crear La Casa De Tus Suenos",
+    "link": "https://jmlro.codeberg.page/posts/2026/09-23-crear-la-casa-de-tus-suenos.html",
+    "fecha": "23/09/2026 12:00",
+    "contenido": "En calle idioma esperanto,\nen el vibrante corazón de Madrid.\nPersonas que deciden dar un paso al frente,\nbuscan un espacio cómodo,\nsin preocupaciones de aparcamiento.\n¿Planeas ampliar la familia?\n\nSótano con estancias,\npatio, garaje y cueva,\nluz natural que inunda.\nRentabilidad desde el primer día,\n"
   },
   {
     "blog": "Fabio.com.ar",
@@ -938,13 +1043,6 @@
     "contenido": "Administración de Manjaro: paquetes, actualizaciones, Flatpak y AUR Manjaro es una distribución basada en Arch Linux que busca ofrecer una experiencia de escritorio accesible manteniendo buena parte de la flexibilidad de su sistema de paquetes. Para administrarlo correctamente conviene conocer sus p"
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Líder De Lament Fallece Por Causas Naturales | Se Nos Fue Abel Gómez",
-    "link": "https://www.delotroladometal.com.ar/2026/09/19/queremos-regresar-a-nuestras-raices-del-primer-album/",
-    "fecha": "19/09/2026 11:35",
-    "contenido": "Otro guerrero más que se nos va. Según informó su familia hace unas horas, el...\nThe post El Líder De Lament Fallece Por Causas Naturales | Se Nos Fue Abel Gómez first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "La Netiqueta como guía de comportamiento en la red",
     "link": "https://tecnoysoft.com/2026/09/19/la-netiqueta-como-guia-de-comportamiento-en-la-red/",
@@ -1026,7 +1124,7 @@
     "titulo": "Webs que descubrí #7",
     "link": "https://matizeta.com/2026/09/18/webs-que-descubri-7/",
     "fecha": "18/09/2026 08:11",
-    "contenido": "Una recopilación de 10 webs interesantes que descubrí perdiéndome un rato por la web.Entradas relacionadas:Es hora de dejar de festejarle los lanzamientos a AppleWebs que descubrí #5Extensiones que utilizo en mi navegadorMi tridente de productividadPoniendo un límite a mi uso de redes sociales"
+    "contenido": "Una recopilación de 10 webs interesantes que descubrí perdiéndome un rato por la web.Entradas relacionadas:Extensiones que utilizo en mi navegadorInbox Zero, minimalismo aplicado a tu emailCosas a tener en cuenta antes de abrir tu blogYo utilizo InstagramWebs que descubrí #5"
   },
   {
     "blog": "Guillermo Latorre | Feed RSS",
@@ -1155,13 +1253,6 @@
     "contenido": "Aplica una transformación basada en patrones a varios nombres de una sola vez y permite comprobar el resultado antes de modificar nada."
   },
   {
-    "blog": "Fabio.com.ar",
-    "titulo": "Filtrando ataques de inyección de SQL, la regla para Cloudflare",
-    "link": "https://www.fabio.com.ar/10032-filtrando-ataques-de-inyeccion-de-sql-la-regla-para-cloudflare",
-    "fecha": "16/09/2026 12:00",
-    "contenido": "    \nCada tanto alguien se las ingenia para atacar el blog de alguna forma diferente, yo me divierto investigando qu&eacute; hacen, c&oacute;mo contraatacar y aprender en el proceso.\nEl &uacute;ltimo m&eacute;todo de ataque \"molesto\" son los intentos de inyecci&oacute;n de SQL en las p&aacute;ginas "
-  },
-  {
     "blog": "Bits de Ocio",
     "titulo": "Cinco Películas de… Liam Neeson",
     "link": "https://bitsdeocio.wordpress.com/2026/09/16/cinco-peliculas-de-liam-neeson/",
@@ -1181,13 +1272,6 @@
     "link": "https://brucknerite.net/2026/09/bienvenidos-al-teatro-de-la-innovacion.html",
     "fecha": "16/09/2026 08:00",
     "contenido": "La innovación, algo a cuya práctica me he dedicado personalmente muchos años, tiene «sus cosas». Podría contarlo en página tras página de seria prosa apta para LinkedIn, pero, ¿por qué no hacerlo sobre el escenario de un teatro?"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Zabbix Agent 7.0 en RockyLinux 10",
-    "link": "https://voidnull.es/instalacion-de-zabbix-agent-7-0-en-rockylinux-10/",
-    "fecha": "16/09/2026 07:10",
-    "contenido": "Se utiliza para monitorear redes, servidores, aplicaciones, servicios y recursos en la nube. También permite el monitoreo de dispositivos de almacenamiento, bases de datos, máquinas virtuales, telefonía, recursos de seguridad y mucho más."
   },
   {
     "blog": "JavierSam",
@@ -1335,13 +1419,6 @@
     "link": "https://matizeta.com/2026/09/14/imprime-tu-diario-personal/",
     "fecha": "14/09/2026 08:11",
     "contenido": "Tu vida en forma de novela.Entradas relacionadas:Lecturas recomendadas #4¡Blog!¡Blog! cumple su primer añoColaboraciones entre blogsNueva versión de ¡Blog!¡Blog!Cambios"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Loops en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-loops-en-debian-13/",
-    "fecha": "14/09/2026 07:15",
-    "contenido": "Loops es una plataforma de vídeos cortos similar a TikTok, pero basada en ActivityPub, lo que la hace parte del Fediverso."
   },
   {
     "blog": "56K",
@@ -1526,6 +1603,20 @@
     "contenido": "Este año se celebrará la&nbsp;TENTE EXPO 2026: Del 21 de septiembre al 6 de noviembre en el Museo de la ciudad de Fuengirola (Málaga).Para haceros una idea de lo que probablemente nos encontraremos, podemos ver algunos vídeos de TENTE EXPO anteriores, por ejemplo las de los dos últimos años.&nbsp;Ha"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Cambiar metadata de PDF en Linux",
+    "link": "https://chancli.dev/blog/cambiar-metadata-pdf-linux.html",
+    "fecha": "11/09/2026 00:00",
+    "contenido": "Ahora que estoy empezando a estudiar otra vez estoy trabajando con muchos archivos PDF.\nNormalmente los autores no se preocupan por crear el archivo con sus metadata reales y utilizando conversores, puede ser muy diferente el título del archivo al título del documento (metadata). Me pasa con el Pock"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Integrando Memos con Android",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-09-11-memos-android/",
+    "fecha": "10/09/2026 22:00",
+    "contenido": "El anterior artículo explicaba cómo instalar y securizar Memos, pero claro, falta usarlo, que es donde podremos ver todo el potencial que tiene. Y eso es lo que vamos a hacer ahora, en este nuevo artículo, el segundo de la serie sobre Memos, integrándolo con Android, exactamente con mi móvil.\nHasta "
+  },
+  {
     "blog": "Jinversor",
     "titulo": "10 canciones perfectas (para mis exequias)",
     "link": "https://jinversor.co/2026/09/10-canciones-perfectas-para-mis-exequias/",
@@ -1575,11 +1666,25 @@
     "contenido": "Me ha llamado la atención este taller sobre ocultismo digital que se llevará a cabo en dos sesiones el próximo 9 y 10 de octubre en el Medialab Matadero de Madrid, así que lo comparto por si alguien desea asistir: ¿Por qué lo esotérico, lo mágico, lo oculto parecen estar cada vez más entrelazados co"
   },
   {
+    "blog": "Diego's Island",
+    "titulo": "Mejorando en Programación.",
+    "link": "https://diegoaep.codeberg.page/blog/mejorando-en-programacion/",
+    "fecha": "10/09/2026 04:00",
+    "contenido": "Hoy quiero hablar del camino que estoy siguiendo para mejorar mis habilidades en programación. Con suerte algo de lo que tengo que decir te puede ayudar."
+  },
+  {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
     "titulo": "Un texto muy leído",
     "link": "https://danielomarcignacco.mataroa.blog/blog/un-texto-muy-leido/",
     "fecha": "10/09/2026 00:00",
     "contenido": "Me llama la atención que un microcuento tenga tantas visitas , no es normal y no se quien lo lee. Adjunto grafico. \n"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Instalar y proteger Memos",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-09-10-instalar-memos/",
+    "fecha": "09/09/2026 22:00",
+    "contenido": "Tenemos nuevo artículo, y el culpable, como no podía ser otro, es atareao.\nEscuchando un podcast, no me acuerdo de cuál, Lorenzo explicaba que había instalado memos, un gestor de notas que últimamente está muy de moda, y que lo había enlazado con su móvil Android. 😱\nEso mismo pensé yo.\n\nNota\nDoctor,"
   },
   {
     "blog": "Un bruto con Debian",
@@ -1666,6 +1771,13 @@
     "contenido": ""
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Me decido a opositar, agotadísimo del mercado tecnológico",
+    "link": "https://chancli.dev/blog/me-decido-a-opositar.html",
+    "fecha": "09/09/2026 00:00",
+    "contenido": "Quién me iba a decir cuando empecé a programar con un libro de Perl, allá por el 2000, que me vería en la situación de intentar sacar unas oposiciones con nada referente a la informática.\nYa hablé hace tiempo de que me estaba dejando de gustar mi trabajo gracias a la IA. Ya no se programa, ya no se "
+  },
+  {
     "blog": "NevatBlog",
     "titulo": "OS/2 Warp 3: cuando IBM quiso destronar a Windows",
     "link": "https://nevat.neocities.org/warp3_09092026.html",
@@ -1736,6 +1848,13 @@
     "contenido": "Recientemente ha ocurrido una desgracia que tiene a todos los hacktivistas decepcionados y muy preocupados; un acto que parece cambiar las reglas del juego para mal. Y es que veníamos\nSeguir leyendo  Autistici/Inventati cierra, ¡pero la lucha continúa!\nEl cargo Autistici/Inventati cierra, ¡pero la l"
   },
   {
+    "blog": "Diego's Island",
+    "titulo": "Aprende en Público.",
+    "link": "https://diegoaep.codeberg.page/blog/aprende-en-publico/",
+    "fecha": "08/09/2026 04:00",
+    "contenido": "Motivos para y formas de aprender en público."
+  },
+  {
     "blog": "Fixionauta",
     "titulo": "Northampton Arts Lab",
     "link": "https://fixionauta.net/2026/09/07/northampton-arts-lab/",
@@ -1748,13 +1867,6 @@
     "link": "https://victorhckinthefreeworld.com/2026/09/07/photos-como-sustituto-al-visor-de-imagenes-gwenview-de-kde/",
     "fecha": "07/09/2026 15:14",
     "contenido": "Gwenview, el visor de imágenes de la comunidad KDE, es una gran conocido por los usuarios. Pero ahora ya hay quien trata de sustituirlo por Photos un visor más moderno"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Sincronizar el «scroll» en dos pestañas en el editor Kate de #KDE",
-    "link": "https://victorhckinthefreeworld.com/2026/09/07/sincronizar-el-scroll-en-dos-pestanas-en-el-editor-kate-de-kde/",
-    "fecha": "07/09/2026 14:07",
-    "contenido": "Veamos cómo hacer que dos (o más) pestañas se sincronicen cuando hagamos «scroll» en una de ellas en el editor Kate de KDE"
   },
   {
     "blog": "Eterno aprendiz",
@@ -1783,6 +1895,20 @@
     "link": "https://elblogdelazaro.org/trilium-automatizaciones/",
     "fecha": "07/09/2026 02:00",
     "contenido": "Por: Carlos M.Publicado el 7 de septiembre de 2026Repaso general a las automatizaciones que utilizo actualmente en Trilium para tareas, diario, estadísticas del blog, despliegue y documentación del homelab.Continuar leyendo →#Homelab #Trilium #Selfhosted #Blog "
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Estadísticas de fin verano 2026. Vete ya...",
+    "link": "https://chancli.dev/blog/temperaturas-fin-verano-2026.html",
+    "fecha": "07/09/2026 00:00",
+    "contenido": "Este verano estoy gestionando especialmente mal los días de calor.\nNo sé si es porque me hago mayor o porque Chancla se hace mayor, pero los dos lo estamos pasando fatal. Ella, como no puede sudar, lo único que puede hacer para disipar el calor es jadear... y no para, solo deja de jadear cuando duer"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Immich - Migración de V2 a V3 en producción",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-09-07-migracion-immich-2/",
+    "fecha": "06/09/2026 22:00",
+    "contenido": "Tal como había explicado en este artículo, explicaba el proceso de migración desde la versión v2 a la versión v3 de Immich en un entorno de pruebas. Ahora toca hacer lo mismo, pero en el contenedor de producción.\nComo recordaréis, el despliegue de Immich mediante Docker Compose estaba formado por:\n\n"
   },
   {
     "blog": "danielaragay.net",
@@ -1848,13 +1974,6 @@
     "contenido": "Antes de comenzar, conviene realizar una aclaración: el presente contenido no se encuentra sujeto a ningún tipo de licencia, por lo que puede ser utilizado libremente por cualquier persona, sin necesidad de autorización previa. No considero necesario justificar ni defender la decisión que aquí se ex"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Un largo verano",
-    "link": "https://mareosdeungeek.es/un-largo-verano-2/",
-    "fecha": "06/09/2026 07:00",
-    "contenido": "Tengo que reconocer que el verano de 2026 está siendo demasiado largo. Necesito volver a una rutina que es rutina, básicamente, necesito que mis hijos empiecen el colegio. No hay nada peor que trabajar en verano, con los niños y con mucho calor. De nada me ha servido estar fuera de casa, bueno, tal "
-  },
-  {
     "blog": "JavierSam",
     "titulo": "¡Se vienen los Suzanne Awards 2026!",
     "link": "https://javiersam.uy/2026/09/se-vienen-los-suzanne-awards-2026.html",
@@ -1867,6 +1986,13 @@
     "link": "https://pedrolr.es/blog/bibliotecas-que-visite-en-julio-y-agosto-de-2026/",
     "fecha": "06/09/2026 03:31",
     "contenido": "Aprovechando el verano, me gusta visitar bibliotecas de lugares a los que voy. No salgo mucho de Madrid últimamente, aunque voy a una montaña de Ávila y Segovia a menudo. Estas son las bibliotecas que visité en los meses de julio y agosto de 2026 con algún detalle. Todas menos la última están en Mad"
+  },
+  {
+    "blog": "Diego's Island",
+    "titulo": "Mes de Supervivencia.",
+    "link": "https://diegoaep.codeberg.page/blog/mes-de-supervivencia/",
+    "fecha": "06/09/2026 02:08",
+    "contenido": "Por fin podré ir a la universidad, pero...      Un post un poco deprimente para mi gusto XD"
   },
   {
     "blog": "56K",
@@ -1974,13 +2100,6 @@
     "contenido": "Ya hablé en mi microblog y comenté en mi Mastodon que tengo una Nintendo 2DS desde hace unos meses. La compré por unos 15€ sin cargador ni lápiz y con algún desperfecto, pero fue un trato genial. He llegado a la conclusión de que llevo unos meses usándola y creo que era hora de dedicarle [&#8230;]"
   },
   {
-    "blog": "56K",
-    "titulo": "Jugar a Comandos Behind the enemy lines en Linux",
-    "link": "https://56k.es/fanta/jugar-a-comandos-behind-the-enemy-lines-en-linux/",
-    "fecha": "03/09/2026 07:30",
-    "contenido": "Actualmente la forma sencilla de jugar a Commandos Behind the enemy lines es obtenerlo en GoG para windows y luego usar el laucher Heroic en Linux para jugarlo. El launcher lo ejecutará con GE-Proton y cierta confiruación que permite jugarlo sin problemas. Commandos: Behind The Enemy Lines es un jue"
-  },
-  {
     "blog": "Eterno aprendiz",
     "titulo": "Álex Anwandter, 20 años de carrera artística",
     "link": "https://altgr.xyz/2026/09/02/alex-anwandter-20-anos-de-carrera-artistica/",
@@ -2000,6 +2119,13 @@
     "link": "https://elprofejuan.com.ar/cambio-de-estilo",
     "fecha": "02/09/2026 23:05",
     "contenido": "Bueno, después de varios meses de intentar modificar, el sitio va quedando, igual no creo sea el definitivo, pero es lo que mas o menos pude acercar a lo que quiero.\n\n"
+  },
+  {
+    "blog": "Diego's Island",
+    "titulo": "Creando algo funcional.",
+    "link": "https://diegoaep.codeberg.page/blog/creando-algo-funcional/",
+    "fecha": "02/09/2026 19:35",
+    "contenido": "Sobre un proyecto sencillo pero funcional que estoy creando."
   },
   {
     "blog": "THE_CHEI$",
@@ -2049,6 +2175,13 @@
     "link": "https://www.quiroptero.blog/2026/09/vacaciones/",
     "fecha": "01/09/2026 22:22",
     "contenido": "Estoy cansado, jefe."
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Borrando un pool en unRAID",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-09-02-delete-pool/",
+    "fecha": "01/09/2026 22:00",
+    "contenido": "Nuevo artículo sobre una de aquellas cosas que tendría que saber hacer, que seguramente sé hacer, pero cuando llega el momento no me acuerdo y empiezo a buscar información, a trastear con todo el sistema y lo único que puedo llegar a conseguir es cargármelo todo.\nPero ¿a qué viene todo esto? Muy fác"
   },
   {
     "blog": "danielaragay.net",
@@ -2105,47 +2238,5 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/581-las-ninas-buenas-salen-jugar.html",
     "fecha": "31/08/2026 22:00",
     "contenido": "&nbsp; &nbsp; Las temperaturas habían descendido y la sociedad seguía cayéndose a pedazos. Cada día teníamos nuevas muestras de ello. Además de la gilipollez global ciudadana, el asesinato y la violencia continuaban siendo compañeros fieles de nuestro día a día.&nbsp; &nbsp; Era duro ser madre y des"
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Mis lecturas en agosto de 2026",
-    "link": "https://pedrolr.es/blog/mis-lecturas-en-agosto-de-2026/",
-    "fecha": "31/08/2026 13:49",
-    "contenido": "Vi por uno o varios blogs que sigo gracias al RSS de \"¡Blog!¡Blog! - Directorio de blogs en español\" de Matizeta (enlace) que varias personas publican sus lecturas de cada mes o trimestre. Por ejemplo: Mis lecturas de 2026 - Segundo trimestre (de Kabosu - Creando cosas) Mis lecturas en agosto de 202"
-  },
-  {
-    "blog": "",
-    "titulo": "Luar Na Lubre.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/08/31/luar-na-lubre-3/",
-    "fecha": "31/08/2026 13:34",
-    "contenido": "En su 40 aniversario Luar Na Lubre nos ofrece un nuevo trabajo, este consta de un libro mas la producción discográfica, ya esta disponible para la compra. Esta disponible para la compra en el enlace de abajo. &#62;&#62;&#62; click aqui &#60;&#60;&#60;"
-  },
-  {
-    "blog": "Guillermo Latorre | Feed RSS",
-    "titulo": "UnWall: acceso sin muros de pago",
-    "link": "https://guillermolatorre.com/clips/unwall-acceso-sin-muros-de-pago",
-    "fecha": "31/08/2026 12:45",
-    "contenido": "Una herramienta online bien diseñada, sin distracciones ni anuncios ni ventanas emergentes, que te permite acceder a artículos de grandes medios que tienen muro de pago bloqueante.Ir al enlace"
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "Semana 35/2026",
-    "link": "https://www.macram.es/posts/2026/08/semana-35-2026/",
-    "fecha": "31/08/2026 10:35",
-    "contenido": "Lo dije hace dos semanas. Ya no estoy en verano. Pronto termina la jornada intensiva y entro en septiembre, que es un mes que tradicionalmente en mi caso tiene muchos compromisos con muchas cosas a la vez. La vida me ha atropellado en muchos sentidos pero por suerte ninguno de ellos es triste. Solo "
-  },
-  {
-    "blog": "Galerías Preciados",
-    "titulo": "Hola Madrid!! Nos vemos en el No Sandrapalooza",
-    "link": "https://galeriaspreciados.band/hola-madrid-nos-vemos-en-el-no-sandrapalooza/",
-    "fecha": "31/08/2026 10:07",
-    "contenido": "Este fin de semana me bajo al No Sandrapalooza, que es un mini-festi que organiza mi colega la San en el Fotomatón que es un sitio que mola un montón y aquí te lo cuento"
-  },
-  {
-    "blog": "DESDE UN BALCÓN DE MADRID",
-    "titulo": "97 – La vida en minoría XIII: Hablemos de suicidio (Morkyr, 19/04/26)",
-    "link": "https://empiezaen2023.wordpress.com/2026/08/31/97-la-vida-en-minoria-xiii-hablemos-de-suicidio-morkyr-19-04-26/",
-    "fecha": "31/08/2026 05:00",
-    "contenido": "Tras más de dos décadas de desaparición de las redes, regresa de forma fugaz Morkyr con una nueva columna&#8230; Como quizá alguien recuerde, cuando comencé a escribir en este blog, recuperé las doce columnas que escribió Morkyr en el año 2005 (están accesibles en este mismo espacio, en las entradas"
   }
 ]
