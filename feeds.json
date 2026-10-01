@@ -1,10 +1,17 @@
 [
   {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Mis lecturas en septiembre de 2026",
+    "link": "https://escritura.social/mcallus/mis-lecturas-en-septiembre-de-2026",
+    "fecha": "30/09/2026 20:12",
+    "contenido": ""
+  },
+  {
     "blog": "pedrolr blog",
     "titulo": "Botones 88x31px en el blog",
     "link": "https://pedrolr.es/blog/botones-88x31px-en-el-blog/",
     "fecha": "30/09/2026 16:03",
-    "contenido": "He abierto una página de botones 88x31px: pedrolr.es/blog/botones88x31px. Reproduzco aquí gran parte de su contenido: Iba a haberlos puestos en el footer del blog, pero no me convencía cómo quedaba. A la vez, quería tener un espacio en el que se vean. Al final he puesto un enlace a la página en el f"
+    "contenido": "He abierto una página de botones 88x31px: pedrolr.es/blog/botones-88x31px. Reproduzco aquí gran parte de su contenido: Iba a haberlos puesto en el footer del blog, pero no me convencía cómo quedaba. A la vez, quería tener un espacio en el que se vean. Ya veré qué hago: de momento pongo este post y l"
   },
   {
     "blog": "_ voidNull",
@@ -68,13 +75,6 @@
     "link": "https://voidnull.es/instalacion-de-ollama-en-ubuntu-26-04/",
     "fecha": "30/09/2026 07:10",
     "contenido": "Instala Ollama en Ubuntu 26.04, descarga un modelo local y empieza a usar IA desde la terminal o mediante su API."
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "La furia (película)",
-    "link": "https://mareosdeungeek.es/la-furia-pelicula/",
-    "fecha": "30/09/2026 07:00",
-    "contenido": "La furia es una película dura, estrenada el año pasado y presente en los diferentes festivales y certámenes de España, teniendo una buena acogida. El largometraje, es el primero de Gemma Blasco, protagonizado por Ángela Cervantes y Àlex Monner. A Monner ya lo hemos visto en la serie de La Ruta y aqu"
   },
   {
     "blog": "JavierSam",
@@ -1705,7 +1705,7 @@
     "titulo": "Alta suciedad: el mejor disco solista de Andrés Calamaro",
     "link": "https://matizeta.com/2026/09/09/alta-suciedad-el-mejor-disco-solista-de-andres-calamaro/",
     "fecha": "09/09/2026 15:26",
-    "contenido": "Un obra que supo tener varios hits en la radio.Entradas relacionadas:Las películas del añoRedefiniendo mi forma de viajarNuestros trabajos son una mentiraUn turista no es un viajero¿Nadie vió Click? "
+    "contenido": "Un obra que supo tener varios hits en la radio.Entradas relacionadas:La razón por la que escriboBienvenida a casaRedefiniendo mi forma de viajarCómo escribir «páginas matutinas» y no morir en el intentoLas películas del año"
   },
   {
     "blog": "Victorhck in the free world",
@@ -1974,6 +1974,13 @@
     "contenido": "Antes de comenzar, conviene realizar una aclaración: el presente contenido no se encuentra sujeto a ningún tipo de licencia, por lo que puede ser utilizado libremente por cualquier persona, sin necesidad de autorización previa. No considero necesario justificar ni defender la decisión que aquí se ex"
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Un largo verano",
+    "link": "https://mareosdeungeek.es/un-largo-verano-2/",
+    "fecha": "06/09/2026 07:00",
+    "contenido": "Tengo que reconocer que el verano de 2026 está siendo demasiado largo. Necesito volver a una rutina que es rutina, básicamente, necesito que mis hijos empiecen el colegio. No hay nada peor que trabajar en verano, con los niños y con mucho calor. De nada me ha servido estar fuera de casa, bueno, tal "
+  },
+  {
     "blog": "JavierSam",
     "titulo": "¡Se vienen los Suzanne Awards 2026!",
     "link": "https://javiersam.uy/2026/09/se-vienen-los-suzanne-awards-2026.html",
@@ -2077,13 +2084,6 @@
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/582-las-fuerzas-superiores.html",
     "fecha": "03/09/2026 22:00",
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacín",
-    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
-    "fecha": "03/09/2026 17:28",
-    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
   },
   {
     "blog": "Jinversor",
@@ -2224,19 +2224,5 @@
     "link": "https://fixionauta.net/2026/08/31/211494/",
     "fecha": "01/09/2026 03:30",
     "contenido": "Fragmento de una ilustración (en proceso) que se usó como promocional interno para una actividad de Leyendas del Noreste."
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Un Año de La Bitácora y El Día Mundial del Blog",
-    "link": "https://altgr.xyz/2026/09/01/un-ano-de-la-bitacora-y-el-dia-mundial-del-blog/",
-    "fecha": "01/09/2026 03:06",
-    "contenido": "Esta mañana me enteré de que existe el World Blog Day, o sea, el Día Mundial del Blog y es justo hoy 31 de Agosto. Eso se suma a que por estos días &#8212;hace una semana exactamente&#8212; se cumple un año desde que retomé la aventura de escribir en este espacio que he llamado La Bitácora de un Ete"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "581. Las niñas buenas salen a jugar",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/09/581-las-ninas-buenas-salen-jugar.html",
-    "fecha": "31/08/2026 22:00",
-    "contenido": "&nbsp; &nbsp; Las temperaturas habían descendido y la sociedad seguía cayéndose a pedazos. Cada día teníamos nuevas muestras de ello. Además de la gilipollez global ciudadana, el asesinato y la violencia continuaban siendo compañeros fieles de nuestro día a día.&nbsp; &nbsp; Era duro ser madre y des"
   }
 ]
