@@ -1,5 +1,82 @@
 [
   {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "La terminal y el analfabetismo informático moderno",
+    "link": "https://tecnoysoft.com/2026/10/01/la-terminal-y-el-analfabetismo-informatico-moderno/",
+    "fecha": "01/10/2026 15:56",
+    "contenido": "Hay algo que me resulta tan molesto como curioso de la informática moderna: hemos llegado a un punto en el que utilizar una terminal parece, para una buena parte de los usuarios, una especie de ritual arcaico reservado a programadores, hackers de película o nostálgicos de los años 80. Abrir una term"
+  },
+  {
+    "blog": "El Blog de un informático que sueña con mejorar el mundo",
+    "titulo": "¿Se puede configurar desde el arranque /e/OS siendo una persona ciega?",
+    "link": "https://jesuspavonabian.es/post/configurar-eos-persona-ciega/",
+    "fecha": "01/10/2026 13:43",
+    "contenido": "Llevo unos días dándole vueltas a pillarme un Android sin Google como dispositivo secundario: mi principal sigue siendo un iPhone, con su VoiceOver y sus regresiones, que eso da para otro post. Me han comentado que estaría bien una app de Tu Guiador para Android y aunque me he negado siempre de form"
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "Súbito otoño",
+    "link": "http://locutusbit.blogspot.com/2026/10/subito-otono_01672431461.html",
+    "fecha": "01/10/2026 12:00",
+    "contenido": "&nbsp;No vale un nudo furtivo debatiéndose en la derrota,que todo lo dicho&nbsp;sea suficiente o necesario,que esperar tenga sentido si no se tienen alas.No vale tener memoria más allá de las formas enloquecidas,de la cautela efímera,&nbsp;de la evidencia desnuda;más allá de las arrugas huérfanas de"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #896",
+    "link": "https://www.fabio.com.ar/10043-ruleta-rusa-896",
+    "fecha": "01/10/2026 12:00",
+    "contenido": "     El tr&aacute;fico de balas est&aacute; en marcha\nJueves! Semanita de arduo trabajo para m&iacute;, pero contento porque hoy, s&iacute; hoy, cumplo 16 a&ntilde;os de casado con Gime y, si bien eso no le importa a nadie, yo festejo y soy feliz, claro, que esta es una ruleta y las cosas personales"
+  },
+  {
+    "blog": "Daniel Omar Cignacco",
+    "titulo": "El colombófilo de Flores y la cifra infinita (Impreso)",
+    "link": "https://danielomarcignacco.blogspot.com/2026/10/el-colombofilo-de-flores-y-la-cifra.html",
+    "fecha": "01/10/2026 11:33",
+    "contenido": "\n\n\n  \n    DANIEL OMAR CIGNACCO\n    \n      M47\n    \n    \n      El libro que llega volando\n    \n  \n\n  \n    Pérez Molina tiene una paloma.\n  \n\n  \n    Se llama M47.\n  \n\n  \n    Y ahora tiene una misión.\n  \n\n  \n    Llevar hasta vos un ejemplar de\n    El colombófilo de Flores y la cifra infinita,\n    la no"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "El Pasado No Se Mancha",
+    "link": "https://www.delotroladometal.com.ar/2026/10/01/el-pasado-no-se-mancha/",
+    "fecha": "01/10/2026 10:35",
+    "contenido": "&#8220;Antes te metías en internet para escapar del mundo real. Ahora sales al mundo real...\nThe post El Pasado No Se Mancha first appeared on Del Otro Lado Metal."
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Hojas negras",
+    "link": "https://escritura.social/mcallus/hojas-negras",
+    "fecha": "01/10/2026 08:41",
+    "contenido": ""
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Me animo con el Writeober 2026",
+    "link": "https://escritura.social/mcallus/writeober-2026",
+    "fecha": "01/10/2026 07:10",
+    "contenido": ""
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Mi iPhone SE sigue aguantando",
+    "link": "https://adrianperales.com/2026/10/mi-iphone-se-sigue-aguantando/",
+    "fecha": "01/10/2026 07:00",
+    "contenido": "Me alegra decir que mi iPhone SE 3 de 2022 seguirá dando guerra una temporada más. En primer lugar, la batería (que he dos veces por una no oficial) vuelve a cargar al 100% y aguanta todo el día sin despeinarse. Por algún motivo solo se cargaba hasta el 90% y se descargaba con respirar [&#8230;]"
+  },
+  {
+    "blog": "Fixionauta",
+    "titulo": "",
+    "link": "https://fixionauta.net/2026/09/30/225025/",
+    "fecha": "01/10/2026 04:30",
+    "contenido": "Música en septiembre. En esta ocasión me limitaré a destacar solo dos cosas: Live &#8211; Palau! de Maika Makovski, álbum en vivo grabado en marzo de este mismo año en el Palau de la Música (Barcelona), me encanta la música de Makovski y la energía que despide junto a sus invitados ha sido fantástic"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Stack Overflow Emocional",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/stack-overflow-emocional/",
+    "fecha": "01/10/2026 00:00",
+    "contenido": "El día en que abrieron su tumba, no encontraron huesos ni mortaja, sino una interminable tira de cinta perforada que serpenteaba hasta perderse en la penumbra.\nMarcos no había vuelto con carne ni suspiros; revivió como sintaxis pura, una conciencia abstracta articulada en funciones, iteraciones y bl"
+  },
+  {
     "blog": "El escritorio de McAllus",
     "titulo": "Mis lecturas en septiembre de 2026",
     "link": "https://escritura.social/mcallus/mis-lecturas-en-septiembre-de-2026",
@@ -75,6 +152,13 @@
     "link": "https://voidnull.es/instalacion-de-ollama-en-ubuntu-26-04/",
     "fecha": "30/09/2026 07:10",
     "contenido": "Instala Ollama en Ubuntu 26.04, descarga un modelo local y empieza a usar IA desde la terminal o mediante su API."
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La furia (película)",
+    "link": "https://mareosdeungeek.es/la-furia-pelicula/",
+    "fecha": "30/09/2026 07:00",
+    "contenido": "La furia es una película dura, estrenada el año pasado y presente en los diferentes festivales y certámenes de España, teniendo una buena acogida. El largometraje, es el primero de Gemma Blasco, protagonizado por Ángela Cervantes y Àlex Monner. A Monner ya lo hemos visto en la serie de La Ruta y aqu"
   },
   {
     "blog": "JavierSam",
@@ -194,6 +278,13 @@
     "link": "https://labaudric.net/blog/peliculas/knock-at-the-cabin",
     "fecha": "28/09/2026 15:49",
     "contenido": "\nKnock at the cabin, película de Night Shyamalan del 2023.\nVoy a empezar diciendo algo importante: yo no saco conclusiones antes de tiempo por que es del director X o Y. Lo digo por que este hombre tiene una cierta reputación, y yo personalmente no me sumo a apoyarla. Yo veo las películas sin prejui"
+  },
+  {
+    "blog": "Fixionauta",
+    "titulo": "",
+    "link": "https://fixionauta.net/2026/09/28/225015/",
+    "fecha": "28/09/2026 13:30",
+    "contenido": "Bocetos previos al 4&#215;4 del próximo sábado."
   },
   {
     "blog": "Fabio.com.ar",
@@ -896,13 +987,6 @@
     "contenido": "No es solo un juego bonito, o las ganas de volver donde todo era más sencillo. También tiene unos puzles geniales\nLa entrada Análisis de Woodo se publicó primero en CozyKis."
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Rev Seven: Heavy Laden Volume I | Recordando Viejos Tiempos",
-    "link": "https://www.delotroladometal.com.ar/2026/09/21/recordando-viejos-tiempos/",
-    "fecha": "21/09/2026 10:40",
-    "contenido": "(2025 &#8211; Retroactive Records) Bill Menchen es un tipo no muy conocido por estas tierras,...\nThe post Rev Seven: Heavy Laden Volume I | Recordando Viejos Tiempos first appeared on Del Otro Lado Metal."
-  },
-  {
     "blog": "manje.net",
     "titulo": "Astra Launches New Strategy Roadmap: Focus, Clarity, Discipline, Commitment",
     "link": "https://blog.manje.net/astra-launches-new-strategy-roadmap-focus-clarity-discipline-commitment/",
@@ -1195,13 +1279,6 @@
     "link": "https://adrianperales.com/2026/09/una-mirada-al-curso-que-empieza/",
     "fecha": "17/09/2026 13:05",
     "contenido": "Al contrario que la gran mayoría de entradas de este blog, este texto se publica justo después de su escritura. Y es que hoy, tras dos días de clase habitual, es buen momento para alzar la mirada al curso que empieza. Lo cierto es que casi todo parecen buenas noticias. Instituto a diez minutos de [&"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #894",
-    "link": "https://www.fabio.com.ar/10033-ruleta-rusa-894",
-    "fecha": "17/09/2026 12:00",
-    "contenido": "     Pegu&eacute;monos una vueltita en la Ruleta\nBueno, se me vino el jueves encima, con tantas cosas por hacer casi no me doy cuenta, pero siempre hay un relojito que me avisa que es hora de preparar una ruleta y dejarles las balas servidas, aqu&iacute; est&aacute;.\nAhora s&iacute;, Ruleta Rusa!Cre"
   },
   {
     "blog": "CozyKis",
@@ -1974,13 +2051,6 @@
     "contenido": "Antes de comenzar, conviene realizar una aclaración: el presente contenido no se encuentra sujeto a ningún tipo de licencia, por lo que puede ser utilizado libremente por cualquier persona, sin necesidad de autorización previa. No considero necesario justificar ni defender la decisión que aquí se ex"
   },
   {
-    "blog": "Mareos de un geek",
-    "titulo": "Un largo verano",
-    "link": "https://mareosdeungeek.es/un-largo-verano-2/",
-    "fecha": "06/09/2026 07:00",
-    "contenido": "Tengo que reconocer que el verano de 2026 está siendo demasiado largo. Necesito volver a una rutina que es rutina, básicamente, necesito que mis hijos empiecen el colegio. No hay nada peor que trabajar en verano, con los niños y con mucho calor. De nada me ha servido estar fuera de casa, bueno, tal "
-  },
-  {
     "blog": "JavierSam",
     "titulo": "¡Se vienen los Suzanne Awards 2026!",
     "link": "https://javiersam.uy/2026/09/se-vienen-los-suzanne-awards-2026.html",
@@ -2086,6 +2156,13 @@
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
   },
   {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Encurtido de calabacín",
+    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
+    "fecha": "03/09/2026 17:28",
+    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
+  },
+  {
     "blog": "Jinversor",
     "titulo": "Eufemismos",
     "link": "https://jinversor.co/2026/09/eufemismos/",
@@ -2189,40 +2266,5 @@
     "link": "https://blog.danielaragay.net/laab-de-pato-el-plato-que-casi-nadie-prepara-bien-fuera-de-tailandia/",
     "fecha": "01/09/2026 20:39",
     "contenido": "Hay platos tailandeses que todo el mundo conoce. Y luego está este Laab de pato: piel crujiente aparte, cocinado en su propia grasa, y con un ingrediente que casi nadie fuera de Tailandia ha probado."
-  },
-  {
-    "blog": "Escritos en la nube",
-    "titulo": "Cambiar servicios en la nube por software sin conexión",
-    "link": "https://nube.codeberg.page/blog/offline.html",
-    "fecha": "01/09/2026 13:58",
-    "contenido": "Cada quien hace lo que quiera, yo solo quería hablar de esto"
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "El pico de la reminiscencia",
-    "link": "http://locutusbit.blogspot.com/2026/09/el-pico-de-la-reminiscencia.html",
-    "fecha": "01/09/2026 12:00",
-    "contenido": "&nbsp;La memoria exige,los momentos persisten;esos momentos sin finalidad,donde la tentación invitaa caer en el libre albedrío,en la red de mandíbulasque atrapa los sentidosvulnerables al aire, al agua,a cualquier elementoatrapado en paquetes&nbsp;de instruccionesenvueltos en una cápsulaque encierra"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Cinco sabores, un equilibrio",
-    "link": "https://blog.danielaragay.net/cinco-sabores-un-equilibrio/",
-    "fecha": "01/09/2026 07:09",
-    "contenido": "Después de meses hablando de Tailandia en vídeo, hoy estrenamos algo nuevo: ThaiZapZap, el podcast. No sustituye al canal de YouTube, lo complementa — un espacio sin prisas para hablar de todo lo que no cabe en un guión de ocho minutos."
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/08/31/211523/",
-    "fecha": "01/09/2026 04:30",
-    "contenido": "Música en agosto. South Acid Mimi publicó un álbum nuevo, aunque en lugar de escucharlo volví a 圣代元音. Me había topado con algunos tracks sueltos de Sainte-Victoire de Clara Luciani, pero este mes escuché el álbum completo. Después del capítulo de un podcast dedicado a la música de This is England me"
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/08/31/211494/",
-    "fecha": "01/09/2026 03:30",
-    "contenido": "Fragmento de una ilustración (en proceso) que se usó como promocional interno para una actividad de Leyendas del Noreste."
   }
 ]
