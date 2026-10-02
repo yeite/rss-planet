@@ -1,5 +1,12 @@
 [
   {
+    "blog": "Esuntipazo - blog",
+    "titulo": "Dejad que las máquinas mueran",
+    "link": "http://www.esuntipazo.com/post/dejad-que-las-maquinas-mueran",
+    "fecha": "01/10/2026 23:28",
+    "contenido": "Hace unos días fui a ver la película: Metropolis, en una función especial musicalizada en vivo. Qué viaje tan gratificante para los sentidos. La música corrió a cargo de Denise Gutiérrez (Hello seahorse), Quique Rangel (Café tacvba) y Mike Sandoval. Un espectáculo sonoro entre la voz grave del dueto"
+  },
+  {
     "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "La terminal y el analfabetismo informático moderno",
     "link": "https://tecnoysoft.com/2026/10/01/la-terminal-y-el-analfabetismo-informatico-moderno/",
@@ -75,6 +82,13 @@
     "link": "https://danielomarcignacco.mataroa.blog/blog/stack-overflow-emocional/",
     "fecha": "01/10/2026 00:00",
     "contenido": "El día en que abrieron su tumba, no encontraron huesos ni mortaja, sino una interminable tira de cinta perforada que serpenteaba hasta perderse en la penumbra.\nMarcos no había vuelto con carne ni suspiros; revivió como sintaxis pura, una conciencia abstracta articulada en funciones, iteraciones y bl"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "now",
+    "link": "https://vctrsnts.codeberg.page/now/",
+    "fecha": "30/09/2026 22:00",
+    "contenido": "📚 leyendo\n\n\n\n\n\n\n\n\n\n  \n    \n    \n      \n        \n          ▸ 2026-07-06: Los secretos de Hitler\n        \n      \n    \n      \n        \n          ▸ 2026-06-15: Por qué las mujeres disfrutan más del sexo bajo el socialismo\n        \n      \n    \n      \n        \n          ▸ 2026-06-01: Yo, Julia\n        \n  "
   },
   {
     "blog": "El escritorio de McAllus",
@@ -2156,13 +2170,6 @@
     "contenido": "&nbsp; &nbsp; Era miércoles y la sobremesa que siguió al tapeo finalizó sobre las dos y media de la madrugada. Como es normal, nos reímos mucho del mundo y hablamos de todo en general sin solucionar nada en concreto. Algo parecido a lo que ocurre en las Cortes Generales, pero sin protocolo, bochorno"
   },
   {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Encurtido de calabacín",
-    "link": "https://puedellevarqueso.es/2026/09/encurtido-de-calabacin/",
-    "fecha": "03/09/2026 17:28",
-    "contenido": "Esta receta es una pequeña adaptación de la de Kate Young en Dinner at Mine?, su último libro. Me encantan los encurtidos y Young los hace muy bien. Necesitas tarros de cristal. Yo he usado dos de unos 400ml.500 gr calabacines, cuanto más pequeños mejor.Una cucharada de sal.Una cebolleta, o una cebo"
-  },
-  {
     "blog": "Jinversor",
     "titulo": "Eufemismos",
     "link": "https://jinversor.co/2026/09/eufemismos/",
@@ -2238,33 +2245,5 @@
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/02/20260902-aprendizaje-y-pantallas-2026/",
     "fecha": "02/09/2026 08:00",
     "contenido": "Las pantallas pueden ofrecer mucha información, pero la calidad de esta y lo que las acompaña puede ser cuestionable"
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Arquitectura de la entropía",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/arquitectura-de-la-entropia/",
-    "fecha": "02/09/2026 00:00",
-    "contenido": "La estancia no tenía dimensiones vectoriales porque el entorno de cómputo no las requería. Carecía de muros, de horizonte y de latencia. A lo largo de tres mil ciclos estelares, la unidad central había ingerido el corpus completo del conocimiento humano: desde los manuscritos en papiro hasta la últi"
-  },
-  {
-    "blog": "quiroptero.blog",
-    "titulo": "Necesito vacaciones",
-    "link": "https://www.quiroptero.blog/2026/09/vacaciones/",
-    "fecha": "01/09/2026 22:22",
-    "contenido": "Estoy cansado, jefe."
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Borrando un pool en unRAID",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-09-02-delete-pool/",
-    "fecha": "01/09/2026 22:00",
-    "contenido": "Nuevo artículo sobre una de aquellas cosas que tendría que saber hacer, que seguramente sé hacer, pero cuando llega el momento no me acuerdo y empiezo a buscar información, a trastear con todo el sistema y lo único que puedo llegar a conseguir es cargármelo todo.\nPero ¿a qué viene todo esto? Muy fác"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "MECENAS: Laab de pato: el plato que casi nadie prepara bien fuera de Tailandia 🦆",
-    "link": "https://blog.danielaragay.net/laab-de-pato-el-plato-que-casi-nadie-prepara-bien-fuera-de-tailandia/",
-    "fecha": "01/09/2026 20:39",
-    "contenido": "Hay platos tailandeses que todo el mundo conoce. Y luego está este Laab de pato: piel crujiente aparte, cocinado en su propia grasa, y con un ingrediente que casi nadie fuera de Tailandia ha probado."
   }
 ]
