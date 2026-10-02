@@ -1070,8 +1070,8 @@
   },
   {
     "Nombre": "Escritos en la nube",
-    "Url": "https://nube.codeberg.page/blog/",
-    "Feed": "https://nube.codeberg.page/blog/index.xml",
+    "Url": "https://nube.codeberg.page/blog",
+    "Feed": "https://nube.codeberg.page/index.xml",
     "Descripción": "Mi blog personal donde hablo sobre código abierto, algunas opiniones sobre software, y hasta un poco de poesía",
     "Categoría": "Tecnología",
     "País": "Venezuela"
