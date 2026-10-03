@@ -1,4 +1,18 @@
 <header>
+    <button
+        id="theme-toggle"
+        class="theme-toggle"
+        type="button"
+        aria-pressed="false"
+        aria-label="Cambiar entre modo claro y oscuro"
+    >
+        <span class="theme-toggle__track">
+            <span class="theme-toggle__icon" aria-hidden="true">☀️</span>
+            <span class="theme-toggle__icon" aria-hidden="true">🌙</span>
+            <span class="theme-toggle__thumb"></span>
+        </span>
+    </button>
+
     <div class="header-inner">
         <div class="header-content">
             <img src="img/frog-pixel-recortada.gif" alt="Logo ¡Blog!¡Blog!" />
@@ -10,19 +24,11 @@
     </div>
 
     <nav>
-        <a href="index.html">Inicio</a>
-        <a href="directorio.html">Directorio</a>
-        <a href="webring.html">
-            Webring
-
-        </a>
-        <a href="acerca-de.html" target="_self">Acerca de</a>
-        <a href="sumate.html" target="_self">Sumate</a>
-        <a href="comunidad.html">
-            Comunidad
-
-        </a>
-
-
+        <a href="index.html"><span class="nav-icon" aria-hidden="true">🏠</span>Inicio</a>
+        <a href="directorio.html"><span class="nav-icon" aria-hidden="true">📖</span>Directorio</a>
+        <a href="webring.html"><span class="nav-icon" aria-hidden="true">🪐</span>Webring</a>
+        <a href="acerca-de.html" target="_self"><span class="nav-icon" aria-hidden="true">ℹ️</span>Acerca de</a>
+        <a href="sumate.html" target="_self"><span class="nav-icon" aria-hidden="true">➕</span>Sumate</a>
+        <a href="comunidad.html"><span class="nav-icon" aria-hidden="true">👥</span>Comunidad</a>
     </nav>
 </header>

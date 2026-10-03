@@ -11,9 +11,36 @@ import feedparser
 with open("feeds.txt", "r", encoding="utf-8") as f:
     feeds = [line.strip() for line in f if line.strip()]
 
-# Rango de tiempo (ampliado a 30 días para evitar JSONs vacíos en blogs con poca actividad)
+# Rango de tiempo: últimos 7 días (lo que se muestra en el feed de Inicio)
 ahora_utc = datetime.now(timezone.utc)
-hace_un_mes = ahora_utc - timedelta(days=30)
+# Ventana de la portada (Inicio): solo lo publicado en los últimos 7 días.
+hace_una_semana = ahora_utc - timedelta(days=7)
+
+
+def extraer_imagen(entry, contenido_html):
+    """Busca una imagen de portada para la entrada, en este orden:
+    1) <media:content> o <media:thumbnail> (formato usado por WordPress y otros)
+    2) un <enclosure> de tipo imagen
+    3) la primera <img> dentro del cuerpo/resumen original del post
+    Si no encuentra nada, devuelve None (el front-end usa el favicon del
+    blog repetido como respaldo en ese caso).
+    """
+    media = entry.get("media_content") or entry.get("media_thumbnail")
+    if media:
+        url = media[0].get("url")
+        if url:
+            return url
+
+    for enclosure in entry.get("links", []):
+        tipo = str(enclosure.get("type", ""))
+        if enclosure.get("rel") == "enclosure" and tipo.startswith("image"):
+            return enclosure.get("href")
+
+    match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', contenido_html or "")
+    if match:
+        return match.group(1)
+
+    return None
 
 
 def procesar_feed(url):
@@ -38,9 +65,10 @@ def procesar_feed(url):
                 timestamp = ahora_utc.timestamp()
 
             # Filtrar si entra en el rango deseado
-            if fecha_utc >= hace_un_mes:
-                contenido = e.get("summary", "") or e.get("description", "")
-                contenido = re.sub("<[^<]+?>", "", contenido)[:300]
+            if fecha_utc >= hace_una_semana:
+                contenido_html = e.get("summary", "") or e.get("description", "")
+                imagen = extraer_imagen(e, contenido_html)
+                contenido = re.sub("<[^<]+?>", "", contenido_html)[:300]
 
                 feed_items.append(
                     {
@@ -50,6 +78,7 @@ def procesar_feed(url):
                         "timestamp": timestamp,
                         "fecha": fecha_utc.strftime("%d/%m/%Y %H:%M"),
                         "contenido": contenido,
+                        "imagen": imagen,
                     }
                 )
     except Exception as ex:

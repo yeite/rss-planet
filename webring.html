@@ -1,12 +1,25 @@
 <!doctype html>
 <html lang="es">
     <head>
+        <script>
+            (function () {
+                try {
+                    var saved = localStorage.getItem("blogblog-theme");
+                    var hour = new Date().getHours();
+                    var theme = saved || (hour >= 7 && hour < 20 ? "light" : "dark");
+                    document.documentElement.setAttribute("data-theme", theme);
+                } catch (e) {
+                    document.documentElement.setAttribute("data-theme", "dark");
+                }
+            })();
+        </script>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>¡Blog!¡Blog!</title>
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <link rel="stylesheet" href="css/estilos.css" />
         <link rel="stylesheet" href="css/estilos-acerca.css" />
+        <script defer src="js/theme.js"></script>
         <script defer src="js/layout.js"></script>
         <link
             rel="alternate"
