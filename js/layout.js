@@ -13,6 +13,8 @@ async function loadFragment(selector, url) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-    loadFragment("#header-placeholder", "header.html");
+    loadFragment("#header-placeholder", "header.html").then(() => {
+        if (typeof initThemeToggle === "function") initThemeToggle();
+    });
     loadFragment("#footer-placeholder", "footer.html");
 });
