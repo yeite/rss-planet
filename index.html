@@ -2,6 +2,18 @@
 
 <html lang="es">
     <head>
+        <script>
+            (function () {
+                try {
+                    var saved = localStorage.getItem("blogblog-theme");
+                    var hour = new Date().getHours();
+                    var theme = saved || (hour >= 7 && hour < 20 ? "light" : "dark");
+                    document.documentElement.setAttribute("data-theme", theme);
+                } catch (e) {
+                    document.documentElement.setAttribute("data-theme", "dark");
+                }
+            })();
+        </script>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content="¡Blog!¡Blog!" />
@@ -19,6 +31,7 @@
         <title>¡Blog!¡Blog!</title>
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <link rel="stylesheet" href="css/estilos.css" />
+        <script defer src="js/theme.js"></script>
         <script defer src="js/layout.js"></script>
         <script defer src="js/feed-list.js"></script>
         <link
@@ -32,45 +45,39 @@
         <div id="header-placeholder"></div>
 
         <main>
-
             <div class="novedades">
+                <h3>🎉 Novedades en ¡Blog!¡Blog!</h3>
 
-<h3>
-     <img
-                    src="img/new16x16.png"
-                    alt="Novedades"
-                    class="nav-badge nav-badge--large"
-                />
+                <p>
+                    - Ahora podés elegir el
+                    <strong>modo claro u oscuro</strong> con el switch de arriba a la
+                    derecha (se ajusta solo según el horario, pero podés cambiarlo
+                    cuando quieras).
+                </p>
 
-
-    Novedades en ¡Blog!¡Blog!</h3>
-
-                   <p>
-
-                Nuevos filtros en el
-                <a href="https://blogblog.es/directorio.html">directorio</a>.
-            </p>
-
-            <p>
-                Cada vez que ingreses al directorio, los blogs se listaran de manera aleatoria para ayudarte a descubrir nuevos blogs cada día. Además puedes ordenarlos por nombre y también por fecha en que se añadieron.
-     </p>
-
-
-
-
-
+                <p>
+                    - Sumamos la <strong>vista mosaico</strong> acá abajo, con la
+                    portada de cada entrada.
+                </p>
             </div>
-
-
+            
+            
             <p>
                 Mirá lo que estuvieron publicando los blogs del
                 <a href="https://blogblog.es/directorio.html">directorio</a> en
                 la semana
             </p>
 
-
-
-
+            <div class="view-toggle" role="group" aria-label="Cambiar tipo de vista">
+                <button type="button" id="vista-lista" class="view-toggle__btn" aria-pressed="false">
+                    <svg viewBox="0 0 20 20"><path d="M2 4h16v2H2zM2 9h16v2H2zM2 14h16v2H2z"/></svg>
+                    Lista
+                </button>
+                <button type="button" id="vista-mosaico" class="view-toggle__btn" aria-pressed="false">
+                    <svg viewBox="0 0 20 20"><path d="M2 2h7v7H2zM11 2h7v7h-7zM2 11h7v7H2zM11 11h7v7h-7z"/></svg>
+                    Mosaico
+                </button>
+            </div>
 
             <div id="contenedor" data-feed-list></div>
         </main>
