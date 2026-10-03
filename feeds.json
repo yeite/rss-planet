@@ -48,28 +48,12 @@
     "imagen": null
   },
   {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "No es lo que parece: analizando fisuras digitales",
-    "link": "https://gatooscuro.xyz/no-es-lo-que-parece-analizando-fisuras-digitales/",
-    "fecha": "03/10/2026 07:13",
-    "contenido": "Hoy vuelvo a escribir en la madrugada acerca de esas noticias y/o artículos que se han difundido por la red acerca de alguna vulneración a nuestra seguridad/privacidad en línea. No\nSeguir leyendo  No es lo que parece: analizando fisuras digitales\nEl cargo No es lo que parece: analizando fisuras digi",
-    "imagen": null
-  },
-  {
     "blog": "Pepógrafo",
     "titulo": "La mujer que lleva siglos contados estrellas en un castillo de Extremadura",
     "link": "https://pepografo.com/leyenda-estrellas-castillo-segura-leon-extremadura/",
     "fecha": "03/10/2026 06:03",
     "contenido": "La leyenda cuenta que una misteriosa dama berberisca recorre cada noche las murallas del castillo de Segura de León intentando contar todas las estrellas para romper un antiguo encantamiento\nLa entrada La mujer que lleva siglos contados estrellas en un castillo de Extremadura se publicó primero en P",
     "imagen": null
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Forzar actualización de Docker Desktop en Linux Mint",
-    "link": "https://chancli.dev/blog/forzar-actualizacion-docker-desktop-linux-mint.html",
-    "fecha": "03/10/2026 00:00",
-    "contenido": "En mi equipo de sobre mesa, un PC con Linux Mint, utilizo Docker Desktop para gestionar algunos servicios que tengo auto alojados, como la instancia de Immich.\nEn el Mac del trabajo también lo uso y tengo que decir que este problema solo me pasa en mi Linux.\nCada vez que sale una actualización de se",
-    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/docker-desktop-force-update.png"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -109,14 +93,6 @@
     "link": "https://interlan.ec/blog/2026/10/02/salon-de-la-fama-del-spam-16-un-minero-generoso/",
     "fecha": "02/10/2026 14:00",
     "contenido": "Tal vez y fui exagerado. Es cierto que ya no llegan tantos mensajes de spam ahora que he mejorado la seguridad. También es cierto que hay mas cosas interesantes en los logs, pero aun es posible encontrar joyitas mas elaboradas que aprovechan infraestructura pagada y reconocida. Pero vamos por partes",
-    "imagen": null
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Mis lecturas en septiembre de 2026",
-    "link": "https://pedrolr.es/blog/mis-lecturas-en-septiembre-de-2026/",
-    "fecha": "02/10/2026 13:47",
-    "contenido": "Siguiendo con la idea del post que hice sobre mis lecturas en agosto (enlace), añado aquí los libros que he leído en septiembre de 2026. Primero pongo una síntesis a modo de highlights: Libros leídos: 6. Formato: 1 en papel (16,67 %) y 5 en digital (83,33 %). 3 libros de literatura de montaña (50 [&",
     "imagen": null
   },
   {
@@ -328,14 +304,6 @@
     "imagen": null
   },
   {
-    "blog": "pedrolr blog",
-    "titulo": "Botones 88x31px en el blog",
-    "link": "https://pedrolr.es/blog/botones-88x31px-en-el-blog/",
-    "fecha": "30/09/2026 16:03",
-    "contenido": "He abierto una página de botones 88x31px: pedrolr.es/blog/botones-88x31px. Reproduzco aquí gran parte de su contenido: Iba a haberlos puesto en el footer del blog, pero no me convencía cómo quedaba. A la vez, quería tener un espacio en el que se vean. Ya veré qué hago: de momento pongo este post y l",
-    "imagen": null
-  },
-  {
     "blog": "_ voidNull",
     "titulo": "timeout: limita el tiempo de ejecución de comandos",
     "link": "https://voidnull.es/timeout-limita-el-tiempo-de-ejecucion-de-comandos/",
@@ -406,14 +374,6 @@
     "fecha": "30/09/2026 07:10",
     "contenido": "Instala Ollama en Ubuntu 26.04, descarga un modelo local y empieza a usar IA desde la terminal o mediante su API.",
     "imagen": "https://voidnull.es"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "La furia (película)",
-    "link": "https://mareosdeungeek.es/la-furia-pelicula/",
-    "fecha": "30/09/2026 07:00",
-    "contenido": "La furia es una película dura, estrenada el año pasado y presente en los diferentes festivales y certámenes de España, teniendo una buena acogida. El largometraje, es el primero de Gemma Blasco, protagonizado por Ángela Cervantes y Àlex Monner. A Monner ya lo hemos visto en la serie de La Ruta y aqu",
-    "imagen": null
   },
   {
     "blog": "JavierSam",
@@ -512,14 +472,6 @@
     "imagen": null
   },
   {
-    "blog": "Erica Fustero",
-    "titulo": "Four days in Amsterdam",
-    "link": "https://www.ericafustero.com/2026-09-four-days-in-amsterdam",
-    "fecha": "29/09/2026 08:39",
-    "contenido": "A finales de agosto, Javier y yo pasamos cuatro días en Ámsterdam. Íbamos sin más intención que pasear, hacer fotos y comer en sitios ricos, propósitos que cumplimos con bastante éxito. Además, yo llevaba preparada una lista de tiendas de fotografía con la intención de visitarlas todas. Nos quedó al",
-    "imagen": null
-  },
-  {
     "blog": "Adrián Perales",
     "titulo": "He renovado el iPad y me da igual",
     "link": "https://adrianperales.com/2026/09/he-renovado-el-ipad-y-me-da-igual/",
@@ -533,14 +485,6 @@
     "link": "https://blog.neosite.com.ar/post/las-5-distribuciones-de-gnu-linux-m-s-infravaloradas-por-la-comunidad",
     "fecha": "29/09/2026 00:00",
     "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Sierra de Gredos",
-    "link": "https://mareosdeungeek.es/sierra-de-gredos/",
-    "fecha": "28/09/2026 15:50",
-    "contenido": "La Sierra de Gredos fue nuestro destino vacacional este verano. Cada vez más al norte porque, la verdad, es que el calor ha apretado bastante. Nuestra base de operaciones fue la localidad de Candeleda, situada en el Valle del Tiétar, al sur de la provincia de Ávila. Es curioso porque se encuentra en",
     "imagen": null
   },
   {
@@ -661,7 +605,7 @@
     "link": "https://labaudric.net/videos/gta/6935",
     "fecha": "27/09/2026 18:29",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6935/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261003%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261003T141509Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=210571c36439d007fa4165b5ebc3f77bcb13309ca76b32f6dbab20a589c149d0"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6935/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261003%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261003T153102Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=54924bc1f4d32961f93933304052a5d462b076710ff8e895a3bb3dd3abbbc6a5"
   },
   {
     "blog": "Eterno aprendiz",
@@ -677,14 +621,6 @@
     "link": "http://frikoteca.blogspot.com/2026/09/ludo-ergo-sum-2026.html",
     "fecha": "27/09/2026 17:55",
     "contenido": "El fin de semana pasado me lo pasé entero en las jornadas Ludo Ergo Sum. No he podido escribir antes sobre ello porque ha sido una semana entretenida en muchos sentidos, pero aquí estamos para hacer una pequeña crónica. Supongo que ya habréis leído otras, como por ejemplo, la de mi hermano, pero eso",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Semana complicada",
-    "link": "https://mareosdeungeek.es/semana-complicada/",
-    "fecha": "27/09/2026 17:00",
-    "contenido": "La vuelta a la rutina está siendo complicada. Verdaderamente, a lo mejor, es por agotamiento o síndrome post-vacacional. En todo caso, es un ciclo extraño: comienza con incomodidad, dejarse llevar, indiferencia, preocupaciones externas y dejadez. Cómo no quiero llegar a ese último punto, estoy escri",
     "imagen": null
   },
   {
