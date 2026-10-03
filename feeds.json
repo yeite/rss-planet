@@ -1,5 +1,12 @@
 [
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "588. Guerra en casa",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/10/588-guerra-en-casa.html",
+    "fecha": "02/10/2026 22:00",
+    "contenido": "&nbsp; &nbsp; Hace cerca de un año que vivo en compañía. Pese a que no hace ruido ni genera gasto, he decidido echarla de mi nicho-vivienda de una vez por todas. Como tampoco tengo tiempo para estudiar su comportamiento y encontrar la forma más efectiva de hacerlo, he optado por preguntarle al Modo "
+  },
+  {
     "blog": "matizeta",
     "titulo": "NetNewsWire: 2 funciones interesantes de este lector de blogs",
     "link": "https://matizeta.com/2026/10/02/netnewswire-2-funciones-interesantes-de-este-lector-de-blogs/",
@@ -12,6 +19,13 @@
     "link": "https://victorhckinthefreeworld.com/2026/10/02/opensuse-tumbleweed-revision-de-la-semana-40-de-2026/",
     "fecha": "02/10/2026 16:20",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades."
+  },
+  {
+    "blog": "gorkula.com",
+    "titulo": "Camisetas con mensaje",
+    "link": "https://www.gorkula.com/camisetas-con-mensaje",
+    "fecha": "02/10/2026 15:39",
+    "contenido": "Hace un rato he salido a la calle y me he dado cuenta de que aunque el sol esté fuera, ya no hace tiempo de ir en pantalón corto. Esta noche voy a un concierto y al pensar en cambiarme los pantalones por unos largos me he dado cuenta de que llevo puesta una camiseta completamente lisa. Roja muy desc"
   },
   {
     "blog": "Interlan",
@@ -336,6 +350,13 @@
     "contenido": "Igual A Modern Approach to Preventing CSRF in Go es excesivamente técnico y sobre algo muy concreto, pero quería dejarlo guardado porque nunca se sabe qué se puede necesitar en algún momento futuro. Have we finally reached the point where CSRF attacks can be prevented without relying on a token-base"
   },
   {
+    "blog": "Eterno aprendiz",
+    "titulo": "Robbie Williams – Britpop Tour 2026",
+    "link": "https://altgr.xyz/2026/09/29/robbie-williams-britpop-tour-2026/",
+    "fecha": "29/09/2026 12:15",
+    "contenido": "Una sesión de música y humor fue la presentación de Robbie Williams en el Estadio Bicentenario de La Florida la noche del domingo. Entre canciones, la interacción con el público era una especie de stand-up comedy muy divertida. Estoy seguro de que este show se mete entre los grandes conciertos del a"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Argentina Bait - Lograr el éxito en redes sociales usando a los argentinos",
     "link": "https://www.fabio.com.ar/10041-argentina-bait---lograr-el-exito-en-redes-sociales-usando-a-los-argentinos",
@@ -441,7 +462,7 @@
     "contenido": "AdGuard no es un único producto, sino un catálogo de varios: Home (servidor DNS autoalojado), VPN y DNS alojado son piezas independientes con arquitecturas, precios y limitaciones distintas. Repasamos cada una de ellas, su utilidad y comparativa con otras de similares."
   },
   {
-    "blog": "El Sitio de Manieflo",
+    "blog": "Lo de Manieflo",
     "titulo": "Actualizar Un Servicio",
     "link": "https://elprofejuan.com.ar/actualizar-un-servicio",
     "fecha": "28/09/2026 02:20",
@@ -488,6 +509,13 @@
     "link": "https://labaudric.net/videos/gta/6935",
     "fecha": "27/09/2026 18:29",
     "contenido": ""
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Extendiendo la vida útil de mi Samsung Galaxy Tab S6 Lite",
+    "link": "https://altgr.xyz/2026/09/27/extendiendo-la-vida-util-de-mi-samsung-galaxy-tab-s6-lite/",
+    "fecha": "27/09/2026 18:24",
+    "contenido": "⚠️ Ñoño Warning ⚠️ Esta publicación contiene lenguaje técnico propio de geeks y ñoños. Si decides continuar es bajo tu propia resposabilidad. (La lectura puede provocar ganas compulsivas de abrir una terminal) Tengo una tablet Samsung Galaxy Tab S6 Lite de 10 pulgadas, un modelo del año 2022 (SM-P61"
   },
   {
     "blog": "La Frikoteca",
@@ -714,13 +742,6 @@
     "contenido": "Si hay una banda longeva y guerrera al ciento por ciento, sin dudas esa es...\nThe post La Legendaria Banda Inglesa Vuelve Al Ruedo | Stairway Estrena “Phantom Machine” first appeared on Del Otro Lado Metal."
   },
   {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 39.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-39/",
-    "fecha": "25/09/2026 10:33",
-    "contenido": "Doctor Nómada (décimo quinta parte)\n\nLeer la décimo cuarta parte\nDoctor Nómada (décimo quinta parte)\nEl último día de Fidel fue como hacía tanto no lo recordaban sus familiares. La firma de un armisticio entre él, sus seres queridos y el destino que, se había encarnizado con ellos.\nA la mañana sigui"
-  },
-  {
     "blog": "Blog · J.R. Cruciani",
     "titulo": "Porque podemos",
     "link": "https://blog.impermanente.es/2026/09/25/porque-podemos.html",
@@ -756,7 +777,7 @@
     "contenido": "A apenas cinco minutos de la bulliciosa Schönhauser Allee se encuentra Terese, una tienda donde Martina ha creado un punto de encuentro para el vecindario. En la terraza, a menudo verás gente leyendo o amigos conversando animadamente, mientras Miles, el perro de Martina, duerme la siesta. En Terese "
   },
   {
-    "blog": "El Sitio de Manieflo",
+    "blog": "Lo de Manieflo",
     "titulo": "Estrenamos Fuente Accesible",
     "link": "https://elprofejuan.com.ar/estrenamos-fuente-accesible",
     "fecha": "24/09/2026 19:36",
@@ -1281,13 +1302,6 @@
     "contenido": "Explora una nave espacial y descubre que se esconde detrás de este mundo idilico\nLa entrada Análisis de Welcome To Mars 9 se publicó primero en CozyKis."
   },
   {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 38.",
-    "link": "https://miperravida.anacronico.rocks/doctor-nomada-decimo-cuarta-parte/",
-    "fecha": "18/09/2026 09:45",
-    "contenido": "Doctor Nómada (décimo cuarta parte)\n\nLeer la décimo tercera parte\n\nDoctor Nómada (décimo cuarta parte)\nLeonila estaba muy nerviosa por la encomienda ultrasecreta de la que sólo ella y yo sabíamos. Si bien ejecutivamente no implicaba nada complejo, ella sabía que, del resultado de esa búsqueda, el fu"
-  },
-  {
     "blog": "matizeta",
     "titulo": "Webs que descubrí #7",
     "link": "https://matizeta.com/2026/09/18/webs-que-descubri-7/",
@@ -1435,7 +1449,7 @@
     "contenido": "Vía Mastodon e impulsado por Santiago, di con el artículo Cáscara y soberanía, de Enrique Amestoy, publicado en Brecha y en el blog del autor. Se trata de una reflexión muy interesante sobre el Data Center de Antel que se va a constuir en Canelones."
   },
   {
-    "blog": "El Sitio de Manieflo",
+    "blog": "Lo de Manieflo",
     "titulo": "Si!, Estamos En Un Webring En Castellano",
     "link": "https://elprofejuan.com.ar/siii-estamos-el-un-webring",
     "fecha": "16/09/2026 02:28",
@@ -1722,13 +1736,6 @@
     "contenido": "Elige al animal más adorable, coge las riendas de tu carromato y explora este bonito mundo mientras repartes felicidad\nLa entrada Análisis de Cozy Caravan se publicó primero en CozyKis."
   },
   {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 37.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-37/",
-    "fecha": "11/09/2026 10:18",
-    "contenido": "Doctor Nómada (décimo tercera parte)\n\nLeer la décimo segunda parte\n\nDoctor Nómada (décimo tercera parte)\nSi bien es cierto que no nací en la época de los grandes avances tecnológicos; y hasta la debacle que me tiene en este pueblo; fui un apasionado de eso que parecía magia pura, y sobre la tecnolog"
-  },
-  {
     "blog": "matizeta",
     "titulo": "Lecturas recomendadas #10",
     "link": "https://matizeta.com/2026/09/11/lecturas-recomendadas-10/",
@@ -1974,6 +1981,13 @@
     "contenido": "[02] 09.26 Cuando decidí impulsar un poco la newsletter, no pensé en hacer mucho esfuerzo, más allá de ofrecer el sketchbook en físico y poca cosa más. Luego añadí el sketchbook en formato digital. Después rediseñé la página principal de la newsletter que pasó del minimalismo a algo más elaborado (c"
   },
   {
+    "blog": "Eterno aprendiz",
+    "titulo": "Paul Gilbert: WROC Tour 2026",
+    "link": "https://altgr.xyz/2026/09/07/paul-gilbert-wroc-tour-2026/",
+    "fecha": "07/09/2026 12:49",
+    "contenido": "El virtuosismo de Paul Gilbert en la guitarra. El ex guitarrista de Mr. Big se presentó en el Teatro Cariola con el tour de promoción de su más reciente disco solista: WROC. Un lujo de espectáculo. (Teatro Cariola, Santiago, viernes 4 de septiembre de 2026)"
+  },
+  {
     "blog": "Guillermo Latorre | Feed RSS",
     "titulo": "Exportify: exportación a CSV de tus listas de Spotify",
     "link": "https://guillermolatorre.com/clips/exportify-exportacion-a-csv-de-tus-listas-de-spotify",
@@ -2189,33 +2203,5 @@
     "link": "https://elrefugiodeunnerd.es/2026/09/03/por-que-deberias-comprar-una-consola-de-la-familia-3ds-en-2026/",
     "fecha": "03/09/2026 10:10",
     "contenido": "Ya hablé en mi microblog y comenté en mi Mastodon que tengo una Nintendo 2DS desde hace unos meses. La compré por unos 15€ sin cargador ni lápiz y con algún desperfecto, pero fue un trato genial. He llegado a la conclusión de que llevo unos meses usándola y creo que era hora de dedicarle [&#8230;]"
-  },
-  {
-    "blog": "NeoSite Blog",
-    "titulo": "Más allá del algoritmo: Mastodon, ActivityPub y la revolución de las redes sociales libres",
-    "link": "https://blog.neosite.com.ar/post/la-revolucion-de-las-redes-sociales-libres",
-    "fecha": "03/09/2026 00:00",
-    "contenido": ""
-  },
-  {
-    "blog": "El Sitio de Manieflo",
-    "titulo": "Cambio de estilo",
-    "link": "https://elprofejuan.com.ar/cambio-de-estilo",
-    "fecha": "02/09/2026 23:05",
-    "contenido": "Bueno, después de varios meses de intentar modificar, el sitio va quedando, igual no creo sea el definitivo, pero es lo que mas o menos pude acercar a lo que quiero.\n\n"
-  },
-  {
-    "blog": "Diego's Island",
-    "titulo": "Creando algo funcional.",
-    "link": "https://diegoaep.codeberg.page/blog/creando-algo-funcional/",
-    "fecha": "02/09/2026 19:35",
-    "contenido": "Sobre un proyecto sencillo pero funcional que estoy creando."
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Linux cumple 35 años",
-    "link": "https://thecheis.com/2026/09/02/linux-cumple-35-anos/",
-    "fecha": "02/09/2026 18:15",
-    "contenido": "El mundo de la tecnología está de enhorabuena. Concretamente Linux, que por estas fechas cumple 35 añazos, consolidándose junto a GNU como el proyecto de software libre más exitoso de la historia hasta el momento. De hecho, ambos casi no tendrían sentido el uno sin el otro, dando lugar a una simbios"
   }
 ]
