@@ -1,5 +1,21 @@
 [
   {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Noche de chicas",
+    "link": "https://escritura.social/mcallus/noche-de-chicas",
+    "fecha": "03/10/2026 20:15",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "Mantalon",
+    "titulo": "41ª Actualización — Reseñas de Another Code y El maestro que prometió[...]",
+    "link": "https://mantalon.neocities.org/logs",
+    "fecha": "03/10/2026 19:19",
+    "contenido": "Reseñas de Another Code y El maestro que prometió el mar subidas a logs!!! además, botón y webring de ¡Blog!¡Blog! añadidos a la página.",
+    "imagen": null
+  },
+  {
     "blog": "",
     "titulo": "Descansa en paz Ricardo.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/10/03/descansa-en-paz-ricardo/",
@@ -40,6 +56,14 @@
     "imagen": "https://i.imgur.com/ERtJMVl.png"
   },
   {
+    "blog": "labaudric",
+    "titulo": "audric subió 2 videos en GTA",
+    "link": "https://labaudric.net/videos/gta",
+    "fecha": "03/10/2026 09:40",
+    "contenido": " ",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6940/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261004%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261004T033856Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ac8fa5d3922945f020d3b8a052de58fe169d9d504e679af2161ee1b498476caf"
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Rebajas de Otoño de Steam.",
     "link": "https://cozykis.kisworld.es/rebajas-de-otono-de-steam-los-mejores-descuentos/",
@@ -53,6 +77,14 @@
     "link": "https://pepografo.com/leyenda-estrellas-castillo-segura-leon-extremadura/",
     "fecha": "03/10/2026 06:03",
     "contenido": "La leyenda cuenta que una misteriosa dama berberisca recorre cada noche las murallas del castillo de Segura de León intentando contar todas las estrellas para romper un antiguo encantamiento\nLa entrada La mujer que lleva siglos contados estrellas en un castillo de Extremadura se publicó primero en P",
+    "imagen": null
+  },
+  {
+    "blog": "Diego Cano",
+    "titulo": "Writeober: Copa",
+    "link": "https://blep.org/writeober--copa",
+    "fecha": "03/10/2026 00:00",
+    "contenido": "Pidió una copa de posca y unas aceitunas aliñadas y se acodó en la mesa mientras sus ojos recorrían el local. Había buscado la taberna más cochambrosa que hubiese en la villa costera y la clientela era acorde al establecimiento: una mezcla de marineros veteranos, estibadores del muelle, matones gené",
     "imagen": null
   },
   {
@@ -93,6 +125,14 @@
     "link": "https://interlan.ec/blog/2026/10/02/salon-de-la-fama-del-spam-16-un-minero-generoso/",
     "fecha": "02/10/2026 14:00",
     "contenido": "Tal vez y fui exagerado. Es cierto que ya no llegan tantos mensajes de spam ahora que he mejorado la seguridad. También es cierto que hay mas cosas interesantes en los logs, pero aun es posible encontrar joyitas mas elaboradas que aprovechan infraestructura pagada y reconocida. Pero vamos por partes",
+    "imagen": null
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Mis lecturas en septiembre de 2026",
+    "link": "https://pedrolr.es/blog/mis-lecturas-en-septiembre-de-2026/",
+    "fecha": "02/10/2026 13:47",
+    "contenido": "Siguiendo con la idea del post que hice sobre mis lecturas en agosto (enlace), añado aquí los libros que he leído en septiembre de 2026. Primero pongo una síntesis a modo de highlights: Libros leídos: 6. Formato: 1 en papel (16,67 %) y 5 en digital (83,33 %). 3 libros de literatura de montaña (50 [&",
     "imagen": null
   },
   {
@@ -288,19 +328,19 @@
     "imagen": "https://mataroa.blog/images/76b04aec.png"
   },
   {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "now",
-    "link": "https://vctrsnts.codeberg.page/now/",
-    "fecha": "30/09/2026 22:00",
-    "contenido": "📚 leyendo\n\n\n\n\n\n\n\n\n\n  \n    \n    \n      \n        \n          ▸ 2026-07-06: Los secretos de Hitler\n        \n      \n    \n      \n        \n          ▸ 2026-06-15: Por qué las mujeres disfrutan más del sexo bajo el socialismo\n        \n      \n    \n      \n        \n          ▸ 2026-06-01: Yo, Julia\n        \n  ",
-    "imagen": null
-  },
-  {
     "blog": "El escritorio de McAllus",
     "titulo": "Mis lecturas en septiembre de 2026",
     "link": "https://escritura.social/mcallus/mis-lecturas-en-septiembre-de-2026",
     "fecha": "30/09/2026 20:12",
     "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Botones 88x31px en el blog",
+    "link": "https://pedrolr.es/blog/botones-88x31px-en-el-blog/",
+    "fecha": "30/09/2026 16:03",
+    "contenido": "He abierto una página de botones 88x31px: pedrolr.es/blog/botones-88x31px. Reproduzco aquí gran parte de su contenido: Iba a haberlos puesto en el footer del blog, pero no me convencía cómo quedaba. A la vez, quería tener un espacio en el que se vean. Ya veré qué hago: de momento pongo este post y l",
     "imagen": null
   },
   {
@@ -384,14 +424,6 @@
     "imagen": null
   },
   {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Integrando Memos con Homepage",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-09-30-memos-homepage/",
-    "fecha": "29/09/2026 22:00",
-    "contenido": "Otro artículo más con respecto a Memos, pero, en este caso, uno que no pensaba que iba a necesitar.\nPero cuando te pones a investigar, el «hasta aquí» nunca acaba cumpliéndose y lo entenderéis al leer esta nueva entrada. Pero antes de continuar, tengo que hacer un pequeño inciso.\nSi recordáis, en el",
-    "imagen": null
-  },
-  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "587. La diatriba chorra",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/09/587-la-diatriba-chorra.html",
@@ -428,7 +460,7 @@
     "titulo": "Casio W738H",
     "link": "https://matizeta.com/2026/09/29/casio-w738h/",
     "fecha": "29/09/2026 13:17",
-    "contenido": "El merecedor sucesor del W720.Entradas relacionadas:BastilleKodak CharmeraShanling M0 ProAmida DigitrendUnihertz Titan 2 Elite",
+    "contenido": "El merecedor sucesor del W720.Entradas relacionadas:Kodak CharmeraMighty 3Unihertz Titan 2 EliteIkko Mind One PhoneSidephone",
     "imagen": null
   },
   {
@@ -469,6 +501,14 @@
     "link": "https://www.delotroladometal.com.ar/2026/09/29/zamarbide-continua-su-gira-y-se-viene-la-cumbre-del-metal/",
     "fecha": "29/09/2026 10:35",
     "contenido": "Alberto Zamarbide decidió para este año rememorar al disco &#8220;El Fin De Los Inicuos&#8221; de...\nThe post El Tour 40th Aniversario De \"El Fin De Los Inicuos\" Sigue Su Marcha | Zamarbide Continua Su Gira Y Se Viene La Cumbre Del Metal first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Four days in Amsterdam",
+    "link": "https://www.ericafustero.com/2026-09-four-days-in-amsterdam",
+    "fecha": "29/09/2026 08:39",
+    "contenido": "A finales de agosto, Javier y yo pasamos cuatro días en Ámsterdam. Íbamos sin más intención que pasear, hacer fotos y comer en sitios ricos, propósitos que cumplimos con bastante éxito. Además, yo llevaba preparada una lista de tiendas de fotografía con la intención de visitarlas todas. Nos quedó al",
     "imagen": null
   },
   {
@@ -605,7 +645,7 @@
     "link": "https://labaudric.net/videos/gta/6935",
     "fecha": "27/09/2026 18:29",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6935/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261003%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261003T153102Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=54924bc1f4d32961f93933304052a5d462b076710ff8e895a3bb3dd3abbbc6a5"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6935/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261004%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261004T033856Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e2f7fa0c760eb1c4790bde51acc558dfb19fec5d24444a67f014630398f8123a"
   },
   {
     "blog": "Eterno aprendiz",
@@ -686,69 +726,5 @@
     "fecha": "27/09/2026 06:49",
     "contenido": "la diferencia de una situación cuando se da en la ciudad o en el pueblo. De cómo prefieren que tengas la medicación a tiempo antes que hacer una venta.",
     "imagen": "https://0.gravatar.com/avatar/99d2b8d8a891bd17f1a786fb1fdb3b984790baaa8ed049b905a5f1d62990e3a2?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Si dios te da limones",
-    "titulo": "Actualización: Pixelfed y la ia",
-    "link": "https://sidiostedalimones.com/blog/2026/aqui-me-bajo-yo/",
-    "fecha": "27/09/2026 00:00",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Producción finalizada con éxito",
-    "link": "https://blog.danielaragay.net/produccion-finalizada-con-exito/",
-    "fecha": "26/09/2026 23:00",
-    "contenido": "Nuevo episodio del podcast: Producci&#xf3;n finalizada con &#xe9;xitoEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/produccion-finalizada-con-exito",
-    "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Cambiamos la licencia de la web",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-09-27-cambio-licencia/",
-    "fecha": "26/09/2026 22:00",
-    "contenido": "Os preguntaréis a qué viene este artículo que habla sobre un cambio de licencia en mi web. Si os habéis fijado con anterioridad, la licencia de mi web estaba basada en esta licencia de Creative Commons - CC BY-NC 4.0, en base a la libre circulación de los artículos que voy creando, pero no permitía ",
-    "imagen": null
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "¿Se podría haber evitado el desahucio de Maricarmen? Así protegen el hogar en Suecia y el resto de Europa",
-    "link": "https://blog.danielaragay.net/se-podria-haber-evitado-el-desahucio-de-maricarmen-asi-protegen-el-hogar-en-suecia-y-el-resto-de-europa/",
-    "fecha": "26/09/2026 21:02",
-    "contenido": "Maricarmen pagaba su alquiler y aun así perdió su casa tras setenta años. Vivo en Suecia y sé que allí un caso así habría chocado contra tres muros legales. Te explico cuáles son, y también por qué el modelo sueco tiene sus propias grietas.",
-    "imagen": "https://images.unsplash.com/photo-1762126242240-cafa01fb1351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxlbGRlcmx5JTIwd29tYW4lMjB3aW5kb3d8ZW58MHx8fHwxNzkwNDU2NTMzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-  },
-  {
-    "blog": "Pepógrafo",
-    "titulo": "La moto que mi madre nunca me compró",
-    "link": "https://pepografo.com/tres-enganos-dos-de-tres/",
-    "fecha": "26/09/2026 19:33",
-    "contenido": "Noventa y un años tenía mi madre cuando decidió morirse. Lo hizo después de dejar los cacharros de la cena limpios, la cocina recogida, por si viene el médico, y el rosario de por la tarde rezado, con las cuentas negras relucientes de puro gastadas. También había recogido la ropa de la plancha y hec",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Bleach - Sennen Kessen Hen Ketsubetsu Tan (Saga dos, 2/4 anime)",
-    "link": "https://labaudric.net/blog/anime/bleach-sennen-Kessen-hen-ketsubetsu-tan",
-    "fecha": "26/09/2026 19:25",
-    "contenido": "\nParte 2/4\n\nBueno, segunda parte de esta segunda saga. Empieza dejando claro algo que me perturbó en la escena post crédito (cabrones...) del último capítulo de la parte anterior: el malo no es el padre de Ishida, no como tal. Es el padre \"espiritualmente\" hablando de todos los Quincies. De hecho, e",
-    "imagen": "https://labaudric.net/img/bleach-sennen_kessen_hen/01.jpg"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 39 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/09/26/opensuse-tumbleweed-revision-de-la-semana-39-de-2026/",
-    "fecha": "26/09/2026 15:42",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "585. Infectado",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/09/586-infectado.html",
-    "fecha": "26/09/2026 15:39",
-    "contenido": "&nbsp; &nbsp; Los numerosos y huracanados estornudos de ayer fueron un claro indicador de cómo me iba a encontrar al día siguiente.&nbsp; &nbsp; Hoy me he levantado con la mente embotada, los ojos llorosos, la garganta irritada, la nariz tapada y un dolor muscular generalizado.&nbsp; &nbsp; Me he im",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv89IpD61v8mJ_OLzM93PipjUFRKqhtZhpq0D2Ktm72TvDvuKyKtnQ_ieb9sttDb4kU4X287-CPyQvzeCNJI9fIULTBGuRWQX3O-jXTx5Lh-6gMDYv6XiG8iCo6aKaOBRYCWa5eFIwOLlYZPC0uxStnk61riAOhyphenhyphen4QArImOaPONmsr2CzU9MA-Bx7Kb7Tu/s72-c/447e3890-58ca-4b89-8e08-84315cca41b4_320x240.jpg"
   }
 ]
