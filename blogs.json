@@ -1,5 +1,12 @@
 [
-
+{
+  "Nombre": "Hecho por humano",
+  "Url": "https://blog.hechoporhumano.nohost.me/",
+  "Feed": "https://blog.hechoporhumano.nohost.me/rss.xml",
+  "Descripción": "Escribo acerca del impacto de la IA en la vida cotidiana de los usuarios. Una mirada crítica a su uso como encabeza el titulo de su página principal.",
+  "Categoría": "Tecnología,Vida Diaria",
+  "País": "España"
+},
 {
   "Nombre": "iforest",
   "Url": "https://iforest.bearblog.dev",
