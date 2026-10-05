@@ -1,10 +1,58 @@
 [
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Lázaro: No Más Vendas | Quitando Las Vendas De Los Ojos",
-    "link": "https://www.delotroladometal.com.ar/2026/10/04/quitando-las-vendas-de-los-ojos/",
-    "fecha": "04/10/2026 10:57",
-    "contenido": "(1997 &#8211; Independiente) Lo denominado como &#8220;White Metal&#8221; en Argentina siempre fue algo muy marginal,...\nThe post Lázaro: No Más Vendas | Quitando Las Vendas De Los Ojos first appeared on Del Otro Lado Metal.",
+    "blog": "JavierSam",
+    "titulo": "“Una alianza para custodiar lo humano”",
+    "link": "https://javiersam.uy/2026/10/una-alianza-para-custodiar-lo-humano.html",
+    "fecha": "05/10/2026 03:00",
+    "contenido": "&#8230; Vivimos en la época de los motores de búsqueda, que en un segundo nos ofrecen miles de respuestas. Pero estos, por poderosos que sean, devuelven lo que ya existe y tienden a darnos lo que ya queremos. En la era de la técnica y del consumo, el gran peligro ya no es solamente la censura, sino ",
+    "imagen": null
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Haiku Beta 6",
+    "link": "https://nevat.neocities.org/haikub6_05102026.html",
+    "fecha": "05/10/2026 00:00",
+    "contenido": "En el mundo de los SO de código abierto hay vida más allá de Linux. Tenemos (entre otros) a los diferentes BSD. ReactOS y Haiku. Vamos a revisar este último en un ordenador y ver hasta donde llega.",
+    "imagen": null
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Problemas con el estudio, nuevo restaurante y llamando a la policía",
+    "link": "https://blog.danielaragay.net/problemas-con-el-estudio-nuevo-restaurante-y-llamando-a-la-policia/",
+    "fecha": "04/10/2026 23:00",
+    "contenido": "Nuevo episodio del podcast: Problemas con el estudio, nuevo restaurante y llamando a la polic&#xed;aEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/problemas-con-el-estudio-nuevo-restaurante-y-llamando-a-la-policia",
+    "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
+  },
+  {
+    "blog": "Sin nombre",
+    "titulo": "Última función",
+    "link": "https://martinvukovic.com/posts/2026/10-04-ultima-funcion.html",
+    "fecha": "04/10/2026 22:15",
+    "contenido": "Un encuentro desafortunado.",
+    "imagen": null
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "República Bananera de España: ¡Hasta luego Maricarmen!",
+    "link": "https://mareosdeungeek.es/republica-bananera-de-espana-hasta-luego-maricarmen/",
+    "fecha": "04/10/2026 20:55",
+    "contenido": "Sirva de aclaración, que aunque en esta entrada denuncie la utilización y politización de esta señora, el único uso de su nombre va a ser el título. Y como justificación, sirva esta explicación de una expresión muy de los 90. Dicho esto, empecemos. La última semana en España ha sido una locura, se h",
+    "imagen": null
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "De Vuelta a la Vida de Ciudadano de a Pie",
+    "link": "https://altgr.xyz/2026/10/04/de-vuelta-a-la-vida-de-ciudadano-de-a-pie/",
+    "fecha": "04/10/2026 16:59",
+    "contenido": "He vuelto a ser un ciudadano de a pie después de muchos años de haber caído en la casi viciosa comodidad del auto. Me resultó menos difícil de lo que esperaba, aunque la motivación fue forzada. Lo pensé en varias ocasiones durante todo este tiempo, pero la comodidad y flojera ganaban siempre &#8211;",
+    "imagen": null
+  },
+  {
+    "blog": "eaplmx",
+    "titulo": "Sobre camisetas",
+    "link": "https://text.eapl.mx/sobre-camisetas",
+    "fecha": "04/10/2026 16:16",
+    "contenido": "",
     "imagen": null
   },
   {
@@ -13,15 +61,23 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "04/10/2026 08:35",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261004%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261004T161451Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=93d1c166f2c703bd39a7c42d36c1814fa0ca9c94eb1460ca1288d867dc5abf8e"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261005%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261005T032215Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a7fc6bb7d13b6be436b0ed559155ad860b154076d6591955bee47543ee70de52"
   },
   {
     "blog": "THE_CHEI$",
     "titulo": "Probando (y mejorando) la interfaz Nova de Firefox en GNOME",
     "link": "https://thecheis.com/2026/10/04/probando-y-mejorando-la-interfaz-nova-de-firefox/",
     "fecha": "04/10/2026 07:02",
-    "contenido": "Firefox 157 ya está entre nosotros y, entre muchas novedades, incorpora uno de los mayores rediseños en años, que ha sido bautizado como Nova. El caso es que, hasta ahora, yo usaba Firefox GNOME Theme para integrarlo con el escritorio, pero su falta de actualizaciones ha hecho que empiece a fallar e",
+    "contenido": "Firefox 157 ya está entre nosotros y, entre muchas novedades, incorpora uno de los mayores rediseños en años, que ha sido bautizado como Nova. El caso es que, hasta ahora, yo usaba Firefox GNOME Theme para integrarlo en dicho escritorio, pero su falta de actualizaciones ha hecho que empiece a fallar",
     "imagen": "https://thecheis.com/wp-content/uploads/2026/10/firefox-nova-157-01.png"
+  },
+  {
+    "blog": "Diego Cano",
+    "titulo": "Writeober: Castillo",
+    "link": "https://blep.org/writeober--castillo",
+    "fecha": "04/10/2026 00:00",
+    "contenido": "Tras varios días andando sin cruzarse con nadie, Q llegó a una playa de piedras. El sol, ya bajando hacia el horizonte, arrancaba reflejos al mar que llenaban sus ojos de lágrimas cuando lo miraba. La decisión de girar hacia el norte fue guiada, más que nada, porque así le cegaba menos la luz.\n\nReco",
+    "imagen": null
   },
   {
     "blog": "El escritorio de McAllus",
@@ -53,22 +109,6 @@
     "link": "https://fixionauta.net/2026/10/03/226226/",
     "fecha": "03/10/2026 12:30",
     "contenido": "Acabo de dar de alta una página con dibujos e ilustraciones que pueden servir como complemento a material que busque difundir el Fediverso y Mastodon: https://fixionauta.net/fedi/ Me he dado tiempo (aunque no el que quisiera) para armarla, en vista de lo que ha comentado @vamonosjuntas en días recie",
-    "imagen": null
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "No tienes que meterte presión, si no tienes nada bueno no lo escribas",
-    "link": "https://elrefugiodeunnerd.es/2026/10/03/no-tienes-que-meterte-presion-si-no-tienes-nada-bueno-no-lo-escribas/",
-    "fecha": "03/10/2026 11:36",
-    "contenido": "Creo que una de las principales razones por las que me cambié de mi blog anterior a este era la presión. (Aunque no lo hiciera) antes sentía que tenía que publicar porque iba a perder el poco público que tenía, me iban a abandonar, no iban a volver nunca etc. Cuando migré a este nuevo [&#8230;]",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Trytan: Alliance: The Best Of Trytan | Una Alianza Para Volver A Descubrir",
-    "link": "https://www.delotroladometal.com.ar/2026/10/03/una-alianza-para-volver-a-descubrir/",
-    "fecha": "03/10/2026 11:30",
-    "contenido": "(2025 &#8211; Retroactive Records) No, quedénsen tranquilos. No estamos hablando de &#8220;La Alianza&#8221; (un viejo...\nThe post Trytan: Alliance: The Best Of Trytan | Una Alianza Para Volver A Descubrir first appeared on Del Otro Lado Metal.",
     "imagen": null
   },
   {
@@ -184,14 +224,6 @@
     "imagen": null
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Escuchamos \"Dream II\" Y Te Contamos De Qué Se Trata | Adornes Graves Está De Estreno",
-    "link": "https://www.delotroladometal.com.ar/2026/10/02/adornes-graves-esta-de-estreno/",
-    "fecha": "02/10/2026 10:35",
-    "contenido": "Los alemanes Adorned Graves son una de las bandas que mas nos ha gustado en...\nThe post Escuchamos \"Dream II\" Y Te Contamos De Qué Se Trata | Adornes Graves Está De Estreno first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – octubre de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/10/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-octubre-de-2026/",
@@ -294,14 +326,6 @@
     "fecha": "01/10/2026 11:33",
     "contenido": "\n\n\n  \n    DANIEL OMAR CIGNACCO\n    \n      M47\n    \n    \n      El libro que llega volando\n    \n  \n\n  \n    Pérez Molina tiene una paloma.\n  \n\n  \n    Se llama M47.\n  \n\n  \n    Y ahora tiene una misión.\n  \n\n  \n    Llevar hasta vos un ejemplar de\n    El colombófilo de Flores y la cifra infinita,\n    la no",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWGcjLAivfsePxwhEj8cX2ZQt5kiKFdwx_JrctxplBhYk9JA2MPDGmHg7fo6fFNJ-d6V0TWSALUKDpFjxP8RIGGm7jd2mdlOsYBVno4O6vVtfUpwQwXKmT1bqyh4ZMkyhSPNMNXdpt9JZccT_wmgi_Phws9ApgC34P39EgL8I6k_mIumx8FANmGZw9tx1e/s72-c/colom.png"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Pasado No Se Mancha",
-    "link": "https://www.delotroladometal.com.ar/2026/10/01/el-pasado-no-se-mancha/",
-    "fecha": "01/10/2026 10:35",
-    "contenido": "&#8220;Antes te metías en internet para escapar del mundo real. Ahora sales al mundo real...\nThe post El Pasado No Se Mancha first appeared on Del Otro Lado Metal.",
-    "imagen": null
   },
   {
     "blog": "El escritorio de McAllus",
@@ -408,27 +432,11 @@
     "imagen": null
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Inflamed Sword: Nox Fletus, Mane Gaudii | Huele A Espíritu Extremo",
-    "link": "https://www.delotroladometal.com.ar/2026/09/30/huele-a-espiritu-extremo/",
-    "fecha": "30/09/2026 11:00",
-    "contenido": "(2026 &#8211; Independiente) Dentro de las expresiones del Black Metal, la faz correspondiente a la...\nThe post Inflamed Sword: Nox Fletus, Mane Gaudii | Huele A Espíritu Extremo first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Pixelfed y el episodio de bazofIA",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/30/20260930-pixelfed-bazofia/",
     "fecha": "30/09/2026 08:00",
     "contenido": "Dado el rumbo de decadencia que está siguiendo el proyecto, retiro mi apoyo a Pixelfed",
-    "imagen": null
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "Nos vemos en Pamplona",
-    "link": "https://brucknerite.net/2026/09/nos-vemos-en-pamplona.html",
-    "fecha": "30/09/2026 08:00",
-    "contenido": "El próximo sábado 3 de octubre a las 10.30, en el Civivox Pompelo (Pamplona), comienza Naukas Navarra Más Planeta Next-Gen, un nuevo evento Naukas en el que podréis verme casi, casi al final de la sesión de tarde, a las 19.10. ¡Acercaos si no os pilla muy lejos!",
     "imagen": null
   },
   {
@@ -544,14 +552,6 @@
     "imagen": null
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Tour 40th Aniversario De \"El Fin De Los Inicuos\" Sigue Su Marcha | Zamarbide Continua Su Gira Y Se Viene La Cumbre Del Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/09/29/zamarbide-continua-su-gira-y-se-viene-la-cumbre-del-metal/",
-    "fecha": "29/09/2026 10:35",
-    "contenido": "Alberto Zamarbide decidió para este año rememorar al disco &#8220;El Fin De Los Inicuos&#8221; de...\nThe post El Tour 40th Aniversario De \"El Fin De Los Inicuos\" Sigue Su Marcha | Zamarbide Continua Su Gira Y Se Viene La Cumbre Del Metal first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
     "blog": "Erica Fustero",
     "titulo": "Four days in Amsterdam",
     "link": "https://www.ericafustero.com/2026-09-four-days-in-amsterdam",
@@ -616,14 +616,6 @@
     "imagen": null
   },
   {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Histórico \"Time´s End\" Cumple 40 Años | Se Anuncia Una Re Edición De Lujo Para Saint",
-    "link": "https://www.delotroladometal.com.ar/2026/09/28/se-anuncia-una-re-edicion-de-lujo-para-saint/",
-    "fecha": "28/09/2026 10:35",
-    "contenido": "Hacía tiempo que no sabíamos nada de Saint. La banda sigue en pie batallando, tocando...\nThe post El Histórico \"Time´s End\" Cumple 40 Años | Se Anuncia Una Re Edición De Lujo Para Saint first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
     "blog": "Victorhck in the free world",
     "titulo": "openSUSE Leap 16.1 tendrá un modo inmutable que tomará el relevo a openSUSE Micro",
     "link": "https://victorhckinthefreeworld.com/2026/09/28/opensuse-leap-16-1-tendra-un-modo-inmutable-que-tomara-el-relevo-a-opensuse-micro/",
@@ -638,93 +630,5 @@
     "fecha": "28/09/2026 07:10",
     "contenido": "HestiaCP es un panel de control de código abierto diseñado para simplificar la administración de servidores web.",
     "imagen": "https://voidnull.es/content/images/2024/12/hestiacp-1.png"
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Ecosistema AdGuard: Home, VPN y DNS",
-    "link": "https://alt43.es/ecosistema-adguard-home-vpn-y-dns/",
-    "fecha": "28/09/2026 07:00",
-    "contenido": "AdGuard no es un único producto, sino un catálogo de varios: Home (servidor DNS autoalojado), VPN y DNS alojado son piezas independientes con arquitecturas, precios y limitaciones distintas. Repasamos cada una de ellas, su utilidad y comparativa con otras de similares.",
-    "imagen": null
-  },
-  {
-    "blog": "Lo de Manieflo",
-    "titulo": "Actualizar Un Servicio",
-    "link": "https://elprofejuan.com.ar/actualizar-un-servicio",
-    "fecha": "28/09/2026 02:20",
-    "contenido": "Siempre dije, docker es muy sencillo y fácil de mantener, claro, si lo sabés actualizar y no dejás que ordenes de versiones mayores se interponen en el camino....\n\n",
-    "imagen": "https://elprofejuan.com.ar/bl-content/uploads/pages/413bf909b40a6dd7989125a5f321f3a4/actualizarappDocker-jpg.jpg"
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Por qué hoy uso Fedora",
-    "link": "https://elblogdelazaro.org/por-que-hoy-uso-fedora/",
-    "fecha": "28/09/2026 02:00",
-    "contenido": "Por: Carlos M.Publicado el 28 de septiembre de 2026Reflexión personal sobre por qué, tras años de distrohopping y ver morir muchas distros, he acabado quedándome en Fedora.Continuar leyendo →#Arch #Linux #Fedora ",
-    "imagen": null
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "La nueva RENFE",
-    "link": "https://alex.corcoles.net/2026/09/la-nueva-renfe",
-    "fecha": "28/09/2026 00:00",
-    "contenido": "\n  \n    Web de \"la nueva Renfe\"\n  \n  Dice RENFE que van a arreglar su web. Ser&#237;a llamativo que RENFE arreglase algo que se ha convertido en una de las cosas que m&#225;s nos une en este pa&#237;s: el odio a comprar billetes de tren.\n  Mi primera queja es una paradoja. &#191;Ser&#225; eficaz des",
-    "imagen": null
-  },
-  {
-    "blog": "NevatBlog",
-    "titulo": "Fedora 45 Beta",
-    "link": "https://nevat.neocities.org/f45beta_28092026.html",
-    "fecha": "28/09/2026 00:00",
-    "contenido": "Ya está disponible la versión preliminar de esta distribución, así que es hora de revisar que cambios trae para un usuario común.",
-    "imagen": null
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "586. En el SAP",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/09/586-en-el-sap.html",
-    "fecha": "27/09/2026 22:00",
-    "contenido": "&nbsp; &nbsp; Turno de noche en el curro. Soy el «sapero» de mi equipo. Para ser más exactos, del equipo A.&nbsp; &nbsp; El jefe del equipo A no se llama Aníbal ni fuma puros —de hecho, está prohibido fumar—, pero sí tenemos a un chiflado. De hecho, hay seis equipos y, en cada uno de ellos, como mín",
-    "imagen": "https://img.youtube.com/vi/NfyulBBlEKA/default.jpg"
-  },
-  {
-    "blog": "El Sueño del Artista Blog",
-    "titulo": "Fahrenheit IA : cuando lo ficticio se convierte en la realidad.",
-    "link": "https://polotman.wordpress.com/2026/09/27/fahrenheit-ia-cuando-lo-ficticio-se-convierte-en-la-realidad/",
-    "fecha": "27/09/2026 18:54",
-    "contenido": "#Fahrenheit451 #InteligenciaArtificial #quemadeLibros #DestruciondeLibros #IA Si Ray Bradbury hubiera sabido que con sus libros estaría prediciendo&#160; uno de los tantos destinos que le depara a la humanidad por las consecuencias de sus propias y grandes acciones que ni los vaticinios de Michel de",
-    "imagen": "https://0.gravatar.com/avatar/f58f42a8ca6e81b1cc95d73653edbeae2c008abc237637349ab2d7f38b3dd4c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió GTA V - Preparando atraco en GTA",
-    "link": "https://labaudric.net/videos/gta/6935",
-    "fecha": "27/09/2026 18:29",
-    "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6935/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261004%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261004T161451Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1d5802b804dd596bdf85ad86dc2a7f22f5d7720c2e94225cb73285847d97ea22"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Extendiendo la vida útil de mi Samsung Galaxy Tab S6 Lite",
-    "link": "https://altgr.xyz/2026/09/27/extendiendo-la-vida-util-de-mi-samsung-galaxy-tab-s6-lite/",
-    "fecha": "27/09/2026 18:24",
-    "contenido": "⚠️ Ñoño Warning ⚠️ Esta publicación contiene lenguaje técnico propio de geeks y ñoños. Si decides continuar es bajo tu propia resposabilidad. (La lectura puede provocar ganas compulsivas de abrir una terminal) Tengo una tablet Samsung Galaxy Tab S6 Lite de 10 pulgadas, un modelo del año 2022 (SM-P61",
-    "imagen": null
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Ludo Ergo Sum 2026",
-    "link": "http://frikoteca.blogspot.com/2026/09/ludo-ergo-sum-2026.html",
-    "fecha": "27/09/2026 17:55",
-    "contenido": "El fin de semana pasado me lo pasé entero en las jornadas Ludo Ergo Sum. No he podido escribir antes sobre ello porque ha sido una semana entretenida en muchos sentidos, pero aquí estamos para hacer una pequeña crónica. Supongo que ya habréis leído otras, como por ejemplo, la de mi hermano, pero eso",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Semana complicada",
-    "link": "https://mareosdeungeek.es/semana-complicada/",
-    "fecha": "27/09/2026 17:00",
-    "contenido": "La vuelta a la rutina está siendo complicada. Verdaderamente, a lo mejor, es por agotamiento o síndrome post-vacacional. En todo caso, es un ciclo extraño: comienza con incomodidad, dejarse llevar, indiferencia, preocupaciones externas y dejadez. Cómo no quiero llegar a ese último punto, estoy escri",
-    "imagen": null
   }
 ]
