@@ -1,5 +1,69 @@
 [
   {
+    "blog": "Bitácora de fernand0",
+    "titulo": "Redes sociales, algoritmos y ¿el valor de la web abierta?",
+    "link": "https://blog.elmundoesimperfecto.com/2026/10/07/compasion-regulacion-educacion/",
+    "fecha": "07/10/2026 14:00",
+    "contenido": "\n\nSe habla mucho de la polarización de internet (y de lo que no es internet) y se asocia este problema con la existencia de las redes sociales y los algoritmos de recomendación. En Tim Berners-Lee: The internet needs compassion – and I have a solution se presenta un resumen de la visión del creador ",
+    "imagen": "https://live.staticflickr.com/65535/55553693201_c389f71a61_z.jpg"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Mi script en Bash para escuchar somafm en tu terminal",
+    "link": "https://victorhckinthefreeworld.com/2026/10/07/mi-script-en-bash-para-escuchar-somafm-en-tu-terminal/",
+    "fecha": "07/10/2026 13:30",
+    "contenido": "Script en Bash que muestra un listado con las emisoras de somafm permitiendo buscar y reproducir la deseada. Y mostrará la carátula del tema reproducido junto con un historial de reproducción",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "¿Cómo validar a los proveedores de productos de seguridad que incluyen IA?",
+    "link": "https://fernand0.github.io//guia-compra-ciberseguridad-ai/",
+    "fecha": "07/10/2026 12:44",
+    "contenido": "Ya había productos de ciberseguridad que decían utilizar la IA para protegernos antes de la explosión de la IA generativa: algunos CISOs apoyaban estas aproximaciones y otros las miraban con escepticismo. Sin embargo, ahora ya parece fuera de toda duda que la IA debe incluirse en el arsenal defensiv",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "La secta de los Free Palestine",
+    "link": "https://www.fabio.com.ar/10047-la-secta-de-los-free-palestine",
+    "fecha": "07/10/2026 12:00",
+    "contenido": "    \nSi le&eacute;s esto y el t&iacute;tulo te llena de furia, bien, sos parte de una secta, por ah&iacute; todav&iacute;a no lo sab&eacute;s (aunque creo que s&iacute;), pero sos un enfermo mental tambi&eacute;n 😁\nSupongo que hay tratamiento, posiblemente cura, pero no me importa, no va de eso este",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/fripali01.jpg"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Radiant Star - Ann Leckie",
+    "link": "https://nachof.blog/posts/2026/radiant-star/",
+    "fecha": "07/10/2026 11:00",
+    "contenido": "\n\n\nUna de las principales tragedias del mundo de la ciencia ficción es que existan tan pocos libros de Ann Leckie.\nLeckie hizo un gran impacto con su debut en el 2013, Ancillary Justice. Ancillary Justice es la historia del único fragmento superviviente de una inteligencia artificial que maneja cadá",
+    "imagen": "https://nachof.blog/posts/2026/radiant-star/cover.jpg"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Tundra Anuncia Su Nuevo EP | Un Eclipse Teñido De Deathcore",
+    "link": "https://www.delotroladometal.com.ar/2026/10/07/un-eclipse-tenido-de-deathcore/",
+    "fecha": "07/10/2026 10:35",
+    "contenido": "Es posible que muchos no conozcan a Tundra, y el desconocimiento está justificado. Son una...\nThe post Tundra Anuncia Su Nuevo EP | Un Eclipse Teñido De Deathcore first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "56K",
+    "titulo": "Deltha – La nueva «red social» moderada con IA",
+    "link": "https://56k.es/fanta/deltha-la-nueva-red-social-moderada-con-ia/",
+    "fecha": "07/10/2026 09:26",
+    "contenido": "El día 6 de Octubre del 2026 anunciaron en JotDown otra nueva red social llamada «Deltha«. Tras el curso de IA para «aprender a usar ChatGPT, Claude, Gemini y Perplexit en 2 horas a 35€» que ofrecía JotDown (con Ángel L. Fernández de profesor) ahora llega «La red social moderada con IA». Si buscamos",
+    "imagen": null
+  },
+  {
+    "blog": "Galerías Preciados",
+    "titulo": "Turbocapital",
+    "link": "https://galeriaspreciados.band/turbocapital/",
+    "fecha": "07/10/2026 09:00",
+    "contenido": "Estimados clientes, la entradilla que leerán a continuación es un texto de mi yo del pasado, ¿o es acaso mi yo del futuro advirtiéndome de mis atrocidades venideras? Dios mio que alguien lo pare!!",
+    "imagen": null
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Cómo es Shibuya en \"The World Ends With You\"",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/07/20261007-the-world-ends-with-you/",
@@ -8,12 +72,52 @@
     "imagen": null
   },
   {
+    "blog": "El escritorio de McAllus",
+    "titulo": "El viajero",
+    "link": "https://escritura.social/mcallus/el-viajero",
+    "fecha": "07/10/2026 07:17",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Ghost con ActivityPub utilizando Docker",
+    "link": "https://voidnull.es/instalacion-de-ghost-con-activitypub-utilizando-docker/",
+    "fecha": "07/10/2026 07:10",
+    "contenido": "Aprende a instalar Ghost con ActivityPub utilizando Docker y conecta tu blog directamente con el Fediverso.",
+    "imagen": "https://voidnull.es/content/images/2022/01/Ghost.png"
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Juguemos",
+    "link": "https://escritura.social/mcallus/juguemos",
+    "fecha": "07/10/2026 07:01",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "Fierro Viejo",
+    "titulo": "LazyJournal en Debian",
+    "link": "https://fierroviejo.com/2026/10/lazyjournal-en-debian.html",
+    "fecha": "07/10/2026 00:00",
+    "contenido": "LazyJournal disponible oficialmente en Debian.",
+    "imagen": null
+  },
+  {
+    "blog": "El Blog de un informático que sueña con mejorar el mundo",
+    "titulo": "Te cobro y te cabreo",
+    "link": "https://jesuspavonabian.es/post/tecobroytecabreo/",
+    "fecha": "07/10/2026 00:00",
+    "contenido": "Estoy hasta los cojones.\nEn el post de /e/OS os dije que lo de VoiceOver y sus regresiones daba para otro post. Pues aquí está. Vengo a quejarme otra vez, sí. Ya me conocéis.\nTengo un iPhone 17. No es un móvil barato precisamente. Y lo uso para todo: el banco, el correo, Mastodon&hellip; Como casi c",
+    "imagen": null
+  },
+  {
     "blog": "labaudric",
     "titulo": "audric subió 3 videos en Aion",
     "link": "https://labaudric.net/videos/aion",
     "fecha": "06/10/2026 16:02",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261007%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261007T033700Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=5520fbebc701ef6319dbab4bd62be1feb0d60e6cfd426cee9d6963adbcc4f63d"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261007%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261007T181335Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=019483b5c2800b658c274a83ffea6bf0a80a8633bc98232b7d0c50ed26f11bf6"
   },
   {
     "blog": "Fabio.com.ar",
@@ -40,11 +144,27 @@
     "imagen": null
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Theoptia: Undead Gods | Simple Y Efectivo",
+    "link": "https://www.delotroladometal.com.ar/2026/10/06/simple-y-efectivo/",
+    "fecha": "06/10/2026 10:35",
+    "contenido": "(2021/2022 &#8211; Unblack) Emanuel Strobel y su proyecto Theoptia ya habían pasado por este webzine,...\nThe post Theoptia: Undead Gods | Simple Y Efectivo first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
     "blog": "CozyKis",
     "titulo": "Análisis de The Merlies",
     "link": "https://cozykis.kisworld.es/analisis-de-the-merlies/",
     "fecha": "06/10/2026 10:33",
     "contenido": "Perfecto para echar un ratito tranquilo mientras exploramos diversos escenarios e intentamos reunir a este grupo de pajarillos The Merlies es un juego de plataformas inspirado en los metroidvanias, pero bastante más cozy, por lo que no esperéis ningún tipo de combate. Esto no quiere decir que no vay",
+    "imagen": null
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "La pirámide alimentaria… ¿del transporte?",
+    "link": "https://brucknerite.net/2026/10/la-piramide-alimentaria-del-transporte.html",
+    "fecha": "06/10/2026 08:00",
+    "contenido": "Aquí tenéis mi charla del pasado 3 de octubre en Pamplona. ¿Qué tiene que ver la famosa y problemática pirámide nutricional con el transporte? Adelante, servíos…",
     "imagen": null
   },
   {
@@ -112,6 +232,14 @@
     "imagen": "https://www.fabio.com.ar/images/reviews37/cheddar.jpg"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Hablamos Con David Aguirre Y Nos Cuenta La Actualidad De La Banda | Arje Vuelve Con Todo Y Con Disco Nuevo",
+    "link": "https://www.delotroladometal.com.ar/2026/10/05/arje-vuelve-con-todo-y-con-disco-nuevo/",
+    "fecha": "05/10/2026 10:35",
+    "contenido": "Desde la hermosa provincia de Jujuy, Argentina, Arje tiene su historia. Fundada aproximadamente en 2004,...\nThe post Hablamos Con David Aguirre Y Nos Cuenta La Actualidad De La Banda | Arje Vuelve Con Todo Y Con Disco Nuevo first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Newsletter #52 - Control del gasto de luz con HAos, instalamos Ollama y más tutoriales",
     "link": "https://voidnull.es/newsletter/newsletter-52-control-del-gasto-de-luz-con-haos-instalamos-ollama-y-mas-tutoriales/",
@@ -160,14 +288,6 @@
     "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
   },
   {
-    "blog": "Sin nombre",
-    "titulo": "Última función",
-    "link": "https://martinvukovic.com/posts/2026/10-04-ultima-funcion.html",
-    "fecha": "04/10/2026 22:15",
-    "contenido": "Un encuentro desafortunado.",
-    "imagen": null
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "República Bananera de España: ¡Hasta luego Maricarmen!",
     "link": "https://mareosdeungeek.es/republica-bananera-de-espana-hasta-luego-maricarmen/",
@@ -192,12 +312,20 @@
     "imagen": null
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Lázaro: No Más Vendas | Quitando Las Vendas De Los Ojos",
+    "link": "https://www.delotroladometal.com.ar/2026/10/04/quitando-las-vendas-de-los-ojos/",
+    "fecha": "04/10/2026 10:57",
+    "contenido": "(1997 &#8211; Independiente) Lo denominado como &#8220;White Metal&#8221; en Argentina siempre fue algo muy marginal,...\nThe post Lázaro: No Más Vendas | Quitando Las Vendas De Los Ojos first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
     "blog": "labaudric",
     "titulo": "audric subió 3 videos en GTA",
     "link": "https://labaudric.net/videos/gta",
     "fecha": "04/10/2026 08:35",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261007%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261007T033700Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a42ad85196ea32828fc8c95f85d40a3a5e94fe237705fc75d6d0fc6032d49cc6"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261007%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261007T181335Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b823a8f4ba9042c26973dcc98ac154e5b6cff4c24821fa72665b75b6d071ee01"
   },
   {
     "blog": "THE_CHEI$",
@@ -248,6 +376,22 @@
     "imagen": null
   },
   {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "No tienes que meterte presión, si no tienes nada bueno no lo escribas",
+    "link": "https://elrefugiodeunnerd.es/2026/10/03/no-tienes-que-meterte-presion-si-no-tienes-nada-bueno-no-lo-escribas/",
+    "fecha": "03/10/2026 11:36",
+    "contenido": "Creo que una de las principales razones por las que me cambié de mi blog anterior a este era la presión. (Aunque no lo hiciera) antes sentía que tenía que publicar porque iba a perder el poco público que tenía, me iban a abandonar, no iban a volver nunca etc. Cuando migré a este nuevo [&#8230;]",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Trytan: Alliance: The Best Of Trytan | Una Alianza Para Volver A Descubrir",
+    "link": "https://www.delotroladometal.com.ar/2026/10/03/una-alianza-para-volver-a-descubrir/",
+    "fecha": "03/10/2026 11:30",
+    "contenido": "(2025 &#8211; Retroactive Records) No, quedénsen tranquilos. No estamos hablando de &#8220;La Alianza&#8221; (un viejo...\nThe post Trytan: Alliance: The Best Of Trytan | Una Alianza Para Volver A Descubrir first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
     "blog": "iforest",
     "titulo": "perfil de discord actual",
     "link": "https://iforest.bearblog.dev/202610031251/",
@@ -286,6 +430,14 @@
     "fecha": "03/10/2026 00:00",
     "contenido": "Pidió una copa de posca y unas aceitunas aliñadas y se acodó en la mesa mientras sus ojos recorrían el local. Había buscado la taberna más cochambrosa que hubiese en la villa costera y la clientela era acorde al establecimiento: una mezcla de marineros veteranos, estibadores del muelle, matones gené",
     "imagen": null
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Forzar actualización de Docker Desktop en Linux Mint",
+    "link": "https://chancli.dev/blog/forzar-actualizacion-docker-desktop-linux-mint.html",
+    "fecha": "03/10/2026 00:00",
+    "contenido": "En mi equipo de sobre mesa, un PC con Linux Mint, utilizo Docker Desktop para gestionar algunos servicios que tengo auto alojados, como la instancia de Immich.\nEn el Mac del trabajo también lo uso y tengo que decir que este problema solo me pasa en mi Linux.\nCada vez que sale una actualización de se",
+    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/docker-desktop-force-update.png"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -357,6 +509,14 @@
     "link": "https://cozykis.kisworld.es/analisis-de-twinkleby/",
     "fecha": "02/10/2026 10:40",
     "contenido": "Explora diversas isla y descubre personajes y objetos lindos para crear y decorar escenarios idílicos\nLa entrada Análisis de Twinkleby se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Escuchamos \"Dream II\" Y Te Contamos De Qué Se Trata | Adornes Graves Está De Estreno",
+    "link": "https://www.delotroladometal.com.ar/2026/10/02/adornes-graves-esta-de-estreno/",
+    "fecha": "02/10/2026 10:35",
+    "contenido": "Los alemanes Adorned Graves son una de las bandas que mas nos ha gustado en...\nThe post Escuchamos \"Dream II\" Y Te Contamos De Qué Se Trata | Adornes Graves Está De Estreno first appeared on Del Otro Lado Metal.",
     "imagen": null
   },
   {
@@ -464,6 +624,14 @@
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWGcjLAivfsePxwhEj8cX2ZQt5kiKFdwx_JrctxplBhYk9JA2MPDGmHg7fo6fFNJ-d6V0TWSALUKDpFjxP8RIGGm7jd2mdlOsYBVno4O6vVtfUpwQwXKmT1bqyh4ZMkyhSPNMNXdpt9JZccT_wmgi_Phws9ApgC34P39EgL8I6k_mIumx8FANmGZw9tx1e/s72-c/colom.png"
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "El Pasado No Se Mancha",
+    "link": "https://www.delotroladometal.com.ar/2026/10/01/el-pasado-no-se-mancha/",
+    "fecha": "01/10/2026 10:35",
+    "contenido": "&#8220;Antes te metías en internet para escapar del mundo real. Ahora sales al mundo real...\nThe post El Pasado No Se Mancha first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
     "blog": "El escritorio de McAllus",
     "titulo": "Hojas negras",
     "link": "https://escritura.social/mcallus/hojas-negras",
@@ -525,78 +693,6 @@
     "link": "https://escritura.social/mcallus/mis-lecturas-en-septiembre-de-2026",
     "fecha": "30/09/2026 20:12",
     "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Botones 88x31px en el blog",
-    "link": "https://pedrolr.es/blog/botones-88x31px-en-el-blog/",
-    "fecha": "30/09/2026 16:03",
-    "contenido": "He abierto una página de botones 88x31px: pedrolr.es/blog/botones-88x31px. Reproduzco aquí gran parte de su contenido: Iba a haberlos puesto en el footer del blog, pero no me convencía cómo quedaba. A la vez, quería tener un espacio en el que se vean. Ya veré qué hago: de momento pongo este post y l",
-    "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "timeout: limita el tiempo de ejecución de comandos",
-    "link": "https://voidnull.es/timeout-limita-el-tiempo-de-ejecucion-de-comandos/",
-    "fecha": "30/09/2026 15:30",
-    "contenido": "Permite establecer un tiempo máximo de ejecución para otro comando",
-    "imagen": "https://voidnull.es/content/images/2022/01/cli.png"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Kew el reproductor de música minimalista e inmersivo para la terminal",
-    "link": "https://victorhckinthefreeworld.com/2026/09/30/kew-el-reproductor-de-musica-minimalista-e-inmersivo-para-la-terminal/",
-    "fecha": "30/09/2026 15:15",
-    "contenido": "El reproductor Kew está pensado para quien desea una experiencia limpia y sin distracciones a la hora de escuchar música de tu colección propia desde la terminal",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "WP Secure, un plugin libre para proteger tu Wordpress",
-    "link": "https://www.fabio.com.ar/10042-wp-secure-un-plugin-libre-para-proteger-tu-wordpress",
-    "fecha": "30/09/2026 12:00",
-    "contenido": "    \nUltimamente me he encontrado con numerosas ocasiones en las que un sitio con Wordpress es objetivo de un ataque sistem&aacute;tico para tratar de vulnerarlo. Hay muchos plugins dando vueltas para contener esto, pero la mayor&iacute;a deja algunas cosas para la versi&oacute;n paga.\nAs&iacute; qu",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/wp-secure-01.jpg"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Formas de escapar a las garras de la IA",
-    "link": "https://56k.es/fanta/formas-de-escapar-a-las-garras-de-la-ia/",
-    "fecha": "30/09/2026 11:24",
-    "contenido": "Hace un año o puede que más me puse a investigar formas de compartir contenidos, comunicarnos, &#8230; sin que esto terminase alimentando más a la bestia. He recopilado pues en este post algunas cosas que creo que pueden ayudar y otras simplemente servir de ejemplo de que otras tecnologías al margen",
-    "imagen": null
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Pixelfed y el episodio de bazofIA",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/30/20260930-pixelfed-bazofia/",
-    "fecha": "30/09/2026 08:00",
-    "contenido": "Dado el rumbo de decadencia que está siguiendo el proyecto, retiro mi apoyo a Pixelfed",
-    "imagen": null
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "SearXNG:  Mi propio buscador en Docker",
-    "link": "https://asturgeek.eu/2026/09/30/searxng-mi-propio-buscador-en-docker/",
-    "fecha": "30/09/2026 07:36",
-    "contenido": "Ya he comentado muchas veces que dejé de usar Google como buscador hace mucho tiempo, decantándome por DuckDuckGo por defecto.Tambien he probado Qwant y Startpage, por eso de la soberanía europea, pero los resultados no me gustaban. Siempre volvía al buscador del pato Sin embargo, descubrí, o mejor ",
-    "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Ollama en Ubuntu 26.04",
-    "link": "https://voidnull.es/instalacion-de-ollama-en-ubuntu-26-04/",
-    "fecha": "30/09/2026 07:10",
-    "contenido": "Instala Ollama en Ubuntu 26.04, descarga un modelo local y empieza a usar IA desde la terminal o mediante su API.",
-    "imagen": "https://voidnull.es"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "La furia (película)",
-    "link": "https://mareosdeungeek.es/la-furia-pelicula/",
-    "fecha": "30/09/2026 07:00",
-    "contenido": "La furia es una película dura, estrenada el año pasado y presente en los diferentes festivales y certámenes de España, teniendo una buena acogida. El largometraje, es el primero de Gemma Blasco, protagonizado por Ángela Cervantes y Àlex Monner. A Monner ya lo hemos visto en la serie de La Ruta y aqu",
     "imagen": null
   }
 ]
