@@ -1,5 +1,125 @@
 [
   {
+    "blog": "pedrolr blog",
+    "titulo": "Límites, normas y radicales en Mario Mendoza y Ocean Vuong",
+    "link": "https://pedrolr.es/blog/limites-normas-y-radicales-en-mario-mendoza-y-ocean-vuong/",
+    "fecha": "08/10/2026 17:51",
+    "contenido": "Acabé hace unos días el libro \"En la Tierra somos fugazmente grandiosos\" de Ocean Vuong. Vi que era poeta también y se nota en algunos párrafos que parecen poesía ciertamente. Me apunté muchas frases y extractos. Uno de esos extractos es este: Recuerda: las normas, como las calles, solo pueden lleva",
+    "imagen": null
+  },
+  {
+    "blog": "",
+    "titulo": "Aviso Importante.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/10/08/aviso-importante/",
+    "fecha": "08/10/2026 17:35",
+    "contenido": "",
+    "imagen": "https://0.gravatar.com/avatar/306e19f08d8518c022c73f6d5ff0a80ddbf5622a55b8887868d29bf280546143?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "Daniel Omar Cignacco",
+    "titulo": "El bug perfecto",
+    "link": "https://danielomarcignacco.blogspot.com/2026/10/el-bug-perfecto.html",
+    "fecha": "08/10/2026 15:10",
+    "contenido": "\n\n\n\n  \n    El bug perfecto\n    \n  \n\n  Al principio solo existía la Pantalla Negra. Luego, el Arquitecto tecleó la primera instrucción:\n\n  import conciencia\nhuman = Humano(origen=\"polvo_estelar\")\n\n  Compiló el código. Las articulaciones se ensamblaron en bucles for perfectamente iterados, los vasos s",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUenzP6MpX5V4Ic8VGM6ySHgOi32jJlRBN821EcdevFixdPGuNsZreP0eb4AVSH2eL1K4yix3QUPboB4vggbxqLQAVmVz5dI8HIjHQ8_w7s7-3FGKeBgxiRf6SYxFWuBHlFtbExmLOY3Q0FsB4RNNrG6BsA8mys4kldyIE_yYuOdzVI8qgwx3MH0ENcdUn/s72-c/hpy%20cuento.jpg"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Los 5 atajos de teclado más útiles para el editor Kate de #KDE",
+    "link": "https://victorhckinthefreeworld.com/2026/10/08/los-5-atajos-de-teclado-mas-utiles-para-el-editor-kate-de-kde/",
+    "fecha": "08/10/2026 14:55",
+    "contenido": "Comparto en este artículo los atajos de teclado que más utilizo cuando estoy usando el editor Kate de KDE",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió 2 videos en Aion",
+    "link": "https://labaudric.net/videos/aion",
+    "fecha": "08/10/2026 13:35",
+    "contenido": " ",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261008%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261008T181514Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b2e746bd72cc46b21f94cddb1b9bc49916099b8504ba2bbfc620770dce40723d"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #897",
+    "link": "https://www.fabio.com.ar/10048-ruleta-rusa-897",
+    "fecha": "08/10/2026 12:00",
+    "contenido": "     No esperes por las balas, ya est&aacute;n\nSi tuviera tiempo para darme cuenta que es jueves no s&eacute; si quedar&iacute;a el suficiente para crear la ruleta 😅, ah, menos mal que tengo un proceso bastante armado para esto y, si bien me lleva un rato, puedo hacerlo todas las semanas. Eso s&iacu",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/ruleta897.jpg"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Antestor: Martyrium | Un Puente De Un Extremo Al Otro",
+    "link": "https://www.delotroladometal.com.ar/2026/10/08/un-puente-de-un-extremo-al-otro/",
+    "fecha": "08/10/2026 10:35",
+    "contenido": "(1994/2000 &#8211; Endtime Productions) &#8220;Para aquellos de ustedes que nos desprecian, no creen en nosotros...\nThe post Antestor: Martyrium | Un Puente De Un Extremo Al Otro first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Ricoh GRIIIx: 3 years later",
+    "link": "https://www.ericafustero.com/2026-10-ricoh-griiix-3-years-later",
+    "fecha": "08/10/2026 09:05",
+    "contenido": "Hace tres años, me compré la Ricoh GRIIIx. Le di muchas vueltas a su compra, hablé de ello en el blog, ¡hasta le dediqué una animación! Pero ni de broma imaginaba lo mucho que esta cámara cambiaría mi forma de fotografiar. Three years ago, I bought the Ricoh GRIIIx. I spent ages thinking about wheth",
+    "imagen": null
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Guía Visual: Vela Maps vs Google Maps",
+    "link": "https://alt43.es/guia-visual-vela-maps-vs-google-maps/",
+    "fecha": "08/10/2026 08:59",
+    "contenido": "Vela Maps ofrece el tráfico, los horarios y la navegación de Google Maps sin cuenta, sin rastreo y sin Play Services. Te explicamos en tres infografías qué la diferencia de Google Maps, quién está detrás y cómo instalarla en Android",
+    "imagen": null
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Una cita tardía",
+    "link": "https://brucknerite.net/2026/10/una-cita-tardia.html",
+    "fecha": "08/10/2026 08:00",
+    "contenido": "Cuarenta y seis años después de una cita fallida en Valdepeñas, pasé por Castejón de Ebro un día de otoño. Reconozco que me entristeció.",
+    "imagen": null
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Más cacharros que me gustaría probar",
+    "link": "https://adrianperales.com/2026/10/mas-cacharros-que-me-gustaria-probar/",
+    "fecha": "08/10/2026 07:00",
+    "contenido": "Hace unos meses publiqué una entrada en la que hablaba de cacharros que me gustaría probar. Vamos con otra vuelta. Otro ratón ético Además de Ploopy, hay otro proyecto de ratón ético, europeo y mucho más barato que conocí gracias a Tirifto y sus Gutkatoj. El Fair Mouse. Ahora mismo estoy muy content",
+    "imagen": null
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Mantener a los burócratas",
+    "link": "https://jinversor.co/2026/10/mantener-a-los-burocratas/",
+    "fecha": "08/10/2026 04:10",
+    "contenido": "Comienzo a escribir este post a las 11:05 pm. No he dormido mucho en estos días porque tengo algunas preocupaciones. Intento adelantarme a unos hechos que quizás nunca pasen pero [&#8230;]\nLa entrada Mantener a los burócratas se publicó primero en Jinversor.",
+    "imagen": null
+  },
+  {
+    "blog": "Diego Cano",
+    "titulo": "Writeober: Bruma",
+    "link": "https://blep.org/writeober--bruma",
+    "fecha": "08/10/2026 00:00",
+    "contenido": "— Vallespeso tiene, visto desde lo alto, una forma alargada que se bifurca al llegar a lo alto, un poco como una i griega algo deformada. Verlo desde cualquiera de los montes que lo rodean es bastante espectacular, ya que está permanentemente sumido en una espesa bruma que impide ver su fondo. Parec",
+    "imagen": null
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "El dispositivo de culto",
+    "link": "https://alex.corcoles.net/2026/10/el-dispositivo-de-culto",
+    "fecha": "08/10/2026 00:00",
+    "contenido": "\n  \n    Escrib&#237; hace poco aqu&#237; sobre \"el dispositivo de obediencia\", un t&#233;rmino con el que intento encuadrar la manera en la que creo que hay que usar los ordenadores e Internet.\n  \n  Y aqu&#237; viene lo que ser&#237;a la otra parte; la ant&#237;tesis del dispositivo de obediencia es",
+    "imagen": null
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Como montar directorio remoto en Linux con Rclone",
+    "link": "https://chancli.dev/blog/montar-directorio-remoto-vps-en-linux.html",
+    "fecha": "08/10/2026 00:00",
+    "contenido": "Necesitaba una forma sencilla para montar un directorio de mi VPS en mi equipo con Linux.\nInvestigué un poco las opciones y al final decidí quedarme con Rclone.\n¿Por qué Rclone? Porque es open-source, está activamente mantenido y además, aunque no lo necesito de momento, soporta &gt;70 proveedores.\n",
+    "imagen": null
+  },
+  {
     "blog": "Un blog",
     "titulo": "Microscope: edición nueva en Kickstarter",
     "link": "https://nachof.blog/posts/2026/microscope-edicion-nueva-en-kickstarter/",
@@ -112,6 +232,14 @@
     "imagen": null
   },
   {
+    "blog": "Diego Cano",
+    "titulo": "Writeober: espectro",
+    "link": "https://blep.org/writeober--espectro",
+    "fecha": "07/10/2026 00:00",
+    "contenido": "Q se encuentra a un grupo de proto-científicos que han descubierto la descomposición del espectro luminoso del reflejo de distintas superficies y están intentando determinar la composición del universo a través de ello.\n\nSegún entró en aquella aldea, le llamó la atención un fuerte bullicio provenien",
+    "imagen": null
+  },
+  {
     "blog": "Fierro Viejo",
     "titulo": "LazyJournal en Debian",
     "link": "https://fierroviejo.com/2026/10/lazyjournal-en-debian.html",
@@ -133,7 +261,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "06/10/2026 16:02",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261008%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261008T035112Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=aaa02b4d586122568967765513632cb94ddaddc5db8f3214b6077a50519a98b6"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261008%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261008T181514Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0c188cedfd311e926833d1272c0b1d3bc1794fc6ba9763607d0b8ab0284f0cf5"
   },
   {
     "blog": "Fabio.com.ar",
@@ -229,6 +357,14 @@
     "link": "https://www.ericafustero.com/2026-10-zaragoza-fear-fest",
     "fecha": "05/10/2026 16:59",
     "contenido": "La semana pasada se anunció la programación de la nueva edición del Zaragoza Fear Fest, con quienes he vuelto a colaborar en la dirección de arte y el diseño de la cartelería.En esta ocasión, el festival rinde homenaje al folk horror, y la gráfica corre a cargo de Colectivo Escitalopram, quienes han",
+    "imagen": null
+  },
+  {
+    "blog": "Fixionauta",
+    "titulo": "",
+    "link": "https://fixionauta.net/2026/10/05/228226/",
+    "fecha": "05/10/2026 13:30",
+    "contenido": "Primera vez que publico algo de secuencia de mi autoría en años. El milagro ha sido gracias al Reto 4&#215;4 de este año, organizado por Almanaque NGM. La versión final (con el lettering) y el resto de las páginas las subiré una vez que se publique la antología con el trabajo de todas y todos [&#823",
     "imagen": null
   },
   {
@@ -349,7 +485,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "04/10/2026 08:35",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261008%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261008T035112Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c9f0d611619a5e37c8035b0ab874abf299148e112cf9ada5488c0ee1fca2596f"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261008%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261008T181514Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ca4808181418ff606e6b53f6dcd6381acd5bd0a0d44514b1e1565077e693b15a"
   },
   {
     "blog": "THE_CHEI$",
@@ -605,78 +741,6 @@
     "link": "http://www.esuntipazo.com/post/dejad-que-las-maquinas-mueran",
     "fecha": "01/10/2026 23:28",
     "contenido": "Hace unos días fui a ver la película: Metropolis, en una función especial musicalizada en vivo. Qué viaje tan gratificante para los sentidos. La música corrió a cargo de Denise Gutiérrez (Hello seahorse), Quique Rangel (Café tacvba) y Mike Sandoval. Un espectáculo sonoro entre la voz grave del dueto",
-    "imagen": null
-  },
-  {
-    "blog": "Tecno y Soft - Tecno y Soft",
-    "titulo": "La terminal y el analfabetismo informático moderno",
-    "link": "https://tecnoysoft.com/2026/10/01/la-terminal-y-el-analfabetismo-informatico-moderno/",
-    "fecha": "01/10/2026 15:56",
-    "contenido": "Hay algo que me resulta tan molesto como curioso de la informática moderna: hemos llegado a un punto en el que utilizar una terminal parece, para una buena parte de los usuarios, una especie de ritual arcaico reservado a programadores, hackers de película o nostálgicos de los años 80. Abrir una term",
-    "imagen": null
-  },
-  {
-    "blog": "El Blog de un informático que sueña con mejorar el mundo",
-    "titulo": "¿Se puede configurar desde el arranque /e/OS siendo una persona ciega?",
-    "link": "https://jesuspavonabian.es/post/configurar-eos-persona-ciega/",
-    "fecha": "01/10/2026 13:43",
-    "contenido": "Llevo unos días dándole vueltas a pillarme un Android sin Google como dispositivo secundario: mi principal sigue siendo un iPhone, con su VoiceOver y sus regresiones, que eso da para otro post. Me han comentado que estaría bien una app de Tu Guiador para Android y aunque me he negado siempre de form",
-    "imagen": null
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "Súbito otoño",
-    "link": "http://locutusbit.blogspot.com/2026/10/subito-otono_01672431461.html",
-    "fecha": "01/10/2026 12:00",
-    "contenido": "&nbsp;No vale un nudo furtivo debatiéndose en la derrota,que todo lo dicho&nbsp;sea suficiente o necesario,que esperar tenga sentido si no se tienen alas.No vale tener memoria más allá de las formas enloquecidas,de la cautela efímera,&nbsp;de la evidencia desnuda;más allá de las arrugas huérfanas de",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #896",
-    "link": "https://www.fabio.com.ar/10043-ruleta-rusa-896",
-    "fecha": "01/10/2026 12:00",
-    "contenido": "     El tr&aacute;fico de balas est&aacute; en marcha\nJueves! Semanita de arduo trabajo para m&iacute;, pero contento porque hoy, s&iacute; hoy, cumplo 16 a&ntilde;os de casado con Gime y, si bien eso no le importa a nadie, yo festejo y soy feliz, claro, que esta es una ruleta y las cosas personales",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/ruleta896.jpg"
-  },
-  {
-    "blog": "Daniel Omar Cignacco",
-    "titulo": "El colombófilo de Flores y la cifra infinita (Impreso)",
-    "link": "https://danielomarcignacco.blogspot.com/2026/10/el-colombofilo-de-flores-y-la-cifra.html",
-    "fecha": "01/10/2026 11:33",
-    "contenido": "\n\n\n  \n    DANIEL OMAR CIGNACCO\n    \n      M47\n    \n    \n      El libro que llega volando\n    \n  \n\n  \n    Pérez Molina tiene una paloma.\n  \n\n  \n    Se llama M47.\n  \n\n  \n    Y ahora tiene una misión.\n  \n\n  \n    Llevar hasta vos un ejemplar de\n    El colombófilo de Flores y la cifra infinita,\n    la no",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWGcjLAivfsePxwhEj8cX2ZQt5kiKFdwx_JrctxplBhYk9JA2MPDGmHg7fo6fFNJ-d6V0TWSALUKDpFjxP8RIGGm7jd2mdlOsYBVno4O6vVtfUpwQwXKmT1bqyh4ZMkyhSPNMNXdpt9JZccT_wmgi_Phws9ApgC34P39EgL8I6k_mIumx8FANmGZw9tx1e/s72-c/colom.png"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "El Pasado No Se Mancha",
-    "link": "https://www.delotroladometal.com.ar/2026/10/01/el-pasado-no-se-mancha/",
-    "fecha": "01/10/2026 10:35",
-    "contenido": "&#8220;Antes te metías en internet para escapar del mundo real. Ahora sales al mundo real...\nThe post El Pasado No Se Mancha first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Hojas negras",
-    "link": "https://escritura.social/mcallus/hojas-negras",
-    "fecha": "01/10/2026 08:41",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "Mi iPhone SE sigue aguantando",
-    "link": "https://adrianperales.com/2026/10/mi-iphone-se-sigue-aguantando/",
-    "fecha": "01/10/2026 07:00",
-    "contenido": "Me alegra decir que mi iPhone SE 3 de 2022 seguirá dando guerra una temporada más. En primer lugar, la batería (que he dos veces por una no oficial) vuelve a cargar al 100% y aguanta todo el día sin despeinarse. Por algún motivo solo se cargaba hasta el 90% y se descargaba con respirar [&#8230;]",
-    "imagen": null
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/09/30/225025/",
-    "fecha": "01/10/2026 04:30",
-    "contenido": "Música en septiembre. En esta ocasión me limitaré a destacar solo dos cosas: Live &#8211; Palau! de Maika Makovski, álbum en vivo grabado en marzo de este mismo año en el Palau de la Música (Barcelona), me encanta la música de Makovski y la energía que despide junto a sus invitados ha sido fantástic",
     "imagen": null
   }
 ]
