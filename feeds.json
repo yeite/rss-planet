@@ -1,5 +1,13 @@
 [
   {
+    "blog": "Un blog",
+    "titulo": "Microscope: edición nueva en Kickstarter",
+    "link": "https://nachof.blog/posts/2026/microscope-edicion-nueva-en-kickstarter/",
+    "fecha": "07/10/2026 23:00",
+    "contenido": "Microscope es uno de esos juegos que son brillantes por lo simple. La idea es juntarse un rato a crear un mundo, con toda su historia, llenando, en el orden que quieras, eras enteras, o eventos específicos, y metiendo de a poco los detalles que te van resultando interesantes.\nMicroscope salió hace a",
+    "imagen": null
+  },
+  {
     "blog": "Bitácora de fernand0",
     "titulo": "Redes sociales, algoritmos y ¿el valor de la web abierta?",
     "link": "https://blog.elmundoesimperfecto.com/2026/10/07/compasion-regulacion-educacion/",
@@ -30,6 +38,14 @@
     "fecha": "07/10/2026 12:00",
     "contenido": "    \nSi le&eacute;s esto y el t&iacute;tulo te llena de furia, bien, sos parte de una secta, por ah&iacute; todav&iacute;a no lo sab&eacute;s (aunque creo que s&iacute;), pero sos un enfermo mental tambi&eacute;n 😁\nSupongo que hay tratamiento, posiblemente cura, pero no me importa, no va de eso este",
     "imagen": "https://www.fabio.com.ar/images/reviews37/fripali01.jpg"
+  },
+  {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Hacer despensa: una lista.",
+    "link": "https://puedellevarqueso.es/2026/10/hacer-despensa-una-lista/",
+    "fecha": "07/10/2026 11:21",
+    "contenido": "Ya he hablado de que hay muchas razones para querer acumular comida, y cómo repartir el gasto. Ahora vamos a hacer un cálculo de cantidades de la mayor parte de alimentos que merecen la pena. Preferimos despensa a congelador, porque puedes guardar latas y botes herméticos en cualquier sitio, mientra",
+    "imagen": null
   },
   {
     "blog": "Un blog",
@@ -117,7 +133,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "06/10/2026 16:02",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261007%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261007T181335Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=019483b5c2800b658c274a83ffea6bf0a80a8633bc98232b7d0c50ed26f11bf6"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261008%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261008T035112Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=aaa02b4d586122568967765513632cb94ddaddc5db8f3214b6077a50519a98b6"
   },
   {
     "blog": "Fabio.com.ar",
@@ -288,6 +304,14 @@
     "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
   },
   {
+    "blog": "Sin nombre",
+    "titulo": "Última función",
+    "link": "https://martinvukovic.com/posts/2026/10-04-ultima-funcion.html",
+    "fecha": "04/10/2026 22:15",
+    "contenido": "Un encuentro desafortunado.",
+    "imagen": null
+  },
+  {
     "blog": "Mareos de un geek",
     "titulo": "República Bananera de España: ¡Hasta luego Maricarmen!",
     "link": "https://mareosdeungeek.es/republica-bananera-de-espana-hasta-luego-maricarmen/",
@@ -325,7 +349,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "04/10/2026 08:35",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261007%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261007T181335Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b823a8f4ba9042c26973dcc98ac154e5b6cff4c24821fa72665b75b6d071ee01"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261008%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261008T035112Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c9f0d611619a5e37c8035b0ab874abf299148e112cf9ada5488c0ee1fca2596f"
   },
   {
     "blog": "THE_CHEI$",
@@ -653,46 +677,6 @@
     "link": "https://fixionauta.net/2026/09/30/225025/",
     "fecha": "01/10/2026 04:30",
     "contenido": "Música en septiembre. En esta ocasión me limitaré a destacar solo dos cosas: Live &#8211; Palau! de Maika Makovski, álbum en vivo grabado en marzo de este mismo año en el Palau de la Música (Barcelona), me encanta la música de Makovski y la energía que despide junto a sus invitados ha sido fantástic",
-    "imagen": null
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Writeober: Hojarasca",
-    "link": "https://blep.org/writeober--hojarasca",
-    "fecha": "01/10/2026 00:00",
-    "contenido": "Los últimos años no habían sido fáciles. Todo empezó muy poco a poco, y era difícil a posteriori trazar una línea hasta la cual estaba todo bien y a partir de la cual empezó a torcerse. El hecho es que las cosas estaban muy torcidas y no había una solución obvia.\n\nMiró a su alrededor. Había casas en",
-    "imagen": null
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Writeober 2026?",
-    "link": "https://blep.org/writeober-2026",
-    "fecha": "01/10/2026 00:00",
-    "contenido": "Este año, en vez de Escritober, va a ser Writeober, que viene a ser lo mismo pero en inglés. En cualquier caso, yo he robado el modelo de McAllus, que a su vez lo ha tomado de Witchy Kat en Bluesky.\n\nNo garantizo que vaya a seguirlo bien, pero llevo tiempo con una bruma mental del copón y he pensado",
-    "imagen": "https://blep.org/images/writober2026.webp"
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Stack Overflow Emocional",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/stack-overflow-emocional/",
-    "fecha": "01/10/2026 00:00",
-    "contenido": "El día en que abrieron su tumba, no encontraron huesos ni mortaja, sino una interminable tira de cinta perforada que serpenteaba hasta perderse en la penumbra.\nMarcos no había vuelto con carne ni suspiros; revivió como sintaxis pura, una conciencia abstracta articulada en funciones, iteraciones y bl",
-    "imagen": "https://mataroa.blog/images/76b04aec.png"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "now",
-    "link": "https://vctrsnts.codeberg.page/now/",
-    "fecha": "30/09/2026 22:00",
-    "contenido": "📚 leyendo\n\n\n\n\n\n\n\n\n\n  \n    \n    \n      \n        \n          ▸ 2026-07-06: Los secretos de Hitler\n        \n      \n    \n      \n        \n          ▸ 2026-06-15: Por qué las mujeres disfrutan más del sexo bajo el socialismo\n        \n      \n    \n      \n        \n          ▸ 2026-06-01: Yo, Julia\n        \n  ",
-    "imagen": null
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Mis lecturas en septiembre de 2026",
-    "link": "https://escritura.social/mcallus/mis-lecturas-en-septiembre-de-2026",
-    "fecha": "30/09/2026 20:12",
-    "contenido": "",
     "imagen": null
   }
 ]
