@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 09 Oct 2026 03:34:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 12:15:07 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -130,20 +130,20 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Escrib&amp;#237; hace poco aqu&amp;#237; sobre &quot;el dispositivo de obediencia&quot;, un t&amp;#233;rmino con el que intento encuadrar la manera en la que creo que hay que usar los ordenadores e Internet. Y aqu&amp;#237; viene lo que ser&amp;#237;a la otra parte; la ant&amp;#237;tesis del dispositivo de obediencia es<br><br><strong>Fuente:</strong> El blog es mío]]></description>
 </item>
 <item>
-<title>Como montar directorio remoto en Linux con Rclone</title>
-<link>https://chancli.dev/blog/montar-directorio-remoto-vps-en-linux.html</link>
-<guid isPermaLink="true">https://chancli.dev/blog/montar-directorio-remoto-vps-en-linux.html</guid>
-<pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-<category>Chancli.dev</category>
-<description><![CDATA[Necesitaba una forma sencilla para montar un directorio de mi VPS en mi equipo con Linux. Investigué un poco las opciones y al final decidí quedarme con Rclone. ¿Por qué Rclone? Porque es open-source, está activamente mantenido y además, aunque no lo necesito de momento, soporta &amp;gt;70 proveedores.<br><br><strong>Fuente:</strong> Chancli.dev]]></description>
-</item>
-<item>
 <title>Microscope: edición nueva en Kickstarter</title>
 <link>https://nachof.blog/posts/2026/microscope-edicion-nueva-en-kickstarter/</link>
 <guid isPermaLink="true">https://nachof.blog/posts/2026/microscope-edicion-nueva-en-kickstarter/</guid>
 <pubDate>Wed, 07 Oct 2026 23:00:00 GMT</pubDate>
 <category>Un blog</category>
 <description><![CDATA[Microscope es uno de esos juegos que son brillantes por lo simple. La idea es juntarse un rato a crear un mundo, con toda su historia, llenando, en el orden que quieras, eras enteras, o eventos específicos, y metiendo de a poco los detalles que te van resultando interesantes. Microscope salió hace a<br><br><strong>Fuente:</strong> Un blog]]></description>
+</item>
+<item>
+<title>Desgooglezando mi vida (II): el correo, por fin</title>
+<link>https://jesuspavonabian.es/post/desgooglezando-mi-vida-2-correo/</link>
+<guid isPermaLink="true">https://jesuspavonabian.es/post/desgooglezando-mi-vida-2-correo/</guid>
+<pubDate>Wed, 07 Oct 2026 22:00:00 GMT</pubDate>
+<category>El Blog de un informático que sueña con mejorar el mundo</category>
+<description><![CDATA[Hace casi tres años escribí Desgooglezando mi vida. En aquel post os contaba lo contentísimo que estaba con ProtonMail. Y hace nada tuve que volver a editarlo para poner que lo había dejado y que le seguía dando vueltas al correo. Pues se acabaron las vueltas. Ya tengo correo. Qué buscaba Usar mi pr<br><br><strong>Fuente:</strong> El Blog de un informático que sueña con mejorar el mundo]]></description>
 </item>
 <item>
 <title>Redes sociales, algoritmos y ¿el valor de la web abierta?</title>
@@ -178,14 +178,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Si le&amp;eacute;s esto y el t&amp;iacute;tulo te llena de furia, bien, sos parte de una secta, por ah&amp;iacute; todav&amp;iacute;a no lo sab&amp;eacute;s (aunque creo que s&amp;iacute;), pero sos un enfermo mental tambi&amp;eacute;n 😁 Supongo que hay tratamiento, posiblemente cura, pero no me importa, no va de eso este<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
 </item>
 <item>
-<title>Hacer despensa: una lista.</title>
-<link>https://puedellevarqueso.es/2026/10/hacer-despensa-una-lista/</link>
-<guid isPermaLink="true">https://puedellevarqueso.es/2026/10/hacer-despensa-una-lista/</guid>
-<pubDate>Wed, 07 Oct 2026 11:21:00 GMT</pubDate>
-<category>¿Hay algo que no mejore con queso?</category>
-<description><![CDATA[Ya he hablado de que hay muchas razones para querer acumular comida, y cómo repartir el gasto. Ahora vamos a hacer un cálculo de cantidades de la mayor parte de alimentos que merecen la pena. Preferimos despensa a congelador, porque puedes guardar latas y botes herméticos en cualquier sitio, mientra<br><br><strong>Fuente:</strong> ¿Hay algo que no mejore con queso?]]></description>
-</item>
-<item>
 <title>Radiant Star - Ann Leckie</title>
 <link>https://nachof.blog/posts/2026/radiant-star/</link>
 <guid isPermaLink="true">https://nachof.blog/posts/2026/radiant-star/</guid>
@@ -216,6 +208,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
 <category>Galerías Preciados</category>
 <description><![CDATA[Estimados clientes, la entradilla que leerán a continuación es un texto de mi yo del pasado, ¿o es acaso mi yo del futuro advirtiéndome de mis atrocidades venideras? Dios mio que alguien lo pare!!<br><br><strong>Fuente:</strong> Galerías Preciados]]></description>
+</item>
+<item>
+<title>Cómo es Shibuya en &quot;The World Ends With You&quot;</title>
+<link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/07/20261007-the-world-ends-with-you/</link>
+<guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/07/20261007-the-world-ends-with-you/</guid>
+<pubDate>Wed, 07 Oct 2026 08:00:00 GMT</pubDate>
+<category>ENTRE DRAGONES Y PINGÜINOS</category>
+<description><![CDATA[The World Ends With You es una historia sobre límites e interacción humana<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
 </item>
 
 </channel>
