@@ -37,7 +37,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "08/10/2026 13:35",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261008%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261008T181514Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b2e746bd72cc46b21f94cddb1b9bc49916099b8504ba2bbfc620770dce40723d"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261009%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261009T035626Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b5f2119e8e29c20f9211950397d5a124e38a8c63d6f6744908111a04c4dce0c7"
   },
   {
     "blog": "Fabio.com.ar",
@@ -112,19 +112,19 @@
     "imagen": null
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Como montar directorio remoto en Linux con Rclone",
-    "link": "https://chancli.dev/blog/montar-directorio-remoto-vps-en-linux.html",
-    "fecha": "08/10/2026 00:00",
-    "contenido": "Necesitaba una forma sencilla para montar un directorio de mi VPS en mi equipo con Linux.\nInvestigué un poco las opciones y al final decidí quedarme con Rclone.\n¿Por qué Rclone? Porque es open-source, está activamente mantenido y además, aunque no lo necesito de momento, soporta &gt;70 proveedores.\n",
-    "imagen": null
-  },
-  {
     "blog": "Un blog",
     "titulo": "Microscope: edición nueva en Kickstarter",
     "link": "https://nachof.blog/posts/2026/microscope-edicion-nueva-en-kickstarter/",
     "fecha": "07/10/2026 23:00",
     "contenido": "Microscope es uno de esos juegos que son brillantes por lo simple. La idea es juntarse un rato a crear un mundo, con toda su historia, llenando, en el orden que quieras, eras enteras, o eventos específicos, y metiendo de a poco los detalles que te van resultando interesantes.\nMicroscope salió hace a",
+    "imagen": null
+  },
+  {
+    "blog": "El Blog de un informático que sueña con mejorar el mundo",
+    "titulo": "Desgooglezando mi vida (II): el correo, por fin",
+    "link": "https://jesuspavonabian.es/post/desgooglezando-mi-vida-2-correo/",
+    "fecha": "07/10/2026 22:00",
+    "contenido": "Hace casi tres años escribí Desgooglezando mi vida. En aquel post os contaba lo contentísimo que estaba con ProtonMail. Y hace nada tuve que volver a editarlo para poner que lo había dejado y que le seguía dando vueltas al correo.\nPues se acabaron las vueltas. Ya tengo correo.\nQué buscaba Usar mi pr",
     "imagen": null
   },
   {
@@ -158,14 +158,6 @@
     "fecha": "07/10/2026 12:00",
     "contenido": "    \nSi le&eacute;s esto y el t&iacute;tulo te llena de furia, bien, sos parte de una secta, por ah&iacute; todav&iacute;a no lo sab&eacute;s (aunque creo que s&iacute;), pero sos un enfermo mental tambi&eacute;n 😁\nSupongo que hay tratamiento, posiblemente cura, pero no me importa, no va de eso este",
     "imagen": "https://www.fabio.com.ar/images/reviews37/fripali01.jpg"
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Hacer despensa: una lista.",
-    "link": "https://puedellevarqueso.es/2026/10/hacer-despensa-una-lista/",
-    "fecha": "07/10/2026 11:21",
-    "contenido": "Ya he hablado de que hay muchas razones para querer acumular comida, y cómo repartir el gasto. Ahora vamos a hacer un cálculo de cantidades de la mayor parte de alimentos que merecen la pena. Preferimos despensa a congelador, porque puedes guardar latas y botes herméticos en cualquier sitio, mientra",
-    "imagen": null
   },
   {
     "blog": "Un blog",
@@ -261,7 +253,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "06/10/2026 16:02",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261008%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261008T181514Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0c188cedfd311e926833d1272c0b1d3bc1794fc6ba9763607d0b8ab0284f0cf5"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261009%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261009T035626Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=08011795ce58166e8ce8a0718d2f380f26397628e3e7e7d8270e32e1ff7196e6"
   },
   {
     "blog": "Fabio.com.ar",
@@ -485,7 +477,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "04/10/2026 08:35",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261008%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261008T181514Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ca4808181418ff606e6b53f6dcd6381acd5bd0a0d44514b1e1565077e693b15a"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261009%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261009T035626Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=089ba4e1f62082fcb92099f88b1f28fcebf7e1f3e0f9fee1a35fd9c906b03100"
   },
   {
     "blog": "THE_CHEI$",
@@ -590,14 +582,6 @@
     "fecha": "03/10/2026 00:00",
     "contenido": "Pidió una copa de posca y unas aceitunas aliñadas y se acodó en la mesa mientras sus ojos recorrían el local. Había buscado la taberna más cochambrosa que hubiese en la villa costera y la clientela era acorde al establecimiento: una mezcla de marineros veteranos, estibadores del muelle, matones gené",
     "imagen": null
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Forzar actualización de Docker Desktop en Linux Mint",
-    "link": "https://chancli.dev/blog/forzar-actualizacion-docker-desktop-linux-mint.html",
-    "fecha": "03/10/2026 00:00",
-    "contenido": "En mi equipo de sobre mesa, un PC con Linux Mint, utilizo Docker Desktop para gestionar algunos servicios que tengo auto alojados, como la instancia de Immich.\nEn el Mac del trabajo también lo uso y tengo que decir que este problema solo me pasa en mi Linux.\nCada vez que sale una actualización de se",
-    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/docker-desktop-force-update.png"
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -717,30 +701,6 @@
     "link": "https://escritura.social/mcallus/el-implante",
     "fecha": "02/10/2026 05:28",
     "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Writeober: Colmillo",
-    "link": "https://blep.org/writeober--colmillo",
-    "fecha": "02/10/2026 00:00",
-    "contenido": "Cantan los juglares muchas historias de Q durante sus años errante, algunas de las cuales incluso son ciertas.\n\nEsta canción comienza cuando Q, saliendo de Sombravía, se dirigió hacia el norte, acercándose a la Sierra de Odón. Siguiendo aquel camino poco frecuentado, recorría un valle entre dos pico",
-    "imagen": null
-  },
-  {
-    "blog": "PanicError",
-    "titulo": "Desconectado",
-    "link": "http://panicerror.org/blog/desconectado.md.html",
-    "fecha": "02/10/2026 00:00",
-    "contenido": "Hace algo más de un año que escribí una entrada sobre mi abandono de las redes sociales. Después de una época de hartazgo con todas ellas en general, descubrí Mastodon y el Fediverso y esto me mantuvo un tiempo más ligado a estas. El año pasado cerré también este último rincón y con eso dejé de esta",
-    "imagen": null
-  },
-  {
-    "blog": "Esuntipazo - blog",
-    "titulo": "Dejad que las máquinas mueran",
-    "link": "http://www.esuntipazo.com/post/dejad-que-las-maquinas-mueran",
-    "fecha": "01/10/2026 23:28",
-    "contenido": "Hace unos días fui a ver la película: Metropolis, en una función especial musicalizada en vivo. Qué viaje tan gratificante para los sentidos. La música corrió a cargo de Denise Gutiérrez (Hello seahorse), Quique Rangel (Café tacvba) y Mike Sandoval. Un espectáculo sonoro entre la voz grave del dueto",
     "imagen": null
   }
 ]
