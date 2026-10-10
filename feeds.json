@@ -1,5 +1,37 @@
 [
   {
+    "blog": "El Blog de un informático que sueña con mejorar el mundo",
+    "titulo": "Por fin habla eSpeak NG en Android",
+    "link": "https://jesuspavonabian.es/post/espeak-ng-android-por-fin-habla/",
+    "fecha": "10/10/2026 16:30",
+    "contenido": "En el post anterior terminé pidiendo que, si alguien conseguía que eSpeak NG funcionara en Android, me avisara. Nadie me avisó, así que me tocó a mí. Esta tarde he hecho que hable, he descubierto que se callaba a los dos minutos y he arreglado eso también. Hay una pull request abierta con el arreglo",
+    "imagen": null
+  },
+  {
+    "blog": "El Blog de un informático que sueña con mejorar el mundo",
+    "titulo": "Cambiar el motor de voz en GrapheneOS por ADB",
+    "link": "https://jesuspavonabian.es/post/cambiar-tts-grapheneos-adb/",
+    "fecha": "10/10/2026 15:10",
+    "contenido": "Actualización, esa misma tarde: las causas que apunto más abajo para las 0 voces de eSpeak NG no eran las buenas, y ya lo tengo hablando en el móvil. Lo cuento en Por fin habla eSpeak NG en Android.\nYa tengo el Pixel con GrapheneOS. TalkBack viene incluido, pero el motor de voz que trae es el que es",
+    "imagen": null
+  },
+  {
+    "blog": "",
+    "titulo": "Aviso Importante.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/10/10/aviso-importante-2/",
+    "fecha": "10/10/2026 14:29",
+    "contenido": "",
+    "imagen": "https://0.gravatar.com/avatar/306e19f08d8518c022c73f6d5ff0a80ddbf5622a55b8887868d29bf280546143?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Steelballs: Rebels | Renovando Pergaminos",
+    "link": "https://www.delotroladometal.com.ar/2026/10/10/renovando-pergaminos/",
+    "fecha": "10/10/2026 10:35",
+    "contenido": "(2026 &#8211; Metalcoholización Records) Posiblemente Steelballs sea una de las tantas bandas argentinas que no...\nThe post Steelballs: Rebels | Renovando Pergaminos first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "KashCal: un calendario todo en uno",
     "link": "https://voidnull.es/kashcal-un-calendario-todo-en-uno/",
@@ -165,7 +197,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "08/10/2026 13:35",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261010%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261010T034102Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b60c86536828e78efe5156d2670c3436d97d3a2ab907747956c1c550df0c518c"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261010%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261010T164249Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9204ae599d8e2774a15131f40a0db03b05cdb5e3a00f48a155ec8127cd1d5f9e"
   },
   {
     "blog": "Fabio.com.ar",
@@ -240,6 +272,14 @@
     "imagen": null
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Como montar directorio remoto en Linux con Rclone",
+    "link": "https://chancli.dev/blog/montar-directorio-remoto-vps-en-linux.html",
+    "fecha": "08/10/2026 00:00",
+    "contenido": "Necesitaba una forma sencilla para montar un directorio de mi VPS en mi equipo con Linux.\nInvestigué un poco las opciones y al final decidí quedarme con Rclone.\n¿Por qué Rclone? Porque es open-source, está activamente mantenido y además, aunque no lo necesito de momento, soporta &gt;70 proveedores.\n",
+    "imagen": null
+  },
+  {
     "blog": "Un blog",
     "titulo": "Microscope: edición nueva en Kickstarter",
     "link": "https://nachof.blog/posts/2026/microscope-edicion-nueva-en-kickstarter/",
@@ -286,14 +326,6 @@
     "fecha": "07/10/2026 12:00",
     "contenido": "    \nSi le&eacute;s esto y el t&iacute;tulo te llena de furia, bien, sos parte de una secta, por ah&iacute; todav&iacute;a no lo sab&eacute;s (aunque creo que s&iacute;), pero sos un enfermo mental tambi&eacute;n 😁\nSupongo que hay tratamiento, posiblemente cura, pero no me importa, no va de eso este",
     "imagen": "https://www.fabio.com.ar/images/reviews37/fripali01.jpg"
-  },
-  {
-    "blog": "¿Hay algo que no mejore con queso?",
-    "titulo": "Hacer despensa: una lista.",
-    "link": "https://puedellevarqueso.es/2026/10/hacer-despensa-una-lista/",
-    "fecha": "07/10/2026 11:21",
-    "contenido": "Ya he hablado de que hay muchas razones para querer acumular comida, y cómo repartir el gasto. Ahora vamos a hacer un cálculo de cantidades de la mayor parte de alimentos que merecen la pena. Preferimos despensa a congelador, porque puedes guardar latas y botes herméticos en cualquier sitio, mientra",
-    "imagen": null
   },
   {
     "blog": "Un blog",
@@ -389,7 +421,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "06/10/2026 16:02",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261010%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261010T034102Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ed3168d0906c1c9f7add5a8e05507bbbb83a8ebc7f9a8c8dd720002864781018"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261010%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261010T164249Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0885a4fff7453d843ab332797b718eb7759f1a4e006c19518662671ba74803c6"
   },
   {
     "blog": "Fabio.com.ar",
@@ -613,7 +645,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "04/10/2026 08:35",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261010%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261010T034102Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7137e69caf6b1ca2c8d070ae80df3e70275db9f3e7ee6c6002cfbc4a7f6eccf2"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261010%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261010T164249Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c7c56b4bee2a5a0e5b999bac074559431a3b66e03a1622b1ba3d641673d420a5"
   },
   {
     "blog": "THE_CHEI$",
@@ -645,70 +677,6 @@
     "link": "https://mantalon.neocities.org/logs",
     "fecha": "03/10/2026 19:19",
     "contenido": "Reseñas de Another Code y El maestro que prometió el mar subidas a logs!!! además, botón y webring de ¡Blog!¡Blog! añadidos a la página.",
-    "imagen": null
-  },
-  {
-    "blog": "",
-    "titulo": "Descansa en paz Ricardo.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/10/03/descansa-en-paz-ricardo/",
-    "fecha": "03/10/2026 12:45",
-    "contenido": "",
-    "imagen": "https://0.gravatar.com/avatar/306e19f08d8518c022c73f6d5ff0a80ddbf5622a55b8887868d29bf280546143?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/10/03/226226/",
-    "fecha": "03/10/2026 12:30",
-    "contenido": "Acabo de dar de alta una página con dibujos e ilustraciones que pueden servir como complemento a material que busque difundir el Fediverso y Mastodon: https://fixionauta.net/fedi/ Me he dado tiempo (aunque no el que quisiera) para armarla, en vista de lo que ha comentado @vamonosjuntas en días recie",
-    "imagen": null
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "No tienes que meterte presión, si no tienes nada bueno no lo escribas",
-    "link": "https://elrefugiodeunnerd.es/2026/10/03/no-tienes-que-meterte-presion-si-no-tienes-nada-bueno-no-lo-escribas/",
-    "fecha": "03/10/2026 11:36",
-    "contenido": "Creo que una de las principales razones por las que me cambié de mi blog anterior a este era la presión. (Aunque no lo hiciera) antes sentía que tenía que publicar porque iba a perder el poco público que tenía, me iban a abandonar, no iban a volver nunca etc. Cuando migré a este nuevo [&#8230;]",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Trytan: Alliance: The Best Of Trytan | Una Alianza Para Volver A Descubrir",
-    "link": "https://www.delotroladometal.com.ar/2026/10/03/una-alianza-para-volver-a-descubrir/",
-    "fecha": "03/10/2026 11:30",
-    "contenido": "(2025 &#8211; Retroactive Records) No, quedénsen tranquilos. No estamos hablando de &#8220;La Alianza&#8221; (un viejo...\nThe post Trytan: Alliance: The Best Of Trytan | Una Alianza Para Volver A Descubrir first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "iforest",
-    "titulo": "perfil de discord actual",
-    "link": "https://iforest.bearblog.dev/202610031251/",
-    "fecha": "03/10/2026 10:51",
-    "contenido": "yay mi perfil de discord temático otoñal\n",
-    "imagen": "https://i.imgur.com/ERtJMVl.png"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Rebajas de Otoño de Steam.",
-    "link": "https://cozykis.kisworld.es/rebajas-de-otono-de-steam-los-mejores-descuentos/",
-    "fecha": "03/10/2026 08:53",
-    "contenido": "Una lista con más de diez juegos a precios muy baratos que podemos encontrar rebajados en Steam ahora mismo\nLa entrada Rebajas de Otoño de Steam. se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "No es lo que parece: analizando fisuras digitales",
-    "link": "https://gatooscuro.xyz/no-es-lo-que-parece-analizando-fisuras-digitales/",
-    "fecha": "03/10/2026 07:13",
-    "contenido": "Hoy vuelvo a escribir en la madrugada acerca de esas noticias y/o artículos que se han difundido por la red acerca de alguna vulneración a nuestra seguridad/privacidad en línea. No\nSeguir leyendo  No es lo que parece: analizando fisuras digitales\nEl cargo No es lo que parece: analizando fisuras digi",
-    "imagen": null
-  },
-  {
-    "blog": "Pepógrafo",
-    "titulo": "La mujer que lleva siglos contados estrellas en un castillo de Extremadura",
-    "link": "https://pepografo.com/leyenda-estrellas-castillo-segura-leon-extremadura/",
-    "fecha": "03/10/2026 06:03",
-    "contenido": "La leyenda cuenta que una misteriosa dama berberisca recorre cada noche las murallas del castillo de Segura de León intentando contar todas las estrellas para romper un antiguo encantamiento\nLa entrada La mujer que lleva siglos contados estrellas en un castillo de Extremadura se publicó primero en P",
     "imagen": null
   }
 ]
