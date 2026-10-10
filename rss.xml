@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 10 Oct 2026 16:33:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 20:50:49 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,38 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Por fin habla eSpeak NG en Android</title>
+<link>https://jesuspavonabian.es/post/espeak-ng-android-por-fin-habla/</link>
+<guid isPermaLink="true">https://jesuspavonabian.es/post/espeak-ng-android-por-fin-habla/</guid>
+<pubDate>Sat, 10 Oct 2026 16:30:00 GMT</pubDate>
+<category>El Blog de un informático que sueña con mejorar el mundo</category>
+<description><![CDATA[En el post anterior terminé pidiendo que, si alguien conseguía que eSpeak NG funcionara en Android, me avisara. Nadie me avisó, así que me tocó a mí. Esta tarde he hecho que hable, he descubierto que se callaba a los dos minutos y he arreglado eso también. Hay una pull request abierta con el arreglo<br><br><strong>Fuente:</strong> El Blog de un informático que sueña con mejorar el mundo]]></description>
+</item>
+<item>
+<title>Cambiar el motor de voz en GrapheneOS por ADB</title>
+<link>https://jesuspavonabian.es/post/cambiar-tts-grapheneos-adb/</link>
+<guid isPermaLink="true">https://jesuspavonabian.es/post/cambiar-tts-grapheneos-adb/</guid>
+<pubDate>Sat, 10 Oct 2026 15:10:00 GMT</pubDate>
+<category>El Blog de un informático que sueña con mejorar el mundo</category>
+<description><![CDATA[Actualización, esa misma tarde: las causas que apunto más abajo para las 0 voces de eSpeak NG no eran las buenas, y ya lo tengo hablando en el móvil. Lo cuento en Por fin habla eSpeak NG en Android. Ya tengo el Pixel con GrapheneOS. TalkBack viene incluido, pero el motor de voz que trae es el que es<br><br><strong>Fuente:</strong> El Blog de un informático que sueña con mejorar el mundo]]></description>
+</item>
+<item>
+<title>Aviso Importante.</title>
+<link>https://mundoceltamedieval.wordpress.com/2026/10/10/aviso-importante-2/</link>
+<guid isPermaLink="true">https://mundoceltamedieval.wordpress.com/2026/10/10/aviso-importante-2/</guid>
+<pubDate>Sat, 10 Oct 2026 14:29:00 GMT</pubDate>
+<category></category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> ]]></description>
+</item>
+<item>
+<title>Steelballs: Rebels | Renovando Pergaminos</title>
+<link>https://www.delotroladometal.com.ar/2026/10/10/renovando-pergaminos/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/10/10/renovando-pergaminos/</guid>
+<pubDate>Sat, 10 Oct 2026 10:35:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[(2026 &amp;#8211; Metalcoholización Records) Posiblemente Steelballs sea una de las tantas bandas argentinas que no... The post Steelballs: Rebels | Renovando Pergaminos first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
 <item>
 <title>KashCal: un calendario todo en uno</title>
 <link>https://voidnull.es/kashcal-un-calendario-todo-en-uno/</link>
@@ -184,38 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 08 Oct 2026 13:35:00 GMT</pubDate>
 <category>labaudric</category>
 <description><![CDATA[<br><br><strong>Fuente:</strong> labaudric]]></description>
-</item>
-<item>
-<title>Ruleta Rusa #897</title>
-<link>https://www.fabio.com.ar/10048-ruleta-rusa-897</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/10048-ruleta-rusa-897</guid>
-<pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[No esperes por las balas, ya est&amp;aacute;n Si tuviera tiempo para darme cuenta que es jueves no s&amp;eacute; si quedar&amp;iacute;a el suficiente para crear la ruleta 😅, ah, menos mal que tengo un proceso bastante armado para esto y, si bien me lleva un rato, puedo hacerlo todas las semanas. Eso s&amp;iacu<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Antestor: Martyrium | Un Puente De Un Extremo Al Otro</title>
-<link>https://www.delotroladometal.com.ar/2026/10/08/un-puente-de-un-extremo-al-otro/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/10/08/un-puente-de-un-extremo-al-otro/</guid>
-<pubDate>Thu, 08 Oct 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[(1994/2000 &amp;#8211; Endtime Productions) &amp;#8220;Para aquellos de ustedes que nos desprecian, no creen en nosotros... The post Antestor: Martyrium | Un Puente De Un Extremo Al Otro first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Ricoh GRIIIx: 3 years later</title>
-<link>https://www.ericafustero.com/2026-10-ricoh-griiix-3-years-later</link>
-<guid isPermaLink="true">https://www.ericafustero.com/2026-10-ricoh-griiix-3-years-later</guid>
-<pubDate>Thu, 08 Oct 2026 09:05:00 GMT</pubDate>
-<category>Erica Fustero</category>
-<description><![CDATA[Hace tres años, me compré la Ricoh GRIIIx. Le di muchas vueltas a su compra, hablé de ello en el blog, ¡hasta le dediqué una animación! Pero ni de broma imaginaba lo mucho que esta cámara cambiaría mi forma de fotografiar. Three years ago, I bought the Ricoh GRIIIx. I spent ages thinking about wheth<br><br><strong>Fuente:</strong> Erica Fustero]]></description>
-</item>
-<item>
-<title>Guía Visual: Vela Maps vs Google Maps</title>
-<link>https://alt43.es/guia-visual-vela-maps-vs-google-maps/</link>
-<guid isPermaLink="true">https://alt43.es/guia-visual-vela-maps-vs-google-maps/</guid>
-<pubDate>Thu, 08 Oct 2026 08:59:00 GMT</pubDate>
-<category>alt43</category>
-<description><![CDATA[Vela Maps ofrece el tráfico, los horarios y la navegación de Google Maps sin cuenta, sin rastreo y sin Play Services. Te explicamos en tres infografías qué la diferencia de Google Maps, quién está detrás y cómo instalarla en Android<br><br><strong>Fuente:</strong> alt43]]></description>
 </item>
 
 </channel>
