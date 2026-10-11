@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sun, 11 Oct 2026 02:47:34 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 11:46:19 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,20 +18,52 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
-<title>Por fin habla eSpeak NG en Android</title>
-<link>https://jesuspavonabian.es/post/espeak-ng-android-por-fin-habla/</link>
-<guid isPermaLink="true">https://jesuspavonabian.es/post/espeak-ng-android-por-fin-habla/</guid>
-<pubDate>Sat, 10 Oct 2026 16:30:00 GMT</pubDate>
-<category>El Blog de un informático que sueña con mejorar el mundo</category>
-<description><![CDATA[En el post anterior terminé pidiendo que, si alguien conseguía que eSpeak NG funcionara en Android, me avisara. Nadie me avisó, así que me tocó a mí. Esta tarde he hecho que hable, he descubierto que se callaba a los dos minutos y he arreglado eso también. Hay una pull request abierta con el arreglo<br><br><strong>Fuente:</strong> El Blog de un informático que sueña con mejorar el mundo]]></description>
+<title>10 años siguiendo a la luna</title>
+<link>https://javiersam.uy/2026/10/10-anos-siguiendo-a-la-luna.html</link>
+<guid isPermaLink="true">https://javiersam.uy/2026/10/10-anos-siguiendo-a-la-luna.html</guid>
+<pubDate>Sun, 11 Oct 2026 03:00:00 GMT</pubDate>
+<category>JavierSam</category>
+<description><![CDATA[Agustín Ferrando es un videorealizador uruguayo, muy conocido, entre otras cosas, por ser el creador de Tiranos Temblad. También tiene otra web serie muy interesante: Analizando humanos.Y, hace unos días, estrenó una nueva: Misiones Inútiles. Y el primer video de esta nueva serie es fantástico: No d<br><br><strong>Fuente:</strong> JavierSam]]></description>
 </item>
 <item>
-<title>Cambiar el motor de voz en GrapheneOS por ADB</title>
-<link>https://jesuspavonabian.es/post/cambiar-tts-grapheneos-adb/</link>
-<guid isPermaLink="true">https://jesuspavonabian.es/post/cambiar-tts-grapheneos-adb/</guid>
-<pubDate>Sat, 10 Oct 2026 15:10:00 GMT</pubDate>
+<title>La maldita Internet</title>
+<link>https://jinversor.co/2026/10/la-maldita-internet/</link>
+<guid isPermaLink="true">https://jinversor.co/2026/10/la-maldita-internet/</guid>
+<pubDate>Sun, 11 Oct 2026 02:25:00 GMT</pubDate>
+<category>Jinversor</category>
+<description><![CDATA[Se acaba una semana que Séneca en su infinita sabiduría llamaría semana de mierda. Bueno, no, qué desprolijo me he vuelto. Séneca diría merculenta tempora porque en el siglo I [&amp;#8230;] La entrada La maldita Internet se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
+</item>
+<item>
+<title>Inventos que no bendeciría el Papa</title>
+<link>https://56k.es/fanta/inventos-que-no-bendeciria-el-papa/</link>
+<guid isPermaLink="true">https://56k.es/fanta/inventos-que-no-bendeciria-el-papa/</guid>
+<pubDate>Sat, 10 Oct 2026 18:47:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[No dejan en paz al Papa de Roma los de las Big Techs. Han realizado tanto SPAM al papa que hasta les hizo a los de Silicon Valley una carta encíclica. Al final de cuentas el Papa es un gran Influencer y esta gente solamente buscan arrimarse para que diga «La IA es lo mejor»....<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
+<item>
+<title>¿Cómo instalo el Editor de Thomson Davis en Ubuntu?</title>
+<link>https://ubuntuperonista.blogspot.com/2026/10/Como-instalo-el-Editor-de-Thomson-Davis-en-Ubuntu.html</link>
+<guid isPermaLink="true">https://ubuntuperonista.blogspot.com/2026/10/Como-instalo-el-Editor-de-Thomson-Davis-en-Ubuntu.html</guid>
+<pubDate>Sat, 10 Oct 2026 17:57:00 GMT</pubDate>
+<category>Ubuntu Peronista</category>
+<description><![CDATA[Durante la presentación de su Modelo Argentino, Juan Perón concibe las necesidades del mismo, toda vez que explica cómo compilar e instalar el editor portable TDE en Ubuntu.&amp;nbsp;¡Trabajadores!Nuestra Argentina necesita un Proyecto Nacional perteneciente al País en su totalidad. Estoy persuadido de<br><br><strong>Fuente:</strong> Ubuntu Peronista]]></description>
+</item>
+<item>
+<title>losmagosdelaoscuridad.md</title>
+<link>https://blog.hechoporhumano.nohost.me/2026/10/10/losmagosdelaoscuridad-md/</link>
+<guid isPermaLink="true">https://blog.hechoporhumano.nohost.me/2026/10/10/losmagosdelaoscuridad-md/</guid>
+<pubDate>Sat, 10 Oct 2026 17:56:00 GMT</pubDate>
+<category>Blog hecho por humano - Fuente RSS</category>
+<description><![CDATA[En su obra más reciente, la Dra. Cristina Martín Jiménez desvela los planes de la nueva élite del poder que según la autora impulsan la<br><br><strong>Fuente:</strong> Blog hecho por humano - Fuente RSS]]></description>
+</item>
+<item>
+<title>Primeros pasos con GrapheneOS</title>
+<link>https://jesuspavonabian.es/post/primeros-pasos-grapheneos/</link>
+<guid isPermaLink="true">https://jesuspavonabian.es/post/primeros-pasos-grapheneos/</guid>
+<pubDate>Sat, 10 Oct 2026 17:00:00 GMT</pubDate>
 <category>El Blog de un informático que sueña con mejorar el mundo</category>
-<description><![CDATA[Actualización, esa misma tarde: las causas que apunto más abajo para las 0 voces de eSpeak NG no eran las buenas, y ya lo tengo hablando en el móvil. Lo cuento en Por fin habla eSpeak NG en Android. Ya tengo el Pixel con GrapheneOS. TalkBack viene incluido, pero el motor de voz que trae es el que es<br><br><strong>Fuente:</strong> El Blog de un informático que sueña con mejorar el mundo]]></description>
+<description><![CDATA[Esta es la guía que me habría gustado tener cuando compré el Pixel 10: instalar GrapheneOS usando solo NVDA y el navegador, dejar TalkBack hablando en castellano y no quedarte sin voz por el camino. Incluye los sustos que me llevé yo, que no fueron pocos, y todo lo que conté antes sobre el motor de<br><br><strong>Fuente:</strong> El Blog de un informático que sueña con mejorar el mundo]]></description>
 </item>
 <item>
 <title>Aviso Importante.</title>
@@ -48,6 +80,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Sat, 10 Oct 2026 10:35:00 GMT</pubDate>
 <category>Del Otro Lado Metal</category>
 <description><![CDATA[(2026 &amp;#8211; Metalcoholización Records) Posiblemente Steelballs sea una de las tantas bandas argentinas que no... The post Steelballs: Rebels | Renovando Pergaminos first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>audric subió AION2 - la cueva endemoniada en Aion</title>
+<link>https://labaudric.net/videos/aion/6947</link>
+<guid isPermaLink="true">https://labaudric.net/videos/aion/6947</guid>
+<pubDate>Sat, 10 Oct 2026 07:17:00 GMT</pubDate>
+<category>labaudric</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> labaudric]]></description>
 </item>
 <item>
 <title>KashCal: un calendario todo en uno</title>
@@ -176,46 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
 <category>El Blog de un informático que sueña con mejorar el mundo</category>
 <description><![CDATA[Hoy toca migrar los contactos a Mailbox.org. Como siempre he tenido lo que yo llamo &amp;ldquo;mi orden caótico&amp;rdquo;, un orden desordenado que solo yo entiendo, los contactos no podían ser menos y estaban esperriados. algunos en Google, otros en Apple&amp;hellip; Y curiosamente, y eso que le he dado al bo<br><br><strong>Fuente:</strong> El Blog de un informático que sueña con mejorar el mundo]]></description>
-</item>
-<item>
-<title>Límites, normas y radicales en Mario Mendoza y Ocean Vuong</title>
-<link>https://pedrolr.es/blog/limites-normas-y-radicales-en-mario-mendoza-y-ocean-vuong/</link>
-<guid isPermaLink="true">https://pedrolr.es/blog/limites-normas-y-radicales-en-mario-mendoza-y-ocean-vuong/</guid>
-<pubDate>Thu, 08 Oct 2026 17:51:00 GMT</pubDate>
-<category>pedrolr blog</category>
-<description><![CDATA[Acabé hace unos días el libro &quot;En la Tierra somos fugazmente grandiosos&quot; de Ocean Vuong. Vi que era poeta también y se nota en algunos párrafos que parecen poesía ciertamente. Me apunté muchas frases y extractos. Uno de esos extractos es este: Recuerda: las normas, como las calles, solo pueden lleva<br><br><strong>Fuente:</strong> pedrolr blog]]></description>
-</item>
-<item>
-<title>Aviso Importante.</title>
-<link>https://mundoceltamedieval.wordpress.com/2026/10/08/aviso-importante/</link>
-<guid isPermaLink="true">https://mundoceltamedieval.wordpress.com/2026/10/08/aviso-importante/</guid>
-<pubDate>Thu, 08 Oct 2026 17:35:00 GMT</pubDate>
-<category></category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> ]]></description>
-</item>
-<item>
-<title>El bug perfecto</title>
-<link>https://danielomarcignacco.blogspot.com/2026/10/el-bug-perfecto.html</link>
-<guid isPermaLink="true">https://danielomarcignacco.blogspot.com/2026/10/el-bug-perfecto.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:10:00 GMT</pubDate>
-<category>Daniel Omar Cignacco</category>
-<description><![CDATA[El bug perfecto Al principio solo existía la Pantalla Negra. Luego, el Arquitecto tecleó la primera instrucción: import conciencia human = Humano(origen=&quot;polvo_estelar&quot;) Compiló el código. Las articulaciones se ensamblaron en bucles for perfectamente iterados, los vasos s<br><br><strong>Fuente:</strong> Daniel Omar Cignacco]]></description>
-</item>
-<item>
-<title>Los 5 atajos de teclado más útiles para el editor Kate de #KDE</title>
-<link>https://victorhckinthefreeworld.com/2026/10/08/los-5-atajos-de-teclado-mas-utiles-para-el-editor-kate-de-kde/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/10/08/los-5-atajos-de-teclado-mas-utiles-para-el-editor-kate-de-kde/</guid>
-<pubDate>Thu, 08 Oct 2026 14:55:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[Comparto en este artículo los atajos de teclado que más utilizo cuando estoy usando el editor Kate de KDE<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>audric subió 2 videos en Aion</title>
-<link>https://labaudric.net/videos/aion</link>
-<guid isPermaLink="true">https://labaudric.net/videos/aion</guid>
-<pubDate>Thu, 08 Oct 2026 13:35:00 GMT</pubDate>
-<category>labaudric</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> labaudric]]></description>
 </item>
 
 </channel>
