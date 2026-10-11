@@ -1,5 +1,85 @@
 [
   {
+    "blog": "La Frikoteca",
+    "titulo": "Zothique, de Clark Asthon Smith",
+    "link": "http://frikoteca.blogspot.com/2026/10/zothique-de-clark-asthon-smith.html",
+    "fecha": "11/10/2026 15:21",
+    "contenido": "El mes pasado os hablé de Clark Ashton Smith, autor de novelas pulp y parte de la tríada sagrada de Weird Tales: R. E. Howard, H. P. Lovecraft y Clark Asthon Smith. En la entrada comenté que había empezado Zothique pero que no había leído todos los relatos, y que me había hecho la propuesta de retom",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh86KRubRezEhn1dhkLv-IqrMrA9NdhgNhip8LYiKqwun834kopQlkvW3Z5j69My6OWIn0AudI4U2n3d6XuNelEhdFBWD3wRCaQ4W37xoj1FC-decQG1wIR2rlX9qA7krrByCAROTmyU_xwfgRFlrB5Y-0Vfgdr7GLsHn8GzmFD6rvqkDXI8vwk/s72-c/IMG_20261011_094330.jpg"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió 6 videos en Aion",
+    "link": "https://labaudric.net/videos/aion",
+    "fecha": "11/10/2026 14:11",
+    "contenido": "     ",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6952/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T170845Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3a27cd899338c7a4b55c12c3e9c846cf1fb5b75b3ab368b5f35719f74bab657a"
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "Mi opinión de los Googlebook",
+    "link": "https://elrefugiodeunnerd.es/2026/10/11/mi-opinion-de-los-googlebook/",
+    "fecha": "11/10/2026 11:45",
+    "contenido": "Recientemente salieron a la venta los nuevos portátiles de Google. Y digo de Google porque los anuncia ella, pero en realidad (como ya pasaba en los Chromebooks) son colaboraciones con 5 marcas (que son: Asus, HP, Lenovo, Dell y Acer). No creo que estén listos para salir al mercado, más que nada por",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Banda Encabezada Por Ron Rinehart Re Edita Su Primer EP | Vuelve Oil En Forma De Re Edición",
+    "link": "https://www.delotroladometal.com.ar/2026/10/11/vuelve-oil-en-forma-de-re-edicion/",
+    "fecha": "11/10/2026 11:00",
+    "contenido": "No es un regreso como tal, al menos por ahora, pero Oil retorna con una...\nThe post La Banda Encabezada Por Ron Rinehart Re Edita Su Primer EP | Vuelve Oil En Forma De Re Edición first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Raccoon Valley Tycoon",
+    "link": "https://cozykis.kisworld.es/analisis-de-raccoon-valley-tycoon/",
+    "fecha": "11/10/2026 10:37",
+    "contenido": "Raccoon Valley Tycoon es un jueguito incremental muy simpático en el que tendremos que reconstruir un pueblo de mapaches abandonado. Para ello, lo único que tenemos que hacer es conseguir diversos recursos. Empieza con unos pocos y va subiendo de una forma que me ha costado seguir la pista a todo lo",
+    "imagen": null
+  },
+  {
+    "blog": "El Blog de un informático que sueña con mejorar el mundo",
+    "titulo": "Sincronizar los contactos de Mailbox.org en GrapheneOS con DAVx⁵",
+    "link": "https://jesuspavonabian.es/post/contactos-mailbox-grapheneos/",
+    "fecha": "11/10/2026 07:36",
+    "contenido": "Si seguiste la guía de primeros pasos con GrapheneOS, ahora mismo tienes un móvil sin contactos. Y en el perfil con Google Play también. Aquí cuento cómo traerlos desde Mailbox.org con DAVx⁵, en el perfil principal y en el de bigtech. Si aún no tienes el segundo perfil, aquí explico cómo crearlo. Ca",
+    "imagen": null
+  },
+  {
+    "blog": "El Blog de un informático que sueña con mejorar el mundo",
+    "titulo": "Perfiles en GrapheneOS: Bigtechs aparte y las movidas del motor de voz",
+    "link": "https://jesuspavonabian.es/post/perfiles-grapheneos-talkback/",
+    "fecha": "11/10/2026 06:36",
+    "contenido": "En la guía de primeros pasos con GrapheneOS dejé el perfil principal limpio y sin Google. Pero hay apps de las que todavía no puedo escapar, WhatsApp la primera, y para esas he creado un perfil aparte al que he llamado Bigtech. Aquí cuento cómo se monta, el susto de TalkBack que te llevas nada más c",
+    "imagen": null
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Las bibliotecas de antaño: un porrón, una botella de vino y otros premios académicos",
+    "link": "https://pedrolr.es/blog/las-bibliotecas-de-antano-un-porron-una-botella-de-vino-y-otros-premios-academicos/",
+    "fecha": "11/10/2026 05:45",
+    "contenido": "Esta semana que acaba he ganado un premio en el XV Seminario Hispano-Brasileño de Investigación en Información, Documentación y Sociedad. El premio es a algo así como el mejor resumen/ponencia/comunicación del eje temático. Está bien, porque había más de 20 ponencias en el eje en que la presenté. Me",
+    "imagen": null
+  },
+  {
+    "blog": "Plutoide Marcianadas",
+    "titulo": "Cómo llevar un blog",
+    "link": "https://plutoidemarcianadas.blogspot.com/2026/10/como-llevar-un-blog.html",
+    "fecha": "11/10/2026 05:16",
+    "contenido": "Un Wichi-compañero del Wichi-server me ha preguntado en múltiples veces (2 veces sí la memoria no me falla) &quot;¿cómo se lleva un blog?&quot;. En esta entrada explicaré cómo crear un blog con Blogger y cómo estructurar el contenido para publicarlo; no es muy difícil, sí ya has publicado en medios ",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZTvktbtSCAvPNCTeSEp6I69ULqoB4xEp6gxBw8s5w7Iv0Kz_KPwc-25w46LQOEa1nZ0nKylA9xzlNCmgV5WQmMCUFlI6dE85esh09woYsHvHGNRhU3aQfLX_2WglX94cWGkMa3rMnU4CnkxczyzeJdlKw7usdhGitOBg-2VjpAGe3_NotXCHe3aqxz00/s72-c/Aulik%20y%20Pulsar%20en%20La%20Net%20-%207%20aniversario%20Blog%20Plutoide%20Marcianadas%20(2560x1966).jpg"
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "Tu puto curso",
+    "link": "https://jinversor.co/2026/10/tu-puto-curso/",
+    "fecha": "11/10/2026 04:44",
+    "contenido": "Voy a aprovechar que mi blog ya tiene fecha de vencimiento para despacharme contra todo lo que considero un puto fraude y entre esos timos se encuentran, cómo no, tu [&#8230;]\nLa entrada Tu puto curso se publicó primero en Jinversor.",
+    "imagen": null
+  },
+  {
     "blog": "JavierSam",
     "titulo": "10 años siguiendo a la luna",
     "link": "https://javiersam.uy/2026/10/10-anos-siguiendo-a-la-luna.html",
@@ -62,14 +142,6 @@
     "fecha": "10/10/2026 10:35",
     "contenido": "(2026 &#8211; Metalcoholización Records) Posiblemente Steelballs sea una de las tantas bandas argentinas que no...\nThe post Steelballs: Rebels | Renovando Pergaminos first appeared on Del Otro Lado Metal.",
     "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió AION2 - la cueva endemoniada en Aion",
-    "link": "https://labaudric.net/videos/aion/6947",
-    "fecha": "10/10/2026 07:17",
-    "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6947/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T031357Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=51a239690f1184bc175b94099397bfde279a21861c907a178610629266d68e18"
   },
   {
     "blog": "_ voidNull",
@@ -237,7 +309,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "08/10/2026 13:35",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T031357Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3ac483672ebb1dc6ac0124f94acc52112aeb9f0ba93f1677a2d7c1483b66fd47"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T170845Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=95470d23f3742ae3d0d09594a0122bdf73fbeabc3fd6547d2f4d46347ac65c53"
   },
   {
     "blog": "Fabio.com.ar",
@@ -360,6 +432,14 @@
     "imagen": "https://www.fabio.com.ar/images/reviews37/fripali01.jpg"
   },
   {
+    "blog": "¿Hay algo que no mejore con queso?",
+    "titulo": "Hacer despensa: una lista.",
+    "link": "https://puedellevarqueso.es/2026/10/hacer-despensa-una-lista/",
+    "fecha": "07/10/2026 11:21",
+    "contenido": "Ya he hablado de que hay muchas razones para querer acumular comida, y cómo repartir el gasto. Ahora vamos a hacer un cálculo de cantidades de la mayor parte de alimentos que merecen la pena. Preferimos despensa a congelador, porque puedes guardar latas y botes herméticos en cualquier sitio, mientra",
+    "imagen": null
+  },
+  {
     "blog": "Un blog",
     "titulo": "Radiant Star - Ann Leckie",
     "link": "https://nachof.blog/posts/2026/radiant-star/",
@@ -453,7 +533,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "06/10/2026 16:02",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T031357Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d3b4f4fd3db64c7e65d9eab90e15ebba1f7d816d685750835b8daba790bc2d07"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T170845Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7efdf0411adb0df9b4e59c6145ef43958909b1eb9c86930aef1bd418bdea5221"
   },
   {
     "blog": "Fabio.com.ar",
@@ -646,45 +726,5 @@
     "fecha": "04/10/2026 20:55",
     "contenido": "Sirva de aclaración, que aunque en esta entrada denuncie la utilización y politización de esta señora, el único uso de su nombre va a ser el título. Y como justificación, sirva esta explicación de una expresión muy de los 90. Dicho esto, empecemos. La última semana en España ha sido una locura, se h",
     "imagen": null
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "De Vuelta a la Vida de Ciudadano de a Pie",
-    "link": "https://altgr.xyz/2026/10/04/de-vuelta-a-la-vida-de-ciudadano-de-a-pie/",
-    "fecha": "04/10/2026 16:59",
-    "contenido": "He vuelto a ser un ciudadano de a pie después de muchos años de haber caído en la casi viciosa comodidad del auto. Me resultó menos difícil de lo que esperaba, aunque la motivación fue forzada. Lo pensé en varias ocasiones durante todo este tiempo, pero la comodidad y flojera ganaban siempre &#8211;",
-    "imagen": null
-  },
-  {
-    "blog": "eaplmx",
-    "titulo": "Sobre camisetas",
-    "link": "https://text.eapl.mx/sobre-camisetas",
-    "fecha": "04/10/2026 16:16",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Lázaro: No Más Vendas | Quitando Las Vendas De Los Ojos",
-    "link": "https://www.delotroladometal.com.ar/2026/10/04/quitando-las-vendas-de-los-ojos/",
-    "fecha": "04/10/2026 10:57",
-    "contenido": "(1997 &#8211; Independiente) Lo denominado como &#8220;White Metal&#8221; en Argentina siempre fue algo muy marginal,...\nThe post Lázaro: No Más Vendas | Quitando Las Vendas De Los Ojos first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 3 videos en GTA",
-    "link": "https://labaudric.net/videos/gta",
-    "fecha": "04/10/2026 08:35",
-    "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T031357Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b6aaf90daa712fc8a6be35a8de120647f76e05ba9f47806195ded1ef95a45172"
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Probando (y mejorando) la interfaz Nova de Firefox en GNOME",
-    "link": "https://thecheis.com/2026/10/04/probando-y-mejorando-la-interfaz-nova-de-firefox/",
-    "fecha": "04/10/2026 07:02",
-    "contenido": "Firefox 157 ya está entre nosotros y, entre muchas novedades, incorpora uno de los mayores rediseños en años, que ha sido bautizado como Nova. El caso es que, hasta ahora, yo usaba Firefox GNOME Theme para integrarlo en dicho escritorio, pero su falta de actualizaciones ha hecho que empiece a fallar",
-    "imagen": "https://thecheis.com/wp-content/uploads/2026/10/firefox-nova-157-01.png"
   }
 ]
