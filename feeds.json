@@ -1,18 +1,50 @@
 [
   {
-    "blog": "El Blog de un informático que sueña con mejorar el mundo",
-    "titulo": "Por fin habla eSpeak NG en Android",
-    "link": "https://jesuspavonabian.es/post/espeak-ng-android-por-fin-habla/",
-    "fecha": "10/10/2026 16:30",
-    "contenido": "En el post anterior terminé pidiendo que, si alguien conseguía que eSpeak NG funcionara en Android, me avisara. Nadie me avisó, así que me tocó a mí. Esta tarde he hecho que hable, he descubierto que se callaba a los dos minutos y he arreglado eso también. Hay una pull request abierta con el arreglo",
+    "blog": "JavierSam",
+    "titulo": "10 años siguiendo a la luna",
+    "link": "https://javiersam.uy/2026/10/10-anos-siguiendo-a-la-luna.html",
+    "fecha": "11/10/2026 03:00",
+    "contenido": "Agustín Ferrando es un videorealizador uruguayo, muy conocido, entre otras cosas, por ser el creador de Tiranos Temblad. También tiene otra web serie muy interesante: Analizando humanos.Y, hace unos días, estrenó una nueva: Misiones Inútiles. Y el primer video de esta nueva serie es fantástico: No d",
+    "imagen": null
+  },
+  {
+    "blog": "Jinversor",
+    "titulo": "La maldita Internet",
+    "link": "https://jinversor.co/2026/10/la-maldita-internet/",
+    "fecha": "11/10/2026 02:25",
+    "contenido": "Se acaba una semana que Séneca en su infinita sabiduría llamaría semana de mierda. Bueno, no, qué desprolijo me he vuelto. Séneca diría merculenta tempora porque en el siglo I [&#8230;]\nLa entrada La maldita Internet se publicó primero en Jinversor.",
+    "imagen": null
+  },
+  {
+    "blog": "56K",
+    "titulo": "Inventos que no bendeciría el Papa",
+    "link": "https://56k.es/fanta/inventos-que-no-bendeciria-el-papa/",
+    "fecha": "10/10/2026 18:47",
+    "contenido": "No dejan en paz al Papa de Roma los de las Big Techs. Han realizado tanto SPAM al papa que hasta les hizo a los de Silicon Valley una carta encíclica. Al final de cuentas el Papa es un gran Influencer y esta gente solamente buscan arrimarse para que diga «La IA es lo mejor»....",
+    "imagen": null
+  },
+  {
+    "blog": "Ubuntu Peronista",
+    "titulo": "¿Cómo instalo el Editor de Thomson Davis en Ubuntu?",
+    "link": "https://ubuntuperonista.blogspot.com/2026/10/Como-instalo-el-Editor-de-Thomson-Davis-en-Ubuntu.html",
+    "fecha": "10/10/2026 17:57",
+    "contenido": "Durante la presentación de su Modelo Argentino, Juan Perón concibe las necesidades del mismo, toda vez que explica cómo compilar e instalar el editor portable TDE en Ubuntu.&nbsp;¡Trabajadores!Nuestra Argentina necesita un Proyecto Nacional perteneciente al País en su totalidad. Estoy persuadido de ",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYjlAoBuC7s_LM-9EISTrfx_wxdU_m8LG3dEtkFH1NJ-X8LFLSSTPcbkN-V01afJQlte2f_lsBFqLef3-DJQF7BtUcW-ifOqGgAVjN_HjsoO3OkizEq0j_D4n4sp4yBHSGox63IpcnTSKA8Bv1fFLYoMls4UtUk0zyLL0xIRg-lsZN8gDkIC6zvE62uR6-/s72-c/peron-anuncio.jpg"
+  },
+  {
+    "blog": "Blog hecho por humano - Fuente RSS",
+    "titulo": "losmagosdelaoscuridad.md",
+    "link": "https://blog.hechoporhumano.nohost.me/2026/10/10/losmagosdelaoscuridad-md/",
+    "fecha": "10/10/2026 17:56",
+    "contenido": "En su obra más reciente, la Dra. Cristina Martín Jiménez desvela los planes de la nueva élite del poder que según la autora impulsan la",
     "imagen": null
   },
   {
     "blog": "El Blog de un informático que sueña con mejorar el mundo",
-    "titulo": "Cambiar el motor de voz en GrapheneOS por ADB",
-    "link": "https://jesuspavonabian.es/post/cambiar-tts-grapheneos-adb/",
-    "fecha": "10/10/2026 15:10",
-    "contenido": "Actualización, esa misma tarde: las causas que apunto más abajo para las 0 voces de eSpeak NG no eran las buenas, y ya lo tengo hablando en el móvil. Lo cuento en Por fin habla eSpeak NG en Android.\nYa tengo el Pixel con GrapheneOS. TalkBack viene incluido, pero el motor de voz que trae es el que es",
+    "titulo": "Primeros pasos con GrapheneOS",
+    "link": "https://jesuspavonabian.es/post/primeros-pasos-grapheneos/",
+    "fecha": "10/10/2026 17:00",
+    "contenido": "Esta es la guía que me habría gustado tener cuando compré el Pixel 10: instalar GrapheneOS usando solo NVDA y el navegador, dejar TalkBack hablando en castellano y no quedarte sin voz por el camino. Incluye los sustos que me llevé yo, que no fueron pocos, y todo lo que conté antes sobre el motor de ",
     "imagen": null
   },
   {
@@ -30,6 +62,14 @@
     "fecha": "10/10/2026 10:35",
     "contenido": "(2026 &#8211; Metalcoholización Records) Posiblemente Steelballs sea una de las tantas bandas argentinas que no...\nThe post Steelballs: Rebels | Renovando Pergaminos first appeared on Del Otro Lado Metal.",
     "imagen": null
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió AION2 - la cueva endemoniada en Aion",
+    "link": "https://labaudric.net/videos/aion/6947",
+    "fecha": "10/10/2026 07:17",
+    "contenido": "",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6947/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T031357Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=51a239690f1184bc175b94099397bfde279a21861c907a178610629266d68e18"
   },
   {
     "blog": "_ voidNull",
@@ -197,7 +237,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "08/10/2026 13:35",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261010%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261010T164249Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9204ae599d8e2774a15131f40a0db03b05cdb5e3a00f48a155ec8127cd1d5f9e"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T031357Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3ac483672ebb1dc6ac0124f94acc52112aeb9f0ba93f1677a2d7c1483b66fd47"
   },
   {
     "blog": "Fabio.com.ar",
@@ -269,14 +309,6 @@
     "link": "https://alex.corcoles.net/2026/10/el-dispositivo-de-culto",
     "fecha": "08/10/2026 00:00",
     "contenido": "\n  \n    Escrib&#237; hace poco aqu&#237; sobre \"el dispositivo de obediencia\", un t&#233;rmino con el que intento encuadrar la manera en la que creo que hay que usar los ordenadores e Internet.\n  \n  Y aqu&#237; viene lo que ser&#237;a la otra parte; la ant&#237;tesis del dispositivo de obediencia es",
-    "imagen": null
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "Como montar directorio remoto en Linux con Rclone",
-    "link": "https://chancli.dev/blog/montar-directorio-remoto-vps-en-linux.html",
-    "fecha": "08/10/2026 00:00",
-    "contenido": "Necesitaba una forma sencilla para montar un directorio de mi VPS en mi equipo con Linux.\nInvestigué un poco las opciones y al final decidí quedarme con Rclone.\n¿Por qué Rclone? Porque es open-source, está activamente mantenido y además, aunque no lo necesito de momento, soporta &gt;70 proveedores.\n",
     "imagen": null
   },
   {
@@ -421,7 +453,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "06/10/2026 16:02",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261010%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261010T164249Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0885a4fff7453d843ab332797b718eb7759f1a4e006c19518662671ba74803c6"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T031357Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d3b4f4fd3db64c7e65d9eab90e15ebba1f7d816d685750835b8daba790bc2d07"
   },
   {
     "blog": "Fabio.com.ar",
@@ -645,7 +677,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "04/10/2026 08:35",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261010%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261010T164249Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c7c56b4bee2a5a0e5b999bac074559431a3b66e03a1622b1ba3d641673d420a5"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6941/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T031357Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b6aaf90daa712fc8a6be35a8de120647f76e05ba9f47806195ded1ef95a45172"
   },
   {
     "blog": "THE_CHEI$",
@@ -654,29 +686,5 @@
     "fecha": "04/10/2026 07:02",
     "contenido": "Firefox 157 ya está entre nosotros y, entre muchas novedades, incorpora uno de los mayores rediseños en años, que ha sido bautizado como Nova. El caso es que, hasta ahora, yo usaba Firefox GNOME Theme para integrarlo en dicho escritorio, pero su falta de actualizaciones ha hecho que empiece a fallar",
     "imagen": "https://thecheis.com/wp-content/uploads/2026/10/firefox-nova-157-01.png"
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Writeober: Castillo",
-    "link": "https://blep.org/writeober--castillo",
-    "fecha": "04/10/2026 00:00",
-    "contenido": "Tras varios días andando sin cruzarse con nadie, Q llegó a una playa de piedras. El sol, ya bajando hacia el horizonte, arrancaba reflejos al mar que llenaban sus ojos de lágrimas cuando lo miraba. La decisión de girar hacia el norte fue guiada, más que nada, porque así le cegaba menos la luz.\n\nReco",
-    "imagen": null
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Noche de chicas",
-    "link": "https://escritura.social/mcallus/noche-de-chicas",
-    "fecha": "03/10/2026 20:15",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Mantalon",
-    "titulo": "41ª Actualización — Reseñas de Another Code y El maestro que prometió[...]",
-    "link": "https://mantalon.neocities.org/logs",
-    "fecha": "03/10/2026 19:19",
-    "contenido": "Reseñas de Another Code y El maestro que prometió el mar subidas a logs!!! además, botón y webring de ¡Blog!¡Blog! añadidos a la página.",
-    "imagen": null
   }
 ]
