@@ -1,5 +1,21 @@
 [
   {
+    "blog": "Blog hecho por humano - Fuente RSS",
+    "titulo": "losmagosdelaoscuridad.md",
+    "link": "https://blog.hechoporhumano.nohost.me/2026/10/11/losmagosdelaoscuridad-md/",
+    "fecha": "11/10/2026 18:14",
+    "contenido": "En su obra más reciente, la Dra. Cristina Martín Jiménez desvela los planes de la nueva élite del poder que según la autora impulsan la",
+    "imagen": null
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Spider-Noir: análisis de la serie de Nicolas Cage en Prime Video",
+    "link": "https://mareosdeungeek.es/spider-noir-prime-video/",
+    "fecha": "11/10/2026 18:11",
+    "contenido": "Spider-noir es la serie de Prime Video donde vemos a un Spider-man diferente. Ambientado en los años 30 en pleno auge de los gánsteres de la ciudad de Nueva York. Protagonizada por el incombustible Nicolas Cage que hace una gran interpretación en el papel de un héroe acabado y cansado de la vida. Co",
+    "imagen": null
+  },
+  {
     "blog": "La Frikoteca",
     "titulo": "Zothique, de Clark Asthon Smith",
     "link": "http://frikoteca.blogspot.com/2026/10/zothique-de-clark-asthon-smith.html",
@@ -13,7 +29,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "11/10/2026 14:11",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6952/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T170845Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3a27cd899338c7a4b55c12c3e9c846cf1fb5b75b3ab368b5f35719f74bab657a"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6952/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261012%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261012T033655Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d5d2143c984e2dca531f93075d529efe6b3dcfd10ebb8fce36b7d24dbc88c51c"
   },
   {
     "blog": "El Refugio de un Nerd",
@@ -72,14 +88,6 @@
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZTvktbtSCAvPNCTeSEp6I69ULqoB4xEp6gxBw8s5w7Iv0Kz_KPwc-25w46LQOEa1nZ0nKylA9xzlNCmgV5WQmMCUFlI6dE85esh09woYsHvHGNRhU3aQfLX_2WglX94cWGkMa3rMnU4CnkxczyzeJdlKw7usdhGitOBg-2VjpAGe3_NotXCHe3aqxz00/s72-c/Aulik%20y%20Pulsar%20en%20La%20Net%20-%207%20aniversario%20Blog%20Plutoide%20Marcianadas%20(2560x1966).jpg"
   },
   {
-    "blog": "Jinversor",
-    "titulo": "Tu puto curso",
-    "link": "https://jinversor.co/2026/10/tu-puto-curso/",
-    "fecha": "11/10/2026 04:44",
-    "contenido": "Voy a aprovechar que mi blog ya tiene fecha de vencimiento para despacharme contra todo lo que considero un puto fraude y entre esos timos se encuentran, cómo no, tu [&#8230;]\nLa entrada Tu puto curso se publicó primero en Jinversor.",
-    "imagen": null
-  },
-  {
     "blog": "JavierSam",
     "titulo": "10 años siguiendo a la luna",
     "link": "https://javiersam.uy/2026/10/10-anos-siguiendo-a-la-luna.html",
@@ -88,11 +96,19 @@
     "imagen": null
   },
   {
-    "blog": "Jinversor",
-    "titulo": "La maldita Internet",
-    "link": "https://jinversor.co/2026/10/la-maldita-internet/",
-    "fecha": "11/10/2026 02:25",
-    "contenido": "Se acaba una semana que Séneca en su infinita sabiduría llamaría semana de mierda. Bueno, no, qué desprolijo me he vuelto. Séneca diría merculenta tempora porque en el siglo I [&#8230;]\nLa entrada La maldita Internet se publicó primero en Jinversor.",
+    "blog": "Fierro Viejo",
+    "titulo": "COSMIC Desktop en Debian",
+    "link": "https://fierroviejo.com/2026/10/cosmic-desktop-en-debian.html",
+    "fecha": "11/10/2026 00:00",
+    "contenido": "Entorno de escritorio COSMIC en Debian.",
+    "imagen": null
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Activa o desactiva el salvapantalla en Linux desde el terminal",
+    "link": "https://chancli.dev/blog/gestiona-salvapantalla-linux-terminal.html",
+    "fecha": "11/10/2026 00:00",
+    "contenido": "Como os comenté hace tiempo, estoy volviendo a estudiar y aunque intento hacerlo todo con papel y lápiz, es muy útil consultar infografías y esquemas en la pantalla grande del ordenador.\nEn los momentos que estudio no quiero tener el salvapantalla activo porque es muy incómodo tener que ir desbloque",
     "imagen": null
   },
   {
@@ -110,14 +126,6 @@
     "fecha": "10/10/2026 17:57",
     "contenido": "Durante la presentación de su Modelo Argentino, Juan Perón concibe las necesidades del mismo, toda vez que explica cómo compilar e instalar el editor portable TDE en Ubuntu.&nbsp;¡Trabajadores!Nuestra Argentina necesita un Proyecto Nacional perteneciente al País en su totalidad. Estoy persuadido de ",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYjlAoBuC7s_LM-9EISTrfx_wxdU_m8LG3dEtkFH1NJ-X8LFLSSTPcbkN-V01afJQlte2f_lsBFqLef3-DJQF7BtUcW-ifOqGgAVjN_HjsoO3OkizEq0j_D4n4sp4yBHSGox63IpcnTSKA8Bv1fFLYoMls4UtUk0zyLL0xIRg-lsZN8gDkIC6zvE62uR6-/s72-c/peron-anuncio.jpg"
-  },
-  {
-    "blog": "Blog hecho por humano - Fuente RSS",
-    "titulo": "losmagosdelaoscuridad.md",
-    "link": "https://blog.hechoporhumano.nohost.me/2026/10/10/losmagosdelaoscuridad-md/",
-    "fecha": "10/10/2026 17:56",
-    "contenido": "En su obra más reciente, la Dra. Cristina Martín Jiménez desvela los planes de la nueva élite del poder que según la autora impulsan la",
-    "imagen": null
   },
   {
     "blog": "El Blog de un informático que sueña con mejorar el mundo",
@@ -309,7 +317,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "08/10/2026 13:35",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T170845Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=95470d23f3742ae3d0d09594a0122bdf73fbeabc3fd6547d2f4d46347ac65c53"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261012%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261012T033655Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7c39e027db62f2960668144ad970ff1ae5e4eb5ab3949d750f9198580d5ce911"
   },
   {
     "blog": "Fabio.com.ar",
@@ -360,14 +368,6 @@
     "imagen": null
   },
   {
-    "blog": "Jinversor",
-    "titulo": "Mantener a los burócratas",
-    "link": "https://jinversor.co/2026/10/mantener-a-los-burocratas/",
-    "fecha": "08/10/2026 04:10",
-    "contenido": "Comienzo a escribir este post a las 11:05 pm. No he dormido mucho en estos días porque tengo algunas preocupaciones. Intento adelantarme a unos hechos que quizás nunca pasen pero [&#8230;]\nLa entrada Mantener a los burócratas se publicó primero en Jinversor.",
-    "imagen": null
-  },
-  {
     "blog": "Diego Cano",
     "titulo": "Writeober: Bruma",
     "link": "https://blep.org/writeober--bruma",
@@ -381,6 +381,14 @@
     "link": "https://alex.corcoles.net/2026/10/el-dispositivo-de-culto",
     "fecha": "08/10/2026 00:00",
     "contenido": "\n  \n    Escrib&#237; hace poco aqu&#237; sobre \"el dispositivo de obediencia\", un t&#233;rmino con el que intento encuadrar la manera en la que creo que hay que usar los ordenadores e Internet.\n  \n  Y aqu&#237; viene lo que ser&#237;a la otra parte; la ant&#237;tesis del dispositivo de obediencia es",
+    "imagen": null
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Como montar directorio remoto en Linux con Rclone",
+    "link": "https://chancli.dev/blog/montar-directorio-remoto-vps-en-linux.html",
+    "fecha": "08/10/2026 00:00",
+    "contenido": "Necesitaba una forma sencilla para montar un directorio de mi VPS en mi equipo con Linux.\nInvestigué un poco las opciones y al final decidí quedarme con Rclone.\n¿Por qué Rclone? Porque es open-source, está activamente mantenido y además, aunque no lo necesito de momento, soporta &gt;70 proveedores.\n",
     "imagen": null
   },
   {
@@ -533,7 +541,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "06/10/2026 16:02",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261011%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261011T170845Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7efdf0411adb0df9b4e59c6145ef43958909b1eb9c86930aef1bd418bdea5221"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261012%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261012T033655Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3ad89a50541ba51bc7463ff099e23be492d4be9a8b7e28f03fd623db5e474595"
   },
   {
     "blog": "Fabio.com.ar",
@@ -678,53 +686,5 @@
     "fecha": "05/10/2026 05:00",
     "contenido": "Por: Carlos M.Publicado el 5 de octubre de 2026Crónica de los 100K Madrid-Segovia 2026, experiencia de la carrera desde la salida en Madrid hasta la llegada a Segovia, marcada por problemas físicos y las dificultades del recorrido.Continuar leyendo →#Trail-Running #Notas ",
     "imagen": "https://elblogdelazaro.org/images/micro/logo-madrid-segovia.webp"
-  },
-  {
-    "blog": "JavierSam",
-    "titulo": "“Una alianza para custodiar lo humano”",
-    "link": "https://javiersam.uy/2026/10/una-alianza-para-custodiar-lo-humano.html",
-    "fecha": "05/10/2026 03:00",
-    "contenido": "&#8230; Vivimos en la época de los motores de búsqueda, que en un segundo nos ofrecen miles de respuestas. Pero estos, por poderosos que sean, devuelven lo que ya existe y tienden a darnos lo que ya queremos. En la era de la técnica y del consumo, el gran peligro ya no es solamente la censura, sino ",
-    "imagen": null
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Writeober: Luna",
-    "link": "https://blep.org/writeober--luna",
-    "fecha": "05/10/2026 00:00",
-    "contenido": "— ...Y así es como la luna consiguió su lugar. — concluyó la anciana.\n\nLa gente de la caravana que, sentada alrededor de la hoguera, la escuchaba embelesada, se sacudió ligeramente mientras volvía a la realidad. Poco a poco, todo el mundo se fue levantando para irse a sus catres. Pronto sólo quedaro",
-    "imagen": null
-  },
-  {
-    "blog": "NevatBlog",
-    "titulo": "Haiku Beta 6",
-    "link": "https://nevat.neocities.org/haikub6_05102026.html",
-    "fecha": "05/10/2026 00:00",
-    "contenido": "En el mundo de los SO de código abierto hay vida más allá de Linux. Tenemos (entre otros) a los diferentes BSD. ReactOS y Haiku. Vamos a revisar este último en un ordenador y ver hasta donde llega.",
-    "imagen": null
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Problemas con el estudio, nuevo restaurante y llamando a la policía",
-    "link": "https://blog.danielaragay.net/problemas-con-el-estudio-nuevo-restaurante-y-llamando-a-la-policia/",
-    "fecha": "04/10/2026 23:00",
-    "contenido": "Nuevo episodio del podcast: Problemas con el estudio, nuevo restaurante y llamando a la polic&#xed;aEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/problemas-con-el-estudio-nuevo-restaurante-y-llamando-a-la-policia",
-    "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
-  },
-  {
-    "blog": "Sin nombre",
-    "titulo": "Última función",
-    "link": "https://martinvukovic.com/posts/2026/10-04-ultima-funcion.html",
-    "fecha": "04/10/2026 22:15",
-    "contenido": "Un encuentro desafortunado.",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "República Bananera de España: ¡Hasta luego Maricarmen!",
-    "link": "https://mareosdeungeek.es/republica-bananera-de-espana-hasta-luego-maricarmen/",
-    "fecha": "04/10/2026 20:55",
-    "contenido": "Sirva de aclaración, que aunque en esta entrada denuncie la utilización y politización de esta señora, el único uso de su nombre va a ser el título. Y como justificación, sirva esta explicación de una expresión muy de los 90. Dicho esto, empecemos. La última semana en España ha sido una locura, se h",
-    "imagen": null
   }
 ]
