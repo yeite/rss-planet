@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 12 Oct 2026 03:10:55 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 13:49:47 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>losmagosdelaoscuridad.md</title>
+<link>https://blog.hechoporhumano.nohost.me/2026/10/11/losmagosdelaoscuridad-md/</link>
+<guid isPermaLink="true">https://blog.hechoporhumano.nohost.me/2026/10/11/losmagosdelaoscuridad-md/</guid>
+<pubDate>Sun, 11 Oct 2026 18:14:00 GMT</pubDate>
+<category>Blog hecho por humano - Fuente RSS</category>
+<description><![CDATA[En su obra más reciente, la Dra. Cristina Martín Jiménez desvela los planes de la nueva élite del poder que según la autora impulsan la<br><br><strong>Fuente:</strong> Blog hecho por humano - Fuente RSS]]></description>
+</item>
+<item>
+<title>Spider-Noir: análisis de la serie de Nicolas Cage en Prime Video</title>
+<link>https://mareosdeungeek.es/spider-noir-prime-video/</link>
+<guid isPermaLink="true">https://mareosdeungeek.es/spider-noir-prime-video/</guid>
+<pubDate>Sun, 11 Oct 2026 18:11:00 GMT</pubDate>
+<category>Mareos de un geek</category>
+<description><![CDATA[Spider-noir es la serie de Prime Video donde vemos a un Spider-man diferente. Ambientado en los años 30 en pleno auge de los gánsteres de la ciudad de Nueva York. Protagonizada por el incombustible Nicolas Cage que hace una gran interpretación en el papel de un héroe acabado y cansado de la vida. Co<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
+</item>
 <item>
 <title>Zothique, de Clark Asthon Smith</title>
 <link>http://frikoteca.blogspot.com/2026/10/zothique-de-clark-asthon-smith.html</link>
@@ -90,14 +106,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Un Wichi-compañero del Wichi-server me ha preguntado en múltiples veces (2 veces sí la memoria no me falla) &amp;quot;¿cómo se lleva un blog?&amp;quot;. En esta entrada explicaré cómo crear un blog con Blogger y cómo estructurar el contenido para publicarlo; no es muy difícil, sí ya has publicado en medios<br><br><strong>Fuente:</strong> Plutoide Marcianadas]]></description>
 </item>
 <item>
-<title>Tu puto curso</title>
-<link>https://jinversor.co/2026/10/tu-puto-curso/</link>
-<guid isPermaLink="true">https://jinversor.co/2026/10/tu-puto-curso/</guid>
-<pubDate>Sun, 11 Oct 2026 04:44:00 GMT</pubDate>
-<category>Jinversor</category>
-<description><![CDATA[Voy a aprovechar que mi blog ya tiene fecha de vencimiento para despacharme contra todo lo que considero un puto fraude y entre esos timos se encuentran, cómo no, tu [&amp;#8230;] La entrada Tu puto curso se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
-</item>
-<item>
 <title>10 años siguiendo a la luna</title>
 <link>https://javiersam.uy/2026/10/10-anos-siguiendo-a-la-luna.html</link>
 <guid isPermaLink="true">https://javiersam.uy/2026/10/10-anos-siguiendo-a-la-luna.html</guid>
@@ -106,12 +114,20 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Agustín Ferrando es un videorealizador uruguayo, muy conocido, entre otras cosas, por ser el creador de Tiranos Temblad. También tiene otra web serie muy interesante: Analizando humanos.Y, hace unos días, estrenó una nueva: Misiones Inútiles. Y el primer video de esta nueva serie es fantástico: No d<br><br><strong>Fuente:</strong> JavierSam]]></description>
 </item>
 <item>
-<title>La maldita Internet</title>
-<link>https://jinversor.co/2026/10/la-maldita-internet/</link>
-<guid isPermaLink="true">https://jinversor.co/2026/10/la-maldita-internet/</guid>
-<pubDate>Sun, 11 Oct 2026 02:25:00 GMT</pubDate>
-<category>Jinversor</category>
-<description><![CDATA[Se acaba una semana que Séneca en su infinita sabiduría llamaría semana de mierda. Bueno, no, qué desprolijo me he vuelto. Séneca diría merculenta tempora porque en el siglo I [&amp;#8230;] La entrada La maldita Internet se publicó primero en Jinversor.<br><br><strong>Fuente:</strong> Jinversor]]></description>
+<title>COSMIC Desktop en Debian</title>
+<link>https://fierroviejo.com/2026/10/cosmic-desktop-en-debian.html</link>
+<guid isPermaLink="true">https://fierroviejo.com/2026/10/cosmic-desktop-en-debian.html</guid>
+<pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+<category>Fierro Viejo</category>
+<description><![CDATA[Entorno de escritorio COSMIC en Debian.<br><br><strong>Fuente:</strong> Fierro Viejo]]></description>
+</item>
+<item>
+<title>Activa o desactiva el salvapantalla en Linux desde el terminal</title>
+<link>https://chancli.dev/blog/gestiona-salvapantalla-linux-terminal.html</link>
+<guid isPermaLink="true">https://chancli.dev/blog/gestiona-salvapantalla-linux-terminal.html</guid>
+<pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+<category>Chancli.dev</category>
+<description><![CDATA[Como os comenté hace tiempo, estoy volviendo a estudiar y aunque intento hacerlo todo con papel y lápiz, es muy útil consultar infografías y esquemas en la pantalla grande del ordenador. En los momentos que estudio no quiero tener el salvapantalla activo porque es muy incómodo tener que ir desbloque<br><br><strong>Fuente:</strong> Chancli.dev]]></description>
 </item>
 <item>
 <title>Inventos que no bendeciría el Papa</title>
@@ -128,14 +144,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Sat, 10 Oct 2026 17:57:00 GMT</pubDate>
 <category>Ubuntu Peronista</category>
 <description><![CDATA[Durante la presentación de su Modelo Argentino, Juan Perón concibe las necesidades del mismo, toda vez que explica cómo compilar e instalar el editor portable TDE en Ubuntu.&amp;nbsp;¡Trabajadores!Nuestra Argentina necesita un Proyecto Nacional perteneciente al País en su totalidad. Estoy persuadido de<br><br><strong>Fuente:</strong> Ubuntu Peronista]]></description>
-</item>
-<item>
-<title>losmagosdelaoscuridad.md</title>
-<link>https://blog.hechoporhumano.nohost.me/2026/10/10/losmagosdelaoscuridad-md/</link>
-<guid isPermaLink="true">https://blog.hechoporhumano.nohost.me/2026/10/10/losmagosdelaoscuridad-md/</guid>
-<pubDate>Sat, 10 Oct 2026 17:56:00 GMT</pubDate>
-<category>Blog hecho por humano - Fuente RSS</category>
-<description><![CDATA[En su obra más reciente, la Dra. Cristina Martín Jiménez desvela los planes de la nueva élite del poder que según la autora impulsan la<br><br><strong>Fuente:</strong> Blog hecho por humano - Fuente RSS]]></description>
 </item>
 <item>
 <title>Primeros pasos con GrapheneOS</title>
@@ -208,14 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Fri, 09 Oct 2026 11:09:00 GMT</pubDate>
 <category>Un blog</category>
 <description><![CDATA[Pihole es genial. No te agarra toda la publicidad, pero sí bastante, como para hacer la experiencia un poco mejor. Obviamente tener ublock instalado es mejor, sí, pero el problema es que en teléfonos, por ejemplo, es un poco demasiado pesado. Y tampoco anda adentro de apps, que en algunos casos pued<br><br><strong>Fuente:</strong> Un blog]]></description>
-</item>
-<item>
-<title>Tres pueblos para descubrir la Siberia extremeña más desconocida: Tamurejo, Baterno y Garlitos</title>
-<link>https://pepografo.com/tres-pueblos-para-descubrir-la-siberia-extremena-mas-desconocida-tamurejo-baterno-y-garlitosuta-siberia-extremena-tamurejo-baterno-garlitos/</link>
-<guid isPermaLink="true">https://pepografo.com/tres-pueblos-para-descubrir-la-siberia-extremena-mas-desconocida-tamurejo-baterno-y-garlitosuta-siberia-extremena-tamurejo-baterno-garlitos/</guid>
-<pubDate>Fri, 09 Oct 2026 11:03:00 GMT</pubDate>
-<category>Pepógrafo</category>
-<description><![CDATA[Por Almudena Villar Novillo No hace falta grandes monumentos para encontrar una Extremadura extraordinaria: a veces basta con desviarse de las rutas habituales La inmensidad de Extremadura invita a perderse, a despistarse y a desviarse de los senderos conocidos para toparse con lo desconocido. Y, as<br><br><strong>Fuente:</strong> Pepógrafo]]></description>
 </item>
 
 </channel>
