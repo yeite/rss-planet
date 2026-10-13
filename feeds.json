@@ -1,5 +1,13 @@
 [
   {
+    "blog": "gorkula.com",
+    "titulo": "Ahora los hackers pueden robar vídeos de tus caries",
+    "link": "https://www.gorkula.com/cepillo-dientes-camara",
+    "fecha": "12/10/2026 19:53",
+    "contenido": "Estos últimos meses he paseado mucho por el nuevo barrio. Una de mis cosas favoritas de este barrio es la cantidad de flyers que hay pegados en farolas y paredes. Suelo hacer foto a los que más me llaman la atención y siempre pienso en subirlas a algún lado.\n\nCaminando el otro día con mi mujer me in",
+    "imagen": "https://www.gorkula.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjgzLCJwdXIiOiJibG9iX2lkIn19--7b71f0b4cf4fb113e4273aeaf69c8bcfe0832a42/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2xpbWl0IjpbODAwLDgwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--92d8ba39e960d4d4499353f454d0ccb29fb6eb1c/IMG_3595.jpeg"
+  },
+  {
     "blog": "Plutoide Marcianadas",
     "titulo": "Wichito X - Nuevo Amanecer (Purrbyte Project)",
     "link": "https://plutoidemarcianadas.blogspot.com/2026/10/wichito-x-nuevo-amanecer-purrbyte.html",
@@ -96,6 +104,22 @@
     "imagen": "https://elblogdelazaro.org/images/posts/2026/btrfs/brtfs-01.png"
   },
   {
+    "blog": "NevatBlog",
+    "titulo": "Hylki: cliente de correo rápido para Gnome",
+    "link": "https://nevat.neocities.org/hylik_12102026.html",
+    "fecha": "12/10/2026 00:00",
+    "contenido": "¿Otro cliente de correo para Gnome? Pues si, este con muchas más opciones y algunas características curiosas.",
+    "imagen": null
+  },
+  {
+    "blog": "Maverick HQ",
+    "titulo": "weeknotes 26.6",
+    "link": "https://maverick-hq.org/blog/weeknotes-26-6/",
+    "fecha": "12/10/2026 00:00",
+    "contenido": "Hoy es 12 de octubre. ¡Nuestra fiesta nacional! ¡Celebremos que no hay que ir al trabajo! Bueno... al menos yo no tengo que ir al trabajo.\nHace semanas que no escribo nada porque he estado liado con temas personales y al final del día no me quedaban ganas de ponerme a pensar, lo cuál puede ser bueno",
+    "imagen": null
+  },
+  {
     "blog": "Blog hecho por humano - Fuente RSS",
     "titulo": "losmagosdelaoscuridad.md",
     "link": "https://blog.hechoporhumano.nohost.me/2026/10/11/losmagosdelaoscuridad-md/",
@@ -117,7 +141,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "11/10/2026 16:38",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6953/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261012%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261012T204030Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=490887f887ae17a2d743c8df98543f8a601bb83a2136990c8eb17c4f7eaa0711"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6953/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261013%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261013T045031Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9dbd085fa783427561dfe0415e095e41fa01e8a01fecd38cf936b8ba6e19bd19"
   },
   {
     "blog": "La Frikoteca",
@@ -413,7 +437,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "08/10/2026 13:35",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261012%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261012T204030Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=83b7f5516cb55fa7ae233f307ea9893781b08467480af963b729c4a6b82a9692"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6946/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261013%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261013T045031Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=79862f803c32f6e784e24a95226743ee6ee619ac2998e06f883f82bbdb145501"
   },
   {
     "blog": "Fabio.com.ar",
@@ -629,7 +653,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "06/10/2026 16:02",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261012%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261012T204030Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f4a5504ac23558c20594c02aa6f227d825f3d57832543a6d98e2ed56ffc9ffc5"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6944/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261013%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261013T045031Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f60f98d2afa89c7e38c50dbfd29c26cd1d5b4b21810e3992764a12702f8307d2"
   },
   {
     "blog": "Fabio.com.ar",
@@ -694,21 +718,5 @@
     "fecha": "06/10/2026 07:00",
     "contenido": "«Higuera de Vargas, villa de la provincia de Badajoz, situada en terreno desigual, de dilatadas dehesas, abundantes encinas, pastos y tierras de labor. Clima seco y extremado; veranos largos y calurosos, con cerca de quince horas de luz en los días próximos al solsticio. Produce cereales, pastos y f",
     "imagen": null
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Writeober: camposanto",
-    "link": "https://blep.org/writeober--camposanto",
-    "fecha": "06/10/2026 00:00",
-    "contenido": "Caminaba por un valle bucólico, recorriendo un camino a la sombra de los árboles, cuando vislumbró algo más adelante un muro alto de piedra que corría junto a la senda. Al acercarse, empezó a oir música y ruido de jolgorio procediente del otro lado de dicho muro, por encima del cual nada se veía apa",
-    "imagen": null
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "589. La juventud de la nación",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/10/589-la-juventud-de-la-nacion.html",
-    "fecha": "05/10/2026 22:00",
-    "contenido": "&nbsp; &nbsp; Juventud.&nbsp; &nbsp; Qué época tragicómica aquella: espíritu gremial, profunda ignorancia, mucha hambre, traiciones, desengaños supinos, vomitonas, bromas crueles, macedonia de drogas y amaneceres deprimentes. No sé cómo no me tiré de cabeza por un acantilado, no sin antes llevarme p",
-    "imagen": "https://img.youtube.com/vi/EDKwCvD56kw/default.jpg"
   }
 ]
