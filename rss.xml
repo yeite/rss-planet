@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 14 Oct 2026 02:36:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 10:48:54 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Rol cyberpunk y postapocalítico</title>
+<link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/14/20261014-juegos-rol-ciberpunk/</link>
+<guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/14/20261014-juegos-rol-ciberpunk/</guid>
+<pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
+<category>ENTRE DRAGONES Y PINGÜINOS</category>
+<description><![CDATA[Intento jugar a cosas que se alejen de mi día a día, pero a veces merece la darle una patada ficticia a una megacorporación<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+</item>
+<item>
+<title>Compas con bandas, los invito a armarse un perfil en el Hitz, ahorita es cuando</title>
+<link>https://blog.luiscarlospando.com/musica/2026/10/compas-con-bandas-los-invito-a-armarse-un-perfil-en-el-hitz-ahorita-es-cuando/</link>
+<guid isPermaLink="true">https://blog.luiscarlospando.com/musica/2026/10/compas-con-bandas-los-invito-a-armarse-un-perfil-en-el-hitz-ahorita-es-cuando/</guid>
+<pubDate>Tue, 13 Oct 2026 23:01:00 GMT</pubDate>
+<category>Luis Carlos Pando</category>
+<description><![CDATA[Estos últimos días he estado trabajando mucho en el Hitz, y uno de los temas que más me interesa resolver es cómo hacer que la plataforma sea sostenible y rentable. Sé que somos un proyecto de nicho. Lo más probable es que no alcancemos un crecimiento masivo y nuestra filosofía parte de apoyar genui<br><br><strong>Fuente:</strong> Luis Carlos Pando]]></description>
+</item>
 <item>
 <title>HomeView: un iPad para que lo use toda la familia</title>
 <link>https://matizeta.com/2026/10/13/homeview-un-ipad-para-que-lo-use-toda-la-familia/</link>
@@ -200,22 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Mon, 12 Oct 2026 07:10:00 GMT</pubDate>
 <category>_ voidNull</category>
 <description><![CDATA[WriteFreely es una plataforma de publicación minimalista hecha para escritores. Inicia un blog, comparte conocimientos dentro de tu organización o crea una comunidad en torno al acto compartido de escribir.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Manejar subvolumenes btrfs en Fedora</title>
-<link>https://elblogdelazaro.org/btrfs-fedora-ventajas-inconvenientes-subvolumenes/</link>
-<guid isPermaLink="true">https://elblogdelazaro.org/btrfs-fedora-ventajas-inconvenientes-subvolumenes/</guid>
-<pubDate>Mon, 12 Oct 2026 02:00:00 GMT</pubDate>
-<category>El blog de Lázaro</category>
-<description><![CDATA[Por: Carlos M.Publicado el 12 de octubre de 2026Qué es Btrfs, por qué Fedora lo usa por defecto, sus ventajas e inconvenientes, cómo listar subvolúmenes, comprobar uso, crear nuevos subvolúmenes, montarlos con fstab y eliminarlos correctamente.Continuar leyendo →#Btrfs #Fedora #Linux<br><br><strong>Fuente:</strong> El blog de Lázaro]]></description>
-</item>
-<item>
-<title>Hylki: cliente de correo rápido para Gnome</title>
-<link>https://nevat.neocities.org/hylik_12102026.html</link>
-<guid isPermaLink="true">https://nevat.neocities.org/hylik_12102026.html</guid>
-<pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-<category>NevatBlog</category>
-<description><![CDATA[¿Otro cliente de correo para Gnome? Pues si, este con muchas más opciones y algunas características curiosas.<br><br><strong>Fuente:</strong> NevatBlog]]></description>
 </item>
 
 </channel>
