@@ -1,11 +1,131 @@
 [
   {
+    "blog": "El Cordón",
+    "titulo": "Añadí buscador por tags",
+    "link": "https://geroluna44.github.io/blog/posts/anadido-buscador-tags/",
+    "fecha": "12/11/2026 00:00",
+    "contenido": "Añadí un buscador por tags a mi blog",
+    "imagen": null
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Equipos: Transmisor FM con DSP",
+    "link": "https://interlan.ec/blog/2026/10/16/equipos-transmisor-fm-con-dsp/",
+    "fecha": "16/10/2026 14:00",
+    "contenido": "Hace bastante tiempo, al parecer ya por el 2022 o mucho antes. había comprado este pequeño aparatito con el fin de hacer experimentos. En realidad es bastante más útil de lo que parece y tiene una calidad increíble. Si bien compré este aparatito en Banggood, es mas fácil localizar información sobre ",
+    "imagen": null
+  },
+  {
+    "blog": "Fixionauta",
+    "titulo": "",
+    "link": "https://fixionauta.net/2026/10/16/231345/",
+    "fecha": "16/10/2026 12:30",
+    "contenido": "Necesitaba un dibujo para promocionar otro evento que tendrá lugar el 31 de octubre, afortunadamente tenía listo este dibujo cuyo boceto ya había compartido por aquí. Como el flyer va a escala de grises añadí algo más a la línea.",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #963",
+    "link": "https://www.fabio.com.ar/10054-links-de-viernes---963",
+    "fecha": "16/10/2026 12:00",
+    "contenido": "     Hartos de la lluvia, hora de leer!\nY lleg&oacute; el viernes de semana corta, pero no pareciera porque, por alguna raz&oacute;n, consegu&iacute; un mont&oacute;n de links y muy buenos! As&iacute; que si est&aacute;n podridos de tantos d&iacute;as lluviosos aqu&iacute; les traigo alegr&iacute;as",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/ldv963.jpg"
+  },
+  {
+    "blog": "",
+    "titulo": "Curso.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/10/16/curso-3/",
+    "fecha": "16/10/2026 11:39",
+    "contenido": "",
+    "imagen": "https://0.gravatar.com/avatar/306e19f08d8518c022c73f6d5ff0a80ddbf5622a55b8887868d29bf280546143?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "The Faith of Beasts - James S.A. Corey",
+    "link": "https://nachof.blog/posts/2026/the-faith-of-beasts/",
+    "fecha": "16/10/2026 11:05",
+    "contenido": "\n\n\n\n\n\n\n\n\n\n★\n\n★\n\n★\n\n★\n\n★\n\n\n\n\n\nThe Faith of Beasts es el segundo libro de la serie The Captive&rsquo;s War. El primero es The Mercy of Gods, y también hay una historia corta en el medio, Livesuit.\nThe Faith of Beasts sigue la historia principal, que empezó en The Mercy of Gods. Livesuit es un poco apa",
+    "imagen": "https://nachof.blog/posts/2026/the-faith-of-beasts/cover.jpg"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Focused: Devil’s Kiss | Retratos De Una Época",
+    "link": "https://www.delotroladometal.com.ar/2026/10/16/recordando-los-viejos-buenos-tiempos/",
+    "fecha": "16/10/2026 10:35",
+    "contenido": "(2025 &#8211; Steadfast Records) Habrá alguien que recuerde a los Focused? Por más extraño que...\nThe post Focused: Devil’s Kiss | Retratos De Una Época first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Dancing with Ghosts",
+    "link": "https://cozykis.kisworld.es/analisis-de-dancing-with-ghosts/",
+    "fecha": "16/10/2026 10:17",
+    "contenido": "Una aventura tan triste como tierna en la que ayudar a les demás sera imprescindible para \nLa entrada Análisis de Dancing with Ghosts se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Mi perra vida",
+    "titulo": "Mi perra vida | Temporada 2026, episodio 42.",
+    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-42/",
+    "fecha": "16/10/2026 10:11",
+    "contenido": "Doctor Nómada (décimo octava parte)\nLeer la décimo séptima parte\nLeonor y Liz no quisieron esperar en la casa mientras iba por Leonila a la terminal de autobuses. Así que, nos organizamos para salir con tiempo, la curiosidad por tener noticias sobre el estado de Luzma nos hizo apresurarnos, lo cual ",
+    "imagen": "https://miperravida.anacronico.rocks/wp-content/uploads/2026/10/photo-769x1024.jpg"
+  },
+  {
+    "blog": "PanicError",
+    "titulo": "20 años no es nada",
+    "link": "http://panicerror.org/blog/20-a%C3%B1os-educacion.md.html",
+    "fecha": "16/10/2026 07:30",
+    "contenido": "«Que 20 años no es nada» como dice el tango habría que verlo bien. A unos pocos días de empezar este curso empecé a pensar que justo 20 son los años que llevo en esto de la educación. No diría yo en este sentido que han sido nada. Fue un lejano primero de septiembre de 2006 cuando crucé la puerta de",
+    "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Proxmox VE [Proxmox #3]",
+    "link": "https://voidnull.es/instalacion-de-proxmox-ve-proxmox-3/",
+    "fecha": "16/10/2026 07:07",
+    "contenido": "En este capítulo explicaremos todo lo necesario para instalar Proxmox VE.",
+    "imagen": "https://voidnull.es/content/images/2022/01/proxmox.png"
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "La cabaña",
+    "link": "https://escritura.social/mcallus/la-cabana",
+    "fecha": "16/10/2026 06:48",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "Malagueños originales y libres",
+    "titulo": "Rescatando equipo de música Sharp SG-FR35H (BK)",
+    "link": "https://malagaoriginal.blogspot.com/2026/10/rescatando-equipo-de-musica-sharp-sg.html",
+    "fecha": "16/10/2026 05:59",
+    "contenido": "Rescatado junto a la basura este equipo compacto Sharp, con tocadiscos, radio FM/MW/LW, doble pletina y entrada auxiliar.&nbsp;El primer paso es ver como está así que me la he jugado y lo he enchufado a la corriente, después de abrir la tapa trasera, limpiar un poco, secar y ver que no había nada ev",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioOTQt1c57IuiJ76pw5B6HxCrRvXPfxFkR_HpSZaKFWSOBiapnXS2tZznWEEJvTftiNad9XfHZdLGxNfPuJxDh-Y9qf_0XfcpIhPq53tSroWh6vCP23FHyp6K25u_r3KvUQ0uScYgkd5StOmoT72aeZOhcyAelXBFuCpv-0bexKk8vIEjzLXcSJPImUJc/s72-w640-h360-c/IMG_20260831_190902.jpg"
+  },
+  {
+    "blog": "JavierSam",
+    "titulo": "Firefox: desactivar la IA automática del buscador de Google",
+    "link": "https://javiersam.uy/2026/10/firefox-desactivar-la-ia-automatica-del-buscador-de-google.html",
+    "fecha": "16/10/2026 03:00",
+    "contenido": "Llegado el caso sí hago búsquedas utilizando ia. Pero me molesta que ese sea el comportamiento predefinido del buscador. No me parece razonable. Por eso a continuación comento algunas opciones para quitar la ia del bucador de forma predefinida. Quitar la ia del buscador de Google en la barra de dire",
+    "imagen": null
+  },
+  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo Juego Simcity en la Terminal de Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2026/10/como-instalo-el-de-simcity-ttycity-en-ubuntu.html",
     "fecha": "16/10/2026 01:38",
     "contenido": "En&nbsp;Manual Práctico del Segundo Plan Quinquenal, Juan Perón expone cómo persuadir para su realización, a la vez que enseña cómo instalar el simulador de ciudades ttycity para la terminal de Ubuntu.(...)Eramos una sociedad en que una Clase minoritaria rica y prepotente, oprimía a otra pobre&nbsp;",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZhb3E9Hs-0NdJ5-1hY8xlzVjpYQiv-ATaqAK41TsT_i5DdyQcWcBOd0_x09yXSp1RCrxENYjt75eterz3wL8R-smL4cZbwR2QvAeW5BlfnkdmzJVUwDAxUuVZA0NEKpPHLP699lGJHXiWnBnyXQp8tVmjz_nDErbAY2LwW3RnZs3Rw3xaTYehmpb59xVX/s72-c/per%C3%B3n.png"
+  },
+  {
+    "blog": "End3r.es",
+    "titulo": "Providence, Un viaje al corazón del horror lovecraftiano",
+    "link": "https://www.end3r.es/posts/025-providence-viaje-al-horror-lovecraftiano/",
+    "fecha": "16/10/2026 00:00",
+    "contenido": "Hablar de Alan Moore es hablar de obras como Watchmen o V de Vendetta, autenticos pilares del noveno arte.\nPero existe una joya más tardía y perturbadora que merece la misma atención:  Providence, publicada originalmente\nentre 2015 y 2017 en doce números, constituye uno de los acercamientos más ambi",
+    "imagen": null
   },
   {
     "blog": "Mareos de un geek",
@@ -21,7 +141,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "15/10/2026 18:53",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261016%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261016T023252Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ac36b3aab493cf6619a0753907853ef47f8b85e93639e574f459945ee6ab5576"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261016%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261016T155146Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ecc4f1f24053e316f7901276e9dbf7f518c17380bd27644f861697138649290c"
   },
   {
     "blog": "CozyKis",
@@ -84,13 +204,13 @@
     "titulo": "Las murallas del espanto",
     "link": "http://locutusbit.blogspot.com/2026/10/las-murallas-del-espanto.html",
     "fecha": "15/10/2026 12:00",
-    "contenido": "&nbsp;Lanzas, puñales y palabras;todas son buenas si deforman el cuerpo y la mente.No importa si terminas en una sepultura,al borde del camino, o baca abajo flotando en el océano.Sólo habría que retocar algún que otro detalle.Palabra, lanzas y puñales;todas son buenas para tu pobreza y de otros la r",
+    "contenido": "&nbsp;Lanzas, puñales y palabras;todas son buenas si deforman el cuerpo y la mente.No importa si terminas en una sepultura,al borde del camino, o boca abajo flotando en el océano.Sólo habría que retocar algún que otro detalle.Palabra, lanzas y puñales;todas son buenas para tu pobreza y de otros la r",
     "imagen": null
   },
   {
     "blog": "La línea doméstica",
     "titulo": "Matemáticamente inteligentes",
-    "link": "https://jmlro.codeberg.page/posts/20261015f-matematicamente-inteligentes.txt",
+    "link": "https://jmlro.codeberg.page/posts/matematicamente-inteligentes.txt",
     "fecha": "15/10/2026 12:00",
     "contenido": "Me han estado mareando con ese suceso o evento de el Hugging Face donde cientos de Agentes han hecho no-sé-qué burlando la seguridad blablabla. No creo que esos agentes, según se cuenta la historia, tengan malicia o ego maquiavélico de ningún tipo. Solo confunden optimización con inteligencia. Hacen",
     "imagen": null
@@ -180,13 +300,13 @@
     "titulo": "Nada es verdad, de Veronica Raimo",
     "link": "https://mareosdeungeek.es/nada-es-verdad-de-veronica-raimo/",
     "fecha": "14/10/2026 12:00",
-    "contenido": "Nada es verdad, escrito por Veronica Raimo es uno de los libros que he leído en las últimas semanas. Típico libro que acaban de devolver en la biblioteca y aparece en la estanteria de el preciso momento que la visitas. Estamos ante un libro, cuanto menos, original, aunque en la contraportada se cita",
+    "contenido": "Nada es verdad, escrito por Veronica Raimo es uno de los libros que he leído en las últimas semanas. Típico libro que acaban de devolver en la biblioteca y aparece en la estanteria en el preciso momento que la visitas. Estamos ante un libro, cuanto menos, original, aunque en la contraportada se cita",
     "imagen": null
   },
   {
     "blog": "La línea doméstica",
     "titulo": "Lo-Fi y cámaras digitales compactas",
-    "link": "https://jmlro.codeberg.page/posts/20261014f-lo-fi-y-camaras-digitales-compactas.txt",
+    "link": "https://jmlro.codeberg.page/posts/lo-fi-y-camaras-digitales-compactas.txt",
     "fecha": "14/10/2026 12:00",
     "contenido": "Echo de menos disparar fotos. Antes de tener hijos era un plan, sacar la cámara a pasear, afinar el ojo y disparar fotos. Ahora la mayoría de fotos tienen excusas familiares. No me maliterpretes, me encanta sacar ese tipo de fotos y estoy orgulloso de tener un buen archivo.\n\nMe planteaba apuntar y d",
     "imagen": null
@@ -301,7 +421,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "13/10/2026 15:51",
     "contenido": "    ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6960/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261016%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261016T023252Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=610574eff422dd494273037f407d8e92cab8ebac8c0ccba43b836f78a734cc2c"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6960/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261016%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261016T155146Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3cb50fcd4f164a2af0e4e2945ebd9cc13216f0ac67b9299ae84e3629e52b352d"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -372,7 +492,7 @@
     "titulo": "Las insólitas señales de tráfico de Extremadura que protegen a linces y anfibios",
     "link": "https://pepografo.com/senales-trafico-extremadura-linces-anfibios/",
     "fecha": "13/10/2026 06:00",
-    "contenido": "La señalización vial en Extremadura incluye indicativos únicos diseñados específicamente para proteger la biodiversidad de la región Arrancó octubre y con él llegó novedades en la señalización de tráfico. La Dirección General de Tráfico (DGT) actualiza el Reglamento General de Circulación ante las n",
+    "contenido": "La señalización vial en Extremadura incluye indicativos únicos diseñados específicamente para proteger la biodiversidad de la región Arrancó octubre y con él llegaronnovedades en la señalización de tráfico. La Dirección General de Tráfico (DGT) actualiza el Reglamento General de Circulación ante las",
     "imagen": null
   },
   {
@@ -444,7 +564,15 @@
     "titulo": "La resistencia invisible",
     "link": "https://mareosdeungeek.es/la-resistencia-invisible/",
     "fecha": "12/10/2026 13:30",
-    "contenido": "La resistencia invisible (The world will Tremble) es un drama histórico ambientado en plena Segunda Guerra Mundial. Dirigida por Lior Geller que recupera una historia real poco conocida: la fuga de dos prisioneros judíos del campo de exterminio de Chełmno y su empeño en convertir aquella huida en el",
+    "contenido": "La resistencia invisible (The world will Tremble) es un drama histórico ambientado en plena Segunda Guerra Mundial. Dirigida por Lior Geller recupera una historia real poco conocida: la fuga de dos prisioneros judíos del campo de exterminio de Chełmno y su empeño en convertir aquella huida en el pri",
+    "imagen": null
+  },
+  {
+    "blog": "Diego's Island",
+    "titulo": "Mes de Universidad.",
+    "link": "https://diegoaep.codeberg.page/blog/mes-de-universidad/",
+    "fecha": "12/10/2026 12:01",
+    "contenido": "Resumen del mes de septiembre en la universidad.",
     "imagen": null
   },
   {
@@ -496,6 +624,14 @@
     "imagen": null
   },
   {
+    "blog": "El Cordón",
+    "titulo": "Poniendomé las pilas",
+    "link": "https://geroluna44.github.io/blog/posts/poniendo-pilas/",
+    "fecha": "12/10/2026 00:00",
+    "contenido": "Poniendolé más ganas a mi entrenamiento y a mi deporte.",
+    "imagen": null
+  },
+  {
     "blog": "Blog hecho por humano - Fuente RSS",
     "titulo": "losmagosdelaoscuridad.md",
     "link": "https://blog.hechoporhumano.nohost.me/2026/10/11/losmagosdelaoscuridad-md/",
@@ -517,7 +653,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "11/10/2026 16:38",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6953/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261016%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261016T023252Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=394aae76a33201232a8f85251569b9f1273ded376868ab3feaab2d39d6c1fba5"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6953/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261016%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261016T155146Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3af0de503090352d238e6243aecbbbacf80e72329215f0c3834f95f24ffc1f4d"
   },
   {
     "blog": "La Frikoteca",
@@ -654,125 +790,5 @@
     "fecha": "10/10/2026 00:00",
     "contenido": "Se acercaba ya el fin de septiembre cuando Q recorría una zona de viñedos en los que un montón de gente se afanaba recogiendo uva en grandes cestos que vaciaban en carros tirados por burros cada cierto tiempo. Con cierta curiosidad, decidió seguir uno de esos carros cuando, ya rebosante, arrancó por",
     "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "KashCal: un calendario todo en uno",
-    "link": "https://voidnull.es/kashcal-un-calendario-todo-en-uno/",
-    "fecha": "09/10/2026 15:30",
-    "contenido": "Calendario privado para Android con soporte para CalDAV, iCloud, Nextcloud, calendarios locales e ICS.",
-    "imagen": "https://voidnull.es/content/images/2026/03/fdroid-2.png"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 41 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/10/09/opensuse-tumbleweed-revision-de-la-semana-41-de-2026/",
-    "fecha": "09/10/2026 15:07",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Articulo: Todo es un Foro y la Ambición de ser Todo",
-    "link": "https://interlan.ec/blog/2026/10/09/articulo-todo-es-un-foro-y-la-ambicion-de-ser-todo/",
-    "fecha": "09/10/2026 14:00",
-    "contenido": "Comenzamos con un bucle extraño. Esta reducción al absurdo puede ser extendida a \"Todo es una conversación\" puesto que tal es solo el dialogo entre, mínimo, dos interlocutores. La razón por la que no llego a ese extremo es para analizar la forma en la que las plataformas sociales tratan de acaparar ",
-    "imagen": null
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/10/09/228732/",
-    "fecha": "09/10/2026 12:30",
-    "contenido": "Lector invocando (de manera inadvertida) una mano peluda. Tinta y color en el transcurso de la próxima semana. Para un evento de @leyendas en la Feria Iinternacional del Libro de Monterrey. Por cierto, se basa en un boceto anterior que se usó como promo para una actividad interna.",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #962",
-    "link": "https://www.fabio.com.ar/10049-links-de-viernes---962",
-    "fecha": "09/10/2026 12:00",
-    "contenido": "     Llegaste justo para los links\nEstuve durante la semana programando muchas cosas para mejorar el sitio de LinksDV, ahora \"por dentro\" funciona mucho mejor, m&aacute;s seguro y eficiente, obviamente apenas se ven unos cambios superficiales, pero pronto lo mejorar&eacute; tambi&eacute;n por ese la",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/ldv962.jpg"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Pihole y DNS hardcodeados",
-    "link": "https://nachof.blog/posts/2026/pihole-y-dns-hardcodeados/",
-    "fecha": "09/10/2026 11:09",
-    "contenido": "Pihole es genial. No te agarra toda la publicidad, pero sí bastante, como para hacer la experiencia un poco mejor. Obviamente tener ublock instalado es mejor, sí, pero el problema es que en teléfonos, por ejemplo, es un poco demasiado pesado. Y tampoco anda adentro de apps, que en algunos casos pued",
-    "imagen": "https://nachof.blog/posts/2026/pihole-y-dns-hardcodeados/router.png"
-  },
-  {
-    "blog": "Pepógrafo",
-    "titulo": "Tres pueblos para descubrir la Siberia extremeña más desconocida: Tamurejo, Baterno y Garlitos",
-    "link": "https://pepografo.com/tres-pueblos-para-descubrir-la-siberia-extremena-mas-desconocida-tamurejo-baterno-y-garlitosuta-siberia-extremena-tamurejo-baterno-garlitos/",
-    "fecha": "09/10/2026 11:03",
-    "contenido": "Por Almudena Villar Novillo No hace falta grandes monumentos para encontrar una Extremadura extraordinaria: a veces basta con desviarse de las rutas habituales La inmensidad de Extremadura invita a perderse, a despistarse y a desviarse de los senderos conocidos para toparse con lo desconocido. Y, as",
-    "imagen": null
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Dicevaders",
-    "link": "https://cozykis.kisworld.es/analisis-de-dicevaders/",
-    "fecha": "09/10/2026 10:56",
-    "contenido": "Planea tu estrategia, coloca unidades mortales y consigue vengarte de les malvades humanes destruyendo el sistema solar Dicevaders es un roguelike de dados espacial en el que tendremos que construirnos nuestro tablero y llenarlo de unidades para derrotar a malvades enemigues. Inicio Todo empieza cua",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Nuevo Tema Y Video Clip Para Los Eslovacos | Within Silence Estrena “Soldiers Of The Rising Dawn”",
-    "link": "https://www.delotroladometal.com.ar/2026/10/09/within-silence-estrena-soldiers-of-the-rising-dawn/",
-    "fecha": "09/10/2026 10:35",
-    "contenido": "Hace unos meses atrás Martin Klein nos lo había adelantado. Se venía un cuarto disco...\nThe post Nuevo Tema Y Video Clip Para Los Eslovacos | Within Silence Estrena “Soldiers Of The Rising Dawn” first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 41.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-41/",
-    "fecha": "09/10/2026 10:13",
-    "contenido": "Doctor Nómada (décimo séptima parte)\nLeer  la décimo sexta parte\nHabía pasado casi una semana desde que Luzma y Leonila habían partido hacia el hospital, vaciaron, otra vez, sus arcas y, otra vez, se fueron llenas de esperanzas.\nNo fueron sencillos los preparativos, los deseos de Luzma por la traves",
-    "imagen": "https://miperravida.anacronico.rocks/wp-content/uploads/2026/10/2026-10-04-09-24-02-413-769x1024.jpg"
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Noche de chicas, parte 2",
-    "link": "https://escritura.social/mcallus/noche-de-chicas-parte-2",
-    "fecha": "09/10/2026 07:26",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Last.fm en Home Assistant",
-    "link": "https://voidnull.es/last-fm-en-home-assistant/",
-    "fecha": "09/10/2026 07:10",
-    "contenido": "Integra Last.fm con Home Assistant y consulta tu actividad musical, scrobbles y canciones directamente desde tu sistema domótico.",
-    "imagen": "https://voidnull.es/content/images/2024/02/homeassistant-1.png"
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Del campo a tu casa",
-    "link": "https://escritura.social/mcallus/del-campo-a-tu-casa",
-    "fecha": "09/10/2026 07:07",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "590. Que es esto que hay ante mí",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/10/590-que-es-esto-que-hay-ante-mi_01165376153.html",
-    "fecha": "09/10/2026 07:00",
-    "contenido": "&nbsp; &nbsp; Los chicos de Fuck Off entraban al local de ensayo por la tarde y ya no salían hasta bien entrada la noche. No siempre era porque el nivel de exigencia respecto a la música que tocaban fuera alto, que lo era. A veces también abusaban del fumeteo y de los tragos, y sus mentes, ya del to",
-    "imagen": "https://img.youtube.com/vi/4twNrEXIgeE/default.jpg"
-  },
-  {
-    "blog": "Malagueños originales y libres",
-    "titulo": "RetroMultiInstaller: script para instalar AppImage",
-    "link": "https://malagaoriginal.blogspot.com/2026/09/retromultiinstaller-script-para.html",
-    "fecha": "09/10/2026 04:37",
-    "contenido": "Los paquetes AppImage realmente NO necesitan ser instalados, porque son un único archivo, que le das permisos y lo ejecutas, ya que contiene, o debería contener, todo lo necesario para ser ejecutado.Hasta ahora para instalar un AppImage tenía que hacer estas cosas en cada script:&nbsp;Instalar los p",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoTqhZMfzCXq6zflVdmcoGJRSEM748JFySooCBWiCeTycgUp7gNifEqfC4VS5Ox277qLk7RrSLPslmv6yaQk6bbgJquQCyDe-ZAt4EClVDgDGoI8pebLdXLuZxDgghRfU8g6cyhepEgDD8VpwFXrCgnl8VEwTEXMedlU_XEyOPmblPmxksIrWrJtq7SaA/s72-w200-h200-c/rmi_appimage.png"
   }
 ]
