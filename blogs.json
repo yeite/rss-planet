@@ -1,5 +1,47 @@
 [
 {
+  "Nombre": "Memorias de un técnico ligero",
+  "Url": "https://tecnico-ligero.mooo.com/",
+  "Feed": "https://tecnico-ligero.mooo.com/",
+  "Descripción": "Breves anotaciones de un técnico que no es cien por ciento técnico, ni tampoco literato, ni tampoco tan inquieto, ni tampoco hace música, sino ruiditos.",
+  "Categoría": "Tecnología",
+  "País": "Argentina"
+},
+{
+  "Nombre": "Cosas de Galicia",
+  "Url": "https://cosasgalicia.blogspot.com/",
+  "Feed": "http://cosasdegalicia.blogspot.com/feeds/posts/default",
+  "Descripción": "Blog de temas variados relacionados con Galicia. Publico sobre música, televisión, fútbol, lugares y cosas relacionadas con mi pueblo (soy de un pueblo gallego)",
+  "Categoría": "Aire libre,Entretenimiento y Cultura,Viajes",
+  "País": "España"
+},
+{
+  "Nombre": "Rincón literario de Ánxela",
+  "Url": "https://relatosdeanxela.blogspot.com/",
+  "Feed": "http://relatosdeanxela.blogspot.com/feeds/posts/default",
+  "Descripción": "Blog sobre literatura; publico reseñas de libros, noticias literarias y relatos propios.",
+  "Categoría": "Literario",
+  "País": "España"
+},
+{
+  "Nombre": "El blog de Ángela",
+  "Url": "https://elblogdegela.blogspot.com/",
+  "Feed": "http://feeds.feedburner.com/ElBlogDengela",
+  "Descripción": "Es un blog personal de temas variados; escribo sobre música, hago reflexiones y escribo sobre recuerdos, además de sobre cosas que tengan que ver conmigo.",
+  "Categoría": "Entretenimiento y Cultura,Vida Diaria",
+  "País": "España"
+},
+{
+  "Nombre": "El Cordón",
+  "Url": "https://geroluna44.github.io/blog/",
+  "Webring": "https://geroluna44.github.io/blog/",
+  "Feed": "https://geroluna44.github.io/blog/feed.xml",
+  "Descripción": "Blog personal de Gero. Escribo sobre videojuegos, arte, política, software, religión, música,la cultura web, filosofía, comunicación... de todo lo que me pinte.",
+  "Categoría": "Arte y Diseño,Entretenimiento y Cultura,Literario,Tecnología,Vida Diaria",
+  "País": "Argentina",
+  "Aliado": "si"
+},
+{
   "Nombre": "Hecho por humano",
   "Url": "https://blog.hechoporhumano.nohost.me/",
   "Feed": "https://blog.hechoporhumano.nohost.me/rss.xml",
@@ -350,8 +392,8 @@
   },
   {
     "Nombre": "El cuaderno de J. Muñoz",
-    "Url": "https://www.jmuñoz.es/",
-    "Feed": "https://www.jmuñoz.es/feeds/posts/default",
+    "Url": "https://blog.jorgem.es",
+    "Feed": "https://blog.jorgem.es/feeds/posts/default",
     "Descripción": "Anotaciones sin ninguna pretensión.",
     "Categoría": "Comida y Bebida, Entretenimiento y Cultura, Aire Libre, Sociedad y Economía, Vida Diaria",
     "País": "España",
@@ -457,16 +499,6 @@
     "Categoría": "Literario, Sociedad y Economía, Vida Diaria",
     "País": "Argentina",
     "Aliado": "si"
-  },
-  {
-    "Nombre": "Jinversor",
-    "Url": "https://jinversor.co/",
-    "Webring": "https://jinversor.co/",
-    "Feed": "https://jinversor.co/feed/",
-    "Descripción": "Hablo sobre inversiones, finanzas personales, ciberseguridad, software libre, libertarismo y minimalismo digital.",
-    "Categoría": "Tecnología, Sociedad y Economía",
-    "País": "Colombia",
-    "Sponsor": "si"
   },
   {
     "Nombre": "Blep Blog",
