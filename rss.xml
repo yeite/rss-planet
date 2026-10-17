@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 17 Oct 2026 14:36:35 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 19:48:57 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,38 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>#openSUSE Tumbleweed revisión de la semana 42 de 2026</title>
+<link>https://victorhckinthefreeworld.com/2026/10/17/opensuse-tumbleweed-revision-de-la-semana-42-de-2026/</link>
+<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/10/17/opensuse-tumbleweed-revision-de-la-semana-42-de-2026/</guid>
+<pubDate>Sat, 17 Oct 2026 14:31:00 GMT</pubDate>
+<category>Victorhck in the free world</category>
+<description><![CDATA[Tumbleweed es una distribución de GNU/Linux &quot;Rolling Release&quot; o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
+</item>
+<item>
+<title>Los Ex Primal No Se Rinden Y Salen Con Un Nuevo Proyecto | Final Decree Vuelve A Sonar</title>
+<link>https://www.delotroladometal.com.ar/2026/10/17/final-decree-vuelve-a-sonar/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/10/17/final-decree-vuelve-a-sonar/</guid>
+<pubDate>Sat, 17 Oct 2026 11:00:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[Primal llegó a su fin hace un tiempo y todo indica que la banda cortó... The post Los Ex Primal No Se Rinden Y Salen Con Un Nuevo Proyecto | Final Decree Vuelve A Sonar first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>Proxmox (9) en Raspberry Pi (Pi OS Trixie)</title>
+<link>https://labaudric.net/blog/auto-alojamiento/proxmox9-rpi-debian13</link>
+<guid isPermaLink="true">https://labaudric.net/blog/auto-alojamiento/proxmox9-rpi-debian13</guid>
+<pubDate>Sat, 17 Oct 2026 10:41:00 GMT</pubDate>
+<category>labaudric</category>
+<description><![CDATA[Introducción Pues hace unos meses, Proxmox anunció de que se hace (oficialmente) compatible con arm64, en otras palabras: Raspberry pero también otros &amp;quot;cacharros frikis&amp;quot;. Y yo la verdad, me emocioné como buen fanboy de Proxmox que soy. Pero tampoco me tiré de cabeza: mis raspberries (una<br><br><strong>Fuente:</strong> labaudric]]></description>
+</item>
+<item>
+<title>Latigazos</title>
+<link>https://escritura.social/mcallus/latigazos</link>
+<guid isPermaLink="true">https://escritura.social/mcallus/latigazos</guid>
+<pubDate>Sat, 17 Oct 2026 10:05:00 GMT</pubDate>
+<category>El escritorio de McAllus</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> El escritorio de McAllus]]></description>
+</item>
 <item>
 <title>Raphael, un concierto muy especial</title>
 <link>https://altgr.xyz/2026/10/16/raphael-un-concierto-muy-especial/</link>
@@ -184,38 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 15 Oct 2026 18:17:00 GMT</pubDate>
 <category>matizeta</category>
 <description><![CDATA[Reservando su identidad bajo el seudónimo jInversor, el cual era también su nombre de blog, escribía sobre inversiones y hacker ético pero lo que más me gustaba era su mirada cínica, directa, cruda y realista sobre la sociedad en la vida real y la digital. Era un blog personal. Qué ridículo que hoy<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>30 años y 1 día. #KDE sigue dándome libertad y funcionalidad con el mejor diseño</title>
-<link>https://victorhckinthefreeworld.com/2026/10/15/30-anos-y-1-dia-kde-sigue-dandome-libertad-y-funcionalidad-con-el-mejor-diseno/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/10/15/30-anos-y-1-dia-kde-sigue-dandome-libertad-y-funcionalidad-con-el-mejor-diseno/</guid>
-<pubDate>Thu, 15 Oct 2026 18:06:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[Ayer 14 de octubre de 2026 el proyecto KDE cumplía 30 años de vida. Hoy un día más se suma a esa efeméride. El tiempo no para (que decía la canción)<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>Grullas</title>
-<link>https://zurdeando.daluar.net/blog/grullas/</link>
-<guid isPermaLink="true">https://zurdeando.daluar.net/blog/grullas/</guid>
-<pubDate>Thu, 15 Oct 2026 16:53:00 GMT</pubDate>
-<category>zurdeando - Blog</category>
-<description><![CDATA[El fin de semana pasado fuimos a Diepholzer Moorniederung, allá en Baja Sajonia, en el norte de Alemania. Un sitio dejado de todo. Fue además un viaje improvisado: la reserva del AirBnB quedó confirmada el mismo viernes por la mañana, y nos íbamos por la tarde. Y, ¿por qué? Pues porque se me antojó<br><br><strong>Fuente:</strong> zurdeando - Blog]]></description>
-</item>
-<item>
-<title>Oasis, una red social distribuida</title>
-<link>https://jdrm.info/oasis-una-red-social-distribuida.html</link>
-<guid isPermaLink="true">https://jdrm.info/oasis-una-red-social-distribuida.html</guid>
-<pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
-<category>JDRM</category>
-<description><![CDATA[Una toma de contacto con una muy minoritaria red social distribuida<br><br><strong>Fuente:</strong> JDRM]]></description>
-</item>
-<item>
-<title>Sin título</title>
-<link>https://fixionauta.net/2026/10/15/231326/</link>
-<guid isPermaLink="true">https://fixionauta.net/2026/10/15/231326/</guid>
-<pubDate>Thu, 15 Oct 2026 12:30:00 GMT</pubDate>
-<category>Fixionauta</category>
-<description><![CDATA[Ajustes, ajustes&amp;#8230; más pelitos en la mano del monstruo, &amp;#8220;basurita&amp;#8221; por aquí y por allá, además del layer con la trama de puntos. Close-up a la mano para dejar constancia de lo que me gusta entintar (y dibujar) pelambrera&amp;#8230; Como no terminé el color a tiempo y tenía que entregar<br><br><strong>Fuente:</strong> Fixionauta]]></description>
 </item>
 
 </channel>
