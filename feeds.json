@@ -1,10 +1,10 @@
 [
   {
-    "blog": "El Cordón",
-    "titulo": "Añadí buscador por tags",
-    "link": "https://geroluna44.github.io/blog/posts/anadido-buscador-tags/",
-    "fecha": "12/11/2026 00:00",
-    "contenido": "Añadí un buscador por tags a mi blog",
+    "blog": "Eterno aprendiz",
+    "titulo": "Raphael, un concierto muy especial",
+    "link": "https://altgr.xyz/2026/10/16/raphael-un-concierto-muy-especial/",
+    "fecha": "16/10/2026 20:55",
+    "contenido": "Un concierto al que probablemente jamás hubiera ido. Raphael es uno de los ídolos de juventud de mi mamá. Las entradas para este concierto fueron su regalo del día de la madre de este año, así que me tocó acompañarla. Además de lo especial que fue asistir a un concierto en compañía de mi madre y ver",
     "imagen": null
   },
   {
@@ -128,6 +128,14 @@
     "imagen": null
   },
   {
+    "blog": "El Cordón",
+    "titulo": "¡Hola BlogBlog!",
+    "link": "https://geroluna44.github.io/blog/posts/blogblog/",
+    "fecha": "16/10/2026 00:00",
+    "contenido": "Ingresé al directorio de blogs BlogBlog.",
+    "imagen": null
+  },
+  {
     "blog": "Mareos de un geek",
     "titulo": "Se tiene que morir mucha gente",
     "link": "https://mareosdeungeek.es/se-tiene-que-morir-mucha-gente/",
@@ -141,7 +149,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "15/10/2026 18:53",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261016%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261016T155146Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ecc4f1f24053e316f7901276e9dbf7f518c17380bd27644f861697138649290c"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261017%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261017T022525Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ecba8e6f67df3cb8a6255227dc20ee81a71b71eba30e890fedd207f7aadf03d1"
   },
   {
     "blog": "CozyKis",
@@ -261,14 +269,6 @@
     "link": "https://escritura.social/mcallus/un-ojo-en-la-luna-parte-2",
     "fecha": "15/10/2026 06:52",
     "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "El Blog de un informático que sueña con mejorar el mundo",
-    "titulo": "Pi-hole con Unbound: un DNS sin depender de nadie",
-    "link": "https://jesuspavonabian.es/post/pihole-unbound/",
-    "fecha": "15/10/2026 00:00",
-    "contenido": "Otra vez sin DNS.\nHace un tiempo os hablé de dns0, el DNS público europeo. Cerró. Así que puse el Pi-hole a tirar de xdp.es. Y hoy, xdp.es se ha caído.\nPodría haber puesto los de Cloudflare y a correr, pero supongo que volvería a tener movidas con la pelotita. Llevo meses desgooglezando mi vida por ",
     "imagen": null
   },
   {
@@ -421,7 +421,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "13/10/2026 15:51",
     "contenido": "    ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6960/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261016%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261016T155146Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3cb50fcd4f164a2af0e4e2945ebd9cc13216f0ac67b9299ae84e3629e52b352d"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6960/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261017%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261017T022525Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=98bb56a39f2bd85ff3cb231808652b204a821a920cae5e7532166b0b9bd5f9da"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -625,6 +625,14 @@
   },
   {
     "blog": "El Cordón",
+    "titulo": "Añadí buscador por tags",
+    "link": "https://geroluna44.github.io/blog/posts/anadido-buscador-tags/",
+    "fecha": "12/10/2026 00:00",
+    "contenido": "Añadí un buscador por tags a mi blog",
+    "imagen": null
+  },
+  {
+    "blog": "El Cordón",
     "titulo": "Poniendomé las pilas",
     "link": "https://geroluna44.github.io/blog/posts/poniendo-pilas/",
     "fecha": "12/10/2026 00:00",
@@ -653,7 +661,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "11/10/2026 16:38",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6953/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261016%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261016T155146Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3af0de503090352d238e6243aecbbbacf80e72329215f0c3834f95f24ffc1f4d"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6953/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261017%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261017T022525Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d3a91b98bf093caafbbfe53186babcb4c7a5e11668bba2fd8542a4b2e6aca818"
   },
   {
     "blog": "La Frikoteca",
@@ -685,22 +693,6 @@
     "link": "https://cozykis.kisworld.es/analisis-de-raccoon-valley-tycoon/",
     "fecha": "11/10/2026 10:37",
     "contenido": "Raccoon Valley Tycoon es un jueguito incremental muy simpático en el que tendremos que reconstruir un pueblo de mapaches abandonado. Para ello, lo único que tenemos que hacer es conseguir diversos recursos. Empieza con unos pocos y va subiendo de una forma que me ha costado seguir la pista a todo lo",
-    "imagen": null
-  },
-  {
-    "blog": "El Blog de un informático que sueña con mejorar el mundo",
-    "titulo": "Sincronizar los contactos de Mailbox.org en GrapheneOS con DAVx⁵",
-    "link": "https://jesuspavonabian.es/post/contactos-mailbox-grapheneos/",
-    "fecha": "11/10/2026 07:36",
-    "contenido": "Si seguiste la guía de primeros pasos con GrapheneOS, ahora mismo tienes un móvil sin contactos. Y en el perfil con Google Play también. Aquí cuento cómo traerlos desde Mailbox.org con DAVx⁵, en el perfil principal y en el de bigtech. Si aún no tienes el segundo perfil, aquí explico cómo crearlo. Ca",
-    "imagen": null
-  },
-  {
-    "blog": "El Blog de un informático que sueña con mejorar el mundo",
-    "titulo": "Perfiles en GrapheneOS: Bigtechs aparte y las movidas del motor de voz",
-    "link": "https://jesuspavonabian.es/post/perfiles-grapheneos-talkback/",
-    "fecha": "11/10/2026 06:36",
-    "contenido": "En la guía de primeros pasos con GrapheneOS dejé el perfil principal limpio y sin Google. Pero hay apps de las que todavía no puedo escapar, WhatsApp la primera, y para esas he creado un perfil aparte al que he llamado Bigtech. Aquí cuento cómo se monta, el susto de TalkBack que te llevas nada más c",
     "imagen": null
   },
   {
@@ -760,14 +752,6 @@
     "imagen": "https://0.gravatar.com/avatar/69ce9cd72b15e77acb9cdfa1c226ae3aa716d7416ce9a4bdea5c853842f3b840?s=96&d=identicon&r=G"
   },
   {
-    "blog": "El Blog de un informático que sueña con mejorar el mundo",
-    "titulo": "Primeros pasos con GrapheneOS",
-    "link": "https://jesuspavonabian.es/post/primeros-pasos-grapheneos/",
-    "fecha": "10/10/2026 17:00",
-    "contenido": "Esta es la guía que me habría gustado tener cuando compré el Pixel 10: instalar GrapheneOS usando solo NVDA y el navegador, dejar TalkBack hablando en castellano y no quedarte sin voz por el camino. Incluye los sustos que me llevé yo, que no fueron pocos, y todo lo que conté antes sobre el motor de ",
-    "imagen": null
-  },
-  {
     "blog": "",
     "titulo": "Aviso Importante.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/10/10/aviso-importante-2/",
@@ -781,14 +765,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/10/10/renovando-pergaminos/",
     "fecha": "10/10/2026 10:35",
     "contenido": "(2026 &#8211; Metalcoholización Records) Posiblemente Steelballs sea una de las tantas bandas argentinas que no...\nThe post Steelballs: Rebels | Renovando Pergaminos first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Writeober: Vino",
-    "link": "https://blep.org/writeober--vino",
-    "fecha": "10/10/2026 00:00",
-    "contenido": "Se acercaba ya el fin de septiembre cuando Q recorría una zona de viñedos en los que un montón de gente se afanaba recogiendo uva en grandes cestos que vaciaban en carros tirados por burros cada cierto tiempo. Con cierta curiosidad, decidió seguir uno de esos carros cuando, ya rebosante, arrancó por",
     "imagen": null
   }
 ]
