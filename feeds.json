@@ -1,5 +1,37 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 42 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/10/17/opensuse-tumbleweed-revision-de-la-semana-42-de-2026/",
+    "fecha": "17/10/2026 14:31",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Los Ex Primal No Se Rinden Y Salen Con Un Nuevo Proyecto | Final Decree Vuelve A Sonar",
+    "link": "https://www.delotroladometal.com.ar/2026/10/17/final-decree-vuelve-a-sonar/",
+    "fecha": "17/10/2026 11:00",
+    "contenido": "Primal llegó a su fin hace un tiempo y todo indica que la banda cortó...\nThe post Los Ex Primal No Se Rinden Y Salen Con Un Nuevo Proyecto | Final Decree Vuelve A Sonar first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Proxmox (9) en Raspberry Pi (Pi OS Trixie)",
+    "link": "https://labaudric.net/blog/auto-alojamiento/proxmox9-rpi-debian13",
+    "fecha": "17/10/2026 10:41",
+    "contenido": "\nIntroducción\nPues hace unos meses, Proxmox anunció de que se hace (oficialmente) compatible con arm64, en otras palabras: Raspberry pero también otros &quot;cacharros frikis&quot;. Y yo la verdad, me emocioné como buen fanboy de Proxmox que soy. Pero tampoco me tiré de cabeza: mis raspberries (una ",
+    "imagen": "https://labaudric.net/img/pimox/02.png"
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Latigazos",
+    "link": "https://escritura.social/mcallus/latigazos",
+    "fecha": "17/10/2026 10:05",
+    "contenido": "",
+    "imagen": null
+  },
+  {
     "blog": "Eterno aprendiz",
     "titulo": "Raphael, un concierto muy especial",
     "link": "https://altgr.xyz/2026/10/16/raphael-un-concierto-muy-especial/",
@@ -149,7 +181,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "15/10/2026 18:53",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261017%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261017T022525Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ecba8e6f67df3cb8a6255227dc20ee81a71b71eba30e890fedd207f7aadf03d1"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261017%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261017T144515Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7be496ca9bb041a02b56c755048b6c129593656c7e1fd75459baad8a442986e7"
   },
   {
     "blog": "CozyKis",
@@ -269,6 +301,14 @@
     "link": "https://escritura.social/mcallus/un-ojo-en-la-luna-parte-2",
     "fecha": "15/10/2026 06:52",
     "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Instalando y usando OpenGist",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-10-15-opengist/",
+    "fecha": "14/10/2026 22:00",
+    "contenido": "Instalando y configurando OpenGist con PocketID\nÚltimamente tengo a atareao bastante liado con unas dudas sobre este magnífico mundo del self-hosting.\n\nNota\nPara que veáis que soy amable, mañana le he dado fiesta 😁\n\nUna de las dudas que más me quita el sueño es encontrar la mejor configuración para ",
     "imagen": null
   },
   {
@@ -421,7 +461,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "13/10/2026 15:51",
     "contenido": "    ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6960/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261017%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261017T022525Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=98bb56a39f2bd85ff3cb231808652b204a821a920cae5e7532166b0b9bd5f9da"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6960/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261017%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261017T144515Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4bf6e45b3c50916dc68380de4b030d6db8e6a65fb3c21da449dbaf6944b45d6d"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -492,7 +532,7 @@
     "titulo": "Las insólitas señales de tráfico de Extremadura que protegen a linces y anfibios",
     "link": "https://pepografo.com/senales-trafico-extremadura-linces-anfibios/",
     "fecha": "13/10/2026 06:00",
-    "contenido": "La señalización vial en Extremadura incluye indicativos únicos diseñados específicamente para proteger la biodiversidad de la región Arrancó octubre y con él llegaronnovedades en la señalización de tráfico. La Dirección General de Tráfico (DGT) actualiza el Reglamento General de Circulación ante las",
+    "contenido": "La señalización vial en Extremadura incluye indicativos únicos diseñados específicamente para proteger la biodiversidad de la región Arrancó octubre y con él llegaron novedades en la señalización de tráfico. La Dirección General de Tráfico (DGT) actualiza el Reglamento General de Circulación ante la",
     "imagen": null
   },
   {
@@ -661,7 +701,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "11/10/2026 16:38",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6953/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261017%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261017T022525Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d3a91b98bf093caafbbfe53186babcb4c7a5e11668bba2fd8542a4b2e6aca818"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6953/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261017%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261017T144515Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=df1af2d52013be1f1dbe36557bbf99c6938997ae11cefa3d74041a08214cac98"
   },
   {
     "blog": "La Frikoteca",
@@ -728,6 +768,14 @@
     "imagen": null
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Activa o desactiva el salvapantalla en Linux desde el terminal",
+    "link": "https://chancli.dev/blog/gestiona-salvapantalla-linux-terminal.html",
+    "fecha": "11/10/2026 00:00",
+    "contenido": "Como os comenté hace tiempo, estoy volviendo a estudiar y aunque intento hacerlo todo con papel y lápiz, es muy útil consultar infografías y esquemas en la pantalla grande del ordenador.\nEn los momentos que estudio no quiero tener el salvapantalla activo porque es muy incómodo tener que ir desbloque",
+    "imagen": null
+  },
+  {
     "blog": "56K",
     "titulo": "Inventos que no bendeciría el Papa",
     "link": "https://56k.es/fanta/inventos-que-no-bendeciria-el-papa/",
@@ -750,21 +798,5 @@
     "fecha": "10/10/2026 17:16",
     "contenido": "Formas de perder el trabajo El protagonista es filmado teniendo sexo en una rueda de la fortuna en un festival, solamente le levantan cargos a el, no a ella. https://www.dexerto.com/entertainment/man-who-had-sex-on-a-ferris-wheel-found-out-hed-gone-viral-when-his-boss-called-3408602/? Proyecto artís",
     "imagen": "https://0.gravatar.com/avatar/69ce9cd72b15e77acb9cdfa1c226ae3aa716d7416ce9a4bdea5c853842f3b840?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "",
-    "titulo": "Aviso Importante.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/10/10/aviso-importante-2/",
-    "fecha": "10/10/2026 14:29",
-    "contenido": "",
-    "imagen": "https://0.gravatar.com/avatar/306e19f08d8518c022c73f6d5ff0a80ddbf5622a55b8887868d29bf280546143?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Steelballs: Rebels | Renovando Pergaminos",
-    "link": "https://www.delotroladometal.com.ar/2026/10/10/renovando-pergaminos/",
-    "fecha": "10/10/2026 10:35",
-    "contenido": "(2026 &#8211; Metalcoholización Records) Posiblemente Steelballs sea una de las tantas bandas argentinas que no...\nThe post Steelballs: Rebels | Renovando Pergaminos first appeared on Del Otro Lado Metal.",
-    "imagen": null
   }
 ]
