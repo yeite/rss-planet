@@ -1,5 +1,53 @@
 [
   {
+    "blog": "La Frikoteca",
+    "titulo": "Un espacio limitado en nuestro corazón",
+    "link": "http://frikoteca.blogspot.com/2026/10/un-espacio-limitado-en-nuestro-corazon.html",
+    "fecha": "18/10/2026 23:17",
+    "contenido": "Siempre me ha gustado ver cómo una entrada de un blog termina animando a otros blogueros a escribir sus propias entradas en respuesta. Estas no tienen por qué ser respuestas directas, ni tratar el mismo tema. Pueden ser simplemente reflexiones sobre asuntos que la entrada original te ha inspirado, y",
+    "imagen": null
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Los sistemas operativos más seguros teóricamente",
+    "link": "https://gatooscuro.xyz/los-sistemas-operativos-mas-seguros-teoricamente/",
+    "fecha": "18/10/2026 20:01",
+    "contenido": "Indice de la primera parte de este artículo: &#8212;&#8212;&#8212;- Nivel Muy Alto &#8212;&#8212;&#8212;- 1- Genode/SculptOS (seL4) (No es de tipo Unix) 2- LionsOS (No es de tipo Unix) 3- L4Re\nSeguir leyendo  Los sistemas operativos más seguros teóricamente\nEl cargo Los sistemas operativos más segur",
+    "imagen": null
+  },
+  {
+    "blog": "Diegologs 💾",
+    "titulo": "He probado el Deadlock y te lo cuento",
+    "link": "https://diegologs.com/review-deadlock/",
+    "fecha": "18/10/2026 17:11",
+    "contenido": "Hace unos días un conocido me dio una invitación del Deadlock, el nuevo MOBA de Valve.\nYa llevaba tiempo siguiendo el juego, ya que me flipan los shooters, y si encima lo combinas con personajes y habilidades pues mejor todavía.\nA fecha de Octubre de 2026 la beta sigue cerrada, solo para gente que t",
+    "imagen": "https://i.imgur.com/cbdy8rU.jpeg"
+  },
+  {
+    "blog": "Eterno aprendiz",
+    "titulo": "Conciertos y Política: Mojarse o no mojarse, he ahí el dilema",
+    "link": "https://altgr.xyz/2026/10/18/conciertos-y-politica-mojarse-o-no-mojarse-he-ahi-el-dilema/",
+    "fecha": "18/10/2026 16:56",
+    "contenido": "Las palabras de James Hetfield, vocalista de Metallica, durante un concierto de la banda en Las Vegas hace unos días han generado gran debate en redes sociales &#8211;y fuera de ellas&#8211; sobre las manifestaciones políticas de los músicos, y artistas en general. Unas semanas antes, pasó algo pare",
+    "imagen": null
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Sitges 2026",
+    "link": "https://blog.danielaragay.net/sitges-2026/",
+    "fecha": "18/10/2026 16:00",
+    "contenido": "Nuevo episodio del podcast: Sitges 2026Esc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/sitges-2026",
+    "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
+  },
+  {
+    "blog": "Fixionauta",
+    "titulo": "Tercer Reto 4×4",
+    "link": "https://fixionauta.net/2026/10/18/tercer-reto-4x4/",
+    "fecha": "18/10/2026 15:30",
+    "contenido": "[03] 10.26 Tarde pero seguro, aquí la tercera entrega de la newsletter. Hay más movimiento en el estudio pues octubre suele ser un mes ocupado; el círculo editorial que me rodea se encuentra pensando en la pausa de diciembre. Le estoy dando vueltas a la idea de esta newsletter y su capacidad para ma",
+    "imagen": null
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Ping #30: Actualizaciones, novedades y ranking de distros",
     "link": "https://voidnull.es/ping-30-actualizaciones-novedades-y-ranking-de-distros/",
@@ -29,7 +77,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "18/10/2026 08:55",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261018%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261018T151024Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4d6da4f1fbc40bb8be8a7431a90820f6e19bcb47dd46b5d534b6739ee3085f4a"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261019%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261019T023933Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2c060f455db2e8fbf7b67f2ec14a17ac7db35282152b3ee09440bce341ae70ac"
   },
   {
     "blog": "Mareos de un geek",
@@ -80,6 +128,14 @@
     "imagen": null
   },
   {
+    "blog": "Pepógrafo",
+    "titulo": "Las siestas de mi infancia: FLIT, moscas y hormigas",
+    "link": "https://pepografo.com/siestas-infancia-flit-moscas-hormigas/",
+    "fecha": "17/10/2026 16:00",
+    "contenido": "Las siestas de mi infancia tenían FLIT, moscas moribundas, hormigas y una tía Fina convencida de que su sobrino estaba mal de la cabeza.\nLa entrada Las siestas de mi infancia: FLIT, moscas y hormigas se publicó primero en Pepógrafo.",
+    "imagen": null
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 42 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/10/17/opensuse-tumbleweed-revision-de-la-semana-42-de-2026/",
@@ -100,7 +156,7 @@
     "titulo": "Proxmox (9) en Raspberry Pi (Pi OS Trixie)",
     "link": "https://labaudric.net/blog/auto-alojamiento/proxmox9-rpi-debian13",
     "fecha": "17/10/2026 10:41",
-    "contenido": "\nIntroducción\nPues hace unos meses, Proxmox anunció de que se hace (oficialmente) compatible con arm64, en otras palabras: Raspberry pero también otros &quot;cacharros frikis&quot;. Y yo la verdad, me emocioné como buen fanboy de Proxmox que soy. Pero tampoco me tiré de cabeza: mis raspberries (una ",
+    "contenido": "\nIntroducción\nPues hace unos meses, Proxmox anunció que se hace (oficialmente) compatible con arm64, en otras palabras: Raspberry, pero también otros &quot;cacharros frikis&quot;. Y yo la verdad, me emocioné como buen fanboy de Proxmox que soy. Pero tampoco me tiré de cabeza: mis raspberries (una 4b",
     "imagen": "https://labaudric.net/img/pimox/02.png"
   },
   {
@@ -261,7 +317,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "15/10/2026 18:53",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261018%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261018T151024Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2c7c08aebcba528ea996ac320c47d844d84850647a050c8425b2e185f447f276"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261019%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261019T023933Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6fe98f029c40c2f667158c6744389aed0d6dc283b91f63c8120ae2e1b2774796"
   },
   {
     "blog": "CozyKis",
@@ -541,7 +597,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "13/10/2026 15:51",
     "contenido": "    ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6960/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261018%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261018T151024Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a7a43d320dbdc93fa0f3cab30231c147ceeba26ae1b7b9302f1fceaeac02edfe"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6960/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261019%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261019T023933Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=83c89ddf5f35a475a422d8e42f23e22bad5ba1f74d51520b6261823cc6af66f4"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -718,77 +774,5 @@
     "fecha": "12/10/2026 07:10",
     "contenido": "WriteFreely es una plataforma de publicación minimalista hecha para escritores. Inicia un blog, comparte conocimientos dentro de tu organización o crea una comunidad en torno al acto compartido de escribir.",
     "imagen": "https://voidnull.es/content/images/2022/11/writefreely-1.png"
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "Manejar subvolumenes btrfs en Fedora",
-    "link": "https://elblogdelazaro.org/btrfs-fedora-ventajas-inconvenientes-subvolumenes/",
-    "fecha": "12/10/2026 02:00",
-    "contenido": "Por: Carlos M.Publicado el 12 de octubre de 2026Qué es Btrfs, por qué Fedora lo usa por defecto, sus ventajas e inconvenientes, cómo listar subvolúmenes, comprobar uso, crear nuevos subvolúmenes, montarlos con fstab y eliminarlos correctamente.Continuar leyendo →#Btrfs #Fedora #Linux ",
-    "imagen": "https://elblogdelazaro.org/images/posts/2026/btrfs/brtfs-01.png"
-  },
-  {
-    "blog": "NevatBlog",
-    "titulo": "Hylki: cliente de correo rápido para Gnome",
-    "link": "https://nevat.neocities.org/hylik_12102026.html",
-    "fecha": "12/10/2026 00:00",
-    "contenido": "¿Otro cliente de correo para Gnome? Pues si, este con muchas más opciones y algunas características curiosas.",
-    "imagen": null
-  },
-  {
-    "blog": "Maverick HQ",
-    "titulo": "weeknotes 26.6",
-    "link": "https://maverick-hq.org/blog/weeknotes-26-6/",
-    "fecha": "12/10/2026 00:00",
-    "contenido": "Hoy es 12 de octubre. ¡Nuestra fiesta nacional! ¡Celebremos que no hay que ir al trabajo! Bueno... al menos yo no tengo que ir al trabajo.\nHace semanas que no escribo nada porque he estado liado con temas personales y al final del día no me quedaban ganas de ponerme a pensar, lo cuál puede ser bueno",
-    "imagen": null
-  },
-  {
-    "blog": "El Cordón",
-    "titulo": "Añadí buscador por tags",
-    "link": "https://geroluna44.github.io/blog/posts/anadido-buscador-tags/",
-    "fecha": "12/10/2026 00:00",
-    "contenido": "Añadí un buscador por tags a mi blog",
-    "imagen": null
-  },
-  {
-    "blog": "El Cordón",
-    "titulo": "Poniendomé las pilas",
-    "link": "https://geroluna44.github.io/blog/posts/poniendo-pilas/",
-    "fecha": "12/10/2026 00:00",
-    "contenido": "Poniendolé más ganas a mi entrenamiento y a mi deporte.",
-    "imagen": null
-  },
-  {
-    "blog": "Blog hecho por humano - Fuente RSS",
-    "titulo": "losmagosdelaoscuridad.md",
-    "link": "https://blog.hechoporhumano.nohost.me/2026/10/11/losmagosdelaoscuridad-md/",
-    "fecha": "11/10/2026 18:14",
-    "contenido": "En su obra más reciente, la Dra. Cristina Martín Jiménez desvela los planes de la nueva élite del poder que según la autora impulsan la",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Spider-Noir: análisis de la serie de Nicolas Cage en Prime Video",
-    "link": "https://mareosdeungeek.es/spider-noir-prime-video/",
-    "fecha": "11/10/2026 18:11",
-    "contenido": "Spider-noir es la serie de Prime Video donde vemos a un Spider-man diferente. Ambientado en los años 30 en pleno auge de los gánsteres de la ciudad de Nueva York. Protagonizada por el incombustible Nicolas Cage que hace una gran interpretación en el papel de un héroe acabado y cansado de la vida. Co",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 7 videos en Aion, GTA",
-    "link": "https://labaudric.net/videos/aion",
-    "fecha": "11/10/2026 16:38",
-    "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6953/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261018%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261018T151024Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4fa2a57b80743884ec8882df7d049e3c8685ac7a7b5528d12be0e7a60d8e3272"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Zothique, de Clark Asthon Smith",
-    "link": "http://frikoteca.blogspot.com/2026/10/zothique-de-clark-asthon-smith.html",
-    "fecha": "11/10/2026 15:21",
-    "contenido": "El mes pasado os hablé de Clark Ashton Smith, autor de novelas pulp y parte de la tríada sagrada de Weird Tales: R. E. Howard, H. P. Lovecraft y Clark Asthon Smith. En la entrada comenté que había empezado Zothique pero que no había leído todos los relatos, y que me había hecho la propuesta de retom",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh86KRubRezEhn1dhkLv-IqrMrA9NdhgNhip8LYiKqwun834kopQlkvW3Z5j69My6OWIn0AudI4U2n3d6XuNelEhdFBWD3wRCaQ4W37xoj1FC-decQG1wIR2rlX9qA7krrByCAROTmyU_xwfgRFlrB5Y-0Vfgdr7GLsHn8GzmFD6rvqkDXI8vwk/s72-c/IMG_20261011_094330.jpg"
   }
 ]
