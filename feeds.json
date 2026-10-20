@@ -1,5 +1,21 @@
 [
   {
+    "blog": "Un blog",
+    "titulo": "Recuperando posts viejos",
+    "link": "https://nachof.blog/posts/2026/recuperando-posts-viejos/",
+    "fecha": "19/10/2026 22:30",
+    "contenido": "Hace muchos, muchos años, existía algo llamado Posterous. Posterous era un blog re sencillo, que funcionaba de una manera interesante: vos mandabas un email, y eso publicaba el post. No sé cómo hacían para prevenir que le trucharas la dirección de origen, pero parecía funcionar. Después lo compró Tw",
+    "imagen": null
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió ArchAge Chronicles - probando la demo. A MUERTE. en ArchAge",
+    "link": "https://labaudric.net/videos/archage/6970",
+    "fecha": "19/10/2026 18:56",
+    "contenido": "",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6970/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261020%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261020T025146Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ca69f01b10507baae83e743ab193e3be46a077466c95be008d7db72a30ad4009"
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "592. El agua está viva",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/10/592-el-agua-esta-viva.html",
@@ -221,7 +237,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "18/10/2026 08:55",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261019%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261019T180452Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=25ec658484e4033c029915d7c3a9dc8c1d064278bd68dbd56d75625aa9ec0fea"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261020%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261020T025146Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6e17d81882f913deb1042206debe93929bc5889cb303105fede4ac3a06e5cc3e"
   },
   {
     "blog": "Mareos de un geek",
@@ -469,7 +485,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "15/10/2026 18:53",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261019%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261019T180452Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ab553e512190375251aff9d9a2effef1816cf9c919acaa7341dc7c196a335b43"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261020%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261020T025146Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ee36aaeae3a7c2d3c125fce0ee70f4372db98bd127354c43224d601e8112f273"
   },
   {
     "blog": "CozyKis",
@@ -749,7 +765,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "13/10/2026 15:51",
     "contenido": "    ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6960/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261019%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261019T180452Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=27d2282afd6118e61056de60e489c2ec3b0e658dff069b932e1ebe81024f3e30"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6960/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261020%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261020T025146Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f3bf38e77ddd524e770298d38900598ea1a6c4cb4b7937678fcc563ce5b6f7ce"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -821,30 +837,6 @@
     "link": "https://pepografo.com/senales-trafico-extremadura-linces-anfibios/",
     "fecha": "13/10/2026 06:00",
     "contenido": "Extremadura incorpora señales de tráfico para advertir de la presencia de fauna y proteger la biodiversidad en sus carreteras. Repasamos algunos ejemplos.\nLa entrada Las insólitas señales de tráfico de Extremadura que protegen a linces y anfibios se publicó primero en Pepógrafo.",
-    "imagen": null
-  },
-  {
-    "blog": "gorkula.com",
-    "titulo": "Ahora los hackers pueden robar vídeos de tus caries",
-    "link": "https://www.gorkula.com/cepillo-dientes-camara",
-    "fecha": "12/10/2026 19:53",
-    "contenido": "Estos últimos meses he paseado mucho por el nuevo barrio. Una de mis cosas favoritas de este barrio es la cantidad de flyers que hay pegados en farolas y paredes. Suelo hacer foto a los que más me llaman la atención y siempre pienso en subirlas a algún lado.\n\nCaminando el otro día con mi mujer me in",
-    "imagen": "https://www.gorkula.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjgzLCJwdXIiOiJibG9iX2lkIn19--7b71f0b4cf4fb113e4273aeaf69c8bcfe0832a42/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2xpbWl0IjpbODAwLDgwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--92d8ba39e960d4d4499353f454d0ccb29fb6eb1c/IMG_3595.jpeg"
-  },
-  {
-    "blog": "Plutoide Marcianadas",
-    "titulo": "Wichito X - Nuevo Amanecer (Purrbyte Project)",
-    "link": "https://plutoidemarcianadas.blogspot.com/2026/10/wichito-x-nuevo-amanecer-purrbyte.html",
-    "fecha": "12/10/2026 19:38",
-    "contenido": "Finalizado: 2026-10-12Una reinterpretación artística del personaje de IA agéntica exploradora &quot;Wichito&quot;...  › Ver más »¡Patina todo el día!",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA7AdUAxbgYZgd4w2C673wEhmEuNlFYrq_A-ASixfsPFl48lP3OZyKhbKChTjQvbgXRcTYv1YL7BbylQOb9GNjoN9OSuIyos6arAX0WnIlor3wsOiNIPZpTznb04L5Gnup8hA-M3m7gstBLC2u5-_4wVJ5bRSGWG1TtE8UaTPq7cPM5FFPukrcBVzWKw0/s72-w400-h308-c/Wichito%20X%20-%20Nuevo%20amanecer.jpg"
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/10/12/230121/",
-    "fecha": "12/10/2026 18:12",
-    "contenido": "Lector invocando (de manera inadvertida) una mano peluda. Para un evento de Leyendas del Noreste en la Feria Iinternacional del Libro de Monterrey. No descarto hacer unos ajustes leves antes de colorear. El trazo se puede ver por acá.",
     "imagen": null
   }
 ]
