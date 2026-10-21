@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 21 Oct 2026 02:26:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 10:47:31 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Firefox Nova y los problemas de accesibilidad</title>
+<link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/21/20261021-firefox-nova-accesibilidad/</link>
+<guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/21/20261021-firefox-nova-accesibilidad/</guid>
+<pubDate>Wed, 21 Oct 2026 08:00:00 GMT</pubDate>
+<category>ENTRE DRAGONES Y PINGÜINOS</category>
+<description><![CDATA[Es normal hacer renovaciones visuales, pero si la accesibilidad no va de la mano, tenemos un problema<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+</item>
 <item>
 <title>Crítica manga Chainsaw Man</title>
 <link>https://labaudric.net/blog/manga/critica-chainsaw-man-manga</link>
@@ -208,14 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
 <category>JDRM</category>
 <description><![CDATA[Una chuleta para tener a mano los comandos del cliente de correo NeoMutt<br><br><strong>Fuente:</strong> JDRM]]></description>
-</item>
-<item>
-<title>MariaDB vs MySQL vs PostgreSQL: qué base de datos elegir</title>
-<link>https://voidnull.es/mariadb-vs-mysql-vs-postgresql-que-base-de-datos-elegir/</link>
-<guid isPermaLink="true">https://voidnull.es/mariadb-vs-mysql-vs-postgresql-que-base-de-datos-elegir/</guid>
-<pubDate>Mon, 19 Oct 2026 07:12:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[En esta guía hablaremos sobre que base de datos seleccionar para nuestros proyectos.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
 </item>
 
 </channel>
