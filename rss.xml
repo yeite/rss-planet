@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 21 Oct 2026 16:16:14 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 20:59:48 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,52 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Seguridad: Vulnerabilidad CVE-2026-109618 y CVE-2026-109619 en PHP</title>
+<link>https://interlan.ec/blog/2026/10/21/seguridad-vulnerabilidad-cve-2026-109618-y-cve-2026-109619-en-php/</link>
+<guid isPermaLink="true">https://interlan.ec/blog/2026/10/21/seguridad-vulnerabilidad-cve-2026-109618-y-cve-2026-109619-en-php/</guid>
+<pubDate>Wed, 21 Oct 2026 15:10:00 GMT</pubDate>
+<category>Interlan</category>
+<description><![CDATA[Si tienes PHP, te estás tardando en actualizar. Llévalo a la versión 8.4.27, pues es una situación crítica de seguridad Esto es un boletín informativo de SEGURIDAD Introduccion hace poco hablabamos de un problema critico de seguridad que afectaba historicamente a versiones antiquisimas de wordpress<br><br><strong>Fuente:</strong> Interlan]]></description>
+</item>
+<item>
+<title>Ilusiones Ópticas y Efectos Infinitos #20</title>
+<link>https://www.fabio.com.ar/10057-ilusiones-pticas-y-efectos-infinitos-20</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/10057-ilusiones-pticas-y-efectos-infinitos-20</guid>
+<pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Otro par de a&amp;ntilde;os en que no les entrego droga en forma visual 😁, pero no me olvido y aqu&amp;iacute; estamos con estos delirios que hacen que tu cerebro empiece a fallar, no demasiado, s&amp;oacute;lo un poco como para volverse inseguro. Si no vieron los anteriores que arm&amp;eacute; aqu&amp;iacute; se<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Análisis de Colorbound</title>
+<link>https://cozykis.kisworld.es/analisis-de-colorbound/</link>
+<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-colorbound/</guid>
+<pubDate>Wed, 21 Oct 2026 10:50:00 GMT</pubDate>
+<category>CozyKis</category>
+<description><![CDATA[Sumérgete en esta bonita historia para preparar un homenaje a nuestro abuelo mientras resolvemos complicados puzles rodeades de llamas La entrada Análisis de Colorbound se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
+</item>
+<item>
+<title>Informe Especial | 10 Bandas Con Un Único Álbum</title>
+<link>https://www.delotroladometal.com.ar/2026/10/21/10-bandas-con-un-unico-album/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/10/21/10-bandas-con-un-unico-album/</guid>
+<pubDate>Wed, 21 Oct 2026 10:35:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[Estuvimos pensando bastante y se nos ocurrió que sería una buena idea hacer un repaso... The post Informe Especial | 10 Bandas Con Un Único Álbum first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
 <title>Firefox Nova y los problemas de accesibilidad</title>
 <link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/21/20261021-firefox-nova-accesibilidad/</link>
 <guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/21/20261021-firefox-nova-accesibilidad/</guid>
 <pubDate>Wed, 21 Oct 2026 08:00:00 GMT</pubDate>
 <category>ENTRE DRAGONES Y PINGÜINOS</category>
 <description><![CDATA[Es normal hacer renovaciones visuales, pero si la accesibilidad no va de la mano, tenemos un problema<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+</item>
+<item>
+<title>Instalación de Termix en Debian 13</title>
+<link>https://voidnull.es/instalacion-de-termix-en-debian-13/</link>
+<guid isPermaLink="true">https://voidnull.es/instalacion-de-termix-en-debian-13/</guid>
+<pubDate>Wed, 21 Oct 2026 07:15:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Con Termix podrás centralizar el acceso SSH, transferencias de archivos, túneles, Docker y mucho más desde una única interfaz web<br><br><strong>Fuente:</strong> _ voidNull]]></description>
 </item>
 <item>
 <title>Crítica manga Chainsaw Man</title>
@@ -176,46 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Mon, 19 Oct 2026 10:35:00 GMT</pubDate>
 <category>Del Otro Lado Metal</category>
 <description><![CDATA[Desde la ciudad de Rosario, Abrasantia se encuentra preparando lo que va a ser su... The post La Banda De Gothic Metal Prepara Un Nuevo Disco | Abrasantia Presenta “Te Amaré Por Siempre” first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>I&apos;m still standing</title>
-<link>https://www.macram.es/posts/2026/10/im-still-standing/</link>
-<guid isPermaLink="true">https://www.macram.es/posts/2026/10/im-still-standing/</guid>
-<pubDate>Mon, 19 Oct 2026 10:09:00 GMT</pubDate>
-<category>Manu Mateos</category>
-<description><![CDATA[Sigo vivo. Sé que llevo un mes y medio sin pasarme por aquí y sin casi actividad en Mastodon. No ha pasado nada malo, por suerte. Ya sabéis que septiembre es un mes que me resulta bastante complicado gestionar porque estoy involucrado en muchos asuntos, y aunque este año ha sido más relajado he teni<br><br><strong>Fuente:</strong> Manu Mateos]]></description>
-</item>
-<item>
-<title>Revela’t 2026</title>
-<link>https://www.ericafustero.com/2026-10-revelat</link>
-<guid isPermaLink="true">https://www.ericafustero.com/2026-10-revelat</guid>
-<pubDate>Mon, 19 Oct 2026 08:48:00 GMT</pubDate>
-<category>Erica Fustero</category>
-<description><![CDATA[El sábado fui al Revela&apos;t, el festival de fotografía analógica de Vilassar de Dalt. Estuve a punto de perdérmelo porque ese día volvió a sonar la alerta por lluvias intensas en el Maresme. Llevamos una temporada en la que, cada vez que llueve, el cercanías deja de funcionar, el bus se colapsa y se l<br><br><strong>Fuente:</strong> Erica Fustero]]></description>
-</item>
-<item>
-<title>La infantilización del automóvil</title>
-<link>https://matizeta.com/2026/10/19/la-infantilizacion-del-automovil/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/10/19/la-infantilizacion-del-automovil/</guid>
-<pubDate>Mon, 19 Oct 2026 08:11:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Hoy termina el evento del Salón Mundial del Automóvil en Paris. Un lugar donde empresas de todo el mundo presentan sus nuevos modelos de automóviles que saldrán a mercados o prototipos de estos que sirvan como base para la próxima generación. Es una puesta en escena, donde toda empresa de automóvil<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>El camino del talento</title>
-<link>https://brucknerite.net/2026/10/el-camino-del-talento.html</link>
-<guid isPermaLink="true">https://brucknerite.net/2026/10/el-camino-del-talento.html</guid>
-<pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
-<category>brucknerite</category>
-<description><![CDATA[Un diluvio de bazofia cae, impenitente, sobre la cultura humana. Diluyéndola. Llevándola a la media y al conformismo. ¿No es eso lo que pretendían los totalitarismos del siglo pasado, solo que «bien hecho»?<br><br><strong>Fuente:</strong> brucknerite]]></description>
-</item>
-<item>
-<title>Chuleta de NeoMutt</title>
-<link>https://jdrm.info/chuleta-de-neomutt.html</link>
-<guid isPermaLink="true">https://jdrm.info/chuleta-de-neomutt.html</guid>
-<pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
-<category>JDRM</category>
-<description><![CDATA[Una chuleta para tener a mano los comandos del cliente de correo NeoMutt<br><br><strong>Fuente:</strong> JDRM]]></description>
 </item>
 
 </channel>
