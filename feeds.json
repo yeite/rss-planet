@@ -1,5 +1,13 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Firefox Nova y los problemas de accesibilidad",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/21/20261021-firefox-nova-accesibilidad/",
+    "fecha": "21/10/2026 08:00",
+    "contenido": "Es normal hacer renovaciones visuales, pero si la accesibilidad no va de la mano, tenemos un problema",
+    "imagen": null
+  },
+  {
     "blog": "labaudric",
     "titulo": "Crítica manga Chainsaw Man",
     "link": "https://labaudric.net/blog/manga/critica-chainsaw-man-manga",
@@ -53,7 +61,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "20/10/2026 08:37",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261020%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261020T160729Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1bb3ae2b5660b62e539e1333e56f7456d4ef5a77e2d5054cc6270a21159a95b7"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T024604Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8d98b63307498024a393a6bf0b862a3007857f573615fb86cea37beb6af04c9b"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -232,14 +240,6 @@
     "imagen": "https://elblogdelazaro.org/images/posts/2026/lazaro/featured.webp"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Mis medallas en carreras populares",
-    "link": "https://chancli.dev/blog/mis-medallas.html",
-    "fecha": "19/10/2026 00:00",
-    "contenido": "Si seguís la web y el blog y habéis navegado un poco por él os habréis fijado en la sección de Running.\nAhí voy subiendo los entrenos y carreras que voy haciendo.\nAyer, como buen Domingo, decidí hacer algo de la limpieza en la estantería. Me di cuenta que tenía varias de las medallas conseguidas en ",
-    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/medallas_qC4Bu5ucD.jpeg"
-  },
-  {
     "blog": "La Frikoteca",
     "titulo": "Un espacio limitado en nuestro corazón",
     "link": "http://frikoteca.blogspot.com/2026/10/un-espacio-limitado-en-nuestro-corazon.html",
@@ -317,7 +317,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "18/10/2026 08:55",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261020%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261020T160729Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e92c880fcb3f99de68d8d8c56253a866b43ccbd83826b4ac236329817f1eb426"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T024604Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e874728df36844863927f5117e217df959972d74c3b9197987943c7ac6671793"
   },
   {
     "blog": "Mareos de un geek",
@@ -520,14 +520,6 @@
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioOTQt1c57IuiJ76pw5B6HxCrRvXPfxFkR_HpSZaKFWSOBiapnXS2tZznWEEJvTftiNad9XfHZdLGxNfPuJxDh-Y9qf_0XfcpIhPq53tSroWh6vCP23FHyp6K25u_r3KvUQ0uScYgkd5StOmoT72aeZOhcyAelXBFuCpv-0bexKk8vIEjzLXcSJPImUJc/s72-w640-h360-c/IMG_20260831_190902.jpg"
   },
   {
-    "blog": "JavierSam",
-    "titulo": "Firefox: desactivar la IA automática del buscador de Google",
-    "link": "https://javiersam.uy/2026/10/firefox-desactivar-la-ia-automatica-del-buscador-de-google.html",
-    "fecha": "16/10/2026 03:00",
-    "contenido": "Llegado el caso sí hago búsquedas utilizando ia. Pero me molesta que ese sea el comportamiento predefinido del buscador. No me parece razonable. Por eso a continuación comento algunas opciones para quitar la ia del bucador de forma predefinida. Quitar la ia del buscador de Google en la barra de dire",
-    "imagen": null
-  },
-  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo Juego Simcity en la Terminal de Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2026/10/como-instalo-el-de-simcity-ttycity-en-ubuntu.html",
@@ -565,7 +557,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "15/10/2026 18:53",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261020%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261020T160729Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6212cc8eb240c3e09f7f5a68c3aaaf65a56fd04b44613207d4508fd5d97ac26a"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T024604Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4ef7ab7cf58c025ff407cfaa72923812c8c1e653f6f49b8c51d814801d9b6e84"
   },
   {
     "blog": "CozyKis",
@@ -821,22 +813,6 @@
     "link": "https://productordesostenibilidad.es/2026/10/leer-libros-nuevos-en-kindles-viejos/",
     "fecha": "14/10/2026 04:23",
     "contenido": "La lucha de Amazon contra sus usuarios sigue a buen ritmo. Si antes del verano convertía en obsoletos a varios modelos de lectores de libros electrónicos perfectamente funcionales, ahora son las aplicaciones para descargar los libros las que se quedan fuera de juego. Las grandes corporaciones tienen",
-    "imagen": null
-  },
-  {
-    "blog": "Luis Carlos Pando",
-    "titulo": "Compas con bandas, los invito a armarse un perfil en el Hitz, ahorita es cuando",
-    "link": "https://blog.luiscarlospando.com/musica/2026/10/compas-con-bandas-los-invito-a-armarse-un-perfil-en-el-hitz-ahorita-es-cuando/",
-    "fecha": "13/10/2026 23:01",
-    "contenido": "Estos últimos días he estado trabajando mucho en el Hitz, y uno de los temas que más me interesa resolver es cómo hacer que la plataforma sea sostenible y rentable. Sé que somos un proyecto de nicho. Lo más probable es que no alcancemos un crecimiento masivo y nuestra filosofía parte de apoyar genui",
-    "imagen": null
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "HomeView: un iPad para que lo use toda la familia",
-    "link": "https://matizeta.com/2026/10/13/homeview-un-ipad-para-que-lo-use-toda-la-familia/",
-    "fecha": "13/10/2026 18:29",
-    "contenido": "El título es el resumen de lo que es el nuevo producto de Apple que se lanzó en el día de hoy. Es una pantalla de 7&#8243; pulgadas que recuerda (con algo de imaginación a una miniatura de la vieja iMac G4 lanzada en el 2002. Claro, también se puede adquirir sin la base de [&#8230;]Entradas relacion",
     "imagen": null
   }
 ]
