@@ -1,11 +1,51 @@
 [
   {
+    "blog": "Interlan",
+    "titulo": "Seguridad: Vulnerabilidad  CVE-2026-109618 y CVE-2026-109619 en PHP",
+    "link": "https://interlan.ec/blog/2026/10/21/seguridad-vulnerabilidad-cve-2026-109618-y-cve-2026-109619-en-php/",
+    "fecha": "21/10/2026 15:10",
+    "contenido": "Si tienes PHP, te estás tardando en actualizar. Llévalo a la versión 8.4.27, pues es una situación crítica de seguridad Esto es un boletín informativo de SEGURIDAD Introduccion hace poco hablabamos de un problema critico de seguridad que afectaba historicamente a versiones antiquisimas de wordpress ",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ilusiones Ópticas y Efectos Infinitos #20",
+    "link": "https://www.fabio.com.ar/10057-ilusiones-pticas-y-efectos-infinitos-20",
+    "fecha": "21/10/2026 12:00",
+    "contenido": "    \nOtro par de a&ntilde;os en que no les entrego droga en forma visual 😁, pero no me olvido y aqu&iacute; estamos con estos delirios que hacen que tu cerebro empiece a fallar, no demasiado, s&oacute;lo un poco como para volverse inseguro. Si no vieron los anteriores que arm&eacute; aqu&iacute; se ",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/ilusiones20/ilusiones16.jpg"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Colorbound",
+    "link": "https://cozykis.kisworld.es/analisis-de-colorbound/",
+    "fecha": "21/10/2026 10:50",
+    "contenido": "Sumérgete en esta bonita historia para preparar un homenaje a nuestro abuelo mientras resolvemos complicados puzles rodeades de llamas\nLa entrada Análisis de Colorbound se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Informe Especial | 10 Bandas Con Un Único Álbum",
+    "link": "https://www.delotroladometal.com.ar/2026/10/21/10-bandas-con-un-unico-album/",
+    "fecha": "21/10/2026 10:35",
+    "contenido": "Estuvimos pensando bastante y se nos ocurrió que sería una buena idea hacer un repaso...\nThe post Informe Especial | 10 Bandas Con Un Único Álbum first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Firefox Nova y los problemas de accesibilidad",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/21/20261021-firefox-nova-accesibilidad/",
     "fecha": "21/10/2026 08:00",
     "contenido": "Es normal hacer renovaciones visuales, pero si la accesibilidad no va de la mano, tenemos un problema",
     "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Termix en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-termix-en-debian-13/",
+    "fecha": "21/10/2026 07:15",
+    "contenido": "Con Termix podrás centralizar el acceso SSH, transferencias de archivos, túneles, Docker y mucho más desde una única interfaz web",
+    "imagen": "https://voidnull.es/content/images/2026/10/termix-1.png"
   },
   {
     "blog": "labaudric",
@@ -61,7 +101,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "20/10/2026 08:37",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T024604Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8d98b63307498024a393a6bf0b862a3007857f573615fb86cea37beb6af04c9b"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T162318Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8aa5ed82691ddb2c0effffc5de037c230d1564b27e8ded46456a1d4df2796f57"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -240,6 +280,14 @@
     "imagen": "https://elblogdelazaro.org/images/posts/2026/lazaro/featured.webp"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Mis medallas en carreras populares",
+    "link": "https://chancli.dev/blog/mis-medallas.html",
+    "fecha": "19/10/2026 00:00",
+    "contenido": "Si seguís la web y el blog y habéis navegado un poco por él os habréis fijado en la sección de Running.\nAhí voy subiendo los entrenos y carreras que voy haciendo.\nAyer, como buen Domingo, decidí hacer algo de la limpieza en la estantería. Me di cuenta que tenía varias de las medallas conseguidas en ",
+    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/medallas_qC4Bu5ucD.jpeg"
+  },
+  {
     "blog": "La Frikoteca",
     "titulo": "Un espacio limitado en nuestro corazón",
     "link": "http://frikoteca.blogspot.com/2026/10/un-espacio-limitado-en-nuestro-corazon.html",
@@ -317,7 +365,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "18/10/2026 08:55",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T024604Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e874728df36844863927f5117e217df959972d74c3b9197987943c7ac6671793"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T162318Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d5f43c2708940091943e6d79e46e54ede2290ee6814c45b6661ee3df6387b385"
   },
   {
     "blog": "Mareos de un geek",
@@ -520,6 +568,14 @@
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioOTQt1c57IuiJ76pw5B6HxCrRvXPfxFkR_HpSZaKFWSOBiapnXS2tZznWEEJvTftiNad9XfHZdLGxNfPuJxDh-Y9qf_0XfcpIhPq53tSroWh6vCP23FHyp6K25u_r3KvUQ0uScYgkd5StOmoT72aeZOhcyAelXBFuCpv-0bexKk8vIEjzLXcSJPImUJc/s72-w640-h360-c/IMG_20260831_190902.jpg"
   },
   {
+    "blog": "JavierSam",
+    "titulo": "Firefox: desactivar la IA automática del buscador de Google",
+    "link": "https://javiersam.uy/2026/10/firefox-desactivar-la-ia-automatica-del-buscador-de-google.html",
+    "fecha": "16/10/2026 03:00",
+    "contenido": "Llegado el caso sí hago búsquedas utilizando ia. Pero me molesta que ese sea el comportamiento predefinido del buscador. No me parece razonable. Por eso a continuación comento algunas opciones para quitar la ia del bucador de forma predefinida. Quitar la ia del buscador de Google en la barra de dire",
+    "imagen": null
+  },
+  {
     "blog": "Ubuntu Peronista",
     "titulo": "¿Cómo Juego Simcity en la Terminal de Ubuntu?",
     "link": "https://ubuntuperonista.blogspot.com/2026/10/como-instalo-el-de-simcity-ttycity-en-ubuntu.html",
@@ -557,7 +613,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "15/10/2026 18:53",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T024604Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4ef7ab7cf58c025ff407cfaa72923812c8c1e653f6f49b8c51d814801d9b6e84"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T162318Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2f7a2e50793296624a39f6bbb670e91d55a9077d338b0bbf77c68b99897a35ca"
   },
   {
     "blog": "CozyKis",
@@ -701,118 +757,6 @@
     "link": "https://tecnoysoft.com/2026/10/14/la-libertad-no-puede-construirse-sobre-la-falta-de-libertad-de-los-demas/",
     "fecha": "14/10/2026 16:31",
     "contenido": "¿Qué significa ser libre? ¿Significa poder hacer lo que queramos, sin límites ni restricciones? ¿Significa que nadie pueda decirnos qué hacer, aunque nuestras decisiones condicionen la vida de otras personas? ¿O existe una forma más profunda de entender la libertad? Las cuatro libertades del softwar",
-    "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "nls: lista los ficheros y directorios en una tabla",
-    "link": "https://voidnull.es/nls-lista-los-ficheros-y-directorios-en-una-tabla/",
-    "fecha": "14/10/2026 15:30",
-    "contenido": "Lista directorios de forma sencilla y muy visual en forma de tabla.",
-    "imagen": "https://voidnull.es/content/images/2022/01/cli.png"
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Nada es verdad, de Veronica Raimo",
-    "link": "https://mareosdeungeek.es/nada-es-verdad-de-veronica-raimo/",
-    "fecha": "14/10/2026 12:00",
-    "contenido": "Nada es verdad, escrito por Veronica Raimo es uno de los libros que he leído en las últimas semanas. Típico libro que acaban de devolver en la biblioteca y aparece en la estanteria en el preciso momento que la visitas. Estamos ante un libro, cuanto menos, original, aunque en la contraportada se cita",
-    "imagen": null
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "Lo-Fi y cámaras digitales compactas",
-    "link": "https://jmlro.codeberg.page/posts/lo-fi-y-camaras-digitales-compactas.txt",
-    "fecha": "14/10/2026 12:00",
-    "contenido": "Echo de menos disparar fotos. Antes de tener hijos era un plan, sacar la cámara a pasear, afinar el ojo y disparar fotos. Ahora la mayoría de fotos tienen excusas familiares. No me maliterpretes, me encanta sacar ese tipo de fotos y estoy orgulloso de tener un buen archivo.\n\nMe planteaba apuntar y d",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "The Uprising, todo tiempo medieval fue sin color y con mucho barro",
-    "link": "https://www.fabio.com.ar/10052-the-uprising-todo-tiempo-medieval-fue-sin-color-y-con-mucho-barro",
-    "fecha": "14/10/2026 12:00",
-    "contenido": "    \nEl barro, el barro ha existido durante toda la historia de la humanidad, la cosa super limpia y pulcra no es \"realista\", estamos de acuerdo. Pero &iquest;Y el color? El color tambi&eacute;n!, pero al parecer la gente que vivi&oacute; en otra &eacute;poca no merece color.\nEl otro d&iacute;a me c",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/uprising/uprising01.jpg"
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Algunas fotos de septiembre",
-    "link": "https://www.ericafustero.com/2026-10-algunas-fotos-de-septiembre",
-    "fecha": "14/10/2026 11:19",
-    "contenido": "Mi frigorífico está lleno de carretes en blanco y negro pendientes de revelar. Algunos que disparé antes de irme a Berlín, otros que disparé allí, un par más que disparé a la vuelta. La vida, las obligaciones y la climatología han ido poniéndome trabas y voy a necesitar varias sesiones para revelarl",
-    "imagen": null
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Allogloom",
-    "link": "https://cozykis.kisworld.es/analisis-de-allogloom/",
-    "fecha": "14/10/2026 10:46",
-    "contenido": "La misteriosa desaparición de nuestra madre nos llevará a descubrir la verdad sobre nuestro pequeño y oscuro pueblo\nLa entrada Análisis de Allogloom se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Banda Noruega Prepara \"The Burden Of Storms\", Su Nuevo Álbum | Conociendo A Omegashift",
-    "link": "https://www.delotroladometal.com.ar/2026/10/14/conociendo-a-omegashift/",
-    "fecha": "14/10/2026 10:35",
-    "contenido": "Siempre andamos en la búsqueda de cosas nuevas, excitantes, que lleguen hasta lo más profundo...\nThe post La Banda Noruega Prepara \"The Burden Of Storms\", Su Nuevo Álbum | Conociendo A Omegashift first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "alt43",
-    "titulo": "Guía visual: NextDNS para bloquear anuncios y rastreadores en Android y navegadores",
-    "link": "https://alt43.es/guia-visual-nextdns-para-bloquear-anuncios-y-rastreadores-en-android-y-navegadores/",
-    "fecha": "14/10/2026 10:04",
-    "contenido": "NextDNS bloquea anuncios, rastreadores y malware en todo tu móvil, también dentro de las apps, sin instalar nada. Explicamos en tres infografías qué es, cómo configurarlo y cómo activarlo en Android y en tu navegador",
-    "imagen": null
-  },
-  {
-    "blog": "DESDE UN BALCÓN DE MADRID",
-    "titulo": "99 – Cambios y despedidas",
-    "link": "https://empiezaen2023.wordpress.com/2026/10/14/99-cambios-y-despedidas/",
-    "fecha": "14/10/2026 10:03",
-    "contenido": "Esta es la última entrada del blog nombrada con dos números (la siguiente será la 100), y dado que coincide con varios capítulos de mi vida que quiero ir cerrando la aprovecharé para marcar un «reinicio» o cambio en el tono e identidad visual de este espacio y de mi identidad en redes sociales (Mast",
-    "imagen": "https://0.gravatar.com/avatar/cf848866e4aaad1615809bbd441f4c61fc1ababa474f792769b77cfd235ba727?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "591. Un simple día de octubre",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/10/591-un-simple-dia-de-octubre.html",
-    "fecha": "14/10/2026 09:48",
-    "contenido": "&nbsp; &nbsp; Dicen que lo primero que hacemos al despertarnos es coger el móvil y consultar las redes sociales y las notificaciones. Lo primero que hago yo, aunque no tenga motivos para ello, es blasfemar o emitir un sonido animalesco, similar al del ciervo rojo durante la berrea. Luego me levanto ",
-    "imagen": "https://img.youtube.com/vi/blEDhrNKenI/default.jpg"
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Rol cyberpunk y postapocalítico",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/14/20261014-juegos-rol-ciberpunk/",
-    "fecha": "14/10/2026 08:00",
-    "contenido": "Intento jugar a cosas que se alejen de mi día a día, pero a veces merece la darle una patada ficticia a una megacorporación",
-    "imagen": null
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Analizando lo que un LLM cree pensar sobre mí",
-    "link": "https://gatooscuro.xyz/analizando-lo-que-un-llm-cree-pensar-sobre-mi/",
-    "fecha": "14/10/2026 07:24",
-    "contenido": "Para nadie es un secreto que la popularidad de los LLM (modelos de lenguaje de gran tamaño, generalmente basados en redes neuronales) ha alcanzado niveles sorprendentemente altos. Tanto es así\nSeguir leyendo  Analizando lo que un LLM cree pensar sobre mí\nEl cargo Analizando lo que un LLM cree pensar",
-    "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalación de Joomla! en Debian 13",
-    "link": "https://voidnull.es/instalacion-de-joomla-en-debian-13/",
-    "fecha": "14/10/2026 07:10",
-    "contenido": "Aprende a instalar Joomla! en Debian 13 utilizando una pila LEMP con Nginx, MariaDB y PHP-FPM paso a paso.",
-    "imagen": "https://voidnull.es/content/images/2026/10/joomla-1.png"
-  },
-  {
-    "blog": "productor de sostenibilidad",
-    "titulo": "Leer libros nuevos en kindles viejos",
-    "link": "https://productordesostenibilidad.es/2026/10/leer-libros-nuevos-en-kindles-viejos/",
-    "fecha": "14/10/2026 04:23",
-    "contenido": "La lucha de Amazon contra sus usuarios sigue a buen ritmo. Si antes del verano convertía en obsoletos a varios modelos de lectores de libros electrónicos perfectamente funcionales, ahora son las aplicaciones para descargar los libros las que se quedan fuera de juego. Las grandes corporaciones tienen",
     "imagen": null
   }
 ]
