@@ -2,7 +2,7 @@
 {
   "Nombre": "Memorias de un técnico ligero",
   "Url": "https://tecnico-ligero.mooo.com/",
-  "Feed": "https://tecnico-ligero.mooo.com/",
+  "Feed": "https://tecnico-ligero.mooo.com/feeds/all.rss.xml",
   "Descripción": "Breves anotaciones de un técnico que no es cien por ciento técnico, ni tampoco literato, ni tampoco tan inquieto, ni tampoco hace música, sino ruiditos.",
   "Categoría": "Tecnología",
   "País": "Argentina"
@@ -241,15 +241,6 @@
     "Descripción": "Es un blog personal en donde subo lo que se me ocurra, snippets de programación, ideas, videojuegos, comida, libros que leí. Y también tengo un journey con algunas fotos que voy sacando en mis andanzas.",
     "Categoría": "Comida y Bebida, Tecnología, Vida Diaria",
     "País": "Argentina",
-    "Aliado": "si"
-  },
-  {
-    "Nombre": "Un Diario",
-    "Url": "https://thejnx.bearblog.dev",
-    "Feed": "https://thejnx.bearblog.dev/rss",
-    "Descripción": "Aquí escribo/reúno mis ideas mas importantes, temas frikis, geeks, algunas reseñas, recomendaciones, etc, por si les resultan de utilidad! (˶ᵔ ᵕ ᵔ˶)",
-    "Categoría": "Tecnología, Vida Diaria",
-    "País": "Colombia",
     "Aliado": "si"
   },
   {
