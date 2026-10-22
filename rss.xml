@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 22 Oct 2026 02:22:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 10:48:24 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,30 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>593. El séptimo día</title>
+<link>https://lamadredelpatonegro.blogspot.com/2026/10/593-el-septimo-dia.html</link>
+<guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/10/593-el-septimo-dia.html</guid>
+<pubDate>Wed, 21 Oct 2026 22:00:00 GMT</pubDate>
+<category>La Madre Que Parió Al Pato Negro</category>
+<description><![CDATA[&amp;nbsp; &amp;nbsp; Ya no jarrea en España y sé que lo sabéis. Lo que no sabéis es que mi semana de trabajo —de jueves a miércoles— ha sido un tanto estresante. Algo inusual, porque en mi esclavitud laboral siempre me he implicado un poco más allá de lo estrictamente necesario para que no me llamen la ate<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
+</item>
+<item>
+<title>El día en que PHP se detuvo, PHP2Shell</title>
+<link>https://www.fabio.com.ar/10058-el-dia-en-que-php-se-detuvo-php2shell</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/10058-el-dia-en-que-php-se-detuvo-php2shell</guid>
+<pubDate>Wed, 21 Oct 2026 18:48:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Esto es para nardos, sysadmins y alg&amp;uacute;n ocasional que tiene su propio servidor en la web. Como muchos lo saben, aunque se que la gran mayor&amp;iacute;a no, el 70% de Internet funciona gracias a PHP. Odiado, maltratado, pero siempre fiel, PHP es el motor de este blog desde hace 24 a&amp;ntilde;os<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>¿Una legislatura perdida? (II): Mónica García, o para qué sirve un ministerio sin competencias</title>
+<link>https://seyker.eu/sumar-legislatura-monica-garcia-sanidad/</link>
+<guid isPermaLink="true">https://seyker.eu/sumar-legislatura-monica-garcia-sanidad/</guid>
+<pubDate>Wed, 21 Oct 2026 17:35:00 GMT</pubDate>
+<category>SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes</category>
+<description><![CDATA[Con las elecciones del 29 de noviembre a la vuelta de la esquina, toca hacer balance. Sanidad es un ministerio con pocas competencias directas, porque la gestión de hospitales y centros de salud es de las comunidades autónomas. Por eso su trabajo consiste en marcar mínimos comunes, coordinar y, cuan<br><br><strong>Fuente:</strong> SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes]]></description>
+</item>
 <item>
 <title>Seguridad: Vulnerabilidad CVE-2026-109618 y CVE-2026-109619 en PHP</title>
 <link>https://interlan.ec/blog/2026/10/21/seguridad-vulnerabilidad-cve-2026-109618-y-cve-2026-109619-en-php/</link>
@@ -64,6 +88,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Wed, 21 Oct 2026 07:15:00 GMT</pubDate>
 <category>_ voidNull</category>
 <description><![CDATA[Con Termix podrás centralizar el acceso SSH, transferencias de archivos, túneles, Docker y mucho más desde una única interfaz web<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Descomprimir ZIP automáticamente con Bash</title>
+<link>https://vctrsnts.codeberg.page/posts/2026-10-21-script-bash/</link>
+<guid isPermaLink="true">https://vctrsnts.codeberg.page/posts/2026-10-21-script-bash/</guid>
+<pubDate>Tue, 20 Oct 2026 22:00:00 GMT</pubDate>
+<category>Si lo haces, hazlo bien!</category>
+<description><![CDATA[A continuación tienes un script muy corto que permite descomprimir todos los archivos .zip de un directorio, creando una carpeta para cada uno y colocando allí su contenido. #!/usr/bin/env bash # bucle.sh – Descomprime todos los .zip del directorio actual for f in *.zip; do # Crea la carpeta co<br><br><strong>Fuente:</strong> Si lo haces, hazlo bien!]]></description>
 </item>
 <item>
 <title>Crítica manga Chainsaw Man</title>
@@ -184,38 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Mon, 19 Oct 2026 13:24:00 GMT</pubDate>
 <category>Papel Continuo</category>
 <description><![CDATA[Formes des luttes (Formas de Lucha) es una herramienta colaborativa que permite a diseñadores gráficos, artistas e ilustradores participar en la lucha a través de medios visuales. El colectivo nació a finales de 2019 durante las primeras movilizaciones por la reforma de las pensiones bajo el mandato<br><br><strong>Fuente:</strong> Papel Continuo]]></description>
-</item>
-<item>
-<title>¿Cuánto tiempo tu dominio será tuyo?</title>
-<link>https://fernand0.github.io//la-ocupacion-de-dominios/</link>
-<guid isPermaLink="true">https://fernand0.github.io//la-ocupacion-de-dominios/</guid>
-<pubDate>Mon, 19 Oct 2026 12:44:00 GMT</pubDate>
-<category>fernand0 @ GitHub.io</category>
-<description><![CDATA[Muchas veces se habla de que corremos mucho riesgo al confiar nuestra presencia digital (y más, la comunicación digital, dirección de correo…) aservicios externos (gratuitos o no). La solución que suele proponerse es que vale la pena que contratemos nuestro propio dominio, ya que siempre podremos ha<br><br><strong>Fuente:</strong> fernand0 @ GitHub.io]]></description>
-</item>
-<item>
-<title>El problema nunca fue el café</title>
-<link>https://www.fabio.com.ar/10055-el-problema-nunca-fue-el-cafe</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/10055-el-problema-nunca-fue-el-cafe</guid>
-<pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[Una taza de caf&amp;eacute; nos divide. Uno dice que la gente deber&amp;iacute;a dejar de gastar en caf&amp;eacute;, ser responsable y ahorrar en gastos tontos para empezar a tener una vida mejor, responsabilidad financiera ante todo. El otro le contesta que la taza de caf&amp;eacute; no va a cambiar la realid<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Análisis de Burn With Me</title>
-<link>https://cozykis.kisworld.es/analisis-de-burn-with-me/</link>
-<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-burn-with-me/</guid>
-<pubDate>Mon, 19 Oct 2026 10:48:00 GMT</pubDate>
-<category>CozyKis</category>
-<description><![CDATA[Con una mecánica de lo más original nos hará sentir que nosotres también estamos luchando contra nuestros demonios internos La entrada Análisis de Burn With Me se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
-</item>
-<item>
-<title>La Banda De Gothic Metal Prepara Un Nuevo Disco | Abrasantia Presenta “Te Amaré Por Siempre”</title>
-<link>https://www.delotroladometal.com.ar/2026/10/19/abrasantia-presenta-te-amare-por-siempre/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/10/19/abrasantia-presenta-te-amare-por-siempre/</guid>
-<pubDate>Mon, 19 Oct 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[Desde la ciudad de Rosario, Abrasantia se encuentra preparando lo que va a ser su... The post La Banda De Gothic Metal Prepara Un Nuevo Disco | Abrasantia Presenta “Te Amaré Por Siempre” first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
 </item>
 
 </channel>
