@@ -1,5 +1,45 @@
 [
   {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #899",
+    "link": "https://www.fabio.com.ar/10059-ruleta-rusa-899",
+    "fecha": "22/10/2026 12:00",
+    "contenido": "     A la guerra ruletera, armado hasta las tetas\nMiren, para ustedes seguro fue una semana tranquila, pero para mi viene m&aacute;s agitada de lo que jam&aacute;s se podr&aacute;n imaginar 😁 ya les dej&eacute; la nota anterior para enterarse de eso, ahora necesitamos un descanso mental y la ruleta ",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/ruleta899.jpg"
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Nextcloud y Collabora, y fuentes personalizadas",
+    "link": "https://nachof.blog/posts/2026/nextcloud-y-collabora-y-fuentes-personalizadas/",
+    "fecha": "22/10/2026 11:10",
+    "contenido": "Post cortito porque en una búsqueda rápida no pude encontrar esto explícitamente, pero lo solucioné toqueteando, así que lo documento.\nCuando agregás una fuente personalizada en la configuración de Nextcloud para que Collabora la use, te aparece este text:\n\nMake sure to set this URL: https://{tudomi",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Desde Argentina Asoma Una Nueva Propuesta | Disasterphonia Desafía Al Sonido…Y Al Alma",
+    "link": "https://www.delotroladometal.com.ar/2026/10/22/disasterphonia-desafia-al-sonido-y-al-alma/",
+    "fecha": "22/10/2026 10:35",
+    "contenido": "Ceb Theory es un personaje conocido por este medio. Ya le conocimos de la mano...\nThe post Desde Argentina Asoma Una Nueva Propuesta | Disasterphonia Desafía Al Sonido…Y Al Alma first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Metahorror Therapy Session",
+    "link": "https://cozykis.kisworld.es/analisis-de-metahorror-therapy-session/",
+    "fecha": "22/10/2026 09:45",
+    "contenido": "Un juego de misterio en el que tendremos que obtener toda la información necesaria sin presionar a nuestre paciente Metahorror Therapy Session es una novela visual de terror y misterio en la que jugaremos como un terapeuta que está en una sesión de terapia infinita con Noel. Una persona que ha sufri",
+    "imagen": null
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Leer poesía",
+    "link": "https://adrianperales.com/2026/10/leer-poesia/",
+    "fecha": "22/10/2026 07:00",
+    "contenido": "Hace relativamente poco que disfruto de la lectura de poesía. En esta entrada cuento mi acercamiento al género. Un poco de historia La escuela me fastidió la poesía. No se me escapa la ironía de decir esto cuando soy profesor de Lengua y Literatura, pero es así. Leer sobre todo a poetas varones clás",
+    "imagen": null
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "593. El séptimo día",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/10/593-el-septimo-dia.html",
@@ -133,7 +173,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "20/10/2026 08:37",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T024409Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=bf55deefe3e53dda8fdafa28005c1cf64abfe23c85e80849792d352c6a3b91a1"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T162405Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=584ae2f4a6138a579cdc7a536976e475fe5fbb87fa999abeb2e5b0c1694e0975"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -308,8 +348,16 @@
     "titulo": "El tema Lazaro para Hugo ya es público",
     "link": "https://elblogdelazaro.org/el-tema-lazaro-para-hugo-ya-es-publico/",
     "fecha": "19/10/2026 06:00",
-    "contenido": "Por: Carlos M.Publicado el 19 de octubre de 2026Por fin me he decidido a liberar el código del tema Lazaro para Hugo. Te cuento las características principales, por qué está en GitLab, qué aspectos se pueden mejorar y cómo puedes colaborar.Continuar leyendo →#Hugo #Gitlab ",
-    "imagen": "https://elblogdelazaro.org/images/posts/2026/lazaro/featured.webp"
+    "contenido": "Por: Carlos M.Publicado el 19 de octubre de 2026Por fin me he decidido a liberar el código del tema Lazaro para Hugo. Te cuento las características principales, por qué está en GitLab, qué aspectos se pueden mejorar y cómo puedes colaborar.Continuar leyendo →#Hugo #Open-Source #Gitlab #Ia ",
+    "imagen": "https://elblogdelazaro.org/images/posts/2026/blog/blog-06.png"
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Mis medallas en carreras populares",
+    "link": "https://chancli.dev/blog/mis-medallas.html",
+    "fecha": "19/10/2026 00:00",
+    "contenido": "Si seguís la web y el blog y habéis navegado un poco por él os habréis fijado en la sección de Running.\nAhí voy subiendo los entrenos y carreras que voy haciendo.\nAyer, como buen Domingo, decidí hacer algo de la limpieza en la estantería. Me di cuenta que tenía varias de las medallas conseguidas en ",
+    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/medallas_qC4Bu5ucD.jpeg"
   },
   {
     "blog": "La Frikoteca",
@@ -389,7 +437,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "18/10/2026 08:55",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T024409Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=26424b8b916f45e7cdfe957d0c59d863acdbb255144e8eef197bb67ff40ca2a5"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T162405Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c3979d814bbebe97adcf46c084596d4f67343635649de7b79e7f975637be032c"
   },
   {
     "blog": "Mareos de un geek",
@@ -496,6 +544,14 @@
     "imagen": null
   },
   {
+    "blog": "Memorias de un Técnico Ligero",
+    "titulo": "Reiniciar servicio en segundo plano de mpv y feh",
+    "link": "https://tecnico-ligero.mooo.com/posts/2026/reiniciar-servicio-en-segundo-plano-de-mpv-y-feh.html",
+    "fecha": "16/10/2026 16:09",
+    "contenido": "Siguiendo con el tema anterior que nos atañe, que es reproducir en una tv de tubo Elibre Radio, puede pasar que la emisión se cuelgue como me ha pasado, y que no retome la reproducción; o que en su defecto agregue nuevas imágenes de fondo que quiera que se muestren …",
+    "imagen": null
+  },
+  {
     "blog": "Interlan",
     "titulo": "Equipos: Transmisor FM con DSP",
     "link": "https://interlan.ec/blog/2026/10/16/equipos-transmisor-fm-con-dsp/",
@@ -585,7 +641,7 @@
   },
   {
     "blog": "Malagueños originales y libres",
-    "titulo": "Rescatando equipo de música Sharp SG-FR35H (BK)",
+    "titulo": "Rescatando equipo de música Sharp SG-FR35H (BK) (I)",
     "link": "https://malagaoriginal.blogspot.com/2026/10/rescatando-equipo-de-musica-sharp-sg.html",
     "fecha": "16/10/2026 05:59",
     "contenido": "Rescatado junto a la basura este equipo compacto Sharp, con tocadiscos, radio FM/MW/LW, doble pletina y entrada auxiliar.&nbsp;El primer paso es ver como está así que me la he jugado y lo he enchufado a la corriente, después de abrir la tapa trasera, limpiar un poco, secar y ver que no había nada ev",
@@ -637,7 +693,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "15/10/2026 18:53",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T024409Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6edca23d5b3f12ceb92bb2d246fae0ce970eea8c16db440099b136ec29828408"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T162405Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=36a7693207721adb6561dc2583dee7a1348f76e7b1919c80d00460156cf0ed42"
   },
   {
     "blog": "CozyKis",
@@ -669,94 +725,6 @@
     "link": "https://zurdeando.daluar.net/blog/grullas/",
     "fecha": "15/10/2026 16:53",
     "contenido": "El fin de semana pasado fuimos a Diepholzer Moorniederung, allá en Baja Sajonia, en el norte de Alemania.\nUn sitio dejado de todo. Fue además un viaje improvisado: la reserva del AirBnB quedó confirmada el mismo viernes por la mañana, y nos íbamos por la tarde.\nY, ¿por qué? Pues porque se me antojó ",
-    "imagen": null
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Oasis, una red social distribuida",
-    "link": "https://jdrm.info/oasis-una-red-social-distribuida.html",
-    "fecha": "15/10/2026 16:00",
-    "contenido": "Una toma de contacto con una muy minoritaria red social distribuida",
-    "imagen": null
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Oasis, una red social distribuida",
-    "link": "https://jdrm.info/oasis-una-red-social-distribuida.html",
-    "fecha": "15/10/2026 16:00",
-    "contenido": "Una toma de contacto con una muy minoritaria red social distribuida",
-    "imagen": null
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/10/15/231326/",
-    "fecha": "15/10/2026 12:30",
-    "contenido": "Ajustes, ajustes&#8230; más pelitos en la mano del monstruo, &#8220;basurita&#8221; por aquí y por allá, además del layer con la trama de puntos. Close-up a la mano para dejar constancia de lo que me gusta entintar (y dibujar) pelambrera&#8230; Como no terminé el color a tiempo y tenía que entregar ",
-    "imagen": null
-  },
-  {
-    "blog": "La bitácora de Locutus",
-    "titulo": "Las murallas del espanto",
-    "link": "http://locutusbit.blogspot.com/2026/10/las-murallas-del-espanto.html",
-    "fecha": "15/10/2026 12:00",
-    "contenido": "&nbsp;Lanzas, puñales y palabras;todas son buenas si deforman el cuerpo y la mente.No importa si terminas en una sepultura,al borde del camino, o boca abajo flotando en el océano.Sólo habría que retocar algún que otro detalle.Palabra, lanzas y puñales;todas son buenas para tu pobreza y de otros la r",
-    "imagen": null
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "Matemáticamente inteligentes",
-    "link": "https://jmlro.codeberg.page/posts/matematicamente-inteligentes.txt",
-    "fecha": "15/10/2026 12:00",
-    "contenido": "Me han estado mareando con ese suceso o evento de el Hugging Face donde cientos de Agentes han hecho no-sé-qué burlando la seguridad blablabla. No creo que esos agentes, según se cuenta la historia, tengan malicia o ego maquiavélico de ningún tipo. Solo confunden optimización con inteligencia. Hacen",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #898",
-    "link": "https://www.fabio.com.ar/10053-ruleta-rusa-898",
-    "fecha": "15/10/2026 12:00",
-    "contenido": "     Venga, que hay ruleta!\nSi, s&iacute;, es jueves! Semanita corta, pero eso no significa que no tengamos una buena balacera para promediar la semana, porque es el momento ideal para clavarse un poco de plomo, aqu&iacute; tienen!\nAhora s&iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio ",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/ruleta898.jpg"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Mystical Death Anuncia \"Across\" Como Su Nuevo Álbum | Rompiendo El Molde",
-    "link": "https://www.delotroladometal.com.ar/2026/10/15/rompiendo-el-molde/",
-    "fecha": "15/10/2026 11:00",
-    "contenido": "Parece que la segunda mitad del 2026 viene con muchas novedades dentro del espectro del...\nThe post Mystical Death Anuncia \"Across\" Como Su Nuevo Álbum | Rompiendo El Molde first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "Un tren nuevo para Cercanías",
-    "link": "https://brucknerite.net/2026/10/un-tren-nuevo-para-cercanias.html",
-    "fecha": "15/10/2026 08:00",
-    "contenido": "Dando envidia: no hace mucho tuve la ocasión de «estrenar» un tren de la serie 453 en un viaje charter entre las estaciones de Chamartín y Atocha Cercanías por el túnel de Recoletos.",
-    "imagen": null
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Team building",
-    "link": "https://escritura.social/mcallus/team-building",
-    "fecha": "15/10/2026 07:29",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "LecturaSocial, soberanía digital colaborativa",
-    "link": "https://adrianperales.com/2026/10/lecturasocial-soberania-digital-colaborativa/",
-    "fecha": "15/10/2026 07:00",
-    "contenido": "Llevo unos años formando parte de una pequeña comunidad de autogestión digital y yo creo que ya toca hablar de ella en el blog. LecturaSocial era, en su momento, una promesa. Un dominio que apareció prometiendo una instancia de BookWyrm para hispanohablantes. BookWyrm es a Goodreads lo que Mastodon ",
-    "imagen": null
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Un ojo en la luna, parte 2",
-    "link": "https://escritura.social/mcallus/un-ojo-en-la-luna-parte-2",
-    "fecha": "15/10/2026 06:52",
-    "contenido": "",
     "imagen": null
   }
 ]
