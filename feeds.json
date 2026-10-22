@@ -1,5 +1,29 @@
 [
   {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "593. El séptimo día",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/10/593-el-septimo-dia.html",
+    "fecha": "21/10/2026 22:00",
+    "contenido": "&nbsp; &nbsp; Ya no jarrea en España y sé que lo sabéis. Lo que no sabéis es que mi semana de trabajo —de jueves a miércoles— ha sido un tanto estresante. Algo inusual, porque en mi esclavitud laboral siempre me he implicado un poco más allá de lo estrictamente necesario para que no me llamen la ate",
+    "imagen": "https://img.youtube.com/vi/O-u1E2G2k0M/default.jpg"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El día en que PHP se detuvo, PHP2Shell",
+    "link": "https://www.fabio.com.ar/10058-el-dia-en-que-php-se-detuvo-php2shell",
+    "fecha": "21/10/2026 18:48",
+    "contenido": "    \nEsto es para nardos, sysadmins y alg&uacute;n ocasional que tiene su propio servidor en la web. Como muchos lo saben, aunque se que la gran mayor&iacute;a no, el 70% de Internet funciona gracias a PHP.\nOdiado, maltratado, pero siempre fiel, PHP es el motor de este blog desde hace 24 a&ntilde;os",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/php2shell.jpg"
+  },
+  {
+    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
+    "titulo": "¿Una legislatura perdida? (II): Mónica García, o para qué sirve un ministerio sin competencias",
+    "link": "https://seyker.eu/sumar-legislatura-monica-garcia-sanidad/",
+    "fecha": "21/10/2026 17:35",
+    "contenido": "Con las elecciones del 29 de noviembre a la vuelta de la esquina, toca hacer balance. Sanidad es un ministerio con pocas competencias directas, porque la gestión de hospitales y centros de salud es de las comunidades autónomas. Por eso su trabajo consiste en marcar mínimos comunes, coordinar y, cuan",
+    "imagen": null
+  },
+  {
     "blog": "Interlan",
     "titulo": "Seguridad: Vulnerabilidad  CVE-2026-109618 y CVE-2026-109619 en PHP",
     "link": "https://interlan.ec/blog/2026/10/21/seguridad-vulnerabilidad-cve-2026-109618-y-cve-2026-109619-en-php/",
@@ -46,6 +70,14 @@
     "fecha": "21/10/2026 07:15",
     "contenido": "Con Termix podrás centralizar el acceso SSH, transferencias de archivos, túneles, Docker y mucho más desde una única interfaz web",
     "imagen": "https://voidnull.es/content/images/2026/10/termix-1.png"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Descomprimir ZIP automáticamente con Bash",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-10-21-script-bash/",
+    "fecha": "20/10/2026 22:00",
+    "contenido": "A continuación tienes un script muy corto que permite descomprimir todos los archivos .zip de un directorio, creando una carpeta para cada uno y colocando allí su contenido.\n#!/usr/bin/env bash\n# bucle.sh – Descomprime todos los .zip del directorio actual\n\nfor f in *.zip; do\n    # Crea la carpeta co",
+    "imagen": null
   },
   {
     "blog": "labaudric",
@@ -101,7 +133,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "20/10/2026 08:37",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T162318Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8aa5ed82691ddb2c0effffc5de037c230d1564b27e8ded46456a1d4df2796f57"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T024409Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=bf55deefe3e53dda8fdafa28005c1cf64abfe23c85e80849792d352c6a3b91a1"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -280,14 +312,6 @@
     "imagen": "https://elblogdelazaro.org/images/posts/2026/lazaro/featured.webp"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Mis medallas en carreras populares",
-    "link": "https://chancli.dev/blog/mis-medallas.html",
-    "fecha": "19/10/2026 00:00",
-    "contenido": "Si seguís la web y el blog y habéis navegado un poco por él os habréis fijado en la sección de Running.\nAhí voy subiendo los entrenos y carreras que voy haciendo.\nAyer, como buen Domingo, decidí hacer algo de la limpieza en la estantería. Me di cuenta que tenía varias de las medallas conseguidas en ",
-    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/medallas_qC4Bu5ucD.jpeg"
-  },
-  {
     "blog": "La Frikoteca",
     "titulo": "Un espacio limitado en nuestro corazón",
     "link": "http://frikoteca.blogspot.com/2026/10/un-espacio-limitado-en-nuestro-corazon.html",
@@ -365,7 +389,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "18/10/2026 08:55",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T162318Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d5f43c2708940091943e6d79e46e54ede2290ee6814c45b6661ee3df6387b385"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T024409Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=26424b8b916f45e7cdfe957d0c59d863acdbb255144e8eef197bb67ff40ca2a5"
   },
   {
     "blog": "Mareos de un geek",
@@ -613,7 +637,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "15/10/2026 18:53",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261021%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261021T162318Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2f7a2e50793296624a39f6bbb670e91d55a9077d338b0bbf77c68b99897a35ca"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T024409Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6edca23d5b3f12ceb92bb2d246fae0ce970eea8c16db440099b136ec29828408"
   },
   {
     "blog": "CozyKis",
@@ -733,30 +757,6 @@
     "link": "https://escritura.social/mcallus/un-ojo-en-la-luna-parte-2",
     "fecha": "15/10/2026 06:52",
     "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Instalando y usando OpenGist",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-10-15-opengist/",
-    "fecha": "14/10/2026 22:00",
-    "contenido": "Instalando y configurando OpenGist con PocketID\nÚltimamente tengo a atareao bastante liado con unas dudas sobre este magnífico mundo del self-hosting.\n\nNota\nPara que veáis que soy amable, mañana le he dado fiesta 😁\n\nUna de las dudas que más me quita el sueño es encontrar la mejor configuración para ",
-    "imagen": null
-  },
-  {
-    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
-    "titulo": "¿Una legislatura perdida? (I): Bustinduy, o para qué sirve estar en el Gobierno",
-    "link": "https://seyker.eu/sumar-legislatura-bustinduy-gobierno/",
-    "fecha": "14/10/2026 19:07",
-    "contenido": "Cuando uno se suele informar de política más allá de titulares y de la cultura del zasca, nota la gran diferencia de lo que ve que se realiza realmente, respecto de lo que percibe una gran parte de la gente. Es algo común cuando tenemos un doble problema de información. Por una parte medios de [&#82",
-    "imagen": null
-  },
-  {
-    "blog": "Tecno y Soft - Tecno y Soft",
-    "titulo": "La libertad no puede construirse sobre la falta de libertad de los demás",
-    "link": "https://tecnoysoft.com/2026/10/14/la-libertad-no-puede-construirse-sobre-la-falta-de-libertad-de-los-demas/",
-    "fecha": "14/10/2026 16:31",
-    "contenido": "¿Qué significa ser libre? ¿Significa poder hacer lo que queramos, sin límites ni restricciones? ¿Significa que nadie pueda decirnos qué hacer, aunque nuestras decisiones condicionen la vida de otras personas? ¿O existe una forma más profunda de entender la libertad? Las cuatro libertades del softwar",
     "imagen": null
   }
 ]
