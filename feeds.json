@@ -1,5 +1,13 @@
 [
   {
+    "blog": "labaudric",
+    "titulo": "Neon Genesis Evangelion (manga)",
+    "link": "https://labaudric.net/blog/manga/neon-genesis-evangelion-manga",
+    "fecha": "22/10/2026 19:00",
+    "contenido": "\nEs mi primer contacto con esta saga, con este universo. Estoy leyendo la edición coleccionista de Neon Genesis Evangelion, aunque en términos de contenido estoy bastante seguro que no aporta nada en comparación a la edición normal. 14 tomos (juntados en 7 en la susodicha edición coleccionista) esti",
+    "imagen": "https://labaudric.net/img/neon_genesis_evangelion_manga/01.jpg"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Ruleta Rusa #899",
     "link": "https://www.fabio.com.ar/10059-ruleta-rusa-899",
@@ -37,6 +45,14 @@
     "link": "https://adrianperales.com/2026/10/leer-poesia/",
     "fecha": "22/10/2026 07:00",
     "contenido": "Hace relativamente poco que disfruto de la lectura de poesía. En esta entrada cuento mi acercamiento al género. Un poco de historia La escuela me fastidió la poesía. No se me escapa la ironía de decir esto cuando soy profesor de Lengua y Literatura, pero es así. Leer sobre todo a poetas varones clás",
+    "imagen": null
+  },
+  {
+    "blog": "Maverick HQ",
+    "titulo": "Alucina construyendo avioncitos de papel",
+    "link": "https://maverick-hq.org/blog/aviones-de-papel/",
+    "fecha": "22/10/2026 00:00",
+    "contenido": "Mi hijo es de esos niños que cada varios meses se obsesiona con un tema recurrente y este mes nos ha tocado revivir el de los avioncitos de papel. No es que me queje, porque así lo alejamos de las pantallas por un rato, pero al final acabamos con la casa llena de aviones por todas partes y encima no",
     "imagen": null
   },
   {
@@ -173,7 +189,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "20/10/2026 08:37",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T162405Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=584ae2f4a6138a579cdc7a536976e475fe5fbb87fa999abeb2e5b0c1694e0975"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261023%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261023T024806Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8f599e8033e75044801896a37cb911b773abab8e4b0325ccf33c8d9d28a7db66"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -437,7 +453,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "18/10/2026 08:55",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T162405Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c3979d814bbebe97adcf46c084596d4f67343635649de7b79e7f975637be032c"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261023%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261023T024806Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8752be0b58ae4513672cb606fd4d86f474ca35758ed3ef08396520dfa0893c2a"
   },
   {
     "blog": "Mareos de un geek",
@@ -653,78 +669,6 @@
     "link": "https://javiersam.uy/2026/10/firefox-desactivar-la-ia-automatica-del-buscador-de-google.html",
     "fecha": "16/10/2026 03:00",
     "contenido": "Llegado el caso sí hago búsquedas utilizando ia. Pero me molesta que ese sea el comportamiento predefinido del buscador. No me parece razonable. Por eso a continuación comento algunas opciones para quitar la ia del bucador de forma predefinida. Quitar la ia del buscador de Google en la barra de dire",
-    "imagen": null
-  },
-  {
-    "blog": "Ubuntu Peronista",
-    "titulo": "¿Cómo Juego Simcity en la Terminal de Ubuntu?",
-    "link": "https://ubuntuperonista.blogspot.com/2026/10/como-instalo-el-de-simcity-ttycity-en-ubuntu.html",
-    "fecha": "16/10/2026 01:38",
-    "contenido": "En&nbsp;Manual Práctico del Segundo Plan Quinquenal, Juan Perón expone cómo persuadir para su realización, a la vez que enseña cómo instalar el simulador de ciudades ttycity para la terminal de Ubuntu.(...)Eramos una sociedad en que una Clase minoritaria rica y prepotente, oprimía a otra pobre&nbsp;",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZhb3E9Hs-0NdJ5-1hY8xlzVjpYQiv-ATaqAK41TsT_i5DdyQcWcBOd0_x09yXSp1RCrxENYjt75eterz3wL8R-smL4cZbwR2QvAeW5BlfnkdmzJVUwDAxUuVZA0NEKpPHLP699lGJHXiWnBnyXQp8tVmjz_nDErbAY2LwW3RnZs3Rw3xaTYehmpb59xVX/s72-c/per%C3%B3n.png"
-  },
-  {
-    "blog": "End3r.es",
-    "titulo": "Providence, Un viaje al corazón del horror lovecraftiano",
-    "link": "https://www.end3r.es/posts/025-providence-viaje-al-horror-lovecraftiano/",
-    "fecha": "16/10/2026 00:00",
-    "contenido": "Hablar de Alan Moore es hablar de obras como Watchmen o V de Vendetta, autenticos pilares del noveno arte.\nPero existe una joya más tardía y perturbadora que merece la misma atención:  Providence, publicada originalmente\nentre 2015 y 2017 en doce números, constituye uno de los acercamientos más ambi",
-    "imagen": null
-  },
-  {
-    "blog": "El Cordón",
-    "titulo": "¡Hola BlogBlog!",
-    "link": "https://geroluna44.github.io/blog/posts/blogblog/",
-    "fecha": "16/10/2026 00:00",
-    "contenido": "Ingresé al directorio de blogs BlogBlog.",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Se tiene que morir mucha gente",
-    "link": "https://mareosdeungeek.es/se-tiene-que-morir-mucha-gente/",
-    "fecha": "15/10/2026 20:00",
-    "contenido": "Se tiene que morir mucha gente es una comedia española de Movistar Plus+ creada y escrita por Victoria Martín. La historia de esta serie es bastante curiosa. Su creadora, escribió un guion en 2017, pero ninguna productora quiso realizarla. Aprovechando la historia publicó un libro en 2022 y entonces",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 2 videos en Aion",
-    "link": "https://labaudric.net/videos/aion",
-    "fecha": "15/10/2026 18:53",
-    "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6962/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261022%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261022T162405Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=36a7693207721adb6561dc2583dee7a1348f76e7b1919c80d00460156cf0ed42"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Terror para gente cobarde 2",
-    "link": "https://cozykis.kisworld.es/terror-para-gente-cobarde-2/",
-    "fecha": "15/10/2026 18:42",
-    "contenido": "Un recopilatorio de juegos de terror sin sustos ni persecuciones para quienes disfrutan de la atmósfera sin pasarlo mal\nLa entrada Terror para gente cobarde 2 se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Hasta luego jInversor",
-    "link": "https://matizeta.com/2026/10/15/hasta-luego-jinversor/",
-    "fecha": "15/10/2026 18:17",
-    "contenido": "Reservando su identidad bajo el seudónimo jInversor, el cual era también su nombre de blog, escribía sobre inversiones y hacker ético pero lo que más me gustaba era su mirada cínica, directa, cruda y realista sobre la sociedad en la vida real y la digital. Era un blog personal. Qué ridículo que hoy ",
-    "imagen": null
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "30 años y 1 día. #KDE sigue dándome libertad y funcionalidad con el mejor diseño",
-    "link": "https://victorhckinthefreeworld.com/2026/10/15/30-anos-y-1-dia-kde-sigue-dandome-libertad-y-funcionalidad-con-el-mejor-diseno/",
-    "fecha": "15/10/2026 18:06",
-    "contenido": "Ayer 14 de octubre de 2026 el proyecto KDE cumplía 30 años de vida. Hoy un día más se suma a esa efeméride. El tiempo no para (que decía la canción)",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "zurdeando - Blog",
-    "titulo": "Grullas",
-    "link": "https://zurdeando.daluar.net/blog/grullas/",
-    "fecha": "15/10/2026 16:53",
-    "contenido": "El fin de semana pasado fuimos a Diepholzer Moorniederung, allá en Baja Sajonia, en el norte de Alemania.\nUn sitio dejado de todo. Fue además un viaje improvisado: la reserva del AirBnB quedó confirmada el mismo viernes por la mañana, y nos íbamos por la tarde.\nY, ¿por qué? Pues porque se me antojó ",
     "imagen": null
   }
 ]
