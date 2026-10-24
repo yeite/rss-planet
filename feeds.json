@@ -1,11 +1,43 @@
 [
   {
+    "blog": "",
+    "titulo": "QEPD.",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/10/23/qepd-3/",
+    "fecha": "23/10/2026 19:15",
+    "contenido": "Hasta siempre Donál Lunny. Buen viaje.",
+    "imagen": "https://0.gravatar.com/avatar/306e19f08d8518c022c73f6d5ff0a80ddbf5622a55b8887868d29bf280546143?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 43 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/10/23/opensuse-tumbleweed-revision-de-la-semana-43-de-2026/",
+    "fecha": "23/10/2026 18:46",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió 2 videos en GTA, Uncharted",
+    "link": "https://labaudric.net/videos/gta",
+    "fecha": "23/10/2026 17:54",
+    "contenido": " ",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6975/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T024520Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1a4ef35ffcfa99e91b37417e58104151a4d68a2fd33c1850c4b7668278a6c21c"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "Flipper Zero: controla tu Flipper desde el móvil",
     "link": "https://voidnull.es/flipper-zero-controla-tu-flipper-desde-el-movil/",
     "fecha": "23/10/2026 15:30",
     "contenido": "Aplicación oficial para conectar, actualizar y gestionar Flipper Zero desde Android mediante Bluetooth.",
     "imagen": "https://voidnull.es/content/images/2026/03/fdroid-2.png"
+  },
+  {
+    "blog": "El blog de Ángela",
+    "titulo": "Estaré un mes sin publicar en mis blogs",
+    "link": "http://elblogdegela.blogspot.com/2026/10/estare-un-mes-sin-publicar-en-mis-blogs.html",
+    "fecha": "23/10/2026 15:00",
+    "contenido": "&nbsp;Hola, gente, debido a las prácticas del curso que he hecho, no podré publicar en mis blogs durante un mes; el lunes comienzo las prácticas en una empresa con horario de mañana y de tarde. Por la mañana de 9:00 a 13:00 y por la tarde de 15:00 a 19:00, así que no tendré tiempo, voy a tener que h",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8SUk0owk2c3AgF2oUbMYWSs7LZYxOVzjztL9UC31e9yYapVXJ06MLOBGJJ3VXDr6dbNt7SxMioSGkceXWglCBXkyvVRGOywT1HHoNyp5euU9tdG6wuTCdo9D_hZNtvvWzNTwQb8sKh1td84olV2Iu-q1e7Z_YKL98hknZn2SeD4Hnjevct7qtUJefNno/s72-c/geralt-keyboard-393838.jpg"
   },
   {
     "blog": "Interlan",
@@ -126,6 +158,14 @@
     "fecha": "23/10/2026 00:00",
     "contenido": "UNO\nUn ánima de ardiente artillería\nte infundió la pasión por lo infinito.\nSurgiste hacia el espacio\ncomo un grito\nque en lo grave\nse hundió con tu osadía.\nLa directriz. El foco.\nY cada punto\nobedeciendo a la distancia:\nequidistante de ambos,\ncomo si la materia\nconociera de antemano\nsu destino.\nAsí ",
     "imagen": "https://mataroa.blog/images/cfc8a4f2.png"
+  },
+  {
+    "blog": "Jorge Aguilera",
+    "titulo": "Primeros pasos con Logseq",
+    "link": "https://blog.jagedn.dev/blog/2026/logseq-intro.html",
+    "fecha": "23/10/2026 00:00",
+    "contenido": "(mis) primeros pasos con Logseq como alternativa a Obsidian",
+    "imagen": null
   },
   {
     "blog": "NevatBlog",
@@ -325,7 +365,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "20/10/2026 08:37",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261023%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261023T161244Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=be45e9b3146af559755c928f157ef38315e7fda1aa0f1b7f568318617d67785b"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T024520Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e0c50194ceda113ca28ddca049447650b8d0d3b01c33760baaf2c54ffba16ead"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -504,6 +544,14 @@
     "imagen": "https://elblogdelazaro.org/images/posts/2026/blog/blog-06.png"
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Mis medallas en carreras populares",
+    "link": "https://chancli.dev/blog/mis-medallas.html",
+    "fecha": "19/10/2026 00:00",
+    "contenido": "Si seguís la web y el blog y habéis navegado un poco por él os habréis fijado en la sección de Running.\nAhí voy subiendo los entrenos y carreras que voy haciendo.\nAyer, como buen Domingo, decidí hacer algo de la limpieza en la estantería. Me di cuenta que tenía varias de las medallas conseguidas en ",
+    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/medallas_qC4Bu5ucD.jpeg"
+  },
+  {
     "blog": "La Frikoteca",
     "titulo": "Un espacio limitado en nuestro corazón",
     "link": "http://frikoteca.blogspot.com/2026/10/un-espacio-limitado-en-nuestro-corazon.html",
@@ -581,7 +629,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "18/10/2026 08:55",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261023%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261023T161244Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=72faddba714995164d1367abd08c04b91e315bd427a9d3698948c789aafaf3d3"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T024520Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=25f40e798f497f2a3c5f84c18d82d408b608be6365c5cc862afab45ab2f521d4"
   },
   {
     "blog": "Mareos de un geek",
@@ -677,14 +725,6 @@
     "link": "https://escritura.social/mcallus/latigazos",
     "fecha": "17/10/2026 10:05",
     "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Raphael, un concierto muy especial",
-    "link": "https://altgr.xyz/2026/10/16/raphael-un-concierto-muy-especial/",
-    "fecha": "16/10/2026 20:55",
-    "contenido": "Un concierto al que probablemente jamás hubiera ido. Raphael es uno de los ídolos de juventud de mi mamá. Las entradas para este concierto fueron su regalo del día de la madre de este año, así que me tocó acompañarla. Además de lo especial que fue asistir a un concierto en compañía de mi madre y ver",
     "imagen": null
   }
 ]
