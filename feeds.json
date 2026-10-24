@@ -1,5 +1,53 @@
 [
   {
+    "blog": "danielaragay.net",
+    "titulo": "Ens posem al dia: Autònom, Sitges, IA",
+    "link": "https://blog.danielaragay.net/ens-posem-al-dia-autonom-sitges-ia/",
+    "fecha": "24/10/2026 12:00",
+    "contenido": "Nou episodi del podcast: Ens posem al dia: Aut&#xf2;nom, Sitges, IAAqu&#xed; el pots escoltar: https://podcast.danielaragay.net/@fentelsuec/episodes/ens-posem-al-dia-autonom-sitges-ia",
+    "imagen": "https://podcast.danielaragay.net/media/podcasts/fentelsuec/cover_feed.jpg"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió Mi primer foto en Aion",
+    "link": "https://labaudric.net/galeria/aion/6978",
+    "fecha": "24/10/2026 10:38",
+    "contenido": "",
+    "imagen": "https://labaudric.net/gallery-thumb/aion/01.webp"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Batista De Antidemon Nos Cuenta Sus Expectativas | “Tocar Con Mortification Es Hacer Realidad Un Sueño”",
+    "link": "https://www.delotroladometal.com.ar/2026/10/24/tocar-con-mortification-es-hacer-realidad-un-sueno/",
+    "fecha": "24/10/2026 10:35",
+    "contenido": "Antidemon será parte de la gira que Mortification realizará durante 2027 en Latinoamérica junto a...\nThe post Batista De Antidemon Nos Cuenta Sus Expectativas | “Tocar Con Mortification Es Hacer Realidad Un Sueño” first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió 5 videos en Aion, GTA, Uncharted",
+    "link": "https://labaudric.net/videos/aion",
+    "fecha": "24/10/2026 08:41",
+    "contenido": "    ",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6980/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T150935Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=71199306e8bc0d53d959d35571cc9417b6513b007c7c6a4e98fa7a0c9e7f05d3"
+  },
+  {
+    "blog": "Pepógrafo",
+    "titulo": "Idanha-a-Velha y Monsanto: dos pueblos portugueses, cuatro piedras romanas y un día para ponerse las botas",
+    "link": "https://pepografo.com/idanha-a-velha-monsanto-excursion-un-dia/",
+    "fecha": "24/10/2026 07:00",
+    "contenido": "Una excursión de un día a Idanha-a-Velha y Monsanto desde Extremadura: qué ver, qué hacer y cómo disfrutar de dos aldeas históricas de Portugal.\nLa entrada Idanha-a-Velha y Monsanto: dos pueblos portugueses, cuatro piedras romanas y un día para ponerse las botas se publicó primero en Pepógrafo.",
+    "imagen": null
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Uncharted PC",
+    "link": "https://labaudric.net/blog/videojuegos/uncharted-pc",
+    "fecha": "24/10/2026 06:55",
+    "contenido": "\nIntroducción\nPues salió hace poco la decompilación de Uncharted Drake's collection para PC. Que honestamente, a efectos prácticos, no entiendo muy bien cual es la diferencia entre decompilación y emulación. Es de esas cosas que por la puta IA, salen cada vez más a menudo. Como las cientas de vulner",
+    "imagen": "https://labaudric.net/img/uncharted_pc/01.jpg"
+  },
+  {
     "blog": "",
     "titulo": "QEPD.",
     "link": "https://mundoceltamedieval.wordpress.com/2026/10/23/qepd-3/",
@@ -14,14 +62,6 @@
     "fecha": "23/10/2026 18:46",
     "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.",
     "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 2 videos en GTA, Uncharted",
-    "link": "https://labaudric.net/videos/gta",
-    "fecha": "23/10/2026 17:54",
-    "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6975/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T024520Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1a4ef35ffcfa99e91b37417e58104151a4d68a2fd33c1850c4b7668278a6c21c"
   },
   {
     "blog": "_ voidNull",
@@ -365,7 +405,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "20/10/2026 08:37",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T024520Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e0c50194ceda113ca28ddca049447650b8d0d3b01c33760baaf2c54ffba16ead"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T150935Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=feba74d294d0b6d8001eac5f97b07f7e10bcff1f7a0cef63ff21af920ccfaad3"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -629,7 +669,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "18/10/2026 08:55",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T024520Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=25f40e798f497f2a3c5f84c18d82d408b608be6365c5cc862afab45ab2f521d4"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T150935Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9dce73e461c420c5a84ad93f2816343d9431e1f1e6487b567874a6df1bd4afbc"
   },
   {
     "blog": "Mareos de un geek",
@@ -693,38 +733,6 @@
     "link": "https://pepografo.com/siestas-infancia-flit-moscas-hormigas/",
     "fecha": "17/10/2026 16:00",
     "contenido": "Las siestas de mi infancia tenían FLIT, moscas moribundas, hormigas y una tía Fina convencida de que su sobrino estaba mal de la cabeza.\nLa entrada Las siestas de mi infancia: FLIT, moscas y hormigas se publicó primero en Pepógrafo.",
-    "imagen": null
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 42 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/10/17/opensuse-tumbleweed-revision-de-la-semana-42-de-2026/",
-    "fecha": "17/10/2026 14:31",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Los Ex Primal No Se Rinden Y Salen Con Un Nuevo Proyecto | Final Decree Vuelve A Sonar",
-    "link": "https://www.delotroladometal.com.ar/2026/10/17/final-decree-vuelve-a-sonar/",
-    "fecha": "17/10/2026 11:00",
-    "contenido": "Primal llegó a su fin hace un tiempo y todo indica que la banda cortó...\nThe post Los Ex Primal No Se Rinden Y Salen Con Un Nuevo Proyecto | Final Decree Vuelve A Sonar first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Proxmox (9) en Raspberry Pi (Pi OS Trixie)",
-    "link": "https://labaudric.net/blog/auto-alojamiento/proxmox9-rpi-debian13",
-    "fecha": "17/10/2026 10:41",
-    "contenido": "\nIntroducción\nPues hace unos meses, Proxmox anunció que se hace (oficialmente) compatible con arm64, en otras palabras: Raspberry, pero también otros &quot;cacharros frikis&quot;. Y yo la verdad, me emocioné como buen fanboy de Proxmox que soy. Pero tampoco me tiré de cabeza: mis raspberries (una 4b",
-    "imagen": "https://labaudric.net/img/pimox/02.png"
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Latigazos",
-    "link": "https://escritura.social/mcallus/latigazos",
-    "fecha": "17/10/2026 10:05",
-    "contenido": "",
     "imagen": null
   }
 ]
