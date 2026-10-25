@@ -1,5 +1,37 @@
 [
   {
+    "blog": "Un blog",
+    "titulo": "Más posts de viajes viejos",
+    "link": "https://nachof.blog/posts/2026/mas-posts-de-viajes-viejos/",
+    "fecha": "25/10/2026 00:30",
+    "contenido": "El otro día subí posts viejos sobre un viaje a España en el 2010.\nAhora publiqué también los otros dos blogs que tenía en Posterous: mi viaje a México en el 2011, y el viaje con mi pareja a Ecuador en el 2012.\nY eso es todo lo que tenía en Posterous.\nReleyendo algunos de los posts viejos, me sorpren",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "24 años del blog",
+    "link": "https://www.fabio.com.ar/10061-24-anos-del-blog",
+    "fecha": "24/10/2026 17:19",
+    "contenido": "    \nSi, as&iacute; de extra&ntilde;o sue&ntilde;a, 24 a&ntilde;os se cumplen hoy desde que empec&eacute; con el blog en mi propia plataforma, la fecha exacta de cu&aacute;ndo empec&eacute; la ignoro, fue anterior, pero ni siquiera era mi p&aacute;gina, las notas eran un HTML tirado, as&iacute; que ",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/fabiocomar24.jpg"
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Poema fet amb la meva veu clonada: Dolça Catalunya",
+    "link": "https://blog.danielaragay.net/poema-fet-amb-la-meva-veu-clonada-dolca-catalunya/",
+    "fecha": "24/10/2026 17:00",
+    "contenido": "Nou episodi del podcast: Poema fet amb la meva veu clonada: Dol&#xe7;a CatalunyaAqu&#xed; el pots escoltar: https://podcast.danielaragay.net/@fentelsuec/episodes/poema-fet-amb-la-meva-veu-clonada-dolca-catalunya",
+    "imagen": "https://podcast.danielaragay.net/media/podcasts/fentelsuec/cover_feed.jpg"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Black Paradox",
+    "link": "https://labaudric.net/blog/manga/black-paradox-junjiito",
+    "fecha": "24/10/2026 16:51",
+    "contenido": "\nIntroducción\nPues otra obra de Junji Ito que me estoy metiendo #PEC. Corto, un sólo tomo de 251 páginas, y es el menos &quot;asqueroso&quot; que he leído hasta la fecha. También es más moderno. No sabría como describirlo. Pero tanto el mundo como los personajes parecen de una época más reciente. No",
+    "imagen": "https://labaudric.net/img/black_paradox/01.webp"
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "Ens posem al dia: Autònom, Sitges, IA",
     "link": "https://blog.danielaragay.net/ens-posem-al-dia-autonom-sitges-ia/",
@@ -29,7 +61,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "24/10/2026 08:41",
     "contenido": "    ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6980/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T150935Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=71199306e8bc0d53d959d35571cc9417b6513b007c7c6a4e98fa7a0c9e7f05d3"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6980/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261025%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261025T023551Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=87a75c2e3135769a5b9b86ffc2f3fdf8be4db32bf2b16ec7ff2553dad74d383a"
   },
   {
     "blog": "Pepógrafo",
@@ -405,7 +437,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "20/10/2026 08:37",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T150935Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=feba74d294d0b6d8001eac5f97b07f7e10bcff1f7a0cef63ff21af920ccfaad3"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261025%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261025T023551Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6d01381b9fa51cee32b6ff21d8f4ae6dccb7db8701624915ec368d97332ec588"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -584,14 +616,6 @@
     "imagen": "https://elblogdelazaro.org/images/posts/2026/blog/blog-06.png"
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Mis medallas en carreras populares",
-    "link": "https://chancli.dev/blog/mis-medallas.html",
-    "fecha": "19/10/2026 00:00",
-    "contenido": "Si seguís la web y el blog y habéis navegado un poco por él os habréis fijado en la sección de Running.\nAhí voy subiendo los entrenos y carreras que voy haciendo.\nAyer, como buen Domingo, decidí hacer algo de la limpieza en la estantería. Me di cuenta que tenía varias de las medallas conseguidas en ",
-    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/medallas_qC4Bu5ucD.jpeg"
-  },
-  {
     "blog": "La Frikoteca",
     "titulo": "Un espacio limitado en nuestro corazón",
     "link": "http://frikoteca.blogspot.com/2026/10/un-espacio-limitado-en-nuestro-corazon.html",
@@ -669,7 +693,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "18/10/2026 08:55",
     "contenido": "     ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261024%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261024T150935Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9dce73e461c420c5a84ad93f2816343d9431e1f1e6487b567874a6df1bd4afbc"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6969/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261025%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261025T023551Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=68ab3a0b6724729b76ab51851d585fdc690e1208c40eda9b6086a99371933fdf"
   },
   {
     "blog": "Mareos de un geek",
@@ -685,54 +709,6 @@
     "link": "https://escritura.social/mcallus/ventana",
     "fecha": "18/10/2026 07:26",
     "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Si dios te da limones",
-    "titulo": "Me he quedado sin cafetería",
-    "link": "https://sidiostedalimones.com/blog/2026/me-he-quedado-sin-cafeteria/",
-    "fecha": "18/10/2026 00:00",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "El Cordón",
-    "titulo": "Análisis de FAITH",
-    "link": "https://geroluna44.github.io/blog/posts/analisis-faith/",
-    "fecha": "18/10/2026 00:00",
-    "contenido": "Análisis del videojuego FAITH. En FAITH somos un joven sacerdote que debe exorcizar a una niña poseida",
-    "imagen": null
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "ID3CLI. Gracias Atareao 👏",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-10-18-id3cli/",
-    "fecha": "17/10/2026 22:00",
-    "contenido": "Hay aplicaciones que descubres casi por casualidad y que terminan convirtiéndose en una pieza importante de tu flujo de trabajo. Eso es precisamente lo que me ha pasado con id3cli, una aplicación creada por atareao que me ha permitido simplificar el manejo y la conservación de los podcasts que sigo.",
-    "imagen": null
-  },
-  {
-    "blog": "iforest",
-    "titulo": "CONTROL: no todos los juegos son para ti (y no pasa nada)",
-    "link": "https://iforest.bearblog.dev/no-todos-los-juegos-son-para-ti/",
-    "fecha": "17/10/2026 20:38",
-    "contenido": "no todos los juegos son para ti (y no pasa nada)",
-    "imagen": null
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Los Chilenos de Charly en Bar de René",
-    "link": "https://altgr.xyz/2026/10/17/los-chilenos-de-charly-en-bar-de-rene/",
-    "fecha": "17/10/2026 20:30",
-    "contenido": "Los Chilenos de Charly fueron la banda de Charly García desde principios de los 2000 hasta cerca de 2020. Tocaron en muchas presentaciones en vivo y en las grabaciones de sus discos de estudio en esa época. Algunos de los miembros también han seguido colaborado en los últimos discos del argentino. L",
-    "imagen": null
-  },
-  {
-    "blog": "Pepógrafo",
-    "titulo": "Las siestas de mi infancia: FLIT, moscas y hormigas",
-    "link": "https://pepografo.com/siestas-infancia-flit-moscas-hormigas/",
-    "fecha": "17/10/2026 16:00",
-    "contenido": "Las siestas de mi infancia tenían FLIT, moscas moribundas, hormigas y una tía Fina convencida de que su sobrino estaba mal de la cabeza.\nLa entrada Las siestas de mi infancia: FLIT, moscas y hormigas se publicó primero en Pepógrafo.",
     "imagen": null
   }
 ]
