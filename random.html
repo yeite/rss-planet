@@ -1,0 +1,80 @@
+<!doctype html>
+
+<html lang="es">
+    <head>
+        <script>
+            (function () {
+                try {
+                    var saved = localStorage.getItem("blogblog-theme");
+                    var hour = new Date().getHours();
+                    var theme = saved || (hour >= 7 && hour < 20 ? "light" : "dark");
+                    document.documentElement.setAttribute("data-theme", theme);
+                } catch (e) {
+                    document.documentElement.setAttribute("data-theme", "dark");
+                }
+            })();
+        </script>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta property="og:title" content="Blog aleatorio · ¡Blog!¡Blog!" />
+        <meta
+            property="og:description"
+            content="Descubrí blogs personales en español al azar."
+        />
+        <meta
+            property="og:image"
+            content="https://blogblog.es/img/frog-pixel-recortada.gif"
+        />
+        <meta property="og:url" content="https://blogblog.es/random.html" />
+        <meta property="og:type" content="website" />
+
+        <title>Blog aleatorio · ¡Blog!¡Blog!</title>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="css/estilos.css" />
+        <link rel="stylesheet" href="css/random.css" />
+        <script defer src="js/random.js"></script>
+    </head>
+    <body class="random-page">
+        <div class="rb-bar">
+            <a class="rb-logo" href="index.html" title="Volver a ¡Blog!¡Blog!">
+                <img src="img/frog-pixel-recortada.gif" alt="" />
+                <span>¡Blog!¡Blog!</span>
+            </a>
+
+            <div class="rb-center">
+                <div class="rb-controls">
+                    <button type="button" id="rb-prev" class="rb-prev" aria-label="Blog anterior" title="Blog anterior (←)" disabled>‹</button>
+                    <button type="button" id="rb-next" class="rb-main" title="Otro blog al azar (→)">
+                        <span class="rb-dice" id="rb-dice" aria-hidden="true">🎲</span>
+                        Random blog
+                    </button>
+                </div>
+                <a id="rb-url" class="rb-url" href="#" target="_blank" rel="noopener noreferrer" title="Abrir en una pestaña nueva">…</a>
+            </div>
+
+            <div class="rb-right">
+                <button type="button" id="rb-info" class="rb-info" aria-expanded="false" aria-controls="rb-panel" title="Información del blog (I)">
+                    <span aria-hidden="true">ℹ️</span>
+                    <span class="rb-info-label">Info</span>
+                </button>
+            </div>
+        </div>
+
+        <main class="rb-stage" id="rb-stage">
+            <div class="rb-loading" id="rb-loading">
+                <p id="rb-loading-text">Cargando…</p>
+            </div>
+
+            <div class="rb-toast" id="rb-toast" hidden>
+                <span>¿Tarda o no se ve? Algunos blogs no permiten mostrarse dentro de otra página.</span>
+                <a id="rb-toast-open" href="#" target="_blank" rel="noopener noreferrer">Abrir en pestaña nueva ↗</a>
+                <button type="button" id="rb-toast-next">Otro blog →</button>
+            </div>
+
+            <aside class="rb-panel" id="rb-panel" aria-label="Información del blog" aria-hidden="true" inert>
+                <button type="button" id="rb-panel-close" class="rb-panel-close" aria-label="Cerrar información">✕</button>
+                <div id="rb-panel-body"></div>
+            </aside>
+        </main>
+    </body>
+</html>
