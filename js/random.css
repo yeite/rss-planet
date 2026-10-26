@@ -1,0 +1,408 @@
+/* ...BLOG ALEATORIO (random.html): pantalla completa con barra superior */
+
+html,
+body.random-page {
+    height: 100%;
+}
+
+body.random-page {
+    display: flex;
+    flex-direction: column;
+    height: 100dvh;
+    overflow: hidden;
+}
+
+/* ---------- Barra superior ---------- */
+
+.rb-bar {
+    flex: 0 0 auto;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 16px;
+    background: var(--color-bg-elevated);
+    border-bottom: 1px solid var(--color-border);
+    position: relative;
+    z-index: 10;
+}
+
+.rb-logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    justify-self: start;
+    color: var(--color-heading);
+    font-size: 1.05rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.rb-logo:hover {
+    text-decoration: none;
+    color: var(--color-accent);
+}
+
+.rb-logo img {
+    width: 40px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.rb-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    min-width: 0;
+}
+
+.rb-controls {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.rb-main {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 9px 22px;
+    border: 0;
+    border-radius: 999px;
+    background: var(--color-accent);
+    color: #10230a;
+    font: inherit;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+}
+
+.rb-main:hover {
+    background: var(--color-accent-alt);
+}
+
+.rb-main:active {
+    transform: scale(0.97);
+}
+
+.rb-dice {
+    display: inline-block;
+}
+
+.rb-dice.roll {
+    animation: rb-roll 0.5s ease;
+}
+
+@keyframes rb-roll {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.rb-prev {
+    width: 36px;
+    height: 36px;
+    border: 1px solid var(--color-border-soft);
+    border-radius: 50%;
+    background: var(--color-card-bg);
+    color: var(--color-text);
+    font: inherit;
+    font-size: 1.3rem;
+    line-height: 1;
+    cursor: pointer;
+    transition: border-color 0.2s, color 0.2s;
+}
+
+.rb-prev:hover:not(:disabled) {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+}
+
+.rb-prev:disabled {
+    opacity: 0.35;
+    cursor: default;
+}
+
+.rb-url {
+    max-width: min(60vw, 520px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: var(--color-text-dim);
+    font-size: 0.78rem;
+    font-weight: 600;
+}
+
+.rb-url::after {
+    content: " ↗";
+}
+
+.rb-url:hover {
+    color: var(--color-accent);
+}
+
+.rb-right {
+    justify-self: end;
+}
+
+.rb-info {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 14px;
+    border: 1px solid var(--color-border-soft);
+    border-radius: 999px;
+    background: var(--color-card-bg);
+    color: var(--color-text-muted);
+    font: inherit;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: border-color 0.2s, color 0.2s;
+}
+
+.rb-info:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+}
+
+.rb-info.is-active {
+    background: var(--color-accent);
+    border-color: var(--color-accent);
+    color: #10230a;
+}
+
+.rb-bar button:focus-visible,
+.rb-bar a:focus-visible,
+.rb-panel button:focus-visible,
+.rb-toast button:focus-visible,
+.rb-toast a:focus-visible {
+    outline: 3px solid var(--color-accent);
+    outline-offset: 2px;
+}
+
+/* ---------- Escenario ---------- */
+
+.rb-stage {
+    flex: 1 1 auto;
+    position: relative;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    min-height: 0;
+}
+
+.rb-frame {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    background: #fff;
+}
+
+.rb-loading {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    display: grid;
+    place-items: center;
+    background: var(--color-bg);
+    color: var(--color-text-dim);
+    pointer-events: none;
+}
+
+.rb-loading[hidden],
+.rb-toast[hidden] {
+    display: none;
+}
+
+.rb-toast {
+    position: absolute;
+    left: 50%;
+    bottom: 18px;
+    transform: translateX(-50%);
+    z-index: 4;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px 14px;
+    width: max-content;
+    max-width: 92vw;
+    padding: 10px 16px;
+    background: var(--color-bg-elevated);
+    border: 1px solid var(--color-border-soft);
+    border-radius: 10px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.35);
+    font-size: 0.85rem;
+    text-align: center;
+}
+
+.rb-toast button {
+    border: 0;
+    background: none;
+    padding: 0;
+    color: var(--color-accent);
+    font: inherit;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+/* ---------- Panel de información (desliza desde la derecha) ---------- */
+
+.rb-panel {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 5;
+    width: min(380px, 92vw);
+    padding: 22px 20px 28px;
+    overflow-y: auto;
+    background: var(--color-card-bg);
+    border-left: 1px solid var(--color-border);
+    box-shadow: -10px 0 30px rgba(0, 0, 0, 0.3);
+    transform: translateX(105%);
+    transition: transform 0.28s ease;
+}
+
+.rb-panel.open {
+    transform: none;
+}
+
+.rb-panel-close {
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    width: 32px;
+    height: 32px;
+    border: 0;
+    border-radius: 50%;
+    background: transparent;
+    color: var(--color-text-dim);
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.rb-panel-close:hover {
+    background: var(--color-bg-elevated);
+    color: var(--color-text);
+}
+
+.rb-info-head {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 6px 28px 14px 0;
+}
+
+.rb-info-head .favicon {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    margin: 0;
+    border-radius: 50%;
+    background: var(--color-favicon-fallback);
+    object-fit: cover;
+}
+
+.rb-info-name {
+    margin: 0;
+    color: var(--color-heading);
+    font-size: 1.15rem;
+    line-height: 1.25;
+}
+
+.rb-info-country {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 3px;
+    color: var(--color-text-dim-2);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+}
+
+.rb-info-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 14px;
+}
+
+.rb-info-desc {
+    margin: 0 0 16px;
+    color: var(--color-text-muted);
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.rb-info-row {
+    margin-bottom: 14px;
+}
+
+.rb-info-label-text {
+    display: block;
+    margin-bottom: 4px;
+    color: var(--color-text-dim-2);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+.rb-info-row a {
+    overflow-wrap: anywhere;
+    font-size: 0.9rem;
+}
+
+.rb-info-row .tags-row {
+    margin-top: 2px;
+}
+
+.rb-open-btn {
+    display: inline-block;
+    margin-top: 6px;
+    padding: 9px 18px;
+    border-radius: 999px;
+    background: var(--color-accent);
+    color: #10230a;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.rb-open-btn:hover {
+    background: var(--color-accent-alt);
+    text-decoration: none;
+}
+
+/* ---------- Celulares ---------- */
+
+@media (max-width: 640px) {
+    .rb-bar {
+        padding: 8px 10px;
+        gap: 8px;
+    }
+    .rb-logo span,
+    .rb-info-label {
+        display: none;
+    }
+    .rb-main {
+        padding: 9px 16px;
+        font-size: 0.95rem;
+    }
+    .rb-url {
+        max-width: 56vw;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .rb-panel,
+    .rb-dice.roll {
+        transition: none;
+        animation: none;
+    }
+}
