@@ -1,5 +1,101 @@
 [
   {
+    "blog": "Bitácora de fernand0",
+    "titulo": "En La Era de las Distros, hablando de las oficinas universitarias de software libre",
+    "link": "https://blog.elmundoesimperfecto.com/2026/10/26/en-la-era-distros-oficinas-universitarias-software-libre/",
+    "fecha": "26/10/2026 16:00",
+    "contenido": "\n\nHace unos meses se lanzó en formato podcast una revisión de la historia de las distribuciones de Linux en España, La era de las distros. Creo que es una iniciativa muy interesante, pues son historias que resulta necesario contar para que quede su recuerdo (y, en muchos casos, su herencia).\n\nEl cas",
+    "imagen": "https://live.staticflickr.com/3431/3207079949_3d69a882fa_z.jpg"
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "594. Cuestión de carácter.",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/10/594-cuestion-de-caracter.html",
+    "fecha": "26/10/2026 14:54",
+    "contenido": "&nbsp; &nbsp; Naturalmente, mis instintos homicidas de la entrada pasada se quedaron en pura ilusión. El trabajo no merece mayor implicación cuando el problema que hay que resolver escapa a las propias competencias. Seguro que Demenciano y el Loco, solo por la amistad que nos une, habrían convertido",
+    "imagen": "https://img.youtube.com/vi/FcPni84nHPI/default.jpg"
+  },
+  {
+    "blog": "Daniel Omar Cignacco",
+    "titulo": "La costura de las dos soledades",
+    "link": "https://danielomarcignacco.blogspot.com/2026/10/la-costura-de-las-dos-soledades.html",
+    "fecha": "26/10/2026 14:43",
+    "contenido": "\n\n\n\n  \n    La costura de las dos soledades\n  \n\n  La primera vez que escuché hablar a mi sombra, me pidió que le devolviera los años que había pasado detrás de mí. Le expliqué que los años no eran míos, que yo también los había recibido de alguien, quizá de un muerto que todavía no había nacido. Mi s",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBsepVB2jauuR2sWo4maBIfjJTb4JPNhQjYjYJ-NIiBo3rWXQhdLyNK31xjXtLvksgjDaVPb08EpWiNNLGqwvARiUuBW3xQEJaFH-HbP2bhuzYUUJ2_NhsUtUiIe9i7L6FzEJut8XA1oEYdipf2pchZajp8HOxt-XKqI33VKICzu7szhiN69KKb5Dudwn/s72-c/El%20telar%20de%20los%20sue%C3%B1os%20enlazados.png"
+  },
+  {
+    "blog": "fernand0 @ GitHub.io",
+    "titulo": "Una IA para generar un secuestro de información completo",
+    "link": "https://fernand0.github.io//ransomware-ia/",
+    "fecha": "26/10/2026 12:44",
+    "contenido": "Hasta ahora hemos oído hablar de cómo se usa la IA para mejorar las oportunidades de los ataques tipo phishing con mejores traducciones, mensajes más convincentes y todo eso. En Experimental PromptLock ransomware uses AI to encrypt, steal data nos contaban un caso que va un poco más allá, porque Pro",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Soluciones libres para tiempos modernos: Terminal Text Editor",
+    "link": "https://www.fabio.com.ar/10063-soluciones-libres-para-tiempos-modernos-terminal-text-editor",
+    "fecha": "26/10/2026 12:00",
+    "contenido": "    \nEl otro d&iacute;a me enter&eacute; de la existencia de este lindo editor de texto y c&oacute;digo para la terminal, el Terminal Text Editor o TTT.\nYa les hab&iacute;a comentado del Edit renovado, escrito en Rust, este, en cambio, es mucho m&aacute;s completo, m&aacute;s parecido a un VisualCod",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/ttt.jpg"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Evento ZNT Horizon 2026",
+    "link": "https://cozykis.kisworld.es/evento-znt-horizon-2026/",
+    "fecha": "26/10/2026 11:36",
+    "contenido": "ZNT Horizon es un evento organizado por ZNT Productions que junta juegos hechos en Latinoamérica y en el sudeste de Asia. Y aunque puedan parecer dos regiones muy distintas, tienen sus cositas en común. Y lo mejor de todo, unas propuestas de lo más interesantes. Y aunque no he probado muchas de ella",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Heaven: Second Coming | Heavy Metal A Secas",
+    "link": "https://www.delotroladometal.com.ar/2026/10/26/heavy-metal-a-secas/",
+    "fecha": "26/10/2026 10:35",
+    "contenido": "(1999 &#8211; Producciones Cristianas Asociadas) Realmente era casi una quimera que una banda de Heavy...\nThe post Heaven: Second Coming | Heavy Metal A Secas first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Guía Visual: Instalación de SmartTube en Android TV",
+    "link": "https://alt43.es/guia-visual-instalacion-de-smarttube-en-android-tv/",
+    "fecha": "26/10/2026 08:30",
+    "contenido": "SmartTube en tres infografías: qué es, de dónde descargarla con seguridad y cómo instalarla en tu Android TV para ver YouTube sin anuncios.",
+    "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de 1Panel en Debian 13",
+    "link": "https://voidnull.es/instalacion-de-1panel-en-debian-13/",
+    "fecha": "26/10/2026 08:10",
+    "contenido": "1Panel es un panel de control open-source que facilita la gestión de servidores y aplicaciones con una interfaz moderna e integración con Docker.",
+    "imagen": "https://voidnull.es/content/images/2025/02/1panel-1.png"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Migrar el layout Btrfs en Fedora a una estructura limpia",
+    "link": "https://elblogdelazaro.org/btrfs-fedora-migrar-layout-subvolumenes/",
+    "fecha": "26/10/2026 06:00",
+    "contenido": "Por: Carlos M.Publicado el 26 de octubre de 2026Cómo reorganizar una instalación de Fedora con Btrfs para usar subvolúmenes separados en /, /home, /.snapshots y /var.Continuar leyendo →#Backup #Btrfs #Fedora #Fstab #Linux ",
+    "imagen": "https://elblogdelazaro.org/images/posts/2026/btrfs/btrfs-03.png"
+  },
+  {
+    "blog": "El cuarto de GatoOscuro",
+    "titulo": "Divagación acerca de la vida, espacio y universo",
+    "link": "https://gatooscuro.xyz/divagacion-acerca-de-la-vida-espacio-y-universo/",
+    "fecha": "26/10/2026 04:45",
+    "contenido": "NOTA: No soy ningún experto, solo un aficionado medianamente técnico con mucha imaginación, por ende, puedo fallar en datos o apreciación, si eres astrónomo deja un buen aporte de lo\nSeguir leyendo  Divagación acerca de la vida, espacio y universo\nEl cargo Divagación acerca de la vida, espacio y uni",
+    "imagen": null
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "El abandono de la web para todos",
+    "link": "https://alex.corcoles.net/2026/10/el-abandono-de-la-web-para-todos",
+    "fecha": "26/10/2026 00:00",
+    "contenido": "\n  Siempre digo que hubo un tiempo en que hab&#237;a gente que cog&#237;a un hosting compartido y se montaba un blog con WordPress, y que hoy gente similar no lo har&#237;a. As&#237; como tampoco se abrir&#237;an un Blogspot o lo que sea.\n  Por una parte, creo que las redes sociales y especialmente ",
+    "imagen": null
+  },
+  {
     "blog": "Bits de Ocio",
     "titulo": "Cinco películas de… David Fincher",
     "link": "https://bitsdeocio.wordpress.com/2026/10/25/cinco-peliculas-de-david-fincher/",
@@ -53,7 +149,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "25/10/2026 10:03",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261026%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261026T023432Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ed774df3c08671796b1c7cd4ee077e8593be983e55b021f19f5ff055261d8f18"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261026%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261026T180114Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=41aeff042cd641d40ebbf52dfa47391c895857b832c6213abb94d79c6a740658"
   },
   {
     "blog": "Mareos de un geek",
@@ -509,7 +605,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "20/10/2026 08:37",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261026%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261026T023432Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a359829af8e098ece9ac3fb77562dbff5bedb34a0a96a98e0d1a8402d2de8eeb"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261026%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261026T180114Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=43df53c882d516995a95840a71b0b9ad733168c9877dad5a9cfe045336ffd34f"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -550,141 +646,5 @@
     "fecha": "19/10/2026 22:30",
     "contenido": "Hace muchos, muchos años, existía algo llamado Posterous. Posterous era un blog re sencillo, que funcionaba de una manera interesante: vos mandabas un email, y eso publicaba el post. No sé cómo hacían para prevenir que le trucharas la dirección de origen, pero parecía funcionar. Después lo compró Tw",
     "imagen": null
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "592. El agua está viva",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/10/592-el-agua-esta-viva.html",
-    "fecha": "19/10/2026 17:49",
-    "contenido": "&nbsp; &nbsp; Jarrea en España y han muerto personas. Entre ellas, una mujer que decidió bañarse en las aguas saladas de Sagunto en plena alerta naranja. Lo cual me lleva a pensar que la imprudente humana estaba tocada por la misma varita que el protagonista de la entrada número 579. Bueno, y su aco",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcVefrA1i730QqD0K0V4DSm_ICHsGJhchXcRG9HNXp2j61jkCYWhSU8ghVdGEckowcP0HtDWsKga3w-kLskttFYN32XxiOjZGoz6touOvOUQZ8r95_X6HqopJLI1fsOA-Jn5TTOzE6X5McKAP9zUINRTZ77BSGg2zMv4UH3Bn6oHvkWGnJ4FpXWwLF-kjJ/s72-w400-h266-c/magnificent-waves-stormy-ocean-captured-cloudy-evening.jpg"
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "Los desarrolladores, su trabajo y algunas ideas sobre el futuro",
-    "link": "https://blog.elmundoesimperfecto.com/2026/10/19/ia-trabajo/",
-    "fecha": "19/10/2026 14:00",
-    "contenido": "\n\nEn Developers aren’t worried that gen AI will steal their jobs, Stack Overflow survey reveals se discute sobre si la IA va a quitar el trabajo a los programadores o no.\n\nStack Overflow es un sitio de preguntas y respuestas técnicas que hace encuestas de vez en cuando y en esta ocasión se incluían ",
-    "imagen": "https://live.staticflickr.com/65535/55409273186_e1e5eb9671_z.jpg"
-  },
-  {
-    "blog": "Papel Continuo",
-    "titulo": "Formes des luttes",
-    "link": "https://papelcontinuo.net/3555/formes-des-luttes/",
-    "fecha": "19/10/2026 13:24",
-    "contenido": "Formes des luttes (Formas de Lucha) es una herramienta colaborativa que permite a diseñadores gráficos, artistas e ilustradores participar en la lucha a través de medios visuales. El colectivo nació a finales de 2019 durante las primeras movilizaciones por la reforma de las pensiones bajo el mandato",
-    "imagen": null
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "¿Cuánto tiempo tu dominio será tuyo?",
-    "link": "https://fernand0.github.io//la-ocupacion-de-dominios/",
-    "fecha": "19/10/2026 12:44",
-    "contenido": "Muchas veces se habla de que corremos mucho riesgo al confiar nuestra presencia digital (y más, la comunicación digital, dirección de correo…) aservicios externos (gratuitos o no). La solución que suele proponerse es que vale la pena que contratemos nuestro propio dominio, ya que siempre podremos ha",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "El problema nunca fue el café",
-    "link": "https://www.fabio.com.ar/10055-el-problema-nunca-fue-el-cafe",
-    "fecha": "19/10/2026 12:00",
-    "contenido": "    \nUna taza de caf&eacute; nos divide.\nUno dice que la gente deber&iacute;a dejar de gastar en caf&eacute;, ser responsable y ahorrar en gastos tontos para empezar a tener una vida mejor, responsabilidad financiera ante todo.\nEl otro le contesta que la taza de caf&eacute; no va a cambiar la realid",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/no_era_el_cafe.jpg"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Burn With Me",
-    "link": "https://cozykis.kisworld.es/analisis-de-burn-with-me/",
-    "fecha": "19/10/2026 10:48",
-    "contenido": "Con una mecánica de lo más original nos hará sentir que nosotres también estamos luchando contra nuestros demonios internos\nLa entrada Análisis de Burn With Me se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Banda De Gothic Metal Prepara Un Nuevo Disco | Abrasantia Presenta “Te Amaré Por Siempre”",
-    "link": "https://www.delotroladometal.com.ar/2026/10/19/abrasantia-presenta-te-amare-por-siempre/",
-    "fecha": "19/10/2026 10:35",
-    "contenido": "Desde la ciudad de Rosario, Abrasantia se encuentra preparando lo que va a ser su...\nThe post La Banda De Gothic Metal Prepara Un Nuevo Disco | Abrasantia Presenta “Te Amaré Por Siempre” first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "Manu Mateos",
-    "titulo": "I'm still standing",
-    "link": "https://www.macram.es/posts/2026/10/im-still-standing/",
-    "fecha": "19/10/2026 10:09",
-    "contenido": "Sigo vivo. Sé que llevo un mes y medio sin pasarme por aquí y sin casi actividad en Mastodon. No ha pasado nada malo, por suerte. Ya sabéis que septiembre es un mes que me resulta bastante complicado gestionar porque estoy involucrado en muchos asuntos, y aunque este año ha sido más relajado he teni",
-    "imagen": null
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "Revela’t 2026",
-    "link": "https://www.ericafustero.com/2026-10-revelat",
-    "fecha": "19/10/2026 08:48",
-    "contenido": "El sábado fui al Revela't, el festival de fotografía analógica de Vilassar de Dalt. Estuve a punto de perdérmelo porque ese día volvió a sonar la alerta por lluvias intensas en el Maresme. Llevamos una temporada en la que, cada vez que llueve, el cercanías deja de funcionar, el bus se colapsa y se l",
-    "imagen": null
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "La infantilización del automóvil",
-    "link": "https://matizeta.com/2026/10/19/la-infantilizacion-del-automovil/",
-    "fecha": "19/10/2026 08:11",
-    "contenido": "Hoy termina el evento del Salón Mundial del Automóvil en Paris.  Un lugar donde empresas de todo el mundo presentan sus nuevos modelos de automóviles que saldrán a mercados o prototipos de estos que sirvan como base para la próxima generación. Es una puesta en escena, donde toda empresa de automóvil",
-    "imagen": null
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "El camino del talento",
-    "link": "https://brucknerite.net/2026/10/el-camino-del-talento.html",
-    "fecha": "19/10/2026 08:00",
-    "contenido": "Un diluvio de bazofia cae, impenitente, sobre la cultura humana. Diluyéndola. Llevándola a la media y al conformismo. ¿No es eso lo que pretendían los totalitarismos del siglo pasado, solo que «bien hecho»?",
-    "imagen": null
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Chuleta de NeoMutt",
-    "link": "https://jdrm.info/chuleta-de-neomutt.html",
-    "fecha": "19/10/2026 08:00",
-    "contenido": "Una chuleta para tener a mano los comandos del cliente de correo NeoMutt",
-    "imagen": null
-  },
-  {
-    "blog": "JDRM",
-    "titulo": "Chuleta de NeoMutt",
-    "link": "https://jdrm.info/chuleta-de-neomutt.html",
-    "fecha": "19/10/2026 08:00",
-    "contenido": "Una chuleta para tener a mano los comandos del cliente de correo NeoMutt",
-    "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "MariaDB vs MySQL vs PostgreSQL: qué base de datos elegir",
-    "link": "https://voidnull.es/mariadb-vs-mysql-vs-postgresql-que-base-de-datos-elegir/",
-    "fecha": "19/10/2026 07:12",
-    "contenido": "En esta guía hablaremos sobre que base de datos seleccionar para nuestros proyectos.",
-    "imagen": "https://voidnull.es/content/images/2026/03/guias-5.png"
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Fomo",
-    "link": "https://escritura.social/mcallus/fomo",
-    "fecha": "19/10/2026 07:04",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "alt43",
-    "titulo": "PocketPal AI: IA privada sin conexión en Android",
-    "link": "https://alt43.es/pocketpal-ai-ia-privada-sin-conexion-en-android/",
-    "fecha": "19/10/2026 07:00",
-    "contenido": "PocketPal AI ejecuta modelos de IA directamente en tu Android y en modo local. Analizamos sus posibilidades, requisitos y la experiencia de uso con un modelo concreto.",
-    "imagen": null
-  },
-  {
-    "blog": "El blog de Lázaro",
-    "titulo": "El tema Lazaro para Hugo ya es público",
-    "link": "https://elblogdelazaro.org/el-tema-lazaro-para-hugo-ya-es-publico/",
-    "fecha": "19/10/2026 06:00",
-    "contenido": "Por: Carlos M.Publicado el 19 de octubre de 2026Por fin me he decidido a liberar el código del tema Lazaro para Hugo. Te cuento las características principales, por qué está en GitLab, qué aspectos se pueden mejorar y cómo puedes colaborar.Continuar leyendo →#Hugo #Open-Source #Gitlab #Ia ",
-    "imagen": "https://elblogdelazaro.org/images/posts/2026/blog/blog-06.png"
   }
 ]
