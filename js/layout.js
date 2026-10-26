@@ -15,6 +15,10 @@ async function loadFragment(selector, url) {
 document.addEventListener("DOMContentLoaded", () => {
     loadFragment("#header-placeholder", "header.html").then(() => {
         if (typeof initThemeToggle === "function") initThemeToggle();
+        // Solo existe en el Inicio (js/feed-list.js); en el resto de páginas se ignora.
+        if (typeof initViewSelector === "function") initViewSelector();
     });
     loadFragment("#footer-placeholder", "footer.html");
 });
+
+document.head.append(Object.assign(document.createElement("script"), { src: "js/menu-flotante.js", defer: true }));
