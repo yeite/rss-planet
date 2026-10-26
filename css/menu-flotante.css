@@ -1,0 +1,144 @@
+/* ...MENÚ FLOTANTE (usa las variables de estilos.css, funciona en claro y oscuro) */
+
+.fab {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 14px;
+    z-index: 100;
+}
+
+.fab-toggle {
+    width: 56px;
+    height: 56px;
+    border: 0;
+    border-radius: 50%;
+    background: var(--color-accent);
+    color: #10230a;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+    transition: transform 0.3s ease, background 0.2s;
+}
+
+.fab-toggle:hover {
+    background: var(--color-accent-alt);
+}
+
+.fab-toggle svg {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.3s ease;
+}
+
+.fab.open .fab-toggle svg {
+    transform: rotate(135deg);
+}
+
+.fab-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+}
+
+.fab-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none !important;
+    opacity: 0;
+    transform: translateY(14px) scale(0.85);
+    pointer-events: none;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.fab.open .fab-item {
+    opacity: 1;
+    transform: none;
+    pointer-events: auto;
+}
+
+.fab-label {
+    background: var(--color-bg-elevated);
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 6px 12px;
+    border-radius: 7px;
+    white-space: nowrap;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    transform: translateX(8px);
+    transition: transform 0.25s ease, color 0.2s, border-color 0.2s;
+}
+
+.fab.open .fab-label {
+    transform: none;
+}
+
+.fab-icon {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: var(--color-card-bg);
+    border: 1px solid var(--color-border-soft);
+    display: grid;
+    place-items: center;
+    font-size: 1.2rem;
+    line-height: 1;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    transition: background 0.2s, border-color 0.2s;
+}
+
+.fab-item:hover .fab-icon,
+.fab-item:focus-visible .fab-icon {
+    background: color-mix(in srgb, var(--color-accent) 25%, var(--color-card-bg));
+    border-color: var(--color-accent);
+}
+
+.fab-item:hover .fab-label,
+.fab-item:focus-visible .fab-label,
+.fab-item[aria-current="page"] .fab-label {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+}
+
+/* Página actual */
+.fab-item[aria-current="page"] .fab-icon {
+    border-color: var(--color-accent);
+}
+
+.fab-toggle:focus-visible,
+.fab-item:focus-visible {
+    outline: 3px solid var(--color-accent);
+    outline-offset: 3px;
+}
+
+.fab-item:focus-visible {
+    border-radius: 28px;
+}
+
+@media (max-width: 768px) {
+    .fab {
+        right: 14px;
+        bottom: 14px;
+    }
+    .fab-label {
+        font-size: 0.95rem;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .fab *,
+    .fab-item {
+        transition: none !important;
+    }
+}
