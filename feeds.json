@@ -1,5 +1,13 @@
 [
   {
+    "blog": "Galerías Preciados",
+    "titulo": "Esto son lentejas",
+    "link": "https://galeriaspreciados.band/esto-son-lentejas/",
+    "fecha": "26/10/2026 19:13",
+    "contenido": "Este jueves 29 a las 20:00 estreno el próximo adelanto de Kielhalen con otro video que publicaremos en el canal YT de Ediciones Subterranias y además te enseño a cocinar lentejas. Hoy por aquí te doy la turrita previa",
+    "imagen": null
+  },
+  {
     "blog": "Bitácora de fernand0",
     "titulo": "En La Era de las Distros, hablando de las oficinas universitarias de software libre",
     "link": "https://blog.elmundoesimperfecto.com/2026/10/26/en-la-era-distros-oficinas-universitarias-software-libre/",
@@ -96,6 +104,14 @@
     "imagen": null
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "O2 y su mala gestión ante una vulnerabilidad en sus routers",
+    "link": "https://chancli.dev/blog/o2-mala-gestion-cambio-router.html",
+    "fecha": "26/10/2026 00:00",
+    "contenido": "Soy cliente de o2 desde ni me acuerdo, creo que desde que empezaron a dar servicio en España.\nSu servicio, al menos conmigo y en mi zona ha sido siempre de 10. Cumplieron lo que prometían con respecto a no molestarte con llamadas, cumplieron subiendo la velocidad y los gigas sin coste y sin pedirlo.",
+    "imagen": null
+  },
+  {
     "blog": "Bits de Ocio",
     "titulo": "Cinco películas de… David Fincher",
     "link": "https://bitsdeocio.wordpress.com/2026/10/25/cinco-peliculas-de-david-fincher/",
@@ -149,7 +165,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "25/10/2026 10:03",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261026%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261026T180114Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=41aeff042cd641d40ebbf52dfa47391c895857b832c6213abb94d79c6a740658"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261027%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261027T030916Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=06790916bfb3a3ef187f0110d28cb701922213a93fa028806443bcecff2915ed"
   },
   {
     "blog": "Mareos de un geek",
@@ -605,7 +621,7 @@
     "link": "https://labaudric.net/videos/gta",
     "fecha": "20/10/2026 08:37",
     "contenido": "  ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261026%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261026T180114Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=43df53c882d516995a95840a71b0b9ad733168c9877dad5a9cfe045336ffd34f"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6972/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261027%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261027T030916Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e1e3df5fd402316730941f9ad8d6ad8dbb4b918ecc81fff908b6d9bc77fa8a8a"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -630,21 +646,5 @@
     "fecha": "20/10/2026 05:35",
     "contenido": "Finalizado: 2026-10-19Los sistemas electrónicos avanzados muestran realidades alternas y personalizadas a medida del individuo usuario, creando versiones matemáticas del usuario y de su cosmovisión.  › Ver más »¡Patina todo el día!",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDwGv_TLu5zP_j7U2Kvm0kV3KQyZB40XHAftJ6lTctSZFbipAGEyDYKxHUaVHnyY5BtMM5d3vzvq11rbRS5DHoHithScdxFR67PPMl7gd-5hUO_7zwiNKD31cnE9q44hmk5aG4HoseNAJVhEPnTuDdrU8Nbu58vs9J6YQvKtcqn5ugygMnrXdnuV6VpJc/s72-w400-h400-c/Percepcion%20alterada%20electronicamente.jpg"
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Por qué resisto ante la «IA» generativa",
-    "link": "https://blep.org/por-que-resisto-a-la-«ia»-generativa",
-    "fecha": "20/10/2026 00:00",
-    "contenido": "Este artículo es una traducción al castellano desde el inglés. El original, Why I Resist Generative “AI”, es de Esther Weidauer.\nOs lo traigo porque es una versión mejor escrita y más completa de uno que tenía yo en borrador desde hace un año y que no me animaba a terminar de escribir, y me servirá ",
-    "imagen": null
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Recuperando posts viejos",
-    "link": "https://nachof.blog/posts/2026/recuperando-posts-viejos/",
-    "fecha": "19/10/2026 22:30",
-    "contenido": "Hace muchos, muchos años, existía algo llamado Posterous. Posterous era un blog re sencillo, que funcionaba de una manera interesante: vos mandabas un email, y eso publicaba el post. No sé cómo hacían para prevenir que le trucharas la dirección de origen, pero parecía funcionar. Después lo compró Tw",
-    "imagen": null
   }
 ]
