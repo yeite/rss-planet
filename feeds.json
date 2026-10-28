@@ -1,5 +1,21 @@
 [
   {
+    "blog": "Lo de Manieflo",
+    "titulo": "¿Qué es RSS?",
+    "link": "https://elprofejuan.com.ar/que-es-rss",
+    "fecha": "27/10/2026 20:49",
+    "contenido": "Introducción:\nAlguna vez habrás encontrado este símbolo en muchas páginas y sitios web, bueno el artículo habla sobre esto.\nEl sistema o servicio se llama RSS y es una manera de leer noticias y novedades de la web que viene de hace mucho tiempo, en tiempos donde la posibilidad de tener wifi gratis o",
+    "imagen": "https://elprofejuan.com.ar/bl-content/uploads/pages/7d74422ca0dacb6e49e44b850f70ab4b/rss-jpg.jpg"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Moratoria Europea de Centros de Datos – Pararse a pensar",
+    "link": "https://56k.es/fanta/moratoria-europea-de-centros-de-datos-pararse-a-pensar/",
+    "fecha": "27/10/2026 17:49",
+    "contenido": "Una gran coalición de resistencias europeas se han unido para demandar una moratoria europea para los centros de datos. Una moratoria no es ni más ni menos que tener la posibilidad de que la ciudadania se pueda parar a pensar frente al FastTrack sin sentido que buscan las big techs. Consideramos que",
+    "imagen": null
+  },
+  {
     "blog": "Fixionauta",
     "titulo": "",
     "link": "https://fixionauta.net/2026/10/27/236960/",
@@ -53,7 +69,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "27/10/2026 10:54",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261027%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261027T170901Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=fa342bbeb8a147c1a11bf724616986a42b27b04510291a54c0cd6e0244f38801"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261028%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T032251Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f45cc7344540b39a242b235005ecd8eb3fb19c4b6fa61f60c35c084d3786d037"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -184,14 +200,6 @@
     "imagen": null
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "O2 y su mala gestión ante una vulnerabilidad en sus routers",
-    "link": "https://chancli.dev/blog/o2-mala-gestion-cambio-router.html",
-    "fecha": "26/10/2026 00:00",
-    "contenido": "Soy cliente de o2 desde ni me acuerdo, creo que desde que empezaron a dar servicio en España.\nSu servicio, al menos conmigo y en mi zona ha sido siempre de 10. Cumplieron lo que prometían con respecto a no molestarte con llamadas, cumplieron subiendo la velocidad y los gigas sin coste y sin pedirlo.",
-    "imagen": null
-  },
-  {
     "blog": "Bits de Ocio",
     "titulo": "Cinco películas de… David Fincher",
     "link": "https://bitsdeocio.wordpress.com/2026/10/25/cinco-peliculas-de-david-fincher/",
@@ -245,7 +253,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "25/10/2026 10:03",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261027%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261027T170901Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9663ecb7bfca510977d7097ccad50c8fc4be5f9e3f4aaf7b955d5116e31bff38"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261028%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T032251Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=af429ef14a3a14745f7798559b08a44e29dfb555d2420b25b698782fa2d5cf4d"
   },
   {
     "blog": "Mareos de un geek",
@@ -638,13 +646,5 @@
     "fecha": "21/10/2026 07:15",
     "contenido": "Con Termix podrás centralizar el acceso SSH, transferencias de archivos, túneles, Docker y mucho más desde una única interfaz web",
     "imagen": "https://voidnull.es/content/images/2026/10/termix-1.png"
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Descomprimir ZIP automáticamente con Bash",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-10-21-script-bash/",
-    "fecha": "20/10/2026 22:00",
-    "contenido": "A continuación tienes un script muy corto que permite descomprimir todos los archivos .zip de un directorio, creando una carpeta para cada uno y colocando allí su contenido.\n#!/usr/bin/env bash\n# bucle.sh – Descomprime todos los .zip del directorio actual\n\nfor f in *.zip; do\n    # Crea la carpeta co",
-    "imagen": null
   }
 ]
