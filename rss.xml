@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 28 Oct 2026 02:57:38 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 11:47:35 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>¿Qué es RSS?</title>
+<link>https://elprofejuan.com.ar/que-es-rss</link>
+<guid isPermaLink="true">https://elprofejuan.com.ar/que-es-rss</guid>
+<pubDate>Tue, 27 Oct 2026 20:49:00 GMT</pubDate>
+<category>Lo de Manieflo</category>
+<description><![CDATA[Introducción: Alguna vez habrás encontrado este símbolo en muchas páginas y sitios web, bueno el artículo habla sobre esto. El sistema o servicio se llama RSS y es una manera de leer noticias y novedades de la web que viene de hace mucho tiempo, en tiempos donde la posibilidad de tener wifi gratis o<br><br><strong>Fuente:</strong> Lo de Manieflo]]></description>
+</item>
+<item>
+<title>Moratoria Europea de Centros de Datos – Pararse a pensar</title>
+<link>https://56k.es/fanta/moratoria-europea-de-centros-de-datos-pararse-a-pensar/</link>
+<guid isPermaLink="true">https://56k.es/fanta/moratoria-europea-de-centros-de-datos-pararse-a-pensar/</guid>
+<pubDate>Tue, 27 Oct 2026 17:49:00 GMT</pubDate>
+<category>56K</category>
+<description><![CDATA[Una gran coalición de resistencias europeas se han unido para demandar una moratoria europea para los centros de datos. Una moratoria no es ni más ni menos que tener la posibilidad de que la ciudadania se pueda parar a pensar frente al FastTrack sin sentido que buscan las big techs. Consideramos que<br><br><strong>Fuente:</strong> 56K]]></description>
+</item>
 <item>
 <title>Sin título</title>
 <link>https://fixionauta.net/2026/10/27/236960/</link>
@@ -200,22 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
 <category>El blog es mío</category>
 <description><![CDATA[Siempre digo que hubo un tiempo en que hab&amp;#237;a gente que cog&amp;#237;a un hosting compartido y se montaba un blog con WordPress, y que hoy gente similar no lo har&amp;#237;a. As&amp;#237; como tampoco se abrir&amp;#237;an un Blogspot o lo que sea. Por una parte, creo que las redes sociales y especialmente<br><br><strong>Fuente:</strong> El blog es mío]]></description>
-</item>
-<item>
-<title>O2 y su mala gestión ante una vulnerabilidad en sus routers</title>
-<link>https://chancli.dev/blog/o2-mala-gestion-cambio-router.html</link>
-<guid isPermaLink="true">https://chancli.dev/blog/o2-mala-gestion-cambio-router.html</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-<category>Chancli.dev</category>
-<description><![CDATA[Soy cliente de o2 desde ni me acuerdo, creo que desde que empezaron a dar servicio en España. Su servicio, al menos conmigo y en mi zona ha sido siempre de 10. Cumplieron lo que prometían con respecto a no molestarte con llamadas, cumplieron subiendo la velocidad y los gigas sin coste y sin pedirlo.<br><br><strong>Fuente:</strong> Chancli.dev]]></description>
-</item>
-<item>
-<title>Cinco películas de… David Fincher</title>
-<link>https://bitsdeocio.wordpress.com/2026/10/25/cinco-peliculas-de-david-fincher/</link>
-<guid isPermaLink="true">https://bitsdeocio.wordpress.com/2026/10/25/cinco-peliculas-de-david-fincher/</guid>
-<pubDate>Sun, 25 Oct 2026 22:15:00 GMT</pubDate>
-<category>Bits de Ocio</category>
-<description><![CDATA[«Cinco Películas» es un podcast en el que repaso la trayectoria de una figura del cine —actriz, actor, director o incluso un estudio— y recomiendo, bajo la subjetividad más absoluta, las cinco películas que más me gustan de esa persona. No las mejores ni las más taquilleras. Simplemente, las que más<br><br><strong>Fuente:</strong> Bits de Ocio]]></description>
 </item>
 
 </channel>
