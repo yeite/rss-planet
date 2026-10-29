@@ -1,5 +1,85 @@
 [
   {
+    "blog": "",
+    "titulo": "Fuerza…",
+    "link": "https://mundoceltamedieval.wordpress.com/2026/10/29/fuerza/",
+    "fecha": "29/10/2026 13:13",
+    "contenido": "Realmente fue un accidente terrible, dejo a todos con mucha preocupación, incertidumbre y tristeza; ojalá que todo se aclare y que los que fueron responsables lo paguen, mi mas sentido pésame a los familiares de las victimas.",
+    "imagen": "https://0.gravatar.com/avatar/306e19f08d8518c022c73f6d5ff0a80ddbf5622a55b8887868d29bf280546143?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "eaplmx",
+    "titulo": "29 de Octubre 2026",
+    "link": "https://text.eapl.mx/2026-10-29",
+    "fecha": "29/10/2026 12:35",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "La línea doméstica",
+    "titulo": "Elegir la incomodidad",
+    "link": "https://jmlro.codeberg.page/posts/elegir-la-incomodidad.txt",
+    "fecha": "29/10/2026 12:00",
+    "contenido": "Limpiando la cocina saqué una espátula para rayar un adhesivo que se había pegado en un azulejo. Horas más tardé percibí unos cortes en la mano que me había hecho con la espátula y que no había notado en caliente. Fue cuando exprimí medio limón para la cena cuando empezó a escocer.\n\nTrabajo con el o",
+    "imagen": null
+  },
+  {
+    "blog": "La línea doméstica",
+    "titulo": "Salgo con tus zuecos",
+    "link": "https://jmlro.codeberg.page/posts/salgo-con-tus-zuecos.txt",
+    "fecha": "29/10/2026 12:00",
+    "contenido": "Después de comer\ntengo pereza y\nsalgo con tus zuecos\ncuando los encuentro en el salón.\nMe aprietan un poco\npero me gusta ser tú\nmientras veo el sol en las hojas\na las que hacías fotos\nantes de toda esta prisa\nantes de no tener casi\ntiempo para una cita.",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #900",
+    "link": "https://www.fabio.com.ar/10066-ruleta-rusa-900",
+    "fecha": "29/10/2026 12:00",
+    "contenido": "     900 ruletas!\n900 ruletas! Vamos que llegamos a las mil! Bueno, no s&eacute;, en un par de a&ntilde;os, porque son 52 por a&ntilde;o as&iacute; que a mediados de 2028 si es que tengo suficientes balas como para llegar 😅 en la actualidad escasean! Ser&iacute;an unas 2000 balas, 1000 jpegs y 1000 ",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/ruleta900.jpg"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Click&Fix",
+    "link": "https://cozykis.kisworld.es/analisis-de-clickfix/",
+    "fecha": "29/10/2026 11:56",
+    "contenido": "Un incremental con un montón de referencias a nuestra infancia en el que tendremos que vencer consolas malignas\nLa entrada Análisis de Click&amp;Fix se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "[Libro] Extremophile - Ian Green",
+    "link": "https://picandocodigo.net/2026/libro-extremophile-ian-green/",
+    "fecha": "29/10/2026 11:26",
+    "contenido": "Extremophile es un libro de ciencia ficción y biopunk (con énfasis en punk) escrito por el autor escocés Ian Green. El género biopunk es un subgénero de la ciencia ficción derivado del cyberpunk. Al leerlo lo sentí como una novela cyberpunk, con especialización en biotecnología. En rasgos generales ",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Saviour Machine: Saviour Machine | Cuando El Metal Se Volvió Arte y Profecía",
+    "link": "https://www.delotroladometal.com.ar/2026/10/29/cuando-el-metal-se-volvio-arte-y-profecia/",
+    "fecha": "29/10/2026 10:50",
+    "contenido": "(1993/96 &#8211; MCM Music/Massacre Records) Si hay una banda que rompió todos los estereotipos del...\nThe post Saviour Machine: Saviour Machine | Cuando El Metal Se Volvió Arte y Profecía first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Alma de gordo",
+    "link": "https://adrianperales.com/2026/10/alma-de-gordo/",
+    "fecha": "29/10/2026 08:00",
+    "contenido": "Aunque he perdido mucho peso y considero que estoy mucho más sano, lo que llamo «alma de gordo» no se va. Ese ansia por comer malsano persiste. Los avisos previos «Estar gordo» no significa «no estar sano», y cada cuerpo es como es. Si alguna expresión puede leerse como gordófoba, no es mi intención",
+    "imagen": null
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Instalando Anubis en tu servidor linux",
+    "link": "https://chancli.dev/blog/instalando-anubis-vps.html",
+    "fecha": "29/10/2026 00:00",
+    "contenido": "Hacía tiempo que buscaba alguna solución para evitar a visitantes no esperados y me encontré con un Anubis, un firewall web, open source, que se encarga exactamente de esto. \nBásicamente es un proxy inverso que se coloca delante de la web, el flujo sería algo así:\nVisitante -&gt; nginx -&gt; Anubis ",
+    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/anubis.png"
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "Los abucheos del Festival de Sitges",
     "link": "https://blog.danielaragay.net/los-abucheos-del-festival-de-sitges/",
@@ -165,7 +245,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "27/10/2026 10:54",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261029%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T034600Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2ef8c3b0c7d9b6ec1dd543a386c6d9d105bc7f7bd5eefb2d8ba79ebc41b7bdd1"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261029%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T175114Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=918cdb8234c5a28e35ec22a676536707bbd402f1de59b4b865350facc86c0a9f"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -185,10 +265,10 @@
   },
   {
     "blog": "Pepógrafo",
-    "titulo": "Pedroso de Acim, el pueblo más pequeño de Extremadura que esconde el monasterio más pequeño del mundo",
+    "titulo": "Pedroso de Acim: un pueblo diminuto y el monasterio más pequeño del mundo",
     "link": "https://pepografo.com/pedroso-de-acim-monasterio-mas-pequeno-del-mundo/",
     "fecha": "27/10/2026 07:00",
-    "contenido": "Con apenas 90 habitantes, este municipio de la provincia de Cáceres alberga un cenobio fundado por San Pedro de Alcántara en el siglo XVI y conserva un pasado rural y un patrimonio clave para afrontar el reto de la despoblación Entre calles, plazas, caminos y un entorno natural excelso, una localida",
+    "contenido": "En Pedroso de Acim, El Palancar guarda siglos de historia en apenas 72 metros cuadrados.\nLa entrada Pedroso de Acim: un pueblo diminuto y el monasterio más pequeño del mundo se publicó primero en Pepógrafo.",
     "imagen": null
   },
   {
@@ -272,14 +352,6 @@
     "imagen": "https://voidnull.es/content/images/2025/02/1panel-1.png"
   },
   {
-    "blog": "El blog de Lázaro",
-    "titulo": "Migrar el layout Btrfs en Fedora a una estructura limpia",
-    "link": "https://elblogdelazaro.org/btrfs-fedora-migrar-layout-subvolumenes/",
-    "fecha": "26/10/2026 06:00",
-    "contenido": "Por: Carlos M.Publicado el 26 de octubre de 2026Cómo reorganizar una instalación de Fedora con Btrfs para usar subvolúmenes separados en /, /home, /.snapshots y /var.Continuar leyendo →#Backup #Btrfs #Fedora #Fstab #Linux ",
-    "imagen": "https://elblogdelazaro.org/images/posts/2026/btrfs/btrfs-03.png"
-  },
-  {
     "blog": "El cuarto de GatoOscuro",
     "titulo": "Divagación acerca de la vida, espacio y universo",
     "link": "https://gatooscuro.xyz/divagacion-acerca-de-la-vida-espacio-y-universo/",
@@ -357,7 +429,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "25/10/2026 10:03",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261029%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T034600Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=fca060c718d56c5f05d3795ec7c0063ea03cdd879c518b417b861cde7cae4cf3"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261029%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T175114Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a288e7877518bb8ce562310d1f77792b8eb27f717e883f1283afd7444ed4cc02"
   },
   {
     "blog": "Mareos de un geek",
@@ -444,7 +516,7 @@
     "titulo": "Idanha-a-Velha y Monsanto: dos pueblos portugueses, cuatro piedras romanas y un día para ponerse las botas",
     "link": "https://pepografo.com/idanha-a-velha-monsanto-excursion-un-dia/",
     "fecha": "24/10/2026 07:00",
-    "contenido": "Una excursión de un día a Idanha-a-Velha y Monsanto desde Extremadura: qué ver, qué hacer y cómo disfrutar de dos aldeas históricas de Portugal.\nLa entrada Idanha-a-Velha y Monsanto: dos pueblos portugueses, cuatro piedras romanas y un día para ponerse las botas se publicó primero en Pepógrafo.",
+    "contenido": "Idanha-a-Velha y Monsanto ofrecen ruinas romanas, calles de piedra y una escapada portuguesa llena de sorpresas.\nLa entrada Idanha-a-Velha y Monsanto: dos pueblos portugueses, cuatro piedras romanas y un día para ponerse las botas se publicó primero en Pepógrafo.",
     "imagen": null
   },
   {
@@ -638,45 +710,5 @@
     "fecha": "22/10/2026 19:00",
     "contenido": "\nEs mi primer contacto con esta saga, con este universo. Estoy leyendo la edición coleccionista de Neon Genesis Evangelion, aunque en términos de contenido estoy bastante seguro que no aporta nada en comparación a la edición normal. 14 tomos (juntados en 7 en la susodicha edición coleccionista) esti",
     "imagen": "https://labaudric.net/img/neon_genesis_evangelion_manga/01.jpg"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #899",
-    "link": "https://www.fabio.com.ar/10059-ruleta-rusa-899",
-    "fecha": "22/10/2026 12:00",
-    "contenido": "     A la guerra ruletera, armado hasta las tetas\nMiren, para ustedes seguro fue una semana tranquila, pero para mi viene m&aacute;s agitada de lo que jam&aacute;s se podr&aacute;n imaginar 😁 ya les dej&eacute; la nota anterior para enterarse de eso, ahora necesitamos un descanso mental y la ruleta ",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/ruleta899.jpg"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Nextcloud y Collabora, y fuentes personalizadas",
-    "link": "https://nachof.blog/posts/2026/nextcloud-y-collabora-y-fuentes-personalizadas/",
-    "fecha": "22/10/2026 11:10",
-    "contenido": "Post cortito porque en una búsqueda rápida no pude encontrar esto explícitamente, pero lo solucioné toqueteando, así que lo documento.\nCuando agregás una fuente personalizada en la configuración de Nextcloud para que Collabora la use, te aparece este text:\n\nMake sure to set this URL: https://{tudomi",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Desde Argentina Asoma Una Nueva Propuesta | Disasterphonia Desafía Al Sonido…Y Al Alma",
-    "link": "https://www.delotroladometal.com.ar/2026/10/22/disasterphonia-desafia-al-sonido-y-al-alma/",
-    "fecha": "22/10/2026 10:35",
-    "contenido": "Ceb Theory es un personaje conocido por este medio. Ya le conocimos de la mano...\nThe post Desde Argentina Asoma Una Nueva Propuesta | Disasterphonia Desafía Al Sonido…Y Al Alma first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Metahorror Therapy Session",
-    "link": "https://cozykis.kisworld.es/analisis-de-metahorror-therapy-session/",
-    "fecha": "22/10/2026 09:45",
-    "contenido": "Un juego de misterio en el que tendremos que obtener toda la información necesaria sin presionar a nuestre paciente Metahorror Therapy Session es una novela visual de terror y misterio en la que jugaremos como un terapeuta que está en una sesión de terapia infinita con Noel. Una persona que ha sufri",
-    "imagen": null
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "Leer poesía",
-    "link": "https://adrianperales.com/2026/10/leer-poesia/",
-    "fecha": "22/10/2026 07:00",
-    "contenido": "Hace relativamente poco que disfruto de la lectura de poesía. En esta entrada cuento mi acercamiento al género. Un poco de historia La escuela me fastidió la poesía. No se me escapa la ironía de decir esto cuando soy profesor de Lengua y Literatura, pero es así. Leer sobre todo a poetas varones clás",
-    "imagen": null
   }
 ]
