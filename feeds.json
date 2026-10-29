@@ -1,5 +1,13 @@
 [
   {
+    "blog": "danielaragay.net",
+    "titulo": "Los abucheos del Festival de Sitges",
+    "link": "https://blog.danielaragay.net/los-abucheos-del-festival-de-sitges/",
+    "fecha": "28/10/2026 21:00",
+    "contenido": "Nuevo episodio del podcast: Los abucheos del Festival de SitgesEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/los-abucheos-del-festival-de-sitges",
+    "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "passwd: gestiona las contraseñas de tus usuarios",
     "link": "https://voidnull.es/passwd-gestiona-las-contrasenas-de-tus-usuarios/",
@@ -157,7 +165,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "27/10/2026 10:54",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261028%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T174415Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a7600b80ad744041043bd4d2d87e0a8ef46d66111c0bfb02a3aa2140ea049cdd"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261029%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T034600Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2ef8c3b0c7d9b6ec1dd543a386c6d9d105bc7f7bd5eefb2d8ba79ebc41b7bdd1"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -349,7 +357,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "25/10/2026 10:03",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261028%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261028T174415Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=40521982f2a7a26267bd30ac71dd4d3c5a05c2d2de34a48616b080cc0c5bf200"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261029%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T034600Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=fca060c718d56c5f05d3795ec7c0063ea03cdd879c518b417b861cde7cae4cf3"
   },
   {
     "blog": "Mareos de un geek",
@@ -446,6 +454,14 @@
     "fecha": "24/10/2026 06:55",
     "contenido": "\nIntroducción\nPues salió hace poco la decompilación de Uncharted Drake's collection para PC. Que honestamente, a efectos prácticos, no entiendo muy bien cual es la diferencia entre decompilación y emulación. Es de esas cosas que por la puta IA, salen cada vez más a menudo. Como las cientas de vulner",
     "imagen": "https://labaudric.net/img/uncharted_pc/01.jpg"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Probando la IA en local: expectativas y realidad",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-10-24-mi-propia-ia/",
+    "fecha": "23/10/2026 22:00",
+    "contenido": "Después de leer este artículo de atareao, en el que explica que no hace falta tener una GPU de 3000 € para utilizar tu propia IA en local y que, con ciertas limitaciones, puedes sacarle un buen partido, me entraron ganas de investigar el tema y ver qué podía conseguir con mi propio servidor.\nLo más ",
+    "imagen": null
   },
   {
     "blog": "",
@@ -662,29 +678,5 @@
     "fecha": "22/10/2026 07:00",
     "contenido": "Hace relativamente poco que disfruto de la lectura de poesía. En esta entrada cuento mi acercamiento al género. Un poco de historia La escuela me fastidió la poesía. No se me escapa la ironía de decir esto cuando soy profesor de Lengua y Literatura, pero es así. Leer sobre todo a poetas varones clás",
     "imagen": null
-  },
-  {
-    "blog": "Maverick HQ",
-    "titulo": "Alucina construyendo avioncitos de papel",
-    "link": "https://maverick-hq.org/blog/aviones-de-papel/",
-    "fecha": "22/10/2026 00:00",
-    "contenido": "Mi hijo es de esos niños que cada varios meses se obsesiona con un tema recurrente y este mes nos ha tocado revivir el de los avioncitos de papel. No es que me queje, porque así lo alejamos de las pantallas por un rato, pero al final acabamos con la casa llena de aviones por todas partes y encima no",
-    "imagen": null
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "593. El séptimo día",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/10/593-el-septimo-dia.html",
-    "fecha": "21/10/2026 22:00",
-    "contenido": "&nbsp; &nbsp; Ya no jarrea en España y sé que lo sabéis. Lo que no sabéis es que mi semana de trabajo —de jueves a miércoles— ha sido un tanto estresante. Algo inusual, porque en mi esclavitud laboral siempre me he implicado un poco más allá de lo estrictamente necesario para que no me llamen la ate",
-    "imagen": "https://img.youtube.com/vi/O-u1E2G2k0M/default.jpg"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "El día en que PHP se detuvo, PHP2Shell",
-    "link": "https://www.fabio.com.ar/10058-el-dia-en-que-php-se-detuvo-php2shell",
-    "fecha": "21/10/2026 18:48",
-    "contenido": "    \nEsto es para nardos, sysadmins y alg&uacute;n ocasional que tiene su propio servidor en la web. Como muchos lo saben, aunque se que la gran mayor&iacute;a no, el 70% de Internet funciona gracias a PHP.\nOdiado, maltratado, pero siempre fiel, PHP es el motor de este blog desde hace 24 a&ntilde;os",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/php2shell.jpg"
   }
 ]
