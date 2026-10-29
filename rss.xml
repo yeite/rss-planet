@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 29 Oct 2026 03:23:42 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 11:55:57 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Los abucheos del Festival de Sitges</title>
+<link>https://blog.danielaragay.net/los-abucheos-del-festival-de-sitges/</link>
+<guid isPermaLink="true">https://blog.danielaragay.net/los-abucheos-del-festival-de-sitges/</guid>
+<pubDate>Wed, 28 Oct 2026 21:00:00 GMT</pubDate>
+<category>danielaragay.net</category>
+<description><![CDATA[Nuevo episodio del podcast: Los abucheos del Festival de SitgesEsc&amp;#xfa;chalo aqu&amp;#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/los-abucheos-del-festival-de-sitges<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
+</item>
 <item>
 <title>passwd: gestiona las contraseñas de tus usuarios</title>
 <link>https://voidnull.es/passwd-gestiona-las-contrasenas-de-tus-usuarios/</link>
@@ -208,14 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Mon, 26 Oct 2026 19:13:00 GMT</pubDate>
 <category>Galerías Preciados</category>
 <description><![CDATA[Este jueves 29 a las 20:00 estreno el próximo adelanto de Kielhalen con otro video que publicaremos en el canal YT de Ediciones Subterranias y además te enseño a cocinar lentejas. Hoy por aquí te doy la turrita previa<br><br><strong>Fuente:</strong> Galerías Preciados]]></description>
-</item>
-<item>
-<title>En La Era de las Distros, hablando de las oficinas universitarias de software libre</title>
-<link>https://blog.elmundoesimperfecto.com/2026/10/26/en-la-era-distros-oficinas-universitarias-software-libre/</link>
-<guid isPermaLink="true">https://blog.elmundoesimperfecto.com/2026/10/26/en-la-era-distros-oficinas-universitarias-software-libre/</guid>
-<pubDate>Mon, 26 Oct 2026 16:00:00 GMT</pubDate>
-<category>Bitácora de fernand0</category>
-<description><![CDATA[Hace unos meses se lanzó en formato podcast una revisión de la historia de las distribuciones de Linux en España, La era de las distros. Creo que es una iniciativa muy interesante, pues son historias que resulta necesario contar para que quede su recuerdo (y, en muchos casos, su herencia). El cas<br><br><strong>Fuente:</strong> Bitácora de fernand0]]></description>
 </item>
 
 </channel>
