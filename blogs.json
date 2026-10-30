@@ -1,5 +1,29 @@
 [
 {
+  "Nombre": "Karnivore",
+  "Url": "https://tuhat.net/@karnivore/",
+  "Feed": "https://tuhat.net/@karnivore/feed.xml",
+  "Descripción": "Escribo sobre lo que quiera sin temor a la censura.",
+  "Categoría": "Ciencia y Humanidades,Vida Diaria",
+  "País": "Colombia"
+},
+{
+  "Nombre": "PlanetaInopia",
+  "Url": "https://www.planetainopia.com",
+  "Feed": "https://www.planetainopia.com/blog.rss",
+  "Descripción": "PlanetaInopia es el pequeño blog personal de Sandor Inopia (Bilbao). Dando la turra en la red desde 2002.",
+  "Categoría": "Arte y Diseño,Ciencia y Humanidades,Entretenimiento y Cultura,Fotografía,Manualidades / Hobbies,Sociedad y Economía,Tecnología,Vida Diaria",
+  "País": "España"
+},
+{
+  "Nombre": "Rodriac Copen",
+  "Url": "https://rodriaccopen.blogspot.com/",
+  "Feed": "https://rodriaccopen.blogspot.com/feeds/posts/default?alt=rss",
+  "Descripción": "Rodriac Copen es un proyecto literario de autor que explora los límites entre la ciencia ficción, la poesía y la prosa especulativa.",
+  "Categoría": "Entretenimiento y Cultura,Literario",
+  "País": "Argentina"
+},
+{
   "Nombre": "Memorias de un técnico ligero",
   "Url": "https://tecnico-ligero.mooo.com/",
   "Feed": "https://tecnico-ligero.mooo.com/feeds/all.rss.xml",
@@ -12,7 +36,7 @@
   "Url": "https://cosasgalicia.blogspot.com/",
   "Feed": "http://cosasdegalicia.blogspot.com/feeds/posts/default",
   "Descripción": "Blog de temas variados relacionados con Galicia. Publico sobre música, televisión, fútbol, lugares y cosas relacionadas con mi pueblo (soy de un pueblo gallego)",
-  "Categoría": "Aire libre,Entretenimiento y Cultura,Viajes",
+  "Categoría": "Aire Libre,Entretenimiento y Cultura,Viajes",
   "País": "España"
 },
 {
@@ -418,15 +442,6 @@
     "Aliado": "si"
   },
   {
-    "Nombre": "Blogpocket Foodie",
-    "Url": "https://foodybp.blog/",
-    "Feed": "https://foodybp.blog/feed/",
-    "Descripción": "Mi blog personal de recetas de cocina (freidora, robot, horno y algunas tradicionales)",
-    "Categoría": "Comida y Bebida",
-    "País": "España",
-    "Aliado": "si"
-  },
-  {
     "Nombre": "Un Bruto con Debian",
     "Url": "https://unbrutocondebian.blogspot.com",
     "Feed": "https://unbrutocondebian.blogspot.com/feeds/posts/default",
@@ -807,14 +822,6 @@
     "País": "México"
   },
   {
-    "Nombre": "culturavisual.cc",
-    "Url": "https://culturavisual.cc",
-    "Feed": "https://culturavisual.cc/feed",
-    "Descripción": "culturavisual.cc es un blog de análisis y compartición de textos, materiales y recursos educativos vinculados a explorar las conexiones entre el arte y la educación y las formas de articulación posibles del pensamiento artístico. Es un proyecto personal de Ricard Ramon.",
-    "Categoría": "Arte y Diseño, Fotografía",
-    "País": "España"
-  },
-  {
     "Nombre": "Malagueños originales y libres",
     "Url": "https://malagaoriginal.blogspot.com",
     "Feed": "https://malagaoriginal.blogspot.com/feeds/posts/default",
@@ -880,14 +887,6 @@
     "País": "España"
   },
   {
-    "Nombre": "Manje.net",
-    "Url": "https://blog.manje.net",
-    "Feed": "https://blog.manje.net/feed",
-    "Descripción": "Hacktivismo, redes, software libre. Lo que se me pasa por la cabeza y textos que escribo cuando no tengo nada mejor que hacer",
-    "Categoría": "Tecnología, Sociedad y Economía, Ciencia y Humanidades",
-    "País": "España"
-  },
-  {
     "Nombre": "GoRiX Blog",
     "Url": "https://blog.gorix.xyz/",
     "Feed": "https://blog.gorix.xyz/feed.rss",
@@ -904,15 +903,6 @@
     "País": "Argentina"
   },
   {
-    "Nombre": "Smorita",
-    "Url": "https://srmorita.xyz",
-    "Feed": "https://srmorita.xyz/index.xml",
-    "Descripción": "Blog personal sobre tecnología, software libre, programación. Un cajón de desastres.",
-    "Categoría": "Tecnología",
-    "País": "Chile"
-  },
-
-  {
     "Nombre": "El bocadillo de Tortilla",
     "Url": "https://www.lynze.net",
     "Feed": "https://www.lynze.net/feed/",
@@ -920,7 +910,6 @@
     "Categoría": "Entretenimiento y Cultura, Vida Diaria",
     "País": "España"
   },
-
   {
     "Nombre": "Juan Agustin Flores",
     "Url": "https://juanagustinflores.wordpress.com/",
@@ -970,14 +959,6 @@
     "País": "Colombia"
   },
   {
-    "Nombre": "Moribundo Insurgente",
-    "Url": "https://moribundoinsurgente.noblogs.org",
-    "Feed": "https://moribundoinsurgente.noblogs.org/feed/",
-    "Descripción": "Blog sobre privacidad",
-    "Categoría": "Tecnología",
-    "País": "España"
-  },
-  {
     "Nombre": "Victorhck in the free world",
     "Url": "https://victorhckinthefreeworld.com",
     "Feed": "https://victorhckinthefreeworld.com/feed/",
@@ -1001,7 +982,6 @@
     "Categoría": "Literario",
     "País": ""
   },
-
   {
     "Nombre": "La Máquina de Von Neumann",
     "Url": "https://vonneumannmachine.wordpress.com",
@@ -1230,15 +1210,6 @@
     "Categoría": "Literario",
     "País": "España"
   },
-  {
-    "Nombre": "Cuaderno de filosofías de ficciones posibles",
-    "Url": "https://cuaderno.ricardramon.net",
-    "Feed": "https://cuaderno.ricardramon.net/feed/",
-    "Descripción": "Un cuaderno de reflexión, desde un lenguaje artístico, y en ocasiones experimental, sobre el mundo.",
-    "Categoría": "Arte y Diseño, Ciencia y Humanidades, Fotografía, Sociedad y Economía",
-    "País": "España"
-  },
-
   {
     "Nombre": "La cueva de Beckermatic",
     "Url": "https://arielbecker.com/",
