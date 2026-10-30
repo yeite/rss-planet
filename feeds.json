@@ -1,5 +1,29 @@
 [
   {
+    "blog": "JavierSam",
+    "titulo": "Están disponibles Scribus 1.7.4 y 1.6.7",
+    "link": "https://javiersam.uy/2026/10/estan-disponibles-scribus-1-7-4-y-1-6-7.html",
+    "fecha": "30/10/2026 03:00",
+    "contenido": "Hace más de 17 años escribí una entrada en la que comentaba un procedimiento, bastante engorroso, para colocar en Scribus una tabla creada con OpenOffice.org. Dos años después me enteré que Scribus 1.5 traería una herramienta específica para tablas. Por más que le fueron haciendo mejoras a la herram",
+    "imagen": null
+  },
+  {
+    "blog": "El Sueño del Artista Blog",
+    "titulo": "“ Te toca “ escuchar a Cimafunk .",
+    "link": "https://polotman.wordpress.com/2026/10/29/te-toca-escuchar-a-cimafunk/",
+    "fecha": "30/10/2026 01:45",
+    "contenido": "#musica #musicaCubana #FunkCubano #LatinFunk #Cimafunk #latribu Recuerdo la primera vez que escuché una de las primerísimas canciones con las que se hacía debutar a Cimafunk dentro del panorama musical a nivel nacional. Por aquel entonces transcurría el 2017 y se lanzó el sencillo “Me Voy”, incluido",
+    "imagen": "https://0.gravatar.com/avatar/f58f42a8ca6e81b1cc95d73653edbeae2c008abc237637349ab2d7f38b3dd4c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Un mes para el 29-N, las próximas elecciones generales",
+    "link": "https://mareosdeungeek.es/un-mes-para-el-29-n-las-proximas-elecciones-generales/",
+    "fecha": "29/10/2026 18:55",
+    "contenido": "El próximo 29-N se vuelven a celebrar elecciones generales en España. Al final, el régimen sanchista no ha podido acabar la legislatura de cuatro años. Ni le han dado los pactos, ni el descontento por los desmanes que afectan al país (la lista es bastante extensa) La lista de desgracias se completó ",
+    "imagen": null
+  },
+  {
     "blog": "",
     "titulo": "Fuerza…",
     "link": "https://mundoceltamedieval.wordpress.com/2026/10/29/fuerza/",
@@ -69,6 +93,14 @@
     "link": "https://adrianperales.com/2026/10/alma-de-gordo/",
     "fecha": "29/10/2026 08:00",
     "contenido": "Aunque he perdido mucho peso y considero que estoy mucho más sano, lo que llamo «alma de gordo» no se va. Ese ansia por comer malsano persiste. Los avisos previos «Estar gordo» no significa «no estar sano», y cada cuerpo es como es. Si alguna expresión puede leerse como gordófoba, no es mi intención",
+    "imagen": null
+  },
+  {
+    "blog": "Juan Bermúdez",
+    "titulo": "Novedades de septiembre 2026",
+    "link": "https://blog.juanbermudez.xyz/blog/2026-10-29.html",
+    "fecha": "29/10/2026 05:00",
+    "contenido": "",
     "imagen": null
   },
   {
@@ -176,6 +208,22 @@
     "imagen": null
   },
   {
+    "blog": "Mareos de un geek",
+    "titulo": "DuckDuckGo, del buscador al navegador",
+    "link": "https://mareosdeungeek.es/analisis-navegador-duckduckgo-privacidad-ia/",
+    "fecha": "28/10/2026 08:00",
+    "contenido": "DuckDuckGo nació como un buscador alternativo centrado en la privacidad y se ha convertido en un ecosistema que incluye buscador, navegador, extensiones, protección del correo, bloqueo de rastreadores, herramientas de IA y una suscripción con VPN. La historia de DuckDuckGo se remonta al año 2008 cua",
+    "imagen": null
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Nuevas redes sociales: buscando alternativas",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-10-28-cambio-rrss/",
+    "fecha": "27/10/2026 23:00",
+    "contenido": "Este nuevo artículo es una continuación de este otro, y se puede considerar una actualización del mismo.\nTodo esto viene como consecuencia de que, o como dice el refrán, por causas ajenas a la empresa 😊, he tenido que dejar de usar una de las RRSS que utilizaba hasta ahora. Pero esto también me ha v",
+    "imagen": null
+  },
+  {
     "blog": "Lo de Manieflo",
     "titulo": "¿Qué es RSS?",
     "link": "https://elprofejuan.com.ar/que-es-rss",
@@ -245,7 +293,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "27/10/2026 10:54",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261029%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T175114Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=918cdb8234c5a28e35ec22a676536707bbd402f1de59b4b865350facc86c0a9f"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261030%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261030T034904Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=99d73d53e3be4c62cc2f07d0df79b9ba377db40f4e4817c9986fa208dfd7ff1a"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -277,6 +325,14 @@
     "link": "https://galeriaspreciados.band/esto-son-lentejas/",
     "fecha": "26/10/2026 19:13",
     "contenido": "Este jueves 29 a las 20:00 estreno el próximo adelanto de Kielhalen con otro video que publicaremos en el canal YT de Ediciones Subterranias y además te enseño a cocinar lentejas. Hoy por aquí te doy la turrita previa",
+    "imagen": null
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "La Casa del Dragón: la tragedia Targaryen que explica Juego de Tronos",
+    "link": "https://mareosdeungeek.es/la-casa-del-dragon-serie-hbo/",
+    "fecha": "26/10/2026 17:00",
+    "contenido": "La Casa del Dragón es una precuela de Juego de Tronos, centrada en la familia Targaryen. Tengo que reconocer que tuve bastantes reticencias a la hora de verla. Empecé viendo la primera temporada en verano de 2022, pero no me acabó de convencer. Sinceramente, haber visto El caballero de los Siete Rei",
     "imagen": null
   },
   {
@@ -350,6 +406,14 @@
     "fecha": "26/10/2026 08:10",
     "contenido": "1Panel es un panel de control open-source que facilita la gestión de servidores y aplicaciones con una interfaz moderna e integración con Docker.",
     "imagen": "https://voidnull.es/content/images/2025/02/1panel-1.png"
+  },
+  {
+    "blog": "El blog de Lázaro",
+    "titulo": "Migrar el layout Btrfs en Fedora a una estructura limpia",
+    "link": "https://elblogdelazaro.org/btrfs-fedora-migrar-layout-subvolumenes/",
+    "fecha": "26/10/2026 06:00",
+    "contenido": "Por: Carlos M.Publicado el 26 de octubre de 2026Cómo reorganizar una instalación de Fedora con Btrfs para usar subvolúmenes separados en /, /home, /.snapshots y /var.Continuar leyendo →#Backup #Btrfs #Fedora #Fstab #Linux ",
+    "imagen": "https://elblogdelazaro.org/images/posts/2026/btrfs/btrfs-03.png"
   },
   {
     "blog": "El cuarto de GatoOscuro",
@@ -429,7 +493,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "25/10/2026 10:03",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261029%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261029T175114Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a288e7877518bb8ce562310d1f77792b8eb27f717e883f1283afd7444ed4cc02"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261030%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261030T034904Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0a91d874d9516c6ccc14d1770176727eb588e6dc66f59f3f4ff7a6a77704714d"
   },
   {
     "blog": "Mareos de un geek",
@@ -670,45 +734,5 @@
     "fecha": "23/10/2026 05:01",
     "contenido": "¿Harto del penoso contenido de la TV tradicional y de pagar varias suscripciones por ver algo ligeramente más entretenido?Pues hay varias opciones LEGALES que no cuestan un euro y que te van a proporcionar el ocio que a cada uno le interesa:Internet Archive: en la nueva biblioteca de Alejandría hay ",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMxciF90s2Q3jj4L86Kls64OCVtVOaJF5E1xoahS-Tm6PgGoytn0o_VtV-zIPoBAeux6Ch6-qQSq448eCkroq1963v3ciJbTLtRwxj-Bu5b2sFF2dPUcJMk4geI8AfM6TSq3wKx0jaF06L0UVCEiiDoMMJW7LGfJt7U8Xd_-YsHlUgaSnXXhtJVIOFxD4/s72-c/televisortubo.jpg"
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Los dos internets",
-    "link": "https://blep.org/los-dos-internets",
-    "fecha": "23/10/2026 00:00",
-    "contenido": "Últimamente oigo mucho variantes de \"internet está muerto\" o \"internet fue un error\". No me refiero sólo a la teoría del Internet Muerto, sino también a las críticas a \"los algorítmos\" (una entidad metafísica cuya manifestación en la psique colectiva tiene tan sólo una tenue relación con los algorít",
-    "imagen": null
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Tratado de las formas invisibles",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/tratado-de-las-formas-invisibles/",
-    "fecha": "23/10/2026 00:00",
-    "contenido": "UNO\nUn ánima de ardiente artillería\nte infundió la pasión por lo infinito.\nSurgiste hacia el espacio\ncomo un grito\nque en lo grave\nse hundió con tu osadía.\nLa directriz. El foco.\nY cada punto\nobedeciendo a la distancia:\nequidistante de ambos,\ncomo si la materia\nconociera de antemano\nsu destino.\nAsí ",
-    "imagen": "https://mataroa.blog/images/cfc8a4f2.png"
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "Primeros pasos con Logseq",
-    "link": "https://blog.jagedn.dev/blog/2026/logseq-intro.html",
-    "fecha": "23/10/2026 00:00",
-    "contenido": "(mis) primeros pasos con Logseq como alternativa a Obsidian",
-    "imagen": null
-  },
-  {
-    "blog": "NevatBlog",
-    "titulo": "SuperTuxKart",
-    "link": "https://nevat.neocities.org/supertuxkart_23102026.html",
-    "fecha": "23/10/2026 00:00",
-    "contenido": "Como buena mascota, Tux ha tenido muchas profesiones. Entre ellas las carreras locas de karts.",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Neon Genesis Evangelion (manga)",
-    "link": "https://labaudric.net/blog/manga/neon-genesis-evangelion-manga",
-    "fecha": "22/10/2026 19:00",
-    "contenido": "\nEs mi primer contacto con esta saga, con este universo. Estoy leyendo la edición coleccionista de Neon Genesis Evangelion, aunque en términos de contenido estoy bastante seguro que no aporta nada en comparación a la edición normal. 14 tomos (juntados en 7 en la susodicha edición coleccionista) esti",
-    "imagen": "https://labaudric.net/img/neon_genesis_evangelion_manga/01.jpg"
   }
 ]
