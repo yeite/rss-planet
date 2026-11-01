@@ -1,5 +1,45 @@
 [
   {
+    "blog": "Pepógrafo",
+    "titulo": "Lisboa en cinco fotografías: el tranvía 28, Rossio y el Tajo",
+    "link": "https://pepografo.com/lisboa-en-cinco-fotografias/",
+    "fecha": "31/10/2026 22:00",
+    "contenido": "Cinco fotografías originales de Lisboa tomadas por Julio Hidalgo Ardila el 30 de octubre de 2026: el tranvía 28, Rossio, la plaza de Figueira, el castillo de San Jorge y el Tajo.\nLa entrada Lisboa en cinco fotografías: el tranvía 28, Rossio y el Tajo se publicó primero en Pepógrafo.",
+    "imagen": null
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Mis lecturas en octubre de 2026",
+    "link": "https://escritura.social/mcallus/mis-lecturas-en-octubre-de-2026",
+    "fecha": "31/10/2026 21:55",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "El escritorio de McAllus",
+    "titulo": "Un segundo a oscuras",
+    "link": "https://escritura.social/mcallus/un-segundo-a-oscuras",
+    "fecha": "31/10/2026 21:45",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Inmortalidad y castigo",
+    "link": "https://labaudric.net/blog/manga/inmortalidad-y-castigo",
+    "fecha": "31/10/2026 21:45",
+    "contenido": "\nIntroducción\nInmortalidad y castigo. Manga escrito por Kentarō Satō, publicado en Japón entre 2022 y 2026; traído a España por Arechi entre 2025 y 2026. En ambos casos: 8 volúmenes de 208 páginas. Es muy interesante. Es una historia de zombis pero a diferencia de los &quot;clásicos&quot; no se limi",
+    "imagen": "https://labaudric.net/img/inmortalidad_castigo/01.png"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió 2 videos en Aion, GTA",
+    "link": "https://labaudric.net/videos/aion",
+    "fecha": "31/10/2026 19:41",
+    "contenido": " ",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6991/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261101%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261101T033828Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=91dd89bd31c51d588e96f652acb7d36cd385b568359a88a22e7f77802e7f398d"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "En Halloween festejamos con Muertes Curiosas",
     "link": "https://www.fabio.com.ar/10068-en-halloween-festejamos-con-muertes-curiosas",
@@ -32,6 +72,30 @@
     "imagen": null
   },
   {
+    "blog": "Rodriac Copen",
+    "titulo": "Portada de la Web del Escritor Rodriac Copen",
+    "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
+    "fecha": "31/10/2026 06:00",
+    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.org⭐ Novedades para Ti✔ Ultimas",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnmj7LuWyxFEv7UGP7Wz9rAqOJWRUsLO-ydd_x6jBbKERB1qQpOakxLscnRzcO3eLe5UbhM2mnF8R6JPlzaVL-j8Q5MKKUOyRT6UTerhoboQo9CT5V7_JRQ4unPLa2275L38_r6x3uPGnHDqbGylH8cwRkSmt-42xyD5y7WNoz6BJNacV_EUKtJ0gk_Q/s72-c/Portada%20General.jpg"
+  },
+  {
+    "blog": "El Cordón",
+    "titulo": "Links de Octubre",
+    "link": "https://geroluna44.github.io/blog/posts/links-oct26/",
+    "fecha": "31/10/2026 00:00",
+    "contenido": "Links de artículos, videos, webs, etc que me parecieron interesantes en Octubre.",
+    "imagen": null
+  },
+  {
+    "blog": "El Cordón",
+    "titulo": "Viajé a CABA",
+    "link": "https://geroluna44.github.io/blog/posts/viaje-caba-oct26/",
+    "fecha": "31/10/2026 00:00",
+    "contenido": "Viaje a Buenos Aires con mi novia y te cuento mi itinerario y te doy algunas recomendaciones para una primera vez.",
+    "imagen": null
+  },
+  {
     "blog": "La Madre Que Parió Al Pato Negro",
     "titulo": "596. Splatter",
     "link": "https://lamadredelpatonegro.blogspot.com/2026/10/596-splatter.html",
@@ -46,6 +110,14 @@
     "fecha": "30/10/2026 19:55",
     "contenido": "El helado de churro existe. Dicho esto voy ya directo al grano. He recopilado el Battle Chess 1, el 2 y el 3 para que puedas disfrutarlo en GNU+Linux. &#8211; Battle Chess I &#8211; 1988 &#8211; Battle Chess II &#8211; 1990 &#8211; Battle Chinese Chess &#8211; Battle Chess III &#8211; 1992 &#8211; B",
     "imagen": null
+  },
+  {
+    "blog": "Rodriac Copen",
+    "titulo": "Ciencia Ficción Dura: \"Radiación de Hawking\"",
+    "link": "https://rodriaccopen.blogspot.com/2026/10/ciencia-ficcion-dura-radiacion-de.html",
+    "fecha": "30/10/2026 19:37",
+    "contenido": "&nbsp;👁️ Ciencia Ficción Dura🔥 Radiación de Hawkingpor Rodriac CopenEn 1974, Stephen Hawking combinó dos teorías: la relatividad general, que describe la gravedad, y la mecánica cuántica, que describe el reino de lo pequeño.&nbsp;Su conclusión fue que, cerca del borde de un agujero negro -conocido c",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz0vmMEAOC3R4AMakZvlqMOPfjnC7SubwDjYuUfGW_1kQKAUhTTJssmeyrR8mHSnA_JY5r5CAv8P6yimnoFnnNenIIaSNSV9_mdnK7KI3lVP5HNIQGmEJIOXtOiWIgxDn0nvSwuLPg3URtzdfkfo0KODxZzbE2KqCt-9UJVI5VTAWIVmAG4NMftCi1BZw/s72-c/Blogger.jpg"
   },
   {
     "blog": "Victorhck in the free world",
@@ -134,14 +206,6 @@
     "fecha": "30/10/2026 06:15",
     "contenido": "Ratón que solo conoce un agujero pronto le pilla el gato, este dicho popular siempre ha sido una gran verdad pero en estos tiempos aún es más real, por ello voy a poner mis repositorios más importantes también en codeberg.¿Y qué es codeberg? Es un sitio de alojamiento de proyectos LIBRES mediante co",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSAi8dhgSvepIb9Nyg2EVrZUCZPkqbU2O2kLFmNjx6k63-tt-wHTuRrIfAmYtk5mPx14U6_9vLUgm3RuzjhCDtfXg3AyGwhu9x6JA-gxUzOucKulFtdpUB5q__mmgPCuPilXqg-APvURqYSZ1N0W-NsJvobqw269IFlOXBA_9WZzZwXWpn-6kpp13Fh_8/s72-w200-h195-c/codeberglogo.png"
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "Portada de la Web del Escritor Rodriac Copen",
-    "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
-    "fecha": "30/10/2026 06:00",
-    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.org⭐ Novedades para Ti✔ Ultimas",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnmj7LuWyxFEv7UGP7Wz9rAqOJWRUsLO-ydd_x6jBbKERB1qQpOakxLscnRzcO3eLe5UbhM2mnF8R6JPlzaVL-j8Q5MKKUOyRT6UTerhoboQo9CT5V7_JRQ4unPLa2275L38_r6x3uPGnHDqbGylH8cwRkSmt-42xyD5y7WNoz6BJNacV_EUKtJ0gk_Q/s72-c/Portada%20General.jpg"
   },
   {
     "blog": "JavierSam",
@@ -257,7 +321,7 @@
   },
   {
     "blog": "Juan Bermúdez",
-    "titulo": "Novedades de septiembre 2026",
+    "titulo": "Novedades de octubre 2026",
     "link": "https://blog.juanbermudez.xyz/blog/2026-10-29.html",
     "fecha": "29/10/2026 05:00",
     "contenido": "",
@@ -476,7 +540,7 @@
     "titulo": "Games That Ace It 2026",
     "link": "https://cozykis.kisworld.es/games-that-ace-it-2026/",
     "fecha": "27/10/2026 11:41",
-    "contenido": "El domingo empezó en Steam el evento Games That Ace It, organizado por Carrot, que ha aprovechado la semana de la Visibilidad Asexual para dar visibilidad tanto a juegos con representación del espectro como a aquelles devs que pertenecen a este. Como persona bisexual, ya sabéis que me hacen mucha il",
+    "contenido": "El domingo empezó en Steam el evento Games That Ace It, organizado por Carrot, que ha aprovechado la semana de&#8230;\nLa entrada Games That Ace It 2026 se publicó primero en CozyKis.",
     "imagen": null
   },
   {
@@ -485,7 +549,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "27/10/2026 10:54",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261031%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261031T163725Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c5907e6221c679383f390871da86deecd2af5a0b059a571b563f66ce4479a2bc"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261101%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261101T033828Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=58a4ae0bd017f22b483cc1dbe1cacd5589ec90615444937257d64015e4ce0c60"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -588,7 +652,7 @@
     "titulo": "Evento ZNT Horizon 2026",
     "link": "https://cozykis.kisworld.es/evento-znt-horizon-2026/",
     "fecha": "26/10/2026 11:36",
-    "contenido": "ZNT Horizon es un evento organizado por ZNT Productions que junta juegos hechos en Latinoamérica y en el sudeste de Asia. Y aunque puedan parecer dos regiones muy distintas, tienen sus cositas en común. Y lo mejor de todo, unas propuestas de lo más interesantes. Y aunque no he probado muchas de ella",
+    "contenido": "ZNT Horizon es un evento organizado por ZNT Productions que junta juegos hechos en Latinoamérica y en el sudeste de&#8230;\nLa entrada Evento ZNT Horizon 2026 se publicó primero en CozyKis.",
     "imagen": null
   },
   {
@@ -709,7 +773,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "25/10/2026 10:03",
     "contenido": "      +1 más",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261031%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261031T163725Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=bad0337eceffa57d1108c9647f2ed3cc97dc14f41321e5b0e3d82396ca6f0432"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6983/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261101%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261101T033828Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=5212c546e939cdfc51ac8c34bc0c1fd56be7397e1a7bec010ee27563e9311256"
   },
   {
     "blog": "Mareos de un geek",
@@ -734,45 +798,5 @@
     "fecha": "25/10/2026 06:55",
     "contenido": "Mi experiencia con estas fundas para audífonos, que los protegen del sudor, la lluvia y el viento. Explico como ponerlas, mantenimiento y recomendaciones para elegir el modelo adecuado según las medidas del audífono.",
     "imagen": "https://0.gravatar.com/avatar/99d2b8d8a891bd17f1a786fb1fdb3b984790baaa8ed049b905a5f1d62990e3a2?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Más posts de viajes viejos",
-    "link": "https://nachof.blog/posts/2026/mas-posts-de-viajes-viejos/",
-    "fecha": "25/10/2026 00:30",
-    "contenido": "El otro día subí posts viejos sobre un viaje a España en el 2010.\nAhora publiqué también los otros dos blogs que tenía en Posterous: mi viaje a México en el 2011, y el viaje con mi pareja a Ecuador en el 2012.\nY eso es todo lo que tenía en Posterous.\nReleyendo algunos de los posts viejos, me sorpren",
-    "imagen": null
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "La Trastienda de Rodriac: \"Resultados inesperados\"",
-    "link": "https://rodriaccopen.blogspot.com/2026/10/la-trastienda-de-rodriac-resultados.html",
-    "fecha": "24/10/2026 20:25",
-    "contenido": "&nbsp;Image by Gerd Altmann from Pixabay🍀 La Trastienda de Rodriac🌹 Resultados inesperadospor Rodriac CopenHace unos días, recién llegado de un viaje, escribí una historia de humor para subirla a mi Diario de Rodriac.No tenía grandes pretensiones. Mi modesto objetivo era hacerte reír un poco. No asp",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz1yfDKvL55s3bjWVmFF-xnQdHVd4omt0TK2SJ2n69kP9fS5GFU3ZqEwi9Z4gHCdQxxSLs0uBoIJUDXUufQ6f2KfEZ9Y-gZyR-3VB84NjrjnVi_Brd45BAR3F2HXJES4mIiFcVTFnhRl6jMfBYP9cxjhUWgrhAoKs_mf4JYFZz6_Uvgl8PEl0pj_MykS0/s72-c/Blogger.jpg"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "24 años del blog",
-    "link": "https://www.fabio.com.ar/10061-24-anos-del-blog",
-    "fecha": "24/10/2026 17:19",
-    "contenido": "    \nSi, as&iacute; de extra&ntilde;o sue&ntilde;a, 24 a&ntilde;os se cumplen hoy desde que empec&eacute; con el blog en mi propia plataforma, la fecha exacta de cu&aacute;ndo empec&eacute; la ignoro, fue anterior, pero ni siquiera era mi p&aacute;gina, las notas eran un HTML tirado, as&iacute; que ",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/fabiocomar24.jpg"
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Poema fet amb la meva veu clonada: Dolça Catalunya",
-    "link": "https://blog.danielaragay.net/poema-fet-amb-la-meva-veu-clonada-dolca-catalunya/",
-    "fecha": "24/10/2026 17:00",
-    "contenido": "Nou episodi del podcast: Poema fet amb la meva veu clonada: Dol&#xe7;a CatalunyaAqu&#xed; el pots escoltar: https://podcast.danielaragay.net/@fentelsuec/episodes/poema-fet-amb-la-meva-veu-clonada-dolca-catalunya",
-    "imagen": "https://podcast.danielaragay.net/media/podcasts/fentelsuec/cover_feed.jpg"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Black Paradox",
-    "link": "https://labaudric.net/blog/manga/black-paradox-junjiito",
-    "fecha": "24/10/2026 16:51",
-    "contenido": "\nIntroducción\nPues otra obra de Junji Ito que me estoy metiendo #PEC. Corto, un sólo tomo de 251 páginas, y es el menos &quot;asqueroso&quot; que he leído hasta la fecha. También es más moderno. No sabría como describirlo. Pero tanto el mundo como los personajes parecen de una época más reciente. No",
-    "imagen": "https://labaudric.net/img/black_paradox/01.webp"
   }
 ]
