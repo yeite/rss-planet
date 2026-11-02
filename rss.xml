@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 02 Nov 2026 03:16:26 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 14:07:28 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Bombardeos</title>
+<link>https://tuhat.net/@karnivore/p/bombardeos</link>
+<guid isPermaLink="true">https://tuhat.net/@karnivore/p/bombardeos</guid>
+<pubDate>Mon, 02 Nov 2026 00:12:00 GMT</pubDate>
+<category>karnivore on tuhat</category>
+<description><![CDATA[Me gustan cuando los bombardeos se cargan más de media docena de criminales. Me encanta. Me fascina. Los bombardeos me producen erecciones perdurables y…<br><br><strong>Fuente:</strong> karnivore on tuhat]]></description>
+</item>
 <item>
 <title>Probando por primera vez urgencias no tan urgentes y las modas absurdas de los youtubers</title>
 <link>https://blog.danielaragay.net/probando-por-primera-vez-urgencias-no-tan-urgentes-y-las-modas-absurdas-de-los-youtubers/</link>
@@ -80,6 +88,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Sun, 01 Nov 2026 05:00:00 GMT</pubDate>
 <category>Juan Bermúdez</category>
 <description><![CDATA[<br><br><strong>Fuente:</strong> Juan Bermúdez]]></description>
+</item>
+<item>
+<title>El anime que no es anime</title>
+<link>https://alex.corcoles.net/2026/11/el-anime-que-no-es-anime</link>
+<guid isPermaLink="true">https://alex.corcoles.net/2026/11/el-anime-que-no-es-anime</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+<category>El blog es mío</category>
+<description><![CDATA[Tengo una relaci&amp;#243;n compleja con el anime. Dr. Slump y Bola de Drac son dos obras maestras que son un referente personal. Pero por ejemplo, mientras que los 100 primeros episodios de Bola de Drac conforman una de las historias de aventuras m&amp;#225;s brillantes que se han escrito (y Dr. Slump c<br><br><strong>Fuente:</strong> El blog es mío]]></description>
 </item>
 <item>
 <title>Lisboa en cinco fotografías: el tranvía 28, Rossio y el Tajo</title>
@@ -200,22 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Fri, 30 Oct 2026 19:37:00 GMT</pubDate>
 <category>Rodriac Copen</category>
 <description><![CDATA[&amp;nbsp;👁️ Ciencia Ficción Dura🔥 Radiación de Hawkingpor Rodriac CopenEn 1974, Stephen Hawking combinó dos teorías: la relatividad general, que describe la gravedad, y la mecánica cuántica, que describe el reino de lo pequeño.&amp;nbsp;Su conclusión fue que, cerca del borde de un agujero negro -conocido c<br><br><strong>Fuente:</strong> Rodriac Copen]]></description>
-</item>
-<item>
-<title>#openSUSE Tumbleweed revisión de la semana 44 de 2026</title>
-<link>https://victorhckinthefreeworld.com/2026/10/30/opensuse-tumbleweed-revision-de-la-semana-44-de-2026/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/10/30/opensuse-tumbleweed-revision-de-la-semana-44-de-2026/</guid>
-<pubDate>Fri, 30 Oct 2026 15:43:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[Tumbleweed es una distribución de GNU/Linux &quot;Rolling Release&quot; o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>Articulo: Herramientas para Validar SPF, DKIM y DMARC</title>
-<link>https://interlan.ec/blog/2026/10/30/articulo-herramientas-para-validar-spf-dkim-y-dmarc/</link>
-<guid isPermaLink="true">https://interlan.ec/blog/2026/10/30/articulo-herramientas-para-validar-spf-dkim-y-dmarc/</guid>
-<pubDate>Fri, 30 Oct 2026 15:10:00 GMT</pubDate>
-<category>Interlan</category>
-<description><![CDATA[Montar un servidor de correo o simplemente asegurarte de que los correos de tu dominio no terminen directamente en la carpeta de spam de Gmail o Outlook es, sin exagerar, una de las tareas más frustrantes de la administración de sistemas. Es cierto que puedes desplegar contenedores que ya tienen cas<br><br><strong>Fuente:</strong> Interlan]]></description>
 </item>
 
 </channel>
