@@ -1,5 +1,13 @@
 [
   {
+    "blog": "karnivore on tuhat",
+    "titulo": "Bombardeos",
+    "link": "https://tuhat.net/@karnivore/p/bombardeos",
+    "fecha": "02/11/2026 00:12",
+    "contenido": "Me gustan cuando los bombardeos se cargan más de media docena de criminales. Me encanta. Me fascina. Los bombardeos me producen erecciones perdurables y…",
+    "imagen": null
+  },
+  {
     "blog": "danielaragay.net",
     "titulo": "Probando por primera vez urgencias no tan urgentes y las modas absurdas de los youtubers",
     "link": "https://blog.danielaragay.net/probando-por-primera-vez-urgencias-no-tan-urgentes-y-las-modas-absurdas-de-los-youtubers/",
@@ -64,6 +72,14 @@
     "imagen": null
   },
   {
+    "blog": "El blog es mío",
+    "titulo": "El anime que no es anime",
+    "link": "https://alex.corcoles.net/2026/11/el-anime-que-no-es-anime",
+    "fecha": "01/11/2026 00:00",
+    "contenido": "\n  Tengo una relaci&#243;n compleja con el anime. Dr. Slump y Bola de Drac son dos obras maestras que son un referente personal. Pero por ejemplo, mientras que los 100 primeros episodios de Bola de Drac conforman una de las historias de aventuras m&#225;s brillantes que se han escrito (y Dr. Slump c",
+    "imagen": null
+  },
+  {
     "blog": "Pepógrafo",
     "titulo": "Lisboa en cinco fotografías: el tranvía 28, Rossio y el Tajo",
     "link": "https://pepografo.com/lisboa-en-cinco-fotografias/",
@@ -101,7 +117,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "31/10/2026 19:41",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6991/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261101%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261101T172806Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1e69a225fe17e54b7d84294c7a013e42592d6d8a7fef017537e085bbbffe0f55"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6991/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261102%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261102T034424Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=df1f73d2916b55c2e986b5c49561d0f62e00eee99ec05f5be721df38b7ddc0a8"
   },
   {
     "blog": "Fabio.com.ar",
@@ -400,14 +416,6 @@
     "imagen": null
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Instalando Anubis en tu servidor linux",
-    "link": "https://chancli.dev/blog/instalando-anubis-vps.html",
-    "fecha": "29/10/2026 00:00",
-    "contenido": "Hacía tiempo que buscaba alguna solución para evitar a visitantes no esperados y me encontré con un Anubis, un firewall web, open source, que se encarga exactamente de esto. \nBásicamente es un proxy inverso que se coloca delante de la web, el flujo sería algo así:\nVisitante -&gt; nginx -&gt; Anubis ",
-    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/anubis.png"
-  },
-  {
     "blog": "Rodriac Copen",
     "titulo": "Diario de Rodriac: \"Los Escritos Que Nunca Publicamos\"",
     "link": "https://rodriaccopen.blogspot.com/2026/10/diario-de-rodriac-los-escritos-que.html",
@@ -613,7 +621,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "27/10/2026 10:54",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261101%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261101T172806Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e7b4011face2a73eb2986ace936a501fe111e9a54995327d1c3bb12a386ad6d3"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261102%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261102T034424Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=cd6f036bf6b5204eef0ff561db290c70c3b3aa0193a62d81a1263e05b855f249"
   },
   {
     "blog": "Del Otro Lado Metal",
@@ -758,45 +766,5 @@
     "fecha": "26/10/2026 04:45",
     "contenido": "NOTA: No soy ningún experto, solo un aficionado medianamente técnico con mucha imaginación, por ende, puedo fallar en datos o apreciación, si eres astrónomo deja un buen aporte de lo\nSeguir leyendo  Divagación acerca de la vida, espacio y universo\nEl cargo Divagación acerca de la vida, espacio y uni",
     "imagen": null
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "El abandono de la web para todos",
-    "link": "https://alex.corcoles.net/2026/10/el-abandono-de-la-web-para-todos",
-    "fecha": "26/10/2026 00:00",
-    "contenido": "\n  Siempre digo que hubo un tiempo en que hab&#237;a gente que cog&#237;a un hosting compartido y se montaba un blog con WordPress, y que hoy gente similar no lo har&#237;a. As&#237; como tampoco se abrir&#237;an un Blogspot o lo que sea.\n  Por una parte, creo que las redes sociales y especialmente ",
-    "imagen": null
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "O2 y su mala gestión ante una vulnerabilidad en sus routers",
-    "link": "https://chancli.dev/blog/o2-mala-gestion-cambio-router.html",
-    "fecha": "26/10/2026 00:00",
-    "contenido": "Soy cliente de o2 desde ni me acuerdo, creo que desde que empezaron a dar servicio en España.\nSu servicio, al menos conmigo y en mi zona ha sido siempre de 10. Cumplieron lo que prometían con respecto a no molestarte con llamadas, cumplieron subiendo la velocidad y los gigas sin coste y sin pedirlo.",
-    "imagen": null
-  },
-  {
-    "blog": "Bits de Ocio",
-    "titulo": "Cinco películas de… David Fincher",
-    "link": "https://bitsdeocio.wordpress.com/2026/10/25/cinco-peliculas-de-david-fincher/",
-    "fecha": "25/10/2026 22:15",
-    "contenido": "«Cinco Películas» es un podcast en el que repaso la trayectoria de una figura del cine —actriz, actor, director o incluso un estudio— y recomiendo, bajo la subjetividad más absoluta, las cinco películas que más me gustan de esa persona. No las mejores ni las más taquilleras. Simplemente, las que más",
-    "imagen": "https://bitsdeocio.wordpress.com/wp-content/uploads/2026/10/post-david-fincher.webp"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Apocalipsis AI ¿Me estuvieron engañando?",
-    "link": "https://www.fabio.com.ar/10062-apocalipsis-ai-me-estuvieron-enganando",
-    "fecha": "25/10/2026 22:04",
-    "contenido": "Tenia ganas de rantear un poco sobre un tema que se desprende del desastre de sistemas de esta semana, es que estamos ante un apocalipsis AI donde el c&oacute;digo escrito no sirve o, m&aacute;s bien, que siempre fuimos un desastre programando y ahora tenemos la herramienta para arreglarlo todo? \nCr",
-    "imagen": null
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Cómo empezar a coleccionar rol en 2026",
-    "link": "http://frikoteca.blogspot.com/2026/10/como-empezar-coleccionar-rol-en-2026.html",
-    "fecha": "25/10/2026 20:39",
-    "contenido": "En una reciente entrada de este blog un persona, Alfredo Luque, me he puesto este comentario:\n[...] siempre me he planteado hacerme una pequeña colección de libros de rol, pero nunca he sabido por donde empezar. Ya sea por falta de tiempo para investigar el tema o bien porque llegado el momento me h",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGw_NRUb1KUBkGFJ-2HLV7nAptiLftuKv9Q1Cot9qQVEZG4WS-_Gaxz5FpWqFy7Q7xt8RBdZsvoaxocX8GJtkUMNRGgx-EfT6VzkkW6k9fbCFQXLef6Tazs-2-eOXUOHcbPNu0dvxfgnnSS0I1l2WY4fxQ6VZclUx2ymderh82gxoKS9Am8rsK/s72-c/Mono_pensador.jpg"
   }
 ]
