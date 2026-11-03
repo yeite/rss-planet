@@ -1,5 +1,37 @@
 [
   {
+    "blog": "quiroptero.blog",
+    "titulo": "El mini rincón Terry Pratchett ya no es tan mini",
+    "link": "https://www.quiroptero.blog/2026/11/pratchett/",
+    "fecha": "03/11/2026 00:25",
+    "contenido": "¿Libros de Terry Pratchett? Shut up and take my money!",
+    "imagen": null
+  },
+  {
+    "blog": "danielaragay.net",
+    "titulo": "Neveras y congeladores de supermercados suecos hackeados",
+    "link": "https://blog.danielaragay.net/neveras-y-congeladores-de-supermercados-suecos-hackeados/",
+    "fecha": "02/11/2026 22:00",
+    "contenido": "Nuevo episodio del podcast: Neveras y congeladores de supermercados suecos hackeadosEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/neveras-y-congeladores-de-supermercados-suecos-hackeados",
+    "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
+  },
+  {
+    "blog": "Ubuntu Peronista",
+    "titulo": "¿Cómo emulo una terminal DEC VT420 en Ubuntu?",
+    "link": "https://ubuntuperonista.blogspot.com/2026/11/como-emular-terminal-dec-vt420-en-ubuntu.html",
+    "fecha": "02/11/2026 21:56",
+    "contenido": "Juan Perón grabó una serie de cintas magnetofónicas compañeras de su La Comunidad Organizada. En una de ellas relata cómo propiciar la defensa de la misma, a la vez que enseñaba cómo emular un videoterminal DEC VT420 en Ubuntu.¡Trabajadores!Una Comunidad Organizada, justa y solidaria en la que todos",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcJaWc13KVhSUml8zD4hbJV2uUN5Wj0D4QPEELvlsxQqLhyphenhyphenTq8yjKlXSjjIpHvnpBSw4cjof81jyqFIDKZblk3fA7QRUbOLFCluIIzTx10S5gcas69veE52s850hgaqoOe49SdP6GcmYPf0lx6590Vd-_BCyO2IqZ9XGoUGxo5tR459HeLdsEHT4q2gRsl/s72-c/peron%20con%20vt420.jpg"
+  },
+  {
+    "blog": "gorkula.com",
+    "titulo": "Oscuridad",
+    "link": "https://www.gorkula.com/oscuridad",
+    "fecha": "02/11/2026 17:48",
+    "contenido": "Hace dos días cambiaron la hora. Nunca coinciden las fechas de España e Illinois.\n\nLa semana pasada recogía a mi hija de la guardería y podíamos ir a dar una vuelta o al parque a jugar un rato. Hoy la he recogido de noche.\n\nDe pequeño me fastidiaba el cambio de hora porque me dejaban jugar \"hasta la",
+    "imagen": null
+  },
+  {
     "blog": "Erica Fustero",
     "titulo": "Tu foto dibujada",
     "link": "https://www.ericafustero.com/2026-11-tu-foto-dibujada",
@@ -61,7 +93,7 @@
     "link": "https://labaudric.net/videos/gta/6992",
     "fecha": "02/11/2026 09:37",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6992/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261102%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261102T211249Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7a1494154348deb10af84c96b1e4d08b538e5c78f7cf9c85bb857e563455a2b0"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6992/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261103%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261103T044843Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7e4a352855d3cc2006005d8a5d989e7ad6991abfce5d62240fc2a4843274e2aa"
   },
   {
     "blog": "Mareos de un geek",
@@ -126,14 +158,6 @@
     "fecha": "02/11/2026 00:00",
     "contenido": "",
     "imagen": null
-  },
-  {
-    "blog": "Chancli.dev",
-    "titulo": "El prompt que uso en zsh",
-    "link": "https://chancli.dev/blog/mi-prompt-para-zsh.html",
-    "fecha": "02/11/2026 00:00",
-    "contenido": "Cuando me construí este equipo personal con Linux, tenía claro que mi shell por defecto sería zsh. Sobre todo por el auto completado. No puedo vivir sin él :)\nHoy quiero compartir con vosotros el prompt que uso con zsh para sacar algo tal que así:\n\nEl código es el siguiente (añadí comentarios para q",
-    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/zsh-prompt_aXpHl9w9S.png"
   },
   {
     "blog": "danielaragay.net",
@@ -253,7 +277,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "31/10/2026 19:41",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6991/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261102%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261102T211249Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=df14c01a2ee8cd6738c7584ecff971eedd359b7632b41d183dfb1d0f3008268d"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6991/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261103%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261103T044843Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6da0e6aedc437761f254bbbf6d4520a87fbe2d8138b1972680a5e5b835a921e6"
   },
   {
     "blog": "Fabio.com.ar",
@@ -552,14 +576,6 @@
     "imagen": null
   },
   {
-    "blog": "Chancli.dev",
-    "titulo": "Instalando Anubis en tu servidor linux",
-    "link": "https://chancli.dev/blog/instalando-anubis-vps.html",
-    "fecha": "29/10/2026 00:00",
-    "contenido": "Hacía tiempo que buscaba alguna solución para evitar a visitantes no esperados y me encontré con un Anubis, un firewall web, open source, que se encarga exactamente de esto. \nBásicamente es un proxy inverso que se coloca delante de la web, el flujo sería algo así:\nVisitante -&gt; nginx -&gt; Anubis ",
-    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/anubis.png"
-  },
-  {
     "blog": "Rodriac Copen",
     "titulo": "Diario de Rodriac: \"Los Escritos Que Nunca Publicamos\"",
     "link": "https://rodriaccopen.blogspot.com/2026/10/diario-de-rodriac-los-escritos-que.html",
@@ -765,7 +781,7 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "27/10/2026 10:54",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261102%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261102T211249Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=aa0150f8e044d2265ef6cb7b566448ee1fd93271a7d3bc60fba692afd0c5e28d"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261103%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261103T044843Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=08cc63c14d48acd5253bc2be09b468f60dc055838bc135436623c7877b454eb4"
   },
   {
     "blog": "Del Otro Lado Metal",
