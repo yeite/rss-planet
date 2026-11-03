@@ -1,11 +1,75 @@
 [
   {
+    "blog": "Picando Código",
+    "titulo": "La Palanquita del control del Nintendo 64 - SteelSticks",
+    "link": "https://picandocodigo.net/2026/palanquita-control-nintendo-64-steelsticks/",
+    "fecha": "03/11/2026 15:32",
+    "contenido": "El control del Nintendo 64 introdujo un diseño muy particular. Su forma de tridente permite sostenerlo de maneras distintas para experiencias diversas con los juegos. Pero la posición por defecto está centrada en el \"control stick\" o \"la palanquita\". Ya habían habido controles con palanquita antes, ",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Los aviones caen y los boludos vuelan",
+    "link": "https://www.fabio.com.ar/10070-los-aviones-caen-y-los-boludos-vuelan",
+    "fecha": "03/11/2026 12:00",
+    "contenido": "    \nEl domingo a la noche un avi&oacute;n se precipit&oacute; a tierra en los EEUU, nada que no hayamos visto antes salvo por dos o tres tomas de distintas dashcam mostrando el suceso.\nAutom&aacute;ticamente en redes sociales aparecieron decenas de \"grinders\" conspiranoicos, como en las noticias an",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/learjet.jpg"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Grombo Card Shop Tycoon",
+    "link": "https://cozykis.kisworld.es/analisis-de-grombo-card-shop/",
+    "fecha": "03/11/2026 11:55",
+    "contenido": "Colecciona cartas, gestiona tu tienda y atiende a sufridores monigotes en este Early Access cargado de contenido\nLa entrada Análisis de Grombo Card Shop Tycoon se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Publicado openSUSE Leap 16.1",
+    "link": "https://victorhckinthefreeworld.com/2026/11/03/publicado-opensuse-leap-16-1/",
+    "fecha": "03/11/2026 11:03",
+    "contenido": "Primera versión menor de openSUSE Leap 16, con la que puedes escoger entre una distribución de GNU/Linux tradicional o una distribución de GNU/Linux inmutable",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Perfecta Combinación | Thrash Metal, Humor Y Motivik",
+    "link": "https://www.delotroladometal.com.ar/2026/11/03/thrash-metal-humor-y-motivik/",
+    "fecha": "03/11/2026 10:35",
+    "contenido": "El humor es uno de los condimentos ineludibles del Thrash Metal. Lo irónico, lo sarcástico,...\nThe post La Perfecta Combinación | Thrash Metal, Humor Y Motivik first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "Rodriac Copen",
+    "titulo": "Portada de la Web del Escritor Rodriac Copen",
+    "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
+    "fecha": "03/11/2026 06:00",
+    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.org⭐ Novedades para Ti✔ Ultimas",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnmj7LuWyxFEv7UGP7Wz9rAqOJWRUsLO-ydd_x6jBbKERB1qQpOakxLscnRzcO3eLe5UbhM2mnF8R6JPlzaVL-j8Q5MKKUOyRT6UTerhoboQo9CT5V7_JRQ4unPLa2275L38_r6x3uPGnHDqbGylH8cwRkSmt-42xyD5y7WNoz6BJNacV_EUKtJ0gk_Q/s72-c/Portada%20General.jpg"
+  },
+  {
     "blog": "quiroptero.blog",
     "titulo": "El mini rincón Terry Pratchett ya no es tan mini",
     "link": "https://www.quiroptero.blog/2026/11/pratchett/",
     "fecha": "03/11/2026 00:25",
     "contenido": "¿Libros de Terry Pratchett? Shut up and take my money!",
     "imagen": null
+  },
+  {
+    "blog": "NeoSite Blog",
+    "titulo": "Acceso remoto fácilmente: Cómo integrar Tailscale en Proxmox VE",
+    "link": "https://blog.neosite.com.ar/post/acceso-remoto-sin-complicaciones-c-mo-integrar-tailscale-en-proxmox-ve",
+    "fecha": "03/11/2026 00:00",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "La única dirección que no cambia",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/la-unica-direccion-que-no-cambia/",
+    "fecha": "03/11/2026 00:00",
+    "contenido": "Con los años cambié de casa, de ciudad, de oficio, de amigos, de opiniones y hasta de nombre en la manera de presentarme ante los demás. Cambiaron mis libros, mis fotografías, mis costumbres, el número de teléfono y las personas a las que alguna vez consideré imprescindibles. Algunas desaparecieron;",
+    "imagen": "https://mataroa.blog/images/94c62537.png"
   },
   {
     "blog": "danielaragay.net",
@@ -48,6 +112,14 @@
     "imagen": null
   },
   {
+    "blog": "Rodriac Copen",
+    "titulo": "Diario de Rodriac: \"Pedacitos de Vida\"",
+    "link": "https://rodriaccopen.blogspot.com/2026/11/diario-de-rodriac-pedacitos-de-vida.html",
+    "fecha": "02/11/2026 15:55",
+    "contenido": "&nbsp;🔥 Diario de Rodriac👁️ Pedacitos de Vidapor Rodriac CopenTengo 62 años. Una edad bastante respetable para haber aprendido algunas cosas, aunque no necesariamente las que uno hubiera querido.Si tuviera que hacer un balance de mi vida, probablemente recurriría a una frase de Borges: no he sido fe",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZ4Z2KbbIhD3Mqcq3-P24n34gKpvBCPMCE2-FCxsz-wp6ydM21xOnftkpuJ0Qtf7q_aMZqmYe2LM6p7VIjRp1gs10po2N56My5aMGcLAIeLS4E0_RZgwimVIGz0f5M7yjuaFjU7X21y60Tfvd8c_HYSnUDzt7CM0yyf0gzw2RryYaku7wQaqvl58Z9Bc/s72-c/Blogger.jpg"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "Quimicofobia",
     "link": "https://www.fabio.com.ar/10069-quimicofobia",
@@ -86,14 +158,6 @@
     "fecha": "02/11/2026 09:44",
     "contenido": "\nno posteando nada porque no tengo mucho que contar y estoy bastante ocupada...!!\nestoy preparando algunas cosas sueltas como un recap anual de música (o no sólo de música) y querría hacer más páginas temáticas como la de Control ...\n",
     "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió GTAV - tutorial: como robar un tren en GTA",
-    "link": "https://labaudric.net/videos/gta/6992",
-    "fecha": "02/11/2026 09:37",
-    "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6992/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261103%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261103T044843Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7e4a352855d3cc2006005d8a5d989e7ad6991abfce5d62240fc2a4843274e2aa"
   },
   {
     "blog": "Mareos de un geek",
@@ -158,6 +222,14 @@
     "fecha": "02/11/2026 00:00",
     "contenido": "",
     "imagen": null
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "El prompt que uso en zsh",
+    "link": "https://chancli.dev/blog/mi-prompt-para-zsh.html",
+    "fecha": "02/11/2026 00:00",
+    "contenido": "Cuando me construí este equipo personal con Linux, tenía claro que mi shell por defecto sería zsh. Sobre todo por el auto completado. No puedo vivir sin él :)\nHoy quiero compartir con vosotros el prompt que uso con zsh para sacar algo tal que así:\n\nEl código es el siguiente (añadí comentarios para q",
+    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/zsh-prompt_aXpHl9w9S.png"
   },
   {
     "blog": "danielaragay.net",
@@ -264,22 +336,6 @@
     "imagen": null
   },
   {
-    "blog": "labaudric",
-    "titulo": "Inmortalidad y castigo",
-    "link": "https://labaudric.net/blog/manga/inmortalidad-y-castigo",
-    "fecha": "31/10/2026 21:45",
-    "contenido": "\nIntroducción\nInmortalidad y castigo. Manga escrito por Kentarō Satō, publicado en Japón entre 2022 y 2026; traído a España por Arechi entre 2025 y 2026. En ambos casos: 8 volúmenes de 208 páginas. Es muy interesante. Es una historia de zombis pero a diferencia de los &quot;clásicos&quot; no se limi",
-    "imagen": "https://labaudric.net/img/inmortalidad_castigo/01.png"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 2 videos en Aion, GTA",
-    "link": "https://labaudric.net/videos/aion",
-    "fecha": "31/10/2026 19:41",
-    "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6991/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261103%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261103T044843Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6da0e6aedc437761f254bbbf6d4520a87fbe2d8138b1972680a5e5b835a921e6"
-  },
-  {
     "blog": "Fabio.com.ar",
     "titulo": "En Halloween festejamos con Muertes Curiosas",
     "link": "https://www.fabio.com.ar/10068-en-halloween-festejamos-con-muertes-curiosas",
@@ -296,28 +352,12 @@
     "imagen": null
   },
   {
-    "blog": "labaudric",
-    "titulo": "Actividades Octubre 2026",
-    "link": "https://labaudric.net/blog/noticias/actividades-octubre-2026",
-    "fecha": "31/10/2026 10:12",
-    "contenido": "Otro mes, otra entrada.\n\nEste mes ha sido muy feliz. Para empezar, el día 9 me casé. No pongo fotos que no quiero alimentar las putas IAs y scrapers tradicionales con mi jepeto el de mi ahora mujer e invitados. Y con la boda, viene un permiso de vacaciones de dos semanas, use unos días más y me pegu",
-    "imagen": null
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "¿Qué demonios es la cerveza? El libro que explica tu vaso sin convertirlo en un examen",
     "link": "https://mareosdeungeek.es/que-demonios-es-la-cerveza-libro-agus-blanco/",
     "fecha": "31/10/2026 09:50",
     "contenido": "Me encanta la buena cerveza y me encanta leer libros para entender y adquirir conocimientos sobre buenas cervezas. En este libro de Agus Blanco, ¿Qué demonios es la cerveza? se pueden combinar estas dos aficiones. Vamos a empezar conociendo a la autora, a la que ya conocía por varios artículos sobre",
     "imagen": null
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "Portada de la Web del Escritor Rodriac Copen",
-    "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
-    "fecha": "31/10/2026 06:00",
-    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.org⭐ Novedades para Ti✔ Ultimas",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnmj7LuWyxFEv7UGP7Wz9rAqOJWRUsLO-ydd_x6jBbKERB1qQpOakxLscnRzcO3eLe5UbhM2mnF8R6JPlzaVL-j8Q5MKKUOyRT6UTerhoboQo9CT5V7_JRQ4unPLa2275L38_r6x3uPGnHDqbGylH8cwRkSmt-42xyD5y7WNoz6BJNacV_EUKtJ0gk_Q/s72-c/Portada%20General.jpg"
   },
   {
     "blog": "El Cordón",
@@ -576,6 +616,14 @@
     "imagen": null
   },
   {
+    "blog": "Chancli.dev",
+    "titulo": "Instalando Anubis en tu servidor linux",
+    "link": "https://chancli.dev/blog/instalando-anubis-vps.html",
+    "fecha": "29/10/2026 00:00",
+    "contenido": "Hacía tiempo que buscaba alguna solución para evitar a visitantes no esperados y me encontré con un Anubis, un firewall web, open source, que se encarga exactamente de esto. \nBásicamente es un proxy inverso que se coloca delante de la web, el flujo sería algo así:\nVisitante -&gt; nginx -&gt; Anubis ",
+    "imagen": "https://ik.imagekit.io/9rmw96z6f/chanclidev/anubis.png"
+  },
+  {
     "blog": "Rodriac Copen",
     "titulo": "Diario de Rodriac: \"Los Escritos Que Nunca Publicamos\"",
     "link": "https://rodriaccopen.blogspot.com/2026/10/diario-de-rodriac-los-escritos-que.html",
@@ -710,109 +758,5 @@
     "fecha": "27/10/2026 20:49",
     "contenido": "Introducción:\nAlguna vez habrás encontrado este símbolo en muchas páginas y sitios web, bueno el artículo habla sobre esto.\nEl sistema o servicio se llama RSS y es una manera de leer noticias y novedades de la web que viene de hace mucho tiempo, en tiempos donde la posibilidad de tener wifi gratis o",
     "imagen": "https://elprofejuan.com.ar/bl-content/uploads/pages/7d74422ca0dacb6e49e44b850f70ab4b/rss-jpg.jpg"
-  },
-  {
-    "blog": "56K",
-    "titulo": "Moratoria Europea de Centros de Datos – Pararse a pensar",
-    "link": "https://56k.es/fanta/moratoria-europea-de-centros-de-datos-pararse-a-pensar/",
-    "fecha": "27/10/2026 17:49",
-    "contenido": "Una gran coalición de resistencias europeas se han unido para demandar una moratoria europea para los centros de datos. Una moratoria no es ni más ni menos que tener la posibilidad de que la ciudadania se pueda parar a pensar frente al FastTrack sin sentido que buscan las big techs. Consideramos que",
-    "imagen": null
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/10/27/236960/",
-    "fecha": "27/10/2026 15:30",
-    "contenido": "El próximo sábado 31 de octubre, de 1:00 p.m. a 5:00 p.m., Leyendas del Noreste presenta dos charlas para que los asistentes conozcan la comunidad y el desarrollo visual de nuestro primer juego, así como una sesión de rol. La sede será el LabNL (Washington 648, centro de Monterrey) y el evento se en",
-    "imagen": null
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "Diario de Rodriac: \"La Construcción de un Proyecto Editorial\"",
-    "link": "https://rodriaccopen.blogspot.com/2026/10/diario-de-rodriac-la-construccion-de-un.html",
-    "fecha": "27/10/2026 13:34",
-    "contenido": "&nbsp;🍀 Diario de Rodriac🌹 La Construcción de un Proyecto Editorialpor Rodriac CopenUn blog suele tener una temática, una periodicidad más o menos regular y un autor que cuenta cosas. Mi proyecto, en cambio, está empezando a parecerse a una revista cultural independiente. Y dirigida por tipo extraño",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9n_B90rkwy51-eCgVL9gvaH1U42-rR7xjUZGg2dQtouED9h4agZ48jOyA_mEwWrAJorsOxhRSkUM3speXDpPi2E6KWtee9QAmXo24UzwCaYCZxTz1alkGK63btnctZWntioIiOIAFCFaDugt1NpFC1w2N2hj0xKI8lpc6rnAUkCN1XpL1NDRoZC8Kj4/s72-c/Blogger.jpg"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 2 imágenes en Aion",
-    "link": "https://labaudric.net/galeria/aion",
-    "fecha": "27/10/2026 12:07",
-    "contenido": " ",
-    "imagen": "https://labaudric.net/gallery-thumb/aion/Snapshot_12-24-14-2026-10-27_labaudric.webp"
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "Democracia regenerativa",
-    "link": "https://jmlro.codeberg.page/posts/democracia-regenerativa.txt",
-    "fecha": "27/10/2026 12:00",
-    "contenido": "En una entrevista[1], Wendy Brown guía sobre el futuro:\n\n \t> \"Hay que transformar el sistema democrático, no centrarlo en los intereses individuales, si no en producir condiciones de regeneración de la vida. Hay que ir hacia un modelo que llamo democracia reparativa, del cuidado colectivo, un modelo",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "El tabú de ir al baño",
-    "link": "https://www.fabio.com.ar/10064-el-tabu-de-ir-al-bano",
-    "fecha": "27/10/2026 12:00",
-    "contenido": "    \n&iquest;No les resulta curioso que de entre todas las cosas que le provocan cierta verg&uuml;enza al humano el diario y com&uacute;n ritual de defecar es el que m&aacute;s se oculta?\nNo quiero ser muy escatol&oacute;gico sino ir a otros detalles, es que cagar es algo universal, todas las especi",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/caagar.jpg"
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Parte 2 – Los sistemas operativos más seguros teóricamente",
-    "link": "https://gatooscuro.xyz/parte-2-los-sistemas-operativos-mas-seguros-teoricamente/",
-    "fecha": "27/10/2026 11:45",
-    "contenido": "Bueno, esta es la continuación del primer artículo acerca de los S.O. más seguros en teoría, un artículo que parece haber atraído cierta atención, tanto buena como mala ¿Lo especial?\nSeguir leyendo  Parte 2 &#8211; Los sistemas operativos más seguros teóricamente\nEl cargo Parte 2 &#8211; Los sistema",
-    "imagen": null
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Games That Ace It 2026",
-    "link": "https://cozykis.kisworld.es/games-that-ace-it-2026/",
-    "fecha": "27/10/2026 11:41",
-    "contenido": "El domingo empezó en Steam el evento Games That Ace It, organizado por Carrot, que ha aprovechado la semana de&#8230;\nLa entrada Games That Ace It 2026 se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 2 videos en Aion",
-    "link": "https://labaudric.net/videos/aion",
-    "fecha": "27/10/2026 10:54",
-    "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6985/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261103%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261103T044843Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=08cc63c14d48acd5253bc2be09b468f60dc055838bc135436623c7877b454eb4"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Stryper: Throne Of Thorns | Una Historia Distinta",
-    "link": "https://www.delotroladometal.com.ar/2026/10/27/una-historia-distinta/",
-    "fecha": "27/10/2026 10:35",
-    "contenido": "(2026 &#8211; Frontiers Music) A veces no se entiende los miles de detractores que Stryper...\nThe post Stryper: Throne Of Thorns | Una Historia Distinta first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Grabando desde el Apple Watch!",
-    "link": "https://blog.danielaragay.net/grabando-desde-el-apple-watch/",
-    "fecha": "27/10/2026 10:00",
-    "contenido": "Nuevo episodio del podcast: Grabando desde el Apple Watch!Esc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/grabando-desde-el-apple-watch",
-    "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
-  },
-  {
-    "blog": "PlanetaInopia es el blog personal de Sandor Inopia",
-    "titulo": "APP - Clean Your TV)",
-    "link": "https://www.planetainopia.com/blog/20261027-clean-your-tv-app",
-    "fecha": "27/10/2026 08:53",
-    "contenido": "\n                                \nVia Meneame descubro la existencia de Clean your TV, un útil software cuyo propósito es liberar de basura publicitaria y aplicaciones pre-instaladas a tu TV inteligente o tu TV Box.\nEn mi caso lo acabo de probar en una televisión Xiaomi TV P1 y dos Xiaomi Mi Box con",
-    "imagen": "https://www.planetainopia.com/images/c/l/e/a/n/clean-your-tv-f1f09e41.png"
-  },
-  {
-    "blog": "Pepógrafo",
-    "titulo": "Pedroso de Acim: un pueblo diminuto y el monasterio más pequeño del mundo",
-    "link": "https://pepografo.com/pedroso-de-acim-monasterio-mas-pequeno-del-mundo/",
-    "fecha": "27/10/2026 07:00",
-    "contenido": "En Pedroso de Acim, El Palancar guarda siglos de historia en apenas 72 metros cuadrados.\nLa entrada Pedroso de Acim: un pueblo diminuto y el monasterio más pequeño del mundo se publicó primero en Pepógrafo.",
-    "imagen": null
   }
 ]
