@@ -1,10 +1,114 @@
 [
   {
+    "blog": "Manu Mateos",
+    "titulo": "#201: lo de Sanguijuelas del Guadiana",
+    "link": "https://www.macram.es/posts/2026/11/sanguijuelas-del-guadiana/",
+    "fecha": "04/11/2026 17:09",
+    "contenido": "La locura que tiene que ser para tres chavales de un pueblo de mil y pico habitantes en plena Siberia extremeña (Casas de Don Pedro, por si alguien tiene la curiosidad) pasar de tocar en una cochera y en salas pequeñas a salir de gira por Europa y a tocar en el FIB, compartiendo cartel con gente com",
+    "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Qué es ACK en Zabbix y como podemos evitar revibir avisos de problemas",
+    "link": "https://voidnull.es/que-es-ack-en-zabbix-y-como-podemos-evitar-revibir-avisos-de-problemas/",
+    "fecha": "04/11/2026 16:30",
+    "contenido": "Descubre qué significa ACK en Zabbix, cómo reconocer problemas conocidos y evitar recibir notificaciones repetitivas mientras las incidencias están pendientes de resolución.",
+    "imagen": "https://voidnull.es/content/images/2022/01/zabbix.png"
+  },
+  {
+    "blog": "56K",
+    "titulo": "Juegos de Atlantis en Linux de forma nativa para gente con la ansiedad por las nubes",
+    "link": "https://56k.es/fanta/juegos-de-atlantis-en-linux-de-forma-nativa-para-gente-con-la-ansiedad-por-las-nubes/",
+    "fecha": "04/11/2026 16:17",
+    "contenido": "Existe gente que para jugar a juegos como los de la serie Atlantis usen Heroic Launcher y cosas así. La cosa es que no hace falta realmente usar proton, wine, etc &#8230; si existe un engine libre que te permite ejecutar el juego de forma nativa. Estos días ando haciendo muchas cosas y con un...",
+    "imagen": null
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "597. Tres actos",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/11/597-tres-actos.html",
+    "fecha": "04/11/2026 16:00",
+    "contenido": "&nbsp; &nbsp; Durante el día podría ser el bloguero intenso y sensible. Escribiría sobre mañanas soleadas, el trino musical de los pájaros y el aleteo multicolor de las mariposas. Sobre la paz que susurra en las cumbres, la calidez de un abrazo materno y la carcajada cristalina de un niño.&nbsp; &nb",
+    "imagen": "https://img.youtube.com/vi/umTA_4pEerU/default.jpg"
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Recopilación del boletín de noticias de la Free Software Foundation – noviembre de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/11/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-noviembre-de-2026/",
+    "fecha": "04/11/2026 14:44",
+    "contenido": "Recopilación y traducción del boletín mensual de noticias relacionadas con el software libre publicado por la Free Software Foundation.",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "eaplmx",
+    "titulo": "Redescubriendo Pokemón Rojo",
+    "link": "https://text.eapl.mx/redescubriendo-pokemon-rojo",
+    "fecha": "04/11/2026 13:06",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "Cajón desastre",
+    "titulo": "Relatos que me marcaron: Mis muertos tristes, de Mariana Enríquez",
+    "link": "https://ccriss92.bearblog.dev/relatos-que-me-marcaron-mis-muertos-tristes-de-mariana-enriquez/",
+    "fecha": "04/11/2026 12:13",
+    "contenido": "Descubrí hace unos días la existencia de la miniserie 'Mis muertos tristes', una adaptación de cuatro relatos de Mariana Enríquez, incluyendo el que le da título. No la he visto todavía, aunque ganas no me faltan. Siempre me ha dado un poco de vértigo enfrentarme a adaptaciones de obras que me gusta",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Adiós Xampp, hola Wampserver",
+    "link": "https://www.fabio.com.ar/10071-adios-xampp-hola-wampserver",
+    "fecha": "04/11/2026 12:00",
+    "contenido": "    \nLa semana pasada me cans&eacute; de Xampp, suite de webserver local que us&eacute; durante a&ntilde;os y a&ntilde;os, pero que la falta de actualizaciones la volvi&oacute; obsoleta.\nEn &eacute;pocas de Docker y VPS baratos, no deja de ser &uacute;til tener un Apache-PHP-MariaDB nativo en tu sis",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/xampp-wamp.jpg"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "\"Away From The Noise\" Será El Nombre Del Nuevo Disco | German Pascual Prepara Un Álbum Acústico",
+    "link": "https://www.delotroladometal.com.ar/2026/11/04/german-pascual-prepara-un-album-acustico/",
+    "fecha": "04/11/2026 10:35",
+    "contenido": "Algo nos había adelantado en la última entrevista que tuvimos, aproximadamente en Junio de este...\nThe post \"Away From The Noise\" Será El Nombre Del Nuevo Disco | German Pascual Prepara Un Álbum Acústico first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "Obsolescencia, deuda técnica y alarmismo",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/11/04/20261104-obsolescencia-deuda-tecnica-alarmismo/",
     "fecha": "04/11/2026 09:00",
     "contenido": "Internet se planteó originalmente como una red distribuída. Lo que está amenzado es la arquitectura centralizada actual",
+    "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Cómo actualizar Ghost con Docker",
+    "link": "https://voidnull.es/como-actualizar-ghost-con-docker/",
+    "fecha": "04/11/2026 08:11",
+    "contenido": "Aprende a actualizar Ghost en Docker paso a paso y a limpiar las imágenes antiguas para liberar espacio en disco.",
+    "imagen": "https://voidnull.es/content/images/2022/01/Ghost.png"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió VLOG: web tour en VLOG",
+    "link": "https://labaudric.net/videos/vlog/6993",
+    "fecha": "04/11/2026 05:41",
+    "contenido": "",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6993/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261104%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261104T191057Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9182fb1bc11d2505245a63c0b109a9ddb21868bab7522202154bbe176355ac0d"
+  },
+  {
+    "blog": "Blog de Thalskarth",
+    "titulo": "Sobre Carl el Mazmorrero",
+    "link": "https://blog.thalskarth.ar/carl-el-mazmorrero/",
+    "fecha": "04/11/2026 00:00",
+    "contenido": "Vengo leyendo los libros de Carl el Mazmorrero (Dungeon Crawler Carl) de Matt Dinniman. Al día de hoy, estoy terminando el cuarto de la saga (El portal de los dioses ferales) y me pareció un buen momento para hacer una mini-reseña de opinión.",
+    "imagen": "https://blog.thalskarth.ar/assets/images/feature.webp"
+  },
+  {
+    "blog": "End3r.es",
+    "titulo": "Yubikey: autenticación sin contraseñas",
+    "link": "https://www.end3r.es/posts/026-yubikey-autenticacion-sin-contrasenas/",
+    "fecha": "04/11/2026 00:00",
+    "contenido": "Fabricada por la empresa sueca-estadounidense Yubico, una YubiKey es un dispositivo físico de autenticación de hardware\n(con apariencia similar a un llavero USB) diseñado para proteger el acceso a ordenadores, cuentas en línea, redes\ncorporativas y servidores.\nSu nombre proviene de la combinación de",
     "imagen": null
   },
   {
@@ -184,6 +288,14 @@
     "imagen": null
   },
   {
+    "blog": "labaudric",
+    "titulo": "audric subió GTAV - tutorial: como robar un tren en GTA",
+    "link": "https://labaudric.net/videos/gta/6992",
+    "fecha": "02/11/2026 09:37",
+    "contenido": "",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6992/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261104%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261104T191057Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=01b9da642b47ed1566e0df50370484b2a0d206aff66e17cb86cd18289cbcd000"
+  },
+  {
     "blog": "Mareos de un geek",
     "titulo": "Fediverso: qué es, cómo funciona y por qué es la alternativa a las redes sociales centralizadas",
     "link": "https://mareosdeungeek.es/fediverso-que-es-como-funciona-alternativa-redes-sociales/",
@@ -360,6 +472,22 @@
     "imagen": null
   },
   {
+    "blog": "labaudric",
+    "titulo": "Inmortalidad y castigo",
+    "link": "https://labaudric.net/blog/manga/inmortalidad-y-castigo",
+    "fecha": "31/10/2026 21:45",
+    "contenido": "\nIntroducción\nInmortalidad y castigo. Manga escrito por Kentarō Satō, publicado en Japón entre 2022 y 2026; traído a España por Arechi entre 2025 y 2026. En ambos casos: 8 volúmenes de 208 páginas. Es muy interesante. Es una historia de zombis pero a diferencia de los &quot;clásicos&quot; no se limi",
+    "imagen": "https://labaudric.net/img/inmortalidad_castigo/01.png"
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "audric subió 2 videos en Aion, GTA",
+    "link": "https://labaudric.net/videos/aion",
+    "fecha": "31/10/2026 19:41",
+    "contenido": " ",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6991/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261104%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261104T191057Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=019e3d46fafd5abfad03409fe09d99e70889d5f2ebd48d18b1b70fdeef591031"
+  },
+  {
     "blog": "Fabio.com.ar",
     "titulo": "En Halloween festejamos con Muertes Curiosas",
     "link": "https://www.fabio.com.ar/10068-en-halloween-festejamos-con-muertes-curiosas",
@@ -373,6 +501,14 @@
     "link": "https://www.delotroladometal.com.ar/2026/10/31/martin-simsons-destroyer-of-death-estrena-god-of-grace/",
     "fecha": "31/10/2026 11:05",
     "contenido": "Martin Simpson no deja de sorprendernos, y luego del estreno hace unos meses del single...\nThe post Con La Participación De Mark Boals En Voz | Martin Simson´s Destroyer Of Death Estrena “God Of Grace” first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Actividades Octubre 2026",
+    "link": "https://labaudric.net/blog/noticias/actividades-octubre-2026",
+    "fecha": "31/10/2026 10:12",
+    "contenido": "Otro mes, otra entrada.\n\nEste mes ha sido muy feliz. Para empezar, el día 9 me casé. No pongo fotos que no quiero alimentar las putas IAs y scrapers tradicionales con mi jepeto el de mi ahora mujer e invitados. Y con la boda, viene un permiso de vacaciones de dos semanas, use unos días más y me pegu",
     "imagen": null
   },
   {
@@ -662,109 +798,5 @@
     "fecha": "28/10/2026 21:00",
     "contenido": "Nuevo episodio del podcast: Los abucheos del Festival de SitgesEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/los-abucheos-del-festival-de-sitges",
     "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "passwd: gestiona las contraseñas de tus usuarios",
-    "link": "https://voidnull.es/passwd-gestiona-las-contrasenas-de-tus-usuarios/",
-    "fecha": "28/10/2026 16:28",
-    "contenido": "La gestión de usuarios y contraseñas es una de las tareas fundamentales en la administración de sistemas GNU/Linux.",
-    "imagen": "https://voidnull.es/content/images/2022/01/cli.png"
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "La SciFi Que Nadie Te contó: \"Gilgamesh El Inmortal\"",
-    "link": "https://rodriaccopen.blogspot.com/2026/10/la-scifi-que-nadie-te-conto-gilgamesh.html",
-    "fecha": "28/10/2026 15:23",
-    "contenido": "&nbsp;Dibujo de Ricardo Luis Olivera🍀 La SciFi Que Nadie Te contó⌚ Gilgamesh El Inmortalpor Rodriac Copen⚠️ Este artículo permite descargar y leer todo el material referenciado ⚠️En la historia de la ciencia ficción argentina, Gilgamesh, el Inmortal ocupa un lugar singular. Unico. Y lo afirmo: es má",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjivfiVu44QJX7XyyjmU3OqQwjhSZJ-1ThvHfAIFuCnhIvO-b51oUJZbndlmhPgmmln4-REfCcszT1Xfl07_IK9RSJjrAr3fGnZV450pBl6PPkBlKyVBh79mpQjknDIzhQTHtP25zofALgMO65izXwD-Ga7UfXjjdVKMvSRPlUBcRPBnKKPEe241MEl-mI/s72-c/Blogger.jpg"
-  },
-  {
-    "blog": "La línea doméstica",
-    "titulo": "El que siempre va corriendo",
-    "link": "https://jmlro.codeberg.page/posts/el-que-siempre-va-corriendo.txt",
-    "fecha": "28/10/2026 12:00",
-    "contenido": "No pude identificar a una vecina en el contexto del mercado. La mujer me recuerda a mi abuela, no como anciana, sino como persona y maquillaje. Pelo bolita, cejas permanentes e incluso una variante muy aproximada de las gafas que lleva. Podría ser una doble suya aunque a mi abuela esa posibilidad le",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Camarada Maombappé, no sea un cobarde!",
-    "link": "https://www.fabio.com.ar/10065-camarada-maombappe-no-sea-un-cobarde",
-    "fecha": "28/10/2026 12:00",
-    "contenido": "    \nKillian Mbapp&eacute; no sabe nada de pol&iacute;tica, aun as&iacute; en alg&uacute;n momento pretendi&oacute; expresar alg&uacute;n tipo de apoyo hacia el tercermundismo, lo que nunca se esperaba era que una broma por un meme lo transformar&iacute;a en el enemigo de la Rep&uacute;blica Popular",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/maombappe.jpg"
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "595. Observaciones mañaneras en el supermercado",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/10/595-observaciones-mananeras-en-el.html",
-    "fecha": "28/10/2026 11:54",
-    "contenido": "&nbsp; &nbsp; Todas las mañanas, de lunes a viernes, durante el recreo escolar, la Generación Z estudiantil se dirige en pelotones unisex de entre cinco y ocho integrantes al supermercado que hay enfrente de donde vivo, prestos a comprarse algo para almorzar. Los observo y pienso: «Joder, ¿dónde han",
-    "imagen": "https://img.youtube.com/vi/YCb6ny99ZPc/default.jpg"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Space Savory",
-    "link": "https://cozykis.kisworld.es/analisis-de-space-savory/",
-    "fecha": "28/10/2026 11:46",
-    "contenido": "Gestiona este peculiar restaurante donde los platos tienen una dudosa procedencia. Pero todo sea por volver a la Tierra\nLa entrada Análisis de Space Savory se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Reseña exprés de Carl el Mazmorrero",
-    "link": "https://escritura.social/mcallus/resena-expres-de-carl-el-mazmorrero",
-    "fecha": "28/10/2026 11:31",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Santa Fe White Metal Nro. 15",
-    "link": "https://www.delotroladometal.com.ar/2026/10/28/santa-fe-white-metal-nro-15/",
-    "fecha": "28/10/2026 10:35",
-    "contenido": "Ya habíamos comentado, y publicado, sobre este fanzine, uno de los más interesantes de la...\nThe post Santa Fe White Metal Nro. 15 first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "THE_CHEI$",
-    "titulo": "Distros para el recuerdo: Ubuntu 7.10 Gutsy Gibbon",
-    "link": "https://thecheis.com/2026/10/28/distros-para-el-recuerdo-ubuntu-7-10-gutsy-gibbon/",
-    "fecha": "28/10/2026 10:25",
-    "contenido": "Todos tenemos un comienzo, una pequeña historia sobre cómo y por qué acabamos en Linux. Hace un par de años publiqué la lista de distribuciones por las que había pasado, y quería dedicarle una entrada a la que lo inició todo: Ubuntu 7.10, conocida también por su nombre en clave Gutsy Gibbon. Las sen",
-    "imagen": "https://thecheis.com/wp-content/uploads/2026/10/ubuntu-7.10-gutsy-gibbon-01.jpg"
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "Steam NextFest  Octubre 2026",
-    "link": "https://asturgeek.eu/2026/10/28/steam-nextfest-octubre-2026/",
-    "fecha": "28/10/2026 09:08",
-    "contenido": "La plataforma de juegos Steam nos ofrece, varias veces al año, lo que llama el NextFest, poniendo a tu disposición en forma de demo miles de juegos, en su mayoría indies, que puedes descubrir y probar.He probado unos cuantos y ésta ha sido mi experiencia: Camping Resort Simulator Un juego dónde cons",
-    "imagen": null
-  },
-  {
-    "blog": "Región Cuatro",
-    "titulo": "Matar el chiste",
-    "link": "https://regioncuatro.blog/matar-el-chiste/",
-    "fecha": "28/10/2026 09:06",
-    "contenido": "Hay un fenómeno muy desafortunado entre los memes y la producción rápida de cualquier cosa que luego podemos comprar en Temu, y es que entre errores de traducción y falta de inteligencia humorística, quiero suponer, las cosas se van destilando mal, y van perdiendo poco a poco lo que las hace gracios",
-    "imagen": "https://media.axel.mx/images/2026/10/1793178314574-IMG_8037.jpg"
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "Nightwish, 3 eras, 3 preciosas cantantes",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/10/28/20261028-nightwish-3-eras/",
-    "fecha": "28/10/2026 09:00",
-    "contenido": "Te pueden gustar o los puedes odiar, pero es indiscutible que Nightwish son una piedra angular en el metal sinfónico",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "DuckDuckGo, del buscador al navegador",
-    "link": "https://mareosdeungeek.es/analisis-navegador-duckduckgo-privacidad-ia/",
-    "fecha": "28/10/2026 08:00",
-    "contenido": "DuckDuckGo nació como un buscador alternativo centrado en la privacidad y se ha convertido en un ecosistema que incluye buscador, navegador, extensiones, protección del correo, bloqueo de rastreadores, herramientas de IA y una suscripción con VPN. La historia de DuckDuckGo se remonta al año 2008 cua",
-    "imagen": null
   }
 ]
