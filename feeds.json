@@ -1,5 +1,29 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "Obsolescencia, deuda técnica y alarmismo",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/11/04/20261104-obsolescencia-deuda-tecnica-alarmismo/",
+    "fecha": "04/11/2026 09:00",
+    "contenido": "Internet se planteó originalmente como una red distribuída. Lo que está amenzado es la arquitectura centralizada actual",
+    "imagen": null
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Mapa de Aelios con Hexographer",
+    "link": "http://frikoteca.blogspot.com/2026/11/mapa-de-aelios-con-hexographer.html",
+    "fecha": "03/11/2026 20:33",
+    "contenido": "Aunque está solo en una fase inicial, llevo un tiempo trabajando en un mapa de Aelios, mi mundo de juego. Estoy jugueteando con Hexographer, esa maravillosa herramienta para hacer mapas hexagonales, y he conseguido hacer una primera versión que muestra, a gran escala, los rasgos geográficos principa",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1JtlvTDI3SNLCdlT4xroAoC0-kGlUpcPzrHLWLl_Bb8kbHdbc38iDRBF3aJvjz6GUNsWPGGQVuLfUNPm7r4ZdaWqBqGTmCKm3KuZm6952AbX8AUAf-o1tRMomXMcEAF4g3EjNpqiiI6-NnBtvkLnmpZRkw5vN57oMS6H_tWYYzapEAPiHahWC/s72-c/aelios2.png"
+  },
+  {
+    "blog": "Galerías Preciados",
+    "titulo": "¡Llegan los días de Kielhalen a Galerías Preciados!",
+    "link": "https://galeriaspreciados.band/llegan-los-dias-de-kielhalen-a-galerias-preciados/",
+    "fecha": "03/11/2026 19:23",
+    "contenido": "¡Estimados clientes! ¡Llego la hora de la verdad! El momento que todos ustedes esperaban, el de la presentación del producto fonográfico definitivo para el disfrute del fin del estado del bienestar",
+    "imagen": null
+  },
+  {
     "blog": "Picando Código",
     "titulo": "La Palanquita del control del Nintendo 64 - SteelSticks",
     "link": "https://picandocodigo.net/2026/palanquita-control-nintendo-64-steelsticks/",
@@ -742,21 +766,5 @@
     "fecha": "28/10/2026 08:00",
     "contenido": "DuckDuckGo nació como un buscador alternativo centrado en la privacidad y se ha convertido en un ecosistema que incluye buscador, navegador, extensiones, protección del correo, bloqueo de rastreadores, herramientas de IA y una suscripción con VPN. La historia de DuckDuckGo se remonta al año 2008 cua",
     "imagen": null
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Nuevas redes sociales: buscando alternativas",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-10-28-cambio-rrss/",
-    "fecha": "27/10/2026 23:00",
-    "contenido": "Este nuevo artículo es una continuación de este otro, y se puede considerar una actualización del mismo.\nTodo esto viene como consecuencia de que, o como dice el refrán, por causas ajenas a la empresa 😊, he tenido que dejar de usar una de las RRSS que utilizaba hasta ahora. Pero esto también me ha v",
-    "imagen": null
-  },
-  {
-    "blog": "Lo de Manieflo",
-    "titulo": "¿Qué es RSS?",
-    "link": "https://elprofejuan.com.ar/que-es-rss",
-    "fecha": "27/10/2026 20:49",
-    "contenido": "Introducción:\nAlguna vez habrás encontrado este símbolo en muchas páginas y sitios web, bueno el artículo habla sobre esto.\nEl sistema o servicio se llama RSS y es una manera de leer noticias y novedades de la web que viene de hace mucho tiempo, en tiempos donde la posibilidad de tener wifi gratis o",
-    "imagen": "https://elprofejuan.com.ar/bl-content/uploads/pages/7d74422ca0dacb6e49e44b850f70ab4b/rss-jpg.jpg"
   }
 ]
