@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 05 Nov 2026 04:07:59 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 13:40:52 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Star Wars: Maul – Shadow Lord: Maul como protagonista de su propia caída</title>
+<link>https://mareosdeungeek.es/star-wars-maul-shadow-lord-serie-animada/</link>
+<guid isPermaLink="true">https://mareosdeungeek.es/star-wars-maul-shadow-lord-serie-animada/</guid>
+<pubDate>Wed, 04 Nov 2026 21:05:00 GMT</pubDate>
+<category>Mareos de un geek</category>
+<description><![CDATA[Star Wars: Maul – Shadow Lord retoma a Maul, un personaje que se podría definir como el superviviente de la primera parte de la saga Skywalker. Su primera aparición en La amenaza Fantasma parece enviarlo al ostracismo, pero se le recuperó y se supo adaptar de las luchas de la Fuerza a los bajos fond<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
+</item>
+<item>
+<title>Sin título</title>
+<link>https://fixionauta.net/2026/11/04/241365/</link>
+<guid isPermaLink="true">https://fixionauta.net/2026/11/04/241365/</guid>
+<pubDate>Wed, 04 Nov 2026 19:50:00 GMT</pubDate>
+<category>Fixionauta</category>
+<description><![CDATA[I&amp;#8217;ll read carefully. Not sure if my &amp;#8220;Fediverse graphic vault&amp;#8221; can opt-in&amp;#8230;<br><br><strong>Fuente:</strong> Fixionauta]]></description>
+</item>
 <item>
 <title>#201: lo de Sanguijuelas del Guadiana</title>
 <link>https://www.macram.es/posts/2026/11/sanguijuelas-del-guadiana/</link>
@@ -200,22 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 03 Nov 2026 00:25:00 GMT</pubDate>
 <category>quiroptero.blog</category>
 <description><![CDATA[¿Libros de Terry Pratchett? Shut up and take my money!<br><br><strong>Fuente:</strong> quiroptero.blog]]></description>
-</item>
-<item>
-<title>Acceso remoto fácilmente: Cómo integrar Tailscale en Proxmox VE</title>
-<link>https://blog.neosite.com.ar/post/acceso-remoto-sin-complicaciones-c-mo-integrar-tailscale-en-proxmox-ve</link>
-<guid isPermaLink="true">https://blog.neosite.com.ar/post/acceso-remoto-sin-complicaciones-c-mo-integrar-tailscale-en-proxmox-ve</guid>
-<pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-<category>NeoSite Blog</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> NeoSite Blog]]></description>
-</item>
-<item>
-<title>La única dirección que no cambia</title>
-<link>https://danielomarcignacco.mataroa.blog/blog/la-unica-direccion-que-no-cambia/</link>
-<guid isPermaLink="true">https://danielomarcignacco.mataroa.blog/blog/la-unica-direccion-que-no-cambia/</guid>
-<pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-<category>La cosa infinita (Daniel Omar Cignacco)</category>
-<description><![CDATA[Con los años cambié de casa, de ciudad, de oficio, de amigos, de opiniones y hasta de nombre en la manera de presentarme ante los demás. Cambiaron mis libros, mis fotografías, mis costumbres, el número de teléfono y las personas a las que alguna vez consideré imprescindibles. Algunas desaparecieron;<br><br><strong>Fuente:</strong> La cosa infinita (Daniel Omar Cignacco)]]></description>
 </item>
 
 </channel>
