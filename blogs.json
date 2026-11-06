@@ -848,9 +848,9 @@
     "País": "Argentina"
   },
   {
-    "Nombre": "yejokjanan",
-    "Url": "https://yejokjanan.xyz",
-    "Feed": "https://yejokjanan.xyz/feed.xml",
+    "Nombre": "Juan Bermudez",
+    "Url": "https://blog.juanbermudez.xyz",
+    "Feed": "https://blog.juanbermudez.xyz/feed.xml",
     "Descripción": "Un blog personal",
     "Categoría": "Tecnología, Vida Diaria",
     "País": "Colombia"
@@ -1405,7 +1405,8 @@
     "Feed": "https://quiroptero.blog/index.xml",
     "Descripción": "Cueva digital de un chilango autoexiliado.",
     "Categoría": "Literario, Fotografía, Viajes, Vida Diaria",
-    "País": "México"
+    "País": "México",
+    "Sponsor": "si"
   },
     {
     "Nombre": "Textos Perdidos",
