@@ -1,5 +1,37 @@
 [
   {
+    "blog": "labaudric",
+    "titulo": "Actualización página: web / gemini",
+    "link": "https://labaudric.net/blog/noticias/webgemini",
+    "fecha": "07/11/2026 13:38",
+    "contenido": "Por fin.\nEsta versión de la web, que es la segunda o tercera... He perdido la cuenta, tenía un objetivo único y particular: ser un sistema que lleve en paralelo una página web y una cápsula gemini, en base a archivos markdown. Se redacta una vez, se publica en paralelo en ambas plataformas.\nPero...\n",
+    "imagen": "https://labaudric.net/img/webgemini/01.png"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "El Thrash Metal Tiene Un Nuevo Capítulo | No More Death Publica “Last Caesar”",
+    "link": "https://www.delotroladometal.com.ar/2026/11/07/no-more-death-publica-last-caesar/",
+    "fecha": "07/11/2026 12:25",
+    "contenido": "Ya veníamos adelantando algunas novedades respecto a No More Death, el proyecto de Tiago Torres,...\nThe post El Thrash Metal Tiene Un Nuevo Capítulo | No More Death Publica “Last Caesar” first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "Pepógrafo",
+    "titulo": "Yuste, el monasterio extremeño que guarda las claves del origen de El Escorial",
+    "link": "https://pepografo.com/monasterio-yuste-origen-el-escorial/",
+    "fecha": "07/11/2026 07:30",
+    "contenido": "Mucho antes de que Felipe II levantara uno de los monumentos más emblemáticos de la monarquía española, su padre, Carlos V, encontró en un rincón de La Vera el retiro que marcaría sus últimos años. La historia de Yuste contribuye a comprender los vínculos religiosos, dinásticos y funerarios que unen",
+    "imagen": null
+  },
+  {
+    "blog": "Rodriac Copen",
+    "titulo": "Portada de la Web del Escritor Rodriac Copen",
+    "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
+    "fecha": "07/11/2026 06:00",
+    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.org⭐ Novedades para Ti✔ Ultimas",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnmj7LuWyxFEv7UGP7Wz9rAqOJWRUsLO-ydd_x6jBbKERB1qQpOakxLscnRzcO3eLe5UbhM2mnF8R6JPlzaVL-j8Q5MKKUOyRT6UTerhoboQo9CT5V7_JRQ4unPLa2275L38_r6x3uPGnHDqbGylH8cwRkSmt-42xyD5y7WNoz6BJNacV_EUKtJ0gk_Q/s72-c/Portada%20General.jpg"
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 45 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/11/06/opensuse-tumbleweed-revision-de-la-semana-45-de-2026/",
@@ -38,6 +70,14 @@
     "fecha": "06/11/2026 13:16",
     "contenido": "     Alegres de que llegaron los links\nSi, si, es viernes ,no parece, pero tengan en cuenta que se viene un super mega feriado chupa cirios, hay que tener lectura para estos d&iacute;as! Nada mejor que una buena dosis de enlaces variados! Y si te parecen pocos sumate a LinksDV para compartir m&aacut",
     "imagen": "https://www.fabio.com.ar/images/reviews37/ldv966.jpg"
+  },
+  {
+    "blog": "Rodriac Copen",
+    "titulo": "Cuento: \"La Clase de Yoga ( Humor - Tito Mansilla )\"",
+    "link": "https://rodriaccopen.blogspot.com/2026/11/cuento-la-clase-de-yoga-humor-tito.html",
+    "fecha": "06/11/2026 13:05",
+    "contenido": "&nbsp;😊 Humor: Tito Mansilla👀 La Clase de Yogapor Rodriac Copen📌 Sinopsis:Tito Mansilla tiene una habilidad extraordinaria para conquistar mujeres. O, al menos, eso es lo que él cree.&nbsp;Encantador, verborrágico y con una confianza en sí mismo que no siempre encuentra respaldo en la realidad, Tito",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_X2aEVEcahCHqioHzASLcVMGDWHfFf4Y4Z7YqxCpJeBmtOIfxR8R8oXqPqdBXU97y62z7cQTayvsiZo_byGVVmq7kTNJwMbZzVy07piBzu9MR35PoBbyurQXkjbnVaxKmu5K7EjqGU3SP7O0sMzpsxyc0IYkAD2rATJjeger9EzCPHKaxwG4OOI182gM/s72-c/Imagen%20Portada.jpg"
   },
   {
     "blog": "Un blog",
@@ -109,7 +149,7 @@
     "link": "https://labaudric.net/videos/bodycam/6994",
     "fecha": "05/11/2026 18:27",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6994/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T035732Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=09fa2ef9c6a3097bb2e627a00b20198f4557dc873cd69b492bcc73851e2924de"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6994/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T171434Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4edef01cd3e5efeea5e7ec59ed404ec65fc4d6fc14c87d2d17da016bc97da761"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -357,7 +397,7 @@
     "link": "https://labaudric.net/videos/vlog/6993",
     "fecha": "04/11/2026 05:41",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6993/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T035732Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=5656d832f579029292b6e9240ea56bd09bba674c9561e8dd48ddd8879abe2c76"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6993/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T171434Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e853a3a88f86e3d74288f63e9369d53bf6cd786af4c0ca76b192fd90aeb4e4a7"
   },
   {
     "blog": "Blog de Thalskarth",
@@ -438,14 +478,6 @@
     "fecha": "03/11/2026 10:35",
     "contenido": "El humor es uno de los condimentos ineludibles del Thrash Metal. Lo irónico, lo sarcástico,...\nThe post La Perfecta Combinación | Thrash Metal, Humor Y Motivik first appeared on Del Otro Lado Metal.",
     "imagen": null
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "Portada de la Web del Escritor Rodriac Copen",
-    "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
-    "fecha": "03/11/2026 06:00",
-    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.org⭐ Novedades para Ti✔ Ultimas",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnmj7LuWyxFEv7UGP7Wz9rAqOJWRUsLO-ydd_x6jBbKERB1qQpOakxLscnRzcO3eLe5UbhM2mnF8R6JPlzaVL-j8Q5MKKUOyRT6UTerhoboQo9CT5V7_JRQ4unPLa2275L38_r6x3uPGnHDqbGylH8cwRkSmt-42xyD5y7WNoz6BJNacV_EUKtJ0gk_Q/s72-c/Portada%20General.jpg"
   },
   {
     "blog": "quiroptero.blog",
@@ -573,7 +605,7 @@
     "link": "https://labaudric.net/videos/gta/6992",
     "fecha": "02/11/2026 09:37",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6992/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T035732Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=437a22662e47583f47c9ec8bb2de7234bac2627ce7e858c2b606866c527bdf9a"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6992/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T171434Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=75144d98fc822238cd10f4451f6f308713963d47ebc32f15c237a1c502df39c5"
   },
   {
     "blog": "Mareos de un geek",
@@ -749,38 +781,6 @@
     "link": "https://labaudric.net/videos/aion",
     "fecha": "31/10/2026 19:41",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6991/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T035732Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4a74c63279f225e222d31ac0c3d9c3fde5f3d5bbef2386c2b5049dac9d9ce001"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "En Halloween festejamos con Muertes Curiosas",
-    "link": "https://www.fabio.com.ar/10068-en-halloween-festejamos-con-muertes-curiosas",
-    "fecha": "31/10/2026 12:00",
-    "contenido": "    \nYa pas&oacute; un a&ntilde;o desde que publiqu&eacute; el libro de Muertes Curiosas y s&eacute; que un epub no es lo mismo que un libro en papel, pero para aquellos que no quieren pasar por Amazon o que simplemente no tienen un mango, me parec&iacute;a que hoy era el d&iacute;a ideal para regal",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/libro-muertes-curiosas.jpg"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Con La Participación De Mark Boals En Voz | Martin Simson´s Destroyer Of Death Estrena “God Of Grace”",
-    "link": "https://www.delotroladometal.com.ar/2026/10/31/martin-simsons-destroyer-of-death-estrena-god-of-grace/",
-    "fecha": "31/10/2026 11:05",
-    "contenido": "Martin Simpson no deja de sorprendernos, y luego del estreno hace unos meses del single...\nThe post Con La Participación De Mark Boals En Voz | Martin Simson´s Destroyer Of Death Estrena “God Of Grace” first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Actividades Octubre 2026",
-    "link": "https://labaudric.net/blog/noticias/actividades-octubre-2026",
-    "fecha": "31/10/2026 10:12",
-    "contenido": "Otro mes, otra entrada.\n\nEste mes ha sido muy feliz. Para empezar, el día 9 me casé. No pongo fotos que no quiero alimentar las putas IAs y scrapers tradicionales con mi jepeto el de mi ahora mujer e invitados. Y con la boda, viene un permiso de vacaciones de dos semanas, use unos días más y me pegu",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "¿Qué demonios es la cerveza? El libro que explica tu vaso sin convertirlo en un examen",
-    "link": "https://mareosdeungeek.es/que-demonios-es-la-cerveza-libro-agus-blanco/",
-    "fecha": "31/10/2026 09:50",
-    "contenido": "Me encanta la buena cerveza y me encanta leer libros para entender y adquirir conocimientos sobre buenas cervezas. En este libro de Agus Blanco, ¿Qué demonios es la cerveza? se pueden combinar estas dos aficiones. Vamos a empezar conociendo a la autora, a la que ya conocía por varios artículos sobre",
-    "imagen": null
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6991/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T171434Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=115b66803f334e44a983c21a43aba9be10de41b8c28951cd0c689fb2ba60a0a4"
   }
 ]
