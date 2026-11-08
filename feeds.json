@@ -1,5 +1,13 @@
 [
   {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "Fortaleza de una contraseña",
+    "link": "https://tecnoysoft.com/2026/11/07/fortaleza-de-una-contrasena/",
+    "fecha": "07/11/2026 22:15",
+    "contenido": "¿Y si una frase larga fuera más segura que una combinación de símbolos? Durante mucho tiempo nos han repetido que una contraseña segura debe combinar mayúsculas, minúsculas, números y caracteres especiales. Así, una contraseña como T7$xP9!q parece mucho más segura que una frase formada por varias pa",
+    "imagen": null
+  },
+  {
     "blog": "labaudric",
     "titulo": "Actualización página: web / gemini",
     "link": "https://labaudric.net/blog/noticias/webgemini",
@@ -149,7 +157,7 @@
     "link": "https://labaudric.net/videos/bodycam/6994",
     "fecha": "05/11/2026 18:27",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6994/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T171434Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4edef01cd3e5efeea5e7ec59ed404ec65fc4d6fc14c87d2d17da016bc97da761"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6994/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261108%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261108T034251Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=81105e05672c31d4065b537c8e22c9da706a04fec51e96f2360510fc4cd7263f"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -397,7 +405,7 @@
     "link": "https://labaudric.net/videos/vlog/6993",
     "fecha": "04/11/2026 05:41",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6993/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T171434Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e853a3a88f86e3d74288f63e9369d53bf6cd786af4c0ca76b192fd90aeb4e4a7"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6993/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261108%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261108T034251Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=81c1e58ddb8259eac612c6de52ffe4084ba78e3dd55ae66574bdbef32e124f8a"
   },
   {
     "blog": "Blog de Thalskarth",
@@ -605,7 +613,7 @@
     "link": "https://labaudric.net/videos/gta/6992",
     "fecha": "02/11/2026 09:37",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6992/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T171434Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=75144d98fc822238cd10f4451f6f308713963d47ebc32f15c237a1c502df39c5"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6992/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261108%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261108T034251Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4bebe441728f3c65710aee8ed2e54fced61fa0229c4463136d4fe0e45fe3756c"
   },
   {
     "blog": "Mareos de un geek",
@@ -726,61 +734,5 @@
     "fecha": "01/11/2026 05:00",
     "contenido": "",
     "imagen": null
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/10/31/239875/",
-    "fecha": "01/11/2026 02:30",
-    "contenido": "Música en octubre. A destacar, música nueva de Angèle (Je Sais, track en loop eterno), Hoshi, Aloïse Sauvage, Dominique A, Orchestra Baobab, Robert Plant y Greg Freeman, así como una nueva recopilación de Habibi Funk; escuchando de nuevo On de Altın Gün y Get In On de T.Rex.",
-    "imagen": null
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "El anime que no es anime",
-    "link": "https://alex.corcoles.net/2026/11/el-anime-que-no-es-anime",
-    "fecha": "01/11/2026 00:00",
-    "contenido": "\n  Tengo una relaci&#243;n compleja con el anime. Dr. Slump y Bola de Drac son dos obras maestras que son un referente personal. Pero por ejemplo, mientras que los 100 primeros episodios de Bola de Drac conforman una de las historias de aventuras m&#225;s brillantes que se han escrito (y Dr. Slump c",
-    "imagen": null
-  },
-  {
-    "blog": "Pepógrafo",
-    "titulo": "Lisboa en cinco fotografías: el tranvía 28, Rossio y el Tajo",
-    "link": "https://pepografo.com/lisboa-en-cinco-fotografias/",
-    "fecha": "31/10/2026 22:00",
-    "contenido": "Cinco fotografías originales de Lisboa tomadas por Julio Hidalgo Ardila el 30 de octubre de 2026: el tranvía 28, Rossio, la plaza de Figueira, el castillo de San Jorge y el Tajo.\nLa entrada Lisboa en cinco fotografías: el tranvía 28, Rossio y el Tajo se publicó primero en Pepógrafo.",
-    "imagen": null
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Mis lecturas en octubre de 2026",
-    "link": "https://escritura.social/mcallus/mis-lecturas-en-octubre-de-2026",
-    "fecha": "31/10/2026 21:55",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Un segundo a oscuras",
-    "link": "https://escritura.social/mcallus/un-segundo-a-oscuras",
-    "fecha": "31/10/2026 21:45",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Inmortalidad y castigo",
-    "link": "https://labaudric.net/blog/manga/inmortalidad-y-castigo",
-    "fecha": "31/10/2026 21:45",
-    "contenido": "\nIntroducción\nInmortalidad y castigo. Manga escrito por Kentarō Satō, publicado en Japón entre 2022 y 2026; traído a España por Arechi entre 2025 y 2026. En ambos casos: 8 volúmenes de 208 páginas. Es muy interesante. Es una historia de zombis pero a diferencia de los &quot;clásicos&quot; no se limi",
-    "imagen": "https://labaudric.net/img/inmortalidad_castigo/01.png"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 2 videos en Aion, GTA",
-    "link": "https://labaudric.net/videos/aion",
-    "fecha": "31/10/2026 19:41",
-    "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6991/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261107%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261107T171434Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=115b66803f334e44a983c21a43aba9be10de41b8c28951cd0c689fb2ba60a0a4"
   }
 ]
