@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sun, 08 Nov 2026 03:14:10 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 12:23:56 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Fortaleza de una contraseña</title>
+<link>https://tecnoysoft.com/2026/11/07/fortaleza-de-una-contrasena/</link>
+<guid isPermaLink="true">https://tecnoysoft.com/2026/11/07/fortaleza-de-una-contrasena/</guid>
+<pubDate>Sat, 07 Nov 2026 22:15:00 GMT</pubDate>
+<category>Tecno y Soft - Tecno y Soft</category>
+<description><![CDATA[¿Y si una frase larga fuera más segura que una combinación de símbolos? Durante mucho tiempo nos han repetido que una contraseña segura debe combinar mayúsculas, minúsculas, números y caracteres especiales. Así, una contraseña como T7$xP9!q parece mucho más segura que una frase formada por varias pa<br><br><strong>Fuente:</strong> Tecno y Soft - Tecno y Soft]]></description>
+</item>
 <item>
 <title>Actualización página: web / gemini</title>
 <link>https://labaudric.net/blog/noticias/webgemini</link>
@@ -208,14 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 05 Nov 2026 12:44:00 GMT</pubDate>
 <category>fernand0 @ GitHub.io</category>
 <description><![CDATA[De vez en cuando nos encontramos con ese meme donde aparece toda la infraestructura de internet apoyada en una pequeña columna: un simple desarrollador, mal financiado y no siempre con la motivación suficiente para seguir manteniendo su proyecto. En Maintainers of last resort, Filippo Valsorda nos h<br><br><strong>Fuente:</strong> fernand0 @ GitHub.io]]></description>
-</item>
-<item>
-<title>Finis Mundi, de Laura Gallego</title>
-<link>https://mareosdeungeek.es/finis-mundi-de-laura-gallego/</link>
-<guid isPermaLink="true">https://mareosdeungeek.es/finis-mundi-de-laura-gallego/</guid>
-<pubDate>Thu, 05 Nov 2026 12:42:00 GMT</pubDate>
-<category>Mareos de un geek</category>
-<description><![CDATA[Mi hijo es un apasionado de la escritora de Quart de Poblet Laura Gallego. Cada vez que viajamos a Mislata me recuerda que ella es de la ciudad de al lado. Por eso me recomendó leerme Finis Mundi, a él le encantó. En todo caso, la primera obra de la autora Laura Gallego es un [&amp;#8230;]<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
 </item>
 
 </channel>
