@@ -1,5 +1,101 @@
 [
   {
+    "blog": "PlanetaInopia es el blog personal de Sandor Inopia",
+    "titulo": "Como reiniciar la tarjeta gráfica",
+    "link": "https://www.planetainopia.com/blog/20261110-como-reiniciar-tarjeta-grafica",
+    "fecha": "10/11/2026 18:42",
+    "contenido": "\n                                \nHace unas semanas adquirí un dock USB de esos que ofrece, en un mismo dispositivo, tarjeta de red, puertos VGA y HDMI, 4 puertos USB3 y salida de auriculares. Pretendía jubilar el antiguo ThinkPad Ultra Dock que, en comparación, ocupaba bastante mas.\nTodo ha ido bie",
+    "imagen": "https://www.planetainopia.com/images/c/o/m/o/-/como-reiniciar-tarjeta-grafica-b026325b.jpg"
+  },
+  {
+    "blog": "56K",
+    "titulo": "OpenSC2K – Un engine libre para jugar a Sim City",
+    "link": "https://56k.es/fanta/opensc2k-un-engine-libre-para-jugar-a-sim-city-2000-en-linux/",
+    "fecha": "10/11/2026 18:21",
+    "contenido": "Realizado con Rust y Godot.Un engine libre para jugar a Sim City 2000 en por ejemplo Linux. Se puede poner en funcionamiento así: wget https://github.com/OpenSC2K/OpenSC2K/releases/download/v0.3.0/OpenSC2K-0.3.0-linux-x64.tar.gz tar xfvz OpenSC2K-0.3.0-linux-x64.tar.gz cd OpenSC2K-0.3.0-linux-x64 ./",
+    "imagen": null
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "La comunidad seguirá manteniendo el repositorio Packman",
+    "link": "https://victorhckinthefreeworld.com/2026/11/10/la-comunidad-seguira-manteniendo-el-repositorio-packman/",
+    "fecha": "10/11/2026 16:52",
+    "contenido": "Aunque se había anunciado que el repositorio Packman quedaría abandonado el próximo 1 de enero de 2027, nuevas manos se han ofrecido para seguir manteniéndolo en línea",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de The Totemist",
+    "link": "https://cozykis.kisworld.es/analisis-de-the-totemist/",
+    "fecha": "10/11/2026 12:26",
+    "contenido": "Fabrica elementos mágicos, gestiona tu tienda, pon guapitos a tus mascotas y descubre una historia de misterio\nLa entrada Análisis de The Totemist se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "La línea doméstica",
+    "titulo": "Lunes no lectivo",
+    "link": "https://jmlro.codeberg.page/posts/lunes-no-lectivo.txt",
+    "fecha": "10/11/2026 12:00",
+    "contenido": "¿Vamos a una fiesta?\nMi hijo me pregunta\npor qué no llevo botas de\nagua. Hace un círculo\ncon el pulgar y el\níndice para hacer canasta\ncon la lluvia.\n\nYo me quiero mojar la\ncabeza, dice saliendo del\nparaguas. Salta en\nlos charcos pequeños\nexprimiéndolos.\n\nEl coche con el suyo\nestá muy lejos.\n¿Y qué v",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Las guerras del Opio",
+    "link": "https://www.fabio.com.ar/10075-las-guerras-del-opio",
+    "fecha": "10/11/2026 12:00",
+    "contenido": "    \nUna de las guerras m&aacute;s incoherentes desde la &oacute;ptica actual fue la Guerra del Opio, una guerra \"mundial\" contra China por los derechos a... al narcotr&aacute;fico!\nHoy en d&iacute;a nos resulta inconcebible una guerra como esa, pero en el siglo XIX, hace apenas 180 a&ntilde;os, lo ",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/opium_war_3.jpg"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Otra Buena Banda De Metal Que Vuelve Al Ruedo | Oratorio Está De Regreso",
+    "link": "https://www.delotroladometal.com.ar/2026/11/10/oratorio-esta-de-regreso/",
+    "fecha": "10/11/2026 10:35",
+    "contenido": "Es posible que muchos no recuerden a Oratorio, o qué quizá nunca oyeron hablar de...\nThe post Otra Buena Banda De Metal Que Vuelve Al Ruedo | Oratorio Está De Regreso first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Creo que debo",
+    "link": "https://brucknerite.net/2026/11/creo-que-debo-hacerlo.html",
+    "fecha": "10/11/2026 09:00",
+    "contenido": "11 de noviembre. ¿Parar o no? He reflexionado con cuidado y tengo 137 palabras para vosotros, sin contar estas.",
+    "imagen": null
+  },
+  {
+    "blog": "Pepógrafo",
+    "titulo": "¿Y la verdad es mentira?",
+    "link": "https://pepografo.com/y-la-verdad-es-mentira/",
+    "fecha": "10/11/2026 08:00",
+    "contenido": "Un Monopoly, una mentira de infancia y una discusión con Tito. Un relato de humor sobre cómo negamos la realidad cuando contradice lo que creemos.\nLa entrada ¿Y la verdad es mentira? se publicó primero en Pepógrafo.",
+    "imagen": null
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Links interesantes sobre licencias: la CC BY-SA-AS  [Share Alike Aaron Swartz], Creative Commons y GenAIs, Humans Commons AI0 y la Filthy Human Hands License",
+    "link": "https://pedrolr.es/blog/links-interesantes-sobre-licencias-la-cc-by-sa-as-share-alike-aaron-swartz-creative-commons-y-genais-humans-commons-ai0-y-la-filthy-human-hands-license/",
+    "fecha": "10/11/2026 06:31",
+    "contenido": "Hoy 10 de noviembre veremos el documental de Aaron Swartz en la asignatura de Derechos y Licencias Digitales del Máster Universitario en Gestión de la Documentación, Bibliotecas y Archivos. Sirve en sí mismo y para iniciar el tema 2 sobre licencias. Es el segundo año que imparto esta asignatura y el",
+    "imagen": null
+  },
+  {
+    "blog": "Diego Cano",
+    "titulo": "Ahora, ¡comentarios!",
+    "link": "https://blep.org/Ahora-comentarios",
+    "fecha": "10/11/2026 00:00",
+    "contenido": "Podréis ver que debajo de algunos artículos del blog aparece ahora un bloque \"Comentarios\", que permite cargar... bueno, eso, comentarios que deja la peña en Mastodon.\n\nBásicamente, he implementado la idea de Carl Schwan, que pasa por enlazar un toot de Mastodon con un artículo aquí (técnicamente no",
+    "imagen": null
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Perderé mis, escasos, bitcoins por mi seguridad",
+    "link": "https://chancli.dev/blog/perdere-bitcoins-por-seguridad.html",
+    "fecha": "10/11/2026 00:00",
+    "contenido": "No, el título no es clickbait. Desde hace mucho tiempo tiempo tengo algo de criptomonedas, por puro fomo, en Binance. Tranquilos, no soy Satoshi, a día de hoy creo que son 300€.\nNo compro nada, no recuerdo la última vez que hice una transacción, la cosa es que pensando el otro día quise venderlos y ",
+    "imagen": null
+  },
+  {
     "blog": "Eterno aprendiz",
     "titulo": "Def Leppard Live 2026",
     "link": "https://altgr.xyz/2026/11/09/def-leppard-live-2026/",
@@ -180,7 +276,7 @@
     "titulo": "Portada de la Web del Escritor Rodriac Copen",
     "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
     "fecha": "08/11/2026 06:00",
-    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.org⭐ Novedades para Ti✔ Ultimas",
+    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔&nbsp;Lo Más Visto de la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.or",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnmj7LuWyxFEv7UGP7Wz9rAqOJWRUsLO-ydd_x6jBbKERB1qQpOakxLscnRzcO3eLe5UbhM2mnF8R6JPlzaVL-j8Q5MKKUOyRT6UTerhoboQo9CT5V7_JRQ4unPLa2275L38_r6x3uPGnHDqbGylH8cwRkSmt-42xyD5y7WNoz6BJNacV_EUKtJ0gk_Q/s72-c/Portada%20General.jpg"
   },
   {
@@ -373,7 +469,7 @@
     "link": "https://labaudric.net/videos/bodycam/6994",
     "fecha": "05/11/2026 18:27",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6994/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261110%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T052903Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=557d7b91cf92a4327142388dd4bbdecbd7d6c3f4f32d7ab1f464add831dc13ad"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6994/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261110%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T190822Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9ecfc0e2db21c02a8ff706fb346bb45e39d0ffafafb2c4f97d73be0bd84ea718"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -545,7 +641,7 @@
   },
   {
     "blog": "56K",
-    "titulo": "Juegos de Atlantis en Linux de forma nativa para gente con la ansiedad por las nubes",
+    "titulo": "Juegos de Atlantis en Linux de forma nativa",
     "link": "https://56k.es/fanta/juegos-de-atlantis-en-linux-de-forma-nativa-para-gente-con-la-ansiedad-por-las-nubes/",
     "fecha": "04/11/2026 16:17",
     "contenido": "Existe gente que para jugar a juegos como los de la serie Atlantis usen Heroic Launcher y cosas así. La cosa es que no hace falta realmente usar proton, wine, etc &#8230; si existe un engine libre que te permite ejecutar el juego de forma nativa. Estos días ando haciendo muchas cosas y con un...",
@@ -621,7 +717,7 @@
     "link": "https://labaudric.net/videos/vlog/6993",
     "fecha": "04/11/2026 05:41",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6993/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261110%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T052903Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7d89dee91173c900b2c5f212e1029d7fd52c83411b8c3ab63c86a8661a2373ff"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6993/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261110%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T190822Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b6f558e30adb9309cd1684cb26ed41a183e92da55470e0725d2423d6f75fd265"
   },
   {
     "blog": "Blog de Thalskarth",
@@ -661,46 +757,6 @@
     "link": "https://galeriaspreciados.band/llegan-los-dias-de-kielhalen-a-galerias-preciados/",
     "fecha": "03/11/2026 19:23",
     "contenido": "¡Estimados clientes! ¡Llego la hora de la verdad! El momento que todos ustedes esperaban, el de la presentación del producto fonográfico definitivo para el disfrute del fin del estado del bienestar",
-    "imagen": null
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "La Palanquita del control del Nintendo 64 - SteelSticks",
-    "link": "https://picandocodigo.net/2026/palanquita-control-nintendo-64-steelsticks/",
-    "fecha": "03/11/2026 15:32",
-    "contenido": "El control del Nintendo 64 introdujo un diseño muy particular. Su forma de tridente permite sostenerlo de maneras distintas para experiencias diversas con los juegos. Pero la posición por defecto está centrada en el \"control stick\" o \"la palanquita\". Ya habían habido controles con palanquita antes, ",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Los aviones caen y los boludos vuelan",
-    "link": "https://www.fabio.com.ar/10070-los-aviones-caen-y-los-boludos-vuelan",
-    "fecha": "03/11/2026 12:00",
-    "contenido": "    \nEl domingo a la noche un avi&oacute;n se precipit&oacute; a tierra en los EEUU, nada que no hayamos visto antes salvo por dos o tres tomas de distintas dashcam mostrando el suceso.\nAutom&aacute;ticamente en redes sociales aparecieron decenas de \"grinders\" conspiranoicos, como en las noticias an",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/learjet.jpg"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Grombo Card Shop Tycoon",
-    "link": "https://cozykis.kisworld.es/analisis-de-grombo-card-shop/",
-    "fecha": "03/11/2026 11:55",
-    "contenido": "Colecciona cartas, gestiona tu tienda y atiende a sufridores monigotes en este Early Access cargado de contenido\nLa entrada Análisis de Grombo Card Shop Tycoon se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Publicado openSUSE Leap 16.1",
-    "link": "https://victorhckinthefreeworld.com/2026/11/03/publicado-opensuse-leap-16-1/",
-    "fecha": "03/11/2026 11:03",
-    "contenido": "Primera versión menor de openSUSE Leap 16, con la que puedes escoger entre una distribución de GNU/Linux tradicional o una distribución de GNU/Linux inmutable",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Perfecta Combinación | Thrash Metal, Humor Y Motivik",
-    "link": "https://www.delotroladometal.com.ar/2026/11/03/thrash-metal-humor-y-motivik/",
-    "fecha": "03/11/2026 10:35",
-    "contenido": "El humor es uno de los condimentos ineludibles del Thrash Metal. Lo irónico, lo sarcástico,...\nThe post La Perfecta Combinación | Thrash Metal, Humor Y Motivik first appeared on Del Otro Lado Metal.",
     "imagen": null
   }
 ]
