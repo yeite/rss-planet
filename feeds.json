@@ -1,5 +1,13 @@
 [
   {
+    "blog": "Eterno aprendiz",
+    "titulo": "Def Leppard Live 2026",
+    "link": "https://altgr.xyz/2026/11/09/def-leppard-live-2026/",
+    "fecha": "09/11/2026 22:32",
+    "contenido": "Noche de domingo 8 de noviembre en Santander Arena (ex Movistar Arena). Apenas pasadas las 21:00 hrs. la banda sale al escenario, con Joe Elliot a la cabeza, para interpretar Rejoice, un single estrenado a comienzos de año. Fue el comienzo de un show donde los hitazos que han hecho de Def Leppard un",
+    "imagen": null
+  },
+  {
     "blog": "Mareos de un geek",
     "titulo": "Conan el Bárbaro (1982): la película que convirtió al bárbaro de Robert E. Howard en un mito del cine fantástico",
     "link": "https://mareosdeungeek.es/conan-el-barbaro-1982-pelicula/",
@@ -184,6 +192,14 @@
     "imagen": null
   },
   {
+    "blog": "Fixionauta",
+    "titulo": "",
+    "link": "https://fixionauta.net/2026/11/07/244222/",
+    "fecha": "08/11/2026 03:30",
+    "contenido": "Hachiban Deguchi (Genki Kawamura, 2025). Me gustó como se desarrolla la historia y ese final aparentemente desolador, pero le quito media estrella por ese tufillo pro-vida. Me recordó un poco a House of Leaves.",
+    "imagen": null
+  },
+  {
     "blog": "Si lo haces, hazlo bien!",
     "titulo": "Comandos básicos para administrar Continuwuity",
     "link": "https://vctrsnts.codeberg.page/posts/2026-11-08-comandos-basicos-continuwuity/",
@@ -229,6 +245,14 @@
     "link": "https://pepografo.com/monasterio-yuste-origen-el-escorial/",
     "fecha": "07/11/2026 07:30",
     "contenido": "Mucho antes de que Felipe II levantara uno de los monumentos más emblemáticos de la monarquía española, su padre, Carlos V, encontró en un rincón de La Vera el retiro que marcaría sus últimos años. La historia de Yuste contribuye a comprender los vínculos religiosos, dinásticos y funerarios que unen",
+    "imagen": null
+  },
+  {
+    "blog": "Fixionauta",
+    "titulo": "",
+    "link": "https://fixionauta.net/2026/11/06/244087/",
+    "fecha": "06/11/2026 19:20",
+    "contenido": "Oksooyuk Guishin (Jeong Yong-ki, 2023) es solo una colección de clichés sacados de un montón de otras películas del mismo corte, sin aportar nada, dejando la copia en algo insípido; el pobre doblaje hace que sea aún peor.",
     "imagen": null
   },
   {
@@ -349,7 +373,7 @@
     "link": "https://labaudric.net/videos/bodycam/6994",
     "fecha": "05/11/2026 18:27",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6994/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261109%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261109T214813Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=69855627b4600485b4b9113606c4dd63036a5a786d8089ee3eab7e7d475cb945"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6994/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261110%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T052903Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=557d7b91cf92a4327142388dd4bbdecbd7d6c3f4f32d7ab1f464add831dc13ad"
   },
   {
     "blog": "El escritorio de McAllus",
@@ -597,7 +621,7 @@
     "link": "https://labaudric.net/videos/vlog/6993",
     "fecha": "04/11/2026 05:41",
     "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6993/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261109%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261109T214813Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=6c1f69bb83913ea4aaf0701d191e2427534123636ca9885073de8fdf8c98c392"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6993/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261110%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261110T052903Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=7d89dee91173c900b2c5f212e1029d7fd52c83411b8c3ab63c86a8661a2373ff"
   },
   {
     "blog": "Blog de Thalskarth",
@@ -678,53 +702,5 @@
     "fecha": "03/11/2026 10:35",
     "contenido": "El humor es uno de los condimentos ineludibles del Thrash Metal. Lo irónico, lo sarcástico,...\nThe post La Perfecta Combinación | Thrash Metal, Humor Y Motivik first appeared on Del Otro Lado Metal.",
     "imagen": null
-  },
-  {
-    "blog": "quiroptero.blog",
-    "titulo": "El mini rincón Terry Pratchett ya no es tan mini",
-    "link": "https://www.quiroptero.blog/2026/11/pratchett/",
-    "fecha": "03/11/2026 00:25",
-    "contenido": "¿Libros de Terry Pratchett? Shut up and take my money!",
-    "imagen": null
-  },
-  {
-    "blog": "NeoSite Blog",
-    "titulo": "Acceso remoto fácilmente: Cómo integrar Tailscale en Proxmox VE",
-    "link": "https://blog.neosite.com.ar/post/acceso-remoto-sin-complicaciones-c-mo-integrar-tailscale-en-proxmox-ve",
-    "fecha": "03/11/2026 00:00",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "La única dirección que no cambia",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/la-unica-direccion-que-no-cambia/",
-    "fecha": "03/11/2026 00:00",
-    "contenido": "Con los años cambié de casa, de ciudad, de oficio, de amigos, de opiniones y hasta de nombre en la manera de presentarme ante los demás. Cambiaron mis libros, mis fotografías, mis costumbres, el número de teléfono y las personas a las que alguna vez consideré imprescindibles. Algunas desaparecieron;",
-    "imagen": "https://mataroa.blog/images/94c62537.png"
-  },
-  {
-    "blog": "Jorge Aguilera",
-    "titulo": "Self Hosting",
-    "link": "https://blog.jagedn.dev/blog/2026/self-hosting.html",
-    "fecha": "03/11/2026 00:00",
-    "contenido": "Autoalojando aplicaciones o el poder de tener el control",
-    "imagen": null
-  },
-  {
-    "blog": "danielaragay.net",
-    "titulo": "Neveras y congeladores de supermercados suecos hackeados",
-    "link": "https://blog.danielaragay.net/neveras-y-congeladores-de-supermercados-suecos-hackeados/",
-    "fecha": "02/11/2026 22:00",
-    "contenido": "Nuevo episodio del podcast: Neveras y congeladores de supermercados suecos hackeadosEsc&#xfa;chalo aqu&#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/neveras-y-congeladores-de-supermercados-suecos-hackeados",
-    "imagen": "https://podcast.danielaragay.net/media/podcasts/haciendoelsueco/cover_feed.jpg"
-  },
-  {
-    "blog": "Ubuntu Peronista",
-    "titulo": "¿Cómo emulo una terminal DEC VT420 en Ubuntu?",
-    "link": "https://ubuntuperonista.blogspot.com/2026/11/como-emular-terminal-dec-vt420-en-ubuntu.html",
-    "fecha": "02/11/2026 21:56",
-    "contenido": "Juan Perón grabó una serie de cintas magnetofónicas compañeras de su La Comunidad Organizada. En una de ellas relata cómo propiciar la defensa de la misma, a la vez que enseñaba cómo emular un videoterminal DEC VT420 en Ubuntu.¡Trabajadores!Una Comunidad Organizada, justa y solidaria en la que todos",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcJaWc13KVhSUml8zD4hbJV2uUN5Wj0D4QPEELvlsxQqLhyphenhyphenTq8yjKlXSjjIpHvnpBSw4cjof81jyqFIDKZblk3fA7QRUbOLFCluIIzTx10S5gcas69veE52s850hgaqoOe49SdP6GcmYPf0lx6590Vd-_BCyO2IqZ9XGoUGxo5tR459HeLdsEHT4q2gRsl/s72-c/peron%20con%20vt420.jpg"
   }
 ]
