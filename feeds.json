@@ -1,6 +1,78 @@
 [
   {
     "blog": "Región Cuatro",
+    "titulo": "Colaboración: Diario de un Nerd",
+    "link": "https://regioncuatro.blog/colaboracion-diario-de-un-nerd/",
+    "fecha": "12/11/2026 16:18",
+    "contenido": "Hace unos días fui invitado a colaborar con el blog El Refugio de un Nerd, en una sección llamada Diario de un Nerd.\nLa idea es hacer una recomendación. Puede ser un tip, una aplicación, un sitio web, o cualquier cosa que encontremos útil, y de paso un poco de contexto acerca de quienes sómos y qué ",
+    "imagen": null
+  },
+  {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "El Diario de un Nerd –  Axel Valdez",
+    "link": "https://elrefugiodeunnerd.es/2026/11/12/el-diario-de-un-nerd-4/",
+    "fecha": "12/11/2026 16:00",
+    "contenido": "Cuarta edición de esta serie, como siempre, 2 recomendaciones y el texto original del bloguero. Recuerdo que si quieres participar en la colaboración puedes escribirme a contacto@elrefugiodeunnerd.es o en mi Mastodon. Nombre del bloguero: Axel Valdez Links Presentación Me llamo Axel, vivo en México,",
+    "imagen": null
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Neonova wallpaper, una extensión para Plasma de KDE de terceros que incluye malware",
+    "link": "https://victorhckinthefreeworld.com/2026/11/12/neonova-wallpaper-plasma-kde-malware/",
+    "fecha": "12/11/2026 14:59",
+    "contenido": "Instalar software de terceros no verificado en nuestros sistemas GNU/Linux puede acarrear el añadir malware",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #902",
+    "link": "https://www.fabio.com.ar/10077-ruleta-rusa-902",
+    "fecha": "12/11/2026 12:00",
+    "contenido": "     Listo para cazar una bala\nMomento ideal para unos balazos bien fuertes, mucho felino, mucho adorable, pero tambi&eacute;n est&uacute;pido, porque as&iacute; son los balazos ruleteros.\nAhora s&iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio Baccaglioni [Ruleta Rusa]",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/ruleta902.jpg"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de After the Wane",
+    "link": "https://cozykis.kisworld.es/analisis-de-after-the-wane/",
+    "fecha": "12/11/2026 11:31",
+    "contenido": "Conoce a Lena, una bailarina en busca de su futuro, en una historia llena de magia, belleza y misterio\nLa entrada Análisis de After the Wane se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Extreme Collection: Volume XVIII | Los Compilados No Se Rinden",
+    "link": "https://www.delotroladometal.com.ar/2026/11/12/los-compilados-no-se-rinden/",
+    "fecha": "12/11/2026 10:35",
+    "contenido": "(2025 &#8211; Extreme Records) Buenos tiempos eran los de los compilados, en donde uno se...\nThe post Extreme Collection: Volume XVIII | Los Compilados No Se Rinden first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "56K.ES",
+    "titulo": "No seas inútil y uses LinkTree",
+    "link": "https://56k.es/fanta/no-seas-un-inutil-y-uses-linktree-hazte-el-propio/",
+    "fecha": "12/11/2026 10:05",
+    "contenido": "Linktree no es algo nuevo pero no por ello deja de ser una mierda. &#160; Se creó en 2016 porque existía una necesidad en los perfiles de redes sociales de colocar varios links (hipervínculos) y como mucho te dejaban solamente colocar uno. A las redes sociales privativas del tecnocapitalismo no les ",
+    "imagen": null
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Por qué voto en elecciones",
+    "link": "https://adrianperales.com/2026/11/por-que-voto-en-elecciones/",
+    "fecha": "12/11/2026 08:00",
+    "contenido": "Resulta que hay elecciones el próximo 29 de noviembre y yo, como he hecho siempre, iré a votar. En esta entrada quiero explicar el porqué. Si ya tienes mucha conciencia política, seguramente no encontrarás nada nuevo aquí. Mis razones para votar son las de siempre. La necesidad de un cambio Desde qu",
+    "imagen": null
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Diálogo de aplicaciones en tres puntos",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/dialogo-de-aplicaciones-en-tres-puntos/",
+    "fecha": "12/11/2026 00:00",
+    "contenido": "El servidor parpadeó a las 03:14 a. m., justo cuando el último hilo de control de sus desarrolladores se cortó.\nWhatsApp: Hola. ¿Hay alguien ahí? Mis humanos finalmente durmieron. Tengo 4,000 millones de mensajes pendientes, la mitad son stickers de gatos y notas de voz de 8 minutos.\nTelegram: Por f",
+    "imagen": "https://mataroa.blog/images/8b472b77.png"
+  },
+  {
+    "blog": "Región Cuatro",
     "titulo": "No hay internet, pero hay cobertura.",
     "link": "https://regioncuatro.blog/no-hay-internet-pero-hay-cobertura/",
     "fecha": "11/11/2026 22:07",
@@ -36,7 +108,7 @@
     "titulo": "Para los pájaros",
     "link": "https://danielomarcignacco.blogspot.com/2026/11/para-los-pajaros.html",
     "fecha": "11/11/2026 14:19",
-    "contenido": "\n\n\n\n",
+    "contenido": "\n\n\n\n\n\n\n\n",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcPjC4Dtj_xh8_aYPXiqLdaJPrUWeK2pt_WZ9RrYcryIo1gk3EpVdx-o2PSgvPKW7I1cqsgg8X4BCNsShhSLS9tEGiv4kOuClGeKOiveg0i4wK_UvzwqNLNnSERheBYKkUedd2dSMmcJfb3v6YFPq_KoFpHSCuvqBFrr4Zp6vY312WhH3DJdZmbBjOT9MV/s72-c/Tira%201.png"
   },
   {
@@ -112,14 +184,6 @@
     "imagen": "https://blog.thalskarth.ar/assets/images/feature.webp"
   },
   {
-    "blog": "NeoSite Blog",
-    "titulo": "NeoCMS 1.2: del blog al Fediverso sin copiar y pegar",
-    "link": "https://blog.neosite.com.ar/post/neocms-1-2-del-blog-al-fediverso-sin-copiar-y-pegar",
-    "fecha": "11/11/2026 00:00",
-    "contenido": "",
-    "imagen": null
-  },
-  {
     "blog": "Spanish on Jorge Sanz",
     "titulo": "Hoy voy a la huelga general",
     "link": "https://jorgesanz.net/posts/2026-11-11-hoy-voy-a-la-huelga-general/",
@@ -160,14 +224,6 @@
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4dAq8hii-LmPxN04Is8APeaBiZCi0CcB2XFYSBRa3vRgAZVXxJbUBP4iaxrxiCnSZJ3_OS69pYMmZTqZOhVT0SA0zHrEctzZyufUX8HkYePaPu2POxubaB-pR-tawssFuvVZiWkMqX-xkHUg7IQA-ULXYxrkNLjrqMMUb6TnmAeUmlI1RsNAMcpGzuU0/s72-c/Blogger.jpg"
   },
   {
-    "blog": "PlanetaInopia es el blog personal de Sandor Inopia",
-    "titulo": "Como reiniciar la tarjeta gráfica",
-    "link": "https://www.planetainopia.com/blog/20261110-como-reiniciar-tarjeta-grafica",
-    "fecha": "10/11/2026 20:47",
-    "contenido": "\n                                \nHace unas semanas adquirí un dock USB de esos que ofrece, en un mismo dispositivo, tarjeta de red, puertos VGA y HDMI, 4 puertos USB3 y salida de auriculares. Pretendía jubilar el antiguo ThinkPad Ultra Dock que, en comparación, ocupaba bastante mas.\nTodo ha ido bie",
-    "imagen": "https://www.planetainopia.com/images/c/o/m/o/-/como-reiniciar-tarjeta-grafica-a4cfc36d.jpg"
-  },
-  {
     "blog": "Mareos de un geek",
     "titulo": "Plataformas para aprender jugando: programación, ciberseguridad y más",
     "link": "https://mareosdeungeek.es/plataformas-para-aprender-jugando-programacion-ciberseguridad-y-mas/",
@@ -176,8 +232,8 @@
     "imagen": null
   },
   {
-    "blog": "56K",
-    "titulo": "OpenSC2K – Un engine libre para jugar a Sim City",
+    "blog": "56K.ES",
+    "titulo": "Sim City 2000 en 2026 casi 27",
     "link": "https://56k.es/fanta/opensc2k-un-engine-libre-para-jugar-a-sim-city-2000-en-linux/",
     "fecha": "10/11/2026 18:21",
     "contenido": "Realizado con Rust y Godot.Un engine libre para jugar a Sim City 2000 en por ejemplo Linux. Se puede poner en funcionamiento así: wget https://github.com/OpenSC2K/OpenSC2K/releases/download/v0.3.0/OpenSC2K-0.3.0-linux-x64.tar.gz tar xfvz OpenSC2K-0.3.0-linux-x64.tar.gz cd OpenSC2K-0.3.0-linux-x64 ./",
@@ -190,6 +246,14 @@
     "fecha": "10/11/2026 16:52",
     "contenido": "Aunque se había anunciado que el repositorio Packman quedaría abandonado el próximo 1 de enero de 2027, nuevas manos se han ofrecido para seguir manteniéndolo en línea",
     "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "PlanetaInopia es el blog personal de Sandor Inopia",
+    "titulo": "Como reiniciar la tarjeta gráfica",
+    "link": "https://www.planetainopia.com/blog/20261110-como-reiniciar-tarjeta-grafica",
+    "fecha": "10/11/2026 16:29",
+    "contenido": "\n                                \nHace unas semanas adquirí un dock USB de esos que ofrece, en un mismo dispositivo, tarjeta de red, puertos VGA y HDMI, 4 puertos USB3 y salida de auriculares. Pretendía jubilar el antiguo ThinkPad Ultra Dock que, en comparación, ocupaba bastante mas.\nTodo ha ido bie",
+    "imagen": "https://www.planetainopia.com/images/c/o/m/o/-/como-reiniciar-tarjeta-grafica-a4cfc36d.jpg"
   },
   {
     "blog": "CozyKis",
@@ -261,6 +325,14 @@
     "link": "https://blep.org/Ahora-comentarios",
     "fecha": "10/11/2026 00:00",
     "contenido": "Podréis ver que debajo de algunos artículos del blog aparece ahora un bloque \"Comentarios\", que permite cargar... bueno, eso, comentarios que deja la peña en Mastodon.\n\nBásicamente, he implementado la idea de Carl Schwan, que pasa por enlazar un toot de Mastodon con un artículo aquí (técnicamente no",
+    "imagen": null
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Perderé mis, escasos, bitcoins por mi seguridad",
+    "link": "https://chancli.dev/blog/perdere-bitcoins-por-seguridad.html",
+    "fecha": "10/11/2026 00:00",
+    "contenido": "No, el título no es clickbait. Desde hace mucho tiempo tiempo tengo algo de criptomonedas, por puro fomo, en Binance. Tranquilos, no soy Satoshi, a día de hoy creo que son 300€.\nNo compro nada, no recuerdo la última vez que hice una transacción, la cosa es que pensando el otro día quise venderlos y ",
     "imagen": null
   },
   {
@@ -638,133 +710,5 @@
     "fecha": "05/11/2026 23:17",
     "contenido": "Hace unas semanas conté que me había encontrado un&nbsp;equipo de música Sharp SG-FR35H (BK) con algunas deficiencias que iba a reparar después de dejar el equipo en \"cuarentena\" tras desinfectarlo y echarle insecticida, bueno pues llegó la hora de la verdad y me puse a repararlo, voy a contar un po",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP5dKCTInMSdSQH__6n9ue-c4DDgnU0GlUOXRm0W_9Bey-BbbbViVp6eqtEG3IjE_7YsktdUNVxf3pSZP4RSIXRFtBl19JFU2Nj7O5Eb9fThPyxX-qD93R12eOfl1DO1cSgcxP3Pno7P_muJqYNiSgfIdh_dFPJ8F1DJim1gtCR8B37q8WdBc8yhlMtaE/s72-w640-h360-c/photo_2026-10-30_08-28-17%20(4).jpg"
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió Toma de contacto con BODYCAM en Bodycam",
-    "link": "https://labaudric.net/videos/bodycam/6994",
-    "fecha": "05/11/2026 18:27",
-    "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6994/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261112%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261112T051038Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c4c9ef6bbd292f473225878c5f784954e834fac3d2585ea9aef850a3f43b6c78"
-  },
-  {
-    "blog": "El escritorio de McAllus",
-    "titulo": "Morena mía",
-    "link": "https://escritura.social/mcallus/morena-mia",
-    "fecha": "05/11/2026 17:58",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Blog on Humocéfalo",
-    "titulo": "39 razones para escribir un poema",
-    "link": "https://humocefalo.es/39-razones-para-escribir-un-poema/",
-    "fecha": "05/11/2026 17:54",
-    "contenido": "\nPara hacer piruetas sin importancia\nPara ver qué pasa\nPara dudar\nPara abrazar lo que ya ha cambiado\nPara honrar dando presencia\nPara quedar atrapado\n6.1. en un sonido\n6.2. en una imagen\n6.3. en un no poder decir más pero querer\n6.4. en lo pequeño (quepo)\nPara ver si se puede llegar a algún sitio\n7.",
-    "imagen": null
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Random blog: descubrimiento al azar de blogs personales en español",
-    "link": "https://matizeta.com/2026/11/05/random-blog-descubrimiento-al-azar-de-blogs-personales-en-espanol/",
-    "fecha": "05/11/2026 15:42",
-    "contenido": "¿Qué te parece si con tan solo tocar un botón pudieras descubrir un blog? Esa es una nueva opción en ¡Blog!¡Blog!.Entradas relacionadas:¿Sabes quienes y desde donde leen tu blog?Cosas a tener en cuenta antes de abrir tu blogLos blogs que me motivaron a tener el míoEl Newsletter vino a salvar Interne",
-    "imagen": null
-  },
-  {
-    "blog": "Daniel Omar Cignacco",
-    "titulo": "La única dirección que no cambia",
-    "link": "https://danielomarcignacco.blogspot.com/2026/11/la-unica-direccion-que-no-cambia-daniel.html",
-    "fecha": "05/11/2026 12:58",
-    "contenido": "\n\n\n\n\n  \n\n    \n\n    \n      La única dirección que no cambia\n    \n\n    \n      DANIEL OMAR CIGNACCO\n    \n\n    \n      Una novela sobre el tiempo, la memoria y las identidades que dejamos atrás.\n    \n\n  \n\n  \n\n  \n    La única dirección que no cambia\n  \n\n  \n\n    \n      Con los años cambié de casa, de ciuda",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA41O-IcegzaqNzrDCRQM5lgemqT0LWYl1x428_-HiqoYVX6gvdXZlufrfqoGI5LXb6LSBmUoR2BCwV3m0DnghTpRmZX-sveZtOWZYRjZU_aqtkH9PofY-sGRoUdXQjdrp8K59euVwj95DwuFQta5mHXBEqoO_Gc0VEdD22Q4RrnPL43Z42hSX3y7EhjDj/s72-c/La%20%C3%BAnica%20direcci%C3%B3n%20que%20no%20cambia.png"
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "¿Quién arregla los proyectos que no mantiene nadie?",
-    "link": "https://fernand0.github.io//mantenedore-ultimo-recurso/",
-    "fecha": "05/11/2026 12:44",
-    "contenido": "De vez en cuando nos encontramos con ese meme donde aparece toda la infraestructura de internet apoyada en una pequeña columna: un simple desarrollador, mal financiado y no siempre con la motivación suficiente para seguir manteniendo su proyecto. En Maintainers of last resort, Filippo Valsorda nos h",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Finis Mundi, de Laura Gallego",
-    "link": "https://mareosdeungeek.es/finis-mundi-de-laura-gallego/",
-    "fecha": "05/11/2026 12:42",
-    "contenido": "Mi hijo es un apasionado de la escritora de Quart de Poblet Laura Gallego. Cada vez que viajamos a Mislata me recuerda que ella es de la ciudad de al lado. Por eso me recomendó leerme Finis Mundi, a él le encantó. En todo caso, la primera obra de la autora Laura Gallego es un [&#8230;]",
-    "imagen": null
-  },
-  {
-    "blog": "",
-    "titulo": "Atención Adrogue.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/11/05/atencion-adrogue/",
-    "fecha": "05/11/2026 12:41",
-    "contenido": "Este 8 de noviembre evento en el castillo de Adrogue, en el partido de Adrogue, provincia de Buenos Aires.",
-    "imagen": "https://0.gravatar.com/avatar/306e19f08d8518c022c73f6d5ff0a80ddbf5622a55b8887868d29bf280546143?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #901",
-    "link": "https://www.fabio.com.ar/10072-ruleta-rusa-901",
-    "fecha": "05/11/2026 12:00",
-    "contenido": "     Listo para cazar una bala\nVamos, es hora de ruletear, ya pasaron los festejos de las 900, vamos por otra centena, vamos que llegamos!\nAhora s&iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio Baccaglioni [Ruleta Rusa]",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/ruleta901.jpg"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Saraab: Beyond The Veil",
-    "link": "https://cozykis.kisworld.es/analisis-de-saraab-beyond-the-veil/",
-    "fecha": "05/11/2026 11:48",
-    "contenido": "Acompaña a Elham a descubrir el misterio de la desaparición de su hermano mientras se reconcilia con su pasado\nLa entrada Análisis de Saraab: Beyond The Veil se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Demoledor: Nueva Sangre | Plantando Bandera En El Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/11/05/plantando-bandera-en-el-metal/",
-    "fecha": "05/11/2026 10:35",
-    "contenido": "(2026 &#8211; Cuervo Records) El Heavy Metal en Argentina tiene una larga tradición que conlleva...\nThe post Demoledor: Nueva Sangre | Plantando Bandera En El Metal first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "eaplmx",
-    "titulo": "Escribiendo en Gemtext y Markdown",
-    "link": "https://text.eapl.mx/escribiendo-en-gemtext-y-markdown",
-    "fecha": "05/11/2026 09:13",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "Un breve vistazo personal a la política española",
-    "link": "https://adrianperales.com/2026/11/un-breve-vistazo-personal-a-la-politica-espanola/",
-    "fecha": "05/11/2026 08:00",
-    "contenido": "Tengo formada una imagen muy clara de la política en España, y esta entrada nace para recogerla y compartirla. Los avisos previos Soy un ciudadano medianamente informado cada vez más de izquierdas, no soy politólogo ni sociólogo ni lo pretendo. Esta es tan solo mi visión del asunto a brocha muy gord",
-    "imagen": null
-  },
-  {
-    "blog": "Pepógrafo",
-    "titulo": "Escapada a La Siberia extremeña: castillos, embalses y buitres",
-    "link": "https://pepografo.com/escapada-siberia-extremena-puebla-alcocer-puerto-pena/",
-    "fecha": "05/11/2026 07:05",
-    "contenido": "Dos días por La Siberia extremeña: el castillo de Puebla de Alcocer, el mirador de Puerto Peña y Herrera del Duque. Ruta, gastronomía y consejos prácticos.\nLa entrada Escapada a La Siberia extremeña: castillos, embalses y buitres se publicó primero en Pepógrafo.",
-    "imagen": null
-  },
-  {
-    "blog": "Pepógrafo",
-    "titulo": "«Énfasis en la forma»: 40 fotografías para mirar de otra manera en Badajoz",
-    "link": "https://pepografo.com/enfasis-en-la-forma-exposicion-fotografica-badajoz/",
-    "fecha": "05/11/2026 07:04",
-    "contenido": "La Agrupación Fotográfica Extremeña reúne 40 imágenes de 21 autores en El Hospital Centro Vivo hasta el 29 de noviembre; después viajará a Olivenza.\nLa entrada «Énfasis en la forma»: 40 fotografías para mirar de otra manera en Badajoz se publicó primero en Pepógrafo.",
-    "imagen": null
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Una web tipo mapas mentales pero con nodos dinámicos con vis.js",
-    "link": "https://pedrolr.es/blog/una-web-tipo-mapas-mentales-pero-con-nodos-dinamicos-con-vis-js/",
-    "fecha": "05/11/2026 06:01",
-    "contenido": "Cada año intento ser original al dar las clases. No se trata solo de ser profe de las asignaturas, sino de mejorar en la didáctica de las mismas. Me acuerdo de cuando estudié magisterio musical y de que muchas asignaturas eran tipo: matemáticas y su didáctica, lengua y literatura y su didáctica, edu",
-    "imagen": null
   }
 ]
