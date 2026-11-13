@@ -1,11 +1,115 @@
 [
   {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 46 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/11/13/opensuse-tumbleweed-revision-de-la-semana-46-de-2026/",
+    "fecha": "13/11/2026 16:34",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "Memorias de un Técnico Ligero",
+    "titulo": "Conocer mi modelo de CPU",
+    "link": "https://tecnico-ligero.mooo.com/posts/2026/conocer-mi-modelo-de-cpu.html",
+    "fecha": "13/11/2026 15:59",
+    "contenido": "Muchas veces necesito saber el modelo de mi CPU y se me olvida con qué. Tiro inxi pero es mucho dato y quiero algo preciso. Esta es una variante copada que descubrí:\nlscpu | grep -E 'Model name|CPU\\(s\\)|MHz'z'\n\n\nY para ver el modelo de procesador y nombre …",
+    "imagen": null
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Tutorial: Configurando WireGuard en Home Assistant",
+    "link": "https://interlan.ec/blog/2026/11/13/tutorial-configurando-wireguard-en-home-assistant/",
+    "fecha": "13/11/2026 14:00",
+    "contenido": "Esta puede ser una tarea sencilla, pero como me llevo un tiempo comprenderla, la comparto por aquí para recordar. Este Post pertenece a la categoría Tutoriales Puedes encontrar todos los artículos en orden cronológico en la etiqueta Wireguard Introducción Aun no termino de entender libremente el fun",
+    "imagen": null
+  },
+  {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "Manjaro da un paso histórico",
+    "link": "https://tecnoysoft.com/2026/11/13/manjaro-da-un-paso-historico/",
+    "fecha": "13/11/2026 13:16",
+    "contenido": "Manjaro da un paso histórico: el proyecto ya cuenta con una asociación oficial e independiente ¡Buenas noticias para la comunidad de Manjaro! El proyecto acaba de alcanzar un hito muy importante para su futuro: Manjaro Project e.V. ya es oficialmente una organización sin ánimo de lucro, registrada l",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #967",
+    "link": "https://www.fabio.com.ar/10078-links-de-viernes---967",
+    "fecha": "13/11/2026 12:00",
+    "contenido": "     Lleg&oacute; el momento de lectura, los links de viernes!\nNo che, que no todo es lectura, tambi&eacute;n hay p&aacute;ginas bonitas, algunas im&aacute;genes locas y videos, porque aqu&iacute; hay links y porque Internet est&aacute; formada de Links, las RRSS no son Internet, sabelo. Y si te par",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/ldv967.jpg"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Truth Beneath the Shadows",
+    "link": "https://cozykis.kisworld.es/analisis-de-truth-beneath-the-shadows/",
+    "fecha": "13/11/2026 11:30",
+    "contenido": "Una misteriosa desaparición y una pareja de furrys reporteros para descubrir la verdad. Encuentra pista y resuelve el misterio\nLa entrada Análisis de Truth Beneath the Shadows se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Banda Finlandesa Y Su Actualidad | Deuteronomium Y El Viento A Favor",
+    "link": "https://www.delotroladometal.com.ar/2026/11/13/deuteronomium-va-para-donde-sopla-el-viento/",
+    "fecha": "13/11/2026 10:35",
+    "contenido": "La personalidad es una de las características más sobresalientes de Deuteronomium, banda finlandesa histórica si...\nThe post La Banda Finlandesa Y Su Actualidad | Deuteronomium Y El Viento A Favor first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "Mi perra vida",
+    "titulo": "Mi perra vida | Temporada 2026, episodio 46.",
+    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-46/",
+    "fecha": "13/11/2026 10:17",
+    "contenido": "Doctor Nómada (vigésimo segunda parte)\nLeer la vigésimo primera parte\nDoctor Nómada (vigésimo segunda)\nEstuvimos platicándolo hasta muy entrada la noche, finalmente el cansancio y darnos cuenta de las pocas opciones reales que tenía el acertijo nos vencieron. Acordamos que lo más conveniente era la ",
+    "imagen": "https://miperravida.anacronico.rocks/wp-content/uploads/2026/11/20261108_0002-1024x768.jpg"
+  },
+  {
+    "blog": "Pepógrafo",
+    "titulo": "Los tesoros que Extremadura esconde bajo sus embalses",
+    "link": "https://pepografo.com/tesoros-ocultos-embalses-extremadura/",
+    "fecha": "13/11/2026 09:04",
+    "contenido": "Extremadura esconde bajo sus embalses una historia fascinante: una ciudad romana, un dolmen milenario, esculturas vetonas y vestigios de antiguos territorios que quedaron bajo el agua con la construcción de las grandes presas.\nLa entrada Los tesoros que Extremadura esconde bajo sus embalses se publi",
+    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/templomarmoles1.png?fit=1200%2C800&ssl=1"
+  },
+  {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "Secure Boot en Linux",
+    "link": "https://tecnoysoft.com/2026/11/13/secure-boot-en-linux/",
+    "fecha": "13/11/2026 08:27",
+    "contenido": "Secure Boot en Linux: ¿protección real o falsa sensación de seguridad? Secure Boot es una de esas características de seguridad que suelen presentarse como imprescindibles en los sistemas modernos. Su objetivo es proteger la cadena de arranque del equipo, impidiendo que se ejecuten componentes que no",
+    "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "La GUI de Proxmox [Proxmox #4]",
+    "link": "https://voidnull.es/la-gui-de-proxmox/",
+    "fecha": "13/11/2026 08:18",
+    "contenido": "En este capítulo explicaremos como funciona la interfaz gráfica de Proxmox",
+    "imagen": "https://voidnull.es/content/images/2022/01/proxmox.png"
+  },
+  {
+    "blog": "El blog es mío",
+    "titulo": "El anime que es demasiado anime",
+    "link": "https://alex.corcoles.net/2026/11/el-anime-que-es-demasiado-anime",
+    "fecha": "13/11/2026 00:00",
+    "contenido": "\n  El otro d&#237;a me acab&#233; Akane Banashi (Netflix, una temporada de 12 episodios de 30 minutos).\n  Me sorprende que con la fascinaci&#243;n occidental por las tradiciones japonesas no se haya o&#237;do hablar m&#225;s por aqu&#237; del rakugo sobre el que se centra la serie. El rakugo es el s",
+    "imagen": null
+  },
+  {
     "blog": "Malagueños originales y libres",
     "titulo": "Ochenta, emulador libre de Amstrad CPC, ZX Spectrum, ZX Uno y ZX Spectrum Next",
     "link": "https://malagaoriginal.blogspot.com/2026/11/ochenta-emulador-libre-de-amstrad-cpc.html",
     "fecha": "12/11/2026 23:19",
     "contenido": "Ochenta, antes conocido como emu80, es un nuevo emulador de Amstrad CPC 464, 664, 6128, ZX Spectrum, ZX Uno y ZX Spectrum Next, creado bajo licencia GNU v3.0 y disponible para GNU/Linux (RPM, DEB y AppImage) y Windows.La manera más sencilla de ejecutar el emulador es descargarse el archivo AppImage ",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXku-9xP9Rk0YhBP9WDBU7O8aG0KJmGsdqCsrWdbtDpjnrhEJxYpJKTKrR2_BccVctHjybN9dfirs-8I2gXjx_KHurUnbWfP9jnL-AqcGP_1IPUisbr83S79WTdzfMCiuPLEyXzP8n54Q6-HAjwTr5_Cr76ze80TU39NS9Whx47diY1E-VNkj3M0AtHSQ/s72-c/emu80_zxspectrum128.png"
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Podman rootless: recuperando las IP reales con Traefik",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-11-13-podman-traefik-umami/",
+    "fecha": "12/11/2026 23:00",
+    "contenido": "Sabes ese problema que viene a buscarte y que piensas que va a ser muy fácil de solucionar, que en un plis-plas lo habrás resuelto. Que tocas aquí, modificas allá y listo. Pues ya te puedo decir que este no es de esos que puedes resolver en 5 minutos. Para este necesitas, como mínimo, un mes, que es",
+    "imagen": null
   },
   {
     "blog": "La Madre Que Parió Al Pato Negro",
@@ -341,7 +445,7 @@
     "link": "https://pepografo.com/y-la-verdad-es-mentira/",
     "fecha": "10/11/2026 08:00",
     "contenido": "Un Monopoly, una mentira de infancia y una discusión con Tito. Un relato de humor sobre cómo negamos la realidad cuando contradice lo que creemos.\nLa entrada ¿Y la verdad es mentira? se publicó primero en Pepógrafo.",
-    "imagen": null
+    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/%C2%BFY-la-verdad-es-mentira-%E2%80%94-El-juego-de-mesa.png?fit=1536%2C1024&ssl=1"
   },
   {
     "blog": "pedrolr blog",
@@ -365,6 +469,14 @@
     "link": "https://blep.org/Ahora-comentarios",
     "fecha": "10/11/2026 00:00",
     "contenido": "Podréis ver que debajo de algunos artículos del blog aparece ahora un bloque \"Comentarios\", que permite cargar... bueno, eso, comentarios que deja la peña en Mastodon.\n\nBásicamente, he implementado la idea de Carl Schwan, que pasa por enlazar un toot de Mastodon con un artículo aquí (técnicamente no",
+    "imagen": null
+  },
+  {
+    "blog": "Chancli.dev",
+    "titulo": "Perderé mis, escasos, bitcoins por mi seguridad",
+    "link": "https://chancli.dev/blog/perdere-bitcoins-por-seguridad.html",
+    "fecha": "10/11/2026 00:00",
+    "contenido": "No, el título no es clickbait. Desde hace mucho tiempo tiempo tengo algo de criptomonedas, por puro fomo, en Binance. Tranquilos, no soy Satoshi, a día de hoy creo que son 300€.\nNo compro nada, no recuerdo la última vez que hice una transacción, la cosa es que pensando el otro día quise venderlos y ",
     "imagen": null
   },
   {
@@ -613,7 +725,7 @@
     "link": "https://pepografo.com/monasterio-yuste-origen-el-escorial/",
     "fecha": "07/11/2026 07:30",
     "contenido": "Mucho antes de que Felipe II levantara uno de los monumentos más emblemáticos de la monarquía española, su padre, Carlos V, encontró en un rincón de La Vera el retiro que marcaría sus últimos años. La historia de Yuste contribuye a comprender los vínculos religiosos, dinásticos y funerarios que unen",
-    "imagen": null
+    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/10/yuste1.jpg?fit=1200%2C826&ssl=1"
   },
   {
     "blog": "Fixionauta",
@@ -621,110 +733,6 @@
     "link": "https://fixionauta.net/2026/11/06/244087/",
     "fecha": "06/11/2026 19:20",
     "contenido": "Oksooyuk Guishin (Jeong Yong-ki, 2023) es solo una colección de clichés sacados de un montón de otras películas del mismo corte, sin aportar nada, dejando la copia en algo insípido; el pobre doblaje hace que sea aún peor.",
-    "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Immich: almacena tu galería de fotos en un lugar seguro y fuera de las BigTech",
-    "link": "https://voidnull.es/immich-almacena-tu-galeria-de-fotos-en-un-lugar-seguro-y-fuera-de-las-bigtech/",
-    "fecha": "06/11/2026 16:25",
-    "contenido": "Alternativa libre a Google Fotos para guardar, organizar y sincronizar fotografías y vídeos en tu propio servidor.",
-    "imagen": "https://voidnull.es/content/images/2026/03/fdroid-2.png"
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 45 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/11/06/opensuse-tumbleweed-revision-de-la-semana-45-de-2026/",
-    "fecha": "06/11/2026 16:23",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 45.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-45/",
-    "fecha": "06/11/2026 15:05",
-    "contenido": "Doctor Nómada (vigésimo primera parte)\nLeer la vigésima parte\nMe sentía terrible, no podía dejar de pensar que por mi insistencia todo esto había iniciado. Por más que decía que, nunca actúe con dolo o perjuicio, los hechos eran irrefutables y Liz había muerto.\nAbracé a Leonor largo rato, hasta que ",
-    "imagen": "https://miperravida.anacronico.rocks/wp-content/uploads/2026/11/2026-10-30-21-04-31-492-1024x769.jpg"
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Articulo: Una Terminal Tonta para Desarrollo",
-    "link": "https://interlan.ec/blog/2026/11/06/articulo-una-terminal-tonta-para-desarrollo/",
-    "fecha": "06/11/2026 14:00",
-    "contenido": "A pesar de que no he hablado mucho más sobre este tema, la verdad es que sigo necesitando un entorno ligero y remoto para avanzar con mis cosas. En esta ocasión ya toca revivir un viejo recurso del que hace mucho no se habla y que ahora se ha convertido en una amenaza: los terminales [&#8230;]",
-    "imagen": null
-  },
-  {
-    "blog": "Erica Fustero",
-    "titulo": "11N Huelga general",
-    "link": "https://www.ericafustero.com/2026-11-huelga-general",
-    "fecha": "06/11/2026 14:00",
-    "contenido": "Hace unos días, Karramarro compartió en su fantástico blog Papel Continuo un post sobre Formes des luttes, una web colaborativa para compartir imágenes de movilizaciones sociales. Me pareció una propuesta interesantísima y se la compartí a María Rodilla, quien, ni corta ni perezosa, se puso manos a ",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #966",
-    "link": "https://www.fabio.com.ar/10073-links-de-viernes---966",
-    "fecha": "06/11/2026 13:16",
-    "contenido": "     Alegres de que llegaron los links\nSi, si, es viernes ,no parece, pero tengan en cuenta que se viene un super mega feriado chupa cirios, hay que tener lectura para estos d&iacute;as! Nada mejor que una buena dosis de enlaces variados! Y si te parecen pocos sumate a LinksDV para compartir m&aacut",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/ldv966.jpg"
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "Cuento: \"La Clase de Yoga ( Humor - Tito Mansilla )\"",
-    "link": "https://rodriaccopen.blogspot.com/2026/11/cuento-la-clase-de-yoga-humor-tito.html",
-    "fecha": "06/11/2026 13:05",
-    "contenido": "&nbsp;😊 Humor: Tito Mansilla👀 La Clase de Yogapor Rodriac Copen📌 Sinopsis:Tito Mansilla tiene una habilidad extraordinaria para conquistar mujeres. O, al menos, eso es lo que él cree.&nbsp;Encantador, verborrágico y con una confianza en sí mismo que no siempre encuentra respaldo en la realidad, Tito",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_X2aEVEcahCHqioHzASLcVMGDWHfFf4Y4Z7YqxCpJeBmtOIfxR8R8oXqPqdBXU97y62z7cQTayvsiZo_byGVVmq7kTNJwMbZzVy07piBzu9MR35PoBbyurQXkjbnVaxKmu5K7EjqGU3SP7O0sMzpsxyc0IYkAD2rATJjeger9EzCPHKaxwG4OOI182gM/s72-c/Imagen%20Portada.jpg"
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Cosas aprendidas en octubre",
-    "link": "https://nachof.blog/posts/2026/cosas-aprendidas-en-octubre/",
-    "fecha": "06/11/2026 11:53",
-    "contenido": "Salió relativamente cortito el de este mes. Pero salió.\nAgua al pedo\nEn la parte chilena de Tierra del Fuego hay una bahía llamada Bahía Inútil. Le puso así un capitán inglés (siempre los ingleses insultando así) porque no servía como puerto.\nDónde lo escuché: Wikipedia\nNo más segundos bisiestos\nNo ",
-    "imagen": null
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Tom the Postgirl",
-    "link": "https://cozykis.kisworld.es/analisis-de-tom-the-postgirl/",
-    "fecha": "06/11/2026 11:41",
-    "contenido": "Acompaña a Tom en su disparatada aventura de convertirse en repartidora de correo mientras espías a tus vecines\nLa entrada Análisis de Tom the Postgirl se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "",
-    "titulo": "Convocatoria",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/11/06/convocatoria-12/",
-    "fecha": "06/11/2026 11:20",
-    "contenido": "",
-    "imagen": "https://0.gravatar.com/avatar/306e19f08d8518c022c73f6d5ff0a80ddbf5622a55b8887868d29bf280546143?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "",
-    "titulo": "Festival Celta de Rosario declarado de interés general por parte de la municipalidad de su ciudad.",
-    "link": "https://mundoceltamedieval.wordpress.com/2026/11/06/festival-celta-de-rosario-declarado-de-interes-general-por-parte-de-la-municipalidad-de-su-ciudad/",
-    "fecha": "06/11/2026 11:19",
-    "contenido": "La municipalidad de Rosario a declarado de interés general el festival celta de su ciudad, este tiene una fuerte influencia de la colectividad irlandesa.",
-    "imagen": "https://0.gravatar.com/avatar/306e19f08d8518c022c73f6d5ff0a80ddbf5622a55b8887868d29bf280546143?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Su Trayectoria Y Actualidad | Atrios Of God Y Una Historia Junto Al Metal",
-    "link": "https://www.delotroladometal.com.ar/2026/11/06/atrios-of-god-y-una-historia-junto-al-metal/",
-    "fecha": "06/11/2026 10:35",
-    "contenido": "Solemos cada tanto recorrer la escena, revisar material y más allá de actualizarse constantemente con...\nThe post Su Trayectoria Y Actualidad | Atrios Of God Y Una Historia Junto Al Metal first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Lecturas Recomendadas #11",
-    "link": "https://matizeta.com/2026/11/06/lecturas-recomendadas-11/",
-    "fecha": "06/11/2026 08:11",
-    "contenido": "Una nueva entrega de diez artículos interesantes que quiero compartir. “Creemos que los lugares y las personas conservan una puerta secreta hacia quienes fuimos (…) queremos recuperar algo que asociamos con ellos y olvidamos que aquello que buscamos estaba compuesto también por una edad, unas circun",
     "imagen": null
   }
 ]
