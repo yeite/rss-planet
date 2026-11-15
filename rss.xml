@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sun, 15 Nov 2026 13:07:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 22:15:25 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,6 +18,46 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Poseer y robar</title>
+<link>https://text.eapl.mx/poseer-y-robar</link>
+<guid isPermaLink="true">https://text.eapl.mx/poseer-y-robar</guid>
+<pubDate>Sun, 15 Nov 2026 14:38:00 GMT</pubDate>
+<category>eaplmx</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> eaplmx]]></description>
+</item>
+<item>
+<title>Rafa, de Netflix: Rafael Nadal, el sufrimiento</title>
+<link>https://mareosdeungeek.es/rafa-de-netflix-rafael-nadal-el-sufrimiento/</link>
+<guid isPermaLink="true">https://mareosdeungeek.es/rafa-de-netflix-rafael-nadal-el-sufrimiento/</guid>
+<pubDate>Sun, 15 Nov 2026 14:00:00 GMT</pubDate>
+<category>Mareos de un geek</category>
+<description><![CDATA[Rafa no es solo el documental de un campeón: es el retrato de un cuerpo que pagó un precio enorme por competir al máximo nivel. La docuserie de Netflix sobre Rafael Nadal habla de lesiones, ansiedad, familia y de la dignidad de saber cuándo parar. La entrada Rafa, de Netflix: Rafael Nadal, el sufrim<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
+</item>
+<item>
+<title>Incertidumbre</title>
+<link>http://locutusbit.blogspot.com/2026/11/incertidumbre.html</link>
+<guid isPermaLink="true">http://locutusbit.blogspot.com/2026/11/incertidumbre.html</guid>
+<pubDate>Sun, 15 Nov 2026 13:00:00 GMT</pubDate>
+<category>La bitácora de Locutus</category>
+<description><![CDATA[&amp;nbsp;Habita bajo el umbral,atrapado en el silencio simétrico,paradójico, voluble;mirando, reflejada en el espejo,la imagen inversa.No sabe dónde querer ir y llegar.Mientras tanto,lejos, más lejos,con alas de cera,el hábito penitentetermina su vida útilbajo el bosque de datosdisfrazado de nítidasuce<br><br><strong>Fuente:</strong> La bitácora de Locutus]]></description>
+</item>
+<item>
+<title>Generando sitios estáticos con Wget de WordPress, Omeka y más para su preservación</title>
+<link>https://pedrolr.es/blog/generando-sitios-estaticos-con-wget-de-wordpress-omeka-y-mas-para-su-preservacion/</link>
+<guid isPermaLink="true">https://pedrolr.es/blog/generando-sitios-estaticos-con-wget-de-wordpress-omeka-y-mas-para-su-preservacion/</guid>
+<pubDate>Sun, 15 Nov 2026 06:51:00 GMT</pubDate>
+<category>pedrolr blog</category>
+<description><![CDATA[A raíz de un ThinkEPI de Isidro Aguillo titulado IA: la ruina de la ciencia y la cultura española y en español, y concretamente y solo de la sección Corpus, ediciones digitales y revistas sobre plataformas caducadas (no entro a valorar aquí otros contenidos de dicho trabajo), las siguientes líneas m<br><br><strong>Fuente:</strong> pedrolr blog]]></description>
+</item>
+<item>
+<title>Actualizando contraseñas a granel</title>
+<link>https://www.quiroptero.blog/2026/11/contrasenas/</link>
+<guid isPermaLink="true">https://www.quiroptero.blog/2026/11/contrasenas/</guid>
+<pubDate>Sun, 15 Nov 2026 05:02:00 GMT</pubDate>
+<category>quiroptero.blog</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> quiroptero.blog]]></description>
+</item>
+<item>
 <title>Viejas historias de guerra</title>
 <link>https://nachof.blog/posts/2026/viejas-historias-de-guerra/</link>
 <guid isPermaLink="true">https://nachof.blog/posts/2026/viejas-historias-de-guerra/</guid>
@@ -26,12 +66,12 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Llevo unos treinta años jugando videojuegos en la computadora. En ese tiempo jugué muchos juegos, y la mayoría de ellos muchas veces. Es decir, hay un montón de historias diferentes que contar. Pero por alguna razón, sólo hay un puñado de esas que me sigo acordando décadas después. O sea, lo asombro<br><br><strong>Fuente:</strong> Un blog]]></description>
 </item>
 <item>
-<title>audric subió Runescape Dragonwilds - Mareando un jefecillo en Runescape DragonWilds</title>
-<link>https://labaudric.net/videos/runescape-dragonwilds/6997</link>
-<guid isPermaLink="true">https://labaudric.net/videos/runescape-dragonwilds/6997</guid>
-<pubDate>Sat, 14 Nov 2026 20:26:00 GMT</pubDate>
-<category>labaudric</category>
-<description><![CDATA[<br><br><strong>Fuente:</strong> labaudric]]></description>
+<title>Mejorando mis containers con healthchecks</title>
+<link>https://vctrsnts.codeberg.page/posts/2026-11-15-containers-healthy/</link>
+<guid isPermaLink="true">https://vctrsnts.codeberg.page/posts/2026-11-15-containers-healthy/</guid>
+<pubDate>Sat, 14 Nov 2026 23:00:00 GMT</pubDate>
+<category>Si lo haces, hazlo bien!</category>
+<description><![CDATA[Aquí tenemos otro artículo nuevo, aunque no lo considero como un artículo más, sino como un añadido que podría incluirse en este o en este otro, porque son mejoras o información adicional que siempre viene bien tener disponible cuando trabajamos con nuestros contenedores. ◇ Añadiendo healthchecks a<br><br><strong>Fuente:</strong> Si lo haces, hazlo bien!]]></description>
 </item>
 <item>
 <title>Anáñisis de HorrorVale Deadluxe Edition</title>
@@ -176,46 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Fri, 13 Nov 2026 08:18:00 GMT</pubDate>
 <category>_ voidNull</category>
 <description><![CDATA[En este capítulo explicaremos como funciona la interfaz gráfica de Proxmox<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Haciendo ejercicio físico</title>
-<link>https://blog.thalskarth.ar/haciendo-actividad-fisica/</link>
-<guid isPermaLink="true">https://blog.thalskarth.ar/haciendo-actividad-fisica/</guid>
-<pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-<category>Blog de Thalskarth</category>
-<description><![CDATA[Hace aproximadamente un año y medio atrás, en mi artículo de Como cuesta moverse les contaba que:<br><br><strong>Fuente:</strong> Blog de Thalskarth]]></description>
-</item>
-<item>
-<title>El anime que es demasiado anime</title>
-<link>https://alex.corcoles.net/2026/11/el-anime-que-es-demasiado-anime</link>
-<guid isPermaLink="true">https://alex.corcoles.net/2026/11/el-anime-que-es-demasiado-anime</guid>
-<pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-<category>El blog es mío</category>
-<description><![CDATA[El otro d&amp;#237;a me acab&amp;#233; Akane Banashi (Netflix, una temporada de 12 episodios de 30 minutos). Me sorprende que con la fascinaci&amp;#243;n occidental por las tradiciones japonesas no se haya o&amp;#237;do hablar m&amp;#225;s por aqu&amp;#237; del rakugo sobre el que se centra la serie. El rakugo es el s<br><br><strong>Fuente:</strong> El blog es mío]]></description>
-</item>
-<item>
-<title>Ochenta, emulador libre de Amstrad CPC, ZX Spectrum, ZX Uno y ZX Spectrum Next</title>
-<link>https://malagaoriginal.blogspot.com/2026/11/ochenta-emulador-libre-de-amstrad-cpc.html</link>
-<guid isPermaLink="true">https://malagaoriginal.blogspot.com/2026/11/ochenta-emulador-libre-de-amstrad-cpc.html</guid>
-<pubDate>Thu, 12 Nov 2026 23:19:00 GMT</pubDate>
-<category>Malagueños originales y libres</category>
-<description><![CDATA[Ochenta, antes conocido como emu80, es un nuevo emulador de Amstrad CPC 464, 664, 6128, ZX Spectrum, ZX Uno y ZX Spectrum Next, creado bajo licencia GNU v3.0 y disponible para GNU/Linux (RPM, DEB y AppImage) y Windows.La manera más sencilla de ejecutar el emulador es descargarse el archivo AppImage<br><br><strong>Fuente:</strong> Malagueños originales y libres]]></description>
-</item>
-<item>
-<title>Taller Para Escritores Modernos: &quot;Ser Original (Nota 1)&quot;</title>
-<link>https://rodriaccopen.blogspot.com/2026/11/taller-para-escritores-modernos-ser.html</link>
-<guid isPermaLink="true">https://rodriaccopen.blogspot.com/2026/11/taller-para-escritores-modernos-ser.html</guid>
-<pubDate>Thu, 12 Nov 2026 23:08:00 GMT</pubDate>
-<category>Rodriac Copen</category>
-<description><![CDATA[&amp;nbsp;👀 Taller para Escritores Modernos🎬 Ser Original (Nota 1)por Rodriac CopenYa en los años 80 Borges decía que las historias estaban todas inventadas, dando a entender que cada generación de escritores contaba las mismas historias pero de un modo diferente cambiando escenarios, nombres, hechos, e<br><br><strong>Fuente:</strong> Rodriac Copen]]></description>
-</item>
-<item>
-<title>Podman rootless: recuperando las IP reales con Traefik</title>
-<link>https://vctrsnts.codeberg.page/posts/2026-11-13-podman-traefik-umami/</link>
-<guid isPermaLink="true">https://vctrsnts.codeberg.page/posts/2026-11-13-podman-traefik-umami/</guid>
-<pubDate>Thu, 12 Nov 2026 23:00:00 GMT</pubDate>
-<category>Si lo haces, hazlo bien!</category>
-<description><![CDATA[Sabes ese problema que viene a buscarte y que piensas que va a ser muy fácil de solucionar, que en un plis-plas lo habrás resuelto. Que tocas aquí, modificas allá y listo. Pues ya te puedo decir que este no es de esos que puedes resolver en 5 minutos. Para este necesitas, como mínimo, un mes, que es<br><br><strong>Fuente:</strong> Si lo haces, hazlo bien!]]></description>
 </item>
 
 </channel>
