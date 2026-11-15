@@ -1,5 +1,45 @@
 [
   {
+    "blog": "eaplmx",
+    "titulo": "Poseer y robar",
+    "link": "https://text.eapl.mx/poseer-y-robar",
+    "fecha": "15/11/2026 14:38",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Rafa, de Netflix: Rafael Nadal, el sufrimiento",
+    "link": "https://mareosdeungeek.es/rafa-de-netflix-rafael-nadal-el-sufrimiento/",
+    "fecha": "15/11/2026 14:00",
+    "contenido": "Rafa no es solo el documental de un campeón: es el retrato de un cuerpo que pagó un precio enorme por competir al máximo nivel. La docuserie de Netflix sobre Rafael Nadal habla de lesiones, ansiedad, familia y de la dignidad de saber cuándo parar.\nLa entrada Rafa, de Netflix: Rafael Nadal, el sufrim",
+    "imagen": null
+  },
+  {
+    "blog": "La bitácora de Locutus",
+    "titulo": "Incertidumbre",
+    "link": "http://locutusbit.blogspot.com/2026/11/incertidumbre.html",
+    "fecha": "15/11/2026 13:00",
+    "contenido": "&nbsp;Habita bajo el umbral,atrapado en el silencio simétrico,paradójico, voluble;mirando, reflejada en el espejo,la imagen inversa.No sabe dónde querer ir y llegar.Mientras tanto,lejos, más lejos,con alas de cera,el hábito penitentetermina su vida útilbajo el bosque de datosdisfrazado de nítidasuce",
+    "imagen": null
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Generando sitios estáticos con Wget de WordPress, Omeka y más para su preservación",
+    "link": "https://pedrolr.es/blog/generando-sitios-estaticos-con-wget-de-wordpress-omeka-y-mas-para-su-preservacion/",
+    "fecha": "15/11/2026 06:51",
+    "contenido": "A raíz de un ThinkEPI de Isidro Aguillo titulado IA: la ruina de la ciencia y la cultura española y en español, y concretamente y solo de la sección Corpus, ediciones digitales y revistas sobre plataformas caducadas (no entro a valorar aquí otros contenidos de dicho trabajo), las siguientes líneas m",
+    "imagen": null
+  },
+  {
+    "blog": "quiroptero.blog",
+    "titulo": "Actualizando contraseñas a granel",
+    "link": "https://www.quiroptero.blog/2026/11/contrasenas/",
+    "fecha": "15/11/2026 05:02",
+    "contenido": "",
+    "imagen": null
+  },
+  {
     "blog": "Un blog",
     "titulo": "Viejas historias de guerra",
     "link": "https://nachof.blog/posts/2026/viejas-historias-de-guerra/",
@@ -8,12 +48,12 @@
     "imagen": "https://nachof.blog/posts/2026/viejas-historias-de-guerra/civcover.jpg"
   },
   {
-    "blog": "labaudric",
-    "titulo": "audric subió Runescape Dragonwilds - Mareando un jefecillo en Runescape DragonWilds",
-    "link": "https://labaudric.net/videos/runescape-dragonwilds/6997",
-    "fecha": "14/11/2026 20:26",
-    "contenido": "",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6997/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261115%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261115T040711Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f49531899ca3f5122f22db40d3dbad174bdc4586323386355980f08c29183cde"
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Mejorando mis containers con healthchecks",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-11-15-containers-healthy/",
+    "fecha": "14/11/2026 23:00",
+    "contenido": "Aquí tenemos otro artículo nuevo, aunque no lo considero como un artículo más, sino como un añadido que podría incluirse en este o en este otro, porque son mejoras o información adicional que siempre viene bien tener disponible cuando trabajamos con nuestros contenedores.\n◇ Añadiendo healthchecks a ",
+    "imagen": null
   },
   {
     "blog": "CozyKis",
@@ -702,53 +742,5 @@
     "fecha": "08/11/2026 18:23",
     "contenido": "Hoy 8 de noviembre de 2026 Aaron Swartz hubiera cumplido 40 años, pero nos dejó con solo 26 y un gran legado que hay que seguir expandiendo",
     "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Un Pingüino 🐧",
-    "titulo": "Enamórate de Stellar Blade como lo hice yo",
-    "link": "https://unpinguino.com/stellar-blade/",
-    "fecha": "08/11/2026 15:14",
-    "contenido": "Introducción. A estas alturas ya me parece muy poco probable que alguien no conozca este&#8230;",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Uso de la IA en Mareos de un geek",
-    "link": "https://mareosdeungeek.es/uso-de-la-ia-en-mareos-de-un-geek/",
-    "fecha": "08/11/2026 12:30",
-    "contenido": "Cómo algunos habréis podido apreciar, en algunas de las últimas entradas he ido añadiendo nuevos elementos que no aparecían habitualmente en Mareos de un geek. Sobre todo, creo que lo más llamativo, son las tablas que aparecen al comentar algunos libros o comparando tecnologías. Las infografías son ",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "\"Susurros Del Tiempo\" Es Su Primer Single | Auster Nova Se Presenta En Sociedad",
-    "link": "https://www.delotroladometal.com.ar/2026/11/08/auster-nova-se-presenta-en-sociedad/",
-    "fecha": "08/11/2026 12:00",
-    "contenido": "Un nuevo proyecto asoma, y se trata de Auster Nova, banda argentina de Power Metal,...\nThe post \"Susurros Del Tiempo\" Es Su Primer Single | Auster Nova Se Presenta En Sociedad first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Tres mecenazgos más y una tienda menos",
-    "link": "http://frikoteca.blogspot.com/2026/11/tres-mecenazgos-mas-y-una-tienda-menos.html",
-    "fecha": "08/11/2026 10:09",
-    "contenido": "Como ya he comentado en alguna que otra ocasión, llevo mucho tiempo apuntando lo que me gasto en juegos de rol (y algún que otro frikismo relacionado) a lo largo del año. Inicialmente, porque quería demostrarle a mi Santa Esposa que esto del rol no es en realidad una afición cara, y para ello tenía ",
-    "imagen": null
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Bibliotecas de las de cosas: algunos casos desde noticias de medios digitales",
-    "link": "https://pedrolr.es/blog/bibliotecas-de-las-de-cosas-algunos-casos-desde-noticias-de-medios-digitales/",
-    "fecha": "08/11/2026 07:01",
-    "contenido": "Cada 2 o 3 días lanzo unas búsquedas en la base de datos My News sobre temas de mi interés. Tenemos suscripción desde la universidad en que trabajo e incluye más de 1.300 medios. Un tema que incluyen mis búsquedas es el de bibliotecas en general. Considero que muchas actividades que se hacen en bibl",
-    "imagen": null
-  },
-  {
-    "blog": "El cuarto de GatoOscuro",
-    "titulo": "Por cada persona que conozco, siento que pierdo el doble",
-    "link": "https://gatooscuro.xyz/por-cada-persona-que-conozco-siento-que-pierdo-el-doble/",
-    "fecha": "08/11/2026 05:33",
-    "contenido": "Estos días, mientras charlaba con un amigo, tuve una inspiración interior acerca del tema social. Fue una brevedad que iluminó mi mente por unos segundos después de que este me\nSeguir leyendo  Por cada persona que conozco, siento que pierdo el doble\nEl cargo Por cada persona que conozco, siento que ",
-    "imagen": null
   }
 ]
