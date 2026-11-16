@@ -1,5 +1,37 @@
 [
   {
+    "blog": "Eterno aprendiz",
+    "titulo": "Bienvenidos seguidores de Pixelfed",
+    "link": "https://altgr.xyz/2026/11/15/bienvenidos-seguidores-de-pixelfed/",
+    "fecha": "15/11/2026 21:51",
+    "contenido": "Por fin logré migrar mis seguidores de Pixelfed al blog WordPress. Si me seguías en @carloshr a partir de ahora me verás en @blog. Todo esto es gracias a la &#8220;magia&#8221; de la federación, que permite moverse entre distintas plataformas del Fediverso y mantener los seguidores. Por acá encontra",
+    "imagen": null
+  },
+  {
+    "blog": "labaudric",
+    "titulo": "Ousama Game (el juego del rey anime)",
+    "link": "https://labaudric.net/blog/anime/juego-del-rey",
+    "fecha": "15/11/2026 19:30",
+    "contenido": "\nJuego del rey - Ousama Game. Anime de 12 capítulos estrenados en 2017. Basado en... La novela de teléfono celular del mismo nombre. Es la primera vez que me topo con algo de eso. Estoy leyendo el artículo de wikipedia conforme estoy redactando esto.\nBueno, voy a criticar la versión anime, que es lo",
+    "imagen": "https://labaudric.net/img/juego_del_rey/01.png"
+  },
+  {
+    "blog": "La Frikoteca",
+    "titulo": "Esperando el petardazo",
+    "link": "http://frikoteca.blogspot.com/2026/11/esperando-el-petardazo.html",
+    "fecha": "15/11/2026 19:20",
+    "contenido": "¿No os da la impresión de que hay como una sensación en el ambiente de que todo está a punto de pegar el petardazo? Que conste que no voy a meter la política en esta entrada, porque todos sabemos que hay elecciones en dos semanas, pero no me refiero a que vaya a llegar la extrema derecha al poder o ",
+    "imagen": null
+  },
+  {
+    "blog": "Escritos en la nube",
+    "titulo": "La creatividad no puede forzarse",
+    "link": "https://nube.codeberg.page/blog/creatividad.html",
+    "fecha": "15/11/2026 18:46",
+    "contenido": "Una pequeña reflexión",
+    "imagen": null
+  },
+  {
     "blog": "eaplmx",
     "titulo": "Poseer y robar",
     "link": "https://text.eapl.mx/poseer-y-robar",
@@ -24,6 +56,14 @@
     "imagen": null
   },
   {
+    "blog": "labaudric",
+    "titulo": "audric subió 2 videos en Runescape DragonWilds",
+    "link": "https://labaudric.net/videos/runescape-dragonwilds",
+    "fecha": "15/11/2026 10:21",
+    "contenido": " ",
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261116%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261116T040622Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8e8c624e06a187f4c72001942486f42dca98543ba5535f8155b8270e4aaa81cc"
+  },
+  {
     "blog": "pedrolr blog",
     "titulo": "Generando sitios estáticos con Wget de WordPress, Omeka y más para su preservación",
     "link": "https://pedrolr.es/blog/generando-sitios-estaticos-con-wget-de-wordpress-omeka-y-mas-para-su-preservacion/",
@@ -37,6 +77,14 @@
     "link": "https://www.quiroptero.blog/2026/11/contrasenas/",
     "fecha": "15/11/2026 05:02",
     "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "Diego's Island",
+    "titulo": "Videojuegos, al fin.",
+    "link": "https://diegoaep.codeberg.page/blog/videojuegos-al-fin/",
+    "fecha": "15/11/2026 02:30",
+    "contenido": "Después de un buen tiempo, vuelvo a jugar un videojuego en mi laptop. Se volverá a descontrolar la adicción XD",
     "imagen": null
   },
   {
@@ -112,6 +160,14 @@
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMoGDMj18UyTluh5UdCpYQ6jcplI91Ang_4oQC__j6ggeA5B0br8aj83RIfrEaYmzvHVuCm6ktsfhx5AevL80VKKLwTWfKxWjjXKcjR7eHdP6yUs2Wc8dtnhFYpbZOafs61-R4KvfV5qX-OKy0tTDhQ1lZE247dMK5lc15njsyJgMA3nqJLCgIg6E0DF8/s72-c/Blogger%20Nota%202.jpg"
   },
   {
+    "blog": "Diego's Island",
+    "titulo": "The chamba update.",
+    "link": "https://diegoaep.codeberg.page/blog/the-chamba-update/",
+    "fecha": "13/11/2026 21:00",
+    "contenido": "actualizando mi web, hablando de la chamba... y otros disparates XD.",
+    "imagen": null
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "#openSUSE Tumbleweed revisión de la semana 46 de 2026",
     "link": "https://victorhckinthefreeworld.com/2026/11/13/opensuse-tumbleweed-revision-de-la-semana-46-de-2026/",
@@ -181,7 +237,7 @@
     "link": "https://pepografo.com/tesoros-ocultos-embalses-extremadura/",
     "fecha": "13/11/2026 09:04",
     "contenido": "Extremadura esconde bajo sus embalses una historia fascinante: una ciudad romana, un dolmen milenario, esculturas vetonas y vestigios de antiguos territorios que quedaron bajo el agua con la construcción de las grandes presas.\nLa entrada Los tesoros que Extremadura esconde bajo sus embalses se publi",
-    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/templomarmoles1.png?fit=1200%2C800&ssl=1"
+    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/Templo-de-Los-Marmoles-WebP-ligero.webp?fit=1200%2C800&ssl=1"
   },
   {
     "blog": "Tecno y Soft - Tecno y Soft",
@@ -710,37 +766,5 @@
     "fecha": "09/11/2026 05:00",
     "contenido": "\n                                En los dos art&iacute;culos anteriores de la serie sobre Btrfs en Fedora te cont&eacute; qu&eacute; es Btrfs y c&oacute;mo organizar tus subvol&uacute;menes. Tambi&eacute;n vimos c&oacute;mo preparar desde un USB una estructura nueva para organizar los snapshots o se",
     "imagen": "https://elblogdelazaro.org/images/f/e/5/a/5/fe5a564655fe81b52188a07d407209b2df75b25e-featured.webp"
-  },
-  {
-    "blog": "Diego Cano",
-    "titulo": "Estrés",
-    "link": "https://blep.org/Estres",
-    "fecha": "09/11/2026 00:00",
-    "contenido": "Este fin de semana pasado, estuve en un pequeño evento privado rolero. Es algo bastante informal, lo cual lo hace muy agradable pero conlleva cierta responsabilidad: hay que tener suficiente gente dispuesta a dirigir partidas para que en todo momento haya opciones para todo el mundo. Por tanto, todo",
-    "imagen": null
-  },
-  {
-    "blog": "La Madre Que Parió Al Pato Negro",
-    "titulo": "598. Inesperada criatura nocturna",
-    "link": "https://lamadredelpatonegro.blogspot.com/2026/11/598-inesperada-criatura-de-la-noche.html",
-    "fecha": "08/11/2026 23:00",
-    "contenido": "&nbsp; &nbsp; A no ser que sea verano, una de las primeras cosas que hago cuando recibo el nuevo día es subir por completo todas las persianas de mi nicho-vivienda. Y ya no las bajo hasta que me voy a dormir, independientemente de si salgo o no, sea por lo que sea y durante el tiempo que sea.&nbsp; ",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVpPC90m60r1NY1wuLSA8P6g4dv8msGuKJehhXWvu2Dh7qAqvdhK_vNEWyFALGQch-I6QX384LWD1w1_N-N1U9L4CXOmTkJEVrf5T5yj6sgVQYhwtdoJQc-WchFTAXEgSH-KS1xM5U5x2fLGKpEkH_p9TVWQ0zVwgOURxc9gz8BT0WOIM9-7bGwvxeJGS/s72-w300-h400-c/20261108_022246%5B1%5D.jpg"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "El fin de la era de “La”",
-    "link": "https://altgr.xyz/2026/11/08/el-fin-de-la-de-era-de-la/",
-    "fecha": "08/11/2026 22:25",
-    "contenido": "Al igual que el cambio de The Bat-man a Batman como parte del proceso de maduración del personaje durante los primeros años de su existencia en la década de 1940, y tras un largo de proceso de deliberación que incluyó trabajo en focus group, encuestas en línea y en terreno, estudios socio-políticos ",
-    "imagen": null
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Más Aaron Swartz y menos Elon, Altman, Zuckerberg",
-    "link": "https://victorhckinthefreeworld.com/2026/11/08/mas-aaron-swartz-y-menos-elon-altman-zuckerberg/",
-    "fecha": "08/11/2026 18:23",
-    "contenido": "Hoy 8 de noviembre de 2026 Aaron Swartz hubiera cumplido 40 años, pero nos dejó con solo 26 y un gran legado que hay que seguir expandiendo",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
   }
 ]
