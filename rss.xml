@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 18 Nov 2026 14:45:23 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 23:41:02 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,102 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>AOCR.org en las estadísticas de Ghost: cómo investigué y bloqueé el tráfico</title>
+<link>https://voidnull.es/aocr-org-en-las-estadisticas-de-ghost-como-investigue-y-bloquee-el-trafico/</link>
+<guid isPermaLink="true">https://voidnull.es/aocr-org-en-las-estadisticas-de-ghost-como-investigue-y-bloquee-el-trafico/</guid>
+<pubDate>Wed, 18 Nov 2026 16:33:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[¿No será que un grupo de radiologos serán fans eternos de voidNull y... la casualidad de que se encontraban en un evento en China?<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Como agrandar partición raíz ext4 sin desmontar</title>
+<link>https://www.planetainopia.com/blog/20261118-como-agrandar-partition-raiz-ext4-sin-desmontar</link>
+<guid isPermaLink="true">https://www.planetainopia.com/blog/20261118-como-agrandar-partition-raiz-ext4-sin-desmontar</guid>
+<pubDate>Wed, 18 Nov 2026 12:59:00 GMT</pubDate>
+<category>PlanetaInopia es el blog personal de Sandor Inopia</category>
+<description><![CDATA[Tengo un pequeño servidor corriendo Proxmox. En una de las máquinas virtuales ocurrió que, por la instalación de un nuevo programa, necesité ampliar la capacidad del disco duro de la partición raíz, formateada en ext4. Tras apagar la máquina virtual, amplié la capac<br><br><strong>Fuente:</strong> PlanetaInopia es el blog personal de Sandor Inopia]]></description>
+</item>
+<item>
+<title>Sin título</title>
+<link>https://fixionauta.net/2026/11/18/247811/</link>
+<guid isPermaLink="true">https://fixionauta.net/2026/11/18/247811/</guid>
+<pubDate>Wed, 18 Nov 2026 12:30:00 GMT</pubDate>
+<category>Fixionauta</category>
+<description><![CDATA[2017 flashback! Batman pencil sketch by Nick Derington, digital colors by me.<br><br><strong>Fuente:</strong> Fixionauta]]></description>
+</item>
+<item>
+<title>Software recomendado: Process Explorer</title>
+<link>https://www.fabio.com.ar/10081-software-recomendado-process-explorer</link>
+<guid isPermaLink="true">https://www.fabio.com.ar/10081-software-recomendado-process-explorer</guid>
+<pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+<category>Fabio.com.ar</category>
+<description><![CDATA[Aquellos que se quedaron con el viejo y cl&amp;aacute;sico Task Manager siempre le gritan al infierno cuando algo los est&amp;aacute; bloqueando y no aparece all&amp;iacute;, la raz&amp;oacute;n es simple, el &quot;Administrador de Tareas&quot; es para usuarios b&amp;aacute;sicos, muestra mucho menos de lo que debe. Y si te<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
+</item>
+<item>
+<title>Análisis de Milki Delivery</title>
+<link>https://cozykis.kisworld.es/analisis-de-milki-delivery/</link>
+<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-milki-delivery/</guid>
+<pubDate>Wed, 18 Nov 2026 11:34:00 GMT</pubDate>
+<category>CozyKis</category>
+<description><![CDATA[Una aventura acogedora en un bonito escenario sobre la importancia de la comunidad y cuidar de la naturaleza La entrada Análisis de Milki Delivery se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
+</item>
+<item>
+<title>Entrevista Con Rob Rock | “Estoy Trabajando En Algunas Canciones Nuevas”</title>
+<link>https://www.delotroladometal.com.ar/2026/11/18/estoy-trabajando-en-algunas-canciones-nuevas/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/11/18/estoy-trabajando-en-algunas-canciones-nuevas/</guid>
+<pubDate>Wed, 18 Nov 2026 10:35:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[Hablar con Rob Rock me remite mucho a mi pasado. No solo por la primera... The post Entrevista Con Rob Rock | “Estoy Trabajando En Algunas Canciones Nuevas” first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
+<title>PopAmp, música con estilo (retro)</title>
+<link>https://asturgeek.eu/2026/11/18/popamp-musica-con-estilo-retro/</link>
+<guid isPermaLink="true">https://asturgeek.eu/2026/11/18/popamp-musica-con-estilo-retro/</guid>
+<pubDate>Wed, 18 Nov 2026 09:14:00 GMT</pubDate>
+<category>AsturGeek V3</category>
+<description><![CDATA[Hay mil reproductores de música/audio para todos los sistemas operativos. Unos simples, otros con mil opciones, otros con un diseño espectacular&amp;#8230;. pero si hay uno que nos marcó a los que vivimos el auge de los ordenadores e internet alrededor del año 2000, fué WinAmp. Sin embargo, sucesivas ve<br><br><strong>Fuente:</strong> AsturGeek V3]]></description>
+</item>
+<item>
+<title>Reorganizando mi música con playlists en Navidrome</title>
+<link>https://picandocodigo.net/2026/reorganizando-mi-musica-con-playlists-en-navidrome/</link>
+<guid isPermaLink="true">https://picandocodigo.net/2026/reorganizando-mi-musica-con-playlists-en-navidrome/</guid>
+<pubDate>Wed, 18 Nov 2026 09:08:00 GMT</pubDate>
+<category>Picando Código</category>
+<description><![CDATA[Como he escrito por acá, vengo usando Navidrome como servidor de streaming para música y gestión de mi colección. Desde hace un tiempo tenía pendiente organizar un poco la colección y encontrar una solución para un caso de uso específico. 🎼 La mayoría de mi música -y la que más escucho- es Punk Rock<br><br><strong>Fuente:</strong> Picando Código]]></description>
+</item>
+<item>
+<title>La movida del tractor Claudio</title>
+<link>https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/11/18/20261118-el-tractor-claudio/</link>
+<guid isPermaLink="true">https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/11/18/20261118-el-tractor-claudio/</guid>
+<pubDate>Wed, 18 Nov 2026 09:00:00 GMT</pubDate>
+<category>ENTRE DRAGONES Y PINGÜINOS</category>
+<description><![CDATA[Si un generador de contenido sintético en software es como un tractor, claramente es uno de John Deree con un DRM infernal que no trabaja en tu favor<br><br><strong>Fuente:</strong> ENTRE DRAGONES Y PINGÜINOS]]></description>
+</item>
+<item>
+<title>Instalar Borg UI en Portainer</title>
+<link>https://voidnull.es/instalar-borg-ui-en-portainer/</link>
+<guid isPermaLink="true">https://voidnull.es/instalar-borg-ui-en-portainer/</guid>
+<pubDate>Wed, 18 Nov 2026 08:10:00 GMT</pubDate>
+<category>_ voidNull</category>
+<description><![CDATA[Borg UI es una interfaz web que nos permite gestionar nuestras copias de seguridad de BorgBackup de forma mucho más sencilla<br><br><strong>Fuente:</strong> _ voidNull]]></description>
+</item>
+<item>
+<title>Portada de la Web del Escritor Rodriac Copen</title>
+<link>https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html</link>
+<guid isPermaLink="true">https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html</guid>
+<pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
+<category>Rodriac Copen</category>
+<description><![CDATA[&amp;nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&amp;nbsp;Calendario 2026✔ Contacta con Rodriac&amp;nbsp;✔ Colabora con la Web✔&amp;nbsp;Lo Más Visto de la Web✔ Mapa del Sitio&amp;nbsp;⭐Recomendado✔&amp;nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.or<br><br><strong>Fuente:</strong> Rodriac Copen]]></description>
+</item>
+<item>
+<title>Immich: Tu propio Google Fotos autoalojado, rápido y privado</title>
+<link>https://blog.neosite.com.ar/post/immich-tu-propio-google-fotos-autoalojado-r-pido-y-privado</link>
+<guid isPermaLink="true">https://blog.neosite.com.ar/post/immich-tu-propio-google-fotos-autoalojado-r-pido-y-privado</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+<category>NeoSite Blog</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> NeoSite Blog]]></description>
+</item>
 <item>
 <title>Los Tres Unplugged: 30 años</title>
 <link>https://altgr.xyz/2026/11/17/los-tres-unplugged-30-anos/</link>
@@ -40,6 +136,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 17 Nov 2026 14:04:00 GMT</pubDate>
 <category>eaplmx</category>
 <description><![CDATA[<br><br><strong>Fuente:</strong> eaplmx]]></description>
+</item>
+<item>
+<title>Diario de Rodriac: &quot;El Mundo Se Ha Vuelto Loco (Humor)&quot;</title>
+<link>https://rodriaccopen.blogspot.com/2026/11/diario-de-rodriac-el-mundo-se-ha-vuelto.html</link>
+<guid isPermaLink="true">https://rodriaccopen.blogspot.com/2026/11/diario-de-rodriac-el-mundo-se-ha-vuelto.html</guid>
+<pubDate>Tue, 17 Nov 2026 13:49:00 GMT</pubDate>
+<category>Rodriac Copen</category>
+<description><![CDATA[&amp;nbsp;🍀 Diario de Rodriac🌹 El Mundo Se Ha Vuelto Loco (Humor)&amp;nbsp;por Rodriac Copen¿Sabes? El mundo ha estado loco desde siempre. Ya en 1963 se filmó &quot;El Mundo está Loco,Loco Loco&quot;.O quizás siempre fue así, solo que ahora tenemos Wi-Fi y Redes Sociales. Eso hace que la locura no quede retenida entr<br><br><strong>Fuente:</strong> Rodriac Copen]]></description>
 </item>
 <item>
 <title>Volvamos a celebrar</title>
@@ -82,6 +186,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[No voy a nombrar a cierta gente que me inspiró anoche a escribir esto por evitarles hate. Esta entrada habla de como se nos va la cabeza muchas veces y terminamos pensando que la IA siente dolor o como periodistas serios acaban normalizando la OUIJA. # 1. Tenemos capacidad de acción # 2. La IA [&amp;#82<br><br><strong>Fuente:</strong> 56K.ES]]></description>
 </item>
 <item>
+<title>Tronador: Estallido En La Noche | Una Verdadera Pieza De Colección</title>
+<link>https://www.delotroladometal.com.ar/2026/11/17/una-verdadera-pieza-de-coleccion/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/11/17/una-verdadera-pieza-de-coleccion/</guid>
+<pubDate>Tue, 17 Nov 2026 10:35:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[(1991/2026 &amp;#8211; 2M Producciones) Tengo que confesar que esta nueva onda de rescatar viejo material... The post Tronador: Estallido En La Noche | Una Verdadera Pieza De Colección first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
 <title>audric subió 2 videos en Runescape DragonWilds</title>
 <link>https://labaudric.net/videos/runescape-dragonwilds</link>
 <guid isPermaLink="true">https://labaudric.net/videos/runescape-dragonwilds</guid>
@@ -90,132 +202,20 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[<br><br><strong>Fuente:</strong> labaudric]]></description>
 </item>
 <item>
+<title>Ayer y hoy en el tren: las sujeciones de vía</title>
+<link>https://brucknerite.net/2026/11/ayer-y-hoy-en-el-tren-las-sujeciones-de-via.html</link>
+<guid isPermaLink="true">https://brucknerite.net/2026/11/ayer-y-hoy-en-el-tren-las-sujeciones-de-via.html</guid>
+<pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+<category>brucknerite</category>
+<description><![CDATA[Un nuevo vídeo en la serie de la evolución de las tecnologías ferroviarias de mi trabajo en la Fundación de los Ferrocarriles Españoles. Esta vez nos fijamos en una pieza aparentemente humilde, pero importantísima: las sujeciones de vía.<br><br><strong>Fuente:</strong> brucknerite]]></description>
+</item>
+<item>
 <title>La IA nos vuelve descuidados</title>
 <link>https://blog.elmundoesimperfecto.com/2026/11/17/ia-descuidados/</link>
 <guid isPermaLink="true">https://blog.elmundoesimperfecto.com/2026/11/17/ia-descuidados/</guid>
 <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
 <category>Bitácora de fernand0</category>
 <description><![CDATA[Es indudable que la IA puede ayudarnos a ir más rápidos y a hacer algunas cosas mejor, pero, como cualquier otro sistema de ayuda, puede provocar que nos volvamos despistados y descuidados. De eso hablaban en Doctors who used AI assistance in procedures became 20% worse at spotting abnormalities<br><br><strong>Fuente:</strong> Bitácora de fernand0]]></description>
-</item>
-<item>
-<title>Calendario Zaragozano 2027: si mañana no llueve, me afeito el bigote</title>
-<link>https://pepografo.com/calendario-zaragozano-2027-humor/</link>
-<guid isPermaLink="true">https://pepografo.com/calendario-zaragozano-2027-humor/</guid>
-<pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
-<category>Pepógrafo</category>
-<description><![CDATA[Mi Calendario Zaragozano 2027: el fraile del tiempo, el gallo portugués, cuatro estaciones y una tormenta en Yesa que terminó en barca. La entrada Calendario Zaragozano 2027: si mañana no llueve, me afeito el bigote se publicó primero en Pepógrafo.<br><br><strong>Fuente:</strong> Pepógrafo]]></description>
-</item>
-<item>
-<title>Portada de la Web del Escritor Rodriac Copen</title>
-<link>https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html</link>
-<guid isPermaLink="true">https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html</guid>
-<pubDate>Tue, 17 Nov 2026 06:00:00 GMT</pubDate>
-<category>Rodriac Copen</category>
-<description><![CDATA[&amp;nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&amp;nbsp;Calendario 2026✔ Contacta con Rodriac&amp;nbsp;✔ Colabora con la Web✔&amp;nbsp;Lo Más Visto de la Web✔ Mapa del Sitio&amp;nbsp;⭐Recomendado✔&amp;nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.or<br><br><strong>Fuente:</strong> Rodriac Copen]]></description>
-</item>
-<item>
-<title>Bibliotecas y lectura en los programas electorales de VOX, PP, PSOE, PACMA, Frente Amplio y Podemos para las elecciones generales del 29N de 2026</title>
-<link>https://pedrolr.es/blog/bibliotecas-y-lectura-en-los-programas-electorales-de-vox-pp-psoe-pacma-frente-amplio-y-podemos-para-las-elecciones-generales-del-29n-de-2026/</link>
-<guid isPermaLink="true">https://pedrolr.es/blog/bibliotecas-y-lectura-en-los-programas-electorales-de-vox-pp-psoe-pacma-frente-amplio-y-podemos-para-las-elecciones-generales-del-29n-de-2026/</guid>
-<pubDate>Tue, 17 Nov 2026 05:03:00 GMT</pubDate>
-<category>pedrolr blog</category>
-<description><![CDATA[Tal y como hice otros años, he analizado qué incluyen partidos políticos de mi interés en sus programas electorales para las elecciones generales del 29 de noviembre de 2026 sobre los temas: bibliotecas, lectura, libros y leer. Lo hice para 2015-2016 con el tema bibliotecas (Lázaro-Rodríguez, 2016)<br><br><strong>Fuente:</strong> pedrolr blog]]></description>
-</item>
-<item>
-<title>La historia del universo visual en Spider-Man: Across the Spider-Verse</title>
-<link>https://polotman.wordpress.com/2026/11/16/la-historia-del-universo-visual-en-spider-man-across-the-spider-verse/</link>
-<guid isPermaLink="true">https://polotman.wordpress.com/2026/11/16/la-historia-del-universo-visual-en-spider-man-across-the-spider-verse/</guid>
-<pubDate>Tue, 17 Nov 2026 02:24:00 GMT</pubDate>
-<category>El Sueño del Artista Blog</category>
-<description><![CDATA[#arte #animacion #historiadelarte #películas #spiderman #técnicas Hace muy poco revivía la grata experiencia de sentarme junto a mi familia y ver por segunda vez Spider-Man: Across the Spider-Verse (2023). Es grata en parte por la compañía (porque en películas como estas es mejor disfrutarla con alg<br><br><strong>Fuente:</strong> El Sueño del Artista Blog]]></description>
-</item>
-<item>
-<title>Curiosidades Históricas: &quot;La Historieta Argentina (Nota 1)&quot;</title>
-<link>https://rodriaccopen.blogspot.com/2026/11/curiosidades-historicas-la-historieta.html</link>
-<guid isPermaLink="true">https://rodriaccopen.blogspot.com/2026/11/curiosidades-historicas-la-historieta.html</guid>
-<pubDate>Tue, 17 Nov 2026 00:13:00 GMT</pubDate>
-<category>Rodriac Copen</category>
-<description><![CDATA[&amp;nbsp;👀 Curiosidades Históricas🇦🇷&amp;nbsp;&amp;nbsp;La Historieta Argentina (Nota 1)por Rodriac CopenSi me estás leyendo por primera vez, te cuento que soy una mezcla extraña de editor, curador de contenidos y escritor de ficciones (principalmente SciFi). Pero además, me gusta la investigación, sin hacer d<br><br><strong>Fuente:</strong> Rodriac Copen]]></description>
-</item>
-<item>
-<title>601. El espaldarazo</title>
-<link>https://lamadredelpatonegro.blogspot.com/2026/11/601-el-espaldarazo.html</link>
-<guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/11/601-el-espaldarazo.html</guid>
-<pubDate>Mon, 16 Nov 2026 23:00:00 GMT</pubDate>
-<category>La Madre Que Parió Al Pato Negro</category>
-<description><![CDATA[&amp;nbsp; &amp;nbsp; Emborracharse entraña un serio peligro. Y si no, que se lo pregunten a Crujipollo cuando, en una remota noche sabatina de su juventud, empinó el codo más allá de lo responsable y acabó dando con la espalda en el suelo del bar.&amp;nbsp; &amp;nbsp; De inmediato, Crujipollo empezó a boquear como<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
-</item>
-<item>
-<title>Análisis de Moomin: Midsummer Madnes</title>
-<link>https://cozykis.kisworld.es/analisis-de-moomin-midsummer-madnes/</link>
-<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-moomin-midsummer-madnes/</guid>
-<pubDate>Mon, 16 Nov 2026 19:35:00 GMT</pubDate>
-<category>CozyKis</category>
-<description><![CDATA[Una tierna aventura en el que los Mumin harán todo lo posible para volver a su hogar mientras resolvemos los puzles que nos plantean La entrada Análisis de Moomin: Midsummer Madnes se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
-</item>
-<item>
-<title>Cul de Sac, la web en la que perder tiempo mientras Outlook se recupera de su caida</title>
-<link>https://victorhckinthefreeworld.com/2026/11/16/cul-de-sac-la-web-en-la-que-perder-tiempo-mientras-outlook-se-recupera-de-su-caida/</link>
-<guid isPermaLink="true">https://victorhckinthefreeworld.com/2026/11/16/cul-de-sac-la-web-en-la-que-perder-tiempo-mientras-outlook-se-recupera-de-su-caida/</guid>
-<pubDate>Mon, 16 Nov 2026 15:50:00 GMT</pubDate>
-<category>Victorhck in the free world</category>
-<description><![CDATA[Aquí te dejo una recopilación de webs en las que &quot;emplear&quot; ese tiempo, y en el que matar toda productividad mientras pasas el tiempo:<br><br><strong>Fuente:</strong> Victorhck in the free world]]></description>
-</item>
-<item>
-<title>El valor de un piso de mierda en subscripciones a «Espotii»</title>
-<link>https://56k.es/fanta/piso-spoty/</link>
-<guid isPermaLink="true">https://56k.es/fanta/piso-spoty/</guid>
-<pubDate>Mon, 16 Nov 2026 14:35:00 GMT</pubDate>
-<category>56K.ES</category>
-<description><![CDATA[Estos días he estado por Valencia en un evento. Ya que estaba por allí pude caminar un poco y hacer algunas fotos por la ciudad y respecto a lo que tiene que ver con este post destacaré estas 2: La primera foto rompe el corazón si recordamos Picassent el 29 de octubre de 2024 afectado [&amp;#8230;]<br><br><strong>Fuente:</strong> 56K.ES]]></description>
-</item>
-<item>
-<title>Un nuevo lugar para descubrir blogs personales</title>
-<link>https://matizeta.com/2026/11/16/un-nuevo-lugar-para-descubrir-blogs-personales/</link>
-<guid isPermaLink="true">https://matizeta.com/2026/11/16/un-nuevo-lugar-para-descubrir-blogs-personales/</guid>
-<pubDate>Mon, 16 Nov 2026 13:11:00 GMT</pubDate>
-<category>matizeta</category>
-<description><![CDATA[Bubbles es una web en donde encontrar blogs personales e independientes, con la particularidad que los usuarios pueden ir votando las entradas para así hacer un ranking de popularidad. El servicio es relativamente nuevo (nació el 21 de marzo de 2026) y fue creado por Benjamin, desde Alemania. Al igu<br><br><strong>Fuente:</strong> matizeta]]></description>
-</item>
-<item>
-<title>El protocolo Gemini</title>
-<link>https://www.fabio.com.ar/10079-el-protocolo-gemini</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/10079-el-protocolo-gemini</guid>
-<pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[El t&amp;iacute;tulo lo hace parecer una pel&amp;iacute;cula de esp&amp;iacute;as, pero no, es algo re boludo 😅 Posiblemente uno de los protocolos de comunicaci&amp;oacute;n m&amp;aacute;s in&amp;uacute;tiles e inocentes de los &amp;uacute;ltimos tiempos, algo innecesario, que busca hacia atr&amp;aacute;s in&amp;uacute;tilmente u<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>A mi me gusta leer revistas bebiendo zumo de tomate – Crowdfunding de La Marea</title>
-<link>https://56k.es/fanta/a-mi-me-gustan-leer-revistas-bebiendo-zumo-de-tomate-crowdfunding-de-la-marea/</link>
-<guid isPermaLink="true">https://56k.es/fanta/a-mi-me-gustan-leer-revistas-bebiendo-zumo-de-tomate-crowdfunding-de-la-marea/</guid>
-<pubDate>Mon, 16 Nov 2026 11:52:00 GMT</pubDate>
-<category>56K.ES</category>
-<description><![CDATA[Algo que disfruto bastante es leer sin pantallas. Esto parece algo como de otros tiempos en los tiempos que corren cuando no vuelan (¿se puede dar más asco en una frase con tantas frases hechas juntas? No lo creo). La cosa es que en mi caso conecto más con un libro o una revista leyendo [&amp;#8230;]<br><br><strong>Fuente:</strong> 56K.ES]]></description>
-</item>
-<item>
-<title>Mailbird: cómo configurar varias cuentas de correo y resolver los errores más comunes</title>
-<link>https://mareosdeungeek.es/mailbird-configurar-cuentas-correo-errores/</link>
-<guid isPermaLink="true">https://mareosdeungeek.es/mailbird-configurar-cuentas-correo-errores/</guid>
-<pubDate>Mon, 16 Nov 2026 11:00:00 GMT</pubDate>
-<category>Mareos de un geek</category>
-<description><![CDATA[Mailbird permite centralizar Gmail, Outlook, Microsoft 365 y cuentas con dominio propio en un mismo cliente. Esta guía explica cómo añadirlas con OAuth o IMAP/SMTP, comprobar que envían y reciben correctamente y resolver los fallos de autenticación más frecuentes. La entrada Mailbird: cómo configura<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
-</item>
-<item>
-<title>Mejores gestores de repositorios Git para tu servidor</title>
-<link>https://voidnull.es/mejores-gestores-de-repositorios-git-para-tu-servidor/</link>
-<guid isPermaLink="true">https://voidnull.es/mejores-gestores-de-repositorios-git-para-tu-servidor/</guid>
-<pubDate>Mon, 16 Nov 2026 08:10:00 GMT</pubDate>
-<category>_ voidNull</category>
-<description><![CDATA[¿Quieres guardar tus proyectos Git en tu propio servidor? Comparamos GitLab, Gitea y Forgejo para ayudarte a elegir la plataforma que mejor encaja con tus necesidades.<br><br><strong>Fuente:</strong> _ voidNull]]></description>
-</item>
-<item>
-<title>Cómo muestro las estadísticas del blog con shortcodes</title>
-<link>https://elblogdelazaro.org/como-muestro-las-estadisticas-del-blog-con-shortcodes/</link>
-<guid isPermaLink="true">https://elblogdelazaro.org/como-muestro-las-estadisticas-del-blog-con-shortcodes/</guid>
-<pubDate>Mon, 16 Nov 2026 05:00:00 GMT</pubDate>
-<category>El Blog de Lázaro</category>
-<description><![CDATA[Desde hace tiempo publico las estad&amp;iacute;sticas de El Blog de L&amp;aacute;zaro en una p&amp;aacute;gina donde muestro cu&amp;aacute;ntos art&amp;iacute;culos y notas he publicado cada a&amp;ntilde;o y c&amp;oacute;mo se distribuyen por meses. No se trata de anal&amp;iacute;tica web, estad&amp;ia<br><br><strong>Fuente:</strong> El Blog de Lázaro]]></description>
 </item>
 
 </channel>
