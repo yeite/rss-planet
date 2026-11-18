@@ -1,5 +1,101 @@
 [
   {
+    "blog": "_ voidNull",
+    "titulo": "AOCR.org en las estadísticas de Ghost: cómo investigué y bloqueé el tráfico",
+    "link": "https://voidnull.es/aocr-org-en-las-estadisticas-de-ghost-como-investigue-y-bloquee-el-trafico/",
+    "fecha": "18/11/2026 16:33",
+    "contenido": "¿No será que un grupo de radiologos serán fans eternos de voidNull y... la casualidad de que se encontraban en un evento en China?",
+    "imagen": "https://voidnull.es/content/images/2022/01/ficherolog.png"
+  },
+  {
+    "blog": "PlanetaInopia es el blog personal de Sandor Inopia",
+    "titulo": "Como agrandar partición raíz ext4 sin desmontar",
+    "link": "https://www.planetainopia.com/blog/20261118-como-agrandar-partition-raiz-ext4-sin-desmontar",
+    "fecha": "18/11/2026 12:59",
+    "contenido": "\n                                \nTengo un pequeño servidor corriendo Proxmox. En una de las máquinas virtuales ocurrió que, por la instalación de un nuevo programa, necesité ampliar la capacidad del disco duro de la partición raíz, formateada en ext4.\nTras apagar la máquina virtual, amplié la capac",
+    "imagen": "https://www.planetainopia.com/images/r/e/s/i/m/resimensionar-partition-ext4-en-caliente-6c9f923a.jpg"
+  },
+  {
+    "blog": "Fixionauta",
+    "titulo": "",
+    "link": "https://fixionauta.net/2026/11/18/247811/",
+    "fecha": "18/11/2026 12:30",
+    "contenido": "2017 flashback! Batman pencil sketch by Nick Derington, digital colors by me.",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Software recomendado: Process Explorer",
+    "link": "https://www.fabio.com.ar/10081-software-recomendado-process-explorer",
+    "fecha": "18/11/2026 12:00",
+    "contenido": "    \nAquellos que se quedaron con el viejo y cl&aacute;sico Task Manager siempre le gritan al infierno cuando algo los est&aacute; bloqueando y no aparece all&iacute;, la raz&oacute;n es simple, el \"Administrador de Tareas\" es para usuarios b&aacute;sicos, muestra mucho menos de lo que debe.\nY si te",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/processexplorer01.png"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Milki Delivery",
+    "link": "https://cozykis.kisworld.es/analisis-de-milki-delivery/",
+    "fecha": "18/11/2026 11:34",
+    "contenido": "Una aventura acogedora en un bonito escenario sobre la importancia de la comunidad y cuidar de la naturaleza \nLa entrada Análisis de Milki Delivery se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Entrevista Con Rob Rock | “Estoy Trabajando En Algunas Canciones Nuevas”",
+    "link": "https://www.delotroladometal.com.ar/2026/11/18/estoy-trabajando-en-algunas-canciones-nuevas/",
+    "fecha": "18/11/2026 10:35",
+    "contenido": "Hablar con Rob Rock me remite mucho a mi pasado. No solo por la primera...\nThe post Entrevista Con Rob Rock | “Estoy Trabajando En Algunas Canciones Nuevas” first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "AsturGeek V3",
+    "titulo": "PopAmp, música con estilo (retro)",
+    "link": "https://asturgeek.eu/2026/11/18/popamp-musica-con-estilo-retro/",
+    "fecha": "18/11/2026 09:14",
+    "contenido": "Hay mil reproductores de música/audio para todos los sistemas operativos. Unos simples, otros con mil opciones, otros con un diseño espectacular&#8230;. pero si hay uno que nos marcó a los que vivimos el auge de los ordenadores e internet alrededor del año 2000, fué WinAmp. Sin embargo, sucesivas ve",
+    "imagen": null
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Reorganizando mi música con playlists en Navidrome",
+    "link": "https://picandocodigo.net/2026/reorganizando-mi-musica-con-playlists-en-navidrome/",
+    "fecha": "18/11/2026 09:08",
+    "contenido": "Como he escrito por acá, vengo usando Navidrome como servidor de streaming para música y gestión de mi colección. Desde hace un tiempo tenía pendiente organizar un poco la colección y encontrar una solución para un caso de uso específico. 🎼 La mayoría de mi música -y la que más escucho- es Punk Rock",
+    "imagen": null
+  },
+  {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "La movida del tractor Claudio",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/11/18/20261118-el-tractor-claudio/",
+    "fecha": "18/11/2026 09:00",
+    "contenido": "Si un generador de contenido sintético en software es como un tractor, claramente es uno de John Deree con un DRM infernal que no trabaja en tu favor",
+    "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalar Borg UI en Portainer",
+    "link": "https://voidnull.es/instalar-borg-ui-en-portainer/",
+    "fecha": "18/11/2026 08:10",
+    "contenido": "Borg UI es una interfaz web que nos permite gestionar nuestras copias de seguridad de BorgBackup de forma mucho más sencilla",
+    "imagen": "https://voidnull.es/content/images/2026/10/borgui-1.png"
+  },
+  {
+    "blog": "Rodriac Copen",
+    "titulo": "Portada de la Web del Escritor Rodriac Copen",
+    "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
+    "fecha": "18/11/2026 06:00",
+    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔&nbsp;Lo Más Visto de la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.or",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnmj7LuWyxFEv7UGP7Wz9rAqOJWRUsLO-ydd_x6jBbKERB1qQpOakxLscnRzcO3eLe5UbhM2mnF8R6JPlzaVL-j8Q5MKKUOyRT6UTerhoboQo9CT5V7_JRQ4unPLa2275L38_r6x3uPGnHDqbGylH8cwRkSmt-42xyD5y7WNoz6BJNacV_EUKtJ0gk_Q/s72-c/Portada%20General.jpg"
+  },
+  {
+    "blog": "NeoSite Blog",
+    "titulo": "Immich: Tu propio Google Fotos autoalojado, rápido y privado",
+    "link": "https://blog.neosite.com.ar/post/immich-tu-propio-google-fotos-autoalojado-r-pido-y-privado",
+    "fecha": "18/11/2026 00:00",
+    "contenido": "",
+    "imagen": null
+  },
+  {
     "blog": "Eterno aprendiz",
     "titulo": "Los Tres Unplugged: 30 años",
     "link": "https://altgr.xyz/2026/11/17/los-tres-unplugged-30-anos/",
@@ -22,6 +118,14 @@
     "fecha": "17/11/2026 14:04",
     "contenido": "",
     "imagen": null
+  },
+  {
+    "blog": "Rodriac Copen",
+    "titulo": "Diario de Rodriac: \"El Mundo Se Ha Vuelto Loco (Humor)\"",
+    "link": "https://rodriaccopen.blogspot.com/2026/11/diario-de-rodriac-el-mundo-se-ha-vuelto.html",
+    "fecha": "17/11/2026 13:49",
+    "contenido": "&nbsp;🍀 Diario de Rodriac🌹 El Mundo Se Ha Vuelto Loco (Humor)&nbsp;por Rodriac Copen¿Sabes? El mundo ha estado loco desde siempre. Ya en 1963 se filmó \"El Mundo está Loco,Loco Loco\".O quizás siempre fue así, solo que ahora tenemos Wi-Fi y Redes Sociales. Eso hace que la locura no quede retenida entr",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbi5mjkkFAFhqp-ZWy-88ybkBu-n8uu91q6M5oToVJ1A5mQ8TwqEfRyaJx91iVAL1wEyX_Z6k3Tl-9vclR1u9kxCK_R_Y96_iGSnVWwepKh8mHb0iHVAq28T-FobGhTfQVXuhItvmUbbvVQqG5InpQUWot74XwGxTJIr-7H7I1uId9a9ZmfJ3Kj5eGxPI/s72-c/Blogger.jpg"
   },
   {
     "blog": "matizeta",
@@ -64,12 +168,28 @@
     "imagen": null
   },
   {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Tronador: Estallido En La Noche | Una Verdadera Pieza De Colección",
+    "link": "https://www.delotroladometal.com.ar/2026/11/17/una-verdadera-pieza-de-coleccion/",
+    "fecha": "17/11/2026 10:35",
+    "contenido": "(1991/2026 &#8211; 2M Producciones) Tengo que confesar que esta nueva onda de rescatar viejo material...\nThe post Tronador: Estallido En La Noche | Una Verdadera Pieza De Colección first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
     "blog": "labaudric",
     "titulo": "audric subió 2 videos en Runescape DragonWilds",
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "17/11/2026 10:32",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261118%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261118T052453Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=aadf40de499b0ffaa42c06ed29e801fba78da983135f287890b31639c32c7ab8"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261118%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261118T194826Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=452c7ff28f24a370b4605f6c3abe94095d81e272db04752a71367ceaa0d98edf"
+  },
+  {
+    "blog": "brucknerite",
+    "titulo": "Ayer y hoy en el tren: las sujeciones de vía",
+    "link": "https://brucknerite.net/2026/11/ayer-y-hoy-en-el-tren-las-sujeciones-de-via.html",
+    "fecha": "17/11/2026 09:00",
+    "contenido": "Un nuevo vídeo en la serie de la evolución de las tecnologías ferroviarias de mi trabajo en la Fundación de los Ferrocarriles Españoles. Esta vez nos fijamos en una pieza aparentemente humilde, pero importantísima: las sujeciones de vía.",
+    "imagen": null
   },
   {
     "blog": "Bitácora de fernand0",
@@ -88,19 +208,11 @@
     "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/Calendario-Zaragozano-2027-optimizado.jpg?fit=1024%2C1536&ssl=1"
   },
   {
-    "blog": "Rodriac Copen",
-    "titulo": "Portada de la Web del Escritor Rodriac Copen",
-    "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
-    "fecha": "17/11/2026 06:00",
-    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔&nbsp;Lo Más Visto de la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.or",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnmj7LuWyxFEv7UGP7Wz9rAqOJWRUsLO-ydd_x6jBbKERB1qQpOakxLscnRzcO3eLe5UbhM2mnF8R6JPlzaVL-j8Q5MKKUOyRT6UTerhoboQo9CT5V7_JRQ4unPLa2275L38_r6x3uPGnHDqbGylH8cwRkSmt-42xyD5y7WNoz6BJNacV_EUKtJ0gk_Q/s72-c/Portada%20General.jpg"
-  },
-  {
     "blog": "pedrolr blog",
     "titulo": "Bibliotecas y lectura en los programas electorales de VOX, PP, PSOE, PACMA, Frente Amplio y Podemos para las elecciones generales del 29N de 2026",
     "link": "https://pedrolr.es/blog/bibliotecas-y-lectura-en-los-programas-electorales-de-vox-pp-psoe-pacma-frente-amplio-y-podemos-para-las-elecciones-generales-del-29n-de-2026/",
     "fecha": "17/11/2026 05:03",
-    "contenido": "Tal y como hice otros años, he analizado qué incluyen partidos políticos de mi interés en sus programas electorales para las elecciones generales del 29 de noviembre de 2026 sobre los temas: bibliotecas, lectura, libros y leer. Lo hice para 2015-2016 con el tema bibliotecas (Lázaro-Rodríguez, 2016) ",
+    "contenido": "Tal y como hice otros años, he analizado qué incluyen partidos políticos de mi interés en sus programas electorales sobre los temas \"bibliotecas\", \"lectura\", \"libros\" y \"leer\", esta vez para las elecciones generales del 29 de noviembre de 2026. Hice algo parecido en 2015-2016 (Lázaro-Rodríguez, 2016",
     "imagen": null
   },
   {
@@ -116,7 +228,7 @@
     "titulo": "Curiosidades Históricas: \"La Historieta Argentina (Nota 1)\"",
     "link": "https://rodriaccopen.blogspot.com/2026/11/curiosidades-historicas-la-historieta.html",
     "fecha": "17/11/2026 00:13",
-    "contenido": "&nbsp;👀 Curiosidades Históricas🇦🇷&nbsp;&nbsp;La Historieta Argentina (Nota 1)por Rodriac CopenSi me estás leyendo por primera vez, te cuento que soy una mezcla extraña de editor, curador de contenidos y escritor de ficciones (principalmente SciFi). Pero además, me gusta la investigación, sin hacer d",
+    "contenido": "&nbsp;👀 Curiosidades Históricas🇦🇷&nbsp;&nbsp;La Historieta Argentina (Nota 1)por Rodriac CopenSi es la primera vez que me lees, estimado visitante, te cuento que soy una combinación bastante particular de editor, curador de contenidos y escritor de ficción, principalmente ciencia ficción. También te",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxpLrxtGsVXN2w6MCBDsbdchCADD0d03FN9kkGyIUVXDzv0sUtqUbQExG9wxjGTwhyphenhyphenoEWiUGIPIEmPP5OnQQWycy_AyLCNwjxV8W4yoAGtsDwa0J2kT3pqoTvJlQGxFvl7zjKNlT4RF1LLezKAafDmcMe3h7xye0LyPk_1uykul-zj6XshIAdm0HpVSNw/s72-c/Blogger.jpg"
   },
   {
@@ -173,6 +285,14 @@
     "link": "https://56k.es/fanta/a-mi-me-gustan-leer-revistas-bebiendo-zumo-de-tomate-crowdfunding-de-la-marea/",
     "fecha": "16/11/2026 11:52",
     "contenido": "Algo que disfruto bastante es leer sin pantallas. Esto parece algo como de otros tiempos en los tiempos que corren cuando no vuelan (¿se puede dar más asco en una frase con tantas frases hechas juntas? No lo creo). La cosa es que en mi caso conecto más con un libro o una revista leyendo [&#8230;]",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Mathras, ArdeMetal, Ojos Negros, Werken, Hamvides, Reinará La Tempestad y Zamarbide - Teatro Greison, Monte Grande - 14/11/2026 | La Cumbre Del Metal Nro. 42",
+    "link": "https://www.delotroladometal.com.ar/2026/11/16/la-cumbre-del-metal-nro-42/",
+    "fecha": "16/11/2026 11:15",
+    "contenido": "La Cumbre Del Metal es el evento del año, donde se juntan las viejas huestes...\nThe post Mathras, ArdeMetal, Ojos Negros, Werken, Hamvides, Reinará La Tempestad y Zamarbide - Teatro Greison, Monte Grande - 14/11/2026 | La Cumbre Del Metal Nro. 42 first appeared on Del Otro Lado Metal.",
     "imagen": null
   },
   {
@@ -269,7 +389,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "15/11/2026 10:21",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261118%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261118T052453Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=ba9409259d3628efa24ae191c3b8b8787897d1507519626cf4010a42359d5292"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261118%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261118T194826Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8e4178ecdc82e104800d229e081ea31803fc68208fa1e6dbcf8d3174063cff9e"
   },
   {
     "blog": "pedrolr blog",
@@ -313,10 +433,10 @@
   },
   {
     "blog": "CozyKis",
-    "titulo": "Anáñisis de HorrorVale Deadluxe Edition",
+    "titulo": "Análisis de HorrorVale Deadluxe Edition",
     "link": "https://cozykis.kisworld.es/ananisis-de-horrorvale-deadluxe-edition/",
     "fecha": "14/11/2026 19:01",
-    "contenido": "Un simpático RPG en el que la búsqueda de nuestro perro nos llevará a vivir una aventura de lo más interesante\nLa entrada Anáñisis de HorrorVale Deadluxe Edition se publicó primero en CozyKis.",
+    "contenido": "Un simpático RPG en el que la búsqueda de nuestro perro nos llevará a vivir una aventura de lo más interesante\nLa entrada Análisis de HorrorVale Deadluxe Edition se publicó primero en CozyKis.",
     "imagen": null
   },
   {
@@ -325,6 +445,14 @@
     "link": "https://mareosdeungeek.es/fiesta-mecenas-2026-de-bodegas-gratias/",
     "fecha": "14/11/2026 17:54",
     "contenido": "La semana pasada a estas horas estaba en Casa-Ibáñez disfrutando de la Fiesta Mecenas de la 10ª Edición del proyecto ¿Y tú de quién eres? de Bodegas Gratias. Una aventura, que para nosotros (siempre he ido acompañado de mi mujer) empezó hace dos años. Mientras patrocinaba algún proyecto de cómic o j",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Triade: El Fin De La Maldad | El Balance Entre El Metal Y Lo Clásico",
+    "link": "https://www.delotroladometal.com.ar/2026/11/14/el-balance-entre-el-metal-y-lo-clasico/",
+    "fecha": "14/11/2026 10:35",
+    "contenido": "(2000 &#8211; Independiente) Si hay una banda guerrera, resiliente y resistente esa es Triade, que...\nThe post Triade: El Fin De La Maldad | El Balance Entre El Metal Y Lo Clásico first appeared on Del Otro Lado Metal.",
     "imagen": null
   },
   {
@@ -405,6 +533,14 @@
     "link": "https://cozykis.kisworld.es/analisis-de-truth-beneath-the-shadows/",
     "fecha": "13/11/2026 11:30",
     "contenido": "Una misteriosa desaparición y una pareja de furrys reporteros para descubrir la verdad. Encuentra pista y resuelve el misterio\nLa entrada Análisis de Truth Beneath the Shadows se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Banda Finlandesa Y Su Actualidad | Deuteronomium Y El Viento A Favor",
+    "link": "https://www.delotroladometal.com.ar/2026/11/13/deuteronomium-va-para-donde-sopla-el-viento/",
+    "fecha": "13/11/2026 10:35",
+    "contenido": "La personalidad es una de las características más sobresalientes de Deuteronomium, banda finlandesa histórica si...\nThe post La Banda Finlandesa Y Su Actualidad | Deuteronomium Y El Viento A Favor first appeared on Del Otro Lado Metal.",
     "imagen": null
   },
   {
@@ -504,6 +640,14 @@
     "imagen": null
   },
   {
+    "blog": "El Refugio de un Nerd",
+    "titulo": "El Diario de un Nerd –  Axel Valdez",
+    "link": "https://elrefugiodeunnerd.es/2026/11/12/el-diario-de-un-nerd-4/",
+    "fecha": "12/11/2026 16:00",
+    "contenido": "Cuarta edición de esta serie, como siempre, 2 recomendaciones y el texto original del bloguero. Recuerdo que si quieres participar en la colaboración puedes escribirme a contacto@elrefugiodeunnerd.es o en mi Mastodon. Nombre del bloguero: Axel Valdez Links Presentación Me llamo Axel, vivo en México,",
+    "imagen": null
+  },
+  {
     "blog": "Victorhck in the free world",
     "titulo": "Neonova wallpaper, una extensión para Plasma de KDE de terceros que incluye malware",
     "link": "https://victorhckinthefreeworld.com/2026/11/12/neonova-wallpaper-plasma-kde-malware/",
@@ -525,6 +669,14 @@
     "link": "https://cozykis.kisworld.es/analisis-de-after-the-wane/",
     "fecha": "12/11/2026 11:31",
     "contenido": "Conoce a Lena, una bailarina en busca de su futuro, en una historia llena de magia, belleza y misterio\nLa entrada Análisis de After the Wane se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Extreme Collection: Volume XVIII | Los Compilados No Se Rinden",
+    "link": "https://www.delotroladometal.com.ar/2026/11/12/los-compilados-no-se-rinden/",
+    "fecha": "12/11/2026 10:35",
+    "contenido": "(2025 &#8211; Extreme Records) Buenos tiempos eran los de los compilados, en donde uno se...\nThe post Extreme Collection: Volume XVIII | Los Compilados No Se Rinden first appeared on Del Otro Lado Metal.",
     "imagen": null
   },
   {
@@ -574,77 +726,5 @@
     "fecha": "11/11/2026 21:37",
     "contenido": "Cultura es un ministerio que legisla poco y gestiona mucho: ayudas, museos, programas de acceso. Ernest Urtasun, que además ha sido portavoz de Sumar, ha centrado su mandato en una idea: que la cultura es un derecho y no un lujo. Y ha generado algunas de las polémicas más ruidosas de la legislatura,",
     "imagen": null
-  },
-  {
-    "blog": "La Máquina de Von Neumann",
-    "titulo": "De viviendas y populismos",
-    "link": "https://vonneumannmachine.wordpress.com/2026/11/11/de-viviendas-y-populismos/",
-    "fecha": "11/11/2026 18:31",
-    "contenido": "Hoy voy a cambiar un poco el tema habitual del blog. Hace mucho que no hablo aquí de política, pero como contribución a este día de huelga, me gustaría realizar una pequeña aportación del modo en que mejor se nos da a los filósofos: mediante un texto. Me gustaría que este día, como mínimo, sirviera ",
-    "imagen": "https://1.gravatar.com/avatar/4e16ce126b5bb67e5fc1f37cab160997bab75e049fb2faefaedb2e2cb24b880f?s=96&d="
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "dpkg: instala y gestiona paquetes .deb",
-    "link": "https://voidnull.es/dpkg-instala-y-gestiona-paquetes-deb/",
-    "fecha": "11/11/2026 16:30",
-    "contenido": "La gestión de usuarios y contraseñas es una de las tareas fundamentales en la administración de sistemas GNU/Linux.",
-    "imagen": "https://voidnull.es/content/images/2022/01/cli.png"
-  },
-  {
-    "blog": "Daniel Omar Cignacco",
-    "titulo": "Para los pájaros",
-    "link": "https://danielomarcignacco.blogspot.com/2026/11/para-los-pajaros.html",
-    "fecha": "11/11/2026 14:19",
-    "contenido": "\n\n\n\n\n\n\n\n",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcPjC4Dtj_xh8_aYPXiqLdaJPrUWeK2pt_WZ9RrYcryIo1gk3EpVdx-o2PSgvPKW7I1cqsgg8X4BCNsShhSLS9tEGiv4kOuClGeKOiveg0i4wK_UvzwqNLNnSERheBYKkUedd2dSMmcJfb3v6YFPq_KoFpHSCuvqBFrr4Zp6vY312WhH3DJdZmbBjOT9MV/s72-c/Tira%201.png"
-  },
-  {
-    "blog": "La (l)ínea (d)oméstica",
-    "titulo": "Escribo en un diario",
-    "link": "https://ld.srht.site/posts/escribo-en-un-diario.txt",
-    "fecha": "11/11/2026 12:00",
-    "contenido": "Desde hace unos quince años escribo con mayor o menor frecuencia en una libreta. Cuando se termina, voy a por otra, pongo la fecha y sigo. Al principio, cuando era cristiano era mi oración escrita. Mi cabeza adolescente divagaba y escribir era una manera de ir más despacio. Cuando dejé todo eso atrá",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "El futuro que no llegó",
-    "link": "https://www.fabio.com.ar/10076-el-futuro-que-no-llego",
-    "fecha": "11/11/2026 12:00",
-    "contenido": "    \nAll&aacute; por 2015 me hab&iacute;a puesto a escribir un art&iacute;culo sobre todas aquellas tecnolog&iacute;as y herramientas que el cine, la ciencia ficci&oacute;n, la fantas&iacute;a y hasta la misma ciencia nos hab&iacute;a prometido y no hab&iacute;a llegado.\nPor alguna raz&oacute;n colg",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/futuro/elfuturonollego.jpg"
-  },
-  {
-    "blog": "Tecno y Soft - Tecno y Soft",
-    "titulo": "De vuelta a Manjaro",
-    "link": "https://tecnoysoft.com/2026/11/11/de-vuelta-a-manjaro/",
-    "fecha": "11/11/2026 11:45",
-    "contenido": "He regresado a Manjaro después de una temporada utilizando CachyOS Una actualización decidió ponerse tonta y, sinceramente, no estoy para batallitas con el sistema operativo. Empezaron los errores al intentar actualizar y, después de probar distintas soluciones y dedicarle un tiempo que no tenía dem",
-    "imagen": null
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "El anuncio de Copilot: Kyle, el impostor",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/11/11/20261111-anuncio-copilot-kyle/",
-    "fecha": "11/11/2026 09:00",
-    "contenido": "Es impresionante que en 30 segundos de publicidad muestren tan claramente lo repugnante de la situación para quienes no somos el público objetivo",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "El Castigador Soviético, dos veteranos, una venganza y mucha munición",
-    "link": "https://mareosdeungeek.es/el-castigador-sovietico-garth-ennis-jacen-burrows/",
-    "fecha": "11/11/2026 09:00",
-    "contenido": "Otra visita productiva a la biblioteca, esta vez en formato cómic clásico, con un clásico como es Punisher, conocido por aquí como El Castigador. El Castigador Soviético es una miniserie breve (6 tomos) de Garth Ennis y Jacen Burrows que recupera a Frank Castle en su versión más adulta, violenta y a",
-    "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Configurar Whisper-webui en Portainer usando Pangolin",
-    "link": "https://voidnull.es/configurar-whisper-webui-en-portainer-usando-pangolin/",
-    "fecha": "11/11/2026 08:10",
-    "contenido": "Instala Whisper-WebUI en tu NAS con Portainer y accede a la interfaz desde fuera de casa mediante Pangolin.",
-    "imagen": "https://voidnull.es/content/images/2026/03/whisper.png"
   }
 ]
