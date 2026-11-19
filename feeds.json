@@ -1,5 +1,77 @@
 [
   {
+    "blog": "Mareos de un geek",
+    "titulo": "Proyecto Salvación: ciencia ficción con Ryan Gosling",
+    "link": "https://mareosdeungeek.es/proyecto-salvacion-pelicula-2026-ciencia-ficcion/",
+    "fecha": "19/11/2026 19:00",
+    "contenido": "Proyecto Salvación (Project Hail Mary, 2026) es una adaptación de la novela de Andy Weir que convierte una catástrofe cósmica en una aventura espacial sorprendentemente humana. La película adapta Proyecto Hail Mary, la novela de Andy Weir publicada tras el éxito de El marciano. Ryan Gosling se erige",
+    "imagen": null
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Algunas fotos que dibujé en 2025",
+    "link": "https://www.ericafustero.com/2026-11-algunas-fotos-que-dibuje-en-2025",
+    "fecha": "19/11/2026 17:27",
+    "contenido": "Como anuncié hace unos días, he vuelto a abrir mis encargos de ilustraciones basadas en fotos y ya he empezado a entregar las primeras de la temporada. Hay una en concreto que me ha enamorado: está basada en una foto analógica familiar llena de detalles y ha quedado preciosa. Pero como no las voy a ",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Ruleta Rusa #903",
+    "link": "https://www.fabio.com.ar/10082-ruleta-rusa-903",
+    "fecha": "19/11/2026 12:00",
+    "contenido": "     Balas humeantes para la ruleta\nLes pido solemnemente que no me rompan producci&oacute;n, nada, mensaje en c&oacute;digo 😅, pero siendo jueves, no da, menos ma&ntilde;ana, el viernes no se implementa nada, el push se hace sin merge, los branches se quedan en las ramas, nada de mezclar en main, y",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/ruleta903.jpg"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de InCowMental",
+    "link": "https://cozykis.kisworld.es/analisis-de-incowmental/",
+    "fecha": "19/11/2026 11:47",
+    "contenido": "Gestiona a tus vaquitas, recoge recursos y haz prosperar tu imperio ganjil mientras disfrutas de los diversos minijuegos\nLa entrada Análisis de InCowMental se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Oil: Refine | Testimonio De Una Época",
+    "link": "https://www.delotroladometal.com.ar/2026/11/19/testimonio-de-una-epoca/",
+    "fecha": "19/11/2026 10:35",
+    "contenido": "(2000 &#8211; Kaluboné Records) La historia de Oil es un poco el resumen del recorrido...\nThe post Oil: Refine | Testimonio De Una Época first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "Adrián Perales",
+    "titulo": "Efemérides en educación",
+    "link": "https://adrianperales.com/2026/11/efemerides-en-educacion/",
+    "fecha": "19/11/2026 08:00",
+    "contenido": "Me pone triste decir esto, pero creo que el 25N se ha convertido en otro elemento más en la lista de tareas que representan hoy las efemérides en la escuela. Antes de nada, debo aclarar que no soy especialmente bueno en entender la legislación y que estas líneas se basan exclusivamente en mi visión ",
+    "imagen": null
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Software libre y código abierto solo en el programa electoral de Frente Amplio para las elecciones del 29N",
+    "link": "https://pedrolr.es/blog/software-libre-y-codigo-abierto-solo-en-el-programa-electoral-de-frente-amplio-para-las-elecciones-del-29n/",
+    "fecha": "19/11/2026 06:10",
+    "contenido": "Me metí a los programas electorales de VOX, PP, PSOE, PACMA, Frente Amplio y Podemos, y veo que solo en el de Frente Amplio se habla de software libre y de código abierto. Añado a continuación con detalles el programa de Frente Amplio y los extractos en que se habla de los temas. Quizá me [&#8230;]",
+    "imagen": null
+  },
+  {
+    "blog": "El Blog de Lázaro",
+    "titulo": "Probando KutBlog",
+    "link": "https://elblogdelazaro.org/notas/2026-11-19-probando-kutblog/",
+    "fecha": "19/11/2026 05:00",
+    "contenido": "\n                                Llevo unos días trasteando con KutBlog, un CMS ligero que estoy probando y con el que estoy disfrutando bastante.\nHace poco decidí abandonar Hugo y migrar el blog a Grav. Os contaba los motivos y cómo había sido el proceso en el artículo De Hugo a Grav: cambiando el ",
+    "imagen": "https://elblogdelazaro.org/images/9/d/7/6/1/9d7610a7a888274162fa86a20c717f0e51fef76e-kutblog-01.png"
+  },
+  {
+    "blog": "La cosa infinita (Daniel Omar Cignacco)",
+    "titulo": "Trillón uno",
+    "link": "https://danielomarcignacco.mataroa.blog/blog/trillon-uno/",
+    "fecha": "19/11/2026 00:00",
+    "contenido": "El último agujero negro se evaporó con un chispazo insignificante, consumiendo el último gramo de materia del cosmos. No quedaban estrellas, ni átomos, ni luz. Tampco tiempo, al menos no en el sentido estricto; solo la densa, absoluta y perfecta negrura de la nada.\nEn medio del vacío, sentado sobre ",
+    "imagen": "https://mataroa.blog/images/02558a2c.png"
+  },
+  {
     "blog": "gorkula.com",
     "titulo": "Cola en el Trader Joe's",
     "link": "https://www.gorkula.com/cola-trader-joes",
@@ -104,6 +176,14 @@
     "imagen": null
   },
   {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "uses",
+    "link": "https://vctrsnts.codeberg.page/uses/",
+    "fecha": "17/11/2026 23:00",
+    "contenido": "Esta es la configuración y las herramientas que utilizo actualmente en mi día a día.\nLa página está inspirada en la idea de /uses, habitual en la IndieWeb y la smol web:\ncompartir el hardware, software y entorno con el que uno trabaja y escribe.\nNada especialmente exótico.\nSolo herramientas con las ",
+    "imagen": null
+  },
+  {
     "blog": "Eterno aprendiz",
     "titulo": "Los Tres Unplugged: 30 años",
     "link": "https://altgr.xyz/2026/11/17/los-tres-unplugged-30-anos/",
@@ -189,7 +269,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "17/11/2026 10:32",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261119%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261119T052046Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a575a448420cad358ce65e95f591751eeab59de7e99b817498aa6e3a03759925"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261119%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261119T194902Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=34c113027036857b6cd60baae767feefe2c671984ba70b7137a530b122778f15"
   },
   {
     "blog": "brucknerite",
@@ -320,6 +400,14 @@
     "imagen": "https://voidnull.es/content/images/2022/08/git-2.png"
   },
   {
+    "blog": "El Blog de Lázaro",
+    "titulo": "Cómo muestro las estadísticas del blog con shortcodes",
+    "link": "https://elblogdelazaro.org/como-muestro-las-estadisticas-del-blog-con-shortcodes/",
+    "fecha": "16/11/2026 05:00",
+    "contenido": "\n                                Desde hace tiempo publico las estad&iacute;sticas de El Blog de L&aacute;zaro en una p&aacute;gina donde muestro cu&aacute;ntos art&iacute;culos y notas he publicado cada a&ntilde;o y c&oacute;mo se distribuyen por meses.\nNo se trata de anal&iacute;tica web, estad&ia",
+    "imagen": "https://elblogdelazaro.org/images/4/1/4/f/5/414f5460575e3222c12502e96b3b91de60e4bd85-featured.webp"
+  },
+  {
     "blog": "Eterno aprendiz",
     "titulo": "Bienvenidos seguidores de Pixelfed",
     "link": "https://altgr.xyz/2026/11/15/bienvenidos-seguidores-de-pixelfed/",
@@ -389,7 +477,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "15/11/2026 10:21",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261119%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261119T052046Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=30dc9fbcae7719de6b88a3ec18e309547eabda044cf4f1f129c2e2608614e7a9"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261119%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261119T194902Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3b2cf1e60b33bce1ab6eb1c295c2a5cccb05e38a9504228caf6f097ea754cbe4"
   },
   {
     "blog": "pedrolr blog",
@@ -629,70 +717,6 @@
     "link": "https://www.ericafustero.com/2026-11-algunas-fotos-de-octubre",
     "fecha": "12/11/2026 21:15",
     "contenido": "Javier dibujando en Superlinea. Javier drawing in Superlinea En octubre estuve en Zaragoza dos veces: una porque nuestro tren León-Barcelona se paró a causa de una avería, otra porque fui de propio (expresión maña por excelencia) para las fiestas del Pilar. Hacía ¿15 años? que no estaba en Zaragoza ",
-    "imagen": null
-  },
-  {
-    "blog": "Región Cuatro",
-    "titulo": "Colaboración: Diario de un Nerd",
-    "link": "https://regioncuatro.blog/colaboracion-diario-de-un-nerd/",
-    "fecha": "12/11/2026 16:18",
-    "contenido": "Hace unos días fui invitado a colaborar con el blog El Refugio de un Nerd, en una sección llamada Diario de un Nerd.\nLa idea es hacer una recomendación. Puede ser un tip, una aplicación, un sitio web, o cualquier cosa que encontremos útil, y de paso un poco de contexto acerca de quienes sómos y qué ",
-    "imagen": null
-  },
-  {
-    "blog": "El Refugio de un Nerd",
-    "titulo": "El Diario de un Nerd –  Axel Valdez",
-    "link": "https://elrefugiodeunnerd.es/2026/11/12/el-diario-de-un-nerd-4/",
-    "fecha": "12/11/2026 16:00",
-    "contenido": "Cuarta edición de esta serie, como siempre, 2 recomendaciones y el texto original del bloguero. Recuerdo que si quieres participar en la colaboración puedes escribirme a contacto@elrefugiodeunnerd.es o en mi Mastodon. Nombre del bloguero: Axel Valdez Links Presentación Me llamo Axel, vivo en México,",
-    "imagen": null
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Neonova wallpaper, una extensión para Plasma de KDE de terceros que incluye malware",
-    "link": "https://victorhckinthefreeworld.com/2026/11/12/neonova-wallpaper-plasma-kde-malware/",
-    "fecha": "12/11/2026 14:59",
-    "contenido": "Instalar software de terceros no verificado en nuestros sistemas GNU/Linux puede acarrear el añadir malware",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Ruleta Rusa #902",
-    "link": "https://www.fabio.com.ar/10077-ruleta-rusa-902",
-    "fecha": "12/11/2026 12:00",
-    "contenido": "     Listo para cazar una bala\nMomento ideal para unos balazos bien fuertes, mucho felino, mucho adorable, pero tambi&eacute;n est&uacute;pido, porque as&iacute; son los balazos ruleteros.\nAhora s&iacute;, Ruleta Rusa!Creative Commons (CC) 2002-2026, Fabio Baccaglioni [Ruleta Rusa]",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/ruleta902.jpg"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de After the Wane",
-    "link": "https://cozykis.kisworld.es/analisis-de-after-the-wane/",
-    "fecha": "12/11/2026 11:31",
-    "contenido": "Conoce a Lena, una bailarina en busca de su futuro, en una historia llena de magia, belleza y misterio\nLa entrada Análisis de After the Wane se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Extreme Collection: Volume XVIII | Los Compilados No Se Rinden",
-    "link": "https://www.delotroladometal.com.ar/2026/11/12/los-compilados-no-se-rinden/",
-    "fecha": "12/11/2026 10:35",
-    "contenido": "(2025 &#8211; Extreme Records) Buenos tiempos eran los de los compilados, en donde uno se...\nThe post Extreme Collection: Volume XVIII | Los Compilados No Se Rinden first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "56K.ES",
-    "titulo": "No seas inútil y uses LinkTree",
-    "link": "https://56k.es/fanta/no-seas-un-inutil-y-uses-linktree-hazte-el-propio/",
-    "fecha": "12/11/2026 10:05",
-    "contenido": "Linktree no es algo nuevo pero no por ello deja de ser una mierda. &#160; Se creó en 2016 porque existía una necesidad en los perfiles de redes sociales de colocar varios links (hipervínculos) y como mucho te dejaban solamente colocar uno. A las redes sociales privativas del tecnocapitalismo no les ",
-    "imagen": null
-  },
-  {
-    "blog": "Adrián Perales",
-    "titulo": "Por qué voto en elecciones",
-    "link": "https://adrianperales.com/2026/11/por-que-voto-en-elecciones/",
-    "fecha": "12/11/2026 08:00",
-    "contenido": "Resulta que hay elecciones el próximo 29 de noviembre y yo, como he hecho siempre, iré a votar. En esta entrada quiero explicar el porqué. Si ya tienes mucha conciencia política, seguramente no encontrarás nada nuevo aquí. Mis razones para votar son las de siempre. La necesidad de un cambio Desde qu",
     "imagen": null
   }
 ]
