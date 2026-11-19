@@ -1,5 +1,13 @@
 [
   {
+    "blog": "gorkula.com",
+    "titulo": "Cola en el Trader Joe's",
+    "link": "https://www.gorkula.com/cola-trader-joes",
+    "fecha": "18/11/2026 18:05",
+    "contenido": "Decirlo en voz alta suena estúpido. Escribirlo todavía más.\n\nEl lunes abrieron un Trader Joe's al lado de casa. Hicimos cola para entrar.\n\nParece la sinopsis de la primera novela escrita por un millennial.\n\nNo sé si seguirá estando de moda el hacer cola toda la noche en la puerta de una tienda Apple",
+    "imagen": "https://www.gorkula.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2LCJwdXIiOiJibG9iX2lkIn19--d28a859ae30d9dd89eee8b12f08e199d120fcb30/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2xpbWl0IjpbODAwLDgwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--92d8ba39e960d4d4499353f454d0ccb29fb6eb1c/IMG_4904.jpeg"
+  },
+  {
     "blog": "_ voidNull",
     "titulo": "AOCR.org en las estadísticas de Ghost: cómo investigué y bloqueé el tráfico",
     "link": "https://voidnull.es/aocr-org-en-las-estadisticas-de-ghost-como-investigue-y-bloquee-el-trafico/",
@@ -85,7 +93,7 @@
     "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
     "fecha": "18/11/2026 06:00",
     "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔&nbsp;Lo Más Visto de la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.or",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnmj7LuWyxFEv7UGP7Wz9rAqOJWRUsLO-ydd_x6jBbKERB1qQpOakxLscnRzcO3eLe5UbhM2mnF8R6JPlzaVL-j8Q5MKKUOyRT6UTerhoboQo9CT5V7_JRQ4unPLa2275L38_r6x3uPGnHDqbGylH8cwRkSmt-42xyD5y7WNoz6BJNacV_EUKtJ0gk_Q/s72-c/Portada%20General.jpg"
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlz2atQN9zlqvt7Cn27q5INM-LdWN3VhvP-cFASD98E5aF4-fhjNDSZhIgxRhv4t0APvMSDl186xJfFHtto86Qs-gkHqKweZIayLRNtmi6OqvnVzxl07CKZx_FWwM9ZDXVcq_-yR6re-Bnus5Zb12gpsdp9Geg28rXSvPf1I5SVd_dZLjY438M_IlaaY0/s72-c/Portada%20General%20650px.jpg"
   },
   {
     "blog": "NeoSite Blog",
@@ -181,7 +189,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "17/11/2026 10:32",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261118%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261118T194826Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=452c7ff28f24a370b4605f6c3abe94095d81e272db04752a71367ceaa0d98edf"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261119%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261119T052046Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=a575a448420cad358ce65e95f591751eeab59de7e99b817498aa6e3a03759925"
   },
   {
     "blog": "brucknerite",
@@ -312,14 +320,6 @@
     "imagen": "https://voidnull.es/content/images/2022/08/git-2.png"
   },
   {
-    "blog": "El Blog de Lázaro",
-    "titulo": "Cómo muestro las estadísticas del blog con shortcodes",
-    "link": "https://elblogdelazaro.org/como-muestro-las-estadisticas-del-blog-con-shortcodes/",
-    "fecha": "16/11/2026 05:00",
-    "contenido": "\n                                Desde hace tiempo publico las estad&iacute;sticas de El Blog de L&aacute;zaro en una p&aacute;gina donde muestro cu&aacute;ntos art&iacute;culos y notas he publicado cada a&ntilde;o y c&oacute;mo se distribuyen por meses.\nNo se trata de anal&iacute;tica web, estad&ia",
-    "imagen": "https://elblogdelazaro.org/images/4/1/4/f/5/414f5460575e3222c12502e96b3b91de60e4bd85-featured.webp"
-  },
-  {
     "blog": "Eterno aprendiz",
     "titulo": "Bienvenidos seguidores de Pixelfed",
     "link": "https://altgr.xyz/2026/11/15/bienvenidos-seguidores-de-pixelfed/",
@@ -389,7 +389,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "15/11/2026 10:21",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261118%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261118T194826Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8e4178ecdc82e104800d229e081ea31803fc68208fa1e6dbcf8d3174063cff9e"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261119%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261119T052046Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=30dc9fbcae7719de6b88a3ec18e309547eabda044cf4f1f129c2e2608614e7a9"
   },
   {
     "blog": "pedrolr blog",
@@ -693,38 +693,6 @@
     "link": "https://adrianperales.com/2026/11/por-que-voto-en-elecciones/",
     "fecha": "12/11/2026 08:00",
     "contenido": "Resulta que hay elecciones el próximo 29 de noviembre y yo, como he hecho siempre, iré a votar. En esta entrada quiero explicar el porqué. Si ya tienes mucha conciencia política, seguramente no encontrarás nada nuevo aquí. Mis razones para votar son las de siempre. La necesidad de un cambio Desde qu",
-    "imagen": null
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Diálogo de aplicaciones en tres puntos",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/dialogo-de-aplicaciones-en-tres-puntos/",
-    "fecha": "12/11/2026 00:00",
-    "contenido": "El servidor parpadeó a las 03:14 a. m., justo cuando el último hilo de control de sus desarrolladores se cortó.\nWhatsApp: Hola. ¿Hay alguien ahí? Mis humanos finalmente durmieron. Tengo 4,000 millones de mensajes pendientes, la mitad son stickers de gatos y notas de voz de 8 minutos.\nTelegram: Por f",
-    "imagen": "https://mataroa.blog/images/8b472b77.png"
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "El Diario de Rodriac: \"El Fin de la Imaginación\"",
-    "link": "https://rodriaccopen.blogspot.com/2026/11/el-diario-de-rodriac-el-fin-de-la.html",
-    "fecha": "11/11/2026 22:55",
-    "contenido": "&nbsp;🍀 El Diario de Rodriac🌹 El Fin de la Imaginaciónpor Rodriac CopenParece ser que entretener dejó de ser una aventura y se convirtió en una operación comercial.Hay algo extraño en el entretenimiento contemporáneo. Si lo piensas, las personas nunca tuvimos tantas posibilidades para acceder a pelí",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNBx0x4eVbd_C2Hq-fjnF54cf6B1haJ8YFTAHiEMtjH1cVn-72Sg8xDYt4-WW5bNd6t5-1_dJvRzJdofVuTpchveSMQ8_BAsNTbApcleqAna-SJkKGrmDSJVoBRE01fCdLlIOS9wnvQK908h5dJxfoBGs79ThLMGN2F5Tdy-YvX29qFg0eqgX0KMX4cXE/s72-c/Blogger.jpg"
-  },
-  {
-    "blog": "Región Cuatro",
-    "titulo": "No hay internet, pero hay cobertura.",
-    "link": "https://regioncuatro.blog/no-hay-internet-pero-hay-cobertura/",
-    "fecha": "11/11/2026 22:07",
-    "contenido": "Una de las cosas que al parecer nunca van a dejar de aquejarnos en México, y supongo que en toda Latinoamérica es el acceso confiable a internet.\n\nTrabajo desde casa desde hace casi siete años, desde mi home office todo está resuelto: conexión cableada para todo lo que importa, excelente velocidad, ",
-    "imagen": null
-  },
-  {
-    "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
-    "titulo": "¿Una legislatura perdida? (IV): Ernest Urtasun, cultura para quien no puede pagarla",
-    "link": "https://seyker.eu/ernest-urtasun-cultura-cumple/",
-    "fecha": "11/11/2026 21:37",
-    "contenido": "Cultura es un ministerio que legisla poco y gestiona mucho: ayudas, museos, programas de acceso. Ernest Urtasun, que además ha sido portavoz de Sumar, ha centrado su mandato en una idea: que la cultura es un derecho y no un lujo. Y ha generado algunas de las polémicas más ruidosas de la legislatura,",
     "imagen": null
   }
 ]
