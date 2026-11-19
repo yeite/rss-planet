@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 19 Nov 2026 04:57:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 14:52:29 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Cola en el Trader Joe&apos;s</title>
+<link>https://www.gorkula.com/cola-trader-joes</link>
+<guid isPermaLink="true">https://www.gorkula.com/cola-trader-joes</guid>
+<pubDate>Wed, 18 Nov 2026 18:05:00 GMT</pubDate>
+<category>gorkula.com</category>
+<description><![CDATA[Decirlo en voz alta suena estúpido. Escribirlo todavía más. El lunes abrieron un Trader Joe&apos;s al lado de casa. Hicimos cola para entrar. Parece la sinopsis de la primera novela escrita por un millennial. No sé si seguirá estando de moda el hacer cola toda la noche en la puerta de una tienda Apple<br><br><strong>Fuente:</strong> gorkula.com]]></description>
+</item>
 <item>
 <title>AOCR.org en las estadísticas de Ghost: cómo investigué y bloqueé el tráfico</title>
 <link>https://voidnull.es/aocr-org-en-las-estadisticas-de-ghost-como-investigue-y-bloquee-el-trafico/</link>
@@ -208,14 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
 <category>brucknerite</category>
 <description><![CDATA[Un nuevo vídeo en la serie de la evolución de las tecnologías ferroviarias de mi trabajo en la Fundación de los Ferrocarriles Españoles. Esta vez nos fijamos en una pieza aparentemente humilde, pero importantísima: las sujeciones de vía.<br><br><strong>Fuente:</strong> brucknerite]]></description>
-</item>
-<item>
-<title>La IA nos vuelve descuidados</title>
-<link>https://blog.elmundoesimperfecto.com/2026/11/17/ia-descuidados/</link>
-<guid isPermaLink="true">https://blog.elmundoesimperfecto.com/2026/11/17/ia-descuidados/</guid>
-<pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
-<category>Bitácora de fernand0</category>
-<description><![CDATA[Es indudable que la IA puede ayudarnos a ir más rápidos y a hacer algunas cosas mejor, pero, como cualquier otro sistema de ayuda, puede provocar que nos volvamos despistados y descuidados. De eso hablaban en Doctors who used AI assistance in procedures became 20% worse at spotting abnormalities<br><br><strong>Fuente:</strong> Bitácora de fernand0]]></description>
 </item>
 
 </channel>
