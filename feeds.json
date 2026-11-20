@@ -1,10 +1,122 @@
 [
   {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "Filosofía UNIX, systemd y el peligro del purismo tecnológico",
+    "link": "https://tecnoysoft.com/2026/11/20/filosofia-unix-systemd-y-el-peligro-del-purismo-tecnologico/",
+    "fecha": "20/11/2026 16:50",
+    "contenido": "Filosofía UNIX y el rechazo a systemd: una cuestión de pragmatismo Defender la filosofía UNIX y ser contrario a systemd no tienen por qué ser dos posturas inseparables. La filosofía UNIX tradicional, basada en herramientas pequeñas, especializadas, sencillas y capaces de trabajar conjuntamente, sigu",
+    "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Arcane Chat: chatea con tus amiguis usando Delta Chat",
+    "link": "https://voidnull.es/arcane-chat-chatea-con-tus-amiguis-usando-delta-chat/",
+    "fecha": "20/11/2026 16:30",
+    "contenido": "Mensajería libre y descentralizada con cifrado de extremo a extremo, sin número de teléfono y basada en Delta Chat.",
+    "imagen": "https://voidnull.es/content/images/2026/03/fdroid-2.png"
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Equipos: CN2596-2 «convertidor DC-DC con voltímetro»",
+    "link": "https://interlan.ec/blog/2026/11/20/equipos-cn2596-2-convertidor-dc-dc-con-voltimetro/",
+    "fecha": "20/11/2026 14:00",
+    "contenido": "Una de las cosas que me gusta hacer es ir trasteando cosas para entender su funcionamiento. Esta vez, ha caído en mis manos una pequeña placa cuyo funcionamiento me ha parecido raro. Este Post pertenece a la categoría EQUIPOS Puedes encontrar todos los artículos en orden cronológico en la etiqueta C",
+    "imagen": null
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "#openSUSE Tumbleweed revisión de la semana 47 de 2026",
+    "link": "https://victorhckinthefreeworld.com/2026/11/20/opensuse-tumbleweed-revision-de-la-semana-47-de-2026/",
+    "fecha": "20/11/2026 13:42",
+    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Links de Viernes - #968",
+    "link": "https://www.fabio.com.ar/10083-links-de-viernes---968",
+    "fecha": "20/11/2026 12:00",
+    "contenido": "     Persiguiendo links para el finde largo\nOtro finde largo? As&iacute; es, en Argentina si algo sabemos es de feriados, nos encanta decirle al resto que son unos vagos, pero bueno, no nos vamos a quejar justo ahora que hace calor, tengo sue&ntilde;o y me duele todo, as&iacute; que para todo eso ha",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/ldv968.jpg"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Wielders of the Essence",
+    "link": "https://cozykis.kisworld.es/analisis-de-wielders-of-the-essence/",
+    "fecha": "20/11/2026 11:15",
+    "contenido": "Sobrevive a oleadas de enemigos y reconstruye tu cuidad en este survivolike de partidas cortitas y ranas\nLa entrada Análisis de Wielders of the Essence se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Villain - Natalie Zina Walschots",
+    "link": "https://nachof.blog/posts/2026/villain/",
+    "fecha": "20/11/2026 10:55",
+    "contenido": "\n\n\n\n\n\n\n\n\n\n★\n\n★\n\n★\n\n\n\n☆\n\n☆\n\n\n\nVillain es la secuela de Hench. En Hench, la historia sigue a Anna, una empleada de bajo nivel de un supervillano que, durante un ataque de un superhéroes, es víctima de daños colaterales. Anna decide vengarse, y de a poco se convierte en la Auditora. Su superpoder: hoja",
+    "imagen": "https://nachof.blog/posts/2026/villain/cover.jpg"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "La Banda Córdobesa Estrena Nuevo Single Y Video Clip | Quantum Propone “Sin Memoria”",
+    "link": "https://www.delotroladometal.com.ar/2026/11/20/quantum-propone-sin-memoria/",
+    "fecha": "20/11/2026 10:35",
+    "contenido": "Quantum, banda de Heavy Metal melódico de Río Cuarto, Córdoba, estrenó el 13 de noviembre...\nThe post La Banda Córdobesa Estrena Nuevo Single Y Video Clip | Quantum Propone “Sin Memoria” first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "Mi perra vida",
+    "titulo": "Mi perra vida | Temporada 2026, episodio 47.",
+    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-47/",
+    "fecha": "20/11/2026 10:11",
+    "contenido": "Doctor Nómada (vigésimo tercera parte)\nLeer vigésimo segunda parte\nTodo indicaba que las cosas habían salido bien, a pesar de que tuvieran algunos problemas por desabasto de los medicamentos que se utilizan para reducir las defensas de Luzma y no rechace el injerto de médula ósea, era algo a lo que ",
+    "imagen": "https://miperravida.anacronico.rocks/wp-content/uploads/2026/11/20261117_0014-633x1024.jpg"
+  },
+  {
+    "blog": "pedrolr blog",
+    "titulo": "Universidad pública y privada, ciencia abierta, ANECA y sistema universitario (y LOSU) en los programas electorales de VOX, PP, PSOE, PACMA, Frente Amplio y Podemos para el 29N",
+    "link": "https://pedrolr.es/blog/universidad-publica-y-privada-ciencia-abierta-aneca-y-sistema-universitario-y-losu-en-los-programas-electorales-de-vox-pp-psoe-pacma-frente-amplio-y-podemos-para-el-29n/",
+    "fecha": "20/11/2026 08:34",
+    "contenido": "Hoy voy con un análisis en los programas electorales para las elecciones del 29N de 2026 de VOX, PP, PSOE, PACMA, Frente Amplio y Podemos sobre temas relacionados con la universidad y la ciencia. Son temas concretos: ciencia abierta, ANECA, sistema universitario o LOSU (Ley Orgánica del Sistema Univ",
+    "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "Instalación de Termix en Proxmox",
+    "link": "https://voidnull.es/instalacion-de-termix-en-proxmox/",
+    "fecha": "20/11/2026 08:10",
+    "contenido": "Con Termix podrás centralizar el acceso SSH, transferencias de archivos, túneles, Docker y mucho más desde una única interfaz web",
+    "imagen": "https://voidnull.es/content/images/2026/10/termix-1.png"
+  },
+  {
+    "blog": "Pepógrafo",
+    "titulo": "Inventos de Extremadura: del motor de agua a La Pulga",
+    "link": "https://pepografo.com/inventos-de-extremadura/",
+    "fecha": "20/11/2026 08:00",
+    "contenido": "Inventos de Extremadura: el motor de agua de Arturo Estévez, La Pulga, el método Rayas y otros ingenios que marcaron la historia extremeña.\nLa entrada Inventos de Extremadura: del motor de agua a La Pulga se publicó primero en Pepógrafo.",
+    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/inventos-de-extremadura-portada.png?fit=1600%2C900&ssl=1"
+  },
+  {
+    "blog": "Malagueños originales y libres",
+    "titulo": "De TENTE 3D a TENTE real, conclusión",
+    "link": "https://malagaoriginal.blogspot.com/2026/11/de-tente-3d-tente-real-conclusion.html",
+    "fecha": "20/11/2026 06:01",
+    "contenido": "Hace una semanas os comenté como pasé diversos modelos de TENTE 3D al carrito de la compra de iUnits, toda una aventura.Viernes de escritorio (Linux + TENTE)Bueno, pues ya os puedo contar como terminó la aventura ya que la semana pasada me llegó el pedido y ya he podido hacer los modelos que me prop",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4IFxo-Wnh9oy9xqFw6-VL_ETMKIehIksfIL2ecp-skfyUSXYwrBc5xrzLaR3Tb18-u6AknmgxebpTinY_KO0uYIN8X040n-QmNA6ZIZkZUpObqeYpQPRS6iCIbggp-U1kmUgVzCQKbdIoZazGxxCLlrSgmBJLZxAAubui5kOQY1DBtHAIcVNQIeehHHk/s72-w640-h360-c/viernes_escritorio_2026-11-20_06-36-19.jpg"
+  },
+  {
     "blog": "Luis Carlos Pando",
     "titulo": "Aprender a perdonarme",
     "link": "https://blog.luiscarlospando.com/personal/2026/11/aprender-a-perdonarme/",
     "fecha": "20/11/2026 04:51",
-    "contenido": "Hay cosas que uno tarda mucho tiempo en entender. Algunas llegan con los años, otras con la distancia y unas cuantas aparecen cuando creías que ya habías aprendido a vivir con ellas. Últimamente he pensado mucho en el pasado. En las decisiones que tomé, en las palabras que dije y en las que me guard",
+    "contenido": "Últimamente he estado pensando mucho en cosas que creía haber dejado atrás. No necesariamente porque quiera volver a ellas, sino porque hay recuerdos que, por alguna razón, encuentran la manera de aparecer cuando menos lo esperas. Y con ellos llegan preguntas, conversaciones imaginarias y esa incómo",
+    "imagen": null
+  },
+  {
+    "blog": "Si lo haces, hazlo bien!",
+    "titulo": "Integrar las notificaciones de Beszel con Matrix",
+    "link": "https://vctrsnts.codeberg.page/posts/2026-11-20-beszel-matrix/",
+    "fecha": "19/11/2026 23:00",
+    "contenido": "Otro artículo más que nos permite ver el poder que puede llegar a tener Matrix en nuestro flujo de trabajo, o al menos en mi caso. Le estoy empezando a coger el gusanillo, aunque todavía estoy lejos del nivel de atareao y sus notificaciones. Seguramente, ese será el siguiente paso natural, siempre q",
     "imagen": null
   },
   {
@@ -309,7 +421,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "17/11/2026 10:32",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261120%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261120T050730Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=fc548cae71b1e5a238c8c84429319582749d10b71a857d45527be373b8059d7d"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261120%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261120T192854Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f01e12dcf7218b97837b20af11536c0d1314ab3317c589530c7edddeb96f76c1"
   },
   {
     "blog": "brucknerite",
@@ -373,6 +485,14 @@
     "link": "https://cozykis.kisworld.es/analisis-de-moomin-midsummer-madnes/",
     "fecha": "16/11/2026 19:35",
     "contenido": "Una tierna aventura en el que los Mumin harán todo lo posible para volver a su hogar mientras resolvemos los puzles que nos plantean\nLa entrada Análisis de Moomin: Midsummer Madnes se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Arkirus",
+    "titulo": "Trabajadores Oprimidos",
+    "link": "https://arkirus.com/blog/trabajadores-oprimidos/",
+    "fecha": "16/11/2026 17:21",
+    "contenido": "Pensamientos de un cangrejo sobre el trabajo.",
     "imagen": null
   },
   {
@@ -517,7 +637,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "15/11/2026 10:21",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261120%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261120T050730Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8c9ffba33708439649b0b3aeae303b86ed857b871e7b96e909d50ca9d069ca03"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261120%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261120T192854Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0ac5b3728027848ae4042cb0eeb25fef56c0dd1c0ce0d2ecb0d56f6d64d4b913"
   },
   {
     "blog": "pedrolr blog",
@@ -550,6 +670,14 @@
     "fecha": "15/11/2026 00:08",
     "contenido": "Llevo unos treinta años jugando videojuegos en la computadora. En ese tiempo jugué muchos juegos, y la mayoría de ellos muchas veces. Es decir, hay un montón de historias diferentes que contar. Pero por alguna razón, sólo hay un puñado de esas que me sigo acordando décadas después. O sea, lo asombro",
     "imagen": "https://nachof.blog/posts/2026/viejas-historias-de-guerra/civcover.jpg"
+  },
+  {
+    "blog": "Terminal Noir — Blog de Nico Fernandez",
+    "titulo": "Migracion de plataformas de inversiones",
+    "link": "https://www.nicofernandez.es/blog/migracion-plataformas-inversiones/",
+    "fecha": "15/11/2026 00:00",
+    "contenido": "Comento a que plataformas he migrado durante el día de hoy para algunas de mis inversiones.",
+    "imagen": null
   },
   {
     "blog": "Si lo haces, hazlo bien!",
@@ -600,6 +728,14 @@
     "imagen": null
   },
   {
+    "blog": "Terminal Noir — Blog de Nico Fernandez",
+    "titulo": "Opinión del viaje de París",
+    "link": "https://www.nicofernandez.es/blog/opinion-viaje-paris/",
+    "fecha": "14/11/2026 00:00",
+    "contenido": "Breve opinion del viaje que hice el fin de semana pasado a París",
+    "imagen": null
+  },
+  {
     "blog": "Rodriac Copen",
     "titulo": "Taller Para Escritores Modernos: \"Ser Original (Nota 2)\"",
     "link": "https://rodriaccopen.blogspot.com/2026/11/taller-para-escritores-modernos-ser_0481176236.html",
@@ -614,93 +750,5 @@
     "fecha": "13/11/2026 21:00",
     "contenido": "actualizando mi web, hablando de la chamba... y otros disparates XD.",
     "imagen": null
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "#openSUSE Tumbleweed revisión de la semana 46 de 2026",
-    "link": "https://victorhckinthefreeworld.com/2026/11/13/opensuse-tumbleweed-revision-de-la-semana-46-de-2026/",
-    "fecha": "13/11/2026 16:34",
-    "contenido": "Tumbleweed es una distribución de GNU/Linux \"Rolling Release\" o de actualización contínua. Aquí puedes estar al tanto de las últimas novedades.",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "Memorias de un Técnico Ligero",
-    "titulo": "Conocer mi modelo de CPU",
-    "link": "https://tecnico-ligero.mooo.com/posts/2026/conocer-mi-modelo-de-cpu.html",
-    "fecha": "13/11/2026 15:59",
-    "contenido": "Muchas veces necesito saber el modelo de mi CPU y se me olvida con qué. Tiro inxi pero es mucho dato y quiero algo preciso. Esta es una variante copada que descubrí:\nlscpu | grep -E 'Model name|CPU\\(s\\)|MHz'z'\n\n\nY para ver el modelo de procesador y nombre …",
-    "imagen": null
-  },
-  {
-    "blog": "Interlan",
-    "titulo": "Tutorial: Configurando WireGuard en Home Assistant",
-    "link": "https://interlan.ec/blog/2026/11/13/tutorial-configurando-wireguard-en-home-assistant/",
-    "fecha": "13/11/2026 14:00",
-    "contenido": "Esta puede ser una tarea sencilla, pero como me llevo un tiempo comprenderla, la comparto por aquí para recordar. Este Post pertenece a la categoría Tutoriales Puedes encontrar todos los artículos en orden cronológico en la etiqueta Wireguard Introducción Aun no termino de entender libremente el fun",
-    "imagen": null
-  },
-  {
-    "blog": "Tecno y Soft - Tecno y Soft",
-    "titulo": "Manjaro da un paso histórico",
-    "link": "https://tecnoysoft.com/2026/11/13/manjaro-da-un-paso-historico/",
-    "fecha": "13/11/2026 13:16",
-    "contenido": "Manjaro da un paso histórico: el proyecto ya cuenta con una asociación oficial e independiente ¡Buenas noticias para la comunidad de Manjaro! El proyecto acaba de alcanzar un hito muy importante para su futuro: Manjaro Project e.V. ya es oficialmente una organización sin ánimo de lucro, registrada l",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Links de Viernes - #967",
-    "link": "https://www.fabio.com.ar/10078-links-de-viernes---967",
-    "fecha": "13/11/2026 12:00",
-    "contenido": "     Lleg&oacute; el momento de lectura, los links de viernes!\nNo che, que no todo es lectura, tambi&eacute;n hay p&aacute;ginas bonitas, algunas im&aacute;genes locas y videos, porque aqu&iacute; hay links y porque Internet est&aacute; formada de Links, las RRSS no son Internet, sabelo. Y si te par",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/ldv967.jpg"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Truth Beneath the Shadows",
-    "link": "https://cozykis.kisworld.es/analisis-de-truth-beneath-the-shadows/",
-    "fecha": "13/11/2026 11:30",
-    "contenido": "Una misteriosa desaparición y una pareja de furrys reporteros para descubrir la verdad. Encuentra pista y resuelve el misterio\nLa entrada Análisis de Truth Beneath the Shadows se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "La Banda Finlandesa Y Su Actualidad | Deuteronomium Y El Viento A Favor",
-    "link": "https://www.delotroladometal.com.ar/2026/11/13/deuteronomium-va-para-donde-sopla-el-viento/",
-    "fecha": "13/11/2026 10:35",
-    "contenido": "La personalidad es una de las características más sobresalientes de Deuteronomium, banda finlandesa histórica si...\nThe post La Banda Finlandesa Y Su Actualidad | Deuteronomium Y El Viento A Favor first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "Mi perra vida",
-    "titulo": "Mi perra vida | Temporada 2026, episodio 46.",
-    "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-46/",
-    "fecha": "13/11/2026 10:17",
-    "contenido": "Doctor Nómada (vigésimo segunda parte)\nLeer la vigésimo primera parte\nDoctor Nómada (vigésimo segunda)\nEstuvimos platicándolo hasta muy entrada la noche, finalmente el cansancio y darnos cuenta de las pocas opciones reales que tenía el acertijo nos vencieron. Acordamos que lo más conveniente era la ",
-    "imagen": "https://miperravida.anacronico.rocks/wp-content/uploads/2026/11/20261108_0002-1024x768.jpg"
-  },
-  {
-    "blog": "Pepógrafo",
-    "titulo": "Los tesoros que Extremadura esconde bajo sus embalses",
-    "link": "https://pepografo.com/tesoros-ocultos-embalses-extremadura/",
-    "fecha": "13/11/2026 09:04",
-    "contenido": "Extremadura esconde bajo sus embalses una historia fascinante: una ciudad romana, un dolmen milenario, esculturas vetonas y vestigios de antiguos territorios que quedaron bajo el agua con la construcción de las grandes presas.\nLa entrada Los tesoros que Extremadura esconde bajo sus embalses se publi",
-    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/Templo-de-Los-Marmoles-WebP-ligero.webp?fit=1200%2C800&ssl=1"
-  },
-  {
-    "blog": "Tecno y Soft - Tecno y Soft",
-    "titulo": "Secure Boot en Linux",
-    "link": "https://tecnoysoft.com/2026/11/13/secure-boot-en-linux/",
-    "fecha": "13/11/2026 08:27",
-    "contenido": "Secure Boot en Linux: ¿protección real o falsa sensación de seguridad? Secure Boot es una de esas características de seguridad que suelen presentarse como imprescindibles en los sistemas modernos. Su objetivo es proteger la cadena de arranque del equipo, impidiendo que se ejecuten componentes que no",
-    "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "La GUI de Proxmox [Proxmox #4]",
-    "link": "https://voidnull.es/la-gui-de-proxmox/",
-    "fecha": "13/11/2026 08:18",
-    "contenido": "En este capítulo explicaremos como funciona la interfaz gráfica de Proxmox",
-    "imagen": "https://voidnull.es/content/images/2022/01/proxmox.png"
   }
 ]
