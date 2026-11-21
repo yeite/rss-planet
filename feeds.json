@@ -1,10 +1,66 @@
 [
   {
+    "blog": "eaplmx",
+    "titulo": "Juegos para jugar en una tienda - OGTS",
+    "link": "https://text.eapl.mx/juegos-para-jugar-en-una-tienda",
+    "fecha": "21/11/2026 17:15",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "eaplmx",
+    "titulo": "re: re: Respuestas en vez de comentarios",
+    "link": "https://text.eapl.mx/re-re-respuestas-en-vez-de-comentarios",
+    "fecha": "21/11/2026 16:18",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "Solución provisional a las desconexiones Wi-Fi",
+    "link": "https://tecnoysoft.com/2026/11/21/solucion-provisional-a-las-desconexiones-wi-fi/",
+    "fecha": "21/11/2026 15:18",
+    "contenido": "Manjaro Linux y Qualcomm Atheros QCA9377: un ajuste de NetworkManager que funciona. Llevo mucho tiempo padeciendo desconexiones esporádicas de la conexión Wi-Fi en Manjaro Linux, utilizando un adaptador Qualcomm Atheros QCA9377. En ocasiones, además de desconectarse, KDE mostraba el mensaje de «Cone",
+    "imagen": null
+  },
+  {
+    "blog": "Interlan",
+    "titulo": "Seguridad: Vulnerabilidad CVE-2026-123007 en Nginx",
+    "link": "https://interlan.ec/blog/2026/11/21/seguridad-vulnerabilidad-cve-2026-123007-en-nginx/",
+    "fecha": "21/11/2026 14:00",
+    "contenido": "Y aqui estamos otra vez con otra vulnerabilidad en el stack de web servers, esta vez con Nginx. Sabiendo lo que hicieron con PHP me parece casi de sentido comun que ataquen a la raiz del internet moderno (stack nginx/PHP) Esto es un boletín informativo de SEGURIDAD Introducción Una de las cualidades",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Brotality: The Woods Will End You | El Futuro Es Por Acá",
+    "link": "https://www.delotroladometal.com.ar/2026/11/21/el-futuro-es-por-aca/",
+    "fecha": "21/11/2026 11:15",
+    "contenido": "(2022 &#8211; Mythic Panda/Rottweiler Records) Hay que saber escuchar lo nuevo, pero por sobretodo saber...\nThe post Brotality: The Woods Will End You | El Futuro Es Por Acá first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
     "blog": "χσℓ.αя",
     "titulo": "de tristezas - número uno",
     "link": "https://xol.ar/de-triztezas-numero-uno/",
     "fecha": "21/11/2026 02:25",
     "contenido": "Un pequeño escrito, o poema quizás, sobre mi tristezas.",
+    "imagen": null
+  },
+  {
+    "blog": "Maverick HQ",
+    "titulo": "Usando expresiones \"for\" en OpenTofu y Terraform",
+    "link": "https://maverick-hq.org/blog/opentofu-terraform-expresiones-for/",
+    "fecha": "21/11/2026 00:00",
+    "contenido": "Cualquiera que haya trabajado en entornos desplegados con infraestructura como código (IaC, para abreviar) sabrá que la forma de interar sobre variables u otros elementos en OpenTofu o Terraform es una de las cosas menos amigables que te puedas encontrar. Sobre todo porque el código HCL (o Hashicorp",
+    "imagen": null
+  },
+  {
+    "blog": "Terminal Noir — Blog de Nico Fernandez",
+    "titulo": "Tengo el GTA VI",
+    "link": "https://www.nicofernandez.es/blog/tengo-el-gta-vi/",
+    "fecha": "21/11/2026 00:00",
+    "contenido": "Porque tengo el juego GTA VI, cuando juego y que más estoy jugando actualmente.",
     "imagen": null
   },
   {
@@ -101,11 +157,11 @@
     "link": "https://pepografo.com/inventos-de-extremadura/",
     "fecha": "20/11/2026 08:00",
     "contenido": "Inventos de Extremadura: el motor de agua de Arturo Estévez, La Pulga, el método Rayas y otros ingenios que marcaron la historia extremeña.\nLa entrada Inventos de Extremadura: del motor de agua a La Pulga se publicó primero en Pepógrafo.",
-    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/inventos-de-extremadura-portada.png?fit=1600%2C900&ssl=1"
+    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/Inventos-de-Extremadura-%C2%B7-portada-optimizada.jpg?fit=1600%2C900&ssl=1"
   },
   {
     "blog": "Malagueños originales y libres",
-    "titulo": "De TENTE 3D a TENTE real, conclusión",
+    "titulo": "De TENTE 3D a TENTE real, la conclusión",
     "link": "https://malagaoriginal.blogspot.com/2026/11/de-tente-3d-tente-real-conclusion.html",
     "fecha": "20/11/2026 06:01",
     "contenido": "Hace una semanas os comenté como pasé diversos modelos de TENTE 3D al carrito de la compra de iUnits, toda una aventura.Viernes de escritorio (Linux + TENTE)Bueno, pues ya os puedo contar como terminó la aventura ya que la semana pasada me llegó el pedido y ya he podido hacer los modelos que me prop",
@@ -256,14 +312,6 @@
     "imagen": "https://voidnull.es/content/images/2022/01/ficherolog.png"
   },
   {
-    "blog": "PlanetaInopia es el blog personal de Sandor Inopia",
-    "titulo": "Como agrandar partición raíz ext4 sin desmontar",
-    "link": "https://www.planetainopia.com/blog/20261118-como-agrandar-partition-raiz-ext4-sin-desmontar",
-    "fecha": "18/11/2026 12:59",
-    "contenido": "\n                                \nTengo un pequeño servidor corriendo Proxmox. En una de las máquinas virtuales ocurrió que, por la instalación de un nuevo programa, necesité ampliar la capacidad del disco duro de la partición raíz, formateada en ext4.\nTras apagar la máquina virtual, amplié la capac",
-    "imagen": "https://www.planetainopia.com/images/r/e/s/i/m/resimensionar-partition-ext4-en-caliente-6c9f923a.jpg"
-  },
-  {
     "blog": "Fixionauta",
     "titulo": "",
     "link": "https://fixionauta.net/2026/11/18/247811/",
@@ -326,6 +374,14 @@
     "fecha": "18/11/2026 08:10",
     "contenido": "Borg UI es una interfaz web que nos permite gestionar nuestras copias de seguridad de BorgBackup de forma mucho más sencilla",
     "imagen": "https://voidnull.es/content/images/2026/10/borgui-1.png"
+  },
+  {
+    "blog": "PlanetaInopia es el blog personal de Sandor Inopia",
+    "titulo": "Como agrandar partición raíz ext4 sin desmontar",
+    "link": "https://www.planetainopia.com/blog/20261118-como-agrandar-partition-raiz-ext4-sin-desmontar",
+    "fecha": "18/11/2026 06:38",
+    "contenido": "\n                                \nTengo un pequeño servidor corriendo Proxmox. En una de las máquinas virtuales ocurrió que, por la instalación de un nuevo programa, necesité ampliar la capacidad del disco duro de la partición raíz, formateada en ext4.\nTras apagar la máquina virtual, amplié la capac",
+    "imagen": "https://www.planetainopia.com/images/r/e/s/i/m/resimensionar-partition-ext4-en-caliente-6c9f923a.jpg"
   },
   {
     "blog": "NeoSite Blog",
@@ -429,7 +485,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "17/11/2026 10:32",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261121%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261121T050032Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=82d2282ef21faf374c3c1f22978d9865e16bfd8e62026dd7f4bd9827a47a5d3b"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261121%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261121T183118Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=222101fc3d6463f1b3ca4e9ecc5ec40ef242e042b93349639102db0ff598b40d"
   },
   {
     "blog": "brucknerite",
@@ -645,7 +701,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "15/11/2026 10:21",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261121%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261121T050032Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1bf497a9a72dd750f5d4d105919f1c1ce7e0f880f9001fb124aa0191c7b16944"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261121%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261121T183118Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b05706c0b10a3d453ae99b8b074bbbf43187fde69045b2f61a2ed9643ffdc8ba"
   },
   {
     "blog": "pedrolr blog",
@@ -701,22 +757,6 @@
     "link": "https://cozykis.kisworld.es/ananisis-de-horrorvale-deadluxe-edition/",
     "fecha": "14/11/2026 19:01",
     "contenido": "Un simpático RPG en el que la búsqueda de nuestro perro nos llevará a vivir una aventura de lo más interesante\nLa entrada Análisis de HorrorVale Deadluxe Edition se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "Mareos de un geek",
-    "titulo": "Fiesta Mecenas 2026 de Bodegas Gratias: mucho más que una copa de vino",
-    "link": "https://mareosdeungeek.es/fiesta-mecenas-2026-de-bodegas-gratias/",
-    "fecha": "14/11/2026 17:54",
-    "contenido": "La semana pasada a estas horas estaba en Casa-Ibáñez disfrutando de la Fiesta Mecenas de la 10ª Edición del proyecto ¿Y tú de quién eres? de Bodegas Gratias. Una aventura, que para nosotros (siempre he ido acompañado de mi mujer) empezó hace dos años. Mientras patrocinaba algún proyecto de cómic o j",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Triade: El Fin De La Maldad | El Balance Entre El Metal Y Lo Clásico",
-    "link": "https://www.delotroladometal.com.ar/2026/11/14/el-balance-entre-el-metal-y-lo-clasico/",
-    "fecha": "14/11/2026 10:35",
-    "contenido": "(2000 &#8211; Independiente) Si hay una banda guerrera, resiliente y resistente esa es Triade, que...\nThe post Triade: El Fin De La Maldad | El Balance Entre El Metal Y Lo Clásico first appeared on Del Otro Lado Metal.",
     "imagen": null
   }
 ]
