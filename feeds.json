@@ -1,5 +1,13 @@
 [
   {
+    "blog": "χσℓ.αя",
+    "titulo": "de tristezas - número uno",
+    "link": "https://xol.ar/de-triztezas-numero-uno/",
+    "fecha": "21/11/2026 02:25",
+    "contenido": "Un pequeño escrito, o poema quizás, sobre mi tristezas.",
+    "imagen": null
+  },
+  {
     "blog": "Tecno y Soft - Tecno y Soft",
     "titulo": "Filosofía UNIX, systemd y el peligro del purismo tecnológico",
     "link": "https://tecnoysoft.com/2026/11/20/filosofia-unix-systemd-y-el-peligro-del-purismo-tecnologico/",
@@ -421,7 +429,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "17/11/2026 10:32",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261120%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261120T192854Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f01e12dcf7218b97837b20af11536c0d1314ab3317c589530c7edddeb96f76c1"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261121%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261121T050032Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=82d2282ef21faf374c3c1f22978d9865e16bfd8e62026dd7f4bd9827a47a5d3b"
   },
   {
     "blog": "brucknerite",
@@ -637,7 +645,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "15/11/2026 10:21",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261120%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261120T192854Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=0ac5b3728027848ae4042cb0eeb25fef56c0dd1c0ce0d2ecb0d56f6d64d4b913"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261121%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261121T050032Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1bf497a9a72dd750f5d4d105919f1c1ce7e0f880f9001fb124aa0191c7b16944"
   },
   {
     "blog": "pedrolr blog",
@@ -709,46 +717,6 @@
     "link": "https://www.delotroladometal.com.ar/2026/11/14/el-balance-entre-el-metal-y-lo-clasico/",
     "fecha": "14/11/2026 10:35",
     "contenido": "(2000 &#8211; Independiente) Si hay una banda guerrera, resiliente y resistente esa es Triade, que...\nThe post Triade: El Fin De La Maldad | El Balance Entre El Metal Y Lo Clásico first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "Plutoide Marcianadas",
-    "titulo": "Exposición en El Tunal - Exposición del Cómic 2026",
-    "link": "https://plutoidemarcianadas.blogspot.com/2026/11/exposicion-en-el-tunal-exposicion-del.html",
-    "fecha": "14/11/2026 04:26",
-    "contenido": "Uno de mis dibujos en una exposición...Mi dibujo expuesto en un marco, junto a obras de diversos jóvenes artistas› Ver más »¡Patina todo el día!",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisRxoGkQUQ4tVAw9OXsc_b07fD_oBNZM2MeqM_QpudorUEOGxRoYMFWob3XiW7OeiYZlXlCr_UGyS9p0C1JApvxeId549qg3qh3VXC2Efkj-waK7g3E8n4FxS795AbWY92qh2H4dTC3_fMDErYNuM1wxwoOKT-o5_nqyg3vkaTIiQSPov60_petk077ps/s72-w400-h300-c/IMG_2026-11-13-19-21-14-158%20-%20Exposici%C3%B3n%20del%20c%C3%B3mic%20-%20El%20Tunal.jpg"
-  },
-  {
-    "blog": "El blog es mío",
-    "titulo": "Confiar con red",
-    "link": "https://alex.corcoles.net/2026/11/confiar-con-red",
-    "fecha": "14/11/2026 00:00",
-    "contenido": "\n  \"Web of trust\" (en la Wikipedia en espa&#241;ol dicen \"red de confianza\") es un concepto de seguridad fascinante pero que lamentablemente ha despegado muy poco. (Nada que ver con la web que visitamos con los navegadores.)\n  En la web of trust, cada participante tiene una identidad y \"certifica\" q",
-    "imagen": null
-  },
-  {
-    "blog": "Terminal Noir — Blog de Nico Fernandez",
-    "titulo": "Opinión del viaje de París",
-    "link": "https://www.nicofernandez.es/blog/opinion-viaje-paris/",
-    "fecha": "14/11/2026 00:00",
-    "contenido": "Breve opinion del viaje que hice el fin de semana pasado a París",
-    "imagen": null
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "Taller Para Escritores Modernos: \"Ser Original (Nota 2)\"",
-    "link": "https://rodriaccopen.blogspot.com/2026/11/taller-para-escritores-modernos-ser_0481176236.html",
-    "fecha": "13/11/2026 21:52",
-    "contenido": "&nbsp;👀 Taller Para Escritores Modernos✨ Ser Original (Nota 2)por Rodriac CopenEn el artículo de ayer abordé un tema recurrente en literatura que es el de la originalidad.Y expliqué como los escritores podemos abordar un tema recurrente y reinventarlo sin ser redundante o repetitivo.Exploré los dive",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMoGDMj18UyTluh5UdCpYQ6jcplI91Ang_4oQC__j6ggeA5B0br8aj83RIfrEaYmzvHVuCm6ktsfhx5AevL80VKKLwTWfKxWjjXKcjR7eHdP6yUs2Wc8dtnhFYpbZOafs61-R4KvfV5qX-OKy0tTDhQ1lZE247dMK5lc15njsyJgMA3nqJLCgIg6E0DF8/s72-c/Blogger%20Nota%202.jpg"
-  },
-  {
-    "blog": "Diego's Island",
-    "titulo": "The chamba update.",
-    "link": "https://diegoaep.codeberg.page/blog/the-chamba-update/",
-    "fecha": "13/11/2026 21:00",
-    "contenido": "actualizando mi web, hablando de la chamba... y otros disparates XD.",
     "imagen": null
   }
 ]
