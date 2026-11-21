@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 21 Nov 2026 04:42:56 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 13:52:14 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>de tristezas - número uno</title>
+<link>https://xol.ar/de-triztezas-numero-uno/</link>
+<guid isPermaLink="true">https://xol.ar/de-triztezas-numero-uno/</guid>
+<pubDate>Sat, 21 Nov 2026 02:25:00 GMT</pubDate>
+<category>χσℓ.αя</category>
+<description><![CDATA[Un pequeño escrito, o poema quizás, sobre mi tristezas.<br><br><strong>Fuente:</strong> χσℓ.αя]]></description>
+</item>
 <item>
 <title>Filosofía UNIX, systemd y el peligro del purismo tecnológico</title>
 <link>https://tecnoysoft.com/2026/11/20/filosofia-unix-systemd-y-el-peligro-del-purismo-tecnologico/</link>
@@ -208,14 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 19 Nov 2026 06:10:00 GMT</pubDate>
 <category>pedrolr blog</category>
 <description><![CDATA[Me metí a los programas electorales de VOX, PP, PSOE, PACMA, Frente Amplio y Podemos, y veo que solo en el de Frente Amplio se habla de software libre y de código abierto. Añado a continuación con detalles el programa de Frente Amplio y los extractos en que se habla de los temas. Quizá me [&amp;#8230;]<br><br><strong>Fuente:</strong> pedrolr blog]]></description>
-</item>
-<item>
-<title>Portada de la Web del Escritor Rodriac Copen</title>
-<link>https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html</link>
-<guid isPermaLink="true">https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html</guid>
-<pubDate>Thu, 19 Nov 2026 06:00:00 GMT</pubDate>
-<category>Rodriac Copen</category>
-<description><![CDATA[&amp;nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&amp;nbsp;Calendario 2026✔ Contacta con Rodriac&amp;nbsp;✔ Colabora con la Web✔&amp;nbsp;Lo Más Visto de la Web✔ Mapa del Sitio&amp;nbsp;⭐Recomendado✔&amp;nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.or<br><br><strong>Fuente:</strong> Rodriac Copen]]></description>
 </item>
 
 </channel>
