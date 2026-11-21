@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 21 Nov 2026 13:52:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 22:33:11 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -18,12 +18,68 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <item>
+<title>Juegos para jugar en una tienda - OGTS</title>
+<link>https://text.eapl.mx/juegos-para-jugar-en-una-tienda</link>
+<guid isPermaLink="true">https://text.eapl.mx/juegos-para-jugar-en-una-tienda</guid>
+<pubDate>Sat, 21 Nov 2026 17:15:00 GMT</pubDate>
+<category>eaplmx</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> eaplmx]]></description>
+</item>
+<item>
+<title>re: re: Respuestas en vez de comentarios</title>
+<link>https://text.eapl.mx/re-re-respuestas-en-vez-de-comentarios</link>
+<guid isPermaLink="true">https://text.eapl.mx/re-re-respuestas-en-vez-de-comentarios</guid>
+<pubDate>Sat, 21 Nov 2026 16:18:00 GMT</pubDate>
+<category>eaplmx</category>
+<description><![CDATA[<br><br><strong>Fuente:</strong> eaplmx]]></description>
+</item>
+<item>
+<title>Solución provisional a las desconexiones Wi-Fi</title>
+<link>https://tecnoysoft.com/2026/11/21/solucion-provisional-a-las-desconexiones-wi-fi/</link>
+<guid isPermaLink="true">https://tecnoysoft.com/2026/11/21/solucion-provisional-a-las-desconexiones-wi-fi/</guid>
+<pubDate>Sat, 21 Nov 2026 15:18:00 GMT</pubDate>
+<category>Tecno y Soft - Tecno y Soft</category>
+<description><![CDATA[Manjaro Linux y Qualcomm Atheros QCA9377: un ajuste de NetworkManager que funciona. Llevo mucho tiempo padeciendo desconexiones esporádicas de la conexión Wi-Fi en Manjaro Linux, utilizando un adaptador Qualcomm Atheros QCA9377. En ocasiones, además de desconectarse, KDE mostraba el mensaje de «Cone<br><br><strong>Fuente:</strong> Tecno y Soft - Tecno y Soft]]></description>
+</item>
+<item>
+<title>Seguridad: Vulnerabilidad CVE-2026-123007 en Nginx</title>
+<link>https://interlan.ec/blog/2026/11/21/seguridad-vulnerabilidad-cve-2026-123007-en-nginx/</link>
+<guid isPermaLink="true">https://interlan.ec/blog/2026/11/21/seguridad-vulnerabilidad-cve-2026-123007-en-nginx/</guid>
+<pubDate>Sat, 21 Nov 2026 14:00:00 GMT</pubDate>
+<category>Interlan</category>
+<description><![CDATA[Y aqui estamos otra vez con otra vulnerabilidad en el stack de web servers, esta vez con Nginx. Sabiendo lo que hicieron con PHP me parece casi de sentido comun que ataquen a la raiz del internet moderno (stack nginx/PHP) Esto es un boletín informativo de SEGURIDAD Introducción Una de las cualidades<br><br><strong>Fuente:</strong> Interlan]]></description>
+</item>
+<item>
+<title>Brotality: The Woods Will End You | El Futuro Es Por Acá</title>
+<link>https://www.delotroladometal.com.ar/2026/11/21/el-futuro-es-por-aca/</link>
+<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/11/21/el-futuro-es-por-aca/</guid>
+<pubDate>Sat, 21 Nov 2026 11:15:00 GMT</pubDate>
+<category>Del Otro Lado Metal</category>
+<description><![CDATA[(2022 &amp;#8211; Mythic Panda/Rottweiler Records) Hay que saber escuchar lo nuevo, pero por sobretodo saber... The post Brotality: The Woods Will End You | El Futuro Es Por Acá first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
+</item>
+<item>
 <title>de tristezas - número uno</title>
 <link>https://xol.ar/de-triztezas-numero-uno/</link>
 <guid isPermaLink="true">https://xol.ar/de-triztezas-numero-uno/</guid>
 <pubDate>Sat, 21 Nov 2026 02:25:00 GMT</pubDate>
 <category>χσℓ.αя</category>
 <description><![CDATA[Un pequeño escrito, o poema quizás, sobre mi tristezas.<br><br><strong>Fuente:</strong> χσℓ.αя]]></description>
+</item>
+<item>
+<title>Usando expresiones &quot;for&quot; en OpenTofu y Terraform</title>
+<link>https://maverick-hq.org/blog/opentofu-terraform-expresiones-for/</link>
+<guid isPermaLink="true">https://maverick-hq.org/blog/opentofu-terraform-expresiones-for/</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+<category>Maverick HQ</category>
+<description><![CDATA[Cualquiera que haya trabajado en entornos desplegados con infraestructura como código (IaC, para abreviar) sabrá que la forma de interar sobre variables u otros elementos en OpenTofu o Terraform es una de las cosas menos amigables que te puedas encontrar. Sobre todo porque el código HCL (o Hashicorp<br><br><strong>Fuente:</strong> Maverick HQ]]></description>
+</item>
+<item>
+<title>Tengo el GTA VI</title>
+<link>https://www.nicofernandez.es/blog/tengo-el-gta-vi/</link>
+<guid isPermaLink="true">https://www.nicofernandez.es/blog/tengo-el-gta-vi/</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+<category>Terminal Noir — Blog de Nico Fernandez</category>
+<description><![CDATA[Porque tengo el juego GTA VI, cuando juego y que más estoy jugando actualmente.<br><br><strong>Fuente:</strong> Terminal Noir — Blog de Nico Fernandez]]></description>
 </item>
 <item>
 <title>Filosofía UNIX, systemd y el peligro del purismo tecnológico</title>
@@ -122,7 +178,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Inventos de Extremadura: el motor de agua de Arturo Estévez, La Pulga, el método Rayas y otros ingenios que marcaron la historia extremeña. La entrada Inventos de Extremadura: del motor de agua a La Pulga se publicó primero en Pepógrafo.<br><br><strong>Fuente:</strong> Pepógrafo]]></description>
 </item>
 <item>
-<title>De TENTE 3D a TENTE real, conclusión</title>
+<title>De TENTE 3D a TENTE real, la conclusión</title>
 <link>https://malagaoriginal.blogspot.com/2026/11/de-tente-3d-tente-real-conclusion.html</link>
 <guid isPermaLink="true">https://malagaoriginal.blogspot.com/2026/11/de-tente-3d-tente-real-conclusion.html</guid>
 <pubDate>Fri, 20 Nov 2026 06:01:00 GMT</pubDate>
@@ -160,62 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Thu, 19 Nov 2026 22:00:00 GMT</pubDate>
 <category>danielaragay.net</category>
 <description><![CDATA[Nuevo episodio del podcast: Documental terminado para mecenas y probando la Rodecaster videoEsc&amp;#xfa;chalo aqu&amp;#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/documental-terminado-para-mecenas-y-probando-la-rodecaster-video<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
-</item>
-<item>
-<title>Proyecto Salvación: ciencia ficción con Ryan Gosling</title>
-<link>https://mareosdeungeek.es/proyecto-salvacion-pelicula-2026-ciencia-ficcion/</link>
-<guid isPermaLink="true">https://mareosdeungeek.es/proyecto-salvacion-pelicula-2026-ciencia-ficcion/</guid>
-<pubDate>Thu, 19 Nov 2026 19:00:00 GMT</pubDate>
-<category>Mareos de un geek</category>
-<description><![CDATA[Proyecto Salvación (Project Hail Mary, 2026) es una adaptación de la novela de Andy Weir que convierte una catástrofe cósmica en una aventura espacial sorprendentemente humana. La película adapta Proyecto Hail Mary, la novela de Andy Weir publicada tras el éxito de El marciano. Ryan Gosling se erige<br><br><strong>Fuente:</strong> Mareos de un geek]]></description>
-</item>
-<item>
-<title>Algunas fotos que dibujé en 2025</title>
-<link>https://www.ericafustero.com/2026-11-algunas-fotos-que-dibuje-en-2025</link>
-<guid isPermaLink="true">https://www.ericafustero.com/2026-11-algunas-fotos-que-dibuje-en-2025</guid>
-<pubDate>Thu, 19 Nov 2026 17:27:00 GMT</pubDate>
-<category>Erica Fustero</category>
-<description><![CDATA[Como anuncié hace unos días, he vuelto a abrir mis encargos de ilustraciones basadas en fotos y ya he empezado a entregar las primeras de la temporada. Hay una en concreto que me ha enamorado: está basada en una foto analógica familiar llena de detalles y ha quedado preciosa. Pero como no las voy a<br><br><strong>Fuente:</strong> Erica Fustero]]></description>
-</item>
-<item>
-<title>Ruleta Rusa #903</title>
-<link>https://www.fabio.com.ar/10082-ruleta-rusa-903</link>
-<guid isPermaLink="true">https://www.fabio.com.ar/10082-ruleta-rusa-903</guid>
-<pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
-<category>Fabio.com.ar</category>
-<description><![CDATA[Balas humeantes para la ruleta Les pido solemnemente que no me rompan producci&amp;oacute;n, nada, mensaje en c&amp;oacute;digo 😅, pero siendo jueves, no da, menos ma&amp;ntilde;ana, el viernes no se implementa nada, el push se hace sin merge, los branches se quedan en las ramas, nada de mezclar en main, y<br><br><strong>Fuente:</strong> Fabio.com.ar]]></description>
-</item>
-<item>
-<title>Análisis de InCowMental</title>
-<link>https://cozykis.kisworld.es/analisis-de-incowmental/</link>
-<guid isPermaLink="true">https://cozykis.kisworld.es/analisis-de-incowmental/</guid>
-<pubDate>Thu, 19 Nov 2026 11:47:00 GMT</pubDate>
-<category>CozyKis</category>
-<description><![CDATA[Gestiona a tus vaquitas, recoge recursos y haz prosperar tu imperio ganjil mientras disfrutas de los diversos minijuegos La entrada Análisis de InCowMental se publicó primero en CozyKis.<br><br><strong>Fuente:</strong> CozyKis]]></description>
-</item>
-<item>
-<title>Oil: Refine | Testimonio De Una Época</title>
-<link>https://www.delotroladometal.com.ar/2026/11/19/testimonio-de-una-epoca/</link>
-<guid isPermaLink="true">https://www.delotroladometal.com.ar/2026/11/19/testimonio-de-una-epoca/</guid>
-<pubDate>Thu, 19 Nov 2026 10:35:00 GMT</pubDate>
-<category>Del Otro Lado Metal</category>
-<description><![CDATA[(2000 &amp;#8211; Kaluboné Records) La historia de Oil es un poco el resumen del recorrido... The post Oil: Refine | Testimonio De Una Época first appeared on Del Otro Lado Metal.<br><br><strong>Fuente:</strong> Del Otro Lado Metal]]></description>
-</item>
-<item>
-<title>Efemérides en educación</title>
-<link>https://adrianperales.com/2026/11/efemerides-en-educacion/</link>
-<guid isPermaLink="true">https://adrianperales.com/2026/11/efemerides-en-educacion/</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
-<category>Adrián Perales</category>
-<description><![CDATA[Me pone triste decir esto, pero creo que el 25N se ha convertido en otro elemento más en la lista de tareas que representan hoy las efemérides en la escuela. Antes de nada, debo aclarar que no soy especialmente bueno en entender la legislación y que estas líneas se basan exclusivamente en mi visión<br><br><strong>Fuente:</strong> Adrián Perales]]></description>
-</item>
-<item>
-<title>Software libre y código abierto solo en el programa electoral de Frente Amplio para las elecciones del 29N</title>
-<link>https://pedrolr.es/blog/software-libre-y-codigo-abierto-solo-en-el-programa-electoral-de-frente-amplio-para-las-elecciones-del-29n/</link>
-<guid isPermaLink="true">https://pedrolr.es/blog/software-libre-y-codigo-abierto-solo-en-el-programa-electoral-de-frente-amplio-para-las-elecciones-del-29n/</guid>
-<pubDate>Thu, 19 Nov 2026 06:10:00 GMT</pubDate>
-<category>pedrolr blog</category>
-<description><![CDATA[Me metí a los programas electorales de VOX, PP, PSOE, PACMA, Frente Amplio y Podemos, y veo que solo en el de Frente Amplio se habla de software libre y de código abierto. Añado a continuación con detalles el programa de Frente Amplio y los extractos en que se habla de los temas. Quizá me [&amp;#8230;]<br><br><strong>Fuente:</strong> pedrolr blog]]></description>
 </item>
 
 </channel>
