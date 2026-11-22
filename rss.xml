@@ -7,7 +7,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <link>https://blogblog.es</link>
 <description>Últimas publicaciones del directorio</description>
 <language>es-es</language>
-<lastBuildDate>Sun, 22 Nov 2026 03:57:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 13:44:38 GMT</lastBuildDate>
 <atom:link href="https://blogblog.es/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
@@ -17,6 +17,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 </image>
 
 
+<item>
+<title>Funcionaba perfecto y no lo usó nadie :(</title>
+<link>https://blog.taller404.org/posts/matrix-nadie-lo-uso/</link>
+<guid isPermaLink="true">https://blog.taller404.org/posts/matrix-nadie-lo-uso/</guid>
+<pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+<category>Posts on Mi blog</category>
+<description><![CDATA[Este fin de semana apagué mi servidor de Matrix. No se había roto, no tenía ningún fallo de seguridad, no me quedaba sin espacio. Funcionaba perfectamente. Lo apagué porque en todo el tiempo que estuvo encendido lo usé prácticamente yo solo :( Y creo que la razón da para un post, porque no tiene nad<br><br><strong>Fuente:</strong> Posts on Mi blog]]></description>
+</item>
+<item>
+<title>Jihad butleriano ya</title>
+<link>https://nachof.blog/posts/2026/jihad-butleriano-ya/</link>
+<guid isPermaLink="true">https://nachof.blog/posts/2026/jihad-butleriano-ya/</guid>
+<pubDate>Sat, 21 Nov 2026 20:30:00 GMT</pubDate>
+<category>Un blog</category>
+<description><![CDATA[Me voy a hacer stickers con esto<br><br><strong>Fuente:</strong> Un blog]]></description>
+</item>
 <item>
 <title>Juegos para jugar en una tienda - OGTS</title>
 <link>https://text.eapl.mx/juegos-para-jugar-en-una-tienda</link>
@@ -66,12 +82,20 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <description><![CDATA[Un pequeño escrito, o poema quizás, sobre mi tristezas.<br><br><strong>Fuente:</strong> χσℓ.αя]]></description>
 </item>
 <item>
+<title>Sin título</title>
+<link>https://fixionauta.net/2026/11/20/251361/</link>
+<guid isPermaLink="true">https://fixionauta.net/2026/11/20/251361/</guid>
+<pubDate>Sat, 21 Nov 2026 01:15:00 GMT</pubDate>
+<category>Fixionauta</category>
+<description><![CDATA[An Asian Ghost Story (Bo Wang, 2023), mockumentary de 37 minutos con una historia del pasado que en el presente no nos resulta extraña con todas esas sanciones y aranceles con los que el Agente Naranja va bombardeando por aquí y por allá, así como las triquiñuelas que se hacen para saltar por encima<br><br><strong>Fuente:</strong> Fixionauta]]></description>
+</item>
+<item>
 <title>Usando expresiones &quot;for&quot; en OpenTofu y Terraform</title>
 <link>https://maverick-hq.org/blog/opentofu-terraform-expresiones-for/</link>
 <guid isPermaLink="true">https://maverick-hq.org/blog/opentofu-terraform-expresiones-for/</guid>
 <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
 <category>Maverick HQ</category>
-<description><![CDATA[Cualquiera que haya trabajado en entornos desplegados con infraestructura como código (IaC, para abreviar) sabrá que la forma de interar sobre variables u otros elementos en OpenTofu o Terraform es una de las cosas menos amigables que te puedas encontrar. Sobre todo porque el código HCL (o Hashicorp<br><br><strong>Fuente:</strong> Maverick HQ]]></description>
+<description><![CDATA[Cualquiera que haya trabajado en entornos desplegados con infraestructura como código (IaC, para abreviar) sabrá que la forma de iterar sobre variables u otros elementos en OpenTofu o Terraform es una de las cosas menos amigables que te puedas encontrar. Sobre todo porque el código HCL (o Hashicorp<br><br><strong>Fuente:</strong> Maverick HQ]]></description>
 </item>
 <item>
 <title>Tengo el GTA VI</title>
@@ -192,30 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom">
 <pubDate>Fri, 20 Nov 2026 04:51:00 GMT</pubDate>
 <category>Luis Carlos Pando</category>
 <description><![CDATA[Últimamente he estado pensando mucho en cosas que creía haber dejado atrás. No necesariamente porque quiera volver a ellas, sino porque hay recuerdos que, por alguna razón, encuentran la manera de aparecer cuando menos lo esperas. Y con ellos llegan preguntas, conversaciones imaginarias y esa incómo<br><br><strong>Fuente:</strong> Luis Carlos Pando]]></description>
-</item>
-<item>
-<title>Integrar las notificaciones de Beszel con Matrix</title>
-<link>https://vctrsnts.codeberg.page/posts/2026-11-20-beszel-matrix/</link>
-<guid isPermaLink="true">https://vctrsnts.codeberg.page/posts/2026-11-20-beszel-matrix/</guid>
-<pubDate>Thu, 19 Nov 2026 23:00:00 GMT</pubDate>
-<category>Si lo haces, hazlo bien!</category>
-<description><![CDATA[Otro artículo más que nos permite ver el poder que puede llegar a tener Matrix en nuestro flujo de trabajo, o al menos en mi caso. Le estoy empezando a coger el gusanillo, aunque todavía estoy lejos del nivel de atareao y sus notificaciones. Seguramente, ese será el siguiente paso natural, siempre q<br><br><strong>Fuente:</strong> Si lo haces, hazlo bien!]]></description>
-</item>
-<item>
-<title>602. Ciclos 2</title>
-<link>https://lamadredelpatonegro.blogspot.com/2026/11/602-ciclos-2.html</link>
-<guid isPermaLink="true">https://lamadredelpatonegro.blogspot.com/2026/11/602-ciclos-2.html</guid>
-<pubDate>Thu, 19 Nov 2026 23:00:00 GMT</pubDate>
-<category>La Madre Que Parió Al Pato Negro</category>
-<description><![CDATA[&amp;nbsp; &amp;nbsp; Cuando escribí la entrada número 58 no pensaba que en la número 602 estaría escribiendo esto que ahora estás leyendo. Yo calculaba que esa entrada llegaría más tarde, probablemente algún día de noviembre de 2027. Pero, por lo visto, había hecho mal las cuentas.&amp;nbsp; &amp;nbsp; El momento<br><br><strong>Fuente:</strong> La Madre Que Parió Al Pato Negro]]></description>
-</item>
-<item>
-<title>Documental terminado para mecenas y probando la Rodecaster video</title>
-<link>https://blog.danielaragay.net/documental-terminado-para-mecenas-y-probando-la-rodecaster-video/</link>
-<guid isPermaLink="true">https://blog.danielaragay.net/documental-terminado-para-mecenas-y-probando-la-rodecaster-video/</guid>
-<pubDate>Thu, 19 Nov 2026 22:00:00 GMT</pubDate>
-<category>danielaragay.net</category>
-<description><![CDATA[Nuevo episodio del podcast: Documental terminado para mecenas y probando la Rodecaster videoEsc&amp;#xfa;chalo aqu&amp;#xed;: https://podcast.danielaragay.net/@haciendoelsueco/episodes/documental-terminado-para-mecenas-y-probando-la-rodecaster-video<br><br><strong>Fuente:</strong> danielaragay.net]]></description>
 </item>
 
 </channel>
