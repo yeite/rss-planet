@@ -1,5 +1,21 @@
 [
   {
+    "blog": "Posts on Mi blog",
+    "titulo": "Funcionaba perfecto y no lo usó nadie :(",
+    "link": "https://blog.taller404.org/posts/matrix-nadie-lo-uso/",
+    "fecha": "22/11/2026 00:00",
+    "contenido": "Este fin de semana apagué mi servidor de Matrix. No se había roto, no tenía\nningún fallo de seguridad, no me quedaba sin espacio. Funcionaba\nperfectamente. Lo apagué porque en todo el tiempo que estuvo encendido lo\nusé prácticamente yo solo :(\nY creo que la razón da para un post, porque no tiene nad",
+    "imagen": null
+  },
+  {
+    "blog": "Un blog",
+    "titulo": "Jihad butleriano ya",
+    "link": "https://nachof.blog/posts/2026/jihad-butleriano-ya/",
+    "fecha": "21/11/2026 20:30",
+    "contenido": "\n Me voy a hacer stickers con esto\n \n",
+    "imagen": "https://nachof.blog/posts/2026/jihad-butleriano-ya/deaddata.png"
+  },
+  {
     "blog": "eaplmx",
     "titulo": "Juegos para jugar en una tienda - OGTS",
     "link": "https://text.eapl.mx/juegos-para-jugar-en-una-tienda",
@@ -48,11 +64,19 @@
     "imagen": null
   },
   {
+    "blog": "Fixionauta",
+    "titulo": "",
+    "link": "https://fixionauta.net/2026/11/20/251361/",
+    "fecha": "21/11/2026 01:15",
+    "contenido": "An Asian Ghost Story (Bo Wang, 2023), mockumentary de 37 minutos con una historia del pasado que en el presente no nos resulta extraña con todas esas sanciones y aranceles con los que el Agente Naranja va bombardeando por aquí y por allá, así como las triquiñuelas que se hacen para saltar por encima",
+    "imagen": null
+  },
+  {
     "blog": "Maverick HQ",
     "titulo": "Usando expresiones \"for\" en OpenTofu y Terraform",
     "link": "https://maverick-hq.org/blog/opentofu-terraform-expresiones-for/",
     "fecha": "21/11/2026 00:00",
-    "contenido": "Cualquiera que haya trabajado en entornos desplegados con infraestructura como código (IaC, para abreviar) sabrá que la forma de interar sobre variables u otros elementos en OpenTofu o Terraform es una de las cosas menos amigables que te puedas encontrar. Sobre todo porque el código HCL (o Hashicorp",
+    "contenido": "Cualquiera que haya trabajado en entornos desplegados con infraestructura como código (IaC, para abreviar) sabrá que la forma de iterar sobre variables u otros elementos en OpenTofu o Terraform es una de las cosas menos amigables que te puedas encontrar. Sobre todo porque el código HCL (o Hashicorp ",
     "imagen": null
   },
   {
@@ -213,6 +237,14 @@
     "link": "https://www.ericafustero.com/2026-11-algunas-fotos-que-dibuje-en-2025",
     "fecha": "19/11/2026 17:27",
     "contenido": "Como anuncié hace unos días, he vuelto a abrir mis encargos de ilustraciones basadas en fotos y ya he empezado a entregar las primeras de la temporada. Hay una en concreto que me ha enamorado: está basada en una foto analógica familiar llena de detalles y ha quedado preciosa. Pero como no las voy a ",
+    "imagen": null
+  },
+  {
+    "blog": "Fixionauta",
+    "titulo": "",
+    "link": "https://fixionauta.net/2026/11/19/251327/",
+    "fecha": "19/11/2026 13:30",
+    "contenido": "Kisaragi Eki (Jiro Nagae, 2022). Cuenta una historia que vuelve a ser contada a mitad de la película, un recurso narrativo que puede resultar aburrido para el público, aquí les sale bien. Hay escena post-créditos. Clasificada como &#8220;Horror&#8221;, aunque considero que debería haber un género de",
     "imagen": null
   },
   {
@@ -436,7 +468,7 @@
     "titulo": "Volvamos a celebrar",
     "link": "https://matizeta.com/2026/11/17/volvamos-a-celebrar/",
     "fecha": "17/11/2026 13:37",
-    "contenido": "Existe un día internacional del blog... ¿y alguien se acuerda de los premios 20blogs?Entradas relacionadas:Una Wikipedia de tu vidaResulta que ahora no necesitamos cambiar la&hellip;Mi experiencia montando una nube privadaLos blogs que me motivaron a tener el mío¿Dónde guardar tantas fotos?",
+    "contenido": "Existe un día internacional del blog... ¿y alguien se acuerda de los premios 20blogs?Entradas relacionadas:Pegué el salto a un iPhone Pro y estas son las&hellip;Es hora de dejar de festejarle los lanzamientos a AppleLos que están en un falso pedestalResulta que ahora no necesitamos cambiar la&hellip",
     "imagen": null
   },
   {
@@ -485,7 +517,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "17/11/2026 10:32",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261121%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261121T183118Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=222101fc3d6463f1b3ca4e9ecc5ec40ef242e042b93349639102db0ff598b40d"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261122%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261122T042508Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=2ba3c23e0dc7a835de47ce9d4619a619abb41533394a335690a7da6fda05fb90"
   },
   {
     "blog": "brucknerite",
@@ -701,7 +733,7 @@
     "link": "https://labaudric.net/videos/runescape-dragonwilds",
     "fecha": "15/11/2026 10:21",
     "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261121%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261121T183118Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=b05706c0b10a3d453ae99b8b074bbbf43187fde69045b2f61a2ed9643ffdc8ba"
+    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/6998/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261122%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261122T042508Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e36db7e1206c2da5783483768586e6e5b463fe002599e7ca74284cc0ded764e6"
   },
   {
     "blog": "pedrolr blog",
@@ -717,46 +749,6 @@
     "link": "https://www.quiroptero.blog/2026/11/contrasenas/",
     "fecha": "15/11/2026 05:02",
     "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Diego's Island",
-    "titulo": "Videojuegos, al fin.",
-    "link": "https://diegoaep.codeberg.page/blog/videojuegos-al-fin/",
-    "fecha": "15/11/2026 02:30",
-    "contenido": "Después de un buen tiempo, vuelvo a jugar un videojuego en mi laptop. Se volverá a descontrolar la adicción XD",
-    "imagen": null
-  },
-  {
-    "blog": "Un blog",
-    "titulo": "Viejas historias de guerra",
-    "link": "https://nachof.blog/posts/2026/viejas-historias-de-guerra/",
-    "fecha": "15/11/2026 00:08",
-    "contenido": "Llevo unos treinta años jugando videojuegos en la computadora. En ese tiempo jugué muchos juegos, y la mayoría de ellos muchas veces. Es decir, hay un montón de historias diferentes que contar. Pero por alguna razón, sólo hay un puñado de esas que me sigo acordando décadas después. O sea, lo asombro",
-    "imagen": "https://nachof.blog/posts/2026/viejas-historias-de-guerra/civcover.jpg"
-  },
-  {
-    "blog": "Terminal Noir — Blog de Nico Fernandez",
-    "titulo": "Migracion de plataformas de inversiones",
-    "link": "https://www.nicofernandez.es/blog/migracion-plataformas-inversiones/",
-    "fecha": "15/11/2026 00:00",
-    "contenido": "Comento a que plataformas he migrado durante el día de hoy para algunas de mis inversiones.",
-    "imagen": null
-  },
-  {
-    "blog": "Si lo haces, hazlo bien!",
-    "titulo": "Mejorando mis containers con healthchecks",
-    "link": "https://vctrsnts.codeberg.page/posts/2026-11-15-containers-healthy/",
-    "fecha": "14/11/2026 23:00",
-    "contenido": "Aquí tenemos otro artículo nuevo, aunque no lo considero como un artículo más, sino como un añadido que podría incluirse en este o en este otro, porque son mejoras o información adicional que siempre viene bien tener disponible cuando trabajamos con nuestros contenedores.\n◇ Añadiendo healthchecks a ",
-    "imagen": null
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de HorrorVale Deadluxe Edition",
-    "link": "https://cozykis.kisworld.es/ananisis-de-horrorvale-deadluxe-edition/",
-    "fecha": "14/11/2026 19:01",
-    "contenido": "Un simpático RPG en el que la búsqueda de nuestro perro nos llevará a vivir una aventura de lo más interesante\nLa entrada Análisis de HorrorVale Deadluxe Edition se publicó primero en CozyKis.",
     "imagen": null
   }
 ]
