@@ -1,5 +1,37 @@
 [
   {
+    "blog": "JavierSam",
+    "titulo": "¡Salió Blender 5.3!",
+    "link": "https://javiersam.uy/2026/11/salio-blender-5-3.html",
+    "fecha": "23/11/2026 03:00",
+    "contenido": "El martes 10 de noviembre, tal y como estaba previsto, se produjo el lanzamiento de Blender 5.3. Este es el habitual video de presentación del lanzamiento a cargo de Jonathan Lampel (con la colaboración de Wayne Dixon para la parte de Animación y Rigging): Las novedades más destacadas Y el gran Chri",
+    "imagen": null
+  },
+  {
+    "blog": "La Madre Que Parió Al Pato Negro",
+    "titulo": "603. La galería del eco",
+    "link": "https://lamadredelpatonegro.blogspot.com/2026/11/603-la-galeria-del-eco.html",
+    "fecha": "22/11/2026 23:00",
+    "contenido": "&nbsp; &nbsp; Supongo que el que más y el que menos habrá oído o leído alguna vez que el sonido no se transmite igual en la superficie que en las profundidades de la tierra. Y es verdad. Esto que te cuento ahora sucedió un domingo de hace unos años, cuando me tocaba trabajar de noche. Fue durante la",
+    "imagen": "https://img.youtube.com/vi/C7u5dc10Suc/default.jpg"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "República Bananera de España: una semana",
+    "link": "https://mareosdeungeek.es/republica-bananera-de-espana-una-semana/",
+    "fecha": "22/11/2026 22:32",
+    "contenido": "Han pasado rápido los días desde el anuncio de la convocatoria de elecciones, el último mes antes de ellas e incluso desde que se inició la campaña electoral. Marcada esta última por los debates y entrevistas televisivas y en redes de los candidatos. Después de la última legislatura son unas eleccio",
+    "imagen": null
+  },
+  {
+    "blog": "Erica Fustero",
+    "titulo": "Cuina de barri",
+    "link": "https://www.ericafustero.com/2026-11-cuina-de-barri",
+    "fecha": "22/11/2026 22:08",
+    "contenido": "Hace unos días leí un post sobre un nuevo restaurante. El local tiene apariencia de bar de toda la vida, con su barra de metal, sus baldosas y el menú escrito en una pizarra. Muy bonito. Hacen cuina de barri y en la carta abundan los platos tradicionales catalanes. En algunas elaboraciones, sustituy",
+    "imagen": null
+  },
+  {
     "blog": "SKR – Reflexiones sobre videojuegos, cine, series, movilidad, política y fotografías de viajes",
     "titulo": "¿Una legislatura perdida? (V) Sira Rego, el ministerio más pequeño y el debate más difícil",
     "link": "https://seyker.eu/sira-rego-juventud-infancia-legislatura-sumar/",
@@ -13,7 +45,7 @@
     "link": "https://pepografo.com/zapatos-gorila-botas-viejas-foto-colegio/",
     "fecha": "22/11/2026 08:00",
     "contenido": "Una fotografía escolar, unos zapatos Gorila remendados y un niño empeñado en esconder la puntera. Una historia real de infancia y memoria.\nLa entrada Zapatos Gorila: el niño que quiso esconder sus zapatos en la foto del colegio se publicó primero en Pepógrafo.",
-    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/Zapatos-Gorila-%E2%80%94-recreacion-fotografica-de-portada.png?fit=1536%2C1024&ssl=1"
+    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/zapatogorila.webp?fit=1200%2C800&ssl=1"
   },
   {
     "blog": "Rodriac Copen",
@@ -544,14 +576,6 @@
     "imagen": null
   },
   {
-    "blog": "labaudric",
-    "titulo": "audric subió 2 videos en Runescape DragonWilds",
-    "link": "https://labaudric.net/videos/runescape-dragonwilds",
-    "fecha": "17/11/2026 10:32",
-    "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261122%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261122T185331Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=bd596859ab1289ee7d9a4853af0f49afeea6f406f5219123c0f4762309f7b317"
-  },
-  {
     "blog": "brucknerite",
     "titulo": "Ayer y hoy en el tren: las sujeciones de vía",
     "link": "https://brucknerite.net/2026/11/ayer-y-hoy-en-el-tren-las-sujeciones-de-via.html",
@@ -686,37 +710,5 @@
     "fecha": "16/11/2026 08:10",
     "contenido": "¿Quieres guardar tus proyectos Git en tu propio servidor? Comparamos GitLab, Gitea y Forgejo para ayudarte a elegir la plataforma que mejor encaja con tus necesidades.",
     "imagen": "https://voidnull.es/content/images/2022/08/git-2.png"
-  },
-  {
-    "blog": "El Blog de Lázaro",
-    "titulo": "Cómo muestro las estadísticas del blog con shortcodes",
-    "link": "https://elblogdelazaro.org/como-muestro-las-estadisticas-del-blog-con-shortcodes/",
-    "fecha": "16/11/2026 05:00",
-    "contenido": "\n                                Desde hace tiempo publico las estad&iacute;sticas de El Blog de L&aacute;zaro en una p&aacute;gina donde muestro cu&aacute;ntos art&iacute;culos y notas he publicado cada a&ntilde;o y c&oacute;mo se distribuyen por meses.\nNo se trata de anal&iacute;tica web, estad&ia",
-    "imagen": "https://elblogdelazaro.org/images/4/1/4/f/5/414f5460575e3222c12502e96b3b91de60e4bd85-featured.webp"
-  },
-  {
-    "blog": "Eterno aprendiz",
-    "titulo": "Bienvenidos seguidores de Pixelfed",
-    "link": "https://altgr.xyz/2026/11/15/bienvenidos-seguidores-de-pixelfed/",
-    "fecha": "15/11/2026 21:51",
-    "contenido": "Por fin logré migrar mis seguidores de Pixelfed al blog WordPress. Si me seguías en @carloshr a partir de ahora me verás en @blog. Todo esto es gracias a la &#8220;magia&#8221; de la federación, que permite moverse entre distintas plataformas del Fediverso y mantener los seguidores. Por acá encontra",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "Ousama Game (el juego del rey anime)",
-    "link": "https://labaudric.net/blog/anime/juego-del-rey",
-    "fecha": "15/11/2026 19:30",
-    "contenido": "\nJuego del rey - Ousama Game. Anime de 12 capítulos estrenados en 2017. Basado en... La novela de teléfono celular del mismo nombre. Es la primera vez que me topo con algo de eso. Estoy leyendo el artículo de wikipedia conforme estoy redactando esto.\nBueno, voy a criticar la versión anime, que es lo",
-    "imagen": "https://labaudric.net/img/juego_del_rey/01.png"
-  },
-  {
-    "blog": "La Frikoteca",
-    "titulo": "Esperando el petardazo",
-    "link": "http://frikoteca.blogspot.com/2026/11/esperando-el-petardazo.html",
-    "fecha": "15/11/2026 19:20",
-    "contenido": "¿No os da la impresión de que hay como una sensación en el ambiente de que todo está a punto de pegar el petardazo? Que conste que no voy a meter la política en esta entrada, porque todos sabemos que hay elecciones en dos semanas, pero no me refiero a que vaya a llegar la extrema derecha al poder o ",
-    "imagen": null
   }
 ]
