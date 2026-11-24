@@ -1,5 +1,13 @@
 [
 {
+  "Nombre": "Drapergiggs",
+  "Url": "https://drapergiggs.com",
+  "Feed": "https://drapergiggs.com/feed/",
+  "Descripción": "En este blog hablo de fotografía, música, cultura pop, internet, ansiedad, cine, literatura y mi vida personal.",
+  "Categoría": "Entretenimiento y Cultura,Fotografía,Literario,Manualidades / Hobbies,Tecnología,Viajes,Vida Diaria",
+  "País": "España"
+},
+{
   "Nombre": "arkirus",
   "Url": "https://www.nicofernandez.es/blog/",
   "Feed": "https://www.nicofernandez.es/rss.xml",
@@ -146,7 +154,7 @@
     "Url": "https://danielomarcignacco.blogspot.com",
     "Feed": "https://danielomarcignacco.blogspot.com/feeds/posts/default?alt=rss",
     "Descripción": "El blog de Daniel Omar Cignacco es un espacio literario y personal enfocado en la poesía, la narrativa contemporánea y la memoria urbana de Buenos Aires.",
-    "Categoría": "Liteario",
+    "Categoría": "Literario",
     "País": "Argentina"
   },
   {
