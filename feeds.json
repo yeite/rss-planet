@@ -1,10 +1,130 @@
 [
   {
+    "blog": "ENTRE DRAGONES Y PINGÜINOS",
+    "titulo": "La frontera del cielo, según Singelin",
+    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/11/25/20261125-la-frontera-del-cielo/",
+    "fecha": "25/11/2026 09:00",
+    "contenido": "\"FRONTIER. Explora, expande, escapa\" cuenta una historia que contrapone la perspectiva extractivista de las corporaciones con una alternativa humanista y ecologista",
+    "imagen": null
+  },
+  {
+    "blog": "56K.ES",
+    "titulo": "Vim Classic – El fork del editor mantenido completamente por humanos",
+    "link": "https://56k.es/fanta/vim-classic-el-fork-del-editor-mantenido-completamente-por-humanos/",
+    "fecha": "24/11/2026 21:31",
+    "contenido": "Ha salido una nueva versión de Vim Classic (la 8.3.1), el fork del editor Vim. La visión de este fork es sencilla: Mantenimiento del software a largo plazo, proporcionar versiones estables y confiables sin IA generativa. Se trata de un Fork anterior a la salida de Vim 9, un fork mantenido completame",
+    "imagen": null
+  },
+  {
+    "blog": "56K.ES",
+    "titulo": "BootProg – Ejecutar programas al iniciar un PC sin sistema operativo",
+    "link": "https://56k.es/fanta/bootprog-ejecutar-programas-al-iniciar-un-pc-sin-sistema-operativo/",
+    "fecha": "24/11/2026 19:44",
+    "contenido": "Hacernos nuestro propio bootloader es sencillo pero primero voy a comentar como usando BootProg podemos crearnos un disquete o pendrive o disco que arranque ejecutando un programa determinado. Todo esto sin que tengamos un sistema operativo instalado (evidentemente si necesitamos un sistema operativ",
+    "imagen": null
+  },
+  {
+    "blog": "Victorhck in the free world",
+    "titulo": "Agama es el primer instalador de un sistema operativo que podrá realizar las tareas junto una IA",
+    "link": "https://victorhckinthefreeworld.com/2026/11/24/agama-primer-instalador-ia/",
+    "fecha": "24/11/2026 16:43",
+    "contenido": "Agama, el instalador de SUSE y openSUSE que sustituye a YaST es el primer instalador que estará preparado para que una IA realice las tareas de instalación. No de manera predeterminada y no sin supervisión",
+    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
+  },
+  {
+    "blog": "56K.ES",
+    "titulo": "NV-Forever – Disfrutar Fallout New Vegas en Linux",
+    "link": "https://56k.es/fanta/nv-forever-disfrutar-fallout-new-vegas-en-linux/",
+    "fecha": "24/11/2026 16:20",
+    "contenido": "He visto que estos días han sacado nueva release del engine NV-Forever: nv-forever.com/ NV son las siglas de New Vegas y se trata de un engine libre que permite poder ejecutar Fallout New Vegas en Linux. He instalado con wine el juego y lo he dejado en un directorio. He añadido al directorio el ejec",
+    "imagen": null
+  },
+  {
+    "blog": "Picando Código",
+    "titulo": "Lavado de cerebro",
+    "link": "https://picandocodigo.net/2026/lavado-de-cerebro/",
+    "fecha": "24/11/2026 13:55",
+    "contenido": "Posts relacionadosPeek - Graba tu pantalla y exporta a GIF animadoUn GIF animado con un bucle de 1000 años de duración - ASLAPOktober DATAFEST - Un mes dedicado a los Datos&hellip;Cafeína diariamente protege tu cerebroSemana del conocimiento del cerebro 2011",
+    "imagen": null
+  },
+  {
+    "blog": "Manu Mateos",
+    "titulo": "#202: no sabía que Dolphin tenía un cliente de Git",
+    "link": "https://www.macram.es/posts/2026/11/dolphin-git-client/",
+    "fecha": "24/11/2026 12:32",
+    "contenido": "No sabía que Dolphin (el explorador y gestor de ficheros por defecto de KDE) tenía soporte básico para las operaciones habituales de Git. El commit para publicar esta nota lo he hecho con eso. No sé si es algo incluído en alguna actualización o es algún tipo de complemento que he instalado yo; tengo",
+    "imagen": null
+  },
+  {
+    "blog": "La (l)ínea (d)oméstica",
+    "titulo": "Mi casa está sucia",
+    "link": "https://ld.srht.site/posts/mi-casa-esta-sucia.txt",
+    "fecha": "24/11/2026 12:00",
+    "contenido": "Nunca he tenido demasiado respeto al polvo que se acumula en los libros o sobre las superficies de la casa. Entre las batallas que tengo que elegir esas partículas se encuentran en los asientos de visibilidad reducida. Quizá este sea el año en el que menos me he duchado. \n\nHemos experimentado menos ",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "Jason Arday - La estafa del falso académico",
+    "link": "https://www.fabio.com.ar/10085-jason-arday---la-estafa-del-falso-academico",
+    "fecha": "24/11/2026 12:00",
+    "contenido": "    \nPasaron unos meses y ya nadie habla del asunto, as&iacute; que para m&iacute; es el momento ideal para escribir al respecto porque, estoy seguro, ninguno de ustedes oy&oacute; al respecto.\nLa historia se trata de Jason Arday, un personaje muy particular que se convirti&oacute; de la noche a la ",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/arday2.jpg"
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Análisis de Imperial Grace",
+    "link": "https://cozykis.kisworld.es/analisis-de-imperial-grace/",
+    "fecha": "24/11/2026 11:58",
+    "contenido": "Escoge como gestionar tu imperio, sobrevive a intrigas palaciegas y encuentra el amor llevando vestidos preciosos\nLa entrada Análisis de Imperial Grace se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "alt43",
+    "titulo": "Android sin Google: aplicaciones y servicios por orden de prioridad",
+    "link": "https://alt43.es/android-sin-google-aplicaciones-y-servicios-por-orden-de-prioridad/",
+    "fecha": "24/11/2026 11:44",
+    "contenido": "En Android de serie, la misma cuenta de Google suele reunir correo, ubicación, fotos, contactos, contraseñas y pagos. Desde el 30 de septiembre de 2026, la verificación obligatoria de desarrolladores ya se aplica en cuatro países, y su extensión global está prevista para 2027. Reducir esa dependenci",
+    "imagen": null
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Anuncian Nuevo Álbum Para Abril 2027 | Wolves At The Gate Se Adelanta",
+    "link": "https://www.delotroladometal.com.ar/2026/11/24/wolves-at-the-gate-se-adelanta/",
+    "fecha": "24/11/2026 10:35",
+    "contenido": "Puede ser un poco apresurado teniendo en cuenta que faltan mas o menos 4 meses...\nThe post Anuncian Nuevo Álbum Para Abril 2027 | Wolves At The Gate Se Adelanta first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "AsturGeek V3",
+    "titulo": "Transparencia en Gnome Terminal (Ptixis)",
+    "link": "https://asturgeek.eu/2026/11/24/transparencia-en-gnome-terminal-ptixis/",
+    "fecha": "24/11/2026 08:21",
+    "contenido": "Desde hace unas cuantas versiones, la terminal de Gnome es un fork de la terminal Ptixis. Cuenta con una gran cantidad de opciones, pero en lo que más destaca es en la cantidad de «pieles» que incorpora.Puedes cambiar el color de la terminal en muchísimas combinaciones predfefinidas. Sin embargo, a ",
+    "imagen": null
+  },
+  {
+    "blog": "Pepógrafo",
+    "titulo": "Cuatro rutas gastronómicas por Extremadura para descubrir sus sabores más auténticos",
+    "link": "https://pepografo.com/rutas-gastronomicas-extremadura/",
+    "fecha": "24/11/2026 08:00",
+    "contenido": "Cuatro itinerarios para descubrir Extremadura a través de sus sabores: la dehesa y el ibérico, las queserías, los olivares y las bodegas. Una invitación a conocer la historia y las tradiciones gastronómicas de la región.\nLa entrada Cuatro rutas gastronómicas por Extremadura para descubrir sus sabore",
+    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/dehesaextremena.jpg?fit=1200%2C671&ssl=1"
+  },
+  {
     "blog": "56K.ES",
     "titulo": "Götzendiener – En lugar de rescatar a la doncella, eres la doncella",
     "link": "https://56k.es/fanta/gotzendiener-en-lugar-de-rescatar-a-la-doncella-eres-la-doncella/",
     "fecha": "24/11/2026 01:28",
     "contenido": "Götzendiener significa algo así como persona que rinde culto a ídolos (Idólatra) y es nombre de esta joya oculta que salió en 1994 para PC Engine en Japón. Salió en formato Super CD. El juego tiene una atmósfera bastante curiosa. Comienza con una batalla entre un demonio y un caballero con una espad",
+    "imagen": null
+  },
+  {
+    "blog": "Jorge Aguilera",
+    "titulo": "DOP con Java 21-27 (2/6)",
+    "link": "https://blog.jagedn.dev/blog/2026/java-dop-2.html",
+    "fecha": "24/11/2026 00:00",
+    "contenido": "Data Oriented Programming (DOP) con Java 21-27",
     "imagen": null
   },
   {
@@ -76,7 +196,7 @@
     "titulo": "Conciertos",
     "link": "https://www.macram.es/shoebox/conciertos/",
     "fecha": "23/11/2026 10:04",
-    "contenido": "Tiendo a recordar solo los conciertos que disfruté, que conste. Todos estos me gustaron. Algunos más me gustaron también pero a lo mejor no me acuerdo de todos. Según vaya acordándome iré añadiendo a la lista.\n\n\nFolk\n\n\n\n\n\n\n\nAcetre (incontables)\nLuar na Lubre (incontables)\nBudiño\nTejedor\nKalakan\nKepa",
+    "contenido": "Tiendo a recordar solo los conciertos que disfruté, que conste. Todos estos me gustaron. Algunos más me gustaron también pero a lo mejor no me acuerdo de todos. Según vaya acordándome iré añadiendo a la lista.\n\n\nFolk\n\nAcetre (incontables)\nLuar na Lubre (incontables)\nBudiño\nTejedor\nKalakan\nKepa Junke",
     "imagen": null
   },
   {
@@ -193,7 +313,7 @@
   },
   {
     "blog": "Jorge Aguilera",
-    "titulo": "DOP con Java 21-27",
+    "titulo": "DOP con Java 21-27 (1/6)",
     "link": "https://blog.jagedn.dev/blog/2026/java-dop-1.html",
     "fecha": "22/11/2026 00:00",
     "contenido": "Data Oriented Programming (DOP) con Java 21-27",
@@ -568,6 +688,14 @@
     "imagen": null
   },
   {
+    "blog": "PlanetaInopia es el blog personal de Sandor Inopia",
+    "titulo": "Como agrandar partición raíz ext4 sin desmontar",
+    "link": "https://www.planetainopia.com/blog/20261118-como-agrandar-partition-raiz-ext4-sin-desmontar",
+    "fecha": "18/11/2026 09:17",
+    "contenido": "\n                                \nTengo un pequeño servidor corriendo Proxmox. En una de las máquinas virtuales ocurrió que, por la instalación de un nuevo programa, necesité ampliar la capacidad del disco duro de la partición raíz, formateada en ext4.\nTras apagar la máquina virtual, amplié la capac",
+    "imagen": "https://www.planetainopia.com/images/r/e/s/i/m/resimensionar-partition-ext4-en-caliente-6c9f923a.jpg"
+  },
+  {
     "blog": "AsturGeek V3",
     "titulo": "PopAmp, música con estilo (retro)",
     "link": "https://asturgeek.eu/2026/11/18/popamp-musica-con-estilo-retro/",
@@ -600,14 +728,6 @@
     "imagen": "https://voidnull.es/content/images/2026/10/borgui-1.png"
   },
   {
-    "blog": "PlanetaInopia es el blog personal de Sandor Inopia",
-    "titulo": "Como agrandar partición raíz ext4 sin desmontar",
-    "link": "https://www.planetainopia.com/blog/20261118-como-agrandar-partition-raiz-ext4-sin-desmontar",
-    "fecha": "18/11/2026 07:28",
-    "contenido": "\n                                \nTengo un pequeño servidor corriendo Proxmox. En una de las máquinas virtuales ocurrió que, por la instalación de un nuevo programa, necesité ampliar la capacidad del disco duro de la partición raíz, formateada en ext4.\nTras apagar la máquina virtual, amplié la capac",
-    "imagen": "https://www.planetainopia.com/images/r/e/s/i/m/resimensionar-partition-ext4-en-caliente-6c9f923a.jpg"
-  },
-  {
     "blog": "NeoSite Blog",
     "titulo": "Immich: Tu propio Google Fotos autoalojado, rápido y privado",
     "link": "https://blog.neosite.com.ar/post/immich-tu-propio-google-fotos-autoalojado-r-pido-y-privado",
@@ -630,109 +750,5 @@
     "fecha": "17/11/2026 22:20",
     "contenido": "Los Tres en formato desenchufado, conmemorando 30 años del MTV Unplugged, con la formación original. Acompañaron al cuarteto, Toño Restucci y Cuti Aste, músicos que también estuvieron en la grabación de Miami en 1995. En la primera parte tocaron las canciones de la presentación original y luego de u",
     "imagen": null
-  },
-  {
-    "blog": "Victorhck in the free world",
-    "titulo": "Conectar el reproductor Strawberry con nuestro servidor de música Navidrome en Linux",
-    "link": "https://victorhckinthefreeworld.com/2026/11/17/conectar-el-reproductor-strawberry-con-nuestro-servidor-de-musica-navidrome-en-linux/",
-    "fecha": "17/11/2026 16:38",
-    "contenido": "Veamos cómo utilizar el reproductor de música Strawberry para reproducir música de nuestro servidor de música Navidrome en GNU/Linux",
-    "imagen": "https://0.gravatar.com/avatar/9129a4bf3d5f8e7be5736caee268af67f7c2ec0b01160ffc7817f6bc09da57c9?s=96&d=identicon&r=G"
-  },
-  {
-    "blog": "eaplmx",
-    "titulo": "re: Respuestas en vez de comentarios",
-    "link": "https://text.eapl.mx/re-respuestas-en-vez-de-comentarios",
-    "fecha": "17/11/2026 14:04",
-    "contenido": "",
-    "imagen": null
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "Diario de Rodriac: \"El Mundo Se Ha Vuelto Loco (Humor)\"",
-    "link": "https://rodriaccopen.blogspot.com/2026/11/diario-de-rodriac-el-mundo-se-ha-vuelto.html",
-    "fecha": "17/11/2026 13:49",
-    "contenido": "&nbsp;🍀 Diario de Rodriac🌹 El Mundo Se Ha Vuelto Loco (Humor)&nbsp;por Rodriac Copen¿Sabes? El mundo ha estado loco desde siempre. Ya en 1963 se filmó \"El Mundo está Loco,Loco Loco\".O quizás siempre fue así, solo que ahora tenemos Wi-Fi y Redes Sociales. Eso hace que la locura no quede retenida entr",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbi5mjkkFAFhqp-ZWy-88ybkBu-n8uu91q6M5oToVJ1A5mQ8TwqEfRyaJx91iVAL1wEyX_Z6k3Tl-9vclR1u9kxCK_R_Y96_iGSnVWwepKh8mHb0iHVAq28T-FobGhTfQVXuhItvmUbbvVQqG5InpQUWot74XwGxTJIr-7H7I1uId9a9ZmfJ3Kj5eGxPI/s72-c/Blogger.jpg"
-  },
-  {
-    "blog": "matizeta",
-    "titulo": "Volvamos a celebrar",
-    "link": "https://matizeta.com/2026/11/17/volvamos-a-celebrar/",
-    "fecha": "17/11/2026 13:37",
-    "contenido": "Existe un día internacional del blog... ¿y alguien se acuerda de los premios 20blogs?Entradas relacionadas:Pegué el salto a un iPhone Pro y estas son las&hellip;Es hora de dejar de festejarle los lanzamientos a AppleLos que están en un falso pedestalResulta que ahora no necesitamos cambiar la&hellip",
-    "imagen": null
-  },
-  {
-    "blog": "fernand0 @ GitHub.io",
-    "titulo": "Las URL y cómo las usan para confundir a los usuarios",
-    "link": "https://fernand0.github.io//urls-ofuscacion/",
-    "fecha": "17/11/2026 12:44",
-    "contenido": "En URL Ofuscadas: El Arte de Ocultar Enlaces Maliciosos encontramos un texto interesante, sobre todo en estos tiempos que parece que el empeño es ocultarnos la web (incluso en los navegadores) y hacer más difícil prestar atención a los detalles que pueden ayudarnos a sospechar si algo va mal. La ide",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "La decadencia del deseo",
-    "link": "https://www.fabio.com.ar/10080-la-decadencia-del-deseo",
-    "fecha": "17/11/2026 12:00",
-    "contenido": "    \nNo quiero caer en la repetici&oacute;n ni hablar del pasado como algo \"mejor\" cuando sabemos que eso no es as&iacute;, pero hay algunas cosas de anta&ntilde;o que ten&iacute;an una raz&oacute;n de ser, algo evolutivo que nos trajo hasta ac&aacute;, hoy quiero hablar del deseo.\nEn otra &eacute;p",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/desire01.jpg"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Hungry Horrors",
-    "link": "https://cozykis.kisworld.es/analisis-de-hungry-horrors/",
-    "fecha": "17/11/2026 11:56",
-    "contenido": "Armadas con nuestros mejores platos de cocina nos tocará enfrentarnos a monstruos de lo más variado para salvar el reino\nLa entrada Análisis de Hungry Horrors se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "56K.ES",
-    "titulo": "Cuando la OUIJA da la razón",
-    "link": "https://56k.es/fanta/cuando-la-ouija-da-la-razon/",
-    "fecha": "17/11/2026 11:02",
-    "contenido": "No voy a nombrar a cierta gente que me inspiró anoche a escribir esto por evitarles hate. Esta entrada habla de como se nos va la cabeza muchas veces y terminamos pensando que la IA siente dolor o como periodistas serios acaban normalizando la OUIJA. # 1. Tenemos capacidad de acción # 2. La IA [&#82",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Tronador: Estallido En La Noche | Una Verdadera Pieza De Colección",
-    "link": "https://www.delotroladometal.com.ar/2026/11/17/una-verdadera-pieza-de-coleccion/",
-    "fecha": "17/11/2026 10:35",
-    "contenido": "(1991/2026 &#8211; 2M Producciones) Tengo que confesar que esta nueva onda de rescatar viejo material...\nThe post Tronador: Estallido En La Noche | Una Verdadera Pieza De Colección first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "labaudric",
-    "titulo": "audric subió 2 videos en Runescape DragonWilds",
-    "link": "https://labaudric.net/videos/runescape-dragonwilds",
-    "fecha": "17/11/2026 10:32",
-    "contenido": " ",
-    "imagen": "https://s3.eu-paris.megas4.com/feditubo/videos/7003/poster.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAF2XZKLPR6OTTEIS5653XRVYNBTUSRZSFUW3OMJB3%2F20261124%2Feu-paris%2Fs3%2Faws4_request&amp;X-Amz-Date=20261124T074934Z&amp;X-Amz-Expires=3600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=9e7c1d8adb0ae406c4f5ad919f917509810bd5946a9c4081732ffc319dc8f58b"
-  },
-  {
-    "blog": "brucknerite",
-    "titulo": "Ayer y hoy en el tren: las sujeciones de vía",
-    "link": "https://brucknerite.net/2026/11/ayer-y-hoy-en-el-tren-las-sujeciones-de-via.html",
-    "fecha": "17/11/2026 09:00",
-    "contenido": "Un nuevo vídeo en la serie de la evolución de las tecnologías ferroviarias de mi trabajo en la Fundación de los Ferrocarriles Españoles. Esta vez nos fijamos en una pieza aparentemente humilde, pero importantísima: las sujeciones de vía.",
-    "imagen": null
-  },
-  {
-    "blog": "Bitácora de fernand0",
-    "titulo": "La IA nos vuelve descuidados",
-    "link": "https://blog.elmundoesimperfecto.com/2026/11/17/ia-descuidados/",
-    "fecha": "17/11/2026 09:00",
-    "contenido": "\n\nEs indudable que la IA puede ayudarnos a ir más rápidos y a hacer algunas cosas mejor, pero, como cualquier otro sistema de ayuda, puede provocar que nos volvamos despistados y descuidados.\n\nDe eso hablaban en Doctors who used AI assistance in procedures became 20% worse at spotting abnormalities ",
-    "imagen": "https://live.staticflickr.com/65535/55596791444_da947fca77_z.jpg"
-  },
-  {
-    "blog": "Pepógrafo",
-    "titulo": "Calendario Zaragozano 2027: si mañana no llueve, me afeito el bigote",
-    "link": "https://pepografo.com/calendario-zaragozano-2027-humor/",
-    "fecha": "17/11/2026 08:00",
-    "contenido": "Mi Calendario Zaragozano 2027: el fraile del tiempo, el gallo portugués, cuatro estaciones y una tormenta en Yesa que terminó en barca.\nLa entrada Calendario Zaragozano 2027: si mañana no llueve, me afeito el bigote se publicó primero en Pepógrafo.",
-    "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/Calendario-Zaragozano-2027-optimizado.jpg?fit=1024%2C1536&ssl=1"
   }
 ]
