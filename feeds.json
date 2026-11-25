@@ -1,5 +1,101 @@
 [
   {
+    "blog": "Esuntipazo - blog",
+    "titulo": "¿Dónde están los poetas?",
+    "link": "http://www.esuntipazo.com/post/donde-estan-los-poetas",
+    "fecha": "25/11/2026 20:11",
+    "contenido": "-Los han visto por ahí, diría Shakira. Y es que no sé querido, lector. Siento que cuando mencionan al poeta, salta a la mente su amigo ese con pelo a la wolfcut, tote bag, matcha latte, audífonos de cable y libro bajo el brazo. Un hombre performativo de manual",
+    "imagen": "http://www.esuntipazo.comhttps://www.esuntipazo.com/uploads/blog_1795637436120-53jvzfzs5mc.jpg"
+  },
+  {
+    "blog": "Mareos de un geek",
+    "titulo": "Cochinas, la comedia de Prime Video con Malena Alterio",
+    "link": "https://mareosdeungeek.es/cochinas-serie-prime-video/",
+    "fecha": "25/11/2026 19:39",
+    "contenido": "Cochinas es una serie de comedia española protagonizada por Malena Alterio que puede verse en Prime Video. Bastante transgresora, destaca por mostrar una recreación nostálgica y detallada de los noventa. El argumento es bastante sencillo, a finales de los años 90 el dueño de un videoclub sufre un ac",
+    "imagen": null
+  },
+  {
+    "blog": "_ voidNull",
+    "titulo": "zypper: gestiona paquetes en distros basadas en OpenSUSE",
+    "link": "https://voidnull.es/zypper-gestiona-paquetes-en-distros-basadas-en-opensuse/",
+    "fecha": "25/11/2026 16:30",
+    "contenido": "La gestión de usuarios y contraseñas es una de las tareas fundamentales en la administración de sistemas GNU/Linux.",
+    "imagen": "https://voidnull.es/content/images/2022/01/cli.png"
+  },
+  {
+    "blog": "56K.ES",
+    "titulo": "Software en papel – Ahorrando chips",
+    "link": "https://56k.es/fanta/software-en-papel-ahorrando-chips/",
+    "fecha": "25/11/2026 16:08",
+    "contenido": "En este post vamos a hablar de como compartir software (juegos por ejemplo) en papel en vez de en un cartucho (que supone chips, memorias, plástico, placa, &#8230;.). Esto no es algo nuevo, es muy viejo (véanse tarjetas perforadas). Se ha usado incluso a nivel comercial por parte de Nintendo como ve",
+    "imagen": null
+  },
+  {
+    "blog": "56K.ES",
+    "titulo": "Hack₂O – Hacktivismo hídrico impulsado por la comunidad",
+    "link": "https://56k.es/fanta/hack%e2%82%82o-hacktivismo-hidrico-impulsado-por-la-comunidad/",
+    "fecha": "25/11/2026 14:19",
+    "contenido": "Llevo tiempo queriendo comentar por aquí esto pero la vida no me da para todo. Hoy he sacado por fin un poco de tiempo para ello y creo que merece la pena porque quizás no todo el mundo conoce Hack₂O . Entre los servicios colaborativos que ofrece esta plataforma libre se encuentra un foro comunitari",
+    "imagen": null
+  },
+  {
+    "blog": "56K.ES",
+    "titulo": "4get – Un Metabuscador que elimina la mierda",
+    "link": "https://56k.es/fanta/4get-un-metabuscador-que-elimina-la-mierda/",
+    "fecha": "25/11/2026 13:09",
+    "contenido": "Por aquí ya hemos comentado alguna vez que puedes montarte: «Tu propio buscador sin casinos y sin youtubers de extrema derecha«. No obstante no hace falta que todo el mundo monte su propio buscador y existen proyectos como 4get que permiten utilizar los existentes (un metabuscador). Antes de soltar ",
+    "imagen": null
+  },
+  {
+    "blog": "eaplmx",
+    "titulo": "Tecnología inútil aunque interesante",
+    "link": "https://text.eapl.mx/2026-11-25-tecnologia-inutil-aunque-interesante",
+    "fecha": "25/11/2026 12:51",
+    "contenido": "",
+    "imagen": null
+  },
+  {
+    "blog": "CozyKis",
+    "titulo": "Odisea Indie A Coruña 2026",
+    "link": "https://cozykis.kisworld.es/odisea-indie-a-coruna-2026/",
+    "fecha": "25/11/2026 12:05",
+    "contenido": "Un evento que ha conseguido juntar una pequeña parte del talento español e internacional indie nos deja con un buen sabor de boca\nLa entrada Odisea Indie A Coruña 2026 se publicó primero en CozyKis.",
+    "imagen": null
+  },
+  {
+    "blog": "Fabio.com.ar",
+    "titulo": "El recuerdo mentiroso: los 80s no se veían ni eran como se cree",
+    "link": "https://www.fabio.com.ar/10086-el-recuerdo-mentiroso-los-80s-no-se-veian-ni-eran-como-se-cree",
+    "fecha": "25/11/2026 12:00",
+    "contenido": "    \nHace un par de meses se hab&iacute;a puesto de moda pasajera en redes subir una imagen de \"c&oacute;mo te ver&iacute;as en los a&ntilde;os 80s\" y todas las representaciones eran una suma de lugares comunes que jam&aacute;s representaron a los 80s.\n&iexcl;Pero eso es lo que la gente que no vivi&",
+    "imagen": "https://www.fabio.com.ar/images/reviews37/80s/80smentirosos01.jpg"
+  },
+  {
+    "blog": "Del Otro Lado Metal",
+    "titulo": "Rev Seven: Heavy Laden Volume II | Segundas Partes Que No Son Tan Buenas",
+    "link": "https://www.delotroladometal.com.ar/2026/11/25/segundas-partes-que-no-son-tan-buenas/",
+    "fecha": "25/11/2026 10:35",
+    "contenido": "(2025 &#8211; Retroactive Records) Cuantas veces hemos escuchado esa máxima que dice que las segundas...\nThe post Rev Seven: Heavy Laden Volume II | Segundas Partes Que No Son Tan Buenas first appeared on Del Otro Lado Metal.",
+    "imagen": null
+  },
+  {
+    "blog": "56K.ES",
+    "titulo": "La IA generativa en la Demoscene – Cómo matar la unión de arte, tecnología y comunidad",
+    "link": "https://56k.es/fanta/la-ia-generativa-en-la-demoscene-como-matar-la-union-de-arte-tecnologia-y-comunidad/",
+    "fecha": "25/11/2026 10:21",
+    "contenido": "La demoscene siempre ha mezclado arte pero también competición dado que una plataforma (Nintendo Switch 1, Amiga AGA, Amiga OCS/ECS, Commodore 64, Game Boy, Apple II, Play Station 1, ZX Spectrum, &#8230;) al final tenía unos limites que permitían poder competir en ver quienes llevaban más al limite ",
+    "imagen": null
+  },
+  {
+    "blog": "matizeta",
+    "titulo": "¿En qué momento dejamos de tomar fotos en horizontal?",
+    "link": "https://matizeta.com/2026/11/25/en-que-momento-dejamos-de-tomar-fotos-en-horizontal/",
+    "fecha": "25/11/2026 10:11",
+    "contenido": "Mientras caminaba vi una publicidad en la calle que me llamó la atención y disparó la pregunta que tituló esta entrada. En ella estaba una chica agarrando un celular de manera horizontal, como si fuera una cámara de fotos. La publicidad es del Nubia Neo 5 Max, un celular enfocado al mundo gammer y n",
+    "imagen": null
+  },
+  {
     "blog": "ENTRE DRAGONES Y PINGÜINOS",
     "titulo": "La frontera del cielo, según Singelin",
     "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/11/25/20261125-la-frontera-del-cielo/",
@@ -8,11 +104,35 @@
     "imagen": null
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "Terapia en el Free Spirit Wellness Center junto a CA7RIEL y Paco Amoroso",
-    "link": "https://altgr.xyz/2026/11/25/terapia-en-el-free-spirit-wellness-center-junto-a-ca7riel-y-paco-amoroso/",
-    "fecha": "25/11/2026 05:40",
-    "contenido": "El Santander Arena se convirtió en una sede del Free Spirit Wellness Center para vivir una experiencia sanadora de cuerpo y alma junto a los argentinos CA7RIEL y Paco Amoroso con el acompañamiento de la voz y los pensamientos de Sting. Para mí, estos chicos son de lo mejor que hay en el género urban",
+    "blog": "_ voidNull",
+    "titulo": "Añade datos de tu router Unifi en Grafana",
+    "link": "https://voidnull.es/anade-datos-de-tu-router-unifi-en-grafana/",
+    "fecha": "25/11/2026 08:10",
+    "contenido": "En este tutorial vamos a aprender a monitorizar nuestra red UniFi utilizando Grafana",
+    "imagen": "https://voidnull.es/content/images/2022/01/grafana.png"
+  },
+  {
+    "blog": "Rodriac Copen",
+    "titulo": "Portada de la Web del Escritor Rodriac Copen",
+    "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
+    "fecha": "25/11/2026 06:00",
+    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔&nbsp;Lo Más Visto de la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.or",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlz2atQN9zlqvt7Cn27q5INM-LdWN3VhvP-cFASD98E5aF4-fhjNDSZhIgxRhv4t0APvMSDl186xJfFHtto86Qs-gkHqKweZIayLRNtmi6OqvnVzxl07CKZx_FWwM9ZDXVcq_-yR6re-Bnus5Zb12gpsdp9Geg28rXSvPf1I5SVd_dZLjY438M_IlaaY0/s72-c/Portada%20General%20650px.jpg"
+  },
+  {
+    "blog": "Jorge Aguilera",
+    "titulo": "DOP con Java 21-27 (3/6)",
+    "link": "https://blog.jagedn.dev/blog/2026/java-dop-3.html",
+    "fecha": "25/11/2026 00:00",
+    "contenido": "Data Oriented Programming (DOP) con Java 21-27",
+    "imagen": null
+  },
+  {
+    "blog": "NevatBlog",
+    "titulo": "Borrando el repositorio Flatpak de Fedora",
+    "link": "https://nevat.neocities.org/f45flatpak_25112026.html",
+    "fecha": "25/11/2026 00:00",
+    "contenido": "¿No se puede hacer vía GUI? Sin problema, para eso está la CLI.",
     "imagen": null
   },
   {
@@ -64,11 +184,19 @@
     "imagen": null
   },
   {
+    "blog": "Rodriac Copen",
+    "titulo": "La SciFi Que Nadie Te Contó: \"Cuando la SciFi Explotó El Sexo en los '60\"",
+    "link": "https://rodriaccopen.blogspot.com/2026/11/la-scifi-que-nadie-te-conto-cuando-la.html",
+    "fecha": "24/11/2026 14:53",
+    "contenido": "&nbsp;🌹 La SciFi Que Nadie Te Contó👀 Cuando la SciFi Explotó El Sexo en los '60&nbsp;por Rodriac CopenSi algo caracterizó a la ciencia ficción de los años sesenta fue su capacidad para imaginar futuros extraordinarios.&nbsp;Algunos estaban llenos de naves espaciales, robots inteligentes y civilizaci",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMg35cNjy6WSbHhOIpRs4qh2w9u_sP3jQ-1jvMrVLyi-c3Abqn0pnkprEXpVUDU6tuA2eJxBgYOQ7qyll4HNCCK0XtEfL60m9rJxnadosCDt5hCZPZraZTMWK19OyFUYZ2b0YkTo8hHzn7m8TSdx0KC-7yjWoKSO3lArZGk_LAzVAJI9oek4yM3sfgWwM/s72-c/Blogger.jpg"
+  },
+  {
     "blog": "Picando Código",
     "titulo": "Lavado de cerebro",
     "link": "https://picandocodigo.net/2026/lavado-de-cerebro/",
     "fecha": "24/11/2026 13:55",
-    "contenido": "Posts relacionadosCafeína diariamente protege tu cerebroCómics: Morgan's Organs - como \"Inside Out\" de Pixar&hellip;Un GIF animado con un bucle de 1000 años de duración - ASLAPPeek - Graba tu pantalla y exporta a GIF animadoJugar Tetris altera tu cerebro",
+    "contenido": "Posts relacionadosJugar Tetris altera tu cerebroCómics: Morgan's Organs - como \"Inside Out\" de Pixar&hellip;Peek - Graba tu pantalla y exporta a GIF animadoCafeína diariamente protege tu cerebroUn GIF animado con un bucle de 1000 años de duración - ASLAP",
     "imagen": null
   },
   {
@@ -334,14 +462,6 @@
     "fecha": "22/11/2026 08:00",
     "contenido": "Una fotografía escolar, unos zapatos Gorila remendados y un niño empeñado en esconder la puntera. Una historia real de infancia y memoria.\nLa entrada Zapatos Gorila: el niño que quiso esconder sus zapatos en la foto del colegio se publicó primero en Pepógrafo.",
     "imagen": "https://i0.wp.com/pepografo.com/wp-content/uploads/2026/11/zapatogorila.webp?fit=1200%2C800&ssl=1"
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "Portada de la Web del Escritor Rodriac Copen",
-    "link": "https://rodriaccopen.blogspot.com/2026/04/portada-de-la-web-de-rodriac-copen.html",
-    "fecha": "22/11/2026 06:00",
-    "contenido": "&nbsp; ⭐ Acerca De Rodriac Copen✔ ¿Quién Soy?✔ El Diario de Rodriac✔&nbsp;Calendario 2026✔ Contacta con Rodriac&nbsp;✔ Colabora con la Web✔&nbsp;Lo Más Visto de la Web✔ Mapa del Sitio&nbsp;⭐Recomendado✔&nbsp;Proyectos en Carpeta⭐ Descargas✔ Descargas Gratuitas✔ Compra mis PDFs✔ Rodriac en Archive.or",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlz2atQN9zlqvt7Cn27q5INM-LdWN3VhvP-cFASD98E5aF4-fhjNDSZhIgxRhv4t0APvMSDl186xJfFHtto86Qs-gkHqKweZIayLRNtmi6OqvnVzxl07CKZx_FWwM9ZDXVcq_-yR6re-Bnus5Zb12gpsdp9Geg28rXSvPf1I5SVd_dZLjY438M_IlaaY0/s72-c/Portada%20General%20650px.jpg"
   },
   {
     "blog": "Posts on Mi blog",
@@ -664,14 +784,6 @@
     "imagen": "https://elblogdelazaro.org/images/9/d/7/6/1/9d7610a7a888274162fa86a20c717f0e51fef76e-kutblog-01.png"
   },
   {
-    "blog": "Eterno aprendiz",
-    "titulo": "The Hayley Williams Show",
-    "link": "https://altgr.xyz/2026/11/19/the-hayley-williams-show/",
-    "fecha": "19/11/2026 03:50",
-    "contenido": "Mucho talento, consciencia y belleza sobre el escenario del Santander Arena. Hayley Williams, vocalista de Paramore, se presentó por primera vez como solista en Chile dejando a todo el público encantado. Entre las canciones de sus discos se dio el tiempo para interpretar covers de Portisehad (Wander",
-    "imagen": null
-  },
-  {
     "blog": "La cosa infinita (Daniel Omar Cignacco)",
     "titulo": "Trillón uno",
     "link": "https://danielomarcignacco.mataroa.blog/blog/trillon-uno/",
@@ -686,93 +798,5 @@
     "fecha": "18/11/2026 21:39",
     "contenido": "&nbsp;🌞 La Trastienda Autoral🌺 Escribir acompañado por&nbsp; IA'spor Rodriac CopenEsta es una charla sobre imaginación, brainstorming, el desarrollo de ideas y algunos engranajes cerebrales que intervienen en ese proceso tan complicado que se llama CREATIVIDAD.Es por eso que te voy a contar un poco ",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8i1R2TIAtX_OJ9uawFZS_3D76Nskh5b9pB1_RAXXhAO07-_VFZddbuedUhVoLZzSd5xDZ938nNqdcBWtaiU-2RH0LNj35HQO-56krueqxfI0mzWtX6o0PGHN_rBc7M3WwOkg87L4oasfUJU0IGfNeiiNovwlapRXu93gxxHoKdBBhs9q9HWjIqrRg9yM/s72-c/Blogger.jpg"
-  },
-  {
-    "blog": "gorkula.com",
-    "titulo": "Cola en el Trader Joe's",
-    "link": "https://www.gorkula.com/cola-trader-joes",
-    "fecha": "18/11/2026 18:05",
-    "contenido": "Decirlo en voz alta suena estúpido. Escribirlo todavía más.\n\nEl lunes abrieron un Trader Joe's al lado de casa. Hicimos cola para entrar.\n\nParece la sinopsis de la primera novela escrita por un millennial.\n\nNo sé si seguirá estando de moda el hacer cola toda la noche en la puerta de una tienda Apple",
-    "imagen": "https://www.gorkula.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2LCJwdXIiOiJibG9iX2lkIn19--d28a859ae30d9dd89eee8b12f08e199d120fcb30/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2xpbWl0IjpbODAwLDgwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--92d8ba39e960d4d4499353f454d0ccb29fb6eb1c/IMG_4904.jpeg"
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "AOCR.org en las estadísticas de Ghost: cómo investigué y bloqueé el tráfico",
-    "link": "https://voidnull.es/aocr-org-en-las-estadisticas-de-ghost-como-investigue-y-bloquee-el-trafico/",
-    "fecha": "18/11/2026 16:33",
-    "contenido": "¿No será que un grupo de radiologos serán fans eternos de voidNull y... la casualidad de que se encontraban en un evento en China?",
-    "imagen": "https://voidnull.es/content/images/2022/01/ficherolog.png"
-  },
-  {
-    "blog": "Fixionauta",
-    "titulo": "",
-    "link": "https://fixionauta.net/2026/11/18/247811/",
-    "fecha": "18/11/2026 12:30",
-    "contenido": "2017 flashback! Batman pencil sketch by Nick Derington, digital colors by me.",
-    "imagen": null
-  },
-  {
-    "blog": "Fabio.com.ar",
-    "titulo": "Software recomendado: Process Explorer",
-    "link": "https://www.fabio.com.ar/10081-software-recomendado-process-explorer",
-    "fecha": "18/11/2026 12:00",
-    "contenido": "    \nAquellos que se quedaron con el viejo y cl&aacute;sico Task Manager siempre le gritan al infierno cuando algo los est&aacute; bloqueando y no aparece all&iacute;, la raz&oacute;n es simple, el \"Administrador de Tareas\" es para usuarios b&aacute;sicos, muestra mucho menos de lo que debe.\nY si te",
-    "imagen": "https://www.fabio.com.ar/images/reviews37/processexplorer01.png"
-  },
-  {
-    "blog": "CozyKis",
-    "titulo": "Análisis de Milki Delivery",
-    "link": "https://cozykis.kisworld.es/analisis-de-milki-delivery/",
-    "fecha": "18/11/2026 11:34",
-    "contenido": "Una aventura acogedora en un bonito escenario sobre la importancia de la comunidad y cuidar de la naturaleza \nLa entrada Análisis de Milki Delivery se publicó primero en CozyKis.",
-    "imagen": null
-  },
-  {
-    "blog": "Del Otro Lado Metal",
-    "titulo": "Entrevista Con Rob Rock | “Estoy Trabajando En Algunas Canciones Nuevas”",
-    "link": "https://www.delotroladometal.com.ar/2026/11/18/estoy-trabajando-en-algunas-canciones-nuevas/",
-    "fecha": "18/11/2026 10:35",
-    "contenido": "Hablar con Rob Rock me remite mucho a mi pasado. No solo por la primera...\nThe post Entrevista Con Rob Rock | “Estoy Trabajando En Algunas Canciones Nuevas” first appeared on Del Otro Lado Metal.",
-    "imagen": null
-  },
-  {
-    "blog": "PlanetaInopia es el blog personal de Sandor Inopia",
-    "titulo": "Como agrandar partición raíz ext4 sin desmontar",
-    "link": "https://www.planetainopia.com/blog/20261118-como-agrandar-partition-raiz-ext4-sin-desmontar",
-    "fecha": "18/11/2026 09:17",
-    "contenido": "\n                                \nTengo un pequeño servidor corriendo Proxmox. En una de las máquinas virtuales ocurrió que, por la instalación de un nuevo programa, necesité ampliar la capacidad del disco duro de la partición raíz, formateada en ext4.\nTras apagar la máquina virtual, amplié la capac",
-    "imagen": "https://www.planetainopia.com/images/r/e/s/i/m/resimensionar-partition-ext4-en-caliente-6c9f923a.jpg"
-  },
-  {
-    "blog": "AsturGeek V3",
-    "titulo": "PopAmp, música con estilo (retro)",
-    "link": "https://asturgeek.eu/2026/11/18/popamp-musica-con-estilo-retro/",
-    "fecha": "18/11/2026 09:14",
-    "contenido": "Hay mil reproductores de música/audio para todos los sistemas operativos. Unos simples, otros con mil opciones, otros con un diseño espectacular&#8230;. pero si hay uno que nos marcó a los que vivimos el auge de los ordenadores e internet alrededor del año 2000, fué WinAmp. Sin embargo, sucesivas ve",
-    "imagen": null
-  },
-  {
-    "blog": "Picando Código",
-    "titulo": "Reorganizando mi música con playlists en Navidrome",
-    "link": "https://picandocodigo.net/2026/reorganizando-mi-musica-con-playlists-en-navidrome/",
-    "fecha": "18/11/2026 09:08",
-    "contenido": "Como he escrito por acá, vengo usando Navidrome como servidor de streaming para música y gestión de mi colección. Desde hace un tiempo tenía pendiente organizar un poco la colección y encontrar una solución para un caso de uso específico. 🎼 La mayoría de mi música -y la que más escucho- es Punk Rock",
-    "imagen": null
-  },
-  {
-    "blog": "ENTRE DRAGONES Y PINGÜINOS",
-    "titulo": "La movida del tractor Claudio",
-    "link": "https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/11/18/20261118-el-tractor-claudio/",
-    "fecha": "18/11/2026 09:00",
-    "contenido": "Si un generador de contenido sintético en software es como un tractor, claramente es uno de John Deree con un DRM infernal que no trabaja en tu favor",
-    "imagen": null
-  },
-  {
-    "blog": "_ voidNull",
-    "titulo": "Instalar Borg UI en Portainer",
-    "link": "https://voidnull.es/instalar-borg-ui-en-portainer/",
-    "fecha": "18/11/2026 08:10",
-    "contenido": "Borg UI es una interfaz web que nos permite gestionar nuestras copias de seguridad de BorgBackup de forma mucho más sencilla",
-    "imagen": "https://voidnull.es/content/images/2026/10/borgui-1.png"
   }
 ]
