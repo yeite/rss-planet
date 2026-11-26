@@ -1,5 +1,37 @@
 [
   {
+    "blog": "productor de sostenibilidad",
+    "titulo": "Noviembre de 2026 sin SDDR",
+    "link": "https://productordesostenibilidad.es/2026/11/noviembre-de-2026-sin-sddr/",
+    "fecha": "26/11/2026 06:05",
+    "contenido": "Con la legislación vigente a 26 de noviembre de 2026, en España debería funcionar un sistema de depósito, devolución y retorno de envases. Pero no es así. A día de hoy, a pesar de que se ha acreditado que el contenedor amarillo no sirve para cumplir los objetivos de recogida separada, seguimos sin p",
+    "imagen": null
+  },
+  {
+    "blog": "El Blog de Lázaro",
+    "titulo": "De Grav a KutBlog: Otra mudanza para el blog",
+    "link": "https://elblogdelazaro.org/blog/de-grav-a-kutblog-otra-mudanza-para-el-blog-de-lazaro",
+    "fecha": "26/11/2026 05:00",
+    "contenido": "Hace nada os contaba que me había pasado de Hugo a Grav. Pues ya estoy de mudanza otra vez. Os cuento por qué he elegido KutBlog y cómo lo he ido adaptando a mi manera de llevar El Blog de Lázaro.",
+    "imagen": "https://elblogdelazaro.org/media/2026/11/kutblog-01-5a820d.webp"
+  },
+  {
+    "blog": "Tecno y Soft - Tecno y Soft",
+    "titulo": "¿Problemas con la WiFi? Esta es la solución",
+    "link": "https://tecnoysoft.com/2026/11/25/problemas-con-la-wifi-esta-es-la-solucion/",
+    "fecha": "25/11/2026 22:45",
+    "contenido": "¿Problemas con la WiFi? Antes de comprar otro router, lee esto ¿Tienes problemas con la cobertura WiFi de casa? ¿Se corta la conexión, tienes zonas donde apenas llega la señal o te han recomendado comprar un router nuevo porque el de tu operadora es una auténtica basura? He investigado un poco sobre",
+    "imagen": null
+  },
+  {
+    "blog": "56K.ES",
+    "titulo": "Povray – Haciendo animaciones sencillas desde un editor de texto plano",
+    "link": "https://56k.es/fanta/povray-haciendo-animaciones-sencillas-desde-un-editor-de-texto-plano/",
+    "fecha": "25/11/2026 21:59",
+    "contenido": "No recordaba lo que mola povray. Desde que lo liberaron es una maravilla poder hacer animaciones simplemente escribiendo código y luego renderizando. Un editor de textos y ffmpeg para unir los frames que se generan en png. Aquí dejé info de como instalar povray y hacer algo inicial 56k.es/fanta/dar-",
+    "imagen": null
+  },
+  {
     "blog": "Esuntipazo - blog",
     "titulo": "¿Dónde están los poetas?",
     "link": "http://www.esuntipazo.com/post/donde-estan-los-poetas",
@@ -120,6 +152,14 @@
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlz2atQN9zlqvt7Cn27q5INM-LdWN3VhvP-cFASD98E5aF4-fhjNDSZhIgxRhv4t0APvMSDl186xJfFHtto86Qs-gkHqKweZIayLRNtmi6OqvnVzxl07CKZx_FWwM9ZDXVcq_-yR6re-Bnus5Zb12gpsdp9Geg28rXSvPf1I5SVd_dZLjY438M_IlaaY0/s72-c/Portada%20General%20650px.jpg"
   },
   {
+    "blog": "Eterno aprendiz",
+    "titulo": "Terapia en el Free Spirit Wellness Center junto a CA7RIEL y Paco Amoroso",
+    "link": "https://altgr.xyz/2026/11/25/terapia-en-el-free-spirit-wellness-center-junto-a-ca7riel-y-paco-amoroso/",
+    "fecha": "25/11/2026 05:40",
+    "contenido": "El Santander Arena se convirtió en una sede del Free Spirit Wellness Center para vivir una experiencia sanadora de cuerpo y alma junto a los argentinos CA7RIEL y Paco Amoroso con el acompañamiento de la voz y los pensamientos de Sting. Para mí, estos chicos son de lo mejor que hay en el género urban",
+    "imagen": null
+  },
+  {
     "blog": "Jorge Aguilera",
     "titulo": "DOP con Java 21-27 (3/6)",
     "link": "https://blog.jagedn.dev/blog/2026/java-dop-3.html",
@@ -196,7 +236,7 @@
     "titulo": "Lavado de cerebro",
     "link": "https://picandocodigo.net/2026/lavado-de-cerebro/",
     "fecha": "24/11/2026 13:55",
-    "contenido": "Posts relacionadosJugar Tetris altera tu cerebroCómics: Morgan's Organs - como \"Inside Out\" de Pixar&hellip;Peek - Graba tu pantalla y exporta a GIF animadoCafeína diariamente protege tu cerebroUn GIF animado con un bucle de 1000 años de duración - ASLAP",
+    "contenido": "Posts relacionadosCómics: Morgan's Organs - como \"Inside Out\" de Pixar&hellip;Un GIF animado con un bucle de 1000 años de duración - ASLAPJugar Tetris altera tu cerebroPeek - Graba tu pantalla y exporta a GIF animadoCafeína diariamente protege tu cerebro",
     "imagen": null
   },
   {
@@ -312,14 +352,6 @@
     "imagen": null
   },
   {
-    "blog": "56K.ES",
-    "titulo": "Lucasartsifier – Arreglando juegos de Sierra mientras llueve en la calle",
-    "link": "https://56k.es/fanta/lucasartsifier/",
-    "fecha": "23/11/2026 17:55",
-    "contenido": "Anthk me comentó por el fediverso lo siguiente: @fanta En el último Lucasartsifier han dado soporte completo a Gabriel Knight. Podrías ofrecer una versión modificada que ponga «finalizable». Como he andado como pollo sin cabeza estos días lo dejé en marcadores para entender que quería decir con esto",
-    "imagen": null
-  },
-  {
     "blog": "Picando Código",
     "titulo": "Junk Runner 64 - Nintendo 64",
     "link": "https://picandocodigo.net/2026/junk-runner-64-nintendo-64/",
@@ -402,10 +434,10 @@
   {
     "blog": "El Blog de Lázaro",
     "titulo": "Arrancar desde snapshots de Btrfs en Fedora con grub-btrfs",
-    "link": "https://elblogdelazaro.org/arrancar-snapshots-btrfs-fedora-grub-btrfs/",
-    "fecha": "23/11/2026 05:00",
-    "contenido": "\n                                Una de las caracter&iacute;sticas de Btrfs es la posibilidad de crear snapshots del sistema y recuperar archivos o configuraciones anteriores cuando algo falla.\nEn este art&iacute;culo voy a explicar c&oacute;mo utilizar grub-btrfs para acceder a los snapshots desde ",
-    "imagen": "https://elblogdelazaro.org/images/e/a/6/e/d/ea6ed5e2d4c518160071d320ce40e78baef40c9d-featured.webp"
+    "link": "https://elblogdelazaro.org/blog/arrancar-snapshots-btrfs-fedora-grub-btrfs",
+    "fecha": "23/11/2026 06:00",
+    "contenido": "Guía práctica para usar Snapper y grub-btrfs en Fedora y arrancar snapshots desde GRUB como método de recuperación del sistema.",
+    "imagen": "https://elblogdelazaro.org/media/2026/11/arrancar-snapshots-btrfs-fedora-grub-btrfs.webp"
   },
   {
     "blog": "JavierSam",
@@ -636,7 +668,7 @@
     "titulo": "Mi perra vida | Temporada 2026, episodio 47.",
     "link": "https://miperravida.anacronico.rocks/mi-perra-vida-temporada-2026-episodio-47/",
     "fecha": "20/11/2026 10:11",
-    "contenido": "Doctor Nómada (vigésimo tercera parte)\nLeer vigésimo segunda parte\nTodo indicaba que las cosas habían salido bien, a pesar de que tuvieran algunos problemas por desabasto de los medicamentos que se utilizan para reducir las defensas de Luzma y no rechace el injerto de médula ósea, era algo a lo que ",
+    "contenido": "Doctor Nómada (vigésimo tercera parte)\nLeer vigésimo segunda parte\nTodo indicaba que las cosas habían salido bien, a pesar de que tuvieron algunos problemas por desabasto de los medicamentos que se utilizan para reducir las defensas de Luzma y no rechace el injerto de médula ósea, era algo a lo que ",
     "imagen": "https://miperravida.anacronico.rocks/wp-content/uploads/2026/11/20261117_0014-633x1024.jpg"
   },
   {
@@ -766,37 +798,5 @@
     "fecha": "19/11/2026 08:00",
     "contenido": "Me pone triste decir esto, pero creo que el 25N se ha convertido en otro elemento más en la lista de tareas que representan hoy las efemérides en la escuela. Antes de nada, debo aclarar que no soy especialmente bueno en entender la legislación y que estas líneas se basan exclusivamente en mi visión ",
     "imagen": null
-  },
-  {
-    "blog": "pedrolr blog",
-    "titulo": "Software libre y código abierto solo en el programa electoral de Frente Amplio para las elecciones del 29N",
-    "link": "https://pedrolr.es/blog/software-libre-y-codigo-abierto-solo-en-el-programa-electoral-de-frente-amplio-para-las-elecciones-del-29n/",
-    "fecha": "19/11/2026 06:10",
-    "contenido": "Me metí a los programas electorales de VOX, PP, PSOE, PACMA, Frente Amplio y Podemos, y veo que solo en el de Frente Amplio se habla de software libre y de código abierto. Añado a continuación con detalles el programa de Frente Amplio y los extractos en que se habla de los temas. Quizá me [&#8230;]",
-    "imagen": null
-  },
-  {
-    "blog": "El Blog de Lázaro",
-    "titulo": "Probando KutBlog",
-    "link": "https://elblogdelazaro.org/notas/2026-11-19-probando-kutblog/",
-    "fecha": "19/11/2026 05:00",
-    "contenido": "\n                                Llevo unos días trasteando con KutBlog, un CMS ligero que estoy probando y con el que estoy disfrutando bastante.\nHace poco decidí abandonar Hugo y migrar el blog a Grav. Os contaba los motivos y cómo había sido el proceso en el artículo De Hugo a Grav: cambiando el ",
-    "imagen": "https://elblogdelazaro.org/images/9/d/7/6/1/9d7610a7a888274162fa86a20c717f0e51fef76e-kutblog-01.png"
-  },
-  {
-    "blog": "La cosa infinita (Daniel Omar Cignacco)",
-    "titulo": "Trillón uno",
-    "link": "https://danielomarcignacco.mataroa.blog/blog/trillon-uno/",
-    "fecha": "19/11/2026 00:00",
-    "contenido": "El último agujero negro se evaporó con un chispazo insignificante, consumiendo el último gramo de materia del cosmos. No quedaban estrellas, ni átomos, ni luz. Tampco tiempo, al menos no en el sentido estricto; solo la densa, absoluta y perfecta negrura de la nada.\nEn medio del vacío, sentado sobre ",
-    "imagen": "https://mataroa.blog/images/02558a2c.png"
-  },
-  {
-    "blog": "Rodriac Copen",
-    "titulo": "La Trastienda Autoral: \"Escribir acompañado por IA's\"",
-    "link": "https://rodriaccopen.blogspot.com/2026/11/la-trastienda-autoral-escribir.html",
-    "fecha": "18/11/2026 21:39",
-    "contenido": "&nbsp;🌞 La Trastienda Autoral🌺 Escribir acompañado por&nbsp; IA'spor Rodriac CopenEsta es una charla sobre imaginación, brainstorming, el desarrollo de ideas y algunos engranajes cerebrales que intervienen en ese proceso tan complicado que se llama CREATIVIDAD.Es por eso que te voy a contar un poco ",
-    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8i1R2TIAtX_OJ9uawFZS_3D76Nskh5b9pB1_RAXXhAO07-_VFZddbuedUhVoLZzSd5xDZ938nNqdcBWtaiU-2RH0LNj35HQO-56krueqxfI0mzWtX6o0PGHN_rBc7M3WwOkg87L4oasfUJU0IGfNeiiNovwlapRXu93gxxHoKdBBhs9q9HWjIqrRg9yM/s72-c/Blogger.jpg"
   }
 ]
